@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35df2648511a2bb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The CODE Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "The CODE Method.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "The CODE Method.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "The CODE Method.md"
           }
         }
       }
@@ -131,11 +144,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91a370e6704cf30c",
+  "active": "35df2648511a2bb4",
   "lastOpenFiles": [
+    "The CODE Method.md",
+    "README.md",
     "Heidi's 12 Favourite Problems.md",
     "Zettelkasten Method - Notes.md",
-    "README.md",
     "PARA classification system.md",
     "IMG_0803.png",
     "Personal Knowledge Repository.md"
