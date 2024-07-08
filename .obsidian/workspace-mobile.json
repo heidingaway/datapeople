@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -131,7 +131,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23e8db5b719d9d53",
+  "active": "91a370e6704cf30c",
   "lastOpenFiles": [
     "Personal Knowledge Repository.md"
   ]
