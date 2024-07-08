@@ -1,5 +1,6 @@
-PARA method 
-2. Projects
-3. Areas
-4. Resources
-5. Archive
+PARA classification system 
+1. Projects
+	- 
+1. Areas
+2. Resources
+3. Archive
