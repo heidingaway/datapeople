@@ -1,4 +1,4 @@
-PARA classification system 
+## PARA classification system 
 1. Projects
 	- Short term objectives, most actionable
 	- Multi step tasks
