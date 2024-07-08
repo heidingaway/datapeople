@@ -1,4 +1,4 @@
-#resources/PKR/evergreen 
+#resources/PKR #evergreen
 
 ## Reference 
 [Scot Novis - Setting up your second brain with obsidian](https://publish.obsidian.md/scottnovis/Published/Step+One+-+Setting+Up+Your+Second+Brain+With+Obsidian)
@@ -17,13 +17,6 @@
 3. Resources
 	- store information that you are curious about, but have no immediate actions associated with it
 	- Richard Feynman's 12 favourite problems - constantly present, but largely dormant questions that he returned to over and over again in his research
-	- How might we bridge the digital divide?
-	- How might we drive effective and lasting change to create a data-driven digital enabled government?
-	- How might we restore public trust in government?
-	- How might we drive effective and lasting change to build an inclusive future?
-	- How might we create space for the integration of knowledge in seemingly unconnected domain for truly interdisciplinary solutions?
-	- How might we encourage one another to be curious, critically thinking, engaged, and responsible citizens?
-	- How might we realize the promise of automation to create a society in which labour (vs work and vs action) is not the sole purpose and orientation of human life?
 4. Archive
 	- old projects, completed tasks, past interests
 	- No longer fit into an area of our life and no active project

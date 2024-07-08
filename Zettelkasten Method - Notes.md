@@ -1,4 +1,4 @@
-#resources/PKR/evergreen #resources/zettelkasten-method/evergreen
+#resources/PKR  #resources/zettelkasten-method #evergreen 
 
 ## Resource
 [Maggie Appleton - sketch notes on second brain](https://maggieappleton.com/basb)
