@@ -20,3 +20,6 @@ PARA classification system
 	- How might we encourage one another to be curious, critically thinking, engaged, and responsible citizens?
 	- How might we realize the promise of automation to create a society in which labour (vs work and vs action) is not the sole purpose and orientation of human life?
 4. Archive
+	- old projects, completed tasks, past interests
+	- No longer fit into an area of our life and no active project
+	- Keeping old information while removing from visual clutter
