@@ -11,8 +11,12 @@
             "id": "23e8db5b719d9d53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal Knowledge Repository.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Personal Knowledge Repository.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Personal Knowledge Repository.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Personal Knowledge Repository.md"
+          }
         }
       }
     ],
@@ -124,5 +132,7 @@
     }
   },
   "active": "23e8db5b719d9d53",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Personal Knowledge Repository.md"
+  ]
 }
