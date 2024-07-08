@@ -3,7 +3,7 @@
 ## Reference 
 [Scot Novis - Setting up your second brain with obsidian](https://publish.obsidian.md/scottnovis/Published/Step+One+-+Setting+Up+Your+Second+Brain+With+Obsidian)
 
-
+## Notes
 1. Projects
 	- Short term objectives, most actionable
 	- Multi step tasks
