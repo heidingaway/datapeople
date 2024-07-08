@@ -1,4 +1,4 @@
-#resources/PKR #evergreen
+#resources/PKR #evergreen #README 
 
 ## Reference 
 [Scot Novis - Setting up your second brain with obsidian](https://publish.obsidian.md/scottnovis/Published/Step+One+-+Setting+Up+Your+Second+Brain+With+Obsidian)
