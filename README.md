@@ -1,4 +1,4 @@
-#resources-PKR
+#resources/PKR/evergreen
 ## PARA classification system 
 1. Projects
 	- Short term objectives, most actionable
@@ -24,3 +24,6 @@
 	- old projects, completed tasks, past interests
 	- No longer fit into an area of our life and no active project
 	- Keeping old information while removing from visual clutter
+
+## Naming Convention
+Tags: 
