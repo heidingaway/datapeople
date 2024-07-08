@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Templates/Daily Note Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Untitled.md",
+            "file": "Templates/Daily Note Template.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Untitled.md",
+            "file": "Templates/Daily Note Template.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/Untitled.md"
+            "file": "Templates/Daily Note Template.md"
           }
         }
       }
@@ -134,7 +134,7 @@
   "active": "f54eaab9420df167",
   "lastOpenFiles": [
     "Templates",
-    "Templates/Untitled.md",
+    "Templates/Daily Note Template.md",
     "The CODE Method - Triage.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
