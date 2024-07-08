@@ -1,5 +1,9 @@
 #resources/PKR/evergreen 
 
+## Reference 
+[Scot Novis - Setting up your second brain with obsidian](https://publish.obsidian.md/scottnovis/Published/Step+One+-+Setting+Up+Your+Second+Brain+With+Obsidian)
+
+
 1. Projects
 	- Short term objectives, most actionable
 	- Multi step tasks
@@ -25,5 +29,3 @@
 	- No longer fit into an area of our life and no active project
 	- Keeping old information while removing from visual clutter
 
-## Reference
-[Scot Novis - Setting up your second brain with obsidian](https://publish.obsidian.md/scottnovis/Published/Step+One+-+Setting+Up+Your+Second+Brain+With+Obsidian)
