@@ -1,5 +1,5 @@
 # {{date:YYYY-MM-DD}}
-#unfiled/
+#unfiled/{{date:YYYY-MM-DD}}
 
 ## Tasks
 
