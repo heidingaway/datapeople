@@ -5,7 +5,7 @@
 
 ## Notes
 1. Projects
-	- Short term objectives, most actionable
+	- Short term objectives, most actionable, deadline or end point
 	- Multi step tasks
 	- 5-15 things you are actively working on
 	- Goal oriented (ie. buy a house, finish a sweater)
