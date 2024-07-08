@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-08.md",
+                "file": "The CODE Method - Triage.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-08.md",
+            "file": "The CODE Method - Triage.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-08.md",
+            "file": "The CODE Method - Triage.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-08.md"
+            "file": "The CODE Method - Triage.md"
           }
         }
       }
@@ -134,10 +134,11 @@
   "active": "4a33122058b378fa",
   "lastOpenFiles": [
     "Untitled.canvas",
+    "The CODE Method - Triage.md",
+    "Untitled 1.canvas",
     "2024-07-08.md",
     "1. README.md",
     "Zettelkasten Method - Notes.md",
-    "The CODE Method - Triage.md",
     "The CODE Method.md",
     "PARA classification system.md",
     "Heidi's 12 Favourite Problems.md",
