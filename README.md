@@ -18,5 +18,5 @@ PARA classification system
 	- How might we drive effective and lasting change to build an inclusive future?
 	- How might we create space for the integration of knowledge in seemingly unconnected domain for truly interdisciplinary solutions?
 	- How might we encourage one another to be curious, critically thinking, engaged, and responsible citizens?
-	- How might we realize the promise of automation to create a society in which work rather than labour is the centre of life?
-1. Archive
+	- How might we realize the promise of automation to create a society in which labour (vs work and vs action) is not the sole purpose and orientation of human life?
+4. Archive
