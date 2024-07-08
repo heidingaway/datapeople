@@ -25,8 +25,17 @@
 	- No longer fit into an area of our life and no active project
 	- Keeping old information while removing from visual clutter
 
-## Second Brain Note taking
-![[IMG_0803.png]]
+## Zettelkasten Method
+1. Literature Notes
+	- when reading there may be text we wish to highlight or jot down for future reference
+	- add context and and help remember the thought you had when reading or writing the info
+	- Why did I write this down in the first place
+	- Add context to include book title, author, chapter, page number
+2. Reference Notes
+	- organizing information 
+1. Permanent Notes
+2. Fleeting notes
+3. Hub notes
 ## Naming Convention
 Tags: PARA/subject/status
 
