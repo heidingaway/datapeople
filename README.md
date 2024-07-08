@@ -1,29 +1,5 @@
 #resources/PKR/evergreen
-## PARA classification system 
-1. Projects
-	- Short term objectives, most actionable
-	- Multi step tasks
-	- 5-15 things you are actively working on
-	- Goal oriented (ie. buy a house, finish a sweater)
-2. Areas
-	- very long lived, but actionable
-	- Standard oriented rather than goal oriented
-	- eg. managing finances, managing health, managing house
-	- the standard is having a safe comfortable home, this would have ongoing regularly repeating tasks associated with maintaining that standard
-3. Resources
-	- store information that you are curious about, but have no immediate actions associated with it
-	- Richard Feynman's 12 favourite problems - constantly present, but largely dormant questions that he returned to over and over again in his research
-	- How might we bridge the digital divide?
-	- How might we drive effective and lasting change to create a data-driven digital enabled government?
-	- How might we restore public trust in government?
-	- How might we drive effective and lasting change to build an inclusive future?
-	- How might we create space for the integration of knowledge in seemingly unconnected domain for truly interdisciplinary solutions?
-	- How might we encourage one another to be curious, critically thinking, engaged, and responsible citizens?
-	- How might we realize the promise of automation to create a society in which labour (vs work and vs action) is not the sole purpose and orientation of human life?
-4. Archive
-	- old projects, completed tasks, past interests
-	- No longer fit into an area of our life and no active project
-	- Keeping old information while removing from visual clutter
+[[PARA classification system]]
 
 ## Zettelkasten Method
 1. Literature Notes
@@ -31,11 +7,17 @@
 	- add context and and help remember the thought you had when reading or writing the info
 	- Why did I write this down in the first place
 	- Add context to include book title, author, chapter, page number
+	- Each note is a single idea, rather than collection of learnings from what you read
 2. Reference Notes
 	- organizing information 
-1. Permanent Notes
-2. Fleeting notes
-3. Hub notes
+	- Connectors - table of contents or legend to tell you where to find info, which notes connect with which
+	- May not be necessary in a digital format
+3. Permanent Notes
+	- notes you want to keep long term, make up of the notes you've grouped and connected together
+	- Summarization of your ideas
+4. Fleeting notes
+	- quick temporary notes captured in the moment, meant to capture thoughts so they can be received later
+5. Hub notes
 ## Naming Convention
 Tags: PARA/subject/status
 

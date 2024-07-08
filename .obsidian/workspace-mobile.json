@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6006a811664ddfd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA classification system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "PARA classification system.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "PARA classification system.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "PARA classification system.md"
           }
         }
       }
@@ -131,8 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23e8db5b719d9d53",
+  "active": "6006a811664ddfd7",
   "lastOpenFiles": [
+    "README.md",
+    "PARA classification system.md",
     "IMG_0803.png",
     "Personal Knowledge Repository.md"
   ]
