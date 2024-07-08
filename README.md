@@ -1,6 +1,8 @@
 #resources/PKR/evergreen
+
 1. [[PARA classification system]]
-2. [[Zettelkasten Method - Notes]]
+2. #resources/zettelkasten-method
+	- [[Zettelkasten Method - Notes]]
 
 ## Naming Convention
 Tags: PARA/subject/status

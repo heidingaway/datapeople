@@ -1,10 +1,8 @@
-#resources/PKR/evergreen #zettelkasten-method 
+#resources/PKR/evergreen #resources/zettelkasten-method/evergreen
 
 ## Resource
 [Maggie Appleton - sketch notes on second brain](https://maggieappleton.com/basb)
-[Zettelkasten method - GoodNotes](https://www.goodnotes.com/blog/zettelkasten-method)
-
-
+[Zettelkasten method - GoodNotes](https://www.goodnotes.com/blog/zettelkasten-method)'
 
 1. Literature Notes
 	- when reading there may be text we wish to highlight or jot down for future reference

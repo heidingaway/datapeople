@@ -57,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#resources/zettelkasten-method",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 1
   },
   "right": {
     "id": "7dd44d0c290c5e36",
