@@ -27,3 +27,5 @@
 
 ## Naming Convention
 Tags: 
+
+## Obsidian Tips
