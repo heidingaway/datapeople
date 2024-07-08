@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "e502bca473754980",
+    "id": "266ade11be7e46c2",
     "type": "split",
     "children": [
       {
-        "id": "a9c6854d127daa94",
+        "id": "6b61e0ff0aea70f5",
         "type": "tabs",
         "children": [
           {
-            "id": "c8c2e88afe9ee306",
+            "id": "d55b0db8578462e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "516ab22640b0e3d2",
+    "id": "ee7a89ee9e0201c0",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "dcbdcd39bbb9f32e",
+        "id": "3f8aa155f04b5d13",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,13 +39,13 @@
         }
       },
       {
-        "id": "216c074c1ce51d4c",
+        "id": "91a370e6704cf30c",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "",
-            "matchingCase": false,
+            "query": "tag:#README",
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "4dcbde9053e63390",
+        "id": "b58043281d8c24a0",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,29 +65,41 @@
         }
       },
       {
-        "id": "299338b27445a682",
+        "id": "59f003b7ffc03e43",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "62f3694589443c71",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "right": {
-    "id": "1ac83ec71a428382",
+    "id": "7dd44d0c290c5e36",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "509405fe96b7d0f2",
+        "id": "bf9b17c6557aac25",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
             "file": "2024-07-08.md",
-            "collapseAll": false,
-            "extraContext": false,
+            "collapseAll": true,
+            "extraContext": true,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
@@ -97,7 +109,7 @@
         }
       },
       {
-        "id": "dbb66f3fdc1b670f",
+        "id": "be68ca0d077b08a2",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -109,13 +121,21 @@
         }
       },
       {
-        "id": "b54944579a2f08ae",
+        "id": "890c280015947eda",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
             "file": "2024-07-08.md"
           }
+        }
+      },
+      {
+        "id": "32e77168de46dca4",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
@@ -131,17 +151,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8c2e88afe9ee306",
+  "active": "d55b0db8578462e1",
   "lastOpenFiles": [
-    "The CODE Method.md",
     "2024-07-08.md",
-    "The CODE Method - Triage.md",
+    "Untitled.canvas",
+    "Zettelkasten Method - Notes.md",
     "1. README.md",
     "PARA classification system.md",
-    "Designing Notes for Your Future Self.md",
-    "Templates/Daily note {{date}}.md",
-    "Templates",
+    "The CODE Method.md",
     "Heidi's 12 Favourite Problems.md",
-    "Zettelkasten Method - Notes.md"
+    "Templates/Daily note {{date}}.md",
+    "Untitled.md",
+    "{{date}}.md",
+    "Templates/Daily Note Template.md",
+    "Templates",
+    "The CODE Method - Triage.md",
+    "Untitled 1.canvas",
+    "Designing Notes for Your Future Self.md",
+    "IMG_0803.png",
+    "Personal Knowledge Repository.md"
   ]
 }
