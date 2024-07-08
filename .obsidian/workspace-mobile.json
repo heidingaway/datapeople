@@ -44,8 +44,8 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "[\"cssclasses\"]",
-            "matchingCase": false,
+            "query": "tag:#README",
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -85,7 +85,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -98,8 +98,8 @@
           "type": "backlink",
           "state": {
             "file": "2024-07-08.md",
-            "collapseAll": false,
-            "extraContext": false,
+            "collapseAll": true,
+            "extraContext": true,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
@@ -129,6 +129,14 @@
             "file": "2024-07-08.md"
           }
         }
+      },
+      {
+        "id": "32e77168de46dca4",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -145,20 +153,20 @@
   },
   "active": "d55b0db8578462e1",
   "lastOpenFiles": [
-    "Templates/Daily note {{date}}.md",
-    "1. README.md",
     "2024-07-08.md",
+    "Untitled.canvas",
+    "Zettelkasten Method - Notes.md",
+    "1. README.md",
+    "PARA classification system.md",
+    "The CODE Method.md",
+    "Heidi's 12 Favourite Problems.md",
+    "Templates/Daily note {{date}}.md",
     "Untitled.md",
     "{{date}}.md",
     "Templates/Daily Note Template.md",
     "Templates",
     "The CODE Method - Triage.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
-    "Zettelkasten Method - Notes.md",
-    "The CODE Method.md",
-    "PARA classification system.md",
-    "Heidi's 12 Favourite Problems.md",
     "Designing Notes for Your Future Self.md",
     "IMG_0803.png",
     "Personal Knowledge Repository.md"
