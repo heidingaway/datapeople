@@ -1,6 +1,7 @@
 #resources/PKR/evergreen 
 
 ## Resource
+[Maggie Appleton - sketch notes on second brain](https://maggieappleton.com/basb)
 
 
 1. Literature Notes
