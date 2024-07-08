@@ -25,6 +25,8 @@
 	- No longer fit into an area of our life and no active project
 	- Keeping old information while removing from visual clutter
 
+## Second Brain Note taking
+![[IMG_0803.png]]
 ## Naming Convention
 Tags: PARA/subject/status
 
