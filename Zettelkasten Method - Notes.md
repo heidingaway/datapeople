@@ -2,6 +2,8 @@
 
 ## Resource
 [Maggie Appleton - sketch notes on second brain](https://maggieappleton.com/basb)
+[Zettelkasten method - GoodNotes](https://www.goodnotes.com/blog/zettelkasten-method)
+
 
 
 1. Literature Notes
