@@ -1,5 +1,5 @@
 ---
-creation date: {{date}} 
+creation: {{date}} 
 modification date: 
 tags: 
 - dailynote 
