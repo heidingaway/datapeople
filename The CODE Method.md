@@ -7,7 +7,7 @@ tags:
   - README/process
 ---
 ## Reference
-[Buidling a Second Brain: The Definitive Introductory Guide](https://fortelabs.com/blog/basboverview/)
+[Building a Second Brain: The Definitive Introductory Guide](https://fortelabs.com/blog/basboverview/)
 
 ## Notes
 Capture
