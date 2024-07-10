@@ -1,7 +1,9 @@
 ---
 title: Permanent Notes
+aliases: 
 created: 2024-07-10
 modified: 2024-07-10
+status: evergreen
 tags:
   - README/definition
 ---

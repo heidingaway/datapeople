@@ -1,7 +1,9 @@
 ---
 title: Hub notes
+aliases: 
 created: 2024-07-10
 modified: 2024-07-10
+status: evergreen
 tags:
   - README/definition
 ---
@@ -13,4 +15,4 @@ tags:
 - Write down the list of topics in your Zettelkasten with a description and reference number to help you find and access information easier and quicker
 
 ## Reference
-[https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/](Beginner)
+[A Beginner's Guide to the Zettelkasten Method]([https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/](Beginner))

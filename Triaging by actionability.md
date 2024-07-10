@@ -1,9 +1,10 @@
 ---
-title: triage
+title: Triaging by actionability
+aliases: 
 created: 2024-07-08
 modified: 2024-07-10
+status: evergreen
 tags:
-  - evergreen
   - README/definition
 ---
 ## Definition

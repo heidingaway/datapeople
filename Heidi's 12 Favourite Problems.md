@@ -1,9 +1,10 @@
 ---
-title: Heidi's 12 Favourite Problems
+title: "Heidi's 12 Favourite Problems"
+aliases: 
 created: 2024-07-08
 modified: 2024-07-10
+status: evergreen
 tags:
-  - evergreen
   - RESOURCES
 ---
 

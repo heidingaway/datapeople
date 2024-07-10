@@ -1,13 +1,14 @@
 ---
-title: Zettelkasten Method - Notes
+title: Zettelkasten Method
+aliases: 
 created: 2024-07-08
 modified: 2024-07-10
+status: evergreen
 tags:
-  - evergreen
   - README/process
 ---
 ## Definition
-[[Literature Notes]]![[Literature Notes#Definition]]
+### [[Literature Notes]]![[Literature Notes#Definition]]
 [[Reference Notes]]![[Reference Notes#Definition]][[Permanent Notes]]![[Permanent Notes#Definition]][[Fleeting notes]]![[Fleeting notes#Definition]]
 [[Hub notes]]![[Hub notes]]
 
