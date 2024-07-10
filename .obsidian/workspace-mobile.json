@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-08.md",
+                "file": "Templates/Daily note {{date}}.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-08.md",
+            "file": "Templates/Daily note {{date}}.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-08.md",
+            "file": "Templates/Daily note {{date}}.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-08.md"
+            "file": "Templates/Daily note {{date}}.md"
           }
         }
       },
@@ -155,9 +155,9 @@
   "active": "9162f468ec1424b6",
   "lastOpenFiles": [
     "2024-07-10.md",
+    "2024-07-08.md",
     "Templates/Daily note {{date}}.md",
     "Templates/Basic template.md",
-    "2024-07-08.md",
     "The CODE Method.md",
     "2024-07-11.md",
     "2024-07-09.md",
