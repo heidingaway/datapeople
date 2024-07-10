@@ -1,6 +1,6 @@
 ---
 creation date: {{date}} 
-modification date: ("dddd Do MMMM YYYY HH:mm:ss"
+modification date: 
 tags: 
 - dailynote 
 - unfiled/{{date}} 
