@@ -1,3 +1,12 @@
+---
+tags:
+  - resources/PKR
+  - evergreen
+  - resources/notetaking
+  - README
+date created: Monday, July 8th 2024, 2:15:19 pm
+date modified: Wednesday, July 10th 2024, 2:25:46 pm
+---
 #resources/PKR #evergreen #resources/notetaking #README 
 
 ## Resource

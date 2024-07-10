@@ -35,7 +35,7 @@
       "text-to-insert": "aliases: \ntags: "
     },
     "move-tags-to-yaml": {
-      "enabled": false,
+      "enabled": true,
       "how-to-handle-existing-tags": "Nothing",
       "tags-to-ignore": ""
     },
@@ -263,13 +263,15 @@
       "enabled": false
     }
   },
-  "lintOnSave": false,
+  "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
   "lintOnFileChange": false,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
-  "foldersToIgnore": [],
+  "foldersToIgnore": [
+    "Templates"
+  ],
   "filesToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",

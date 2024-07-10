@@ -1,4 +1,10 @@
-#resources/PKR #evergreen 
+---
+tags:
+  - resources/PKR
+  - evergreen
+date created: Monday, July 8th 2024, 2:26:47 pm
+date modified: Wednesday, July 10th 2024, 2:30:51 pm
+---
 
 1. How might we bridge the digital divide?
 2. How might we drive effective and lasting change to create a data-driven digital enabled government?

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily note {{date}}.md",
+                "file": "2024-07-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Daily note {{date}}.md",
+            "file": "2024-07-08.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Daily note {{date}}.md",
+            "file": "2024-07-08.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/Daily note {{date}}.md"
+            "file": "2024-07-08.md"
           }
         }
       },
@@ -154,13 +154,18 @@
   },
   "active": "9162f468ec1424b6",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Designing Notes for Your Future Self.md",
     "Templates/Daily note {{date}}.md",
-    "Templates/2024-07-10.md",
-    "Templates/Untitled.md",
+    "Zettelkasten Method - Notes.md",
+    "Heidi's 12 Favourite Problems.md",
+    "Test.md",
+    "Untitled 1.md",
+    "The CODE Method - Triage.md",
+    "The CODE Method.md",
     "2024-07-08.md",
     "Templates/Basic template.md",
-    "Untitled.md",
+    "Templates/2024-07-10.md",
+    "Templates/Untitled.md",
     "Untitled",
     "Template test.md",
     "UntitledTest.md",
@@ -169,17 +174,12 @@
     "PARA classification system.md",
     "Testtest.md",
     "<% tp.date.now(\"YYYY-MM-DD\", -1) %>.md",
-    "The CODE Method.md",
     "Untitled.canvas",
     "1. README.md",
-    "Zettelkasten Method - Notes.md",
-    "Heidi's 12 Favourite Problems.md",
     "{{date}}.md",
     "Templates/Daily Note Template.md",
     "Templates",
-    "The CODE Method - Triage.md",
     "Untitled 1.canvas",
-    "Designing Notes for Your Future Self.md",
     "IMG_0803.png",
     "Personal Knowledge Repository.md"
   ]

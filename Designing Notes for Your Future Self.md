@@ -1,5 +1,12 @@
-#resources/PKR #evergreen #resources/notetaking #README 
-
+---
+tags:
+  - resources/PKR
+  - evergreen
+  - resources/notetaking
+  - README
+date created: Monday, July 8th 2024, 2:55:07 pm
+date modified: Wednesday, July 10th 2024, 2:25:46 pm
+---
 ## Reference
 [Buidling a Second Brain: The Definitive Introductory Guide](https://fortelabs.com/blog/basboverview/)
 
