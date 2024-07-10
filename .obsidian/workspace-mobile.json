@@ -11,11 +11,28 @@
             "id": "a58a5a7ec1a0ebdf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily note {{date}}.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b0ea3771fb80b34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Untitled.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -109,6 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -119,7 +138,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Untitled.md"
+          }
         }
       },
       {
@@ -144,8 +165,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a58a5a7ec1a0ebdf",
+  "active": "8b0ea3771fb80b34",
   "lastOpenFiles": [
+    "Templates/Daily note {{date}}.md",
+    "Untitled.md",
+    "2024-07-10.md",
     "Templates/Basic template.md",
     "Template test.md",
     "UntitledTest.md",
@@ -154,14 +178,12 @@
     "PARA classification system.md",
     "Testtest.md",
     "<% tp.date.now(\"YYYY-MM-DD\", -1) %>.md",
-    "2024-07-10.md",
     "The CODE Method.md",
     "2024-07-08.md",
     "Untitled.canvas",
     "1. README.md",
     "Zettelkasten Method - Notes.md",
     "Heidi's 12 Favourite Problems.md",
-    "Templates/Daily note {{date}}.md",
     "{{date}}.md",
     "Templates/Daily Note Template.md",
     "Templates",
