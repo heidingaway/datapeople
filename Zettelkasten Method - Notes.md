@@ -1,11 +1,12 @@
 ---
-tags:
-  - resources/PKR
-  - evergreen
-  - resources/notetaking
-  - README
+title: Zettelkasten Method - Notes
 created: 2024-07-08
 modified: 2024-07-10
+tags:
+  - evergreen
+  - README
+  - RESOURCES/PKR
+  - RESOURCES/notetaking
 ---
 #resources/PKR #evergreen #resources/notetaking #README 
 

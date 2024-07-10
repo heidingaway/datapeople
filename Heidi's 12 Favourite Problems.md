@@ -1,10 +1,10 @@
 ---
-title: "Heidi's 12 Favourite Problems"
+title: Heidi's 12 Favourite Problems
 created: 2024-07-08
 modified: 2024-07-10
 tags:
-  - resources/PKR
   - evergreen
+  - RESOURCES
 ---
 
 1. How might we bridge the digital divide?

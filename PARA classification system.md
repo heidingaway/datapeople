@@ -1,12 +1,13 @@
 ---
-tags:
-  - resources/PKR
-  - evergreen
-  - README
+title: PARA classification system
 created: 2024-07-08
 modified: 2024-07-10
+tags:
+  - evergreen
+  - README
+  - RESOURCES/PKR
 ---
-#resources/PKR #evergreen #README 
+#RESOURCES/PKR #evergreen #README 
 
 ## Reference 
 [Scot Novis - Setting up your second brain with obsidian](https://publish.obsidian.md/scottnovis/Published/Step+One+-+Setting+Up+Your+Second+Brain+With+Obsidian)

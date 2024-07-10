@@ -22,5 +22,6 @@
     "editor:redo",
     "editor:configure-toolbar"
   ],
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "livePreview": false
 }
