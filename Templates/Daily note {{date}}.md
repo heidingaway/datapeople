@@ -1,10 +1,10 @@
 ---
-created: <% tp.date.now("DD-MM-YYYY") %>
+created: <% tp.date.now("YYYY-MM-DD") %>
 modified: 
 tags: 
 - dailynote 
-- unfiled/{{date}} 
-- {{date}} 
+- unfiled/<% tp.date.now("YYYY-MM-DD") %>
+- <% tp.date.now("YYYY-MM-DD") %>
 ---
 ## Notes created today
 ```dataview
@@ -14,7 +14,7 @@ WHERE created = date("{{date}}")
 ## Notes modified today
 ```dataview
 LIST
-WHERE modified = date({{date}})
+WHERE modified = date(<% tp.date.now("YYYY-MM-DD") %>)
 ```
 
 ## Ephemera
