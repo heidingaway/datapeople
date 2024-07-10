@@ -98,7 +98,7 @@
           "type": "backlink",
           "state": {
             "file": "1. README.md",
-            "collapseAll": true,
+            "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -152,7 +152,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b58043281d8c24a0",
+  "active": "bf9b17c6557aac25",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Zettelkasten Method - Notes.md",
