@@ -11,12 +11,8 @@
             "id": "059d43d58d3c2fa6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten Method - Notes.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -44,7 +40,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#evergreen",
+            "query": "",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +81,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 2
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -97,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Zettelkasten Method - Notes.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Zettelkasten Method - Notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,9 +119,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Zettelkasten Method - Notes.md"
-          }
+          "state": {}
         }
       },
       {
@@ -152,15 +144,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "91a370e6704cf30c",
+  "active": "059d43d58d3c2fa6",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Zettelkasten Method - Notes.md",
     "Heidi's 12 Favourite Problems.md",
     "Designing Notes for Your Future Self.md",
     "2024-07-10.md",
     "Templates/Daily note {{date}}.md",
     "2024-07-08.md",
     "Projects.md",
-    "Zettelkasten Method - Notes.md",
     "The CODE Method - Triage.md",
     "The CODE Method.md",
     "1. README.md",
@@ -179,9 +172,7 @@
     "Test.md",
     "Testtest.md",
     "<% tp.date.now(\"YYYY-MM-DD\", -1) %>.md",
-    "Untitled.canvas",
     "{{date}}.md",
-    "Templates/Daily Note Template.md",
     "Templates",
     "Untitled 1.canvas",
     "IMG_0803.png"
