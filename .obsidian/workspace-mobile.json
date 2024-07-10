@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-10.md",
+                "file": "Templates/Daily note {{date}}.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-10.md",
+            "file": "Templates/Daily note {{date}}.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-10.md",
+            "file": "Templates/Daily note {{date}}.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-10.md"
+            "file": "Templates/Daily note {{date}}.md"
           }
         }
       },
@@ -154,8 +154,8 @@
   },
   "active": "9162f468ec1424b6",
   "lastOpenFiles": [
-    "Templates/Daily note {{date}}.md",
     "2024-07-10.md",
+    "Templates/Daily note {{date}}.md",
     "2024-07-08.md",
     "Templates/2024-07-10.md",
     "Zettelkasten Method - Notes.md",

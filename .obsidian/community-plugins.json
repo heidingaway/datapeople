@@ -1,5 +1,6 @@
 [
   "dataview",
   "calendar",
-  "obsidian-linter"
+  "obsidian-linter",
+  "templater-obsidian"
 ]
