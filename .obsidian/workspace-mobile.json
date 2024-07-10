@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ae4a67f7c24502f0",
+        "id": "5fab27372923b3bf",
         "type": "tabs",
         "children": [
           {
-            "id": "a58a5a7ec1a0ebdf",
+            "id": "6dcb54f8a9a683f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily note {{date}}.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b0ea3771fb80b34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Templates/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#2024-07-08",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -110,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Templates/Untitled.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "Templates/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "Templates/Untitled.md"
           }
         }
       },
@@ -165,12 +152,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b0ea3771fb80b34",
+  "active": "6dcb54f8a9a683f9",
   "lastOpenFiles": [
     "Templates/Daily note {{date}}.md",
-    "Untitled.md",
-    "2024-07-10.md",
+    "Templates/Untitled.md",
+    "2024-07-08.md",
     "Templates/Basic template.md",
+    "Untitled.md",
+    "Untitled",
+    "2024-07-10.md",
     "Template test.md",
     "UntitledTest.md",
     "UntitledTe.md",
@@ -179,7 +169,6 @@
     "Testtest.md",
     "<% tp.date.now(\"YYYY-MM-DD\", -1) %>.md",
     "The CODE Method.md",
-    "2024-07-08.md",
     "Untitled.canvas",
     "1. README.md",
     "Zettelkasten Method - Notes.md",
