@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily note {{date}}.md",
+                "file": "2024-07-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Daily note {{date}}.md",
+            "file": "2024-07-08.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Daily note {{date}}.md",
+            "file": "2024-07-08.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/Daily note {{date}}.md"
+            "file": "2024-07-08.md"
           }
         }
       },
@@ -156,19 +156,21 @@
   "lastOpenFiles": [
     "2024-07-10.md",
     "Templates/Daily note {{date}}.md",
+    "Templates/Basic template.md",
+    "2024-07-08.md",
+    "The CODE Method.md",
+    "2024-07-11.md",
+    "2024-07-09.md",
     "Untitled.md",
     "Untitled 1.md",
-    "2024-07-08.md",
     "Templates/2024-07-10.md",
     "Zettelkasten Method - Notes.md",
     "The CODE Method - Triage.md",
     "Heidi's 12 Favourite Problems.md",
     "1. README.md",
-    "The CODE Method.md",
     "PARA classification system.md",
     "Designing Notes for Your Future Self.md",
     "Test.md",
-    "Templates/Basic template.md",
     "Templates/Untitled.md",
     "Untitled",
     "Template test.md",
@@ -182,7 +184,6 @@
     "Templates/Daily Note Template.md",
     "Templates",
     "Untitled 1.canvas",
-    "IMG_0803.png",
-    "Personal Knowledge Repository.md"
+    "IMG_0803.png"
   ]
 }
