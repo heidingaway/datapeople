@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic template.md",
+                "file": "Templates/Basic template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91c230b3ee520bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basic template.md",
+            "file": "Test.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Basic template.md",
+            "file": "Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Basic template.md"
+            "file": "Test.md"
           }
         }
       },
@@ -164,9 +176,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4eecdcdb6fabf5cf",
+  "active": "91c230b3ee520bc1",
   "lastOpenFiles": [
-    "Basic template.md",
+    "Test.md",
+    "Templates/Basic template.md",
     "2024-07-08.md",
     "2024-07-10.md",
     "Untitled.canvas",
