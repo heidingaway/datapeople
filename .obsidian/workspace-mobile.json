@@ -99,10 +99,10 @@
           "state": {
             "file": "1. README.md",
             "collapseAll": false,
-            "extraContext": true,
+            "extraContext": false,
             "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
+            "showSearch": true,
+            "searchQuery": "Cale da",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +131,7 @@
         }
       },
       {
-        "id": "32e77168de46dca4",
+        "id": "8eb4d4196d508652",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -152,7 +152,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bf9b17c6557aac25",
+  "active": "059d43d58d3c2fa6",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Zettelkasten Method - Notes.md",
