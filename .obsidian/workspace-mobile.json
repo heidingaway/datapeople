@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "567c9c4ac7e48857",
+        "id": "08bf6cb8b2e3cbfe",
         "type": "tabs",
         "children": [
           {
-            "id": "b3d5ff8d7747877b",
+            "id": "0dbdee11322adfb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic template.md",
+                "file": "PARA classification system.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basic template.md",
+            "file": "PARA classification system.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Basic template.md",
+            "file": "PARA classification system.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Basic template.md"
+            "file": "PARA classification system.md"
           }
         }
       },
@@ -152,17 +152,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3d5ff8d7747877b",
+  "active": "0dbdee11322adfb1",
   "lastOpenFiles": [
-    "Basic template.md",
-    "Templates/Basic template.md",
     "Test.md",
+    "PARA classification system.md",
+    "Templates/Basic template.md",
+    "Testtest.md",
     "<% tp.date.now(\"YYYY-MM-DD\", -1) %>.md",
     "2024-07-10.md",
     "The CODE Method.md",
-    "Testtest.md",
     "2024-07-08.md",
-    "PARA classification system.md",
     "Untitled.canvas",
     "1. README.md",
     "Zettelkasten Method - Notes.md",
