@@ -11,8 +11,12 @@
             "id": "059d43d58d3c2fa6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. README.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -40,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#evergreen",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -93,6 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "1. README.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "1. README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -119,7 +125,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "1. README.md"
+          }
         }
       },
       {
@@ -144,7 +152,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "059d43d58d3c2fa6",
+  "active": "b58043281d8c24a0",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Zettelkasten Method - Notes.md",
