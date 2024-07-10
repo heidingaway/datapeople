@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA classification system.md",
+                "file": "Templates/Basic template.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PARA classification system.md",
+            "file": "Templates/Basic template.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "PARA classification system.md",
+            "file": "Templates/Basic template.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "PARA classification system.md"
+            "file": "Templates/Basic template.md"
           }
         }
       },
@@ -154,8 +154,8 @@
   },
   "active": "0dbdee11322adfb1",
   "lastOpenFiles": [
-    "Test.md",
     "PARA classification system.md",
+    "Test.md",
     "Templates/Basic template.md",
     "Testtest.md",
     "<% tp.date.now(\"YYYY-MM-DD\", -1) %>.md",
