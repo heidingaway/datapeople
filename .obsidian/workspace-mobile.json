@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d55b0db8578462e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-07-08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51726f6e89e7b2c6",
             "type": "leaf",
             "state": {
@@ -97,7 +85,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -109,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-08.md",
+            "file": "2024-07-10.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-08.md",
+            "file": "2024-07-10.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-08.md"
+            "file": "2024-07-10.md"
           }
         }
       },
@@ -163,12 +151,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d55b0db8578462e1",
+  "active": "51726f6e89e7b2c6",
   "lastOpenFiles": [
-    "2024-07-10.md",
-    "1. README.md",
-    "2024-07-08.md",
     "Untitled.canvas",
+    "2024-07-10.md",
+    "2024-07-08.md",
+    "1. README.md",
     "Zettelkasten Method - Notes.md",
     "PARA classification system.md",
     "The CODE Method.md",
