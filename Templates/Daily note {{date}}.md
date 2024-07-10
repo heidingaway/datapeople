@@ -1,6 +1,6 @@
 ---
-created: {{date}}
-modified:
+created: <% tp.date.now("DD-MM-YYYY") %>
+modified: 
 tags: 
 - dailynote 
 - unfiled/{{date}} 
@@ -18,5 +18,3 @@ WHERE modified = date({{date}})
 ```
 
 ## Ephemera
-
-[[<% tp.date.now("DD-MM-YYYY", -1, tp.file.title, "DD-MM-YYYY") %>]] | [[<% tp.date.now("DD-MM-YYYY", 1, tp.file.title, "DD-MM-YYYY") %>]]
