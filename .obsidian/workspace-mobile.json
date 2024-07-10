@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Zettelkasten Method - Notes.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:RESOURCES/PKR",
+            "query": "tag:#evergreen",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 1
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -152,24 +152,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "059d43d58d3c2fa6",
+  "active": "91a370e6704cf30c",
   "lastOpenFiles": [
-    "The CODE Method - Triage.md",
-    "The CODE Method.md",
-    "Projects.md",
-    "2024-07-08.md",
     "Heidi's 12 Favourite Problems.md",
     "Designing Notes for Your Future Self.md",
-    "1. README.md",
-    "PARA classification system.md",
     "2024-07-10.md",
     "Templates/Daily note {{date}}.md",
+    "2024-07-08.md",
+    "Projects.md",
+    "Zettelkasten Method - Notes.md",
+    "The CODE Method - Triage.md",
+    "The CODE Method.md",
+    "1. README.md",
+    "PARA classification system.md",
     "Templates/Basic template.md",
     "2024-07-09.md",
     "2024-07-11.md",
     "Untitled 1.md",
     "Templates/2024-07-10.md",
-    "Zettelkasten Method - Notes.md",
     "Test.md",
     "Templates/Untitled.md",
     "Untitled",

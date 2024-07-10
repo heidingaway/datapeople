@@ -9,7 +9,7 @@ tags:
   - RESOURCES/notetaking
 ---
 ## Reference
-[Buidling a Second Brain: The Definitive Introductory Guide](https://fortelabs.com/blog/basboverview/)
+[Building a Second Brain: The Definitive Introductory Guide](https://fortelabs.com/blog/basboverview/)
 
 ## Notes
 How do I make what I'm consuming now easily discoverable for my future self?
