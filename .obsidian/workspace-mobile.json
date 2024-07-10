@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5953c8965766af13",
+        "id": "2528c001e6a51f62",
         "type": "tabs",
         "children": [
           {
-            "id": "e180cef1ddfa7bd5",
+            "id": "47c14c6dc5f4b662",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hub notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -40,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "[status: evergreen]",
+            "query": "",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -67,21 +71,9 @@
           "type": "bookmarks",
           "state": {}
         }
-      },
-      {
-        "id": "62f3694589443c71",
-        "type": "leaf",
-        "state": {
-          "type": "all-properties",
-          "state": {
-            "sortOrder": "frequency",
-            "showSearch": false,
-            "searchQuery": ""
-          }
-        }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -93,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Hub notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Hub notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -119,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Hub notes.md"
+          }
         }
       },
       {
@@ -145,9 +141,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e180cef1ddfa7bd5",
+  "active": "47c14c6dc5f4b662",
   "lastOpenFiles": [
+    "2024-07-10.md",
+    "2024-07-08.md",
     "PARA classification system.md",
+    "Archive.md",
+    "Areas.md",
+    "Untitled.md",
     "1. README.md",
     "Zettelkasten Method.md",
     "Resources.md",
@@ -156,11 +157,7 @@
     "Literature Notes.md",
     "Hub notes.md",
     "Fleeting notes.md",
-    "Archive.md",
-    "2024-07-10.md",
-    "2024-07-08.md",
     "Designing Notes for Your Future Self.md",
-    "Areas.md",
     "Projects.md",
     "Heidi's 12 Favourite Problems.md",
     "The CODE Method.md",
@@ -173,7 +170,6 @@
     "2024-07-09.md",
     "2024-07-11.md",
     "Untitled 1.md",
-    "Templates/2024-07-10.md",
     "Untitled",
     "Templates",
     "Untitled 1.canvas",
