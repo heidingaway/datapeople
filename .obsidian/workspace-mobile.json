@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. README.md",
+                "file": "2024-07-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. README.md",
+            "file": "2024-07-08.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. README.md",
+            "file": "2024-07-08.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. README.md"
+            "file": "2024-07-08.md"
           }
         }
       },
@@ -164,13 +163,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51726f6e89e7b2c6",
+  "active": "d55b0db8578462e1",
   "lastOpenFiles": [
     "2024-07-10.md",
+    "1. README.md",
     "2024-07-08.md",
     "Untitled.canvas",
     "Zettelkasten Method - Notes.md",
-    "1. README.md",
     "PARA classification system.md",
     "The CODE Method.md",
     "Heidi's 12 Favourite Problems.md",
