@@ -19,4 +19,4 @@ WHERE modified = date({{date}})
 
 ## Ephemera
 
-<< [{{date}}] | [<{{date}}>] >>
+<< [{{date(today)}}] | [<{{date}}>] >>
