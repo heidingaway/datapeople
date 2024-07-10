@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-10.md",
+                "file": "2024-07-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-10.md",
+            "file": "2024-07-08.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-10.md",
+            "file": "2024-07-08.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-10.md"
+            "file": "2024-07-08.md"
           }
         }
       },
@@ -153,8 +153,8 @@
   },
   "active": "51726f6e89e7b2c6",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "2024-07-10.md",
+    "Untitled.canvas",
     "2024-07-08.md",
     "1. README.md",
     "Zettelkasten Method - Notes.md",
