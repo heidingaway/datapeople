@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-10.md",
+                "file": "Templates/Daily note {{date}}.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-10.md",
+            "file": "Templates/Daily note {{date}}.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-10.md",
+            "file": "Templates/Daily note {{date}}.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-10.md"
+            "file": "Templates/Daily note {{date}}.md"
           }
         }
       },
@@ -155,6 +155,7 @@
   },
   "active": "18135194757542e2",
   "lastOpenFiles": [
+    "2024-07-10.md",
     "1. README.md",
     "Zettelkasten Method - Notes.md",
     "The CODE Method - Triage.md",
@@ -168,7 +169,6 @@
     "Areas.md",
     "Archive.md",
     "Templates/Daily note {{date}}.md",
-    "2024-07-10.md",
     "2024-W28.md",
     "2024-07-08.md",
     "Untitled.canvas",
