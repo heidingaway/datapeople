@@ -4,7 +4,7 @@ created: 2024-07-08
 modified: 2024-07-10
 tags:
   - evergreen
-  - README
+  - README/process
 ---
 ## Reference
 [Buidling a Second Brain: The Definitive Introductory Guide](https://fortelabs.com/blog/basboverview/)

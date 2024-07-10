@@ -3,7 +3,7 @@ title: Projects
 created: 2024-07-10
 modified: 2024-07-10
 tags:
-  - README
+  - README/definition
   - PROJECTS
 ---
 ## Definition
