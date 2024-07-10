@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-10.md",
+                "file": "1. README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 1
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-10.md",
+            "file": "1. README.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-10.md",
+            "file": "1. README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-10.md"
+            "file": "1. README.md"
           }
         }
       },
