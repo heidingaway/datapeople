@@ -11,3 +11,7 @@ tags:
 2. Which area will this be useful for?
 3. Which resource does this belong to?
 	- if none, is it worth archiving? Is it worth saving at all?
+
+## Links
+[[The CODE Method]]
+[[PARA classification system]]

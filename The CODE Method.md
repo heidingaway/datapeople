@@ -6,10 +6,7 @@ tags:
   - evergreen
   - README/process
 ---
-## Reference
-[Building a Second Brain: The Definitive Introductory Guide](https://fortelabs.com/blog/basboverview/)
-
-## Notes
+## Process
 Capture
 - Save anything that resonates with you, don't overthink it, it will be refined over time
 Organize
@@ -23,3 +20,6 @@ Distill
 
 Express
 -  turn our knowledge into effective action
+
+## Reference
+[Building a Second Brain: The Definitive Introductory Guide](https://fortelabs.com/blog/basboverview/)
