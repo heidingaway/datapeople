@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten Method.md",
+                "file": "Hub notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Zettelkasten Method.md",
+            "file": "Hub notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Zettelkasten Method.md",
+            "file": "Hub notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Zettelkasten Method.md"
+            "file": "Hub notes.md"
           }
         }
       },
@@ -155,8 +155,8 @@
   },
   "active": "e180cef1ddfa7bd5",
   "lastOpenFiles": [
-    "Hub notes.md",
     "Zettelkasten Method.md",
+    "Hub notes.md",
     "Fleeting notes.md",
     "Permanent Notes.md",
     "Reference Notes.md",
