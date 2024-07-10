@@ -23,5 +23,6 @@
     "editor:configure-toolbar"
   ],
   "propertiesInDocument": "source",
-  "livePreview": true
+  "livePreview": true,
+  "alwaysUpdateLinks": true
 }

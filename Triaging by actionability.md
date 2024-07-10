@@ -1,10 +1,10 @@
 ---
-title: The CODE Method - Triage
+title: triage
 created: 2024-07-08
 modified: 2024-07-10
 tags:
   - evergreen
-  - README/process
+  - README/definition
 ---
 ## Definition
 1. What project would this be useful for?

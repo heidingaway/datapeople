@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. README.md",
+                "file": "The CODE Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. README.md",
+            "file": "The CODE Method.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. README.md",
+            "file": "The CODE Method.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. README.md"
+            "file": "The CODE Method.md"
           }
         }
       },
@@ -155,17 +155,17 @@
   },
   "active": "e180cef1ddfa7bd5",
   "lastOpenFiles": [
-    "Zettelkasten Method - Notes.md",
-    "1. README.md",
-    "The CODE Method - Triage.md",
     "PARA classification system.md",
+    "Areas.md",
+    "1. README.md",
+    "Triaging by actionability.md",
+    "Zettelkasten Method - Notes.md",
     "The CODE Method.md",
     "Templates/Template - definitions.md",
     "Designing Notes for Your Future Self.md",
     "Projects.md",
     "Resources.md",
     "Archive.md",
-    "Areas.md",
     "Templates/Daily note {{date}}.md",
     "2024-07-10.md",
     "Heidi's 12 Favourite Problems.md",

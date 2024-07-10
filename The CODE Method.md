@@ -14,7 +14,7 @@ Capture
 - Save anything that resonates with you, don't overthink it, it will be refined over time
 Organize
 - organize the information based on most actionable to least actionable using the [[PARA classification system]]
-- Follow [[The CODE Method - Triage]] process
+- Follow the [[Triaging by actionability]] process
 - create a temporary holding area where new items can accumulate to be sorted at a daily interval (or weekly)
 Distill
 - distill your notes into actionable bitesized summaries
