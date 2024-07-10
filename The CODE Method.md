@@ -5,8 +5,6 @@ modified: 2024-07-10
 tags:
   - evergreen
   - README
-  - RESOURCES/PKR
-  - RESOURCES/notetaking
 ---
 ## Reference
 [Buidling a Second Brain: The Definitive Introductory Guide](https://fortelabs.com/blog/basboverview/)

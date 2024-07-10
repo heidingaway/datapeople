@@ -3,12 +3,10 @@ title: The CODE Method - Triage
 created: 2024-07-08
 modified: 2024-07-10
 tags:
-  - RESOURCES/PKR
   - evergreen
   - README
-  - RESOURCES/notetaking
 ---
-
+## Definition
 1. What project would this be useful for?
 2. Which area will this be useful for?
 3. Which resource does this belong to?

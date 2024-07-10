@@ -6,7 +6,6 @@ tags:
   - README
   - PROJECTS
 ---
-
 ## Definition
 - Short term objectives, most actionable, deadline or end point
 - Multi step tasks

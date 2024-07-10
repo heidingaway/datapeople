@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7cd6195c377362b7",
+        "id": "340bd59f55143d60",
         "type": "tabs",
         "children": [
           {
-            "id": "059d43d58d3c2fa6",
+            "id": "18135194757542e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. README.md",
+                "file": "2024-07-10.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#evergreen",
+            "query": "",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -97,12 +97,12 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. README.md",
+            "file": "2024-07-10.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": true,
-            "searchQuery": "Cale da",
+            "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. README.md",
+            "file": "2024-07-10.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. README.md"
+            "file": "2024-07-10.md"
           }
         }
       },
@@ -139,7 +139,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,20 +153,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "059d43d58d3c2fa6",
+  "active": "18135194757542e2",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "1. README.md",
     "Zettelkasten Method - Notes.md",
-    "Heidi's 12 Favourite Problems.md",
-    "Designing Notes for Your Future Self.md",
-    "2024-07-10.md",
-    "Templates/Daily note {{date}}.md",
-    "2024-07-08.md",
-    "Projects.md",
     "The CODE Method - Triage.md",
     "The CODE Method.md",
-    "1. README.md",
     "PARA classification system.md",
+    "Heidi's 12 Favourite Problems.md",
+    "Resources.md",
+    "Templates/Template - definitions.md",
+    "Designing Notes for Your Future Self.md",
+    "Projects.md",
+    "Areas.md",
+    "Archive.md",
+    "Templates/Daily note {{date}}.md",
+    "2024-07-10.md",
+    "2024-W28.md",
+    "2024-07-08.md",
+    "Untitled.canvas",
     "Templates/Basic template.md",
     "2024-07-09.md",
     "2024-07-11.md",
@@ -177,10 +183,6 @@
     "Template test.md",
     "UntitledTest.md",
     "UntitledTe.md",
-    "Test.md",
-    "Testtest.md",
-    "<% tp.date.now(\"YYYY-MM-DD\", -1) %>.md",
-    "{{date}}.md",
     "Templates",
     "Untitled 1.canvas",
     "IMG_0803.png"

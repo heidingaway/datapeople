@@ -5,14 +5,8 @@ modified: 2024-07-10
 tags:
   - evergreen
   - README
-  - RESOURCES/PKR
-  - RESOURCES/notetaking
 ---
-#resources/PKR #evergreen #resources/notetaking #README 
-
-## Resource
-[Maggie Appleton - sketch notes on second brain](https://maggieappleton.com/basb)
-[Zettelkasten method - GoodNotes](https://www.goodnotes.com/blog/zettelkasten-method)'
+## Definition
 
 1. Literature Notes
 	- when reading there may be text we wish to highlight or jot down for future reference
@@ -30,3 +24,7 @@ tags:
 4. Fleeting notes
 	- quick temporary notes captured in the moment, meant to capture thoughts so they can be received later
 5. Hub notes
+
+## Resource
+[Maggie Appleton - sketch notes on second brain](https://maggieappleton.com/basb)
+[Zettelkasten method - GoodNotes](https://www.goodnotes.com/blog/zettelkasten-method)'
