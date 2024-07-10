@@ -1,4 +1,5 @@
 ---
+title: Designing Notes for Your Future Self
 tags:
   - resources/PKR
   - evergreen
