@@ -19,3 +19,6 @@ WHERE modified = date(<% tp.date.now("YYYY-MM-DD") %>)
 ```
 
 ## Ephemera
+
+
+[[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]]
