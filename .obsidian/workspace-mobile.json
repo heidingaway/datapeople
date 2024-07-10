@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hub notes.md",
+                "file": "PARA classification system.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#AREAS",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hub notes.md",
+            "file": "PARA classification system.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Hub notes.md",
+            "file": "PARA classification system.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Hub notes.md"
+            "file": "PARA classification system.md"
           }
         }
       },
@@ -143,11 +143,12 @@
   },
   "active": "47c14c6dc5f4b662",
   "lastOpenFiles": [
+    "Areas.md",
+    "Hub notes.md",
     "2024-07-10.md",
     "2024-07-08.md",
     "PARA classification system.md",
     "Archive.md",
-    "Areas.md",
     "Untitled.md",
     "1. README.md",
     "Zettelkasten Method.md",
@@ -155,7 +156,6 @@
     "Reference Notes.md",
     "Permanent Notes.md",
     "Literature Notes.md",
-    "Hub notes.md",
     "Fleeting notes.md",
     "Designing Notes for Your Future Self.md",
     "Projects.md",
