@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "08bf6cb8b2e3cbfe",
+        "id": "ae4a67f7c24502f0",
         "type": "tabs",
         "children": [
           {
-            "id": "0dbdee11322adfb1",
+            "id": "a58a5a7ec1a0ebdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Basic template.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Basic template.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Basic template.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,9 +119,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Templates/Basic template.md"
-          }
+          "state": {}
         }
       },
       {
@@ -152,10 +144,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0dbdee11322adfb1",
+  "active": "a58a5a7ec1a0ebdf",
   "lastOpenFiles": [
-    "Test.md",
     "Templates/Basic template.md",
+    "Template test.md",
+    "UntitledTest.md",
+    "UntitledTe.md",
+    "Test.md",
     "PARA classification system.md",
     "Testtest.md",
     "<% tp.date.now(\"YYYY-MM-DD\", -1) %>.md",
