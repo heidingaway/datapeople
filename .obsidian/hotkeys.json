@@ -1,10 +1,10 @@
 {
-  "insert-template": [
+  "templater-obsidian:create-new-note-from-template": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "-"
+      "key": "n"
     }
   ]
 }
