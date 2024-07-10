@@ -2,5 +2,6 @@
   "dataview",
   "calendar",
   "obsidian-linter",
-  "templater-obsidian"
+  "templater-obsidian",
+  "tag-wrangler"
 ]
