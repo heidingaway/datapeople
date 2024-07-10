@@ -1,17 +1,22 @@
 ---
-date created: {{date}}
-date modified: Wednesday, July 10th 2024, 2:19:21 pm
+created: {{date}}
+modified:
 tags: 
 - dailynote 
 - unfiled/{{date}} 
 - {{date}} 
-
 ---
-
-<< [{{date}}] | [<{{date}}>] >>
-
 ## Notes created today
-
+```dataview
+LIST
+WHERE created = date("{{date}}")
+```
 ## Notes modified today
+```dataview
+LIST
+WHERE modified = date({{date}})
+```
 
 ## Ephemera
+
+<< [{{date}}] | [<{{date}}>] >>

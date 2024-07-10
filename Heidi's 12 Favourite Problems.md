@@ -2,8 +2,8 @@
 tags:
   - resources/PKR
   - evergreen
-date created: Monday, July 8th 2024, 2:26:47 pm
-date modified: Wednesday, July 10th 2024, 2:30:51 pm
+created: 2024-07-08
+modified: 2024-07-10
 ---
 
 1. How might we bridge the digital divide?

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-08.md",
+                "file": "Templates/Daily note {{date}}.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-08.md",
+            "file": "Templates/Daily note {{date}}.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-08.md",
+            "file": "Templates/Daily note {{date}}.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-08.md"
+            "file": "Templates/Daily note {{date}}.md"
           }
         }
       },
@@ -154,28 +154,29 @@
   },
   "active": "9162f468ec1424b6",
   "lastOpenFiles": [
-    "Designing Notes for Your Future Self.md",
+    "2024-07-10.md",
     "Templates/Daily note {{date}}.md",
+    "2024-07-08.md",
+    "Templates/2024-07-10.md",
     "Zettelkasten Method - Notes.md",
+    "The CODE Method - Triage.md",
     "Heidi's 12 Favourite Problems.md",
+    "1. README.md",
+    "The CODE Method.md",
+    "PARA classification system.md",
+    "Designing Notes for Your Future Self.md",
     "Test.md",
     "Untitled 1.md",
-    "The CODE Method - Triage.md",
-    "The CODE Method.md",
-    "2024-07-08.md",
     "Templates/Basic template.md",
-    "Templates/2024-07-10.md",
     "Templates/Untitled.md",
     "Untitled",
     "Template test.md",
     "UntitledTest.md",
     "UntitledTe.md",
     "Test.md",
-    "PARA classification system.md",
     "Testtest.md",
     "<% tp.date.now(\"YYYY-MM-DD\", -1) %>.md",
     "Untitled.canvas",
-    "1. README.md",
     "{{date}}.md",
     "Templates/Daily Note Template.md",
     "Templates",
