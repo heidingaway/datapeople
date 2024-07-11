@@ -2,6 +2,8 @@
 title: <% tp.date.now("YYYY-MM-DD") %>
 created: <% tp.date.now("YYYY-MM-DD") %>
 modified: 
+status:
+zettel: fleeting
 tags: 
 - dailynote 
 - unfiled/<% tp.date.now("YYYY-MM-DD") %>

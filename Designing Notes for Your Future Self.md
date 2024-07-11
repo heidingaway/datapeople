@@ -4,11 +4,11 @@ aliases:
 created: 2024-07-08
 modified: 2024-07-10
 status: evergreen
-zettel: reference
+zettel: literature
 tags:
   - README/definition
 ---
-## Process
+## Notes
 How do I make what I'm consuming now easily discoverable for my future self?
 
 - defining key terms in case we forget what they mean

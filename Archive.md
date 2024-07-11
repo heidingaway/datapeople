@@ -4,7 +4,7 @@ aliases:
 created: 2024-07-10
 modified: 2024-07-10
 status: evergreen
-zettel: reference
+zettel: literature
 tags:
   - README/definition
 ---
@@ -12,3 +12,7 @@ tags:
 - old projects, completed tasks, past interests
 - No longer fit into an area of our life and no active project
 - Keeping old information while removing from visual clutter
+
+## Links
+[[1. README]]
+[[PARA classification system]]

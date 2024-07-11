@@ -4,7 +4,7 @@ aliases:
 created: 2024-07-10
 modified: 2024-07-10
 status: evergreen
-zettel: reference
+zettel: literature
 tags:
   - README/definition
   - AREAS

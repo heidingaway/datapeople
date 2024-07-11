@@ -2,7 +2,8 @@
 title: 
 created: 
 modified: 
-zettel: 
+status:  
+zettel: literature
 tags:
   - README
 ---

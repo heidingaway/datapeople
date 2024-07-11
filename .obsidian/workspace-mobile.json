@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten Method.md",
-                "mode": "preview",
-                "source": false
+                "file": "Heidi's 12 Favourite Problems.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#AREAS",
+            "query": "",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Zettelkasten Method.md",
+            "file": "Heidi's 12 Favourite Problems.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Zettelkasten Method.md",
+            "file": "Heidi's 12 Favourite Problems.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Zettelkasten Method.md"
+            "file": "Heidi's 12 Favourite Problems.md"
           }
         }
       },
@@ -127,8 +127,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,31 +142,31 @@
   },
   "active": "47c14c6dc5f4b662",
   "lastOpenFiles": [
-    "PARA classification system.md",
-    "Areas.md",
-    "Zettelkasten Method.md",
-    "Designing Notes for Your Future Self.md",
-    "2024-07-08.md",
     "1. README.md",
-    "Archive.md",
-    "Templates/Template - definitions.md",
-    "Projects.md",
+    "2024-07-08.md",
+    "PARA classification system.md",
+    "2024-07-10.md",
+    "Designing Notes for Your Future Self.md",
+    "Templates/notes - literature.md",
+    "Templates/notes.md",
+    "Templates/Daily note {{date}}.md",
+    "Zettelkasten Method.md",
     "Reference Notes.md",
-    "Fleeting notes.md",
+    "Projects.md",
+    "Areas.md",
+    "Archive.md",
+    "The CODE Method.md",
     "Hub notes.md",
+    "2024-07-09.md",
+    "Fleeting notes.md",
     "Permanent Notes.md",
     "Literature Notes.md",
-    "2024-07-10.md",
-    "Untitled.md",
     "Resources.md",
     "Heidi's 12 Favourite Problems.md",
-    "The CODE Method.md",
     "Triaging by actionability.md",
-    "Templates/Daily note {{date}}.md",
     "2024-W28.md",
     "Untitled.canvas",
     "Templates/Basic template.md",
-    "2024-07-09.md",
     "2024-07-11.md",
     "Untitled 1.md",
     "Untitled",
