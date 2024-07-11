@@ -33,6 +33,3 @@ list from [[]] and !outgoing([[]])
 list
 FROM #unfiled 
 ```
-```dataview
-TASKS FROM #dailynote 
-```
