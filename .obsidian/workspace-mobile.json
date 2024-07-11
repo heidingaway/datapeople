@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Template - weekly.md",
+                "file": "2024-W28.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Template - weekly.md",
+            "file": "2024-W28.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Template - weekly.md",
+            "file": "2024-W28.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -128,7 +128,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/Template - weekly.md"
+            "file": "2024-W28.md"
           }
         }
       },
@@ -152,15 +152,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "periodic-notes:Open this week": false
     }
   },
   "active": "1620f1e74e3370de",
   "lastOpenFiles": [
+    "Templates/Template - weekly.md",
+    "2024-W28.md",
     "README.md",
     "2024-07-08.md",
     "2024-07-10.md",
-    "Templates/Template - weekly.md",
     "Calendar.md",
     "Triaging by actionability.md",
     "Templates/notes - literature.md",
@@ -182,7 +184,6 @@
     "Hub notes.md",
     "2024-07-09.md",
     "Fleeting notes.md",
-    "Permanent Notes.md",
     "Untitled.canvas",
     "Untitled",
     "Templates",
