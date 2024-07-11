@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Templates/Template - weekly.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Templates/Template - weekly.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "Templates/Template - weekly.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "Templates/Template - weekly.md"
           }
         }
       },
@@ -156,8 +156,8 @@
   },
   "active": "2e1fec5d262b580a",
   "lastOpenFiles": [
-    "Templates/Template - weekly.md",
     "Untitled.md",
+    "Templates/Template - weekly.md",
     "Templates/Daily note {{date}}.md",
     "README.md",
     "Test.md",
