@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c27062c70f6d2bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template - weekly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Template - weekly.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Template - weekly.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Template - weekly.md"
           }
         }
       },
@@ -141,10 +154,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d3edbec151839151",
+  "active": "3c27062c70f6d2bb",
   "lastOpenFiles": [
-    "2024-07-10.md",
+    "Template - weekly.md",
     "README.md",
+    "2024-07-10.md",
     "Daily Note.md",
     "Templates/Daily note {{date}}.md",
     "Heidi's 12 Favourite Problems.md",
@@ -169,7 +183,6 @@
     "2024-W28.md",
     "Untitled.canvas",
     "Templates/Basic template.md",
-    "2024-07-11.md",
     "Untitled",
     "Templates",
     "Untitled 1.canvas",
