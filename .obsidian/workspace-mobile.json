@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Template - weekly.md",
+            "file": "Templates/Daily note {{date}}.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Template - weekly.md",
+            "file": "Templates/Daily note {{date}}.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/Template - weekly.md"
+            "file": "Templates/Daily note {{date}}.md"
           }
         }
       },
@@ -166,11 +166,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "377274d0476b8dbf",
+  "active": "64ff553cacb6b942",
   "lastOpenFiles": [
-    "2024-27.md",
-    "Templates/Template - weekly.md",
+    "Untitled 1.md",
     "Templates/Daily note {{date}}.md",
+    "Templates/Template - weekly.md",
+    "2024-27.md",
     "Untitled.md",
     "2024-07-10.md",
     "Test.md",
@@ -193,7 +194,6 @@
     "Fleeting notes.md",
     "Permanent Notes.md",
     "Literature Notes.md",
-    "Resources.md",
     "Untitled.canvas",
     "Untitled",
     "Templates",
