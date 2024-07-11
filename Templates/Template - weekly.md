@@ -27,3 +27,9 @@ tags:
 ```dataview
 list from [[]] and !outgoing([[]])
 ```
+
+## Unfiled Notes
+```dataview
+list
+FROM #unfiled 
+```

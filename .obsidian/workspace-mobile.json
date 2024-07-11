@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "377274d0476b8dbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Templates/Template - weekly.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "64ff553cacb6b942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily note {{date}}.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +73,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -166,21 +142,21 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "377274d0476b8dbf",
+  "active": "d3edbec151839151",
   "lastOpenFiles": [
-    "Templates/Daily note {{date}}.md",
-    "Untitled 1.md",
-    "Templates/Template - weekly.md",
-    "2024-27.md",
-    "Untitled.md",
-    "2024-07-10.md",
-    "Test.md",
     "2024-07-08.md",
+    "Templates/Daily note {{date}}.md",
+    "2024-07-10.md",
+    "Templates/notes.md",
+    "Templates/Template - weekly.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "2024-27.md",
+    "Test.md",
     "README.md",
     "Zettelkasten Method.md",
     "Daily Note.md",
     "Heidi's 12 Favourite Problems.md",
-    "Templates/notes.md",
     "Reference Notes.md",
     "Templates/notes - literature.md",
     "PARA classification system.md",
