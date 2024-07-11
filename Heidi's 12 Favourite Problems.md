@@ -4,7 +4,7 @@ aliases:
 created: 2024-07-08
 modified: 2024-07-10
 status: evergreen
-zettel: 
+zettel: permanent
 tags:
   - RESOURCES
 ---

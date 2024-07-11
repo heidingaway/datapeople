@@ -28,3 +28,8 @@ Tags: PARA/subject, unfiled/date
 ## Hotkey
 - command + 0 : numbered footnote
 - Command + = : named footnote
+## Daily Notes
+```dataview
+LIST
+FROM #dailynote
+```
