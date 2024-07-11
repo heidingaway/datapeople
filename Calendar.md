@@ -1,3 +1,4 @@
 ```dataview
-CALENDAR file.ctime
+CALENDAR file.ctime 
+FROM #dailynote 
 ```
