@@ -7,7 +7,7 @@ zettel: fleeting
 tags: 
 - dailynote 
 - unfiled/<% tp.date.now("YYYY-MM-DD") %>
-- <% tp.date.now("YYYY-WW") %>
+- <% tp.date.now("YYYY-W") %>
 ---
 ## Daily Note[^1]
 
