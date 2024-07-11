@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Daily note {{date}}.md",
+            "file": "Templates/Template - weekly.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Daily note {{date}}.md",
+            "file": "Templates/Template - weekly.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/Daily note {{date}}.md"
+            "file": "Templates/Template - weekly.md"
           }
         }
       },
@@ -166,10 +166,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "64ff553cacb6b942",
+  "active": "377274d0476b8dbf",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Templates/Daily note {{date}}.md",
+    "Untitled 1.md",
     "Templates/Template - weekly.md",
     "2024-27.md",
     "Untitled.md",

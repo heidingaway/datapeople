@@ -23,3 +23,7 @@ tags:
 [[<% tp.date.weekday("YYYY-MM-DD", 6) %>]]
 [[<% tp.date.weekday("YYYY-MM-DD", 7) %>]]
 
+## Unlinked Notes
+```dataview
+list from [[]] and !outgoing([[]])
+```
