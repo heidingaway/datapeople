@@ -7,9 +7,12 @@ status: evergreen
 zettel: literature
 tags:
   - README/definition
+  - dailynote
 ---
 ## Definition
  - Use daily notes to create journals, to-do lists, or daily logs for things you discovered during the day.
+ - Generated daily using template: [[Daily note {{date}}]] 
 ## Reference
-
+[Daily Notes](https://help.obsidian.md/Plugins/Daily+notes)
 ## Links
+[[README]]

@@ -23,3 +23,5 @@ WHERE modified = date(<% tp.date.now("YYYY-MM-DD") %>)
 
 
 [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>|<< previous day]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %> |next day >>]]
+## Link
+[[Daily Note]]
