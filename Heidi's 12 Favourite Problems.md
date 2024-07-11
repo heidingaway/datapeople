@@ -19,3 +19,4 @@ tags:
 7. How might we realize the promise of automation to create a society in which labour (vs work and vs action) is not the sole purpose and orientation of human life?
 
 ## Reference
+[12 Favorite Problems](https://www.nathancashion.com/blog/2022/9/12-favorite-problems)
