@@ -6,7 +6,7 @@ status:
 zettel: hub
 tags: 
 - dailynote 
-- <% tp.date.weekday("YYYY-WW", 0) %>
+- <% tp.date.weekday("YYYY-[W]WW", 0) %>
 ---
 
 ## Notes
