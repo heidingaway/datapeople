@@ -11,8 +11,12 @@
             "id": "72ea29b89c52e711",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-10.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 2,
+    "currentTab": 0,
     "pinned": true
   },
   "right": {
@@ -82,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2024-07-10.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "2024-07-10.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -108,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "2024-07-10.md"
+          }
         }
       },
       {
@@ -135,21 +143,22 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "91a370e6704cf30c",
+  "active": "72ea29b89c52e711",
   "lastOpenFiles": [
+    "2024-07-08.md",
+    "Untitled.canvas",
     "2024-07-10.md",
     "2024-W28.md",
-    "2024-07-08.md",
-    "README.md",
-    "Templates/Template - weekly.md",
+    "Daily Note.md",
+    "Templates/notes.md",
     "Templates/Daily note {{date}}.md",
+    "Templates/notes - literature.md",
+    "Templates/Template - weekly.md",
+    "README.md",
     "Archive.md",
     "Fleeting notes.md",
-    "Daily Note.md",
     "Calendar.md",
     "Triaging by actionability.md",
-    "Templates/notes - literature.md",
-    "Templates/notes.md",
     "Untitled 1.md",
     "2024-27.md",
     "Test.md",
@@ -162,8 +171,6 @@
     "Areas.md",
     "The CODE Method.md",
     "Hub notes.md",
-    "2024-07-09.md",
-    "Untitled.canvas",
     "Untitled",
     "Templates",
     "Untitled 1.canvas",
