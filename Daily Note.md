@@ -9,7 +9,7 @@ tags:
   - README/definition
 ---
 ## Definition
-
+ - Use daily notes to create journals, to-do lists, or daily logs for things you discovered during the day.
 ## Reference
 
 ## Links
