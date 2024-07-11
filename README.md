@@ -1,5 +1,5 @@
 ---
-title: 1. README
+title: README
 aliases: 
 created: 2024-07-08
 modified: 2024-07-10

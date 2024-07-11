@@ -14,5 +14,5 @@ tags:
 - Keeping old information while removing from visual clutter
 
 ## Links
-[[1. README]]
+[[README]]
 [[PARA classification system]]

@@ -16,5 +16,5 @@ tags:
 - Goal oriented (ie. buy a house, finish a sweater)
 
 ## Links
-[[1. README]]
+[[README]]
 [[PARA classification system]]
