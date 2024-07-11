@@ -1,3 +1,3 @@
 ```dataview
-CALENDAR created WHERE 
+CALENDAR created
 ```
