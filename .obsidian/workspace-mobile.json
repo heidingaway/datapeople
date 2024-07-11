@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64ff553cacb6b942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily note {{date}}.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -156,13 +168,13 @@
   },
   "active": "377274d0476b8dbf",
   "lastOpenFiles": [
+    "2024-27.md",
+    "Templates/Template - weekly.md",
+    "Templates/Daily note {{date}}.md",
     "Untitled.md",
     "2024-07-10.md",
-    "Templates/Template - weekly.md",
     "Test.md",
     "2024-07-08.md",
-    "Templates/Daily note {{date}}.md",
-    "Untitled 1.md",
     "README.md",
     "Zettelkasten Method.md",
     "Daily Note.md",
