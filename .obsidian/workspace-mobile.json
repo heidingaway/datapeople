@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily note {{date}}.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e1fec5d262b580a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Templates/Template - weekly.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,11 +141,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "2e1fec5d262b580a",
+  "active": "d3edbec151839151",
   "lastOpenFiles": [
+    "Zettelkasten Method.md",
+    "Untitled 1.md",
+    "Templates/Daily note {{date}}.md",
     "Untitled.md",
     "Templates/Template - weekly.md",
-    "Templates/Daily note {{date}}.md",
     "README.md",
     "Test.md",
     "2024-07-10.md",
@@ -170,7 +159,6 @@
     "Templates/notes - literature.md",
     "PARA classification system.md",
     "Designing Notes for Your Future Self.md",
-    "Zettelkasten Method.md",
     "Projects.md",
     "Areas.md",
     "Archive.md",
@@ -181,7 +169,6 @@
     "Permanent Notes.md",
     "Literature Notes.md",
     "Resources.md",
-    "Triaging by actionability.md",
     "Untitled.canvas",
     "Untitled",
     "Templates",

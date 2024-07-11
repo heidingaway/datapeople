@@ -1,5 +1,5 @@
 ---
-week: <% tp.date.weekday("YYYY-MM-DD", 0) %>
+week: <% tp.date.weekday("YYYY-WW", 0) %>
 ---
 
 ## Notes
