@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2024-07-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "2024-07-08.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "2024-07-08.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -128,7 +128,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "2024-07-08.md"
           }
         }
       },
@@ -157,8 +157,8 @@
   },
   "active": "1620f1e74e3370de",
   "lastOpenFiles": [
-    "2024-07-10.md",
     "README.md",
+    "2024-07-10.md",
     "Templates/Template - weekly.md",
     "Calendar.md",
     "2024-07-08.md",
