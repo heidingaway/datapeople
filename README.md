@@ -32,5 +32,5 @@ Tags: PARA/subject, unfiled/date
 ```dataview
 LIST
 FROM #dailynote
-WHERE created >= date(today) - dur(1 week)
+WHERE created >= date(today)
 ```
