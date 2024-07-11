@@ -1,5 +1,5 @@
 ---
-week: <% tp.date.weekday("YYYY-MM-DD", 0) %>
+week: 2024-07-07
 ---
 
 ## Notes
