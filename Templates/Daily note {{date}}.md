@@ -5,13 +5,14 @@ modified:
 status:
 zettel: fleeting
 tags: 
-- dailynote 
+- dailynote/<% tp.date.weekday("YYYY-WW", 0) %> 
 - unfiled/<% tp.date.now("YYYY-MM-DD") %>
-- <% tp.date.weekday("YYYY-WW", 0) %>
 ---
+
+[[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>|<< previous day]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %> |next day >>]]
+
 ## Daily Note[^1]
 
-### Ephemera
 ## Notes created today
 ```dataview
 LIST
@@ -23,8 +24,6 @@ LIST
 WHERE modified = date(<% tp.date.now("YYYY-MM-DD") %>)
 ```
 
-
-[[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>|<< previous day]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %> |next day >>]]
 # Footnotes
 
 [^1]: [[Daily Note]]

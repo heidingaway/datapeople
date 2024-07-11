@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2528c001e6a51f62",
+        "id": "e8f0e41cb7c72f32",
         "type": "tabs",
         "children": [
           {
-            "id": "d3edbec151839151",
+            "id": "72ea29b89c52e711",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Template - weekly.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1620f1e74e3370de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-W28.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +69,7 @@
         }
       }
     ],
-    "currentTab": 0,
+    "currentTab": 2,
     "pinned": true
   },
   "right": {
@@ -99,7 +82,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-W28.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -116,7 +98,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-W28.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,9 +108,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "2024-W28.md"
-          }
+          "state": {}
         }
       },
       {
@@ -145,35 +124,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "periodic-notes:Open this week": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "publish:Publish changes...": false,
-      "periodic-notes:Open this week": false
+      "publish:Publish changes...": false
     }
   },
-  "active": "1620f1e74e3370de",
+  "active": "91a370e6704cf30c",
   "lastOpenFiles": [
-    "Templates/Template - weekly.md",
-    "2024-W28.md",
-    "README.md",
-    "2024-07-08.md",
     "2024-07-10.md",
+    "2024-W28.md",
+    "2024-07-08.md",
+    "README.md",
+    "Templates/Template - weekly.md",
+    "Templates/Daily note {{date}}.md",
+    "Archive.md",
+    "Fleeting notes.md",
+    "Daily Note.md",
     "Calendar.md",
     "Triaging by actionability.md",
     "Templates/notes - literature.md",
-    "Archive.md",
-    "Templates/Daily note {{date}}.md",
     "Templates/notes.md",
     "Untitled 1.md",
     "2024-27.md",
     "Test.md",
     "Zettelkasten Method.md",
-    "Daily Note.md",
     "Heidi's 12 Favourite Problems.md",
     "Reference Notes.md",
     "PARA classification system.md",
@@ -183,7 +163,6 @@
     "The CODE Method.md",
     "Hub notes.md",
     "2024-07-09.md",
-    "Fleeting notes.md",
     "Untitled.canvas",
     "Untitled",
     "Templates",
