@@ -34,5 +34,5 @@ list
 FROM #unfiled 
 ```
 ```dataview
-TASKS 
+TASKS FROM #dailynote 
 ```
