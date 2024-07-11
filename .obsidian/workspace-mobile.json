@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-08.md",
+                "file": "2024-07-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-08.md",
+            "file": "2024-07-10.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-08.md",
+            "file": "2024-07-10.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,8 +114,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-08.md"
+            "file": "2024-07-10.md"
           }
+        }
+      },
+      {
+        "id": "c3acb01aae7443bd",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
@@ -133,8 +141,9 @@
   },
   "active": "c8c2e88afe9ee306",
   "lastOpenFiles": [
-    "The CODE Method.md",
     "2024-07-08.md",
+    "2024-07-10.md",
+    "The CODE Method.md",
     "The CODE Method - Triage.md",
     "1. README.md",
     "PARA classification system.md",
