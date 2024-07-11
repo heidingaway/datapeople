@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Daily note {{date}}.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template - weekly.md",
+                "file": "Templates/Template - weekly.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Template - weekly.md",
+            "file": "Templates/Template - weekly.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Template - weekly.md",
+            "file": "Templates/Template - weekly.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Template - weekly.md"
+            "file": "Templates/Template - weekly.md"
           }
         }
       },
@@ -156,11 +156,13 @@
   },
   "active": "3c27062c70f6d2bb",
   "lastOpenFiles": [
-    "Template - weekly.md",
+    "Templates/Daily note {{date}}.md",
+    "Templates/Template - weekly.md",
     "README.md",
+    "Untitled.md",
+    "Test.md",
     "2024-07-10.md",
     "Daily Note.md",
-    "Templates/Daily note {{date}}.md",
     "Heidi's 12 Favourite Problems.md",
     "Templates/notes.md",
     "2024-07-08.md",
@@ -180,9 +182,7 @@
     "Literature Notes.md",
     "Resources.md",
     "Triaging by actionability.md",
-    "2024-W28.md",
     "Untitled.canvas",
-    "Templates/Basic template.md",
     "Untitled",
     "Templates",
     "Untitled 1.canvas",
