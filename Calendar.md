@@ -1,3 +1,3 @@
 ```dataview
-CALENDAR file.cdate
+CALENDAR file.ctime
 ```
