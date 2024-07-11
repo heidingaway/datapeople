@@ -11,8 +11,12 @@
             "id": "47c14c6dc5f4b662",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-10.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2024-07-10.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "2024-07-10.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "2024-07-10.md"
+          }
         }
       },
       {
@@ -129,13 +137,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "47c14c6dc5f4b662",
   "lastOpenFiles": [
-    "2024-07-08.md",
     "README.md",
+    "2024-07-08.md",
     "Heidi's 12 Favourite Problems.md",
     "PARA classification system.md",
     "2024-07-10.md",
