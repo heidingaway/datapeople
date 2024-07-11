@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1620f1e74e3370de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Template - weekly.md",
+            "file": "Calendar.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Template - weekly.md",
+            "file": "Calendar.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +128,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/Template - weekly.md"
+            "file": "Calendar.md"
           }
         }
       },
@@ -142,14 +155,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d3edbec151839151",
+  "active": "1620f1e74e3370de",
   "lastOpenFiles": [
+    "Calendar.md",
+    "Templates/Template - weekly.md",
     "2024-07-08.md",
     "Templates/Daily note {{date}}.md",
     "2024-07-10.md",
     "Templates/notes.md",
-    "Templates/Template - weekly.md",
-    "Untitled.md",
     "Untitled 1.md",
     "2024-27.md",
     "Test.md",
