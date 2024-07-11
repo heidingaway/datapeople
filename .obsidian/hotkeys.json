@@ -6,5 +6,21 @@
       ],
       "key": "n"
     }
+  ],
+  "obsidian-footnotes:insert-autonumbered-footnote": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "0"
+    }
+  ],
+  "obsidian-footnotes:insert-named-footnote": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
   ]
 }

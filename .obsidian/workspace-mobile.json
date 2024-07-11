@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8f6f08093b62e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily note {{date}}.md",
+                "file": "Heidi's 12 Favourite Problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-10.md",
+            "file": "Heidi's 12 Favourite Problems.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-10.md",
+            "file": "Heidi's 12 Favourite Problems.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-10.md"
+            "file": "Heidi's 12 Favourite Problems.md"
           }
         }
       },
@@ -155,17 +143,17 @@
   },
   "active": "d3edbec151839151",
   "lastOpenFiles": [
-    "Templates/Daily note {{date}}.md",
+    "Templates/notes.md",
+    "Heidi's 12 Favourite Problems.md",
     "Daily Note.md",
+    "2024-07-08.md",
+    "Templates/Daily note {{date}}.md",
     "2024-07-10.md",
     "README.md",
     "Reference Notes.md",
     "Templates/notes - literature.md",
-    "2024-07-08.md",
-    "Heidi's 12 Favourite Problems.md",
     "PARA classification system.md",
     "Designing Notes for Your Future Self.md",
-    "Templates/notes.md",
     "Zettelkasten Method.md",
     "Projects.md",
     "Areas.md",
