@@ -31,7 +31,7 @@ Dataview structure: [Structure of a Query](https://blacksmithgu.github.io/obsidi
 - Command + = : named footnote
 ## Daily Notes
 ```dataview
-LIST
-FROM #dailynote
-WHERE created >= date(today)
+CALENDAR file.ctime 
+FROM #dailynote 
 ```
+
