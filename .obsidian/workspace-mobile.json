@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum 101 - Quantum Science Explained.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#unfiled/2024-07-10",
+            "query": "[zettel: refere",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 1
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Quantum 101 - Quantum Science Explained.md",
+            "file": "Physics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Quantum 101 - Quantum Science Explained.md",
+            "file": "Physics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Quantum 101 - Quantum Science Explained.md"
+            "file": "Physics.md"
           }
         }
       },
@@ -141,10 +141,15 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "72ea29b89c52e711",
+  "active": "91a370e6704cf30c",
   "lastOpenFiles": [
-    "Watch this Spacetime - June edition.md",
+    "Zettelkasten Method.md",
+    "Fleeting notes.md",
+    "Heidi's 12 Favourite Problems.md",
+    "Physics.md",
+    "Untitled.md",
     "Quantum 101 - Quantum Science Explained.md",
+    "Watch this Spacetime - June edition.md",
     "Templates/notes.md",
     "Watch This Spacetime - June Newsletter.md",
     "Untitled.canvas",
@@ -158,18 +163,13 @@
     "Templates/Template - weekly.md",
     "README.md",
     "Archive.md",
-    "Fleeting notes.md",
     "Calendar.md",
     "Triaging by actionability.md",
     "Untitled 1.md",
     "2024-27.md",
     "Test.md",
-    "Zettelkasten Method.md",
-    "Heidi's 12 Favourite Problems.md",
     "Reference Notes.md",
     "PARA classification system.md",
-    "Designing Notes for Your Future Self.md",
-    "Projects.md",
     "Untitled",
     "Templates",
     "Untitled 1.canvas",
