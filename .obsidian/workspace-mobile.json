@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#unfiled/2024-07-10",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -144,14 +144,14 @@
   },
   "active": "72ea29b89c52e711",
   "lastOpenFiles": [
-    "2024-07-10.md",
+    "2024-W28.md",
     "2024-07-11.md",
+    "Templates/Daily note {{date}}.md",
+    "2024-07-10.md",
     "2024-07-08.md",
     "Untitled.canvas",
-    "2024-W28.md",
     "Daily Note.md",
     "Templates/notes.md",
-    "Templates/Daily note {{date}}.md",
     "Templates/notes - literature.md",
     "Templates/Template - weekly.md",
     "README.md",

@@ -12,7 +12,10 @@ tags:
 [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>|<< previous day]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %> |next day >>]]
 
 ## Daily Note[^1]
-
+```tasks
+due today
+not done
+```
 ## Notes created today
 ```dataview
 LIST
