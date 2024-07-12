@@ -3,11 +3,10 @@ title: Watch this Spacetime - June edition
 aliases: 
 created: 2024-07-11
 modified: 2024-07-11
-status: 
-zettel: 
+status: evergreen
+zettel: reference
 tags:
   - RESOURCES/physics
-  - TBR
 ---
 ## Comments
 - [[Quantum 101 - Quantum Science Explained]]
