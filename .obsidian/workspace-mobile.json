@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-12.md",
+                "file": "2024-07-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-12.md",
+            "file": "2024-07-11.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-12.md",
+            "file": "2024-07-11.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-12.md"
+            "file": "2024-07-11.md"
           }
         }
       },
@@ -143,8 +143,9 @@
   },
   "active": "c8c2e88afe9ee306",
   "lastOpenFiles": [
-    "2024-W28.md",
+    "2024-07-10.md",
     "2024-07-12.md",
+    "2024-W28.md",
     "Katie Mack.md",
     "Physics.md",
     "Watch this Spacetime from AstroKatie - June edition.md",
@@ -159,7 +160,6 @@
     "2024-07-11.md",
     "Quantum 101 - Quantum Science Explained.md",
     "Fleeting notes.md",
-    "2024-07-10.md",
     "2024-07-08.md",
     "Reference Notes.md",
     "Resources.md",
