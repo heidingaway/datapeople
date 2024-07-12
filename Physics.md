@@ -14,5 +14,5 @@ tags:
 
 ## Links
 [[Quantum 101 - Quantum Science Explained]]
-[[Watch this Spacetime - June edition]]
+[[Watch this Spacetime from AstroKatie - June edition]]
 [[The Disordered Cosmos - Chanda Prescod-Weinstein]]

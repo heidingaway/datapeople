@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e8f0e41cb7c72f32",
+        "id": "691e6a3f340f7d77",
         "type": "tabs",
         "children": [
           {
-            "id": "72ea29b89c52e711",
+            "id": "67b6d06aac884bab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch this Spacetime - June edition.md",
+                "file": "cosmological constant.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Watch this Spacetime - June edition.md",
+            "file": "cosmological constant.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Watch this Spacetime - June edition.md",
+            "file": "cosmological constant.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Watch this Spacetime - June edition.md"
+            "file": "cosmological constant.md"
           }
         }
       },
@@ -141,15 +141,18 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "72ea29b89c52e711",
+  "active": "67b6d06aac884bab",
   "lastOpenFiles": [
+    "dark energy might not be as constant as we thought.md",
+    "cosmological constant.md",
+    "Watch this Spacetime from AstroKatie - June edition.md",
+    "Untitled.md",
+    "Cosmology 101 with Katie Mack.md",
     "Quantum 101 - Quantum Science Explained.md",
     "Physics.md",
     "Zettelkasten Method.md",
     "Fleeting notes.md",
     "Heidi's 12 Favourite Problems.md",
-    "Untitled.md",
-    "Watch this Spacetime - June edition.md",
     "Templates/notes.md",
     "Watch This Spacetime - June Newsletter.md",
     "Untitled.canvas",
@@ -167,9 +170,6 @@
     "Triaging by actionability.md",
     "Untitled 1.md",
     "2024-27.md",
-    "Test.md",
-    "Reference Notes.md",
-    "PARA classification system.md",
     "Untitled",
     "Templates",
     "Untitled 1.canvas",
