@@ -13,6 +13,7 @@ tags:
 ## Reference
 
 ## Links
-[[Quantum 101 - Quantum Science Explained]]
-[[Watch this Spacetime from AstroKatie - June edition]]
-[[The Disordered Cosmos - Chanda Prescod-Weinstein]]
+```dataview
+LIST 
+FROM #RESOURCES/physics
+```
