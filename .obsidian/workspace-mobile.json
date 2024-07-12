@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic dark energy.md",
+                "file": "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dynamic dark energy.md",
+            "file": "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dynamic dark energy.md",
+            "file": "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dynamic dark energy.md"
+            "file": "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md"
           }
         }
       },
@@ -143,8 +143,9 @@
   },
   "active": "67b6d06aac884bab",
   "lastOpenFiles": [
-    "cosmological constant.md",
     "Dynamic dark energy.md",
+    "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
+    "cosmological constant.md",
     "Watch this Spacetime from AstroKatie - June edition.md",
     "2024-07-10.md",
     "2024-07-11.md",
@@ -169,7 +170,6 @@
     "Calendar.md",
     "Triaging by actionability.md",
     "Untitled 1.md",
-    "2024-27.md",
     "Untitled",
     "Templates",
     "Untitled 1.canvas",
