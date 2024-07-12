@@ -1,5 +1,5 @@
 ---
-title: cosmological constant
+title: constant dark energy
 aliases: 
 created: 2024-07-11
 modified: 2024-07-11

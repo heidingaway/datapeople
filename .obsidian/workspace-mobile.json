@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f665be382eaec84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Watch this Spacetime from AstroKatie - June edition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
+            "file": "Watch this Spacetime from AstroKatie - June edition.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
+            "file": "Watch this Spacetime from AstroKatie - June edition.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md"
+            "file": "Watch this Spacetime from AstroKatie - June edition.md"
           }
         }
       },
@@ -141,16 +154,16 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "67b6d06aac884bab",
+  "active": "4f665be382eaec84",
   "lastOpenFiles": [
-    "Dynamic dark energy.md",
-    "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
-    "cosmological constant.md",
+    "Cosmology 101 with Katie Mack.md",
     "Watch this Spacetime from AstroKatie - June edition.md",
+    "Dynamic dark energy.md",
+    "constant dark energy.md",
+    "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
     "2024-07-10.md",
     "2024-07-11.md",
     "Untitled.md",
-    "Cosmology 101 with Katie Mack.md",
     "Quantum 101 - Quantum Science Explained.md",
     "Physics.md",
     "Zettelkasten Method.md",

@@ -9,9 +9,9 @@ tags:
   - RESOURCES/physics
 ---
 ## Comments
-- [[Dynamic dark energy]]
-- 
 
 ## Reference
 
 ## Links
+[[Katie Mack]]
+[[Watch this Spacetime from AstroKatie - June edition]]
