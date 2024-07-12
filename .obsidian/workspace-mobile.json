@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-10.md",
+                "file": "2024-07-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0,
+    "currentTab": 2,
     "pinned": true
   },
   "right": {
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-10.md",
+            "file": "2024-07-11.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-10.md",
+            "file": "2024-07-11.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-10.md"
+            "file": "2024-07-11.md"
           }
         }
       },
@@ -133,21 +133,21 @@
   "left-ribbon": {
     "hiddenItems": {
       "daily-notes:Open today's daily note": false,
-      "periodic-notes:Open this week": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "publish:Publish changes...": false
+      "periodic-notes:Open this week": false
     }
   },
   "active": "72ea29b89c52e711",
   "lastOpenFiles": [
+    "2024-07-10.md",
+    "2024-07-11.md",
     "2024-07-08.md",
     "Untitled.canvas",
-    "2024-07-10.md",
     "2024-W28.md",
     "Daily Note.md",
     "Templates/notes.md",
