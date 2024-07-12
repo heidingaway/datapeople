@@ -1,4 +1,9 @@
 [
   "dataview",
-  "calendar"
+  "obsidian-linter",
+  "templater-obsidian",
+  "calendar",
+  "obsidian-footnotes",
+  "obsidian-tasks-plugin",
+  "periodic-notes"
 ]

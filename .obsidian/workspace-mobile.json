@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-10.md",
+                "file": "2024-07-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-10.md",
+            "file": "2024-07-12.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-10.md",
+            "file": "2024-07-12.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-10.md"
+            "file": "2024-07-12.md"
           }
         }
       },
@@ -131,26 +131,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open this week": false
     }
   },
   "active": "c8c2e88afe9ee306",
   "lastOpenFiles": [
-    "2024-07-08.md",
+    "2024-W28.md",
+    "2024-07-12.md",
+    "Katie Mack.md",
+    "Physics.md",
+    "Watch this Spacetime from AstroKatie - June edition.md",
+    "Cosmology 101 with Katie Mack.md",
+    "constant dark energy.md",
+    "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
+    "Dynamic dark energy.md",
+    "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
+    "The End of Everything Astrophysically Speaking.md",
+    "Love and loss in the time of colliders.md",
+    "Cosmological Redshift.md",
+    "2024-07-11.md",
+    "Quantum 101 - Quantum Science Explained.md",
+    "Fleeting notes.md",
     "2024-07-10.md",
-    "The CODE Method.md",
-    "The CODE Method - Triage.md",
-    "1. README.md",
-    "PARA classification system.md",
-    "Designing Notes for Your Future Self.md",
-    "Templates/Daily note {{date}}.md",
-    "Templates",
-    "Heidi's 12 Favourite Problems.md",
-    "Zettelkasten Method - Notes.md"
+    "2024-07-08.md",
+    "Reference Notes.md",
+    "Resources.md",
+    "Zettelkasten Method.md",
+    "Templates/Template - weekly.md",
+    "Projects.md",
+    "Daily Note.md",
+    "Templates/notes - literature.md",
+    "Permanent Notes.md",
+    "Templates"
   ]
 }
