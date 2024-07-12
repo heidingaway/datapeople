@@ -73,8 +73,7 @@
         }
       }
     ],
-    "currentTab": 2,
-    "pinned": true
+    "currentTab": 2
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -142,7 +141,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "72ea29b89c52e711",
+  "active": "b58043281d8c24a0",
   "lastOpenFiles": [
     "2024-W28.md",
     "2024-07-11.md",
