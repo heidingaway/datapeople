@@ -1,12 +1,4 @@
 {
-  "templater-obsidian:create-new-note-from-template": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "n"
-    }
-  ],
   "obsidian-footnotes:insert-autonumbered-footnote": [
     {
       "modifiers": [
@@ -21,6 +13,14 @@
         "Mod"
       ],
       "key": "="
+    }
+  ],
+  "templater-obsidian:create-new-note-from-template": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "N"
     }
   ]
 }
