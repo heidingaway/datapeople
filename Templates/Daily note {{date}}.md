@@ -13,7 +13,7 @@ tags:
 
 ## Daily Note[^1]
 ```tasks
-due today
+due <% tp.date.now("YYYY-MM-DD") %>
 not done
 ```
 ## Notes created today
