@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Katie Mack.md",
+                "file": "The End of Everything Astrophysically Speaking.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Katie Mack.md",
+            "file": "The End of Everything Astrophysically Speaking.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Katie Mack.md",
+            "file": "The End of Everything Astrophysically Speaking.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Katie Mack.md"
+            "file": "The End of Everything Astrophysically Speaking.md"
           }
         }
       },
@@ -156,8 +156,9 @@
   },
   "active": "4f665be382eaec84",
   "lastOpenFiles": [
-    "Watch this Spacetime from AstroKatie - June edition.md",
     "Katie Mack.md",
+    "The End of Everything Astrophysically Speaking.md",
+    "Watch this Spacetime from AstroKatie - June edition.md",
     "Cosmology 101 with Katie Mack.md",
     "Dynamic dark energy.md",
     "constant dark energy.md",
@@ -182,7 +183,6 @@
     "README.md",
     "Archive.md",
     "Calendar.md",
-    "Triaging by actionability.md",
     "Untitled",
     "Templates",
     "Untitled 1.canvas",

@@ -1,15 +1,16 @@
 ---
-title: 
-created: 
-modified: 
-status:  
-zettel: 
+title: Katie Mack
+aliases: 
+created: 2024-07-11
+modified: 2024-07-11
+status: evergreen
+zettel: reference
 tags:
-  - unfiled/2024-07-11
+  - RESOURCES/physics
 ---
 ## Comments
 
 ## Reference
-
 ## Links
-[[“[The End of Everything (Astrophysically Speaking)](https://mackkatie.acemlna.com/lt.php?x=3TxtmrUFUqPUT55qA3P3W.ic1X-hvNb3kxhlkKI2IaOdDXB6yN1NVRGc2q2putRfx1.wY6HEJoGa957_za).”]]
+[[The End of Everything Astrophysically Speaking]]
+
