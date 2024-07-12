@@ -3,7 +3,7 @@ title: Physics
 aliases: 
 created: 2024-07-11
 modified: 2024-07-11
-status: evergreem
+status: evergreen
 zettel: reference
 tags:
   - RESOURCES/physics
@@ -15,4 +15,4 @@ tags:
 ## Links
 [[Quantum 101 - Quantum Science Explained]]
 [[Watch this Spacetime - June edition]]
-[[]]
+[[The Disordered Cosmos - Chanda Prescod-Weinstein]]

@@ -1,12 +1,13 @@
 ---
-title: 
-created: 
-modified: 
-status:  
-zettel: 
+title: Quantum 101 - Quantum Science Explained
+aliases: 
+created: 2024-07-11
+modified: 2024-07-11
+status: evergreen
+zettel: literature
 tags:
-  - unfiled/2024-07-11
   - RESOURCES/physics
+  - TBR
 ---
 ## Comments
 

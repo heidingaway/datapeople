@@ -6,8 +6,8 @@ modified: 2024-07-11
 status: 
 zettel: 
 tags:
-  - unfiled/2024-07-11
   - RESOURCES/physics
+  - TBR
 ---
 ## Comments
 - [[Quantum 101 - Quantum Science Explained]]

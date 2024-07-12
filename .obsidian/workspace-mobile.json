@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics.md",
+                "file": "Watch this Spacetime - June edition.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "[zettel: refere",
+            "query": "",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physics.md",
+            "file": "Watch this Spacetime - June edition.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Physics.md",
+            "file": "Watch this Spacetime - June edition.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physics.md"
+            "file": "Watch this Spacetime - June edition.md"
           }
         }
       },
@@ -141,14 +141,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "91a370e6704cf30c",
+  "active": "72ea29b89c52e711",
   "lastOpenFiles": [
+    "Quantum 101 - Quantum Science Explained.md",
+    "Physics.md",
     "Zettelkasten Method.md",
     "Fleeting notes.md",
     "Heidi's 12 Favourite Problems.md",
-    "Physics.md",
     "Untitled.md",
-    "Quantum 101 - Quantum Science Explained.md",
     "Watch this Spacetime - June edition.md",
     "Templates/notes.md",
     "Watch This Spacetime - June Newsletter.md",
