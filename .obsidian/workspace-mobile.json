@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#dailynote/2024-W28",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -143,8 +143,12 @@
   },
   "active": "c6fbe9e6699e686b",
   "lastOpenFiles": [
-    "2024-07-11.md",
     "2024-07-12.md",
+    "2024-07-08.md",
+    "README.md",
+    "Templates/Template - weekly.md",
+    "2024-W28.md",
+    "2024-07-11.md",
     "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
     "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
     "2024-07-10.md",
@@ -166,10 +170,6 @@
     "Templates/notes.md",
     "Watch This Spacetime - June Newsletter.md",
     "Untitled.canvas",
-    "2024-W28.md",
-    "2024-07-08.md",
-    "Daily Note.md",
-    "Templates/notes - literature.md",
     "Untitled",
     "Templates",
     "Untitled 1.canvas",

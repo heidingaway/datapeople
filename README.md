@@ -2,7 +2,7 @@
 title: README
 aliases: 
 created: 2024-07-08
-modified: 2024-07-10
+modified: 2024-07-12
 status: evergreen
 zettel: reference
 tags:
@@ -29,7 +29,10 @@ Dataview structure: [Structure of a Query](https://blacksmithgu.github.io/obsidi
 ## Hotkey
 - command + 0 : numbered footnote
 - Command + = : named footnote
-## Daily Notes
+- Create new document with template: control + N
+- Insert template: control + E
+- Toggle editing and reading view: cmd + E
+## Calendar
 ```dataview
 CALENDAR file.ctime 
 FROM #dailynote 
