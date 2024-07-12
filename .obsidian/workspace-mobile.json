@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch this Spacetime - June edition.md",
+                "file": "Quantum 101 - Quantum Science Explained.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Watch this Spacetime - June edition.md",
+            "file": "Quantum 101 - Quantum Science Explained.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Watch this Spacetime - June edition.md",
+            "file": "Quantum 101 - Quantum Science Explained.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Watch this Spacetime - June edition.md"
+            "file": "Quantum 101 - Quantum Science Explained.md"
           }
         }
       },
@@ -143,8 +143,9 @@
   },
   "active": "72ea29b89c52e711",
   "lastOpenFiles": [
-    "Templates/notes.md",
     "Watch this Spacetime - June edition.md",
+    "Quantum 101 - Quantum Science Explained.md",
+    "Templates/notes.md",
     "Watch This Spacetime - June Newsletter.md",
     "Untitled.canvas",
     "2024-07-11.md",
@@ -169,7 +170,6 @@
     "PARA classification system.md",
     "Designing Notes for Your Future Self.md",
     "Projects.md",
-    "Areas.md",
     "Untitled",
     "Templates",
     "Untitled 1.canvas",
