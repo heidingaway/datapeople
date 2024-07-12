@@ -9,7 +9,7 @@ tags:
   - RESOURCES/physics
 ---
 ## Comments
-- [[dark energy might not be as constant as we thought]]
+- [[Dynamic dark energy]]
 - 
 
 ## Reference

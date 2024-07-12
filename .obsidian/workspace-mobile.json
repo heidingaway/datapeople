@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cosmological constant.md",
+                "file": "Dynamic dark energy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "cosmological constant.md",
+            "file": "Dynamic dark energy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "cosmological constant.md",
+            "file": "Dynamic dark energy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "cosmological constant.md"
+            "file": "Dynamic dark energy.md"
           }
         }
       },
@@ -143,9 +143,11 @@
   },
   "active": "67b6d06aac884bab",
   "lastOpenFiles": [
-    "dark energy might not be as constant as we thought.md",
     "cosmological constant.md",
+    "Dynamic dark energy.md",
     "Watch this Spacetime from AstroKatie - June edition.md",
+    "2024-07-10.md",
+    "2024-07-11.md",
     "Untitled.md",
     "Cosmology 101 with Katie Mack.md",
     "Quantum 101 - Quantum Science Explained.md",
@@ -156,10 +158,8 @@
     "Templates/notes.md",
     "Watch This Spacetime - June Newsletter.md",
     "Untitled.canvas",
-    "2024-07-11.md",
     "2024-W28.md",
     "Templates/Daily note {{date}}.md",
-    "2024-07-10.md",
     "2024-07-08.md",
     "Daily Note.md",
     "Templates/notes - literature.md",

@@ -11,7 +11,7 @@ tags:
 ## Comments
 - [[Quantum 101 - Quantum Science Explained]]
 - [[Cosmology 101 with Katie Mack]]
-- [[dark energy might not be as constant as we thought]]
+- [[Dynamic dark energy]]
 - 
 
 ## Reference
