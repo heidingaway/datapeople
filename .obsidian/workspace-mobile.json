@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch this Spacetime from AstroKatie - June edition.md",
+                "file": "Love and loss in the time of colliders.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Watch this Spacetime from AstroKatie - June edition.md",
+            "file": "Love and loss in the time of colliders.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Watch this Spacetime from AstroKatie - June edition.md",
+            "file": "Love and loss in the time of colliders.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Watch this Spacetime from AstroKatie - June edition.md"
+            "file": "Love and loss in the time of colliders.md"
           }
         }
       },
@@ -156,9 +156,10 @@
   },
   "active": "4f665be382eaec84",
   "lastOpenFiles": [
+    "Watch this Spacetime from AstroKatie - June edition.md",
+    "Love and loss in the time of colliders.md",
     "Katie Mack.md",
     "The End of Everything Astrophysically Speaking.md",
-    "Watch this Spacetime from AstroKatie - June edition.md",
     "Cosmology 101 with Katie Mack.md",
     "Dynamic dark energy.md",
     "constant dark energy.md",
@@ -182,7 +183,6 @@
     "Templates/Template - weekly.md",
     "README.md",
     "Archive.md",
-    "Calendar.md",
     "Untitled",
     "Templates",
     "Untitled 1.canvas",
