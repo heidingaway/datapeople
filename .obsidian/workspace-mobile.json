@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "e502bca473754980",
+    "id": "266ade11be7e46c2",
     "type": "split",
     "children": [
       {
-        "id": "a9c6854d127daa94",
+        "id": "691e6a3f340f7d77",
         "type": "tabs",
         "children": [
           {
-            "id": "c8c2e88afe9ee306",
+            "id": "c6fbe9e6699e686b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "516ab22640b0e3d2",
+    "id": "ee7a89ee9e0201c0",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "dcbdcd39bbb9f32e",
+        "id": "3f8aa155f04b5d13",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,13 +39,13 @@
         }
       },
       {
-        "id": "216c074c1ce51d4c",
+        "id": "91a370e6704cf30c",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "",
-            "matchingCase": false,
+            "query": "tag:#dailynote/2024-W28",
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "4dcbde9053e63390",
+        "id": "b58043281d8c24a0",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +65,7 @@
         }
       },
       {
-        "id": "299338b27445a682",
+        "id": "59f003b7ffc03e43",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -73,14 +73,14 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "right": {
-    "id": "1ac83ec71a428382",
+    "id": "7dd44d0c290c5e36",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "509405fe96b7d0f2",
+        "id": "bf9b17c6557aac25",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -89,7 +89,7 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
-            "showSearch": false,
+            "showSearch": true,
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
@@ -97,7 +97,7 @@
         }
       },
       {
-        "id": "dbb66f3fdc1b670f",
+        "id": "be68ca0d077b08a2",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -109,7 +109,7 @@
         }
       },
       {
-        "id": "b54944579a2f08ae",
+        "id": "890c280015947eda",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -119,7 +119,7 @@
         }
       },
       {
-        "id": "c3acb01aae7443bd",
+        "id": "8eb4d4196d508652",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -131,44 +131,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
+      "daily-notes:Open today's daily note": false,
+      "periodic-notes:Open this week": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open this week": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c8c2e88afe9ee306",
+  "active": "c6fbe9e6699e686b",
   "lastOpenFiles": [
-    "2024-07-11.md",
-    "2024-07-10.md",
     "2024-07-12.md",
     "2024-W28.md",
-    "Katie Mack.md",
-    "Physics.md",
-    "Watch this Spacetime from AstroKatie - June edition.md",
-    "Cosmology 101 with Katie Mack.md",
-    "constant dark energy.md",
-    "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
-    "Dynamic dark energy.md",
-    "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
-    "The End of Everything Astrophysically Speaking.md",
-    "Love and loss in the time of colliders.md",
-    "Cosmological Redshift.md",
-    "Quantum 101 - Quantum Science Explained.md",
-    "Fleeting notes.md",
     "2024-07-08.md",
-    "Reference Notes.md",
-    "Resources.md",
-    "Zettelkasten Method.md",
+    "README.md",
     "Templates/Template - weekly.md",
-    "Projects.md",
-    "Daily Note.md",
-    "Templates/notes - literature.md",
-    "Permanent Notes.md",
-    "Templates"
+    "2024-07-11.md",
+    "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
+    "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
+    "2024-07-10.md",
+    "Templates/Daily note {{date}}.md",
+    "Watch this Spacetime from AstroKatie - June edition.md",
+    "Physics.md",
+    "Quantum 101 - Quantum Science Explained.md",
+    "Cosmological Redshift.md",
+    "Love and loss in the time of colliders.md",
+    "Katie Mack.md",
+    "The End of Everything Astrophysically Speaking.md",
+    "Cosmology 101 with Katie Mack.md",
+    "Dynamic dark energy.md",
+    "constant dark energy.md",
+    "Untitled.md",
+    "Zettelkasten Method.md",
+    "Fleeting notes.md",
+    "Heidi's 12 Favourite Problems.md",
+    "Templates/notes.md",
+    "Watch This Spacetime - June Newsletter.md",
+    "Untitled.canvas",
+    "Untitled",
+    "Templates",
+    "Untitled 1.canvas",
+    "IMG_0803.png"
   ]
 }
