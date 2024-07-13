@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-13.md",
+                "file": "2024-W28.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#README/RESOURCES",
+            "query": "",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-13.md",
+            "file": "2024-W28.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-13.md",
+            "file": "2024-W28.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-13.md"
+            "file": "2024-W28.md"
           }
         }
       },
@@ -143,23 +143,27 @@
   },
   "active": "d645b6b6a2ece600",
   "lastOpenFiles": [
-    "2024-07-12.md",
-    "2024-07-11.md",
-    "2024-07-13.md",
-    "2024-07-10.md",
     "Zettelkasten Method.md",
+    "Literature Notes.md",
+    "Heidi's 12 Favourite Problems.md",
     "Community.md",
     "README.md",
+    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
+    "2024-07-13.md",
+    "Templates/Daily note {{date}}.md",
+    "Festival Twist Plan.md",
+    "Projects.md",
+    "I'll Be Your Daisy.md",
+    "2024-07-12.md",
+    "2024-07-11.md",
+    "2024-07-10.md",
     "Artificial Intelligence - AI.md",
     "Space.md",
     "2024-W28.md",
     "Archive.md",
     "Dynamic dark energy.md",
     "Daily Note.md",
-    "Templates/Daily note {{date}}.md",
     "Templates/Project Note - Knitting Crochet.md",
-    "Projects.md",
-    "I'll Be Your Daisy.md",
     "Reference Photos/TS - flowers dress.jpeg",
     "Reference Photos/TS - lovers era big sleeves.jpeg",
     "Reference Photos/TS - TTPD concert dress.jpeg",
@@ -167,13 +171,9 @@
     "Reference Photos",
     "Templates/notes.md",
     "Astrobio Defense.md",
-    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
     "The viral frontier.md",
     "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
     "Love and loss in the time of colliders.md",
-    "Quantum 101 - Quantum Science Explained.md",
-    "The End of Everything Astrophysically Speaking.md",
-    "Watch this Spacetime from AstroKatie - June edition.md",
     "Untitled.canvas",
     "Templates",
     "Untitled 1.canvas",
