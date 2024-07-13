@@ -18,4 +18,4 @@ tags:
 
 [^1]: [Phil Gratton - LinkedIn](https://www.linkedin.com/posts/philgratton_ai-cyber-attacks-and-amateur-experiments-activity-7217631061835415552-mg-N?utm_source=share&utm_medium=member_ios)
 [^2]: [AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns](https://www.telegraph.co.uk/global-health/terror-and-security/ai-cyber-attacks-and-amateur-experiments-threaten-to-upend/)
-[^3]: 
+[^3]: (https://www.telegraph.co.uk/global-health/science-and-disease/nasa-told-act-now-to-tackle-biological-threats-from-space/)
