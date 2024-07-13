@@ -20,7 +20,7 @@ tags:
 ## Needles
 [[D/3.0mm - crochet hook]]
 ## Comments
-- 1.5” across per daisy 
+- 1.5” across per daisy 1.5*18 = 
 
 ## Links
 [[November 22 The Eras Tour in Toronto]]
