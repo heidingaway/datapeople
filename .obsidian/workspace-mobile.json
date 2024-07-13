@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d11bf13710ffd4af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -44,7 +56,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#RESOURCES/community",
+            "query": "tag:#RESOURCES/security",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -143,8 +155,12 @@
   },
   "active": "d645b6b6a2ece600",
   "lastOpenFiles": [
-    "2024-07-12.md",
+    "Artificial Intelligence.md",
     "Astrobio Defense.md",
+    "Templates/notes.md",
+    "Templates/Template - weekly.md",
+    "Templates/notes - definition.md",
+    "2024-07-12.md",
     "Physics.md",
     "Community Placemaking.md",
     "Community.md",
@@ -156,7 +172,6 @@
     "Untitled.md",
     "2024-W28.md",
     "2024-07-08.md",
-    "Templates/Template - weekly.md",
     "2024-07-11.md",
     "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
     "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
@@ -166,9 +181,6 @@
     "Cosmological Redshift.md",
     "Katie Mack.md",
     "The End of Everything Astrophysically Speaking.md",
-    "Cosmology 101 with Katie Mack.md",
-    "Dynamic dark energy.md",
-    "Zettelkasten Method.md",
     "Untitled.canvas",
     "Untitled",
     "Templates",

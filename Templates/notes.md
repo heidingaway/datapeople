@@ -9,6 +9,4 @@ tags:
 ---
 ## Comments
 
-## Reference
-
-## Links
+# Links

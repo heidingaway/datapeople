@@ -5,7 +5,7 @@ modified:
 status:  
 zettel: literature
 tags:
-  - README
+  - 
 ---
 ## Definition
 
