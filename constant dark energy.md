@@ -6,7 +6,7 @@ modified: 2024-07-11
 status: evergreen
 zettel: literature
 tags:
-  - RESOURCES/physics
+  - RESOURCES/space
 ---
 ## Comments
 - The universe is expanding and the expansion is speeding up.

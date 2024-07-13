@@ -6,7 +6,7 @@ modified: 2024-07-11
 status: evergreen
 zettel: literature
 tags:
-  - RESOURCES/physics
+  - RESOURCES/space
 ---
 ## Comments
 - data to date had been consistent on dark energy being a [[constant dark energy|cosmological constant]]

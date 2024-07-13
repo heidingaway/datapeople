@@ -6,7 +6,7 @@ modified: 2024-07-11
 status: evergreen
 zettel: reference
 tags:
-  - RESOURCES/physics
+  - RESOURCES/space
 ---
 ## Comments
 

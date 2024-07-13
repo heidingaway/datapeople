@@ -6,7 +6,7 @@ modified: 2024-07-11
 status: 
 zettel: 
 tags:
-  - RESOURCES/physics
+  - RESOURCES/space
   - TBR
 ---
 ## Comments

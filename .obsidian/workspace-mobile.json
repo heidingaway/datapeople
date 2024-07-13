@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Astrobio Defense.md",
+                "file": "2024-07-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#PROJECTS",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Astrobio Defense.md",
+            "file": "2024-07-13.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Astrobio Defense.md",
+            "file": "2024-07-13.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Astrobio Defense.md"
+            "file": "2024-07-13.md"
           }
         }
       },
@@ -143,34 +143,38 @@
   },
   "active": "d645b6b6a2ece600",
   "lastOpenFiles": [
+    "2024-07-12.md",
+    "2024-07-13.md",
+    "Templates/Project Note - Knitting Crochet.md",
+    "Projects.md",
+    "I'll Be Your Daisy.md",
+    "Reference Photos/TS - flowers dress.jpeg",
+    "Reference Photos/TS - lovers era big sleeves.jpeg",
+    "Reference Photos/TS - TTPD concert dress.jpeg",
+    "Reference Photos/TS - TTPD Grammys dress.jpeg",
+    "Reference Photos",
+    "Templates/notes.md",
+    "Zettelkasten Method.md",
+    "Astrobio Defense.md",
+    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
+    "The viral frontier.md",
+    "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
+    "Love and loss in the time of colliders.md",
+    "Quantum 101 - Quantum Science Explained.md",
+    "The End of Everything Astrophysically Speaking.md",
+    "Watch this Spacetime from AstroKatie - June edition.md",
+    "Dynamic dark energy.md",
+    "Space.md",
+    "Katie Mack.md",
+    "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
+    "Cosmology 101 with Katie Mack.md",
+    "Cosmological Redshift.md",
+    "constant dark energy.md",
     "Artificial Intelligence - AI.md",
     "Templates/notes - definition.md",
-    "Templates/notes.md",
-    "Astrobio Defense.md",
     "Templates/Template - weekly.md",
-    "2024-07-12.md",
-    "Physics.md",
     "Community Placemaking.md",
-    "Community.md",
-    "constant dark energy.md",
-    "Power of Placemaking.md",
-    "Watch this Spacetime from AstroKatie - June edition.md",
-    "Love and loss in the time of colliders.md",
-    "README.md",
-    "Untitled.md",
-    "2024-W28.md",
-    "2024-07-08.md",
-    "2024-07-11.md",
-    "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
-    "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
-    "2024-07-10.md",
-    "Templates/Daily note {{date}}.md",
-    "Quantum 101 - Quantum Science Explained.md",
-    "Cosmological Redshift.md",
-    "Katie Mack.md",
-    "The End of Everything Astrophysically Speaking.md",
     "Untitled.canvas",
-    "Untitled",
     "Templates",
     "Untitled 1.canvas",
     "IMG_0803.png"
