@@ -1,20 +1,19 @@
 {
   "main": {
-    "id": "e502bca473754980",
+    "id": "bfdb234f8a734145",
     "type": "split",
     "children": [
       {
-        "id": "a9c6854d127daa94",
+        "id": "0b42ba56d264347c",
         "type": "tabs",
         "children": [
           {
-            "id": "c8c2e88afe9ee306",
+            "id": "3317ae789bdfd716",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-W28.md",
-                "file": "I'll Be Your Daisy.md",
+                "file": "Festival Twist Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "516ab22640b0e3d2",
+    "id": "20948010da38a7ed",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "dcbdcd39bbb9f32e",
+        "id": "c9ae12dedd9108c8",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,13 +39,12 @@
         }
       },
       {
-        "id": "216c074c1ce51d4c",
+        "id": "d62606c835b72597",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
             "query": "",
-            "matchingCase": true,
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -56,7 +54,7 @@
         }
       },
       {
-        "id": "4dcbde9053e63390",
+        "id": "dfe5b2f8e7272fc1",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -67,7 +65,7 @@
         }
       },
       {
-        "id": "299338b27445a682",
+        "id": "1e2d32e6f2049fcf",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -78,17 +76,24 @@
     "currentTab": 0
   },
   "right": {
-    "id": "1ac83ec71a428382",
+    "id": "2ff742e27f99fa5e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "509405fe96b7d0f2",
+        "id": "50f10b79dceb6182",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "81b93cc3af1b7f8b",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-W28.md",
-            "file": "I'll Be Your Daisy.md",
+            "file": "Festival Twist Plan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,35 +105,25 @@
         }
       },
       {
-        "id": "dbb66f3fdc1b670f",
+        "id": "7f02f238a9aafc3d",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-W28.md",
-            "file": "I'll Be Your Daisy.md",
+            "file": "Festival Twist Plan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "b54944579a2f08ae",
+        "id": "e7edf542a56b2255",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-W28.md"
-            "file": "I'll Be Your Daisy.md"
+            "file": "Festival Twist Plan.md"
           }
-        }
-      },
-      {
-        "id": "c3acb01aae7443bd",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
         }
       }
     ],
@@ -146,67 +141,8 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c8c2e88afe9ee306",
+  "active": "3317ae789bdfd716",
   "lastOpenFiles": [
-    "Zettelkasten Method.md",
-    "Literature Notes.md",
-    "Heidi's 12 Favourite Problems.md",
-    "Community.md",
-    "README.md",
-    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
-    "2024-07-13.md",
-    "Templates/Daily note {{date}}.md",
-    "Festival Twist Plan.md",
-    "Projects.md",
-    "I'll Be Your Daisy.md",
-    "2024-07-12.md",
-    "2024-07-11.md",
-    "2024-07-10.md",
-    "Untitled.md",
-    "I'll Be Your Daisy.md",
-    "2024-07-12.md",
-    "2024-07-13.md",
-    "The viral frontier.md",
-    "Reference Photos",
-    "Community.md",
-    "Artificial Intelligence - AI.md",
-    "Templates/notes - definition.md",
-    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
-    "Space.md",
-    "2024-W28.md",
-    "Archive.md",
-    "Dynamic dark energy.md",
-    "Daily Note.md",
-    "Templates/Project Note - Knitting Crochet.md",
-    "Reference Photos/TS - flowers dress.jpeg",
-    "Reference Photos/TS - lovers era big sleeves.jpeg",
-    "Templates/Project Note - Knitting Crochet.md",
-    "Community Placemaking.md",
-    "Reference Photos/TS - TTPD concert dress.jpeg",
-    "Power of Placemaking.md",
-    "Reference Photos/TS - lovers era big sleeves.jpeg",
-    "Reference Photos/TS - TTPD Grammys dress.jpeg",
-    "Reference Photos/TS - flowers dress.jpeg",
-    "Astrobio Defense.md",
-    "The viral frontier.md",
-    "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
-    "Love and loss in the time of colliders.md",
-    "Untitled.canvas",
-    "Templates",
-    "Untitled 1.canvas",
-    "IMG_0803.png"
-    "2024-07-11.md",
-    "2024-07-10.md",
-    "2024-W28.md",
-    "Katie Mack.md",
-    "Physics.md",
-    "Watch this Spacetime from AstroKatie - June edition.md",
-    "Cosmology 101 with Katie Mack.md",
-    "constant dark energy.md",
-    "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
-    "Dynamic dark energy.md",
-    "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
-    "The End of Everything Astrophysically Speaking.md",
-    "Templates"
+    "2024-07-13.md"
   ]
 }
