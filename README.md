@@ -39,3 +39,8 @@ CALENDAR file.ctime
 FROM #dailynote 
 ```
 
+## Resource Hubs
+```dataview
+LIST
+FROM #README/RESOURCES
+```

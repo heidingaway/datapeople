@@ -4,9 +4,10 @@ aliases:
 created: 2024-07-12
 modified: 2024-07-12
 status: evergreen 
-zettel: reference
+zettel: hub
 tags:
   - RESOURCES/community
+  - README/RESOURCES
 ---
 # Community
 ## Comments

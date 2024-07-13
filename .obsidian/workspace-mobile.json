@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#PROJECTS",
+            "query": "tag:#README/RESOURCES",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -144,7 +144,19 @@
   "active": "d645b6b6a2ece600",
   "lastOpenFiles": [
     "2024-07-12.md",
+    "2024-07-11.md",
     "2024-07-13.md",
+    "2024-07-10.md",
+    "Zettelkasten Method.md",
+    "Community.md",
+    "README.md",
+    "Artificial Intelligence - AI.md",
+    "Space.md",
+    "2024-W28.md",
+    "Archive.md",
+    "Dynamic dark energy.md",
+    "Daily Note.md",
+    "Templates/Daily note {{date}}.md",
     "Templates/Project Note - Knitting Crochet.md",
     "Projects.md",
     "I'll Be Your Daisy.md",
@@ -154,7 +166,6 @@
     "Reference Photos/TS - TTPD Grammys dress.jpeg",
     "Reference Photos",
     "Templates/notes.md",
-    "Zettelkasten Method.md",
     "Astrobio Defense.md",
     "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
     "The viral frontier.md",
@@ -163,17 +174,6 @@
     "Quantum 101 - Quantum Science Explained.md",
     "The End of Everything Astrophysically Speaking.md",
     "Watch this Spacetime from AstroKatie - June edition.md",
-    "Dynamic dark energy.md",
-    "Space.md",
-    "Katie Mack.md",
-    "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
-    "Cosmology 101 with Katie Mack.md",
-    "Cosmological Redshift.md",
-    "constant dark energy.md",
-    "Artificial Intelligence - AI.md",
-    "Templates/notes - definition.md",
-    "Templates/Template - weekly.md",
-    "Community Placemaking.md",
     "Untitled.canvas",
     "Templates",
     "Untitled 1.canvas",

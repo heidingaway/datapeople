@@ -5,7 +5,7 @@ modified:
 status:
 zettel: fleeting
 tags: 
-- dailynote/<% tp.date.weekday("YYYY-WW", 0) %> 
+- dailynote/<% tp.date.weekday("YYYY-[W]ww", 0) %> 
 - unfiled/<% tp.date.now("YYYY-MM-DD") %>
 ---
 
