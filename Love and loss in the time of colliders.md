@@ -6,9 +6,10 @@ modified: 2024-07-12
 status: parking
 zettel: literature
 tags:
-  - RESOURCES/physics
+  - RESOURCES/space
   - TBR
 ---
+# Love and loss in the time of colliders
 ## Comments
 
 ## Reference

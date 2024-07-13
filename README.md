@@ -8,6 +8,7 @@ zettel: reference
 tags:
   - README
 ---
+# README
 ## Processes
 ```dataview
 LIST
@@ -38,3 +39,8 @@ CALENDAR file.ctime
 FROM #dailynote 
 ```
 
+## Resource Hubs
+```dataview
+LIST
+FROM #README/RESOURCES
+```

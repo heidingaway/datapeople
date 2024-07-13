@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-13.md",
+                "file": "2024-07-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-13.md",
+            "file": "2024-07-12.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-13.md",
+            "file": "2024-07-12.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-13.md"
+            "file": "2024-07-12.md"
           }
         }
       },
@@ -143,8 +143,24 @@
   },
   "active": "c8c2e88afe9ee306",
   "lastOpenFiles": [
-    "2024-07-12.md",
     "2024-07-13.md",
+    "The viral frontier.md",
+    "Reference Photos",
+    "Community.md",
+    "Artificial Intelligence - AI.md",
+    "Templates/notes - definition.md",
+    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
+    "Space.md",
+    "Templates/Project Note - Knitting Crochet.md",
+    "Community Placemaking.md",
+    "Reference Photos/TS - TTPD concert dress.jpeg",
+    "Power of Placemaking.md",
+    "Reference Photos/TS - lovers era big sleeves.jpeg",
+    "Reference Photos/TS - TTPD Grammys dress.jpeg",
+    "I'll Be Your Daisy.md",
+    "Reference Photos/TS - flowers dress.jpeg",
+    "Astrobio Defense.md",
+    "2024-07-12.md",
     "2024-07-11.md",
     "2024-07-10.md",
     "2024-W28.md",
@@ -158,17 +174,6 @@
     "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
     "The End of Everything Astrophysically Speaking.md",
     "Love and loss in the time of colliders.md",
-    "Cosmological Redshift.md",
-    "Quantum 101 - Quantum Science Explained.md",
-    "Fleeting notes.md",
-    "2024-07-08.md",
-    "Reference Notes.md",
-    "Resources.md",
-    "Zettelkasten Method.md",
-    "Templates/Template - weekly.md",
-    "Projects.md",
-    "Daily Note.md",
-    "Templates/notes - literature.md",
     "Templates"
   ]
 }
