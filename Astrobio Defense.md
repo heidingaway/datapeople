@@ -11,7 +11,8 @@ tags:
 # Astrobio Defense
 ## Definition
 - I first encountered this term through Phil's LinkedIn Post[^2] on updated guidance from the WHO’s Technical Advisory Group on Biosafety warning[^3] on "how artificial intelligence, cyber attacks and genetic engineering could pose potentially catastrophic biosecurity threats to countries around the world". 
--  biological threats emerging at the intersection of space exploration and infectious disease.
+- biological threats emerging at the intersection of space exploration and infectious disease
+- use of biological weapons in space
 # Links
 [[Artificial Intelligence]]
 # Footnotes
