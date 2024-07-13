@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Community Placemaking.md",
-                "mode": "preview",
+                "file": "Astrobio Defense.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:RESOURCES/community",
+            "query": "tag:#RESOURCES/community",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Community Placemaking.md",
+            "file": "Astrobio Defense.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Community Placemaking.md",
+            "file": "Astrobio Defense.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Community Placemaking.md"
+            "file": "Astrobio Defense.md"
           }
         }
       },
@@ -132,25 +132,26 @@
   "left-ribbon": {
     "hiddenItems": {
       "daily-notes:Open today's daily note": false,
-      "periodic-notes:Open this week": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "91a370e6704cf30c",
+  "active": "d645b6b6a2ece600",
   "lastOpenFiles": [
+    "2024-07-12.md",
+    "Astrobio Defense.md",
+    "Physics.md",
+    "Community Placemaking.md",
     "Community.md",
     "constant dark energy.md",
-    "Community Placemaking.md",
     "Power of Placemaking.md",
-    "Physics.md",
     "Watch this Spacetime from AstroKatie - June edition.md",
     "Love and loss in the time of colliders.md",
-    "2024-07-12.md",
     "README.md",
     "Untitled.md",
     "2024-W28.md",
@@ -168,7 +169,6 @@
     "Cosmology 101 with Katie Mack.md",
     "Dynamic dark energy.md",
     "Zettelkasten Method.md",
-    "Fleeting notes.md",
     "Untitled.canvas",
     "Untitled",
     "Templates",
