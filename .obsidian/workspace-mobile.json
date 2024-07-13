@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Community Placemaking.md",
+                "file": "constant dark energy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5c8774f12241d3b2",
+            "id": "d645b6b6a2ece600",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Community.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#dailynote/2024-W28",
+            "query": "tag:#TBR",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 1
   },
   "right": {
     "id": "7dd44d0c290c5e36",
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Community Placemaking.md",
+            "file": "constant dark energy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Community Placemaking.md",
+            "file": "constant dark energy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Community Placemaking.md"
+            "file": "constant dark energy.md"
           }
         }
       },
@@ -153,12 +153,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c6fbe9e6699e686b",
+  "active": "91a370e6704cf30c",
   "lastOpenFiles": [
-    "README.md",
+    "Community.md",
+    "constant dark energy.md",
     "Community Placemaking.md",
     "Power of Placemaking.md",
+    "Physics.md",
+    "Watch this Spacetime from AstroKatie - June edition.md",
+    "Love and loss in the time of colliders.md",
     "2024-07-12.md",
+    "README.md",
     "Untitled.md",
     "2024-W28.md",
     "2024-07-08.md",
@@ -168,19 +173,14 @@
     "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
     "2024-07-10.md",
     "Templates/Daily note {{date}}.md",
-    "Watch this Spacetime from AstroKatie - June edition.md",
-    "Physics.md",
     "Quantum 101 - Quantum Science Explained.md",
     "Cosmological Redshift.md",
-    "Love and loss in the time of colliders.md",
     "Katie Mack.md",
     "The End of Everything Astrophysically Speaking.md",
     "Cosmology 101 with Katie Mack.md",
     "Dynamic dark energy.md",
-    "constant dark energy.md",
     "Zettelkasten Method.md",
     "Fleeting notes.md",
-    "Heidi's 12 Favourite Problems.md",
     "Untitled.canvas",
     "Untitled",
     "Templates",
