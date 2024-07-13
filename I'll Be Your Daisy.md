@@ -20,8 +20,8 @@ tags:
 ## Needles
 [[D/3.0mm - crochet hook]]
 ## Comments
-- 1.5” across per daisy 1.5 x 18 = 27” for front
-- 
+- 1.5” across per daisy 1.5 x 18 = 27” for front : 18 daisies across front bust
+- 7 daisies lengthwise to cover bust before decreasing for waist
 
 ## Links
 [[November 22 The Eras Tour in Toronto]]
