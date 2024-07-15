@@ -6,13 +6,13 @@ modified: 2024-07-15
 status: evergreen
 zettel: resources
 tags:
-  - RESOURCES/design
-  - RESOURCES/LearnxD
+  - RESOURCES/design/source/newsletter
 ---
 # Friday Finds - Newsletter by Mike Taylor
 ## Comments
 - get Friday Finds in your inbox every Friday.[^1]
 ## Links
+[[Learning Design]]
 ```dataview
 LIST
 FROM [[]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
+                "file": "Emotional Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
+            "file": "Emotional Design.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
+            "file": "Emotional Design.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md"
+            "file": "Emotional Design.md"
           }
         }
       }
@@ -153,31 +153,31 @@
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
+    "Friday Finds - Newsletter by Mike Taylor.md",
+    "Friday Finds — Emotional Design, Power of Visuals for Learning, Marketing for L&D GPT.md",
+    "Everything is Different - Plain English Weekly.md",
+    "Learning Design.md",
+    "Data Quality as Fitness for Use.md",
+    "Data Quality.md",
+    "Data Literacy.md",
+    "StatsCan Data Literacy Training.md",
+    "Data Foundations to Better Support Canadians.md",
+    "Designing letters as part of the whole user journey.md",
+    "Digital Government.md",
+    "2024-07-15.md",
+    "2024-07-08.md",
     "Space.md",
+    "Watch this Spacetime from AstroKatie - June edition.md",
+    "The viral frontier.md",
+    "The End of Everything Astrophysically Speaking.md",
+    "Quantum 101 - Quantum Science Explained.md",
+    "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
+    "Love and loss in the time of colliders.md",
+    "Cosmology 101 with Katie Mack.md",
     "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
     "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
     "Watch this Spacetime Newsletter from AstroKatie.md",
-    "The End of Everything Astrophysically Speaking.md",
-    "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
     "Fleeting notes.md",
-    "Love and loss in the time of colliders.md",
-    "constant dark energy.md",
-    "Astrobio Defense.md",
-    "Einstein's General Relativity.md",
-    "The viral frontier.md",
-    "Quantum 101 - Quantum Science Explained.md",
-    "Design.md",
-    "Everything is Different - Plain English Weekly.md",
-    "Emotional Design - Don Norman.md",
-    "Digital With Purpose Blog.md",
-    "Designing letters as part of the whole user journey.md",
-    "Resources.md",
-    "Community.md",
-    "README.md",
-    "Knitting.md",
-    "24 stitches and 27 rows in stockinette.md",
-    "Digital Government.md",
-    "Service Design.md",
-    "Emotional Design.md"
+    "constant dark energy.md"
   ]
 }

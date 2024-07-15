@@ -6,7 +6,7 @@ modified: 2024-07-12
 status: evergreen
 zettel: literature
 tags:
-  - RESOURCES/space
+  - RESOURCES/space/source/video
 ---
 # Quantum 101 - Quantum Science Explained
 ## Comments

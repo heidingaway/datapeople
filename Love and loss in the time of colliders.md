@@ -6,7 +6,7 @@ modified: 2024-07-12
 status: parking
 zettel: literature
 tags:
-  - RESOURCES/space
+  - RESOURCES/space/source/article
 ---
 # Love and loss in the time of colliders
 ## Comments

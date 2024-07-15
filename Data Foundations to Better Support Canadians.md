@@ -6,7 +6,7 @@ modified: 2024-07-15
 status: parking
 zettel: literacy
 tags:
-  - RESOURCES/data/literacy
+  - RESOURCES/data-literacy/source/podcast
 ---
 # Data Foundations to Better Support Canadians
 

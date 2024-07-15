@@ -6,8 +6,7 @@ modified: 2024-07-15
 status: evergreen
 zettel: literature
 tags:
-  - RESOURCES/data/literacy
-  - RESOURCES/data/quality
+  - RESOURCES/data-quality/source/course
 ---
 #  Data Quality as Fitness for Use
 ## Comments

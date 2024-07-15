@@ -1,23 +1,19 @@
 ---
-title: Space
+title: Data Literacy
 aliases: 
-created: 2024-07-11
+created: 2024-07-15
 modified: 2024-07-15
 status: evergreen
-zettel: hub
+zettel: resource
 tags:
-  - RESOURCES/space
   - README/RESOURCES
+  - RESOURCES/data-literacy/definition
 ---
-# Space
+1. # Data Literacy
 ## Comments
-
-## Reference
 
 ## Links
 ```dataview
-TABLE 
-"#"+tags as Tag
+LIST
 FROM [[]]
-SORT tags DESC
 ```

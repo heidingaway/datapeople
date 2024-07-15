@@ -6,8 +6,7 @@ modified: 2024-07-15
 status: complete
 zettel: literature
 tags:
-  - RESOURCES/design
-  - RESOURCES/LearnxD
+  - RESOURCES/design/source/newsletter
 ---
 # Friday Finds — Emotional Design, Power of Visuals for Learning, Marketing for L&D GPT
 ## Comments

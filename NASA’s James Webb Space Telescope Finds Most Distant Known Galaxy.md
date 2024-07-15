@@ -6,7 +6,7 @@ modified: 2024-07-12
 status: evergreen
 zettel: literature
 tags:
-  - RESOURCES/space
+  - RESOURCES/space/source/article
 ---
 # NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy
 ## Comments

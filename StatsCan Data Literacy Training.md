@@ -6,7 +6,7 @@ modified: 2024-07-15
 status: evergreen
 zettel: literature
 tags:
-  - RESOURCES/data/literacy
+  - RESOURCES/data-literacy/source/learning-path
 ---
 # StatsCan Data Literacy Training
 
