@@ -6,7 +6,7 @@ modified: 2024-07-12
 status: 
 zettel: reference
 tags:
-  - PROJECTS
+  - PROJECTS/cardigan-buckley
 ---
 #  Project Note - Knitting Crochet
 
@@ -23,5 +23,6 @@ tags:
 ## Comments
 
 ## Links
+
 
 
