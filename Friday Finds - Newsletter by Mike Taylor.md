@@ -14,7 +14,7 @@ tags:
 # Links
 ```dataview
 LIST
-WHERE [Friday Finds]
+WHERE #RESOURCES 
 ```
 # Footnotes
 
