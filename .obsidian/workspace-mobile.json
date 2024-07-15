@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plain English Weekly Newsletter.md",
+                "file": "Everything is Different - Plain English Weekly.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Plain English Weekly Newsletter.md",
+            "file": "Everything is Different - Plain English Weekly.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Plain English Weekly Newsletter.md",
+            "file": "Everything is Different - Plain English Weekly.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Plain English Weekly Newsletter.md"
+            "file": "Everything is Different - Plain English Weekly.md"
           }
         }
       }
@@ -153,8 +153,9 @@
   },
   "active": "a17f939602477631",
   "lastOpenFiles": [
-    "2024-07-12.md",
     "Plain English Weekly Newsletter.md",
+    "Everything is Different - Plain English Weekly.md",
+    "2024-07-12.md",
     "2024-07-15.md",
     "2024-07-10.md",
     "Katie Mack.md",
@@ -177,7 +178,6 @@
     "Emotional Design.md",
     "Templates/Book Note.md",
     "Templates/Pattern card.md",
-    "seamed.md",
-    "Data Quality as Fitness for Use.md"
+    "seamed.md"
   ]
 }
