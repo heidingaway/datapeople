@@ -6,7 +6,7 @@ modified: 2024-07-15
 status: evergreen
 zettel: literature
 tags:
-  - RESOURCES/knitting/definitions
+  - RESOURCES/knitting/definition
 ---
 # Definition
 - worked as individual pieces, joined together with a seam.[^1]
