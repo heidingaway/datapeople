@@ -10,7 +10,7 @@ tags:
 ---
 # Buckley - Notes
 ## Comments
-
+- 2024-07-15: working pattern in pieces (as written); front halves - add short rows in garter stitch edges at bottom: 17 stitch for first set of short rows, 13 stitch for remaining 95 stitches
 
 ## Links
 pattern: [[Buckley Cardigan]]
