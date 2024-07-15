@@ -14,7 +14,7 @@ tags:
 # Links
 ```dataview
 LIST
-FROM #RESOURCES AND contains([[Friday Finds - Newsletter by Mike Taylor]])
+FROM #RESOURCES AND outgoing([[Friday Finds - Newsletter by Mike Taylor]])
 ```
 # Footnotes
 
