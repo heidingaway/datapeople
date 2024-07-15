@@ -15,6 +15,7 @@ tags:
 
 ## Links
 [[Plain English Weekly Newsletter]]
+[[Design]]
 # Footnotes
 
 [^1]: [Everything is Different](https://www.plainenglish.club/everything-is-different/)

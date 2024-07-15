@@ -4,98 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1b46f852ef9db80b",
+        "id": "289c92c8b2a53598",
         "type": "tabs",
         "children": [
           {
-            "id": "a17f939602477631",
+            "id": "c3b2c4a159c1dede",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Digital With Purpose Blog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "276263b4d915c5a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Notes - Unfiled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c84a2f7288dc89a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Note - Resource Hubs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4eb1f502d84ef1fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "24 stitches and 27 rows in stockinette.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "475fd65ccae2d553",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fingering (14 wpi).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "777177b16cbd7628",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-07-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "fd91df5fe438c300",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8b777e52b3b4b597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jamieson and Smith 2 ply Jumper Weight.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -123,7 +40,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "design",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -181,7 +98,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-15.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -198,7 +114,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-15.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -209,9 +124,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "2024-07-15.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -230,33 +143,33 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "777177b16cbd7628",
+  "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
-    "Jamieson and Smith 2 ply Jumper Weight.md",
-    "2024-07-15.md",
+    "Emotional Design.md",
+    "Service Design.md",
+    "README.md",
+    "Resources.md",
+    "Designing letters as part of the whole user journey.md",
+    "Everything is Different - Plain English Weekly.md",
+    "Plain English Weekly Newsletter.md",
+    "Emotional Design - Don Norman.md",
+    "Design.md",
+    "Digital With Purpose Blog.md",
+    "Watch this Spacetime from AstroKatie - June edition.md",
+    "Watch this Spacetime Newsletter from AstroKatie.md",
     "Yarn Weight.md",
+    "Templates/Notes - Unfiled.md",
+    "Templates/Note - Resource Hubs.md",
+    "24 stitches and 27 rows in stockinette.md",
     "Fingering (14 wpi).md",
+    "2024-07-15.md",
+    "Jamieson and Smith 2 ply Jumper Weight.md",
     "Gauge.md",
     "Needle Sizes.md",
     "US 6 - 4.00 mm.md",
     "US 5 - 3.75 mm.md",
     "US 4 - 3.5 mm.md",
-    "24 stitches and 27 rows in stockinette.md",
     "Knitting.md",
-    "1600 to 2000 yds.md",
-    "Buckley Cardigan.md",
-    "bottom-up.md",
-    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
-    "Einstein's General Relativity.md",
-    "Astrobio Defense.md",
-    "Digital Government.md",
-    "Designing letters as part of the whole user journey.md",
-    "Digital With Purpose Blog.md",
-    "Artificial Intelligence - AI.md",
-    "Community.md",
-    "Data.md",
-    "Space.md",
-    "Cosmology 101 with Katie Mack.md",
-    "Cosmological Redshift.md"
+    "1600 to 2000 yds.md"
   ]
 }
