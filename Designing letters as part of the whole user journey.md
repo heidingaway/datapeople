@@ -15,5 +15,4 @@ tags:
 ## Links
 [[Digital With Purpose Blog]]
 # Footnotes
-
-[^1]: 
+[^1]: [Designing letters as part of the whole user journey](https://dwpdigital.blog.gov.uk/2019/01/28/designing-letters-as-part-of-the-whole-user-journey/?ref=plainenglish.club)
