@@ -3,14 +3,13 @@ title: chart
 aliases: 
 created: 2024-07-15
 modified: 2024-07-15
-status: 
+status: evergreen
 zettel: literature
 tags:
   - RESOURCES/knitting/definitions
 ---
 # Definition
-- uses a visual  made of symbols and/or shapes to convey directions[^1]
-
+- uses a visual made of symbols and/or shapes to convey directions[^1]
 # Links
 # Footnotes
 

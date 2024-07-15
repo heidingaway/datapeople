@@ -28,8 +28,8 @@ yardage_cat:
 pattern_attributes: 
 - [[bottom-up]]
 - [[chart]]
-- [lace](https://www.ravelry.com/patterns/attributes/lace "a pattern of stable holes that are arranged to create a decorative fabric")
-- [long-sleeve](https://www.ravelry.com/patterns/attributes/long-sleeve "sleeve ends at the wrist bone or later")
+- [[lace]]
+- [[long-sleeve]]
 - [schematic](https://www.ravelry.com/patterns/attributes/schematic "includes a drawing, probably with measurements")
 - [seamed](https://www.ravelry.com/patterns/attributes/seamed "worked as individual pieces, joined together with a seam.")
 - [three-needle-bind](https://www.ravelry.com/patterns/attributes/three-needle-bind "A method of joining two pieces together in knitting in which the live stitches from two pieces are knit together and cast off with a third needle.")
