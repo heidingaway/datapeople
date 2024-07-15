@@ -5,8 +5,9 @@ created: 2024-07-11
 modified: 2024-07-12
 status: evergreen
 zettel: reference
+source: newsletter
 tags:
-  - RESOURCES/space/source/newsletter
+  - RESOURCES/space
 ---
 # Watch this Spacetime from AstroKatie - June edition
 ## Comments

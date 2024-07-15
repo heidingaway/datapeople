@@ -5,8 +5,9 @@ created: 2024-07-15
 modified: 2024-07-15
 status: evergreen
 zettel: literature
+source: course
 tags:
-  - RESOURCES/data-quality/source/course
+  - RESOURCES/data-quality
 ---
 #  Data Quality as Fitness for Use
 ## Comments

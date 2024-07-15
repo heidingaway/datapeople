@@ -5,8 +5,9 @@ created: 2024-07-11
 modified: 2024-07-12
 status: parking
 zettel: literature
+source: book
 tags:
-  - RESOURCES/space/source/book
+  - RESOURCES/space
 ---
 # The End of Everything Astrophysically Speaking
 ## Comments

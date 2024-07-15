@@ -5,8 +5,9 @@ created: 2024-07-15
 modified: 2024-07-15
 status: complete
 zettel: literature
+source: newsletter
 tags:
-  - RESOURCES/design/source/newsletter
+  - RESOURCES/design
 ---
 # Everything is Different - Plain English Weekly
 ## Comments

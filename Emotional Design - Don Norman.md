@@ -5,8 +5,9 @@ created: 2024-07-15
 modified: 2024-07-15
 status: evergreen
 zettel: literature
+source: book
 tags:
-  - RESOURCES/design/source/book
+  - RESOURCES/design
 ---
 # Emotional Design
 - subtitle: "Why We Love (or Hate) Everyday Things"

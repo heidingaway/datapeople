@@ -2,9 +2,10 @@
 title: Power of Placemaking
 aliases: 
 created: 2024-07-12
-modified: 2024-07-12
+modified: 2024-07-15
 status: parking
 zettel: literature
+source: powerpoint
 tags:
 - RESOURCES/community
 ---

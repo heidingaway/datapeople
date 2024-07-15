@@ -20,3 +20,9 @@ TABLE
 FROM [[]] AND !#PROJECTS
 SORT tags DESC
 ```
+
+```dataview
+TABLE
+tags AS Tags
+FROM #RESOURCES/knitting 
+```

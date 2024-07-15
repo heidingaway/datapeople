@@ -5,8 +5,9 @@ created: 2024-07-15
 modified: 2024-07-15
 status: evergreen
 zettel: resource
+source: newsletter
 tags:
-  - RESOURCES/design/source
+  - RESOURCES/design
 ---
 # Plain English Weekly Newsletter
 ## Comments

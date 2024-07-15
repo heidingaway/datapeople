@@ -1,5 +1,5 @@
 ---
-title: 
+title: <% tp.file.title %>
 aliases: 
 created: 
 modified: 

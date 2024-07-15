@@ -5,8 +5,9 @@ created: 2024-07-15
 modified: 2024-07-15
 status: evergreen
 zettel: resource
+source: blog
 tags:
-  - RESOURCES/digital-government/source/blog
+  - RESOURCES/digital-government
 ---
 # Digital With Purpose Blog
 ## Comments

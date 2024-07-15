@@ -1,17 +1,18 @@
 ---
 title: Learning Design
-created: 
-modified: 
-status:  evergreen
+aliases: 
+created: 2024-07-15
+modified: 2024-07-15
+status: evergreen
 zettel: resource
 tags:
-  - README/RESOURCES
-  - RESOURCES/design/LearnxD/definition
+  - RESOURCES/design/definition
 ---
 # Learning Design
 ## Comments
 
 ## Links
+[[Design]]
 ```dataview
 LIST
 FROM [[]]

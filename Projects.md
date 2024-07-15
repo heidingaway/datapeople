@@ -18,4 +18,4 @@ tags:
 ## Links
 [[README]]
 [[PARA classification system]]
-[[Project Note - Knitting Crochet]] 
+[[Note - Project]] 

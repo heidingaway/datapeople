@@ -5,8 +5,9 @@ created: 2024-07-12
 modified: 2024-07-12
 status: 
 zettel: 
+source: article
 tags:
-  - RESOURCES/artificial-intelligence-AI/source/article
+  - RESOURCES/artificial-intelligence-AI
 ---
 # AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns
 ## Comments

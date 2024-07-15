@@ -5,8 +5,9 @@ created: 2024-07-12
 modified: 2024-07-12
 status: parking
 zettel: literature
+source: article
 tags:
-  - RESOURCES/space/source/book
+  - RESOURCES/space
 ---
 # The viral frontier: NASA told act now to tackle pathogens in space
 

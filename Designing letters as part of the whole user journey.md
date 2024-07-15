@@ -5,8 +5,9 @@ created: 2024-07-15
 modified: 2024-07-15
 status: parking
 zettel: literature
+source: blog post
 tags:
-  - RESOURCES/digital-government/source/blog/post
+  - RESOURCES/digital-government
 ---
 # Designing letters as part of the whole user journey
 ## Comments

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emotional Design.md",
+                "file": "Archive.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "pin",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -79,6 +79,19 @@
           "type": "tagfolder-view",
           "state": {}
         }
+      },
+      {
+        "id": "a0ae5567516dd588",
+        "type": "leaf",
+        "state": {
+          "type": "tagfolder-view-list",
+          "state": {
+            "tags": [
+              "unfiled/"
+            ],
+            "title": "unfiled/"
+          }
+        }
       }
     ],
     "currentTab": 4,
@@ -102,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Emotional Design.md",
+            "file": "Archive.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Emotional Design.md",
+            "file": "Archive.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +144,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Emotional Design.md"
+            "file": "Archive.md"
           }
         }
       }
@@ -153,31 +166,31 @@
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
-    "Friday Finds - Newsletter by Mike Taylor.md",
-    "Friday Finds — Emotional Design, Power of Visuals for Learning, Marketing for L&D GPT.md",
-    "Everything is Different - Plain English Weekly.md",
-    "Learning Design.md",
-    "Data Quality as Fitness for Use.md",
-    "Data Quality.md",
-    "Data Literacy.md",
-    "StatsCan Data Literacy Training.md",
-    "Data Foundations to Better Support Canadians.md",
-    "Designing letters as part of the whole user journey.md",
-    "Digital Government.md",
-    "2024-07-15.md",
     "2024-07-08.md",
-    "Space.md",
+    "2024-07-15.md",
+    "pininfo.md",
+    "Areas.md",
+    "Plain English Weekly Newsletter.md",
+    "Power of Placemaking.md",
+    "Community Placemaking.md",
+    "Community.md",
+    "TBR.md",
+    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
+    "Watch this Spacetime Newsletter from AstroKatie.md",
     "Watch this Spacetime from AstroKatie - June edition.md",
     "The viral frontier.md",
     "The End of Everything Astrophysically Speaking.md",
+    "StatsCan Data Literacy Training.md",
     "Quantum 101 - Quantum Science Explained.md",
     "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
     "Love and loss in the time of colliders.md",
-    "Cosmology 101 with Katie Mack.md",
-    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
+    "Friday Finds — Emotional Design, Power of Visuals for Learning, Marketing for L&D GPT.md",
+    "Friday Finds - Newsletter by Mike Taylor.md",
     "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
-    "Watch this Spacetime Newsletter from AstroKatie.md",
-    "Fleeting notes.md",
-    "constant dark energy.md"
+    "Everything is Different - Plain English Weekly.md",
+    "Emotional Design - Don Norman.md",
+    "Digital With Purpose Blog.md",
+    "Designing letters as part of the whole user journey.md",
+    "Data Foundations to Better Support Canadians.md"
   ]
 }
