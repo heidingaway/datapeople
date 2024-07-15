@@ -18,5 +18,5 @@ tags:
 TABLE 
 "#"+tags as Tags
 FROM [[]] AND !#PROJECTS
-SORT Tags DESC
+SORT tags DESC
 ```
