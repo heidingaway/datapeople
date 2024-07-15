@@ -10,8 +10,9 @@ tags:
 ---
 # Friday Finds — Emotional Design, Power of Visuals for Learning, Marketing for L&D GPT
 ## Comments
--  [^1]
-
+- _**[Sign up here](https://miketaylor.beehiiv.com/)**_ _to get Friday Finds in your inbox every Friday.[^1]
+- [[Emotional Design - Don Norman]]
+- [[Emotional Design]]
 ## Links
 # Footnotes
 
