@@ -13,7 +13,7 @@
   "apiKey": "",
   "openPageOnCompletion": true,
   "showCoverImageInSearch": false,
-  "enableCoverImageSave": false,
+  "enableCoverImageSave": true,
   "coverImagePath": "Reference Photos",
   "askForLocale": true
 }
