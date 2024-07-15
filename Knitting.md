@@ -15,6 +15,6 @@ tags:
 
 ## Link
 ```dataview
-TABLE as tags
+TABLE tags
 FROM [[]]
 ```
