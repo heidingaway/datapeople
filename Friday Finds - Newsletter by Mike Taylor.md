@@ -15,7 +15,7 @@ tags:
 ## Links
 ```dataview
 LIST
-FROM outgoing([[Friday Finds - Newsletter by Mike Taylor]])
+FROM [[]]
 ```
 # Footnotes
 
