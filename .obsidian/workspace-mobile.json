@@ -81,6 +81,24 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "fd91df5fe438c300",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b777e52b3b4b597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jamieson and Smith 2 ply Jumper Weight.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,6 +232,8 @@
   },
   "active": "777177b16cbd7628",
   "lastOpenFiles": [
+    "Jamieson and Smith 2 ply Jumper Weight.md",
+    "2024-07-15.md",
     "Yarn Weight.md",
     "Fingering (14 wpi).md",
     "Gauge.md",
@@ -237,8 +257,6 @@
     "Data.md",
     "Space.md",
     "Cosmology 101 with Katie Mack.md",
-    "Cosmological Redshift.md",
-    "Watch this Spacetime from AstroKatie - June edition.md",
-    "Watch this Spacetime Newsletter from AstroKatie.md"
+    "Cosmological Redshift.md"
   ]
 }
