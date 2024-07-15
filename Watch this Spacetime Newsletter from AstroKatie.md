@@ -16,5 +16,4 @@ tags:
 ## Links
 [[Katie Mack]]
 # Footnotes
-
-[^1]: [AstroKatie](https://www.astrokatie.com/)
+[^1]: [Katie Mack, Astrophysicist ](https://www.astrokatie.com/)
