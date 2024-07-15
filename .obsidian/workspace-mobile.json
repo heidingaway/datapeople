@@ -11,12 +11,8 @@
             "id": "89d951dd2f945edd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cardigan - Buckley.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -44,7 +40,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#RESOURCES/knitting/definitions",
+            "query": "tag:#RESOURCES/knitting/pattern",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +69,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "2ff742e27f99fa5e",
@@ -93,7 +89,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cardigan - Buckley.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Cardigan - Buckley.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,9 +115,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Cardigan - Buckley.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -143,10 +135,16 @@
   },
   "active": "89d951dd2f945edd",
   "lastOpenFiles": [
+    "Buckley Cardigan.md",
+    "Templates/Pattern card.md",
+    "Templates/notes.md",
+    "Templates/notes - definition.md",
+    "Buckley - Notes.md",
+    "Knitting.md",
+    "Fingering (14 wpi).md",
+    "Michele Wang.md",
+    "Quince & Co. Sparrow.md",
     "Gauge - 24 stitches and 27 rows in stockinette.md",
-    "Cardigan - Buckley.md",
-    "Yarn - Quince & Co. Sparrow.md",
-    "Yarn Weight - Fingering (14 wpi).md",
     "written-pattern.md",
     "worked-flat.md",
     "three-needle-bind.md",
@@ -155,19 +153,13 @@
     "lace.md",
     "chart.md",
     "bottom-up.md",
-    "Templates/notes.md",
     "seamed.md",
-    "Templates/notes - definition.md",
     "Sparrow 2018.md",
-    "Michele Wang.md",
     "Quince & Co..md",
     "Untitled 1.md",
     "2024-W29.md",
     "Templates/Template - weekly.md",
     "2024-07-15.md",
-    "2024-W28.md",
-    "2024-07-08.md",
-    "2024-07-12.md",
-    "2024-07-10.md"
+    "2024-W28.md"
   ]
 }

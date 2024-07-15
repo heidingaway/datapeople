@@ -6,18 +6,20 @@ modified: 2024-07-15
 status: evergreen
 zettel: reference
 tags:
-  - PROJECTS/cardigan-buckley
   - RESOURCES/knitting/pattern
+  - PROJECTS/cardigan-buckley
 ---
-# Cardigan - Buckley
+# Buckley Cardigan
 
 ## Pattern Attributes
 pattern_name: Buckley
 designer: [[Michele Wang]]
 publication: [[Sparrow 2018]]; [[Quince & Co.]]
-craft: knitting
+craft: [[Knitting]]
 garment_cat: sweater/cardigan 
 published: 2018-03
+yarn_name: [[Quince & Co. Sparrow]]
+yarn_weight [[Fingering (14 wpi)]]
 gauge: [[Gauge - 24 stitches and 27 rows in stockinette]] 
 needle_size: [[US 4 - 3.5 mm]]; [[US 5 - 3.75 mm]]
 yardage-y: 1344 - 2016
@@ -36,4 +38,6 @@ pattern_attributes:
 - [[three-needle-bind]]
 - [[worked-flat]]
 - [[written-pattern]]
-- [[Yarn - Quince & Co. Sparrow]]
+
+## Link
+[[Buckley - Notes]]
