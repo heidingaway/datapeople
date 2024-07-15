@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-13.md",
+                "file": "2024-07-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#ARCHIVE/2024-W28",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-13.md",
+            "file": "2024-07-11.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-13.md",
+            "file": "2024-07-11.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-13.md"
+            "file": "2024-07-11.md"
           }
         }
       }
@@ -141,11 +141,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c9ae12dedd9108c8",
+  "active": "d62606c835b72597",
   "lastOpenFiles": [
+    "2024-07-12.md",
+    "2024-07-11.md",
+    "2024-07-08.md",
     "2024-07-15.md",
     "2024-07-13.md",
-    "2024-07-12.md",
     "Buckley - Project Notes.md",
     "2024-W29.md",
     "Quince & Co. Sparrow.md",
@@ -166,8 +168,6 @@
     "bottom-up.md",
     "written-pattern.md",
     "worked-flat.md",
-    "schematic.md",
-    "long-sleeve.md",
-    "lace.md"
+    "schematic.md"
   ]
 }
