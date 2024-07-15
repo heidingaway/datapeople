@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Watch this Spacetime from AstroKatie - June edition.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Watch this Spacetime from AstroKatie - June edition.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Watch this Spacetime from AstroKatie - June edition.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Watch this Spacetime from AstroKatie - June edition.md"
           }
         }
       }
@@ -153,6 +153,10 @@
   },
   "active": "a17f939602477631",
   "lastOpenFiles": [
+    "Watch this Spacetime Newsletter from AstroKatie.md",
+    "Watch this Spacetime from AstroKatie - June edition.md",
+    "Katie Mack.md",
+    "README.md",
     "Friday Finds — Emotional Design, Power of Visuals for Learning, Marketing for L&D GPT.md",
     "2024-07-10.md",
     "Emotional Design - Don Norman.md",
@@ -174,10 +178,6 @@
     "seamed.md",
     "Data Quality as Fitness for Use.md",
     "Templates/notes.md",
-    "Templates/notes - definition.md",
-    "StatsCan Data Literacy Training.md",
-    "Festival Twist Plan.md",
-    "Space.md",
-    "Artificial Intelligence - AI.md"
+    "Templates/notes - definition.md"
   ]
 }

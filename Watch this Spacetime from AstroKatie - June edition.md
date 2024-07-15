@@ -20,3 +20,5 @@ tags:
 ## Links
 [[Space]]
 [[Katie Mack]]
+[[Watch this Spacetime Newsletter from AstroKatie]]
+

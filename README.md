@@ -28,7 +28,7 @@ Tags: PARA/subject, unfiled/date
 Dataview: [Dataview in Obsidian: a beginner's guide](https://obsidian.rocks/dataview-in-obsidian-a-beginners-guide/)
 Dataview: 
 - [Structure of a Query](https://blacksmithgu.github.io/obsidian-dataview/queries/structure/)
-- Data view https://blacksmithgu.github.io/obsidian-dataview/reference/sources/#links
+- [Querying Internal Links](https://blacksmithgu.github.io/obsidian-dataview/reference/sources/#links)
 ## Hotkey
 - command + 0 : numbered footnote
 - Command + = : named footnote
