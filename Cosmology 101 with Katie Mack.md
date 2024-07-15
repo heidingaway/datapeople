@@ -13,5 +13,8 @@ tags:
 ## Reference
 
 ## Links
-[[Katie Mack]]
-[[Watch this Spacetime from AstroKatie - June edition]]
+[[Space]]
+```dataview
+LIST
+FROM [[]]
+```

@@ -2,12 +2,16 @@
 title: <% tp.file.title %>
 created: 
 modified: 
-status:  
-zettel: 
+status:  evergreen
+zettel: resource
 tags:
-  - unfiled/<% tp.date.now("YYYY-MM-DD") %>
+  - RESOURCES/
 ---
 # <% tp.file.title %>
 ## Comments
 
 ## Links
+```dataview
+LIST
+FROM [[]]
+```

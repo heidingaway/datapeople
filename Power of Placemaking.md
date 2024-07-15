@@ -7,7 +7,6 @@ status: parking
 zettel: literature
 tags:
 - RESOURCES/community
-- TBR
 ---
 # Power of Placemaking
 ## Comments
@@ -17,3 +16,4 @@ tags:
 ## Links
 [[Community Placemaking]] 
 [[Community]] 
+[[TBR]]

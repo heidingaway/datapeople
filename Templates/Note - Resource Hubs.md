@@ -3,15 +3,14 @@ title: <% tp.file.title %>
 created: 
 modified: 
 status:  evergreen
-zettel: literature
+zettel: resource
 tags:
-  - RESOURCES/definition
+  - README/RESOURCES
 ---
 # <% tp.file.title %>
-## Definition
+## Comments
 
 ## Links
-
 ```dataview
 LIST
 FROM [[]]

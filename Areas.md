@@ -17,4 +17,7 @@ tags:
 - the standard is having a safe comfortable home, this would have ongoing regularly repeating tasks associated with maintaining that standard
 
 ## Links
-[[PARA classification system]]
+```dataview
+LIST
+FROM [[]]
+```

@@ -8,6 +8,14 @@ zettel: literature
 tags:
   - RESOURCES/knitting/gauge
 ---
-# Definition
+# 24 stitches and 27 rows in stockinette
+## Definition
 
-# Links
+## Links
+[[Knitting]]
+[[Gauge]]
+## Patterns
+```dataview
+LIST
+FROM [[]]
+```

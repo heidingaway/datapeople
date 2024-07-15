@@ -27,7 +27,6 @@ yardage-m: 1229 - 1843
 sizes_avail_in: 33.25, 37.25, 41.25, 45.25, 49.25, 53.25, 57.25
 sizes_avail_cm: 84.5, 94.5, 105, 115, 125, 135.5, 145.5
 languages: English
-yardage_cat: #RESOURCES/knitting/pattern/1600-2000y
 pattern_attributes: 
 - [[bottom-up]]
 - [[chart]]

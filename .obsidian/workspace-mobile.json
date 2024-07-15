@@ -13,13 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plain English Weekly Newsletter.md",
+                "file": "Digital With Purpose Blog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "276263b4d915c5a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Notes - Unfiled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c84a2f7288dc89a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Note - Resource Hubs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4eb1f502d84ef1fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "24 stitches and 27 rows in stockinette.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "475fd65ccae2d553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fingering (14 wpi).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "777177b16cbd7628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yarn Weight.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -102,7 +163,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Plain English Weekly Newsletter.md",
+            "file": "Yarn Weight.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +180,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Plain English Weekly Newsletter.md",
+            "file": "Yarn Weight.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +192,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Plain English Weekly Newsletter.md"
+            "file": "Yarn Weight.md"
           }
         }
       }
@@ -151,33 +212,33 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "a17f939602477631",
+  "active": "777177b16cbd7628",
   "lastOpenFiles": [
-    "Everything is Different - Plain English Weekly.md",
-    "Plain English Weekly Newsletter.md",
-    "2024-07-15.md",
-    "Templates/notes.md",
-    "Designing letters as part of the whole user journey.md",
-    "2024-07-12.md",
-    "2024-07-10.md",
-    "Katie Mack.md",
-    "Watch this Spacetime Newsletter from AstroKatie.md",
-    "Watch this Spacetime from AstroKatie - June edition.md",
-    "README.md",
-    "Friday Finds — Emotional Design, Power of Visuals for Learning, Marketing for L&D GPT.md",
-    "Emotional Design - Don Norman.md",
-    "Friday Finds - Newsletter by Mike Taylor.md",
-    "Untitled.md",
-    "Buckley Cardigan.md",
+    "Fingering (14 wpi).md",
+    "Yarn Weight.md",
+    "Gauge.md",
+    "Needle Sizes.md",
     "US 6 - 4.00 mm.md",
     "US 5 - 3.75 mm.md",
+    "US 4 - 3.5 mm.md",
     "24 stitches and 27 rows in stockinette.md",
-    "2024-07-08.md",
-    "2024-W28.md",
-    "2024-W29.md",
-    "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
-    "Data Foundations to Better Support Canadians.md",
-    "Emotional Design.md",
-    "Templates/Book Note.md"
+    "Knitting.md",
+    "1600 to 2000 yds.md",
+    "Buckley Cardigan.md",
+    "bottom-up.md",
+    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
+    "Einstein's General Relativity.md",
+    "Astrobio Defense.md",
+    "Digital Government.md",
+    "Designing letters as part of the whole user journey.md",
+    "Digital With Purpose Blog.md",
+    "Artificial Intelligence - AI.md",
+    "Community.md",
+    "Data.md",
+    "Space.md",
+    "Cosmology 101 with Katie Mack.md",
+    "Cosmological Redshift.md",
+    "Watch this Spacetime from AstroKatie - June edition.md",
+    "Watch this Spacetime Newsletter from AstroKatie.md"
   ]
 }

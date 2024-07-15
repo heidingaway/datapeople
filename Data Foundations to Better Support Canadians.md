@@ -7,7 +7,6 @@ status: parking
 zettel: literacy
 tags:
   - RESOURCES/data/literacy
-  - TBR
 ---
 # Data Foundations to Better Support Canadians
 
@@ -17,6 +16,7 @@ tags:
 ## Links
 [[Data]]
 [[Data Literacy]]
+[[TBR]]
 # Footnotes
 
 [^1]: [Public Sector Future Podcast | Microsoft](https://wwps.microsoft.com/episodes/data-foundations-canada)

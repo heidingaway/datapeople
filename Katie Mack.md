@@ -12,6 +12,7 @@ tags:
 ## Comments
 - Astrophysicist[^1]
 ## Links
+[[Cosmology 101 with Katie Mack]]
 [[The End of Everything Astrophysically Speaking]]
 [[Watch this Spacetime Newsletter from AstroKatie]]
 ## Footnotes

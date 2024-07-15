@@ -1,17 +1,16 @@
 ---
-title: <% tp.file.title %>
+title: Einstein's General Relativity
 created: 
 modified: 
 status:  evergreen
 zettel: literature
 tags:
-  - RESOURCES/definition
+  - RESOURCES/space/definition
 ---
-# <% tp.file.title %>
+# Einstein's General Relativity
 ## Definition
 
 ## Links
-
 ```dataview
 LIST
 FROM [[]]

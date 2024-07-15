@@ -4,10 +4,10 @@ aliases:
 created: 2024-07-15
 modified: 2024-07-15
 status: parking
-zettel: 
+zettel: literature
 tags:
   - RESOURCES/design/service-design
-  - TBR
+  - RESOURCES/digital-government
 ---
 # Designing letters as part of the whole user journey
 ## Comments
@@ -15,6 +15,7 @@ tags:
 
 ## Links
 [[Digital With Purpose Blog]]
+[[TBR]]
 # Footnotes
 
 [^1]: [Designing letters as part of the whole user journey](https://dwpdigital.blog.gov.uk/2019/01/28/designing-letters-as-part-of-the-whole-user-journey/?ref=plainenglish.club)

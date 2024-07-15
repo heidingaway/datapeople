@@ -1,19 +1,18 @@
 ---
-title: Knitting
+title: Data
 aliases: 
 created: 2024-07-15
 modified: 2024-07-15
 status: evergreen
-zettel: resources
+zettel: resource
 tags:
-  - RESOURCES/knitting
   - README/RESOURCES
+  - RESOURCES/data
 ---
-# Knitting
+# Data
+## Comments
 
-## Comment
-
-## Link
+## Links
 ```dataview
 LIST
 FROM [[]]

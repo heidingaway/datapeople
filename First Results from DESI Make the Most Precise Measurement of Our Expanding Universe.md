@@ -3,11 +3,10 @@ title: First Results from DESI Make the Most Precise Measurement of Our Expandin
 aliases: 
 created: 2024-07-11
 modified: 2024-07-11
-status: 
-zettel: 
+status: parking
+zettel: literature
 tags:
   - RESOURCES/space
-  - TBR
 ---
 ## Comments
 
@@ -17,4 +16,5 @@ tags:
 [[Dynamic dark energy]]
 [[constant dark energy]]
 [[Watch this Spacetime from AstroKatie - June edition]]
-
+[[TBR]]
+[[Space]]

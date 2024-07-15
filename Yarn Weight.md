@@ -1,5 +1,5 @@
 ---
-title: Fingering (14 wpi)
+title: Yarn Weight
 aliases: 
 created: 2024-07-15
 modified: 2024-07-15
@@ -8,8 +8,11 @@ zettel: resource
 tags:
   - RESOURCES/knitting/yarn-weight
 ---
-# Definition
+# Yarn Weight
+## Comments
 
-# Links
-[[Yarn Weight]] 
-[[Knitting]]
+## Links
+```dataview
+LIST
+FROM [[]]
+```

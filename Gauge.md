@@ -1,16 +1,18 @@
 ---
-title: US 6 - 4.00 mm
+title: Gauge
 aliases: 
 created: 2024-07-15
 modified: 2024-07-15
 status: evergreen
 zettel: resource
 tags:
-  - RESOURCES/knitting/needle-size
+  - RESOURCES/knitting/gauge
 ---
-# US 6 - 4.00 mm
+# Gauge
 ## Comments
 
 ## Links
-[[Knitting]]
-[[Needle Sizes]]
+```dataview
+LIST
+FROM [[]]
+```

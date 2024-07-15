@@ -14,6 +14,9 @@ tags:
 
 ## Reference
 ## Links
-[[Katie Mack]]
+```dataview
+LIST
+FROM [[]]
+```
 # Footnotes
 [^1]: [Katie Mack, Astrophysicist ](https://www.astrokatie.com/)

@@ -6,8 +6,8 @@ modified: 2024-07-12
 status: evergreen
 zettel: literature
 tags:
-  - RESOURCES/space
-  - RESOURCES/infectious-disease
+  - RESOURCES/space/definition
+  - RESOURCES/infectious-disease/definition
 ---
 # Astrobio Defense
 ## Definition

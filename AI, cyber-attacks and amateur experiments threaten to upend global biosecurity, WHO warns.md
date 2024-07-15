@@ -8,7 +8,6 @@ zettel:
 tags:
   - RESOURCES/artificial-intelligence-AI
   - RESOURCES/space
-  - TBR
 ---
 # AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns
 ## Comments
@@ -16,3 +15,4 @@ tags:
 ## Links
 
 [AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns](https://www.telegraph.co.uk/global-health/terror-and-security/ai-cyber-attacks-and-amateur-experiments-threaten-to-upend/)
+[[TBR]]
