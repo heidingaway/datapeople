@@ -14,7 +14,7 @@ tags:
 # Links
 ```dataview
 LIST
-WHERE #RESOURCES 
+WHERE #RESOURCES AND contains
 ```
 # Footnotes
 
