@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-15.md",
+                "file": "Emotional Design - Don Norman.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-15.md",
+            "file": "Emotional Design - Don Norman.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-15.md",
+            "file": "Emotional Design - Don Norman.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-15.md"
+            "file": "Emotional Design - Don Norman.md"
           }
         }
       }
@@ -147,14 +147,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
   "active": "89d951dd2f945edd",
   "lastOpenFiles": [
+    "2024-07-15.md",
+    "Emotional Design - Don Norman.md",
     "Emotional Design.md",
     "seamed.md",
-    "2024-07-15.md",
     "Data Foundations to Better Support Canadians.md",
     "2024-W29.md",
     "Data Quality as Fitness for Use.md",
@@ -176,7 +178,6 @@
     "2024-07-12.md",
     "2024-08-07.md",
     "README.md",
-    "three-needle-bind.md",
-    "Untitled 1.md"
+    "three-needle-bind.md"
   ]
 }
