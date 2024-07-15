@@ -10,9 +10,11 @@ tags:
 ---
 # Watch this Spacetime Newsletter from AstroKatie
 ## Comments
+- Monthly newsletter[^1]
 
 ## Reference
 ## Links
 [[Katie Mack]]
+# Footnotes
 
-
+[^1]: [AstroKatie](https://www.astrokatie.com/)
