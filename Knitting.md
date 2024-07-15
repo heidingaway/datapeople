@@ -15,6 +15,8 @@ tags:
 
 ## Link
 ```dataview
-TABLE "#"+tags as Tags title as Title
+TABLE 
+"#"+tags as Tags
 FROM [[]] AND !#PROJECTS
+SORT Tags DESC
 ```
