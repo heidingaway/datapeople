@@ -3,8 +3,8 @@ title: AI, cyber-attacks and amateur experiments threaten to upend global biosec
 aliases: 
 created: 2024-07-12
 modified: 2024-07-12
-status: 
-zettel: 
+status: parking
+zettel: literature
 source: article
 tags:
   - RESOURCES/artificial-intelligence-AI

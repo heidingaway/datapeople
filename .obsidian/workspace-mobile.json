@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive.md",
+                "file": "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "pin",
+            "query": "[zettel: null",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -94,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 4,
+    "currentTab": 1,
     "pinned": true
   },
   "right": {
@@ -115,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Archive.md",
+            "file": "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Archive.md",
+            "file": "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -144,7 +144,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Archive.md"
+            "file": "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md"
           }
         }
       }
@@ -164,8 +164,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c3b2c4a159c1dede",
+  "active": "d62606c835b72597",
   "lastOpenFiles": [
+    "Archive.md",
     "2024-07-08.md",
     "2024-07-15.md",
     "pininfo.md",
@@ -190,7 +191,6 @@
     "Everything is Different - Plain English Weekly.md",
     "Emotional Design - Don Norman.md",
     "Digital With Purpose Blog.md",
-    "Designing letters as part of the whole user journey.md",
-    "Data Foundations to Better Support Canadians.md"
+    "Designing letters as part of the whole user journey.md"
   ]
 }
