@@ -21,7 +21,6 @@ tags:
 [[<% tp.date.weekday("YYYY-MM-DD", 4) %>]]
 [[<% tp.date.weekday("YYYY-MM-DD", 5) %>]]
 [[<% tp.date.weekday("YYYY-MM-DD", 6) %>]]
-[[<% tp.date.weekday("YYYY-MM-DD", 7) %>]]
 ## Unfiled Notes
 ```dataview
 list
