@@ -10,7 +10,10 @@ tags:
 ---
 # Designing letters as part of the whole user journey
 ## Comments
-- 
+- "**Redesigning letters to meet user needs**: User research found that people expect a letter when they can get their State Pension. This letter is the main way that people find and enter Get your State Pension and so it’s important that it provides trust and explains what to do."[^1]
 
 ## Links
 [[Digital With Purpose Blog]]
+# Footnotes
+
+[^1]: 
