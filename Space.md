@@ -1,15 +1,15 @@
 ---
-title: Physics
+title: Space
 aliases: 
 created: 2024-07-11
-modified: 2024-07-12
+modified: 2024-07-15
 status: evergreen
 zettel: hub
 tags:
   - RESOURCES/space
   - README/RESOURCES
 ---
-# Physics
+# Space
 ## Comments
 
 ## Reference
@@ -17,5 +17,5 @@ tags:
 ## Links
 ```dataview
 LIST 
-FROM #RESOURCES/physics
+FROM #RESOURCES/space
 ```

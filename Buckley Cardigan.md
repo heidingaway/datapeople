@@ -6,9 +6,8 @@ modified: 2024-07-15
 status: evergreen
 zettel: reference
 tags:
-  - RESOURCES/knitting/pattern
+  - RESOURCES/knitting/pattern/sweater
   - PROJECTS/cardigan-buckley
-  - RESOURCES/knitting/pattern/1600-2000y
 ---
 # Buckley Cardigan
 
@@ -39,6 +38,7 @@ pattern_attributes:
 - [[three-needle-bind]]
 - [[worked-flat]]
 - [[written-pattern]]
+- [[1600 to 2000 yds]]
 
 ## Link
 [[Buckley - Project Notes]]

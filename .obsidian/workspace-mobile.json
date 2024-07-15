@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Template - weekly.md",
+                "file": "2024-07-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 4,
+    "pinned": true
   },
   "right": {
     "id": "2ff742e27f99fa5e",
@@ -101,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Template - weekly.md",
+            "file": "2024-07-08.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Template - weekly.md",
+            "file": "2024-07-08.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/Template - weekly.md"
+            "file": "2024-07-08.md"
           }
         }
       }
@@ -149,33 +150,33 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c9ae12dedd9108c8",
+  "active": "89d951dd2f945edd",
   "lastOpenFiles": [
-    "2024-07-15.md",
+    "Festival Twist Plan.md",
+    "Buckley Cardigan.md",
+    "2024-07-08.md",
+    "Space.md",
+    "Artificial Intelligence - AI.md",
+    "Astrobio Defense.md",
+    "Knitting.md",
+    "Community.md",
+    "Areas.md",
+    "2024-07-13.md",
     "2024-07-11.md",
     "2024-07-12.md",
-    "2024-07-08.md",
-    "2024-07-13.md",
-    "Buckley - Project Notes.md",
+    "2024-08-07.md",
+    "README.md",
+    "2024-07-10.md",
+    "2024-07-15.md",
     "2024-W29.md",
+    "three-needle-bind.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "seamed.md",
+    "Templates/Template - weekly.md",
+    "Buckley - Project Notes.md",
     "Quince & Co. Sparrow.md",
     "Jamieson and Smith.md",
-    "Jamieson and Smith 2 ply Jumper Weight.md",
-    "I'll Be Your Daisy.md",
-    "Quince & Co. - brand.md",
-    "Quince & Co. - pub.md",
-    "Templates/Project Note - Knitting Crochet.md",
-    "README.md",
-    "Knitting.md",
-    "Buckley Cardigan.md",
-    "US 5 - 3.75 mm.md",
-    "US 4 - 3.5 mm.md",
-    "Fingering (14 wpi).md",
-    "Sparrow 2018.md",
-    "Michele Wang.md",
-    "bottom-up.md",
-    "written-pattern.md",
-    "worked-flat.md",
-    "schematic.md"
+    "Jamieson and Smith 2 ply Jumper Weight.md"
   ]
 }
