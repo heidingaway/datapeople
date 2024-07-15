@@ -1,0 +1,17 @@
+---
+title: written-pattern
+aliases: 
+created: 2024-07-15
+modified: 2024-07-15
+status: evergreen
+zettel: literature
+tags:
+  - RESOURCES/knitting/definition
+---
+# Definition
+- uses words to describe the techniques involved.[^1]
+
+# Links
+# Footnotes
+
+[^1]: [written-pattern | ravelry](https://www.ravelry.com/patterns/attributes/written-pattern "uses words to describe the techniques involved")
