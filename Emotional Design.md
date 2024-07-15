@@ -14,6 +14,10 @@ tags:
 
 ## Links
 [[Design]]
+```dataview
+LIST
+FROM [[]]
+```
 
 # Footnotes
 

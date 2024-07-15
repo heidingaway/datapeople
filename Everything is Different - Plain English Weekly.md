@@ -6,7 +6,7 @@ modified: 2024-07-15
 status: complete
 zettel: literature
 tags:
-  - RESOURCES/design
+  - RESOURCES/design/source
 ---
 # Everything is Different - Plain English Weekly
 ## Comments

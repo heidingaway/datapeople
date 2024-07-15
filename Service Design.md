@@ -6,13 +6,13 @@ modified: 2024-07-15
 status: evergreen
 zettel: resource
 tags:
-  - README/RESOURCES
-  - RESOURCES/design/definition
+  - RESOURCES/design/definition 
 ---
 # Service Design
 ## Comments
 
 ## Links
+[[Design]]
 ```dataview
 LIST
 FROM [[]]

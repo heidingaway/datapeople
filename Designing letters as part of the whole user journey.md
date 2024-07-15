@@ -6,8 +6,8 @@ modified: 2024-07-15
 status: parking
 zettel: literature
 tags:
-  - RESOURCES/design/definition
-  - RESOURCES/digital-government
+  - RESOURCES/design/source
+  - RESOURCES/digital-government/source
 ---
 # Designing letters as part of the whole user journey
 ## Comments
@@ -16,6 +16,7 @@ tags:
 ## Links
 [[Digital With Purpose Blog]]
 [[Service Design]]
+[[Design]]
 [[TBR]]
 # Footnotes
 

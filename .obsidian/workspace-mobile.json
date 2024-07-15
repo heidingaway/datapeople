@@ -11,8 +11,12 @@
             "id": "c3b2c4a159c1dede",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Knitting.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -40,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "design",
+            "query": "service design",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -77,7 +81,7 @@
         }
       }
     ],
-    "currentTab": 4,
+    "currentTab": 3,
     "pinned": true
   },
   "right": {
@@ -98,6 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Knitting.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,6 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Knitting.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +130,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Knitting.md"
+          }
         }
       }
     ],
@@ -145,31 +153,31 @@
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
-    "Emotional Design.md",
-    "Service Design.md",
     "README.md",
-    "Resources.md",
+    "24 stitches and 27 rows in stockinette.md",
     "Designing letters as part of the whole user journey.md",
-    "Everything is Different - Plain English Weekly.md",
-    "Plain English Weekly Newsletter.md",
-    "Emotional Design - Don Norman.md",
-    "Design.md",
+    "Digital Government.md",
     "Digital With Purpose Blog.md",
+    "Service Design.md",
+    "Everything is Different - Plain English Weekly.md",
+    "Emotional Design.md",
+    "Emotional Design - Don Norman.md",
+    "Plain English Weekly Newsletter.md",
+    "Design.md",
+    "2024-07-15.md",
+    "Resources.md",
     "Watch this Spacetime from AstroKatie - June edition.md",
     "Watch this Spacetime Newsletter from AstroKatie.md",
     "Yarn Weight.md",
     "Templates/Notes - Unfiled.md",
     "Templates/Note - Resource Hubs.md",
-    "24 stitches and 27 rows in stockinette.md",
     "Fingering (14 wpi).md",
-    "2024-07-15.md",
     "Jamieson and Smith 2 ply Jumper Weight.md",
     "Gauge.md",
     "Needle Sizes.md",
     "US 6 - 4.00 mm.md",
     "US 5 - 3.75 mm.md",
     "US 4 - 3.5 mm.md",
-    "Knitting.md",
-    "1600 to 2000 yds.md"
+    "Knitting.md"
   ]
 }
