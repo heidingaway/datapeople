@@ -38,5 +38,5 @@ list from [[]] and !outgoing([[]])
 
 ## Completed this week
 ```tasks
-done 2024-07-07 2024-07-14
+done <% tp.date.weekday("YYYY-MM-DD", 1) %> <% tp.date.weekday("YYYY-MM-DD", 7) %>
 ```

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0b42ba56d264347c",
+        "id": "81ca95b467b99845",
         "type": "tabs",
         "children": [
           {
-            "id": "3317ae789bdfd716",
+            "id": "58ffa43fdf18f57d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Template - weekly.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Template - weekly.md",
+            "file": "Untitled 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Template - weekly.md",
+            "file": "Untitled 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/Template - weekly.md"
+            "file": "Untitled 1.md"
           }
         }
       }
@@ -141,12 +141,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "3317ae789bdfd716",
+  "active": "58ffa43fdf18f57d",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "2024-W29.md",
     "Templates/Template - weekly.md",
     "2024-07-15.md",
     "2024-W28.md",
-    "2024-W29.md",
     "2024-07-08.md",
     "2024-07-12.md",
     "2024-07-10.md",
