@@ -3,8 +3,8 @@ title: Friday Finds - Newsletter by Mike Taylor
 aliases: 
 created: 2024-07-15
 modified: 2024-07-15
-status: 
-zettel: 
+status: evergreen
+zettel: resources
 tags:
   - RESOURCES/design
   - RESOURCES/LearnxD
