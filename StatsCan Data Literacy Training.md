@@ -12,7 +12,6 @@ tags:
 
 ## Comments
 - The learning paths are organized by the step on the [data journey](https://www.statcan.gc.ca/en/wtc/data-literacy/journey) and the level of proficiency.[^1]
-
 # Links
 [[Data]]
 [[Data Literacy]]
