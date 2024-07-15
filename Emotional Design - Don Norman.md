@@ -6,6 +6,8 @@ modified: 2024-07-15
 status: literature
 zettel: 
 tags: 
+- RESOURCES/design/emotional-design
+- TBR
 subtitle: Why We Love (or Hate) Everyday Things
 author: Don Norman
 authors: Don Norman

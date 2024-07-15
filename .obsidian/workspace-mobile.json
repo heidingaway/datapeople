@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9896153f546e0235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 4,
+    "currentTab": 0,
     "pinned": true
   },
   "right": {
@@ -102,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Emotional Design - Don Norman.md",
+            "file": "Book Note.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Emotional Design - Don Norman.md",
+            "file": "Book Note.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +144,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Emotional Design - Don Norman.md"
+            "file": "Book Note.md"
           }
         }
       }
@@ -151,10 +164,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "89d951dd2f945edd",
+  "active": "9896153f546e0235",
   "lastOpenFiles": [
-    "2024-07-15.md",
     "Emotional Design - Don Norman.md",
+    "Book Note.md",
+    "2024-07-15.md",
     "Emotional Design.md",
     "seamed.md",
     "Data Foundations to Better Support Canadians.md",
@@ -177,7 +191,6 @@
     "2024-07-11.md",
     "2024-07-12.md",
     "2024-08-07.md",
-    "README.md",
-    "three-needle-bind.md"
+    "README.md"
   ]
 }
