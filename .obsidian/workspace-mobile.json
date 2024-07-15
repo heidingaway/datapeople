@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-15.md",
+                "file": "Ima.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-15.md",
+            "file": "Ima.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-15.md",
+            "file": "Ima.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-15.md"
+            "file": "Ima.md"
           }
         }
       }
@@ -152,8 +152,9 @@
   },
   "active": "89d951dd2f945edd",
   "lastOpenFiles": [
-    "2024-W29.md",
     "2024-07-15.md",
+    "Ima.md",
+    "2024-W29.md",
     "Data Quality as Fitness for Use.md",
     "Templates/notes.md",
     "Templates/notes - definition.md",
@@ -176,7 +177,6 @@
     "three-needle-bind.md",
     "Untitled 1.md",
     "seamed.md",
-    "Templates/Template - weekly.md",
-    "Buckley - Project Notes.md"
+    "Templates/Template - weekly.md"
   ]
 }
