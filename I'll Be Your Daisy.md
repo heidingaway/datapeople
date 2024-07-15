@@ -16,7 +16,7 @@ tags:
 | -------- | ---- |
 |          | 27”  |
 ## Yarn
-[[2 ply Jumper Weight - Jamieson and Smith]] 
+[[Jamieson and Smith 2 ply Jumper Weight]] 
 ## Needles
 [[D/3.0mm - crochet hook]]
 ## Comments

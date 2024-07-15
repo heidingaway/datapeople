@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buckley - Notes.md",
+                "file": "2024-07-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#RESOURCES/knitting",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Buckley - Notes.md",
+            "file": "2024-07-13.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Buckley - Notes.md",
+            "file": "2024-07-13.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Buckley - Notes.md"
+            "file": "2024-07-13.md"
           }
         }
       }
@@ -141,8 +141,19 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "89d951dd2f945edd",
+  "active": "d62606c835b72597",
   "lastOpenFiles": [
+    "2024-07-15.md",
+    "2024-07-13.md",
+    "2024-07-12.md",
+    "Buckley - Project Notes.md",
+    "2024-W29.md",
+    "Quince & Co. Sparrow.md",
+    "Jamieson and Smith.md",
+    "Jamieson and Smith 2 ply Jumper Weight.md",
+    "I'll Be Your Daisy.md",
+    "Quince & Co. - brand.md",
+    "Quince & Co. - pub.md",
     "Templates/Project Note - Knitting Crochet.md",
     "README.md",
     "Knitting.md",
@@ -150,8 +161,6 @@
     "US 5 - 3.75 mm.md",
     "US 4 - 3.5 mm.md",
     "Fingering (14 wpi).md",
-    "Quince & Co. Sparrow.md",
-    "Quince & Co..md",
     "Sparrow 2018.md",
     "Michele Wang.md",
     "bottom-up.md",
@@ -159,15 +168,6 @@
     "worked-flat.md",
     "schematic.md",
     "long-sleeve.md",
-    "lace.md",
-    "chart.md",
-    "24 stitches and 27 rows in stockinette.md",
-    "Templates/Pattern card.md",
-    "Templates/notes.md",
-    "Templates/notes - definition.md",
-    "Buckley - Notes.md",
-    "three-needle-bind.md",
-    "seamed.md",
-    "Untitled 1.md"
+    "lace.md"
   ]
 }

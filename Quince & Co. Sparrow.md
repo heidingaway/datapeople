@@ -3,8 +3,8 @@ title: Yarn - Quince & Co. Sparrow
 aliases: 
 created: 2024-07-15
 modified: 2024-07-15
-status: 
-zettel: 
+status: evergreen
+zettel: literature
 tags:
   - RESOURCES/knitting/yarn
 ---
@@ -14,3 +14,5 @@ tags:
 
 ## Links
 [[Knitting]]
+[[Quince & Co. - brand]]
+[[Fingering (14 wpi)]]

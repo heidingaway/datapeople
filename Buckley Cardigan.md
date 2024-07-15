@@ -15,7 +15,7 @@ tags:
 ## Pattern Attributes
 pattern_name: Buckley
 designer: [[Michele Wang]]
-publication: [[Sparrow 2018]]; [[Quince & Co.]]
+publication: [[Sparrow 2018]]; [[Quince & Co. - pub]]
 craft: [[Knitting]]
 garment_cat: sweater/cardigan 
 published: 2018-03
@@ -41,4 +41,4 @@ pattern_attributes:
 - [[written-pattern]]
 
 ## Link
-[[Buckley - Notes]]
+[[Buckley - Project Notes]]
