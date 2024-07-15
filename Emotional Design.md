@@ -15,4 +15,4 @@ tags:
 ## Links
 # Footnotes
 
-[^1]: [Emotional Design (ED)]()
+[^1]: [Emotional Design (ED)](https://www.interaction-design.org/literature/topics/emotional-design)
