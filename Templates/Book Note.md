@@ -1,21 +1,19 @@
 ---
-title: "{{title}}"
-subtitle: "{{subtitle}}"
-author: [{{author}}]
-category: [{{category}}]
-publisher: {{publisher}}
-publish: {{publishDate}}
-total: {{totalPage}}
-isbn10: {{isbn10}}
-cover: {{coverUrl}}
-localCover: {{localCoverImage}}
-status: unread
-created: {{DATE:YYYY-MM-DD HH:mm:ss}}
-updated: {{DATE:YYYY-MM-DD HH:mm:ss}}
-tag: 
-- RESOURCES/Book
+title: 
+aliases: 
+created: 
+modified: 
+status: evergreen
+zettel: literature
+tags:
+- RESOURCES/book
 ---
-
-<%* if (tp.frontmatter.localCover && tp.frontmatter.localCover.trim() !== "") { tR += `![[${tp.frontmatter.localCover}|150]]` } %>
 # {{title}}
-- {{description}}
+- subtitle: "{{subtitle}}"
+- author: [[{{author}}]]
+- publisher: {{publisher}}
+- publish: {{publishDate}}
+- category: [[{{category}}]]
+- description: {{description}}
+- total: {{totalPage}}
+- isbn10: {{isbn10}}
