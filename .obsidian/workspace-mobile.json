@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#dailynote/2024-W28",
+            "query": "tag:#PROJECTS/cardigan-buckley",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "right": {
     "id": "2ff742e27f99fa5e",
@@ -143,7 +143,12 @@
   },
   "active": "58ffa43fdf18f57d",
   "lastOpenFiles": [
+    "Quince & Co..md",
+    "Untitled 1.md",
     "Buckley Cardigan.md",
+    "24 stitches and 27 rows in stockinette.md",
+    "Michele Wang.md",
+    "Quince & Co. Sparrow.md",
     "2024-W29.md",
     "Templates/Template - weekly.md",
     "2024-07-15.md",
