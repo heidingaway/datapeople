@@ -12,6 +12,7 @@ tags:
 - includes a drawing, probably with measurements[^1]
 
 # Links
+[[Knitting]]
 # Footnotes
 
 [^1]: [schematic | ravelry](https://www.ravelry.com/patterns/attributes/schematic "includes a drawing, probably with measurements")

@@ -12,6 +12,7 @@ tags:
 - worked back-and-forth in rows.[^1]
 
 # Links
+[[Knitting]]
 # Footnotes
 
 [^1]: [worked-flat | ravelry](https://www.ravelry.com/patterns/attributes/worked-flat "worked back-and-forth in rows.")

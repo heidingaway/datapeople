@@ -7,9 +7,14 @@ status: evergreen
 zettel: resources
 tags:
   - RESOURCES/knitting
+  - README/RESOURCES
 ---
 # Knitting
 
 ## Definition
-- mnk
-# Links
+- 
+## Definitions
+```dataview
+LIST
+FROM #RESOURCES/knitting/definition
+```

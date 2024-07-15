@@ -12,6 +12,7 @@ tags:
 - uses words to describe the techniques involved.[^1]
 
 # Links
+[[Knitting]]
 # Footnotes
 
 [^1]: [written-pattern | ravelry](https://www.ravelry.com/patterns/attributes/written-pattern "uses words to describe the techniques involved")

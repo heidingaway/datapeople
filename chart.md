@@ -11,6 +11,7 @@ tags:
 # Definition
 - uses a visual made of symbols and/or shapes to convey directions[^1]
 # Links
+[[Knitting]]
 # Footnotes
 
 [^1]: [chart | ravelry](https://www.ravelry.com/patterns/attributes/chart)

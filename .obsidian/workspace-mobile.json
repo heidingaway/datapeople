@@ -11,8 +11,12 @@
             "id": "89d951dd2f945edd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Buckley - Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -40,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#RESOURCES/knitting/pattern",
+            "query": "tag:#RESOURCES/knitting",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -69,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "2ff742e27f99fa5e",
@@ -89,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Buckley - Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Buckley - Notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,11 +121,13 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Buckley - Notes.md"
+          }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,31 +143,31 @@
   },
   "active": "89d951dd2f945edd",
   "lastOpenFiles": [
-    "Buckley Cardigan.md",
-    "Templates/Pattern card.md",
-    "Templates/notes.md",
-    "Templates/notes - definition.md",
-    "Buckley - Notes.md",
+    "Templates/Project Note - Knitting Crochet.md",
+    "README.md",
     "Knitting.md",
+    "Buckley Cardigan.md",
+    "US 5 - 3.75 mm.md",
+    "US 4 - 3.5 mm.md",
     "Fingering (14 wpi).md",
-    "Michele Wang.md",
     "Quince & Co. Sparrow.md",
-    "Gauge - 24 stitches and 27 rows in stockinette.md",
+    "Quince & Co..md",
+    "Sparrow 2018.md",
+    "Michele Wang.md",
+    "bottom-up.md",
     "written-pattern.md",
     "worked-flat.md",
-    "three-needle-bind.md",
     "schematic.md",
     "long-sleeve.md",
     "lace.md",
     "chart.md",
-    "bottom-up.md",
+    "24 stitches and 27 rows in stockinette.md",
+    "Templates/Pattern card.md",
+    "Templates/notes.md",
+    "Templates/notes - definition.md",
+    "Buckley - Notes.md",
+    "three-needle-bind.md",
     "seamed.md",
-    "Sparrow 2018.md",
-    "Quince & Co..md",
-    "Untitled 1.md",
-    "2024-W29.md",
-    "Templates/Template - weekly.md",
-    "2024-07-15.md",
-    "2024-W28.md"
+    "Untitled 1.md"
   ]
 }

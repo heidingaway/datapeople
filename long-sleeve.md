@@ -11,6 +11,7 @@ tags:
 # Definition
 - sleeve ends at the wrist bone or later[^1]
 # Links
+[[Knitting]]
 # Footnotes
 
 [^1]: [long-sleeve | ravelry](https://www.ravelry.com/patterns/attributes/long-sleeve "sleeve ends at the wrist bone or later")

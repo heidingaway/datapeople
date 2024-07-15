@@ -11,6 +11,7 @@ tags:
 # Definition
 - "worked from the bottom of the garment/accessory toward the top."[^1]
 # Links
+[[Knitting]]
 # Footnotes
 
 [^1]: [Bottom-Up](https://www.ravelry.com/patterns/attributes/bottom-up)

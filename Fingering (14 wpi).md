@@ -4,10 +4,11 @@ aliases:
 created: 2024-07-15
 modified: 2024-07-15
 status: evergreen
-zettel: literature
+zettel: resource
 tags:
-  - RESOURCES/knitting/definition
+  - RESOURCES/knitting/yarn-weight
 ---
 # Definition
 
 # Links
+[[Knitting]]

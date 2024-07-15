@@ -10,16 +10,6 @@ tags:
 ---
 #  Project Note - Knitting Crochet
 
-## Key Measurements
-
-| Finished | Body |
-| -------- | ---- |
-|          |      |
-## Yarn
-
-## Needles
-## Gauge
-## Special Abbreviations
 ## Comments
 
 ## Links
