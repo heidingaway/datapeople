@@ -16,6 +16,12 @@ tags:
 
 ## Links
 ```dataview
-LIST 
+TABLE 
+"#"+tags as Tag
+FROM [[]]
+SORT tags DESC
+```
+```dataview
+TABLE 
 FROM #RESOURCES/space
 ```

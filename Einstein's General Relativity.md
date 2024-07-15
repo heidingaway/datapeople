@@ -11,6 +11,7 @@ tags:
 ## Definition
 
 ## Links
+[[Space]]
 ```dataview
 LIST
 FROM [[]]

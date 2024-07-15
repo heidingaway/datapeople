@@ -7,7 +7,6 @@ status: parking
 zettel: literature
 tags:
   - RESOURCES/space
-  - TBR
 ---
 # The viral frontier: NASA told act now to tackle pathogens in space
 
@@ -15,3 +14,4 @@ tags:
 [The viral frontier: Nasa told ‘act now’ to tackle pathogens in space](https://www.telegraph.co.uk/global-health/science-and-disease/nasa-told-act-now-to-tackle-biological-threats-from-space/)
 ## Links
 [[Space]]
+[[TBR]]

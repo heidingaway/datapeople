@@ -7,7 +7,6 @@ status: parking
 zettel: literature
 tags:
   - RESOURCES/space
-  - TBR
 ---
 # Love and loss in the time of colliders
 ## Comments
@@ -16,3 +15,5 @@ tags:
 [Love and loss in the time of colliders](https://cosmosmagazine.com/science/physics/love-and-loss-in-the-time-of-colliders/)
 ## Links
 [[Watch this Spacetime from AstroKatie - June edition]]
+[[Space]]
+[[TBR]]

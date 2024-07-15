@@ -7,7 +7,6 @@ status: evergreen
 zettel: literature
 tags:
   - RESOURCES/space
-  - TBR
 ---
 # NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy
 ## Comments
@@ -16,3 +15,5 @@ tags:
 [NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy](https://webbtelescope.org/contents/early-highlights/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy)
 ## Links
 [[Watch this Spacetime from AstroKatie - June edition]] 
+[[Space]]
+[[TBR]]

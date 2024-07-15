@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knitting.md",
+                "file": "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "service design",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -81,7 +81,7 @@
         }
       }
     ],
-    "currentTab": 3,
+    "currentTab": 4,
     "pinned": true
   },
   "right": {
@@ -102,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Knitting.md",
+            "file": "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Knitting.md",
+            "file": "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Knitting.md"
+            "file": "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md"
           }
         }
       }
@@ -153,31 +153,31 @@
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
-    "README.md",
-    "24 stitches and 27 rows in stockinette.md",
-    "Designing letters as part of the whole user journey.md",
-    "Digital Government.md",
-    "Digital With Purpose Blog.md",
-    "Service Design.md",
-    "Everything is Different - Plain English Weekly.md",
-    "Emotional Design.md",
-    "Emotional Design - Don Norman.md",
-    "Plain English Weekly Newsletter.md",
-    "Design.md",
-    "2024-07-15.md",
-    "Resources.md",
-    "Watch this Spacetime from AstroKatie - June edition.md",
+    "Space.md",
+    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
+    "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
     "Watch this Spacetime Newsletter from AstroKatie.md",
-    "Yarn Weight.md",
-    "Templates/Notes - Unfiled.md",
-    "Templates/Note - Resource Hubs.md",
-    "Fingering (14 wpi).md",
-    "Jamieson and Smith 2 ply Jumper Weight.md",
-    "Gauge.md",
-    "Needle Sizes.md",
-    "US 6 - 4.00 mm.md",
-    "US 5 - 3.75 mm.md",
-    "US 4 - 3.5 mm.md",
-    "Knitting.md"
+    "The End of Everything Astrophysically Speaking.md",
+    "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
+    "Fleeting notes.md",
+    "Love and loss in the time of colliders.md",
+    "constant dark energy.md",
+    "Astrobio Defense.md",
+    "Einstein's General Relativity.md",
+    "The viral frontier.md",
+    "Quantum 101 - Quantum Science Explained.md",
+    "Design.md",
+    "Everything is Different - Plain English Weekly.md",
+    "Emotional Design - Don Norman.md",
+    "Digital With Purpose Blog.md",
+    "Designing letters as part of the whole user journey.md",
+    "Resources.md",
+    "Community.md",
+    "README.md",
+    "Knitting.md",
+    "24 stitches and 27 rows in stockinette.md",
+    "Digital Government.md",
+    "Service Design.md",
+    "Emotional Design.md"
   ]
 }

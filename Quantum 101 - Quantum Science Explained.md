@@ -7,7 +7,6 @@ status: evergreen
 zettel: literature
 tags:
   - RESOURCES/space
-  - TBR
 ---
 # Quantum 101 - Quantum Science Explained
 ## Comments
@@ -17,6 +16,7 @@ tags:
 ## Links
 [[Watch this Spacetime from AstroKatie - June edition]]
 [[Space]]
+[[TBR]]
 
 
 

@@ -14,6 +14,8 @@ tags:
 
 ## Links
 ```dataview
-LIST
+TABLE 
+"#"+tags as Tag
 FROM [[]]
+SORT tags DESC
 ```
