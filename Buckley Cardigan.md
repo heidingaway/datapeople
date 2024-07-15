@@ -11,8 +11,7 @@ tags:
 
 pattern_name: Buckley
 designer: [[Michele Wang]]
-
-publication: [Sparrow 2018](https://www.ravelry.com/patterns/sources/sparrow-2018); [[Quince & Co.]]
+publication: [[Sparrow 2018]]; [[Quince & Co.]]
 craft: knitting
 category: sweater/cardigan
 published: 2018-03
@@ -25,6 +24,7 @@ yardage-m: 1229 - 1843
 sizes_avail_in: 33.25, 37.25, 41.25, 45.25, 49.25, 53.25, 57.25
 sizes_avail_cm: 84.5, 94.5, 105, 115, 125, 135.5, 145.5
 languages: English
+yardage_cat:
 #  Project Note - Knitting Crochet
 
 ## Key Measurements

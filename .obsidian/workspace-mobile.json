@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#PROJECTS/cardigan-buckley",
+            "query": "tag:#RESOURCES/knitting/designers",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 1
   },
   "right": {
     "id": "2ff742e27f99fa5e",
@@ -143,11 +143,12 @@
   },
   "active": "58ffa43fdf18f57d",
   "lastOpenFiles": [
+    "Sparrow 2018.md",
+    "Michele Wang.md",
+    "Buckley Cardigan.md",
     "Quince & Co..md",
     "Untitled 1.md",
-    "Buckley Cardigan.md",
     "24 stitches and 27 rows in stockinette.md",
-    "Michele Wang.md",
     "Quince & Co. Sparrow.md",
     "2024-W29.md",
     "Templates/Template - weekly.md",
