@@ -16,4 +16,4 @@ tags:
 ## Links
 # Footnotes
 
-[^1]: 
+[^1]: [](https://wwps.microsoft.com/episodes/data-foundations-canada)
