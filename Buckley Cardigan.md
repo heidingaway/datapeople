@@ -21,7 +21,7 @@ published: 2018-03
 yarn_name: [[Quince & Co. Sparrow]]
 yarn_weight [[Fingering (14 wpi)]]
 gauge: [[24 stitches and 27 rows in stockinette]] 
-needle_size: [[US 4 - 3.5 mm]]; [[US 5 - 3.75 mm]]
+needle_size: [[US 4 - 3.5 mm]]; [[US 5 - 3.75 mm]]; [[US 6 - 4.00 mm]]
 yardage-y: 1344 - 2016
 yardage-m: 1229 - 1843
 sizes_avail_in: 33.25, 37.25, 41.25, 45.25, 49.25, 53.25, 57.25

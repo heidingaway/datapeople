@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buckley Cardigan.md",
+                "file": "2024-07-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Buckley Cardigan.md",
+            "file": "2024-07-15.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Buckley Cardigan.md",
+            "file": "2024-07-15.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Buckley Cardigan.md"
+            "file": "2024-07-15.md"
           }
         }
       }
@@ -153,7 +153,10 @@
   },
   "active": "a17f939602477631",
   "lastOpenFiles": [
+    "Buckley Cardigan.md",
+    "US 6 - 4.00 mm.md",
     "US 5 - 3.75 mm.md",
+    "24 stitches and 27 rows in stockinette.md",
     "2024-07-08.md",
     "2024-07-10.md",
     "2024-W28.md",
@@ -172,12 +175,9 @@
     "Templates/notes - definition.md",
     "StatsCan Data Literacy Training.md",
     "Festival Twist Plan.md",
-    "Buckley Cardigan.md",
     "Space.md",
     "Artificial Intelligence - AI.md",
     "Astrobio Defense.md",
-    "Knitting.md",
-    "Community.md",
-    "Areas.md"
+    "Knitting.md"
   ]
 }
