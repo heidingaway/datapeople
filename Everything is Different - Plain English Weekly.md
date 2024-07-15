@@ -11,7 +11,7 @@ tags:
 # Everything is Different - Plain English Weekly
 ## Comments
 - Why you should avoid PDFs, effective letter writing, a book-making tool and the reality of being a content designer.[^1]
-- 
+- [[Designing letters as part of the whole user journey]]
 
 ## Links
 [[Plain English Weekly Newsletter]]
