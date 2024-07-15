@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-11.md",
+                "file": "Templates/Template - weekly.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,9 +71,17 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "8573d176c79a1184",
+        "type": "leaf",
+        "state": {
+          "type": "tagfolder-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "right": {
     "id": "2ff742e27f99fa5e",
@@ -93,7 +101,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-11.md",
+            "file": "Templates/Template - weekly.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-11.md",
+            "file": "Templates/Template - weekly.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-11.md"
+            "file": "Templates/Template - weekly.md"
           }
         }
       }
@@ -141,12 +149,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "d62606c835b72597",
+  "active": "c9ae12dedd9108c8",
   "lastOpenFiles": [
-    "2024-07-12.md",
-    "2024-07-11.md",
-    "2024-07-08.md",
     "2024-07-15.md",
+    "2024-07-11.md",
+    "2024-07-12.md",
+    "2024-07-08.md",
     "2024-07-13.md",
     "Buckley - Project Notes.md",
     "2024-W29.md",

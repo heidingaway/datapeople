@@ -10,7 +10,7 @@
   "expandLimit": 0,
   "disableNestedTags": false,
   "hideItems": "NONE",
-  "ignoreFolders": "",
+  "ignoreFolders": "/Templates",
   "targetFolders": "",
   "scanDelay": 250,
   "useTitle": true,
