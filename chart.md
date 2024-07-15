@@ -6,7 +6,7 @@ modified: 2024-07-15
 status: evergreen
 zettel: literature
 tags:
-  - RESOURCES/knitting/definitions
+  - RESOURCES/knitting/definition
 ---
 # Definition
 - uses a visual made of symbols and/or shapes to convey directions[^1]

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "81ca95b467b99845",
+        "id": "bb977b4ee6adefdb",
         "type": "tabs",
         "children": [
           {
-            "id": "58ffa43fdf18f57d",
+            "id": "89d951dd2f945edd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buckley Cardigan.md",
+                "file": "Cardigan - Buckley.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#RESOURCES/knitting/designers",
+            "query": "tag:#RESOURCES/knitting/definitions",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
   "right": {
     "id": "2ff742e27f99fa5e",
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Buckley Cardigan.md",
+            "file": "Cardigan - Buckley.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Buckley Cardigan.md",
+            "file": "Cardigan - Buckley.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Buckley Cardigan.md"
+            "file": "Cardigan - Buckley.md"
           }
         }
       }
@@ -141,13 +141,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "58ffa43fdf18f57d",
+  "active": "89d951dd2f945edd",
   "lastOpenFiles": [
-    "chart.md",
-    "Buckley Cardigan.md",
-    "bottom-up.md",
+    "schematic.md",
     "long-sleeve.md",
     "lace.md",
+    "chart.md",
+    "bottom-up.md",
+    "Cardigan - Buckley.md",
+    "Templates/notes.md",
+    "seamed.md",
+    "Templates/notes - definition.md",
     "Sparrow 2018.md",
     "Michele Wang.md",
     "Quince & Co..md",

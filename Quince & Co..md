@@ -13,4 +13,4 @@ tags:
 [Quince & Co.](https://www.ravelry.com/patterns/sources/quince--co)
 
 ## Links
-[[Buckley Cardigan]]
+[[Cardigan - Buckley]]

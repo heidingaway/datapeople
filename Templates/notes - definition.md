@@ -2,13 +2,11 @@
 title: 
 created: 
 modified: 
-status:  
+status:  evergreen
 zettel: literature
 tags:
   - 
 ---
 ## Definition
-
-## Reference
 
 # Links

@@ -13,4 +13,4 @@ tags:
 [Michele Wang](https://www.ravelry.com/designers/michele-wang)
 ## Links
 [[Knitting Designers]]
-[[Buckley Cardigan]]
+[[Cardigan - Buckley]]

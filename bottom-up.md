@@ -6,7 +6,7 @@ modified: 2024-07-15
 status: evergreen
 zettel: literature
 tags:
-  - RESOURCES/knitting/definitions
+  - RESOURCES/knitting/definition
 ---
 # Definition
 - "worked from the bottom of the garment/accessory toward the top."[^1]

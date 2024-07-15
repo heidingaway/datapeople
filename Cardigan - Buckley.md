@@ -3,17 +3,18 @@ title: Buckley Cardigan
 aliases: 
 created: 2024-07-12
 modified: 2024-07-15
-status: 
+status: evergreen
 zettel: reference
 tags:
   - PROJECTS/cardigan-buckley
+  - RESOURCES/knitting/pattern
 ---
 
 pattern_name: Buckley
 designer: [[Michele Wang]]
 publication: [[Sparrow 2018]]; [[Quince & Co.]]
 craft: knitting
-category: sweater/cardigan
+garment_cat: sweater/cardigan
 published: 2018-03
 suggested yarn: [[Quince & Co. Sparrow]]
 yarn_weight: [[Fingering (14 wpi)]]
@@ -30,8 +31,8 @@ pattern_attributes:
 - [[chart]]
 - [[lace]]
 - [[long-sleeve]]
-- [schematic](https://www.ravelry.com/patterns/attributes/schematic "includes a drawing, probably with measurements")
-- [seamed](https://www.ravelry.com/patterns/attributes/seamed "worked as individual pieces, joined together with a seam.")
+- [[schematic]]
+- [[seamed]]
 - [three-needle-bind](https://www.ravelry.com/patterns/attributes/three-needle-bind "A method of joining two pieces together in knitting in which the live stitches from two pieces are knit together and cast off with a third needle.")
 - [worked-flat](https://www.ravelry.com/patterns/attributes/worked-flat "worked back-and-forth in rows.")
 - [written-pattern](https://www.ravelry.com/patterns/attributes/written-pattern "uses words to describe the techniques involved")

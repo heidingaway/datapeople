@@ -6,7 +6,7 @@ modified: 2024-07-15
 status: 
 zettel: literature
 tags:
-  - RESOURCES/knitting/definitions
+  - RESOURCES/knitting/definition
 ---
 # Definition
 - a pattern of stable holes that are arranged to create a decorative fabric[^1]
