@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "[zettel: null",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -94,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 1,
+    "currentTab": 4,
     "pinned": true
   },
   "right": {
