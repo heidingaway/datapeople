@@ -1,7 +1,7 @@
 ---
 title: <% tp.file.title %>
-dateTime: <% tp.date.now("YYYY-MM-DDTHH:MM:SS") %>
-endDatetime: 2024-08-10T17:00:00
+dateTime: <% tp.date.now("YYYY-MM-DD HH:MM:SS") %>
+endDatetime: <% tp.date.now("YYYY-MM-DD HH:MM:SS") %>
 allDay: false
 completed: null
 created: 

@@ -1,7 +1,7 @@
 ---
 title: Festival Twist 2024
-dateTime: 2024-08-10T10:00:00
-endDatetime: 2024-08-10T17:00:00
+dateTime: 2024-08-10 10:00:00
+endDatetime: 2024-08-10 17:00:00
 allDay: false
 completed: 
 created: 2024-07-17

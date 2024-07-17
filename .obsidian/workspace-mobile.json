@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Note - event card timed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c54ec3236c74f567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Note - event card timed.md",
+                "file": "Lunch with Portia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 0,
+    "currentTab": 4,
     "pinned": true
   },
   "right": {
@@ -120,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Note - event card timed.md",
+            "file": "Lunch with Portia.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Note - event card timed.md",
+            "file": "Lunch with Portia.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/Note - event card timed.md"
+            "file": "Lunch with Portia.md"
           }
         }
       }
@@ -170,13 +157,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c54ec3236c74f567",
+  "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
-    "Templates/Note - event card all day.md",
-    "Templates/Daily note {{date}}.md",
-    "Templates/Note - event card timed.md",
+    "2024-07-11.md",
+    "Lunch with Portia.md",
+    "2024-W29.md",
     "Festival Twist 2024.md",
     "The Eras Tour in Toronto.md",
+    "Templates/Note - event card timed.md",
+    "Untitled.md",
+    "Templates/Note - event card all day.md",
+    "Templates/Daily note {{date}}.md",
     "2024-11-22.md",
     "2024 Festival Twist Plan.md",
     "2024-08-10.md",
@@ -185,9 +176,7 @@
     "Taylor Swift.md",
     "November 22 The Eras Tour in Toronto.md",
     "Festival Twist.md",
-    "2024-W29.md",
     "2024-08-10 Festival Twist.md",
-    "2024-07-11.md",
     "2024-W28.md",
     "2024-07-16.md",
     "2024-07-15.md",
@@ -196,8 +185,6 @@
     "Templates/Note - address.md",
     "Events.md",
     "Address.md",
-    "Rogers Centre.md",
-    "Event Site.md",
     "D"
   ]
 }
