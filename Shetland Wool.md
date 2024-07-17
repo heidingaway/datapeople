@@ -3,16 +3,18 @@ title: Shetland Wool
 aliases: 
 created: 2024-07-16
 modified: 2024-07-16
-status: 
-zettel: 
+status: evergreen
+zettel: reference
 tags:
-  - unfiled/2024-07-16
+  - RESOURCES/knitting/definition
 ---
 # Shetland Wool
 ## Comments
 
 ## Outgoing Link
-
+[[Knitting]]
+[[Shetland]]
+[[Definition]]
 ## Incoming Link
 ```dataview
 LIST

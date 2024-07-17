@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Process.md",
+                "file": "Yarn Company.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
         }
       }
     ],
-    "currentTab": 5,
-    "pinned": true
+    "currentTab": 5
   },
   "right": {
     "id": "2ff742e27f99fa5e",
@@ -115,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Process.md",
+            "file": "Yarn Company.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Process.md",
+            "file": "Yarn Company.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -144,7 +143,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Process.md"
+            "file": "Yarn Company.md"
           }
         }
       }
@@ -166,9 +165,12 @@
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
+    "Taylor Swift.md",
+    "Shetland Wool.md",
+    "Events.md",
+    "Process.md",
     "Yarn Weight.md",
     "November 22 The Eras Tour in Toronto.md",
-    "Events.md",
     "Yarn.md",
     "Yarn Company.md",
     "Fingering (14 wpi).md",
@@ -189,9 +191,6 @@
     "worked-flat.md",
     "US 5 - 3.75 mm.md",
     "US 4 - 3.5 mm.md",
-    "Triaging by actionability.md",
-    "three-needle-bind.md",
-    "Service Design.md",
     "D"
   ]
 }
