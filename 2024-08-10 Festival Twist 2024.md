@@ -2,7 +2,7 @@
 title: 2024-08-10 Festival Twist 2024
 date: 2024-08-10
 endDate: 
-time:
+time: “YYYY-MM-DD HH:mm"
 endTime: 
 created: 2024-07-17
 modified: 2024-07-17
