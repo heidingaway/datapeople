@@ -27,6 +27,12 @@ LIST
 WHERE modified = date(<% tp.date.now("YYYY-MM-DD") %>)
 ```
 
+## Link
+```dataview
+LIST
+FROM [[]]
+```
+
 # Footnotes
 
 [^1]: [[Daily Note]]

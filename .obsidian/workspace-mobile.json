@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buckley - Project Notes.md",
+                "file": "24 stitches and 27 rows in stockinette.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 4,
+    "currentTab": 0,
     "pinned": true
   },
   "right": {
@@ -115,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Buckley - Project Notes.md",
+            "file": "24 stitches and 27 rows in stockinette.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Buckley - Project Notes.md",
+            "file": "24 stitches and 27 rows in stockinette.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -144,7 +144,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Buckley - Project Notes.md"
+            "file": "24 stitches and 27 rows in stockinette.md"
           }
         }
       }
@@ -166,31 +166,31 @@
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
+    "Templates/Daily note {{date}}.md",
+    "Templates/Template - weekly.md",
+    "Templates/Notes - Unfiled.md",
+    "Templates/Note - Resource Hubs.md",
+    "Templates/Note - Regular Publications.md",
+    "Templates/Note - Project.md",
+    "Templates/Note - Pattern card.md",
+    "Templates/Note - definition.md",
+    "Templates/Note - Books.md",
+    "i-cord edge.md",
+    "Buckley - Project Notes.md",
+    "2024-07-15.md",
+    "2024-07-16.md",
+    "2024-W29.md",
+    "2024-07-12.md",
+    "2024-07-11.md",
     "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
     "Archive.md",
     "2024-07-08.md",
-    "2024-07-15.md",
     "pininfo.md",
     "Areas.md",
     "Plain English Weekly Newsletter.md",
     "Power of Placemaking.md",
     "Community Placemaking.md",
     "Community.md",
-    "TBR.md",
-    "Watch this Spacetime Newsletter from AstroKatie.md",
-    "Watch this Spacetime from AstroKatie - June edition.md",
-    "The viral frontier.md",
-    "The End of Everything Astrophysically Speaking.md",
-    "StatsCan Data Literacy Training.md",
-    "Quantum 101 - Quantum Science Explained.md",
-    "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
-    "Love and loss in the time of colliders.md",
-    "Friday Finds — Emotional Design, Power of Visuals for Learning, Marketing for L&D GPT.md",
-    "Friday Finds - Newsletter by Mike Taylor.md",
-    "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
-    "Everything is Different - Plain English Weekly.md",
-    "Emotional Design - Don Norman.md",
-    "Digital With Purpose Blog.md",
-    "Designing letters as part of the whole user journey.md"
+    "TBR.md"
   ]
 }

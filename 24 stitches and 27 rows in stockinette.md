@@ -11,10 +11,10 @@ tags:
 # 24 stitches and 27 rows in stockinette
 ## Definition
 
-## Links
+## Outgoing Links
 [[Knitting]]
 [[Gauge]]
-## Patterns
+## Incoming Links
 ```dataview
 LIST
 FROM [[]]

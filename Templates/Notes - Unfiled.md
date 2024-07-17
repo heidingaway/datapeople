@@ -12,3 +12,8 @@ tags:
 
 ## Links
 
+```dataview
+LIST
+FROM [[]]
+```
+

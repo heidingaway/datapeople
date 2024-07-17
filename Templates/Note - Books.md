@@ -17,3 +17,9 @@ tags:
 - description: {{description}}
 - total: {{totalPage}}
 - isbn10: {{isbn10}}
+
+## Link
+```dataview
+LIST
+FROM [[]]
+```

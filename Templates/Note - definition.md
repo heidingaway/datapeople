@@ -5,7 +5,7 @@ modified:
 status:  evergreen
 zettel: literature
 tags:
-  - RESOURCES/definition
+  - RESOURCES
 ---
 # <% tp.file.title %>
 ## Definition
