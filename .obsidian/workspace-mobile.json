@@ -25,18 +25,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2018-08-10 Festival Twist 2024.md",
+                "file": "Festival Twist 2024.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "1b399de225dbd4a1",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
             }
           },
           {
@@ -45,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2018-08-10 Festival Twist 2024.md",
+                "file": "Festival Twist 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-W29.md",
+                "file": "Festival Twist 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +144,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-W29.md",
+            "file": "Festival Twist 2024.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,7 +161,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-W29.md",
+            "file": "Festival Twist 2024.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -181,7 +173,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-W29.md"
+            "file": "Festival Twist 2024.md"
           }
         }
       }
@@ -204,9 +196,9 @@
   },
   "active": "b26571f0dbc594d4",
   "lastOpenFiles": [
-    "2024-07-17.md",
     "2024-W29.md",
-    "2018-08-10 Festival Twist 2024.md",
+    "Festival Twist 2024.md",
+    "2024-07-17.md",
     "November 22 The Eras Tour in Toronto.md",
     "2024-08-10 Festival Twist.md",
     "2024-07-11.md",

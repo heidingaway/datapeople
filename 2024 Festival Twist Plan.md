@@ -18,7 +18,7 @@ tags:
 ## Outgoing Link
 [[Knitting]]
 [[Yarn Festival]]
-[[2018-08-10 Festival Twist 2024]]
+[[Festival Twist 2024]]
 ## Incoming Link
 ```dataview
 LIST
