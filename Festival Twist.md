@@ -13,7 +13,7 @@ tags:
 - annual yarn festival[^1] 
 - Location: [[Complexe Whissell]]![[Complexe Whissell#Address]]
 ## Outgoing Link
-[[2024-08-10 Festival Twist 2024]]
+[[Festival Twist 2024]]
 [[Yarn Festival]]
 ## Incoming Link
 ```dataview

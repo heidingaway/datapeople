@@ -11,6 +11,8 @@
     "date-time": "datetime",
     "endDate-time": "datetime",
     "time": "datetime",
-    "endTime": "datetime"
+    "endTime": "datetime",
+    "dateTime": "datetime",
+    "endDatetime": "datetime"
   }
 }
