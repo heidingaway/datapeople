@@ -9,7 +9,8 @@ tags:
   - AREAS/events
 ---
 # Festival Twist 2024
-## Comments
+![[Festival Twist#Address]]
+## Date
 - [[2024-08-09]]
 - [[2024-08-10]]
 - [[2024-08-11]]

@@ -1,19 +1,19 @@
 ---
-title: Events
+title: Rogers Centre
 aliases: 
 created: 2024-07-16
 modified: 2024-07-16
-status: ongoing
-zettel: fleeting
+status: evergreen
+zettel: literature
 tags:
-  - AREAS/definition
+  - RESOURCES
 ---
-# Events
-## Comments
+# Rogers Centre
+## Address
+
 
 ## Outgoing Link
-[[Areas]]
-[[Definition]]
+
 ## Incoming Link
 ```dataview
 LIST

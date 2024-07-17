@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Festival Twist.md",
+                "file": "Rogers Centre.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Festival Twist.md",
+            "file": "Rogers Centre.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Festival Twist.md",
+            "file": "Rogers Centre.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -144,7 +144,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Festival Twist.md"
+            "file": "Rogers Centre.md"
           }
         }
       }
@@ -166,10 +166,15 @@
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
-    "Quebec.md",
-    "Festival Twist.md",
-    "Yarn Festival.md",
+    "November 22 The Eras Tour in Toronto.md",
+    "Rogers Centre.md",
+    "Events.md",
     "Festival Twist 2024.md",
+    "Festival Twist.md",
+    "Postal Code.md",
+    "Saint-André-Avellin.md",
+    "Quebec.md",
+    "Yarn Festival.md",
     "Knitting.md",
     "2024 Festival Twist Plan.md",
     "Cardigan Buckley - Project Notes.md",
@@ -187,11 +192,6 @@
     "Cosmological Redshift.md",
     "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
     "Data.md",
-    "Data Quality as Fitness for Use.md",
-    "Artificial Intelligence - AI.md",
-    "README.md",
-    "Data Literacy.md",
-    "D/D3.0mm - crochet hook.md",
     "D"
   ]
 }

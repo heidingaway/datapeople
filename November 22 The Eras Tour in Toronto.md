@@ -9,7 +9,8 @@ tags:
   - AREAS/events
 ---
 # November 22 The Eras Tour in Toronto
-## Comments
+[[Rogers Centre]]
+## Date
 [[2024-11-22]]
 ## Outgoing Link
 [[Taylor Swift]]
