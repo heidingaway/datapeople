@@ -6,19 +6,18 @@ modified: 2024-07-16
 status: evergreen
 zettel: reference
 tags:
-  - AREAS/events
+  - RESOURCES/knitting/yarn-festival
 ---
 # Festival Twist
 ## Comments
-- annual yarn festival[^1]
+- annual yarn festival in [[Quebec]] [^1]
 ## Outgoing Link
 [[Festival Twist 2024]]
-
+[[Yarn Festival]]
 ## Incoming Link
 ```dataview
 LIST
 FROM [[]]
 ```
 # Footnotes
-
 [^1]: [Festival Twist webpage](https://festivaltwist.org/)
