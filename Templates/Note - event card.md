@@ -1,13 +1,13 @@
 ---
 title: <% tp.file.title %>
+date:
+endDate:
+allDay: true
+completed: null
 created: 
 modified: 
-status:  ongoing
-zettel: fleeting
 tags:
   - AREAS/events
-event_start: 
-event_end:
 ---
 # <% tp.file.title %>
 ## Address

@@ -4,6 +4,11 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "created": "date",
-    "title": "text"
+    "title": "text",
+    "startTime": "text",
+    "date": "date",
+    "endDate": "date",
+    "date-time": "datetime",
+    "endDate-time": "datetime"
   }
 }

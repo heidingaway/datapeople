@@ -13,50 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-17.md",
+                "file": "Templates/Note - event card.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "93724bd4f8997202",
+            "id": "c54ec3236c74f567",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Festival Twist 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c500688cd0b5f4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Festival Twist 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b26571f0dbc594d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Festival Twist 2024.md",
+                "file": "2024-11-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +107,7 @@
         }
       }
     ],
-    "currentTab": 4,
+    "currentTab": 0,
     "pinned": true
   },
   "right": {
@@ -144,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Festival Twist 2024.md",
+            "file": "2024-11-22.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -161,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Festival Twist 2024.md",
+            "file": "2024-11-22.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -173,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Festival Twist 2024.md"
+            "file": "2024-11-22.md"
           }
         }
       }
@@ -194,19 +170,27 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b26571f0dbc594d4",
+  "active": "c54ec3236c74f567",
   "lastOpenFiles": [
-    "2024-W29.md",
-    "Festival Twist 2024.md",
+    "The Eras Tour in Toronto.md",
+    "2024-11-22.md",
     "2024-07-17.md",
+    "2024-07-18 test.md",
+    "Templates/Note - event card.md",
+    "2024-08-10 Festival Twist 2024.md",
+    "Taylor Swift.md",
     "November 22 The Eras Tour in Toronto.md",
+    "Festival Twist.md",
+    "2024-08-10.md",
+    "2024 Festival Twist Plan.md",
+    "Templates/Daily note {{date}}.md",
+    "2024-W29.md",
     "2024-08-10 Festival Twist.md",
     "2024-07-11.md",
     "2024-W28.md",
     "2024-07-16.md",
     "2024-07-15.md",
     "2024-07-18 testevent.md",
-    "Templates/Note - event card.md",
     "Templates/Note - definition resources.md",
     "Templates/Note - address.md",
     "Events.md",
@@ -214,14 +198,6 @@
     "Rogers Centre.md",
     "Event Site.md",
     "Complexe Whissell.md",
-    "Festival Twist.md",
-    "1600 to 2000 yds.md",
-    "I'll Be Your Daisy - Notes.md",
-    "Definition.md",
-    "Buckley Cardigan.md",
-    "J0V 1W0.md",
-    "Ontario.md",
-    "PARA classification system.md",
     "D"
   ]
 }
