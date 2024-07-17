@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-17.md",
+                "file": "Address.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-17.md",
+            "file": "Address.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-17.md",
+            "file": "Address.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-17.md"
+            "file": "Address.md"
           }
         }
       }
@@ -159,10 +159,23 @@
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
+    "24 stitches and 27 rows in stockinette.md",
+    "kim.md",
+    "Templates/Template - weekly.md",
+    "Templates/Note - event card all day.md",
+    "Ontario.md",
+    "Toronto.md",
+    "Rogers Centre.md",
+    "Event Site.md",
+    "Address.md",
+    "Crochet Hook.md",
+    "2024 Festival Twist Plan.md",
+    "I'll Be Your Daisy - Notes.md",
+    "D3.0mm - crochet hook.md",
+    "Heidi's 12 Favourite Problems.md",
     "2024-07-17.md",
     "2024-W29.md",
     "Templates/Daily note {{date}}.md",
-    "Templates/Template - weekly.md",
     "2024-07-16.md",
     "2024-07-15.md",
     "2024-07-08.md",
@@ -171,20 +184,7 @@
     "2024-07-13.md",
     "2024-07-12.md",
     "2024-07-11.md",
-    "2024 Festival Twist Plan.md",
-    "I'll Be Your Daisy - Notes.md",
     "Cardigan Buckley - Project Notes.md",
-    "Templates/Notes - Unfiled.md",
-    "Templates/Note - Resource Hubs.md",
-    "Templates/Note - Regular Publications.md",
-    "Templates/Note - Project.md",
-    "Templates/Note - Pattern card.md",
-    "Templates/Note - event card timed.md",
-    "Templates/Note - event card all day.md",
-    "Templates/Note - definition resources.md",
-    "Templates/Note - definition location.md",
-    "Templates/Note - Books.md",
-    "Templates/Note - address.md",
     "D"
   ]
 }
