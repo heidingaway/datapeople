@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Address.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 4,
+    "currentTab": 0,
     "pinned": true
   },
   "right": {
@@ -107,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Address.md",
+            "file": "Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Address.md",
+            "file": "Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Address.md"
+            "file": "Home.md"
           }
         }
       }
@@ -159,6 +159,7 @@
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
+    "Address.md",
     "Home.md",
     "24 stitches and 27 rows in stockinette.md",
     "kim.md",
@@ -168,7 +169,6 @@
     "Toronto.md",
     "Rogers Centre.md",
     "Event Site.md",
-    "Address.md",
     "Crochet Hook.md",
     "2024 Festival Twist Plan.md",
     "I'll Be Your Daisy - Notes.md",
