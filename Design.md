@@ -7,7 +7,7 @@ status: evergreen
 zettel: resource
 tags:
   - RESOURCES/design
-  - README/RESOURCES
+  - RESOURCES/definition
 ---
 # Design
 ## Comments
@@ -17,6 +17,7 @@ tags:
 [[Learning Design]]
 [[Service Design]]
 [[Emotional Design]]
+[[Definition]]
 ## Incoming Link
 ```dataview
 LIST

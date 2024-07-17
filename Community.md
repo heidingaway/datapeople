@@ -7,7 +7,7 @@ status: evergreen
 zettel: hub
 tags:
   - RESOURCES/community
-  - README/RESOURCES
+  - RESOURCES/definition
 ---
 # Community
 ## Comments
@@ -15,6 +15,7 @@ tags:
 ## Reference
 ## Outgoing Link
 [[Resources]]
+[[Definition]]
 ## Incoming Link
 ```dataview
 LIST

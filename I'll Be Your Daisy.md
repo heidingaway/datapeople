@@ -18,7 +18,7 @@ tags:
 ## Yarn
 [[Jamieson and Smith 2 ply Jumper Weight]] 
 ## Needles
-[[D/3.0mm - crochet hook]]
+[[D3.0mm - crochet hook]]
 ## Comments
 - 1.5” across per daisy 1.5 x 18 = 27” for front : 18 daisies across front bust
 - 7 daisies lengthwise---

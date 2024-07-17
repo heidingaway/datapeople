@@ -6,7 +6,8 @@ modified: 2024-07-16
 status: evergreen
 zettel: reference
 tags:
-  - RESOURCES/taylor-swift/definition
+  - RESOURCES/definition
+  - RESOURCES/taylor-swift
 ---
 # Taylor Swift
 ## Comments

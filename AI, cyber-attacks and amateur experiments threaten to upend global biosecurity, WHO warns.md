@@ -19,6 +19,8 @@ tags:
 [[Artificial Intelligence - AI]]
 [[Digital Government]]
 [[Space]]
+[[Astrobio Defense]]
+[[Infectious Disease]]
 ## Incoming Link
 ```dataview
 LIST

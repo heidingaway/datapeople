@@ -6,8 +6,8 @@ modified: 2024-07-15
 status: evergreen
 zettel: resource
 tags:
-  - README/RESOURCES
-  - RESOURCES/data-literacy/definition
+  - RESOURCES/definition
+  - RESOURCES/data-literacy
 ---
 # Data Literacy
 ## Comments
@@ -15,7 +15,6 @@ tags:
 ## Outgoing Link
 [[Data]]
 [[Definition]]
-[[README]]
 ## Incoming Link
 ```dataview
 LIST

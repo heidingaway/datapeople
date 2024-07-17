@@ -2,22 +2,22 @@
 title: Space
 aliases: 
 created: 2024-07-11
-modified: 2024-07-15
+modified: 2024-07-16
 status: evergreen
 zettel: hub
 tags:
   - RESOURCES/space
-  - README/RESOURCES
+  - RESOURCES/definition
 ---
 # Space
 ## Comments
 
-## Reference
-
-## Links
+## Outgoing Link
+ [[Resources]]
+ [[Definition]]
+## Incoming Link
 ```dataview
-TABLE 
-"#"+tags as Tag
+LIST
 FROM [[]]
-SORT tags DESC
 ```
+

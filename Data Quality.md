@@ -6,7 +6,7 @@ modified: 2024-07-15
 status: evergreen
 zettel: resource
 tags:
-  - README/RESOURCES
+  - RESOURCES/definition
   - RESOURCES/data-quality
 ---
 # Data Quality
@@ -14,6 +14,7 @@ tags:
 
 ## Outgoing Link
 [[Resources]]
+[[Definition]]
 ## Incoming Link
 ```dataview
 LIST

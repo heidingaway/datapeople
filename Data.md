@@ -6,14 +6,15 @@ modified: 2024-07-15
 status: evergreen
 zettel: resource
 tags:
-  - README/RESOURCES
   - RESOURCES/data
+  - RESOURCES/definition
 ---
 # Data
 ## Comments
 
 ## Outgoing Link
 [[Resources]]
+[[Definition]]
 ## Incoming Link
 ```dataview
 LIST

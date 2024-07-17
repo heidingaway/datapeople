@@ -7,7 +7,7 @@ status: evergreen
 zettel: hub
 tags:
   - RESOURCES/artificial-intelligence-AI
-  - README/RESOURCES
+  - RESOURCES/definition
 ---
 # Artificial Intelligence - AI
 ## Comments

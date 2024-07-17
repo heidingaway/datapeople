@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yarn Company.md",
+                "file": "Festival Twist.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
         }
       }
     ],
-    "currentTab": 5
+    "currentTab": 4,
+    "pinned": true
   },
   "right": {
     "id": "2ff742e27f99fa5e",
@@ -114,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Yarn Company.md",
+            "file": "Festival Twist.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Yarn Company.md",
+            "file": "Festival Twist.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,7 +144,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Yarn Company.md"
+            "file": "Festival Twist.md"
           }
         }
       }
@@ -165,32 +166,32 @@
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
-    "Taylor Swift.md",
-    "Shetland Wool.md",
-    "Events.md",
-    "Process.md",
-    "Yarn Weight.md",
-    "November 22 The Eras Tour in Toronto.md",
-    "Yarn.md",
-    "Yarn Company.md",
-    "Fingering (14 wpi).md",
-    "Knitting.md",
+    "2024 Festival Twist Plan.md",
+    "Festival Twist.md",
+    "Yarn Festival.md",
+    "Cardigan Buckley - Project Notes.md",
     "Resources.md",
-    "Gauge.md",
-    "Knitting Needles.md",
-    "Knitting Designers.md",
+    "Heidi's 12 Favourite Problems.md",
+    "Space.md",
     "Community Placemaking.md",
-    "D/3.0mm - crochet hook.md",
-    "Templates/Note - Pattern card.md",
-    "Templates/Note - Books.md",
+    "Triaging by actionability.md",
+    "Knitting.md",
+    "Design.md",
+    "Data Quality.md",
+    "Community.md",
     "Definition.md",
-    "chart.md",
-    "bottom-up.md",
-    "Zettelkasten Method.md",
-    "written-pattern.md",
-    "worked-flat.md",
-    "US 5 - 3.75 mm.md",
-    "US 4 - 3.5 mm.md",
+    "Projects.md",
+    "Knitting Designers.md",
+    "Cosmological Redshift.md",
+    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
+    "Data.md",
+    "Data Quality as Fitness for Use.md",
+    "Artificial Intelligence - AI.md",
+    "README.md",
+    "Data Literacy.md",
+    "D/D3.0mm - crochet hook.md",
+    "Taylor Swift.md",
+    "Infectious Disease.md",
     "D"
   ]
 }

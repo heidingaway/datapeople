@@ -44,5 +44,5 @@ FROM #dailynote
 ## Resource Hubs
 ```dataview
 LIST
-FROM #README/RESOURCES
+FROM #RESOURCES/definition
 ```

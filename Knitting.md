@@ -7,7 +7,7 @@ status: evergreen
 zettel: resources
 tags:
   - RESOURCES/knitting
-  - README/RESOURCES
+  - RESOURCES/definition
 ---
 # Knitting
 
@@ -15,6 +15,7 @@ tags:
 
 ## Outgoing Link
 [[Resources]]
+[[Definition]]
 ## Incoming Link
 ```dataview
 LIST

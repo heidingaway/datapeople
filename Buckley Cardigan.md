@@ -40,7 +40,7 @@ pattern_attributes:
 - [[1600 to 2000 yds]]
 
 ## Outgoing Link
-[[Buckley - Project Notes]]
+[[Cardigan Buckley - Project Notes]]
 ## Incoming Link
 ```dataview
 LIST

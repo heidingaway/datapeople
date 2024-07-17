@@ -6,13 +6,15 @@ modified: 2024-07-16
 status: 
 zettel: 
 tags:
-  - unfiled/2024-07-16
+  - RESOURCES/knitting/definition
 ---
 # Yarn Company
 ## Comments
 
 ## Outgoing Link
 [[Yarn]]
+[[Knitting]]
+[[Definition]]
 ## Incoming Link
 ```dataview
 LIST
