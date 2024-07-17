@@ -1,7 +1,7 @@
 ---
 title: The Eras Tour in Toronto
-dateTime: 2024-08-10T10:00:00
-endDatetime: 2024-08-10T17:00:00
+dateTime: 2024-08-10T19:00:00
+endDatetime: 2024-08-10T22:00:00
 allDay: false
 completed: null
 created: 2024-07-17
