@@ -7,7 +7,6 @@ status: evergreen
 zettel: reference
 tags:
   - RESOURCES/knitting/pattern/sweater
-  - PROJECTS/cardigan-buckley
 ---
 # Buckley Cardigan
 

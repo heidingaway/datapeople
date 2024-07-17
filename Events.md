@@ -2,7 +2,7 @@
 title: Events
 aliases: 
 created: 2024-07-16
-modified: 2024-07-16
+modified: 2024-07-17
 status: ongoing
 zettel: fleeting
 tags:

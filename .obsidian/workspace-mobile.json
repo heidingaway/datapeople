@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rogers Centre.md",
+                "file": "Festival Twist 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "# definition",
+            "query": "address",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -115,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Rogers Centre.md",
+            "file": "Festival Twist 2024.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Rogers Centre.md",
+            "file": "Festival Twist 2024.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -144,7 +144,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Rogers Centre.md"
+            "file": "Festival Twist 2024.md"
           }
         }
       }
@@ -166,32 +166,32 @@
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
+    "Templates/Note - event card.md",
+    "Templates/Note - definition resources.md",
+    "Templates/Note - address.md",
+    "Festival Twist 2024.md",
+    "Events.md",
+    "Address.md",
     "November 22 The Eras Tour in Toronto.md",
     "Rogers Centre.md",
-    "Events.md",
-    "Festival Twist 2024.md",
+    "Event Site.md",
+    "Complexe Whissell.md",
     "Festival Twist.md",
-    "Postal Code.md",
-    "Saint-André-Avellin.md",
-    "Quebec.md",
-    "Yarn Festival.md",
-    "Knitting.md",
-    "2024 Festival Twist Plan.md",
-    "Cardigan Buckley - Project Notes.md",
-    "Resources.md",
-    "Heidi's 12 Favourite Problems.md",
-    "Space.md",
-    "Community Placemaking.md",
-    "Triaging by actionability.md",
-    "Design.md",
-    "Data Quality.md",
-    "Community.md",
+    "1600 to 2000 yds.md",
+    "2024-07-16.md",
+    "2024-07-17.md",
+    "2024-W29.md",
+    "I'll Be Your Daisy - Notes.md",
     "Definition.md",
-    "Projects.md",
-    "Knitting Designers.md",
-    "Cosmological Redshift.md",
-    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
-    "Data.md",
+    "Buckley Cardigan.md",
+    "J0V 1W0.md",
+    "Ontario.md",
+    "PARA classification system.md",
+    "Provinces and Territories.md",
+    "Saint-André-Avellin.md",
+    "Toronto.md",
+    "Municipality.md",
+    "Postal Code.md",
     "D"
   ]
 }

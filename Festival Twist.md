@@ -10,9 +10,8 @@ tags:
 ---
 # Festival Twist
 ## Comments
-- annual yarn festival[^1]
-## Address
-- **Complexe Whissell,** 530 Rue Charles Auguste Montreuil, [[Saint-André-Avellin]], [[Quebec|QC]] [[Postal Code|J0V 1W0]] 
+- annual yarn festival[^1] 
+- Location: [[Complexe Whissell]]![[Complexe Whissell#Address]]
 ## Outgoing Link
 [[Festival Twist 2024]]
 [[Yarn Festival]]

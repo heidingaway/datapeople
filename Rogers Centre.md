@@ -6,14 +6,13 @@ modified: 2024-07-16
 status: evergreen
 zettel: literature
 tags:
-  - RESOURCES
+  - AREAS/address/site
 ---
 # Rogers Centre
 ## Address
-
-
+- 1 Blue Jays Way, [[Toronto]], [[Ontario|ON]] [[M5V 1J1]]
 ## Outgoing Link
-
+[[Event Site]]
 ## Incoming Link
 ```dataview
 LIST

@@ -6,13 +6,14 @@ modified: 2024-07-16
 status: evergreen
 zettel: literature
 tags:
-  - RESOURCES/definition
+  - AREAS/address/definition
 ---
 # Postal Code
 ## Definition
 
 ## Outgoing Link
-[[Resources]]
+[[Areas]]
+[[Address]]
 [[Definition]]
 ## Incoming Link
 ```dataview
