@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lunch with Portia.md",
+                "file": "Bistro Coqlicorne.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lunch with Portia.md",
+            "file": "Bistro Coqlicorne.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lunch with Portia.md",
+            "file": "Bistro Coqlicorne.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lunch with Portia.md"
+            "file": "Bistro Coqlicorne.md"
           }
         }
       }
@@ -159,8 +159,9 @@
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
-    "2024-07-11.md",
     "Lunch with Portia.md",
+    "Bistro Coqlicorne.md",
+    "2024-07-11.md",
     "2024-W29.md",
     "Festival Twist 2024.md",
     "The Eras Tour in Toronto.md",
@@ -184,7 +185,6 @@
     "Templates/Note - definition resources.md",
     "Templates/Note - address.md",
     "Events.md",
-    "Address.md",
     "D"
   ]
 }

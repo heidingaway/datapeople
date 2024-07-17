@@ -11,7 +11,7 @@ tags:
 ---
 # Lunch with Portia
 ## Address
-[[]]
+[[Bistro Coqlicorne]]![[Bistro Coqlicorne#Address]]
 ## Outgoing Link
 [[Events]]
 [[2024-07-17]]
