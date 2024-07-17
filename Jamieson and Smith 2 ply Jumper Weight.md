@@ -11,7 +11,13 @@ tags:
 # Jamieson and Smith 2 ply Jumper Weight
 ## Definition
 
-## Links
+## Outgoing Link
 [[Knitting]]
 [[Jamieson and Smith]]
 [[Fingering (14 wpi)]]
+[[Yarn]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

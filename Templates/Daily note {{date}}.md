@@ -26,13 +26,11 @@ WHERE created = date("{{date}}")
 LIST
 WHERE modified = date(<% tp.date.now("YYYY-MM-DD") %>)
 ```
-
-## Link
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]
 ```
-
 # Footnotes
 
 [^1]: [[Daily Note]]

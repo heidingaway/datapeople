@@ -12,8 +12,10 @@ tags:
 # Plain English Weekly Newsletter
 ## Comments
 
-## Links
+## Outgoing Link
+[[Design]]
+## Incoming Link
 ```dataview
-LIST 
+LIST
 FROM [[]]
 ```

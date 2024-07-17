@@ -12,7 +12,9 @@ tags:
 # Data Quality
 ## Comments
 
-## Links
+## Outgoing Link
+[[Resources]]
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]

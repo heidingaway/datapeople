@@ -12,8 +12,10 @@ tags:
 - The universe is expanding, and that expansion stretches light traveling through space in a phenomenon known as cosmological redshift. The greater the redshift, the greater the distance the light has traveled.
 ## Reference
 [What is Cosmological Redshift?](https://hubblesite.org/contents/media/images/4509-Image.html)
-## Links
+## Outgoing Link
 [[Space]]
+[[Definition]]
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]

@@ -10,9 +10,14 @@ tags:
 ---
 # Definition
 - a pattern of stable holes that are arranged to create a decorative fabric[^1]
-
-# Links
+## Outgoing Link
 [[Knitting]]
+[[Definition]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```
 # Footnotes
 
 [^1]: [lace | ravelry](https://www.ravelry.com/patterns/attributes/lace "a pattern of stable holes that are arranged to create a decorative fabric")

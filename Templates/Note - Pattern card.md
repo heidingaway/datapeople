@@ -28,9 +28,9 @@ sizes_avail_cm:
 languages: 
 yardage_cat: 
 pattern_attributes: 
+## Outgoing Link
 
-## Link
-
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]

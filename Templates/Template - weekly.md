@@ -40,9 +40,9 @@ list from [[]] and !outgoing([[]])
 ```tasks
 done <% tp.date.weekday("YYYY-MM-DD", 1) %> <% tp.date.weekday("YYYY-MM-DD", 7) %>
 ```
+## Outgoing Link
 
-## Link
-
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]

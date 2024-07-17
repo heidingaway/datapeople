@@ -13,16 +13,10 @@ tags:
 
 ## Comment
 
-## Link
+## Outgoing Link
+[[Resources]]
+## Incoming Link
 ```dataview
-TABLE 
-"#"+tags as Tags
-FROM [[]] AND !#PROJECTS
-SORT tags DESC
-```
-
-```dataview
-TABLE
-tags AS Tags
-FROM #RESOURCES/knitting 
+LIST
+FROM [[]]
 ```

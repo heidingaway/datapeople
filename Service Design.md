@@ -11,8 +11,11 @@ tags:
 # Service Design
 ## Comments
 
-## Links
+## Outgoing Link
 [[Design]]
+[[Definition]]
+[[Digital Government]]
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]

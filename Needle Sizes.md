@@ -11,7 +11,10 @@ tags:
 # Needle Sizes
 ## Comments
 
-## Links
+## Outgoing Link
+[[Knitting]]
+[[Knitting Needles]]
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]

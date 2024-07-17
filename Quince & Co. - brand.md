@@ -9,9 +9,15 @@ tags:
   - RESOURCES/knitting/brand
 ---
 # Quince & Co. - brand
-## Definition
+## Comment
 - yarn company
-## Links
+## Outgoing Link
 [[Knitting]]
 [[Quince & Co. - pub]]
 [[Quince & Co. Sparrow]]
+[[Yarn Company]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

@@ -31,13 +31,16 @@ tags:
   - unfiled/2024-07-13
 ---
 ## Comments
-
-## Links
  to cover bust before decreasing for waist
 
-## Links
+## Outgoing Link
 [[November 22 The Eras Tour in Toronto]]
-
+[[Taylor Swift]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```
 ## Reference Photos
 ![[TS - flowers dress.jpeg]]
 ![[TS - TTPD Grammys dress.jpeg]]

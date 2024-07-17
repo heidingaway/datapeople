@@ -10,7 +10,9 @@ tags:
 # <% tp.file.title %>
 ## Comments
 
-## Links
+## Outgoing Link
+
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]

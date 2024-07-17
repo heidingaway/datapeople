@@ -12,8 +12,13 @@ tags:
 # Friday Finds - Newsletter by Mike Taylor
 ## Comments
 - get Friday Finds in your inbox every Friday.[^1]
-## Links
+## ## Outgoing Link
+[[Design]]
 [[Learning Design]]
+[[Service Design]]
+[[Community]]
+[[Digital Government]]
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]

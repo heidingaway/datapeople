@@ -19,10 +19,11 @@ tags:
 - total: 276
 - isbn10: 0465004172
 
-## Links
+## Outgoing Link
 [[Emotional Design]]
 [[Design]]
 [[TBR]]
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]

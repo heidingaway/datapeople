@@ -14,7 +14,13 @@ tags:
 
 ## Reference
 [Power of Placemaking](https://placemakingcommunity.ca/wp-content/uploads/2023/11/Snapshots-CHCI-Nov-3-English.pdf)
-## Links
+## Outgoing Link
 [[Community Placemaking]] 
 [[Community]] 
+[[Design]]
 [[TBR]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

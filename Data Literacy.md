@@ -9,10 +9,14 @@ tags:
   - README/RESOURCES
   - RESOURCES/data-literacy/definition
 ---
-1. # Data Literacy
+# Data Literacy
 ## Comments
 
-## Links
+## Outgoing Link
+[[Data]]
+[[Definition]]
+[[README]]
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]

@@ -13,9 +13,10 @@ tags:
 ## Comments
 
 ## Reference
-
-## Links
+## Outgoing Link
+[[Resources]]
+## Incoming Link
 ```dataview
 LIST
-FROM #RESOURCES/community
+FROM [[]]
 ```

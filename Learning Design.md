@@ -11,8 +11,10 @@ tags:
 # Learning Design
 ## Comments
 
-## Links
+## Outgoing Link
 [[Design]]
+[[Definition]]
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]

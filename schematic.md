@@ -10,9 +10,14 @@ tags:
 ---
 # Definition
 - includes a drawing, probably with measurements[^1]
-
-# Links
+## Outgoing Link
 [[Knitting]]
+[[Definition]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```
 # Footnotes
 
 [^1]: [schematic | ravelry](https://www.ravelry.com/patterns/attributes/schematic "includes a drawing, probably with measurements")

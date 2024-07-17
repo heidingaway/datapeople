@@ -11,7 +11,12 @@ tags:
 # Michele Wang
 ## Comments
 [Michele Wang](https://www.ravelry.com/designers/michele-wang)
-## Links
+## Outgoing Link
 [[Knitting Designers]]
 [[Buckley Cardigan]]
 [[Knitting]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

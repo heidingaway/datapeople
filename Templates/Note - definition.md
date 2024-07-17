@@ -10,8 +10,9 @@ tags:
 # <% tp.file.title %>
 ## Definition
 
-## Links
+## Outgoing Link
 
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]

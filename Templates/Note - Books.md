@@ -18,7 +18,9 @@ tags:
 - total: {{totalPage}}
 - isbn10: {{isbn10}}
 
-## Link
+## Outgoing Link
+
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]

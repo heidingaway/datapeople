@@ -12,10 +12,15 @@ tags:
 # AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns
 ## Comments
 
-## Links
+## Outgoing Link
 
 [AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns](https://www.telegraph.co.uk/global-health/terror-and-security/ai-cyber-attacks-and-amateur-experiments-threaten-to-upend/)
 [[TBR]]
 [[Artificial Intelligence - AI]]
 [[Digital Government]]
 [[Space]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

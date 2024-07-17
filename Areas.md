@@ -16,7 +16,10 @@ tags:
 - eg. managing finances, managing health, managing house
 - the standard is having a safe comfortable home, this would have ongoing regularly repeating tasks associated with maintaining that standard
 
-## Links
+## Outgoing Link
+[[Definition]]
+[[PARA classification system]]
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]

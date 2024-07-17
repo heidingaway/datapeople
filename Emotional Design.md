@@ -11,14 +11,16 @@ tags:
 # Emotional Design
 ## Comments
 - "Emotional design is the concept of how to create designs that evoke emotions which result in positive user experiences. Designers aim to reach users on three cognitive levels—visceral, behavioral and reflective—so users develop positive associations (sometimes including negative emotions) with products, brands, etc."[^1]
-
-## Links
+## Outgoing Link
 [[Design]]
+[[Digital Government]]
+[[Community]]
+[[Definition]]
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]
 ```
-
 # Footnotes
 
 [^1]: [Emotional Design (ED)](https://www.interaction-design.org/literature/topics/emotional-design)

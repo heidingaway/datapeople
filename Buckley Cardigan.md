@@ -39,5 +39,10 @@ pattern_attributes:
 - [[written-pattern]]
 - [[1600 to 2000 yds]]
 
-## Link
+## Outgoing Link
 [[Buckley - Project Notes]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

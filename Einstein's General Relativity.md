@@ -11,8 +11,11 @@ tags:
 # Einstein's General Relativity
 ## Definition
 
-## Links
+## Outgoing Link
 [[Space]]
+[[constant dark energy]]
+[[Definition]]
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]

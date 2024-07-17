@@ -14,10 +14,16 @@ tags:
 
 ## Reference
 [Quantum 101 - Quantum Science Explained](https://perimeterinstitute.ca/quantum-101-quantum-science-explained)
-## Links
+## Ongoing Link
 [[Watch this Spacetime from AstroKatie - June edition]]
 [[Space]]
 [[TBR]]
+[[Katie Mack]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```
 
 
 

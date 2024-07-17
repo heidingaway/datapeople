@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24 stitches and 27 rows in stockinette.md",
+                "file": "Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "# definition",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -94,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 0,
+    "currentTab": 5,
     "pinned": true
   },
   "right": {
@@ -115,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "24 stitches and 27 rows in stockinette.md",
+            "file": "Process.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "24 stitches and 27 rows in stockinette.md",
+            "file": "Process.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -144,7 +144,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "24 stitches and 27 rows in stockinette.md"
+            "file": "Process.md"
           }
         }
       }
@@ -166,31 +166,32 @@
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
-    "Templates/Daily note {{date}}.md",
-    "Templates/Template - weekly.md",
-    "Templates/Notes - Unfiled.md",
-    "Templates/Note - Resource Hubs.md",
-    "Templates/Note - Regular Publications.md",
-    "Templates/Note - Project.md",
-    "Templates/Note - Pattern card.md",
-    "Templates/Note - definition.md",
-    "Templates/Note - Books.md",
-    "i-cord edge.md",
-    "Buckley - Project Notes.md",
-    "2024-07-15.md",
-    "2024-07-16.md",
-    "2024-W29.md",
-    "2024-07-12.md",
-    "2024-07-11.md",
-    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
-    "Archive.md",
-    "2024-07-08.md",
-    "pininfo.md",
-    "Areas.md",
-    "Plain English Weekly Newsletter.md",
-    "Power of Placemaking.md",
+    "Yarn Weight.md",
+    "November 22 The Eras Tour in Toronto.md",
+    "Events.md",
+    "Yarn.md",
+    "Yarn Company.md",
+    "Fingering (14 wpi).md",
+    "Knitting.md",
+    "Resources.md",
+    "Gauge.md",
+    "Knitting Needles.md",
+    "Knitting Designers.md",
     "Community Placemaking.md",
-    "Community.md",
-    "TBR.md"
+    "D/3.0mm - crochet hook.md",
+    "Templates/Note - Pattern card.md",
+    "Templates/Note - Books.md",
+    "Definition.md",
+    "chart.md",
+    "bottom-up.md",
+    "Zettelkasten Method.md",
+    "written-pattern.md",
+    "worked-flat.md",
+    "US 5 - 3.75 mm.md",
+    "US 4 - 3.5 mm.md",
+    "Triaging by actionability.md",
+    "three-needle-bind.md",
+    "Service Design.md",
+    "D"
   ]
 }

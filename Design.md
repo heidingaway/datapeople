@@ -12,10 +12,13 @@ tags:
 # Design
 ## Comments
 
-## Links
+## Outgoing Link
+[[Resources]]
+[[Learning Design]]
+[[Service Design]]
+[[Emotional Design]]
+## Incoming Link
 ```dataview
-TABLE 
-"#"+tags as Tag
+LIST
 FROM [[]]
-SORT tags DESC
 ```

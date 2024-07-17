@@ -11,8 +11,13 @@ tags:
 # Yarn - Quince & Co. Sparrow
 ## Comments
 [Quince & Co. Sparrow](https://www.ravelry.com/yarns/library/quince--co-sparrow)
-
 ## Links
 [[Knitting]]
 [[Quince & Co. - brand]]
 [[Fingering (14 wpi)]]
+[[Yarn]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

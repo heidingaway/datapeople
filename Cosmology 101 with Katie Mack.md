@@ -14,8 +14,10 @@ tags:
 
 ## Reference
 
-## Links
+## Outgoing Link
 [[Space]]
+[[Katie Mack]]
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]

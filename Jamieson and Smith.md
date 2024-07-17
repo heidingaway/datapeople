@@ -9,8 +9,15 @@ tags:
   - RESOURCES/knitting/brand
 ---
 # Jamieson and Smith
-## Definition
+## Comment
 - yarn company
-## Links
+## Outgoing Link
 [[Knitting]]
 [[Jamieson and Smith 2 ply Jumper Weight]]
+[[Shetland Wool]]
+[[Yarn Company]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

@@ -10,5 +10,12 @@ tags:
 ---
 ## Definition
 - quick temporary notes captured in the moment, meant to capture thoughts so they can be received later
-## Links
+## Outgoing Link
 [[Zettelkasten Method]]
+[[Definition]]
+[[README]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

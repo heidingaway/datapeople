@@ -14,7 +14,10 @@ tags:
 - No longer fit into an area of our life and no active project
 - Keeping old information while removing from visual clutter
 
-## Links
-
+## Outgoing Link
 [[README]]
-[[PARA classification system]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

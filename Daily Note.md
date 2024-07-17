@@ -13,5 +13,11 @@ tags:
  - Generated daily using template: [[Daily note {{date}}]] 
 ## Reference
 [Daily Notes](https://help.obsidian.md/Plugins/Daily+notes)
-## Links
+## Outgoing Link
 [[README]]
+[[Definition]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

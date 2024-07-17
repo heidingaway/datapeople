@@ -12,8 +12,10 @@ tags:
 # Artificial Intelligence - AI
 ## Comments
 
-# Links
+## Outgoing Link
+
+## Incoming Link
 ```dataview
 LIST
-FROM #RESOURCES/artificial-intelligence-AI
+FROM [[]]
 ```

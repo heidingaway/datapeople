@@ -15,8 +15,12 @@ tags:
 - [ ] 9:30 meetup at Heidi's House 📅 2024-08-10
 - [ ] 5:00 return to Ottawa 📅 2024-08-10
 - [ ] repay Meaghan carshare cost 📅 2024-08-10
-
-## Links
+## Outgoing Link
 [[Knitting]]
 [[Yarn Festival]]
 [[Festival Twist]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

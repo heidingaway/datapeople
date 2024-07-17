@@ -11,8 +11,12 @@ tags:
 # Digital Government
 ## Comments
 
-## Links
+## Outgoing Link
+[[Definition]]
+[[Design]]
+[[Heidi's 12 Favourite Problems]]
+## Incoming Link
 ```dataview
-LIST 
+LIST
 FROM [[]]
 ```

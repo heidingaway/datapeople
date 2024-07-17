@@ -20,7 +20,13 @@ tags:
 ## Reference 
 [Scot Novis - Setting up your second brain with obsidian](https://publish.obsidian.md/scottnovis/Published/Step+One+-+Setting+Up+Your+Second+Brain+With+Obsidian)
 
-## Links
+## Outgoing Link
 [[README]]
 [[The CODE Method]]
 [[Zettelkasten Method]]
+[[Process]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

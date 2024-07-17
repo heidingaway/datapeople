@@ -12,3 +12,12 @@ tags:
 ## Definition
 - notes you want to keep long term, make up of the notes you've grouped and connected together
 - Summarization of your ideas
+## Outgoing Link
+[[Zettelkasten Method]]
+[[README]]
+[[Definition]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

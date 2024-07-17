@@ -12,11 +12,10 @@ tags:
 
 ## Comments
 
-## Links
+## Outgoing Link
 
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]
 ```
-
-

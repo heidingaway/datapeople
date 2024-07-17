@@ -11,8 +11,10 @@ tags:
 # i-cord edge
 ## Definition
 
-## Links
+## Outgoing Link
 [[Knitting]]
+[[Definition]]
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]

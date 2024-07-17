@@ -15,10 +15,15 @@ tags:
 	- define your data need
 	- assess the fitness of a potential data source for your specific purpose
 	- make a decision about whether a potential data source is in fact, fit for your specific purpose"[^1]
-## Links
+## Outgoing Link
 [[Data]]
 [[Data Literacy]]
 [[Data Quality]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```
 # Footnotes
 
 [^1]: [Data Quality as Fitness for Use](https://www150.statcan.gc.ca/n1/pub/89-20-0006/892000062023001-eng.htm)

@@ -15,7 +15,13 @@ tags:
 - 5-15 things you are actively working on
 - Goal oriented (ie. buy a house, finish a sweater)
 
-## Links
+## Outgoing Link
 [[README]]
 [[PARA classification system]]
 [[Note - Project]] 
+[[Definition]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

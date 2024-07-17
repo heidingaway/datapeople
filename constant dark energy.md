@@ -15,10 +15,13 @@ tags:
 - an expanding universe with no cosmological constant, expansion should be decelerating. After the [[Big Bang]] which propelled the initial expansion, gravity becomes the only relevant force. Gravity always pulls things together. 
 - Cosmological constant worked because it adds swelling into every bit of space. Once there is sufficiently big universe, gravitational pull of matter becomes relatively weak. Swelling becoming the dominant force then accelerates expansion. 
 - Alternative theory: [[Dynamic dark energy]]
-## Links
+## Outgoing Link
 [[Watch this Spacetime from AstroKatie - June edition]]
 [[Space]]
+[[Definition]]
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]
 ```
+`
