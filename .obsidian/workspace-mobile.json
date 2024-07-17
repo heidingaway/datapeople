@@ -13,13 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-16.md",
+                "file": "2024-07-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93724bd4f8997202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018-08-10 Festival Twist 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b399de225dbd4a1",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c500688cd0b5f4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018-08-10 Festival Twist 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,20 +135,12 @@
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "50f10b79dceb6182",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
         "id": "81b93cc3af1b7f8b",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-16.md",
+            "file": "2018-08-10 Festival Twist 2024.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,7 +157,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-16.md",
+            "file": "2018-08-10 Festival Twist 2024.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -144,7 +169,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-16.md"
+            "file": "2018-08-10 Festival Twist 2024.md"
           }
         }
       }
@@ -161,37 +186,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c3b2c4a159c1dede",
+  "active": "7c500688cd0b5f4d",
   "lastOpenFiles": [
+    "November 22 The Eras Tour in Toronto.md",
+    "2018-08-10 Festival Twist 2024.md",
+    "2024-08-10 Festival Twist.md",
     "2024-07-17.md",
-    "Festival Twist 2024.md",
+    "2024-W29.md",
+    "2024-07-11.md",
+    "2024-W28.md",
+    "2024-07-16.md",
+    "2024-07-15.md",
+    "2024-07-18 testevent.md",
     "Templates/Note - event card.md",
     "Templates/Note - definition resources.md",
     "Templates/Note - address.md",
     "Events.md",
     "Address.md",
-    "November 22 The Eras Tour in Toronto.md",
     "Rogers Centre.md",
     "Event Site.md",
     "Complexe Whissell.md",
     "Festival Twist.md",
     "1600 to 2000 yds.md",
-    "2024-07-16.md",
-    "2024-W29.md",
     "I'll Be Your Daisy - Notes.md",
     "Definition.md",
     "Buckley Cardigan.md",
     "J0V 1W0.md",
     "Ontario.md",
     "PARA classification system.md",
-    "Provinces and Territories.md",
-    "Saint-André-Avellin.md",
-    "Toronto.md",
-    "Municipality.md",
-    "Postal Code.md",
     "D"
   ]
 }

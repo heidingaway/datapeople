@@ -1,5 +1,5 @@
 ---
-title: Festival Twist 2024
+title: 2018-08-10 Festival Twist 2024
 aliases: 
 created: 2024-07-16
 modified: 2024-07-17
@@ -7,10 +7,12 @@ status: ongoing
 zettel: fleeting
 tags:
   - AREAS/events
-event_start: 2024-08-09
-event_end: 2024-08-11
+allDay: true
+date: 2024-08-10
+endDate: 2024-08-10
+completed: null
 ---
-# Festival Twist 2024
+# 2018-08-10 Festival Twist 2024
 - location: [[Complexe Whissell]]![[Complexe Whissell#Address]]
 ## Date
 - [[2024-08-09]]

@@ -2,10 +2,10 @@
   "dataview",
   "obsidian-linter",
   "templater-obsidian",
-  "calendar",
   "obsidian-footnotes",
   "obsidian-tasks-plugin",
   "periodic-notes",
   "obsidian-tagfolder",
-  "obsidian-book-search-plugin"
+  "obsidian-book-search-plugin",
+  "obsidian-full-calendar"
 ]
