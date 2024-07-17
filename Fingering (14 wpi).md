@@ -1,10 +1,7 @@
 ---
 title: Fingering (14 wpi)
-aliases: 
 created: 2024-07-15
-modified: 2024-07-16
-status: evergreen
-zettel: resource
+modified: 2024-07-17
 tags:
   - RESOURCES/knitting/yarn-weight
 ---
@@ -12,7 +9,7 @@ tags:
 ## Comment
 
 ## Outgoing Links
-[[Yarn Weight]] 
+[[Yarn Weight]]
 [[Knitting]]
 ## Incoming Link
 ```dataview

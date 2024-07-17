@@ -1,18 +1,14 @@
 ---
 title: lace
-aliases: 
 created: 2024-07-15
-modified: 2024-07-15
-status: 
-zettel: literature
+modified: 2024-07-17
 tags:
   - RESOURCES/knitting/definition
 ---
 # Definition
 - a pattern of stable holes that are arranged to create a decorative fabric[^1]
 ## Outgoing Link
-[[Knitting]]
-[[Definition]]
+[[Knitting]]; [[Definition]]
 ## Incoming Link
 ```dataview
 LIST

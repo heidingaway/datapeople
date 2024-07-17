@@ -1,10 +1,7 @@
 ---
 title: Love and loss in the time of colliders
-aliases: 
 created: 2024-07-12
-modified: 2024-07-16
-status: parking
-zettel: literature
+modified: 2024-07-17
 source: article
 tags:
   - RESOURCES/space

@@ -1,12 +1,9 @@
 ---
-title: Festival Twist Plan
-aliases: 
+title: 2024 Festival Twist Plan
 created: 2024-07-13
-modified: 2024-07-13
-status: ongoing
-zettel: fleeting
+modified: 2024-07-17
 tags:
-  - PROJECTS/festival-twist
+  - PROJECTS
   - RESOURCES/yarn-festival/festival-twist
 ---
 # Festival Twist Plan

@@ -2,11 +2,8 @@
 title: <% tp.date.weekday("YYYY-[W]ww", 0) %>
 created: <% tp.date.now("YYYY-MM-DD") %>
 modified: 
-status:
-zettel: hub
 tags: 
-- dailynote 
-- <% tp.date.weekday("YYYY-[W]ww", 0) %>
+- dailynote
 ---
 
 ## Notes

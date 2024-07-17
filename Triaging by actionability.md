@@ -1,15 +1,12 @@
 ---
 title: Triaging by actionability
-aliases: 
 created: 2024-07-08
-modified: 2024-07-16
-status: evergreen
-zettel: 
+modified: 2024-07-17
 tags:
-  - README/definition
+  - README/process
 ---
 # Triaging by actionability
-## Definition
+## Comment
 1. What project would this be useful for?
 2. Which area will this be useful for?
 3. Which resource does this belong to?
@@ -17,7 +14,7 @@ tags:
 ## Outgoing Link
 [[PARA classification system]]
 [[The CODE Method]]
-[[Definition]]
+[[Process]]
 [[README]]
 ## Incoming Link
 ```dataview

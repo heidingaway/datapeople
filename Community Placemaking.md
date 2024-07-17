@@ -1,10 +1,7 @@
 ---
 title: Community Placemaking
-aliases: 
 created: 2024-07-12
-modified: 2024-07-16
-status: evergreen 
-zettel: literature
+modified: 2024-07-17
 tags:
   - RESOURCES/community/definition
 ---
@@ -12,9 +9,7 @@ tags:
 ## Definition
 - "Placemaking[^1] is a multi-faceted approach to the planning, design and management of public spaces. Placemaking capitalizes on a local community's assets, inspiration, and potential, with the intention of creating public spaces that improve urban vitality and promote people's health, happiness, and well-being." Wikipedia[^2]
 ## Outgoing Link
- [[Power of Placemaking]]
- [[Community]]
- [[Definition]]
+ [[Community]]; [[Definition]]
 ## Incoming Link
 ```dataview
 LIST

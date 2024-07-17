@@ -1,10 +1,7 @@
 ---
 title: "Heidi's 12 Favourite Problems"
-aliases: 
 created: 2024-07-08
-modified: 2024-07-16
-status: evergreen
-zettel: permanent
+modified: 2024-07-17
 tags:
   - RESOURCES
 ---

@@ -1,10 +1,7 @@
 ---
 title: Ontario
-aliases: 
 created: 2024-07-17
 modified: 2024-07-17
-status: evergreen
-zettel: literature
 tags:
   - AREAS/address/PT
 ---
@@ -12,8 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Definition]]
-[[Provinces and Territories]]
+[[Provinces and Territories]]; [[Canada]]
 ## Incoming Link
 ```dataview
 LIST

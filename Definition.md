@@ -1,10 +1,7 @@
 ---
 title: Definition
-aliases: 
 created: 2024-07-16
-modified: 2024-07-16
-status: evergreen
-zettel: literature
+modified: 2024-07-17
 tags:
   - README/definition
   - RESOURCES/definition
@@ -26,4 +23,5 @@ tags:
 ```dataview
 LIST
 FROM [[]]
+SORT title ASC
 ```

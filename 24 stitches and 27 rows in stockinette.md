@@ -1,10 +1,7 @@
 ---
 title: 24 stitches and 27 rows in stockinette
-aliases: 
 created: 2024-07-15
-modified: 2024-07-15
-status: evergreen
-zettel: literature
+modified: 2024-07-17
 tags:
   - RESOURCES/knitting/gauge
 ---

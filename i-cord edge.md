@@ -1,10 +1,7 @@
 ---
 title: i-cord edge
-aliases: 
 created: 2024-07-16
-modified: 2024-07-16
-status: evergreen
-zettel: literature
+modified: 2024-07-17
 tags:
   - RESOURCES/knitting/definition
 ---

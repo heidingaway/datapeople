@@ -1,10 +1,7 @@
 ---
 title: Power of Placemaking
-aliases: 
 created: 2024-07-12
-modified: 2024-07-15
-status: parking
-zettel: literature
+modified: 2024-07-17
 source: powerpoint
 tags:
 - RESOURCES/community
@@ -15,8 +12,8 @@ tags:
 ## Reference
 [Power of Placemaking](https://placemakingcommunity.ca/wp-content/uploads/2023/11/Snapshots-CHCI-Nov-3-English.pdf)
 ## Outgoing Link
-[[Community Placemaking]] 
-[[Community]] 
+[[Community Placemaking]]
+[[Community]]
 [[Design]]
 [[TBR]]
 ## Incoming Link

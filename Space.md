@@ -1,10 +1,7 @@
 ---
 title: Space
-aliases: 
 created: 2024-07-11
-modified: 2024-07-16
-status: evergreen
-zettel: hub
+modified: 2024-07-17
 tags:
   - RESOURCES/space
   - RESOURCES/definition
@@ -13,11 +10,9 @@ tags:
 ## Comments
 
 ## Outgoing Link
- [[Resources]]
- [[Definition]]
+ [[Resources]]; [[Definition]]
 ## Incoming Link
 ```dataview
 LIST
 FROM [[]]
 ```
-

@@ -1,10 +1,7 @@
 ---
 title: Needle Sizes
-aliases: 
 created: 2024-07-15
-modified: 2024-07-15
-status: evergreen
-zettel: resource
+modified: 2024-07-17
 tags:
   - RESOURCES/knitting/needle-size
 ---
@@ -12,7 +9,6 @@ tags:
 ## Comments
 
 ## Outgoing Link
-[[Knitting]]
 [[Knitting Needles]]
 ## Incoming Link
 ```dataview

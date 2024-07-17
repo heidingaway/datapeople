@@ -1,14 +1,11 @@
 ---
 title: Areas
-aliases: 
 created: 2024-07-10
-modified: 2024-07-10
-status: evergreen
-zettel: literature
+modified: 2024-07-17
 tags:
-  - AREAS
   - README/definition
 ---
+# Areas
 ## Definition
 
 - very long lived, but actionable
@@ -17,8 +14,7 @@ tags:
 - the standard is having a safe comfortable home, this would have ongoing regularly repeating tasks associated with maintaining that standard
 
 ## Outgoing Link
-[[Definition]]
-[[PARA classification system]]
+[[Definition]]; [[PARA classification system]]
 ## Incoming Link
 ```dataview
 LIST

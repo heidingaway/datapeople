@@ -1,10 +1,7 @@
 ---
 title: Process
-aliases: 
 created: 2024-07-16
-modified: 2024-07-16
-status: evergreen
-zettel: reference
+modified: 2024-07-17
 tags:
   - README/process
 ---

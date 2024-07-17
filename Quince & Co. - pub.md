@@ -1,10 +1,7 @@
 ---
-title: Quince & Co.
-aliases: 
+title: Quince & Co. - pub
 created: 2024-07-15
-modified: 2024-07-15
-status: evergreen
-zettel: resource
+modified: 2024-07-17
 source: publication
 tags:
   - RESOURCES/knitting

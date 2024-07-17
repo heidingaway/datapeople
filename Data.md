@@ -1,20 +1,15 @@
 ---
 title: Data
-aliases: 
 created: 2024-07-15
-modified: 2024-07-15
-status: evergreen
-zettel: resource
+modified: 2024-07-17
 tags:
-  - RESOURCES/data
   - RESOURCES/definition
 ---
 # Data
 ## Comments
 
 ## Outgoing Link
-[[Resources]]
-[[Definition]]
+[[Resources]]; [[Definition]]
 ## Incoming Link
 ```dataview
 LIST

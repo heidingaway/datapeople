@@ -1,10 +1,7 @@
 ---
 title: StatsCan Data Literacy Training
-aliases: 
 created: 2024-07-15
-modified: 2024-07-15
-status: evergreen
-zettel: literature
+modified: 2024-07-17
 source: learning-path
 tags:
   - RESOURCES/data-literacy

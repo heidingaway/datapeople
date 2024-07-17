@@ -1,12 +1,8 @@
 ---
 title: Community
-aliases: 
 created: 2024-07-12
-modified: 2024-07-12
-status: evergreen 
-zettel: hub
+modified: 2024-07-17
 tags:
-  - RESOURCES/community
   - RESOURCES/definition
 ---
 # Community
@@ -14,8 +10,7 @@ tags:
 
 ## Reference
 ## Outgoing Link
-[[Resources]]
-[[Definition]]
+[[Resources]]; [[Definition]]
 ## Incoming Link
 ```dataview
 LIST

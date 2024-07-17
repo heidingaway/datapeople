@@ -1,10 +1,7 @@
 ---
 title: Zettelkasten Method
-aliases: 
 created: 2024-07-08
-modified: 2024-07-16
-status: evergreen
-zettel: reference
+modified: 2024-07-17
 tags:
   - README/process
 ---
@@ -16,10 +13,7 @@ tags:
 [Zettelkasten method - GoodNotes](https://www.goodnotes.com/blog/zettelkasten-method)'
 
 ## Outgoing Link
-[[PARA classification system]]
-[[README]]
-[[Zettelkasten Method]]
-[[Process]]
+[[README]]; [[Process]]; [[PARA classification system]]
 ## Incoming Link
 ```dataview
 LIST

@@ -1,10 +1,7 @@
 ---
 title: First Results from DESI Make the Most Precise Measurement of Our Expanding Universe
-aliases: 
 created: 2024-07-11
-modified: 2024-07-16
-status: parking
-zettel: literature
+modified: 2024-07-17
 source: article
 tags:
   - RESOURCES/space

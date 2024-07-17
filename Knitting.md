@@ -1,23 +1,23 @@
 ---
 title: Knitting
-aliases: 
 created: 2024-07-15
-modified: 2024-07-15
-status: evergreen
-zettel: resources
+modified: 2024-07-17
 tags:
-  - RESOURCES/knitting
   - RESOURCES/definition
 ---
 # Knitting
 
 ## Comment
 
+## Projects
+```dataview
+LIST
+FROM [[]] AND #PROJECTS
+```
 ## Outgoing Link
-[[Resources]]
-[[Definition]]
+[[Resources]]; [[Definition]]
 ## Incoming Link
 ```dataview
 LIST
-FROM [[]]
+FROM [[]] AND !#PROJECTS
 ```

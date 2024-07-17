@@ -1,20 +1,15 @@
 ---
 title: Provinces and Territories
-aliases: 
 created: 2024-07-17
 modified: 2024-07-17
-status: evergreen
-zettel: permanent
 tags:
-  - AREAS/address
+  - AREAS/address/definition
 ---
 # Provinces and Territories
 ## Definition
 
 ## Outgoing Link
-[[Definition]]
-[[Address]]
-[[Canada]]
+[[Address]]; [[Definition]]
 ## Incoming Link
 ```dataview
 LIST

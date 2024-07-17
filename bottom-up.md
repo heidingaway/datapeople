@@ -1,10 +1,7 @@
 ---
 title: bottom-up
-aliases: 
 created: 2024-07-15
-modified: 2024-07-16
-status: evergreen
-zettel: literature
+modified: 2024-07-17
 tags:
   - RESOURCES/knitting/definition
 ---
@@ -12,8 +9,7 @@ tags:
 ## Definition
 - "worked from the bottom of the garment/accessory toward the top."[^1]
 ## Outgoing Link
-[[Knitting]]
-[[Definition]]
+[[Knitting]]; [[Definition]]
 ## Incoming Link
 ```dataview
 LIST

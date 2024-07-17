@@ -1,12 +1,9 @@
 ---
 title: Designing Notes for Your Future Self
-aliases: 
 created: 2024-07-08
-modified: 2024-07-16
-status: evergreen
-zettel: literature
+modified: 2024-07-17
 tags:
-  - README/definition
+  - README/process
 ---
 # Designing Notes for Your Future Self
 ## Notes
@@ -23,7 +20,7 @@ tags:
 [[PARA classification system]]
 [[The CODE Method]]
 [[README]]
-[[Definition]]
+[[Process]]
 ## Incoming Link
 ```dataview
 LIST

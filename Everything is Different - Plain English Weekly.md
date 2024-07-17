@@ -1,10 +1,7 @@
 ---
 title: Everything is Different - Plain English Weekly
-aliases: 
 created: 2024-07-15
-modified: 2024-07-15
-status: complete
-zettel: literature
+modified: 2024-07-17
 source: newsletter
 tags:
   - RESOURCES/design

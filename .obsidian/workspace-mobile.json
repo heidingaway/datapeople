@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bistro Coqlicorne.md",
+                "file": "2024-07-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "address",
+            "query": "/definition",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -107,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bistro Coqlicorne.md",
+            "file": "2024-07-17.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Bistro Coqlicorne.md",
+            "file": "2024-07-17.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Bistro Coqlicorne.md"
+            "file": "2024-07-17.md"
           }
         }
       }
@@ -159,32 +159,32 @@
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
-    "Lunch with Portia.md",
-    "Bistro Coqlicorne.md",
-    "2024-07-11.md",
-    "2024-W29.md",
-    "Festival Twist 2024.md",
-    "The Eras Tour in Toronto.md",
-    "Templates/Note - event card timed.md",
-    "Untitled.md",
-    "Templates/Note - event card all day.md",
-    "Templates/Daily note {{date}}.md",
-    "2024-11-22.md",
-    "2024 Festival Twist Plan.md",
-    "2024-08-10.md",
     "2024-07-17.md",
-    "2024-07-18 test.md",
-    "Taylor Swift.md",
-    "November 22 The Eras Tour in Toronto.md",
-    "Festival Twist.md",
-    "2024-08-10 Festival Twist.md",
-    "2024-W28.md",
+    "2024-W29.md",
+    "Templates/Daily note {{date}}.md",
+    "Templates/Template - weekly.md",
     "2024-07-16.md",
     "2024-07-15.md",
-    "2024-07-18 testevent.md",
+    "2024-07-08.md",
+    "2024-07-10.md",
+    "2024-W28.md",
+    "2024-07-13.md",
+    "2024-07-12.md",
+    "2024-07-11.md",
+    "2024 Festival Twist Plan.md",
+    "I'll Be Your Daisy - Notes.md",
+    "Cardigan Buckley - Project Notes.md",
+    "Templates/Notes - Unfiled.md",
+    "Templates/Note - Resource Hubs.md",
+    "Templates/Note - Regular Publications.md",
+    "Templates/Note - Project.md",
+    "Templates/Note - Pattern card.md",
+    "Templates/Note - event card timed.md",
+    "Templates/Note - event card all day.md",
     "Templates/Note - definition resources.md",
+    "Templates/Note - definition location.md",
+    "Templates/Note - Books.md",
     "Templates/Note - address.md",
-    "Events.md",
     "D"
   ]
 }

@@ -1,10 +1,7 @@
 ---
 title: written-pattern
-aliases: 
 created: 2024-07-15
-modified: 2024-07-16
-status: evergreen
-zettel: literature
+modified: 2024-07-17
 tags:
   - RESOURCES/knitting/definition
 ---
@@ -12,8 +9,7 @@ tags:
 ## Definition
 - uses words to describe the techniques involved.[^1]
 ## Outgoing Link
-[[Knitting]]
-[[Definition]]
+[[Knitting]]; [[Definition]]
 ## Incoming Link
 ```dataview
 LIST

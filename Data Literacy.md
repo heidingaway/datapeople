@@ -1,20 +1,15 @@
 ---
 title: Data Literacy
-aliases: 
 created: 2024-07-15
-modified: 2024-07-15
-status: evergreen
-zettel: resource
+modified: 2024-07-17
 tags:
   - RESOURCES/definition
-  - RESOURCES/data-literacy
 ---
 # Data Literacy
 ## Comments
 
 ## Outgoing Link
-[[Data]]
-[[Definition]]
+[[Data]]; [[Definition]]; [[Resources]]
 ## Incoming Link
 ```dataview
 LIST

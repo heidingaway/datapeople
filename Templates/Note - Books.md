@@ -3,8 +3,6 @@ title: <% tp.file.title %>
 aliases: 
 created: 
 modified: 
-status: evergreen
-zettel: literature
 tags:
 - RESOURCES/book
 ---

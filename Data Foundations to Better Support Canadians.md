@@ -1,10 +1,7 @@
 ---
 title: Data Foundations to Better Support Canadians
-aliases: 
 created: 2024-07-15
-modified: 2024-07-15
-status: parking
-zettel: literacy
+modified: 2024-07-17
 source: podcast
 tags:
   - RESOURCES/data-literacy

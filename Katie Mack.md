@@ -1,10 +1,7 @@
 ---
 title: Katie Mack
-aliases: 
 created: 2024-07-11
-modified: 2024-07-15
-status: evergreen
-zettel: reference
+modified: 2024-07-17
 tags:
   - RESOURCES/space
 ---

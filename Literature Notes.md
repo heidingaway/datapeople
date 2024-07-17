@@ -1,13 +1,11 @@
 ---
 title: Literature Notes
-aliases: 
 created: 2024-07-10
-modified: 2024-07-10
-status: evergreen
-zettel: literature
+modified: 2024-07-17
 tags:
   - README/definition
 ---
+# Literature Notes
 ## Definition
 - when reading there may be text we wish to highlight or jot down for future reference
 - add context and and help remember the thought you had when reading or writing the info
@@ -15,9 +13,7 @@ tags:
 - Add context to include book title, author, chapter, page number
 - Each note is a single idea, rather than collection of learnings from what you read
 ## Outgoing Link
-[[Zettelkasten Method]]
-[[README]]
-[[Definition]]
+[[README]]; [[Definition]]; [[Zettelkasten Method]]
 ## Incoming Link
 ```dataview
 LIST

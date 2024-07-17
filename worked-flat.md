@@ -1,18 +1,14 @@
 ---
 title: worked-flat
-aliases: 
 created: 2024-07-15
-modified: 2024-07-15
-status: evergreen
-zettel: literature
+modified: 2024-07-17
 tags:
   - RESOURCES/knitting/definition
 ---
 # Definition
 - worked back-and-forth in rows.[^1]
 ## Outgoing Link
-[[Knitting]]
-[[Definition]]
+[[Knitting]]; [[Definition]]
 ## Incoming Link
 ```dataview
 LIST

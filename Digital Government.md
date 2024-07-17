@@ -1,10 +1,7 @@
 ---
 title: Digital Government
-aliases: 
 created: 2024-07-15
-modified: 2024-07-15
-status: evergreen
-zettel: resource
+modified: 2024-07-17
 tags:
   - RESOURCES/digital-government/definition
 ---
@@ -12,9 +9,7 @@ tags:
 ## Comments
 
 ## Outgoing Link
-[[Definition]]
-[[Design]]
-[[Heidi's 12 Favourite Problems]]
+[[Definition]]; [[Design]]; [[Heidi's 12 Favourite Problems]]
 ## Incoming Link
 ```dataview
 LIST

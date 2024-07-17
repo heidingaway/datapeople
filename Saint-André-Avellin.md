@@ -1,21 +1,16 @@
 ---
 title: Saint-André-Avellin
-aliases: 
 created: 2024-07-16
-modified: 2024-07-16
-status: evergreen
-zettel: literature
+modified: 2024-07-17
 tags:
   - AREAS/address/municipality
 ---
 # Saint-André-Avellin
-## Definition
+## Comment
 
 ## Outgoing Link
-[[Resources]]
-[[Definition]]
-[[Quebec]]
-[[Municipality]]
+[[Municipality]]; [[Quebec]]
+
 ## Incoming Link
 ```dataview
 LIST

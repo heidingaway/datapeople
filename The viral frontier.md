@@ -1,10 +1,7 @@
 ---
 title: The viral frontier
-aliases: 
 created: 2024-07-12
-modified: 2024-07-12
-status: parking
-zettel: literature
+modified: 2024-07-17
 source: article
 tags:
   - RESOURCES/space

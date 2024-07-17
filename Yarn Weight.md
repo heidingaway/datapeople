@@ -1,10 +1,7 @@
 ---
 title: Yarn Weight
-aliases: 
 created: 2024-07-15
-modified: 2024-07-15
-status: evergreen
-zettel: resource
+modified: 2024-07-17
 tags:
   - RESOURCES/knitting/definition
 ---
@@ -12,9 +9,7 @@ tags:
 ## Comments
 
 ## Outgoing Link
-[[Yarn]]
-[[Knitting]]
-[[Definition]]
+[[yarn]]; [[Definition]]; [[Knitting]]
 ## Incoming Link
 ```dataview
 LIST

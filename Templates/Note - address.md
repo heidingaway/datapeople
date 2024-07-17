@@ -2,8 +2,6 @@
 title: <% tp.file.title %>
 created: 
 modified: 
-status:  evergreen
-zettel: reference
 tags:
   - AREAS/address
 ---

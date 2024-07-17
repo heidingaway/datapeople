@@ -1,14 +1,12 @@
 ---
 title: Projects
-aliases: 
 created: 2024-07-10
-modified: 2024-07-10
-status: evergreen
-zettel: literature
+modified: 2024-07-17
 tags:
   - README/definition
   - PROJECTS
 ---
+# Projects
 ## Definition
 - Short term objectives, most actionable, deadline or end point
 - Multi step tasks
@@ -18,7 +16,7 @@ tags:
 ## Outgoing Link
 [[README]]
 [[PARA classification system]]
-[[Note - Project]] 
+[[Note - Project]]
 [[Definition]]
 ## Incoming Link
 ```dataview

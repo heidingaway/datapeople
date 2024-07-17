@@ -1,10 +1,7 @@
 ---
 title: Yarn Company
-aliases: 
 created: 2024-07-16
-modified: 2024-07-16
-status: 
-zettel: 
+modified: 2024-07-17
 tags:
   - RESOURCES/knitting/definition
 ---
@@ -12,9 +9,7 @@ tags:
 ## Comments
 
 ## Outgoing Link
-[[Yarn]]
-[[Knitting]]
-[[Definition]]
+[[Yarn]]; [[Knitting]]; [[Definition]]
 ## Incoming Link
 ```dataview
 LIST

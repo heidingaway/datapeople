@@ -1,9 +1,7 @@
 ---
 title: Infectious Disease
-created: 
-modified: 
-status:  evergreen
-zettel: literature
+created: 2024-07-16
+modified: 2024-07-17
 tags:
   - RESOURCES/definition
 ---
@@ -11,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Definition]]
+[[Resources]]; [[Definition]]
 ## Incoming Link
 ```dataview
 LIST

@@ -1,10 +1,7 @@
 ---
 title: README
-aliases: 
 created: 2024-07-08
-modified: 2024-07-12
-status: evergreen
-zettel: reference
+modified: 2024-07-17
 tags:
   - README
 ---
@@ -26,7 +23,7 @@ Tags: PARA/subject, unfiled/date
 ## Obsidian Tips
 [Obsidian Cheatsheet](https://publish-01.obsidian.md/access/09cfa50ec31c0f01873549787f02a7e0/assets/Markdown%20Cheat%20Sheet.pdf)
 Dataview: [Dataview in Obsidian: a beginner's guide](https://obsidian.rocks/dataview-in-obsidian-a-beginners-guide/)
-Dataview: 
+Dataview:
 - [Structure of a Query](https://blacksmithgu.github.io/obsidian-dataview/queries/structure/)
 - [Querying Internal Links](https://blacksmithgu.github.io/obsidian-dataview/reference/sources/#links)
 ## Hotkey

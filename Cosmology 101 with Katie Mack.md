@@ -1,10 +1,7 @@
 ---
 title: Cosmology 101 with Katie Mack
-aliases: 
 created: 2024-07-11
-modified: 2024-07-15
-status: parking
-zettel: literature
+modified: 2024-07-17
 source: video
 tags:
   - RESOURCES/space

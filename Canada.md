@@ -1,10 +1,7 @@
 ---
 title: Canada
-aliases: 
 created: 2024-07-17
 modified: 2024-07-17
-status: evergreen
-zettel: permanent
 tags:
   - AREAS/address/country
 ---
@@ -12,7 +9,6 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Definition]]
 [[Country]]
 ## Incoming Link
 ```dataview

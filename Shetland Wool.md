@@ -1,20 +1,15 @@
 ---
 title: Shetland Wool
-aliases: 
 created: 2024-07-16
-modified: 2024-07-16
-status: evergreen
-zettel: reference
+modified: 2024-07-17
 tags:
   - RESOURCES/knitting/definition
 ---
 # Shetland Wool
 ## Comments
-
+- Wool from [[Shetland - Islands]] or sheered from [[Shetland - Sheep]]
 ## Outgoing Link
-[[Knitting]]
-[[Shetland]]
-[[Definition]]
+[[Knitting]]; [[Definition]]
 ## Incoming Link
 ```dataview
 LIST
