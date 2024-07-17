@@ -16,6 +16,7 @@ tags:
 ## Outgoing Link
 [[Taylor Swift]]
 [[Events]]
+[[2024-11-22]]
 ## Incoming Link
 ```dataview
 LIST

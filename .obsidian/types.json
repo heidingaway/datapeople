@@ -9,6 +9,8 @@
     "date": "date",
     "endDate": "date",
     "date-time": "datetime",
-    "endDate-time": "datetime"
+    "endDate-time": "datetime",
+    "time": "datetime",
+    "endTime": "datetime"
   }
 }

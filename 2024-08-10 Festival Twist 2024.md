@@ -1,13 +1,15 @@
 ---
 title: 2024-08-10 Festival Twist 2024
 date: 2024-08-10
-endDate: 2024-08-11
+endDate: 
+time:
+endTime: 
 created: 2024-07-17
 modified: 2024-07-17
 tags:
-- AREAS/events
+  - AREAS/events
 allDay: true
-completed: null
+completed:
 ---
 # 2024-08-10 Festival Twist 2024
 - location: [[Complexe Whissell]]![[Complexe Whissell#Address]]
