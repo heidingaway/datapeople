@@ -1,14 +1,14 @@
 ---
 title: 2024-08-10 Festival Twist 2024
 date: 2024-08-10
-endDate: 
-time: “YYYY-MM-DD HH:mm"
+endDate: 2024-08-10
+time: 2024-08-10T10:00:00
 endTime: 
 created: 2024-07-17
 modified: 2024-07-17
 tags:
   - AREAS/events
-allDay: true
+allDay: false
 completed:
 ---
 # 2024-08-10 Festival Twist 2024
