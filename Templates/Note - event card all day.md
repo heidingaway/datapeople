@@ -1,7 +1,7 @@
 ---
 title: <% tp.file.title %>
-date:
-endDate:
+date: <% tp.date.now("YYYY-MM-DD") %>
+endDate: <% tp.date.now("YYYY-MM-DD") %>
 allDay: true
 completed: null
 created: 
@@ -14,6 +14,7 @@ tags:
 
 ## Outgoing Link
 [[Events]]
+[[<% tp.date.now("YYYY-MM-DD") %>]]
 ## Incoming Link
 ```dataview
 LIST

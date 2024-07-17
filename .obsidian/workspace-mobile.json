@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Note - event card.md",
+                "file": "Templates/Note - event card timed.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Eras Tour in Toronto.md",
+                "file": "Templates/Note - event card timed.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
         }
       }
     ],
-    "currentTab": 4,
+    "currentTab": 0,
     "pinned": true
   },
   "right": {
@@ -120,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "The Eras Tour in Toronto.md",
+            "file": "Templates/Note - event card timed.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "The Eras Tour in Toronto.md",
+            "file": "Templates/Note - event card timed.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "The Eras Tour in Toronto.md"
+            "file": "Templates/Note - event card timed.md"
           }
         }
       }
@@ -172,6 +172,9 @@
   },
   "active": "c54ec3236c74f567",
   "lastOpenFiles": [
+    "Templates/Note - event card all day.md",
+    "Templates/Daily note {{date}}.md",
+    "Templates/Note - event card timed.md",
     "Festival Twist 2024.md",
     "The Eras Tour in Toronto.md",
     "2024-11-22.md",
@@ -179,11 +182,9 @@
     "2024-08-10.md",
     "2024-07-17.md",
     "2024-07-18 test.md",
-    "Templates/Note - event card.md",
     "Taylor Swift.md",
     "November 22 The Eras Tour in Toronto.md",
     "Festival Twist.md",
-    "Templates/Daily note {{date}}.md",
     "2024-W29.md",
     "2024-08-10 Festival Twist.md",
     "2024-07-11.md",
@@ -197,7 +198,6 @@
     "Address.md",
     "Rogers Centre.md",
     "Event Site.md",
-    "Complexe Whissell.md",
     "D"
   ]
 }
