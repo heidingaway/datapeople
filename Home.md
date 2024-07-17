@@ -1,16 +1,16 @@
 ---
 title: Home
-created: 2024-07-17
+created: 2024-07-12
 modified: 2024-07-17
 tags:
-  - AREAS/address
+  - PROJECTS
 ---
-# Home
-## Address
+#  Home
+
+## Comments
 
 ## Outgoing Link
-[[Address]]
-[[Areas]]
+
 ## Incoming Link
 ```dataview
 LIST
