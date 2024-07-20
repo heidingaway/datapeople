@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prosci 3-Phase Process.md",
+                "file": "Songs - Taylor Swift.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "/definition",
+            "query": "test",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -94,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 4,
+    "currentTab": 1,
     "pinned": true
   },
   "right": {
@@ -107,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Prosci 3-Phase Process.md",
+            "file": "Songs - Taylor Swift.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Prosci 3-Phase Process.md",
+            "file": "Songs - Taylor Swift.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Prosci 3-Phase Process.md"
+            "file": "Songs - Taylor Swift.md"
           }
         }
       }
@@ -158,32 +158,32 @@
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
-    "Impact.md",
-    "Prosci 3-Phase Process.md",
-    "Success.md",
-    "Approach.md",
-    "Roles and Responsibilities.md",
-    "Resistance to Change.md",
-    "Risk Assessment.md",
-    "Templates/Note - definition resources.md",
-    "Stakeholder and Stakeholder Groups.md",
-    "adoption and usage.md",
+    "test.md",
+    "Songs - Taylor Swift.md",
+    "Taylor Swift.md",
+    "Midnights (2022).md",
+    "Speak Now (Taylor's Version) (2023).md",
+    "Fearless (Taylor's Version) (2021).md",
+    "Evermore (2020).md",
+    "Red (Taylor's Version) (2021).md",
+    "Album - Taylor Swift.md",
+    "1989 (Taylor's Version) (2023).md",
+    "Every Taylor Swift Album in Order of Release.md",
+    "The Tortured Poets Department (2024).md",
+    "Folklore (2020).md",
+    "Lover (2019).md",
+    "Reputation (2017).md",
+    "1989 (2014).md",
+    "Red (2012).md",
+    "Speak Now (2010).md",
+    "Fearless (2008).md",
+    "Taylor Swift (2006).md",
+    "Emotional Design - Don Norman.md",
+    "Friday Finds — Emotional Design, Power of Visuals for Learning, Marketing for L&D GPT.md",
+    "Plain English Weekly Newsletter.md",
+    "Data Foundations to Better Support Canadians.md",
     "Prosci Methodology.md",
-    "Prosci Change Triangle Model - PCT Model.md",
-    "Change Management.md",
-    "Project Management.md",
-    "Leadership-Sponsorship.md",
-    "ADKAR Model.md",
-    "Knowledge.md",
-    "Reinforcement.md",
-    "Ability.md",
-    "Desire.md",
-    "Awareness.md",
-    "Organizational Change.md",
-    "2024-07-19.md",
-    "Digital Government.md",
-    "2024-W29.md",
-    "2024-07-15.md",
+    "Prosci 3-Phase Process.md",
     "D"
   ]
 }
