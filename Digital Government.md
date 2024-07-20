@@ -9,7 +9,7 @@ tags:
 ## Comments
 
 ## Outgoing Link
-[[Definition]]; [[Design]]; [[Heidi's 12 Favourite Problems]]
+[[Definition]]; [[Design]]; [[Heidi's 12 Favourite Problems]]; [[Change Management]]
 ## Incoming Link
 ```dataview
 LIST
