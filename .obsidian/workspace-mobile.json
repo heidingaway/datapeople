@@ -11,12 +11,8 @@
             "id": "c3b2c4a159c1dede",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs - Taylor Swift.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -44,7 +40,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "test",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -94,7 +90,7 @@
         }
       }
     ],
-    "currentTab": 1,
+    "currentTab": 4,
     "pinned": true
   },
   "right": {
@@ -107,7 +103,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Songs - Taylor Swift.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +119,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Songs - Taylor Swift.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,9 +129,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Songs - Taylor Swift.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -158,9 +150,23 @@
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
-    "test.md",
+    "Knitting.md",
+    "Dynamic dark energy.md",
+    "Einstein's General Relativity.md",
+    "Cosmological Redshift.md",
+    "Astrobio Defense.md",
+    "I'll Be Your Daisy - Notes.md",
+    "Jamieson and Smith 2 ply Jumper Weight.md",
+    "2024-07-11.md",
+    "Projects.md",
+    "Cardigan Buckley - Project Notes.md",
+    "2024-07-15.md",
+    "2024-07-20.md",
+    "Fortnight - Taylor Swift.md",
+    "The Tortured Poets Department (2024).md",
     "Songs - Taylor Swift.md",
     "Taylor Swift.md",
+    "test.md",
     "Midnights (2022).md",
     "Speak Now (Taylor's Version) (2023).md",
     "Fearless (Taylor's Version) (2021).md",
@@ -169,21 +175,7 @@
     "Album - Taylor Swift.md",
     "1989 (Taylor's Version) (2023).md",
     "Every Taylor Swift Album in Order of Release.md",
-    "The Tortured Poets Department (2024).md",
     "Folklore (2020).md",
-    "Lover (2019).md",
-    "Reputation (2017).md",
-    "1989 (2014).md",
-    "Red (2012).md",
-    "Speak Now (2010).md",
-    "Fearless (2008).md",
-    "Taylor Swift (2006).md",
-    "Emotional Design - Don Norman.md",
-    "Friday Finds — Emotional Design, Power of Visuals for Learning, Marketing for L&D GPT.md",
-    "Plain English Weekly Newsletter.md",
-    "Data Foundations to Better Support Canadians.md",
-    "Prosci Methodology.md",
-    "Prosci 3-Phase Process.md",
     "D"
   ]
 }

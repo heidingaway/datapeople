@@ -7,6 +7,7 @@ tags:
 ---
 # The Tortured Poets Department (2024)
 ## Definition
+1. [[Fortnight - Taylor Swift]]
 
 ## Outgoing Link
 [[Album - Taylor Swift]]
