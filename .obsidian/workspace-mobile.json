@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prosci Methodology.md",
+                "file": "Prosci 3-Phase Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Prosci Methodology.md",
+            "file": "Prosci 3-Phase Process.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Prosci Methodology.md",
+            "file": "Prosci 3-Phase Process.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Prosci Methodology.md"
+            "file": "Prosci 3-Phase Process.md"
           }
         }
       }
@@ -158,32 +158,32 @@
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
-    "Change Management.md",
+    "Impact.md",
+    "Prosci 3-Phase Process.md",
+    "Success.md",
+    "Approach.md",
+    "Roles and Responsibilities.md",
+    "Resistance to Change.md",
+    "Risk Assessment.md",
+    "Templates/Note - definition resources.md",
+    "Stakeholder and Stakeholder Groups.md",
+    "adoption and usage.md",
     "Prosci Methodology.md",
+    "Prosci Change Triangle Model - PCT Model.md",
+    "Change Management.md",
+    "Project Management.md",
+    "Leadership-Sponsorship.md",
+    "ADKAR Model.md",
+    "Knowledge.md",
+    "Reinforcement.md",
+    "Ability.md",
+    "Desire.md",
+    "Awareness.md",
+    "Organizational Change.md",
+    "2024-07-19.md",
     "Digital Government.md",
     "2024-W29.md",
     "2024-07-15.md",
-    "2024-07-12.md",
-    "2024-07-11.md",
-    "2024-07-19.md",
-    "2024-07-17.md",
-    "Address.md",
-    "Home.md",
-    "24 stitches and 27 rows in stockinette.md",
-    "kim.md",
-    "Templates/Template - weekly.md",
-    "Templates/Note - event card all day.md",
-    "Ontario.md",
-    "Toronto.md",
-    "Rogers Centre.md",
-    "Event Site.md",
-    "Crochet Hook.md",
-    "2024 Festival Twist Plan.md",
-    "I'll Be Your Daisy - Notes.md",
-    "D3.0mm - crochet hook.md",
-    "Heidi's 12 Favourite Problems.md",
-    "Templates/Daily note {{date}}.md",
-    "2024-07-16.md",
     "D"
   ]
 }

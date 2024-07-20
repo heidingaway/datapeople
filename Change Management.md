@@ -7,12 +7,14 @@ tags:
 ---
 # Change Management
 ## Comments
-
+- "the discipline that address the people side of change, enabling people to engage, adopt and use the solution"[^1]
 ## Outgoing Link
-[[Definition]]; [[Digital Government]]
-
+[[Definition]]; 
 ## Incoming Link
 ```dataview
 LIST
 FROM [[]]
 ```
+# Footnotes
+
+[^1]: [[Prosci Change Triangle Model - PCT Model]]

@@ -3,14 +3,15 @@ title: Prosci Methodology
 created: 2024-07-19
 modified: 2024-07-19
 tags:
-  - RESOURCES/change-management/definition
+  - RESOURCES/change-mgt/definition
 ---
 # Prosci Methodology
 
 ## Comments
 - "A structured, adaptable, repeatable approach to enable individuals to successfully move through changes in your organization."[^1]
+	- bringing together [[Project Management]] (technical side) + [[Change Management]] (people side) to drive [[Organizational Change]]
 - Composed of:
-	- [[PCT Model]]
+	- [[Prosci Change Triangle Model - PCT Model]]
 	- [[ADKAR Model]]
 	- [[Prosci 3-Phase Process]]
 ## Outgoing Link

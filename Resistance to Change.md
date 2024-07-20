@@ -1,11 +1,12 @@
 ---
-title: <% tp.file.title %>
-created: 
-modified: 
+title: Resistance to Change
+created: 2024-07-19
+modified: 2024-07-19
 tags:
   - RESOURCES
 ---
-# <% tp.file.title %>
+# Resistance to Change
+
 ## Definition
 
 ## Outgoing Link
