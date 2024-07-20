@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Address.md",
+                "file": "2024-W29.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 0,
+    "currentTab": 4,
     "pinned": true
   },
   "right": {
@@ -107,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Address.md",
+            "file": "2024-W29.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Address.md",
+            "file": "2024-W29.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Address.md"
+            "file": "2024-W29.md"
           }
         }
       }
@@ -153,14 +153,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "periodic-notes:Open this week": false
     }
   },
   "active": "c3b2c4a159c1dede",
   "lastOpenFiles": [
-    "Home.md",
+    "2024-07-15.md",
+    "2024-W29.md",
+    "2024-07-12.md",
+    "2024-07-11.md",
+    "2024-07-19.md",
+    "2024-07-17.md",
     "Address.md",
+    "Home.md",
     "24 stitches and 27 rows in stockinette.md",
     "kim.md",
     "Templates/Template - weekly.md",
@@ -174,17 +179,11 @@
     "I'll Be Your Daisy - Notes.md",
     "D3.0mm - crochet hook.md",
     "Heidi's 12 Favourite Problems.md",
-    "2024-07-17.md",
-    "2024-W29.md",
     "Templates/Daily note {{date}}.md",
     "2024-07-16.md",
-    "2024-07-15.md",
     "2024-07-08.md",
     "2024-07-10.md",
     "2024-W28.md",
-    "2024-07-13.md",
-    "2024-07-12.md",
-    "2024-07-11.md",
     "D"
   ]
 }
