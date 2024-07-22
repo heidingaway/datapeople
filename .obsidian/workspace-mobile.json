@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-22.md",
+                "file": "The Wisdom of Crowds - James Surowiecki.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 4,
+    "currentTab": 0,
     "pinned": true
   },
   "right": {
@@ -107,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-22.md",
+            "file": "The Wisdom of Crowds - James Surowiecki.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-22.md",
+            "file": "The Wisdom of Crowds - James Surowiecki.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-22.md"
+            "file": "The Wisdom of Crowds - James Surowiecki.md"
           }
         }
       }
@@ -158,8 +158,11 @@
   },
   "active": "b72e6786132409fa",
   "lastOpenFiles": [
-    "Stuck in Stoneybrook.md",
+    "Templates/Note - Books.md",
+    "The Wisdom of Crowds - James Surowiecki.md",
+    "The Wisdom of Crowds - Joe Abercrombie.md",
     "2024-07-22.md",
+    "Stuck in Stoneybrook.md",
     "2024-W30.md",
     "2024-W29.md",
     "2024-07-15.md",
@@ -181,9 +184,6 @@
     "Cosmological Redshift.md",
     "Astrobio Defense.md",
     "I'll Be Your Daisy - Notes.md",
-    "Jamieson and Smith 2 ply Jumper Weight.md",
-    "2024-07-11.md",
-    "Projects.md",
     "D"
   ]
 }
