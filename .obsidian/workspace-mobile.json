@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3b2c4a159c1dede",
+            "id": "b72e6786132409fa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-22.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -103,6 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2024-07-22.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,6 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "2024-07-22.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +135,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "2024-07-22.md"
+          }
         }
       }
     ],
@@ -148,12 +156,25 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c3b2c4a159c1dede",
+  "active": "b72e6786132409fa",
   "lastOpenFiles": [
+    "Stuck in Stoneybrook.md",
+    "2024-07-22.md",
+    "2024-W30.md",
+    "2024-W29.md",
+    "2024-07-15.md",
+    "2024-07-12.md",
+    "2024-07-13.md",
+    "2024-07-21.md",
+    "2024-07-17.md",
+    "2024-07-19.md",
+    "2024-07-20.md",
+    "Podcast.md",
+    "History of Witches.md",
+    "Gossip.md",
     "Festival Twist 2024.md",
     "README.md",
     "Heidi's 12 Favourite Problems.md",
-    "2024-07-21.md",
     "Knitting.md",
     "Dynamic dark energy.md",
     "Einstein's General Relativity.md",
@@ -163,19 +184,6 @@
     "Jamieson and Smith 2 ply Jumper Weight.md",
     "2024-07-11.md",
     "Projects.md",
-    "Cardigan Buckley - Project Notes.md",
-    "2024-07-15.md",
-    "2024-07-20.md",
-    "Fortnight - Taylor Swift.md",
-    "The Tortured Poets Department (2024).md",
-    "Songs - Taylor Swift.md",
-    "Taylor Swift.md",
-    "test.md",
-    "Midnights (2022).md",
-    "Speak Now (Taylor's Version) (2023).md",
-    "Fearless (Taylor's Version) (2021).md",
-    "Evermore (2020).md",
-    "Red (Taylor's Version) (2021).md",
     "D"
   ]
 }
