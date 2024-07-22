@@ -23,4 +23,4 @@ LIST
 FROM [[]]
 ```
 ## Footnotes
-[^1]: 
+[^1]: [Book recommendation from LinkedIn](https://www.linkedin.com/posts/kvirjee_rethink-bookrecommendations-groupthink-activity-7217634615522385920-tju4?utm_source=share&utm_medium=member_desktop)
