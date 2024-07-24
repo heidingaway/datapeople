@@ -1,14 +1,14 @@
 ---
 title: Stuck in Stoneybrook
 created: 2024-07-22
-modified: 2024-07-22
+modified: 2024-07-23
 tags:
   - RESOURCES/podcast
 ---
 # Stuck in Stoneybrook
 
 ## Definition
-- [[History of Witches|witch hunts]]/demonization of women as witches[^1]
+- episodes[^1]
 
 ## Outgoing Link
 [[Podcast]]; [[Definition]]

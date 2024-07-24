@@ -1,15 +1,16 @@
 ---
-title: Space
-created: 2024-07-11
-modified: 2024-07-17
+title: Non-Fiction
+created: 2024-07-23
+modified: 2024-07-23
 tags:
   - RESOURCES/definition
 ---
-# Space
-## Comments
+# Non-Fiction
+
+## Definition
 
 ## Outgoing Link
- [[Resources]]; [[Definition]]
+[[Definition]]
 ## Incoming Link
 ```dataview
 LIST

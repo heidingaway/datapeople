@@ -12,7 +12,6 @@ tags:
 ## Reference
 
 ## Outgoing Link
-[[Space]]
 [[Katie Mack]]
 ## Incoming Link
 ```dataview

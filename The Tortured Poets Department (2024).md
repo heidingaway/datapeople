@@ -10,7 +10,7 @@ tags:
 1. [[Fortnight - Taylor Swift]]
 
 ## Outgoing Link
-[[Album - Taylor Swift]]
+
 ## Incoming Link
 ```dataview
 LIST

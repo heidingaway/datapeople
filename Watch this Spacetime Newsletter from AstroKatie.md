@@ -1,22 +1,22 @@
 ---
 title: Watch this Spacetime Newsletter from AstroKatie
-created: 2024-07-11
-modified: 2024-07-17
+created: 2024-07-15
+modified: 2024-07-23
 source: newsletter
 tags:
   - RESOURCES/space
 ---
 # Watch this Spacetime Newsletter from AstroKatie
 ## Comments
-- Monthly newsletter[^1]
+- monthly[^1]
 
-## Reference
-## Links
-[[Space]]
+## Outgoing Link
+[[Katie Mack]]
+## Incoming Link
 ```dataview
 LIST
 FROM [[]]
 ```
 # Footnotes
 
-[^1]: [Katie Mack, Astrophysicist](https://www.astrokatie.com/)
+[^1]: [^1]: [Katie Mack, Astrophysicist](https://www.astrokatie.com/)

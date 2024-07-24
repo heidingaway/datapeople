@@ -8,6 +8,7 @@ tags:
   - RESOURCES/digital-government
   - RESOURCES/space
   - RESOURCES/infectious-disease
+  - RESOURCES/non-fiction/article
 ---
 # AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns
 ## Comments

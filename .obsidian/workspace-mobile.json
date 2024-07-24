@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "e502bca473754980",
+    "id": "bfdb234f8a734145",
     "type": "split",
     "children": [
       {
-        "id": "a9c6854d127daa94",
+        "id": "01d64ec93d66a7d0",
         "type": "tabs",
         "children": [
           {
-            "id": "c8c2e88afe9ee306",
+            "id": "47415f277e8207be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-23.md",
+                "file": "Templates/Daily note {{date}}.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "516ab22640b0e3d2",
+    "id": "20948010da38a7ed",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "dcbdcd39bbb9f32e",
+        "id": "c9ae12dedd9108c8",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +39,7 @@
         }
       },
       {
-        "id": "216c074c1ce51d4c",
+        "id": "d62606c835b72597",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "4dcbde9053e63390",
+        "id": "dfe5b2f8e7272fc1",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,27 +65,49 @@
         }
       },
       {
-        "id": "299338b27445a682",
+        "id": "1e2d32e6f2049fcf",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "8573d176c79a1184",
+        "type": "leaf",
+        "state": {
+          "type": "tagfolder-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "a0ae5567516dd588",
+        "type": "leaf",
+        "state": {
+          "type": "tagfolder-view-list",
+          "state": {
+            "tags": [
+              "unfiled/"
+            ],
+            "title": "unfiled/"
+          }
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
-    "id": "1ac83ec71a428382",
+    "id": "2ff742e27f99fa5e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "509405fe96b7d0f2",
+        "id": "81b93cc3af1b7f8b",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-23.md",
+            "file": "Templates/Daily note {{date}}.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,37 +119,29 @@
         }
       },
       {
-        "id": "dbb66f3fdc1b670f",
+        "id": "7f02f238a9aafc3d",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-23.md",
+            "file": "Templates/Daily note {{date}}.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "b54944579a2f08ae",
+        "id": "e7edf542a56b2255",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-23.md"
+            "file": "Templates/Daily note {{date}}.md"
           }
-        }
-      },
-      {
-        "id": "c3acb01aae7443bd",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,42 +152,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-book-search-plugin:Create new book note": false,
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c8c2e88afe9ee306",
+  "active": "47415f277e8207be",
   "lastOpenFiles": [
-    "Untitled.md",
-    "2024-07-23.md",
-    "seamed.md",
-    "Prosci 3-Phase Process.md",
-    "Digital Government.md",
-    "three-needle-bind.md",
-    "Data Quality.md",
-    "Buckley Cardigan.md",
-    "Gossip.md",
-    "Rogers Centre.md",
-    "Resistance to Change.md",
-    "Quince & Co. Sparrow.md",
-    "2024-07-19.md",
-    "Knitting.md",
-    "Speak Now (Taylor's Version) (2023).md",
-    "Ontario.md",
-    "the best collective decisions.md",
-    "Address.md",
-    "Cardigan Buckley - Project Notes.md",
-    "Complexe Whissell.md",
-    "Fearless (Taylor's Version) (2021).md",
-    "1989 (Taylor's Version) (2023).md",
-    "Toronto.md",
-    "Shetland - Islands.md",
-    "Podcast.md",
+    "Emotional Design.md",
+    "Emotional Design - Don Norman.md",
+    "collective decisions.md",
+    "Don Norman.md",
+    "Author.md",
+    "Non-Fiction.md",
+    "The Wisdom of Crowds - James Surowiecki.md",
+    "The End of Everything - Katie Mack.md",
+    "Book.md",
+    "James Surowiecki.md",
+    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
+    "Space.md",
+    "Katie Mack.md",
+    "Cosmology 101 with Katie Mack.md",
+    "Watch this Spacetime from AstroKatie - June edition.md",
     "Watch this Spacetime Newsletter from AstroKatie.md",
-    "Reference Photos",
-    "Reference Photos/TS - TTPD concert dress.jpeg",
-    "Reference Photos/TS - lovers era big sleeves.jpeg",
-    "Reference Photos/TS - TTPD Grammys dress.jpeg",
-    "Reference Photos/TS - flowers dress.jpeg",
-    "Templates"
+    "The End of Everything Astrophysically Speaking.md",
+    "The Baby-Sitters Club.md",
+    "The Baby-Sitters Club Retro Set (Books 1-6) - Ann M Martin.md",
+    "Ann M. Martin.md",
+    "Children's Literature.md",
+    "2024-07-23.md",
+    "The Sirens of Mars - Sarah Stewart Johnson.md",
+    "Design.md",
+    "Templates/Daily note {{date}}.md",
+    "Fiction.md",
+    "D"
   ]
 }

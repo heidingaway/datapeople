@@ -4,6 +4,7 @@ created: 2024-07-15
 modified: 2024-07-17
 source: book
 tags:
+  - RESOURCES/non-fiction/book
   - RESOURCES/design
 ---
 # Emotional Design
@@ -17,9 +18,7 @@ tags:
 - isbn10: 0465004172
 
 ## Outgoing Link
-[[Emotional Design]]
-[[Design]]
-[[TBR]]
+[[Emotional Design]]; [[Design]]; [[TBR]]
 ## Incoming Link
 ```dataview
 LIST

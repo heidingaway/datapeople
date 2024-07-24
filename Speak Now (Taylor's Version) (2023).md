@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Album - Taylor Swift]]; [[Speak Now (2010)]]
+[[Speak Now (2010)]]
 ## Incoming Link
 ```dataview
 LIST

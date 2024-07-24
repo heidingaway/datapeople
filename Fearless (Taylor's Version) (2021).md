@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Album - Taylor Swift]]; [[Fearless (2008)]]
+[[Fearless (2008)]]
 ## Incoming Link
 ```dataview
 LIST

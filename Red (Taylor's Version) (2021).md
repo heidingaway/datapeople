@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Album - Taylor Swift]]; [[Red (2012)]]
+[[Red (2012)]]
 ## Incoming Link
 ```dataview
 LIST

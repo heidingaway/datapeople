@@ -55,7 +55,7 @@ Thought of calling ya, but you won't pick up
 Move to Florida, buy the car you want
 But it won't start up 'til I touch, touch, touch you
 ## Outgoing Link
-[[Definition]]
+
 ## Incoming Link
 ```dataview
 LIST

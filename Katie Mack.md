@@ -9,9 +9,7 @@ tags:
 ## Comments
 - Astrophysicist[^1]
 ## Outgoing Link
-[[Cosmology 101 with Katie Mack]]
-[[The End of Everything Astrophysically Speaking]]
-[[Watch this Spacetime Newsletter from AstroKatie]]
+[[Space]]
 ## Incoming Link
 ```dataview
 LIST
