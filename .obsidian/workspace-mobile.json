@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Claudia and the Phantom Phone Calls.md",
+                "file": "Inclusive Elementary Booklists.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#RESOURCES/podcast/definition",
+            "query": "article",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -94,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 4,
+    "currentTab": 1,
     "pinned": true
   },
   "right": {
@@ -107,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2 - Claudia and the Phantom Phone Calls.md",
+            "file": "Inclusive Elementary Booklists.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2 - Claudia and the Phantom Phone Calls.md",
+            "file": "Inclusive Elementary Booklists.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2 - Claudia and the Phantom Phone Calls.md"
+            "file": "Inclusive Elementary Booklists.md"
           }
         }
       }
@@ -158,9 +158,23 @@
   },
   "active": "51a63563cc381f6d",
   "lastOpenFiles": [
+    "Hub.md",
+    "Inclusive Elementary Booklists.md",
+    "TBR.md",
+    "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
+    "Watch this Spacetime from AstroKatie - June edition.md",
+    "Designing letters as part of the whole user journey.md",
+    "Everything is Different - Plain English Weekly.md",
+    "Data Foundations to Better Support Canadians.md",
+    "Podcast Episodes.md",
     "1 - Kristy's Great Idea - Sheeps are IN.md",
-    "Stuck in Stoneybrook.md",
     "2 - Claudia and the Phantom Phone Calls.md",
+    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
+    "Non-Fiction.md",
+    "Article.md",
+    "Cut the Carceral System Now - Jack Norton.md",
+    "Newsletter.md",
+    "Stuck in Stoneybrook.md",
     "2024-07-24.md",
     "Science.md",
     "Space.md",
@@ -170,20 +184,6 @@
     "Economics.md",
     "collective decisions.md",
     "Emotional Design.md",
-    "Learning Design.md",
-    "Friday Finds — Emotional Design, Power of Visuals for Learning, Marketing for L&D GPT.md",
-    "Friday Finds - Newsletter by Mike Taylor.md",
-    "Service Design.md",
-    "Newsletter.md",
-    "Watch this Spacetime from AstroKatie - June edition.md",
-    "Emotional Design - Don Norman.md",
-    "History of Witches.md",
-    "Book.md",
-    "Podcast Episodes.md",
-    "Children's Literature.md",
-    "Non-Fiction.md",
-    "The Wisdom of Crowds - James Surowiecki.md",
-    "Author.md",
     "D"
   ]
 }

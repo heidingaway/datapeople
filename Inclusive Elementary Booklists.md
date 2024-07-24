@@ -8,10 +8,20 @@ tags:
 ---
 # Inclusive Elementary Booklists
 ## Definition
-- sds[^1]
+- List of documents linked[^1]:
+	- [[Embracing All Families Booklist for Elementary]]
+	- [[Creating Gender Inclusive Schools Booklist for Elementary]]
+	- [[Creating LGBTQ+ Inclusive Schools Booklist for Elementary]]
+	- [[Preventing Bias-Based Bullying for Elementary]]
+	- [[Supporting Transgender & Non-Binary Booklist for Elementary]]
+	- [[LGBTQ+ History Booklist for Elementary]]
+	- [[Top Books for an Elementary Classroom]]
+	- [[Exploring and Challenging Racism Booklist for Pre-K-8 Students]]
+	- [[Welcoming Schools & American Association of School Librarians Top 12 Recommended Books for Elementary and Secondary]]
+	- [[Welcoming Schools Pride Booklist]]
 
 ## Outgoing Link
-[[Child Psychology]]; [[1 - Kristy's Great Idea - Sheeps are IN]]; [[TBR]]
+[[Child Psychology]]; [[1 - Kristy's Great Idea - Sheeps are IN]]; [[TBR]]; [[Hub]]
 ## Incoming Link
 ```dataview
 LIST
