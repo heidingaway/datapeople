@@ -4,7 +4,7 @@ created: 2024-07-15
 modified: 2024-07-17
 source: newsletter
 tags:
-  - RESOURCES/non-fiction/newsletter
+  - RESOURCES/literature/non-fiction/design
 ---
 # Friday Finds — Emotional Design, Power of Visuals for Learning, Marketing for L&D GPT
 ## Comments

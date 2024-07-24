@@ -4,7 +4,7 @@ created: 2024-07-24
 modified: 2024-07-24
 source: article
 tags:
-  - RESOURCES/non-fiction/article
+  - RESOURCES/literature/non-fiction/justice
 ---
 # Cut the Carceral System Now - Jack Norton
 ## Definition

@@ -4,13 +4,13 @@ created: 2024-07-12
 modified: 2024-07-17
 source: article
 tags:
-  - RESOURCES/non-fiction/article
+  - RESOURCES/literature/non-fiction/space
 ---
 # AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns
 ## Comments
 - article[^1]
 ## Outgoing Link
-[[Article]]; [[Artificial Intelligence - AI]]; [[Digital Government]]; [[Space]]; [[Infectious Disease]]; [[TBR]]
+[[Artificial Intelligence - AI]]; [[Digital Government]]; [[Space]]; [[Infectious Disease]]; [[TBR]]
 ## Incoming Link
 ```dataview
 LIST

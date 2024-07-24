@@ -1,15 +1,15 @@
 ---
-title: James Surowiecki
-created: 2024-07-23
-modified: 2024-07-23
+title: Jerome Pohlen
+created: 2024-07-24
+modified: 2024-07-24
 tags:
   - RESOURCES/literature/author
 ---
-# James Surowiecki
+# Jerome Pohlen
 ## Definition
 
 ## Outgoing Link
-[[Author]]; [[Design]]; [[Economics]]
+[[Definition]]; [[Author]]
 ## Incoming Link
 ```dataview
 LIST

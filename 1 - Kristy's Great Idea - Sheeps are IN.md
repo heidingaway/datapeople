@@ -3,7 +3,7 @@ title: "1 - Kristy's Great Idea - Sheeps are IN"
 created: 2024-07-23
 modified: 2024-07-24
 tags:
-  - RESOURCES/podcast/stuck-stoneybrook
+  - RESOURCES/literature/podcast/stuck-stoneybrook
 ---
 # 1 - Kristy's Great Idea - Sheeps are IN
 ## Definition

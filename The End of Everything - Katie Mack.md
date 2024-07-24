@@ -3,8 +3,7 @@ title: The End of Everything - Katie Mack
 created: 2024-07-23
 modified: 2024-07-23
 tags:
-- RESOURCES/non-fiction/book
-- RESOURCES/space
+- RESOURCES/literature/non-fiction/space
 ---
 # The End of Everything
 - subtitle: "(Astrophysically Speaking)"
@@ -17,8 +16,7 @@ tags:
 - isbn10: 1982103558
 
 ## Outgoing Link
-[[Non-Fiction]]; [[Book]]
-
+[[TBR]]
 ## Incoming Link
 ```dataview
 LIST

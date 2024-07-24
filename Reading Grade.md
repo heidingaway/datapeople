@@ -1,11 +1,11 @@
 ---
-title: Author
-created: 2024-07-23
-modified: 2024-07-23
+title: Reading Grade
+created: 2024-07-24
+modified: 2024-07-24
 tags:
-  - RESOURCES/definition
+  - RESOURCES/book/definition
 ---
-# Author
+# Reading Grade
 ## Definition
 
 ## Outgoing Link

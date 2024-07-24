@@ -3,7 +3,7 @@ title: Podcast Episodes
 created: 2024-07-23
 modified: 2024-07-23
 tags:
-  - RESOURCES/podcast/definition
+  - RESOURCES/literature/podcast/definition
 ---
 # Podcast Episodes
 ## Definition

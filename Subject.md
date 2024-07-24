@@ -1,11 +1,11 @@
 ---
-title: Author
-created: 2024-07-23
-modified: 2024-07-23
+title: Subject
+created: 2024-07-24
+modified: 2024-07-24
 tags:
-  - RESOURCES/definition
+  - RESOURCES/literature/definition
 ---
-# Author
+# Subject
 ## Definition
 
 ## Outgoing Link

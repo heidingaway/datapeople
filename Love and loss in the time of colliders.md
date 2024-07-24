@@ -4,7 +4,7 @@ created: 2024-07-12
 modified: 2024-07-17
 source: article
 tags:
-  - RESOURCES/space
+  - RESOURCES/literature/non-fiction/space
 ---
 # Love and loss in the time of colliders
 ## Comments
@@ -12,9 +12,7 @@ tags:
 ## Reference
 [Love and loss in the time of colliders](https://cosmosmagazine.com/science/physics/love-and-loss-in-the-time-of-colliders/)
 ## Outgoing Link
-[[Watch this Spacetime from AstroKatie - June edition]]
-[[Space]]
-[[TBR]]
+[[Watch this Spacetime from AstroKatie - June edition]]; [[Space]]; [[TBR]];
 ## Incoming Link
 ```dataview
 LIST

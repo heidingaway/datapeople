@@ -3,7 +3,7 @@ title: Non-Fiction
 created: 2024-07-23
 modified: 2024-07-23
 tags:
-  - RESOURCES/definition
+  - RESOURCES/literature/definition
 ---
 # Non-Fiction
 

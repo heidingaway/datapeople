@@ -1,11 +1,11 @@
 ---
-title: Author
-created: 2024-07-23
-modified: 2024-07-23
+title: Video
+created: 
+modified: 
 tags:
-  - RESOURCES/definition
+  - RESOURCES/literature/definition
 ---
-# Author
+# Video
 ## Definition
 
 ## Outgoing Link

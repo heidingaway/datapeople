@@ -2,8 +2,9 @@
 title: The Wisdom of Crowds - James Surowiecki
 created: 2024-07-22
 modified: 2024-07-23
+source: book
 tags:
-- RESOURCES/non-fiction/book
+- RESOURCES/literature/non-fiction
 ---
 # The Wisdom of Crowds
 - subtitle: ""
@@ -16,7 +17,7 @@ tags:
 - isbn10: 0307275051
 
 ## Outgoing Link
-[[Non-Fiction]]; [[Book]]; [[Design]]; [[TBR]]
+[[TBR]]
 ## Incoming Link
 ```dataview
 LIST

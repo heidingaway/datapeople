@@ -1,15 +1,15 @@
 ---
-title: James Surowiecki
-created: 2024-07-23
-modified: 2024-07-23
+title: Desmond Napoles
+created: 2024-07-24
+modified: 2024-07-24
 tags:
   - RESOURCES/literature/author
 ---
-# James Surowiecki
+# Desmond Napoles
 ## Definition
 
 ## Outgoing Link
-[[Author]]; [[Design]]; [[Economics]]
+[[Author]]; [[Children Nonfiction]]
 ## Incoming Link
 ```dataview
 LIST

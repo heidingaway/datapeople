@@ -4,7 +4,7 @@ created: 2024-07-11
 modified: 2024-07-17
 source: video
 tags:
-  - RESOURCES/space
+  - RESOURCES/literature/non-fiction/space
 ---
 # Cosmology 101 with Katie Mack
 ## Comments
@@ -12,7 +12,7 @@ tags:
 ## Reference
 
 ## Outgoing Link
-[[Katie Mack]]
+[[Katie Mack]]; [[Space]]; [[Video]]; [[TBR]]
 ## Incoming Link
 ```dataview
 LIST

@@ -3,7 +3,7 @@ title: Katie Mack
 created: 2024-07-11
 modified: 2024-07-17
 tags:
-  - RESOURCES/non-fiction/author
+  - RESOURCES/literature/author
 ---
 # Katie Mack
 ## Comments

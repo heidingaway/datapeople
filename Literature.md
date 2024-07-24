@@ -1,11 +1,12 @@
 ---
-title: Book
+title: Literature
 created: 2024-07-23
-modified: 2024-07-23
+modified: 2024-07-24
 tags:
   - RESOURCES/definition
 ---
-# Book
+# Literature
+
 ## Definition
 
 ## Outgoing Link

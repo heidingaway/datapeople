@@ -1,11 +1,11 @@
 ---
-title: "Children's Literature"
+title: Childrens Literature
 created: 2024-07-23
-modified: 2024-07-23
+modified: 2024-07-24
 tags:
-  - RESOURCES/fiction/definition
+  - RESOURCES/literature/fiction/definition
 ---
-# Children's Literature
+# Childrens Literature
 ## Definition
 
 ## Outgoing Link

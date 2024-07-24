@@ -1,10 +1,9 @@
 ---
 title: <% tp.file.title %>
-aliases: 
 created: 
 modified: 
 tags:
-- RESOURCES/book
+- RESOURCES/literature
 ---
 # {{title}}
 - subtitle: "{{subtitle}}"

@@ -4,7 +4,7 @@ created: 2024-07-12
 modified: 2024-07-17
 source: article
 tags:
-  - RESOURCES/space
+  - RESOURCES/literature/non-fiction/space
 ---
 # NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy
 ## Comments
@@ -12,9 +12,7 @@ tags:
 ## Reference
 [NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy](https://webbtelescope.org/contents/early-highlights/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy)
 ## Outgoing Link
-[[Watch this Spacetime from AstroKatie - June edition]]
-[[Space]]
-[[TBR]]
+[[Space]]; [[TBR]]
 ## Incoming Link
 ```dataview
 LIST

@@ -4,7 +4,7 @@ created: 2024-07-15
 modified: 2024-07-17
 source: podcast
 tags:
-  - RESOURCES/podcast
+  - RESOURCES/literature/podcast
 ---
 # Data Foundations to Better Support Canadians
 
