@@ -3,7 +3,7 @@ title: Book
 created: 2024-07-23
 modified: 2024-07-23
 tags:
-  - RESOURCES/definiton
+  - RESOURCES/definition
 ---
 # Book
 ## Definition

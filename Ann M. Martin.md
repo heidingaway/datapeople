@@ -3,7 +3,7 @@ title: Ann M. Martin
 created: 2024-07-23
 modified: 2024-07-23
 tags:
-  - RESOURCES/fiction/child-lit/author
+  - RESOURCES/fiction/author
 ---
 # Ann M. Martin
 ## Definition

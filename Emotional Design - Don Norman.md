@@ -5,7 +5,6 @@ modified: 2024-07-17
 source: book
 tags:
   - RESOURCES/non-fiction/book
-  - RESOURCES/design
 ---
 # Emotional Design
 - subtitle: "Why We Love (or Hate) Everyday Things"

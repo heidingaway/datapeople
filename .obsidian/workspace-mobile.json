@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily note {{date}}.md",
+                "file": "Don Norman.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#RESOURCES/podcast/definition",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -94,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 0,
+    "currentTab": 4,
     "pinned": true
   },
   "right": {
@@ -107,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Daily note {{date}}.md",
+            "file": "Don Norman.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Daily note {{date}}.md",
+            "file": "Don Norman.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/Daily note {{date}}.md"
+            "file": "Don Norman.md"
           }
         }
       }
@@ -158,32 +158,32 @@
   },
   "active": "47415f277e8207be",
   "lastOpenFiles": [
-    "Emotional Design.md",
-    "Emotional Design - Don Norman.md",
+    "James Surowiecki.md",
     "collective decisions.md",
+    "Emotional Design.md",
+    "Learning Design.md",
+    "Friday Finds — Emotional Design, Power of Visuals for Learning, Marketing for L&D GPT.md",
+    "Friday Finds - Newsletter by Mike Taylor.md",
+    "Service Design.md",
+    "Newsletter.md",
+    "Watch this Spacetime from AstroKatie - June edition.md",
+    "Emotional Design - Don Norman.md",
     "Don Norman.md",
-    "Author.md",
+    "History of Witches.md",
+    "Book.md",
+    "Podcast Episodes.md",
+    "Children's Literature.md",
     "Non-Fiction.md",
     "The Wisdom of Crowds - James Surowiecki.md",
+    "Author.md",
+    "Ann M. Martin.md",
+    "Katie Mack.md",
     "The End of Everything - Katie Mack.md",
-    "Book.md",
-    "James Surowiecki.md",
+    "Templates/Daily note {{date}}.md",
     "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
     "Space.md",
-    "Katie Mack.md",
     "Cosmology 101 with Katie Mack.md",
-    "Watch this Spacetime from AstroKatie - June edition.md",
     "Watch this Spacetime Newsletter from AstroKatie.md",
-    "The End of Everything Astrophysically Speaking.md",
-    "The Baby-Sitters Club.md",
-    "The Baby-Sitters Club Retro Set (Books 1-6) - Ann M Martin.md",
-    "Ann M. Martin.md",
-    "Children's Literature.md",
-    "2024-07-23.md",
-    "The Sirens of Mars - Sarah Stewart Johnson.md",
-    "Design.md",
-    "Templates/Daily note {{date}}.md",
-    "Fiction.md",
     "D"
   ]
 }

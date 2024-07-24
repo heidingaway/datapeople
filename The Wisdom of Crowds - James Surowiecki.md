@@ -4,7 +4,6 @@ created: 2024-07-22
 modified: 2024-07-23
 tags:
 - RESOURCES/non-fiction/book
-- RESOURCES/design
 ---
 # The Wisdom of Crowds
 - subtitle: ""
