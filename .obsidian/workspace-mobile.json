@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I'll Be Your Daisy.md",
+                "file": "2024-07-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "I'll Be Your Daisy.md",
+            "file": "2024-07-23.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "I'll Be Your Daisy.md",
+            "file": "2024-07-23.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "I'll Be Your Daisy.md"
+            "file": "2024-07-23.md"
           }
         }
       },
@@ -143,8 +143,9 @@
   },
   "active": "c8c2e88afe9ee306",
   "lastOpenFiles": [
-    "Untitled.md",
     "I'll Be Your Daisy.md",
+    "2024-07-23.md",
+    "Untitled.md",
     "2024-07-12.md",
     "2024-07-13.md",
     "The viral frontier.md",
@@ -173,7 +174,6 @@
     "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe.md",
     "Dynamic dark energy.md",
     "NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy.md",
-    "The End of Everything Astrophysically Speaking.md",
     "Templates"
   ]
 }
