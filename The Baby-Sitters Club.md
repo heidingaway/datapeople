@@ -7,8 +7,7 @@ tags:
 ---
 # The Baby-Sitters Club
 ## Definition
-- series 
-
+- [[The Baby-Sitters Club Characters]]
 ## Outgoing Link
 [[Definition]]; [[Childrens Literature]]; [[Ann M. Martin]]
 ## Incoming Link

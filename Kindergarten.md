@@ -3,7 +3,7 @@ title: Kindergarten
 created: 2024-07-24
 modified: 2024-07-24
 tags:
-  - RESOURCES/book/reading-grade
+  - RESOURCES/literature/reading-grade
 ---
 # Kindergarten
 ## Definition

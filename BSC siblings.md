@@ -1,15 +1,15 @@
 ---
-title: Reading Grade
+title: BSC siblings
 created: 2024-07-24
 modified: 2024-07-24
 tags:
-  - RESOURCES/literature/definition
+  - RESOURCES/literature/fiction/child-lit/bsc
 ---
-# Reading Grade
+# BSC siblings
 ## Definition
 
 ## Outgoing Link
-[[Definition]]; [[Literature]]
+[[The Baby-Sitters Club Characters]]
 ## Incoming Link
 ```dataview
 LIST

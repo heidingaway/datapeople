@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51a63563cc381f6d",
+            "id": "c66978b53717817b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gay Lesbian History for Kids - Jerome Pohlen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,7 @@
         }
       }
     ],
-    "currentTab": 4,
+    "currentTab": 0,
     "pinned": true
   },
   "right": {
@@ -107,7 +103,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Gay Lesbian History for Kids - Jerome Pohlen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +119,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Gay Lesbian History for Kids - Jerome Pohlen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,9 +129,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Gay Lesbian History for Kids - Jerome Pohlen.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -156,34 +148,34 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "51a63563cc381f6d",
+  "active": "c66978b53717817b",
   "lastOpenFiles": [
-    "Gay Lesbian History for Kids - Jerome Pohlen.md",
-    "Grade 8.md",
-    "Reading Grade.md",
-    "Grade 1.md",
-    "Welcoming Schools Pride Booklist.md",
-    "Inclusive Elementary Booklists.md",
-    "2024-07-24.md",
-    "2024-W28.md",
-    "2024-07-20.md",
-    "2024-W29.md",
-    "2024-07-12.md",
-    "2024-07-13.md",
-    "2024-07-15.md",
-    "2024-07-14.md",
-    "2024-07-22.md",
-    "2024-07-23.md",
-    "Designing letters as part of the whole user journey.md",
-    "Hub.md",
-    "Article.md",
-    "Newsletter.md",
-    "Fiction.md",
-    "Childrens Literature.md",
+    "The Baby-Sitters Club Characters.md",
+    "BSC POV Characters.md",
     "The Baby-Sitters Club.md",
+    "BSC Parents.md",
+    "John Kishi.md",
+    "Claudia's Family - Kishi.md",
+    "Janine Kishi.md",
+    "Templates/Note - BSC characters.md",
+    "Rioko Kishi.md",
+    "Claudia Kishi.md",
+    "Kristy Thomas.md",
+    "Kristy's Family.md",
+    "David Michael Thomas.md",
+    "Patrick Thomas.md",
+    "Watson Brewer.md",
+    "Elizabeth Thomas-Brewer.md",
+    "Sam Thomas.md",
+    "Charlie Thomas.md",
+    "BSC siblings.md",
+    "Templates/Note - Books.md",
     "The Baby-Sitters Club Retro Set (Books 1-6) - Ann M Martin.md",
-    "Design.md",
-    "Podcast Episodes.md",
+    "Untitled.md",
+    "1 - Kristy's Great Idea - Sheeps are IN.md",
+    "Reading Grade.md",
+    "Kindergarten.md",
+    "Gay Lesbian History for Kids - Jerome Pohlen.md",
     "D"
   ]
 }
