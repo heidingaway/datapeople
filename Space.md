@@ -9,7 +9,7 @@ tags:
 ## Comments
 
 ## Outgoing Link
- [[Resources]]; [[Definition]]
+ [[Resources]]; [[Definition]]; [[Science]]
 ## Incoming Link
 ```dataview
 LIST

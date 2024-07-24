@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "01d64ec93d66a7d0",
+        "id": "dd42a09bb48fcd9d",
         "type": "tabs",
         "children": [
           {
-            "id": "47415f277e8207be",
+            "id": "51a63563cc381f6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Don Norman.md",
+                "file": "2 - Claudia and the Phantom Phone Calls.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Don Norman.md",
+            "file": "2 - Claudia and the Phantom Phone Calls.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Don Norman.md",
+            "file": "2 - Claudia and the Phantom Phone Calls.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Don Norman.md"
+            "file": "2 - Claudia and the Phantom Phone Calls.md"
           }
         }
       }
@@ -156,9 +156,18 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "47415f277e8207be",
+  "active": "51a63563cc381f6d",
   "lastOpenFiles": [
+    "1 - Kristy's Great Idea - Sheeps are IN.md",
+    "Stuck in Stoneybrook.md",
+    "2 - Claudia and the Phantom Phone Calls.md",
+    "2024-07-24.md",
+    "Science.md",
+    "Space.md",
+    "Katie Mack.md",
+    "Don Norman.md",
     "James Surowiecki.md",
+    "Economics.md",
     "collective decisions.md",
     "Emotional Design.md",
     "Learning Design.md",
@@ -168,7 +177,6 @@
     "Newsletter.md",
     "Watch this Spacetime from AstroKatie - June edition.md",
     "Emotional Design - Don Norman.md",
-    "Don Norman.md",
     "History of Witches.md",
     "Book.md",
     "Podcast Episodes.md",
@@ -176,14 +184,6 @@
     "Non-Fiction.md",
     "The Wisdom of Crowds - James Surowiecki.md",
     "Author.md",
-    "Ann M. Martin.md",
-    "Katie Mack.md",
-    "The End of Everything - Katie Mack.md",
-    "Templates/Daily note {{date}}.md",
-    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
-    "Space.md",
-    "Cosmology 101 with Katie Mack.md",
-    "Watch this Spacetime Newsletter from AstroKatie.md",
     "D"
   ]
 }

@@ -1,11 +1,11 @@
 ---
-title: "Kristy's Great Idea - Sheeps are IN"
+title: "1 - Kristy's Great Idea - Sheeps are IN"
 created: 2024-07-23
-modified: 2024-07-23
+modified: 2024-07-24
 tags:
   - RESOURCES/podcast/stuck-stoneybrook
 ---
-# Kristy's Great Idea - Sheeps are IN
+# 1 - Kristy's Great Idea - Sheeps are IN
 ## Definition
 - episode 1[^1]
 - Morbidda Destiny - [[History of Witches|witch hunts]]/demonization of women as witches[^1]

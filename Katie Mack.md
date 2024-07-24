@@ -4,13 +4,12 @@ created: 2024-07-11
 modified: 2024-07-17
 tags:
   - RESOURCES/non-fiction/author
-  - RESOURCES/space
 ---
 # Katie Mack
 ## Comments
 - Astrophysicist[^1]
 ## Outgoing Link
-[[Space]]
+[[Author]]; [[Space]]; [[Science]]
 ## Incoming Link
 ```dataview
 LIST

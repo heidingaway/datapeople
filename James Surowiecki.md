@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Author]]; [[Definition]]
+[[Author]]; [[Design]]; [[Economics]]
 ## Incoming Link
 ```dataview
 LIST
