@@ -3,13 +3,13 @@ title: Article
 created: 2024-07-24
 modified: 2024-07-24
 tags:
-  - RESOURCES/non-fiction/definition
+  - RESOURCES/literature
 ---
 # Article
 ## Definition
 
 ## Outgoing Link
-[[Definition]]; [[Non-Fiction]]
+[[Definition]]; [[Literature]]
 ## Incoming Link
 ```dataview
 LIST

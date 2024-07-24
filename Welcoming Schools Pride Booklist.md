@@ -10,6 +10,7 @@ tags:
 ## Definition
 - Elementary Pride books[^1]:
 	- [[Be Amazing - Desmond Napoles]] (K – 3) 
+	- [[Gay Lesbian History for Kids - Jerome Pohlen]] (grade 5-8)
 ## Outgoing Link
 [[Definition]]; [[Children Nonfiction]]
 ## Incoming Link

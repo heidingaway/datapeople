@@ -1,15 +1,15 @@
 ---
-title: Hub
+title: Grade 8
 created: 2024-07-24
 modified: 2024-07-24
 tags:
-  - RESOURCES/literature/definition
+  - RESOURCES/literature/reading-grade
 ---
-# Hub
+# Grade 8
 ## Definition
 
 ## Outgoing Link
-[[Literature]]; [[Definition]]
+[[Definition]]; [[Reading Grade]]
 ## Incoming Link
 ```dataview
 LIST

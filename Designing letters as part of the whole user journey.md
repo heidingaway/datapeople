@@ -4,7 +4,7 @@ created: 2024-07-15
 modified: 2024-07-17
 source: blog post
 tags:
-  - RESOURCES/non-fiction/article
+  - RESOURCES/literature/non-fiction/design
 ---
 # Designing letters as part of the whole user journey
 ## Comments
