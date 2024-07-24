@@ -1,19 +1,18 @@
 ---
 title: Artificial Intelligence - AI
-aliases: 
 created: 2024-07-12
-modified: 2024-07-12
-status: evergreen
-zettel: hub
+modified: 2024-07-17
 tags:
-  - RESOURCES/artificial-intelligence-AI
-  - README/RESOURCES
+  - RESOURCES/definition
 ---
 # Artificial Intelligence - AI
 ## Comments
 
-# Links
+## Outgoing Link
+[[Definition]]
+
+## Incoming Link
 ```dataview
 LIST
-FROM #RESOURCES/artificial-intelligence-AI
+FROM [[]]
 ```

@@ -1,21 +1,18 @@
 ---
-title: Physics
-aliases: 
+title: Space
 created: 2024-07-11
-modified: 2024-07-12
-status: evergreen
-zettel: hub
+modified: 2024-07-17
 tags:
   - RESOURCES/space
-  - README/RESOURCES
+  - RESOURCES/definition
 ---
-# Physics
+# Space
 ## Comments
 
-## Reference
-
-## Links
+## Outgoing Link
+ [[Resources]]; [[Definition]]
+## Incoming Link
 ```dataview
-LIST 
-FROM #RESOURCES/physics
+LIST
+FROM [[]]
 ```

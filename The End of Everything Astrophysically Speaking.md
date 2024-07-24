@@ -1,13 +1,10 @@
 ---
 title: The End of Everything Astrophysically Speaking
-aliases: 
 created: 2024-07-11
-modified: 2024-07-12
-status: parking
-zettel: literature
+modified: 2024-07-17
+source: book
 tags:
   - RESOURCES/space
-  - TBR
 ---
 # The End of Everything Astrophysically Speaking
 ## Comments
@@ -16,3 +13,5 @@ tags:
 [The End of Everything (Astrophysically Speaking)](https://mackkatie.acemlna.com/lt.php?x=3TxtmrUFUqPUT55qA3P3W.ic1X-hvNb3kxhlkKI2IaOdDXB6yN1NVRGc2q2putRfx1.wY6HEJoGa957_za)
 ## Links
 [[Katie Mack]]
+[[TBR]]
+[[Space]]

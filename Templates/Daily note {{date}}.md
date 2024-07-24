@@ -2,11 +2,8 @@
 title: <% tp.date.now("YYYY-MM-DD") %>
 created: <% tp.date.now("YYYY-MM-DD") %>
 modified: 
-status:
-zettel: fleeting
 tags: 
-- dailynote/<% tp.date.weekday("YYYY-[W]ww", 0) %> 
-- unfiled/<% tp.date.now("YYYY-MM-DD") %>
+- dailynote/<% tp.date.weekday("YYYY-[W]ww", 0) %>
 ---
 
 [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>|<< previous day]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %> |next day >>]]
@@ -26,7 +23,11 @@ WHERE created = date("{{date}}")
 LIST
 WHERE modified = date(<% tp.date.now("YYYY-MM-DD") %>)
 ```
-
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```
 # Footnotes
 
 [^1]: [[Daily Note]]

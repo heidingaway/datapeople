@@ -1,17 +1,21 @@
 ---
 title: Cosmology 101 with Katie Mack
-aliases: 
 created: 2024-07-11
-modified: 2024-07-11
-status: parking
-zettel: literature
+modified: 2024-07-17
+source: video
 tags:
   - RESOURCES/space
 ---
+# Cosmology 101 with Katie Mack
 ## Comments
 
 ## Reference
 
-## Links
+## Outgoing Link
+[[Space]]
 [[Katie Mack]]
-[[Watch this Spacetime from AstroKatie - June edition]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

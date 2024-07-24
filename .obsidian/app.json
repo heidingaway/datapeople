@@ -24,5 +24,9 @@
   ],
   "propertiesInDocument": "source",
   "livePreview": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Reference Photos",
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
 }

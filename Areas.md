@@ -1,14 +1,11 @@
 ---
 title: Areas
-aliases: 
 created: 2024-07-10
-modified: 2024-07-10
-status: evergreen
-zettel: literature
+modified: 2024-07-17
 tags:
   - README/definition
-  - AREAS
 ---
+# Areas
 ## Definition
 
 - very long lived, but actionable
@@ -16,5 +13,10 @@ tags:
 - eg. managing finances, managing health, managing house
 - the standard is having a safe comfortable home, this would have ongoing regularly repeating tasks associated with maintaining that standard
 
-## Links
-[[PARA classification system]]
+## Outgoing Link
+[[Definition]]; [[PARA classification system]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

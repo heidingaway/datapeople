@@ -1,14 +1,19 @@
 ---
 title: Fleeting notes
-aliases: 
 created: 2024-07-10
-modified: 2024-07-10
-status: evergreen
-zettel: fleeting
+modified: 2024-07-17
 tags:
   - README/definition
 ---
+# Fleeting notes
 ## Definition
 - quick temporary notes captured in the moment, meant to capture thoughts so they can be received later
-## Links
+## Outgoing Link
 [[Zettelkasten Method]]
+[[Definition]]
+[[README]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```

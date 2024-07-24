@@ -1,16 +1,22 @@
 ---
 title: Katie Mack
-aliases: 
 created: 2024-07-11
-modified: 2024-07-11
-status: evergreen
-zettel: reference
+modified: 2024-07-17
 tags:
   - RESOURCES/space
 ---
+# Katie Mack
 ## Comments
-
-## Reference
-## Links
+- Astrophysicist[^1]
+## Outgoing Link
+[[Cosmology 101 with Katie Mack]]
 [[The End of Everything Astrophysically Speaking]]
+[[Watch this Spacetime Newsletter from AstroKatie]]
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
+```
+## Footnotes
 
+[^1]: [Katie Mack, Astrophysicist](https://www.astrokatie.com/)

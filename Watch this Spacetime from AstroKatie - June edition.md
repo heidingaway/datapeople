@@ -1,10 +1,8 @@
 ---
 title: Watch this Spacetime from AstroKatie - June edition
-aliases: 
 created: 2024-07-11
-modified: 2024-07-12
-status: evergreen
-zettel: reference
+modified: 2024-07-17
+source: newsletter
 tags:
   - RESOURCES/space
 ---
@@ -20,3 +18,4 @@ tags:
 ## Links
 [[Space]]
 [[Katie Mack]]
+[[Watch this Spacetime Newsletter from AstroKatie]]

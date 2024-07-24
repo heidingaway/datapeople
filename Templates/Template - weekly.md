@@ -2,11 +2,8 @@
 title: <% tp.date.weekday("YYYY-[W]ww", 0) %>
 created: <% tp.date.now("YYYY-MM-DD") %>
 modified: 
-status:
-zettel: hub
 tags: 
-- dailynote 
-- <% tp.date.weekday("YYYY-[W]ww", 0) %>
+- dailynote
 ---
 
 ## Notes
@@ -14,7 +11,6 @@ tags:
 ## Outcomes
 1. 🪂
 ## Index of the week
-[[<% tp.date.weekday("YYYY-MM-DD", 0) %>]]
 [[<% tp.date.weekday("YYYY-MM-DD", 1) %>]]
 [[<% tp.date.weekday("YYYY-MM-DD", 2) %>]]
 [[<% tp.date.weekday("YYYY-MM-DD", 3) %>]]
@@ -35,4 +31,16 @@ not done
 ## Unlinked Notes
 ```dataview
 list from [[]] and !outgoing([[]])
+```
+
+## Completed this week
+```tasks
+done <% tp.date.weekday("YYYY-MM-DD", 1) %> <% tp.date.weekday("YYYY-MM-DD", 7) %>
+```
+## Outgoing Link
+
+## Incoming Link
+```dataview
+LIST
+FROM [[]]
 ```
