@@ -11,8 +11,12 @@
             "id": "c66978b53717817b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kristy Thomas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 0,
+    "currentTab": 4,
     "pinned": true
   },
   "right": {
@@ -103,6 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Kristy Thomas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,6 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Kristy Thomas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +135,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Kristy Thomas.md"
+          }
         }
       }
     ],
@@ -150,32 +158,32 @@
   },
   "active": "c66978b53717817b",
   "lastOpenFiles": [
-    "The Baby-Sitters Club Characters.md",
-    "BSC POV Characters.md",
-    "The Baby-Sitters Club.md",
-    "BSC Parents.md",
-    "John Kishi.md",
-    "Claudia's Family - Kishi.md",
-    "Janine Kishi.md",
-    "Templates/Note - BSC characters.md",
-    "Rioko Kishi.md",
-    "Claudia Kishi.md",
-    "Kristy Thomas.md",
-    "Kristy's Family.md",
-    "David Michael Thomas.md",
-    "Patrick Thomas.md",
-    "Watson Brewer.md",
+    "Kristy's Family - Thomas-Brewer.md",
+    "Karen Brewer.md",
     "Elizabeth Thomas-Brewer.md",
-    "Sam Thomas.md",
-    "Charlie Thomas.md",
-    "BSC siblings.md",
-    "Templates/Note - Books.md",
+    "BSC Adults.md",
+    "BSC Parents.md",
+    "Watson Brewer.md",
+    "Patrick Thomas.md",
+    "Kristy Thomas.md",
+    "BSC POV Characters.md",
+    "The Baby-Sitters Club Characters.md",
+    "Mimi Yamamoto.md",
+    "Claudia's Family - Kishi.md",
+    "Claudia Kishi.md",
+    "Stacey McGill.md",
+    "Stacey's Family - McGill.md",
+    "The Baby-Sitters Club.md",
+    "Templates/Note - BSC characters.md",
+    "Childrens Literature.md",
+    "Mary Anne Spier.md",
     "The Baby-Sitters Club Retro Set (Books 1-6) - Ann M Martin.md",
-    "Untitled.md",
     "1 - Kristy's Great Idea - Sheeps are IN.md",
-    "Reading Grade.md",
-    "Kindergarten.md",
-    "Gay Lesbian History for Kids - Jerome Pohlen.md",
+    "Stuck in Stoneybrook.md",
+    "John Kishi.md",
+    "Janine Kishi.md",
+    "Rioko Kishi.md",
+    "David Michael Thomas.md",
     "D"
   ]
 }

@@ -1,15 +1,15 @@
 ---
-title: <% tp.file.title %>
+title: Karen Brewer
 created: 
 modified: 
 tags:
   - RESOURCES/literature/fiction/child-lit
 ---
-# <% tp.file.title %>
+# Karen Brewer
 ## Relationships
 
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]
+[[The Baby-Sitters Club Characters]]; [[BSC siblings]]; [[Kristy's Family]]
 ## Incoming Link
 ```dataview
 LIST

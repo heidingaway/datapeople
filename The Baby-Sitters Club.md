@@ -8,6 +8,7 @@ tags:
 # The Baby-Sitters Club
 ## Definition
 - [[The Baby-Sitters Club Characters]]
+- [[BSC POV Characters]]
 ## Outgoing Link
 [[Definition]]; [[Childrens Literature]]; [[Ann M. Martin]]
 ## Incoming Link
