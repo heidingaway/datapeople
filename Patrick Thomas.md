@@ -9,7 +9,7 @@ tags:
 ## Definition
 - Kristy's deadbeat dad
 ## Outgoing Link
-[[Kristy's Family - Thomas-Brewer]]; [[Parents - Thomas-Brewer]]
+[[Parents - Thomas-Brewer]]
 ## Incoming Link
 ```dataview
 LIST

@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[The Baby-Sitters Club POV Characters]]; [[Siblings - Thomas-Brewer]]
+[[The Baby-Sitters Club POV Characters]]
 ## Incoming Link
 ```dataview
 LIST

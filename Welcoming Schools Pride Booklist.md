@@ -4,7 +4,7 @@ created: 2024-07-24
 modified: 2024-07-24
 source: hub
 tags:
-  - RESOURCES/literature/non-fiction/children
+  - RESOURCES/literature/non-fiction/genre/children
 ---
 # Welcoming Schools Pride Booklist
 ## Definition

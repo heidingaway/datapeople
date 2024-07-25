@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dd42a09bb48fcd9d",
+        "id": "5c7e69229919eb3d",
         "type": "tabs",
         "children": [
           {
-            "id": "c66978b53717817b",
+            "id": "4a568890442036b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cut the Carceral System Now - Jack Norton.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -40,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "family",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -90,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 1,
+    "currentTab": 4,
     "pinned": true
   },
   "right": {
@@ -103,6 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Cut the Carceral System Now - Jack Norton.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,6 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Cut the Carceral System Now - Jack Norton.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +135,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Cut the Carceral System Now - Jack Norton.md"
+          }
         }
       }
     ],
@@ -148,34 +156,34 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c66978b53717817b",
+  "active": "4a568890442036b9",
   "lastOpenFiles": [
-    "Shannon's Family - Kilbourne.md",
-    "Shannon Kilbourne.md",
-    "The Baby-Sitters Club POV Characters.md",
-    "Logan Bruno.md",
-    "Logan's Family - Bruno.md",
-    "Abby Stevenson.md",
-    "Abby's Family - Stevenson.md",
-    "Jessi Ramsey.md",
-    "Jessi's Family - Ramsey.md",
-    "Mallory Pike.md",
-    "Mallory's Family - Pike.md",
-    "Dawn Schafer.md",
-    "Dawn's Family - Schafer.md",
-    "Claudia Kishi.md",
+    "Gay Lesbian History for Kids - Jerome Pohlen.md",
+    "Welcoming Schools Pride Booklist.md",
+    "Be Amazing - Desmond Napoles.md",
+    "Cut the Carceral System Now - Jack Norton.md",
+    "Justice.md",
+    "TBR.md",
+    "Cosmology 101 with Katie Mack.md",
+    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
+    "Space.md",
     "Claudia's Family - Kishi.md",
-    "Stacey McGill.md",
-    "Stacey's Family - McGill.md",
+    "Parents - Kishi.md",
+    "Rioko Kishi.md",
+    "Mimi Yamamoto.md",
+    "John Kishi.md",
+    "Janine Kishi.md",
+    "Siblings - Kishi.md",
+    "Claudia Kishi.md",
+    "Mallory Pike.md",
+    "Siblings - Pike.md",
+    "Mallory's Family - Pike.md",
+    "Parents - Pike.md",
     "Kristy Thomas.md",
     "Kristy's Family - Thomas-Brewer.md",
-    "Mary Anne Spier.md",
-    "Mary Anne's Family - Spier.md",
-    "The Baby-Sitters Club Families.md",
-    "The Baby-Sitters Club Adults.md",
-    "The Baby-Sitters Club Grandparents.md",
-    "The Baby-Sitters Club Mothers.md",
-    "November 22 The Eras Tour in Toronto.md",
+    "Parents - Thomas-Brewer.md",
+    "Siblings - Thomas-Brewer.md",
+    "Karen Brewer.md",
     "D"
   ]
 }

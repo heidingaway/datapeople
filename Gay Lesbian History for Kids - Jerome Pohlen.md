@@ -3,7 +3,7 @@ title: Gay Lesbian History for Kids - Jerome Pohlen
 created: 2024-07-24
 modified: 2024-07-24
 tags:
-- RESOURCES/literature/non-fiction/children
+- RESOURCES/literature/non-fiction/genre/children
 ---
 # Gay & Lesbian History for Kids
 - subtitle: "The Century-Long Struggle for LGBT Rights, with 21 Activities"

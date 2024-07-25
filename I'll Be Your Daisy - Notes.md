@@ -14,7 +14,7 @@ tags:
 - 1.5” across per daisy 1.5 x 18 = 27” for front : 18 daisies across front bust
 - 7 daisies lengthwise to cover bust before decreasing for waist
 ## Outgoing Link
-[[November 22 The Eras Tour in Toronto]]
+[[The Eras Tour in Toronto]]
 [[Taylor Swift]]
 [[Projects]]
 [[Crochet]]

@@ -10,7 +10,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Kristy's Family - Thomas-Brewer]]; [[Kristy Thomas]]
+[[Kristy's Family - Thomas-Brewer]]
 ## Incoming Link
 ```dataview
 LIST

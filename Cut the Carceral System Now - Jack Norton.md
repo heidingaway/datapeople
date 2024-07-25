@@ -4,12 +4,11 @@ created: 2024-07-24
 modified: 2024-07-24
 source: article
 tags:
-  - RESOURCES/literature/non-fiction/justice
+  - RESOURCES/literature/non-fiction/genre/justice
 ---
 # Cut the Carceral System Now - Jack Norton
 ## Definition
 - "Decades of high incarceration rates suggest that much of the country has become habituated to widespread poverty and early death, even before Covid-19."[^1]
-
 ## Outgoing Link
 [[Article]]; [[Justice]]
 ## Incoming Link

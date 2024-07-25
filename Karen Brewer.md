@@ -9,7 +9,7 @@ tags:
 ## Relationships
 
 ## Outgoing Link
-[[Siblings - Thomas-Brewer]]; [[Kristy's Family - Thomas-Brewer]]
+[[Siblings - Thomas-Brewer]]
 ## Incoming Link
 ```dataview
 LIST

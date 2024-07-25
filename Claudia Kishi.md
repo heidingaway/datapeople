@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[The Baby-Sitters Club POV Characters]]; [[Siblings - Kishi]]
+[[The Baby-Sitters Club POV Characters]]
 ## Incoming Link
 ```dataview
 LIST

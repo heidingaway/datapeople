@@ -9,7 +9,7 @@ tags:
 ## Relationships
 
 ## Outgoing Link
-[[Claudia's Family - Kishi]]; [[Siblings - Kishi]]
+[[Siblings - Kishi]]
 ## Incoming Link
 ```dataview
 LIST

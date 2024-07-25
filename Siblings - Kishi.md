@@ -10,7 +10,6 @@ tags:
 
 ## Outgoing Link
 [[Claudia's Family - Kishi]]
-
 ## Incoming Link
 ```dataview
 LIST
