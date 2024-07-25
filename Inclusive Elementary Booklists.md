@@ -4,7 +4,7 @@ created: 2024-07-23
 modified: 2024-07-23
 source: website
 tags:
-  - RESOURCES/literature/non-fiction/children
+  - RESOURCES/literature/book-recs
 ---
 # Inclusive Elementary Booklists
 ## Definition
@@ -21,7 +21,7 @@ tags:
 	- [[Welcoming Schools Pride Booklist]]
 
 ## Outgoing Link
-[[Child Psychology]]; [[TBR]]
+[[TBR]]; [[Book Recs]]
 ## Incoming Link
 ```dataview
 LIST
