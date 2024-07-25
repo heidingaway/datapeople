@@ -1,7 +1,7 @@
 ---
 title: The Baby-Sitters Club Retro Set (Books 1-6) - Ann M Martin
 created: 2024-07-23
-modified: 2024-07-23
+modified: 2024-07-25
 tags:
   - RESOURCES/literature/fiction/child-lit
 ---
@@ -14,11 +14,8 @@ tags:
 - description: Fans can revisit the best friends they ever have with this brand-new exclusive retro collection containing Books 1-6, all with their original covers and packaged in a fantastic BSC tin case.
 - total: 0
 - isbn10: 1338311484
-
 ## Outgoing Link
-[[The Baby-Sitters Club Series]]; [[1 - Kristy's Great Idea - Sheeps are IN]]
-
-
+[[The Baby-Sitters Club Series]]
 ## Incoming Link
 ```dataview
 LIST

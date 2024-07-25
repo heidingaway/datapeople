@@ -3,7 +3,7 @@ title: Feminist Epistemology and Philosophy of Science
 created: 2024-07-25
 modified: 2024-07-25
 tags:
-  - RESOURCES/epistemology/definition
+  - RESOURCES/literature/non-fiction/epistemology
 ---
 # Feminist Epistemology and Philosophy of Science
 ## Definition
@@ -16,4 +16,5 @@ LIST
 FROM [[]]
 ```
 # Footnotes
+
 [^1]: [Feminist Epistemology and Philosophy of Science - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/feminism-epistemology/)

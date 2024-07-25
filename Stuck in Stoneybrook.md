@@ -12,7 +12,7 @@ tags:
 - [[Feminist Epistemology and Philosophy of Science]]
 
 ## Outgoing Link
-[[Podcast]]
+[[Podcast]]; [[The Baby-Sitters Club Retro Set (Books 1-6) - Ann M Martin]]
 ## Incoming Link
 ```dataview
 LIST
