@@ -9,7 +9,7 @@ tags:
 ## Process
 
 ### [[Triaging by actionability]]
-![[Triaging by actionability#Definition]]
+![[Triaging by actionability#Comment]]
 ### Key Definitions
 ### [[Projects]]![[Projects#Definition]]
 ### [[Areas]]![[Areas#Definition]]

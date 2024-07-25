@@ -1,15 +1,15 @@
 ---
-title: Children Nonfiction
-created: 2024-07-24
-modified: 2024-07-24
+title: Feminist Theory
+created: 2024-07-25
+modified: 2024-07-25
 tags:
   - RESOURCES/literature/non-fiction/definition
 ---
-# Children Nonfiction
+# Feminist Theory
 ## Definition
 
 ## Outgoing Link
-[[Non-Fiction]]
+[[Resources]]; [[Non-Fiction]]
 ## Incoming Link
 ```dataview
 LIST

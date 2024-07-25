@@ -1,15 +1,15 @@
 ---
-title: <% tp.file.title %>
+title: Leighton Brown
 created: 
 modified: 
 tags:
-  - RESOURCES
+  - RESOURCES/literature/author
 ---
-# <% tp.file.title %>
+# Leighton Brown
 ## Definition
 
 ## Outgoing Link
-
+[[Author]]
 ## Incoming Link
 ```dataview
 LIST

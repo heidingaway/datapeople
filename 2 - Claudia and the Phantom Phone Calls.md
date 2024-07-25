@@ -9,6 +9,8 @@ tags:
 
 ## Definition
 - [[Cut the Carceral System Now - Jack Norton]]
+- [[Teasing in hierarchical and intimate relations - D Keltner, RC Young, EA Heerey, C Oemig, ND Monarch]]
+- [[Adolescents' use of affiliative and aggressive strategies during conflict with romantic partners and best-friends]]
 ## Outgoing Link
 [[Stuck in Stoneybrook]]; [[Podcast Episodes]]
 ## Incoming Link

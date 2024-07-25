@@ -10,8 +10,6 @@ tags:
 
 ## Outgoing Link
 [[Address]]
-[[Areas]]
-[[Definition]]
 ## Incoming Link
 ```dataview
 LIST

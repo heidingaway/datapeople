@@ -1,15 +1,15 @@
 ---
-title: <% tp.file.title %>
+title: Kyle Lukoff
 created: 
 modified: 
 tags:
-  - RESOURCES
+  - RESOURCES/literature/author
 ---
-# <% tp.file.title %>
+# Kyle Lukoff
 ## Definition
 
 ## Outgoing Link
-
+[[Author]]
 ## Incoming Link
 ```dataview
 LIST
