@@ -9,6 +9,7 @@ tags:
 
 ## Definition
 - episodes[^1]
+- [[Feminist Epistemology and Philosophy of Science]]
 
 ## Outgoing Link
 [[Podcast]]
