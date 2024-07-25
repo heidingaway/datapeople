@@ -1,7 +1,7 @@
 ---
 title: Karen Brewer
-created: 
-modified: 
+created: 2024-07-24
+modified: 2024-07-24
 tags:
   - RESOURCES/literature/fiction/child-lit
 ---
@@ -9,7 +9,7 @@ tags:
 ## Relationships
 
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]; [[BSC siblings]]; [[Kristy's Family]]
+[[Siblings - Thomas-Brewer]]; [[Kristy's Family - Thomas-Brewer]]
 ## Incoming Link
 ```dataview
 LIST

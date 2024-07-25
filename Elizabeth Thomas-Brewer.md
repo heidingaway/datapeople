@@ -1,21 +1,15 @@
 ---
 title: Elizabeth Thomas-Brewer
-created: 
-modified: 
+created: 2024-07-24
+modified: 2024-07-24
 tags:
   - RESOURCES/literature/fiction/child-lit
 ---
 # Elizabeth Thomas-Brewer
-## Children
-- [[Charlie Thomas]]
-- [[Sam Thomas]]
-- [[Kristy Thomas]]
-- [[David Michael Thomas]]
-- [[Karen Brewer]]
-- [[Andrew Brewer]]
-- [[Emily Michelle Brewer]]
+## Definition
+
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]; [[Kristy's Family]]; [[BSC Adults]]
+[[Kristy's Family - Thomas-Brewer]]; [[Parents - Thomas-Brewer]]
 ## Incoming Link
 ```dataview
 LIST

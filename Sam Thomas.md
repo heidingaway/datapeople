@@ -3,13 +3,13 @@ title: Sam Thomas
 created: 2024-07-24
 modified: 2024-07-24
 tags:
-  - RESOURCES/literature/fiction/child-lit/bsc
+  - RESOURCES/literature/fiction/child-lit
 ---
 # Sam Thomas
 ## Definition
 
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]; [[Kristy's Family]]; [[BSC siblings]]
+[[Kristy's Family - Thomas-Brewer]]; [[Siblings - Thomas-Brewer]]
 ## Incoming Link
 ```dataview
 LIST

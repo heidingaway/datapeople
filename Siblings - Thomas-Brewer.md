@@ -1,15 +1,15 @@
 ---
-title: Dawn Schafer
+title: Siblings - Thomas-Brewer
 created: 2024-07-24
 modified: 2024-07-24
 tags:
   - RESOURCES/literature/fiction/child-lit
 ---
-# Dawn Schafer
-## Relationships
+# Siblings - Thomas-Brewer
+## Definition
 
 ## Outgoing Link
-[[The Baby-Sitters Club POV Characters]]
+[[Kristy Thomas]]; [[Kristy's Family - Thomas-Brewer]]
 ## Incoming Link
 ```dataview
 LIST

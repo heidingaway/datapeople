@@ -6,13 +6,10 @@ tags:
   - RESOURCES/literature/fiction/child-lit
 ---
 # Claudia's Family - Kishi
-## Members
-- [[John Kishi]]
-- [[Rioko Kishi]]
-- [[Janine Kishi]]
-- [[Mimi Yamamoto]]
+## Definition
+
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]; [[Claudia Kishi]]
+[[Claudia Kishi]]
 ## Incoming Link
 ```dataview
 LIST

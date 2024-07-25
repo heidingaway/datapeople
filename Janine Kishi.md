@@ -3,14 +3,13 @@ title: Janine Kishi
 created: 2024-07-24
 modified: 2024-07-24
 tags:
-  - RESOURCES/literature/fiction/child-lit/bsc
+  - RESOURCES/literature/fiction/child-lit
 ---
 # Janine Kishi
 ## Relationships
-- [[Claudia's Family - Kishi]]
-- [[BSC siblings]]
+
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]
+[[Claudia's Family - Kishi]]; [[Siblings - Kishi]]
 ## Incoming Link
 ```dataview
 LIST

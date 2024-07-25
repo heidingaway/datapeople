@@ -3,13 +3,13 @@ title: Patrick Thomas
 created: 2024-07-24
 modified: 2024-07-24
 tags:
-  - RESOURCES/literature/fiction/child-lit/bsc
+  - RESOURCES/literature/fiction/child-lit
 ---
 # Patrick Thomas
 ## Definition
-
+- Kristy's deadbeat dad
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]; [[Kristy's Family]]; [[BSC siblings]]
+[[Kristy's Family - Thomas-Brewer]]; [[Parents - Thomas-Brewer]]
 ## Incoming Link
 ```dataview
 LIST

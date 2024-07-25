@@ -11,12 +11,8 @@
             "id": "c66978b53717817b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kristy Thomas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -44,7 +40,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "article",
+            "query": "family",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -94,7 +90,7 @@
         }
       }
     ],
-    "currentTab": 4,
+    "currentTab": 1,
     "pinned": true
   },
   "right": {
@@ -107,7 +103,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kristy Thomas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +119,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Kristy Thomas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,9 +129,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Kristy Thomas.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -158,32 +150,32 @@
   },
   "active": "c66978b53717817b",
   "lastOpenFiles": [
-    "Kristy's Family - Thomas-Brewer.md",
-    "Karen Brewer.md",
-    "Elizabeth Thomas-Brewer.md",
-    "BSC Adults.md",
-    "BSC Parents.md",
-    "Watson Brewer.md",
-    "Patrick Thomas.md",
-    "Kristy Thomas.md",
-    "BSC POV Characters.md",
-    "The Baby-Sitters Club Characters.md",
-    "Mimi Yamamoto.md",
-    "Claudia's Family - Kishi.md",
+    "Shannon's Family - Kilbourne.md",
+    "Shannon Kilbourne.md",
+    "The Baby-Sitters Club POV Characters.md",
+    "Logan Bruno.md",
+    "Logan's Family - Bruno.md",
+    "Abby Stevenson.md",
+    "Abby's Family - Stevenson.md",
+    "Jessi Ramsey.md",
+    "Jessi's Family - Ramsey.md",
+    "Mallory Pike.md",
+    "Mallory's Family - Pike.md",
+    "Dawn Schafer.md",
+    "Dawn's Family - Schafer.md",
     "Claudia Kishi.md",
+    "Claudia's Family - Kishi.md",
     "Stacey McGill.md",
     "Stacey's Family - McGill.md",
-    "The Baby-Sitters Club.md",
-    "Templates/Note - BSC characters.md",
-    "Childrens Literature.md",
+    "Kristy Thomas.md",
+    "Kristy's Family - Thomas-Brewer.md",
     "Mary Anne Spier.md",
-    "The Baby-Sitters Club Retro Set (Books 1-6) - Ann M Martin.md",
-    "1 - Kristy's Great Idea - Sheeps are IN.md",
-    "Stuck in Stoneybrook.md",
-    "John Kishi.md",
-    "Janine Kishi.md",
-    "Rioko Kishi.md",
-    "David Michael Thomas.md",
+    "Mary Anne's Family - Spier.md",
+    "The Baby-Sitters Club Families.md",
+    "The Baby-Sitters Club Adults.md",
+    "The Baby-Sitters Club Grandparents.md",
+    "The Baby-Sitters Club Mothers.md",
+    "November 22 The Eras Tour in Toronto.md",
     "D"
   ]
 }

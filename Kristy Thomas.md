@@ -3,14 +3,13 @@ title: Kristy Thomas
 created: 2024-07-24
 modified: 2024-07-24
 tags:
-  - RESOURCES/literature/fiction/child-lit/bsc
+  - RESOURCES/literature/fiction/child-lit
 ---
 # Kristy Thomas
-## Relationships
-- [[Kristy's Family]]
+## Definition
 
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]; [[BSC POV Characters]]
+[[The Baby-Sitters Club POV Characters]]; [[Siblings - Thomas-Brewer]]
 ## Incoming Link
 ```dataview
 LIST

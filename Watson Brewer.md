@@ -7,9 +7,8 @@ tags:
 ---
 # Watson Brewer
 ## Definition
-
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]; [[Kristy's Family]]; [[BSC Adults]]
+[[Kristy's Family - Thomas-Brewer]]; [[Parents - Thomas-Brewer]]
 ## Incoming Link
 ```dataview
 LIST

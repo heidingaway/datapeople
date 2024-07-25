@@ -7,18 +7,6 @@ tags:
 ---
 # The Baby-Sitters Club POV Characters
 
-## Club members
-- [[Kristy Thomas]]
-- [[Claudia Kishi]]
-- [[Mary Anne Spier]]
-- [[Stacey McGill]]
-- [[Dawn Schafer]]
-- [[Mallory Pike]]
-- [[Jessi Ramsey]]
-- [[Abby Stevenson]]
-## Associate Club Members
-- [[Logan Bruno]]
-- [[Shannon Kilbourne]]
 ## Outgoing Link
 [[The Baby-Sitters Club Characters]]
 ## Incoming Link

@@ -6,10 +6,10 @@ tags:
   - RESOURCES/literature/fiction/child-lit
 ---
 # <% tp.file.title %>
-## Relationships
+## Definition
 
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]
+
 ## Incoming Link
 ```dataview
 LIST

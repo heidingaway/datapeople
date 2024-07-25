@@ -9,7 +9,7 @@ tags:
 ## Relationships
 
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]
+[[Stacey McGill]]
 ## Incoming Link
 ```dataview
 LIST

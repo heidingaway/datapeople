@@ -9,7 +9,7 @@ tags:
 ## Relationships
 
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]; [[Dawn Schafer]]
+[[Dawn Schafer]]
 ## Incoming Link
 ```dataview
 LIST

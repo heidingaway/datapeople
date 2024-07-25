@@ -3,13 +3,13 @@ title: Rioko Kishi
 created: 2024-07-24
 modified: 2024-07-24
 tags:
-  - RESOURCES/literature/fiction/child-lit/bsc
+  - RESOURCES/literature/fiction/child-lit
 ---
 # Rioko Kishi
-## Children
-- [[Claudia Kishi]]
+## Relationship
+
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]; [[Claudia's Family - Kishi]]
+[[Claudia's Family - Kishi]]; [[Parents - Kishi]]
 ## Incoming Link
 ```dataview
 LIST

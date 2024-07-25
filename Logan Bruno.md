@@ -1,12 +1,12 @@
 ---
-title: Dawn Schafer
+title: Logan Bruno
 created: 2024-07-24
 modified: 2024-07-24
 tags:
   - RESOURCES/literature/fiction/child-lit
 ---
-# Dawn Schafer
-## Relationships
+# Logan Bruno
+## Definition
 
 ## Outgoing Link
 [[The Baby-Sitters Club POV Characters]]

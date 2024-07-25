@@ -7,9 +7,9 @@ tags:
 ---
 # The Baby-Sitters Club Characters
 ## Definition
-- [[BSC POV Characters]]
+
 ## Outgoing Link
-[[The Baby-Sitters Club]]
+[[The Baby-Sitters Club Series]]
 ## Incoming Link
 ```dataview
 LIST

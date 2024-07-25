@@ -1,15 +1,15 @@
 ---
-title: John Kishi
+title: The Big Bang Theory
 created: 2024-07-24
 modified: 2024-07-24
 tags:
-  - RESOURCES/literature/fiction/child-lit
+  - RESOURCES/space/definition
 ---
-# John Kishi
+# The Big Bang Theory
 ## Definition
 
 ## Outgoing Link
-[[Claudia's Family - Kishi]]; [[Parents - Kishi]]
+[[Definition]]; [[Space]]
 ## Incoming Link
 ```dataview
 LIST

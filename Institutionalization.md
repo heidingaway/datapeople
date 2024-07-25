@@ -1,15 +1,15 @@
 ---
-title: John Kishi
+title: Institutionalization
 created: 2024-07-24
 modified: 2024-07-24
 tags:
-  - RESOURCES/literature/fiction/child-lit
+  - RESOURCES/definition
 ---
-# John Kishi
+# Institutionalization
 ## Definition
 
 ## Outgoing Link
-[[Claudia's Family - Kishi]]; [[Parents - Kishi]]
+[[Definition]]
 ## Incoming Link
 ```dataview
 LIST

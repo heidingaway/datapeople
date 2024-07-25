@@ -9,7 +9,7 @@ tags:
 ## Relationships
 
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]
+[[The Baby-Sitters Club POV Characters]]
 ## Incoming Link
 ```dataview
 LIST

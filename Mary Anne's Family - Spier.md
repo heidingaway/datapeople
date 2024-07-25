@@ -9,7 +9,7 @@ tags:
 ## Relationships
 
 ## Outgoing Link
-[[Mary Anne Spier]]; [[The Baby-Sitters Club Families]]
+[[Mary Anne Spier]]
 ## Incoming Link
 ```dataview
 LIST

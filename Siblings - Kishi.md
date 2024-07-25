@@ -1,15 +1,16 @@
 ---
-title: BSC siblings
+title: Siblings - Kishi
 created: 2024-07-24
 modified: 2024-07-24
 tags:
-  - RESOURCES/literature/fiction/child-lit/bsc
+  - RESOURCES/literature/fiction/child-lit
 ---
-# BSC siblings
+# Siblings - Kishi
 ## Definition
 
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]
+[[Claudia's Family - Kishi]]
+
 ## Incoming Link
 ```dataview
 LIST

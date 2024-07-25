@@ -1,15 +1,15 @@
 ---
-title: BSC Adults
+title: "Abby's Family - Stevenson"
 created: 2024-07-24
 modified: 2024-07-24
 tags:
   - RESOURCES/literature/fiction/child-lit
 ---
-# BSC Adults
-## Relationships
+# Abby's Family - Stevenson
+## Definition
 
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]
+[[Abby Stevenson]]
 ## Incoming Link
 ```dataview
 LIST

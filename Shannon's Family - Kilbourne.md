@@ -1,15 +1,15 @@
 ---
-title: Dawn Schafer
+title: "Shannon's Family - Kilbourne"
 created: 2024-07-24
 modified: 2024-07-24
 tags:
   - RESOURCES/literature/fiction/child-lit
 ---
-# Dawn Schafer
-## Relationships
+# Shannon's Family - Kilbourne
+## Definition
 
 ## Outgoing Link
-[[The Baby-Sitters Club POV Characters]]
+[[Shannon Kilbourne]]
 ## Incoming Link
 ```dataview
 LIST

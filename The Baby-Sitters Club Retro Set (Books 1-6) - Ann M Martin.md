@@ -16,7 +16,7 @@ tags:
 - isbn10: 1338311484
 
 ## Outgoing Link
-[[The Baby-Sitters Club]]; [[1 - Kristy's Great Idea - Sheeps are IN]]
+[[The Baby-Sitters Club Series]]; [[1 - Kristy's Great Idea - Sheeps are IN]]
 
 
 ## Incoming Link

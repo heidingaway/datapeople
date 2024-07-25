@@ -1,7 +1,7 @@
 ---
 title: Mallory Pike
-created: 
-modified: 
+created: 2024-07-24
+modified: 2024-07-24
 tags:
   - RESOURCES/literature/fiction/child-lit
 ---
@@ -9,7 +9,7 @@ tags:
 ## Relationships
 
 ## Outgoing Link
-[[The Baby-Sitters Club POV Characters]]
+[[The Baby-Sitters Club POV Characters]]; [[Siblings - Pike]]
 ## Incoming Link
 ```dataview
 LIST

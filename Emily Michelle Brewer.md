@@ -9,7 +9,7 @@ tags:
 ## Relationships
 
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]; [[The Baby-Sitters Club Siblings]]; [[Kristy's Family - Thomas-Brewer]]
+[[Kristy's Family - Thomas-Brewer]]; [[Siblings - Thomas-Brewer]]
 ## Incoming Link
 ```dataview
 LIST

@@ -1,19 +1,16 @@
 ---
-title: "Kristy's Family"
+title: "Kristy's Family - Thomas-Brewer"
 created: 2024-07-24
 modified: 2024-07-24
 tags:
   - RESOURCES/literature/fiction/child-lit
 ---
-# Kristy's Family
+# Kristy's Family - Thomas-Brewer
+
 ## Definition
-- [[Patrick Thomas]]
-- [[Watson Brewer]]
-- [[Elizabeth Thomas-Brewer]]
-- [[David Michael Thomas]]
 
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]; [[Kristy Thomas]]
+[[Kristy Thomas]]
 ## Incoming Link
 ```dataview
 LIST

@@ -9,7 +9,7 @@ tags:
 ## Relationships
 
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]; [[BSC Adults]]; [[Claudia's Family - Kishi]]
+[[Claudia's Family - Kishi]]; [[Parents - Kishi]]
 ## Incoming Link
 ```dataview
 LIST

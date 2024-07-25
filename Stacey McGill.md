@@ -7,10 +7,9 @@ tags:
 ---
 # Stacey McGill
 ## Relationships
-- [[Stacey's Family - McGill]]
-
+- 
 ## Outgoing Link
-[[The Baby-Sitters Club Characters]]; [[BSC POV Characters]]
+[[The Baby-Sitters Club POV Characters]]
 ## Incoming Link
 ```dataview
 LIST
