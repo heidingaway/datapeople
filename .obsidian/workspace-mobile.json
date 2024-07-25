@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creating LGBTQ+ Inclusive Schools Booklist for Elementary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b5f5ba81eb607db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Keeping Quilt - Patricia Polacco.md",
+                "file": "Inclusive Elementary Booklists.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 4,
+    "currentTab": 0,
     "pinned": true
   },
   "right": {
@@ -119,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Creating LGBTQ+ Inclusive Schools Booklist for Elementary.md",
+            "file": "Inclusive Elementary Booklists.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Creating LGBTQ+ Inclusive Schools Booklist for Elementary.md",
+            "file": "Inclusive Elementary Booklists.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -148,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Creating LGBTQ+ Inclusive Schools Booklist for Elementary.md"
+            "file": "Inclusive Elementary Booklists.md"
           }
         }
       }
@@ -170,14 +158,22 @@
   },
   "active": "874a8cb59d840413",
   "lastOpenFiles": [
-    "Inclusive Elementary Booklists.md",
-    "Embracing All Families Booklist for Elementary.md",
-    "Creating Gender Inclusive Schools Booklist for Elementary.md",
-    "Book Recs.md",
     "Creating LGBTQ+ Inclusive Schools Booklist for Elementary.md",
+    "Inclusive Elementary Booklists.md",
+    "Creating Gender Inclusive Schools Booklist for Elementary.md",
+    "Embracing All Families Booklist for Elementary.md",
+    "Welcoming Schools & American Association of School Librarians Top 12 Recommended Books for Elementary and Secondary.md",
+    "Exploring and Challenging Racism Booklist for Pre-K-8 Students.md",
+    "Top Books for an Elementary Classroom.md",
+    "LGBTQ+ History Booklist for Elementary.md",
+    "Supporting Transgender & Non-Binary Booklist for Elementary.md",
+    "Preventing Bias-Based Bullying for Elementary.md",
+    "Templates/Note - definition resources.md",
+    "Templates/notes - book recs.md",
+    "The Keeping Quilt - Patricia Polacco.md",
+    "Book Recs.md",
     "When Aidan Became a Brother - Kyle Lukoff.md",
     "Kyle Lukoff.md",
-    "The Keeping Quilt - Patricia Polacco.md",
     "When Aidan Became a Brother - discussion guide.md",
     "Patricia Polacco.md",
     "Front Desk (Front Desk 1) (Scholastic Gold) - Kelly Yang.md",
@@ -188,14 +184,6 @@
     "Be Amazing - Desmond Napoles.md",
     "Children Nonfiction.md",
     "Non-Fiction.md",
-    "Fiction.md",
-    "Literature.md",
-    "Childrens Literature.md",
-    "The Different Dragon - Jennifer Bryan.md",
-    "Jennifer Bryan.md",
-    "The Baby-Sitters Club Retro Set (Books 1-6) - Ann M Martin.md",
-    "And Tango Makes Three - Justin Richardson Peter Parnell.md",
-    "Pre-K.md",
     "D"
   ]
 }

@@ -14,7 +14,7 @@ tags:
 	- [[The Keeping Quilt - Patricia Polacco]]
 	- [[When Aidan Became a Brother - Kyle Lukoff]]
 ## Outgoing Link
-
+[[Book Recs]]; [[TBR]]
 ## Incoming Link
 ```dataview
 LIST

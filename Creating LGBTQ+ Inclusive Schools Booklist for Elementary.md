@@ -7,12 +7,13 @@ tags:
 ---
 # Creating LGBTQ+ Inclusive Schools Booklist for Elementary
 ## Definition
-
+- list[^1]
 ## Outgoing Link
 [[TBR]]; [[Book Recs]]
-
 ## Incoming Link
 ```dataview
 LIST
 FROM [[]]
 ```
+# Footnotes
+[^1]: [Creating LGBTQ+ Inclusive Schools Booklist for Elementary.pdf](https://hrc-prod-requests.s3-us-west-2.amazonaws.com/welcoming-schools/documents/WS-Creating-LGBTQ-Inclusive-Schools-Booklist-for-Elementary.pdf)
