@@ -7,14 +7,6 @@
       "key": "0"
     }
   ],
-  "obsidian-footnotes:insert-named-footnote": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "="
-    }
-  ],
   "templater-obsidian:create-new-note-from-template": [
     {
       "modifiers": [
@@ -29,6 +21,14 @@
         "Ctrl"
       ],
       "key": "E"
+    }
+  ],
+  "obsidian-footnotes:insert-named-footnote": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "="
     }
   ]
 }
