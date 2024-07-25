@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Definition]]
+[[Change Management]]]
 ## Incoming Link
 ```dataview
 LIST

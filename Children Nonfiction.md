@@ -3,13 +3,13 @@ title: Children Nonfiction
 created: 2024-07-24
 modified: 2024-07-24
 tags:
-  - RESOURCES/literature/genre
+  - RESOURCES/literature/definition
 ---
 # Children Nonfiction
 ## Definition
 
 ## Outgoing Link
-[[Definition]]; [[Non-Fiction]]; [[Subject]]
+[[Non-Fiction]]
 ## Incoming Link
 ```dataview
 LIST

@@ -9,7 +9,7 @@ tags:
 ## Comments
 
 ## Outgoing Link
-[[Design]]; [[Definition]]; [[Digital Government]]
+[[Design]]; [[Digital Government]]
 ## Incoming Link
 ```dataview
 LIST

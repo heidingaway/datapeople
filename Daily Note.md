@@ -12,7 +12,7 @@ tags:
 ## Reference
 [Daily Notes](https://help.obsidian.md/Plugins/Daily+notes)
 ## Outgoing Link
-[[README]]; [[Definition]]
+[[README]]
 ## Incoming Link
 ```dataview
 LIST

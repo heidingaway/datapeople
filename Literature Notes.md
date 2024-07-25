@@ -13,7 +13,7 @@ tags:
 - Add context to include book title, author, chapter, page number
 - Each note is a single idea, rather than collection of learnings from what you read
 ## Outgoing Link
-[[README]]; [[Definition]]; [[Zettelkasten Method]]
+[[README]]; [[Zettelkasten Method]]
 ## Incoming Link
 ```dataview
 LIST

@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Author]]; [[Children Nonfiction]]
+[[Author]]
 ## Incoming Link
 ```dataview
 LIST

@@ -11,7 +11,7 @@ tags:
 	- activities may include [[Risk Assessment|assessing risk]], identifying potential [[Resistance to Change|resistance]], and establishing required [[Roles and Responsibilities|roles]][^1]
 
 ## Outgoing Link
-[[Definition]]
+[[Change Management]]
 ## Incoming Link
 ```dataview
 LIST

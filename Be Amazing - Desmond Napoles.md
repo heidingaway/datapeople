@@ -4,7 +4,7 @@ created: 2024-07-24
 modified: 2024-07-24
 source: book
 tags:
-- RESOURCES/literature/non-fiction/genre/children
+- RESOURCES/literature/non-fiction/children
 ---
 # Be Amazing
 - subtitle: "A History of Pride"
@@ -17,7 +17,7 @@ tags:
 - isbn10: 0374388377
 
 ## Outgoing Link
-[[Children Nonfiction]]; [[TBR]]; [[Kindergarten]]; [[Grade 1]]; [[Grade 2]]; [[Grade 3]]
+[[TBR]]; [[Kindergarten]]; [[Grade 1]]; [[Grade 2]]; [[Grade 3]]
 
 ## Incoming Link
 ```dataview

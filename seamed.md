@@ -8,7 +8,7 @@ tags:
 # Definition
 - worked as individual pieces, joined together with a seam.[^1]
 ## Outgoing Link
-[[Knitting]]; [[Definition]]
+[[Knitting]]
 ## Incoming Link
 ```dataview
 LIST

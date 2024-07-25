@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Definition]]; [[Reading Grade]]
+[[Reading Grade]]
 ## Incoming Link
 ```dataview
 LIST

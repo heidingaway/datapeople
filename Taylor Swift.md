@@ -8,7 +8,7 @@ tags:
 # Taylor Swift
 ## Comments
 ## Outgoing Link
-[[Resources]]; [[Definition]]
+[[Resources]]
 ## Incoming Link
 ```dataview
 LIST

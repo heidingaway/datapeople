@@ -4,7 +4,7 @@ created: 2024-07-15
 modified: 2024-07-17
 source: course
 tags:
-  - RESOURCES/data-quality
+  - RESOURCES/literature/non-fiction/data
 ---
 #  Data Quality as Fitness for Use
 ## Comments
@@ -13,9 +13,7 @@ tags:
 	- assess the fitness of a potential data source for your specific purpose
 	- make a decision about whether a potential data source is in fact, fit for your specific purpose"[^1]
 ## Outgoing Link
-[[Data]]
-[[Data Literacy]]
-[[Data Quality]]
+[[Data Quality]]; [[TBR]]; [[Course]]
 ## Incoming Link
 ```dataview
 LIST

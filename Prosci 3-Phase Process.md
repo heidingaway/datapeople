@@ -26,7 +26,7 @@ tags:
 		- deliverable: [[Change Management Closeout]]
 
 ## Outgoing Link
-[[Prosci Methodology]]; [[Definition]]
+[[Prosci Methodology]]
 ## Incoming Link
 ```dataview
 LIST

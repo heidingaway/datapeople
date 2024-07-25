@@ -9,7 +9,7 @@ tags:
 ## Definition
 - uses words to describe the techniques involved.[^1]
 ## Outgoing Link
-[[Knitting]]; [[Definition]]
+[[Knitting]]
 ## Incoming Link
 ```dataview
 LIST

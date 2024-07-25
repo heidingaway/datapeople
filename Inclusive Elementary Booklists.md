@@ -4,7 +4,7 @@ created: 2024-07-23
 modified: 2024-07-23
 source: website
 tags:
-  - RESOURCES/child-psych
+  - RESOURCES/literature/non-fiction/children
 ---
 # Inclusive Elementary Booklists
 ## Definition
@@ -21,7 +21,7 @@ tags:
 	- [[Welcoming Schools Pride Booklist]]
 
 ## Outgoing Link
-[[Child Psychology]]; [[1 - Kristy's Great Idea - Sheeps are IN]]; [[TBR]]; [[Hub]]
+[[Child Psychology]]; [[TBR]]
 ## Incoming Link
 ```dataview
 LIST

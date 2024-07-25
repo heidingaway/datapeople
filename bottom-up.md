@@ -9,7 +9,7 @@ tags:
 ## Definition
 - "worked from the bottom of the garment/accessory toward the top."[^1]
 ## Outgoing Link
-[[Knitting]]; [[Definition]]
+[[Knitting]]
 ## Incoming Link
 ```dataview
 LIST

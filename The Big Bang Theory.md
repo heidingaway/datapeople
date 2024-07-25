@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Definition]]; [[Space]]
+[[Space]]
 ## Incoming Link
 ```dataview
 LIST

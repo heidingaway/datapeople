@@ -14,7 +14,7 @@ tags:
 - What are we trying to achieve? [^2]
 	- activities may include a [[Detailed Change Profile]] 
 ## Outgoing Link
-[[Definition]]
+[[Change Management]]
 ## Incoming Link
 ```dataview
 LIST

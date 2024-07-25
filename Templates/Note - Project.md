@@ -11,7 +11,7 @@ tags:
 ## Comments
 
 ## Outgoing Link
-
+[[Projects]]
 ## Incoming Link
 ```dataview
 LIST

@@ -10,8 +10,7 @@ tags:
 - to participate and support the change[^1]
 
 ## Outgoing Link
-[[Definition]]
-
+[[Change Management]]
 ## Incoming Link
 ```dataview
 LIST

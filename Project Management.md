@@ -10,7 +10,7 @@ tags:
 - the technical side of a change - designing, developing, delivering a solution that addresses a problem/opportunity within constraints of time, cost, scope[^1]
 
 ## Outgoing Link
-[[Definition]]
+[[Change Management]]
 ## Incoming Link
 ```dataview
 LIST

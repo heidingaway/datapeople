@@ -14,7 +14,7 @@ tags:
 	3. [[Project Management]]
 	4. [[Change Management]]
 ## Outgoing Link
-[[Prosci Methodology]]; [[Definition]]
+[[Prosci Methodology]]
 ## Incoming Link
 ```dataview
 LIST

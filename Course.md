@@ -1,15 +1,15 @@
 ---
-title: Subject
+title: Course
 created: 2024-07-24
 modified: 2024-07-24
 tags:
   - RESOURCES/literature/definition
 ---
-# Subject
+# Course
 ## Definition
 
 ## Outgoing Link
-[[Definition]]; [[Literature]]
+[[Literature]]
 ## Incoming Link
 ```dataview
 LIST

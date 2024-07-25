@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Podcast]]; [[Definition]]
+[[Podcast]]
 ## Incoming Link
 ```dataview
 LIST

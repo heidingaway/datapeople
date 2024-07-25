@@ -9,7 +9,7 @@ tags:
 ## Comments
 
 ## Outgoing Link
-[[Yarn]]; [[Knitting]]; [[Definition]]
+[[Yarn]]; [[Knitting]]
 ## Incoming Link
 ```dataview
 LIST

@@ -9,7 +9,7 @@ tags:
 ## Comments
 - Wool from [[Shetland - Islands]] or sheered from [[Shetland - Sheep]]
 ## Outgoing Link
-[[Knitting]]; [[Definition]]
+[[Knitting]]
 ## Incoming Link
 ```dataview
 LIST

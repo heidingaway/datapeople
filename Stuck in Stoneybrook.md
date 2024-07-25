@@ -11,7 +11,7 @@ tags:
 - episodes[^1]
 
 ## Outgoing Link
-[[Podcast]]; [[Definition]]
+[[Podcast]]
 ## Incoming Link
 ```dataview
 LIST

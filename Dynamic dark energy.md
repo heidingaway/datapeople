@@ -11,7 +11,6 @@ tags:
 - first results from the Dark Energy Spectroscopic Instrument (DESI) showed that dark energy might not be as constant as we thought - dark energy may be getting less powerful over time
 ## Outgoing Link
 [[Space]]
-[[Definition]]
 ## Incoming Link
 ```dataview
 LIST

@@ -9,7 +9,7 @@ tags:
 ## Comments
 
 ## Outgoing Link
-[[Design]]; [[Definition]]
+[[Design]]
 ## Incoming Link
 ```dataview
 LIST

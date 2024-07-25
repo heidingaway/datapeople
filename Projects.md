@@ -14,10 +14,7 @@ tags:
 - Goal oriented (ie. buy a house, finish a sweater)
 
 ## Outgoing Link
-[[README]]
-[[PARA classification system]]
-[[Note - Project]]
-[[Definition]]
+[[README]]; [[PARA classification system]]
 ## Incoming Link
 ```dataview
 LIST

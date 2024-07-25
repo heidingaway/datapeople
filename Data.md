@@ -9,7 +9,7 @@ tags:
 ## Comments
 
 ## Outgoing Link
-[[Resources]]; [[Definition]]
+[[Resources]]
 ## Incoming Link
 ```dataview
 LIST

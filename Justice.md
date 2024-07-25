@@ -1,15 +1,15 @@
 ---
 title: Justice
-created: 
-modified: 
+created: 2024-07-24
+modified: 2024-07-24
 tags:
-  - RESOURCES/literature/non-fiction/genre
+  - RESOURCES/literature/non-fiction/definition
 ---
 # Justice
 ## Definition
 
 ## Outgoing Link
-[[Definition]]; [[Subject]]
+[[Non-Fiction]]
 ## Incoming Link
 ```dataview
 LIST

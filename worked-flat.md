@@ -8,7 +8,7 @@ tags:
 # Definition
 - worked back-and-forth in rows.[^1]
 ## Outgoing Link
-[[Knitting]]; [[Definition]]
+[[Knitting]]
 ## Incoming Link
 ```dataview
 LIST

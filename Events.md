@@ -10,7 +10,6 @@ tags:
 
 ## Outgoing Link
 [[Areas]]
-[[Definition]]
 ## Incoming Link
 ```dataview
 LIST

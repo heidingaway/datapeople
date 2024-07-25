@@ -10,7 +10,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Definition]]; [[Fiction]]; [[Non-Fiction]]
+[[Resources]]
 ## Incoming Link
 ```dataview
 LIST

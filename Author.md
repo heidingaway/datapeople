@@ -3,13 +3,13 @@ title: Author
 created: 2024-07-23
 modified: 2024-07-23
 tags:
-  - RESOURCES/definition
+  - RESOURCES/literature/definition
 ---
 # Author
 ## Definition
 
 ## Outgoing Link
-[[Definition]]; [[Literature]]
+[[Literature]]
 ## Incoming Link
 ```dataview
 LIST

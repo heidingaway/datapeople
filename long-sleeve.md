@@ -8,7 +8,7 @@ tags:
 # Definition
 - sleeve ends at the wrist bone or later[^1]
 ## Outgoing Link
-[[Knitting]]; [[Definition]]
+[[Knitting]]
 ## Incoming Link
 ```dataview
 LIST

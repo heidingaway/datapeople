@@ -12,7 +12,7 @@ tags:
 	- how a change aligns with the direction of the org
 	- why it's a priority?[^1]
 ## Outgoing Link
-[[Definition]]
+[[Change Management]]
 ## Incoming Link
 ```dataview
 LIST

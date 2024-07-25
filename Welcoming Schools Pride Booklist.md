@@ -4,7 +4,7 @@ created: 2024-07-24
 modified: 2024-07-24
 source: hub
 tags:
-  - RESOURCES/literature/non-fiction/genre/children
+  - RESOURCES/literature/non-fiction/children
 ---
 # Welcoming Schools Pride Booklist
 ## Definition
@@ -12,7 +12,7 @@ tags:
 	- [[Be Amazing - Desmond Napoles]] (K – 3) 
 	- [[Gay Lesbian History for Kids - Jerome Pohlen]] (grade 5-8)
 ## Outgoing Link
-[[Definition]]; [[Children Nonfiction]]
+[[Children Nonfiction]]; [[TBR]]
 ## Incoming Link
 ```dataview
 LIST

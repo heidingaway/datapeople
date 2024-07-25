@@ -9,7 +9,7 @@ tags:
 ## Definition
 - to implement required skills and behaviors[^1]
 ## Outgoing Link
-[[Definition]]
+
 ## Incoming Link
 ```dataview
 LIST

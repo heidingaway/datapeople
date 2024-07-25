@@ -9,7 +9,7 @@ tags:
 ## Comments
 - "the discipline that address the people side of change, enabling people to engage, adopt and use the solution"[^1]
 ## Outgoing Link
-[[Definition]]; 
+[[Resources]]
 ## Incoming Link
 ```dataview
 LIST

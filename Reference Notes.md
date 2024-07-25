@@ -11,7 +11,7 @@ tags:
 - Connectors - table of contents or legend to tell you where to find info, which notes connect with which
 - May not be necessary in a digital format
 ## Outgoing Link
-[[Zettelkasten Method]]; [[README]]; [[Definition]]
+[[Zettelkasten Method]]; [[README]]
 ## Incoming Link
 ```dataview
 LIST

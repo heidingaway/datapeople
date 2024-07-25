@@ -8,7 +8,7 @@ tags:
 # Definition
 - includes a drawing, probably with measurements[^1]
 ## Outgoing Link
-[[Knitting]]; [[Definition]]
+[[Knitting]]
 ## Incoming Link
 ```dataview
 LIST

@@ -10,8 +10,6 @@ tags:
 
 ## Outgoing Link
 [[Space]]
-[[constant dark energy]]
-[[Definition]]
 ## Incoming Link
 ```dataview
 LIST

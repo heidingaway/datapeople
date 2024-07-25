@@ -8,7 +8,7 @@ tags:
 # Definition
 - a pattern of stable holes that are arranged to create a decorative fabric[^1]
 ## Outgoing Link
-[[Knitting]]; [[Definition]]
+[[Knitting]]
 ## Incoming Link
 ```dataview
 LIST

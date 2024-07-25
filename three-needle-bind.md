@@ -9,7 +9,7 @@ tags:
 ## Definition
 - A method of joining two pieces together in knitting in which the live stitches from two pieces are knit together and cast off with a third needle.[^1]
 ## Outgoing Link
-[[Knitting]]; [[Definition]]
+[[Knitting]]
 ## Incoming Link
 ```dataview
 LIST

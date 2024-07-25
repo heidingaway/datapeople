@@ -9,7 +9,7 @@ tags:
 ## Definition
 - "Placemaking[^1] is a multi-faceted approach to the planning, design and management of public spaces. Placemaking capitalizes on a local community's assets, inspiration, and potential, with the intention of creating public spaces that improve urban vitality and promote people's health, happiness, and well-being." Wikipedia[^2]
 ## Outgoing Link
- [[Community]]; [[Definition]]
+ [[Community]]
 ## Incoming Link
 ```dataview
 LIST

@@ -11,7 +11,7 @@ tags:
 - notes you want to keep long term, make up of the notes you've grouped and connected together
 - Summarization of your ideas
 ## Outgoing Link
-[[README]]; [[Definition]]; [[Zettelkasten Method]]
+[[README]]; [[Zettelkasten Method]]
 ## Incoming Link
 ```dataview
 LIST

@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Definition]]; [[Childrens Literature]]; [[Ann M. Martin]]
+[[Childrens Literature]]; [[Ann M. Martin]]
 ## Incoming Link
 ```dataview
 LIST

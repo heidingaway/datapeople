@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5c7e69229919eb3d",
+        "id": "b7a47587a0be9ffa",
         "type": "tabs",
         "children": [
           {
-            "id": "4a568890442036b9",
+            "id": "874a8cb59d840413",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cut the Carceral System Now - Jack Norton.md",
+                "file": "2024-07-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cut the Carceral System Now - Jack Norton.md",
+            "file": "2024-07-24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Cut the Carceral System Now - Jack Norton.md",
+            "file": "2024-07-24.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Cut the Carceral System Now - Jack Norton.md"
+            "file": "2024-07-24.md"
           }
         }
       }
@@ -156,34 +156,34 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "4a568890442036b9",
+  "active": "874a8cb59d840413",
   "lastOpenFiles": [
-    "Gay Lesbian History for Kids - Jerome Pohlen.md",
-    "Welcoming Schools Pride Booklist.md",
-    "Be Amazing - Desmond Napoles.md",
-    "Cut the Carceral System Now - Jack Norton.md",
-    "Justice.md",
-    "TBR.md",
-    "Cosmology 101 with Katie Mack.md",
-    "AI, cyber-attacks and amateur experiments threaten to upend global biosecurity, WHO warns.md",
+    "Data.md",
+    "Data Quality.md",
+    "Data Literacy.md",
+    "Zettelkasten Method.md",
+    "Yarn Weight.md",
+    "Yarn.md",
+    "Yarn Festival.md",
+    "Yarn Company.md",
+    "written-pattern.md",
+    "worked-flat.md",
+    "Video.md",
+    "Transfer Ownership.md",
+    "Track Performance.md",
+    "three-needle-bind.md",
+    "The Big Bang Theory.md",
+    "The Baby-Sitters Club Series.md",
+    "Taylor Swift.md",
+    "Success.md",
+    "Stuck in Stoneybrook.md",
+    "Stakeholder and Stakeholder Groups.md",
     "Space.md",
-    "Claudia's Family - Kishi.md",
-    "Parents - Kishi.md",
-    "Rioko Kishi.md",
-    "Mimi Yamamoto.md",
-    "John Kishi.md",
-    "Janine Kishi.md",
-    "Siblings - Kishi.md",
-    "Claudia Kishi.md",
-    "Mallory Pike.md",
-    "Siblings - Pike.md",
-    "Mallory's Family - Pike.md",
-    "Parents - Pike.md",
-    "Kristy Thomas.md",
-    "Kristy's Family - Thomas-Brewer.md",
-    "Parents - Thomas-Brewer.md",
-    "Siblings - Thomas-Brewer.md",
-    "Karen Brewer.md",
+    "Definition.md",
+    "Shetland Wool.md",
+    "Sheep Breeds.md",
+    "Service Design.md",
+    "seamed.md",
     "D"
   ]
 }

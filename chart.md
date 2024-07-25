@@ -9,7 +9,7 @@ tags:
 ## Definition
 - uses a visual made of symbols and/or shapes to convey directions[^1]
 ## Outgoing Link
-[[Knitting]]; [[Definition]]
+[[Knitting]]
 ## Incoming Link
 ```dataview
 LIST

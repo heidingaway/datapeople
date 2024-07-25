@@ -3,13 +3,13 @@ title: Data Literacy
 created: 2024-07-15
 modified: 2024-07-17
 tags:
-  - RESOURCES/definition
+  - RESOURCES/data
 ---
 # Data Literacy
 ## Comments
 
 ## Outgoing Link
-[[Data]]; [[Definition]]; [[Resources]]
+[[Data]]
 ## Incoming Link
 ```dataview
 LIST

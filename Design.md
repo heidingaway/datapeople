@@ -9,7 +9,7 @@ tags:
 ## Comments
 
 ## Outgoing Link
-[[Resources]]; [[Definition]]; [[Digital Government]]; [[Non-Fiction]]; [[Subject]]
+[[Resources]]; [[Digital Government]]; [[Non-Fiction]]
 ## Incoming Link
 ```dataview
 LIST

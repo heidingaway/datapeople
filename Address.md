@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Areas]]; [[Definition]]
+[[Areas]]
 ## Incoming Link
 ```dataview
 LIST

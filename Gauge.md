@@ -10,7 +10,6 @@ tags:
 
 ## Outgoing Link
 [[Knitting]]
-[[Definition]]
 ## Incoming Link
 ```dataview
 LIST

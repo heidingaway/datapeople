@@ -9,7 +9,7 @@ tags:
 ## Definition
 - “Diversity and independence are important because the best collective decisions are the product of disagreement and contest, not consensus or compromise.”[^1]
 ## Outgoing Link
-[[The Wisdom of Crowds - James Surowiecki]]; [[Definition]]
+[[The Wisdom of Crowds - James Surowiecki]]; [[Design]]
 ## Incoming Link
 ```dataview
 LIST

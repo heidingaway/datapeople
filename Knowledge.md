@@ -10,8 +10,7 @@ tags:
 - on how to change[^1]
 
 ## Outgoing Link
-[[Definition]]
-
+[[Change Management]]
 ## Incoming Link
 ```dataview
 LIST

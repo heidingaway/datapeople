@@ -10,8 +10,7 @@ tags:
 - of the need for change[^1]
 
 ## Outgoing Link
-[[Definition]]
-
+[[Change Management]]
 ## Incoming Link
 ```dataview
 LIST

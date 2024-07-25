@@ -15,7 +15,7 @@ LIST
 FROM [[]] AND #PROJECTS
 ```
 ## Outgoing Link
-[[Resources]]; [[Definition]]
+[[Resources]]
 ## Incoming Link
 ```dataview
 LIST

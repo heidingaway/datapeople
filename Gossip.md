@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Definition]]; [[History of Witches]]
+[[History of Witches]]
 ## Incoming Link
 ```dataview
 LIST

@@ -10,7 +10,7 @@ tags:
 - store information that you are curious about, but have no immediate actions associated with it
 - Richard Feynman's 12 favourite problems - constantly present, but largely dormant questions that he returned to over and over again in his research
 ## Outgoing Link
-[[PARA classification system]]; [[Definition]]
+[[PARA classification system]]
 ## Incoming Link
 ```dataview
 LIST

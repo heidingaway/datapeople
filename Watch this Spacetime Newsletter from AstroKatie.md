@@ -4,14 +4,14 @@ created: 2024-07-15
 modified: 2024-07-23
 source: newsletter
 tags:
-  - RESOURCES/space
+  - RESOURCES/literature/non-fiction/space
 ---
 # Watch this Spacetime Newsletter from AstroKatie
 ## Comments
 - monthly[^1]
 
 ## Outgoing Link
-[[Katie Mack]]
+[[Katie Mack]]; [[Newsletter]]
 ## Incoming Link
 ```dataview
 LIST

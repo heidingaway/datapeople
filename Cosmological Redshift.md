@@ -11,7 +11,7 @@ tags:
 ## Reference
 [What is Cosmological Redshift?](https://hubblesite.org/contents/media/images/4509-Image.html)
 ## Outgoing Link
-[[Space]]; [[Definition]]
+[[Space]]
 ## Incoming Link
 ```dataview
 LIST

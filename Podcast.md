@@ -3,13 +3,13 @@ title: Podcast
 created: 2024-07-22
 modified: 2024-07-22
 tags:
-  - RESOURCES/definition
+  - RESOURCES/literature/definition
 ---
 # Podcast
 ## Definition
 
 ## Outgoing Link
-[[Definition]]
+[[Literature]]
 ## Incoming Link
 ```dataview
 LIST

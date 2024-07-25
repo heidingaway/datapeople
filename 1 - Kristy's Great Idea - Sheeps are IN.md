@@ -11,7 +11,7 @@ tags:
 - Morbidda Destiny - [[History of Witches|witch hunts]]/demonization of women as witches[^1]
 
 ## Outgoing Link
-[[Definition]]; [[Inclusive Elementary Booklists]]; [[Stuck in Stoneybrook]]; [[Podcast Episodes]]
+[[Inclusive Elementary Booklists]]; [[Stuck in Stoneybrook]]; [[Podcast Episodes]]
 ## Incoming Link
 ```dataview
 LIST

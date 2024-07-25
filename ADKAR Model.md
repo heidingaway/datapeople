@@ -9,7 +9,7 @@ tags:
 ## Definition
 - [[Awareness]], [[Desire]], [[Knowledge]], [[Ability]], [[Reinforcement]][^1]
 ## Outgoing Link
-[[Prosci Methodology]]; [[Definition]]
+[[Prosci Methodology]]
 ## Incoming Link
 ```dataview
 LIST

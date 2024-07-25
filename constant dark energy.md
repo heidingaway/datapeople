@@ -14,7 +14,7 @@ tags:
 - Cosmological constant worked because it adds swelling into every bit of space. Once there is sufficiently big universe, gravitational pull of matter becomes relatively weak. Swelling becoming the dominant force then accelerates expansion.
 - Alternative theory: [[Dynamic dark energy]]
 ## Outgoing Link
-[[Space]]; [[Definition]]
+[[Space]]
 ## Incoming Link
 ```dataview
 LIST
