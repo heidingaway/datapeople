@@ -7,7 +7,8 @@ tags:
 ---
 # Kristy Thomas
 ## Definition
-
+- first mentioned in [[Kristy's Great Idea - Ann M Martin]][^1]
+- ponytail length hair; unsecured/free of accessories - uses a rubber band to pull it into a long ponytail on a very hot day[^2]
 ## Outgoing Link
 [[The Baby-Sitters Club POV Characters]]
 ## Incoming Link
@@ -15,3 +16,5 @@ tags:
 LIST
 FROM [[]]
 ```
+# Footnotes
+[^1]: 

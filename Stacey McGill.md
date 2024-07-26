@@ -7,7 +7,7 @@ tags:
 ---
 # Stacey McGill
 ## Relationships
-- 
+- first mention in [[Kristy's Great Idea - Ann M Martin]][^1]
 ## Outgoing Link
 [[The Baby-Sitters Club POV Characters]]
 ## Incoming Link
@@ -15,3 +15,6 @@ tags:
 LIST
 FROM [[]]
 ```
+# Footnotes
+
+[^1]: [[BSC-note-b1]]3
