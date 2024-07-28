@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Speak Now (2010)]]
+[[Speak Now (2010)]]; [[TS-Discography]]
 ## Incoming Link
 ```dataview
 LIST

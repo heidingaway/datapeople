@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Red (2012)]]
+[[Red (2012)]]; [[TS-Discography]]
 ## Incoming Link
 ```dataview
 LIST

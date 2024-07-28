@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "874a8cb59d840413",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Baby-Sitters Club Retro Set (Books 1-6) - Ann M Martin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d873696f686b368f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSC - Interacting with adults.md",
+                "file": "1989 (2014).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4,
+    "pinned": true
   },
   "right": {
     "id": "2ff742e27f99fa5e",
@@ -119,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "BSC - Interacting with adults.md",
+            "file": "1989 (2014).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "BSC - Interacting with adults.md",
+            "file": "1989 (2014).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -148,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "BSC - Interacting with adults.md"
+            "file": "1989 (2014).md"
           }
         }
       }
@@ -170,32 +158,32 @@
   },
   "active": "d873696f686b368f",
   "lastOpenFiles": [
-    "BSC - metacognition and empathy.md",
-    "BSC - Interacting with adults.md",
-    "BSC-note-b1.md",
-    "Kristy - relationship with school.md",
-    "BSC-notes.md",
-    "Kristy's Great Idea - Ann M Martin.md",
-    "BSC-relationship with school.md",
-    "Kristy - appearance.md",
-    "Kristy Thomas.md",
-    "BSC-First Lines.md",
-    "Templates/BSC-note-bX.md",
-    "BSC-note-b2.md",
-    "Mr. Redmont.md",
-    "Kristy's Teachers.md",
-    "Kristy's Family - Thomas-Brewer.md",
-    "Stacey McGill.md",
-    "Claudia Kishi.md",
-    "Mary Anne Spier.md",
-    "BSC - timeline.md",
-    "Expected behaviours in classrooms.md",
-    "2024-07-25.md",
-    "README.md",
-    "The Baby-Sitters Club POV Characters.md",
-    "Dawn Schafer.md",
-    "Dawn's Family - Schafer.md",
-    "BSC-note-b1-c1-n3.md",
+    "Who's Afraid of Little Old Me?.md",
+    "The Tortured Poets Department.md",
+    "The Smallest Man Who Ever Lived.md",
+    "The Prophecy.md",
+    "The Bolter.md",
+    "The Black Dog.md",
+    "The Alchemy.md",
+    "The Albatross.md",
+    "​​thanK you aIMee.md",
+    "So Long, London.md",
+    "So High School.md",
+    "Peter.md",
+    "My Boy Only Breaks His Favorite Toys.md",
+    "loml.md",
+    "imgonnagetyouback.md",
+    "I Look in People's Windows.md",
+    "I Hate It Here.md",
+    "I Can Fix Him (No Really I Can).md",
+    "I Can Do It With a Broken Heart.md",
+    "How Did It End?.md",
+    "Guilty as Sin?.md",
+    "Down Bad.md",
+    "Fresh Out The Slammer.md",
+    "Chloe or Sam or Sophia or Marcus.md",
+    "Fortnight - Taylor Swift ft. Post Malone.md",
+    "Clara Bow.md",
     "D"
   ]
 }

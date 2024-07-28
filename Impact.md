@@ -10,7 +10,7 @@ tags:
 - Who had to do their jobs differently and how? [^1]
 	- activities may include identifying [[Stakeholder and Stakeholder Groups | impacted groups]] and defining [[adoption and usage]]
 ## Outgoing Link
-[[Change Management]]
+[[Prosci Methodology]]
 ## Incoming Link
 ```dataview
 LIST

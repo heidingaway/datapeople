@@ -3,7 +3,7 @@ title: Prosci Methodology
 created: 2024-07-19
 modified: 2024-07-19
 tags:
-  - RESOURCES/change-mgt
+  - RESOURCES/change-mgt/definition
 ---
 # Prosci Methodology
 
@@ -15,7 +15,7 @@ tags:
 	- [[ADKAR Model]]
 	- [[Prosci 3-Phase Process]]
 ## Outgoing Link
-[[Change Management]]; [[Digital Government]]
+[[Change Management]]
 
 ## Incoming Link
 ```dataview

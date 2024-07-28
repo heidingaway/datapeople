@@ -27,7 +27,7 @@ Every album in order of release[^1]
 	15. [[The Tortured Poets Department (2024)]]
 
 ## Outgoing Link
-[[Taylor Swift]]
+[[TS-Discography]]
 ## Incoming Link
 ```dataview
 LIST

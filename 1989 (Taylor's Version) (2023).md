@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[1989 (2014)]]
+[[1989 (2014)]]; [[TS-Discography]]
 ## Incoming Link
 ```dataview
 LIST

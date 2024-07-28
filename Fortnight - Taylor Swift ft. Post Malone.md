@@ -1,11 +1,11 @@
 ---
-title: Fortnight - Taylor Swift
+title: Fortnight - Taylor Swift ft. Post Malone
 created: 2024-07-20
-modified: 2024-07-20
+modified: 2024-07-27
 tags:
-  - RESOURCES/taylor-swift/song
+  - RESOURCES/taylor-swift/song/ttpd
 ---
-# Fortnight - Taylor Swift
+# Fortnight - Taylor Swift ft. Post Malone
 ## Lyrics
 I was supposed to be sent away[^1]
 But they forgot to come and get me

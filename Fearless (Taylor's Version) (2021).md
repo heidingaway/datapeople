@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Fearless (2008)]]
+[[Fearless (2008)]]; [[TS-Discography]]
 ## Incoming Link
 ```dataview
 LIST

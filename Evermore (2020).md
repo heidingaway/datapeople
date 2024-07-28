@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-
+[[TS-Discography]]
 ## Incoming Link
 ```dataview
 LIST

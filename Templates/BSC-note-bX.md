@@ -6,7 +6,7 @@ tags:
   - RESOURCES/literature/fiction/child-lit
 ---
 # <% tp.file.title %>
-[[<% tp.file.title %>|<< previous chapter]] | [[<% tp.file.title %>|next chapter >>]]
+[[Note - definition resources|<< previous chapter]] | [[Note - definition resources|next chapter >>]]
 ## Definition
 
 ## Outgoing Link

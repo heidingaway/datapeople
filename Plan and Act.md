@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Change Management]]
+[[Prosci Methodology]]
 ## Incoming Link
 ```dataview
 LIST
