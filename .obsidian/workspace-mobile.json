@@ -11,12 +11,8 @@
             "id": "d873696f686b368f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1989 (2014).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -107,7 +103,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1989 (2014).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +119,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1989 (2014).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,9 +129,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "1989 (2014).md"
-          }
+          "state": {}
         }
       }
     ],
@@ -158,32 +150,32 @@
   },
   "active": "d873696f686b368f",
   "lastOpenFiles": [
-    "Who's Afraid of Little Old Me?.md",
-    "The Tortured Poets Department.md",
-    "The Smallest Man Who Ever Lived.md",
-    "The Prophecy.md",
-    "The Bolter.md",
-    "The Black Dog.md",
-    "The Alchemy.md",
-    "The Albatross.md",
-    "​​thanK you aIMee.md",
-    "So Long, London.md",
-    "So High School.md",
-    "Peter.md",
-    "My Boy Only Breaks His Favorite Toys.md",
-    "loml.md",
-    "imgonnagetyouback.md",
-    "I Look in People's Windows.md",
-    "I Hate It Here.md",
-    "I Can Fix Him (No Really I Can).md",
-    "I Can Do It With a Broken Heart.md",
-    "How Did It End?.md",
-    "Guilty as Sin?.md",
-    "Down Bad.md",
-    "Fresh Out The Slammer.md",
-    "Chloe or Sam or Sophia or Marcus.md",
-    "Fortnight - Taylor Swift ft. Post Malone.md",
-    "Clara Bow.md",
+    "Getting ready for the next stage of the Yukon open government portal.md",
+    "Open data.md",
+    "Institutionalization.md",
+    "1989 (Taylor's Version) (2023).md",
+    "Is It Over Now?.md",
+    "Suburban Legends.md",
+    "Now That We Don't Talk.md",
+    "Say Don't Go.md",
+    "\"Slut!\".md",
+    "New Romantics.md",
+    "You Are In Love.md",
+    "Wonderland.md",
+    "Clean.md",
+    "I Know Places.md",
+    "This Love.md",
+    "How You Get The Girl.md",
+    "Wildest Dreams.md",
+    "Bad Blood.md",
+    "I Wish You Would.md",
+    "Shake It Off.md",
+    "All You Had To Do Was Stay.md",
+    "Out Of The Woods.md",
+    "Style.md",
+    "Blank Space.md",
+    "Templates/Note - TS Songs.md",
+    "Welcome to New York.md",
     "D"
   ]
 }

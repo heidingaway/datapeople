@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 ## Outgoing Link
-[[Songs - Taylor Swift]]
+
 ## Incoming Link
 ```dataview
 LIST
