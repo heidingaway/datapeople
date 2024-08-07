@@ -8,7 +8,7 @@ tags:
 
 [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>|<< previous day]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %> |next day >>]]
 
-## Daily Note[^1]
+## Daily Note
 ```tasks
 due <% tp.date.now("YYYY-MM-DD") %>
 not done
@@ -28,6 +28,3 @@ WHERE modified = date(<% tp.date.now("YYYY-MM-DD") %>)
 LIST
 FROM [[]]
 ```
-# Footnotes
-
-[^1]: [[Daily Note]]
