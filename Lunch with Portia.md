@@ -1,13 +1,9 @@
 ---
 title: Lunch with Portia
-dateTime: 2024-08-05 11:30:00
-endDatetime: 2024-07-17 13:00:00
-allDay: false
-completed: null
 created: 2024-07-17
-modified: 2024-07-17
+modified: 2024-08-11
 tags:
-  - AREAS/events
+  - ARCHIVE/events
 ---
 # Lunch with Portia
 ## Address
