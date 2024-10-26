@@ -28,5 +28,7 @@
   "attachmentFolderPath": "Reference Photos",
   "userIgnoreFilters": [
     "Templates/"
-  ]
+  ],
+  "promptDelete": false,
+  "showInlineTitle": false
 }
