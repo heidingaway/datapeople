@@ -172,8 +172,8 @@
       "line-break-indicator": "  "
     },
     "unordered-list-style": {
-      "enabled": false,
-      "list-style": "consistent"
+      "enabled": true,
+      "list-style": "-"
     },
     "compact-yaml": {
       "enabled": false,
