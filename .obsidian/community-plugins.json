@@ -4,12 +4,12 @@
   "templater-obsidian",
   "obsidian-footnotes",
   "obsidian-tasks-plugin",
-  "periodic-notes",
   "obsidian-tagfolder",
   "obsidian-book-search-plugin",
   "emoji-shortcodes",
   "juggl",
   "calendar",
   "obsidian-kanban",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "periodic-notes"
 ]

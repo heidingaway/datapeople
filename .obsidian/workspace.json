@@ -17,7 +17,9 @@
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false
+                    null,
+                    false,
+                    null
                   ]
                 }
               },
@@ -166,8 +168,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -176,8 +178,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -186,8 +188,28 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9274f6fdfe37217e",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "926b39b534effca8",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           }
         ]
@@ -202,20 +224,27 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-kanban:Create new board": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "periodic-notes:Open today": false,
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "c7ffa10360d36be4",
   "lastOpenFiles": [
+    "2024-10-29.md",
+    "Untitled Kanban.md",
+    "2024-W44.md",
     "2024-10-27.md",
-    "Kanban.md",
+    "AccelerateGov.md",
+    "2024-08-26.md",
+    "AccelerateGov 2024.md",
     "2024-W43.md",
+    "Kanban.md",
     "Level 5 Master.md",
     "Index/406.01 GovernmentOrganization.md",
     "Level 4 Developing.md",
@@ -225,7 +254,6 @@
     "Canada.md",
     "Ontario.md",
     "Ottawa.md",
-    "AccelerateGov 2024.md",
     "408.02.01 EventVenue.md",
     "408.02 CivicStructure.md",
     "Index/408 Place.md",
@@ -234,11 +262,6 @@
     "Government of Canada.md",
     "Index/408.01 AdministrativeArea.md",
     "Index/404.01.01a addressLocality.md",
-    "Index/404.05 Rating.md",
-    "Index/404 Intangible.md",
-    "Index/404.03 Class.md",
-    "Index/404.04 Quantity.md",
-    "Index/404.01 StructuredValue.md",
     "Index"
   ]
 }
