@@ -17,6 +17,14 @@ kanban-plugin: board
 - [ ] IM Backstage - finalize slide and stage direction @{2024-10-30}
 - [ ] Proposal: GCDC Drop-in Jan 2025 and on @{2024-10-30}
 - [ ] Speaking Notes - Erica's UK Conference
+- [ ] Change Management Network presentation
+- [ ] CF vs Copilot
+- [ ] Project Tracking for Data Maturity
+- [ ] Explore GCCode for CPDI + Data Maturity
+- [ ] Follow up with Chris Schultz on GCCode
+- [ ] Follow up with Chris Schultz/Julian Kirby on GCCode
+- [ ] Follow up on Governance Process for Julian Kirby's Data Competency Mapping
+- [ ] Show Clotilde around GCCode
 
 
 ## Doing
