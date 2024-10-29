@@ -7,22 +7,6 @@
       "key": "0"
     }
   ],
-  "templater-obsidian:create-new-note-from-template": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "N"
-    }
-  ],
-  "templater-obsidian:insert-templater": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "E"
-    }
-  ],
   "obsidian-footnotes:insert-named-footnote": [
     {
       "modifiers": [

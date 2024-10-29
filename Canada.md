@@ -1,17 +1,10 @@
 ---
 title: Canada
-created: 2024-07-17
-modified: 2024-07-17
+created: 2024-10-27
+modified: 2024-10-27
 tags:
-  - AREAS/address/country
+- property
 ---
 # Canada
-## Definition
-
-## Outgoing Link
-[[Country]]
-## Incoming Link
-```dataview
-LIST
-FROM [[]]
-```
+- type [[404.01.01a addressCountry]]
+- type [[408.01.01 Country]]

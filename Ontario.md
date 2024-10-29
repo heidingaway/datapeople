@@ -1,17 +1,10 @@
 ---
 title: Ontario
-created: 2024-07-17
-modified: 2024-07-17
+created: 2024-10-27
+modified: 2024-10-27
 tags:
-  - AREAS/address/PT
+- property
 ---
 # Ontario
-## Definition
-
-## Outgoing Link
-[[Provinces and Territories]]; [[Canada]]
-## Incoming Link
-```dataview
-LIST
-FROM [[]]
-```
+- type [[404.01.01a addressRegion]]
+- type [[408.01.04 Province]]
