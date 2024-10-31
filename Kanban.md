@@ -1,6 +1,8 @@
 ---
 
 kanban-plugin: board
+tags:
+  - kanban
 
 ---
 
@@ -15,8 +17,6 @@ kanban-plugin: board
 - [ ] Review DAMA Days Deck @{2024-10-31}
 - [ ] PCWG TOR Review @{2024-11-12}
 - [ ] IM Backstage - finalize slide and stage direction @{2024-10-30}
-- [ ] Proposal: GCDC Drop-in Jan 2025 and on @{2024-10-30}
-- [ ] Speaking Notes - Erica's UK Conference
 - [ ] Change Management Network presentation
 - [ ] CF vs Copilot
 - [ ] Project Tracking for Data Maturity
@@ -24,13 +24,11 @@ kanban-plugin: board
 - [ ] Follow up with Chris Schultz on GCCode
 - [ ] Follow up with Chris Schultz/Julian Kirby on GCCode
 - [ ] Follow up on Governance Process for Julian Kirby's Data Competency Mapping
-- [ ] Show Clotilde around GCCode
 
 
 ## Doing
 
-- [ ] Survey reminders drop-in
-- [ ] GCDC Forum Testing
+- [ ] Proposal: GCDC Drop-in Jan 2025 and on @{2024-10-30}
 
 
 ## Blocked
@@ -42,12 +40,18 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] GC Data Community certification
+- [x] GCDC Forum Testing ✅ 2024-10-30
+- [ ] Any information you are able to pull re the consulting costs for data maturity
+- [x] Survey reminders drop-in ✅ 2024-10-30
+- [ ] Midway metrics/ information for the Wednesday drop-in sessions.
+- [ ] Show Clotilde around GCCode
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[null,false,null]}
+{"kanban-plugin":"board","list-collapse":[null,false,false]}
 ```
 %%
