@@ -17,8 +17,6 @@
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    null,
-                    false,
                     false
                   ]
                 }
@@ -168,8 +166,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
             }
           },
           {
@@ -178,8 +176,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           },
           {
@@ -188,28 +186,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "9274f6fdfe37217e",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
-            }
-          },
-          {
-            "id": "926b39b534effca8",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -224,43 +202,44 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-kanban:Create new board": false,
-      "daily-notes:Open today's daily note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open this week": false
     }
   },
   "active": "c7ffa10360d36be4",
   "lastOpenFiles": [
-    "Index/406.01 GovernmentOrganization.md",
-    "Government of Canada.md",
-    "Kanban.md",
-    "2024-10-30.md",
-    "Untitled Kanban.md",
-    "Templates/daily template.md",
-    "2024-W44.md",
-    "2024-10-29.md",
-    "408.02 CivicStructure.md",
-    "Templates/Template - weekly.md",
-    "Index/405 MedicalEntity.md",
     "justification git.md",
-    "Index/400 Thing.md",
-    "Index/101 GC Data Maturity Assessment.md",
+    "2024-W44.md",
+    "2024-10-30.md",
+    "2024-10-29.md",
+    "2024-11-02.md",
+    "Kanban.md",
+    "obsidian.zip",
     "2024-10-27.md",
-    "AccelerateGov.md",
-    "2024-08-26.md",
-    "AccelerateGov 2024.md",
     "2024-W43.md",
     "Level 5 Master.md",
+    "Index/406.01 GovernmentOrganization.md",
     "Level 4 Developing.md",
     "Level 3 Learning.md",
     "Level 1 Beginning.md",
     "Rogers Centre Ottawa.md",
     "Canada.md",
     "Ontario.md",
+    "Ottawa.md",
+    "AccelerateGov 2024.md",
+    "408.02.01 EventVenue.md",
+    "408.02 CivicStructure.md",
+    "Index/408 Place.md",
+    "Level 2 Emerging.md",
+    "Treasury Board Secretariat.md",
+    "Government of Canada.md",
+    "Index/408.01 AdministrativeArea.md",
+    "Index/404.01.01a addressLocality.md",
     "Index"
   ]
 }
