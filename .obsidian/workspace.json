@@ -11,18 +11,14 @@
             "id": "c7ffa10360d36be4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "2024-11-02.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban"
+              "icon": "lucide-file",
+              "title": "2024-11-02"
             }
           }
         ]
@@ -213,12 +209,17 @@
   },
   "active": "c7ffa10360d36be4",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "justification git.md",
     "2024-W44.md",
     "2024-10-30.md",
     "2024-10-29.md",
     "2024-11-02.md",
     "Kanban.md",
+=======
+    "Kanban.md",
+    "2024-11-02.md",
+>>>>>>> Stashed changes
     "obsidian.zip",
     "2024-10-27.md",
     "2024-W43.md",
@@ -240,6 +241,13 @@
     "Government of Canada.md",
     "Index/408.01 AdministrativeArea.md",
     "Index/404.01.01a addressLocality.md",
+<<<<<<< Updated upstream
+=======
+    "Index/404.05 Rating.md",
+    "Index/404 Intangible.md",
+    "Index/404.03 Class.md",
+    "Index/404.04 Quantity.md",
+>>>>>>> Stashed changes
     "Index"
   ]
 }
