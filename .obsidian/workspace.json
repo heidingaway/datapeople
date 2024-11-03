@@ -1,41 +1,55 @@
 {
   "main": {
-    "id": "c89f74fd8b4eb301",
+    "id": "406b3501b2647978",
     "type": "split",
     "children": [
       {
-        "id": "875052fa01127b53",
+        "id": "5cbdfc807631ba81",
         "type": "tabs",
         "children": [
           {
-            "id": "c7ffa10360d36be4",
+            "id": "ee30d3da355d299f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fc21ab190cb3cedc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-02.md",
+                "file": "Index/101 GC Data Maturity Assessment.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-02"
+              "title": "101 GC Data Maturity Assessment"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c33238492dc9405c",
+    "id": "f3bb6758f2eec8d1",
     "type": "split",
     "children": [
       {
-        "id": "82636aebbac87e34",
+        "id": "791503c5159aac51",
         "type": "tabs",
         "children": [
           {
-            "id": "7dd5f93273f201b7",
+            "id": "d235aa724cdd6a38",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +61,7 @@
             }
           },
           {
-            "id": "61618625ab50a1ba",
+            "id": "b739324d05b2ee26",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +78,7 @@
             }
           },
           {
-            "id": "668e9a9e438bd24c",
+            "id": "60f9d3bedcfa2373",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,7 +88,7 @@
             }
           },
           {
-            "id": "cceac961a9bfc4ba",
+            "id": "6bf275ba238e94e3",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -91,20 +105,20 @@
     "width": 300
   },
   "right": {
-    "id": "ae7df24afd26713b",
+    "id": "07e432709d9ebb6a",
     "type": "split",
     "children": [
       {
-        "id": "940560b83bf85349",
+        "id": "38c7fbe2a599fb23",
         "type": "tabs",
         "children": [
           {
-            "id": "824da2c1aa6ee1ae",
+            "id": "f4fc79a6bad864e9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-25.md",
+                "file": "Index/101 GC Data Maturity Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +128,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-10-25"
+              "title": "Backlinks for 101 GC Data Maturity Assessment"
             }
           },
           {
-            "id": "82834026e45eee4c",
+            "id": "5aaec360ab80acd7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-10-25.md",
+                "file": "Index/101 GC Data Maturity Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-25"
+              "title": "Outgoing links from 101 GC Data Maturity Assessment"
             }
           },
           {
-            "id": "9bf5e51a77cd3a8c",
+            "id": "6fbce598fe8e1853",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,19 +159,29 @@
             }
           },
           {
-            "id": "a90e945549c8f93d",
+            "id": "270d71da76779f81",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-25.md"
+                "file": "Index/101 GC Data Maturity Assessment.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-10-25"
+              "title": "Outline of 101 GC Data Maturity Assessment"
             }
           },
           {
-            "id": "f6cde6035c03e55e",
+            "id": "70e37668a5d01b34",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "d91793964a9f2abe",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -167,7 +191,7 @@
             }
           },
           {
-            "id": "3b3689bb0c54877a",
+            "id": "f6bc809d5411d9c1",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -175,23 +199,12 @@
               "icon": "ag-style",
               "title": "Juggl style"
             }
-          },
-          {
-            "id": "aa8d70c5426dc114",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,50 +217,27 @@
       "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-kanban:Create new board": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "c7ffa10360d36be4",
+  "active": "f4fc79a6bad864e9",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "justification git.md",
-    "2024-W44.md",
-    "2024-10-30.md",
-    "2024-10-29.md",
-    "2024-11-02.md",
-    "Kanban.md",
-=======
-    "Kanban.md",
-    "2024-11-02.md",
->>>>>>> Stashed changes
-    "obsidian.zip",
-    "2024-10-27.md",
-    "2024-W43.md",
-    "Level 5 Master.md",
+    "Inbox - Zan/Github Test.md",
+    "Inbox - Zan/Kisses.md",
     "Index/406.01 GovernmentOrganization.md",
-    "Level 4 Developing.md",
-    "Level 3 Learning.md",
     "Level 1 Beginning.md",
-    "Rogers Centre Ottawa.md",
-    "Canada.md",
-    "Ontario.md",
-    "Ottawa.md",
-    "AccelerateGov 2024.md",
-    "408.02.01 EventVenue.md",
-    "408.02 CivicStructure.md",
-    "Index/408 Place.md",
-    "Level 2 Emerging.md",
-    "Treasury Board Secretariat.md",
+    "Index/101 GC Data Maturity Assessment.md",
+    "Index/404.01.01a streetAddress.md",
+    "Index/404.01.01 ContactPoint.md",
     "Government of Canada.md",
-    "Index/408.01 AdministrativeArea.md",
-    "Index/404.01.01a addressLocality.md",
-<<<<<<< Updated upstream
-=======
-    "Index/404.05 Rating.md",
-    "Index/404 Intangible.md",
-    "Index/404.03 Class.md",
-    "Index/404.04 Quantity.md",
->>>>>>> Stashed changes
-    "Index"
+    "AccelerateGov.md",
+    "Index/403.01 BusinessEvent.md",
+    "Index/403 Event.md",
+    "Index/401 Action.md",
+    "Index/402 CreativeWork.md",
+    "Index/400 Thing.md",
+    "Index/100 Project.md",
+    "Index/000 Index.md",
+    "55 Colonal By Drive.md"
   ]
 }
