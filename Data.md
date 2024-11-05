@@ -1,0 +1,15 @@
+---
+title: Data
+created: 2024-11-04
+modified: 2024-11-04
+tags:
+- intangible
+---
+# Data
+
+## Properties
+- type [[404.06 DefinedTerm]]
+- inDefinedTermSet [[Glossary - 2023-2026 Data Strategy for the Federal Public Service]]
+
+## Comment
+- refers to the general subject area of "Data" about which "data strategies" are written

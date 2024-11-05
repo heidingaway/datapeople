@@ -6,11 +6,11 @@ tags:
 - meta
 ---
 # 409 Product
-- [[DietarySupplement]]
-- [[Drug]]
-- [[IndividualProduct]]
-- [[ProductCollection]]
-- [[ProductGroup]]
-- [[ProductModel]]
-- [[SomeProducts]]
-- [[Vehicle]]
+- class [[DietarySupplement]]
+- class [[Drug]]
+- class [[IndividualProduct]]
+- class [[ProductCollection]]
+- class [[ProductGroup]]
+- class [[ProductModel]]
+- class [[SomeProducts]]
+- class [[Vehicle]]

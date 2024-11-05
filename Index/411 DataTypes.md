@@ -6,9 +6,9 @@ tags:
 - meta
 ---
 # 411 DataTypes
-- [[Boolean]]
-- [[Date]]
-- [[DateTime]]
-- [[Number]]
-- [[Text]]
-- [[Time]]
+- class [[Boolean]]
+- class [[Date]]
+- class [[DateTime]]
+- class [[Number]]
+- class [[Text]]
+- class [[Time]]

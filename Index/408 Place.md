@@ -6,12 +6,12 @@ tags:
 - meta
 ---
 # 408 Place
-- [[Accommodation]]
-- [[408.01 AdministrativeArea]]
-- [[408.02 CivicStructure]]
-- [[Landform]]
-- [[LandmarksOrHistoricalBuildings]]
-- [[LocalBusiness]]
-- [[Residence]]
-- [[TouristAttraction]]
-- [[TouristDestination]]
+- class [[Accommodation]]
+- class [[408.01 AdministrativeArea]]
+- class [[408.02 CivicStructure]]
+- class [[Landform]]
+- class [[LandmarksOrHistoricalBuildings]]
+- class [[LocalBusiness]]
+- class [[Residence]]
+- class [[TouristAttraction]]
+- class [[TouristDestination]]

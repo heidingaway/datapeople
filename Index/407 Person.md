@@ -6,4 +6,4 @@ tags:
 - meta
 ---
 # 407 Person
-- type [[407.01 Patient]]
+- class [[407.01 Patient]]
