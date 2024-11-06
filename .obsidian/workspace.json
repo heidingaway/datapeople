@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "justification for git.md",
                 "mode": "source",
                 "backlinks": true,
@@ -38,6 +39,27 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Juggl"
+=======
+                "file": "UK Maturity Model Review.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "UK Maturity Model Review"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -227,6 +249,7 @@
   },
   "active": "fc21ab190cb3cedc",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Index/404.01.01a PostalAddress.md",
     "Index/404.01.01a addressCountry.md",
     "Index/404.01.01 ContactPoint.md",
@@ -253,5 +276,35 @@
     "Index/408 Place.md",
     "Index/407 Person.md",
     "Index/407.01 Patient.md"
+=======
+    "Reference Photos/Pasted image 20241104164247.png",
+    "Reference Photos",
+    "Kanban.md",
+    "UK Maturity Model Review.md",
+    "2024-W44.md",
+    "2024-W45.md",
+    "2024-11-04.md",
+    "Index/406.01 GovernmentOrganization.md",
+    "Government of Canada.md",
+    "2024-10-30.md",
+    "Templates/daily template.md",
+    "2024-10-29.md",
+    "408.02 CivicStructure.md",
+    "Templates/Template - weekly.md",
+    "Index/405 MedicalEntity.md",
+    "justification git.md",
+    "Index/400 Thing.md",
+    "Index/101 GC Data Maturity Assessment.md",
+    "2024-10-27.md",
+    "AccelerateGov.md",
+    "2024-08-26.md",
+    "AccelerateGov 2024.md",
+    "2024-W43.md",
+    "Level 5 Master.md",
+    "Level 4 Developing.md",
+    "Level 3 Learning.md",
+    "Level 1 Beginning.md",
+    "Index"
+>>>>>>> Stashed changes
   ]
 }
