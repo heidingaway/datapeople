@@ -1,65 +1,25 @@
 {
   "main": {
-    "id": "406b3501b2647978",
+    "id": "7bae569f0ecc8307",
     "type": "split",
     "children": [
       {
-        "id": "5cbdfc807631ba81",
+        "id": "b78dfe4c7f9e3500",
         "type": "tabs",
         "children": [
           {
-            "id": "fc21ab190cb3cedc",
+            "id": "3904dd96f528f9c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "justification for git.md",
+                "file": "Inbox - Zan/From Zan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "justification for git"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9d492a4a0a26b466",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c463a1f5e4b98114",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Juggl"
-=======
-                "file": "UK Maturity Model Review.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "UK Maturity Model Review"
->>>>>>> Stashed changes
+              "title": "From Zan"
             }
           }
         ]
@@ -68,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f3bb6758f2eec8d1",
+    "id": "c3d0b8fc1f67c093",
     "type": "split",
     "children": [
       {
-        "id": "791503c5159aac51",
+        "id": "07bd2cb4cc9e6328",
         "type": "tabs",
         "children": [
           {
-            "id": "d235aa724cdd6a38",
+            "id": "5a565fc9d575399c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -88,7 +48,7 @@
             }
           },
           {
-            "id": "b739324d05b2ee26",
+            "id": "09ebf8d977389e47",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -105,7 +65,7 @@
             }
           },
           {
-            "id": "60f9d3bedcfa2373",
+            "id": "b622827b48ba46a8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -115,7 +75,7 @@
             }
           },
           {
-            "id": "6bf275ba238e94e3",
+            "id": "086152a91f0938ad",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -131,20 +91,20 @@
     "width": 300
   },
   "right": {
-    "id": "07e432709d9ebb6a",
+    "id": "8e4e191fea20b5d8",
     "type": "split",
     "children": [
       {
-        "id": "38c7fbe2a599fb23",
+        "id": "c4aaf5597ea91b72",
         "type": "tabs",
         "children": [
           {
-            "id": "f4fc79a6bad864e9",
+            "id": "ccf03f3f643318c5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "justification for git.md",
+                "file": "Inbox - Zan/From Zan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,25 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for justification for git"
+              "title": "Backlinks for From Zan"
             }
           },
           {
-            "id": "5aaec360ab80acd7",
+            "id": "996e8f46b3d5ed71",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index/101 GC Data Maturity Assessment.md",
+                "file": "Inbox - Zan/From Zan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 101 GC Data Maturity Assessment"
+              "title": "Outgoing links from From Zan"
             }
           },
           {
-            "id": "6fbce598fe8e1853",
+            "id": "c1ceb7456fde153a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -185,19 +145,19 @@
             }
           },
           {
-            "id": "270d71da76779f81",
+            "id": "07d6bebc898eb371",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index/101 GC Data Maturity Assessment.md"
+                "file": "Inbox - Zan/From Zan.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 101 GC Data Maturity Assessment"
+              "title": "Outline of From Zan"
             }
           },
           {
-            "id": "70e37668a5d01b34",
+            "id": "ed6a13518bffb6a2",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -207,7 +167,7 @@
             }
           },
           {
-            "id": "d91793964a9f2abe",
+            "id": "ebf3cfa1ed1b5f49",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -217,7 +177,7 @@
             }
           },
           {
-            "id": "f6bc809d5411d9c1",
+            "id": "dfcf267149698c8c",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -247,64 +207,8 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fc21ab190cb3cedc",
+  "active": "3904dd96f528f9c6",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Index/404.01.01a PostalAddress.md",
-    "Index/404.01.01a addressCountry.md",
-    "Index/404.01.01 ContactPoint.md",
-    "Index/404.01.01a postalCode.md",
-    "Index/404.01.01a addressLocality.md",
-    "Data.md",
-    "Glossary - 2023-2026 Data Strategy for the Federal Public Service.md",
-    "Dataset.md",
-    "2023-2026 Data Strategy for the Federal Public Service.md",
-    "Index/402 CreativeWork.md",
-    "Index/404.06 DefinedTerm.md",
-    "Index/404 Intangible.md",
-    "Index/404.01.01a addressRegion.md",
-    "Index/404.04.01 Duration.md",
-    "Index/403 Event.md",
-    "Index/404.03 Class.md",
-    "Index/404.04 Quantity.md",
-    "Index/405 MedicalEntity.md",
-    "Index/404.05 Rating.md",
-    "Index/000 Index.md",
-    "Index/411 DataTypes.md",
-    "Index/410 Taxon.md",
-    "Index/409 Product.md",
-    "Index/408 Place.md",
-    "Index/407 Person.md",
-    "Index/407.01 Patient.md"
-=======
-    "Reference Photos/Pasted image 20241104164247.png",
-    "Reference Photos",
-    "Kanban.md",
-    "UK Maturity Model Review.md",
-    "2024-W44.md",
-    "2024-W45.md",
-    "2024-11-04.md",
-    "Index/406.01 GovernmentOrganization.md",
-    "Government of Canada.md",
-    "2024-10-30.md",
-    "Templates/daily template.md",
-    "2024-10-29.md",
-    "408.02 CivicStructure.md",
-    "Templates/Template - weekly.md",
-    "Index/405 MedicalEntity.md",
-    "justification git.md",
-    "Index/400 Thing.md",
-    "Index/101 GC Data Maturity Assessment.md",
-    "2024-10-27.md",
-    "AccelerateGov.md",
-    "2024-08-26.md",
-    "AccelerateGov 2024.md",
-    "2024-W43.md",
-    "Level 5 Master.md",
-    "Level 4 Developing.md",
-    "Level 3 Learning.md",
-    "Level 1 Beginning.md",
-    "Index"
->>>>>>> Stashed changes
+    "Inbox - Zan/Github Test.md"
   ]
 }
