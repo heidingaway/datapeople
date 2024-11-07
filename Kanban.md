@@ -25,7 +25,6 @@ tags:
 - [ ] Follow up with Chris Schultz/Julian Kirby on GCCode
 - [ ] Follow up on Governance Process for Julian Kirby's Data Competency Mapping
 
-
 ## Doing
 
 - [ ] Proposal: GCDC Drop-in Jan 2025 and on @{2024-10-30}
@@ -52,6 +51,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[null,false,false]}
+{"kanban-plugin":"board"}
 ```
 %%

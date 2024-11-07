@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox - Zan/From Zan.md",
+                "file": "2024-11-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "From Zan"
+              "title": "2024-11-07"
             }
           }
         ]
@@ -84,11 +84,12 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 341.5
   },
   "right": {
     "id": "8e4e191fea20b5d8",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox - Zan/From Zan.md",
+                "file": "2024-W45.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for From Zan"
+              "title": "Backlinks for 2024-W45"
             }
           },
           {
@@ -123,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox - Zan/From Zan.md",
+                "file": "2024-W45.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from From Zan"
+              "title": "Outgoing links from 2024-W45"
             }
           },
           {
@@ -150,10 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox - Zan/From Zan.md"
+                "file": "2024-W45.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of From Zan"
+              "title": "Outline of 2024-W45"
             }
           },
           {
@@ -209,6 +210,33 @@
   },
   "active": "3904dd96f528f9c6",
   "lastOpenFiles": [
+    "201.01 TBR - to be read.md",
+    "2024-11-07.md",
+    "201 Reading.md",
+    "Index/200 Area.md",
+    "2024-11-06.md",
+    "2024-W45.md",
+    "Index/000 Index.md",
+    "Index/100 Project.md",
+    "Reference Photos/Craig Carter-Edwards (CSPS-EFPC) shared the folder _Engagement Strategy_ with you.msg",
+    "Reference Photos/Follow Up_ Data Analyst Insights.msg",
+    "Reference Photos/Invitation to review behavioural indicators for Data and Information Stewardship_ Invitation à examiner les indicateurs comporte.msg",
+    "Reference Photos/data + physical assets.msg",
+    "Reference Photos/My ChatGPT Test - Inspired by our discission about Data Scrapping to Create Glossaries .msg",
+    "Reference Photos/Data Projects intake.msg",
+    "Reference Photos/Federal Foresight Network _ Réseau fédéral de prospective.msg",
+    "Reference Photos/RE_ CRA_CSPS GC Data Community re_ data maturity.msg",
+    "Reference Photos/FYI_ For follow up_ Follow up to CDOC Sub-Committee on CDO Accountabilities - Sept 23 _ Suivi du sous-comité du CDOC sur les res.msg",
+    "Templates/daily template.md",
+    "Kanban.md",
+    "2024-10-25.md",
+    "2024-10-26.md",
+    "2024-W43.md",
+    "Reference Photos/Pasted image 20241106160409.png",
+    "Reference Photos/For Action (due August 6 2024)_ Feedback on the Stewardship Model _big buckets_ summaries.msg",
+    "UK Maturity Model Review.md",
+    "Dataset.md",
+    "Inbox - Zan/From Zan.md",
     "Inbox - Zan/Github Test.md"
   ]
 }
