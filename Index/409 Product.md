@@ -6,6 +6,10 @@ tags:
 - meta
 ---
 # 409 Product
+## Properties
+- [[400 Thing]]
+
+## Class
 - class [[DietarySupplement]]
 - class [[Drug]]
 - class [[IndividualProduct]]

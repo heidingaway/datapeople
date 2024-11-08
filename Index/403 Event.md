@@ -3,11 +3,12 @@ title: 403 Event
 created: 2024-10-26
 modified: 2024-10-26
 tags: 
-- meta
+- thing
 ---
-- # 403 Event
+# 403 Event
+## Properties
+- [[400 Thing]]
 ## Class
-- class [[403.01 BusinessEvent]]
 - class [[ChildrensEvent]]
 - class [[ComedyEvent]]
 - class [[CourseInstance]]

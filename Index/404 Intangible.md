@@ -6,6 +6,8 @@ tags:
 - meta
 ---
 # 404 Intangible
+## Properties
+- [[400 Thing]]
 
 ## Class
 - class [[ActionAccessSpecification]]

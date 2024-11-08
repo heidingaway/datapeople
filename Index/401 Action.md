@@ -3,9 +3,12 @@ title: 401 Action
 created: 2024-10-26
 modified: 2024-10-26
 tags:
-- meta
+- thing
 ---
 # 401 Action
+## Properties
+- [[400 Thing]]
+## Additional Type
 - class [[401 AchieveAction]]
 - class [[401 AssessAction]]
 - class [[401 ConsumeAction]]

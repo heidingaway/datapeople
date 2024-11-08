@@ -6,6 +6,8 @@ tags:
 - meta
 ---
 # 402 CreativeWork
+## Properties
+- [[400 Thing]]
 
 ## Class
 - class [[AmpStory]]

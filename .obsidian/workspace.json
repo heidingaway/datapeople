@@ -4,22 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "b78dfe4c7f9e3500",
+        "id": "3ff44ed1fe5dd94e",
         "type": "tabs",
         "children": [
           {
-            "id": "3904dd96f528f9c6",
+            "id": "eb439b4f649d081c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-07.md",
+                "file": "2024-W45.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-07"
+              "title": "2024-W45"
+            }
+          },
+          {
+            "id": "ff20f52f53bf7333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101 Level 1 Beginning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "101 Level 1 Beginning"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "cd52007eab1db584",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73aef513648bfe54",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -208,16 +242,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3904dd96f528f9c6",
+  "active": "ff20f52f53bf7333",
   "lastOpenFiles": [
-    "201.01 TBR - to be read.md",
-    "2024-11-07.md",
-    "201 Reading.md",
-    "Index/200 Area.md",
-    "2024-11-06.md",
-    "2024-W45.md",
+    "Index/406.01 GovernmentOrganization.md",
+    "407.02 public servant.md",
+    "data management.md",
+    "404.06 Data.md",
+    "data sharing.md",
+    "data protection.md",
+    "data usage.md",
+    "data analysis.md",
+    "406.01.1 Beginning GovOrg.md",
+    "Data.md",
+    "101 Level 1 Beginning.md",
+    "404.06 Asset.md",
+    "Index/401 Action.md",
+    "407.02 Employee.md",
+    "Index/407 Person.md",
+    "Index/407.01 Patient.md",
+    "Index/404.06 DefinedTerm.md",
+    "101 Engaging with Others.md",
+    "Index/400 Thing.md",
     "Index/000 Index.md",
-    "Index/100 Project.md",
+    "Index/411 DataTypes.md",
+    "Index/410 Taxon.md",
+    "Index/409 Product.md",
+    "Index/408 Place.md",
+    "Index/408.01 AdministrativeArea.md",
+    "Index/406 Organization.md",
+    "Reference Photos/Ask today.msg",
     "Reference Photos/Craig Carter-Edwards (CSPS-EFPC) shared the folder _Engagement Strategy_ with you.msg",
     "Reference Photos/Follow Up_ Data Analyst Insights.msg",
     "Reference Photos/Invitation to review behavioural indicators for Data and Information Stewardship_ Invitation à examiner les indicateurs comporte.msg",
@@ -227,16 +280,6 @@
     "Reference Photos/Federal Foresight Network _ Réseau fédéral de prospective.msg",
     "Reference Photos/RE_ CRA_CSPS GC Data Community re_ data maturity.msg",
     "Reference Photos/FYI_ For follow up_ Follow up to CDOC Sub-Committee on CDO Accountabilities - Sept 23 _ Suivi du sous-comité du CDOC sur les res.msg",
-    "Templates/daily template.md",
-    "Kanban.md",
-    "2024-10-25.md",
-    "2024-10-26.md",
-    "2024-W43.md",
-    "Reference Photos/Pasted image 20241106160409.png",
-    "Reference Photos/For Action (due August 6 2024)_ Feedback on the Stewardship Model _big buckets_ summaries.msg",
-    "UK Maturity Model Review.md",
-    "Dataset.md",
-    "Inbox - Zan/From Zan.md",
-    "Inbox - Zan/Github Test.md"
+    "Reference Photos/Pasted image 20241106160409.png"
   ]
 }

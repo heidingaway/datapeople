@@ -6,6 +6,10 @@ tags:
 - meta
 ---
 # 405 MedicalEntity
+## Properties
+- [[400 Thing]]
+
+## Class
 - class [[AnatomicalStructure]]
 - class [[AnatomicalSystem]]
 - class [[DrugClass]]

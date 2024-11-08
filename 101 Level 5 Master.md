@@ -1,14 +1,13 @@
 ---
-title: Level 5 Master
+title: 101 Level 5 Master
 created: 2024-10-27
-modified: 2024-10-27
+modified: 2024-11-08
 tags:
 - intangible
 ---
 # Level 5 Master
 ## Properties
-- type [[404.05 Rating]]
-- Project [[101 GC Data Maturity Assessment]]
+- type [[101 Maturity Level]]
 ## Description
 - Seen as an exemplar.
 - Consistently proactive.

@@ -1,14 +1,13 @@
 ---
-title: Level 3 Learning
+title: 101 Level 3 Learning
 created: 2024-10-27
-modified: 2024-10-27
+modified: 2024-11-08
 tags:
 - intangible
 ---
 # Level 3 Learning
 ## Properties
-- type [[404.05 Rating]]
-- assocProject [[101 GC Data Maturity Assessment]]
+- type [[101 Maturity Level]]
 ## description
 - Data and analytical literacy valued in leadership roles.
 - Legal and policy requirements are firmly embedded and widely understood.

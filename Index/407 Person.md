@@ -1,9 +1,10 @@
 ---
 title: 407 Person
 created: 2024-10-26
-modified: 2024-10-26
+modified: 2024-11-08
 tags:
-- meta
+- thing
 ---
 # 407 Person
-- class [[407.01 Patient]]
+## Properties
+- [[400 Thing]]

@@ -1,14 +1,13 @@
 ---
-title: Level 4 Developing
+title: 101 Level 4 Developing
 created: 2024-10-27
-modified: 2024-10-27
+modified: 2024-11-08
 tags:
 - intangible
 ---
 # Level 4 Developing
 ## Properties
-- type [[404.05 Rating]]
-- assocProject [[101 GC Data Maturity Assessment]]
+- type [[101 Maturity Level]]
 ## Description
 - Beginning to embed policies and practices across organisation.
 - Non-expert data users have little or no reliance on specialist support.

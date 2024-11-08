@@ -6,6 +6,9 @@ tags:
 - meta
 ---
 # 408 Place
+## Properties
+- [[400 Thing]]
+## Class
 - class [[Accommodation]]
 - class [[408.01 AdministrativeArea]]
 - class [[408.02 CivicStructure]]
