@@ -8,15 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dcd50dffae318b12",
+            "id": "8f4663a85155c2fc",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
+              "type": "markdown",
+              "state": {
+                "file": "2024-11-13.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Juggl"
+              "title": "2024-11-13"
             }
           }
         ]
@@ -205,8 +208,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dcd50dffae318b12",
+  "active": "8f4663a85155c2fc",
   "lastOpenFiles": [
+    "2024-11-13.md",
     "2024-W45.md",
     "406.01.1 Beginning GovOrg.md",
     "101 Level 1 Beginning.md",
@@ -232,7 +236,6 @@
     "Index/000 Index.md",
     "Index/411 DataTypes.md",
     "Index/410 Taxon.md",
-    "Index/409 Product.md",
     "Reference Photos/Ask today.msg",
     "Reference Photos/Craig Carter-Edwards (CSPS-EFPC) shared the folder _Engagement Strategy_ with you.msg",
     "Reference Photos/Follow Up_ Data Analyst Insights.msg",
