@@ -4,48 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ff44ed1fe5dd94e",
+        "id": "e3ecee4e04acefd9",
         "type": "tabs",
         "children": [
           {
-            "id": "eb439b4f649d081c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-W45.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-W45"
-            }
-          },
-          {
-            "id": "ff20f52f53bf7333",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101 Level 1 Beginning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "101 Level 1 Beginning"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "cd52007eab1db584",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "73aef513648bfe54",
+            "id": "dcd50dffae318b12",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -53,7 +16,7 @@
               "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Juggl"
             }
           }
         ]
@@ -242,19 +205,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ff20f52f53bf7333",
+  "active": "dcd50dffae318b12",
   "lastOpenFiles": [
+    "2024-W45.md",
+    "406.01.1 Beginning GovOrg.md",
+    "101 Level 1 Beginning.md",
+    "101 Maturity Level.md",
+    "data management.md",
+    "Data Management L1.md",
     "Index/406.01 GovernmentOrganization.md",
     "407.02 public servant.md",
-    "data management.md",
     "404.06 Data.md",
     "data sharing.md",
     "data protection.md",
     "data usage.md",
     "data analysis.md",
-    "406.01.1 Beginning GovOrg.md",
     "Data.md",
-    "101 Level 1 Beginning.md",
     "404.06 Asset.md",
     "Index/401 Action.md",
     "407.02 Employee.md",
@@ -267,9 +233,6 @@
     "Index/411 DataTypes.md",
     "Index/410 Taxon.md",
     "Index/409 Product.md",
-    "Index/408 Place.md",
-    "Index/408.01 AdministrativeArea.md",
-    "Index/406 Organization.md",
     "Reference Photos/Ask today.msg",
     "Reference Photos/Craig Carter-Edwards (CSPS-EFPC) shared the folder _Engagement Strategy_ with you.msg",
     "Reference Photos/Follow Up_ Data Analyst Insights.msg",
