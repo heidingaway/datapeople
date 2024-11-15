@@ -7,7 +7,9 @@ tags:
 ---
 # Level 1 Beginning
 ## Properties
-- type [[101 Maturity Level]]
-## Used On
-- [[data management]]
-- [[406.01 GovernmentOrganization]]
+- type [[101 Data Maturity Level]]
+## Characteristics
+- government organization **meets basic legal standards** data management
+- government organization **lacks** collaboration
+- government organization **lacks** data usage
+- government organization **lacks** data analysis

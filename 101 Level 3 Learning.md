@@ -3,11 +3,11 @@ title: 101 Level 3 Learning
 created: 2024-10-27
 modified: 2024-11-08
 tags:
-- intangible
+  - intangible
+type: "[[101 Data Maturity Level]]"
 ---
 # Level 3 Learning
-## Properties
-- type [[101 Maturity Level]]
+
 ## description
 - Data and analytical literacy valued in leadership roles.
 - Legal and policy requirements are firmly embedded and widely understood.
@@ -16,3 +16,10 @@ tags:
 - Non-expert staff require support from specialist users to work with data.
 - Broad drive and desire to improve data capability.
 - Intentional breaking down of silos.
+
+## Key Concepts
+- [[Leadership Competencies]]
+- [[Data capabilities]]
+- [[Business Integration]]
+- [[Talent management]]
+- [[Upskilling and reskilling]]

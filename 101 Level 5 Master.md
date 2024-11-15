@@ -7,7 +7,7 @@ tags:
 ---
 # Level 5 Master
 ## Properties
-- type [[101 Maturity Level]]
+- type [[101 Data Maturity Level]]
 ## Description
 - Seen as an exemplar.
 - Consistently proactive.
@@ -16,3 +16,11 @@ tags:
 - Clear understanding of needs and proportionate responses.
 - Futureproofing and prediction of future needs.
 - Broad and deep capability.
+
+## Key concepts
+- [[Business Integration]]
+- [[Open Government]]
+- [[Transparency]]
+- [[Futureproofing]]
+- [[Social Integration]]
+- [[Innovation]]
