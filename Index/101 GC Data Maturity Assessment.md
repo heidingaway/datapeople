@@ -7,7 +7,7 @@ tags:
 ---
 # 101 GC Data Maturity Assessment
 ## Components
-- class [[101 Maturity Level]]
+- class [[101 Data Maturity Level]]
 - class [[101 Theme]]
 - class [[101 Topic]]
 - class [[101 Row]]

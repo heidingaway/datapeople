@@ -9,3 +9,6 @@ tags:
 
 ## Properties
 - type [[401 Action]]
+
+## Class
+- [[Data Management L1]]
