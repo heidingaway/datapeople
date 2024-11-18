@@ -1,59 +1,20 @@
 {
   "main": {
-    "id": "7bae569f0ecc8307",
+    "id": "4eb9edcca1cec7e9",
     "type": "split",
     "children": [
       {
-        "id": "3ff44ed1fe5dd94e",
+        "id": "54669920f1559f09",
         "type": "tabs",
         "children": [
           {
-            "id": "eb439b4f649d081c",
+            "id": "dc9f0c3bce40ecaa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-W45.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-W45"
-            }
-          },
-          {
-            "id": "ff20f52f53bf7333",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101 Level 1 Beginning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "101 Level 1 Beginning"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "cd52007eab1db584",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "73aef513648bfe54",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
+              "type": "empty",
               "state": {},
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "New tab"
             }
           }
         ]
@@ -62,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c3d0b8fc1f67c093",
+    "id": "b755a82c130aa772",
     "type": "split",
     "children": [
       {
-        "id": "07bd2cb4cc9e6328",
+        "id": "2383c1b39731d7b7",
         "type": "tabs",
         "children": [
           {
-            "id": "5a565fc9d575399c",
+            "id": "e8351de45c116702",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -82,7 +43,7 @@
             }
           },
           {
-            "id": "09ebf8d977389e47",
+            "id": "47f00738f94c9f36",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -99,7 +60,7 @@
             }
           },
           {
-            "id": "b622827b48ba46a8",
+            "id": "2e7ca96ea63248fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -109,7 +70,7 @@
             }
           },
           {
-            "id": "086152a91f0938ad",
+            "id": "3261214403441120",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -118,28 +79,26 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 300
   },
   "right": {
-    "id": "8e4e191fea20b5d8",
+    "id": "687072620662b2cb",
     "type": "split",
     "children": [
       {
-        "id": "c4aaf5597ea91b72",
+        "id": "a726ecbc5880cfae",
         "type": "tabs",
         "children": [
           {
-            "id": "ccf03f3f643318c5",
+            "id": "b09716b0e1a2f89d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-W45.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,25 +108,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-W45"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "996e8f46b3d5ed71",
+            "id": "bb31b52e043a7c94",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-W45.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-W45"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "c1ceb7456fde153a",
+            "id": "b7d6f32744a10656",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -180,19 +138,19 @@
             }
           },
           {
-            "id": "07d6bebc898eb371",
+            "id": "f1a0ffb2161afbac",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-W45.md"
+                "file": "Library/test - surveilance.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-W45"
+              "title": "Outline of test - surveilance"
             }
           },
           {
-            "id": "ed6a13518bffb6a2",
+            "id": "98e7fd8cdbdd6e1c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -202,7 +160,7 @@
             }
           },
           {
-            "id": "ebf3cfa1ed1b5f49",
+            "id": "c010eb482e4228f5",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -212,7 +170,7 @@
             }
           },
           {
-            "id": "dfcf267149698c8c",
+            "id": "b30b01441613a624",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -242,44 +200,6 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ff20f52f53bf7333",
-  "lastOpenFiles": [
-    "Index/406.01 GovernmentOrganization.md",
-    "407.02 public servant.md",
-    "data management.md",
-    "404.06 Data.md",
-    "data sharing.md",
-    "data protection.md",
-    "data usage.md",
-    "data analysis.md",
-    "406.01.1 Beginning GovOrg.md",
-    "Data.md",
-    "101 Level 1 Beginning.md",
-    "404.06 Asset.md",
-    "Index/401 Action.md",
-    "407.02 Employee.md",
-    "Index/407 Person.md",
-    "Index/407.01 Patient.md",
-    "Index/404.06 DefinedTerm.md",
-    "101 Engaging with Others.md",
-    "Index/400 Thing.md",
-    "Index/000 Index.md",
-    "Index/411 DataTypes.md",
-    "Index/410 Taxon.md",
-    "Index/409 Product.md",
-    "Index/408 Place.md",
-    "Index/408.01 AdministrativeArea.md",
-    "Index/406 Organization.md",
-    "Reference Photos/Ask today.msg",
-    "Reference Photos/Craig Carter-Edwards (CSPS-EFPC) shared the folder _Engagement Strategy_ with you.msg",
-    "Reference Photos/Follow Up_ Data Analyst Insights.msg",
-    "Reference Photos/Invitation to review behavioural indicators for Data and Information Stewardship_ Invitation à examiner les indicateurs comporte.msg",
-    "Reference Photos/data + physical assets.msg",
-    "Reference Photos/My ChatGPT Test - Inspired by our discission about Data Scrapping to Create Glossaries .msg",
-    "Reference Photos/Data Projects intake.msg",
-    "Reference Photos/Federal Foresight Network _ Réseau fédéral de prospective.msg",
-    "Reference Photos/RE_ CRA_CSPS GC Data Community re_ data maturity.msg",
-    "Reference Photos/FYI_ For follow up_ Follow up to CDOC Sub-Committee on CDO Accountabilities - Sept 23 _ Suivi du sous-comité du CDOC sur les res.msg",
-    "Reference Photos/Pasted image 20241106160409.png"
-  ]
+  "active": "e8351de45c116702",
+  "lastOpenFiles": []
 }
