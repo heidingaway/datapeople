@@ -3,6 +3,7 @@ title: data assets
 created: 2024-11-15
 modified: 2024-11-15
 tags: 
+- definedTerm
 type: "[[404.06 Asset]]"
 ---
 # data assets

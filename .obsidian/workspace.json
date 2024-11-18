@@ -4,17 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "54669920f1559f09",
+        "id": "3418738234a1d6da",
         "type": "tabs",
         "children": [
           {
-            "id": "dc9f0c3bce40ecaa",
+            "id": "322b14a980f2b97a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Index/101 GC Data Maturity Assessment.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "101 GC Data Maturity Assessment"
+            }
+          }
+        ]
+      },
+      {
+        "id": "de7c02d86c2a6306",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c47c376356fc0ae",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
             }
           }
         ]
@@ -78,8 +101,19 @@
               "icon": "stacked-levels",
               "title": "Tag Folder"
             }
+          },
+          {
+            "id": "b98c699dcb7ec286",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -200,6 +234,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e8351de45c116702",
-  "lastOpenFiles": []
+  "active": "322b14a980f2b97a",
+  "lastOpenFiles": [
+    "Index/100 Project.md",
+    "Index/101 GC Data Maturity Assessment.md",
+    "101 Key Concepts.md",
+    "Tags/#project+dma/#project+dma.md",
+    "data analysis.md",
+    "data usage.md",
+    "data management.md",
+    "data sharing.md",
+    "data protection.md",
+    "Treasury Board Secretariat.md",
+    "Indigenous Service Canada (ISC).md",
+    "407.02 public servant.md",
+    "Federal Public Service.md",
+    "ProductGroup.md",
+    "PerformingGroup.md",
+    "Index/406 Organization.md",
+    "Index/407 Person.md",
+    "Entities data strategy.md",
+    "Data stewardship.md",
+    "data steward.md",
+    "data role.md",
+    "[.md",
+    "data owner.md",
+    "Data Ownership.md",
+    "101 Engaging with Others.md",
+    "101 Data Maturity Level.md",
+    "Tags/#project+dma",
+    "Tags/#archive",
+    "Tags/#project",
+    "Tags"
+  ]
 }

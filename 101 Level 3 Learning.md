@@ -4,7 +4,9 @@ created: 2024-10-27
 modified: 2024-11-08
 tags:
   - intangible
+  - project/dma
 type: "[[101 Data Maturity Level]]"
+rating: "[[]]"
 ---
 # Level 3 Learning
 

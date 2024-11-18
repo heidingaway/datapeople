@@ -1,15 +1,9 @@
 ---
 title: 101 Theme
 created: 2024-11-08
-modified: 2024-11-08
+modified: 2024-11-17
 tags:
-- project
+  - project/dma
+type: "[[Index/101 GC Data Maturity Assessment.md]]"
 ---
 # 101 Theme
-## Components
-- class [[101.01 Uses]]
-- class [[101.02 Data]]
-- class [[101.03 Leadership]]
-- class [[101.04 Culture]]
-- class [[101.05 Tool]]
-- class [[101.06 Skills]]

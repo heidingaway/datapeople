@@ -6,5 +6,4 @@ tags:
 - meta
 ---
 # 100 Project
-- topic [[101 GC Data Maturity Assessment]]
 - topic [[102]]

@@ -3,12 +3,13 @@ title: 101 Topic
 created: 2024-11-08
 modified: 2024-11-08
 tags:
-- project
+  - project/dma
+type: "[[Index/101 GC Data Maturity Assessment.md]]"
 ---
 # 101 Topic
 ## Properties
 
-## Types
+## Class
 - class [[101 Engaging with Others]]
 - class [[101 Having the right data skills and knowledge]]
 - class [[101 Having the right systems]]

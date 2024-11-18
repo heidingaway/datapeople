@@ -3,7 +3,10 @@ title: data analysis
 created: 2024-11-08
 modified: 2024-11-08
 tags:
-- action
+  - action
+  - project/dma
+rating: "[[]]"
+type: "[[101 Key Concepts.md]]"
 ---
 # data analysis
 

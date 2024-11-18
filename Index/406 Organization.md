@@ -3,7 +3,7 @@ title: 406 Organization
 created: 2024-10-26
 modified: 2024-10-26
 tags:
-- meta
+- thing
 ---
 # 406 Organization
 ## Properties

@@ -30,7 +30,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 0,
+  "currentWaypoint": 1,
   "enableFolderNote": true,
   "folderIndentationLines": false,
   "revealActiveFile": false,
@@ -45,7 +45,8 @@
   "showRibbon": false,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "spaces://#project/dma"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

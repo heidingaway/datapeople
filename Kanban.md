@@ -16,9 +16,9 @@ tags:
 
 - [ ] Review DAMA Days Deck @{2024-10-31}
 - [ ] PCWG TOR Review @{2024-11-12}
-- [ ] IM Backstage - finalize slide and stage direction @{2024-10-30}
+- [x] IM Backstage - finalize slide and stage direction @{2024-10-30} ✅ 2024-11-17
 - [ ] Change Management Network presentation
-- [ ] CF vs Copilot
+- [x] CF vs Copilot ✅ 2024-11-17
 - [ ] Project Tracking for Data Maturity
 - [ ] Explore GCCode for CPDI + Data Maturity
 - [ ] Follow up with Chris Schultz on GCCode
@@ -32,7 +32,7 @@ tags:
 
 ## Blocked
 
-- [ ] Follow up with Jennifer Scholfield
+- [x] Follow up with Jennifer Scholfield ✅ 2024-11-17
 - [ ] Follow up with Gabrielle Fitzgerald
 - [ ] FAIR framework CPDI quarterly presentation deck - review engagement methodology
 

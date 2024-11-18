@@ -7,3 +7,6 @@ tags:
 type: "[[404.06 DefinedTerm]]"
 ---
 # Data
+
+## Potential Actions
+- action [[data sharing]]
