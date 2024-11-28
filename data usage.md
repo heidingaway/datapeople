@@ -12,3 +12,8 @@ rating: "[[]]"
 
 ## Properties
 - type [[401 Action]]
+- [[Business Integration]]
+- [[data analysis]]
+- [[data and analytics platform]]
+- [[accesses data]]
+- [[data-informed decision-making]]

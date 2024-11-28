@@ -1,7 +1,7 @@
 ---
 title: 101 Level 3 Learning
 created: 2024-10-27
-modified: 2024-11-08
+modified: 2024-11-28
 tags:
   - intangible
   - project/dma
@@ -22,6 +22,5 @@ rating: "[[]]"
 ## Key Concepts
 - [[Leadership Competencies]]
 - [[Data capabilities]]
-- [[Business Integration]]
 - [[Talent management]]
 - [[Upskilling and reskilling]]

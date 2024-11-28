@@ -22,13 +22,13 @@ rating: "[[]]"
 - Implementation of practices across organisation may be inconsistent.
 
 ## Key concepts
-- [[Social Integration]]
+- [[Business Integration]]
 - [[Talent management]]
 - [[Talent retention]]
-- [[Business Integration]]
 - [[Data capabilities]]
+- [[Data initiatives are supported and understood]]
 - [[Open Government]]
-- [[Transparency]]
+- [[Transparency and Accountability]]
 - 
 - Organisation **provides support** Non-expert data users
 - Organisation **conducts** External Outreach and Engagement

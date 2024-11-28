@@ -5,10 +5,7 @@ modified: 2024-11-17
 tags:
   - project/dma
 type: "[[user]]"
+accesses: "[[Central data repository]]"
+availability: "[[as needed]]"
 ---
 # data user
-## Class 
-- class [[external data user]]
-- class [[internal data user]]
-- class [[data specialist]]
-- class [[data non-specialist]]

@@ -8,3 +8,4 @@ tags:
 # 407 Person
 ## Properties
 - [[400 Thing]]
+- [[407.02 Gender]]

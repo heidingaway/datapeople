@@ -1,18 +1,22 @@
 ---
 title: 101 Level 1 Beginning
 created: 2024-10-27
-modified: 2024-11-08
+modified: 2024-11-27
 tags:
   - intangible
   - project/dma
-type: "[[101 Data Maturity Level.md]]"
+type: "[[101 Data Maturity Level]]"
 rating: "[[]]"
 ---
 # Level 1 Beginning
 ## Properties
 - type [[101 Data Maturity Level]]
+
 ## Characteristics
-- government organization **meets basic legal standards** data management
-- government organization **lacks** collaboration
-- government organization **lacks** data usage
-- government organization **lacks** data analysis
+- Compliance with minimum legal requirements.
+- Insular approach and siloed working.
+- Organisation does not see data as valuable for its outcomes.
+- Lack of defined responsibility and oversight for data.
+- Very limited knowledge of what data the organisation holds.
+- Very limited data literacy.
+- Limitations and restrictions by default rather than by design.

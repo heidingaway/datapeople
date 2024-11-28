@@ -7,7 +7,7 @@ tags:
 responsibleFor:
   - "[[data protection]]"
   - "[[Data stewardship]]"
-stewards: "[[Data]]"
+stewards: "[[Data and Information]]"
 type: "[[data role]]"
 rating: "[[]]"
 ---

@@ -1,43 +1,40 @@
 {
   "main": {
-    "id": "4eb9edcca1cec7e9",
+    "id": "7bae569f0ecc8307",
     "type": "split",
     "children": [
       {
-        "id": "3418738234a1d6da",
+        "id": "430c02caca1f501e",
         "type": "tabs",
         "children": [
           {
-            "id": "322b14a980f2b97a",
+            "id": "c3651389c91caca0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index/101 GC Data Maturity Assessment.md",
+                "file": "101 T1 Uses.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "101 GC Data Maturity Assessment"
+              "title": "101 T1 Uses"
             }
-          }
-        ]
-      },
-      {
-        "id": "de7c02d86c2a6306",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "9c47c376356fc0ae",
+            "id": "b87de9a7e68d7e49",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
+              "type": "markdown",
+              "state": {
+                "file": "Business Integration.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Juggl"
+              "title": "Business Integration"
             }
           }
         ]
@@ -46,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b755a82c130aa772",
+    "id": "c3d0b8fc1f67c093",
     "type": "split",
     "children": [
       {
-        "id": "2383c1b39731d7b7",
+        "id": "07bd2cb4cc9e6328",
         "type": "tabs",
         "children": [
           {
-            "id": "e8351de45c116702",
+            "id": "5a565fc9d575399c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -66,7 +63,7 @@
             }
           },
           {
-            "id": "47f00738f94c9f36",
+            "id": "09ebf8d977389e47",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +80,7 @@
             }
           },
           {
-            "id": "2e7ca96ea63248fa",
+            "id": "b622827b48ba46a8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,7 +90,7 @@
             }
           },
           {
-            "id": "3261214403441120",
+            "id": "086152a91f0938ad",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -103,7 +100,7 @@
             }
           },
           {
-            "id": "b98c699dcb7ec286",
+            "id": "62038df40bf3d167",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -112,27 +109,27 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 375.5
   },
   "right": {
-    "id": "687072620662b2cb",
+    "id": "8e4e191fea20b5d8",
     "type": "split",
     "children": [
       {
-        "id": "a726ecbc5880cfae",
+        "id": "c4aaf5597ea91b72",
         "type": "tabs",
         "children": [
           {
-            "id": "b09716b0e1a2f89d",
+            "id": "ccf03f3f643318c5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "101 T1 Uses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,24 +139,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 101 T1 Uses"
             }
           },
           {
-            "id": "bb31b52e043a7c94",
+            "id": "996e8f46b3d5ed71",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-W45.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2024-W45"
             }
           },
           {
-            "id": "b7d6f32744a10656",
+            "id": "c1ceb7456fde153a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -172,19 +170,19 @@
             }
           },
           {
-            "id": "f1a0ffb2161afbac",
+            "id": "07d6bebc898eb371",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/test - surveilance.pdf"
+                "file": "2024-W45.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of test - surveilance"
+              "title": "Outline of 2024-W45"
             }
           },
           {
-            "id": "98e7fd8cdbdd6e1c",
+            "id": "ed6a13518bffb6a2",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -194,7 +192,7 @@
             }
           },
           {
-            "id": "c010eb482e4228f5",
+            "id": "ebf3cfa1ed1b5f49",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -204,7 +202,7 @@
             }
           },
           {
-            "id": "b30b01441613a624",
+            "id": "dfcf267149698c8c",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -222,49 +220,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-kanban:Create new board": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "templater-obsidian:Templater": true,
+      "obsidian-book-search-plugin:Create new book note": true,
+      "obsidian-kanban:Create new board": true,
+      "quick-tagger:Add tag to current note": false,
+      "quick-tagger:Remove tag from current note": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "322b14a980f2b97a",
+  "active": "c3651389c91caca0",
   "lastOpenFiles": [
-    "Index/100 Project.md",
-    "Index/101 GC Data Maturity Assessment.md",
-    "101 Key Concepts.md",
-    "Tags/#project+dma/#project+dma.md",
-    "data analysis.md",
-    "data usage.md",
-    "data management.md",
-    "data sharing.md",
-    "data protection.md",
-    "Treasury Board Secretariat.md",
-    "Indigenous Service Canada (ISC).md",
-    "407.02 public servant.md",
-    "Federal Public Service.md",
-    "ProductGroup.md",
-    "PerformingGroup.md",
-    "Index/406 Organization.md",
-    "Index/407 Person.md",
-    "Entities data strategy.md",
-    "Data stewardship.md",
-    "data steward.md",
-    "data role.md",
-    "[.md",
-    "data owner.md",
-    "Data Ownership.md",
+    "101 Taking responsibility for data.md",
+    "101 Theme.md",
+    "101 Setting your data direction.md",
+    "101 Protecting your data.md",
+    "101 Managing your data.md",
+    "101 Managing and Using Data Ethically.md",
+    "101 Making Decisions with Data.md",
+    "101 Knowing the data you have.md",
+    "101 Having the right systems.md",
+    "101 Having the right data skills and knowledge.md",
+    "Data Talent.md",
     "101 Engaging with Others.md",
-    "101 Data Maturity Level.md",
-    "Tags/#project+dma",
-    "Tags/#archive",
-    "Tags/#project",
-    "Tags"
+    "Networks and communities of practice.md",
+    "User Experience Design.md",
+    "101 Level 1 Beginning.md",
+    "Proactive curation of current data holdings to identify future needs.md",
+    "Data Awareness.md",
+    "Line of sight on most data holdings and how they may be used.md",
+    "limited knowledge of value of data holdings.md",
+    "very limited knowledge of data holdings.md",
+    "Awareness of critical data holdings.md",
+    "minimum compliance.md",
+    "L1 data and information sharing.md",
+    "101 Level 2 Emerging.md",
+    "101 Level 3 Learning.md",
+    "Domain collaboration.md",
+    "standards/gcdepts",
+    "standards/New folder",
+    "standards/person",
+    "standards/pt",
+    "Tags/#location",
+    "standards/country",
+    "standards",
+    "New folder",
+    "Appreciation of data",
+    "Tags/#dailynote",
+    "Reference Photos/Pasted image 20241106160409.png"
   ]
 }

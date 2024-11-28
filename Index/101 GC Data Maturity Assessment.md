@@ -1,12 +1,14 @@
 ---
 title: 101 GC Data Maturity Assessment
 created: 2024-10-26
-modified: 2024-11-17
+modified: 2024-11-28
 tags:
   - project/dma
+tag:
 type: "[[Index/100 Project.md]]"
 rating: "[[]]"
-subject: "[[Data]]"
+subject: "[[Data and Information]]"
+reference: "[[Data Maturity Assessment for Government (UK)]]"
 ---
 
 # 101 GC Data Maturity Assessment

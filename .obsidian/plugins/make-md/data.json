@@ -30,7 +30,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 1,
+  "currentWaypoint": 2,
   "enableFolderNote": true,
   "folderIndentationLines": false,
   "revealActiveFile": false,
@@ -42,10 +42,11 @@
   "folderNoteInsideFolder": true,
   "folderNoteName": "",
   "sidebarTabs": true,
-  "showRibbon": false,
+  "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
+    "spaces://#dailynote",
     "spaces://#project/dma"
   ],
   "expandFolderOnClick": true,
@@ -62,7 +63,7 @@
     "_blocks"
   ],
   "inlineBacklinks": false,
-  "inlineContext": true,
+  "inlineContext": false,
   "inlineBacklinksExpanded": false,
   "inlineContextExpanded": true,
   "inlineContextProperties": true,

@@ -1,9 +1,13 @@
 ---
 title: 101 Taking responsibility for data
 created: 2024-11-08
-modified: 2024-11-08
+modified: 2024-11-28
 tags:
   - project/dma
-type: "[[101 Topic.md]]"
 ---
 # 101 Taking responsibility for data
+- [[Information and Data Governance]]
+- [[Data responsibilities]]
+- [[Transparency and Accountability]]
+- [[data owner]]
+- [[Compliance Monitoring and Enforcement]]

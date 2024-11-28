@@ -30,5 +30,6 @@
     "Templates/"
   ],
   "promptDelete": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "showRibbon": true
 }
