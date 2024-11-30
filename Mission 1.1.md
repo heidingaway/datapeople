@@ -7,6 +7,6 @@ tags:
   - CreativeWorks
 keyConcepts:
   - "[[Data accountabilities]]"
-  - "[[Data Responsibilities]]"
+  - "[[Data responsibilities]]"
 ---
 # Mission 1.1

@@ -6,7 +6,7 @@ tags:
 - definedTerm
 type: "[[404.06 DefinedTerm]]"
 isPartOf: "[[CDO Work Description Template]]"
-distinctFrom: "[[Data Responsibilities]]"
+distinctFrom: "[[Data responsibilities]]"
 ---
 # Data Accountabilities
 - "being answerable for the results and outcomes"

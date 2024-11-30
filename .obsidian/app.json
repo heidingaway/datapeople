@@ -31,5 +31,6 @@
   ],
   "promptDelete": false,
   "showInlineTitle": false,
-  "showRibbon": true
+  "showRibbon": true,
+  "newFileLocation": "current"
 }

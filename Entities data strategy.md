@@ -4,7 +4,6 @@ tags:
 ---
 entities:
 - "[[GC Policy Suite - Digital]]"
-- "[[Data Responsibilities]]"
 - "[[Executive]]"
 - "[[406.01 Federal Public Service]]"
 - "[[GC Data Ecosystem]]"
@@ -53,7 +52,6 @@ entities:
 - "[[Data Ethics]]" 
 - "[[Data Security]]"
 - "[[Open Government]]"
-- "[[Open by Design]]"
 - "[[Modernization]]"
 - "[[Indigenous Data Sovereignty]]"
 - "[[Indigenous Data]]"

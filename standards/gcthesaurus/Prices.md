@@ -1,0 +1,12 @@
+# Prices  
+
+## Related Term
+
+- [[4338 Costs]
+- [[10939 Inflation]
+- [[16312 Price regulation]
+- [[16330 Pricing]
+- [[16304 Price indexes]
+- [[19565 Supply]
+- [[5074 Demand]]  
+

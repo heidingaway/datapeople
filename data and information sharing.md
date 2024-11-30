@@ -9,7 +9,7 @@ type: "[[101 Key Concepts]]"
 rating: "[[]]"
 governedBy:
   - "[[FAIR principles]]"
-area: "[[Data and Information]]"
+area: "[[404.06 Data and Information]]"
 ---
 # data and information sharing
 

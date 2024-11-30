@@ -1,0 +1,23 @@
+# Loans  
+
+## Broader Term
+
+- [[11308 Interlibrary loans]
+- [[20027 Term loans]
+- [[4069 Consumer loans]
+- [[2536 Business loans]
+- [[19461 Student loans]
+- [[5018 Defaulted loans]]  
+
+## Related Term
+
+- [[4968 Debt]
+- [[4428 Credit]
+- [[2358 Borrowers]
+- [[11290 Interest rates]]  
+
+## Use
+
+- [[2362 Borrowing]
+- [[12350 Lending]]  
+

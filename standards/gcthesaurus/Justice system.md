@@ -1,0 +1,29 @@
+# Justice system  
+
+## Narrower Term
+
+- [[19676 Systems]]  
+
+## Related Term
+
+- [[4396 Courts]
+- [[4387 Court decisions]
+- [[11705 Judicial appointments]
+- [[9810 Hearings]
+- [[12163 Law]
+- [[11700 Judges]
+- [[1458 Arrests]
+- [[4372 Court appearances]
+- [[15326 Parole]
+- [[16428 Pro bono legal services]
+- [[7335 Extradition]
+- [[4511 Criminal records]
+- [[3707 Community justice]]  
+
+## Use
+
+- [[11714 Justice]
+- [[11708 Judicial system]
+- [[12291 Legal system]
+- [[230 Administration of justice]]  
+

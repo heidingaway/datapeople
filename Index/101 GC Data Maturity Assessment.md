@@ -4,10 +4,10 @@ created: 2024-10-26
 modified: 2024-11-28
 tags:
   - project/dma
-tag:
+tag: 
 type: "[[Index/100 Project.md]]"
 rating: "[[]]"
-subject: "[[Data and Information]]"
+subject: "[[404.06 Data and Information]]"
 reference: "[[Data Maturity Assessment for Government (UK)]]"
 ---
 

@@ -13,28 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101 T1 Uses.md",
+                "file": "2024-11-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "101 T1 Uses"
+              "title": "2024-11-29"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "d90f4cac7e29bcba",
+        "type": "tabs",
+        "children": [
           {
-            "id": "b87de9a7e68d7e49",
+            "id": "348e962b5c6b5a91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business Integration.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "juggl_view",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Business Integration"
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -56,7 +57,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -113,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 373.5
   },
   "right": {
     "id": "8e4e191fea20b5d8",
@@ -234,44 +235,43 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c3651389c91caca0",
+  "active": "5a565fc9d575399c",
   "lastOpenFiles": [
-    "101 Taking responsibility for data.md",
-    "101 Theme.md",
-    "101 Setting your data direction.md",
-    "101 Protecting your data.md",
-    "101 Managing your data.md",
-    "101 Managing and Using Data Ethically.md",
-    "101 Making Decisions with Data.md",
-    "101 Knowing the data you have.md",
-    "101 Having the right systems.md",
-    "101 Having the right data skills and knowledge.md",
-    "Data Talent.md",
-    "101 Engaging with Others.md",
-    "Networks and communities of practice.md",
-    "User Experience Design.md",
-    "101 Level 1 Beginning.md",
-    "Proactive curation of current data holdings to identify future needs.md",
-    "Data Awareness.md",
-    "Line of sight on most data holdings and how they may be used.md",
-    "limited knowledge of value of data holdings.md",
-    "very limited knowledge of data holdings.md",
-    "Awareness of critical data holdings.md",
-    "minimum compliance.md",
-    "L1 data and information sharing.md",
-    "101 Level 2 Emerging.md",
-    "101 Level 3 Learning.md",
-    "Domain collaboration.md",
-    "standards/gcdepts",
+    "standards/gcthesaurus",
     "standards/New folder",
+    "standards/gcthesaurus/2SLGBTQI people.md",
+    "standards/gcthesaurus/Minorities.md",
+    "standards/gcthesaurus/Language minorities.md",
+    "standards/gcthesaurus/Ethnic minorities.md",
+    "standards/gcthesaurus/Visible minorities.md",
+    "standards/gcthesaurus/Ethnic groups.md",
+    "standards/gcthesaurus/2SLGBTQI+ people.md",
+    "standards/gcthesaurus/LGBTQ2+ people.md",
+    "standards/gcthesaurus/2SLGBTQ+ people.md",
+    "standards/gcthesaurus/Training.md",
+    "standards/gcthesaurus/2SLGBTQ people.md",
+    "2024-11-29.md",
+    "standards/gcthesaurus/Acts.md",
+    "standards/gcthesaurus/Plan gouvernemental.md",
+    "standards/gcthesaurus/Teletravail.md",
+    "standards/gcthesaurus/Programme international.md",
+    "standards/gcthesaurus/Battle sites.md",
+    "standards/gcthesaurus/Change.md",
+    "standards/gcthesaurus/Accident environnemental.md",
+    "standards/gcthesaurus/Teachers.md",
+    "standards/gcthesaurus/Volaille.md",
+    "standards/gcthesaurus/Beer.md",
+    "standards/gcthesaurus/Rapport annuel.md",
+    "standards/gcthesaurus/Allocation.md",
+    "standards/gcthesaurus/Metamorphic rocks.md",
+    "Tags/#project",
+    "standards/gcdepts",
     "standards/person",
     "standards/pt",
     "Tags/#location",
     "standards/country",
     "standards",
     "New folder",
-    "Appreciation of data",
-    "Tags/#dailynote",
     "Reference Photos/Pasted image 20241106160409.png"
   ]
 }
