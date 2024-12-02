@@ -1,6 +1,11 @@
-# Therapeutic abortion  
+---
+title: Therapeutic abortion
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Therapeutic abortion
 
-## Used For
-
-- [[67 Abortion]]  
-
+usedFor:
+- "[[67 Abortion]]"
+---
+# Therapeutic abortion

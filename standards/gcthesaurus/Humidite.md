@@ -1,6 +1,11 @@
-# Humidite  
+---
+title: Humidite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Humidité
 
-## French
-
-- [[10285 Humidity]]  
-
+french:
+- "[[10285 Humidity]]"
+---
+# Humidite

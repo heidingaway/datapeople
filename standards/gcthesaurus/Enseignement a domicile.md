@@ -1,6 +1,11 @@
-# Enseignement a domicile  
+---
+title: Enseignement a domicile
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Enseignement à domicile
 
-## French
-
-- [[10022 Home education]]  
-
+french:
+- "[[10022 Home education]]"
+---
+# Enseignement a domicile

@@ -1,6 +1,11 @@
-# Jeune contrevenant  
+---
+title: Jeune contrevenant
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Jeune contrevenant
 
-## French
-
-- [[22108 Young offenders]]  
-
+french:
+- "[[22108 Young offenders]]"
+---
+# Jeune contrevenant

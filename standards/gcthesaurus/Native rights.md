@@ -1,6 +1,11 @@
-# Native rights  
+---
+title: Native rights
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Native rights
 
-## Used For
-
-- [[10709 Indigenous rights]]  
-
+usedFor:
+- "[[10709 Indigenous rights]]"
+---
+# Native rights

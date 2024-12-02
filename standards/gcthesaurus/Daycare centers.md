@@ -1,6 +1,11 @@
-# Daycare centers  
+---
+title: Daycare centers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Daycare centers
 
-## Used For
-
-- [[4915 Daycare]]  
-
+usedFor:
+- "[[4915 Daycare]]"
+---
+# Daycare centers

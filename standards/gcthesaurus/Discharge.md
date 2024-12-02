@@ -1,7 +1,12 @@
-# Discharge  
+---
+title: Discharge
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Discharge
 
-## Related Term
-
-- [[20033 Termination of employment]
-- [[20774 Unemployment]]  
-
+relatedTerm:
+- "[[20033 Termination of employment]]"
+- "[[20774 Unemployment]]"
+---
+# Discharge

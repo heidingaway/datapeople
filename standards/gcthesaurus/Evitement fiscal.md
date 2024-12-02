@@ -1,6 +1,11 @@
-# Evitement fiscal  
+---
+title: Evitement fiscal
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Évitement fiscal
 
-## French
-
-- [[19712 Tax avoidance]]  
-
+french:
+- "[[19712 Tax avoidance]]"
+---
+# Evitement fiscal

@@ -1,6 +1,11 @@
-# Code du travail  
+---
+title: Code du travail
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Code du travail
 
-## French
-
-- [[11849 Labour code]]  
-
+french:
+- "[[11849 Labour code]]"
+---
+# Code du travail

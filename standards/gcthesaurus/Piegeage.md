@@ -1,6 +1,11 @@
-# Piegeage  
+---
+title: Piegeage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Piégeage
 
-## French
-
-- [[20657 Trapping]]  
-
+french:
+- "[[20657 Trapping]]"
+---
+# Piegeage

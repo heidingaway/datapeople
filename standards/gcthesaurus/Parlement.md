@@ -1,6 +1,11 @@
-# Parlement  
+---
+title: Parlement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Parlement
 
-## French
-
-- [[15285 Parliament]]  
-
+french:
+- "[[15285 Parliament]]"
+---
+# Parlement

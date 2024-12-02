@@ -1,10 +1,13 @@
-# Educational funding  
+---
+title: Educational funding
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Educational funding
 
-## Narrower Term
-
-- [[8632 Funding]]  
-
-## Related Term
-
-- [[6050 Education]]  
-
+narrowerTerm:
+- "[[8632 Funding]]"
+relatedTerm:
+- "[[6050 Education]]"
+---
+# Educational funding

@@ -1,6 +1,11 @@
-# Toxins  
+---
+title: Toxins
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Toxins
 
-## Used For
-
-- [[20328 Toxic substances]]  
-
+usedFor:
+- "[[20328 Toxic substances]]"
+---
+# Toxins

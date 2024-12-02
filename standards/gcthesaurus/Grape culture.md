@@ -1,6 +1,11 @@
-# Grape culture  
+---
+title: Grape culture
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Grape culture
 
-## Used For
-
-- [[21134 Viticulture]]  
-
+usedFor:
+- "[[21134 Viticulture]]"
+---
+# Grape culture

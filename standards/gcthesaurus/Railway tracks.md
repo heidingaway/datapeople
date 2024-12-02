@@ -1,6 +1,11 @@
-# Railway tracks  
+---
+title: Railway tracks
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Railway tracks
 
-## Used For
-
-- [[17181 Railway networks]]  
-
+usedFor:
+- "[[17181 Railway networks]]"
+---
+# Railway tracks

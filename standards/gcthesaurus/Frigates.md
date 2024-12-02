@@ -1,10 +1,13 @@
-# Frigates  
+---
+title: Frigates
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Frigates
 
-## Narrower Term
-
-- [[18694 Ships]]  
-
-## Related Term
-
-- [[13679 Military technology]]  
-
+narrowerTerm:
+- "[[18694 Ships]]"
+relatedTerm:
+- "[[13679 Military technology]]"
+---
+# Frigates

@@ -1,6 +1,11 @@
-# Consumer credit  
+---
+title: Consumer credit
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Consumer credit
 
-## Used For
-
-- [[4423 Credit]]  
-
+usedFor:
+- "[[4423 Credit]]"
+---
+# Consumer credit

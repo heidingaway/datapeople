@@ -1,6 +1,11 @@
-# Rubber industry  
+---
+title: Rubber industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rubber industry
 
-## Narrower Term
-
-- [[12852 Manufacturing industry]]  
-
+narrowerTerm:
+- "[[12852 Manufacturing industry]]"
+---
+# Rubber industry

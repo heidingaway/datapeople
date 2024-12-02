@@ -1,6 +1,11 @@
-# Droit  
+---
+title: Droit
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Droit
 
-## French
-
-- [[12146 Law]]  
-
+french:
+- "[[12146 Law]]"
+---
+# Droit

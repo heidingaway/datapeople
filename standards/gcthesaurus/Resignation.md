@@ -1,6 +1,11 @@
-# Resignation  
+---
+title: Resignation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Resignation
 
-## Related Term
-
-- [[20034 Termination of employment]]  
-
+relatedTerm:
+- "[[20034 Termination of employment]]"
+---
+# Resignation

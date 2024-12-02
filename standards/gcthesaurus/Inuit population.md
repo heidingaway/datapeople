@@ -1,6 +1,11 @@
-# Inuit population  
+---
+title: Inuit population
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Inuit population
 
-## Used For
-
-- [[11537 Inuit]]  
-
+usedFor:
+- "[[11537 Inuit]]"
+---
+# Inuit population

@@ -1,6 +1,11 @@
-# Public libraries  
+---
+title: Public libraries
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Public libraries
 
-## Narrower Term
-
-- [[12386 Libraries]]  
-
+narrowerTerm:
+- "[[12386 Libraries]]"
+---
+# Public libraries

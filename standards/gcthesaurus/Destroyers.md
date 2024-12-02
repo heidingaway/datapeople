@@ -1,10 +1,13 @@
-# Destroyers  
+---
+title: Destroyers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Destroyers
 
-## Narrower Term
-
-- [[18692 Ships]]  
-
-## Related Term
-
-- [[13678 Military technology]]  
-
+narrowerTerm:
+- "[[18692 Ships]]"
+relatedTerm:
+- "[[13678 Military technology]]"
+---
+# Destroyers

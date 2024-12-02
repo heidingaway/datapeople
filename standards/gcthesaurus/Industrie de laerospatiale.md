@@ -1,6 +1,11 @@
-# Industrie de laerospatiale  
+---
+title: Industrie de laerospatiale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrie de l'aérospatiale
 
-## French
-
-- [[349 Aerospace industry]]  
-
+french:
+- "[[349 Aerospace industry]]"
+---
+# Industrie de laerospatiale

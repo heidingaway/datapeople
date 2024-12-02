@@ -1,6 +1,11 @@
-# Ethical values  
+---
+title: Ethical values
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ethical values
 
-## Used For
-
-- [[7149 Ethics]]  
-
+usedFor:
+- "[[7149 Ethics]]"
+---
+# Ethical values

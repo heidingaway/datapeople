@@ -1,6 +1,11 @@
-# Shrimps  
+---
+title: Shrimps
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Shrimps
 
-## Used For
-
-- [[4598 Crustaceans]]  
-
+usedFor:
+- "[[4598 Crustaceans]]"
+---
+# Shrimps

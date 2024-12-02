@@ -1,6 +1,11 @@
-# Literary works  
+---
+title: Literary works
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Literary works
 
-## Used For
-
-- [[12511 Literature]]  
-
+usedFor:
+- "[[12511 Literature]]"
+---
+# Literary works

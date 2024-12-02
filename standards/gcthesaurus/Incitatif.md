@@ -1,6 +1,11 @@
-# Incitatif  
+---
+title: Incitatif
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Incitatif
 
-## French
-
-- [[10551 Incentives]]  
-
+french:
+- "[[10551 Incentives]]"
+---
+# Incitatif

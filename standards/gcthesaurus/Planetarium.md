@@ -1,6 +1,11 @@
-# Planetarium  
+---
+title: Planetarium
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Planétarium
 
-## French
-
-- [[15834 Planetariums]]  
-
+french:
+- "[[15834 Planetariums]]"
+---
+# Planetarium

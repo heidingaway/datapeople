@@ -1,6 +1,11 @@
-# Innovation technologique  
+---
+title: Innovation technologique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Innovation technologique
 
-## French
-
-- [[19842 Technological innovation]]  
-
+french:
+- "[[19842 Technological innovation]]"
+---
+# Innovation technologique

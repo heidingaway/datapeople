@@ -1,6 +1,11 @@
-# Risk protection  
+---
+title: Risk protection
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Risk protection
 
-## Used For
-
-- [[17846 Risk management]]  
-
+usedFor:
+- "[[17846 Risk management]]"
+---
+# Risk protection

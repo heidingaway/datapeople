@@ -1,17 +1,18 @@
-# Cultural events  
+---
+title: Cultural events
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cultural events
 
-## Broader Term
-
-- [[11387 International exhibitions]
-- [[1461 Art exhibitions]
-- [[7661 Festivals]]  
-
-## Related Term
-
-- [[4700 Cultural programming]
-- [[4718 Culture]]  
-
-## Use
-
-- [[4616 Cultural activities]]  
-
+broaderTerm:
+- "[[11387 International exhibitions]]"
+- "[[1461 Art exhibitions]]"
+- "[[7661 Festivals]]"
+relatedTerm:
+- "[[4700 Cultural programming]]"
+- "[[4718 Culture]]"
+use:
+- "[[4616 Cultural activities]]"
+---
+# Cultural events

@@ -1,10 +1,13 @@
-# Franchises  
+---
+title: Franchises
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Franchises
 
-## Narrower Term
-
-- [[2593 Businesses]]  
-
-## Related Term
-
-- [[2577 Business types]]  
-
+narrowerTerm:
+- "[[2593 Businesses]]"
+relatedTerm:
+- "[[2577 Business types]]"
+---
+# Franchises

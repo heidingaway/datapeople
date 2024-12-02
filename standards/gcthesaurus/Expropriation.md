@@ -1,10 +1,13 @@
-# Expropriation  
+---
+title: Expropriation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Expropriation
 
-## French
-
-- [[7312 Expropriation]]  
-
-## Related Term
-
-- [[17237 Real estate]]  
-
+french:
+- "[[7312 Expropriation]]"
+relatedTerm:
+- "[[17237 Real estate]]"
+---
+# Expropriation

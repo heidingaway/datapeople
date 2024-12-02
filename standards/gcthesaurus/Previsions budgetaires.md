@@ -1,6 +1,11 @@
-# Previsions budgetaires  
+---
+title: Previsions budgetaires
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prévisions budgétaires
 
-## French
-
-- [[7128 Estimates]]  
-
+french:
+- "[[7128 Estimates]]"
+---
+# Previsions budgetaires

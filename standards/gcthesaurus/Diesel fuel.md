@@ -1,10 +1,13 @@
-# Diesel fuel  
+---
+title: Diesel fuel
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Diesel fuel
 
-## Narrower Term
-
-- [[8578 Fuels]]  
-
-## Use
-
-- [[5225 Diesel]]  
-
+narrowerTerm:
+- "[[8578 Fuels]]"
+use:
+- "[[5225 Diesel]]"
+---
+# Diesel fuel

@@ -1,6 +1,11 @@
-# Reglement administratif  
+---
+title: Reglement administratif
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Règlement administratif
 
-## French
-
-- [[2627 By-laws]]  
-
+french:
+- "[[2627 By-laws]]"
+---
+# Reglement administratif

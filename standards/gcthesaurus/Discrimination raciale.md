@@ -1,6 +1,11 @@
-# Discrimination raciale  
+---
+title: Discrimination raciale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Discrimination raciale
 
-## French
-
-- [[17042 Racial discrimination]]  
-
+french:
+- "[[17042 Racial discrimination]]"
+---
+# Discrimination raciale

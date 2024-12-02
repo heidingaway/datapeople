@@ -1,6 +1,11 @@
-# Home trade  
+---
+title: Home trade
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Home trade
 
-## Used For
-
-- [[5518 Domestic trade]]  
-
+usedFor:
+- "[[5518 Domestic trade]]"
+---
+# Home trade

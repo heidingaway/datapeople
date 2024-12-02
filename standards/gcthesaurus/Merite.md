@@ -1,6 +1,11 @@
-# Merite  
+---
+title: Merite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mérite
 
-## French
-
-- [[13434 Merit]]  
-
+french:
+- "[[13434 Merit]]"
+---
+# Merite

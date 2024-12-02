@@ -1,6 +1,11 @@
-# Monument  
+---
+title: Monument
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Monument
 
-## French
-
-- [[13900 Monuments]]  
-
+french:
+- "[[13900 Monuments]]"
+---
+# Monument

@@ -1,6 +1,11 @@
-# Crise  
+---
+title: Crise
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Crise
 
-## French
-
-- [[4516 Crisis]]  
-
+french:
+- "[[4516 Crisis]]"
+---
+# Crise

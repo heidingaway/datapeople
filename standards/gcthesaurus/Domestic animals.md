@@ -1,15 +1,16 @@
-# Domestic animals  
+---
+title: Domestic animals
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Domestic animals
 
-## Narrower Term
-
-- [[1111 Animals]]  
-
-## Related Term
-
-- [[16159 Poultry]
-- [[12544 Livestock]]  
-
-## Use
-
-- [[15673 Pets]]  
-
+narrowerTerm:
+- "[[1111 Animals]]"
+relatedTerm:
+- "[[16159 Poultry]]"
+- "[[12544 Livestock]]"
+use:
+- "[[15673 Pets]]"
+---
+# Domestic animals

@@ -1,6 +1,11 @@
-# Tar sands  
+---
+title: Tar sands
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tar sands
 
-## Used For
-
-- [[14989 Oil sands]]  
-
+usedFor:
+- "[[14989 Oil sands]]"
+---
+# Tar sands

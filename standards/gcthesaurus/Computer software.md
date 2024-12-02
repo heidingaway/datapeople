@@ -1,6 +1,11 @@
-# Computer software  
+---
+title: Computer software
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Computer software
 
-## Used For
-
-- [[19067 Software]]  
-
+usedFor:
+- "[[19067 Software]]"
+---
+# Computer software

@@ -1,6 +1,11 @@
-# Social studies  
+---
+title: Social studies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Social studies
 
-## Used For
-
-- [[18975 Social sciences]]  
-
+usedFor:
+- "[[18975 Social sciences]]"
+---
+# Social studies

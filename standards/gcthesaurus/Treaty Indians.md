@@ -1,6 +1,11 @@
-# Treaty Indians  
+---
+title: Treaty Indians
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Treaty Indians
 
-## Used For
-
-- [[7817 First Nations]]  
-
+usedFor:
+- "[[7817 First Nations]]"
+---
+# Treaty Indians

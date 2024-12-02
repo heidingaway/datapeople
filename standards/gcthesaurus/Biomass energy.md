@@ -1,6 +1,11 @@
-# Biomass energy  
+---
+title: Biomass energy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biomass energy
 
-## Used For
-
-- [[2125 Bioenergy]]  
-
+usedFor:
+- "[[2125 Bioenergy]]"
+---
+# Biomass energy

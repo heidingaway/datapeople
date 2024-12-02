@@ -1,6 +1,11 @@
-# Forest sector  
+---
+title: Forest sector
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Forest sector
 
-## Used For
-
-- [[8366 Forestry industry]]  
-
+usedFor:
+- "[[8366 Forestry industry]]"
+---
+# Forest sector

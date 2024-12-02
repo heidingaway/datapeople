@@ -1,6 +1,11 @@
-# Farmers  
+---
+title: Farmers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Farmers
 
-## Used For
-
-- [[549 Agricultural workers]]  
-
+usedFor:
+- "[[549 Agricultural workers]]"
+---
+# Farmers

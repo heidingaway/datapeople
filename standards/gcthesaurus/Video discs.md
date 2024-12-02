@@ -1,6 +1,11 @@
-# Video discs  
+---
+title: Video discs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Video discs
 
-## Used For
-
-- [[21002 Videorecordings]]  
-
+usedFor:
+- "[[21002 Videorecordings]]"
+---
+# Video discs

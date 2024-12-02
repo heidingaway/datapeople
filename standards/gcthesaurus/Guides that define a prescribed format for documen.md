@@ -1,6 +1,11 @@
-# Guides that define a prescribed format for documen  
+---
+title: Guides that define a prescribed format for documen
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Guides that define a prescribed format for documents including footnotes, endnotes and bibliographies.
 
-## Scope Note
-
-- [[19485 Style manuals]]  
-
+scopeNote:
+- "[[19485 Style manuals]]"
+---
+# Guides that define a prescribed format for documen

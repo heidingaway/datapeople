@@ -1,6 +1,11 @@
-# Geosciences  
+---
+title: Geosciences
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geosciences
 
-## Used For
-
-- [[5764 Earth sciences]]  
-
+usedFor:
+- "[[5764 Earth sciences]]"
+---
+# Geosciences

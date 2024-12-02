@@ -1,6 +1,11 @@
-# Public transport  
+---
+title: Public transport
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Public transport
 
-## Used For
-
-- [[16915 Public transit]]  
-
+usedFor:
+- "[[16915 Public transit]]"
+---
+# Public transport

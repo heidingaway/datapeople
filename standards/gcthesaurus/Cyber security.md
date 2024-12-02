@@ -1,6 +1,11 @@
-# Cyber security  
+---
+title: Cyber security
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cyber security
 
-## Used For
-
-- [[3848 Computer security]]  
-
+usedFor:
+- "[[3848 Computer security]]"
+---
+# Cyber security

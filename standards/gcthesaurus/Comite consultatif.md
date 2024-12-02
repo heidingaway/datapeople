@@ -1,6 +1,11 @@
-# Comite consultatif  
+---
+title: Comite consultatif
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Comité consultatif
 
-## French
-
-- [[317 Advisory committees]]  
-
+french:
+- "[[317 Advisory committees]]"
+---
+# Comite consultatif

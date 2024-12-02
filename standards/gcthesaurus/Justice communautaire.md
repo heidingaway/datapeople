@@ -1,6 +1,11 @@
-# Justice communautaire  
+---
+title: Justice communautaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Justice communautaire
 
-## French
-
-- [[3706 Community justice]]  
-
+french:
+- "[[3706 Community justice]]"
+---
+# Justice communautaire

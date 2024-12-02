@@ -1,6 +1,11 @@
-# Drink industry  
+---
+title: Drink industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Drink industry
 
-## Used For
-
-- [[1985 Beverage industry]]  
-
+usedFor:
+- "[[1985 Beverage industry]]"
+---
+# Drink industry

@@ -1,10 +1,13 @@
-# Voice mail  
+---
+title: Voice mail
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Voice mail
 
-## Related Term
-
-- [[19983 Telephones]]  
-
-## Use
-
-- [[21189 Voice messaging]]  
-
+relatedTerm:
+- "[[19983 Telephones]]"
+use:
+- "[[21189 Voice messaging]]"
+---
+# Voice mail

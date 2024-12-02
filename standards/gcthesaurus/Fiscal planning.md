@@ -1,6 +1,11 @@
-# Fiscal planning  
+---
+title: Fiscal planning
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fiscal planning
 
-## Used For
-
-- [[7744 Financial management]]  
-
+usedFor:
+- "[[7744 Financial management]]"
+---
+# Fiscal planning

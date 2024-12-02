@@ -1,6 +1,11 @@
-# Cookery  
+---
+title: Cookery
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cookery
 
-## Used For
-
-- [[4175 Cooking]]  
-
+usedFor:
+- "[[4175 Cooking]]"
+---
+# Cookery

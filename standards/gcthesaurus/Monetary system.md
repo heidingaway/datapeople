@@ -1,6 +1,11 @@
-# Monetary system  
+---
+title: Monetary system
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Monetary system
 
-## Used For
-
-- [[4732 Currency]]  
-
+usedFor:
+- "[[4732 Currency]]"
+---
+# Monetary system

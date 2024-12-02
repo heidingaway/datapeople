@@ -1,6 +1,11 @@
-# Langue etrangere  
+---
+title: Langue etrangere
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Langue étrangère
 
-## French
-
-- [[8241 Foreign languages]]  
-
+french:
+- "[[8241 Foreign languages]]"
+---
+# Langue etrangere

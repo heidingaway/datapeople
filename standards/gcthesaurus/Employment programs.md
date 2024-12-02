@@ -1,8 +1,13 @@
-# Employment programs  
+---
+title: Employment programs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Employment programs
 
-## Related Term
-
-- [[6572 Employment opportunities]
-- [[6497 Employment]
-- [[6526 Employment centres]]  
-
+relatedTerm:
+- "[[6572 Employment opportunities]]"
+- "[[6497 Employment]]"
+- "[[6526 Employment centres]]"
+---
+# Employment programs

@@ -1,6 +1,11 @@
-# Record industry  
+---
+title: Record industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Record industry
 
-## Used For
-
-- [[14106 Music industry]]  
-
+usedFor:
+- "[[14106 Music industry]]"
+---
+# Record industry

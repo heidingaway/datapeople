@@ -1,8 +1,13 @@
-# Entrepreneurship  
+---
+title: Entrepreneurship
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Entrepreneurship
 
-## Related Term
-
-- [[18500 Self employment]
-- [[6764 Entrepreneurs]
-- [[2608 Businesses]]  
-
+relatedTerm:
+- "[[18500 Self employment]]"
+- "[[6764 Entrepreneurs]]"
+- "[[2608 Businesses]]"
+---
+# Entrepreneurship

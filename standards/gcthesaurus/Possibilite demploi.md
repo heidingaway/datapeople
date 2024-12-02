@@ -1,6 +1,11 @@
-# Possibilite demploi  
+---
+title: Possibilite demploi
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Possibilité d'emploi
 
-## French
-
-- [[6562 Employment opportunities]]  
-
+french:
+- "[[6562 Employment opportunities]]"
+---
+# Possibilite demploi

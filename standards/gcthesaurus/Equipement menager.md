@@ -1,6 +1,11 @@
-# Equipement menager  
+---
+title: Equipement menager
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Équipement ménager
 
-## French
-
-- [[10106 Household equipment]]  
-
+french:
+- "[[10106 Household equipment]]"
+---
+# Equipement menager

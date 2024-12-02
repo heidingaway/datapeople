@@ -1,19 +1,20 @@
-# Employment insurance  
+---
+title: Employment insurance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Employment insurance
 
-## Narrower Term
-
-- [[11194 Insurance]]  
-
-## Related Term
-
-- [[15385 Paternity benefits]
-- [[20776 Unemployment]
-- [[13160 Maternity benefits]
-- [[18994 Social security]
-- [[1969 Benefits]]  
-
-## Use
-
-- [[20781 Unemployment benefits]
-- [[20784 Unemployment insurance]]  
-
+narrowerTerm:
+- "[[11194 Insurance]]"
+relatedTerm:
+- "[[15385 Paternity benefits]]"
+- "[[20776 Unemployment]]"
+- "[[13160 Maternity benefits]]"
+- "[[18994 Social security]]"
+- "[[1969 Benefits]]"
+use:
+- "[[20781 Unemployment benefits]]"
+- "[[20784 Unemployment insurance]]"
+---
+# Employment insurance

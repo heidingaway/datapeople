@@ -1,6 +1,11 @@
-# Garbage disposal  
+---
+title: Garbage disposal
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Garbage disposal
 
-## Used For
-
-- [[21318 Waste management]]  
-
+usedFor:
+- "[[21318 Waste management]]"
+---
+# Garbage disposal

@@ -1,6 +1,11 @@
-# Election partielle  
+---
+title: Election partielle
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Élection partielle
 
-## French
-
-- [[2624 By-elections]]  
-
+french:
+- "[[2624 By-elections]]"
+---
+# Election partielle

@@ -1,6 +1,11 @@
-# Ergonomie  
+---
+title: Ergonomie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ergonomie
 
-## French
-
-- [[7100 Ergonomics]]  
-
+french:
+- "[[7100 Ergonomics]]"
+---
+# Ergonomie

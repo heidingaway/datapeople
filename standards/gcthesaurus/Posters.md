@@ -1,7 +1,12 @@
-# Posters  
+---
+title: Posters
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Posters
 
-## Related Term
-
-- [[18741 Signs]
-- [[309 Advertising]]  
-
+relatedTerm:
+- "[[18741 Signs]]"
+- "[[309 Advertising]]"
+---
+# Posters

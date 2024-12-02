@@ -1,6 +1,11 @@
-# Power resources  
+---
+title: Power resources
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Power resources
 
-## Used For
-
-- [[6690 Energy supply]]  
-
+usedFor:
+- "[[6690 Energy supply]]"
+---
+# Power resources

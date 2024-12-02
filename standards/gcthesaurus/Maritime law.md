@@ -1,11 +1,14 @@
-# Maritime law  
+---
+title: Maritime law
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Maritime law
 
-## Narrower Term
-
-- [[12158 Law]]  
-
-## Related Term
-
-- [[21496 Water transport]
-- [[14379 Navigation]]  
-
+narrowerTerm:
+- "[[12158 Law]]"
+relatedTerm:
+- "[[21496 Water transport]]"
+- "[[14379 Navigation]]"
+---
+# Maritime law

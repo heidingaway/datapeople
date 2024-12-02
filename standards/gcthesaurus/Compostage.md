@@ -1,6 +1,11 @@
-# Compostage  
+---
+title: Compostage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Compostage
 
-## French
-
-- [[3786 Composting]]  
-
+french:
+- "[[3786 Composting]]"
+---
+# Compostage

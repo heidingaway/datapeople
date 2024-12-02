@@ -1,6 +1,11 @@
-# Institution federale  
+---
+title: Institution federale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Institution fédérale
 
-## French
-
-- [[7562 Federal institutions]]  
-
+french:
+- "[[7562 Federal institutions]]"
+---
+# Institution federale

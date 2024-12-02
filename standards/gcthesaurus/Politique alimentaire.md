@@ -1,6 +1,11 @@
-# Politique alimentaire  
+---
+title: Politique alimentaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Politique alimentaire
 
-## French
-
-- [[8134 Food policy]]  
-
+french:
+- "[[8134 Food policy]]"
+---
+# Politique alimentaire

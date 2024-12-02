@@ -1,13 +1,16 @@
-# Drug use  
+---
+title: Drug use
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Drug use
 
-## Related Term
-
-- [[5619 Drug addiction]
-- [[14161 Narcotics]
-- [[5635 Drug education]]  
-
-## Use
-
-- [[11082 Injection drug use]
-- [[14150 Narcotic use]]  
-
+relatedTerm:
+- "[[5619 Drug addiction]]"
+- "[[14161 Narcotics]]"
+- "[[5635 Drug education]]"
+use:
+- "[[11082 Injection drug use]]"
+- "[[14150 Narcotic use]]"
+---
+# Drug use

@@ -1,6 +1,11 @@
-# Waste reuse  
+---
+title: Waste reuse
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Waste reuse
 
-## Used For
-
-- [[17378 Recycling]]  
-
+usedFor:
+- "[[17378 Recycling]]"
+---
+# Waste reuse

@@ -1,6 +1,11 @@
-# Hay  
+---
+title: Hay
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hay
 
-## Used For
-
-- [[8200 Forage crops]]  
-
+usedFor:
+- "[[8200 Forage crops]]"
+---
+# Hay

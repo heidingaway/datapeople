@@ -1,6 +1,11 @@
-# Protection du consommateur  
+---
+title: Protection du consommateur
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Protection du consommateur
 
-## French
-
-- [[4081 Consumer protection]]  
-
+french:
+- "[[4081 Consumer protection]]"
+---
+# Protection du consommateur

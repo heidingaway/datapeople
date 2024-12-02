@@ -1,6 +1,11 @@
-# Ordinateur  
+---
+title: Ordinateur
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ordinateur
 
-## French
-
-- [[3882 Computers]]  
-
+french:
+- "[[3882 Computers]]"
+---
+# Ordinateur

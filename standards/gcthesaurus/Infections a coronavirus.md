@@ -1,6 +1,11 @@
-# Infections a coronavirus  
+---
+title: Infections a coronavirus
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Infections à coronavirus
 
-## French
-
-- [[4256 Coronavirus infections]]  
-
+french:
+- "[[4256 Coronavirus infections]]"
+---
+# Infections a coronavirus

@@ -1,6 +1,11 @@
-# Travail  
+---
+title: Travail
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Travail
 
-## French
-
-- [[11836 Labour]]  
-
+french:
+- "[[11836 Labour]]"
+---
+# Travail

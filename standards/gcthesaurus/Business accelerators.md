@@ -1,6 +1,11 @@
-# Business accelerators  
+---
+title: Business accelerators
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Business accelerators
 
-## Related Term
-
-- [[2511 Business development]]  
-
+relatedTerm:
+- "[[2511 Business development]]"
+---
+# Business accelerators

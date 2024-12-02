@@ -1,6 +1,11 @@
-# Textile products  
+---
+title: Textile products
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Textile products
 
-## Used For
-
-- [[20136 Textiles]]  
-
+usedFor:
+- "[[20136 Textiles]]"
+---
+# Textile products

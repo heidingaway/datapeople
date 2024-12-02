@@ -1,6 +1,11 @@
-# Gestion du parc automobile  
+---
+title: Gestion du parc automobile
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gestion du parc automobile
 
-## French
-
-- [[8023 Fleet management]]  
-
+french:
+- "[[8023 Fleet management]]"
+---
+# Gestion du parc automobile

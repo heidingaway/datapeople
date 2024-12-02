@@ -1,6 +1,11 @@
-# Lexicons  
+---
+title: Lexicons
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Lexicons
 
-## Used For
-
-- [[5219 Dictionaries]]  
-
+usedFor:
+- "[[5219 Dictionaries]]"
+---
+# Lexicons

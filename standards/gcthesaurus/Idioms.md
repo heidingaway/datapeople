@@ -1,6 +1,11 @@
-# Idioms  
+---
+title: Idioms
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Idioms
 
-## Related Term
-
-- [[12133 Languages]]  
-
+relatedTerm:
+- "[[12133 Languages]]"
+---
+# Idioms

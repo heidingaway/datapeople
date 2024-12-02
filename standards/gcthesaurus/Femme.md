@@ -1,6 +1,11 @@
-# Femme  
+---
+title: Femme
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Femme
 
-## French
-
-- [[21821 Women]]  
-
+french:
+- "[[21821 Women]]"
+---
+# Femme

@@ -1,6 +1,11 @@
-# Migratory workers  
+---
+title: Migratory workers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Migratory workers
 
-## Used For
-
-- [[13576 Migrant workers]]  
-
+usedFor:
+- "[[13576 Migrant workers]]"
+---
+# Migratory workers

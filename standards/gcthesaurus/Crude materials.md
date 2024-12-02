@@ -1,6 +1,11 @@
-# Crude materials  
+---
+title: Crude materials
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Crude materials
 
-## Used For
-
-- [[3624 Commodities]]  
-
+usedFor:
+- "[[3624 Commodities]]"
+---
+# Crude materials

@@ -1,6 +1,11 @@
-# Genetic heritage  
+---
+title: Genetic heritage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Genetic heritage
 
-## Used For
-
-- [[9869 Heredity]]  
-
+usedFor:
+- "[[9869 Heredity]]"
+---
+# Genetic heritage

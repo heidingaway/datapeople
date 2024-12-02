@@ -1,6 +1,11 @@
-# Snowfall  
+---
+title: Snowfall
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Snowfall
 
-## Used For
-
-- [[18847 Snow]]  
-
+usedFor:
+- "[[18847 Snow]]"
+---
+# Snowfall

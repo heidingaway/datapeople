@@ -1,6 +1,11 @@
-# Gibier  
+---
+title: Gibier
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gibier
 
-## French
-
-- [[8695 Game (Wildlife)]]  
-
+french:
+- "[[8695 Game (Wildlife)]]"
+---
+# Gibier

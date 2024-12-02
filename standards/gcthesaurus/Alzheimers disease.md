@@ -1,10 +1,13 @@
-# Alzheimers disease  
-
-## Narrower Term
-
-- [[5056 Degenerative diseases]]  
-
-## Related Term
-
-- [[384 Aging]]  
-
+---
+title: Alzheimers disease
+created: 2024-12-01
+modified: 2024-12-01
+tags:
+  - TBSMetadata
+alias: Alzheimer's disease
+narrowerTerm:
+  - "[[5056 Degenerative diseases]]"
+relatedTerm:
+  - "[[384 Aging]]"
+---
+# Alzheimers disease

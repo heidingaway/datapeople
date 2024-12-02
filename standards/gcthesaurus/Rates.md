@@ -1,7 +1,12 @@
-# Rates  
+---
+title: Rates
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rates
 
-## Broader Term
-
-- [[7216 Exchange rates]
-- [[11289 Interest rates]]  
-
+broaderTerm:
+- "[[7216 Exchange rates]]"
+- "[[11289 Interest rates]]"
+---
+# Rates

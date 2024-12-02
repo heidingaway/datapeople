@@ -1,6 +1,11 @@
-# Jobs  
+---
+title: Jobs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Jobs
 
-## Used For
-
-- [[6486 Employment]]  
-
+usedFor:
+- "[[6486 Employment]]"
+---
+# Jobs

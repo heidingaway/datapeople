@@ -1,6 +1,11 @@
-# Cybergovernment  
+---
+title: Cybergovernment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cybergovernment
 
-## Used For
-
-- [[6321 Electronic government]]  
-
+usedFor:
+- "[[6321 Electronic government]]"
+---
+# Cybergovernment

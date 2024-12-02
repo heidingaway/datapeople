@@ -1,6 +1,11 @@
-# Investissement prive  
+---
+title: Investissement prive
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Investissement privé
 
-## French
-
-- [[16405 Private investments]]  
-
+french:
+- "[[16405 Private investments]]"
+---
+# Investissement prive

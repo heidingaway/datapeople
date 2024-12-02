@@ -1,6 +1,11 @@
-# Gestion du personnel  
+---
+title: Gestion du personnel
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gestion du personnel
 
-## French
-
-- [[15568 Personnel management]]  
-
+french:
+- "[[15568 Personnel management]]"
+---
+# Gestion du personnel

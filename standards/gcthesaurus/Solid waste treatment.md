@@ -1,6 +1,11 @@
-# Solid waste treatment  
+---
+title: Solid waste treatment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Solid waste treatment
 
-## Used For
-
-- [[21322 Waste management]]  
-
+usedFor:
+- "[[21322 Waste management]]"
+---
+# Solid waste treatment

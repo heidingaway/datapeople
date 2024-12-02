@@ -1,6 +1,11 @@
-# Transplants  
+---
+title: Transplants
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Transplants
 
-## Used For
-
-- [[20589 Transplantation (Medicine)]]  
-
+usedFor:
+- "[[20589 Transplantation (Medicine)]]"
+---
+# Transplants

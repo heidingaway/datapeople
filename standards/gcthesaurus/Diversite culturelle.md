@@ -1,6 +1,11 @@
-# Diversite culturelle  
+---
+title: Diversite culturelle
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Diversité culturelle
 
-## French
-
-- [[4630 Cultural diversity]]  
-
+french:
+- "[[4630 Cultural diversity]]"
+---
+# Diversite culturelle

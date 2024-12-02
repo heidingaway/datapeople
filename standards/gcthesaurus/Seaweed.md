@@ -1,6 +1,11 @@
-# Seaweed  
+---
+title: Seaweed
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Seaweed
 
-## Used For
-
-- [[1299 Aquatic plants]]  
-
+usedFor:
+- "[[1299 Aquatic plants]]"
+---
+# Seaweed

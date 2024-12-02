@@ -1,11 +1,14 @@
-# Frequently asked questions  
+---
+title: Frequently asked questions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Frequently asked questions
 
-## Related Term
-
-- [[11016 Information requests]
-- [[10968 Information]]  
-
-## Use
-
-- [[7417 FAQ]]  
-
+relatedTerm:
+- "[[11016 Information requests]]"
+- "[[10968 Information]]"
+use:
+- "[[7417 FAQ]]"
+---
+# Frequently asked questions

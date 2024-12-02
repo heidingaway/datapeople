@@ -1,6 +1,11 @@
-# Systeme metrique  
+---
+title: Systeme metrique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Système métrique
 
-## French
-
-- [[13503 Metric system]]  
-
+french:
+- "[[13503 Metric system]]"
+---
+# Systeme metrique

@@ -1,6 +1,11 @@
-# Electronic materials  
+---
+title: Electronic materials
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electronic materials
 
-## Used For
-
-- [[6310 Electronic equipment]]  
-
+usedFor:
+- "[[6310 Electronic equipment]]"
+---
+# Electronic materials

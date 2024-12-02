@@ -1,6 +1,11 @@
-# Cybercrime  
+---
+title: Cybercrime
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cybercrime
 
-## Used For
-
-- [[3803 Computer crime]]  
-
+usedFor:
+- "[[3803 Computer crime]]"
+---
+# Cybercrime

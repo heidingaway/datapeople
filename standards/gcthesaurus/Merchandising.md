@@ -1,6 +1,11 @@
-# Merchandising  
+---
+title: Merchandising
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Merchandising
 
-## Used For
-
-- [[13087 Marketing]]  
-
+usedFor:
+- "[[13087 Marketing]]"
+---
+# Merchandising

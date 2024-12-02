@@ -1,6 +1,11 @@
-# State visits  
+---
+title: State visits
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: State visits
 
-## Used For
-
-- [[21092 Visits of state]]  
-
+usedFor:
+- "[[21092 Visits of state]]"
+---
+# State visits

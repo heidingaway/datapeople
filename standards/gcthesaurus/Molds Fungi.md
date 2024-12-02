@@ -1,7 +1,12 @@
-# Molds Fungi  
+---
+title: Molds Fungi
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Molds (Fungi)
 
-## Used For
-
-- [[8649 Fungi]
-- [[13556 Microorganisms]]  
-
+usedFor:
+- "[[8649 Fungi]]"
+- "[[13556 Microorganisms]]"
+---
+# Molds Fungi

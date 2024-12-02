@@ -1,6 +1,11 @@
-# Sondage dopinion  
+---
+title: Sondage dopinion
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sondage d'opinion
 
-## French
-
-- [[16850 Public opinion polls]]  
-
+french:
+- "[[16850 Public opinion polls]]"
+---
+# Sondage dopinion

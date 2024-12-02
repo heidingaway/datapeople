@@ -1,6 +1,11 @@
-# Mercy killing  
+---
+title: Mercy killing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mercy killing
 
-## Used For
-
-- [[7195 Euthanasia]]  
-
+usedFor:
+- "[[7195 Euthanasia]]"
+---
+# Mercy killing

@@ -1,6 +1,11 @@
-# Industrie vinicole  
+---
+title: Industrie vinicole
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrie vinicole
 
-## French
-
-- [[21797 Wine industry]]  
-
+french:
+- "[[21797 Wine industry]]"
+---
+# Industrie vinicole

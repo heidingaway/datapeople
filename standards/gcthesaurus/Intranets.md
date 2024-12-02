@@ -1,10 +1,13 @@
-# Intranets  
+---
+title: Intranets
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Intranets
 
-## Narrower Term
-
-- [[3819 Computer networks]]  
-
-## Use
-
-- [[11525 Intranet sites]]  
-
+narrowerTerm:
+- "[[3819 Computer networks]]"
+use:
+- "[[11525 Intranet sites]]"
+---
+# Intranets

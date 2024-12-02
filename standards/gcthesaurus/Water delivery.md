@@ -1,6 +1,11 @@
-# Water delivery  
+---
+title: Water delivery
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Water delivery
 
-## Used For
-
-- [[21474 Water supply]]  
-
+usedFor:
+- "[[21474 Water supply]]"
+---
+# Water delivery

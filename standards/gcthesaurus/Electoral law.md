@@ -1,6 +1,11 @@
-# Electoral law  
+---
+title: Electoral law
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electoral law
 
-## Used For
-
-- [[6186 Electoral system]]  
-
+usedFor:
+- "[[6186 Electoral system]]"
+---
+# Electoral law

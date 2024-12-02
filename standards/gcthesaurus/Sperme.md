@@ -1,6 +1,11 @@
-# Sperme  
+---
+title: Sperme
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sperme
 
-## French
-
-- [[18513 Semen]]  
-
+french:
+- "[[18513 Semen]]"
+---
+# Sperme

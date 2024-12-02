@@ -1,6 +1,11 @@
-# Biographie  
+---
+title: Biographie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biographie
 
-## French
-
-- [[2144 Biographies]]  
-
+french:
+- "[[2144 Biographies]]"
+---
+# Biographie

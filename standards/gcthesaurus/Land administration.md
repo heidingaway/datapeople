@@ -1,6 +1,11 @@
-# Land administration  
+---
+title: Land administration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Land administration
 
-## Used For
-
-- [[12001 Land management]]  
-
+usedFor:
+- "[[12001 Land management]]"
+---
+# Land administration

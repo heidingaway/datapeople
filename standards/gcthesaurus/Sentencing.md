@@ -1,6 +1,11 @@
-# Sentencing  
+---
+title: Sentencing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sentencing
 
-## Used For
-
-- [[4380 Court decisions]]  
-
+usedFor:
+- "[[4380 Court decisions]]"
+---
+# Sentencing

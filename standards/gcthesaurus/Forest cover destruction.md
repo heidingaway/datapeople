@@ -1,6 +1,11 @@
-# Forest cover destruction  
+---
+title: Forest cover destruction
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Forest cover destruction
 
-## Used For
-
-- [[5049 Deforestation]]  
-
+usedFor:
+- "[[5049 Deforestation]]"
+---
+# Forest cover destruction

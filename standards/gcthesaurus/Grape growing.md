@@ -1,6 +1,11 @@
-# Grape growing  
+---
+title: Grape growing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Grape growing
 
-## Used For
-
-- [[21135 Viticulture]]  
-
+usedFor:
+- "[[21135 Viticulture]]"
+---
+# Grape growing

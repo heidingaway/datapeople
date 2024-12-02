@@ -1,7 +1,8 @@
-# Parliamentary leaders replaces House leaders as pr  
+---
+title: Parliamentary leaders replaces House leaders as pr
+alias: "Parliamentary leaders" replaces "House leaders" as preferred term in June 2008.
 
-## History note
-
-- [[10095 House leaders]
-- [[15307 Parliamentary leaders]]  
-
+historyNote:
+- "[[10095 House leaders]]"
+- "[[15307 Parliamentary leaders]]"
+---

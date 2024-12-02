@@ -1,6 +1,11 @@
-# Handguns  
+---
+title: Handguns
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Handguns
 
-## Used For
-
-- [[7805 Firearms]]  
-
+usedFor:
+- "[[7805 Firearms]]"
+---
+# Handguns

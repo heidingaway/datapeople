@@ -1,6 +1,11 @@
-# Xenotransplantation  
+---
+title: Xenotransplantation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Xénotransplantation
 
-## French
-
-- [[22084 Xenotransplantation]]  
-
+french:
+- "[[22084 Xenotransplantation]]"
+---
+# Xenotransplantation

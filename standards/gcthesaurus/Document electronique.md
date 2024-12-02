@@ -1,6 +1,11 @@
-# Document electronique  
+---
+title: Document electronique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Document électronique
 
-## French
-
-- [[6299 Electronic documents]]  
-
+french:
+- "[[6299 Electronic documents]]"
+---
+# Document electronique

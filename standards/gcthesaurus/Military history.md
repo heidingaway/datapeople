@@ -1,10 +1,13 @@
-# Military history  
+---
+title: Military history
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Military history
 
-## Narrower Term
-
-- [[9973 History]]  
-
-## Related Term
-
-- [[21274 War memorials]]  
-
+narrowerTerm:
+- "[[9973 History]]"
+relatedTerm:
+- "[[21274 War memorials]]"
+---
+# Military history

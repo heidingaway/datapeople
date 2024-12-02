@@ -1,17 +1,18 @@
-# Chemical weapons  
+---
+title: Chemical weapons
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Chemical weapons
 
-## Narrower Term
-
-- [[21583 Weapons]]  
-
-## Related Term
-
-- [[3056 Chemicals]
-- [[20329 Toxic substances]
-- [[2194 Biological weapons]
-- [[3038 Chemical warfare]]  
-
-## Use
-
-- [[3040 Chemical warfare agents]]  
-
+narrowerTerm:
+- "[[21583 Weapons]]"
+relatedTerm:
+- "[[3056 Chemicals]]"
+- "[[20329 Toxic substances]]"
+- "[[2194 Biological weapons]]"
+- "[[3038 Chemical warfare]]"
+use:
+- "[[3040 Chemical warfare agents]]"
+---
+# Chemical weapons

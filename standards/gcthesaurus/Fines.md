@@ -1,6 +1,11 @@
-# Fines  
+---
+title: Fines
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fines
 
-## Related Term
-
-- [[5950 Economic sanctions]]  
-
+relatedTerm:
+- "[[5950 Economic sanctions]]"
+---
+# Fines

@@ -1,6 +1,11 @@
-# Taxe daccise  
+---
+title: Taxe daccise
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Taxe d'accise
 
-## French
-
-- [[7229 Excise taxes]]  
-
+french:
+- "[[7229 Excise taxes]]"
+---
+# Taxe daccise

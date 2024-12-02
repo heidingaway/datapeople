@@ -1,6 +1,11 @@
-# Magazines  
+---
+title: Magazines
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Magazines
 
-## Used For
-
-- [[15489 Periodicals]]  
-
+usedFor:
+- "[[15489 Periodicals]]"
+---
+# Magazines

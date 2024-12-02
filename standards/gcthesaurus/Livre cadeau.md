@@ -1,6 +1,11 @@
-# Livre cadeau  
+---
+title: Livre cadeau
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Livre cadeau
 
-## French
-
-- [[9059 Gift books]]  
-
+french:
+- "[[9059 Gift books]]"
+---
+# Livre cadeau

@@ -1,6 +1,11 @@
-# Ehealth  
+---
+title: Ehealth
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: E-health
 
-## Used For
-
-- [[19949 Telehealth]]  
-
+usedFor:
+- "[[19949 Telehealth]]"
+---
+# Ehealth

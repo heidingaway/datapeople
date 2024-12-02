@@ -1,6 +1,11 @@
-# Offensive weapons  
+---
+title: Offensive weapons
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Offensive weapons
 
-## Used For
-
-- [[21580 Weapons]]  
-
+usedFor:
+- "[[21580 Weapons]]"
+---
+# Offensive weapons

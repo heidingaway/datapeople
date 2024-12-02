@@ -1,6 +1,11 @@
-# Inuk  
+---
+title: Inuk
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Inuk
 
-## Used For
-
-- [[11538 Inuit]]  
-
+usedFor:
+- "[[11538 Inuit]]"
+---
+# Inuk

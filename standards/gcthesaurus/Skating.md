@@ -1,6 +1,11 @@
-# Skating  
+---
+title: Skating
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Skating
 
-## Narrower Term
-
-- [[21818 Winter sports]]  
-
+narrowerTerm:
+- "[[21818 Winter sports]]"
+---
+# Skating

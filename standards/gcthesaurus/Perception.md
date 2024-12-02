@@ -1,6 +1,11 @@
-# Perception  
+---
+title: Perception
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Perception
 
-## French
-
-- [[15456 Perceptions]]  
-
+french:
+- "[[15456 Perceptions]]"
+---
+# Perception

@@ -1,6 +1,11 @@
-# Loterie  
+---
+title: Loterie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Loterie
 
-## French
-
-- [[12652 Lotteries]]  
-
+french:
+- "[[12652 Lotteries]]"
+---
+# Loterie

@@ -1,6 +1,11 @@
-# Breast cancer  
+---
+title: Breast cancer
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Breast cancer
 
-## Narrower Term
-
-- [[2720 Cancer]]  
-
+narrowerTerm:
+- "[[2720 Cancer]]"
+---
+# Breast cancer

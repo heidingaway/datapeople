@@ -1,6 +1,11 @@
-# Fiscal evasion  
+---
+title: Fiscal evasion
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fiscal evasion
 
-## Used For
-
-- [[19733 Tax fraud]]  
-
+usedFor:
+- "[[19733 Tax fraud]]"
+---
+# Fiscal evasion

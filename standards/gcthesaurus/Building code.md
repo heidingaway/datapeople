@@ -1,6 +1,11 @@
-# Building code  
+---
+title: Building code
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Building code
 
-## Used For
-
-- [[4018 Construction industry]]  
-
+usedFor:
+- "[[4018 Construction industry]]"
+---
+# Building code

@@ -1,6 +1,11 @@
-# Planes  
+---
+title: Planes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Planes
 
-## Used For
-
-- [[785 Airplanes]]  
-
+usedFor:
+- "[[785 Airplanes]]"
+---
+# Planes

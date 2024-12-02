@@ -1,6 +1,11 @@
-# Medecine douce  
+---
+title: Medecine douce
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Médecine douce
 
-## French
-
-- [[906 Alternative medicine]]  
-
+french:
+- "[[906 Alternative medicine]]"
+---
+# Medecine douce

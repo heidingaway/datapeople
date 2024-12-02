@@ -1,11 +1,14 @@
-# Historical societies  
+---
+title: Historical societies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Historical societies
 
-## Narrower Term
-
-- [[4679 Cultural institutions]]  
-
-## Related Term
-
-- [[9985 History]
-- [[9961 Historical research]]  
-
+narrowerTerm:
+- "[[4679 Cultural institutions]]"
+relatedTerm:
+- "[[9985 History]]"
+- "[[9961 Historical research]]"
+---
+# Historical societies

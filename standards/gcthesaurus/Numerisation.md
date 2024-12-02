@@ -1,6 +1,11 @@
-# Numerisation  
+---
+title: Numerisation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Numérisation
 
-## French
-
-- [[5261 Digitization]]  
-
+french:
+- "[[5261 Digitization]]"
+---
+# Numerisation

@@ -1,6 +1,11 @@
-# Seaway  
+---
+title: Seaway
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Seaway
 
-## Used For
-
-- [[21563 Waterways]]  
-
+usedFor:
+- "[[21563 Waterways]]"
+---
+# Seaway

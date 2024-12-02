@@ -1,6 +1,11 @@
-# Structural geology  
+---
+title: Structural geology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Structural geology
 
-## Narrower Term
-
-- [[8991 Geology]]  
-
+narrowerTerm:
+- "[[8991 Geology]]"
+---
+# Structural geology

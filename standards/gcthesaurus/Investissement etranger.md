@@ -1,6 +1,11 @@
-# Investissement etranger  
+---
+title: Investissement etranger
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Investissement étranger
 
-## French
-
-- [[8237 Foreign investments]]  
-
+french:
+- "[[8237 Foreign investments]]"
+---
+# Investissement etranger

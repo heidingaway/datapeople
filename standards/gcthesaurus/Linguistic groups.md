@@ -1,6 +1,11 @@
-# Linguistic groups  
+---
+title: Linguistic groups
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Linguistic groups
 
-## Used For
-
-- [[12072 Language groups]]  
-
+usedFor:
+- "[[12072 Language groups]]"
+---
+# Linguistic groups

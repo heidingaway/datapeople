@@ -1,6 +1,11 @@
-# Prospection  
+---
+title: Prospection
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prospection
 
-## French
-
-- [[16644 Prospecting]]  
-
+french:
+- "[[16644 Prospecting]]"
+---
+# Prospection

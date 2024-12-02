@@ -1,7 +1,12 @@
-# Pioneers  
+---
+title: Pioneers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pioneers
 
-## Related Term
-
-- [[3544 Colonization]
-- [[7279 Explorations]]  
-
+relatedTerm:
+- "[[3544 Colonization]]"
+- "[[7279 Explorations]]"
+---
+# Pioneers

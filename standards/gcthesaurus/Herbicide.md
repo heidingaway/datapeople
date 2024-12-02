@@ -1,6 +1,11 @@
-# Herbicide  
+---
+title: Herbicide
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Herbicide
 
-## French
-
-- [[9858 Herbicides]]  
-
+french:
+- "[[9858 Herbicides]]"
+---
+# Herbicide

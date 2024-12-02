@@ -1,6 +1,11 @@
-# Mollusque  
+---
+title: Mollusque
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mollusque
 
-## French
-
-- [[13849 Molluscs]]  
-
+french:
+- "[[13849 Molluscs]]"
+---
+# Mollusque

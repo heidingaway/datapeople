@@ -1,10 +1,13 @@
-# Sound archives  
+---
+title: Sound archives
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sound archives
 
-## Narrower Term
-
-- [[1383 Archives]]  
-
-## Related Term
-
-- [[19152 Sound recordings]]  
-
+narrowerTerm:
+- "[[1383 Archives]]"
+relatedTerm:
+- "[[19152 Sound recordings]]"
+---
+# Sound archives

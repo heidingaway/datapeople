@@ -1,10 +1,13 @@
-# Artificial insemination  
-
-## Narrower Term
-
-- [[17606 Reproductive technology]]  
-
-## Related Term
-
-- [[18516 Semen]]  
-
+---
+title: Artificial insemination
+created: 2024-12-01
+modified: 2024-12-01
+tags:
+  - TBSMetadata
+alias: Artificial insemination
+narrowerTerm:
+  - "[[17606 Reproductive technology]]"
+relatedTerm:
+  - "[[18516 Semen]]"
+---
+# Artificial insemination

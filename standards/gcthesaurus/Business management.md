@@ -1,6 +1,11 @@
-# Business management  
+---
+title: Business management
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Business management
 
-## Used For
-
-- [[12749 Management]]  
-
+usedFor:
+- "[[12749 Management]]"
+---
+# Business management

@@ -1,6 +1,11 @@
-# Viniculture  
+---
+title: Viniculture
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Viniculture
 
-## Used For
-
-- [[21136 Viticulture]]  
-
+usedFor:
+- "[[21136 Viticulture]]"
+---
+# Viniculture

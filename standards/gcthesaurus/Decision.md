@@ -1,6 +1,11 @@
-# Decision  
+---
+title: Decision
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Décision
 
-## French
-
-- [[4996 Decisions]]  
-
+french:
+- "[[4996 Decisions]]"
+---
+# Decision

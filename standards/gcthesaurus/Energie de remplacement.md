@@ -1,6 +1,11 @@
-# Energie de remplacement  
+---
+title: Energie de remplacement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Énergie de remplacement
 
-## French
-
-- [[887 Alternative energy]]  
-
+french:
+- "[[887 Alternative energy]]"
+---
+# Energie de remplacement

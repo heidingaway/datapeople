@@ -1,6 +1,11 @@
-# Pomme de terre  
+---
+title: Pomme de terre
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pomme de terre
 
-## French
-
-- [[16149 Potatoes]]  
-
+french:
+- "[[16149 Potatoes]]"
+---
+# Pomme de terre

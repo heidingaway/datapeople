@@ -1,6 +1,11 @@
-# Foreign assistance  
+---
+title: Foreign assistance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Foreign assistance
 
-## Used For
-
-- [[8223 Foreign aid]]  
-
+usedFor:
+- "[[8223 Foreign aid]]"
+---
+# Foreign assistance

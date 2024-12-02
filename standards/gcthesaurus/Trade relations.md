@@ -1,12 +1,15 @@
-# Trade relations  
+---
+title: Trade relations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Trade relations
 
-## Related Term
-
-- [[20409 Trade negotiations]
-- [[20399 Trade missions]
-- [[20386 Trade agreements]]  
-
-## Use
-
-- [[5939 Economic relations]]  
-
+relatedTerm:
+- "[[20409 Trade negotiations]]"
+- "[[20399 Trade missions]]"
+- "[[20386 Trade agreements]]"
+use:
+- "[[5939 Economic relations]]"
+---
+# Trade relations

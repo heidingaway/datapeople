@@ -1,7 +1,12 @@
-# Stamps  
+---
+title: Stamps
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Stamps
 
-## Related Term
-
-- [[16132 Postal services]
-- [[15709 Philately]]  
-
+relatedTerm:
+- "[[16132 Postal services]]"
+- "[[15709 Philately]]"
+---
+# Stamps

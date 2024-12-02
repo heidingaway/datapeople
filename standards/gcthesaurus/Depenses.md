@@ -1,6 +1,11 @@
-# Depenses  
+---
+title: Depenses
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Dépenses
 
-## French
-
-- [[7258 Expenditures]]  
-
+french:
+- "[[7258 Expenditures]]"
+---
+# Depenses

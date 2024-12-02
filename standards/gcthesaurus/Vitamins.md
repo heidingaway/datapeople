@@ -1,6 +1,11 @@
-# Vitamins  
+---
+title: Vitamins
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vitamins
 
-## Related Term
-
-- [[14710 Nutrition]]  
-
+relatedTerm:
+- "[[14710 Nutrition]]"
+---
+# Vitamins

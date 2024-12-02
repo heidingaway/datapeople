@@ -1,6 +1,11 @@
-# HIV  
+---
+title: HIV
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: HIV
 
-## Used For
-
-- [[595 AIDS (disease)]]  
-
+usedFor:
+- "[[595 AIDS (disease)]]"
+---
+# HIV

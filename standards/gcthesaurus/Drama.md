@@ -1,6 +1,11 @@
-# Drama  
+---
+title: Drama
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Drama
 
-## Used For
-
-- [[20145 Theatre]]  
-
+usedFor:
+- "[[20145 Theatre]]"
+---
+# Drama

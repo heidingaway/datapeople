@@ -1,6 +1,11 @@
-# Organ grafting  
+---
+title: Organ grafting
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Organ grafting
 
-## Used For
-
-- [[15090 Organ transplantation]]  
-
+usedFor:
+- "[[15090 Organ transplantation]]"
+---
+# Organ grafting

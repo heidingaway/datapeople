@@ -1,6 +1,11 @@
-# Radioactivite  
+---
+title: Radioactivite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Radioactivité
 
-## French
-
-- [[17110 Radioactivity]]  
-
+french:
+- "[[17110 Radioactivity]]"
+---
+# Radioactivite

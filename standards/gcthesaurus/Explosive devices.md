@@ -1,6 +1,11 @@
-# Explosive devices  
+---
+title: Explosive devices
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Explosive devices
 
-## Used For
-
-- [[7295 Explosives]]  
-
+usedFor:
+- "[[7295 Explosives]]"
+---
+# Explosive devices

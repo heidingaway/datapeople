@@ -1,6 +1,11 @@
-# Commercial printing  
+---
+title: Commercial printing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Commercial printing
 
-## Used For
-
-- [[16368 Printing]]  
-
+usedFor:
+- "[[16368 Printing]]"
+---
+# Commercial printing

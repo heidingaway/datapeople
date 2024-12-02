@@ -1,6 +1,11 @@
-# Subterranean water  
+---
+title: Subterranean water
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Subterranean water
 
-## Used For
-
-- [[9398 Groundwater]]  
-
+usedFor:
+- "[[9398 Groundwater]]"
+---
+# Subterranean water

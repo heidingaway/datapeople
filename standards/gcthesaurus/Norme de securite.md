@@ -1,6 +1,11 @@
-# Norme de securite  
+---
+title: Norme de securite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Norme de sécurité
 
-## French
-
-- [[18060 Safety standards]]  
-
+french:
+- "[[18060 Safety standards]]"
+---
+# Norme de securite

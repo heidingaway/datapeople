@@ -1,6 +1,11 @@
-# Reglementation en matiere deconomie  
+---
+title: Reglementation en matiere deconomie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Réglementation en matière d'économie
 
-## French
-
-- [[5935 Economic regulations]]  
-
+french:
+- "[[5935 Economic regulations]]"
+---
+# Reglementation en matiere deconomie

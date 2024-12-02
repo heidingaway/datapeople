@@ -1,6 +1,11 @@
-# Etude de faisabilite  
+---
+title: Etude de faisabilite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Étude de faisabilité
 
-## French
-
-- [[7505 Feasibility studies]]  
-
+french:
+- "[[7505 Feasibility studies]]"
+---
+# Etude de faisabilite

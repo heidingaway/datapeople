@@ -1,26 +1,25 @@
-# Plants  
+---
+title: Plants
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Plants
 
-## Broader Term
-
-- [[1301 Aquatic plants]
-- [[13328 Medicinal plants]
-- [[15120 Ornamental plants]
-- [[20693 Trees]
-- [[21658 Weeds]
-- [[21745 Wild plants]]  
-
-## Narrower Term
-
-- [[12570 Living organisms]]  
-
-## Related Term
-
-- [[8045 Flora]
-- [[15856 Plant diseases]
-- [[2377 Botany]
-- [[9852 Herbaria]]  
-
-## Use
-
-- [[20906 Vegetation]]  
-
+broaderTerm:
+- "[[1301 Aquatic plants]]"
+- "[[13328 Medicinal plants]]"
+- "[[15120 Ornamental plants]]"
+- "[[20693 Trees]]"
+- "[[21658 Weeds]]"
+- "[[21745 Wild plants]]"
+narrowerTerm:
+- "[[12570 Living organisms]]"
+relatedTerm:
+- "[[8045 Flora]]"
+- "[[15856 Plant diseases]]"
+- "[[2377 Botany]]"
+- "[[9852 Herbaria]]"
+use:
+- "[[20906 Vegetation]]"
+---
+# Plants

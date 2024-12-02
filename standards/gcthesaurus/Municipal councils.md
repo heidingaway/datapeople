@@ -1,6 +1,11 @@
-# Municipal councils  
+---
+title: Municipal councils
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Municipal councils
 
-## Used For
-
-- [[12602 Local governments]]  
-
+usedFor:
+- "[[12602 Local governments]]"
+---
+# Municipal councils

@@ -1,6 +1,11 @@
-# Computational intelligence  
+---
+title: Computational intelligence
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Computational intelligence
 
-## Used For
-
-- [[1503 Artificial intelligence]]  
-
+usedFor:
+- "[[1503 Artificial intelligence]]"
+---
+# Computational intelligence

@@ -1,6 +1,11 @@
-# Defense des droits  
+---
+title: Defense des droits
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Défense des droits
 
-## French
-
-- [[323 Advocacy]]  
-
+french:
+- "[[323 Advocacy]]"
+---
+# Defense des droits

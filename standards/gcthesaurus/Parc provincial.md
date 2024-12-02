@@ -1,6 +1,11 @@
-# Parc provincial  
+---
+title: Parc provincial
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Parc provincial
 
-## French
-
-- [[16721 Provincial parks]]  
-
+french:
+- "[[16721 Provincial parks]]"
+---
+# Parc provincial

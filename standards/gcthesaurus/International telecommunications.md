@@ -1,6 +1,11 @@
-# International telecommunications  
+---
+title: International telecommunications
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: International telecommunications
 
-## Narrower Term
-
-- [[19909 Telecommunications]]  
-
+narrowerTerm:
+- "[[19909 Telecommunications]]"
+---
+# International telecommunications

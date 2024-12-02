@@ -1,15 +1,16 @@
-# Bonds  
+---
+title: Bonds
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Bonds
 
-## Narrower Term
-
-- [[1550 Assets]]  
-
-## Related Term
-
-- [[18434 Securities]]  
-
-## Use
-
-- [[18170 Saving bonds]
-- [[9239 Government securities]]  
-
+narrowerTerm:
+- "[[1550 Assets]]"
+relatedTerm:
+- "[[18434 Securities]]"
+use:
+- "[[18170 Saving bonds]]"
+- "[[9239 Government securities]]"
+---
+# Bonds

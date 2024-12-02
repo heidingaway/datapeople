@@ -1,6 +1,11 @@
-# Condamnation  
+---
+title: Condamnation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Condamnation
 
-## French
-
-- [[4166 Conviction]]  
-
+french:
+- "[[4166 Conviction]]"
+---
+# Condamnation

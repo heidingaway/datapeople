@@ -1,7 +1,12 @@
-# Inventions  
+---
+title: Inventions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Inventions
 
-## Related Term
-
-- [[11115 Innovation]
-- [[15379 Patents]]  
-
+relatedTerm:
+- "[[11115 Innovation]]"
+- "[[15379 Patents]]"
+---
+# Inventions

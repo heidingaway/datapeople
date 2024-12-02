@@ -1,18 +1,19 @@
-# Provincial governments  
+---
+title: Provincial governments
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Provincial governments
 
-## Narrower Term
-
-- [[9260 Governments]]  
-
-## Related Term
-
-- [[12323 Legislative assemblies]
-- [[7594 Federal provincial relations]
-- [[16691 Provinces]
-- [[11504 Interprovincial relations]
-- [[16715 Provincial institutions]]  
-
-## Use
-
-- [[16695 Provincial administration]]  
-
+narrowerTerm:
+- "[[9260 Governments]]"
+relatedTerm:
+- "[[12323 Legislative assemblies]]"
+- "[[7594 Federal provincial relations]]"
+- "[[16691 Provinces]]"
+- "[[11504 Interprovincial relations]]"
+- "[[16715 Provincial institutions]]"
+use:
+- "[[16695 Provincial administration]]"
+---
+# Provincial governments

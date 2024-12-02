@@ -1,6 +1,11 @@
-# Permanent residents  
+---
+title: Permanent residents
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Permanent residents
 
-## Used For
-
-- [[10502 Immigrants]]  
-
+usedFor:
+- "[[10502 Immigrants]]"
+---
+# Permanent residents

@@ -1,6 +1,11 @@
-# Tree removal  
+---
+title: Tree removal
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tree removal
 
-## Used For
-
-- [[5051 Deforestation]]  
-
+usedFor:
+- "[[5051 Deforestation]]"
+---
+# Tree removal

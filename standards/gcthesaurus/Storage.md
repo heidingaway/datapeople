@@ -1,14 +1,15 @@
-# Storage  
+---
+title: Storage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Storage
 
-## Broader Term
-
-- [[12614 Lockers]]  
-
-## Related Term
-
-- [[11572 Inventories]]  
-
-## Use
-
-- [[21283 Warehousing]]  
-
+broaderTerm:
+- "[[12614 Lockers]]"
+relatedTerm:
+- "[[11572 Inventories]]"
+use:
+- "[[21283 Warehousing]]"
+---
+# Storage

@@ -1,6 +1,11 @@
-# Refuse  
+---
+title: Refuse
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Refuse
 
-## Used For
-
-- [[21297 Waste]]  
-
+usedFor:
+- "[[21297 Waste]]"
+---
+# Refuse

@@ -1,6 +1,11 @@
-# Programme pour autochtones  
+---
+title: Programme pour autochtones
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Programme pour autochtones
 
-## French
-
-- [[10694 Indigenous programs]]  
-
+french:
+- "[[10694 Indigenous programs]]"
+---
+# Programme pour autochtones

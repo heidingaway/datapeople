@@ -1,6 +1,11 @@
-# Metal industry  
+---
+title: Metal industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Metal industry
 
-## Used For
-
-- [[13455 Metalworking industry]]  
-
+usedFor:
+- "[[13455 Metalworking industry]]"
+---
+# Metal industry

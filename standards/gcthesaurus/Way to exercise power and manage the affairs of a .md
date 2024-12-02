@@ -1,6 +1,11 @@
-# Way to exercise power and manage the affairs of a   
+---
+title: "Way to exercise power and manage the affairs of a "
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Way to exercise power and manage the affairs of a country, region or organization.
 
-## Scope Note
-
-- [[9137 Governance]]  
-
+scopeNote:
+- "[[9137 Governance]]"
+---
+# Way to exercise power and manage the affairs of a

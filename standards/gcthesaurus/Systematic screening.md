@@ -1,6 +1,11 @@
-# Systematic screening  
+---
+title: Systematic screening
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Systematic screening
 
-## Used For
-
-- [[18293 Screening (Medicine)]]  
-
+usedFor:
+- "[[18293 Screening (Medicine)]]"
+---
+# Systematic screening

@@ -1,6 +1,11 @@
-# Outdoor activities  
+---
+title: Outdoor activities
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Outdoor activities
 
-## Used For
-
-- [[15133 Outdoor recreation]]  
-
+usedFor:
+- "[[15133 Outdoor recreation]]"
+---
+# Outdoor activities

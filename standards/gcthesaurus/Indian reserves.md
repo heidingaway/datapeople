@@ -1,6 +1,11 @@
-# Indian reserves  
+---
+title: Indian reserves
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Indian reserves
 
-## Used For
-
-- [[10701 Indigenous reserves]]  
-
+usedFor:
+- "[[10701 Indigenous reserves]]"
+---
+# Indian reserves

@@ -1,6 +1,11 @@
-# Produit biologique  
+---
+title: Produit biologique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Produit biologique
 
-## French
-
-- [[2171 Biological products]]  
-
+french:
+- "[[2171 Biological products]]"
+---
+# Produit biologique

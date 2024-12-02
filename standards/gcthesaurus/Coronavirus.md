@@ -1,6 +1,11 @@
-# Coronavirus  
+---
+title: Coronavirus
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Coronavirus
 
-## French
-
-- [[4259 Coronaviruses]]  
-
+french:
+- "[[4259 Coronaviruses]]"
+---
+# Coronavirus

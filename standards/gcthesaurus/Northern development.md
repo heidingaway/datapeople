@@ -1,16 +1,17 @@
-# Northern development  
+---
+title: Northern development
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Northern development
 
-## Narrower Term
-
-- [[17438 Regional development]]  
-
-## Related Term
-
-- [[14592 Northern studies]
-- [[14570 Northern Canada]
-- [[15916 Polar sciences]]  
-
-## Use
-
-- [[14582 Northern economics]]  
-
+narrowerTerm:
+- "[[17438 Regional development]]"
+relatedTerm:
+- "[[14592 Northern studies]]"
+- "[[14570 Northern Canada]]"
+- "[[15916 Polar sciences]]"
+use:
+- "[[14582 Northern economics]]"
+---
+# Northern development

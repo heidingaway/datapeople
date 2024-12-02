@@ -1,6 +1,11 @@
-# Systeme  
+---
+title: Systeme
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Système
 
-## French
-
-- [[19670 Systems]]  
-
+french:
+- "[[19670 Systems]]"
+---
+# Systeme

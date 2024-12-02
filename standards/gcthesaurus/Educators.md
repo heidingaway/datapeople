@@ -1,6 +1,11 @@
-# Educators  
+---
+title: Educators
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Educators
 
-## Used For
-
-- [[19798 Teachers]]  
-
+usedFor:
+- "[[19798 Teachers]]"
+---
+# Educators

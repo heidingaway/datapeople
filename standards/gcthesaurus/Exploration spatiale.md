@@ -1,6 +1,11 @@
-# Exploration spatiale  
+---
+title: Exploration spatiale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Exploration spatiale
 
-## French
-
-- [[19161 Space exploration]]  
-
+french:
+- "[[19161 Space exploration]]"
+---
+# Exploration spatiale

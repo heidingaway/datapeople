@@ -1,6 +1,11 @@
-# Staff  
+---
+title: Staff
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Staff
 
-## Used For
-
-- [[10197 Human resources]]  
-
+usedFor:
+- "[[10197 Human resources]]"
+---
+# Staff

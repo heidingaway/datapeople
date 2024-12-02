@@ -1,15 +1,16 @@
-# Data mining  
+---
+title: Data mining
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Data mining
 
-## Narrower Term
-
-- [[4901 Databases]]  
-
-## Related Term
-
-- [[957 Analytics]
-- [[4879 Data processing]]  
-
-## Use
-
-- [[4863 Data extraction]]  
-
+narrowerTerm:
+- "[[4901 Databases]]"
+relatedTerm:
+- "[[957 Analytics]]"
+- "[[4879 Data processing]]"
+use:
+- "[[4863 Data extraction]]"
+---
+# Data mining

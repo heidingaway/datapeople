@@ -1,6 +1,11 @@
-# Psychologie  
+---
+title: Psychologie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Psychologie
 
-## French
-
-- [[16738 Psychology]]  
-
+french:
+- "[[16738 Psychology]]"
+---
+# Psychologie

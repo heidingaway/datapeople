@@ -1,6 +1,11 @@
-# Eau douce  
+---
+title: Eau douce
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Eau douce
 
-## French
-
-- [[8534 Fresh water]]  
-
+french:
+- "[[8534 Fresh water]]"
+---
+# Eau douce

@@ -1,6 +1,11 @@
-# Erosion  
+---
+title: Erosion
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Érosion
 
-## French
-
-- [[7103 Erosion]]  
-
+french:
+- "[[7103 Erosion]]"
+---
+# Erosion

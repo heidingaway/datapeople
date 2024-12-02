@@ -1,6 +1,11 @@
-# Human smuggling  
+---
+title: Human smuggling
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Human smuggling
 
-## Used For
-
-- [[11613 Irregular migration]]  
-
+usedFor:
+- "[[11613 Irregular migration]]"
+---
+# Human smuggling

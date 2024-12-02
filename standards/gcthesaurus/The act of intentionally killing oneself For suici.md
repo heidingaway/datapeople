@@ -1,6 +1,11 @@
-# The act of intentionally killing oneself For suici  
+---
+title: The act of intentionally killing oneself For suici
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: The act of intentionally killing oneself. For suicide assistance, or assisted suicide, use "Euthanasia".
 
-## Scope Note
-
-- [[19526 Suicide]]  
-
+scopeNote:
+- "[[19526 Suicide]]"
+---
+# The act of intentionally killing oneself For suici

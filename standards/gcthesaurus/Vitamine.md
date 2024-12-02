@@ -1,6 +1,11 @@
-# Vitamine  
+---
+title: Vitamine
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vitamine
 
-## French
-
-- [[21130 Vitamins]]  
-
+french:
+- "[[21130 Vitamins]]"
+---
+# Vitamine

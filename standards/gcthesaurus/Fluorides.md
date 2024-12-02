@@ -1,6 +1,11 @@
-# Fluorides  
+---
+title: Fluorides
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fluorides
 
-## Related Term
-
-- [[3061 Chemicals]]  
-
+relatedTerm:
+- "[[3061 Chemicals]]"
+---
+# Fluorides

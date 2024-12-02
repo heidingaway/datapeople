@@ -1,6 +1,11 @@
-# Manpower  
+---
+title: Manpower
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Manpower
 
-## Used For
-
-- [[11873 Labour force]]  
-
+usedFor:
+- "[[11873 Labour force]]"
+---
+# Manpower

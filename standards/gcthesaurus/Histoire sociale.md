@@ -1,6 +1,11 @@
-# Histoire sociale  
+---
+title: Histoire sociale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Histoire sociale
 
-## French
-
-- [[18903 Social history]]  
-
+french:
+- "[[18903 Social history]]"
+---
+# Histoire sociale

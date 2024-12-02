@@ -1,6 +1,11 @@
-# Conditions economiques  
+---
+title: Conditions economiques
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conditions économiques
 
-## French
-
-- [[5844 Economic conditions]]  
-
+french:
+- "[[5844 Economic conditions]]"
+---
+# Conditions economiques

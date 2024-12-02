@@ -1,8 +1,13 @@
-# Northern studies  
+---
+title: Northern studies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Northern studies
 
-## Related Term
-
-- [[14579 Northern development]
-- [[15910 Polar regions]
-- [[14571 Northern Canada]]  
-
+relatedTerm:
+- "[[14579 Northern development]]"
+- "[[15910 Polar regions]]"
+- "[[14571 Northern Canada]]"
+---
+# Northern studies

@@ -1,6 +1,11 @@
-# Conge  
+---
+title: Conge
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Congé
 
-## French
-
-- [[12245 Leave of absence]]  
-
+french:
+- "[[12245 Leave of absence]]"
+---
+# Conge

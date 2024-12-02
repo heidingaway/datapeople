@@ -1,7 +1,12 @@
-# Pay equity  
+---
+title: Pay equity
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pay equity
 
-## Related Term
-
-- [[6537 Employment equity]
-- [[18090 Salaries]]  
-
+relatedTerm:
+- "[[6537 Employment equity]]"
+- "[[18090 Salaries]]"
+---
+# Pay equity

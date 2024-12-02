@@ -1,17 +1,18 @@
-# Fishing Sport  
+---
+title: Fishing Sport
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fishing (Sport)
 
-## Narrower Term
-
-- [[19242 Sports]]  
-
-## Related Term
-
-- [[7991 Fishing permits]
-- [[15136 Outdoor recreation]
-- [[15142 Outfitters]]  
-
-## Use
-
-- [[19234 Sport fishing]
-- [[17348 Recreational fishing]]  
-
+narrowerTerm:
+- "[[19242 Sports]]"
+relatedTerm:
+- "[[7991 Fishing permits]]"
+- "[[15136 Outdoor recreation]]"
+- "[[15142 Outfitters]]"
+use:
+- "[[19234 Sport fishing]]"
+- "[[17348 Recreational fishing]]"
+---
+# Fishing Sport

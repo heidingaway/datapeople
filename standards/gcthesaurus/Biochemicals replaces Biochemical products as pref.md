@@ -1,7 +1,8 @@
-# Biochemicals replaces Biochemical products as pref  
+---
+title: Biochemicals replaces Biochemical products as pref
+alias: "Biochemicals" replaces "Biochemical products" as preferred term in March 2009.
 
-## History note
-
-- [[2090 Biochemicals]
-- [[2082 Biochemical products]]  
-
+historyNote:
+- "[[2090 Biochemicals]]"
+- "[[2082 Biochemical products]]"
+---

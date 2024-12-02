@@ -1,6 +1,11 @@
-# Laitue  
+---
+title: Laitue
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Laitue
 
-## French
-
-- [[12361 Lettuce]]  
-
+french:
+- "[[12361 Lettuce]]"
+---
+# Laitue

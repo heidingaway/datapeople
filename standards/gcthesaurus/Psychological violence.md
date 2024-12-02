@@ -1,6 +1,11 @@
-# Psychological violence  
+---
+title: Psychological violence
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Psychological violence
 
-## Used For
-
-- [[21024 Violence]]  
-
+usedFor:
+- "[[21024 Violence]]"
+---
+# Psychological violence

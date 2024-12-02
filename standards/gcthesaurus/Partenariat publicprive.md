@@ -1,6 +1,11 @@
-# Partenariat publicprive  
+---
+title: Partenariat publicprive
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Partenariat public-privé
 
-## French
-
-- [[16743 Public-private partnerships]]  
-
+french:
+- "[[16743 Public-private partnerships]]"
+---
+# Partenariat publicprive

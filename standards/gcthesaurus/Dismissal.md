@@ -1,6 +1,11 @@
-# Dismissal  
+---
+title: Dismissal
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Dismissal
 
-## Related Term
-
-- [[19630 Suspension]]  
-
+relatedTerm:
+- "[[19630 Suspension]]"
+---
+# Dismissal

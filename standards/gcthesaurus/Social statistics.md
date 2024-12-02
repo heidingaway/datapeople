@@ -1,11 +1,14 @@
-# Social statistics  
+---
+title: Social statistics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Social statistics
 
-## Narrower Term
-
-- [[19350 Statistics]]  
-
-## Related Term
-
-- [[19050 Socioeconomic data]
-- [[19045 Socioeconomic analysis]]  
-
+narrowerTerm:
+- "[[19350 Statistics]]"
+relatedTerm:
+- "[[19050 Socioeconomic data]]"
+- "[[19045 Socioeconomic analysis]]"
+---
+# Social statistics

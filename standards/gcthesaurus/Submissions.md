@@ -1,16 +1,17 @@
-# Submissions  
+---
+title: Submissions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Submissions
 
-## Broader Term
-
-- [[17577 Reports]
-- [[19487 Style manuals]
-- [[22063 Writing]]  
-
-## Narrower Term
-
-- [[7536 Federal government]]  
-
-## Related Term
-
-- [[9183 Government information]]  
-
+broaderTerm:
+- "[[17577 Reports]]"
+- "[[19487 Style manuals]]"
+- "[[22063 Writing]]"
+narrowerTerm:
+- "[[7536 Federal government]]"
+relatedTerm:
+- "[[9183 Government information]]"
+---
+# Submissions

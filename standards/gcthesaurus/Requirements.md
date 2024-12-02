@@ -1,6 +1,11 @@
-# Requirements  
+---
+title: Requirements
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Requirements
 
-## Used For
-
-- [[19215 Specifications]]  
-
+usedFor:
+- "[[19215 Specifications]]"
+---
+# Requirements

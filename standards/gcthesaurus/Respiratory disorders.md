@@ -1,6 +1,11 @@
-# Respiratory disorders  
+---
+title: Respiratory disorders
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Respiratory disorders
 
-## Used For
-
-- [[17747 Respiratory diseases]]  
-
+usedFor:
+- "[[17747 Respiratory diseases]]"
+---
+# Respiratory disorders

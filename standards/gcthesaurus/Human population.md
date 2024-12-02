@@ -1,6 +1,11 @@
-# Human population  
+---
+title: Human population
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Human population
 
-## Used For
-
-- [[16071 Population]]  
-
+usedFor:
+- "[[16071 Population]]"
+---
+# Human population

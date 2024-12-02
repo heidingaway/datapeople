@@ -1,6 +1,11 @@
-# Laboratoire  
+---
+title: Laboratoire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Laboratoire
 
-## French
-
-- [[11828 Laboratories]]  
-
+french:
+- "[[11828 Laboratories]]"
+---
+# Laboratoire

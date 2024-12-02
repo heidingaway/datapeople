@@ -1,6 +1,11 @@
-# Language interpretation  
+---
+title: Language interpretation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Language interpretation
 
-## Used For
-
-- [[11491 Interpretation]]  
-
+usedFor:
+- "[[11491 Interpretation]]"
+---
+# Language interpretation

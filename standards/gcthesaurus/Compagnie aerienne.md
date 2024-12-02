@@ -1,6 +1,11 @@
-# Compagnie aerienne  
+---
+title: Compagnie aerienne
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Compagnie aérienne
 
-## French
-
-- [[766 Airlines]]  
-
+french:
+- "[[766 Airlines]]"
+---
+# Compagnie aerienne

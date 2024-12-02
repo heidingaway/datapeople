@@ -1,6 +1,11 @@
-# Penitentiaries  
+---
+title: Penitentiaries
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Penitentiaries
 
-## Used For
-
-- [[4302 Correctional institutions]]  
-
+usedFor:
+- "[[4302 Correctional institutions]]"
+---
+# Penitentiaries

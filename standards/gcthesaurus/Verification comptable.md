@@ -1,6 +1,11 @@
-# Verification comptable  
+---
+title: Verification comptable
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vérification comptable
 
-## French
-
-- [[7724 Financial audit]]  
-
+french:
+- "[[7724 Financial audit]]"
+---
+# Verification comptable

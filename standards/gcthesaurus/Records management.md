@@ -1,18 +1,19 @@
-# Records management  
+---
+title: Records management
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Records management
 
-## Broader Term
-
-- [[17293 Records disposal]
-- [[17305 Records retention]]  
-
-## Narrower Term
-
-- [[12768 Management]]  
-
-## Related Term
-
-- [[14919 Office management]
-- [[2857 Cataloguing]
-- [[17290 Records]
-- [[11004 Information management]]  
-
+broaderTerm:
+- "[[17293 Records disposal]]"
+- "[[17305 Records retention]]"
+narrowerTerm:
+- "[[12768 Management]]"
+relatedTerm:
+- "[[14919 Office management]]"
+- "[[2857 Cataloguing]]"
+- "[[17290 Records]]"
+- "[[11004 Information management]]"
+---
+# Records management

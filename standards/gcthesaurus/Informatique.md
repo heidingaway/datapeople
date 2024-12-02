@@ -1,6 +1,11 @@
-# Informatique  
+---
+title: Informatique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Informatique
 
-## French
-
-- [[3838 Computer science]]  
-
+french:
+- "[[3838 Computer science]]"
+---
+# Informatique

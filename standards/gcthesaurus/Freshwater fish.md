@@ -1,10 +1,13 @@
-# Freshwater fish  
+---
+title: Freshwater fish
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Freshwater fish
 
-## Narrower Term
-
-- [[7872 Fish]]  
-
-## Use
-
-- [[20705 Trout]]  
-
+narrowerTerm:
+- "[[7872 Fish]]"
+use:
+- "[[20705 Trout]]"
+---
+# Freshwater fish

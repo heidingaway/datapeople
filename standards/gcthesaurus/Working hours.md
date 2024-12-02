@@ -1,6 +1,11 @@
-# Working hours  
+---
+title: Working hours
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Working hours
 
-## Used For
-
-- [[21952 Working conditions]]  
-
+usedFor:
+- "[[21952 Working conditions]]"
+---
+# Working hours

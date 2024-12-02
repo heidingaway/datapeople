@@ -1,6 +1,11 @@
-# Patrimoine naturel  
+---
+title: Patrimoine naturel
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Patrimoine naturel
 
-## French
-
-- [[14302 Natural heritage]]  
-
+french:
+- "[[14302 Natural heritage]]"
+---
+# Patrimoine naturel

@@ -1,6 +1,11 @@
-# Intoxication  
+---
+title: Intoxication
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Intoxication
 
-## Used For
-
-- [[15898 Poisoning]]  
-
+usedFor:
+- "[[15898 Poisoning]]"
+---
+# Intoxication

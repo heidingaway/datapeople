@@ -1,14 +1,17 @@
-# Conflicts  
+---
+title: Conflicts
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conflicts
 
-## Broader Term
-
-- [[11866 Labour disputes]
-- [[3944 Conflicts of interest]]  
-
-## Related Term
-
-- [[1327 Arbitration]
-- [[4519 Crisis]
-- [[12526 Litigation]
-- [[3930 Conflict resolution]]  
-
+broaderTerm:
+- "[[11866 Labour disputes]]"
+- "[[3944 Conflicts of interest]]"
+relatedTerm:
+- "[[1327 Arbitration]]"
+- "[[4519 Crisis]]"
+- "[[12526 Litigation]]"
+- "[[3930 Conflict resolution]]"
+---
+# Conflicts

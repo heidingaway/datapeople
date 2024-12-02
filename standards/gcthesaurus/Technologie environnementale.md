@@ -1,6 +1,11 @@
-# Technologie environnementale  
+---
+title: Technologie environnementale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Technologie environnementale
 
-## French
-
-- [[7012 Environmental technology]]  
-
+french:
+- "[[7012 Environmental technology]]"
+---
+# Technologie environnementale

@@ -1,7 +1,12 @@
-# Public relations  
+---
+title: Public relations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Public relations
 
-## Related Term
-
-- [[16267 Press releases]
-- [[13097 Marketing]]  
-
+relatedTerm:
+- "[[16267 Press releases]]"
+- "[[13097 Marketing]]"
+---
+# Public relations

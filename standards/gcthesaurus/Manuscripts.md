@@ -1,8 +1,13 @@
-# Manuscripts  
+---
+title: Manuscripts
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Manuscripts
 
-## Related Term
-
-- [[1718 Authors]
-- [[2336 Books]
-- [[16944 Publishing]]  
-
+relatedTerm:
+- "[[1718 Authors]]"
+- "[[2336 Books]]"
+- "[[16944 Publishing]]"
+---
+# Manuscripts

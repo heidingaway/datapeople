@@ -1,6 +1,11 @@
-# Food production  
+---
+title: Food production
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Food production
 
-## Used For
-
-- [[418 Agri-food industry]]  
-
+usedFor:
+- "[[418 Agri-food industry]]"
+---
+# Food production

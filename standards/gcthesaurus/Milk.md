@@ -1,10 +1,13 @@
-# Milk  
+---
+title: Milk
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Milk
 
-## Narrower Term
-
-- [[4820 Dairy products]]  
-
-## Related Term
-
-- [[4803 Dairy cattle]]  
-
+narrowerTerm:
+- "[[4820 Dairy products]]"
+relatedTerm:
+- "[[4803 Dairy cattle]]"
+---
+# Milk

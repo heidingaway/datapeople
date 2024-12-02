@@ -1,6 +1,11 @@
-# Telephone services  
+---
+title: Telephone services
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Telephone services
 
-## Used For
-
-- [[19978 Telephones]]  
-
+usedFor:
+- "[[19978 Telephones]]"
+---
+# Telephone services

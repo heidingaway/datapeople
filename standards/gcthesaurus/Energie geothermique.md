@@ -1,6 +1,11 @@
-# Energie geothermique  
+---
+title: Energie geothermique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Énergie géothermique
 
-## French
-
-- [[9033 Geothermal energy]]  
-
+french:
+- "[[9033 Geothermal energy]]"
+---
+# Energie geothermique

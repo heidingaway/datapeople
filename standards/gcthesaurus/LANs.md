@@ -1,6 +1,11 @@
-# LANs  
+---
+title: LANs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: LANs
 
-## Used For
-
-- [[3813 Computer networks]]  
-
+usedFor:
+- "[[3813 Computer networks]]"
+---
+# LANs

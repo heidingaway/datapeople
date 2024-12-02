@@ -1,6 +1,11 @@
-# Land pollution  
+---
+title: Land pollution
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Land pollution
 
-## Used For
-
-- [[19095 Soil pollution]]  
-
+usedFor:
+- "[[19095 Soil pollution]]"
+---
+# Land pollution

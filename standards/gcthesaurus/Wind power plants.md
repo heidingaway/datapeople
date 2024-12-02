@@ -1,6 +1,11 @@
-# Wind power plants  
+---
+title: Wind power plants
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Wind power plants
 
-## Used For
-
-- [[6218 Electric power stations]]  
-
+usedFor:
+- "[[6218 Electric power stations]]"
+---
+# Wind power plants

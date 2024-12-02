@@ -1,6 +1,11 @@
-# Minerai  
+---
+title: Minerai
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Minerai
 
-## French
-
-- [[13716 Minerals]]  
-
+french:
+- "[[13716 Minerals]]"
+---
+# Minerai

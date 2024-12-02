@@ -1,6 +1,11 @@
-# Correspondence  
+---
+title: Correspondence
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Correspondence
 
-## Related Term
-
-- [[6351 Electronic mail]]  
-
+relatedTerm:
+- "[[6351 Electronic mail]]"
+---
+# Correspondence

@@ -1,6 +1,11 @@
-# Indicateur social  
+---
+title: Indicateur social
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Indicateur social
 
-## French
-
-- [[18908 Social indicators]]  
-
+french:
+- "[[18908 Social indicators]]"
+---
+# Indicateur social

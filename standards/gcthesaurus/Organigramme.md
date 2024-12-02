@@ -1,6 +1,11 @@
-# Organigramme  
+---
+title: Organigramme
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Organigramme
 
-## French
-
-- [[8049 Flowcharts]]  
-
+french:
+- "[[8049 Flowcharts]]"
+---
+# Organigramme

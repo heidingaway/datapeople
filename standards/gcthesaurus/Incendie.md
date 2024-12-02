@@ -1,6 +1,11 @@
-# Incendie  
+---
+title: Incendie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Incendie
 
-## French
-
-- [[7785 Fire]]  
-
+french:
+- "[[7785 Fire]]"
+---
+# Incendie

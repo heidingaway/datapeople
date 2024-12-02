@@ -1,6 +1,11 @@
-# Rural fairs  
+---
+title: Rural fairs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rural fairs
 
-## Used For
-
-- [[497 Agricultural fairs]]  
-
+usedFor:
+- "[[497 Agricultural fairs]]"
+---
+# Rural fairs

@@ -1,6 +1,11 @@
-# Personne non binaire  
+---
+title: Personne non binaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Personne non binaire
 
-## French
-
-- [[8792 Gender-nonconforming people]]  
-
+french:
+- "[[8792 Gender-nonconforming people]]"
+---
+# Personne non binaire

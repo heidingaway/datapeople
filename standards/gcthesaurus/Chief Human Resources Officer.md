@@ -1,6 +1,11 @@
-# Chief Human Resources Officer  
+---
+title: Chief Human Resources Officer
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Chief Human Resources Officer
 
-## Related Term
-
-- [[10198 Human resources]]  
-
+relatedTerm:
+- "[[10198 Human resources]]"
+---
+# Chief Human Resources Officer

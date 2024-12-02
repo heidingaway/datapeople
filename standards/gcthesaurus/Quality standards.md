@@ -1,10 +1,13 @@
-# Quality standards  
+---
+title: Quality standards
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Quality standards
 
-## Narrower Term
-
-- [[19294 Standards]]  
-
-## Related Term
-
-- [[16991 Quality control]]  
-
+narrowerTerm:
+- "[[19294 Standards]]"
+relatedTerm:
+- "[[16991 Quality control]]"
+---
+# Quality standards

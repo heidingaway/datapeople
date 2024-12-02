@@ -1,6 +1,11 @@
-# Surdite  
+---
+title: Surdite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Surdité
 
-## French
-
-- [[4935 Deafness]]  
-
+french:
+- "[[4935 Deafness]]"
+---
+# Surdite

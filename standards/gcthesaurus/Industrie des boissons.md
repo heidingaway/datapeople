@@ -1,6 +1,11 @@
-# Industrie des boissons  
+---
+title: Industrie des boissons
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrie des boissons
 
-## French
-
-- [[1982 Beverage industry]]  
-
+french:
+- "[[1982 Beverage industry]]"
+---
+# Industrie des boissons

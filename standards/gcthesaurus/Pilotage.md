@@ -1,15 +1,16 @@
-# Pilotage  
+---
+title: Pilotage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pilotage
 
-## French
-
-- [[15791 Pilotage]]  
-
-## Related Term
-
-- [[14382 Navigation]]  
-
-## Use
-
-- [[18669 Ship piloting]
-- [[12969 Marine pilotage]]  
-
+french:
+- "[[15791 Pilotage]]"
+relatedTerm:
+- "[[14382 Navigation]]"
+use:
+- "[[18669 Ship piloting]]"
+- "[[12969 Marine pilotage]]"
+---
+# Pilotage

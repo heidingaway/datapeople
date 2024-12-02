@@ -1,6 +1,11 @@
-# Military forces  
+---
+title: Military forces
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Military forces
 
-## Used For
-
-- [[1417 Armed forces]]  
-
+usedFor:
+- "[[1417 Armed forces]]"
+---
+# Military forces

@@ -1,6 +1,11 @@
-# Toxic waste  
+---
+title: Toxic waste
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Toxic waste
 
-## Used For
-
-- [[20325 Toxic substances]]  
-
+usedFor:
+- "[[20325 Toxic substances]]"
+---
+# Toxic waste

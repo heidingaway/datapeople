@@ -1,6 +1,11 @@
-# Marche  
+---
+title: Marche
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Marché
 
-## French
-
-- [[13112 Markets]]  
-
+french:
+- "[[13112 Markets]]"
+---
+# Marche

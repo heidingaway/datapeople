@@ -1,6 +1,11 @@
-# Mortality  
+---
+title: Mortality
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mortality
 
-## Used For
-
-- [[4939 Death]]  
-
+usedFor:
+- "[[4939 Death]]"
+---
+# Mortality

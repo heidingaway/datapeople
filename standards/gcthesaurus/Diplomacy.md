@@ -1,6 +1,11 @@
-# Diplomacy  
+---
+title: Diplomacy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Diplomacy
 
-## Used For
-
-- [[8264 Foreign service]]  
-
+usedFor:
+- "[[8264 Foreign service]]"
+---
+# Diplomacy

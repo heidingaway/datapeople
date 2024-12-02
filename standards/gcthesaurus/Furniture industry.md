@@ -1,10 +1,13 @@
-# Furniture industry  
+---
+title: Furniture industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Furniture industry
 
-## Narrower Term
-
-- [[12846 Manufacturing industry]]  
-
-## Related Term
-
-- [[8666 Furniture]]  
-
+narrowerTerm:
+- "[[12846 Manufacturing industry]]"
+relatedTerm:
+- "[[8666 Furniture]]"
+---
+# Furniture industry

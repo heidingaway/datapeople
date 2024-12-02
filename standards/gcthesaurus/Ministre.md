@@ -1,6 +1,11 @@
-# Ministre  
+---
+title: Ministre
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ministre
 
-## French
-
-- [[13759 Ministers]]  
-
+french:
+- "[[13759 Ministers]]"
+---
+# Ministre

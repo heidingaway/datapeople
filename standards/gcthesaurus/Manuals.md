@@ -1,6 +1,11 @@
-# Manuals  
+---
+title: Manuals
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Manuals
 
-## Used For
-
-- [[9439 Handbooks]]  
-
+usedFor:
+- "[[9439 Handbooks]]"
+---
+# Manuals

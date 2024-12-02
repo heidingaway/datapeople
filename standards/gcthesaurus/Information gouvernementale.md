@@ -1,6 +1,11 @@
-# Information gouvernementale  
+---
+title: Information gouvernementale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Information gouvernementale
 
-## French
-
-- [[9173 Government information]]  
-
+french:
+- "[[9173 Government information]]"
+---
+# Information gouvernementale

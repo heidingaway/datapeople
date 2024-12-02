@@ -1,6 +1,11 @@
-# Snow avalanches  
+---
+title: Snow avalanches
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Snow avalanches
 
-## Used For
-
-- [[1776 Avalanches]]  
-
+usedFor:
+- "[[1776 Avalanches]]"
+---
+# Snow avalanches

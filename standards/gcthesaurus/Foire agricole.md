@@ -1,6 +1,11 @@
-# Foire agricole  
+---
+title: Foire agricole
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Foire agricole
 
-## French
-
-- [[496 Agricultural fairs]]  
-
+french:
+- "[[496 Agricultural fairs]]"
+---
+# Foire agricole

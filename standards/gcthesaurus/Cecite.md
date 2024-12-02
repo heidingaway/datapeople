@@ -1,6 +1,11 @@
-# Cecite  
+---
+title: Cecite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cécité
 
-## French
-
-- [[2296 Blindness]]  
-
+french:
+- "[[2296 Blindness]]"
+---
+# Cecite

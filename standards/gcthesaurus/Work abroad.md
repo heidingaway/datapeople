@@ -1,6 +1,11 @@
-# Work abroad  
+---
+title: Work abroad
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Work abroad
 
-## Used For
-
-- [[6511 Employment abroad]]  
-
+usedFor:
+- "[[6511 Employment abroad]]"
+---
+# Work abroad

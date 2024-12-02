@@ -1,6 +1,11 @@
-# Penurie  
+---
+title: Penurie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pénurie
 
-## French
-
-- [[18712 Shortage]]  
-
+french:
+- "[[18712 Shortage]]"
+---
+# Penurie

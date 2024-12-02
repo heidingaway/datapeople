@@ -1,8 +1,13 @@
-# Games  
+---
+title: Games
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Games
 
-## Related Term
-
-- [[8691 Gambling]
-- [[17325 Recreation]
-- [[20357 Toys]]  
-
+relatedTerm:
+- "[[8691 Gambling]]"
+- "[[17325 Recreation]]"
+- "[[20357 Toys]]"
+---
+# Games

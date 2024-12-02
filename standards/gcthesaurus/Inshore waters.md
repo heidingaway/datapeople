@@ -1,6 +1,11 @@
-# Inshore waters  
+---
+title: Inshore waters
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Inshore waters
 
-## Used For
-
-- [[3417 Coastal waters]]  
-
+usedFor:
+- "[[3417 Coastal waters]]"
+---
+# Inshore waters

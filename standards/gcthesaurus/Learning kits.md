@@ -1,6 +1,11 @@
-# Learning kits  
+---
+title: Learning kits
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Learning kits
 
-## Used For
-
-- [[11163 Instructional materials]]  
-
+usedFor:
+- "[[11163 Instructional materials]]"
+---
+# Learning kits

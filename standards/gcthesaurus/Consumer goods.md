@@ -1,6 +1,11 @@
-# Consumer goods  
+---
+title: Consumer goods
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Consumer goods
 
-## Used For
-
-- [[4076 Consumer products]]  
-
+usedFor:
+- "[[4076 Consumer products]]"
+---
+# Consumer goods

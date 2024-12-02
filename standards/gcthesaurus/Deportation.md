@@ -1,6 +1,11 @@
-# Deportation  
+---
+title: Deportation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Déportation
 
-## French
-
-- [[5152 Deportation]]  
-
+french:
+- "[[5152 Deportation]]"
+---
+# Deportation

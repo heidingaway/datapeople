@@ -1,6 +1,11 @@
-# Restructuration  
+---
+title: Restructuration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Restructuration
 
-## French
-
-- [[17764 Restructuring]]  
-
+french:
+- "[[17764 Restructuring]]"
+---
+# Restructuration

@@ -1,6 +1,11 @@
-# Newcomers  
+---
+title: Newcomers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Newcomers
 
-## Used For
-
-- [[10501 Immigrants]]  
-
+usedFor:
+- "[[10501 Immigrants]]"
+---
+# Newcomers

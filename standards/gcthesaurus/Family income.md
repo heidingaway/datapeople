@@ -1,6 +1,11 @@
-# Family income  
+---
+title: Family income
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Family income
 
-## Used For
-
-- [[10121 Household income]]  
-
+usedFor:
+- "[[10121 Household income]]"
+---
+# Family income

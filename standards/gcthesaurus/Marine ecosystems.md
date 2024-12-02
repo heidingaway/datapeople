@@ -1,6 +1,11 @@
-# Marine ecosystems  
+---
+title: Marine ecosystems
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Marine ecosystems
 
-## Used For
-
-- [[1285 Aquatic ecosystems]]  
-
+usedFor:
+- "[[1285 Aquatic ecosystems]]"
+---
+# Marine ecosystems

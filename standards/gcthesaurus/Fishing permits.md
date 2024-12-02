@@ -1,11 +1,14 @@
-# Fishing permits  
+---
+title: Fishing permits
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fishing permits
 
-## Narrower Term
-
-- [[15505 Permits]]  
-
-## Related Term
-
-- [[7969 Fishing (Sport)]
-- [[7999 Fishing rights]]  
-
+narrowerTerm:
+- "[[15505 Permits]]"
+relatedTerm:
+- "[[7969 Fishing (Sport)]]"
+- "[[7999 Fishing rights]]"
+---
+# Fishing permits

@@ -1,6 +1,11 @@
-# Cars  
+---
+title: Cars
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cars
 
-## Used For
-
-- [[1764 Automobiles]]  
-
+usedFor:
+- "[[1764 Automobiles]]"
+---
+# Cars

@@ -1,7 +1,12 @@
-# Research institutes  
+---
+title: Research institutes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Research institutes
 
-## Related Term
-
-- [[11832 Laboratories]
-- [[17659 Research]]  
-
+relatedTerm:
+- "[[11832 Laboratories]]"
+- "[[17659 Research]]"
+---
+# Research institutes

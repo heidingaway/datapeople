@@ -1,6 +1,11 @@
-# Traitement des demandes  
+---
+title: Traitement des demandes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Traitement des demandes
 
-## French
-
-- [[3296 Claims processing]]  
-
+french:
+- "[[3296 Claims processing]]"
+---
+# Traitement des demandes

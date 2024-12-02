@@ -1,14 +1,15 @@
-# Property tax  
+---
+title: Property tax
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Property tax
 
-## Narrower Term
-
-- [[19775 Taxes]]  
-
-## Related Term
-
-- [[17239 Real estate]]  
-
-## Use
-
-- [[12019 Land tax]]  
-
+narrowerTerm:
+- "[[19775 Taxes]]"
+relatedTerm:
+- "[[17239 Real estate]]"
+use:
+- "[[12019 Land tax]]"
+---
+# Property tax

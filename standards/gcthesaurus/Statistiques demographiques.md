@@ -1,6 +1,11 @@
-# Statistiques demographiques  
+---
+title: Statistiques demographiques
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Statistiques démographiques
 
-## French
-
-- [[5103 Demographic statistics]]  
-
+french:
+- "[[5103 Demographic statistics]]"
+---
+# Statistiques demographiques

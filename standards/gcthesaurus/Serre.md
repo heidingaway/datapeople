@@ -1,6 +1,11 @@
-# Serre  
+---
+title: Serre
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Serre
 
-## French
-
-- [[9369 Greenhouses]]  
-
+french:
+- "[[9369 Greenhouses]]"
+---
+# Serre

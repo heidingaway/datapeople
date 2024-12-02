@@ -1,18 +1,17 @@
-# Alternative medicine  
-
-## Broader Term
-
-- [[10049 Homeopathy]]  
-
-## Narrower Term
-
-- [[13337 Medicine]]  
-
-## Related Term
-
-- [[13329 Medicinal plants]]  
-
-## Use
-
-- [[19062 Soft medicine]]  
-
+---
+title: Alternative medicine
+created: 2024-12-01
+modified: 2024-12-01
+tags:
+  - TBSMetadata
+alias: Alternative medicine
+broaderTerm:
+  - "[[10049 Homeopathy]]"
+narrowerTerm:
+  - "[[13337 Medicine]]"
+relatedTerm:
+  - "[[13329 Medicinal plants]]"
+use:
+  - "[[19062 Soft medicine]]"
+---
+# Alternative medicine

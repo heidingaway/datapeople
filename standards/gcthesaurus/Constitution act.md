@@ -1,6 +1,11 @@
-# Constitution act  
+---
+title: Constitution act
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Constitution act
 
-## Used For
-
-- [[3988 Constitution]]  
-
+usedFor:
+- "[[3988 Constitution]]"
+---
+# Constitution act

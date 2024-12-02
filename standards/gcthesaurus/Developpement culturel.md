@@ -1,6 +1,11 @@
-# Developpement culturel  
+---
+title: Developpement culturel
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Développement culturel
 
-## French
-
-- [[4624 Cultural development]]  
-
+french:
+- "[[4624 Cultural development]]"
+---
+# Developpement culturel

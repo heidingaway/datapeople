@@ -1,6 +1,11 @@
-# Entertainment  
+---
+title: Entertainment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Entertainment
 
-## Used For
-
-- [[17320 Recreation]]  
-
+usedFor:
+- "[[17320 Recreation]]"
+---
+# Entertainment

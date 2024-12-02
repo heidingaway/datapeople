@@ -1,6 +1,11 @@
-# Transport interprovincial  
+---
+title: Transport interprovincial
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Transport interprovincial
 
-## French
-
-- [[11506 Interprovincial transport]]  
-
+french:
+- "[[11506 Interprovincial transport]]"
+---
+# Transport interprovincial

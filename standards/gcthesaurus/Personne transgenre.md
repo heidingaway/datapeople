@@ -1,6 +1,11 @@
-# Personne transgenre  
+---
+title: Personne transgenre
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Personne transgenre
 
-## French
-
-- [[20562 Transgender people]]  
-
+french:
+- "[[20562 Transgender people]]"
+---
+# Personne transgenre

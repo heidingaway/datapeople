@@ -1,11 +1,14 @@
-# Taxation regulations  
+---
+title: Taxation regulations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Taxation regulations
 
-## Narrower Term
-
-- [[17471 Regulations]]  
-
-## Related Term
-
-- [[19785 Taxes]
-- [[7866 Fiscal policy]]  
-
+narrowerTerm:
+- "[[17471 Regulations]]"
+relatedTerm:
+- "[[19785 Taxes]]"
+- "[[7866 Fiscal policy]]"
+---
+# Taxation regulations

@@ -1,6 +1,11 @@
-# Cable distribution  
+---
+title: Cable distribution
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cable distribution
 
-## Used For
-
-- [[2650 Cable television]]  
-
+usedFor:
+- "[[2650 Cable television]]"
+---
+# Cable distribution

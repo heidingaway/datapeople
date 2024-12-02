@@ -1,27 +1,26 @@
-# Data processing  
+---
+title: Data processing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Data processing
 
-## Broader Term
-
-- [[5265 Digitization]]  
-
-## Narrower Term
-
-- [[16449 Processing]]  
-
-## Related Term
-
-- [[4869 Data mining]
-- [[3863 Computer services]
-- [[11051 Information technology]
-- [[3843 Computer science]
-- [[20009 Templates]
-- [[3893 Computers]
-- [[12681 Machine readable data]
-- [[10996 Information management]
-- [[4903 Databases]]  
-
-## Use
-
-- [[6293 Electronic data processing]
-- [[1729 Automatic data processing]]  
-
+broaderTerm:
+- "[[5265 Digitization]]"
+narrowerTerm:
+- "[[16449 Processing]]"
+relatedTerm:
+- "[[4869 Data mining]]"
+- "[[3863 Computer services]]"
+- "[[11051 Information technology]]"
+- "[[3843 Computer science]]"
+- "[[20009 Templates]]"
+- "[[3893 Computers]]"
+- "[[12681 Machine readable data]]"
+- "[[10996 Information management]]"
+- "[[4903 Databases]]"
+use:
+- "[[6293 Electronic data processing]]"
+- "[[1729 Automatic data processing]]"
+---
+# Data processing

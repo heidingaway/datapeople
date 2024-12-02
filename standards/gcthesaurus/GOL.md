@@ -1,6 +1,11 @@
-# GOL  
+---
+title: GOL
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: GOL
 
-## Used For
-
-- [[6326 Electronic government]]  
-
+usedFor:
+- "[[6326 Electronic government]]"
+---
+# GOL

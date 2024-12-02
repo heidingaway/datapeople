@@ -1,16 +1,17 @@
-# Vegetables  
+---
+title: Vegetables
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vegetables
 
-## Broader Term
-
-- [[12362 Lettuce]
-- [[2809 Carrots]
-- [[16150 Potatoes]]  
-
-## Narrower Term
-
-- [[449 Agri-food products]]  
-
-## Related Term
-
-- [[20895 Vegetable crops]]  
-
+broaderTerm:
+- "[[12362 Lettuce]]"
+- "[[2809 Carrots]]"
+- "[[16150 Potatoes]]"
+narrowerTerm:
+- "[[449 Agri-food products]]"
+relatedTerm:
+- "[[20895 Vegetable crops]]"
+---
+# Vegetables

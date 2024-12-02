@@ -1,6 +1,11 @@
-# Mediation  
+---
+title: Mediation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Médiation
 
-## French
-
-- [[13212 Mediation]]  
-
+french:
+- "[[13212 Mediation]]"
+---
+# Mediation

@@ -1,11 +1,14 @@
-# Historical research  
+---
+title: Historical research
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Historical research
 
-## Narrower Term
-
-- [[17650 Research]]  
-
-## Related Term
-
-- [[9966 Historical societies]
-- [[9984 History]]  
-
+narrowerTerm:
+- "[[17650 Research]]"
+relatedTerm:
+- "[[9966 Historical societies]]"
+- "[[9984 History]]"
+---
+# Historical research

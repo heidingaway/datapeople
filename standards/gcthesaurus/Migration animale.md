@@ -1,6 +1,11 @@
-# Migration animale  
+---
+title: Migration animale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Migration animale
 
-## French
-
-- [[1035 Animal migrations]]  
-
+french:
+- "[[1035 Animal migrations]]"
+---
+# Migration animale

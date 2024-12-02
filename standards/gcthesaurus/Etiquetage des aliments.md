@@ -1,6 +1,11 @@
-# Etiquetage des aliments  
+---
+title: Etiquetage des aliments
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Étiquetage des aliments
 
-## French
-
-- [[8124 Food labelling]]  
-
+french:
+- "[[8124 Food labelling]]"
+---
+# Etiquetage des aliments

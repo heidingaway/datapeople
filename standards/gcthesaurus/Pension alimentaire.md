@@ -1,6 +1,11 @@
-# Pension alimentaire  
+---
+title: Pension alimentaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pension alimentaire
 
-## French
-
-- [[3136 Child support]]  
-
+french:
+- "[[3136 Child support]]"
+---
+# Pension alimentaire

@@ -1,6 +1,11 @@
-# Taxe de vente harmonisee  
+---
+title: Taxe de vente harmonisee
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Taxe de vente harmonisée
 
-## French
-
-- [[9496 Harmonized sales tax]]  
-
+french:
+- "[[9496 Harmonized sales tax]]"
+---
+# Taxe de vente harmonisee

@@ -1,6 +1,11 @@
-# Product labeling  
+---
+title: Product labeling
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Product labeling
 
-## Used For
-
-- [[11780 Labelling]]  
-
+usedFor:
+- "[[11780 Labelling]]"
+---
+# Product labeling

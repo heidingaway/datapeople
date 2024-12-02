@@ -1,6 +1,11 @@
-# Fossils  
+---
+title: Fossils
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fossils
 
-## Related Term
-
-- [[15225 Palaeontology]]  
-
+relatedTerm:
+- "[[15225 Palaeontology]]"
+---
+# Fossils

@@ -1,8 +1,13 @@
-# Security investigations  
+---
+title: Security investigations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Security investigations
 
-## Related Term
-
-- [[18447 Security]
-- [[11428 International security]
-- [[14240 National security]]  
-
+relatedTerm:
+- "[[18447 Security]]"
+- "[[11428 International security]]"
+- "[[14240 National security]]"
+---
+# Security investigations

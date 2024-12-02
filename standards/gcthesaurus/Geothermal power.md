@@ -1,6 +1,11 @@
-# Geothermal power  
+---
+title: Geothermal power
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geothermal power
 
-## Used For
-
-- [[9035 Geothermal energy]]  
-
+usedFor:
+- "[[9035 Geothermal energy]]"
+---
+# Geothermal power

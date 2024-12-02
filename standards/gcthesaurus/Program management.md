@@ -1,10 +1,13 @@
-# Program management  
+---
+title: Program management
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Program management
 
-## Narrower Term
-
-- [[12765 Management]]  
-
-## Related Term
-
-- [[16542 Program assessment]]  
-
+narrowerTerm:
+- "[[12765 Management]]"
+relatedTerm:
+- "[[16542 Program assessment]]"
+---
+# Program management

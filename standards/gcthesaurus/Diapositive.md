@@ -1,6 +1,11 @@
-# Diapositive  
+---
+title: Diapositive
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Diapositive
 
-## French
-
-- [[18796 Slides]]  
-
+french:
+- "[[18796 Slides]]"
+---
+# Diapositive

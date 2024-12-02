@@ -1,6 +1,11 @@
-# Explosive substances  
+---
+title: Explosive substances
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Explosive substances
 
-## Used For
-
-- [[7298 Explosives]]  
-
+usedFor:
+- "[[7298 Explosives]]"
+---
+# Explosive substances

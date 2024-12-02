@@ -1,6 +1,11 @@
-# Medical centres  
+---
+title: Medical centres
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Medical centres
 
-## Used For
-
-- [[9614 Health care facilities]]  
-
+usedFor:
+- "[[9614 Health care facilities]]"
+---
+# Medical centres

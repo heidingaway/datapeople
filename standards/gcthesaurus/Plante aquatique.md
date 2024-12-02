@@ -1,6 +1,11 @@
-# Plante aquatique  
+---
+title: Plante aquatique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Plante aquatique
 
-## French
-
-- [[1294 Aquatic plants]]  
-
+french:
+- "[[1294 Aquatic plants]]"
+---
+# Plante aquatique

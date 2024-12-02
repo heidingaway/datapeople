@@ -1,6 +1,11 @@
-# Employment outlook  
+---
+title: Employment outlook
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Employment outlook
 
-## Used For
-
-- [[6563 Employment opportunities]]  
-
+usedFor:
+- "[[6563 Employment opportunities]]"
+---
+# Employment outlook

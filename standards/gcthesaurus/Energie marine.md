@@ -1,6 +1,11 @@
-# Energie marine  
+---
+title: Energie marine
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Énergie marine
 
-## French
-
-- [[14824 Ocean energy]]  
-
+french:
+- "[[14824 Ocean energy]]"
+---
+# Energie marine

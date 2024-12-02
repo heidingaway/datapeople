@@ -1,6 +1,11 @@
-# Societes  
+---
+title: Societes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sociétés
 
-## French
-
-- [[4278 Corporations]]  
-
+french:
+- "[[4278 Corporations]]"
+---
+# Societes

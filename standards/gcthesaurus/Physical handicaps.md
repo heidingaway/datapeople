@@ -1,6 +1,11 @@
-# Physical handicaps  
+---
+title: Physical handicaps
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Physical handicaps
 
-## Used For
-
-- [[15753 Physical disabilities]]  
-
+usedFor:
+- "[[15753 Physical disabilities]]"
+---
+# Physical handicaps

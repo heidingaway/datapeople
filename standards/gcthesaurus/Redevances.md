@@ -1,6 +1,11 @@
-# Redevances  
+---
+title: Redevances
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Redevances
 
-## French
-
-- [[17950 Royalties]]  
-
+french:
+- "[[17950 Royalties]]"
+---
+# Redevances

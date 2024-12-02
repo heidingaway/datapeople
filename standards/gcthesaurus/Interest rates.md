@@ -1,10 +1,13 @@
-# Interest rates  
+---
+title: Interest rates
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Interest rates
 
-## Narrower Term
-
-- [[17214 Rates]]  
-
-## Related Term
-
-- [[12587 Loans]]  
-
+narrowerTerm:
+- "[[17214 Rates]]"
+relatedTerm:
+- "[[12587 Loans]]"
+---
+# Interest rates

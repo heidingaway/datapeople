@@ -1,6 +1,11 @@
-# Crise humanitaire  
+---
+title: Crise humanitaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Crise humanitaire
 
-## French
-
-- [[10262 Humanitarian crisis]]  
-
+french:
+- "[[10262 Humanitarian crisis]]"
+---
+# Crise humanitaire

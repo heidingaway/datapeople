@@ -1,6 +1,11 @@
-# Gai  
+---
+title: Gai
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gai
 
-## French
-
-- [[8750 Gay men]]  
-
+french:
+- "[[8750 Gay men]]"
+---
+# Gai

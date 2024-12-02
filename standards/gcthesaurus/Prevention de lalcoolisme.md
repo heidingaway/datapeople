@@ -1,6 +1,11 @@
-# Prevention de lalcoolisme  
+---
+title: Prevention de lalcoolisme
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prévention de l'alcoolisme
 
-## French
-
-- [[824 Alcohol education]]  
-
+french:
+- "[[824 Alcohol education]]"
+---
+# Prevention de lalcoolisme

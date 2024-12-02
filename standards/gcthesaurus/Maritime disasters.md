@@ -1,6 +1,11 @@
-# Maritime disasters  
+---
+title: Maritime disasters
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Maritime disasters
 
-## Used For
-
-- [[12919 Marine accidents]]  
-
+usedFor:
+- "[[12919 Marine accidents]]"
+---
+# Maritime disasters

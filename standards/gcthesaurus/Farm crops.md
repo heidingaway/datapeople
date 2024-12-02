@@ -1,6 +1,11 @@
-# Farm crops  
+---
+title: Farm crops
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Farm crops
 
-## Used For
-
-- [[4540 Crops]]  
-
+usedFor:
+- "[[4540 Crops]]"
+---
+# Farm crops

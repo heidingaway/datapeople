@@ -1,6 +1,11 @@
-# Old age security  
+---
+title: Old age security
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Old age security
 
-## Used For
-
-- [[15436 Pensions]]  
-
+usedFor:
+- "[[15436 Pensions]]"
+---
+# Old age security

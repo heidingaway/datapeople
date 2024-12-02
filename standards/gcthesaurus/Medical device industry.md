@@ -1,6 +1,11 @@
-# Medical device industry  
+---
+title: Medical device industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Medical device industry
 
-## Used For
-
-- [[13265 Medical products industry]]  
-
+usedFor:
+- "[[13265 Medical products industry]]"
+---
+# Medical device industry

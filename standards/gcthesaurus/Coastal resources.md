@@ -1,6 +1,11 @@
-# Coastal resources  
+---
+title: Coastal resources
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Coastal resources
 
-## Used For
-
-- [[14316 Natural resources]]  
-
+usedFor:
+- "[[14316 Natural resources]]"
+---
+# Coastal resources

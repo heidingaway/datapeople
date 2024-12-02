@@ -1,6 +1,11 @@
-# Information numerisee  
+---
+title: Information numerisee
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Information numérisée
 
-## French
-
-- [[5270 Digitized information]]  
-
+french:
+- "[[5270 Digitized information]]"
+---
+# Information numerisee

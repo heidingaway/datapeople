@@ -1,10 +1,13 @@
-# Cruise ships  
+---
+title: Cruise ships
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cruise ships
 
-## Narrower Term
-
-- [[18691 Ships]]  
-
-## Related Term
-
-- [[20276 Tourism]]  
-
+narrowerTerm:
+- "[[18691 Ships]]"
+relatedTerm:
+- "[[20276 Tourism]]"
+---
+# Cruise ships

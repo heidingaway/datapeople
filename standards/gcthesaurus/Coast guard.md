@@ -1,10 +1,13 @@
-# Coast guard  
+---
+title: Coast guard
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Coast guard
 
-## Related Term
-
-- [[3422 Coastal waters]]  
-
-## Use
-
-- [[3428 Coastguard]]  
-
+relatedTerm:
+- "[[3422 Coastal waters]]"
+use:
+- "[[3428 Coastguard]]"
+---
+# Coast guard

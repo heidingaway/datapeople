@@ -1,10 +1,13 @@
-# Globalization  
+---
+title: Globalization
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Globalization
 
-## Related Term
-
-- [[11381 International economics]]  
-
-## Use
-
-- [[11462 Internationalization]]  
-
+relatedTerm:
+- "[[11381 International economics]]"
+use:
+- "[[11462 Internationalization]]"
+---
+# Globalization

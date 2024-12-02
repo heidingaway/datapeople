@@ -1,6 +1,11 @@
-# Trade conflicts  
+---
+title: Trade conflicts
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Trade conflicts
 
-## Used For
-
-- [[20391 Trade disputes]]  
-
+usedFor:
+- "[[20391 Trade disputes]]"
+---
+# Trade conflicts

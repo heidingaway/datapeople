@@ -1,6 +1,11 @@
-# Randonnee pedestre  
+---
+title: Randonnee pedestre
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Randonnée pédestre
 
-## French
-
-- [[9934 Hiking]]  
-
+french:
+- "[[9934 Hiking]]"
+---
+# Randonnee pedestre

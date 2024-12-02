@@ -1,6 +1,11 @@
-# Sol  
+---
+title: Sol
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sol
 
-## French
-
-- [[19071 Soil]]  
-
+french:
+- "[[19071 Soil]]"
+---
+# Sol

@@ -1,10 +1,13 @@
-# Surface water  
+---
+title: Surface water
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Surface water
 
-## Narrower Term
-
-- [[21378 Water]]  
-
-## Related Term
-
-- [[9401 Groundwater]]  
-
+narrowerTerm:
+- "[[21378 Water]]"
+relatedTerm:
+- "[[9401 Groundwater]]"
+---
+# Surface water

@@ -1,6 +1,11 @@
-# Commemoration  
+---
+title: Commemoration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Commémoration
 
-## French
-
-- [[3546 Commemoration]]  
-
+french:
+- "[[3546 Commemoration]]"
+---
+# Commemoration

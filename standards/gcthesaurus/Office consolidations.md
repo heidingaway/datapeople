@@ -1,6 +1,11 @@
-# Office consolidations  
+---
+title: Office consolidations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Office consolidations
 
-## Related Term
-
-- [[12306 Legislation]]  
-
+relatedTerm:
+- "[[12306 Legislation]]"
+---
+# Office consolidations

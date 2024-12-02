@@ -1,6 +1,11 @@
-# Matiere dangereuse  
+---
+title: Matiere dangereuse
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Matière dangereuse
 
-## French
-
-- [[9516 Hazardous materials]]  
-
+french:
+- "[[9516 Hazardous materials]]"
+---
+# Matiere dangereuse

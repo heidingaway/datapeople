@@ -1,6 +1,11 @@
-# Royalties  
+---
+title: Royalties
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Royalties
 
-## Narrower Term
-
-- [[10563 Income]]  
-
+narrowerTerm:
+- "[[10563 Income]]"
+---
+# Royalties

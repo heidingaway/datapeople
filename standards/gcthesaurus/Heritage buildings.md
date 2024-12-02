@@ -1,15 +1,16 @@
-# Heritage buildings  
+---
+title: Heritage buildings
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Heritage buildings
 
-## Narrower Term
-
-- [[2468 Buildings]]  
-
-## Related Term
-
-- [[9882 Heritage]
-- [[1360 Architectural heritage]]  
-
-## Use
-
-- [[9940 Historic buildings]]  
-
+narrowerTerm:
+- "[[2468 Buildings]]"
+relatedTerm:
+- "[[9882 Heritage]]"
+- "[[1360 Architectural heritage]]"
+use:
+- "[[9940 Historic buildings]]"
+---
+# Heritage buildings

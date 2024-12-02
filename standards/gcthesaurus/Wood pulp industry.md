@@ -1,6 +1,11 @@
-# Wood pulp industry  
+---
+title: Wood pulp industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Wood pulp industry
 
-## Used For
-
-- [[16958 Pulp and paper industry]]  
-
+usedFor:
+- "[[16958 Pulp and paper industry]]"
+---
+# Wood pulp industry

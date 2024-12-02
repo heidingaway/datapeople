@@ -1,6 +1,11 @@
-# Quality of health care  
+---
+title: Quality of health care
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Quality of health care
 
-## Used For
-
-- [[9654 Health care quality]]  
-
+usedFor:
+- "[[9654 Health care quality]]"
+---
+# Quality of health care

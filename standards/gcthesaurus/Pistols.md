@@ -1,6 +1,11 @@
-# Pistols  
+---
+title: Pistols
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pistols
 
-## Used For
-
-- [[7806 Firearms]]  
-
+usedFor:
+- "[[7806 Firearms]]"
+---
+# Pistols

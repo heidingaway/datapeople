@@ -1,6 +1,11 @@
-# Physical activity  
+---
+title: Physical activity
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Physical activity
 
-## Used For
-
-- [[8009 Fitness]]  
-
+usedFor:
+- "[[8009 Fitness]]"
+---
+# Physical activity

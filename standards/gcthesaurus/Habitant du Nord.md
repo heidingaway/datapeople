@@ -1,6 +1,11 @@
-# Habitant du Nord  
+---
+title: Habitant du Nord
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Habitant du Nord
 
-## French
-
-- [[14595 Northerners]]  
-
+french:
+- "[[14595 Northerners]]"
+---
+# Habitant du Nord

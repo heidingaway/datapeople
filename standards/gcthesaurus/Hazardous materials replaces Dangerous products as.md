@@ -1,7 +1,8 @@
-# Hazardous materials replaces Dangerous products as  
+---
+title: Hazardous materials replaces Dangerous products as
+alias: "Hazardous materials" replaces "Dangerous products" as preferred term in April 2009.
 
-## History note
-
-- [[9517 Hazardous materials]
-- [[4844 Dangerous products]]  
-
+historyNote:
+- "[[9517 Hazardous materials]]"
+- "[[4844 Dangerous products]]"
+---

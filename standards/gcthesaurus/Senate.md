@@ -1,10 +1,13 @@
-# Senate  
+---
+title: Senate
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Senate
 
-## Narrower Term
-
-- [[15290 Parliament]]  
-
-## Related Term
-
-- [[13382 Members of the Senate]]  
-
+narrowerTerm:
+- "[[15290 Parliament]]"
+relatedTerm:
+- "[[13382 Members of the Senate]]"
+---
+# Senate

@@ -1,6 +1,11 @@
-# Ecologie  
+---
+title: Ecologie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Écologie
 
-## French
-
-- [[5813 Ecology]]  
-
+french:
+- "[[5813 Ecology]]"
+---
+# Ecologie

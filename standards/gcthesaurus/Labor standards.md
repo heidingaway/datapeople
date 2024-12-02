@@ -1,6 +1,11 @@
-# Labor standards  
+---
+title: Labor standards
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Labor standards
 
-## Used For
-
-- [[11951 Labour standards]]  
-
+usedFor:
+- "[[11951 Labour standards]]"
+---
+# Labor standards

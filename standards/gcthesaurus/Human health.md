@@ -1,6 +1,11 @@
-# Human health  
+---
+title: Human health
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Human health
 
-## Used For
-
-- [[9565 Health]]  
-
+usedFor:
+- "[[9565 Health]]"
+---
+# Human health

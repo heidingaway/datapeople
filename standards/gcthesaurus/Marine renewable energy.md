@@ -1,6 +1,11 @@
-# Marine renewable energy  
+---
+title: Marine renewable energy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Marine renewable energy
 
-## Used For
-
-- [[14827 Ocean energy]]  
-
+usedFor:
+- "[[14827 Ocean energy]]"
+---
+# Marine renewable energy

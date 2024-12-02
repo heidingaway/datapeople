@@ -1,6 +1,11 @@
-# Coffee  
+---
+title: Coffee
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Coffee
 
-## Narrower Term
-
-- [[1996 Beverages]]  
-
+narrowerTerm:
+- "[[1996 Beverages]]"
+---
+# Coffee

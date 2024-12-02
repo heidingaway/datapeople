@@ -1,10 +1,13 @@
-# Lesbians  
+---
+title: Lesbians
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Lesbians
 
-## Narrower Term
-
-- [[8757 Gay people]]  
-
-## Use
-
-- [[8759 Gay women]]  
-
+narrowerTerm:
+- "[[8757 Gay people]]"
+use:
+- "[[8759 Gay women]]"
+---
+# Lesbians

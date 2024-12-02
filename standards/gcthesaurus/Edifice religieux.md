@@ -1,6 +1,11 @@
-# Edifice religieux  
+---
+title: Edifice religieux
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Édifice religieux
 
-## French
-
-- [[17498 Religious buildings]]  
-
+french:
+- "[[17498 Religious buildings]]"
+---
+# Edifice religieux

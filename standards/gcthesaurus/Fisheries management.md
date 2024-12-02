@@ -1,10 +1,13 @@
-# Fisheries management  
+---
+title: Fisheries management
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fisheries management
 
-## Narrower Term
-
-- [[12756 Management]]  
-
-## Related Term
-
-- [[7911 Fisheries]]  
-
+narrowerTerm:
+- "[[12756 Management]]"
+relatedTerm:
+- "[[7911 Fisheries]]"
+---
+# Fisheries management

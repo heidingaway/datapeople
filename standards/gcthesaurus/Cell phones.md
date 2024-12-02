@@ -1,6 +1,11 @@
-# Cell phones  
+---
+title: Cell phones
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cell phones
 
-## Used For
-
-- [[2907 Cellular telephones]]  
-
+usedFor:
+- "[[2907 Cellular telephones]]"
+---
+# Cell phones

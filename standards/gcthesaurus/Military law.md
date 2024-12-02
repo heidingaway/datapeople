@@ -1,10 +1,13 @@
-# Military law  
+---
+title: Military law
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Military law
 
-## Narrower Term
-
-- [[12160 Law]]  
-
-## Related Term
-
-- [[1425 Armed forces]]  
-
+narrowerTerm:
+- "[[12160 Law]]"
+relatedTerm:
+- "[[1425 Armed forces]]"
+---
+# Military law

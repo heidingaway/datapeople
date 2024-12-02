@@ -1,6 +1,11 @@
-# Numeratie  
+---
+title: Numeratie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Numératie
 
-## French
-
-- [[14674 Numeracy]]  
-
+french:
+- "[[14674 Numeracy]]"
+---
+# Numeratie

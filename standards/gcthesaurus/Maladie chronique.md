@@ -1,6 +1,11 @@
-# Maladie chronique  
+---
+title: Maladie chronique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Maladie chronique
 
-## French
-
-- [[3200 Chronic diseases]]  
-
+french:
+- "[[3200 Chronic diseases]]"
+---
+# Maladie chronique

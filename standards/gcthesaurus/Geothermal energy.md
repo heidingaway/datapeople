@@ -1,11 +1,14 @@
-# Geothermal energy  
+---
+title: Geothermal energy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geothermal energy
 
-## Narrower Term
-
-- [[17538 Renewable energy]]  
-
-## Use
-
-- [[9038 Geothermal power]
-- [[5757 Earth energy]]  
-
+narrowerTerm:
+- "[[17538 Renewable energy]]"
+use:
+- "[[9038 Geothermal power]]"
+- "[[5757 Earth energy]]"
+---
+# Geothermal energy

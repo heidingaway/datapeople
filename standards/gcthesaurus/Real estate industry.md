@@ -1,10 +1,13 @@
-# Real estate industry  
+---
+title: Real estate industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Real estate industry
 
-## Narrower Term
-
-- [[18581 Service industry]]  
-
-## Related Term
-
-- [[17240 Real estate]]  
-
+narrowerTerm:
+- "[[18581 Service industry]]"
+relatedTerm:
+- "[[17240 Real estate]]"
+---
+# Real estate industry

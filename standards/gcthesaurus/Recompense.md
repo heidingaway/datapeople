@@ -1,6 +1,11 @@
-# Recompense  
+---
+title: Recompense
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Récompense
 
-## French
-
-- [[1810 Awards]]  
-
+french:
+- "[[1810 Awards]]"
+---
+# Recompense

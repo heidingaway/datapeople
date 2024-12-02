@@ -1,13 +1,16 @@
-# Census  
+---
+title: Census
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Census
 
-## Related Term
-
-- [[2928 Census data]
-- [[16074 Population]
-- [[5113 Demography]]  
-
-## Use
-
-- [[2932 Census of population]
-- [[16080 Population census]]  
-
+relatedTerm:
+- "[[2928 Census data]]"
+- "[[16074 Population]]"
+- "[[5113 Demography]]"
+use:
+- "[[2932 Census of population]]"
+- "[[16080 Population census]]"
+---
+# Census

@@ -1,6 +1,11 @@
-# Eolian erosion  
+---
+title: Eolian erosion
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Eolian erosion
 
-## Used For
-
-- [[7105 Erosion]]  
-
+usedFor:
+- "[[7105 Erosion]]"
+---
+# Eolian erosion

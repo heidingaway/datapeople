@@ -1,6 +1,11 @@
-# Normes du travail  
+---
+title: Normes du travail
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Normes du travail
 
-## French
-
-- [[11950 Labour standards]]  
-
+french:
+- "[[11950 Labour standards]]"
+---
+# Normes du travail

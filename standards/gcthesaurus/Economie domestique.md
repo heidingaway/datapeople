@@ -1,6 +1,11 @@
-# Economie domestique  
+---
+title: Economie domestique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Économie domestique
 
-## French
-
-- [[10015 Home economics]]  
-
+french:
+- "[[10015 Home economics]]"
+---
+# Economie domestique

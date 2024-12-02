@@ -1,6 +1,11 @@
-# Possibilite daffaires  
+---
+title: Possibilite daffaires
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Possibilité d'affaires
 
-## French
-
-- [[2548 Business opportunities]]  
-
+french:
+- "[[2548 Business opportunities]]"
+---
+# Possibilite daffaires

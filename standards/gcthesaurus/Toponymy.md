@@ -1,12 +1,15 @@
-# Toponymy  
+---
+title: Toponymy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Toponymy
 
-## Related Term
-
-- [[8767 Gazetteers]
-- [[8958 Geography]]  
-
-## Use
-
-- [[8942 Geographical names]
-- [[15817 Place names]]  
-
+relatedTerm:
+- "[[8767 Gazetteers]]"
+- "[[8958 Geography]]"
+use:
+- "[[8942 Geographical names]]"
+- "[[15817 Place names]]"
+---
+# Toponymy

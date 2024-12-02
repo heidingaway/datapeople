@@ -1,10 +1,13 @@
-# Topographical maps  
+---
+title: Topographical maps
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Topographical maps
 
-## Narrower Term
-
-- [[12896 Maps]]  
-
-## Related Term
-
-- [[20262 Topography]]  
-
+narrowerTerm:
+- "[[12896 Maps]]"
+relatedTerm:
+- "[[20262 Topography]]"
+---
+# Topographical maps

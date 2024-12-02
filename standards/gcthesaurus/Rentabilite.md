@@ -1,6 +1,11 @@
-# Rentabilite  
+---
+title: Rentabilite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rentabilité
 
-## French
-
-- [[16534 Profitability]]  
-
+french:
+- "[[16534 Profitability]]"
+---
+# Rentabilite

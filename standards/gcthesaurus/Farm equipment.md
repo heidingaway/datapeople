@@ -1,6 +1,11 @@
-# Farm equipment  
+---
+title: Farm equipment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Farm equipment
 
-## Used For
-
-- [[541 Agricultural technology]]  
-
+usedFor:
+- "[[541 Agricultural technology]]"
+---
+# Farm equipment

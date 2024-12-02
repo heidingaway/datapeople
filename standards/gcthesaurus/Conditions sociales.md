@@ -1,6 +1,11 @@
-# Conditions sociales  
+---
+title: Conditions sociales
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conditions sociales
 
-## French
-
-- [[18878 Social conditions]]  
-
+french:
+- "[[18878 Social conditions]]"
+---
+# Conditions sociales

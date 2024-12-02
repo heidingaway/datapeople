@@ -1,6 +1,11 @@
-# Workload  
+---
+title: Workload
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Workload
 
-## Used For
-
-- [[21953 Working conditions]]  
-
+usedFor:
+- "[[21953 Working conditions]]"
+---
+# Workload

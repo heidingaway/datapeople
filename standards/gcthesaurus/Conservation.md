@@ -1,22 +1,21 @@
-# Conservation  
+---
+title: Conservation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conservation
 
-## Broader Term
-
-- [[17725 Resources conservation]
-- [[9894 Heritage conservation]
-- [[14350 Nature conservation]]  
-
-## French
-
-- [[3961 Conservation]]  
-
-## Related Term
-
-- [[17381 Recycling]
-- [[17762 Restoration]
-- [[5267 Digitization]]  
-
-## Use
-
-- [[16253 Preservation]]  
-
+broaderTerm:
+- "[[17725 Resources conservation]]"
+- "[[9894 Heritage conservation]]"
+- "[[14350 Nature conservation]]"
+french:
+- "[[3961 Conservation]]"
+relatedTerm:
+- "[[17381 Recycling]]"
+- "[[17762 Restoration]]"
+- "[[5267 Digitization]]"
+use:
+- "[[16253 Preservation]]"
+---
+# Conservation

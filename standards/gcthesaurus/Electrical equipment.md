@@ -1,19 +1,18 @@
-# Electrical equipment  
+---
+title: Electrical equipment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electrical equipment
 
-## Broader Term
-
-- [[6236 Electrical appliances]]  
-
-## Narrower Term
-
-- [[7083 Equipment]]  
-
-## Related Term
-
-- [[6258 Electricity]
-- [[6314 Electronic equipment]]  
-
-## Use
-
-- [[6200 Electric equipment]]  
-
+broaderTerm:
+- "[[6236 Electrical appliances]]"
+narrowerTerm:
+- "[[7083 Equipment]]"
+relatedTerm:
+- "[[6258 Electricity]]"
+- "[[6314 Electronic equipment]]"
+use:
+- "[[6200 Electric equipment]]"
+---
+# Electrical equipment

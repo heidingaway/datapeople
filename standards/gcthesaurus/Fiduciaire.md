@@ -1,6 +1,11 @@
-# Fiduciaire  
+---
+title: Fiduciaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fiduciaire
 
-## French
-
-- [[20726 Trustees]]  
-
+french:
+- "[[20726 Trustees]]"
+---
+# Fiduciaire

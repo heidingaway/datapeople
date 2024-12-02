@@ -1,6 +1,11 @@
-# Liability  
+---
+title: Liability
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Liability
 
-## Related Term
-
-- [[4967 Debt]]  
-
+relatedTerm:
+- "[[4967 Debt]]"
+---
+# Liability

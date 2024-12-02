@@ -1,6 +1,11 @@
-# Carte geographique  
+---
+title: Carte geographique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Carte géographique
 
-## French
-
-- [[8938 Geographical maps]]  
-
+french:
+- "[[8938 Geographical maps]]"
+---
+# Carte geographique

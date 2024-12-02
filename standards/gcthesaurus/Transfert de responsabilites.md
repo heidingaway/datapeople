@@ -1,6 +1,11 @@
-# Transfert de responsabilites  
+---
+title: Transfert de responsabilites
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Transfert de responsabilités
 
-## French
-
-- [[5202 Devolution]]  
-
+french:
+- "[[5202 Devolution]]"
+---
+# Transfert de responsabilites

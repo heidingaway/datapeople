@@ -1,6 +1,11 @@
-# Biological decomposition  
+---
+title: Biological decomposition
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biological decomposition
 
-## Used For
-
-- [[2115 Biodegradation]]  
-
+usedFor:
+- "[[2115 Biodegradation]]"
+---
+# Biological decomposition

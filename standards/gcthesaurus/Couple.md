@@ -1,6 +1,11 @@
-# Couple  
+---
+title: Couple
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Couple
 
-## French
-
-- [[4364 Couples]]  
-
+french:
+- "[[4364 Couples]]"
+---
+# Couple

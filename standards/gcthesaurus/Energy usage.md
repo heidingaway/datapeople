@@ -1,6 +1,11 @@
-# Energy usage  
+---
+title: Energy usage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Energy usage
 
-## Used For
-
-- [[6711 Energy use]]  
-
+usedFor:
+- "[[6711 Energy use]]"
+---
+# Energy usage

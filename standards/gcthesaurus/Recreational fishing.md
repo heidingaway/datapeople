@@ -1,6 +1,11 @@
-# Recreational fishing  
+---
+title: Recreational fishing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Recreational fishing
 
-## Used For
-
-- [[7966 Fishing (Sport)]]  
-
+usedFor:
+- "[[7966 Fishing (Sport)]]"
+---
+# Recreational fishing

@@ -1,10 +1,13 @@
-# Housing assistance  
+---
+title: Housing assistance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Housing assistance
 
-## Narrower Term
-
-- [[19004 Social services]]  
-
-## Related Term
-
-- [[10143 Housing]]  
-
+narrowerTerm:
+- "[[19004 Social services]]"
+relatedTerm:
+- "[[10143 Housing]]"
+---
+# Housing assistance

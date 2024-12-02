@@ -1,6 +1,11 @@
-# Collector coins  
+---
+title: Collector coins
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Collector coins
 
-## Used For
-
-- [[3478 Coins]]  
-
+usedFor:
+- "[[3478 Coins]]"
+---
+# Collector coins

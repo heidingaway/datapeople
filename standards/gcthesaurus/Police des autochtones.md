@@ -1,6 +1,11 @@
-# Police des autochtones  
+---
+title: Police des autochtones
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Police des autochtones
 
-## French
-
-- [[10687 Indigenous policing]]  
-
+french:
+- "[[10687 Indigenous policing]]"
+---
+# Police des autochtones

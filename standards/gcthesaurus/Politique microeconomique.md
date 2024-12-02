@@ -1,6 +1,11 @@
-# Politique microeconomique  
+---
+title: Politique microeconomique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Politique microéconomique
 
-## French
-
-- [[13531 Microeconomic policy]]  
-
+french:
+- "[[13531 Microeconomic policy]]"
+---
+# Politique microeconomique

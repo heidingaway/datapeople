@@ -1,6 +1,11 @@
-# Relations commerciales  
+---
+title: Relations commerciales
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Relations commerciales
 
-## French
-
-- [[20434 Trade relations]]  
-
+french:
+- "[[20434 Trade relations]]"
+---
+# Relations commerciales

@@ -1,6 +1,11 @@
-# Toxic compounds  
+---
+title: Toxic compounds
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Toxic compounds
 
-## Used For
-
-- [[20322 Toxic substances]]  
-
+usedFor:
+- "[[20322 Toxic substances]]"
+---
+# Toxic compounds

@@ -1,6 +1,11 @@
-# Illiteracy  
+---
+title: Illiteracy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Illiteracy
 
-## Used For
-
-- [[12492 Literacy]]  
-
+usedFor:
+- "[[12492 Literacy]]"
+---
+# Illiteracy

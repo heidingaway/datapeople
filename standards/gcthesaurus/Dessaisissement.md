@@ -1,6 +1,11 @@
-# Dessaisissement  
+---
+title: Dessaisissement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Dessaisissement
 
-## French
-
-- [[5452 Divestiture]]  
-
+french:
+- "[[5452 Divestiture]]"
+---
+# Dessaisissement

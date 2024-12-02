@@ -1,6 +1,11 @@
-# Reglementation en matiere de taxation  
+---
+title: Reglementation en matiere de taxation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Réglementation en matière de taxation
 
-## French
-
-- [[19765 Taxation regulations]]  
-
+french:
+- "[[19765 Taxation regulations]]"
+---
+# Reglementation en matiere de taxation

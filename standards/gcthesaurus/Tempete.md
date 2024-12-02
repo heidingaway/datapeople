@@ -1,6 +1,11 @@
-# Tempete  
+---
+title: Tempete
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tempête
 
-## French
-
-- [[19416 Storms]]  
-
+french:
+- "[[19416 Storms]]"
+---
+# Tempete

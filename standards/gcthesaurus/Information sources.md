@@ -1,6 +1,11 @@
-# Information sources  
+---
+title: Information sources
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Information sources
 
-## Used For
-
-- [[10960 Information]]  
-
+usedFor:
+- "[[10960 Information]]"
+---
+# Information sources

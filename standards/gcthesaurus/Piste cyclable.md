@@ -1,6 +1,11 @@
-# Piste cyclable  
+---
+title: Piste cyclable
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Piste cyclable
 
-## French
-
-- [[2015 Bicycle paths]]  
-
+french:
+- "[[2015 Bicycle paths]]"
+---
+# Piste cyclable

@@ -1,6 +1,11 @@
-# Industrial aid  
+---
+title: Industrial aid
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrial aid
 
-## Used For
-
-- [[10874 Industry assistance]]  
-
+usedFor:
+- "[[10874 Industry assistance]]"
+---
+# Industrial aid

@@ -1,6 +1,11 @@
-# Geological surveys  
+---
+title: Geological surveys
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geological surveys
 
-## Used For
-
-- [[8979 Geology]]  
-
+usedFor:
+- "[[8979 Geology]]"
+---
+# Geological surveys

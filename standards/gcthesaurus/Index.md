@@ -1,6 +1,11 @@
-# Index  
+---
+title: Index
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Index
 
-## French
-
-- [[10605 Indexes]]  
-
+french:
+- "[[10605 Indexes]]"
+---
+# Index

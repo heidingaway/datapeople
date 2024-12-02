@@ -1,6 +1,11 @@
-# Deversement de petrole  
+---
+title: Deversement de petrole
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Déversement de pétrole
 
-## French
-
-- [[14997 Oil spills]]  
-
+french:
+- "[[14997 Oil spills]]"
+---
+# Deversement de petrole

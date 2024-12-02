@@ -1,6 +1,11 @@
-# Open data  
+---
+title: Open data
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Open data
 
-## Related Term
-
-- [[15049 Open government]]  
-
+relatedTerm:
+- "[[15049 Open government]]"
+---
+# Open data

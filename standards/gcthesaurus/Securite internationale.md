@@ -1,6 +1,11 @@
-# Securite internationale  
+---
+title: Securite internationale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sécurité internationale
 
-## French
-
-- [[11423 International security]]  
-
+french:
+- "[[11423 International security]]"
+---
+# Securite internationale

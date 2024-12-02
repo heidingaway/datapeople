@@ -1,7 +1,12 @@
-# Estuaries  
+---
+title: Estuaries
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Estuaries
 
-## Related Term
-
-- [[20184 Tides]
-- [[21543 Watercourses]]  
-
+relatedTerm:
+- "[[20184 Tides]]"
+- "[[21543 Watercourses]]"
+---
+# Estuaries

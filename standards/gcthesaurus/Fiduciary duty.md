@@ -1,6 +1,11 @@
-# Fiduciary duty  
+---
+title: Fiduciary duty
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fiduciary duty
 
-## Used For
-
-- [[7668 Fiduciary obligations]]  
-
+usedFor:
+- "[[7668 Fiduciary obligations]]"
+---
+# Fiduciary duty

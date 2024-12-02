@@ -1,14 +1,15 @@
-# Insurance companies  
+---
+title: Insurance companies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Insurance companies
 
-## Broader Term
-
-- [[14121 Mutual insurance companies]]  
-
-## Narrower Term
-
-- [[7737 Financial institutions]]  
-
-## Related Term
-
-- [[11202 Insurance]]  
-
+broaderTerm:
+- "[[14121 Mutual insurance companies]]"
+narrowerTerm:
+- "[[7737 Financial institutions]]"
+relatedTerm:
+- "[[11202 Insurance]]"
+---
+# Insurance companies

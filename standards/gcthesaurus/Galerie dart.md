@@ -1,6 +1,11 @@
-# Galerie dart  
+---
+title: Galerie dart
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Galerie d'art
 
-## French
-
-- [[1466 Art galleries]]  
-
+french:
+- "[[1466 Art galleries]]"
+---
+# Galerie dart

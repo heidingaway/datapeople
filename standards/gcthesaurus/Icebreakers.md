@@ -1,10 +1,13 @@
-# Icebreakers  
+---
+title: Icebreakers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Icebreakers
 
-## Narrower Term
-
-- [[18695 Ships]]  
-
-## Related Term
-
-- [[10430 Ice]]  
-
+narrowerTerm:
+- "[[18695 Ships]]"
+relatedTerm:
+- "[[10430 Ice]]"
+---
+# Icebreakers

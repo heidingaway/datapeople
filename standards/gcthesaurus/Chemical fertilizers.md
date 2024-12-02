@@ -1,6 +1,11 @@
-# Chemical fertilizers  
+---
+title: Chemical fertilizers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Chemical fertilizers
 
-## Used For
-
-- [[7652 Fertilizers]]  
-
+usedFor:
+- "[[7652 Fertilizers]]"
+---
+# Chemical fertilizers

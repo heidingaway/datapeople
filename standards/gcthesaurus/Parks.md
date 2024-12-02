@@ -1,13 +1,16 @@
-# Parks  
+---
+title: Parks
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Parks
 
-## Broader Term
-
-- [[20077 Territorial parks]
-- [[16722 Provincial parks]
-- [[14227 National parks]]  
-
-## Related Term
-
-- [[3978 Conservation areas]
-- [[17344 Recreational facilities]]  
-
+broaderTerm:
+- "[[20077 Territorial parks]]"
+- "[[16722 Provincial parks]]"
+- "[[14227 National parks]]"
+relatedTerm:
+- "[[3978 Conservation areas]]"
+- "[[17344 Recreational facilities]]"
+---
+# Parks

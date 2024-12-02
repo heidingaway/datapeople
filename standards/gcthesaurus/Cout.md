@@ -1,6 +1,11 @@
-# Cout  
+---
+title: Cout
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Coût
 
-## French
-
-- [[4334 Costs]]  
-
+french:
+- "[[4334 Costs]]"
+---
+# Cout

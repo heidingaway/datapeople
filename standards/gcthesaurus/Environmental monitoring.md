@@ -1,6 +1,11 @@
-# Environmental monitoring  
+---
+title: Environmental monitoring
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Environmental monitoring
 
-## Used For
-
-- [[6921 Environmental management]]  
-
+usedFor:
+- "[[6921 Environmental management]]"
+---
+# Environmental monitoring

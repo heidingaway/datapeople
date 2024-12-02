@@ -1,6 +1,11 @@
-# Coastguard  
+---
+title: Coastguard
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Coastguard
 
-## Used For
-
-- [[3411 Coast guard]]  
-
+usedFor:
+- "[[3411 Coast guard]]"
+---
+# Coastguard

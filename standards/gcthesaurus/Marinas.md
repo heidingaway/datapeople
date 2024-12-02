@@ -1,10 +1,13 @@
-# Marinas  
+---
+title: Marinas
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Marinas
 
-## Narrower Term
-
-- [[9485 Harbours]]  
-
-## Related Term
-
-- [[15884 Pleasure craft]]  
-
+narrowerTerm:
+- "[[9485 Harbours]]"
+relatedTerm:
+- "[[15884 Pleasure craft]]"
+---
+# Marinas

@@ -1,15 +1,16 @@
-# Drinking water  
+---
+title: Drinking water
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Drinking water
 
-## Narrower Term
-
-- [[1997 Beverages]
-- [[21374 Water]]  
-
-## Related Term
-
-- [[8537 Fresh water]]  
-
-## Use
-
-- [[16147 Potable water]]  
-
+narrowerTerm:
+- "[[1997 Beverages]]"
+- "[[21374 Water]]"
+relatedTerm:
+- "[[8537 Fresh water]]"
+use:
+- "[[16147 Potable water]]"
+---
+# Drinking water

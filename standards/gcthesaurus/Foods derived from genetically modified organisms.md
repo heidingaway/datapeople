@@ -1,6 +1,11 @@
-# Foods derived from genetically modified organisms  
+---
+title: Foods derived from genetically modified organisms
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Foods derived from genetically modified organisms.
 
-## Scope Note
-
-- [[8848 Genetically modified foods]]  
-
+scopeNote:
+- "[[8848 Genetically modified foods]]"
+---
+# Foods derived from genetically modified organisms

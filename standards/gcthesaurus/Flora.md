@@ -1,6 +1,11 @@
-# Flora  
+---
+title: Flora
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Flora
 
-## Related Term
-
-- [[15872 Plants]]  
-
+relatedTerm:
+- "[[15872 Plants]]"
+---
+# Flora

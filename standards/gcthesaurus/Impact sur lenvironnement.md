@@ -1,6 +1,11 @@
-# Impact sur lenvironnement  
+---
+title: Impact sur lenvironnement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Impact sur l'environnement
 
-## French
-
-- [[6881 Environmental impact]]  
-
+french:
+- "[[6881 Environmental impact]]"
+---
+# Impact sur lenvironnement

@@ -1,14 +1,15 @@
-# Childrens literature  
+---
+title: Childrens literature
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Children's literature
 
-## Narrower Term
-
-- [[12514 Literature]]  
-
-## Related Term
-
-- [[3180 Children's books]]  
-
-## Use
-
-- [[11741 Juvenile literature]]  
-
+narrowerTerm:
+- "[[12514 Literature]]"
+relatedTerm:
+- "[[3180 Children's books]]"
+use:
+- "[[11741 Juvenile literature]]"
+---
+# Childrens literature

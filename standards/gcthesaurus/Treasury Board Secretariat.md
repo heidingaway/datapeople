@@ -1,10 +1,13 @@
-# Treasury Board Secretariat  
+---
+title: Treasury Board Secretariat
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Treasury Board Secretariat
 
-## Narrower Term
-
-- [[7537 Federal government]]  
-
-## Related Term
-
-- [[20677 Treasury board]]  
-
+narrowerTerm:
+- "[[7537 Federal government]]"
+relatedTerm:
+- "[[20677 Treasury board]]"
+---
+# Treasury Board Secretariat

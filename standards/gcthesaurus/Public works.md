@@ -1,6 +1,11 @@
-# Public works  
+---
+title: Public works
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Public works
 
-## Related Term
-
-- [[9247 Government services]]  
-
+relatedTerm:
+- "[[9247 Government services]]"
+---
+# Public works

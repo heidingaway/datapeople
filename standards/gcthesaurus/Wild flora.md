@@ -1,6 +1,11 @@
-# Wild flora  
+---
+title: Wild flora
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Wild flora
 
-## Used For
-
-- [[21744 Wild plants]]  
-
+usedFor:
+- "[[21744 Wild plants]]"
+---
+# Wild flora

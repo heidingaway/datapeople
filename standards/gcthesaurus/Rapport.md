@@ -1,6 +1,11 @@
-# Rapport  
+---
+title: Rapport
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rapport
 
-## French
-
-- [[17576 Reports]]  
-
+french:
+- "[[17576 Reports]]"
+---
+# Rapport

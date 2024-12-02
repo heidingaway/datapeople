@@ -1,6 +1,11 @@
-# Negociation collective  
+---
+title: Negociation collective
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Négociation collective
 
-## French
-
-- [[3508 Collective bargaining]]  
-
+french:
+- "[[3508 Collective bargaining]]"
+---
+# Negociation collective

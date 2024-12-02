@@ -1,10 +1,13 @@
-# Paternity benefits  
+---
+title: Paternity benefits
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Paternity benefits
 
-## Narrower Term
-
-- [[1965 Benefits]]  
-
-## Related Term
-
-- [[6551 Employment insurance]]  
-
+narrowerTerm:
+- "[[1965 Benefits]]"
+relatedTerm:
+- "[[6551 Employment insurance]]"
+---
+# Paternity benefits

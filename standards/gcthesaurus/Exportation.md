@@ -1,6 +1,11 @@
-# Exportation  
+---
+title: Exportation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Exportation
 
-## French
-
-- [[7305 Exports]]  
-
+french:
+- "[[7305 Exports]]"
+---
+# Exportation

@@ -1,6 +1,11 @@
-# Pluies acides  
+---
+title: Pluies acides
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pluies acides
 
-## French
-
-- [[161 Acid rain]]  
-
+french:
+- "[[161 Acid rain]]"
+---
+# Pluies acides

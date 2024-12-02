@@ -1,6 +1,11 @@
-# Working population  
+---
+title: Working population
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Working population
 
-## Used For
-
-- [[11876 Labour force]]  
-
+usedFor:
+- "[[11876 Labour force]]"
+---
+# Working population

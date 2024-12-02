@@ -1,10 +1,13 @@
-# Tooling  
+---
+title: Tooling
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tooling
 
-## Related Term
-
-- [[7092 Equipment]]  
-
-## Use
-
-- [[11178 Instruments]]  
-
+relatedTerm:
+- "[[7092 Equipment]]"
+use:
+- "[[11178 Instruments]]"
+---
+# Tooling

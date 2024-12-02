@@ -1,6 +1,11 @@
-# Communication orale  
+---
+title: Communication orale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Communication orale
 
-## French
-
-- [[15066 Oral communication]]  
-
+french:
+- "[[15066 Oral communication]]"
+---
+# Communication orale

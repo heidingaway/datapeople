@@ -1,6 +1,11 @@
-# National defense  
+---
+title: National defense
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: National defense
 
-## Used For
-
-- [[5030 Defence policy]]  
-
+usedFor:
+- "[[5030 Defence policy]]"
+---
+# National defense

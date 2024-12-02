@@ -1,6 +1,11 @@
-# Inondation  
+---
+title: Inondation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Inondation
 
-## French
-
-- [[8034 Floods]]  
-
+french:
+- "[[8034 Floods]]"
+---
+# Inondation

@@ -1,6 +1,11 @@
-# Diabete  
+---
+title: Diabete
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Diabète
 
-## French
-
-- [[5207 Diabetes]]  
-
+french:
+- "[[5207 Diabetes]]"
+---
+# Diabete

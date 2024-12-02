@@ -1,6 +1,11 @@
-# Illegal drugs  
+---
+title: Illegal drugs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Illegal drugs
 
-## Used For
-
-- [[14156 Narcotics]]  
-
+usedFor:
+- "[[14156 Narcotics]]"
+---
+# Illegal drugs

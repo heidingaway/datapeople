@@ -1,6 +1,11 @@
-# Carotte  
+---
+title: Carotte
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Carotte
 
-## French
-
-- [[2808 Carrots]]  
-
+french:
+- "[[2808 Carrots]]"
+---
+# Carotte

@@ -1,6 +1,11 @@
-# Signage  
+---
+title: Signage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Signage
 
-## Used For
-
-- [[18738 Signs]]  
-
+usedFor:
+- "[[18738 Signs]]"
+---
+# Signage

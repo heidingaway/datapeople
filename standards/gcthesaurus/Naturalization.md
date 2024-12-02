@@ -1,6 +1,11 @@
-# Naturalization  
+---
+title: Naturalization
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Naturalization
 
-## Used For
-
-- [[3240 Citizenship]]  
-
+usedFor:
+- "[[3240 Citizenship]]"
+---
+# Naturalization

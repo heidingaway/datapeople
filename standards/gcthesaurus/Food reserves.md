@@ -1,6 +1,11 @@
-# Food reserves  
+---
+title: Food reserves
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Food reserves
 
-## Used For
-
-- [[8182 Food supply]]  
-
+usedFor:
+- "[[8182 Food supply]]"
+---
+# Food reserves

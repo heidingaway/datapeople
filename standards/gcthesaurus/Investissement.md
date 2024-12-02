@@ -1,6 +1,11 @@
-# Investissement  
+---
+title: Investissement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Investissement
 
-## French
-
-- [[11588 Investments]]  
-
+french:
+- "[[11588 Investments]]"
+---
+# Investissement

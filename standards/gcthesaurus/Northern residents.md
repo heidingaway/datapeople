@@ -1,6 +1,11 @@
-# Northern residents  
+---
+title: Northern residents
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Northern residents
 
-## Used For
-
-- [[14597 Northerners]]  
-
+usedFor:
+- "[[14597 Northerners]]"
+---
+# Northern residents

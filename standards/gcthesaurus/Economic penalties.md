@@ -1,6 +1,11 @@
-# Economic penalties  
+---
+title: Economic penalties
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Economic penalties
 
-## Used For
-
-- [[5948 Economic sanctions]]  
-
+usedFor:
+- "[[5948 Economic sanctions]]"
+---
+# Economic penalties

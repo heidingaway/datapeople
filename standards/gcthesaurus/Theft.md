@@ -1,6 +1,11 @@
-# Theft  
+---
+title: Theft
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Theft
 
-## Used For
-
-- [[4444 Crime]]  
-
+usedFor:
+- "[[4444 Crime]]"
+---
+# Theft

@@ -1,6 +1,11 @@
-# Towns  
+---
+title: Towns
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Towns
 
-## Used For
-
-- [[20812 Urban communities]]  
-
+usedFor:
+- "[[20812 Urban communities]]"
+---
+# Towns

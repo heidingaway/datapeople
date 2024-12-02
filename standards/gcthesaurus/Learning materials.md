@@ -1,6 +1,11 @@
-# Learning materials  
+---
+title: Learning materials
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Learning materials
 
-## Used For
-
-- [[11164 Instructional materials]]  
-
+usedFor:
+- "[[11164 Instructional materials]]"
+---
+# Learning materials

@@ -1,6 +1,11 @@
-# Ultraviolet light  
+---
+title: Ultraviolet light
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ultraviolet light
 
-## Used For
-
-- [[20759 Ultraviolet radiation]]  
-
+usedFor:
+- "[[20759 Ultraviolet radiation]]"
+---
+# Ultraviolet light

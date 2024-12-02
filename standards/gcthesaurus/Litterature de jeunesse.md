@@ -1,6 +1,11 @@
-# Litterature de jeunesse  
+---
+title: Litterature de jeunesse
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Littérature de jeunesse
 
-## French
-
-- [[3190 Children's literature]]  
-
+french:
+- "[[3190 Children's literature]]"
+---
+# Litterature de jeunesse

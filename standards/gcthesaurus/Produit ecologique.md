@@ -1,6 +1,11 @@
-# Produit ecologique  
+---
+title: Produit ecologique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Produit écologique
 
-## French
-
-- [[9336 Green products]]  
-
+french:
+- "[[9336 Green products]]"
+---
+# Produit ecologique

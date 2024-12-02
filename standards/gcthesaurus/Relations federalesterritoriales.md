@@ -1,6 +1,11 @@
-# Relations federalesterritoriales  
+---
+title: Relations federalesterritoriales
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Relations fédérales-territoriales
 
-## French
-
-- [[7616 Federal territorial relations]]  
-
+french:
+- "[[7616 Federal territorial relations]]"
+---
+# Relations federalesterritoriales

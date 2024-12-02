@@ -1,6 +1,11 @@
-# Nuclear power  
+---
+title: Nuclear power
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Nuclear power
 
-## Used For
-
-- [[14614 Nuclear energy]]  
-
+usedFor:
+- "[[14614 Nuclear energy]]"
+---
+# Nuclear power

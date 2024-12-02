@@ -1,6 +1,11 @@
-# Revision  
+---
+title: Revision
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Révision
 
-## French
-
-- [[17812 Revision]]  
-
+french:
+- "[[17812 Revision]]"
+---
+# Revision

@@ -1,6 +1,11 @@
-# Legislation  
+---
+title: Legislation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Législation
 
-## French
-
-- [[12296 Legislation]]  
-
+french:
+- "[[12296 Legislation]]"
+---
+# Legislation

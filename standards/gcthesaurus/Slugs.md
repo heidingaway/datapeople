@@ -1,6 +1,11 @@
-# Slugs  
+---
+title: Slugs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Slugs
 
-## Used For
-
-- [[13857 Molluscs]]  
-
+usedFor:
+- "[[13857 Molluscs]]"
+---
+# Slugs

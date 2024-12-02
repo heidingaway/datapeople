@@ -1,6 +1,11 @@
-# Motorcoaches  
+---
+title: Motorcoaches
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Motorcoaches
 
-## Used For
-
-- [[2492 Buses]]  
-
+usedFor:
+- "[[2492 Buses]]"
+---
+# Motorcoaches

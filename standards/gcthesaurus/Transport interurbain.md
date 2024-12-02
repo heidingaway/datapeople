@@ -1,6 +1,11 @@
-# Transport interurbain  
+---
+title: Transport interurbain
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Transport interurbain
 
-## French
-
-- [[11270 Intercity transport]]  
-
+french:
+- "[[11270 Intercity transport]]"
+---
+# Transport interurbain

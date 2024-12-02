@@ -1,6 +1,11 @@
-# Syndrome respiratoire du MoyenOrient  
+---
+title: Syndrome respiratoire du MoyenOrient
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Syndrome respiratoire du Moyen-Orient
 
-## French
-
-- [[13570 Middle East Respiratory Syndrome]]  
-
+french:
+- "[[13570 Middle East Respiratory Syndrome]]"
+---
+# Syndrome respiratoire du MoyenOrient

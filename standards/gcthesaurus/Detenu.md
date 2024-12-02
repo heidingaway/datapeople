@@ -1,6 +1,11 @@
-# Detenu  
+---
+title: Detenu
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Détenu
 
-## French
-
-- [[11102 Inmates]]  
-
+french:
+- "[[11102 Inmates]]"
+---
+# Detenu

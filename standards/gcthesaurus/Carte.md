@@ -1,6 +1,11 @@
-# Carte  
+---
+title: Carte
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Carte
 
-## French
-
-- [[12889 Maps]]  
-
+french:
+- "[[12889 Maps]]"
+---
+# Carte

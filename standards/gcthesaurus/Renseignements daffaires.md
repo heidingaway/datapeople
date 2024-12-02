@@ -1,6 +1,11 @@
-# Renseignements daffaires  
+---
+title: Renseignements daffaires
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Renseignements d'affaires
 
-## French
-
-- [[2526 Business intelligence]]  
-
+french:
+- "[[2526 Business intelligence]]"
+---
+# Renseignements daffaires

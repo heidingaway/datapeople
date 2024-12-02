@@ -1,24 +1,21 @@
-# Aquaculture  
-
-## Broader Term
-
-- [[7892 Fish farming]]  
-
-## French
-
-- [[1238 Aquaculture]]  
-
-## Narrower Term
-
-- [[556 Agriculture]]  
-
-## Related Term
-
-- [[1302 Aquatic plants]
-- [[1268 Aquatic animals]]  
-
-## Use
-
-- [[1314 Aquiculture]
-- [[1253 Aquatic agriculture]]  
-
+---
+title: Aquaculture
+created: 2024-12-01
+modified: 2024-12-01
+tags:
+  - TBSMetadata
+alias: Aquaculture
+broaderTerm:
+  - "[[7892 Fish farming]]"
+french:
+  - "[[1238 Aquaculture]]"
+narrowerTerm:
+  - "[[556 Agriculture]]"
+relatedTerm:
+  - "[[1302 Aquatic plants]]"
+  - "[[1268 Aquatic animals]]"
+use:
+  - "[[1314 Aquiculture]]"
+  - "[[1253 Aquatic agriculture]]"
+---
+# Aquaculture

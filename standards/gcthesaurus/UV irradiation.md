@@ -1,6 +1,11 @@
-# UV irradiation  
+---
+title: UV irradiation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: UV irradiation
 
-## Used For
-
-- [[20762 Ultraviolet radiation]]  
-
+usedFor:
+- "[[20762 Ultraviolet radiation]]"
+---
+# UV irradiation

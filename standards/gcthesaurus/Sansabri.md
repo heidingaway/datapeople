@@ -1,6 +1,11 @@
-# Sansabri  
+---
+title: Sansabri
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sans-abri
 
-## French
-
-- [[10041 Homelessness]]  
-
+french:
+- "[[10041 Homelessness]]"
+---
+# Sansabri

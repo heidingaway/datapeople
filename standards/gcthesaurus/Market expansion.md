@@ -1,6 +1,11 @@
-# Market expansion  
+---
+title: Market expansion
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Market expansion
 
-## Used For
-
-- [[13059 Market development]]  
-
+usedFor:
+- "[[13059 Market development]]"
+---
+# Market expansion

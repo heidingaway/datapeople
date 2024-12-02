@@ -1,6 +1,11 @@
-# Services sociaux  
+---
+title: Services sociaux
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Services sociaux
 
-## French
-
-- [[19003 Social services]]  
-
+french:
+- "[[19003 Social services]]"
+---
+# Services sociaux

@@ -1,6 +1,11 @@
-# Novel coronavirus disease 2019  
+---
+title: Novel coronavirus disease 2019
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Novel coronavirus disease, 2019
 
-## Used For
-
-- [[4249 Coronavirus diseases]]  
-
+usedFor:
+- "[[4249 Coronavirus diseases]]"
+---
+# Novel coronavirus disease 2019

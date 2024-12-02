@@ -1,6 +1,11 @@
-# Legal medicine  
+---
+title: Legal medicine
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Legal medicine
 
-## Used For
-
-- [[8286 Forensics]]  
-
+usedFor:
+- "[[8286 Forensics]]"
+---
+# Legal medicine

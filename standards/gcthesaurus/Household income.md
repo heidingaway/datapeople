@@ -1,14 +1,15 @@
-# Household income  
+---
+title: Household income
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Household income
 
-## Narrower Term
-
-- [[10559 Income]]  
-
-## Related Term
-
-- [[10116 Household finance]]  
-
-## Use
-
-- [[7377 Family income]]  
-
+narrowerTerm:
+- "[[10559 Income]]"
+relatedTerm:
+- "[[10116 Household finance]]"
+use:
+- "[[7377 Family income]]"
+---
+# Household income

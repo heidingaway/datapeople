@@ -1,6 +1,11 @@
-# Private investments  
+---
+title: Private investments
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Private investments
 
-## Narrower Term
-
-- [[11593 Investments]]  
-
+narrowerTerm:
+- "[[11593 Investments]]"
+---
+# Private investments

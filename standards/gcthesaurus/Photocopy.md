@@ -1,6 +1,11 @@
-# Photocopy  
+---
+title: Photocopy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Photocopy
 
-## Used For
-
-- [[17616 Reprography]]  
-
+usedFor:
+- "[[17616 Reprography]]"
+---
+# Photocopy

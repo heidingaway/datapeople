@@ -1,6 +1,11 @@
-# Bike paths  
+---
+title: Bike paths
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Bike paths
 
-## Used For
-
-- [[2020 Bicycle paths]]  
-
+usedFor:
+- "[[2020 Bicycle paths]]"
+---
+# Bike paths

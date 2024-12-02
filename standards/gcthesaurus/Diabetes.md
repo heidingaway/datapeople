@@ -1,6 +1,11 @@
-# Diabetes  
+---
+title: Diabetes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Diabetes
 
-## Narrower Term
-
-- [[3204 Chronic diseases]]  
-
+narrowerTerm:
+- "[[3204 Chronic diseases]]"
+---
+# Diabetes

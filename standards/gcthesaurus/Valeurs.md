@@ -1,6 +1,11 @@
-# Valeurs  
+---
+title: Valeurs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Valeurs
 
-## French
-
-- [[20883 Values]]  
-
+french:
+- "[[20883 Values]]"
+---
+# Valeurs

@@ -1,6 +1,11 @@
-# Peage  
+---
+title: Peage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Péage
 
-## French
-
-- [[20238 Tolls]]  
-
+french:
+- "[[20238 Tolls]]"
+---
+# Peage

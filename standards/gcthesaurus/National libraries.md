@@ -1,10 +1,13 @@
-# National libraries  
+---
+title: National libraries
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: National libraries
 
-## Narrower Term
-
-- [[12385 Libraries]]  
-
-## Related Term
-
-- [[14181 National bibliographies]]  
-
+narrowerTerm:
+- "[[12385 Libraries]]"
+relatedTerm:
+- "[[14181 National bibliographies]]"
+---
+# National libraries

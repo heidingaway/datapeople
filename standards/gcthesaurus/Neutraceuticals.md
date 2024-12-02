@@ -1,6 +1,11 @@
-# Neutraceuticals  
+---
+title: Neutraceuticals
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Neutraceuticals
 
-## Used For
-
-- [[8607 Functional foods]]  
-
+usedFor:
+- "[[8607 Functional foods]]"
+---
+# Neutraceuticals

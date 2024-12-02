@@ -1,6 +1,11 @@
-# Vehicule  
+---
+title: Vehicule
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Véhicule
 
-## French
-
-- [[20913 Vehicles]]  
-
+french:
+- "[[20913 Vehicles]]"
+---
+# Vehicule

@@ -1,6 +1,11 @@
-# Carving  
+---
+title: Carving
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Carving
 
-## Used For
-
-- [[18298 Sculpture]]  
-
+usedFor:
+- "[[18298 Sculpture]]"
+---
+# Carving

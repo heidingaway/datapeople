@@ -1,6 +1,11 @@
-# Budgeting  
+---
+title: Budgeting
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Budgeting
 
-## Used For
-
-- [[2441 Budget planning]]  
-
+usedFor:
+- "[[2441 Budget planning]]"
+---
+# Budgeting

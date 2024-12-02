@@ -1,6 +1,11 @@
-# Geodetic surveys  
+---
+title: Geodetic surveys
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geodetic surveys
 
-## Used For
-
-- [[8889 Geodesy]]  
-
+usedFor:
+- "[[8889 Geodesy]]"
+---
+# Geodetic surveys

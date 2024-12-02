@@ -1,6 +1,11 @@
-# Fisheries equipment  
+---
+title: Fisheries equipment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fisheries equipment
 
-## Used For
-
-- [[7949 Fisheries technology]]  
-
+usedFor:
+- "[[7949 Fisheries technology]]"
+---
+# Fisheries equipment

@@ -1,6 +1,11 @@
-# Gaz  
+---
+title: Gaz
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gaz
 
-## French
-
-- [[8734 Gases]]  
-
+french:
+- "[[8734 Gases]]"
+---
+# Gaz

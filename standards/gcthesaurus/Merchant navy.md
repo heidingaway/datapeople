@@ -1,6 +1,11 @@
-# Merchant navy  
+---
+title: Merchant navy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Merchant navy
 
-## Used For
-
-- [[21507 Water transport industry]]  
-
+usedFor:
+- "[[21507 Water transport industry]]"
+---
+# Merchant navy

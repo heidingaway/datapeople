@@ -1,6 +1,11 @@
-# Ecotourism  
+---
+title: Ecotourism
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ecotourism
 
-## Used For
-
-- [[20273 Tourism]]  
-
+usedFor:
+- "[[20273 Tourism]]"
+---
+# Ecotourism

@@ -1,7 +1,12 @@
-# Prohibition  
+---
+title: Prohibition
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prohibition
 
-## Related Term
-
-- [[11088 Injunctions]
-- [[13912 Moratorium]]  
-
+relatedTerm:
+- "[[11088 Injunctions]]"
+- "[[13912 Moratorium]]"
+---
+# Prohibition

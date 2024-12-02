@@ -1,6 +1,11 @@
-# Sexual crimes  
+---
+title: Sexual crimes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sexual crimes
 
-## Used For
-
-- [[18629 Sexual offences]]  
-
+usedFor:
+- "[[18629 Sexual offences]]"
+---
+# Sexual crimes

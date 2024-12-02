@@ -1,6 +1,7 @@
-# Theatre replaces Drama  as preferred term in May 2  
+---
+title: Theatre replaces Drama  as preferred term in May 2
+alias: "Theatre" replaces "Drama"  as preferred term in May 2009.
 
-## History note
-
-- [[5558 Drama]]  
-
+historyNote:
+- "[[5558 Drama]]"
+---

@@ -1,6 +1,11 @@
-# Political rights  
+---
+title: Political rights
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Political rights
 
-## Used For
-
-- [[3276 Civil rights]]  
-
+usedFor:
+- "[[3276 Civil rights]]"
+---
+# Political rights

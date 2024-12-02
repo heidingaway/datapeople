@@ -1,11 +1,14 @@
-# Trade disputes  
+---
+title: Trade disputes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Trade disputes
 
-## Related Term
-
-- [[20408 Trade negotiations]
-- [[20383 Trade agreements]]  
-
-## Use
-
-- [[20388 Trade conflicts]]  
-
+relatedTerm:
+- "[[20408 Trade negotiations]]"
+- "[[20383 Trade agreements]]"
+use:
+- "[[20388 Trade conflicts]]"
+---
+# Trade disputes

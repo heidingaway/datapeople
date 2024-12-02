@@ -1,6 +1,11 @@
-# Visual impairments  
+---
+title: Visual impairments
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Visual impairments
 
-## Used For
-
-- [[21113 Visual disabilities]]  
-
+usedFor:
+- "[[21113 Visual disabilities]]"
+---
+# Visual impairments

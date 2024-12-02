@@ -1,18 +1,19 @@
-# Staffing  
+---
+title: Staffing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Staffing
 
-## Narrower Term
-
-- [[15572 Personnel management]]  
-
-## Related Term
-
-- [[17354 Recruiting]
-- [[1564 Assignments]
-- [[10202 Human resources]
-- [[18495 Selection]
-- [[1223 Appointments]]  
-
-## Use
-
-- [[9938 Hiring]]  
-
+narrowerTerm:
+- "[[15572 Personnel management]]"
+relatedTerm:
+- "[[17354 Recruiting]]"
+- "[[1564 Assignments]]"
+- "[[10202 Human resources]]"
+- "[[18495 Selection]]"
+- "[[1223 Appointments]]"
+use:
+- "[[9938 Hiring]]"
+---
+# Staffing

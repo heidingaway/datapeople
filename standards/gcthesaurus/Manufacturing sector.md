@@ -1,6 +1,11 @@
-# Manufacturing sector  
+---
+title: Manufacturing sector
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Manufacturing sector
 
-## Used For
-
-- [[12833 Manufacturing industry]]  
-
+usedFor:
+- "[[12833 Manufacturing industry]]"
+---
+# Manufacturing sector

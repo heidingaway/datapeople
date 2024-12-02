@@ -1,6 +1,11 @@
-# Weighing  
+---
+title: Weighing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Weighing
 
-## Used For
-
-- [[13173 Measurement]]  
-
+usedFor:
+- "[[13173 Measurement]]"
+---
+# Weighing

@@ -1,10 +1,13 @@
-# International courts  
+---
+title: International courts
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: International courts
 
-## Narrower Term
-
-- [[4392 Courts]]  
-
-## Related Term
-
-- [[11398 International law]]  
-
+narrowerTerm:
+- "[[4392 Courts]]"
+relatedTerm:
+- "[[11398 International law]]"
+---
+# International courts

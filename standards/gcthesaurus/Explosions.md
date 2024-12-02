@@ -1,6 +1,11 @@
-# Explosions  
+---
+title: Explosions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Explosions
 
-## Related Term
-
-- [[7301 Explosives]]  
-
+relatedTerm:
+- "[[7301 Explosives]]"
+---
+# Explosions

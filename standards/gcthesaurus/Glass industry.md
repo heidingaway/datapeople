@@ -1,10 +1,13 @@
-# Glass industry  
+---
+title: Glass industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Glass industry
 
-## Narrower Term
-
-- [[12847 Manufacturing industry]]  
-
-## Related Term
-
-- [[9073 Glass]]  
-
+narrowerTerm:
+- "[[12847 Manufacturing industry]]"
+relatedTerm:
+- "[[9073 Glass]]"
+---
+# Glass industry

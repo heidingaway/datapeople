@@ -1,6 +1,11 @@
-# Collaborations  
+---
+title: Collaborations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Collaborations
 
-## Used For
-
-- [[15349 Partnerships]]  
-
+usedFor:
+- "[[15349 Partnerships]]"
+---
+# Collaborations

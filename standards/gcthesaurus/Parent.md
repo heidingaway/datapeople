@@ -1,6 +1,11 @@
-# Parent  
+---
+title: Parent
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Parent
 
-## French
-
-- [[15265 Parents]]  
-
+french:
+- "[[15265 Parents]]"
+---
+# Parent

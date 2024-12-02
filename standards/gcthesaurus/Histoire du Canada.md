@@ -1,6 +1,11 @@
-# Histoire du Canada  
+---
+title: Histoire du Canada
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Histoire du Canada
 
-## French
-
-- [[2691 Canadian history]]  
-
+french:
+- "[[2691 Canadian history]]"
+---
+# Histoire du Canada

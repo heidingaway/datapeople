@@ -1,6 +1,11 @@
-# Treaties  
+---
+title: Treaties
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Treaties
 
-## Used For
-
-- [[396 Agreements]]  
-
+usedFor:
+- "[[396 Agreements]]"
+---
+# Treaties

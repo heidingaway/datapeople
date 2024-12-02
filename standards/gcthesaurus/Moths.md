@@ -1,6 +1,11 @@
-# Moths  
+---
+title: Moths
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Moths
 
-## Used For
-
-- [[2616 Butterflies]]  
-
+usedFor:
+- "[[2616 Butterflies]]"
+---
+# Moths

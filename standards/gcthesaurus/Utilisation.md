@@ -1,6 +1,11 @@
-# Utilisation  
+---
+title: Utilisation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Utilisation
 
-## French
-
-- [[20858 Uses]]  
-
+french:
+- "[[20858 Uses]]"
+---
+# Utilisation

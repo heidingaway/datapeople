@@ -1,6 +1,11 @@
-# Crabs  
+---
+title: Crabs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Crabs
 
-## Used For
-
-- [[4594 Crustaceans]]  
-
+usedFor:
+- "[[4594 Crustaceans]]"
+---
+# Crabs

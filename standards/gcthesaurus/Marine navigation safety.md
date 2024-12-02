@@ -1,6 +1,11 @@
-# Marine navigation safety  
+---
+title: Marine navigation safety
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Marine navigation safety
 
-## Used For
-
-- [[12982 Marine safety]]  
-
+usedFor:
+- "[[12982 Marine safety]]"
+---
+# Marine navigation safety

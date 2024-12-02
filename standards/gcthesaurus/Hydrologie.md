@@ -1,6 +1,11 @@
-# Hydrologie  
+---
+title: Hydrologie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hydrologie
 
-## French
-
-- [[10372 Hydrology]]  
-
+french:
+- "[[10372 Hydrology]]"
+---
+# Hydrologie

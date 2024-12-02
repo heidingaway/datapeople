@@ -1,6 +1,11 @@
-# Revenu national  
+---
+title: Revenu national
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Revenu national
 
-## French
-
-- [[14209 National income]]  
-
+french:
+- "[[14209 National income]]"
+---
+# Revenu national

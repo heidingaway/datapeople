@@ -1,6 +1,11 @@
-# Speeches  
+---
+title: Speeches
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Speeches
 
-## Used For
-
-- [[19320 Statements]]  
-
+usedFor:
+- "[[19320 Statements]]"
+---
+# Speeches

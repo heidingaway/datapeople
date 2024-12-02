@@ -1,6 +1,11 @@
-# Cryptographie  
+---
+title: Cryptographie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cryptographie
 
-## French
-
-- [[4604 Cryptography]]  
-
+french:
+- "[[4604 Cryptography]]"
+---
+# Cryptographie

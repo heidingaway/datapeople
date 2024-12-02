@@ -1,10 +1,13 @@
-# Climate archives  
+---
+title: Climate archives
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Climate archives
 
-## Narrower Term
-
-- [[1381 Archives]]  
-
-## Related Term
-
-- [[3334 Climate]]  
-
+narrowerTerm:
+- "[[1381 Archives]]"
+relatedTerm:
+- "[[3334 Climate]]"
+---
+# Climate archives

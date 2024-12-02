@@ -1,6 +1,11 @@
-# Produit chimique  
+---
+title: Produit chimique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Produit chimique
 
-## French
-
-- [[3050 Chemicals]]  
-
+french:
+- "[[3050 Chemicals]]"
+---
+# Produit chimique

@@ -1,6 +1,11 @@
-# Teledetection  
+---
+title: Teledetection
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Télédétection
 
-## French
-
-- [[17520 Remote sensing]]  
-
+french:
+- "[[17520 Remote sensing]]"
+---
+# Teledetection

@@ -1,6 +1,11 @@
-# Resolution de conflit  
+---
+title: Resolution de conflit
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Résolution de conflit
 
-## French
-
-- [[3926 Conflict resolution]]  
-
+french:
+- "[[3926 Conflict resolution]]"
+---
+# Resolution de conflit

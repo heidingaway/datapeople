@@ -1,6 +1,11 @@
-# Declaration  
+---
+title: Declaration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Déclaration
 
-## French
-
-- [[19318 Statements]]  
-
+french:
+- "[[19318 Statements]]"
+---
+# Declaration

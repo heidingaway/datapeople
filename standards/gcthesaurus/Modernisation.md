@@ -1,6 +1,11 @@
-# Modernisation  
+---
+title: Modernisation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Modernisation
 
-## French
-
-- [[13837 Modernization]]  
-
+french:
+- "[[13837 Modernization]]"
+---
+# Modernisation

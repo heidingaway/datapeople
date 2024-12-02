@@ -1,6 +1,11 @@
-# Normes comptables  
+---
+title: Normes comptables
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Normes comptables
 
-## French
-
-- [[146 Accounting standards]]  
-
+french:
+- "[[146 Accounting standards]]"
+---
+# Normes comptables

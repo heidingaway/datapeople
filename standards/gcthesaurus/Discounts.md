@@ -1,6 +1,11 @@
-# Discounts  
+---
+title: Discounts
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Discounts
 
-## Related Term
-
-- [[18173 Savings]]  
-
+relatedTerm:
+- "[[18173 Savings]]"
+---
+# Discounts

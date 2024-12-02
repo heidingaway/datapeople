@@ -1,6 +1,11 @@
-# Phone marketing  
+---
+title: Phone marketing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Phone marketing
 
-## Used For
-
-- [[5289 Direct marketing]]  
-
+usedFor:
+- "[[5289 Direct marketing]]"
+---
+# Phone marketing

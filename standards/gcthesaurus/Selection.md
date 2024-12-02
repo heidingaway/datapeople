@@ -1,6 +1,11 @@
-# Selection  
+---
+title: Selection
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sélection
 
-## French
-
-- [[18491 Selection]]  
-
+french:
+- "[[18491 Selection]]"
+---
+# Selection

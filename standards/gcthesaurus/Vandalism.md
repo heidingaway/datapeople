@@ -1,6 +1,11 @@
-# Vandalism  
+---
+title: Vandalism
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vandalism
 
-## Related Term
-
-- [[4466 Crime]]  
-
+relatedTerm:
+- "[[4466 Crime]]"
+---
+# Vandalism

@@ -1,6 +1,11 @@
-# Produit biochimique  
+---
+title: Produit biochimique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Produit biochimique
 
-## French
-
-- [[2089 Biochemicals]]  
-
+french:
+- "[[2089 Biochemicals]]"
+---
+# Produit biochimique

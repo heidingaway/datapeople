@@ -1,6 +1,11 @@
-# Business corporations  
+---
+title: Business corporations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Business corporations
 
-## Used For
-
-- [[2582 Businesses]]  
-
+usedFor:
+- "[[2582 Businesses]]"
+---
+# Business corporations

@@ -1,6 +1,11 @@
-# Humor  
+---
+title: Humor
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Humor
 
-## Used For
-
-- [[10298 Humour]]  
-
+usedFor:
+- "[[10298 Humour]]"
+---
+# Humor

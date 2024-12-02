@@ -1,6 +1,11 @@
-# Parliament of Canada  
+---
+title: Parliament of Canada
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Parliament of Canada
 
-## Used For
-
-- [[15288 Parliament]]  
-
+usedFor:
+- "[[15288 Parliament]]"
+---
+# Parliament of Canada

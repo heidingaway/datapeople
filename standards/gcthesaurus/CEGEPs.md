@@ -1,6 +1,11 @@
-# CEGEPs  
+---
+title: CEGEPs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: CEGEPs
 
-## Used For
-
-- [[3529 Colleges]]  
-
+usedFor:
+- "[[3529 Colleges]]"
+---
+# CEGEPs

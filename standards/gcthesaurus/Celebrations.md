@@ -1,6 +1,11 @@
-# Celebrations  
+---
+title: Celebrations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Celebrations
 
-## Used For
-
-- [[3549 Commemoration]]  
-
+usedFor:
+- "[[3549 Commemoration]]"
+---
+# Celebrations

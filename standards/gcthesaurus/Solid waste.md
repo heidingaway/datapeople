@@ -1,6 +1,11 @@
-# Solid waste  
+---
+title: Solid waste
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Solid waste
 
-## Used For
-
-- [[21299 Waste]]  
-
+usedFor:
+- "[[21299 Waste]]"
+---
+# Solid waste

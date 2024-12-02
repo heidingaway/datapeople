@@ -1,7 +1,12 @@
-# Devolution  
+---
+title: Devolution
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Devolution
 
-## Related Term
-
-- [[5061 Delegation of authority]
-- [[136 Accountability]]  
-
+relatedTerm:
+- "[[5061 Delegation of authority]]"
+- "[[136 Accountability]]"
+---
+# Devolution

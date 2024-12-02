@@ -1,10 +1,13 @@
-# Electronic monitoring  
+---
+title: Electronic monitoring
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electronic monitoring
 
-## Related Term
-
-- [[18453 Security intelligence]]  
-
-## Use
-
-- [[6377 Electronic surveillance]]  
-
+relatedTerm:
+- "[[18453 Security intelligence]]"
+use:
+- "[[6377 Electronic surveillance]]"
+---
+# Electronic monitoring

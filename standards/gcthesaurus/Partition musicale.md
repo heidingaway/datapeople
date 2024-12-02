@@ -1,6 +1,11 @@
-# Partition musicale  
+---
+title: Partition musicale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Partition musicale
 
-## French
-
-- [[14113 Music scores]]  
-
+french:
+- "[[14113 Music scores]]"
+---
+# Partition musicale

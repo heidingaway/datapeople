@@ -1,6 +1,11 @@
-# Soil contamination  
+---
+title: Soil contamination
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Soil contamination
 
-## Used For
-
-- [[19096 Soil pollution]]  
-
+usedFor:
+- "[[19096 Soil pollution]]"
+---
+# Soil contamination

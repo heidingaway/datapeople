@@ -1,6 +1,11 @@
-# Credit cards  
+---
+title: Credit cards
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Credit cards
 
-## Used For
-
-- [[4424 Credit]]  
-
+usedFor:
+- "[[4424 Credit]]"
+---
+# Credit cards

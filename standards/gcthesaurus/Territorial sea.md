@@ -1,6 +1,11 @@
-# Territorial sea  
+---
+title: Territorial sea
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Territorial sea
 
-## Used For
-
-- [[3420 Coastal waters]]  
-
+usedFor:
+- "[[3420 Coastal waters]]"
+---
+# Territorial sea

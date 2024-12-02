@@ -1,6 +1,11 @@
-# Nature reserves  
+---
+title: Nature reserves
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Nature reserves
 
-## Used For
-
-- [[3971 Conservation areas]]  
-
+usedFor:
+- "[[3971 Conservation areas]]"
+---
+# Nature reserves

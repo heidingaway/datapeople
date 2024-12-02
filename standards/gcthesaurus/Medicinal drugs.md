@@ -1,6 +1,11 @@
-# Medicinal drugs  
+---
+title: Medicinal drugs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Medicinal drugs
 
-## Used For
-
-- [[5693 Drugs]]  
-
+usedFor:
+- "[[5693 Drugs]]"
+---
+# Medicinal drugs

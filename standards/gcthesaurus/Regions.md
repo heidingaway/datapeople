@@ -1,6 +1,11 @@
-# Regions  
+---
+title: Regions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Regions
 
-## Broader Term
-
-- [[15907 Polar regions]]  
-
+broaderTerm:
+- "[[15907 Polar regions]]"
+---
+# Regions

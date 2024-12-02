@@ -1,11 +1,14 @@
-# Inland waters  
+---
+title: Inland waters
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Inland waters
 
-## Broader Term
-
-- [[11973 Lakes]
-- [[21540 Watercourses]]  
-
-## Use
-
-- [[11327 Internal waters]]  
-
+broaderTerm:
+- "[[11973 Lakes]]"
+- "[[21540 Watercourses]]"
+use:
+- "[[11327 Internal waters]]"
+---
+# Inland waters

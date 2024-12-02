@@ -1,6 +1,11 @@
-# Recyclable products  
+---
+title: Recyclable products
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Recyclable products
 
-## Used For
-
-- [[17359 Recyclable materials]]  
-
+usedFor:
+- "[[17359 Recyclable materials]]"
+---
+# Recyclable products

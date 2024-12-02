@@ -1,6 +1,11 @@
-# Travaux publics  
+---
+title: Travaux publics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Travaux publics
 
-## French
-
-- [[16929 Public works]]  
-
+french:
+- "[[16929 Public works]]"
+---
+# Travaux publics

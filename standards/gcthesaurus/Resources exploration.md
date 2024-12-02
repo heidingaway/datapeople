@@ -1,6 +1,11 @@
-# Resources exploration  
+---
+title: Resources exploration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Resources exploration
 
-## Used For
-
-- [[16646 Prospecting]]  
-
+usedFor:
+- "[[16646 Prospecting]]"
+---
+# Resources exploration

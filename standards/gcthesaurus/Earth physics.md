@@ -1,6 +1,11 @@
-# Earth physics  
+---
+title: Earth physics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Earth physics
 
-## Used For
-
-- [[9014 Geophysics]]  
-
+usedFor:
+- "[[9014 Geophysics]]"
+---
+# Earth physics

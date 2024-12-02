@@ -1,6 +1,11 @@
-# Sections  
+---
+title: Sections
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sections
 
-## Narrower Term
-
-- [[5144 Departments]]  
-
+narrowerTerm:
+- "[[5144 Departments]]"
+---
+# Sections

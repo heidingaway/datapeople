@@ -1,6 +1,11 @@
-# Thesaurus  
+---
+title: Thesaurus
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Thésaurus
 
-## French
-
-- [[20167 Thesauri]]  
-
+french:
+- "[[20167 Thesauri]]"
+---
+# Thesaurus

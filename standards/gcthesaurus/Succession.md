@@ -1,6 +1,11 @@
-# Succession  
+---
+title: Succession
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Succession
 
-## French
-
-- [[7120 Estates]]  
-
+french:
+- "[[7120 Estates]]"
+---
+# Succession

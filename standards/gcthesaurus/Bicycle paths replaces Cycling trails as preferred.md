@@ -1,7 +1,8 @@
-# Bicycle paths replaces Cycling trails as preferred  
+---
+title: Bicycle paths replaces Cycling trails as preferred
+alias: "Bicycle paths" replaces "Cycling trails" as preferred term in November 2007.
 
-## History note
-
-- [[4789 Cycling trails]
-- [[2016 Bicycle paths]]  
-
+historyNote:
+- "[[4789 Cycling trails]]"
+- "[[2016 Bicycle paths]]"
+---

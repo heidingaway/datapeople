@@ -1,6 +1,11 @@
-# Outillage  
+---
+title: Outillage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Outillage
 
-## French
-
-- [[20244 Tooling]]  
-
+french:
+- "[[20244 Tooling]]"
+---
+# Outillage

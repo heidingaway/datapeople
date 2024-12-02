@@ -1,6 +1,11 @@
-# Thermal power plants  
+---
+title: Thermal power plants
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Thermal power plants
 
-## Used For
-
-- [[6217 Electric power stations]]  
-
+usedFor:
+- "[[6217 Electric power stations]]"
+---
+# Thermal power plants

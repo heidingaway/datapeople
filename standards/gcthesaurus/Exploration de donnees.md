@@ -1,6 +1,11 @@
-# Exploration de donnees  
+---
+title: Exploration de donnees
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Exploration de données
 
-## French
-
-- [[4865 Data mining]]  
-
+french:
+- "[[4865 Data mining]]"
+---
+# Exploration de donnees

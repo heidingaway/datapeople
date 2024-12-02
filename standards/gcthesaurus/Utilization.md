@@ -1,6 +1,11 @@
-# Utilization  
+---
+title: Utilization
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Utilization
 
-## Used For
-
-- [[20859 Uses]]  
-
+usedFor:
+- "[[20859 Uses]]"
+---
+# Utilization

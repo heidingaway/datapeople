@@ -1,6 +1,11 @@
-# Codification  
+---
+title: Codification
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Codification
 
-## French
-
-- [[3465 Coding]]  
-
+french:
+- "[[3465 Coding]]"
+---
+# Codification

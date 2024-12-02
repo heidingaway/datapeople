@@ -1,6 +1,11 @@
-# Crustacea  
+---
+title: Crustacea
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Crustacea
 
-## Used For
-
-- [[4595 Crustaceans]]  
-
+usedFor:
+- "[[4595 Crustaceans]]"
+---
+# Crustacea

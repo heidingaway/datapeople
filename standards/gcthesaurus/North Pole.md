@@ -1,6 +1,11 @@
-# North Pole  
+---
+title: North Pole
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: North Pole
 
-## Used For
-
-- [[1392 Arctic]]  
-
+usedFor:
+- "[[1392 Arctic]]"
+---
+# North Pole

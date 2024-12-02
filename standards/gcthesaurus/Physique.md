@@ -1,6 +1,11 @@
-# Physique  
+---
+title: Physique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Physique
 
-## French
-
-- [[15777 Physics]]  
-
+french:
+- "[[15777 Physics]]"
+---
+# Physique

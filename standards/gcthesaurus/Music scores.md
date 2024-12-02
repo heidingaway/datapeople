@@ -1,6 +1,11 @@
-# Music scores  
+---
+title: Music scores
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Music scores
 
-## Related Term
-
-- [[14100 Music]]  
-
+relatedTerm:
+- "[[14100 Music]]"
+---
+# Music scores

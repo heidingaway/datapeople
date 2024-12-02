@@ -1,6 +1,11 @@
-# Photos  
+---
+title: Photos
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Photos
 
-## Used For
-
-- [[15726 Photographs]]  
-
+usedFor:
+- "[[15726 Photographs]]"
+---
+# Photos

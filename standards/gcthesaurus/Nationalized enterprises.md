@@ -1,6 +1,11 @@
-# Nationalized enterprises  
+---
+title: Nationalized enterprises
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Nationalized enterprises
 
-## Used For
-
-- [[16882 Public sector]]  
-
+usedFor:
+- "[[16882 Public sector]]"
+---
+# Nationalized enterprises

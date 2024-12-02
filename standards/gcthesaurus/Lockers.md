@@ -1,12 +1,15 @@
-# Lockers  
+---
+title: Lockers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Lockers
 
-## Narrower Term
-
-- [[19411 Storage]]  
-
-## Related Term
-
-- [[11925 Labour mobility]
-- [[21978 Workplace]
-- [[14908 Office equipment]]  
-
+narrowerTerm:
+- "[[19411 Storage]]"
+relatedTerm:
+- "[[11925 Labour mobility]]"
+- "[[21978 Workplace]]"
+- "[[14908 Office equipment]]"
+---
+# Lockers

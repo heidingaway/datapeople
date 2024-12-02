@@ -1,6 +1,11 @@
-# Protection de la sante  
+---
+title: Protection de la sante
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Protection de la santé
 
-## French
-
-- [[9757 Health protection]]  
-
+french:
+- "[[9757 Health protection]]"
+---
+# Protection de la sante

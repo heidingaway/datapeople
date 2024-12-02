@@ -1,6 +1,11 @@
-# Bis Bisexuals  
+---
+title: Bis Bisexuals
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Bis (Bisexuals)
 
-## Used For
-
-- [[2276 Bisexual people]]  
-
+usedFor:
+- "[[2276 Bisexual people]]"
+---
+# Bis Bisexuals

@@ -1,6 +1,11 @@
-# Internationalization  
+---
+title: Internationalization
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Internationalization
 
-## Used For
-
-- [[9109 Globalization]]  
-
+usedFor:
+- "[[9109 Globalization]]"
+---
+# Internationalization

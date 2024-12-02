@@ -1,11 +1,14 @@
-# Buyers  
+---
+title: Buyers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Buyers
 
-## Related Term
-
-- [[16974 Purchasing]
-- [[4094 Consumers]]  
-
-## Use
-
-- [[16966 Purchasers]]  
-
+relatedTerm:
+- "[[16974 Purchasing]]"
+- "[[4094 Consumers]]"
+use:
+- "[[16966 Purchasers]]"
+---
+# Buyers

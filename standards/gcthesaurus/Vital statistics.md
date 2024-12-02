@@ -1,11 +1,14 @@
-# Vital statistics  
+---
+title: Vital statistics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vital statistics
 
-## Narrower Term
-
-- [[19351 Statistics]]  
-
-## Related Term
-
-- [[2271 Birth rate]
-- [[4959 Death rate]]  
-
+narrowerTerm:
+- "[[19351 Statistics]]"
+relatedTerm:
+- "[[2271 Birth rate]]"
+- "[[4959 Death rate]]"
+---
+# Vital statistics

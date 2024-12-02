@@ -1,6 +1,11 @@
-# Building materials  
+---
+title: Building materials
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Building materials
 
-## Used For
-
-- [[4030 Construction materials]]  
-
+usedFor:
+- "[[4030 Construction materials]]"
+---
+# Building materials

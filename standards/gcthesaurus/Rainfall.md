@@ -1,6 +1,11 @@
-# Rainfall  
+---
+title: Rainfall
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rainfall
 
-## Used For
-
-- [[16209 Precipitation]]  
-
+usedFor:
+- "[[16209 Precipitation]]"
+---
+# Rainfall

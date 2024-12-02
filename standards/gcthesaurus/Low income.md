@@ -1,6 +1,11 @@
-# Low income  
+---
+title: Low income
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Low income
 
-## Narrower Term
-
-- [[15541 Personal income]]  
-
+narrowerTerm:
+- "[[15541 Personal income]]"
+---
+# Low income

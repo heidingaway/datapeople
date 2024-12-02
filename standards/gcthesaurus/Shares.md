@@ -1,14 +1,15 @@
-# Shares  
+---
+title: Shares
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Shares
 
-## Narrower Term
-
-- [[1557 Assets]]  
-
-## Related Term
-
-- [[18436 Securities]]  
-
-## Use
-
-- [[3647 Common shares]]  
-
+narrowerTerm:
+- "[[1557 Assets]]"
+relatedTerm:
+- "[[18436 Securities]]"
+use:
+- "[[3647 Common shares]]"
+---
+# Shares

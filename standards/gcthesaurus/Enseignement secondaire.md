@@ -1,6 +1,11 @@
-# Enseignement secondaire  
+---
+title: Enseignement secondaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Enseignement secondaire
 
-## French
-
-- [[18404 Secondary education]]  
-
+french:
+- "[[18404 Secondary education]]"
+---
+# Enseignement secondaire

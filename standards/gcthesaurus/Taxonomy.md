@@ -1,12 +1,15 @@
-# Taxonomy  
+---
+title: Taxonomy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Taxonomy
 
-## Broader Term
-
-- [[19108 Soil taxonomy]]  
-
-## Related Term
-
-- [[3306 Classification]
-- [[3468 Coding]
-- [[14459 Nomenclature]]  
-
+broaderTerm:
+- "[[19108 Soil taxonomy]]"
+relatedTerm:
+- "[[3306 Classification]]"
+- "[[3468 Coding]]"
+- "[[14459 Nomenclature]]"
+---
+# Taxonomy

@@ -1,6 +1,11 @@
-# Produit de la criminalite  
+---
+title: Produit de la criminalite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Produit de la criminalité
 
-## French
-
-- [[16439 Proceeds of crime]]  
-
+french:
+- "[[16439 Proceeds of crime]]"
+---
+# Produit de la criminalite

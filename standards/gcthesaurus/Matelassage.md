@@ -1,6 +1,11 @@
-# Matelassage  
+---
+title: Matelassage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Matelassage
 
-## French
-
-- [[17031 Quilting]]  
-
+french:
+- "[[17031 Quilting]]"
+---
+# Matelassage

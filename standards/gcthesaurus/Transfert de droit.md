@@ -1,6 +1,11 @@
-# Transfert de droit  
+---
+title: Transfert de droit
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Transfert de droit
 
-## French
-
-- [[6755 Entitlement]]  
-
+french:
+- "[[6755 Entitlement]]"
+---
+# Transfert de droit

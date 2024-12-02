@@ -1,6 +1,11 @@
-# Vocabulary  
+---
+title: Vocabulary
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vocabulary
 
-## Used For
-
-- [[20038 Terminology]]  
-
+usedFor:
+- "[[20038 Terminology]]"
+---
+# Vocabulary

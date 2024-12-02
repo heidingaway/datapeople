@@ -1,8 +1,13 @@
-# Hunger  
+---
+title: Hunger
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hunger
 
-## Related Term
-
-- [[14708 Nutrition]
-- [[8089 Food]
-- [[7414 Famine]]  
-
+relatedTerm:
+- "[[14708 Nutrition]]"
+- "[[8089 Food]]"
+- "[[7414 Famine]]"
+---
+# Hunger

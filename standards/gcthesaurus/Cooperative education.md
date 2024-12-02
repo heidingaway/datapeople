@@ -1,11 +1,14 @@
-# Cooperative education  
+---
+title: Cooperative education
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cooperative education
 
-## Narrower Term
-
-- [[6027 Education]]  
-
-## Related Term
-
-- [[11482 Internships]
-- [[4188 Cooperation]]  
-
+narrowerTerm:
+- "[[6027 Education]]"
+relatedTerm:
+- "[[11482 Internships]]"
+- "[[4188 Cooperation]]"
+---
+# Cooperative education

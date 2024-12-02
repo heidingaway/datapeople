@@ -1,6 +1,11 @@
-# Mineral fuels  
+---
+title: Mineral fuels
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mineral fuels
 
-## Used For
-
-- [[8574 Fuels]]  
-
+usedFor:
+- "[[8574 Fuels]]"
+---
+# Mineral fuels

@@ -1,6 +1,11 @@
-# Offre  
+---
+title: Offre
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Offre
 
-## French
-
-- [[19561 Supply]]  
-
+french:
+- "[[19561 Supply]]"
+---
+# Offre

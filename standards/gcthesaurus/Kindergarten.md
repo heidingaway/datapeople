@@ -1,6 +1,11 @@
-# Kindergarten  
+---
+title: Kindergarten
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Kindergarten
 
-## Used For
-
-- [[16240 Preschool education]]  
-
+usedFor:
+- "[[16240 Preschool education]]"
+---
+# Kindergarten

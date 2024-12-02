@@ -1,6 +1,11 @@
-# Commercial aircraft  
+---
+title: Commercial aircraft
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Commercial aircraft
 
-## Used For
-
-- [[3286 Civilian aircraft]]  
-
+usedFor:
+- "[[3286 Civilian aircraft]]"
+---
+# Commercial aircraft

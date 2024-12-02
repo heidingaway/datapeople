@@ -1,6 +1,11 @@
-# Attentes  
-
-## French
-
-- [[7246 Expectations]]  
-
+---
+title: Attentes
+created: 2024-12-01
+modified: 2024-12-01
+tags:
+  - TBSMetadata
+alias: Attentes
+french:
+  - "[[7246 Expectations]]"
+---
+# Attentes

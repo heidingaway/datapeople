@@ -1,16 +1,17 @@
-# Vocational training  
+---
+title: Vocational training
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vocational training
 
-## Narrower Term
-
-- [[20494 Training]]  
-
-## Related Term
-
-- [[16518 Professional development]]  
-
-## Use
-
-- [[1227 Apprenticeships]
-- [[14807 Occupational training]
-- [[21150 Vocational education]]  
-
+narrowerTerm:
+- "[[20494 Training]]"
+relatedTerm:
+- "[[16518 Professional development]]"
+use:
+- "[[1227 Apprenticeships]]"
+- "[[14807 Occupational training]]"
+- "[[21150 Vocational education]]"
+---
+# Vocational training

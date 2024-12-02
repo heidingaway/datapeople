@@ -1,6 +1,11 @@
-# Phare  
+---
+title: Phare
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Phare
 
-## French
-
-- [[12449 Lighthouses]]  
-
+french:
+- "[[12449 Lighthouses]]"
+---
+# Phare

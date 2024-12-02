@@ -1,6 +1,11 @@
-# Trade missions  
+---
+title: Trade missions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Trade missions
 
-## Related Term
-
-- [[20437 Trade relations]]  
-
+relatedTerm:
+- "[[20437 Trade relations]]"
+---
+# Trade missions

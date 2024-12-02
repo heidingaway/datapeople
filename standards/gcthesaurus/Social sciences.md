@@ -1,28 +1,27 @@
-# Social sciences  
+---
+title: Social sciences
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Social sciences
 
-## Broader Term
-
-- [[9052 Gerontology]
-- [[5973 Economics]
-- [[19056 Sociology]
-- [[1149 Anthropology]
-- [[1345 Archaeology]
-- [[5112 Demography]
-- [[15999 Political science]
-- [[9970 History]
-- [[16739 Psychology]]  
-
-## Narrower Term
-
-- [[18240 Sciences]]  
-
-## Related Term
-
-- [[8956 Geography]
-- [[18927 Social issues]
-- [[10280 Humanities]]  
-
-## Use
-
-- [[19022 Social studies]]  
-
+broaderTerm:
+- "[[9052 Gerontology]]"
+- "[[5973 Economics]]"
+- "[[19056 Sociology]]"
+- "[[1149 Anthropology]]"
+- "[[1345 Archaeology]]"
+- "[[5112 Demography]]"
+- "[[15999 Political science]]"
+- "[[9970 History]]"
+- "[[16739 Psychology]]"
+narrowerTerm:
+- "[[18240 Sciences]]"
+relatedTerm:
+- "[[8956 Geography]]"
+- "[[18927 Social issues]]"
+- "[[10280 Humanities]]"
+use:
+- "[[19022 Social studies]]"
+---
+# Social sciences

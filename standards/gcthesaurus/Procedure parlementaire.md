@@ -1,6 +1,11 @@
-# Procedure parlementaire  
+---
+title: Procedure parlementaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Procédure parlementaire
 
-## French
-
-- [[15318 Parliamentary procedure]]  
-
+french:
+- "[[15318 Parliamentary procedure]]"
+---
+# Procedure parlementaire

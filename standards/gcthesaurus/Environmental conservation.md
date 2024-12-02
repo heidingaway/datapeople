@@ -1,6 +1,11 @@
-# Environmental conservation  
+---
+title: Environmental conservation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Environmental conservation
 
-## Used For
-
-- [[6964 Environmental protection]]  
-
+usedFor:
+- "[[6964 Environmental protection]]"
+---
+# Environmental conservation

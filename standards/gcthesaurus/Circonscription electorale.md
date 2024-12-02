@@ -1,6 +1,11 @@
-# Circonscription electorale  
+---
+title: Circonscription electorale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Circonscription électorale
 
-## French
-
-- [[6172 Electoral districts]]  
-
+french:
+- "[[6172 Electoral districts]]"
+---
+# Circonscription electorale

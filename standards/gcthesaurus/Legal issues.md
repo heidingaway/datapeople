@@ -1,6 +1,11 @@
-# Legal issues  
+---
+title: Legal issues
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Legal issues
 
-## Related Term
-
-- [[12166 Law]]  
-
+relatedTerm:
+- "[[12166 Law]]"
+---
+# Legal issues

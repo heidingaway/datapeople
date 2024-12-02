@@ -1,6 +1,11 @@
-# Financement de leducation  
+---
+title: Financement de leducation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Financement de l'éducation
 
-## French
-
-- [[6081 Educational funding]]  
-
+french:
+- "[[6081 Educational funding]]"
+---
+# Financement de leducation

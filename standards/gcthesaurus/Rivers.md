@@ -1,6 +1,11 @@
-# Rivers  
+---
+title: Rivers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rivers
 
-## Narrower Term
-
-- [[21541 Watercourses]]  
-
+narrowerTerm:
+- "[[21541 Watercourses]]"
+---
+# Rivers

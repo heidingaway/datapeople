@@ -1,6 +1,11 @@
-# Rare plants  
+---
+title: Rare plants
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rare plants
 
-## Used For
-
-- [[6609 Endangered species]]  
-
+usedFor:
+- "[[6609 Endangered species]]"
+---
+# Rare plants

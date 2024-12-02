@@ -1,10 +1,13 @@
-# Technical reports  
+---
+title: Technical reports
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Technical reports
 
-## Narrower Term
-
-- [[17581 Reports]]  
-
-## Related Term
-
-- [[19829 Technical writing]]  
-
+narrowerTerm:
+- "[[17581 Reports]]"
+relatedTerm:
+- "[[19829 Technical writing]]"
+---
+# Technical reports

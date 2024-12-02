@@ -1,14 +1,15 @@
-# Film industry  
+---
+title: Film industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Film industry
 
-## Narrower Term
-
-- [[4667 Cultural industry]]  
-
-## Related Term
-
-- [[3222 Cinema]]  
-
-## Use
-
-- [[13945 Motion picture industry]]  
-
+narrowerTerm:
+- "[[4667 Cultural industry]]"
+relatedTerm:
+- "[[3222 Cinema]]"
+use:
+- "[[13945 Motion picture industry]]"
+---
+# Film industry

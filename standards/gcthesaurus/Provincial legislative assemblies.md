@@ -1,6 +1,11 @@
-# Provincial legislative assemblies  
+---
+title: Provincial legislative assemblies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Provincial legislative assemblies
 
-## Used For
-
-- [[12318 Legislative assemblies]]  
-
+usedFor:
+- "[[12318 Legislative assemblies]]"
+---
+# Provincial legislative assemblies

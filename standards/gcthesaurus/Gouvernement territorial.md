@@ -1,6 +1,11 @@
-# Gouvernement territorial  
+---
+title: Gouvernement territorial
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gouvernement territorial
 
-## French
-
-- [[20068 Territorial governments]]  
-
+french:
+- "[[20068 Territorial governments]]"
+---
+# Gouvernement territorial

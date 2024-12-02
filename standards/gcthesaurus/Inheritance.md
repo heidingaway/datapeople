@@ -1,11 +1,14 @@
-# Inheritance  
+---
+title: Inheritance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Inheritance
 
-## Narrower Term
-
-- [[15514 Personal assets]]  
-
-## Related Term
-
-- [[16435 Probate]
-- [[7123 Estates]]  
-
+narrowerTerm:
+- "[[15514 Personal assets]]"
+relatedTerm:
+- "[[16435 Probate]]"
+- "[[7123 Estates]]"
+---
+# Inheritance

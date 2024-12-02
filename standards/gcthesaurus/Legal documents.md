@@ -1,10 +1,13 @@
-# Legal documents  
+---
+title: Legal documents
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Legal documents
 
-## Related Term
-
-- [[12165 Law]]  
-
-## Use
-
-- [[12277 Legal records]]  
-
+relatedTerm:
+- "[[12165 Law]]"
+use:
+- "[[12277 Legal records]]"
+---
+# Legal documents

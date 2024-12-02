@@ -1,6 +1,11 @@
-# Soins perinataux  
+---
+title: Soins perinataux
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Soins périnataux
 
-## French
-
-- [[15480 Perinatal care]]  
-
+french:
+- "[[15480 Perinatal care]]"
+---
+# Soins perinataux

@@ -1,6 +1,11 @@
-# Earnings  
+---
+title: Earnings
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Earnings
 
-## Used For
-
-- [[10557 Income]]  
-
+usedFor:
+- "[[10557 Income]]"
+---
+# Earnings

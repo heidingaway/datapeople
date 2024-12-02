@@ -1,6 +1,11 @@
-# Instrument de politique  
+---
+title: Instrument de politique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Instrument de politique
 
-## French
-
-- [[15971 Policy instruments]]  
-
+french:
+- "[[15971 Policy instruments]]"
+---
+# Instrument de politique

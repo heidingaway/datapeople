@@ -1,6 +1,11 @@
-# French speaking communities  
+---
+title: French speaking communities
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: French speaking communities
 
-## Used For
-
-- [[8474 Francophonie]]  
-
+usedFor:
+- "[[8474 Francophonie]]"
+---
+# French speaking communities

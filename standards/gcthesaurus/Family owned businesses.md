@@ -1,6 +1,11 @@
-# Family owned businesses  
+---
+title: Family owned businesses
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Family owned businesses
 
-## Used For
-
-- [[7362 Family businesses]]  
-
+usedFor:
+- "[[7362 Family businesses]]"
+---
+# Family owned businesses

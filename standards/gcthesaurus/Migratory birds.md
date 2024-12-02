@@ -1,6 +1,11 @@
-# Migratory birds  
+---
+title: Migratory birds
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Migratory birds
 
-## Narrower Term
-
-- [[2245 Birds]]  
-
+narrowerTerm:
+- "[[2245 Birds]]"
+---
+# Migratory birds

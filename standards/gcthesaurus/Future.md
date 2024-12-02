@@ -1,7 +1,12 @@
-# Future  
+---
+title: Future
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Future
 
-## Related Term
-
-- [[8211 Forecasting]
-- [[7248 Expectations]]  
-
+relatedTerm:
+- "[[8211 Forecasting]]"
+- "[[7248 Expectations]]"
+---
+# Future

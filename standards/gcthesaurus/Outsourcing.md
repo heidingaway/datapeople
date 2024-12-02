@@ -1,6 +1,11 @@
-# Outsourcing  
+---
+title: Outsourcing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Outsourcing
 
-## Used For
-
-- [[4124 Contracting]]  
-
+usedFor:
+- "[[4124 Contracting]]"
+---
+# Outsourcing

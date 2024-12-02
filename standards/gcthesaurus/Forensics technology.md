@@ -1,6 +1,11 @@
-# Forensics technology  
+---
+title: Forensics technology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Forensics technology
 
-## Used For
-
-- [[8285 Forensics]]  
-
+usedFor:
+- "[[8285 Forensics]]"
+---
+# Forensics technology

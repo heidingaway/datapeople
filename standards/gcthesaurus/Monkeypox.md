@@ -1,10 +1,13 @@
-# Monkeypox  
+---
+title: Monkeypox
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Monkeypox
 
-## Narrower Term
-
-- [[16187 Poxvirus diseases]]  
-
-## Use
-
-- [[13888 Monkey pox]]  
-
+narrowerTerm:
+- "[[16187 Poxvirus diseases]]"
+use:
+- "[[13888 Monkey pox]]"
+---
+# Monkeypox

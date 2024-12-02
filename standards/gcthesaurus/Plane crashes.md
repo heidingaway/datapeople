@@ -1,6 +1,11 @@
-# Plane crashes  
+---
+title: Plane crashes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Plane crashes
 
-## Used For
-
-- [[730 Aircraft accidents]]  
-
+usedFor:
+- "[[730 Aircraft accidents]]"
+---
+# Plane crashes

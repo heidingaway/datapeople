@@ -1,19 +1,20 @@
-# Cultural industry  
+---
+title: Cultural industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cultural industry
 
-## Broader Term
-
-- [[7677 Film industry]
-- [[14109 Music industry]]  
-
-## Narrower Term
-
-- [[18578 Service industry]]  
-
-## Related Term
-
-- [[2435 Broadcasting industry]
-- [[4683 Cultural institutions]
-- [[4626 Cultural development]
-- [[4721 Culture]
-- [[16943 Publishing]]  
-
+broaderTerm:
+- "[[7677 Film industry]]"
+- "[[14109 Music industry]]"
+narrowerTerm:
+- "[[18578 Service industry]]"
+relatedTerm:
+- "[[2435 Broadcasting industry]]"
+- "[[4683 Cultural institutions]]"
+- "[[4626 Cultural development]]"
+- "[[4721 Culture]]"
+- "[[16943 Publishing]]"
+---
+# Cultural industry

@@ -1,6 +1,11 @@
-# Email  
+---
+title: Email
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: E-mail
 
-## Used For
-
-- [[6350 Electronic mail]]  
-
+usedFor:
+- "[[6350 Electronic mail]]"
+---
+# Email

@@ -1,7 +1,12 @@
-# Customer services  
+---
+title: Customer services
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Customer services
 
-## Related Term
-
-- [[3328 Clients]
-- [[3322 Client satisfaction]]  
-
+relatedTerm:
+- "[[3328 Clients]]"
+- "[[3322 Client satisfaction]]"
+---
+# Customer services

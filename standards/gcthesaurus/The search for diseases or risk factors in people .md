@@ -1,6 +1,11 @@
-# The search for diseases or risk factors in people   
+---
+title: "The search for diseases or risk factors in people "
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: The search for diseases or risk factors in people without symptoms.
 
-## Scope Note
-
-- [[18289 Screening (Medicine)]]  
-
+scopeNote:
+- "[[18289 Screening (Medicine)]]"
+---
+# The search for diseases or risk factors in people

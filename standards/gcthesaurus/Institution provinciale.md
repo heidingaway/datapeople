@@ -1,6 +1,11 @@
-# Institution provinciale  
+---
+title: Institution provinciale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Institution provinciale
 
-## French
-
-- [[16712 Provincial institutions]]  
-
+french:
+- "[[16712 Provincial institutions]]"
+---
+# Institution provinciale

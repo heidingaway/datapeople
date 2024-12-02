@@ -1,8 +1,13 @@
-# Tolls  
+---
+title: Tolls
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tolls
 
-## Related Term
-
-- [[17894 Road networks]
-- [[7641 Ferries]
-- [[19786 Taxes]]  
-
+relatedTerm:
+- "[[17894 Road networks]]"
+- "[[7641 Ferries]]"
+- "[[19786 Taxes]]"
+---
+# Tolls

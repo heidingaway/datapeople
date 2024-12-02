@@ -1,7 +1,8 @@
-# Outreach services replaces Outreach as preferred t  
+---
+title: Outreach services replaces Outreach as preferred t
+alias: "Outreach services" replaces "Outreach" as preferred term in May 2009.
 
-## History note
-
-- [[15156 Outreach services]
-- [[15149 Outreach]]  
-
+historyNote:
+- "[[15156 Outreach services]]"
+- "[[15149 Outreach]]"
+---

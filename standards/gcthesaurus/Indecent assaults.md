@@ -1,6 +1,11 @@
-# Indecent assaults  
+---
+title: Indecent assaults
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Indecent assaults
 
-## Used For
-
-- [[18624 Sexual offences]]  
-
+usedFor:
+- "[[18624 Sexual offences]]"
+---
+# Indecent assaults

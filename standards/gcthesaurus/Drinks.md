@@ -1,6 +1,11 @@
-# Drinks  
+---
+title: Drinks
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Drinks
 
-## Used For
-
-- [[1993 Beverages]]  
-
+usedFor:
+- "[[1993 Beverages]]"
+---
+# Drinks

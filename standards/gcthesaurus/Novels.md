@@ -1,6 +1,11 @@
-# Novels  
+---
+title: Novels
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Novels
 
-## Used For
-
-- [[12512 Literature]]  
-
+usedFor:
+- "[[12512 Literature]]"
+---
+# Novels

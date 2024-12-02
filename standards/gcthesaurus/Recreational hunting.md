@@ -1,6 +1,11 @@
-# Recreational hunting  
+---
+title: Recreational hunting
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Recreational hunting
 
-## Used For
-
-- [[10307 Hunting (Sport)]]  
-
+usedFor:
+- "[[10307 Hunting (Sport)]]"
+---
+# Recreational hunting

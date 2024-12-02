@@ -1,6 +1,11 @@
-# Biodegradation  
+---
+title: Biodegradation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biodégradation
 
-## French
-
-- [[2110 Biodegradation]]  
-
+french:
+- "[[2110 Biodegradation]]"
+---
+# Biodegradation

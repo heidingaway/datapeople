@@ -1,6 +1,11 @@
-# Codification administrative  
+---
+title: Codification administrative
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Codification administrative
 
-## French
-
-- [[14902 Office consolidations]]  
-
+french:
+- "[[14902 Office consolidations]]"
+---
+# Codification administrative

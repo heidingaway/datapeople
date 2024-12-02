@@ -1,10 +1,13 @@
-# Capital markets  
+---
+title: Capital markets
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Capital markets
 
-## Narrower Term
-
-- [[13113 Markets]]  
-
-## Related Term
-
-- [[11594 Investments]]  
-
+narrowerTerm:
+- "[[13113 Markets]]"
+relatedTerm:
+- "[[11594 Investments]]"
+---
+# Capital markets

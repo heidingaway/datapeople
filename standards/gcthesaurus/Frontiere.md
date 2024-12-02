@@ -1,6 +1,11 @@
-# Frontiere  
+---
+title: Frontiere
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Frontière
 
-## French
-
-- [[2379 Boundaries]]  
-
+french:
+- "[[2379 Boundaries]]"
+---
+# Frontiere

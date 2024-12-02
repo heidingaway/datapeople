@@ -1,10 +1,13 @@
-# Seismology  
+---
+title: Seismology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Seismology
 
-## Narrower Term
-
-- [[9017 Geophysics]]  
-
-## Related Term
-
-- [[5788 Earthquakes]]  
-
+narrowerTerm:
+- "[[9017 Geophysics]]"
+relatedTerm:
+- "[[5788 Earthquakes]]"
+---
+# Seismology

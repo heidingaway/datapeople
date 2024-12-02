@@ -1,6 +1,11 @@
-# Perennially frozen ground  
+---
+title: Perennially frozen ground
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Perennially frozen ground
 
-## Used For
-
-- [[15496 Permafrost]]  
-
+usedFor:
+- "[[15496 Permafrost]]"
+---
+# Perennially frozen ground

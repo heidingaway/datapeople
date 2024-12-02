@@ -1,6 +1,11 @@
-# Patrimoine  
+---
+title: Patrimoine
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Patrimoine
 
-## French
-
-- [[9872 Heritage]]  
-
+french:
+- "[[9872 Heritage]]"
+---
+# Patrimoine

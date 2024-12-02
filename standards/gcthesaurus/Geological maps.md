@@ -1,10 +1,13 @@
-# Geological maps  
+---
+title: Geological maps
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geological maps
 
-## Narrower Term
-
-- [[12893 Maps]]  
-
-## Related Term
-
-- [[8995 Geology]]  
-
+narrowerTerm:
+- "[[12893 Maps]]"
+relatedTerm:
+- "[[8995 Geology]]"
+---
+# Geological maps

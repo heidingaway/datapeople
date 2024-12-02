@@ -1,6 +1,11 @@
-# Vie politique  
+---
+title: Vie politique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vie politique
 
-## French
-
-- [[16002 Politics]]  
-
+french:
+- "[[16002 Politics]]"
+---
+# Vie politique

@@ -1,6 +1,11 @@
-# The state of legal age of majority  
+---
+title: The state of legal age of majority
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: The state of legal age of majority.
 
-## Scope Note
-
-- [[281 Adulthood]]  
-
+scopeNote:
+- "[[281 Adulthood]]"
+---
+# The state of legal age of majority

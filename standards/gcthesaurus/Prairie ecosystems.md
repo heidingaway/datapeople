@@ -1,10 +1,13 @@
-# Prairie ecosystems  
+---
+title: Prairie ecosystems
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prairie ecosystems
 
-## Narrower Term
-
-- [[5995 Ecosystems]]  
-
-## Related Term
-
-- [[9327 Grasslands]]  
-
+narrowerTerm:
+- "[[5995 Ecosystems]]"
+relatedTerm:
+- "[[9327 Grasslands]]"
+---
+# Prairie ecosystems

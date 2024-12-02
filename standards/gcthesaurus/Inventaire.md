@@ -1,6 +1,11 @@
-# Inventaire  
+---
+title: Inventaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Inventaire
 
-## French
-
-- [[11569 Inventories]]  
-
+french:
+- "[[11569 Inventories]]"
+---
+# Inventaire

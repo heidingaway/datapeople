@@ -1,6 +1,11 @@
-# Incorporated companies  
+---
+title: Incorporated companies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Incorporated companies
 
-## Used For
-
-- [[4281 Corporations]]  
-
+usedFor:
+- "[[4281 Corporations]]"
+---
+# Incorporated companies

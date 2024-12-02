@@ -1,6 +1,11 @@
-# Relations exterieures  
+---
+title: Relations exterieures
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Relations extérieures
 
-## French
-
-- [[7315 External relations]]  
-
+french:
+- "[[7315 External relations]]"
+---
+# Relations exterieures

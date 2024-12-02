@@ -1,6 +1,11 @@
-# Financial studies  
+---
+title: Financial studies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Financial studies
 
-## Used For
-
-- [[7710 Financial analysis]]  
-
+usedFor:
+- "[[7710 Financial analysis]]"
+---
+# Financial studies

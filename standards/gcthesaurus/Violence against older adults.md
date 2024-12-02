@@ -1,6 +1,11 @@
-# Violence against older adults  
+---
+title: Violence against older adults
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Violence against older adults
 
-## Used For
-
-- [[6136 Elder abuse]]  
-
+usedFor:
+- "[[6136 Elder abuse]]"
+---
+# Violence against older adults

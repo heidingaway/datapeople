@@ -1,7 +1,12 @@
-# Epidemics  
+---
+title: Epidemics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Epidemics
 
-## Related Term
-
-- [[10927 Infectious diseases]
-- [[7058 Epidemiology]]  
-
+relatedTerm:
+- "[[10927 Infectious diseases]]"
+- "[[7058 Epidemiology]]"
+---
+# Epidemics

@@ -1,6 +1,11 @@
-# Online government  
+---
+title: Online government
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Online government
 
-## Used For
-
-- [[6329 Electronic government]]  
-
+usedFor:
+- "[[6329 Electronic government]]"
+---
+# Online government

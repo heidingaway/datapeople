@@ -1,6 +1,11 @@
-# Protecteur du citoyen  
+---
+title: Protecteur du citoyen
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Protecteur du citoyen
 
-## French
-
-- [[15027 Ombudsman]]  
-
+french:
+- "[[15027 Ombudsman]]"
+---
+# Protecteur du citoyen

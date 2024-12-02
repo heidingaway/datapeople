@@ -1,6 +1,11 @@
-# Evaluation  
+---
+title: Evaluation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Évaluation
 
-## French
-
-- [[1532 Assessment]]  
-
+french:
+- "[[1532 Assessment]]"
+---
+# Evaluation

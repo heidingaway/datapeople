@@ -1,6 +1,11 @@
-# High schools  
+---
+title: High schools
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: High schools
 
-## Used For
-
-- [[18418 Secondary schools]]  
-
+usedFor:
+- "[[18418 Secondary schools]]"
+---
+# High schools

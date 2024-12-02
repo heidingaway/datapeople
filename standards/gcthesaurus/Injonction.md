@@ -1,6 +1,11 @@
-# Injonction  
+---
+title: Injonction
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Injonction
 
-## French
-
-- [[11085 Injunctions]]  
-
+french:
+- "[[11085 Injunctions]]"
+---
+# Injonction

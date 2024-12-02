@@ -1,6 +1,11 @@
-# Geodetics  
+---
+title: Geodetics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geodetics
 
-## Used For
-
-- [[8890 Geodesy]]  
-
+usedFor:
+- "[[8890 Geodesy]]"
+---
+# Geodetics

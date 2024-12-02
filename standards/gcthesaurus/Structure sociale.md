@@ -1,6 +1,11 @@
-# Structure sociale  
+---
+title: Structure sociale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Structure sociale
 
-## French
-
-- [[19017 Social structure]]  
-
+french:
+- "[[19017 Social structure]]"
+---
+# Structure sociale

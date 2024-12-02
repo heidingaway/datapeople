@@ -1,11 +1,14 @@
-# Precious metals  
+---
+title: Precious metals
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Precious metals
 
-## Broader Term
-
-- [[9128 Gold]
-- [[18745 Silver]]  
-
-## Narrower Term
-
-- [[13450 Metals]]  
-
+broaderTerm:
+- "[[9128 Gold]]"
+- "[[18745 Silver]]"
+narrowerTerm:
+- "[[13450 Metals]]"
+---
+# Precious metals

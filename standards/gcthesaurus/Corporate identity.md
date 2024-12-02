@@ -1,6 +1,11 @@
-# Corporate identity  
+---
+title: Corporate identity
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Corporate identity
 
-## Used For
-
-- [[4274 Corporate names]]  
-
+usedFor:
+- "[[4274 Corporate names]]"
+---
+# Corporate identity

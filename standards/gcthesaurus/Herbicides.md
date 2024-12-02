@@ -1,17 +1,18 @@
-# Herbicides  
+---
+title: Herbicides
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Herbicides
 
-## Narrower Term
-
-- [[15623 Pesticides]]  
-
-## Related Term
-
-- [[21659 Weeds]]  
-
-## Use
-
-- [[21650 Weed killers]
-- [[15787 Phytocides]
-- [[21652 Weedicides]
-- [[21654 Weedkillers]]  
-
+narrowerTerm:
+- "[[15623 Pesticides]]"
+relatedTerm:
+- "[[21659 Weeds]]"
+use:
+- "[[21650 Weed killers]]"
+- "[[15787 Phytocides]]"
+- "[[21652 Weedicides]]"
+- "[[21654 Weedkillers]]"
+---
+# Herbicides

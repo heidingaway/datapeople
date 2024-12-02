@@ -1,6 +1,11 @@
-# Couveuse  
+---
+title: Couveuse
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Couveuse
 
-## French
-
-- [[9508 Hatcheries]]  
-
+french:
+- "[[9508 Hatcheries]]"
+---
+# Couveuse

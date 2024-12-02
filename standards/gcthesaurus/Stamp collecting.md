@@ -1,6 +1,11 @@
-# Stamp collecting  
+---
+title: Stamp collecting
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Stamp collecting
 
-## Used For
-
-- [[15707 Philately]]  
-
+usedFor:
+- "[[15707 Philately]]"
+---
+# Stamp collecting

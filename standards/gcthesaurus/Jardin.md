@@ -1,6 +1,11 @@
-# Jardin  
+---
+title: Jardin
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Jardin
 
-## French
-
-- [[8718 Gardens]]  
-
+french:
+- "[[8718 Gardens]]"
+---
+# Jardin

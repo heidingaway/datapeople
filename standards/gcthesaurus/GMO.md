@@ -1,6 +1,11 @@
-# GMO  
+---
+title: GMO
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: GMO
 
-## Used For
-
-- [[8859 Genetically modified organisms]]  
-
+usedFor:
+- "[[8859 Genetically modified organisms]]"
+---
+# GMO

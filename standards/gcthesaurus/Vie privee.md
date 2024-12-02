@@ -1,6 +1,11 @@
-# Vie privee  
+---
+title: Vie privee
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vie privée
 
-## French
-
-- [[16386 Privacy]]  
-
+french:
+- "[[16386 Privacy]]"
+---
+# Vie privee

@@ -1,6 +1,11 @@
-# Jardin botanique  
+---
+title: Jardin botanique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Jardin botanique
 
-## French
-
-- [[2366 Botanical gardens]]  
-
+french:
+- "[[2366 Botanical gardens]]"
+---
+# Jardin botanique

@@ -1,6 +1,11 @@
-# Nanomaterials  
+---
+title: Nanomaterials
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Nanomaterials
 
-## Used For
-
-- [[14134 Nanotechnology]]  
-
+usedFor:
+- "[[14134 Nanotechnology]]"
+---
+# Nanomaterials

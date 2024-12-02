@@ -1,6 +1,11 @@
-# Food additives  
+---
+title: Food additives
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Food additives
 
-## Used For
-
-- [[8144 Food processing]]  
-
+usedFor:
+- "[[8144 Food processing]]"
+---
+# Food additives

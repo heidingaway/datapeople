@@ -1,6 +1,11 @@
-# Equipement de securite nautique  
+---
+title: Equipement de securite nautique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Équipement de sécurité nautique
 
-## French
-
-- [[12993 Marine safety equipment]]  
-
+french:
+- "[[12993 Marine safety equipment]]"
+---
+# Equipement de securite nautique

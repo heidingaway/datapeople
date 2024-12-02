@@ -1,6 +1,11 @@
-# Elaboration de programme  
+---
+title: Elaboration de programme
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Élaboration de programme
 
-## French
-
-- [[16549 Program development]]  
-
+french:
+- "[[16549 Program development]]"
+---
+# Elaboration de programme

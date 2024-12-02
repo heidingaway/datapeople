@@ -1,10 +1,13 @@
-# Learning disabilities  
+---
+title: Learning disabilities
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Learning disabilities
 
-## Narrower Term
-
-- [[5303 Disabilities]]  
-
-## Use
-
-- [[12226 Learning disorders]]  
-
+narrowerTerm:
+- "[[5303 Disabilities]]"
+use:
+- "[[12226 Learning disorders]]"
+---
+# Learning disabilities

@@ -1,6 +1,11 @@
-# Geospatial data  
+---
+title: Geospatial data
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geospatial data
 
-## Used For
-
-- [[8906 Geographic data]]  
-
+usedFor:
+- "[[8906 Geographic data]]"
+---
+# Geospatial data

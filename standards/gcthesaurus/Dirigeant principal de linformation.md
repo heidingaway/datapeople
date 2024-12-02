@@ -1,6 +1,11 @@
-# Dirigeant principal de linformation  
+---
+title: Dirigeant principal de linformation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Dirigeant principal de l'information
 
-## French
-
-- [[3093 Chief Information Officer]]  
-
+french:
+- "[[3093 Chief Information Officer]]"
+---
+# Dirigeant principal de linformation

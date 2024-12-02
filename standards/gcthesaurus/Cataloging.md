@@ -1,6 +1,11 @@
-# Cataloging  
+---
+title: Cataloging
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cataloging
 
-## Used For
-
-- [[2851 Cataloguing]]  
-
+usedFor:
+- "[[2851 Cataloguing]]"
+---
+# Cataloging

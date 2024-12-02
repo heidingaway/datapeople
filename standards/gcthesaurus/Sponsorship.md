@@ -1,6 +1,11 @@
-# Sponsorship  
+---
+title: Sponsorship
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sponsorship
 
-## Related Term
-
-- [[7721 Financial assistance]]  
-
+relatedTerm:
+- "[[7721 Financial assistance]]"
+---
+# Sponsorship

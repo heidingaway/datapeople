@@ -1,6 +1,11 @@
-# Deliveries  
+---
+title: Deliveries
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Deliveries
 
-## Related Term
-
-- [[5439 Distribution]]  
-
+relatedTerm:
+- "[[5439 Distribution]]"
+---
+# Deliveries

@@ -1,6 +1,11 @@
-# Legal writing  
+---
+title: Legal writing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Legal writing
 
-## Used For
-
-- [[12332 Legislative writing]]  
-
+usedFor:
+- "[[12332 Legislative writing]]"
+---
+# Legal writing

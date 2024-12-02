@@ -1,10 +1,13 @@
-# Geographical maps  
+---
+title: Geographical maps
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geographical maps
 
-## Narrower Term
-
-- [[12892 Maps]]  
-
-## Related Term
-
-- [[8952 Geography]]  
-
+narrowerTerm:
+- "[[12892 Maps]]"
+relatedTerm:
+- "[[8952 Geography]]"
+---
+# Geographical maps

@@ -1,6 +1,11 @@
-# Congediement  
+---
+title: Congediement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Congédiement
 
-## French
-
-- [[5358 Discharge]]  
-
+french:
+- "[[5358 Discharge]]"
+---
+# Congediement

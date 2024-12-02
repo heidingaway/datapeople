@@ -1,10 +1,13 @@
-# Poxvirus diseases  
+---
+title: Poxvirus diseases
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Poxvirus diseases
 
-## Broader Term
-
-- [[13893 Monkeypox]]  
-
-## Narrower Term
-
-- [[10925 Infectious diseases]]  
-
+broaderTerm:
+- "[[13893 Monkeypox]]"
+narrowerTerm:
+- "[[10925 Infectious diseases]]"
+---
+# Poxvirus diseases

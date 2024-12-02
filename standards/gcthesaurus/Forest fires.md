@@ -1,11 +1,14 @@
-# Forest fires  
+---
+title: Forest fires
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Forest fires
 
-## Narrower Term
-
-- [[7786 Fire]]  
-
-## Related Term
-
-- [[14286 Natural disasters]
-- [[8417 Forests]]  
-
+narrowerTerm:
+- "[[7786 Fire]]"
+relatedTerm:
+- "[[14286 Natural disasters]]"
+- "[[8417 Forests]]"
+---
+# Forest fires

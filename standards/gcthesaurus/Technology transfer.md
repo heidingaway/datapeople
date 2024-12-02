@@ -1,11 +1,14 @@
-# Technology transfer  
+---
+title: Technology transfer
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Technology transfer
 
-## Narrower Term
-
-- [[20549 Transfers]]  
-
-## Related Term
-
-- [[19891 Technology policy]
-- [[19884 Technology]]  
-
+narrowerTerm:
+- "[[20549 Transfers]]"
+relatedTerm:
+- "[[19891 Technology policy]]"
+- "[[19884 Technology]]"
+---
+# Technology transfer

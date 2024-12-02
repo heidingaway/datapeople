@@ -1,6 +1,11 @@
-# Occupational development  
+---
+title: Occupational development
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Occupational development
 
-## Used For
-
-- [[16515 Professional development]]  
-
+usedFor:
+- "[[16515 Professional development]]"
+---
+# Occupational development

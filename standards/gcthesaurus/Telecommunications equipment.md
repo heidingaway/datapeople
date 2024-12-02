@@ -1,6 +1,11 @@
-# Telecommunications equipment  
+---
+title: Telecommunications equipment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Telecommunications equipment
 
-## Used For
-
-- [[3663 Communications equipment]]  
-
+usedFor:
+- "[[3663 Communications equipment]]"
+---
+# Telecommunications equipment

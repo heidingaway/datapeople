@@ -1,6 +1,11 @@
-# Deafness  
+---
+title: Deafness
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Deafness
 
-## Narrower Term
-
-- [[9798 Hearing disabilities]]  
-
+narrowerTerm:
+- "[[9798 Hearing disabilities]]"
+---
+# Deafness

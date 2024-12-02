@@ -1,6 +1,11 @@
-# Fonctionnement  
+---
+title: Fonctionnement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fonctionnement
 
-## French
-
-- [[15052 Operations]]  
-
+french:
+- "[[15052 Operations]]"
+---
+# Fonctionnement

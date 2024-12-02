@@ -1,6 +1,11 @@
-# Fur industry  
+---
+title: Fur industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fur industry
 
-## Used For
-
-- [[8674 Furs]]  
-
+usedFor:
+- "[[8674 Furs]]"
+---
+# Fur industry

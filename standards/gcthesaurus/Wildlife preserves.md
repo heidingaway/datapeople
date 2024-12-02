@@ -1,6 +1,11 @@
-# Wildlife preserves  
+---
+title: Wildlife preserves
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Wildlife preserves
 
-## Used For
-
-- [[3973 Conservation areas]]  
-
+usedFor:
+- "[[3973 Conservation areas]]"
+---
+# Wildlife preserves

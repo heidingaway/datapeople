@@ -1,6 +1,11 @@
-# Wildlife refugies  
+---
+title: Wildlife refugies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Wildlife refugies
 
-## Used For
-
-- [[3974 Conservation areas]]  
-
+usedFor:
+- "[[3974 Conservation areas]]"
+---
+# Wildlife refugies

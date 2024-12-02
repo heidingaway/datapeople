@@ -1,6 +1,11 @@
-# Science politique  
+---
+title: Science politique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Science politique
 
-## French
-
-- [[15998 Political science]]  
-
+french:
+- "[[15998 Political science]]"
+---
+# Science politique

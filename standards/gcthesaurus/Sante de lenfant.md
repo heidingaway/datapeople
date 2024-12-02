@@ -1,6 +1,11 @@
-# Sante de lenfant  
+---
+title: Sante de lenfant
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Santé de l'enfant
 
-## French
-
-- [[3182 Children's health]]  
-
+french:
+- "[[3182 Children's health]]"
+---
+# Sante de lenfant

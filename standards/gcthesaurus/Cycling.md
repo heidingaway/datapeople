@@ -1,12 +1,15 @@
-# Cycling  
+---
+title: Cycling
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cycling
 
-## Narrower Term
-
-- [[19241 Sports]]  
-
-## Related Term
-
-- [[2032 Bicycle safety equipment]
-- [[2025 Bicycle paths]
-- [[15135 Outdoor recreation]]  
-
+narrowerTerm:
+- "[[19241 Sports]]"
+relatedTerm:
+- "[[2032 Bicycle safety equipment]]"
+- "[[2025 Bicycle paths]]"
+- "[[15135 Outdoor recreation]]"
+---
+# Cycling

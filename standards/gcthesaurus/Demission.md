@@ -1,6 +1,11 @@
-# Demission  
+---
+title: Demission
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Démission
 
-## French
-
-- [[17704 Resignation]]  
-
+french:
+- "[[17704 Resignation]]"
+---
+# Demission

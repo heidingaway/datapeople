@@ -1,6 +1,11 @@
-# Common shares  
+---
+title: Common shares
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Common shares
 
-## Used For
-
-- [[18658 Shares]]  
-
+usedFor:
+- "[[18658 Shares]]"
+---
+# Common shares

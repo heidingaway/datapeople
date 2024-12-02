@@ -1,6 +1,11 @@
-# Vendors  
+---
+title: Vendors
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vendors
 
-## Related Term
-
-- [[18100 Sales]]  
-
+relatedTerm:
+- "[[18100 Sales]]"
+---
+# Vendors

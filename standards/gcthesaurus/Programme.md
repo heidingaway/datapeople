@@ -1,6 +1,11 @@
-# Programme  
+---
+title: Programme
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Programme
 
-## French
-
-- [[16567 Programs]]  
-
+french:
+- "[[16567 Programs]]"
+---
+# Programme

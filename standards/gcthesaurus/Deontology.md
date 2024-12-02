@@ -1,6 +1,11 @@
-# Deontology  
+---
+title: Deontology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Deontology
 
-## Used For
-
-- [[7146 Ethics]]  
-
+usedFor:
+- "[[7146 Ethics]]"
+---
+# Deontology

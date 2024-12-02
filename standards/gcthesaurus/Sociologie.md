@@ -1,6 +1,11 @@
-# Sociologie  
+---
+title: Sociologie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sociologie
 
-## French
-
-- [[19055 Sociology]]  
-
+french:
+- "[[19055 Sociology]]"
+---
+# Sociologie

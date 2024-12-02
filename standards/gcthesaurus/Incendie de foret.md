@@ -1,6 +1,11 @@
-# Incendie de foret  
+---
+title: Incendie de foret
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Incendie de forêt
 
-## French
-
-- [[8304 Forest fires]]  
-
+french:
+- "[[8304 Forest fires]]"
+---
+# Incendie de foret

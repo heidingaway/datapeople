@@ -1,6 +1,11 @@
-# Employment rehabilitation  
+---
+title: Employment rehabilitation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Employment rehabilitation
 
-## Used For
-
-- [[21172 Vocational rehabilitation]]  
-
+usedFor:
+- "[[21172 Vocational rehabilitation]]"
+---
+# Employment rehabilitation

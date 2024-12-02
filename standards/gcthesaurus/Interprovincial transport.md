@@ -1,6 +1,11 @@
-# Interprovincial transport  
+---
+title: Interprovincial transport
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Interprovincial transport
 
-## Narrower Term
-
-- [[20605 Transport]]  
-
+narrowerTerm:
+- "[[20605 Transport]]"
+---
+# Interprovincial transport

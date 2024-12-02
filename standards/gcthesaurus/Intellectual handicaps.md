@@ -1,6 +1,11 @@
-# Intellectual handicaps  
+---
+title: Intellectual handicaps
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Intellectual handicaps
 
-## Used For
-
-- [[11231 Intellectual disabilities]]  
-
+usedFor:
+- "[[11231 Intellectual disabilities]]"
+---
+# Intellectual handicaps

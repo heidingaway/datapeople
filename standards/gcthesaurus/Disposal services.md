@@ -1,10 +1,13 @@
-# Disposal services  
+---
+title: Disposal services
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Disposal services
 
-## Related Term
-
-- [[17382 Recycling]]  
-
-## Use
-
-- [[13139 Material disposal services]]  
-
+relatedTerm:
+- "[[17382 Recycling]]"
+use:
+- "[[13139 Material disposal services]]"
+---
+# Disposal services

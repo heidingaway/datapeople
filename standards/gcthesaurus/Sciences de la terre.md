@@ -1,6 +1,11 @@
-# Sciences de la terre  
+---
+title: Sciences de la terre
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sciences de la terre
 
-## French
-
-- [[5762 Earth sciences]]  
-
+french:
+- "[[5762 Earth sciences]]"
+---
+# Sciences de la terre

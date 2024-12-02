@@ -1,6 +1,11 @@
-# Zone de peche  
+---
+title: Zone de peche
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Zone de pêche
 
-## French
-
-- [[7973 Fishing area]]  
-
+french:
+- "[[7973 Fishing area]]"
+---
+# Zone de peche

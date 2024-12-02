@@ -1,6 +1,11 @@
-# The system according to which a nation or communit  
+---
+title: The system according to which a nation or communit
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: The system according to which a nation or community is governed; the governing power in a state.
 
-## Scope Note
-
-- [[9253 Governments]]  
-
+scopeNote:
+- "[[9253 Governments]]"
+---
+# The system according to which a nation or communit

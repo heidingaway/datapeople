@@ -1,6 +1,11 @@
-# Organic fertilizers  
+---
+title: Organic fertilizers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Organic fertilizers
 
-## Used For
-
-- [[7654 Fertilizers]]  
-
+usedFor:
+- "[[7654 Fertilizers]]"
+---
+# Organic fertilizers

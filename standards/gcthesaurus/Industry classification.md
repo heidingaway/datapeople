@@ -1,6 +1,11 @@
-# Industry classification  
+---
+title: Industry classification
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industry classification
 
-## Related Term
-
-- [[10866 Industry]]  
-
+relatedTerm:
+- "[[10866 Industry]]"
+---
+# Industry classification

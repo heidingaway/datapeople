@@ -1,6 +1,11 @@
-# Innu First Nation  
+---
+title: Innu First Nation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Innu First Nation
 
-## Used For
-
-- [[11120 Innu]]  
-
+usedFor:
+- "[[11120 Innu]]"
+---
+# Innu First Nation

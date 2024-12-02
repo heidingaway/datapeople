@@ -1,6 +1,11 @@
-# Epargne  
+---
+title: Epargne
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Épargne
 
-## French
-
-- [[18172 Savings]]  
-
+french:
+- "[[18172 Savings]]"
+---
+# Epargne

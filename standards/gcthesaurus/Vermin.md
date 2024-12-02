@@ -1,6 +1,11 @@
-# Vermin  
+---
+title: Vermin
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vermin
 
-## Used For
-
-- [[15635 Pests]]  
-
+usedFor:
+- "[[15635 Pests]]"
+---
+# Vermin

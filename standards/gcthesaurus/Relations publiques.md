@@ -1,6 +1,11 @@
-# Relations publiques  
+---
+title: Relations publiques
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Relations publiques
 
-## French
-
-- [[16869 Public relations]]  
-
+french:
+- "[[16869 Public relations]]"
+---
+# Relations publiques

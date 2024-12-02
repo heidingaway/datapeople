@@ -1,6 +1,11 @@
-# Biodiversity  
+---
+title: Biodiversity
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biodiversity
 
-## Used For
-
-- [[2163 Biological diversity]]  
-
+usedFor:
+- "[[2163 Biological diversity]]"
+---
+# Biodiversity

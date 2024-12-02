@@ -1,10 +1,13 @@
-# Bacteria  
-
-## Narrower Term
-
-- [[13560 Microorganisms]]  
-
-## Related Term
-
-- [[1836 Bacteriology]]  
-
+---
+title: Bacteria
+created: 2024-12-01
+modified: 2024-12-01
+tags:
+  - TBSMetadata
+alias: Bacteria
+narrowerTerm:
+  - "[[13560 Microorganisms]]"
+relatedTerm:
+  - "[[1836 Bacteriology]]"
+---
+# Bacteria

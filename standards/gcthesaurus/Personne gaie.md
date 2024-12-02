@@ -1,6 +1,11 @@
-# Personne gaie  
+---
+title: Personne gaie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Personne gaie
 
-## French
-
-- [[8753 Gay people]]  
-
+french:
+- "[[8753 Gay people]]"
+---
+# Personne gaie

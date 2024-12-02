@@ -1,6 +1,11 @@
-# Taxation  
+---
+title: Taxation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Taxation
 
-## Used For
-
-- [[19771 Taxes]]  
-
+usedFor:
+- "[[19771 Taxes]]"
+---
+# Taxation

@@ -1,6 +1,11 @@
-# Controle dapplication  
+---
+title: Controle dapplication
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Contrôle d'application
 
-## French
-
-- [[6722 Enforcement]]  
-
+french:
+- "[[6722 Enforcement]]"
+---
+# Controle dapplication

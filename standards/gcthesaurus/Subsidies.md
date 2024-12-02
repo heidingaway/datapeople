@@ -1,6 +1,11 @@
-# Subsidies  
+---
+title: Subsidies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Subsidies
 
-## Used For
-
-- [[9296 Grants]]  
-
+usedFor:
+- "[[9296 Grants]]"
+---
+# Subsidies

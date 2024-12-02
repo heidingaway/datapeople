@@ -1,6 +1,11 @@
-# Employment relationships  
+---
+title: Employment relationships
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Employment relationships
 
-## Used For
-
-- [[11935 Labour relations]]  
-
+usedFor:
+- "[[11935 Labour relations]]"
+---
+# Employment relationships

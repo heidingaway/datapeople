@@ -1,10 +1,13 @@
-# Trees  
+---
+title: Trees
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Trees
 
-## Narrower Term
-
-- [[15868 Plants]]  
-
-## Related Term
-
-- [[8423 Forests]]  
-
+narrowerTerm:
+- "[[15868 Plants]]"
+relatedTerm:
+- "[[8423 Forests]]"
+---
+# Trees

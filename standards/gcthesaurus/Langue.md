@@ -1,6 +1,11 @@
-# Langue  
+---
+title: Langue
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Langue
 
-## French
-
-- [[12122 Languages]]  
-
+french:
+- "[[12122 Languages]]"
+---
+# Langue

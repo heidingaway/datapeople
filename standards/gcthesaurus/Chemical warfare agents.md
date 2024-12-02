@@ -1,6 +1,11 @@
-# Chemical warfare agents  
+---
+title: Chemical warfare agents
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Chemical warfare agents
 
-## Used For
-
-- [[3043 Chemical weapons]]  
-
+usedFor:
+- "[[3043 Chemical weapons]]"
+---
+# Chemical warfare agents

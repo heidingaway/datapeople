@@ -1,6 +1,11 @@
-# Caisse populaire  
+---
+title: Caisse populaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Caisse populaire
 
-## French
-
-- [[2661 Caisses populaires]]  
-
+french:
+- "[[2661 Caisses populaires]]"
+---
+# Caisse populaire

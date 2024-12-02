@@ -1,6 +1,11 @@
-# Management techniques  
+---
+title: Management techniques
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Management techniques
 
-## Used For
-
-- [[12751 Management]]  
-
+usedFor:
+- "[[12751 Management]]"
+---
+# Management techniques

@@ -1,6 +1,11 @@
-# Cultural life  
+---
+title: Cultural life
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cultural life
 
-## Used For
-
-- [[4711 Culture]]  
-
+usedFor:
+- "[[4711 Culture]]"
+---
+# Cultural life

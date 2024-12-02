@@ -1,6 +1,11 @@
-# People trafficking  
+---
+title: People trafficking
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: People trafficking
 
-## Used For
-
-- [[10242 Human trafficking]]  
-
+usedFor:
+- "[[10242 Human trafficking]]"
+---
+# People trafficking

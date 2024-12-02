@@ -1,6 +1,11 @@
-# Relations interprovinciales  
+---
+title: Relations interprovinciales
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Relations interprovinciales
 
-## French
-
-- [[11500 Interprovincial relations]]  
-
+french:
+- "[[11500 Interprovincial relations]]"
+---
+# Relations interprovinciales

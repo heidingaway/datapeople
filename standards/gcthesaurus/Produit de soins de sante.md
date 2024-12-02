@@ -1,6 +1,11 @@
-# Produit de soins de sante  
+---
+title: Produit de soins de sante
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Produit de soins de santé
 
-## French
-
-- [[9641 Health care products]]  
-
+french:
+- "[[9641 Health care products]]"
+---
+# Produit de soins de sante

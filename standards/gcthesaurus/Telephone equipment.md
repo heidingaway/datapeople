@@ -1,6 +1,11 @@
-# Telephone equipment  
+---
+title: Telephone equipment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Telephone equipment
 
-## Used For
-
-- [[19977 Telephones]]  
-
+usedFor:
+- "[[19977 Telephones]]"
+---
+# Telephone equipment

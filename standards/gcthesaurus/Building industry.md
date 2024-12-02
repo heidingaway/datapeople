@@ -1,6 +1,11 @@
-# Building industry  
+---
+title: Building industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Building industry
 
-## Used For
-
-- [[4019 Construction industry]]  
-
+usedFor:
+- "[[4019 Construction industry]]"
+---
+# Building industry

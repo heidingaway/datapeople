@@ -1,6 +1,11 @@
-# Government departments  
+---
+title: Government departments
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Government departments
 
-## Related Term
-
-- [[5146 Departments]]  
-
+relatedTerm:
+- "[[5146 Departments]]"
+---
+# Government departments

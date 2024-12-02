@@ -1,6 +1,11 @@
-# Charte  
+---
+title: Charte
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Charte
 
-## French
-
-- [[3010 Charters]]  
-
+french:
+- "[[3010 Charters]]"
+---
+# Charte

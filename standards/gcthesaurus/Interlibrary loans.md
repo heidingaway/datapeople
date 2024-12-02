@@ -1,14 +1,15 @@
-# Interlibrary loans  
+---
+title: Interlibrary loans
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Interlibrary loans
 
-## Narrower Term
-
-- [[12581 Loans]]  
-
-## Related Term
-
-- [[12390 Libraries]]  
-
-## Use
-
-- [[5482 Document delivery]]  
-
+narrowerTerm:
+- "[[12581 Loans]]"
+relatedTerm:
+- "[[12390 Libraries]]"
+use:
+- "[[5482 Document delivery]]"
+---
+# Interlibrary loans

@@ -1,6 +1,11 @@
-# Illegal immigration  
+---
+title: Illegal immigration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Illegal immigration
 
-## Used For
-
-- [[11614 Irregular migration]]  
-
+usedFor:
+- "[[11614 Irregular migration]]"
+---
+# Illegal immigration

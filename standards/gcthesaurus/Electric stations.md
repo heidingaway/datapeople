@@ -1,6 +1,11 @@
-# Electric stations  
+---
+title: Electric stations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electric stations
 
-## Used For
-
-- [[6211 Electric power stations]]  
-
+usedFor:
+- "[[6211 Electric power stations]]"
+---
+# Electric stations

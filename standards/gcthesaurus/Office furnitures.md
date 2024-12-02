@@ -1,6 +1,11 @@
-# Office furnitures  
+---
+title: Office furnitures
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Office furnitures
 
-## Used For
-
-- [[14906 Office equipment]]  
-
+usedFor:
+- "[[14906 Office equipment]]"
+---
+# Office furnitures

@@ -1,6 +1,11 @@
-# Literacy education  
+---
+title: Literacy education
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Literacy education
 
-## Used For
-
-- [[12493 Literacy]]  
-
+usedFor:
+- "[[12493 Literacy]]"
+---
+# Literacy education

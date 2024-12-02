@@ -1,6 +1,11 @@
-# Entreprise familiale  
+---
+title: Entreprise familiale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Entreprise familiale
 
-## French
-
-- [[7361 Family businesses]]  
-
+french:
+- "[[7361 Family businesses]]"
+---
+# Entreprise familiale

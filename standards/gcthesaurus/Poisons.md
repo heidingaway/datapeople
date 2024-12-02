@@ -1,6 +1,11 @@
-# Poisons  
+---
+title: Poisons
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Poisons
 
-## Used For
-
-- [[20320 Toxic substances]]  
-
+usedFor:
+- "[[20320 Toxic substances]]"
+---
+# Poisons

@@ -1,6 +1,11 @@
-# Equipement de refrigeration  
+---
+title: Equipement de refrigeration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Équipement de réfrigération
 
-## French
-
-- [[17417 Refrigeration equipment]]  
-
+french:
+- "[[17417 Refrigeration equipment]]"
+---
+# Equipement de refrigeration

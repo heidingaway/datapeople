@@ -1,6 +1,11 @@
-# Pollution en milieu de travail  
+---
+title: Pollution en milieu de travail
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pollution en milieu de travail
 
-## French
-
-- [[22003 Workplace pollution]]  
-
+french:
+- "[[22003 Workplace pollution]]"
+---
+# Pollution en milieu de travail

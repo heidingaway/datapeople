@@ -1,6 +1,11 @@
-# Sector analysis  
+---
+title: Sector analysis
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sector analysis
 
-## Narrower Term
-
-- [[947 Analysis]]  
-
+narrowerTerm:
+- "[[947 Analysis]]"
+---
+# Sector analysis

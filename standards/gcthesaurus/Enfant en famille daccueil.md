@@ -1,6 +1,11 @@
-# Enfant en famille daccueil  
+---
+title: Enfant en famille daccueil
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Enfant en famille d'accueil
 
-## French
-
-- [[8453 Foster children]]  
-
+french:
+- "[[8453 Foster children]]"
+---
+# Enfant en famille daccueil

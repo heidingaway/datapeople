@@ -1,6 +1,11 @@
-# Medical supplies  
+---
+title: Medical supplies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Medical supplies
 
-## Used For
-
-- [[13259 Medical products]]  
-
+usedFor:
+- "[[13259 Medical products]]"
+---
+# Medical supplies

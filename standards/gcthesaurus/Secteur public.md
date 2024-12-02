@@ -1,6 +1,11 @@
-# Secteur public  
+---
+title: Secteur public
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Secteur public
 
-## French
-
-- [[16881 Public sector]]  
-
+french:
+- "[[16881 Public sector]]"
+---
+# Secteur public

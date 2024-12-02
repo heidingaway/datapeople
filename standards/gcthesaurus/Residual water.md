@@ -1,6 +1,11 @@
-# Residual water  
+---
+title: Residual water
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Residual water
 
-## Used For
-
-- [[21355 Waste water]]  
-
+usedFor:
+- "[[21355 Waste water]]"
+---
+# Residual water

@@ -1,6 +1,11 @@
-# Laboratory manuals  
+---
+title: Laboratory manuals
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Laboratory manuals
 
-## Used For
-
-- [[9438 Handbooks]]  
-
+usedFor:
+- "[[9438 Handbooks]]"
+---
+# Laboratory manuals

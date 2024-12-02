@@ -1,6 +1,11 @@
-# Native peoples  
+---
+title: Native peoples
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Native peoples
 
-## Used For
-
-- [[10677 Indigenous peoples]]  
-
+usedFor:
+- "[[10677 Indigenous peoples]]"
+---
+# Native peoples

@@ -1,6 +1,11 @@
-# Geochimie  
+---
+title: Geochimie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Géochimie
 
-## French
-
-- [[8876 Geochemistry]]  
-
+french:
+- "[[8876 Geochemistry]]"
+---
+# Geochimie

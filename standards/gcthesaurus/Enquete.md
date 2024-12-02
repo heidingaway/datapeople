@@ -1,6 +1,11 @@
-# Enquete  
+---
+title: Enquete
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Enquête
 
-## French
-
-- [[11574 Investigations]]  
-
+french:
+- "[[11574 Investigations]]"
+---
+# Enquete

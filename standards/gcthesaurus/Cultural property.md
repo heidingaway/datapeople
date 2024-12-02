@@ -1,6 +1,11 @@
-# Cultural property  
+---
+title: Cultural property
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cultural property
 
-## Used For
-
-- [[4655 Cultural heritage]]  
-
+usedFor:
+- "[[4655 Cultural heritage]]"
+---
+# Cultural property

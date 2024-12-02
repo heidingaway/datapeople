@@ -1,6 +1,11 @@
-# National flags  
+---
+title: National flags
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: National flags
 
-## Used For
-
-- [[8018 Flags]]  
-
+usedFor:
+- "[[8018 Flags]]"
+---
+# National flags

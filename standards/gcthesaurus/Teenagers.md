@@ -1,6 +1,11 @@
-# Teenagers  
+---
+title: Teenagers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Teenagers
 
-## Used For
-
-- [[260 Adolescents]]  
-
+usedFor:
+- "[[260 Adolescents]]"
+---
+# Teenagers

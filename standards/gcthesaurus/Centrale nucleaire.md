@@ -1,6 +1,11 @@
-# Centrale nucleaire  
+---
+title: Centrale nucleaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Centrale nucléaire
 
-## French
-
-- [[14642 Nuclear power plants]]  
-
+french:
+- "[[14642 Nuclear power plants]]"
+---
+# Centrale nucleaire

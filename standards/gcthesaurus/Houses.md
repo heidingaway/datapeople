@@ -1,6 +1,11 @@
-# Houses  
+---
+title: Houses
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Houses
 
-## Used For
-
-- [[10138 Housing]]  
-
+usedFor:
+- "[[10138 Housing]]"
+---
+# Houses

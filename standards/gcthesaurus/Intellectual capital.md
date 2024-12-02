@@ -1,7 +1,12 @@
-# Intellectual capital  
+---
+title: Intellectual capital
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Intellectual capital
 
-## Related Term
-
-- [[11767 Knowledge management]
-- [[10199 Human resources]]  
-
+relatedTerm:
+- "[[11767 Knowledge management]]"
+- "[[10199 Human resources]]"
+---
+# Intellectual capital

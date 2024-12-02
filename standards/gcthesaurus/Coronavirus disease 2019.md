@@ -1,6 +1,11 @@
-# Coronavirus disease 2019  
+---
+title: Coronavirus disease 2019
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Coronavirus disease 2019
 
-## Used For
-
-- [[4243 Coronavirus diseases]]  
-
+usedFor:
+- "[[4243 Coronavirus diseases]]"
+---
+# Coronavirus disease 2019

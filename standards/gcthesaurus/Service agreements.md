@@ -1,10 +1,13 @@
-# Service agreements  
+---
+title: Service agreements
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Service agreements
 
-## Narrower Term
-
-- [[406 Agreements]]  
-
-## Related Term
-
-- [[18569 Service contracts]]  
-
+narrowerTerm:
+- "[[406 Agreements]]"
+relatedTerm:
+- "[[18569 Service contracts]]"
+---
+# Service agreements

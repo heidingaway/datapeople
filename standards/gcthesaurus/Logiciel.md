@@ -1,6 +1,11 @@
-# Logiciel  
+---
+title: Logiciel
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Logiciel
 
-## French
-
-- [[19064 Software]]  
-
+french:
+- "[[19064 Software]]"
+---
+# Logiciel

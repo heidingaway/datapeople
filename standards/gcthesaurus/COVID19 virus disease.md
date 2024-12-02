@@ -1,6 +1,11 @@
-# COVID19 virus disease  
+---
+title: COVID19 virus disease
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: COVID-19 virus disease
 
-## Used For
-
-- [[4246 Coronavirus diseases]]  
-
+usedFor:
+- "[[4246 Coronavirus diseases]]"
+---
+# COVID19 virus disease

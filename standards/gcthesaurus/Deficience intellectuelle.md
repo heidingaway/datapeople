@@ -1,6 +1,11 @@
-# Deficience intellectuelle  
+---
+title: Deficience intellectuelle
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Déficience intellectuelle
 
-## French
-
-- [[11228 Intellectual disabilities]]  
-
+french:
+- "[[11228 Intellectual disabilities]]"
+---
+# Deficience intellectuelle

@@ -1,6 +1,11 @@
-# Workplace injuries  
+---
+title: Workplace injuries
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Workplace injuries
 
-## Used For
-
-- [[14742 Occupational accidents]]  
-
+usedFor:
+- "[[14742 Occupational accidents]]"
+---
+# Workplace injuries

@@ -1,20 +1,19 @@
-# Government policy  
+---
+title: Government policy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Government policy
 
-## Broader Term
-
-- [[15045 Open government]]  
-
-## Narrower Term
-
-- [[15948 Policy]]  
-
-## Related Term
-
-- [[16773 Public administration]
-- [[7575 Federal programs]
-- [[9266 Governments]]  
-
-## Use
-
-- [[16865 Public policy]]  
-
+broaderTerm:
+- "[[15045 Open government]]"
+narrowerTerm:
+- "[[15948 Policy]]"
+relatedTerm:
+- "[[16773 Public administration]]"
+- "[[7575 Federal programs]]"
+- "[[9266 Governments]]"
+use:
+- "[[16865 Public policy]]"
+---
+# Government policy

@@ -1,6 +1,11 @@
-# Money laundering  
+---
+title: Money laundering
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Money laundering
 
-## Used For
-
-- [[5860 Economic crime]]  
-
+usedFor:
+- "[[5860 Economic crime]]"
+---
+# Money laundering

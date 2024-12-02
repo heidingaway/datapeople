@@ -1,6 +1,11 @@
-# Climatic warming  
+---
+title: Climatic warming
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Climatic warming
 
-## Used For
-
-- [[9101 Global warming]]  
-
+usedFor:
+- "[[9101 Global warming]]"
+---
+# Climatic warming

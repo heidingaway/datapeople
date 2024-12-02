@@ -1,6 +1,11 @@
-# Organisme de reglementation  
+---
+title: Organisme de reglementation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Organisme de réglementation
 
-## French
-
-- [[17480 Regulatory agencies]]  
-
+french:
+- "[[17480 Regulatory agencies]]"
+---
+# Organisme de reglementation

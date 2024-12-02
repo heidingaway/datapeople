@@ -1,6 +1,11 @@
-# Disbursements  
+---
+title: Disbursements
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Disbursements
 
-## Broader Term
-
-- [[7259 Expenditures]]  
-
+broaderTerm:
+- "[[7259 Expenditures]]"
+---
+# Disbursements

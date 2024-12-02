@@ -1,6 +1,11 @@
-# Region polaire  
+---
+title: Region polaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Région polaire
 
-## French
-
-- [[15906 Polar regions]]  
-
+french:
+- "[[15906 Polar regions]]"
+---
+# Region polaire

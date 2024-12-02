@@ -1,6 +1,11 @@
-# Foret modele  
+---
+title: Foret modele
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Forêt modèle
 
-## French
-
-- [[13822 Model forests]]  
-
+french:
+- "[[13822 Model forests]]"
+---
+# Foret modele

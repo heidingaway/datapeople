@@ -1,6 +1,11 @@
-# Produit interieur brut  
+---
+title: Produit interieur brut
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Produit intérieur brut
 
-## French
-
-- [[9375 Gross domestic product]]  
-
+french:
+- "[[9375 Gross domestic product]]"
+---
+# Produit interieur brut

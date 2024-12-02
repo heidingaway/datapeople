@@ -1,6 +1,11 @@
-# Tagging  
+---
+title: Tagging
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tagging
 
-## Used For
-
-- [[11782 Labelling]]  
-
+usedFor:
+- "[[11782 Labelling]]"
+---
+# Tagging

@@ -1,6 +1,11 @@
-# Philatelie  
+---
+title: Philatelie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Philatélie
 
-## French
-
-- [[15706 Philately]]  
-
+french:
+- "[[15706 Philately]]"
+---
+# Philatelie

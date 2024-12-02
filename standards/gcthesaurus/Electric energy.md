@@ -1,6 +1,11 @@
-# Electric energy  
+---
+title: Electric energy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electric energy
 
-## Used For
-
-- [[6251 Electricity]]  
-
+usedFor:
+- "[[6251 Electricity]]"
+---
+# Electric energy

@@ -1,6 +1,11 @@
-# Decision du tribunal  
+---
+title: Decision du tribunal
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Décision du tribunal
 
-## French
-
-- [[4374 Court decisions]]  
-
+french:
+- "[[4374 Court decisions]]"
+---
+# Decision du tribunal

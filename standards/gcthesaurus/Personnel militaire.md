@@ -1,6 +1,11 @@
-# Personnel militaire  
+---
+title: Personnel militaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Personnel militaire
 
-## French
-
-- [[13657 Military personnel]]  
-
+french:
+- "[[13657 Military personnel]]"
+---
+# Personnel militaire

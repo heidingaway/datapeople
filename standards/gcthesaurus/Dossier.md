@@ -1,6 +1,11 @@
-# Dossier  
+---
+title: Dossier
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Dossier
 
-## French
-
-- [[17284 Records]]  
-
+french:
+- "[[17284 Records]]"
+---
+# Dossier

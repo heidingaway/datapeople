@@ -1,6 +1,11 @@
-# Jewelry  
+---
+title: Jewelry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Jewelry
 
-## Used For
-
-- [[11639 Jewellery]]  
-
+usedFor:
+- "[[11639 Jewellery]]"
+---
+# Jewelry

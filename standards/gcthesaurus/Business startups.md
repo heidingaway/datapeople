@@ -1,6 +1,11 @@
-# Business startups  
+---
+title: Business startups
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Business startups
 
-## Used For
-
-- [[2565 Business start-ups]]  
-
+usedFor:
+- "[[2565 Business start-ups]]"
+---
+# Business startups

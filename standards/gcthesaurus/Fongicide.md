@@ -1,6 +1,11 @@
-# Fongicide  
+---
+title: Fongicide
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fongicide
 
-## French
-
-- [[8657 Fungicides]]  
-
+french:
+- "[[8657 Fungicides]]"
+---
+# Fongicide

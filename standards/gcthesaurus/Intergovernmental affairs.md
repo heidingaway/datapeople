@@ -1,6 +1,11 @@
-# Intergovernmental affairs  
+---
+title: Intergovernmental affairs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Intergovernmental affairs
 
-## Used For
-
-- [[11298 Intergovernmental relations]]  
-
+usedFor:
+- "[[11298 Intergovernmental relations]]"
+---
+# Intergovernmental affairs

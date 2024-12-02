@@ -1,6 +1,11 @@
-# Briseglace  
+---
+title: Briseglace
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Brise-glace
 
-## French
-
-- [[10444 Icebreakers]]  
-
+french:
+- "[[10444 Icebreakers]]"
+---
+# Briseglace

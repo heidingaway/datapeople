@@ -1,6 +1,11 @@
-# Merit  
+---
+title: Merit
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Merit
 
-## Related Term
-
-- [[1544 Assessment]]  
-
+relatedTerm:
+- "[[1544 Assessment]]"
+---
+# Merit

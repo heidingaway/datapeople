@@ -1,6 +1,11 @@
-# Planning management and operating functions of org  
+---
+title: Planning management and operating functions of org
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Planning, management, and operating functions of organizations, facilities, and equipment.
 
-## Scope Note
-
-- [[15053 Operations]]  
-
+scopeNote:
+- "[[15053 Operations]]"
+---
+# Planning management and operating functions of org

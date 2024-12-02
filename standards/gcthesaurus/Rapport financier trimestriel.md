@@ -1,6 +1,11 @@
-# Rapport financier trimestriel  
+---
+title: Rapport financier trimestriel
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rapport financier trimestriel
 
-## French
-
-- [[17014 Quarterly financial reports]]  
-
+french:
+- "[[17014 Quarterly financial reports]]"
+---
+# Rapport financier trimestriel

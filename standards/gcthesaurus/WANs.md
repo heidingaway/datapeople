@@ -1,6 +1,11 @@
-# WANs  
+---
+title: WANs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: WANs
 
-## Used For
-
-- [[3815 Computer networks]]  
-
+usedFor:
+- "[[3815 Computer networks]]"
+---
+# WANs

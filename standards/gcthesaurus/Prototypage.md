@@ -1,6 +1,11 @@
-# Prototypage  
+---
+title: Prototypage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prototypage
 
-## French
-
-- [[16679 Prototyping]]  
-
+french:
+- "[[16679 Prototyping]]"
+---
+# Prototypage

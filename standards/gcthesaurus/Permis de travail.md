@@ -1,6 +1,11 @@
-# Permis de travail  
+---
+title: Permis de travail
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Permis de travail
 
-## French
-
-- [[21903 Work permits]]  
-
+french:
+- "[[21903 Work permits]]"
+---
+# Permis de travail

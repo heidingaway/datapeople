@@ -1,7 +1,12 @@
-# Delegation of authority  
+---
+title: Delegation of authority
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Delegation of authority
 
-## Related Term
-
-- [[5205 Devolution]
-- [[135 Accountability]]  
-
+relatedTerm:
+- "[[5205 Devolution]]"
+- "[[135 Accountability]]"
+---
+# Delegation of authority

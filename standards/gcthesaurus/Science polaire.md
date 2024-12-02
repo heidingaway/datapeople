@@ -1,6 +1,11 @@
-# Science polaire  
+---
+title: Science polaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Science polaire
 
-## French
-
-- [[15913 Polar sciences]]  
-
+french:
+- "[[15913 Polar sciences]]"
+---
+# Science polaire

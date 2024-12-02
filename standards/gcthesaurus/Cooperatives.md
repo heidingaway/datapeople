@@ -1,15 +1,16 @@
-# Cooperatives  
+---
+title: Cooperatives
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cooperatives
 
-## Narrower Term
-
-- [[2589 Businesses]]  
-
-## Related Term
-
-- [[4436 Credit unions]
-- [[1866 Banks]]  
-
-## Use
-
-- [[3395 Co-ops]]  
-
+narrowerTerm:
+- "[[2589 Businesses]]"
+relatedTerm:
+- "[[4436 Credit unions]]"
+- "[[1866 Banks]]"
+use:
+- "[[3395 Co-ops]]"
+---
+# Cooperatives

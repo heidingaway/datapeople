@@ -1,6 +1,11 @@
-# Distinctions  
+---
+title: Distinctions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Distinctions
 
-## Used For
-
-- [[5005 Decorations]]  
-
+usedFor:
+- "[[5005 Decorations]]"
+---
+# Distinctions

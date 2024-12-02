@@ -1,6 +1,11 @@
-# Mass communication media  
+---
+title: Mass communication media
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mass communication media
 
-## Used For
-
-- [[13190 Media]]  
-
+usedFor:
+- "[[13190 Media]]"
+---
+# Mass communication media

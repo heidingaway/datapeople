@@ -1,14 +1,15 @@
-# Influenza  
+---
+title: Influenza
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Influenza
 
-## Narrower Term
-
-- [[10924 Infectious diseases]]  
-
-## Related Term
-
-- [[21074 Viruses]]  
-
-## Use
-
-- [[8052 Flu]]  
-
+narrowerTerm:
+- "[[10924 Infectious diseases]]"
+relatedTerm:
+- "[[21074 Viruses]]"
+use:
+- "[[8052 Flu]]"
+---
+# Influenza

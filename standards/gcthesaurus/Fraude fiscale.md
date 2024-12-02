@@ -1,6 +1,11 @@
-# Fraude fiscale  
+---
+title: Fraude fiscale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fraude fiscale
 
-## French
-
-- [[19732 Tax fraud]]  
-
+french:
+- "[[19732 Tax fraud]]"
+---
+# Fraude fiscale

@@ -1,11 +1,14 @@
-# Incorporation  
+---
+title: Incorporation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Incorporation
 
-## French
-
-- [[10589 Incorporation]]  
-
-## Related Term
-
-- [[2609 Businesses]
-- [[4291 Corporations]]  
-
+french:
+- "[[10589 Incorporation]]"
+relatedTerm:
+- "[[2609 Businesses]]"
+- "[[4291 Corporations]]"
+---
+# Incorporation

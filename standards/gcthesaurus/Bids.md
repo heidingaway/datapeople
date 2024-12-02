@@ -1,6 +1,11 @@
-# Bids  
+---
+title: Bids
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Bids
 
-## Used For
-
-- [[20022 Tenders]]  
-
+usedFor:
+- "[[20022 Tenders]]"
+---
+# Bids

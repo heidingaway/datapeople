@@ -1,10 +1,13 @@
-# Scientific information  
+---
+title: Scientific information
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Scientific information
 
-## Narrower Term
-
-- [[10964 Information]]  
-
-## Related Term
-
-- [[18244 Sciences]]  
-
+narrowerTerm:
+- "[[10964 Information]]"
+relatedTerm:
+- "[[18244 Sciences]]"
+---
+# Scientific information

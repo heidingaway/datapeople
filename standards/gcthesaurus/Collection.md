@@ -1,6 +1,11 @@
-# Collection  
+---
+title: Collection
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Collection
 
-## French
-
-- [[3495 Collections]]  
-
+french:
+- "[[3495 Collections]]"
+---
+# Collection

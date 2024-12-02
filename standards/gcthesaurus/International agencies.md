@@ -1,6 +1,11 @@
-# International agencies  
+---
+title: International agencies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: International agencies
 
-## Used For
-
-- [[11410 International organizations]]  
-
+usedFor:
+- "[[11410 International organizations]]"
+---
+# International agencies

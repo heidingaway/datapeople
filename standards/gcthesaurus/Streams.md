@@ -1,6 +1,11 @@
-# Streams  
+---
+title: Streams
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Streams
 
-## Narrower Term
-
-- [[21542 Watercourses]]  
-
+narrowerTerm:
+- "[[21542 Watercourses]]"
+---
+# Streams

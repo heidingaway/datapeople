@@ -1,6 +1,11 @@
-# School authorities  
+---
+title: School authorities
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: School authorities
 
-## Used For
-
-- [[18202 School boards]]  
-
+usedFor:
+- "[[18202 School boards]]"
+---
+# School authorities

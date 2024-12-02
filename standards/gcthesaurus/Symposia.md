@@ -1,6 +1,11 @@
-# Symposia  
+---
+title: Symposia
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Symposia
 
-## Used For
-
-- [[3915 Conferences]]  
-
+usedFor:
+- "[[3915 Conferences]]"
+---
+# Symposia

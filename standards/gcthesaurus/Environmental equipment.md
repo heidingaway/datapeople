@@ -1,6 +1,11 @@
-# Environmental equipment  
+---
+title: Environmental equipment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Environmental equipment
 
-## Used For
-
-- [[7017 Environmental technology]]  
-
+usedFor:
+- "[[7017 Environmental technology]]"
+---
+# Environmental equipment

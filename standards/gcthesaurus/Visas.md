@@ -1,10 +1,13 @@
-# Visas  
+---
+title: Visas
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Visas
 
-## Narrower Term
-
-- [[20669 Travel documents]]  
-
-## Related Term
-
-- [[15366 Passports]]  
-
+narrowerTerm:
+- "[[20669 Travel documents]]"
+relatedTerm:
+- "[[15366 Passports]]"
+---
+# Visas

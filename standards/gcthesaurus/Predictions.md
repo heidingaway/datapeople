@@ -1,6 +1,11 @@
-# Predictions  
+---
+title: Predictions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Predictions
 
-## Used For
-
-- [[8207 Forecasting]]  
-
+usedFor:
+- "[[8207 Forecasting]]"
+---
+# Predictions

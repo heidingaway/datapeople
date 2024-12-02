@@ -1,6 +1,11 @@
-# Capital investments  
+---
+title: Capital investments
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Capital investments
 
-## Used For
-
-- [[11589 Investments]]  
-
+usedFor:
+- "[[11589 Investments]]"
+---
+# Capital investments

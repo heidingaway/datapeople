@@ -1,6 +1,11 @@
-# Revenu familial  
+---
+title: Revenu familial
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Revenu familial
 
-## French
-
-- [[10120 Household income]]  
-
+french:
+- "[[10120 Household income]]"
+---
+# Revenu familial

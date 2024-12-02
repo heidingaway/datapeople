@@ -1,6 +1,11 @@
-# Societe dEtat  
+---
+title: Societe dEtat
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Société d'État
 
-## French
-
-- [[4563 Crown corporations]]  
-
+french:
+- "[[4563 Crown corporations]]"
+---
+# Societe dEtat

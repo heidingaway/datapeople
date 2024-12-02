@@ -1,6 +1,11 @@
-# Federal bodies  
+---
+title: Federal bodies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Federal bodies
 
-## Used For
-
-- [[7564 Federal institutions]]  
-
+usedFor:
+- "[[7564 Federal institutions]]"
+---
+# Federal bodies

@@ -1,6 +1,11 @@
-# Infertility  
+---
+title: Infertility
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Infertility
 
-## Used For
-
-- [[7645 Fertility]]  
-
+usedFor:
+- "[[7645 Fertility]]"
+---
+# Infertility

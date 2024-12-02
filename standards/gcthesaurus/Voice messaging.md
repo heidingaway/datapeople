@@ -1,6 +1,11 @@
-# Voice messaging  
+---
+title: Voice messaging
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Voice messaging
 
-## Used For
-
-- [[21186 Voice mail]]  
-
+usedFor:
+- "[[21186 Voice mail]]"
+---
+# Voice messaging

@@ -1,6 +1,11 @@
-# Lead  
+---
+title: Lead
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Lead
 
-## Narrower Term
-
-- [[13448 Metals]]  
-
+narrowerTerm:
+- "[[13448 Metals]]"
+---
+# Lead

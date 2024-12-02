@@ -1,6 +1,11 @@
-# Eaux interieures  
+---
+title: Eaux interieures
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Eaux intérieures
 
-## French
-
-- [[11095 Inland waters]]  
-
+french:
+- "[[11095 Inland waters]]"
+---
+# Eaux interieures

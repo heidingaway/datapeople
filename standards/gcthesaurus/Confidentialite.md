@@ -1,6 +1,11 @@
-# Confidentialite  
+---
+title: Confidentialite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Confidentialité
 
-## French
-
-- [[3920 Confidentiality]]  
-
+french:
+- "[[3920 Confidentiality]]"
+---
+# Confidentialite

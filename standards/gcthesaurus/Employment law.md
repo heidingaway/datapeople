@@ -1,6 +1,11 @@
-# Employment law  
+---
+title: Employment law
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Employment law
 
-## Used For
-
-- [[11890 Labour law]]  
-
+usedFor:
+- "[[11890 Labour law]]"
+---
+# Employment law

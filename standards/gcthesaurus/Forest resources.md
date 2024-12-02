@@ -1,6 +1,11 @@
-# Forest resources  
+---
+title: Forest resources
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Forest resources
 
-## Used For
-
-- [[8411 Forests]]  
-
+usedFor:
+- "[[8411 Forests]]"
+---
+# Forest resources

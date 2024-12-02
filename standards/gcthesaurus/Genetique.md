@@ -1,6 +1,11 @@
-# Genetique  
+---
+title: Genetique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Génétique
 
-## French
-
-- [[8867 Genetics]]  
-
+french:
+- "[[8867 Genetics]]"
+---
+# Genetique

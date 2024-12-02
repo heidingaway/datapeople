@@ -1,6 +1,11 @@
-# Industrie du caoutchouc  
+---
+title: Industrie du caoutchouc
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrie du caoutchouc
 
-## French
-
-- [[17953 Rubber industry]]  
-
+french:
+- "[[17953 Rubber industry]]"
+---
+# Industrie du caoutchouc

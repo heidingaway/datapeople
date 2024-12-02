@@ -1,6 +1,11 @@
-# Compost  
+---
+title: Compost
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Compost
 
-## Used For
-
-- [[7653 Fertilizers]]  
-
+usedFor:
+- "[[7653 Fertilizers]]"
+---
+# Compost

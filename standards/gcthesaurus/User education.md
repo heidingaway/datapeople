@@ -1,10 +1,13 @@
-# User education  
+---
+title: User education
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: User education
 
-## Narrower Term
-
-- [[6043 Education]]  
-
-## Related Term
-
-- [[20500 Training]]  
-
+narrowerTerm:
+- "[[6043 Education]]"
+relatedTerm:
+- "[[20500 Training]]"
+---
+# User education

@@ -1,6 +1,11 @@
-# Gestion financiere  
+---
+title: Gestion financiere
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gestion financière
 
-## French
-
-- [[7740 Financial management]]  
-
+french:
+- "[[7740 Financial management]]"
+---
+# Gestion financiere

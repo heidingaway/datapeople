@@ -1,6 +1,11 @@
-# Repayable contributions  
+---
+title: Repayable contributions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Repayable contributions
 
-## Narrower Term
-
-- [[20540 Transfer payments]]  
-
+narrowerTerm:
+- "[[20540 Transfer payments]]"
+---
+# Repayable contributions

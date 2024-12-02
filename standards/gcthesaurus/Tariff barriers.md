@@ -1,6 +1,11 @@
-# Tariff barriers  
+---
+title: Tariff barriers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tariff barriers
 
-## Related Term
-
-- [[19706 Tariffs]]  
-
+relatedTerm:
+- "[[19706 Tariffs]]"
+---
+# Tariff barriers

@@ -1,6 +1,11 @@
-# Solar heating  
+---
+title: Solar heating
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Solar heating
 
-## Narrower Term
-
-- [[9818 Heating]]  
-
+narrowerTerm:
+- "[[9818 Heating]]"
+---
+# Solar heating

@@ -1,6 +1,11 @@
-# Orge  
+---
+title: Orge
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Orge
 
-## French
-
-- [[1872 Barley]]  
-
+french:
+- "[[1872 Barley]]"
+---
+# Orge

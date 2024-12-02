@@ -1,6 +1,11 @@
-# Diffusion de linformation  
+---
+title: Diffusion de linformation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Diffusion de l'information
 
-## French
-
-- [[10985 Information dissemination]]  
-
+french:
+- "[[10985 Information dissemination]]"
+---
+# Diffusion de linformation

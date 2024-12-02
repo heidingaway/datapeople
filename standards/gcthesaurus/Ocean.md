@@ -1,6 +1,11 @@
-# Ocean  
+---
+title: Ocean
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Océan
 
-## French
-
-- [[14870 Oceans]]  
-
+french:
+- "[[14870 Oceans]]"
+---
+# Ocean

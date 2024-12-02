@@ -1,6 +1,11 @@
-# Regulatory agencies  
+---
+title: Regulatory agencies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Regulatory agencies
 
-## Related Term
-
-- [[17477 Regulations]]  
-
+relatedTerm:
+- "[[17477 Regulations]]"
+---
+# Regulatory agencies

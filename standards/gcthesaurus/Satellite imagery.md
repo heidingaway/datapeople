@@ -1,10 +1,13 @@
-# Satellite imagery  
+---
+title: Satellite imagery
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Satellite imagery
 
-## Narrower Term
-
-- [[17523 Remote sensing]]  
-
-## Related Term
-
-- [[18158 Satellite images]]  
-
+narrowerTerm:
+- "[[17523 Remote sensing]]"
+relatedTerm:
+- "[[18158 Satellite images]]"
+---
+# Satellite imagery

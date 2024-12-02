@@ -1,6 +1,11 @@
-# Endangered animals  
+---
+title: Endangered animals
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Endangered animals
 
-## Used For
-
-- [[6605 Endangered species]]  
-
+usedFor:
+- "[[6605 Endangered species]]"
+---
+# Endangered animals

@@ -1,6 +1,11 @@
-# Developpement de lenfant  
+---
+title: Developpement de lenfant
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Développement de l'enfant
 
-## French
-
-- [[3117 Child development]]  
-
+french:
+- "[[3117 Child development]]"
+---
+# Developpement de lenfant

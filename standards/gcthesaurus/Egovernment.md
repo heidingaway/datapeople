@@ -1,6 +1,11 @@
-# Egovernment  
+---
+title: Egovernment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: E-government
 
-## Used For
-
-- [[6324 Electronic government]]  
-
+usedFor:
+- "[[6324 Electronic government]]"
+---
+# Egovernment

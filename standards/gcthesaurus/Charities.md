@@ -1,6 +1,11 @@
-# Charities  
+---
+title: Charities
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Charities
 
-## Used For
-
-- [[2994 Charitable organizations]]  
-
+usedFor:
+- "[[2994 Charitable organizations]]"
+---
+# Charities

@@ -1,6 +1,11 @@
-# Refers to humans as a species  
+---
+title: Refers to humans as a species
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Refers to humans as a species.
 
-## Scope Note
-
-- [[10162 Human beings]]  
-
+scopeNote:
+- "[[10162 Human beings]]"
+---
+# Refers to humans as a species

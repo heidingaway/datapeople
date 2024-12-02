@@ -1,6 +1,11 @@
-# Investigations  
+---
+title: Investigations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Investigations
 
-## Related Term
-
-- [[11134 Inquiry]]  
-
+relatedTerm:
+- "[[11134 Inquiry]]"
+---
+# Investigations

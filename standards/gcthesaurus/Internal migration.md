@@ -1,11 +1,14 @@
-# Internal migration  
+---
+title: Internal migration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Internal migration
 
-## Narrower Term
-
-- [[13586 Migration]]  
-
-## Use
-
-- [[11268 Inter-provincial migration]
-- [[11498 Interprovincial migration]]  
-
+narrowerTerm:
+- "[[13586 Migration]]"
+use:
+- "[[11268 Inter-provincial migration]]"
+- "[[11498 Interprovincial migration]]"
+---
+# Internal migration

@@ -1,6 +1,11 @@
-# Or  
+---
+title: Or
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Or
 
-## French
-
-- [[9127 Gold]]  
-
+french:
+- "[[9127 Gold]]"
+---
+# Or

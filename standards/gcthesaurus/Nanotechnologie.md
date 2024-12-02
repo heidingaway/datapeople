@@ -1,6 +1,11 @@
-# Nanotechnologie  
+---
+title: Nanotechnologie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Nanotechnologie
 
-## French
-
-- [[14131 Nanotechnology]]  
-
+french:
+- "[[14131 Nanotechnology]]"
+---
+# Nanotechnologie

@@ -1,6 +1,11 @@
-# Indien non inscrit  
+---
+title: Indien non inscrit
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Indien non inscrit
 
-## French
-
-- [[14504 Non-Status Indians]]  
-
+french:
+- "[[14504 Non-Status Indians]]"
+---
+# Indien non inscrit

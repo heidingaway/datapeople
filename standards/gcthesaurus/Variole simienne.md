@@ -1,6 +1,11 @@
-# Variole simienne  
+---
+title: Variole simienne
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Variole simienne
 
-## French
-
-- [[13891 Monkeypox]]  
-
+french:
+- "[[13891 Monkeypox]]"
+---
+# Variole simienne

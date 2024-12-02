@@ -1,6 +1,11 @@
-# Agricultural engineering  
-
-## Used For
-
-- [[537 Agricultural technology]]  
-
+---
+title: Agricultural engineering
+created: 2024-12-01
+modified: 2024-12-01
+tags:
+  - TBSMetadata
+alias: Agricultural engineering
+usedFor:
+  - "[[537 Agricultural technology]]"
+---
+# Agricultural engineering

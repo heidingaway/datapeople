@@ -1,6 +1,11 @@
-# Modeles  
+---
+title: Modeles
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Modèles
 
-## French
-
-- [[20008 Templates]]  
-
+french:
+- "[[20008 Templates]]"
+---
+# Modeles

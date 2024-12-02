@@ -1,6 +1,11 @@
-# Waste materials  
+---
+title: Waste materials
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Waste materials
 
-## Used For
-
-- [[21301 Waste]]  
-
+usedFor:
+- "[[21301 Waste]]"
+---
+# Waste materials

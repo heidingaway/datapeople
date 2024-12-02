@@ -1,6 +1,11 @@
-# Therapie  
+---
+title: Therapie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Thérapie
 
-## French
-
-- [[20157 Therapy]]  
-
+french:
+- "[[20157 Therapy]]"
+---
+# Therapie

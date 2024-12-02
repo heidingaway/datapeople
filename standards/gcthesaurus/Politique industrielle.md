@@ -1,6 +1,11 @@
-# Politique industrielle  
+---
+title: Politique industrielle
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Politique industrielle
 
-## French
-
-- [[10793 Industrial policy]]  
-
+french:
+- "[[10793 Industrial policy]]"
+---
+# Politique industrielle

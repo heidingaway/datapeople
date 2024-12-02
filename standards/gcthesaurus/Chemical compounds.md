@@ -1,6 +1,11 @@
-# Chemical compounds  
+---
+title: Chemical compounds
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Chemical compounds
 
-## Used For
-
-- [[3051 Chemicals]]  
-
+usedFor:
+- "[[3051 Chemicals]]"
+---
+# Chemical compounds

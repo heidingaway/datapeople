@@ -1,10 +1,13 @@
-# Logistical support  
+---
+title: Logistical support
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Logistical support
 
-## Related Term
-
-- [[12645 Logistics]]  
-
-## Use
-
-- [[12638 Logistic support]]  
-
+relatedTerm:
+- "[[12645 Logistics]]"
+use:
+- "[[12638 Logistic support]]"
+---
+# Logistical support

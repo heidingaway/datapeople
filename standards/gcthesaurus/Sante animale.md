@@ -1,6 +1,11 @@
-# Sante animale  
+---
+title: Sante animale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Santé animale
 
-## French
-
-- [[1008 Animal health]]  
-
+french:
+- "[[1008 Animal health]]"
+---
+# Sante animale

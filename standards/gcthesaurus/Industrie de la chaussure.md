@@ -1,6 +1,11 @@
-# Industrie de la chaussure  
+---
+title: Industrie de la chaussure
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrie de la chaussure
 
-## French
-
-- [[18703 Shoe industry]]  
-
+french:
+- "[[18703 Shoe industry]]"
+---
+# Industrie de la chaussure

@@ -1,6 +1,11 @@
-# Biological engineering  
+---
+title: Biological engineering
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biological engineering
 
-## Used For
-
-- [[2232 Biotechnology]]  
-
+usedFor:
+- "[[2232 Biotechnology]]"
+---
+# Biological engineering

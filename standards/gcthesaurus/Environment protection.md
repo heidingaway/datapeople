@@ -1,6 +1,11 @@
-# Environment protection  
+---
+title: Environment protection
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Environment protection
 
-## Used For
-
-- [[6963 Environmental protection]]  
-
+usedFor:
+- "[[6963 Environmental protection]]"
+---
+# Environment protection

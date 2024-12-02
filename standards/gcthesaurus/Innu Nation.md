@@ -1,6 +1,11 @@
-# Innu Nation  
+---
+title: Innu Nation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Innu Nation
 
-## Used For
-
-- [[11121 Innu]]  
-
+usedFor:
+- "[[11121 Innu]]"
+---
+# Innu Nation

@@ -1,6 +1,11 @@
-# Womens status  
+---
+title: Womens status
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Women's status
 
-## Used For
-
-- [[19372 Status of women]]  
-
+usedFor:
+- "[[19372 Status of women]]"
+---
+# Womens status

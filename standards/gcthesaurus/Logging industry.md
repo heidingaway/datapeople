@@ -1,15 +1,16 @@
-# Logging industry  
+---
+title: Logging industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Logging industry
 
-## Narrower Term
-
-- [[8370 Forestry industry]]  
-
-## Related Term
-
-- [[21843 Wood]]  
-
-## Use
-
-- [[12627 Logging]
-- [[12636 Logging sector]]  
-
+narrowerTerm:
+- "[[8370 Forestry industry]]"
+relatedTerm:
+- "[[21843 Wood]]"
+use:
+- "[[12627 Logging]]"
+- "[[12636 Logging sector]]"
+---
+# Logging industry

@@ -1,6 +1,11 @@
-# Commonlaw relationships  
+---
+title: Commonlaw relationships
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Common-law relationships
 
-## Used For
-
-- [[3640 Common-law unions]]  
-
+usedFor:
+- "[[3640 Common-law unions]]"
+---
+# Commonlaw relationships

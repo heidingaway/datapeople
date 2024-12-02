@@ -1,6 +1,11 @@
-# Droits des animaux  
+---
+title: Droits des animaux
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Droits des animaux
 
-## French
-
-- [[1084 Animal rights]]  
-
+french:
+- "[[1084 Animal rights]]"
+---
+# Droits des animaux

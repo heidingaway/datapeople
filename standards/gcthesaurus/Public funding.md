@@ -1,6 +1,11 @@
-# Public funding  
+---
+title: Public funding
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Public funding
 
-## Narrower Term
-
-- [[8633 Funding]]  
-
+narrowerTerm:
+- "[[8633 Funding]]"
+---
+# Public funding

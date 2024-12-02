@@ -1,6 +1,11 @@
-# Farming products  
+---
+title: Farming products
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Farming products
 
-## Used For
-
-- [[434 Agri-food products]]  
-
+usedFor:
+- "[[434 Agri-food products]]"
+---
+# Farming products

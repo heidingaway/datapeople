@@ -1,6 +1,11 @@
-# Credit  
+---
+title: Credit
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Crédit
 
-## French
-
-- [[4421 Credit]]  
-
+french:
+- "[[4421 Credit]]"
+---
+# Credit

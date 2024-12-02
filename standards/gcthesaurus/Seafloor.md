@@ -1,6 +1,11 @@
-# Seafloor  
+---
+title: Seafloor
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Seafloor
 
-## Used For
-
-- [[14844 Ocean floor]]  
-
+usedFor:
+- "[[14844 Ocean floor]]"
+---
+# Seafloor

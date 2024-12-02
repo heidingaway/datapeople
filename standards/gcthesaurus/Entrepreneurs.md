@@ -1,7 +1,12 @@
-# Entrepreneurs  
+---
+title: Entrepreneurs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Entrepreneurs
 
-## Related Term
-
-- [[6769 Entrepreneurship]
-- [[2570 Business start-ups]]  
-
+relatedTerm:
+- "[[6769 Entrepreneurship]]"
+- "[[2570 Business start-ups]]"
+---
+# Entrepreneurs

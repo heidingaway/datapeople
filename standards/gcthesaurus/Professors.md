@@ -1,6 +1,11 @@
-# Professors  
+---
+title: Professors
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Professors
 
-## Used For
-
-- [[19800 Teachers]]  
-
+usedFor:
+- "[[19800 Teachers]]"
+---
+# Professors

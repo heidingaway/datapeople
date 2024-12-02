@@ -1,532 +1,537 @@
-# HE Health and Safety  
+---
+title: HE Health and Safety
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: HE Health and Safety
 
-## Subject Category
-
-- [[13324 Medicinal drugs]
-- [[13294 Medical supplies]
-- [[5308 Disabilities]
-- [[13320 Medicare]
-- [[18672 Ship sinking]
-- [[17612 Reproductive technology]
-- [[13296 Medical techniques]
-- [[1014 Animal health]
-- [[17634 Rescue]
-- [[2033 Bicycle safety equipment]
-- [[1004 Animal feeds]
-- [[10182 Human health]
-- [[666 Air safety]
-- [[13317 Medicaments]
-- [[2636 Cabin safety]
-- [[13322 Medications]
-- [[6438 Emergency procedures]
-- [[13314 Medically assisted reproduction]
-- [[10530 Impairments]
-- [[4107 Contagious diseases]
-- [[796 Airport safety]
-- [[17987 Safe handling]
-- [[3120 Child development]
-- [[10186 Human nutrition]
-- [[14455 Nicotine addiction]
-- [[17984 Safe boating]
-- [[10184 Human immunodeficiency virus]
-- [[16877 Public safety]
-- [[10525 Immunization]
-- [[5609 Drug abuse]
-- [[13308 Medical technology]
-- [[18701 Shipwrecks]
-- [[1007 Animal food]
-- [[13311 Medically assisted procreation]
-- [[13818 Mobility impaired]
-- [[13332 Medicinal plants]
-- [[809 Alcohol abuse]
-- [[811 Alcohol addiction]
-- [[14516 Non prescription medications]
-- [[5626 Drug control]
-- [[3208 Chronic health problems]
-- [[8053 Flu]
-- [[2077 Bioassay]
-- [[14518 Non prescription medicines]
-- [[5629 Drug dependency]
-- [[5726 Duty to accommodate]
-- [[18016 Safety education]
-- [[2399 Breast cancer]
-- [[16952 Pulmonary diseases]
-- [[10755 Industrial diseases]
-- [[18028 Safety equipment]
-- [[13394 Mental disabilities]
-- [[973 Animal-to-human transplantation]
-- [[13396 Mental handicaps]
-- [[8048 Flotation devices]
-- [[21075 Viruses]
-- [[14514 Non prescription drugs]
-- [[2401 Breastfeeding]
-- [[15095 Organ transplants]
-- [[5623 Drug addiction]
-- [[1001 Animal feeding]
-- [[18656 Sexually transmitted infections]
-- [[18654 Sexually transmitted diseases]
-- [[15093 Organ transplantation]
-- [[10727 Industrial accidents]
-- [[16830 Public health]
-- [[15088 Organ grafting]
-- [[806 Airworthiness]
-- [[18002 Safety]
-- [[994 Animal drugs]
-- [[992 Animal diseases]
-- [[18005 Safety courses]
-- [[13355 Medicine]
-- [[18007 Safety devices]
-- [[15080 Oral hygiene]
-- [[15537 Personal flotation devices]
-- [[15454 People with disabilities]
-- [[8056 Fluorides]
-- [[15078 Oral health]
-- [[15151 Outreach]
-- [[13280 Medical records]
-- [[13291 Medical services]
-- [[9990 HIV]
-- [[15250 Parasitic diseases]
-- [[17754 Respiratory disorders]
-- [[10232 Human security]
-- [[21122 Visually impaired]
-- [[17752 Respiratory diseases]
-- [[20347 Toxicology]
-- [[21120 Visual impairments]
-- [[10239 Human tissues]
-- [[119 Accident prevention]
-- [[15901 Poisoning]
-- [[17638 Rescue equipment]
-- [[13218 Medical apparatus]
-- [[5743 E-health]
-- [[13220 Medical care]
-- [[16731 Psychiatric care]
-- [[20882 Vaccines]
-- [[20892 Vascular diseases]
-- [[5350 Disasters]
-- [[13223 Medical care insurance]
-- [[17905 Road safety]
-- [[10224 Human safety]
-- [[17756 Respiratory illness]
-- [[217 Addictive drugs]
-- [[11236 Intellectual disabilities]
-- [[6543 Employment injuries]
-- [[18839 Smoking prevention]
-- [[18834 Smoking addiction]
-- [[14268 Natural caregivers]
-- [[13138 Mass screening]
-- [[18831 Smoking]
-- [[734 Aircraft accidents]
-- [[5339 Disaster relief]
-- [[17854 Risk premiums]
-- [[16674 Protective measures]
-- [[773 Airplane accidents]
-- [[21701 Wheel chairs]
-- [[5334 Disaster planning]
-- [[3189 Children's health]
-- [[17870 Road accidents]
-- [[10190 Human reproduction techniques]
-- [[21132 Vitamins]
-- [[21710 Wheelchairs]
-- [[11238 Intellectual handicaps]
-- [[5322 Disabled persons]
-- [[13225 Medical centers]
-- [[3160 Childhood diseases]
-- [[18731 Side effects]
-- [[13263 Medical products]
-- [[208 Adaptive aids (for persons with disabilities)]
-- [[14148 Narcotic control]
-- [[13271 Medical products industry]
-- [[3135 Child safety]
-- [[776 Airplane anti-icing]
-- [[13273 Medical professionals]
-- [[15161 Outreach services]
-- [[8059 Flying accidents]
-- [[2011 Bicycle helmets]
-- [[779 Airplane crashes]
-- [[20937 Vessel safety]
-- [[782 Airplane de-icing]
-- [[5156 Derailments]
-- [[14141 Narcotic addiction]
-- [[17640 Rescue operations]
-- [[13287 Medical research]
-- [[18721 Sickness insurance]
-- [[13289 Medical screening]
-- [[15166 Over-the-counter drugs]
-- [[14151 Narcotic use]
-- [[13227 Medical centres]
-- [[20927 Venereal diseases]
-- [[13230 Medical device industry]
-- [[11213 Integrated health services]
-- [[13233 Medical devices]
-- [[5319 Disabled people]
-- [[5209 Diabetes]
-- [[13236 Medical equipment]
-- [[13239 Medical equipment industry]
-- [[13243 Medical facilities]
-- [[21117 Visual disabilities]
-- [[13246 Medical insurance]
-- [[18733 Sight impaired]
-- [[14425 Neutraceuticals]
-- [[13250 Medical law]
-- [[15215 Pain]
-- [[13253 Medical personnel]
-- [[14164 Narcotics]
-- [[3206 Chronic diseases]
-- [[15172 Overweight]
-- [[15168 Over-the-counter medications]
-- [[4230 Coronavirus disease-19]
-- [[18597 Severe acute respiratory syndrome]
-- [[13400 Mental health]
-- [[853 Alcoholism]
-- [[4324 Cosmetic products]
-- [[20655 Transportation safety]
-- [[20980 Veterinary research]
-- [[14746 Occupational accidents]
-- [[14609 Novel coronavirus disease, 2019]
-- [[5674 Drug plants]
-- [[625 Air disasters]
-- [[10090 Hospitals]
-- [[18150 SARS-CoV-2 disease]
-- [[7061 Epidemiology]
-- [[5134 Dental insurance]
-- [[13894 Monkeypox]
-- [[18349 Search and rescue]
-- [[21877 Work accidents]
-- [[15388 Pathology]
-- [[5678 Drug prevention]
-- [[8837 Genetic screening]
-- [[5680 Drug side effects]
-- [[7801 Fire safety]
-- [[13733 Mining accidents]
-- [[10159 Human assisted reproduction]
-- [[18373 Seat belts]
-- [[7055 Epidemics]
-- [[14774 Occupational health]
-- [[14791 Occupational rehabilitation]
-- [[5668 Drug labelling]
-- [[613 Air bags]
-- [[829 Alcohol education]
-- [[20976 Veterinary medicine]
-- [[14786 Occupational injuries]
-- [[14780 Occupational illness]
-- [[14777 Occupational hygiene]
-- [[9049 Geriatrics]
-- [[15376 Patented medicines]
-- [[4327 Cosmetics]
-- [[5233 Diet]
-- [[745 Aircraft anti-icing]
-- [[20978 Veterinary pharmaceuticals]
-- [[14757 Occupational diseases]
-- [[21910 Work safety]
-- [[5671 Drug laws]
-- [[10825 Industrial safety]
-- [[5406 Diseases]
-- [[3474 Cognitive disabilities]
-- [[7799 Fire prevention]
-- [[917 Alzheimer's disease]
-- [[13889 Monkey pox]
-- [[2766 Care givers]
-- [[2294 Blind persons]
-- [[10911 Infected blood]
-- [[14687 Nursing]
-- [[2752 Car seats]
-- [[3463 Codes of practice]
-- [[2754 Carcinoma]
-- [[2225 Biomedical experiments]
-- [[21987 Workplace accidents]
-- [[20594 Transplantation (Medicine)]
-- [[13845 Molds (Fungi)]
-- [[14727 Obesity]
-- [[20596 Transplants]
-- [[8016 Fitness]
-- [[10897 Infant nutrition]
-- [[3271 Civil preparedness]
-- [[130 Accidents]
-- [[5687 Drug use]
-- [[13815 Mobility aids]
-- [[2757 Cardiorespiratory diseases]
-- [[5122 Dental care plan]
-- [[5125 Dental health]
-- [[14689 Nursing homes]
-- [[15486 Perinatal care]
-- [[14692 Nutraceuticals]
-- [[2799 Caregivers]
-- [[2305 Blood supply]
-- [[862 Allergies]
-- [[10050 Homeopathy]
-- [[14711 Nutrition]
-- [[5127 Dental hygiene]
-- [[10950 Informal caregivers]
-- [[10948 Influenza]
-- [[14635 Nuclear medicine]
-- [[911 Alternative medicine]
-- [[21890 Work injuries]
-- [[14695 Nutriceuticals]
-- [[2747 Car accidents]
-- [[2750 Car restraints]
-- [[18296 Screening (Medicine)]
-- [[2300 Blood banks]
-- [[2298 Blindness]
-- [[10932 Infectious diseases]
-- [[10422 Hygiene]
-- [[14805 Occupational safety]
-- [[4262 Coronaviruses]
-- [[7203 Evacuations]
-- [[3212 Cigarette smoking]
-- [[5385 Disease prevention]
-- [[20467 Traffic safety]
-- [[178 Acquired immune deficiency syndrome]
-- [[5638 Drug education]
-- [[16994 Quality of health care]
-- [[6442 Emergency relief]
-- [[17013 Quarantine]
-- [[10177 Human cells]
-- [[3210 Chronic illness]
-- [[5640 Drug enforcement]
-- [[180 Acquired immunodeficiency syndrome]
-- [[5644 Drug industry]
-- [[20481 Train wrecks]
-- [[11094 Injuries]
-- [[21808 Wing anti-icing]
-- [[10305 Hunger]
-- [[10773 Industrial health]
-- [[13489 Methadone]
-- [[18520 Semen]
-- [[21060 Viral diseases]
-- [[10014 Home care]
-- [[8280 Forensic medicine]
-- [[21917 Worker health]
-- [[21922 Worker safety]
-- [[13402 Mentally handicapped]
-- [[18030 Safety guidelines]
-- [[4233 Coronavirus disease (COVID-19)]
-- [[4405 COVID-19 virus disease]
-- [[2764 Cardiovascular diseases]
-- [[15827 Plane crashes]
-- [[18033 Safety instruction]
-- [[4402 COVID-19 (Disease)]
-- [[70 Abortion]
-- [[18035 Safety kits]
-- [[18049 Safety measures]
-- [[15830 Plane de-icing]
-- [[21069 Virus diseases]
-- [[9285 Grafting (Medicine)]
-- [[14543 Nonprescription drugs]
-- [[4236 Coronavirus disease 2019]
-- [[5058 Degenerative diseases]
-- [[20462 Traffic accidents]
-- [[13440 MERS (Disease)]
-- [[15524 Personal care products]
-- [[18051 Safety precautions]
-- [[20966 Veterinary drugs]
-- [[18053 Safety procedures]
-- [[8030 Flight safety]
-- [[17190 Railway safety]
-- [[13572 Middle East Respiratory Syndrome]
-- [[10488 Illness]
-- [[20968 Veterinary medications]
-- [[600 AIDS (disease)]
-- [[9041 Geriatric medicine]
-- [[17485 Rehabilitation]
-- [[22001 Workplace injuries]
-- [[929 Ambulance services]
-- [[4255 Coronavirus diseases]
-- [[22010 Workplace safety]
-- [[2860 Catastrophes]
-- [[18448 Security]
-- [[5794 Eating habits]
-- [[10483 Illicit drugs]
-- [[4258 Coronavirus infections]
-- [[7368 Family caregivers]
-- [[2721 Cancer]
-- [[10477 Illegal drugs]
-- [[21998 Workplace health]
-- [[13568 Microscopic organisms]
-- [[13565 Microorganisms]
-- [[10782 Industrial injuries]
-- [[13987 Moulds (Fungi)]
-- [[7366 Family care home]
-- [[17166 Railway accidents]
-- [[2903 Cells]
-- [[21811 Wing de-icing]
-- [[18059 Safety regulations]
-- [[2893 Cell transplantation]
-- [[11083 Injection drug use]
-- [[5655 Drug insurance]
-- [[2889 Cell grafting]
-- [[13519 Microbial diseases]
-- [[10776 Industrial hygiene]
-- [[18066 Safety standards]
-- [[18069 Safety training]
-- [[5712 Drugs]
-- [[5658 Drug insurance plan]
-- [[21833 Women's health]
-- [[6435 Emergency preparedness]
-- [[10779 Industrial illness]
-- [[5661 Drug labeling]
-- [[757 Aircraft de-icing]
-- [[10193 Human reproductive technology]
-- [[22088 Xenotransplantation]
-- [[8104 Food hygiene]
-- [[9786 Health status]
-- [[9788 Health status indicators]
-- [[9790 Health system]
-- [[16250 Prescription medications]
-- [[15750 Physical condition]
-- [[9792 Health technology]
-- [[6588 Employment rehabilitation]
-- [[8173 Food safety]
-- [[9799 Hearing disabilities]
-- [[9801 Hearing impaired]
-- [[12809 Manmade disasters]
-- [[9804 Hearing impairments]
-- [[19903 Telecare]
-- [[20199 Tissue grafting]
-- [[20201 Tissue transplantation]
-- [[9784 Health services insurance]
-- [[12744 Man-made disasters]
-- [[9781 Health services]
-- [[9768 Health risks]
-- [[12225 Learning disabilities]
-- [[9764 Health protection]
-- [[15701 Pharmacology]
-- [[9766 Health research]
-- [[20153 Therapeutic abortion]
-- [[20155 Therapeutic cloning]
-- [[16252 Prescription medicines]
-- [[20162 Therapy]
-- [[8612 Functional foods]
-- [[9778 Health sciences]
-- [[12721 Malignant tumors]
-- [[19669 Systematic screening]
-- [[12723 Malignant tumours]
-- [[12725 Malnutrition]
-- [[5542 Donor semen]
-- [[9806 Hearing loss]
-- [[12227 Learning disorders]
-- [[6593 Employment safety]
-- [[20237 Toiletries]
-- [[298 Adverse effects]
-- [[12924 Marine accidents]
-- [[9838 Hepatitis]
-- [[295 Adverse drug reactions]
-- [[19063 Soft medicine]
-- [[1762 Automobile safety equipment]
-- [[1792 Aviation accidents]
-- [[1806 Aviation safety]
-- [[12967 Marine navigation safety]
-- [[12991 Marine safety]
-- [[1829 Bacterial diseases]
-- [[12999 Marine safety equipment]
-- [[3653 Communicable diseases]
-- [[9846 Herbal remedies]
-- [[12911 Marijuana]
-- [[1742 Automobile accidents]
-- [[20233 Tobacco use]
-- [[9815 Heart diseases]
-- [[8102 Food habits]
-- [[8100 Food contamination]
-- [[20209 Tissues]
-- [[15745 Physical activity]
-- [[20215 Tobacco abuse]
-- [[20218 Tobacco addiction]
-- [[7416 Famine]
-- [[20230 Tobacco smoking]
-- [[6421 Emergency planning]
-- [[20221 Tobacco consumption]
-- [[22096 Yeasts]
-- [[15600 Persons with disabilities]
-- [[16237 Prenatal care]
-- [[12903 Marihuana]
-- [[9756 Health promotion]
-- [[19954 Telehealth]
-- [[13033 Maritime disasters]
-- [[1572 Assisted human reproduction]
-- [[9636 Health care personnel]
-- [[9634 Health care insurance]
-- [[16291 Preventive medicine]
-- [[9694 Health indicators]
-- [[9697 Health industry]
-- [[9631 Health care institutions]
-- [[15775 Physically handicapped]
-- [[9629 Health care industry]
-- [[9699 Health information]
-- [[6448 Emergency services]
-- [[15762 Physical handicaps]
-- [[9619 Health care facilities]
-- [[15760 Physical fitness]
-- [[11524 Intoxication]
-- [[1569 Assisted conception]
-- [[9640 Health care plan]
-- [[9687 Health impact]
-- [[15680 Pharmacare plan]
-- [[16188 Poxvirus diseases]
-- [[1500 Artificial insemination]
-- [[15677 Pharmacare]
-- [[12422 Life jackets]
-- [[16282 Preventive care]
-- [[9656 Health care quality]
-- [[9671 Health care system]
-- [[9673 Health care technology]
-- [[19519 Substance abuse]
-- [[15772 Physically challenged]
-- [[1489 Arthritis]
-- [[9677 Health education]
-- [[9651 Health care professionals]
-- [[9649 Health care products]
-- [[9683 Health hazards]
-- [[9607 Health care]
-- [[15689 Pharmaceutical industry]
-- [[19623 Survival training]
-- [[1575 Assisted reproduction]
-- [[4937 Deafness]
-- [[19602 Surgical procedures]
-- [[1600 Assistive technologies]
-- [[9734 Health policy]
-- [[9591 Health-enhancing foods]
-- [[15694 Pharmaceuticals]
-- [[1169 Anti-icing of aircraft]
-- [[9588 Health]
-- [[9737 Health products]
-- [[9748 Health professionals]
-- [[12651 Long term care facilities]
-- [[19621 Survival]
-- [[19961 Telemedicine]
-- [[3362 Clinics]
-- [[12675 Lung diseases]
-- [[9726 Health personnel]
-- [[4933 Deaf persons]
-- [[4928 De-icing of aircraft]
-- [[1589 Assistive devices]
-- [[1578 Assisted reproduction techniques]
-- [[19591 Surgeons]
-- [[1581 Assisted reproductive techniques]
-- [[1584 Assisted reproductive technology]
-- [[15758 Physical exercise]
-- [[9717 Health insurance]
-- [[15692 Pharmaceutical insurance]
-- [[15756 Physical disabilities]
-- [[9720 Health insurance plan]
-- [[9722 Health network]
-- [[19598 Surgery]
-- [[19600 Surgical operations]
-- [[338 Aerobic fitness]
-- [[9724 Health of animals]
-- [[16224 Pregnancy]
-- [[16248 Prescription drugs]
-- [[1081 Animal research]
-- [[19837 Technological disasters]
-- [[9448 Handicapped people]
-- [[16227 Pregnancy termination]
-- [[1911 Beauty products]
-- [[1062 Animal quarantine]
-- [[8463 Foster home]
-- [[8455 Foster children]
-- [[16139 Postnatal care]
-- [[8461 Foster families]
-- [[8452 Foster care placement]
-- [[1050 Animal nutrition]
-- [[8195 Foods for animal]
-- [[9451 Handicapped persons]
-- [[9454 Handicaps]]  
-
+subjectCategory:
+- "[[13324 Medicinal drugs]]"
+- "[[13294 Medical supplies]]"
+- "[[5308 Disabilities]]"
+- "[[13320 Medicare]]"
+- "[[18672 Ship sinking]]"
+- "[[17612 Reproductive technology]]"
+- "[[13296 Medical techniques]]"
+- "[[1014 Animal health]]"
+- "[[17634 Rescue]]"
+- "[[2033 Bicycle safety equipment]]"
+- "[[1004 Animal feeds]]"
+- "[[10182 Human health]]"
+- "[[666 Air safety]]"
+- "[[13317 Medicaments]]"
+- "[[2636 Cabin safety]]"
+- "[[13322 Medications]]"
+- "[[6438 Emergency procedures]]"
+- "[[13314 Medically assisted reproduction]]"
+- "[[10530 Impairments]]"
+- "[[4107 Contagious diseases]]"
+- "[[796 Airport safety]]"
+- "[[17987 Safe handling]]"
+- "[[3120 Child development]]"
+- "[[10186 Human nutrition]]"
+- "[[14455 Nicotine addiction]]"
+- "[[17984 Safe boating]]"
+- "[[10184 Human immunodeficiency virus]]"
+- "[[16877 Public safety]]"
+- "[[10525 Immunization]]"
+- "[[5609 Drug abuse]]"
+- "[[13308 Medical technology]]"
+- "[[18701 Shipwrecks]]"
+- "[[1007 Animal food]]"
+- "[[13311 Medically assisted procreation]]"
+- "[[13818 Mobility impaired]]"
+- "[[13332 Medicinal plants]]"
+- "[[809 Alcohol abuse]]"
+- "[[811 Alcohol addiction]]"
+- "[[14516 Non prescription medications]]"
+- "[[5626 Drug control]]"
+- "[[3208 Chronic health problems]]"
+- "[[8053 Flu]]"
+- "[[2077 Bioassay]]"
+- "[[14518 Non prescription medicines]]"
+- "[[5629 Drug dependency]]"
+- "[[5726 Duty to accommodate]]"
+- "[[18016 Safety education]]"
+- "[[2399 Breast cancer]]"
+- "[[16952 Pulmonary diseases]]"
+- "[[10755 Industrial diseases]]"
+- "[[18028 Safety equipment]]"
+- "[[13394 Mental disabilities]]"
+- "[[973 Animal-to-human transplantation]]"
+- "[[13396 Mental handicaps]]"
+- "[[8048 Flotation devices]]"
+- "[[21075 Viruses]]"
+- "[[14514 Non prescription drugs]]"
+- "[[2401 Breastfeeding]]"
+- "[[15095 Organ transplants]]"
+- "[[5623 Drug addiction]]"
+- "[[1001 Animal feeding]]"
+- "[[18656 Sexually transmitted infections]]"
+- "[[18654 Sexually transmitted diseases]]"
+- "[[15093 Organ transplantation]]"
+- "[[10727 Industrial accidents]]"
+- "[[16830 Public health]]"
+- "[[15088 Organ grafting]]"
+- "[[806 Airworthiness]]"
+- "[[18002 Safety]]"
+- "[[994 Animal drugs]]"
+- "[[992 Animal diseases]]"
+- "[[18005 Safety courses]]"
+- "[[13355 Medicine]]"
+- "[[18007 Safety devices]]"
+- "[[15080 Oral hygiene]]"
+- "[[15537 Personal flotation devices]]"
+- "[[15454 People with disabilities]]"
+- "[[8056 Fluorides]]"
+- "[[15078 Oral health]]"
+- "[[15151 Outreach]]"
+- "[[13280 Medical records]]"
+- "[[13291 Medical services]]"
+- "[[9990 HIV]]"
+- "[[15250 Parasitic diseases]]"
+- "[[17754 Respiratory disorders]]"
+- "[[10232 Human security]]"
+- "[[21122 Visually impaired]]"
+- "[[17752 Respiratory diseases]]"
+- "[[20347 Toxicology]]"
+- "[[21120 Visual impairments]]"
+- "[[10239 Human tissues]]"
+- "[[119 Accident prevention]]"
+- "[[15901 Poisoning]]"
+- "[[17638 Rescue equipment]]"
+- "[[13218 Medical apparatus]]"
+- "[[5743 E-health]]"
+- "[[13220 Medical care]]"
+- "[[16731 Psychiatric care]]"
+- "[[20882 Vaccines]]"
+- "[[20892 Vascular diseases]]"
+- "[[5350 Disasters]]"
+- "[[13223 Medical care insurance]]"
+- "[[17905 Road safety]]"
+- "[[10224 Human safety]]"
+- "[[17756 Respiratory illness]]"
+- "[[217 Addictive drugs]]"
+- "[[11236 Intellectual disabilities]]"
+- "[[6543 Employment injuries]]"
+- "[[18839 Smoking prevention]]"
+- "[[18834 Smoking addiction]]"
+- "[[14268 Natural caregivers]]"
+- "[[13138 Mass screening]]"
+- "[[18831 Smoking]]"
+- "[[734 Aircraft accidents]]"
+- "[[5339 Disaster relief]]"
+- "[[17854 Risk premiums]]"
+- "[[16674 Protective measures]]"
+- "[[773 Airplane accidents]]"
+- "[[21701 Wheel chairs]]"
+- "[[5334 Disaster planning]]"
+- "[[3189 Children's health]]"
+- "[[17870 Road accidents]]"
+- "[[10190 Human reproduction techniques]]"
+- "[[21132 Vitamins]]"
+- "[[21710 Wheelchairs]]"
+- "[[11238 Intellectual handicaps]]"
+- "[[5322 Disabled persons]]"
+- "[[13225 Medical centers]]"
+- "[[3160 Childhood diseases]]"
+- "[[18731 Side effects]]"
+- "[[13263 Medical products]]"
+- "[[208 Adaptive aids (for persons with disabilities)]]"
+- "[[14148 Narcotic control]]"
+- "[[13271 Medical products industry]]"
+- "[[3135 Child safety]]"
+- "[[776 Airplane anti-icing]]"
+- "[[13273 Medical professionals]]"
+- "[[15161 Outreach services]]"
+- "[[8059 Flying accidents]]"
+- "[[2011 Bicycle helmets]]"
+- "[[779 Airplane crashes]]"
+- "[[20937 Vessel safety]]"
+- "[[782 Airplane de-icing]]"
+- "[[5156 Derailments]]"
+- "[[14141 Narcotic addiction]]"
+- "[[17640 Rescue operations]]"
+- "[[13287 Medical research]]"
+- "[[18721 Sickness insurance]]"
+- "[[13289 Medical screening]]"
+- "[[15166 Over-the-counter drugs]]"
+- "[[14151 Narcotic use]]"
+- "[[13227 Medical centres]]"
+- "[[20927 Venereal diseases]]"
+- "[[13230 Medical device industry]]"
+- "[[11213 Integrated health services]]"
+- "[[13233 Medical devices]]"
+- "[[5319 Disabled people]]"
+- "[[5209 Diabetes]]"
+- "[[13236 Medical equipment]]"
+- "[[13239 Medical equipment industry]]"
+- "[[13243 Medical facilities]]"
+- "[[21117 Visual disabilities]]"
+- "[[13246 Medical insurance]]"
+- "[[18733 Sight impaired]]"
+- "[[14425 Neutraceuticals]]"
+- "[[13250 Medical law]]"
+- "[[15215 Pain]]"
+- "[[13253 Medical personnel]]"
+- "[[14164 Narcotics]]"
+- "[[3206 Chronic diseases]]"
+- "[[15172 Overweight]]"
+- "[[15168 Over-the-counter medications]]"
+- "[[4230 Coronavirus disease-19]]"
+- "[[18597 Severe acute respiratory syndrome]]"
+- "[[13400 Mental health]]"
+- "[[853 Alcoholism]]"
+- "[[4324 Cosmetic products]]"
+- "[[20655 Transportation safety]]"
+- "[[20980 Veterinary research]]"
+- "[[14746 Occupational accidents]]"
+- "[[14609 Novel coronavirus disease, 2019]]"
+- "[[5674 Drug plants]]"
+- "[[625 Air disasters]]"
+- "[[10090 Hospitals]]"
+- "[[18150 SARS-CoV-2 disease]]"
+- "[[7061 Epidemiology]]"
+- "[[5134 Dental insurance]]"
+- "[[13894 Monkeypox]]"
+- "[[18349 Search and rescue]]"
+- "[[21877 Work accidents]]"
+- "[[15388 Pathology]]"
+- "[[5678 Drug prevention]]"
+- "[[8837 Genetic screening]]"
+- "[[5680 Drug side effects]]"
+- "[[7801 Fire safety]]"
+- "[[13733 Mining accidents]]"
+- "[[10159 Human assisted reproduction]]"
+- "[[18373 Seat belts]]"
+- "[[7055 Epidemics]]"
+- "[[14774 Occupational health]]"
+- "[[14791 Occupational rehabilitation]]"
+- "[[5668 Drug labelling]]"
+- "[[613 Air bags]]"
+- "[[829 Alcohol education]]"
+- "[[20976 Veterinary medicine]]"
+- "[[14786 Occupational injuries]]"
+- "[[14780 Occupational illness]]"
+- "[[14777 Occupational hygiene]]"
+- "[[9049 Geriatrics]]"
+- "[[15376 Patented medicines]]"
+- "[[4327 Cosmetics]]"
+- "[[5233 Diet]]"
+- "[[745 Aircraft anti-icing]]"
+- "[[20978 Veterinary pharmaceuticals]]"
+- "[[14757 Occupational diseases]]"
+- "[[21910 Work safety]]"
+- "[[5671 Drug laws]]"
+- "[[10825 Industrial safety]]"
+- "[[5406 Diseases]]"
+- "[[3474 Cognitive disabilities]]"
+- "[[7799 Fire prevention]]"
+- "[[917 Alzheimer's disease]]"
+- "[[13889 Monkey pox]]"
+- "[[2766 Care givers]]"
+- "[[2294 Blind persons]]"
+- "[[10911 Infected blood]]"
+- "[[14687 Nursing]]"
+- "[[2752 Car seats]]"
+- "[[3463 Codes of practice]]"
+- "[[2754 Carcinoma]]"
+- "[[2225 Biomedical experiments]]"
+- "[[21987 Workplace accidents]]"
+- "[[20594 Transplantation (Medicine)]]"
+- "[[13845 Molds (Fungi)]]"
+- "[[14727 Obesity]]"
+- "[[20596 Transplants]]"
+- "[[8016 Fitness]]"
+- "[[10897 Infant nutrition]]"
+- "[[3271 Civil preparedness]]"
+- "[[130 Accidents]]"
+- "[[5687 Drug use]]"
+- "[[13815 Mobility aids]]"
+- "[[2757 Cardiorespiratory diseases]]"
+- "[[5122 Dental care plan]]"
+- "[[5125 Dental health]]"
+- "[[14689 Nursing homes]]"
+- "[[15486 Perinatal care]]"
+- "[[14692 Nutraceuticals]]"
+- "[[2799 Caregivers]]"
+- "[[2305 Blood supply]]"
+- "[[862 Allergies]]"
+- "[[10050 Homeopathy]]"
+- "[[14711 Nutrition]]"
+- "[[5127 Dental hygiene]]"
+- "[[10950 Informal caregivers]]"
+- "[[10948 Influenza]]"
+- "[[14635 Nuclear medicine]]"
+- "[[911 Alternative medicine]]"
+- "[[21890 Work injuries]]"
+- "[[14695 Nutriceuticals]]"
+- "[[2747 Car accidents]]"
+- "[[2750 Car restraints]]"
+- "[[18296 Screening (Medicine)]]"
+- "[[2300 Blood banks]]"
+- "[[2298 Blindness]]"
+- "[[10932 Infectious diseases]]"
+- "[[10422 Hygiene]]"
+- "[[14805 Occupational safety]]"
+- "[[4262 Coronaviruses]]"
+- "[[7203 Evacuations]]"
+- "[[3212 Cigarette smoking]]"
+- "[[5385 Disease prevention]]"
+- "[[20467 Traffic safety]]"
+- "[[178 Acquired immune deficiency syndrome]]"
+- "[[5638 Drug education]]"
+- "[[16994 Quality of health care]]"
+- "[[6442 Emergency relief]]"
+- "[[17013 Quarantine]]"
+- "[[10177 Human cells]]"
+- "[[3210 Chronic illness]]"
+- "[[5640 Drug enforcement]]"
+- "[[180 Acquired immunodeficiency syndrome]]"
+- "[[5644 Drug industry]]"
+- "[[20481 Train wrecks]]"
+- "[[11094 Injuries]]"
+- "[[21808 Wing anti-icing]]"
+- "[[10305 Hunger]]"
+- "[[10773 Industrial health]]"
+- "[[13489 Methadone]]"
+- "[[18520 Semen]]"
+- "[[21060 Viral diseases]]"
+- "[[10014 Home care]]"
+- "[[8280 Forensic medicine]]"
+- "[[21917 Worker health]]"
+- "[[21922 Worker safety]]"
+- "[[13402 Mentally handicapped]]"
+- "[[18030 Safety guidelines]]"
+- "[[4233 Coronavirus disease (COVID-19)]]"
+- "[[4405 COVID-19 virus disease]]"
+- "[[2764 Cardiovascular diseases]]"
+- "[[15827 Plane crashes]]"
+- "[[18033 Safety instruction]]"
+- "[[4402 COVID-19 (Disease)]]"
+- "[[70 Abortion]]"
+- "[[18035 Safety kits]]"
+- "[[18049 Safety measures]]"
+- "[[15830 Plane de-icing]]"
+- "[[21069 Virus diseases]]"
+- "[[9285 Grafting (Medicine)]]"
+- "[[14543 Nonprescription drugs]]"
+- "[[4236 Coronavirus disease 2019]]"
+- "[[5058 Degenerative diseases]]"
+- "[[20462 Traffic accidents]]"
+- "[[13440 MERS (Disease)]]"
+- "[[15524 Personal care products]]"
+- "[[18051 Safety precautions]]"
+- "[[20966 Veterinary drugs]]"
+- "[[18053 Safety procedures]]"
+- "[[8030 Flight safety]]"
+- "[[17190 Railway safety]]"
+- "[[13572 Middle East Respiratory Syndrome]]"
+- "[[10488 Illness]]"
+- "[[20968 Veterinary medications]]"
+- "[[600 AIDS (disease)]]"
+- "[[9041 Geriatric medicine]]"
+- "[[17485 Rehabilitation]]"
+- "[[22001 Workplace injuries]]"
+- "[[929 Ambulance services]]"
+- "[[4255 Coronavirus diseases]]"
+- "[[22010 Workplace safety]]"
+- "[[2860 Catastrophes]]"
+- "[[18448 Security]]"
+- "[[5794 Eating habits]]"
+- "[[10483 Illicit drugs]]"
+- "[[4258 Coronavirus infections]]"
+- "[[7368 Family caregivers]]"
+- "[[2721 Cancer]]"
+- "[[10477 Illegal drugs]]"
+- "[[21998 Workplace health]]"
+- "[[13568 Microscopic organisms]]"
+- "[[13565 Microorganisms]]"
+- "[[10782 Industrial injuries]]"
+- "[[13987 Moulds (Fungi)]]"
+- "[[7366 Family care home]]"
+- "[[17166 Railway accidents]]"
+- "[[2903 Cells]]"
+- "[[21811 Wing de-icing]]"
+- "[[18059 Safety regulations]]"
+- "[[2893 Cell transplantation]]"
+- "[[11083 Injection drug use]]"
+- "[[5655 Drug insurance]]"
+- "[[2889 Cell grafting]]"
+- "[[13519 Microbial diseases]]"
+- "[[10776 Industrial hygiene]]"
+- "[[18066 Safety standards]]"
+- "[[18069 Safety training]]"
+- "[[5712 Drugs]]"
+- "[[5658 Drug insurance plan]]"
+- "[[21833 Women's health]]"
+- "[[6435 Emergency preparedness]]"
+- "[[10779 Industrial illness]]"
+- "[[5661 Drug labeling]]"
+- "[[757 Aircraft de-icing]]"
+- "[[10193 Human reproductive technology]]"
+- "[[22088 Xenotransplantation]]"
+- "[[8104 Food hygiene]]"
+- "[[9786 Health status]]"
+- "[[9788 Health status indicators]]"
+- "[[9790 Health system]]"
+- "[[16250 Prescription medications]]"
+- "[[15750 Physical condition]]"
+- "[[9792 Health technology]]"
+- "[[6588 Employment rehabilitation]]"
+- "[[8173 Food safety]]"
+- "[[9799 Hearing disabilities]]"
+- "[[9801 Hearing impaired]]"
+- "[[12809 Manmade disasters]]"
+- "[[9804 Hearing impairments]]"
+- "[[19903 Telecare]]"
+- "[[20199 Tissue grafting]]"
+- "[[20201 Tissue transplantation]]"
+- "[[9784 Health services insurance]]"
+- "[[12744 Man-made disasters]]"
+- "[[9781 Health services]]"
+- "[[9768 Health risks]]"
+- "[[12225 Learning disabilities]]"
+- "[[9764 Health protection]]"
+- "[[15701 Pharmacology]]"
+- "[[9766 Health research]]"
+- "[[20153 Therapeutic abortion]]"
+- "[[20155 Therapeutic cloning]]"
+- "[[16252 Prescription medicines]]"
+- "[[20162 Therapy]]"
+- "[[8612 Functional foods]]"
+- "[[9778 Health sciences]]"
+- "[[12721 Malignant tumors]]"
+- "[[19669 Systematic screening]]"
+- "[[12723 Malignant tumours]]"
+- "[[12725 Malnutrition]]"
+- "[[5542 Donor semen]]"
+- "[[9806 Hearing loss]]"
+- "[[12227 Learning disorders]]"
+- "[[6593 Employment safety]]"
+- "[[20237 Toiletries]]"
+- "[[298 Adverse effects]]"
+- "[[12924 Marine accidents]]"
+- "[[9838 Hepatitis]]"
+- "[[295 Adverse drug reactions]]"
+- "[[19063 Soft medicine]]"
+- "[[1762 Automobile safety equipment]]"
+- "[[1792 Aviation accidents]]"
+- "[[1806 Aviation safety]]"
+- "[[12967 Marine navigation safety]]"
+- "[[12991 Marine safety]]"
+- "[[1829 Bacterial diseases]]"
+- "[[12999 Marine safety equipment]]"
+- "[[3653 Communicable diseases]]"
+- "[[9846 Herbal remedies]]"
+- "[[12911 Marijuana]]"
+- "[[1742 Automobile accidents]]"
+- "[[20233 Tobacco use]]"
+- "[[9815 Heart diseases]]"
+- "[[8102 Food habits]]"
+- "[[8100 Food contamination]]"
+- "[[20209 Tissues]]"
+- "[[15745 Physical activity]]"
+- "[[20215 Tobacco abuse]]"
+- "[[20218 Tobacco addiction]]"
+- "[[7416 Famine]]"
+- "[[20230 Tobacco smoking]]"
+- "[[6421 Emergency planning]]"
+- "[[20221 Tobacco consumption]]"
+- "[[22096 Yeasts]]"
+- "[[15600 Persons with disabilities]]"
+- "[[16237 Prenatal care]]"
+- "[[12903 Marihuana]]"
+- "[[9756 Health promotion]]"
+- "[[19954 Telehealth]]"
+- "[[13033 Maritime disasters]]"
+- "[[1572 Assisted human reproduction]]"
+- "[[9636 Health care personnel]]"
+- "[[9634 Health care insurance]]"
+- "[[16291 Preventive medicine]]"
+- "[[9694 Health indicators]]"
+- "[[9697 Health industry]]"
+- "[[9631 Health care institutions]]"
+- "[[15775 Physically handicapped]]"
+- "[[9629 Health care industry]]"
+- "[[9699 Health information]]"
+- "[[6448 Emergency services]]"
+- "[[15762 Physical handicaps]]"
+- "[[9619 Health care facilities]]"
+- "[[15760 Physical fitness]]"
+- "[[11524 Intoxication]]"
+- "[[1569 Assisted conception]]"
+- "[[9640 Health care plan]]"
+- "[[9687 Health impact]]"
+- "[[15680 Pharmacare plan]]"
+- "[[16188 Poxvirus diseases]]"
+- "[[1500 Artificial insemination]]"
+- "[[15677 Pharmacare]]"
+- "[[12422 Life jackets]]"
+- "[[16282 Preventive care]]"
+- "[[9656 Health care quality]]"
+- "[[9671 Health care system]]"
+- "[[9673 Health care technology]]"
+- "[[19519 Substance abuse]]"
+- "[[15772 Physically challenged]]"
+- "[[1489 Arthritis]]"
+- "[[9677 Health education]]"
+- "[[9651 Health care professionals]]"
+- "[[9649 Health care products]]"
+- "[[9683 Health hazards]]"
+- "[[9607 Health care]]"
+- "[[15689 Pharmaceutical industry]]"
+- "[[19623 Survival training]]"
+- "[[1575 Assisted reproduction]]"
+- "[[4937 Deafness]]"
+- "[[19602 Surgical procedures]]"
+- "[[1600 Assistive technologies]]"
+- "[[9734 Health policy]]"
+- "[[9591 Health-enhancing foods]]"
+- "[[15694 Pharmaceuticals]]"
+- "[[1169 Anti-icing of aircraft]]"
+- "[[9588 Health]]"
+- "[[9737 Health products]]"
+- "[[9748 Health professionals]]"
+- "[[12651 Long term care facilities]]"
+- "[[19621 Survival]]"
+- "[[19961 Telemedicine]]"
+- "[[3362 Clinics]]"
+- "[[12675 Lung diseases]]"
+- "[[9726 Health personnel]]"
+- "[[4933 Deaf persons]]"
+- "[[4928 De-icing of aircraft]]"
+- "[[1589 Assistive devices]]"
+- "[[1578 Assisted reproduction techniques]]"
+- "[[19591 Surgeons]]"
+- "[[1581 Assisted reproductive techniques]]"
+- "[[1584 Assisted reproductive technology]]"
+- "[[15758 Physical exercise]]"
+- "[[9717 Health insurance]]"
+- "[[15692 Pharmaceutical insurance]]"
+- "[[15756 Physical disabilities]]"
+- "[[9720 Health insurance plan]]"
+- "[[9722 Health network]]"
+- "[[19598 Surgery]]"
+- "[[19600 Surgical operations]]"
+- "[[338 Aerobic fitness]]"
+- "[[9724 Health of animals]]"
+- "[[16224 Pregnancy]]"
+- "[[16248 Prescription drugs]]"
+- "[[1081 Animal research]]"
+- "[[19837 Technological disasters]]"
+- "[[9448 Handicapped people]]"
+- "[[16227 Pregnancy termination]]"
+- "[[1911 Beauty products]]"
+- "[[1062 Animal quarantine]]"
+- "[[8463 Foster home]]"
+- "[[8455 Foster children]]"
+- "[[16139 Postnatal care]]"
+- "[[8461 Foster families]]"
+- "[[8452 Foster care placement]]"
+- "[[1050 Animal nutrition]]"
+- "[[8195 Foods for animal]]"
+- "[[9451 Handicapped persons]]"
+- "[[9454 Handicaps]]"
+---
+# HE Health and Safety

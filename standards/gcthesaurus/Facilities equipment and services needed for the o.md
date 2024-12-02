@@ -1,6 +1,11 @@
-# Facilities equipment and services needed for the o  
+---
+title: Facilities equipment and services needed for the o
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Facilities, equipment and services needed for the operation of an organization.
 
-## Scope Note
-
-- [[11067 Infrastructures]]  
-
+scopeNote:
+- "[[11067 Infrastructures]]"
+---
+# Facilities equipment and services needed for the o

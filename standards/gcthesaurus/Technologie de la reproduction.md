@@ -1,6 +1,11 @@
-# Technologie de la reproduction  
+---
+title: Technologie de la reproduction
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Technologie de la reproduction
 
-## French
-
-- [[17593 Reproductive technology]]  
-
+french:
+- "[[17593 Reproductive technology]]"
+---
+# Technologie de la reproduction

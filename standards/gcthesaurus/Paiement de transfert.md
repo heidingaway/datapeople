@@ -1,6 +1,11 @@
-# Paiement de transfert  
+---
+title: Paiement de transfert
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Paiement de transfert
 
-## French
-
-- [[20532 Transfer payments]]  
-
+french:
+- "[[20532 Transfer payments]]"
+---
+# Paiement de transfert

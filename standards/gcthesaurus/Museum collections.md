@@ -1,11 +1,14 @@
-# Museum collections  
+---
+title: Museum collections
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Museum collections
 
-## Narrower Term
-
-- [[3498 Collections]]  
-
-## Related Term
-
-- [[14092 Museums]
-- [[21066 Virtual exhibitions]]  
-
+narrowerTerm:
+- "[[3498 Collections]]"
+relatedTerm:
+- "[[14092 Museums]]"
+- "[[21066 Virtual exhibitions]]"
+---
+# Museum collections

@@ -1,6 +1,11 @@
-# Retailing  
+---
+title: Retailing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Retailing
 
-## Used For
-
-- [[17772 Retail trade]]  
-
+usedFor:
+- "[[17772 Retail trade]]"
+---
+# Retailing

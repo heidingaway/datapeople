@@ -1,6 +1,11 @@
-# Virus  
+---
+title: Virus
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Virus
 
-## French
-
-- [[21070 Viruses]]  
-
+french:
+- "[[21070 Viruses]]"
+---
+# Virus

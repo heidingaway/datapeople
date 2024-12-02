@@ -1,6 +1,11 @@
-# Commercialization  
+---
+title: Commercialization
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Commercialization
 
-## Related Term
-
-- [[13092 Marketing]]  
-
+relatedTerm:
+- "[[13092 Marketing]]"
+---
+# Commercialization

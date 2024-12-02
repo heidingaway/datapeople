@@ -1,6 +1,11 @@
-# Butter  
+---
+title: Butter
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Butter
 
-## Narrower Term
-
-- [[4817 Dairy products]]  
-
+narrowerTerm:
+- "[[4817 Dairy products]]"
+---
+# Butter

@@ -1,6 +1,11 @@
-# Recensement  
+---
+title: Recensement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Recensement
 
-## French
-
-- [[2920 Census]]  
-
+french:
+- "[[2920 Census]]"
+---
+# Recensement

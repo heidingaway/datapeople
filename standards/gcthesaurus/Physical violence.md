@@ -1,6 +1,11 @@
-# Physical violence  
+---
+title: Physical violence
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Physical violence
 
-## Used For
-
-- [[21022 Violence]]  
-
+usedFor:
+- "[[21022 Violence]]"
+---
+# Physical violence

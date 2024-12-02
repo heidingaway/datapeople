@@ -1,6 +1,11 @@
-# Pret  
+---
+title: Pret
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prêt
 
-## French
-
-- [[12575 Loans]]  
-
+french:
+- "[[12575 Loans]]"
+---
+# Pret

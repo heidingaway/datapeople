@@ -1,6 +1,11 @@
-# Tempests  
+---
+title: Tempests
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tempests
 
-## Used For
-
-- [[19420 Storms]]  
-
+usedFor:
+- "[[19420 Storms]]"
+---
+# Tempests

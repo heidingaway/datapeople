@@ -1,6 +1,11 @@
-# Nationalisme  
+---
+title: Nationalisme
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Nationalisme
 
-## French
-
-- [[14248 Nationalism]]  
-
+french:
+- "[[14248 Nationalism]]"
+---
+# Nationalisme

@@ -1,6 +1,11 @@
-# Bovins de boucherie  
+---
+title: Bovins de boucherie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Bovins de boucherie
 
-## French
-
-- [[1916 Beef cattle]]  
-
+french:
+- "[[1916 Beef cattle]]"
+---
+# Bovins de boucherie

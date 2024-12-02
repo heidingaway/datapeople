@@ -1,11 +1,14 @@
-# Freight  
+---
+title: Freight
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Freight
 
-## Related Term
-
-- [[18681 Shipping]
-- [[20611 Transport]]  
-
-## Use
-
-- [[2802 Cargo]]  
-
+relatedTerm:
+- "[[18681 Shipping]]"
+- "[[20611 Transport]]"
+use:
+- "[[2802 Cargo]]"
+---
+# Freight

@@ -1,6 +1,11 @@
-# Etudiant  
+---
+title: Etudiant
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Étudiant
 
-## French
-
-- [[19467 Students]]  
-
+french:
+- "[[19467 Students]]"
+---
+# Etudiant

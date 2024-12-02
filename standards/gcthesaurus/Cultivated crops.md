@@ -1,6 +1,11 @@
-# Cultivated crops  
+---
+title: Cultivated crops
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cultivated crops
 
-## Used For
-
-- [[4539 Crops]]  
-
+usedFor:
+- "[[4539 Crops]]"
+---
+# Cultivated crops

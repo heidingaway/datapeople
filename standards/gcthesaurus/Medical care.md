@@ -1,6 +1,11 @@
-# Medical care  
+---
+title: Medical care
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Medical care
 
-## Used For
-
-- [[9594 Health care]]  
-
+usedFor:
+- "[[9594 Health care]]"
+---
+# Medical care

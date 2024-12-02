@@ -1,6 +1,11 @@
-# Pest control products  
+---
+title: Pest control products
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pest control products
 
-## Used For
-
-- [[15620 Pesticides]]  
-
+usedFor:
+- "[[15620 Pesticides]]"
+---
+# Pest control products

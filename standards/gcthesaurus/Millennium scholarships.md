@@ -1,6 +1,11 @@
-# Millennium scholarships  
+---
+title: Millennium scholarships
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Millennium scholarships
 
-## Used For
-
-- [[18190 Scholarships]]  
-
+usedFor:
+- "[[18190 Scholarships]]"
+---
+# Millennium scholarships

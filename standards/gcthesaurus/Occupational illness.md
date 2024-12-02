@@ -1,6 +1,11 @@
-# Occupational illness  
+---
+title: Occupational illness
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Occupational illness
 
-## Used For
-
-- [[14754 Occupational diseases]]  
-
+usedFor:
+- "[[14754 Occupational diseases]]"
+---
+# Occupational illness

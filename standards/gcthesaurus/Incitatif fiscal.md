@@ -1,6 +1,11 @@
-# Incitatif fiscal  
+---
+title: Incitatif fiscal
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Incitatif fiscal
 
-## French
-
-- [[19742 Tax incentives]]  
-
+french:
+- "[[19742 Tax incentives]]"
+---
+# Incitatif fiscal

@@ -1,6 +1,11 @@
-# Needs  
+---
+title: Needs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Needs
 
-## Related Term
-
-- [[5073 Demand]]  
-
+relatedTerm:
+- "[[5073 Demand]]"
+---
+# Needs

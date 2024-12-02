@@ -1,6 +1,11 @@
-# Politique technologique  
+---
+title: Politique technologique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Politique technologique
 
-## French
-
-- [[19888 Technology policy]]  
-
+french:
+- "[[19888 Technology policy]]"
+---
+# Politique technologique

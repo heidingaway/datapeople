@@ -1,6 +1,11 @@
-# Entretien  
+---
+title: Entretien
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Entretien
 
-## French
-
-- [[12710 Maintenance]]  
-
+french:
+- "[[12710 Maintenance]]"
+---
+# Entretien

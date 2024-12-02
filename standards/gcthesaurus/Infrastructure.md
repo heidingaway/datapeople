@@ -1,6 +1,11 @@
-# Infrastructure  
+---
+title: Infrastructure
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Infrastructure
 
-## French
-
-- [[11066 Infrastructures]]  
-
+french:
+- "[[11066 Infrastructures]]"
+---
+# Infrastructure

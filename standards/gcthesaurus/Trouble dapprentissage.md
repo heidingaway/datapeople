@@ -1,6 +1,11 @@
-# Trouble dapprentissage  
+---
+title: Trouble dapprentissage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Trouble d'apprentissage
 
-## French
-
-- [[12222 Learning disabilities]]  
-
+french:
+- "[[12222 Learning disabilities]]"
+---
+# Trouble dapprentissage

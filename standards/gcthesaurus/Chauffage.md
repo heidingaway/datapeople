@@ -1,6 +1,11 @@
-# Chauffage  
+---
+title: Chauffage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Chauffage
 
-## French
-
-- [[9816 Heating]]  
-
+french:
+- "[[9816 Heating]]"
+---
+# Chauffage

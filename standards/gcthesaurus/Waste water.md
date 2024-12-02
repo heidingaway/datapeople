@@ -1,19 +1,20 @@
-# Waste water  
+---
+title: Waste water
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Waste water
 
-## Narrower Term
-
-- [[21379 Water]]  
-
-## Related Term
-
-- [[21309 Waste]]  
-
-## Use
-
-- [[17702 Residual water]
-- [[21366 Wastewater]
-- [[18600 Sewage]
-- [[4577 Crude effluents]
-- [[21313 Waste effluents]
-- [[12487 Liquid waste]]  
-
+narrowerTerm:
+- "[[21379 Water]]"
+relatedTerm:
+- "[[21309 Waste]]"
+use:
+- "[[17702 Residual water]]"
+- "[[21366 Wastewater]]"
+- "[[18600 Sewage]]"
+- "[[4577 Crude effluents]]"
+- "[[21313 Waste effluents]]"
+- "[[12487 Liquid waste]]"
+---
+# Waste water

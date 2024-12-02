@@ -1,6 +1,11 @@
-# Soilless culture  
+---
+title: Soilless culture
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Soilless culture
 
-## Used For
-
-- [[10405 Hydroponics]]  
-
+usedFor:
+- "[[10405 Hydroponics]]"
+---
+# Soilless culture

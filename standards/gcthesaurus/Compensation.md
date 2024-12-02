@@ -1,6 +1,11 @@
-# Compensation  
+---
+title: Compensation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Compensation
 
-## Used For
-
-- [[876 Allowances]]  
-
+usedFor:
+- "[[876 Allowances]]"
+---
+# Compensation

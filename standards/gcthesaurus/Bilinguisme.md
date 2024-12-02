@@ -1,6 +1,11 @@
-# Bilinguisme  
+---
+title: Bilinguisme
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Bilinguisme
 
-## French
-
-- [[2057 Bilingualism]]  
-
+french:
+- "[[2057 Bilingualism]]"
+---
+# Bilinguisme

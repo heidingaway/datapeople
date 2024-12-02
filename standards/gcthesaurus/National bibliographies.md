@@ -1,10 +1,13 @@
-# National bibliographies  
+---
+title: National bibliographies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: National bibliographies
 
-## Narrower Term
-
-- [[2008 Bibliographies]]  
-
-## Related Term
-
-- [[14221 National libraries]]  
-
+narrowerTerm:
+- "[[2008 Bibliographies]]"
+relatedTerm:
+- "[[14221 National libraries]]"
+---
+# National bibliographies

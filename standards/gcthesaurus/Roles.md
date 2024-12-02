@@ -1,6 +1,11 @@
-# Roles  
+---
+title: Roles
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Roles
 
-## Related Term
-
-- [[12805 Mandate]]  
-
+relatedTerm:
+- "[[12805 Mandate]]"
+---
+# Roles

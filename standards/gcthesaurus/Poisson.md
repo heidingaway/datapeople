@@ -1,6 +1,11 @@
-# Poisson  
+---
+title: Poisson
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Poisson
 
-## French
-
-- [[7870 Fish]]  
-
+french:
+- "[[7870 Fish]]"
+---
+# Poisson

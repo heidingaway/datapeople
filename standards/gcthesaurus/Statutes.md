@@ -1,6 +1,11 @@
-# Statutes  
+---
+title: Statutes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Statutes
 
-## Used For
-
-- [[12302 Legislation]]  
-
+usedFor:
+- "[[12302 Legislation]]"
+---
+# Statutes

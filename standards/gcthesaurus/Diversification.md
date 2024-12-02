@@ -1,10 +1,13 @@
-# Diversification  
+---
+title: Diversification
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Diversification
 
-## French
-
-- [[5449 Diversification]]  
-
-## Related Term
-
-- [[17414 Reform]]  
-
+french:
+- "[[5449 Diversification]]"
+relatedTerm:
+- "[[17414 Reform]]"
+---
+# Diversification

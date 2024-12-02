@@ -1,6 +1,11 @@
-# Detection  
+---
+title: Detection
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Détection
 
-## French
-
-- [[5170 Detection]]  
-
+french:
+- "[[5170 Detection]]"
+---
+# Detection

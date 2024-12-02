@@ -1,6 +1,11 @@
-# Commercial enterprises  
+---
+title: Commercial enterprises
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Commercial enterprises
 
-## Used For
-
-- [[2584 Businesses]]  
-
+usedFor:
+- "[[2584 Businesses]]"
+---
+# Commercial enterprises

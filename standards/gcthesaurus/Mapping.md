@@ -1,6 +1,11 @@
-# Mapping  
+---
+title: Mapping
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mapping
 
-## Used For
-
-- [[2821 Cartography]]  
-
+usedFor:
+- "[[2821 Cartography]]"
+---
+# Mapping

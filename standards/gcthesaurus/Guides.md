@@ -1,6 +1,11 @@
-# Guides  
+---
+title: Guides
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Guides
 
-## Used For
-
-- [[9437 Handbooks]]  
-
+usedFor:
+- "[[9437 Handbooks]]"
+---
+# Guides

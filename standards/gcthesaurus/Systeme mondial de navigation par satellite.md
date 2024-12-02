@@ -1,6 +1,11 @@
-# Systeme mondial de navigation par satellite  
+---
+title: Systeme mondial de navigation par satellite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Système mondial de navigation par satellite
 
-## French
-
-- [[9080 Global navigation satellite systems]]  
-
+french:
+- "[[9080 Global navigation satellite systems]]"
+---
+# Systeme mondial de navigation par satellite

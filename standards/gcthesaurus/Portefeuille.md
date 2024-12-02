@@ -1,6 +1,11 @@
-# Portefeuille  
+---
+title: Portefeuille
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Portefeuille
 
-## French
-
-- [[16099 Portfolio]]  
-
+french:
+- "[[16099 Portfolio]]"
+---
+# Portefeuille

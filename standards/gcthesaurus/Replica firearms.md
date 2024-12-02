@@ -1,6 +1,11 @@
-# Replica firearms  
+---
+title: Replica firearms
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Replica firearms
 
-## Used For
-
-- [[7807 Firearms]]  
-
+usedFor:
+- "[[7807 Firearms]]"
+---
+# Replica firearms

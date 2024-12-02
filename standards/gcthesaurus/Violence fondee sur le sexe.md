@@ -1,6 +1,11 @@
-# Violence fondee sur le sexe  
+---
+title: Violence fondee sur le sexe
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Violence fondée sur le sexe
 
-## French
-
-- [[8783 Gender-based violence]]  
-
+french:
+- "[[8783 Gender-based violence]]"
+---
+# Violence fondee sur le sexe

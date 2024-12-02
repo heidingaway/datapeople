@@ -1,6 +1,11 @@
-# Gestion energetique  
+---
+title: Gestion energetique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gestion énergétique
 
-## French
-
-- [[6655 Energy management]]  
-
+french:
+- "[[6655 Energy management]]"
+---
+# Gestion energetique

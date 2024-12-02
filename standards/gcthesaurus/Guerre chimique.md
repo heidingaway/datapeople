@@ -1,6 +1,11 @@
-# Guerre chimique  
+---
+title: Guerre chimique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Guerre chimique
 
-## French
-
-- [[3035 Chemical warfare]]  
-
+french:
+- "[[3035 Chemical warfare]]"
+---
+# Guerre chimique

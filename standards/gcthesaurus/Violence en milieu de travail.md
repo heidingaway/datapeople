@@ -1,6 +1,11 @@
-# Violence en milieu de travail  
+---
+title: Violence en milieu de travail
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Violence en milieu de travail
 
-## French
-
-- [[22012 Workplace violence]]  
-
+french:
+- "[[22012 Workplace violence]]"
+---
+# Violence en milieu de travail

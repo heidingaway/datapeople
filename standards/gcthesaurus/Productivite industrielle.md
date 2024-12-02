@@ -1,6 +1,11 @@
-# Productivite industrielle  
+---
+title: Productivite industrielle
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Productivité industrielle
 
-## French
-
-- [[10801 Industrial productivity]]  
-
+french:
+- "[[10801 Industrial productivity]]"
+---
+# Productivite industrielle

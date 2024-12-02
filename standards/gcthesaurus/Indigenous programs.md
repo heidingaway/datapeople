@@ -1,14 +1,15 @@
-# Indigenous programs  
+---
+title: Indigenous programs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Indigenous programs
 
-## Narrower Term
-
-- [[16573 Programs]]  
-
-## Related Term
-
-- [[10637 Indigenous businesses]]  
-
-## Use
-
-- [[53 Aboriginal programs]]  
-
+narrowerTerm:
+- "[[16573 Programs]]"
+relatedTerm:
+- "[[10637 Indigenous businesses]]"
+use:
+- "[[53 Aboriginal programs]]"
+---
+# Indigenous programs

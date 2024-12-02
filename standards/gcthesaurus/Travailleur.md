@@ -1,6 +1,11 @@
-# Travailleur  
+---
+title: Travailleur
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Travailleur
 
-## French
-
-- [[21924 Workers]]  
-
+french:
+- "[[21924 Workers]]"
+---
+# Travailleur

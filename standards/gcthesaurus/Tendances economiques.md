@@ -1,6 +1,11 @@
-# Tendances economiques  
+---
+title: Tendances economiques
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tendances économiques
 
-## French
-
-- [[5964 Economic trends]]  
-
+french:
+- "[[5964 Economic trends]]"
+---
+# Tendances economiques

@@ -1,6 +1,11 @@
-# Profession  
+---
+title: Profession
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Profession
 
-## French
-
-- [[14810 Occupations]]  
-
+french:
+- "[[14810 Occupations]]"
+---
+# Profession

@@ -1,6 +1,11 @@
-# Industrie de lequipement  
+---
+title: Industrie de lequipement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrie de l'équipement
 
-## French
-
-- [[7094 Equipment industry]]  
-
+french:
+- "[[7094 Equipment industry]]"
+---
+# Industrie de lequipement

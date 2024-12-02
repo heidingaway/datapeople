@@ -1,18 +1,19 @@
-# Acid rain  
-
-## Narrower Term
-
-- [[16210 Precipitation]]  
-
-## Related Term
-
-- [[641 Air pollution]]  
-
-## Use
-
-- [[171 Acidic precipitation]
-- [[159 Acid precipitation]
-- [[157 Acid deposition]
-- [[173 Acidic rain]
-- [[175 Acidified precipitation]]  
-
+---
+title: Acid rain
+created: 2024-12-01
+modified: 2024-12-01
+tags:
+  - TBSMetadata
+alias: Acid rain
+narrowerTerm:
+  - "[[16210 Precipitation]]"
+relatedTerm:
+  - "[[641 Air pollution]]"
+use:
+  - "[[171 Acidic precipitation]]"
+  - "[[159 Acid precipitation]]"
+  - "[[157 Acid deposition]]"
+  - "[[173 Acidic rain]]"
+  - "[[175 Acidified precipitation]]"
+---
+# Acid rain

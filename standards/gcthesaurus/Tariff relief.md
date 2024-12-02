@@ -1,6 +1,11 @@
-# Tariff relief  
+---
+title: Tariff relief
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tariff relief
 
-## Related Term
-
-- [[19708 Tariffs]]  
-
+relatedTerm:
+- "[[19708 Tariffs]]"
+---
+# Tariff relief

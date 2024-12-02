@@ -1,6 +1,11 @@
-# Ground water  
+---
+title: Ground water
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ground water
 
-## Used For
-
-- [[9394 Groundwater]]  
-
+usedFor:
+- "[[9394 Groundwater]]"
+---
+# Ground water

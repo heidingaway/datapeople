@@ -1,6 +1,11 @@
-# Commercial waste  
+---
+title: Commercial waste
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Commercial waste
 
-## Used For
-
-- [[10841 Industrial waste]]  
-
+usedFor:
+- "[[10841 Industrial waste]]"
+---
+# Commercial waste

@@ -1,6 +1,11 @@
-# Recherche et developpement  
+---
+title: Recherche et developpement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Recherche et développement
 
-## French
-
-- [[17663 Research and development]]  
-
+french:
+- "[[17663 Research and development]]"
+---
+# Recherche et developpement

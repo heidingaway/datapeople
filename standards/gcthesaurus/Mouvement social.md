@@ -1,6 +1,11 @@
-# Mouvement social  
+---
+title: Mouvement social
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mouvement social
 
-## French
-
-- [[18943 Social movement]]  
-
+french:
+- "[[18943 Social movement]]"
+---
+# Mouvement social

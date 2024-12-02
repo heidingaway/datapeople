@@ -1,11 +1,14 @@
-# Disclosure of wrongdoing  
+---
+title: Disclosure of wrongdoing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Disclosure of wrongdoing
 
-## Related Term
-
-- [[21721 Whistleblower protection]]  
-
-## Use
-
-- [[21716 Whistle blowing]
-- [[21724 Whistleblowing]]  
-
+relatedTerm:
+- "[[21721 Whistleblower protection]]"
+use:
+- "[[21716 Whistle blowing]]"
+- "[[21724 Whistleblowing]]"
+---
+# Disclosure of wrongdoing

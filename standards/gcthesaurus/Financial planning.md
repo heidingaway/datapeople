@@ -1,6 +1,11 @@
-# Financial planning  
+---
+title: Financial planning
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Financial planning
 
-## Used For
-
-- [[7743 Financial management]]  
-
+usedFor:
+- "[[7743 Financial management]]"
+---
+# Financial planning

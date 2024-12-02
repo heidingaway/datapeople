@@ -1,6 +1,11 @@
-# Veterinary pharmaceuticals  
+---
+title: Veterinary pharmaceuticals
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Veterinary pharmaceuticals
 
-## Used For
-
-- [[20962 Veterinary drugs]]  
-
+usedFor:
+- "[[20962 Veterinary drugs]]"
+---
+# Veterinary pharmaceuticals

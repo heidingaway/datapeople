@@ -1,10 +1,13 @@
-# Wildlife management  
+---
+title: Wildlife management
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Wildlife management
 
-## Narrower Term
-
-- [[6932 Environmental management]]  
-
-## Related Term
-
-- [[21754 Wildlife]]  
-
+narrowerTerm:
+- "[[6932 Environmental management]]"
+relatedTerm:
+- "[[21754 Wildlife]]"
+---
+# Wildlife management

@@ -1,6 +1,11 @@
-# Medecine nucleaire  
+---
+title: Medecine nucleaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Médecine nucléaire
 
-## French
-
-- [[14633 Nuclear medicine]]  
-
+french:
+- "[[14633 Nuclear medicine]]"
+---
+# Medecine nucleaire

@@ -1,6 +1,11 @@
-# Parasites  
+---
+title: Parasites
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Parasites
 
-## Narrower Term
-
-- [[15637 Pests]]  
-
+narrowerTerm:
+- "[[15637 Pests]]"
+---
+# Parasites

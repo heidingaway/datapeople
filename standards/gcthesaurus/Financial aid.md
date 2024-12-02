@@ -1,6 +1,11 @@
-# Financial aid  
+---
+title: Financial aid
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Financial aid
 
-## Used For
-
-- [[7717 Financial assistance]]  
-
+usedFor:
+- "[[7717 Financial assistance]]"
+---
+# Financial aid

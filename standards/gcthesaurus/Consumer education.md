@@ -1,6 +1,11 @@
-# Consumer education  
+---
+title: Consumer education
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Consumer education
 
-## Used For
-
-- [[4082 Consumer protection]]  
-
+usedFor:
+- "[[4082 Consumer protection]]"
+---
+# Consumer education

@@ -1,6 +1,11 @@
-# Procedure to prevent the formation of frost or ice  
+---
+title: Procedure to prevent the formation of frost or ice
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Procedure to prevent the formation of frost or ice and the accumulation of snow on surfaces of an aircraft. For the procedure by which frost, ice or snow is removed from surfaces of an aircraft, use "Aircraft de-icing".
 
-## Scope Note
-
-- [[737 Aircraft anti-icing]]  
-
+scopeNote:
+- "[[737 Aircraft anti-icing]]"
+---
+# Procedure to prevent the formation of frost or ice

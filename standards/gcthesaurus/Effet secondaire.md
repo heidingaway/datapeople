@@ -1,6 +1,11 @@
-# Effet secondaire  
+---
+title: Effet secondaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Effet secondaire
 
-## French
-
-- [[18722 Side effects]]  
-
+french:
+- "[[18722 Side effects]]"
+---
+# Effet secondaire

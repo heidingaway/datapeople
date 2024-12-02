@@ -1,12 +1,15 @@
-# Home renovations  
+---
+title: Home renovations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Home renovations
 
-## Related Term
-
-- [[10112 Household equipment]
-- [[12714 Maintenance]
-- [[10141 Housing]]  
-
-## Use
-
-- [[10028 Home improvements]]  
-
+relatedTerm:
+- "[[10112 Household equipment]]"
+- "[[12714 Maintenance]]"
+- "[[10141 Housing]]"
+use:
+- "[[10028 Home improvements]]"
+---
+# Home renovations

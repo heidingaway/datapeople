@@ -1,6 +1,11 @@
-# Oysters  
+---
+title: Oysters
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Oysters
 
-## Used For
-
-- [[13855 Molluscs]]  
-
+usedFor:
+- "[[13855 Molluscs]]"
+---
+# Oysters

@@ -1,6 +1,11 @@
-# Wheel chairs  
+---
+title: Wheel chairs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Wheel chairs
 
-## Used For
-
-- [[21707 Wheelchairs]]  
-
+usedFor:
+- "[[21707 Wheelchairs]]"
+---
+# Wheel chairs

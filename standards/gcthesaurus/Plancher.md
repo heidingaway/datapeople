@@ -1,6 +1,11 @@
-# Plancher  
+---
+title: Plancher
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Plancher
 
-## French
-
-- [[8040 Floors]]  
-
+french:
+- "[[8040 Floors]]"
+---
+# Plancher

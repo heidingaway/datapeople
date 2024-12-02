@@ -1,6 +1,11 @@
-# Commandement militaire  
+---
+title: Commandement militaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Commandement militaire
 
-## French
-
-- [[13624 Military command]]  
-
+french:
+- "[[13624 Military command]]"
+---
+# Commandement militaire

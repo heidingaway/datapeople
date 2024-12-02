@@ -1,6 +1,11 @@
-# Green chemicals  
+---
+title: Green chemicals
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Green chemicals
 
-## Used For
-
-- [[2094 Biochemicals]]  
-
+usedFor:
+- "[[2094 Biochemicals]]"
+---
+# Green chemicals

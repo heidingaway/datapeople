@@ -1,6 +1,11 @@
-# Cours deau  
+---
+title: Cours deau
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cours d'eau
 
-## French
-
-- [[21538 Watercourses]]  
-
+french:
+- "[[21538 Watercourses]]"
+---
+# Cours deau

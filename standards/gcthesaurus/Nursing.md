@@ -1,6 +1,11 @@
-# Nursing  
+---
+title: Nursing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Nursing
 
-## Used For
-
-- [[9595 Health care]]  
-
+usedFor:
+- "[[9595 Health care]]"
+---
+# Nursing

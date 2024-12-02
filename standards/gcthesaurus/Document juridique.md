@@ -1,6 +1,11 @@
-# Document juridique  
+---
+title: Document juridique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Document juridique
 
-## French
-
-- [[12260 Legal documents]]  
-
+french:
+- "[[12260 Legal documents]]"
+---
+# Document juridique

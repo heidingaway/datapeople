@@ -1,6 +1,11 @@
-# Motion pictures  
+---
+title: Motion pictures
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Motion pictures
 
-## Used For
-
-- [[3218 Cinema]]  
-
+usedFor:
+- "[[3218 Cinema]]"
+---
+# Motion pictures

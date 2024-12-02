@@ -1,6 +1,11 @@
-# Climatology  
+---
+title: Climatology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Climatology
 
-## Used For
-
-- [[3333 Climate]]  
-
+usedFor:
+- "[[3333 Climate]]"
+---
+# Climatology

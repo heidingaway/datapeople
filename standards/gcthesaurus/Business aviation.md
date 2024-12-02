@@ -1,6 +1,11 @@
-# Business aviation  
+---
+title: Business aviation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Business aviation
 
-## Used For
-
-- [[3256 Civil aviation]]  
-
+usedFor:
+- "[[3256 Civil aviation]]"
+---
+# Business aviation

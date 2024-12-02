@@ -1,6 +1,11 @@
-# Gestion des peches  
+---
+title: Gestion des peches
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gestion des pêches
 
-## French
-
-- [[7923 Fisheries management]]  
-
+french:
+- "[[7923 Fisheries management]]"
+---
+# Gestion des peches

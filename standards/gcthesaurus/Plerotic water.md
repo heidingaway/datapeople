@@ -1,6 +1,11 @@
-# Plerotic water  
+---
+title: Plerotic water
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Plerotic water
 
-## Used For
-
-- [[9396 Groundwater]]  
-
+usedFor:
+- "[[9396 Groundwater]]"
+---
+# Plerotic water

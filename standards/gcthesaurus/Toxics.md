@@ -1,6 +1,11 @@
-# Toxics  
+---
+title: Toxics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Toxics
 
-## Used For
-
-- [[20327 Toxic substances]]  
-
+usedFor:
+- "[[20327 Toxic substances]]"
+---
+# Toxics

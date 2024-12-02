@@ -1,6 +1,11 @@
-# Fourrure  
+---
+title: Fourrure
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fourrure
 
-## French
-
-- [[8672 Furs]]  
-
+french:
+- "[[8672 Furs]]"
+---
+# Fourrure

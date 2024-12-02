@@ -1,6 +1,11 @@
-# Droits linguistiques  
+---
+title: Droits linguistiques
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Droits linguistiques
 
-## French
-
-- [[12103 Language rights]]  
-
+french:
+- "[[12103 Language rights]]"
+---
+# Droits linguistiques

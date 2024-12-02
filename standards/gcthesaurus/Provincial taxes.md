@@ -1,6 +1,11 @@
-# Provincial taxes  
+---
+title: Provincial taxes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Provincial taxes
 
-## Narrower Term
-
-- [[19776 Taxes]]  
-
+narrowerTerm:
+- "[[19776 Taxes]]"
+---
+# Provincial taxes

@@ -1,6 +1,11 @@
-# Private enterprises  
+---
+title: Private enterprises
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Private enterprises
 
-## Used For
-
-- [[16416 Private sector]]  
-
+usedFor:
+- "[[16416 Private sector]]"
+---
+# Private enterprises

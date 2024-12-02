@@ -1,6 +1,11 @@
-# GIS  
+---
+title: GIS
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: GIS
 
-## Used For
-
-- [[8921 Geographic information systems]]  
-
+usedFor:
+- "[[8921 Geographic information systems]]"
+---
+# GIS

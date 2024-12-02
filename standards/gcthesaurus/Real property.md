@@ -1,6 +1,11 @@
-# Real property  
+---
+title: Real property
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Real property
 
-## Used For
-
-- [[17235 Real estate]]  
-
+usedFor:
+- "[[17235 Real estate]]"
+---
+# Real property

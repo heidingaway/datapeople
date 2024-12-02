@@ -1,6 +1,11 @@
-# Carcinoma  
+---
+title: Carcinoma
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Carcinoma
 
-## Used For
-
-- [[2716 Cancer]]  
-
+usedFor:
+- "[[2716 Cancer]]"
+---
+# Carcinoma

@@ -1,6 +1,11 @@
-# Condition de la femme  
+---
+title: Condition de la femme
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Condition de la femme
 
-## French
-
-- [[19371 Status of women]]  
-
+french:
+- "[[19371 Status of women]]"
+---
+# Condition de la femme

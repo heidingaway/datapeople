@@ -1,6 +1,11 @@
-# Bullying  
+---
+title: Bullying
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Bullying
 
-## Used For
-
-- [[11520 Intimidation]]  
-
+usedFor:
+- "[[11520 Intimidation]]"
+---
+# Bullying

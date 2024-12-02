@@ -1,6 +1,11 @@
-# Hydroelectric energy  
+---
+title: Hydroelectric energy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hydroelectric energy
 
-## Used For
-
-- [[10412 Hydropower]]  
-
+usedFor:
+- "[[10412 Hydropower]]"
+---
+# Hydroelectric energy

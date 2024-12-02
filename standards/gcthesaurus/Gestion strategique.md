@@ -1,6 +1,11 @@
-# Gestion strategique  
+---
+title: Gestion strategique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gestion stratégique
 
-## French
-
-- [[19426 Strategic management]]  
-
+french:
+- "[[19426 Strategic management]]"
+---
+# Gestion strategique

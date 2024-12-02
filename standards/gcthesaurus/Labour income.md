@@ -1,6 +1,11 @@
-# Labour income  
+---
+title: Labour income
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Labour income
 
-## Used For
-
-- [[18081 Salaries]]  
-
+usedFor:
+- "[[18081 Salaries]]"
+---
+# Labour income

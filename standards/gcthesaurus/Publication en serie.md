@@ -1,6 +1,11 @@
-# Publication en serie  
+---
+title: Publication en serie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Publication en série
 
-## French
-
-- [[15487 Periodicals]]  
-
+french:
+- "[[15487 Periodicals]]"
+---
+# Publication en serie

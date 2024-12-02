@@ -1,6 +1,11 @@
-# Nomination  
+---
+title: Nomination
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Nomination
 
-## French
-
-- [[1220 Appointments]]  
-
+french:
+- "[[1220 Appointments]]"
+---
+# Nomination

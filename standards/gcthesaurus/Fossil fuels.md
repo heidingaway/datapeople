@@ -1,6 +1,11 @@
-# Fossil fuels  
+---
+title: Fossil fuels
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fossil fuels
 
-## Used For
-
-- [[8572 Fuels]]  
-
+usedFor:
+- "[[8572 Fuels]]"
+---
+# Fossil fuels

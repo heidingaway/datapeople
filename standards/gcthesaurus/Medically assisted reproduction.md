@@ -1,6 +1,11 @@
-# Medically assisted reproduction  
+---
+title: Medically assisted reproduction
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Medically assisted reproduction
 
-## Used For
-
-- [[17604 Reproductive technology]]  
-
+usedFor:
+- "[[17604 Reproductive technology]]"
+---
+# Medically assisted reproduction

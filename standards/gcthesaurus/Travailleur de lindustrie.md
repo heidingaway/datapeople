@@ -1,6 +1,11 @@
-# Travailleur de lindustrie  
+---
+title: Travailleur de lindustrie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Travailleur de l'industrie
 
-## French
-
-- [[10846 Industrial workers]]  
-
+french:
+- "[[10846 Industrial workers]]"
+---
+# Travailleur de lindustrie

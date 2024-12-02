@@ -1,6 +1,11 @@
-# Commission denquete  
+---
+title: Commission denquete
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Commission d'enquête
 
-## French
-
-- [[3612 Commissions of inquiry]]  
-
+french:
+- "[[3612 Commissions of inquiry]]"
+---
+# Commission denquete

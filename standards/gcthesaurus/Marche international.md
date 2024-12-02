@@ -1,6 +1,11 @@
-# Marche international  
+---
+title: Marche international
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Marché international
 
-## French
-
-- [[11400 International markets]]  
-
+french:
+- "[[11400 International markets]]"
+---
+# Marche international

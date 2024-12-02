@@ -1,6 +1,11 @@
-# Biodegradability  
+---
+title: Biodegradability
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biodegradability
 
-## Used For
-
-- [[2112 Biodegradation]]  
-
+usedFor:
+- "[[2112 Biodegradation]]"
+---
+# Biodegradability

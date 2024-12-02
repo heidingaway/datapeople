@@ -1,6 +1,11 @@
-# Therapeutic cloning  
+---
+title: Therapeutic cloning
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Therapeutic cloning
 
-## Used For
-
-- [[3367 Cloning]]  
-
+usedFor:
+- "[[3367 Cloning]]"
+---
+# Therapeutic cloning

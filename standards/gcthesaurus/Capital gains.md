@@ -1,6 +1,11 @@
-# Capital gains  
+---
+title: Capital gains
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Capital gains
 
-## Used For
-
-- [[10556 Income]]  
-
+usedFor:
+- "[[10556 Income]]"
+---
+# Capital gains

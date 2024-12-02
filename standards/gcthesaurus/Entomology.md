@@ -1,10 +1,13 @@
-# Entomology  
+---
+title: Entomology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Entomology
 
-## Narrower Term
-
-- [[22135 Zoology]]  
-
-## Related Term
-
-- [[11150 Insects]]  
-
+narrowerTerm:
+- "[[22135 Zoology]]"
+relatedTerm:
+- "[[11150 Insects]]"
+---
+# Entomology

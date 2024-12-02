@@ -1,6 +1,11 @@
-# World War II  
+---
+title: World War II
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: World War II
 
-## Used For
-
-- [[22049 World War, 1939-1945]]  
-
+usedFor:
+- "[[22049 World War, 1939-1945]]"
+---
+# World War II

@@ -1,6 +1,11 @@
-# Processed food products  
+---
+title: Processed food products
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Processed food products
 
-## Used For
-
-- [[8147 Food processing]]  
-
+usedFor:
+- "[[8147 Food processing]]"
+---
+# Processed food products

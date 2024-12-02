@@ -1,6 +1,11 @@
-# Clams  
+---
+title: Clams
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Clams
 
-## Used For
-
-- [[13851 Molluscs]]  
-
+usedFor:
+- "[[13851 Molluscs]]"
+---
+# Clams

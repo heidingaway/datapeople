@@ -1,6 +1,11 @@
-# Refugie  
+---
+title: Refugie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Réfugié
 
-## French
-
-- [[17420 Refugees]]  
-
+french:
+- "[[17420 Refugees]]"
+---
+# Refugie

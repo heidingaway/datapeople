@@ -1,6 +1,11 @@
-# Espece protegee  
+---
+title: Espece protegee
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Espèce protégée
 
-## French
-
-- [[16663 Protected species]]  
-
+french:
+- "[[16663 Protected species]]"
+---
+# Espece protegee

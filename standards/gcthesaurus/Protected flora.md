@@ -1,6 +1,11 @@
-# Protected flora  
+---
+title: Protected flora
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Protected flora
 
-## Used For
-
-- [[16665 Protected species]]  
-
+usedFor:
+- "[[16665 Protected species]]"
+---
+# Protected flora

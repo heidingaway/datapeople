@@ -1,6 +1,11 @@
-# Preadolescents  
+---
+title: Preadolescents
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Preadolescents
 
-## Used For
-
-- [[259 Adolescents]]  
-
+usedFor:
+- "[[259 Adolescents]]"
+---
+# Preadolescents

@@ -1,6 +1,11 @@
-# Livestock farming  
+---
+title: Livestock farming
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Livestock farming
 
-## Used For
-
-- [[1017 Animal husbandry]]  
-
+usedFor:
+- "[[1017 Animal husbandry]]"
+---
+# Livestock farming

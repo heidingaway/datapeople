@@ -1,6 +1,11 @@
-# Politique fiscale  
+---
+title: Politique fiscale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Politique fiscale
 
-## French
-
-- [[7856 Fiscal policy]]  
-
+french:
+- "[[7856 Fiscal policy]]"
+---
+# Politique fiscale

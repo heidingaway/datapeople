@@ -1,10 +1,13 @@
-# Contravention  
+---
+title: Contravention
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Contravention
 
-## French
-
-- [[4143 Contravention]]  
-
-## Related Term
-
-- [[14883 Offences]]  
-
+french:
+- "[[4143 Contravention]]"
+relatedTerm:
+- "[[14883 Offences]]"
+---
+# Contravention

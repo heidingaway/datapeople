@@ -1,6 +1,11 @@
-# Indicateur economique  
+---
+title: Indicateur economique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Indicateur économique
 
-## French
-
-- [[5906 Economic indicators]]  
-
+french:
+- "[[5906 Economic indicators]]"
+---
+# Indicateur economique

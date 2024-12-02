@@ -1,6 +1,11 @@
-# Human cloning  
+---
+title: Human cloning
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Human cloning
 
-## Used For
-
-- [[3365 Cloning]]  
-
+usedFor:
+- "[[3365 Cloning]]"
+---
+# Human cloning

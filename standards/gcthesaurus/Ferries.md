@@ -1,12 +1,15 @@
-# Ferries  
+---
+title: Ferries
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ferries
 
-## Narrower Term
-
-- [[20941 Vessels]]  
-
-## Related Term
-
-- [[10154 Hovercraft]
-- [[17916 Road transport]
-- [[20239 Tolls]]  
-
+narrowerTerm:
+- "[[20941 Vessels]]"
+relatedTerm:
+- "[[10154 Hovercraft]]"
+- "[[17916 Road transport]]"
+- "[[20239 Tolls]]"
+---
+# Ferries

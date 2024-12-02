@@ -1,6 +1,11 @@
-# Weedicides  
+---
+title: Weedicides
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Weedicides
 
-## Used For
-
-- [[9861 Herbicides]]  
-
+usedFor:
+- "[[9861 Herbicides]]"
+---
+# Weedicides

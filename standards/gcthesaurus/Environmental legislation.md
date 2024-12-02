@@ -1,6 +1,11 @@
-# Environmental legislation  
+---
+title: Environmental legislation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Environmental legislation
 
-## Used For
-
-- [[6910 Environmental law]]  
-
+usedFor:
+- "[[6910 Environmental law]]"
+---
+# Environmental legislation

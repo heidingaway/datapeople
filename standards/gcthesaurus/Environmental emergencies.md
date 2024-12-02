@@ -1,11 +1,14 @@
-# Environmental emergencies  
+---
+title: Environmental emergencies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Environmental emergencies
 
-## Related Term
-
-- [[6811 Environmental accidents]
-- [[6788 Environment]]  
-
-## Use
-
-- [[5800 Ecological emergencies]]  
-
+relatedTerm:
+- "[[6811 Environmental accidents]]"
+- "[[6788 Environment]]"
+use:
+- "[[5800 Ecological emergencies]]"
+---
+# Environmental emergencies

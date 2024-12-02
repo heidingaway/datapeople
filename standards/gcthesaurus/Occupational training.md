@@ -1,6 +1,11 @@
-# Occupational training  
+---
+title: Occupational training
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Occupational training
 
-## Used For
-
-- [[21179 Vocational training]]  
-
+usedFor:
+- "[[21179 Vocational training]]"
+---
+# Occupational training

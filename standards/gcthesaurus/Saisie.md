@@ -1,6 +1,11 @@
-# Saisie  
+---
+title: Saisie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Saisie
 
-## French
-
-- [[18486 Seizure (of property)]]  
-
+french:
+- "[[18486 Seizure (of property)]]"
+---
+# Saisie

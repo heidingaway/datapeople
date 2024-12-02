@@ -1,6 +1,11 @@
-# Mint  
+---
+title: Mint
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mint
 
-## Used For
-
-- [[4731 Currency]]  
-
+usedFor:
+- "[[4731 Currency]]"
+---
+# Mint

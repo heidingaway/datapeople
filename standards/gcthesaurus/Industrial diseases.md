@@ -1,6 +1,11 @@
-# Industrial diseases  
+---
+title: Industrial diseases
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrial diseases
 
-## Used For
-
-- [[14752 Occupational diseases]]  
-
+usedFor:
+- "[[14752 Occupational diseases]]"
+---
+# Industrial diseases

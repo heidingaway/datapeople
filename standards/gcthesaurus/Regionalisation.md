@@ -1,6 +1,11 @@
-# Regionalisation  
+---
+title: Regionalisation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Regionalisation
 
-## Used For
-
-- [[4987 Decentralization]]  
-
+usedFor:
+- "[[4987 Decentralization]]"
+---
+# Regionalisation

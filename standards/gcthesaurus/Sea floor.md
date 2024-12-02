@@ -1,6 +1,11 @@
-# Sea floor  
+---
+title: Sea floor
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sea floor
 
-## Used For
-
-- [[14842 Ocean floor]]  
-
+usedFor:
+- "[[14842 Ocean floor]]"
+---
+# Sea floor

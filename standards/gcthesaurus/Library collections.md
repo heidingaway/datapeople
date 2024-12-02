@@ -1,6 +1,11 @@
-# Library collections  
+---
+title: Library collections
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Library collections
 
-## Used For
-
-- [[12381 Libraries]]  
-
+usedFor:
+- "[[12381 Libraries]]"
+---
+# Library collections

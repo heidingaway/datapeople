@@ -1,6 +1,11 @@
-# Life jackets  
+---
+title: Life jackets
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Life jackets
 
-## Used For
-
-- [[12995 Marine safety equipment]]  
-
+usedFor:
+- "[[12995 Marine safety equipment]]"
+---
+# Life jackets

@@ -1,6 +1,11 @@
-# Marihuana  
+---
+title: Marihuana
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Marihuana
 
-## Used For
-
-- [[12907 Marijuana]]  
-
+usedFor:
+- "[[12907 Marijuana]]"
+---
+# Marihuana

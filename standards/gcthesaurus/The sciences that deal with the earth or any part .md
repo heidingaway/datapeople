@@ -1,6 +1,7 @@
-# The sciences that deal with the earth or any part   
+---
+title: The sciences that deal with the earth or any part 
+alias: The sciences that deal with the earth or any part thereof: includes the disciplines of geology, geography, oceanography, and meteorology, among others.
 
-## Scope Note
-
-- [[5763 Earth sciences]]  
-
+scopeNote:
+- "[[5763 Earth sciences]]"
+---

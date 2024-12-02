@@ -1,10 +1,13 @@
-# Suspension  
+---
+title: Suspension
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Suspension
 
-## French
-
-- [[19629 Suspension]]  
-
-## Related Term
-
-- [[5408 Dismissal]]  
-
+french:
+- "[[19629 Suspension]]"
+relatedTerm:
+- "[[5408 Dismissal]]"
+---
+# Suspension

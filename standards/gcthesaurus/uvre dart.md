@@ -1,6 +1,11 @@
-# uvre dart  
+---
+title: uvre dart
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Œuvre d'art
 
-## French
-
-- [[1475 Art works]]  
-
+french:
+- "[[1475 Art works]]"
+---
+# uvre dart

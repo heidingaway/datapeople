@@ -1,6 +1,11 @@
-# Hearing impaired  
+---
+title: Hearing impaired
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hearing impaired
 
-## Used For
-
-- [[15586 Persons with disabilities]]  
-
+usedFor:
+- "[[15586 Persons with disabilities]]"
+---
+# Hearing impaired

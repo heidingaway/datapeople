@@ -1,12 +1,15 @@
-# Periodicals  
+---
+title: Periodicals
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Periodicals
 
-## Broader Term
-
-- [[14441 Newsletters]
-- [[14446 Newspapers]]  
-
-## Use
-
-- [[18561 Serials]
-- [[12698 Magazines]]  
-
+broaderTerm:
+- "[[14441 Newsletters]]"
+- "[[14446 Newspapers]]"
+use:
+- "[[18561 Serials]]"
+- "[[12698 Magazines]]"
+---
+# Periodicals

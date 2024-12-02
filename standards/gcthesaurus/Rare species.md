@@ -1,6 +1,11 @@
-# Rare species  
+---
+title: Rare species
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rare species
 
-## Used For
-
-- [[6610 Endangered species]]  
-
+usedFor:
+- "[[6610 Endangered species]]"
+---
+# Rare species

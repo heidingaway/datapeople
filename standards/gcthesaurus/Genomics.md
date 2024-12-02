@@ -1,6 +1,11 @@
-# Genomics  
+---
+title: Genomics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Genomics
 
-## Narrower Term
-
-- [[8869 Genetics]]  
-
+narrowerTerm:
+- "[[8869 Genetics]]"
+---
+# Genomics

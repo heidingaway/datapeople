@@ -1,7 +1,12 @@
-# Moratorium  
+---
+title: Moratorium
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Moratorium
 
-## Related Term
-
-- [[11087 Injunctions]
-- [[16588 Prohibition]]  
-
+relatedTerm:
+- "[[11087 Injunctions]]"
+- "[[16588 Prohibition]]"
+---
+# Moratorium

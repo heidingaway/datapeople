@@ -1,6 +1,11 @@
-# Etudes canadiennes  
+---
+title: Etudes canadiennes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Études canadiennes
 
-## French
-
-- [[2707 Canadian studies]]  
-
+french:
+- "[[2707 Canadian studies]]"
+---
+# Etudes canadiennes

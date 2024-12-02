@@ -1,6 +1,11 @@
-# Overthecounter medications  
+---
+title: Overthecounter medications
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Over-the-counter medications
 
-## Used For
-
-- [[14541 Nonprescription drugs]]  
-
+usedFor:
+- "[[14541 Nonprescription drugs]]"
+---
+# Overthecounter medications

@@ -1,6 +1,11 @@
-# Ordre du jour  
+---
+title: Ordre du jour
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ordre du jour
 
-## French
-
-- [[378 Agenda]]  
-
+french:
+- "[[378 Agenda]]"
+---
+# Ordre du jour

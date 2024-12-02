@@ -1,10 +1,13 @@
-# Fisheries policy  
+---
+title: Fisheries policy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fisheries policy
 
-## Narrower Term
-
-- [[15944 Policy]]  
-
-## Related Term
-
-- [[7912 Fisheries]]  
-
+narrowerTerm:
+- "[[15944 Policy]]"
+relatedTerm:
+- "[[7912 Fisheries]]"
+---
+# Fisheries policy

@@ -1,6 +1,11 @@
-# Catalogs  
+---
+title: Catalogs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Catalogs
 
-## Used For
-
-- [[2845 Catalogues]]  
-
+usedFor:
+- "[[2845 Catalogues]]"
+---
+# Catalogs

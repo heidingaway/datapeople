@@ -1,6 +1,11 @@
-# Sciences humaines  
+---
+title: Sciences humaines
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sciences humaines
 
-## French
-
-- [[10276 Humanities]]  
-
+french:
+- "[[10276 Humanities]]"
+---
+# Sciences humaines

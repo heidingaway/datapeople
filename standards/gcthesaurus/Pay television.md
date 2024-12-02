@@ -1,6 +1,11 @@
-# Pay television  
+---
+title: Pay television
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pay television
 
-## Used For
-
-- [[19986 Television]]  
-
+usedFor:
+- "[[19986 Television]]"
+---
+# Pay television

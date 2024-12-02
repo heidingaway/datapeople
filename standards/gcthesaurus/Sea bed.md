@@ -1,6 +1,11 @@
-# Sea bed  
+---
+title: Sea bed
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sea bed
 
-## Used For
-
-- [[14840 Ocean floor]]  
-
+usedFor:
+- "[[14840 Ocean floor]]"
+---
+# Sea bed

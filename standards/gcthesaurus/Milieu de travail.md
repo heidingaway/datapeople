@@ -1,6 +1,11 @@
-# Milieu de travail  
+---
+title: Milieu de travail
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Milieu de travail
 
-## French
-
-- [[21974 Workplace]]  
-
+french:
+- "[[21974 Workplace]]"
+---
+# Milieu de travail

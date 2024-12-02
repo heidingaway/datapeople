@@ -1,10 +1,13 @@
-# Food irradiation  
+---
+title: Food irradiation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Food irradiation
 
-## Narrower Term
-
-- [[11606 Irradiation]]  
-
-## Related Term
-
-- [[8152 Food processing]]  
-
+narrowerTerm:
+- "[[11606 Irradiation]]"
+relatedTerm:
+- "[[8152 Food processing]]"
+---
+# Food irradiation

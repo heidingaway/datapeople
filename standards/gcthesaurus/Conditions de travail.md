@@ -1,6 +1,11 @@
-# Conditions de travail  
+---
+title: Conditions de travail
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conditions de travail
 
-## French
-
-- [[21945 Working conditions]]  
-
+french:
+- "[[21945 Working conditions]]"
+---
+# Conditions de travail

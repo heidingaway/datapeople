@@ -1,6 +1,11 @@
-# Finances publiques  
+---
+title: Finances publiques
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Finances publiques
 
-## French
-
-- [[16812 Public finance]]  
-
+french:
+- "[[16812 Public finance]]"
+---
+# Finances publiques

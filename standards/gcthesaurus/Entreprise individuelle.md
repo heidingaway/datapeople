@@ -1,6 +1,11 @@
-# Entreprise individuelle  
+---
+title: Entreprise individuelle
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Entreprise individuelle
 
-## French
-
-- [[19125 Sole proprietorships]]  
-
+french:
+- "[[19125 Sole proprietorships]]"
+---
+# Entreprise individuelle

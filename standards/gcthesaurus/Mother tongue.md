@@ -1,10 +1,13 @@
-# Mother tongue  
+---
+title: Mother tongue
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mother tongue
 
-## Narrower Term
-
-- [[12129 Languages]]  
-
-## Related Term
-
-- [[9903 Heritage languages]]  
-
+narrowerTerm:
+- "[[12129 Languages]]"
+relatedTerm:
+- "[[9903 Heritage languages]]"
+---
+# Mother tongue

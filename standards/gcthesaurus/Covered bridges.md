@@ -1,6 +1,11 @@
-# Covered bridges  
+---
+title: Covered bridges
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Covered bridges
 
-## Used For
-
-- [[2405 Bridges]]  
-
+usedFor:
+- "[[2405 Bridges]]"
+---
+# Covered bridges

@@ -1,6 +1,11 @@
-# Culture populaire  
+---
+title: Culture populaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Culture populaire
 
-## French
-
-- [[16064 Popular culture]]  
-
+french:
+- "[[16064 Popular culture]]"
+---
+# Culture populaire

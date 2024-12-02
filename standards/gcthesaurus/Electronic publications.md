@@ -1,6 +1,11 @@
-# Electronic publications  
+---
+title: Electronic publications
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electronic publications
 
-## Used For
-
-- [[6300 Electronic documents]]  
-
+usedFor:
+- "[[6300 Electronic documents]]"
+---
+# Electronic publications

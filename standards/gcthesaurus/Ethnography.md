@@ -1,6 +1,11 @@
-# Ethnography  
+---
+title: Ethnography
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ethnography
 
-## Used For
-
-- [[7186 Ethnology]]  
-
+usedFor:
+- "[[7186 Ethnology]]"
+---
+# Ethnography

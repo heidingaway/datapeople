@@ -1,15 +1,16 @@
-# Crown corporations  
+---
+title: Crown corporations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Crown corporations
 
-## Narrower Term
-
-- [[4283 Corporations]]  
-
-## Related Term
-
-- [[7565 Federal institutions]
-- [[16884 Public sector]]  
-
-## Use
-
-- [[4560 Crown companies]]  
-
+narrowerTerm:
+- "[[4283 Corporations]]"
+relatedTerm:
+- "[[7565 Federal institutions]]"
+- "[[16884 Public sector]]"
+use:
+- "[[4560 Crown companies]]"
+---
+# Crown corporations

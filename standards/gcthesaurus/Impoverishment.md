@@ -1,6 +1,11 @@
-# Impoverishment  
+---
+title: Impoverishment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Impoverishment
 
-## Used For
-
-- [[16165 Poverty]]  
-
+usedFor:
+- "[[16165 Poverty]]"
+---
+# Impoverishment

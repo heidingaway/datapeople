@@ -1,6 +1,11 @@
-# Navigable waterways  
+---
+title: Navigable waterways
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Navigable waterways
 
-## Used For
-
-- [[21562 Waterways]]  
-
+usedFor:
+- "[[21562 Waterways]]"
+---
+# Navigable waterways

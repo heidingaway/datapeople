@@ -1,6 +1,11 @@
-# Developpement international  
+---
+title: Developpement international
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Développement international
 
-## French
-
-- [[11374 International development]]  
-
+french:
+- "[[11374 International development]]"
+---
+# Developpement international

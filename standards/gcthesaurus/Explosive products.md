@@ -1,6 +1,11 @@
-# Explosive products  
+---
+title: Explosive products
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Explosive products
 
-## Used For
-
-- [[7297 Explosives]]  
-
+usedFor:
+- "[[7297 Explosives]]"
+---
+# Explosive products

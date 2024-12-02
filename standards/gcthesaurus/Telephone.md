@@ -1,6 +1,11 @@
-# Telephone  
+---
+title: Telephone
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Téléphone
 
-## French
-
-- [[19975 Telephones]]  
-
+french:
+- "[[19975 Telephones]]"
+---
+# Telephone

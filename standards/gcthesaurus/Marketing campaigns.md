@@ -1,6 +1,11 @@
-# Marketing campaigns  
+---
+title: Marketing campaigns
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Marketing campaigns
 
-## Related Term
-
-- [[13096 Marketing]]  
-
+relatedTerm:
+- "[[13096 Marketing]]"
+---
+# Marketing campaigns

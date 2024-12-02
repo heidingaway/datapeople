@@ -1,6 +1,11 @@
-# Reduction or elimination of pollution at the sourc  
+---
+title: Reduction or elimination of pollution at the sourc
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Reduction or elimination of pollution at the source.
 
-## Scope Note
-
-- [[16054 Pollution prevention]]  
-
+scopeNote:
+- "[[16054 Pollution prevention]]"
+---
+# Reduction or elimination of pollution at the sourc

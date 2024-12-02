@@ -1,6 +1,11 @@
-# Toxic materials  
+---
+title: Toxic materials
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Toxic materials
 
-## Used For
-
-- [[20323 Toxic substances]]  
-
+usedFor:
+- "[[20323 Toxic substances]]"
+---
+# Toxic materials

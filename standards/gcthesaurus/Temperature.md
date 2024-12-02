@@ -1,6 +1,11 @@
-# Temperature  
+---
+title: Temperature
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Température
 
-## French
-
-- [[20002 Temperature]]  
-
+french:
+- "[[20002 Temperature]]"
+---
+# Temperature

@@ -1,10 +1,13 @@
-# Habitats  
+---
+title: Habitats
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Habitats
 
-## Related Term
-
-- [[6798 Environment]]  
-
-## Use
-
-- [[14297 Natural habitats]]  
-
+relatedTerm:
+- "[[6798 Environment]]"
+use:
+- "[[14297 Natural habitats]]"
+---
+# Habitats

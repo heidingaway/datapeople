@@ -1,14 +1,15 @@
-# Sculpture  
+---
+title: Sculpture
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sculpture
 
-## French
-
-- [[18297 Sculpture]]  
-
-## Narrower Term
-
-- [[21107 Visual arts]]  
-
-## Use
-
-- [[2830 Carving]]  
-
+french:
+- "[[18297 Sculpture]]"
+narrowerTerm:
+- "[[21107 Visual arts]]"
+use:
+- "[[2830 Carving]]"
+---
+# Sculpture

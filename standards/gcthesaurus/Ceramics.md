@@ -1,10 +1,13 @@
-# Ceramics  
+---
+title: Ceramics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ceramics
 
-## Narrower Term
-
-- [[5011 Decorative arts]]  
-
-## Related Term
-
-- [[16154 Pottery]]  
-
+narrowerTerm:
+- "[[5011 Decorative arts]]"
+relatedTerm:
+- "[[16154 Pottery]]"
+---
+# Ceramics

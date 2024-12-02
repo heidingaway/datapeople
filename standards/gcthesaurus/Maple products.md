@@ -1,10 +1,13 @@
-# Maple products  
+---
+title: Maple products
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Maple products
 
-## Narrower Term
-
-- [[447 Agri-food products]]  
-
-## Use
-
-- [[12880 Maple syrup]]  
-
+narrowerTerm:
+- "[[447 Agri-food products]]"
+use:
+- "[[12880 Maple syrup]]"
+---
+# Maple products

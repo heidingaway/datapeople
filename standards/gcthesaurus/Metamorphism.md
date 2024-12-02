@@ -1,6 +1,11 @@
-# Metamorphism  
+---
+title: Metamorphism
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Metamorphism
 
-## Related Term
-
-- [[13463 Metamorphic rocks]]  
-
+relatedTerm:
+- "[[13463 Metamorphic rocks]]"
+---
+# Metamorphism

@@ -1,6 +1,11 @@
-# Medically assisted procreation  
+---
+title: Medically assisted procreation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Medically assisted procreation
 
-## Used For
-
-- [[17603 Reproductive technology]]  
-
+usedFor:
+- "[[17603 Reproductive technology]]"
+---
+# Medically assisted procreation

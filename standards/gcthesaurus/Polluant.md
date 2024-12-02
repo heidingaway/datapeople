@@ -1,6 +1,11 @@
-# Polluant  
+---
+title: Polluant
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Polluant
 
-## French
-
-- [[16009 Pollutants]]  
-
+french:
+- "[[16009 Pollutants]]"
+---
+# Polluant

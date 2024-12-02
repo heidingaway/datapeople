@@ -1,6 +1,11 @@
-# Orientation scolaire  
+---
+title: Orientation scolaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Orientation scolaire
 
-## French
-
-- [[6086 Educational guidance]]  
-
+french:
+- "[[6086 Educational guidance]]"
+---
+# Orientation scolaire

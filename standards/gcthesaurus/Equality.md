@@ -1,6 +1,11 @@
-# Equality  
+---
+title: Equality
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Equality
 
-## Used For
-
-- [[7064 Equal opportunities]]  
-
+usedFor:
+- "[[7064 Equal opportunities]]"
+---
+# Equality

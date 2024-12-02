@@ -1,7 +1,12 @@
-# Biographies  
+---
+title: Biographies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biographies
 
-## Related Term
-
-- [[8817 Genealogy]
-- [[12517 Literature]]  
-
+relatedTerm:
+- "[[8817 Genealogy]]"
+- "[[12517 Literature]]"
+---
+# Biographies

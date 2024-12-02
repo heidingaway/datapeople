@@ -1,6 +1,11 @@
-# Gouvernement en ligne  
+---
+title: Gouvernement en ligne
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gouvernement en ligne
 
-## French
-
-- [[6319 Electronic government]]  
-
+french:
+- "[[6319 Electronic government]]"
+---
+# Gouvernement en ligne

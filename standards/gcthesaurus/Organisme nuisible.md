@@ -1,6 +1,11 @@
-# Organisme nuisible  
+---
+title: Organisme nuisible
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Organisme nuisible
 
-## French
-
-- [[15631 Pests]]  
-
+french:
+- "[[15631 Pests]]"
+---
+# Organisme nuisible

@@ -1,10 +1,13 @@
-# Skills transfer  
+---
+title: Skills transfer
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Skills transfer
 
-## Narrower Term
-
-- [[20548 Transfers]]  
-
-## Related Term
-
-- [[18782 Skills]]  
-
+narrowerTerm:
+- "[[20548 Transfers]]"
+relatedTerm:
+- "[[18782 Skills]]"
+---
+# Skills transfer

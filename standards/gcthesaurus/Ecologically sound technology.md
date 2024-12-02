@@ -1,6 +1,11 @@
-# Ecologically sound technology  
+---
+title: Ecologically sound technology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ecologically sound technology
 
-## Used For
-
-- [[7014 Environmental technology]]  
-
+usedFor:
+- "[[7014 Environmental technology]]"
+---
+# Ecologically sound technology

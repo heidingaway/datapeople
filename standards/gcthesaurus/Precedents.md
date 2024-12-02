@@ -1,6 +1,11 @@
-# Precedents  
+---
+title: Precedents
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Precedents
 
-## Used For
-
-- [[4378 Court decisions]]  
-
+usedFor:
+- "[[4378 Court decisions]]"
+---
+# Precedents

@@ -1,6 +1,11 @@
-# Medicament  
+---
+title: Medicament
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Médicament
 
-## French
-
-- [[5689 Drugs]]  
-
+french:
+- "[[5689 Drugs]]"
+---
+# Medicament

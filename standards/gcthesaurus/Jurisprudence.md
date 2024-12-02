@@ -1,6 +1,11 @@
-# Jurisprudence  
+---
+title: Jurisprudence
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Jurisprudence
 
-## Related Term
-
-- [[12162 Law]]  
-
+relatedTerm:
+- "[[12162 Law]]"
+---
+# Jurisprudence

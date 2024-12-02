@@ -1,6 +1,11 @@
-# Garbage  
+---
+title: Garbage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Garbage
 
-## Used For
-
-- [[21296 Waste]]  
-
+usedFor:
+- "[[21296 Waste]]"
+---
+# Garbage

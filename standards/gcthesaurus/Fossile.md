@@ -1,6 +1,11 @@
-# Fossile  
+---
+title: Fossile
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fossile
 
-## French
-
-- [[8447 Fossils]]  
-
+french:
+- "[[8447 Fossils]]"
+---
+# Fossile

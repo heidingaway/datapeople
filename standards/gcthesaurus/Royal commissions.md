@@ -1,6 +1,11 @@
-# Royal commissions  
+---
+title: Royal commissions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Royal commissions
 
-## Used For
-
-- [[3614 Commissions of inquiry]]  
-
+usedFor:
+- "[[3614 Commissions of inquiry]]"
+---
+# Royal commissions

@@ -1,6 +1,11 @@
-# Repertoire telephonique  
+---
+title: Repertoire telephonique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Répertoire téléphonique
 
-## French
-
-- [[19966 Telephone directories]]  
-
+french:
+- "[[19966 Telephone directories]]"
+---
+# Repertoire telephonique

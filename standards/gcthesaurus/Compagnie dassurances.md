@@ -1,6 +1,11 @@
-# Compagnie dassurances  
+---
+title: Compagnie dassurances
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Compagnie d'assurances
 
-## French
-
-- [[11205 Insurance companies]]  
-
+french:
+- "[[11205 Insurance companies]]"
+---
+# Compagnie dassurances

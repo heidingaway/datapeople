@@ -1,6 +1,11 @@
-# Hydroelectric power plants  
+---
+title: Hydroelectric power plants
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hydroelectric power plants
 
-## Used For
-
-- [[10338 Hydroelectric plants]]  
-
+usedFor:
+- "[[10338 Hydroelectric plants]]"
+---
+# Hydroelectric power plants

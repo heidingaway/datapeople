@@ -1,11 +1,14 @@
-# Solvents  
+---
+title: Solvents
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Solvents
 
-## Related Term
-
-- [[3066 Chemicals]]  
-
-## Use
-
-- [[5423 Dissolving agents]
-- [[19139 Solving agents]]  
-
+relatedTerm:
+- "[[3066 Chemicals]]"
+use:
+- "[[5423 Dissolving agents]]"
+- "[[19139 Solving agents]]"
+---
+# Solvents

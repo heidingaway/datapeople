@@ -1,11 +1,14 @@
-# Suicide  
+---
+title: Suicide
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Suicide
 
-## French
-
-- [[19525 Suicide]]  
-
-## Related Term
-
-- [[10059 Homicide]
-- [[4947 Death]]  
-
+french:
+- "[[19525 Suicide]]"
+relatedTerm:
+- "[[10059 Homicide]]"
+- "[[4947 Death]]"
+---
+# Suicide

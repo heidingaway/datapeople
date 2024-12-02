@@ -1,6 +1,11 @@
-# Delegation  
+---
+title: Delegation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Délégation
 
-## French
-
-- [[5063 Delegations]]  
-
+french:
+- "[[5063 Delegations]]"
+---
+# Delegation

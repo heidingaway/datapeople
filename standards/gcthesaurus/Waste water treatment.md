@@ -1,6 +1,11 @@
-# Waste water treatment  
+---
+title: Waste water treatment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Waste water treatment
 
-## Used For
-
-- [[21429 Water management]]  
-
+usedFor:
+- "[[21429 Water management]]"
+---
+# Waste water treatment

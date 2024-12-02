@@ -1,6 +1,11 @@
-# Privacy breach  
+---
+title: Privacy breach
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Privacy breach
 
-## Used For
-
-- [[16388 Privacy]]  
-
+usedFor:
+- "[[16388 Privacy]]"
+---
+# Privacy breach

@@ -1,6 +1,11 @@
-# Freshwater fauna  
+---
+title: Freshwater fauna
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Freshwater fauna
 
-## Used For
-
-- [[1307 Aquatic wildlife]]  
-
+usedFor:
+- "[[1307 Aquatic wildlife]]"
+---
+# Freshwater fauna

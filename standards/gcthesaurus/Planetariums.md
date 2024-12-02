@@ -1,7 +1,12 @@
-# Planetariums  
+---
+title: Planetariums
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Planetariums
 
-## Related Term
-
-- [[1633 Astronomy]
-- [[1627 Astronomical observatories]]  
-
+relatedTerm:
+- "[[1633 Astronomy]]"
+- "[[1627 Astronomical observatories]]"
+---
+# Planetariums

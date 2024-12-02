@@ -1,6 +1,11 @@
-# Subcontracting  
+---
+title: Subcontracting
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Subcontracting
 
-## Used For
-
-- [[4126 Contracting]]  
-
+usedFor:
+- "[[4126 Contracting]]"
+---
+# Subcontracting

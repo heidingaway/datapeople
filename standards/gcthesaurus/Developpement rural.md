@@ -1,6 +1,11 @@
-# Developpement rural  
+---
+title: Developpement rural
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Développement rural
 
-## French
-
-- [[17966 Rural development]]  
-
+french:
+- "[[17966 Rural development]]"
+---
+# Developpement rural

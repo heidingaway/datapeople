@@ -1,6 +1,11 @@
-# Insolvency  
+---
+title: Insolvency
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Insolvency
 
-## Used For
-
-- [[1854 Bankruptcies]]  
-
+usedFor:
+- "[[1854 Bankruptcies]]"
+---
+# Insolvency

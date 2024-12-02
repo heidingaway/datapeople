@@ -1,10 +1,13 @@
-# Crop rotation  
+---
+title: Crop rotation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Crop rotation
 
-## Related Term
-
-- [[4548 Crops]]  
-
-## Use
-
-- [[7341 Fallow]]  
-
+relatedTerm:
+- "[[4548 Crops]]"
+use:
+- "[[7341 Fallow]]"
+---
+# Crop rotation

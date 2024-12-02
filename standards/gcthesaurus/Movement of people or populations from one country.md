@@ -1,6 +1,11 @@
-# Movement of people or populations from one country  
+---
+title: Movement of people or populations from one country
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Movement of people or populations from one country or region to another, which involves a change in the usual place of residence. For the periodic movement of migratory animal species, use "Animal migrations".
 
-## Scope Note
-
-- [[13581 Migration]]  
-
+scopeNote:
+- "[[13581 Migration]]"
+---
+# Movement of people or populations from one country

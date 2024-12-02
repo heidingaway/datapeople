@@ -1,6 +1,11 @@
-# Train  
+---
+title: Train
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Train
 
-## French
-
-- [[20520 Trains]]  
-
+french:
+- "[[20520 Trains]]"
+---
+# Train

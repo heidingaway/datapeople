@@ -1,6 +1,11 @@
-# Intelligent transport systems  
+---
+title: Intelligent transport systems
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Intelligent transport systems
 
-## Used For
-
-- [[11257 Intelligent transportation systems]]  
-
+usedFor:
+- "[[11257 Intelligent transportation systems]]"
+---
+# Intelligent transport systems

@@ -1,6 +1,11 @@
-# Western provinces  
+---
+title: Western provinces
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Western provinces
 
-## Narrower Term
-
-- [[16689 Provinces]]  
-
+narrowerTerm:
+- "[[16689 Provinces]]"
+---
+# Western provinces

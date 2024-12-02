@@ -1,22 +1,21 @@
-# Dairy products  
+---
+title: Dairy products
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Dairy products
 
-## Broader Term
-
-- [[4419 Cream]
-- [[13694 Milk]
-- [[22099 Yogurt]
-- [[3015 Cheese]
-- [[2613 Butter]]  
-
-## Narrower Term
-
-- [[440 Agri-food products]]  
-
-## Related Term
-
-- [[4811 Dairy industry]]  
-
-## Use
-
-- [[13697 Milk products]]  
-
+broaderTerm:
+- "[[4419 Cream]]"
+- "[[13694 Milk]]"
+- "[[22099 Yogurt]]"
+- "[[3015 Cheese]]"
+- "[[2613 Butter]]"
+narrowerTerm:
+- "[[440 Agri-food products]]"
+relatedTerm:
+- "[[4811 Dairy industry]]"
+use:
+- "[[13697 Milk products]]"
+---
+# Dairy products

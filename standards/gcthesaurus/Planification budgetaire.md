@@ -1,6 +1,11 @@
-# Planification budgetaire  
+---
+title: Planification budgetaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Planification budgétaire
 
-## French
-
-- [[2440 Budget planning]]  
-
+french:
+- "[[2440 Budget planning]]"
+---
+# Planification budgetaire

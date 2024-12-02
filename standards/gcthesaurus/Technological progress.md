@@ -1,6 +1,11 @@
-# Technological progress  
+---
+title: Technological progress
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Technological progress
 
-## Used For
-
-- [[19848 Technological innovation]]  
-
+usedFor:
+- "[[19848 Technological innovation]]"
+---
+# Technological progress

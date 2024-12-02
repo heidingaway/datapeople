@@ -1,10 +1,13 @@
-# Lease  
+---
+title: Lease
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Lease
 
-## Narrower Term
-
-- [[4134 Contracts]]  
-
-## Related Term
-
-- [[12243 Leasing]]  
-
+narrowerTerm:
+- "[[4134 Contracts]]"
+relatedTerm:
+- "[[12243 Leasing]]"
+---
+# Lease

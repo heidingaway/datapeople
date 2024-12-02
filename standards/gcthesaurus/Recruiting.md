@@ -1,10 +1,13 @@
-# Recruiting  
+---
+title: Recruiting
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Recruiting
 
-## Narrower Term
-
-- [[15570 Personnel management]]  
-
-## Related Term
-
-- [[19270 Staffing]]  
-
+narrowerTerm:
+- "[[15570 Personnel management]]"
+relatedTerm:
+- "[[19270 Staffing]]"
+---
+# Recruiting

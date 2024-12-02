@@ -1,6 +1,11 @@
-# Nonprofit associations  
+---
+title: Nonprofit associations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Non-profit associations
 
-## Used For
-
-- [[14475 Non-profit organizations]]  
-
+usedFor:
+- "[[14475 Non-profit organizations]]"
+---
+# Nonprofit associations

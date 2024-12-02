@@ -1,6 +1,11 @@
-# Industrial efficiency  
+---
+title: Industrial efficiency
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrial efficiency
 
-## Used For
-
-- [[10802 Industrial productivity]]  
-
+usedFor:
+- "[[10802 Industrial productivity]]"
+---
+# Industrial efficiency

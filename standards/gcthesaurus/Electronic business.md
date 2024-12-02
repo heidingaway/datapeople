@@ -1,6 +1,11 @@
-# Electronic business  
+---
+title: Electronic business
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electronic business
 
-## Used For
-
-- [[6274 Electronic commerce]]  
-
+usedFor:
+- "[[6274 Electronic commerce]]"
+---
+# Electronic business

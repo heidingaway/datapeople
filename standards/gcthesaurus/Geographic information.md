@@ -1,6 +1,11 @@
-# Geographic information  
+---
+title: Geographic information
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geographic information
 
-## Used For
-
-- [[8903 Geographic data]]  
-
+usedFor:
+- "[[8903 Geographic data]]"
+---
+# Geographic information

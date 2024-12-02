@@ -1,6 +1,11 @@
-# Coronavirus infections  
+---
+title: Coronavirus infections
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Coronavirus infections
 
-## Used For
-
-- [[4244 Coronavirus diseases]]  
-
+usedFor:
+- "[[4244 Coronavirus diseases]]"
+---
+# Coronavirus infections

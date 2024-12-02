@@ -1,6 +1,11 @@
-# Forces armees  
+---
+title: Forces armees
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Forces armées
 
-## French
-
-- [[1409 Armed forces]]  
-
+french:
+- "[[1409 Armed forces]]"
+---
+# Forces armees

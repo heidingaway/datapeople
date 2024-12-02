@@ -1,11 +1,14 @@
-# Conglomerates  
+---
+title: Conglomerates
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conglomerates
 
-## Narrower Term
-
-- [[2587 Businesses]]  
-
-## Related Term
-
-- [[4286 Corporations]
-- [[13427 Mergers]]  
-
+narrowerTerm:
+- "[[2587 Businesses]]"
+relatedTerm:
+- "[[4286 Corporations]]"
+- "[[13427 Mergers]]"
+---
+# Conglomerates

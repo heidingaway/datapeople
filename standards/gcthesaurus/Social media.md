@@ -1,11 +1,14 @@
-# Social media  
+---
+title: Social media
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Social media
 
-## Related Term
-
-- [[13200 Media]
-- [[11058 Information technology]]  
-
-## Use
-
-- [[15339 Participatory media]]  
-
+relatedTerm:
+- "[[13200 Media]]"
+- "[[11058 Information technology]]"
+use:
+- "[[15339 Participatory media]]"
+---
+# Social media

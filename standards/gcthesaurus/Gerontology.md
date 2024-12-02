@@ -1,15 +1,16 @@
-# Gerontology  
+---
+title: Gerontology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gerontology
 
-## Broader Term
-
-- [[9045 Geriatrics]]  
-
-## Narrower Term
-
-- [[18981 Social sciences]]  
-
-## Related Term
-
-- [[18549 Seniors]
-- [[387 Aging]]  
-
+broaderTerm:
+- "[[9045 Geriatrics]]"
+narrowerTerm:
+- "[[18981 Social sciences]]"
+relatedTerm:
+- "[[18549 Seniors]]"
+- "[[387 Aging]]"
+---
+# Gerontology

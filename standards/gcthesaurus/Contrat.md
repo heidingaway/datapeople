@@ -1,6 +1,11 @@
-# Contrat  
+---
+title: Contrat
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Contrat
 
-## French
-
-- [[4132 Contracts]]  
-
+french:
+- "[[4132 Contracts]]"
+---
+# Contrat

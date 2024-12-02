@@ -1,10 +1,13 @@
-# Pronunciation  
+---
+title: Pronunciation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pronunciation
 
-## Related Term
-
-- [[15069 Oral communication]]  
-
-## Use
-
-- [[15717 Phonetics]]  
-
+relatedTerm:
+- "[[15069 Oral communication]]"
+use:
+- "[[15717 Phonetics]]"
+---
+# Pronunciation

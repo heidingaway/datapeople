@@ -1,6 +1,11 @@
-# Electric power  
+---
+title: Electric power
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electric power
 
-## Used For
-
-- [[6252 Electricity]]  
-
+usedFor:
+- "[[6252 Electricity]]"
+---
+# Electric power

@@ -1,6 +1,11 @@
-# Plante nuisible  
+---
+title: Plante nuisible
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Plante nuisible
 
-## French
-
-- [[21656 Weeds]]  
-
+french:
+- "[[21656 Weeds]]"
+---
+# Plante nuisible

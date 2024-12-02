@@ -1,6 +1,11 @@
-# Emprisonnement  
+---
+title: Emprisonnement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Emprisonnement
 
-## French
-
-- [[10545 Imprisonment]]  
-
+french:
+- "[[10545 Imprisonment]]"
+---
+# Emprisonnement

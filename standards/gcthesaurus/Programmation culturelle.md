@@ -1,6 +1,11 @@
-# Programmation culturelle  
+---
+title: Programmation culturelle
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Programmation culturelle
 
-## French
-
-- [[4698 Cultural programming]]  
-
+french:
+- "[[4698 Cultural programming]]"
+---
+# Programmation culturelle

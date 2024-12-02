@@ -1,15 +1,16 @@
-# Infant nutrition  
+---
+title: Infant nutrition
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Infant nutrition
 
-## Narrower Term
-
-- [[14704 Nutrition]]  
-
-## Related Term
-
-- [[10905 Infants]
-- [[15485 Perinatal care]]  
-
-## Use
-
-- [[2400 Breastfeeding]]  
-
+narrowerTerm:
+- "[[14704 Nutrition]]"
+relatedTerm:
+- "[[10905 Infants]]"
+- "[[15485 Perinatal care]]"
+use:
+- "[[2400 Breastfeeding]]"
+---
+# Infant nutrition

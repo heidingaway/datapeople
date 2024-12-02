@@ -1,6 +1,11 @@
-# Dualite linguistique  
+---
+title: Dualite linguistique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Dualité linguistique
 
-## French
-
-- [[12466 Linguistic duality]]  
-
+french:
+- "[[12466 Linguistic duality]]"
+---
+# Dualite linguistique

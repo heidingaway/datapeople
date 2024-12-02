@@ -1,6 +1,11 @@
-# National accounts  
+---
+title: National accounts
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: National accounts
 
-## Used For
-
-- [[16758 Public accounts]]  
-
+usedFor:
+- "[[16758 Public accounts]]"
+---
+# National accounts

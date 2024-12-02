@@ -1,6 +1,11 @@
-# Reciprocal agreements  
+---
+title: Reciprocal agreements
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Reciprocal agreements
 
-## Narrower Term
-
-- [[405 Agreements]]  
-
+narrowerTerm:
+- "[[405 Agreements]]"
+---
+# Reciprocal agreements

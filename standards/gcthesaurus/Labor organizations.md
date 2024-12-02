@@ -1,6 +1,11 @@
-# Labor organizations  
+---
+title: Labor organizations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Labor organizations
 
-## Used For
-
-- [[11963 Labour unions]]  
-
+usedFor:
+- "[[11963 Labour unions]]"
+---
+# Labor organizations

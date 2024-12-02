@@ -1,6 +1,11 @@
-# Burglaries  
+---
+title: Burglaries
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Burglaries
 
-## Used For
-
-- [[4441 Crime]]  
-
+usedFor:
+- "[[4441 Crime]]"
+---
+# Burglaries

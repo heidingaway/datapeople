@@ -1,6 +1,11 @@
-# Meteorological conditions  
+---
+title: Meteorological conditions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Meteorological conditions
 
-## Used For
-
-- [[21596 Weather]]  
-
+usedFor:
+- "[[21596 Weather]]"
+---
+# Meteorological conditions

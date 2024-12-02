@@ -1,6 +1,11 @@
-# Prevision  
+---
+title: Prevision
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prévision
 
-## French
-
-- [[8205 Forecasting]]  
-
+french:
+- "[[8205 Forecasting]]"
+---
+# Prevision

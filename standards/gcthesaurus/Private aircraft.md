@@ -1,6 +1,11 @@
-# Private aircraft  
+---
+title: Private aircraft
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Private aircraft
 
-## Used For
-
-- [[3287 Civilian aircraft]]  
-
+usedFor:
+- "[[3287 Civilian aircraft]]"
+---
+# Private aircraft

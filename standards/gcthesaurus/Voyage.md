@@ -1,6 +1,11 @@
-# Voyage  
+---
+title: Voyage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Voyage
 
-## French
-
-- [[20661 Travel]]  
-
+french:
+- "[[20661 Travel]]"
+---
+# Voyage

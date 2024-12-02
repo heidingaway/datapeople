@@ -1,6 +1,11 @@
-# Entrevue  
+---
+title: Entrevue
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Entrevue
 
-## French
-
-- [[11514 Interviews]]  
-
+french:
+- "[[11514 Interviews]]"
+---
+# Entrevue

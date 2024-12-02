@@ -1,6 +1,11 @@
-# Rayonnement ultraviolet  
+---
+title: Rayonnement ultraviolet
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rayonnement ultraviolet
 
-## French
-
-- [[20758 Ultraviolet radiation]]  
-
+french:
+- "[[20758 Ultraviolet radiation]]"
+---
+# Rayonnement ultraviolet

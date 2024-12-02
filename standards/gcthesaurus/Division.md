@@ -1,6 +1,11 @@
-# Division  
+---
+title: Division
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Division
 
-## French
-
-- [[5469 Divisions]]  
-
+french:
+- "[[5469 Divisions]]"
+---
+# Division

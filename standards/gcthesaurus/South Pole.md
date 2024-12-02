@@ -1,6 +1,11 @@
-# South Pole  
+---
+title: South Pole
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: South Pole
 
-## Used For
-
-- [[1143 Antarctic]]  
-
+usedFor:
+- "[[1143 Antarctic]]"
+---
+# South Pole

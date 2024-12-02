@@ -1,6 +1,11 @@
-# Offenses  
+---
+title: Offenses
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Offenses
 
-## Used For
-
-- [[14881 Offences]]  
-
+usedFor:
+- "[[14881 Offences]]"
+---
+# Offenses

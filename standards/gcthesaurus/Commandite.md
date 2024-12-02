@@ -1,6 +1,11 @@
-# Commandite  
+---
+title: Commandite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Commandite
 
-## French
-
-- [[19231 Sponsorship]]  
-
+french:
+- "[[19231 Sponsorship]]"
+---
+# Commandite

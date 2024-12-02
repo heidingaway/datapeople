@@ -1,6 +1,11 @@
-# Historic plaques  
+---
+title: Historic plaques
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Historic plaques
 
-## Used For
-
-- [[9948 Historic sites]]  
-
+usedFor:
+- "[[9948 Historic sites]]"
+---
+# Historic plaques

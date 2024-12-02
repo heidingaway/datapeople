@@ -1,6 +1,11 @@
-# Industrial performance  
+---
+title: Industrial performance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrial performance
 
-## Used For
-
-- [[10803 Industrial productivity]]  
-
+usedFor:
+- "[[10803 Industrial productivity]]"
+---
+# Industrial performance

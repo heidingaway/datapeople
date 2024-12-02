@@ -1,7 +1,12 @@
-# Decision making  
+---
+title: Decision making
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Decision making
 
-## Related Term
-
-- [[15843 Planning]
-- [[4998 Decisions]]  
-
+relatedTerm:
+- "[[15843 Planning]]"
+- "[[4998 Decisions]]"
+---
+# Decision making

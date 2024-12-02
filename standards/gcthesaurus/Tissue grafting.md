@@ -1,6 +1,11 @@
-# Tissue grafting  
+---
+title: Tissue grafting
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tissue grafting
 
-## Used For
-
-- [[20587 Transplantation (Medicine)]]  
-
+usedFor:
+- "[[20587 Transplantation (Medicine)]]"
+---
+# Tissue grafting

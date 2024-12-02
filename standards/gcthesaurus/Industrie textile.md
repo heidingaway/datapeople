@@ -1,6 +1,11 @@
-# Industrie textile  
+---
+title: Industrie textile
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrie textile
 
-## French
-
-- [[20125 Textile industry]]  
-
+french:
+- "[[20125 Textile industry]]"
+---
+# Industrie textile

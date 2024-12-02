@@ -1,6 +1,11 @@
-# Controle  
+---
+title: Controle
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Contrôle
 
-## French
-
-- [[4146 Control]]  
-
+french:
+- "[[4146 Control]]"
+---
+# Controle

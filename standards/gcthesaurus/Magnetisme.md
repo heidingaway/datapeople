@@ -1,6 +1,11 @@
-# Magnetisme  
+---
+title: Magnetisme
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Magnétisme
 
-## French
-
-- [[12703 Magnetism]]  
-
+french:
+- "[[12703 Magnetism]]"
+---
+# Magnetisme

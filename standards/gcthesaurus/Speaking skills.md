@@ -1,6 +1,11 @@
-# Speaking skills  
+---
+title: Speaking skills
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Speaking skills
 
-## Used For
-
-- [[15068 Oral communication]]  
-
+usedFor:
+- "[[15068 Oral communication]]"
+---
+# Speaking skills

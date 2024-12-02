@@ -1,6 +1,11 @@
-# Ethical issues  
+---
+title: Ethical issues
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ethical issues
 
-## Used For
-
-- [[7148 Ethics]]  
-
+usedFor:
+- "[[7148 Ethics]]"
+---
+# Ethical issues

@@ -1,6 +1,11 @@
-# Nutrition labeling  
+---
+title: Nutrition labeling
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Nutrition labeling
 
-## Used For
-
-- [[8126 Food labelling]]  
-
+usedFor:
+- "[[8126 Food labelling]]"
+---
+# Nutrition labeling

@@ -1,6 +1,11 @@
-# Employment act  
+---
+title: Employment act
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Employment act
 
-## Related Term
-
-- [[6494 Employment]]  
-
+relatedTerm:
+- "[[6494 Employment]]"
+---
+# Employment act

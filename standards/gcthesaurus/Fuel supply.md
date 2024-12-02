@@ -1,10 +1,13 @@
-# Fuel supply  
+---
+title: Fuel supply
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fuel supply
 
-## Narrower Term
-
-- [[6692 Energy supply]]  
-
-## Related Term
-
-- [[8584 Fuels]]  
-
+narrowerTerm:
+- "[[6692 Energy supply]]"
+relatedTerm:
+- "[[8584 Fuels]]"
+---
+# Fuel supply

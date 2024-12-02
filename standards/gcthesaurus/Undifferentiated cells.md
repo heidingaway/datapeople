@@ -1,6 +1,11 @@
-# Undifferentiated cells  
+---
+title: Undifferentiated cells
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Undifferentiated cells
 
-## Used For
-
-- [[19388 Stem cells]]  
-
+usedFor:
+- "[[19388 Stem cells]]"
+---
+# Undifferentiated cells

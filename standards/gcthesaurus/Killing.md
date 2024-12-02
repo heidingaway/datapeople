@@ -1,6 +1,11 @@
-# Killing  
+---
+title: Killing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Killing
 
-## Used For
-
-- [[10052 Homicide]]  
-
+usedFor:
+- "[[10052 Homicide]]"
+---
+# Killing

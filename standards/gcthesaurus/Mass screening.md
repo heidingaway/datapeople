@@ -1,6 +1,11 @@
-# Mass screening  
+---
+title: Mass screening
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mass screening
 
-## Used For
-
-- [[18291 Screening (Medicine)]]  
-
+usedFor:
+- "[[18291 Screening (Medicine)]]"
+---
+# Mass screening

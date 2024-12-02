@@ -1,6 +1,11 @@
-# Webbased learning  
+---
+title: Webbased learning
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Web-based learning
 
-## Used For
-
-- [[5430 Distance education]]  
-
+usedFor:
+- "[[5430 Distance education]]"
+---
+# Webbased learning

@@ -1,6 +1,11 @@
-# Hiring  
+---
+title: Hiring
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hiring
 
-## Used For
-
-- [[19265 Staffing]]  
-
+usedFor:
+- "[[19265 Staffing]]"
+---
+# Hiring

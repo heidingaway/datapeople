@@ -1,7 +1,12 @@
-# Bioassay  
+---
+title: Bioassay
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Bioassay
 
-## Related Term
-
-- [[18267 Scientific research]
-- [[1949 Benchmarks]]  
-
+relatedTerm:
+- "[[18267 Scientific research]]"
+- "[[1949 Benchmarks]]"
+---
+# Bioassay

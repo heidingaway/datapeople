@@ -1,6 +1,11 @@
-# Landmine clearance  
+---
+title: Landmine clearance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Landmine clearance
 
-## Used For
-
-- [[5083 Demining]]  
-
+usedFor:
+- "[[5083 Demining]]"
+---
+# Landmine clearance

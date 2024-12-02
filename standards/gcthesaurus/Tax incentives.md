@@ -1,11 +1,14 @@
-# Tax incentives  
+---
+title: Tax incentives
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tax incentives
 
-## Narrower Term
-
-- [[10552 Incentives]]  
-
-## Related Term
-
-- [[19783 Taxes]
-- [[19718 Tax benefits]]  
-
+narrowerTerm:
+- "[[10552 Incentives]]"
+relatedTerm:
+- "[[19783 Taxes]]"
+- "[[19718 Tax benefits]]"
+---
+# Tax incentives

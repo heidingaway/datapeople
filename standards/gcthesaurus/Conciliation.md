@@ -1,13 +1,16 @@
-# Conciliation  
+---
+title: Conciliation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conciliation
 
-## French
-
-- [[3898 Conciliation]]  
-
-## Related Term
-
-- [[14411 Negotiations]
-- [[13213 Mediation]
-- [[3929 Conflict resolution]
-- [[1326 Arbitration]]  
-
+french:
+- "[[3898 Conciliation]]"
+relatedTerm:
+- "[[14411 Negotiations]]"
+- "[[13213 Mediation]]"
+- "[[3929 Conflict resolution]]"
+- "[[1326 Arbitration]]"
+---
+# Conciliation

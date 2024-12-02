@@ -1,6 +1,11 @@
-# Geologie des depots meubles  
+---
+title: Geologie des depots meubles
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Géologie des dépôts meubles
 
-## French
-
-- [[19583 Surficial geology]]  
-
+french:
+- "[[19583 Surficial geology]]"
+---
+# Geologie des depots meubles

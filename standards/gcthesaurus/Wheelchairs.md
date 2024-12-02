@@ -1,14 +1,15 @@
-# Wheelchairs  
+---
+title: Wheelchairs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Wheelchairs
 
-## Narrower Term
-
-- [[1596 Assistive technologies]]  
-
-## Related Term
-
-- [[15755 Physical disabilities]]  
-
-## Use
-
-- [[21700 Wheel chairs]]  
-
+narrowerTerm:
+- "[[1596 Assistive technologies]]"
+relatedTerm:
+- "[[15755 Physical disabilities]]"
+use:
+- "[[21700 Wheel chairs]]"
+---
+# Wheelchairs

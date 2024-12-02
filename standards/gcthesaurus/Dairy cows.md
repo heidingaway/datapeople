@@ -1,6 +1,11 @@
-# Dairy cows  
+---
+title: Dairy cows
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Dairy cows
 
-## Used For
-
-- [[4800 Dairy cattle]]  
-
+usedFor:
+- "[[4800 Dairy cattle]]"
+---
+# Dairy cows

@@ -1,6 +1,11 @@
-# Minority language groups  
+---
+title: Minority language groups
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Minority language groups
 
-## Used For
-
-- [[12088 Language minorities]]  
-
+usedFor:
+- "[[12088 Language minorities]]"
+---
+# Minority language groups

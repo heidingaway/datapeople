@@ -1,6 +1,11 @@
-# Warehousing  
+---
+title: Warehousing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Warehousing
 
-## Used For
-
-- [[19410 Storage]]  
-
+usedFor:
+- "[[19410 Storage]]"
+---
+# Warehousing

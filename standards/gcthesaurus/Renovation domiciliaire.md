@@ -1,6 +1,11 @@
-# Renovation domiciliaire  
+---
+title: Renovation domiciliaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rénovation domiciliaire
 
-## French
-
-- [[10030 Home renovations]]  
-
+french:
+- "[[10030 Home renovations]]"
+---
+# Renovation domiciliaire

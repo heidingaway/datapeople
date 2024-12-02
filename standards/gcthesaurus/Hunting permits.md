@@ -1,10 +1,13 @@
-# Hunting permits  
+---
+title: Hunting permits
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hunting permits
 
-## Narrower Term
-
-- [[15506 Permits]]  
-
-## Related Term
-
-- [[10310 Hunting (Sport)]]  
-
+narrowerTerm:
+- "[[15506 Permits]]"
+relatedTerm:
+- "[[10310 Hunting (Sport)]]"
+---
+# Hunting permits

@@ -1,6 +1,11 @@
-# Jour ferie  
+---
+title: Jour ferie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Jour férié
 
-## French
-
-- [[10003 Holidays]]  
-
+french:
+- "[[10003 Holidays]]"
+---
+# Jour ferie

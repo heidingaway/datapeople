@@ -1,6 +1,11 @@
-# English  
+---
+title: English
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: English
 
-## Used For
-
-- [[6736 English language]]  
-
+usedFor:
+- "[[6736 English language]]"
+---
+# English

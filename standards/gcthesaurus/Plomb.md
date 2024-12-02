@@ -1,6 +1,11 @@
-# Plomb  
+---
+title: Plomb
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Plomb
 
-## French
-
-- [[12178 Lead]]  
-
+french:
+- "[[12178 Lead]]"
+---
+# Plomb

@@ -1,6 +1,11 @@
-# Casinos  
+---
+title: Casinos
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Casinos
 
-## Related Term
-
-- [[8690 Gambling]]  
-
+relatedTerm:
+- "[[8690 Gambling]]"
+---
+# Casinos

@@ -1,6 +1,11 @@
-# Industrie des soins de sante  
+---
+title: Industrie des soins de sante
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrie des soins de santé
 
-## French
-
-- [[9620 Health care industry]]  
-
+french:
+- "[[9620 Health care industry]]"
+---
+# Industrie des soins de sante

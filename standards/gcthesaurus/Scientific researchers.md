@@ -1,6 +1,11 @@
-# Scientific researchers  
+---
+title: Scientific researchers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Scientific researchers
 
-## Used For
-
-- [[18276 Scientists]]  
-
+usedFor:
+- "[[18276 Scientists]]"
+---
+# Scientific researchers

@@ -1,6 +1,11 @@
-# Media social  
+---
+title: Media social
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Média social
 
-## French
-
-- [[18935 Social media]]  
-
+french:
+- "[[18935 Social media]]"
+---
+# Media social

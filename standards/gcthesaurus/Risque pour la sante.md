@@ -1,6 +1,11 @@
-# Risque pour la sante  
+---
+title: Risque pour la sante
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Risque pour la santé
 
-## French
-
-- [[9678 Health hazards]]  
-
+french:
+- "[[9678 Health hazards]]"
+---
+# Risque pour la sante

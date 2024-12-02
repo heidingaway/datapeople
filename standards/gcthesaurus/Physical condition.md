@@ -1,6 +1,11 @@
-# Physical condition  
+---
+title: Physical condition
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Physical condition
 
-## Used For
-
-- [[8010 Fitness]]  
-
+usedFor:
+- "[[8010 Fitness]]"
+---
+# Physical condition

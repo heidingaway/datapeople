@@ -1,6 +1,11 @@
-# Bookkeeping  
+---
+title: Bookkeeping
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Bookkeeping
 
-## Used For
-
-- [[139 Accounting]]  
-
+usedFor:
+- "[[139 Accounting]]"
+---
+# Bookkeeping

@@ -1,6 +1,11 @@
-# Toxic products  
+---
+title: Toxic products
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Toxic products
 
-## Used For
-
-- [[20324 Toxic substances]]  
-
+usedFor:
+- "[[20324 Toxic substances]]"
+---
+# Toxic products

@@ -1,6 +1,11 @@
-# Humanitarian relief  
+---
+title: Humanitarian relief
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Humanitarian relief
 
-## Used For
-
-- [[10255 Humanitarian aid]]  
-
+usedFor:
+- "[[10255 Humanitarian aid]]"
+---
+# Humanitarian relief

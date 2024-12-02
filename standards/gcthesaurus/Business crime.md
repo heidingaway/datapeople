@@ -1,6 +1,11 @@
-# Business crime  
+---
+title: Business crime
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Business crime
 
-## Used For
-
-- [[5859 Economic crime]]  
-
+usedFor:
+- "[[5859 Economic crime]]"
+---
+# Business crime

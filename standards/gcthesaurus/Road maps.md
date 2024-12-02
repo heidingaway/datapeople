@@ -1,10 +1,13 @@
-# Road maps  
+---
+title: Road maps
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Road maps
 
-## Narrower Term
-
-- [[12895 Maps]]  
-
-## Related Term
-
-- [[17892 Road networks]]  
-
+narrowerTerm:
+- "[[12895 Maps]]"
+relatedTerm:
+- "[[17892 Road networks]]"
+---
+# Road maps

@@ -1,6 +1,11 @@
-# Installations militaires  
+---
+title: Installations militaires
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Installations militaires
 
-## French
-
-- [[13646 Military installations]]  
-
+french:
+- "[[13646 Military installations]]"
+---
+# Installations militaires

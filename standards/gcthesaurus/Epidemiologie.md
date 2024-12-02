@@ -1,6 +1,11 @@
-# Epidemiologie  
+---
+title: Epidemiologie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Épidémiologie
 
-## French
-
-- [[7056 Epidemiology]]  
-
+french:
+- "[[7056 Epidemiology]]"
+---
+# Epidemiologie

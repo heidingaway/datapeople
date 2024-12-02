@@ -1,6 +1,11 @@
-# Heating systems  
+---
+title: Heating systems
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Heating systems
 
-## Used For
-
-- [[9817 Heating]]  
-
+usedFor:
+- "[[9817 Heating]]"
+---
+# Heating systems

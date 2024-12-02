@@ -1,6 +1,11 @@
-# Amende  
-
-## French
-
-- [[7781 Fines]]  
-
+---
+title: Amende
+created: 2024-12-01
+modified: 2024-12-01
+tags:
+  - TBSMetadata
+alias: Amende
+french:
+  - "[[7781 Fines]]"
+---
+# Amende

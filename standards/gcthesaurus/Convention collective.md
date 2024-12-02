@@ -1,6 +1,11 @@
-# Convention collective  
+---
+title: Convention collective
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Convention collective
 
-## French
-
-- [[3501 Collective agreements]]  
-
+french:
+- "[[3501 Collective agreements]]"
+---
+# Convention collective

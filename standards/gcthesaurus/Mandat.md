@@ -1,6 +1,11 @@
-# Mandat  
+---
+title: Mandat
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mandat
 
-## French
-
-- [[12803 Mandate]]  
-
+french:
+- "[[12803 Mandate]]"
+---
+# Mandat

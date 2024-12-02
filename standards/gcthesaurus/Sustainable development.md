@@ -1,19 +1,20 @@
-# Sustainable development  
+---
+title: Sustainable development
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sustainable development
 
-## Narrower Term
-
-- [[5872 Economic development]]  
-
-## Related Term
-
-- [[6978 Environmental protection]
-- [[17545 Renewable energy]
-- [[19397 Stewardship]
-- [[6937 Environmental management]]  
-
-## Use
-
-- [[7039 Environmentally sound development]
-- [[5795 Ecodevelopment]
-- [[5807 Ecologically sound development]]  
-
+narrowerTerm:
+- "[[5872 Economic development]]"
+relatedTerm:
+- "[[6978 Environmental protection]]"
+- "[[17545 Renewable energy]]"
+- "[[19397 Stewardship]]"
+- "[[6937 Environmental management]]"
+use:
+- "[[7039 Environmentally sound development]]"
+- "[[5795 Ecodevelopment]]"
+- "[[5807 Ecologically sound development]]"
+---
+# Sustainable development

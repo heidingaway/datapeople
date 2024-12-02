@@ -1,6 +1,11 @@
-# Indicateur  
+---
+title: Indicateur
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Indicateur
 
-## French
-
-- [[10618 Indicators]]  
-
+french:
+- "[[10618 Indicators]]"
+---
+# Indicateur

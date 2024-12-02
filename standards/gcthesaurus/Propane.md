@@ -1,16 +1,17 @@
-# Propane  
+---
+title: Propane
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Propane
 
-## French
-
-- [[16608 Propane]]  
-
-## Narrower Term
-
-- [[8738 Gases]
-- [[8582 Fuels]]  
-
-## Use
-
-- [[5275 Dimethylmethane]
-- [[16614 Propane gas]]  
-
+french:
+- "[[16608 Propane]]"
+narrowerTerm:
+- "[[8738 Gases]]"
+- "[[8582 Fuels]]"
+use:
+- "[[5275 Dimethylmethane]]"
+- "[[16614 Propane gas]]"
+---
+# Propane

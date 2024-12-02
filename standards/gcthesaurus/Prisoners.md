@@ -1,6 +1,11 @@
-# Prisoners  
+---
+title: Prisoners
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prisoners
 
-## Used For
-
-- [[11104 Inmates]]  
-
+usedFor:
+- "[[11104 Inmates]]"
+---
+# Prisoners

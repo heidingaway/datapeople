@@ -1,6 +1,11 @@
-# Motor vehicles using electric power  
+---
+title: Motor vehicles using electric power
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Motor vehicles using electric power.
 
-## Scope Note
-
-- [[6227 Electric vehicles]]  
-
+scopeNote:
+- "[[6227 Electric vehicles]]"
+---
+# Motor vehicles using electric power

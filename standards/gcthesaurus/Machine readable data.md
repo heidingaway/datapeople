@@ -1,15 +1,18 @@
-# Machine readable data  
+---
+title: Machine readable data
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Machine readable data
 
-## Related Term
-
-- [[4905 Databases]
-- [[4861 Data dictionaries]
-- [[6290 Electronic data interchange]
-- [[4887 Data protection]
-- [[4883 Data processing]
-- [[20527 Transborder data flow]]  
-
-## Use
-
-- [[6281 Electronic data]]  
-
+relatedTerm:
+- "[[4905 Databases]]"
+- "[[4861 Data dictionaries]]"
+- "[[6290 Electronic data interchange]]"
+- "[[4887 Data protection]]"
+- "[[4883 Data processing]]"
+- "[[20527 Transborder data flow]]"
+use:
+- "[[6281 Electronic data]]"
+---
+# Machine readable data

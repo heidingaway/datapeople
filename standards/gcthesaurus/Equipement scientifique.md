@@ -1,6 +1,11 @@
-# Equipement scientifique  
+---
+title: Equipement scientifique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Équipement scientifique
 
-## French
-
-- [[18252 Scientific equipment]]  
-
+french:
+- "[[18252 Scientific equipment]]"
+---
+# Equipement scientifique

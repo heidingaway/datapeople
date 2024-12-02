@@ -1,6 +1,11 @@
-# Enseignement des langues  
+---
+title: Enseignement des langues
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Enseignement des langues
 
-## French
-
-- [[12062 Language education]]  
-
+french:
+- "[[12062 Language education]]"
+---
+# Enseignement des langues

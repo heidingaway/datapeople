@@ -1,10 +1,13 @@
-# National heritage  
+---
+title: National heritage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: National heritage
 
-## Narrower Term
-
-- [[9878 Heritage]]  
-
-## Related Term
-
-- [[14228 National parks]]  
-
+narrowerTerm:
+- "[[9878 Heritage]]"
+relatedTerm:
+- "[[14228 National parks]]"
+---
+# National heritage

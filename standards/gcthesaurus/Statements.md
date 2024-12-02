@@ -1,11 +1,14 @@
-# Statements  
+---
+title: Statements
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Statements
 
-## Related Term
-
-- [[2411 Briefing papers]]  
-
-## Use
-
-- [[218 Addresses]
-- [[19225 Speeches]]  
-
+relatedTerm:
+- "[[2411 Briefing papers]]"
+use:
+- "[[218 Addresses]]"
+- "[[19225 Speeches]]"
+---
+# Statements

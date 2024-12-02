@@ -1,7 +1,12 @@
-# Rail carriers  
+---
+title: Rail carriers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rail carriers
 
-## Used For
-
-- [[17133 Rail transport]
-- [[17121 Rail companies]]  
-
+usedFor:
+- "[[17133 Rail transport]]"
+- "[[17121 Rail companies]]"
+---
+# Rail carriers

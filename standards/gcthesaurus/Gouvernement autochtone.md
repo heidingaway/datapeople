@@ -1,6 +1,11 @@
-# Gouvernement autochtone  
+---
+title: Gouvernement autochtone
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gouvernement autochtone
 
-## French
-
-- [[10646 Indigenous governments]]  
-
+french:
+- "[[10646 Indigenous governments]]"
+---
+# Gouvernement autochtone

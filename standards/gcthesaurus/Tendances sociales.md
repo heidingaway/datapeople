@@ -1,6 +1,11 @@
-# Tendances sociales  
+---
+title: Tendances sociales
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tendances sociales
 
-## French
-
-- [[19032 Social trends]]  
-
+french:
+- "[[19032 Social trends]]"
+---
+# Tendances sociales

@@ -1,6 +1,11 @@
-# Culture hydroponique  
+---
+title: Culture hydroponique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Culture hydroponique
 
-## French
-
-- [[10401 Hydroponics]]  
-
+french:
+- "[[10401 Hydroponics]]"
+---
+# Culture hydroponique

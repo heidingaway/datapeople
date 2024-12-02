@@ -1,6 +1,11 @@
-# Securite aerienne  
+---
+title: Securite aerienne
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sécurité aérienne
 
-## French
-
-- [[656 Air safety]]  
-
+french:
+- "[[656 Air safety]]"
+---
+# Securite aerienne

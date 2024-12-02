@@ -1,6 +1,11 @@
-# Rights and freedoms  
+---
+title: Rights and freedoms
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rights and freedoms
 
-## Used For
-
-- [[10211 Human rights]]  
-
+usedFor:
+- "[[10211 Human rights]]"
+---
+# Rights and freedoms

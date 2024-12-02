@@ -1,6 +1,11 @@
-# Carte demographique  
+---
+title: Carte demographique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Carte démographique
 
-## French
-
-- [[5097 Demographic maps]]  
-
+french:
+- "[[5097 Demographic maps]]"
+---
+# Carte demographique

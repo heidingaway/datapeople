@@ -1,6 +1,11 @@
-# Grippe  
+---
+title: Grippe
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Grippe
 
-## French
-
-- [[10943 Influenza]]  
-
+french:
+- "[[10943 Influenza]]"
+---
+# Grippe

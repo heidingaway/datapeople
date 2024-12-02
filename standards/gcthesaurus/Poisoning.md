@@ -1,11 +1,14 @@
-# Poisoning  
+---
+title: Poisoning
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Poisoning
 
-## Related Term
-
-- [[20333 Toxic substances]
-- [[20345 Toxicology]]  
-
-## Use
-
-- [[11523 Intoxication]]  
-
+relatedTerm:
+- "[[20333 Toxic substances]]"
+- "[[20345 Toxicology]]"
+use:
+- "[[11523 Intoxication]]"
+---
+# Poisoning

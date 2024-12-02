@@ -1,6 +1,11 @@
-# Maladie professionnelle  
+---
+title: Maladie professionnelle
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Maladie professionnelle
 
-## French
-
-- [[14751 Occupational diseases]]  
-
+french:
+- "[[14751 Occupational diseases]]"
+---
+# Maladie professionnelle

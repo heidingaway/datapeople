@@ -1,6 +1,11 @@
-# Geophysique  
+---
+title: Geophysique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Géophysique
 
-## French
-
-- [[9013 Geophysics]]  
-
+french:
+- "[[9013 Geophysics]]"
+---
+# Geophysique

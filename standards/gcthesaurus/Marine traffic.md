@@ -1,6 +1,11 @@
-# Marine traffic  
+---
+title: Marine traffic
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Marine traffic
 
-## Used For
-
-- [[21483 Water transport]]  
-
+usedFor:
+- "[[21483 Water transport]]"
+---
+# Marine traffic

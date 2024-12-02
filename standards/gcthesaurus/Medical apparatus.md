@@ -1,6 +1,11 @@
-# Medical apparatus  
+---
+title: Medical apparatus
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Medical apparatus
 
-## Used For
-
-- [[13256 Medical products]]  
-
+usedFor:
+- "[[13256 Medical products]]"
+---
+# Medical apparatus

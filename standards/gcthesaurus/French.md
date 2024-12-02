@@ -1,6 +1,11 @@
-# French  
+---
+title: French
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: French
 
-## Used For
-
-- [[8512 French language]]  
-
+usedFor:
+- "[[8512 French language]]"
+---
+# French

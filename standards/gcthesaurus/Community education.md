@@ -1,10 +1,13 @@
-# Community education  
+---
+title: Community education
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Community education
 
-## Narrower Term
-
-- [[6025 Education]]  
-
-## Related Term
-
-- [[3689 Community development]]  
-
+narrowerTerm:
+- "[[6025 Education]]"
+relatedTerm:
+- "[[3689 Community development]]"
+---
+# Community education

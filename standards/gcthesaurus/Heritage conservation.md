@@ -1,10 +1,13 @@
-# Heritage conservation  
+---
+title: Heritage conservation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Heritage conservation
 
-## Narrower Term
-
-- [[3963 Conservation]]  
-
-## Related Term
-
-- [[9883 Heritage]]  
-
+narrowerTerm:
+- "[[3963 Conservation]]"
+relatedTerm:
+- "[[9883 Heritage]]"
+---
+# Heritage conservation

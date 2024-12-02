@@ -1,6 +1,11 @@
-# Medecine  
+---
+title: Medecine
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Médecine
 
-## French
-
-- [[13334 Medicine]]  
-
+french:
+- "[[13334 Medicine]]"
+---
+# Medecine

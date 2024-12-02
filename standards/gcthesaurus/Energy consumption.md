@@ -1,6 +1,11 @@
-# Energy consumption  
+---
+title: Energy consumption
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Energy consumption
 
-## Used For
-
-- [[6710 Energy use]]  
-
+usedFor:
+- "[[6710 Energy use]]"
+---
+# Energy consumption

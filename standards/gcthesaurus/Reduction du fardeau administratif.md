@@ -1,6 +1,11 @@
-# Reduction du fardeau administratif  
+---
+title: Reduction du fardeau administratif
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Réduction du fardeau administratif
 
-## French
-
-- [[17393 Red tape reduction]]  
-
+french:
+- "[[17393 Red tape reduction]]"
+---
+# Reduction du fardeau administratif

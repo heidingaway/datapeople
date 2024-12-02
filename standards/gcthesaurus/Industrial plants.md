@@ -1,6 +1,11 @@
-# Industrial plants  
+---
+title: Industrial plants
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrial plants
 
-## Used For
-
-- [[10737 Industrial buildings]]  
-
+usedFor:
+- "[[10737 Industrial buildings]]"
+---
+# Industrial plants

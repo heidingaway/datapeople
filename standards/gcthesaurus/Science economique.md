@@ -1,6 +1,11 @@
-# Science economique  
+---
+title: Science economique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Science économique
 
-## French
-
-- [[5972 Economics]]  
-
+french:
+- "[[5972 Economics]]"
+---
+# Science economique

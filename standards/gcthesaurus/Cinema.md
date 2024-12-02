@@ -1,6 +1,11 @@
-# Cinema  
+---
+title: Cinema
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cinéma
 
-## French
-
-- [[3216 Cinema]]  
-
+french:
+- "[[3216 Cinema]]"
+---
+# Cinema

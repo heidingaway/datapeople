@@ -1,6 +1,11 @@
-# Institution culturelle  
+---
+title: Institution culturelle
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Institution culturelle
 
-## French
-
-- [[4676 Cultural institutions]]  
-
+french:
+- "[[4676 Cultural institutions]]"
+---
+# Institution culturelle

@@ -1,6 +1,11 @@
-# Safety devices  
+---
+title: Safety devices
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Safety devices
 
-## Used For
-
-- [[18018 Safety equipment]]  
-
+usedFor:
+- "[[18018 Safety equipment]]"
+---
+# Safety devices

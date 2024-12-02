@@ -1,6 +1,11 @@
-# Subvention  
+---
+title: Subvention
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Subvention
 
-## French
-
-- [[9295 Grants]]  
-
+french:
+- "[[9295 Grants]]"
+---
+# Subvention

@@ -1,6 +1,11 @@
-# Environmental damages  
+---
+title: Environmental damages
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Environmental damages
 
-## Used For
-
-- [[6882 Environmental impact]]  
-
+usedFor:
+- "[[6882 Environmental impact]]"
+---
+# Environmental damages

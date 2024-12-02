@@ -1,6 +1,11 @@
-# Politique economique  
+---
+title: Politique economique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Politique économique
 
-## French
-
-- [[5925 Economic policy]]  
-
+french:
+- "[[5925 Economic policy]]"
+---
+# Politique economique

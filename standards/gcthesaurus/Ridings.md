@@ -1,6 +1,11 @@
-# Ridings  
+---
+title: Ridings
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ridings
 
-## Used For
-
-- [[6175 Electoral districts]]  
-
+usedFor:
+- "[[6175 Electoral districts]]"
+---
+# Ridings

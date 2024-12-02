@@ -1,6 +1,11 @@
-# Habillement  
+---
+title: Habillement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Habillement
 
-## French
-
-- [[3377 Clothing]]  
-
+french:
+- "[[3377 Clothing]]"
+---
+# Habillement

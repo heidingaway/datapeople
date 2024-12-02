@@ -1,6 +1,11 @@
-# Labour conflicts  
+---
+title: Labour conflicts
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Labour conflicts
 
-## Used For
-
-- [[11861 Labour disputes]]  
-
+usedFor:
+- "[[11861 Labour disputes]]"
+---
+# Labour conflicts

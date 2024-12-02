@@ -1,10 +1,13 @@
-# Primates  
+---
+title: Primates
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Primates
 
-## Broader Term
-
-- [[10165 Human beings]]  
-
-## Narrower Term
-
-- [[12736 Mammals]]  
-
+broaderTerm:
+- "[[10165 Human beings]]"
+narrowerTerm:
+- "[[12736 Mammals]]"
+---
+# Primates

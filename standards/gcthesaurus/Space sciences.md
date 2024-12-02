@@ -1,20 +1,19 @@
-# Space sciences  
+---
+title: Space sciences
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Space sciences
 
-## Broader Term
-
-- [[1631 Astronomy]]  
-
-## Narrower Term
-
-- [[14335 Natural sciences]]  
-
-## Related Term
-
-- [[19192 Space technology]
-- [[19167 Space exploration]
-- [[18285 Scientists]]  
-
-## Use
-
-- [[1616 Astronautics]]  
-
+broaderTerm:
+- "[[1631 Astronomy]]"
+narrowerTerm:
+- "[[14335 Natural sciences]]"
+relatedTerm:
+- "[[19192 Space technology]]"
+- "[[19167 Space exploration]]"
+- "[[18285 Scientists]]"
+use:
+- "[[1616 Astronautics]]"
+---
+# Space sciences

@@ -1,6 +1,11 @@
-# Project management  
+---
+title: Project management
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Project management
 
-## Narrower Term
-
-- [[12766 Management]]  
-
+narrowerTerm:
+- "[[12766 Management]]"
+---
+# Project management

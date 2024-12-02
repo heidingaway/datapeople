@@ -1,7 +1,12 @@
-# Horses  
+---
+title: Horses
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Horses
 
-## Narrower Term
-
-- [[12541 Livestock]
-- [[12735 Mammals]]  
-
+narrowerTerm:
+- "[[12541 Livestock]]"
+- "[[12735 Mammals]]"
+---
+# Horses

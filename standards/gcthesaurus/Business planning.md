@@ -1,6 +1,11 @@
-# Business planning  
+---
+title: Business planning
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Business planning
 
-## Used For
-
-- [[2555 Business plans]]  
-
+usedFor:
+- "[[2555 Business plans]]"
+---
+# Business planning

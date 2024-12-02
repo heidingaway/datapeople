@@ -1,6 +1,11 @@
-# Diagnostic  
+---
+title: Diagnostic
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Diagnostic
 
-## French
-
-- [[5210 Diagnosis]]  
-
+french:
+- "[[5210 Diagnosis]]"
+---
+# Diagnostic

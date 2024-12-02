@@ -1,6 +1,11 @@
-# Electric power generating stations  
+---
+title: Electric power generating stations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electric power generating stations
 
-## Used For
-
-- [[6209 Electric power stations]]  
-
+usedFor:
+- "[[6209 Electric power stations]]"
+---
+# Electric power generating stations

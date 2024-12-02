@@ -1,10 +1,13 @@
-# Science policy  
+---
+title: Science policy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Science policy
 
-## Narrower Term
-
-- [[15955 Policy]]  
-
-## Related Term
-
-- [[18242 Sciences]]  
-
+narrowerTerm:
+- "[[15955 Policy]]"
+relatedTerm:
+- "[[18242 Sciences]]"
+---
+# Science policy

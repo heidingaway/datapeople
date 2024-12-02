@@ -1,6 +1,11 @@
-# Victime  
+---
+title: Victime
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Victime
 
-## French
-
-- [[20984 Victims]]  
-
+french:
+- "[[20984 Victims]]"
+---
+# Victime

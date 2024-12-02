@@ -1,6 +1,11 @@
-# Derailments  
+---
+title: Derailments
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Derailments
 
-## Used For
-
-- [[17162 Railway accidents]]  
-
+usedFor:
+- "[[17162 Railway accidents]]"
+---
+# Derailments

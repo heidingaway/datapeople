@@ -1,6 +1,11 @@
-# Gouvernement  
+---
+title: Gouvernement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gouvernement
 
-## French
-
-- [[9252 Governments]]  
-
+french:
+- "[[9252 Governments]]"
+---
+# Gouvernement

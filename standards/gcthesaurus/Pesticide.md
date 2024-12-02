@@ -1,6 +1,11 @@
-# Pesticide  
+---
+title: Pesticide
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pesticide
 
-## French
-
-- [[15614 Pesticides]]  
-
+french:
+- "[[15614 Pesticides]]"
+---
+# Pesticide

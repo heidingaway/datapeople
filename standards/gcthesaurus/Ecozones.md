@@ -1,6 +1,11 @@
-# Ecozones  
+---
+title: Ecozones
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ecozones
 
-## Used For
-
-- [[5990 Ecosystems]]  
-
+usedFor:
+- "[[5990 Ecosystems]]"
+---
+# Ecozones

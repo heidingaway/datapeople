@@ -1,6 +1,11 @@
-# UV  
+---
+title: UV
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: UV
 
-## Used For
-
-- [[20761 Ultraviolet radiation]]  
-
+usedFor:
+- "[[20761 Ultraviolet radiation]]"
+---
+# UV

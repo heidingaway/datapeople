@@ -1,6 +1,11 @@
-# Geographic boundaries  
+---
+title: Geographic boundaries
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geographic boundaries
 
-## Used For
-
-- [[2381 Boundaries]]  
-
+usedFor:
+- "[[2381 Boundaries]]"
+---
+# Geographic boundaries

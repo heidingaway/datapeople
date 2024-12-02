@@ -1,6 +1,11 @@
-# Tidal power  
+---
+title: Tidal power
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tidal power
 
-## Used For
-
-- [[14831 Ocean energy]]  
-
+usedFor:
+- "[[14831 Ocean energy]]"
+---
+# Tidal power

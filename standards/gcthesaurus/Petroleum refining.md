@@ -1,6 +1,11 @@
-# Petroleum refining  
+---
+title: Petroleum refining
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Petroleum refining
 
-## Used For
-
-- [[15657 Petroleum industry]]  
-
+usedFor:
+- "[[15657 Petroleum industry]]"
+---
+# Petroleum refining

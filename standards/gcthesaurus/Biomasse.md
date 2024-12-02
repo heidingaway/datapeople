@@ -1,6 +1,11 @@
-# Biomasse  
+---
+title: Biomasse
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biomasse
 
-## French
-
-- [[2212 Biomass]]  
-
+french:
+- "[[2212 Biomass]]"
+---
+# Biomasse

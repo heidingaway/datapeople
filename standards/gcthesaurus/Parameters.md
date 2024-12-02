@@ -1,6 +1,11 @@
-# Parameters  
+---
+title: Parameters
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Parameters
 
-## Used For
-
-- [[19214 Specifications]]  
-
+usedFor:
+- "[[19214 Specifications]]"
+---
+# Parameters

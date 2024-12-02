@@ -1,6 +1,11 @@
-# Manutention  
+---
+title: Manutention
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Manutention
 
-## French
-
-- [[9457 Handling]]  
-
+french:
+- "[[9457 Handling]]"
+---
+# Manutention

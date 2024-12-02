@@ -1,6 +1,11 @@
-# Hatcheries  
+---
+title: Hatcheries
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hatcheries
 
-## Related Term
-
-- [[16161 Poultry]]  
-
+relatedTerm:
+- "[[16161 Poultry]]"
+---
+# Hatcheries

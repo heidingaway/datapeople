@@ -1,6 +1,11 @@
-# Legal decisions  
+---
+title: Legal decisions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Legal decisions
 
-## Used For
-
-- [[4377 Court decisions]]  
-
+usedFor:
+- "[[4377 Court decisions]]"
+---
+# Legal decisions

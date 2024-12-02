@@ -1,6 +1,11 @@
-# Language classes  
+---
+title: Language classes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Language classes
 
-## Used For
-
-- [[12114 Language training]]  
-
+usedFor:
+- "[[12114 Language training]]"
+---
+# Language classes

@@ -1,6 +1,11 @@
-# Education  Enseignement  
+---
+title: Education  Enseignement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Éducation / Enseignement
 
-## French
-
-- [[6020 Education]]  
-
+french:
+- "[[6020 Education]]"
+---
+# Education  Enseignement

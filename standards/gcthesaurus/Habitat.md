@@ -1,6 +1,11 @@
-# Habitat  
+---
+title: Habitat
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Habitat
 
-## French
-
-- [[9430 Habitats]]  
-
+french:
+- "[[9430 Habitats]]"
+---
+# Habitat

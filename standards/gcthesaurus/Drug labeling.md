@@ -1,6 +1,11 @@
-# Drug labeling  
+---
+title: Drug labeling
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Drug labeling
 
-## Used For
-
-- [[5663 Drug labelling]]  
-
+usedFor:
+- "[[5663 Drug labelling]]"
+---
+# Drug labeling

@@ -1,6 +1,11 @@
-# Monitoring  
+---
+title: Monitoring
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Monitoring
 
-## Used For
-
-- [[4147 Control]]  
-
+usedFor:
+- "[[4147 Control]]"
+---
+# Monitoring

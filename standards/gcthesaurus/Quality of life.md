@@ -1,12 +1,15 @@
-# Quality of life  
+---
+title: Quality of life
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Quality of life
 
-## Related Term
-
-- [[12416 Life expectancy]
-- [[19284 Standard of living]
-- [[12446 Lifestyle]]  
-
-## Use
-
-- [[12558 Living conditions]]  
-
+relatedTerm:
+- "[[12416 Life expectancy]]"
+- "[[19284 Standard of living]]"
+- "[[12446 Lifestyle]]"
+use:
+- "[[12558 Living conditions]]"
+---
+# Quality of life

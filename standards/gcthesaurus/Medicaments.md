@@ -1,6 +1,11 @@
-# Medicaments  
+---
+title: Medicaments
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Medicaments
 
-## Used For
-
-- [[5691 Drugs]]  
-
+usedFor:
+- "[[5691 Drugs]]"
+---
+# Medicaments

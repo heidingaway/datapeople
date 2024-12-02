@@ -1,6 +1,11 @@
-# Cabin safety  
+---
+title: Cabin safety
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cabin safety
 
-## Used For
-
-- [[661 Air safety]]  
-
+usedFor:
+- "[[661 Air safety]]"
+---
+# Cabin safety

@@ -1,6 +1,11 @@
-# Space industry  
+---
+title: Space industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Space industry
 
-## Used For
-
-- [[352 Aerospace industry]]  
-
+usedFor:
+- "[[352 Aerospace industry]]"
+---
+# Space industry

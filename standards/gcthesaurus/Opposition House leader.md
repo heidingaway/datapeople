@@ -1,6 +1,11 @@
-# Opposition House leader  
+---
+title: Opposition House leader
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Opposition House leader
 
-## Used For
-
-- [[15312 Parliamentary leaders]]  
-
+usedFor:
+- "[[15312 Parliamentary leaders]]"
+---
+# Opposition House leader

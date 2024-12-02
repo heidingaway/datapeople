@@ -1,21 +1,20 @@
-# Harbours  
+---
+title: Harbours
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Harbours
 
-## Broader Term
-
-- [[12915 Marinas]]  
-
-## Narrower Term
-
-- [[12958 Marine installations]]  
-
-## Related Term
-
-- [[21494 Water transport]
-- [[9479 Harbour authorities]
-- [[21695 Wharfs]]  
-
-## Use
-
-- [[9472 Harbors]
-- [[16109 Ports]]  
-
+broaderTerm:
+- "[[12915 Marinas]]"
+narrowerTerm:
+- "[[12958 Marine installations]]"
+relatedTerm:
+- "[[21494 Water transport]]"
+- "[[9479 Harbour authorities]]"
+- "[[21695 Wharfs]]"
+use:
+- "[[9472 Harbors]]"
+- "[[16109 Ports]]"
+---
+# Harbours

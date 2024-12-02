@@ -1,6 +1,11 @@
-# Plant cells  
+---
+title: Plant cells
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Plant cells
 
-## Used For
-
-- [[2898 Cells]]  
-
+usedFor:
+- "[[2898 Cells]]"
+---
+# Plant cells

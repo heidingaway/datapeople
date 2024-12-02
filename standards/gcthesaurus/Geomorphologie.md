@@ -1,6 +1,11 @@
-# Geomorphologie  
+---
+title: Geomorphologie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Géomorphologie
 
-## French
-
-- [[9006 Geomorphology]]  
-
+french:
+- "[[9006 Geomorphology]]"
+---
+# Geomorphologie

@@ -1,11 +1,14 @@
-# Duty to accommodate  
+---
+title: Duty to accommodate
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Duty to accommodate
 
-## Narrower Term
-
-- [[10214 Human rights]
-- [[15594 Persons with disabilities]]  
-
-## Related Term
-
-- [[105 Accessibility for persons with disabilities]]  
-
+narrowerTerm:
+- "[[10214 Human rights]]"
+- "[[15594 Persons with disabilities]]"
+relatedTerm:
+- "[[105 Accessibility for persons with disabilities]]"
+---
+# Duty to accommodate

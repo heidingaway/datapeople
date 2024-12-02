@@ -1,11 +1,14 @@
-# Psychology  
+---
+title: Psychology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Psychology
 
-## Narrower Term
-
-- [[18984 Social sciences]]  
-
-## Related Term
-
-- [[1680 Attitudes]
-- [[1935 Behaviour]]  
-
+narrowerTerm:
+- "[[18984 Social sciences]]"
+relatedTerm:
+- "[[1680 Attitudes]]"
+- "[[1935 Behaviour]]"
+---
+# Psychology

@@ -1,6 +1,11 @@
-# Transportation industry  
+---
+title: Transportation industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Transportation industry
 
-## Used For
-
-- [[20623 Transport industry]]  
-
+usedFor:
+- "[[20623 Transport industry]]"
+---
+# Transportation industry

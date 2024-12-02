@@ -1,6 +1,11 @@
-# Service postal  
+---
+title: Service postal
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Service postal
 
-## French
-
-- [[16125 Postal services]]  
-
+french:
+- "[[16125 Postal services]]"
+---
+# Service postal

@@ -1,6 +1,11 @@
-# Condition physique  
+---
+title: Condition physique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Condition physique
 
-## French
-
-- [[8007 Fitness]]  
-
+french:
+- "[[8007 Fitness]]"
+---
+# Condition physique

@@ -1,10 +1,13 @@
-# Maternity benefits  
+---
+title: Maternity benefits
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Maternity benefits
 
-## Narrower Term
-
-- [[1964 Benefits]]  
-
-## Related Term
-
-- [[6550 Employment insurance]]  
-
+narrowerTerm:
+- "[[1964 Benefits]]"
+relatedTerm:
+- "[[6550 Employment insurance]]"
+---
+# Maternity benefits

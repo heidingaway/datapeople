@@ -1,6 +1,11 @@
-# Jardin zoologique  
+---
+title: Jardin zoologique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Jardin zoologique
 
-## French
-
-- [[22123 Zoological gardens]]  
-
+french:
+- "[[22123 Zoological gardens]]"
+---
+# Jardin zoologique

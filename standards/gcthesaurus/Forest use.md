@@ -1,6 +1,11 @@
-# Forest use  
+---
+title: Forest use
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Forest use
 
-## Used For
-
-- [[8316 Forest management]]  
-
+usedFor:
+- "[[8316 Forest management]]"
+---
+# Forest use

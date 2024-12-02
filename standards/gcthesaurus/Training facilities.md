@@ -1,6 +1,11 @@
-# Training facilities  
+---
+title: Training facilities
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Training facilities
 
-## Used For
-
-- [[20508 Training centres]]  
-
+usedFor:
+- "[[20508 Training centres]]"
+---
+# Training facilities

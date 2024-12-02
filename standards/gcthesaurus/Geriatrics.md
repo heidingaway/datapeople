@@ -1,16 +1,17 @@
-# Geriatrics  
+---
+title: Geriatrics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geriatrics
 
-## Narrower Term
-
-- [[9053 Gerontology]
-- [[13339 Medicine]]  
-
-## Related Term
-
-- [[18548 Seniors]
-- [[386 Aging]]  
-
-## Use
-
-- [[9040 Geriatric medicine]]  
-
+narrowerTerm:
+- "[[9053 Gerontology]]"
+- "[[13339 Medicine]]"
+relatedTerm:
+- "[[18548 Seniors]]"
+- "[[386 Aging]]"
+use:
+- "[[9040 Geriatric medicine]]"
+---
+# Geriatrics

@@ -1,6 +1,11 @@
-# Grossesse  
+---
+title: Grossesse
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Grossesse
 
-## French
-
-- [[16218 Pregnancy]]  
-
+french:
+- "[[16218 Pregnancy]]"
+---
+# Grossesse

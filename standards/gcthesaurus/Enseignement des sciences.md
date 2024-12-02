@@ -1,6 +1,11 @@
-# Enseignement des sciences  
+---
+title: Enseignement des sciences
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Enseignement des sciences
 
-## French
-
-- [[18226 Science education]]  
-
+french:
+- "[[18226 Science education]]"
+---
+# Enseignement des sciences

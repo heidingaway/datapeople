@@ -1,6 +1,11 @@
-# Conservation des documents  
+---
+title: Conservation des documents
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conservation des documents
 
-## French
-
-- [[17304 Records retention]]  
-
+french:
+- "[[17304 Records retention]]"
+---
+# Conservation des documents

@@ -1,11 +1,14 @@
-# Biochemistry  
+---
+title: Biochemistry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biochemistry
 
-## Narrower Term
-
-- [[3072 Chemistry]]  
-
-## Related Term
-
-- [[2096 Biochemicals]
-- [[2205 Biology]]  
-
+narrowerTerm:
+- "[[3072 Chemistry]]"
+relatedTerm:
+- "[[2096 Biochemicals]]"
+- "[[2205 Biology]]"
+---
+# Biochemistry

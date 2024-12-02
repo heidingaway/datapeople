@@ -1,6 +1,11 @@
-# Forestry administration  
+---
+title: Forestry administration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Forestry administration
 
-## Used For
-
-- [[8317 Forest management]]  
-
+usedFor:
+- "[[8317 Forest management]]"
+---
+# Forestry administration

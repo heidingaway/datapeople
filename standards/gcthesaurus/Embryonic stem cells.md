@@ -1,6 +1,11 @@
-# Embryonic stem cells  
+---
+title: Embryonic stem cells
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Embryonic stem cells
 
-## Used For
-
-- [[19385 Stem cells]]  
-
+usedFor:
+- "[[19385 Stem cells]]"
+---
+# Embryonic stem cells

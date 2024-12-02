@@ -1,11 +1,14 @@
-# Biological diversity  
+---
+title: Biological diversity
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biological diversity
 
-## Related Term
-
-- [[2206 Biology]]  
-
-## Use
-
-- [[2121 Biodiversity]
-- [[19211 Species diversity]]  
-
+relatedTerm:
+- "[[2206 Biology]]"
+use:
+- "[[2121 Biodiversity]]"
+- "[[19211 Species diversity]]"
+---
+# Biological diversity

@@ -1,6 +1,11 @@
-# Risk premiums  
+---
+title: Risk premiums
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Risk premiums
 
-## Related Term
-
-- [[18092 Salaries]]  
-
+relatedTerm:
+- "[[18092 Salaries]]"
+---
+# Risk premiums

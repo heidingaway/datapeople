@@ -1,6 +1,11 @@
-# Offshore zone  
+---
+title: Offshore zone
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Offshore zone
 
-## Used For
-
-- [[14956 Offshore area]]  
-
+usedFor:
+- "[[14956 Offshore area]]"
+---
+# Offshore zone

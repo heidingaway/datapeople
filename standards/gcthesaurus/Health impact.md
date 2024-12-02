@@ -1,7 +1,12 @@
-# Health impact  
+---
+title: Health impact
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Health impact
 
-## Related Term
-
-- [[9681 Health hazards]
-- [[9576 Health]]  
-
+relatedTerm:
+- "[[9681 Health hazards]]"
+- "[[9576 Health]]"
+---
+# Health impact

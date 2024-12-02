@@ -1,6 +1,11 @@
-# Droits des autochtones  
+---
+title: Droits des autochtones
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Droits des autochtones
 
-## French
-
-- [[10705 Indigenous rights]]  
-
+french:
+- "[[10705 Indigenous rights]]"
+---
+# Droits des autochtones

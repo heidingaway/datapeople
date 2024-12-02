@@ -1,6 +1,11 @@
-# Camping  
+---
+title: Camping
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Camping
 
-## Used For
-
-- [[15132 Outdoor recreation]]  
-
+usedFor:
+- "[[15132 Outdoor recreation]]"
+---
+# Camping

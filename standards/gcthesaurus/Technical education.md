@@ -1,10 +1,13 @@
-# Technical education  
+---
+title: Technical education
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Technical education
 
-## Narrower Term
-
-- [[6042 Education]]  
-
-## Related Term
-
-- [[19882 Technology]]  
-
+narrowerTerm:
+- "[[6042 Education]]"
+relatedTerm:
+- "[[19882 Technology]]"
+---
+# Technical education

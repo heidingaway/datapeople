@@ -1,6 +1,11 @@
-# Offre permanente  
+---
+title: Offre permanente
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Offre permanente
 
-## French
-
-- [[19301 Standing offers]]  
-
+french:
+- "[[19301 Standing offers]]"
+---
+# Offre permanente

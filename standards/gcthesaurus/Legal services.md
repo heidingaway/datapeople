@@ -1,7 +1,12 @@
-# Legal services  
+---
+title: Legal services
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Legal services
 
-## Related Term
-
-- [[12168 Law]
-- [[12253 Legal aid]]  
-
+relatedTerm:
+- "[[12168 Law]]"
+- "[[12253 Legal aid]]"
+---
+# Legal services

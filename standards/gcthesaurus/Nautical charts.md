@@ -1,14 +1,15 @@
-# Nautical charts  
+---
+title: Nautical charts
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Nautical charts
 
-## Narrower Term
-
-- [[12894 Maps]]  
-
-## Related Term
-
-- [[14380 Navigation]]  
-
-## Use
-
-- [[14389 Navigation charts]]  
-
+narrowerTerm:
+- "[[12894 Maps]]"
+relatedTerm:
+- "[[14380 Navigation]]"
+use:
+- "[[14389 Navigation charts]]"
+---
+# Nautical charts

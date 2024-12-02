@@ -1,6 +1,11 @@
-# Ozone layer  
+---
+title: Ozone layer
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ozone layer
 
-## Used For
-
-- [[15178 Ozone]]  
-
+usedFor:
+- "[[15178 Ozone]]"
+---
+# Ozone layer

@@ -1,6 +1,11 @@
-# Swamps  
+---
+title: Swamps
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Swamps
 
-## Used For
-
-- [[21679 Wetlands]]  
-
+usedFor:
+- "[[21679 Wetlands]]"
+---
+# Swamps

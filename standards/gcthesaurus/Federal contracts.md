@@ -1,10 +1,13 @@
-# Federal contracts  
+---
+title: Federal contracts
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Federal contracts
 
-## Narrower Term
-
-- [[4133 Contracts]]  
-
-## Related Term
-
-- [[7538 Federal government]]  
-
+narrowerTerm:
+- "[[4133 Contracts]]"
+relatedTerm:
+- "[[7538 Federal government]]"
+---
+# Federal contracts

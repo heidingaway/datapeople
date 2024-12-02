@@ -1,6 +1,11 @@
-# Drogue  
+---
+title: Drogue
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Drogue
 
-## French
-
-- [[14153 Narcotics]]  
-
+french:
+- "[[14153 Narcotics]]"
+---
+# Drogue

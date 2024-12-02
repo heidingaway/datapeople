@@ -1,6 +1,11 @@
-# Bladed weapons  
+---
+title: Bladed weapons
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Bladed weapons
 
-## Used For
-
-- [[21577 Weapons]]  
-
+usedFor:
+- "[[21577 Weapons]]"
+---
+# Bladed weapons

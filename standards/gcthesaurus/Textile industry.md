@@ -1,11 +1,14 @@
-# Textile industry  
+---
+title: Textile industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Textile industry
 
-## Narrower Term
-
-- [[12854 Manufacturing industry]]  
-
-## Related Term
-
-- [[20140 Textiles]
-- [[3393 Clothing industry]]  
-
+narrowerTerm:
+- "[[12854 Manufacturing industry]]"
+relatedTerm:
+- "[[20140 Textiles]]"
+- "[[3393 Clothing industry]]"
+---
+# Textile industry

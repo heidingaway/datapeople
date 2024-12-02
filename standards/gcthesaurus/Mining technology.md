@@ -1,10 +1,13 @@
-# Mining technology  
+---
+title: Mining technology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mining technology
 
-## Related Term
-
-- [[13751 Mining industry]]  
-
-## Use
-
-- [[13735 Mining equipment]]  
-
+relatedTerm:
+- "[[13751 Mining industry]]"
+use:
+- "[[13735 Mining equipment]]"
+---
+# Mining technology

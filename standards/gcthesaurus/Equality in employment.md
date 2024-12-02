@@ -1,6 +1,11 @@
-# Equality in employment  
+---
+title: Equality in employment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Equality in employment
 
-## Used For
-
-- [[6534 Employment equity]]  
-
+usedFor:
+- "[[6534 Employment equity]]"
+---
+# Equality in employment

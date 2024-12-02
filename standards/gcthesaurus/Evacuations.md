@@ -1,6 +1,11 @@
-# Evacuations  
+---
+title: Evacuations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Evacuations
 
-## Related Term
-
-- [[6429 Emergency preparedness]]  
-
+relatedTerm:
+- "[[6429 Emergency preparedness]]"
+---
+# Evacuations

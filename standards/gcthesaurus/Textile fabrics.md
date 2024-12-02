@@ -1,6 +1,11 @@
-# Textile fabrics  
+---
+title: Textile fabrics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Textile fabrics
 
-## Used For
-
-- [[20135 Textiles]]  
-
+usedFor:
+- "[[20135 Textiles]]"
+---
+# Textile fabrics

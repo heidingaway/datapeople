@@ -1,19 +1,18 @@
-# Life sciences  
+---
+title: Life sciences
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Life sciences
 
-## Broader Term
-
-- [[9770 Health sciences]
-- [[2197 Biology]]  
-
-## Narrower Term
-
-- [[14332 Natural sciences]]  
-
-## Related Term
-
-- [[18281 Scientists]]  
-
-## Use
-
-- [[2177 Biological sciences]]  
-
+broaderTerm:
+- "[[9770 Health sciences]]"
+- "[[2197 Biology]]"
+narrowerTerm:
+- "[[14332 Natural sciences]]"
+relatedTerm:
+- "[[18281 Scientists]]"
+use:
+- "[[2177 Biological sciences]]"
+---
+# Life sciences

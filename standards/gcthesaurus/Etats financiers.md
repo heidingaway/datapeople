@@ -1,6 +1,11 @@
-# Etats financiers  
+---
+title: Etats financiers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: États financiers
 
-## French
-
-- [[7763 Financial statements]]  
-
+french:
+- "[[7763 Financial statements]]"
+---
+# Etats financiers

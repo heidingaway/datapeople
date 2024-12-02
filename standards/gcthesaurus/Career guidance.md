@@ -1,6 +1,11 @@
-# Career guidance  
+---
+title: Career guidance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Career guidance
 
-## Used For
-
-- [[21156 Vocational guidance]]  
-
+usedFor:
+- "[[21156 Vocational guidance]]"
+---
+# Career guidance

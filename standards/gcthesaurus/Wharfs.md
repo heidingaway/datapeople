@@ -1,14 +1,15 @@
-# Wharfs  
+---
+title: Wharfs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Wharfs
 
-## Narrower Term
-
-- [[12961 Marine installations]]  
-
-## Related Term
-
-- [[9488 Harbours]]  
-
-## Use
-
-- [[5480 Docks]]  
-
+narrowerTerm:
+- "[[12961 Marine installations]]"
+relatedTerm:
+- "[[9488 Harbours]]"
+use:
+- "[[5480 Docks]]"
+---
+# Wharfs

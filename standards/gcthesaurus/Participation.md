@@ -1,10 +1,13 @@
-# Participation  
+---
+title: Participation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Participation
 
-## Broader Term
-
-- [[3233 Citizen participation]]  
-
-## French
-
-- [[15336 Participation]]  
-
+broaderTerm:
+- "[[3233 Citizen participation]]"
+french:
+- "[[15336 Participation]]"
+---
+# Participation

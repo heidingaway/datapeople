@@ -1,6 +1,11 @@
-# Transfert  
+---
+title: Transfert
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Transfert
 
-## French
-
-- [[20547 Transfers]]  
-
+french:
+- "[[20547 Transfers]]"
+---
+# Transfert

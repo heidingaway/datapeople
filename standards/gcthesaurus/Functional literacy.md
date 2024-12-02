@@ -1,6 +1,11 @@
-# Functional literacy  
+---
+title: Functional literacy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Functional literacy
 
-## Used For
-
-- [[12491 Literacy]]  
-
+usedFor:
+- "[[12491 Literacy]]"
+---
+# Functional literacy

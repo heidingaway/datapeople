@@ -1,6 +1,11 @@
-# Genomique  
+---
+title: Genomique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Génomique
 
-## French
-
-- [[8873 Genomics]]  
-
+french:
+- "[[8873 Genomics]]"
+---
+# Genomique

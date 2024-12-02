@@ -1,6 +1,11 @@
-# Minority groups  
+---
+title: Minority groups
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Minority groups
 
-## Used For
-
-- [[13769 Minorities]]  
-
+usedFor:
+- "[[13769 Minorities]]"
+---
+# Minority groups

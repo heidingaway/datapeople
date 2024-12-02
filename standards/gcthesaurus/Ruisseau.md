@@ -1,6 +1,11 @@
-# Ruisseau  
+---
+title: Ruisseau
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ruisseau
 
-## French
-
-- [[19442 Streams]]  
-
+french:
+- "[[19442 Streams]]"
+---
+# Ruisseau

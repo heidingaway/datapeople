@@ -1,6 +1,11 @@
-# Ornaments  
+---
+title: Ornaments
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ornaments
 
-## Related Term
-
-- [[11643 Jewellery]]  
-
+relatedTerm:
+- "[[11643 Jewellery]]"
+---
+# Ornaments

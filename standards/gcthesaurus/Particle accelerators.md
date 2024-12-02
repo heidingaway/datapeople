@@ -1,6 +1,11 @@
-# Particle accelerators  
+---
+title: Particle accelerators
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Particle accelerators
 
-## Used For
-
-- [[14664 Nuclear technology]]  
-
+usedFor:
+- "[[14664 Nuclear technology]]"
+---
+# Particle accelerators

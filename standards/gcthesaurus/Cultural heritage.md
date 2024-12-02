@@ -1,15 +1,16 @@
-# Cultural heritage  
+---
+title: Cultural heritage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cultural heritage
 
-## Narrower Term
-
-- [[9876 Heritage]]  
-
-## Related Term
-
-- [[4720 Culture]
-- [[4753 Customs]]  
-
-## Use
-
-- [[4703 Cultural property]]  
-
+narrowerTerm:
+- "[[9876 Heritage]]"
+relatedTerm:
+- "[[4720 Culture]]"
+- "[[4753 Customs]]"
+use:
+- "[[4703 Cultural property]]"
+---
+# Cultural heritage

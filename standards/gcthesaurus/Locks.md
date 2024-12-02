@@ -1,10 +1,13 @@
-# Locks  
+---
+title: Locks
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Locks
 
-## Narrower Term
-
-- [[12960 Marine installations]]  
-
-## Related Term
-
-- [[2712 Canals]]  
-
+narrowerTerm:
+- "[[12960 Marine installations]]"
+relatedTerm:
+- "[[2712 Canals]]"
+---
+# Locks

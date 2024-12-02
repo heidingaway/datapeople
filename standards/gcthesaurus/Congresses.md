@@ -1,6 +1,11 @@
-# Congresses  
+---
+title: Congresses
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Congresses
 
-## Used For
-
-- [[3912 Conferences]]  
-
+usedFor:
+- "[[3912 Conferences]]"
+---
+# Congresses

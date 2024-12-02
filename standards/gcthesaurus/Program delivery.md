@@ -1,6 +1,11 @@
-# Program delivery  
+---
+title: Program delivery
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Program delivery
 
-## Related Term
-
-- [[16578 Programs]]  
-
+relatedTerm:
+- "[[16578 Programs]]"
+---
+# Program delivery

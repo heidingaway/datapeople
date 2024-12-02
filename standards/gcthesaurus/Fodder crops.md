@@ -1,6 +1,11 @@
-# Fodder crops  
+---
+title: Fodder crops
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fodder crops
 
-## Used For
-
-- [[8199 Forage crops]]  
-
+usedFor:
+- "[[8199 Forage crops]]"
+---
+# Fodder crops

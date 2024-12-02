@@ -1,14 +1,15 @@
-# Labour union training  
+---
+title: Labour union training
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Labour union training
 
-## Narrower Term
-
-- [[20490 Training]]  
-
-## Related Term
-
-- [[11970 Labour unions]]  
-
-## Use
-
-- [[11824 Labor union training]]  
-
+narrowerTerm:
+- "[[20490 Training]]"
+relatedTerm:
+- "[[11970 Labour unions]]"
+use:
+- "[[11824 Labor union training]]"
+---
+# Labour union training

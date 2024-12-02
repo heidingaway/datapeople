@@ -1,6 +1,11 @@
-# Fret  
+---
+title: Fret
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fret
 
-## French
-
-- [[8498 Freight]]  
-
+french:
+- "[[8498 Freight]]"
+---
+# Fret

@@ -1,6 +1,11 @@
-# Waste water purification  
+---
+title: Waste water purification
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Waste water purification
 
-## Used For
-
-- [[21428 Water management]]  
-
+usedFor:
+- "[[21428 Water management]]"
+---
+# Waste water purification

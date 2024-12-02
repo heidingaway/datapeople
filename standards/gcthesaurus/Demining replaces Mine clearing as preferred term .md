@@ -1,7 +1,8 @@
-# Demining replaces Mine clearing as preferred term   
+---
+title: Demining replaces Mine clearing as preferred term 
+alias: "Demining" replaces "Mine clearing" as preferred term in March 2009.
 
-## History note
-
-- [[5079 Demining]
-- [[13705 Mine clearing]]  
-
+historyNote:
+- "[[5079 Demining]]"
+- "[[13705 Mine clearing]]"
+---

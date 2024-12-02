@@ -1,6 +1,11 @@
-# Biopesticides  
+---
+title: Biopesticides
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biopesticides
 
-## Used For
-
-- [[15617 Pesticides]]  
-
+usedFor:
+- "[[15617 Pesticides]]"
+---
+# Biopesticides

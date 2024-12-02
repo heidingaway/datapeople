@@ -1,6 +1,11 @@
-# Matiere radioactive  
+---
+title: Matiere radioactive
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Matière radioactive
 
-## French
-
-- [[17087 Radioactive materials]]  
-
+french:
+- "[[17087 Radioactive materials]]"
+---
+# Matiere radioactive

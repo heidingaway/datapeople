@@ -1,10 +1,13 @@
-# Newsletters  
+---
+title: Newsletters
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Newsletters
 
-## Narrower Term
-
-- [[15491 Periodicals]]  
-
-## Use
-
-- [[2476 Bulletins]]  
-
+narrowerTerm:
+- "[[15491 Periodicals]]"
+use:
+- "[[2476 Bulletins]]"
+---
+# Newsletters

@@ -1,6 +1,11 @@
-# Mesure de securite  
+---
+title: Mesure de securite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mesure de sécurité
 
-## French
-
-- [[18036 Safety measures]]  
-
+french:
+- "[[18036 Safety measures]]"
+---
+# Mesure de securite

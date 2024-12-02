@@ -1,6 +1,11 @@
-# Differend commercial  
+---
+title: Differend commercial
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Différend commercial
 
-## French
-
-- [[20390 Trade disputes]]  
-
+french:
+- "[[20390 Trade disputes]]"
+---
+# Differend commercial

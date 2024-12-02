@@ -1,6 +1,11 @@
-# Racial groups  
+---
+title: Racial groups
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Racial groups
 
-## Used For
-
-- [[7161 Ethnic groups]]  
-
+usedFor:
+- "[[7161 Ethnic groups]]"
+---
+# Racial groups

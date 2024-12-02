@@ -1,6 +1,11 @@
-# Cafe  
+---
+title: Cafe
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Café
 
-## French
-
-- [[3470 Coffee]]  
-
+french:
+- "[[3470 Coffee]]"
+---
+# Cafe

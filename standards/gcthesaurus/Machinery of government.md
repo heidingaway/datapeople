@@ -1,6 +1,11 @@
-# Machinery of government  
+---
+title: Machinery of government
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Machinery of government
 
-## Used For
-
-- [[16767 Public administration]]  
-
+usedFor:
+- "[[16767 Public administration]]"
+---
+# Machinery of government

@@ -1,6 +1,11 @@
-# Tableau  
+---
+title: Tableau
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tableau
 
-## French
-
-- [[19681 Tables]]  
-
+french:
+- "[[19681 Tables]]"
+---
+# Tableau

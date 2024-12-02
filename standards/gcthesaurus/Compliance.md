@@ -1,6 +1,11 @@
-# Compliance  
+---
+title: Compliance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Compliance
 
-## Related Term
-
-- [[6723 Enforcement]]  
-
+relatedTerm:
+- "[[6723 Enforcement]]"
+---
+# Compliance

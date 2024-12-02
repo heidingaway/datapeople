@@ -1,6 +1,11 @@
-# Electronic devices  
+---
+title: Electronic devices
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electronic devices
 
-## Used For
-
-- [[6308 Electronic equipment]]  
-
+usedFor:
+- "[[6308 Electronic equipment]]"
+---
+# Electronic devices

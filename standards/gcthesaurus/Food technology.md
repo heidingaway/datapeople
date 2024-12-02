@@ -1,6 +1,11 @@
-# Food technology  
+---
+title: Food technology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Food technology
 
-## Used For
-
-- [[8146 Food processing]]  
-
+usedFor:
+- "[[8146 Food processing]]"
+---
+# Food technology

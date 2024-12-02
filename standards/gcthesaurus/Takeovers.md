@@ -1,6 +1,11 @@
-# Takeovers  
+---
+title: Takeovers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Takeovers
 
-## Used For
-
-- [[13425 Mergers]]  
-
+usedFor:
+- "[[13425 Mergers]]"
+---
+# Takeovers

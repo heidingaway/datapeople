@@ -1,6 +1,11 @@
-# Soft medicine  
+---
+title: Soft medicine
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Soft medicine
 
-## Used For
-
-- [[907 Alternative medicine]]  
-
+usedFor:
+- "[[907 Alternative medicine]]"
+---
+# Soft medicine

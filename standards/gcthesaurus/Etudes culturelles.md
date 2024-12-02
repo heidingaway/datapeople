@@ -1,6 +1,11 @@
-# Etudes culturelles  
+---
+title: Etudes culturelles
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Études culturelles
 
-## French
-
-- [[4705 Cultural studies]]  
-
+french:
+- "[[4705 Cultural studies]]"
+---
+# Etudes culturelles

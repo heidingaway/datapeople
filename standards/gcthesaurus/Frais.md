@@ -1,6 +1,11 @@
-# Frais  
+---
+title: Frais
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Frais
 
-## French
-
-- [[7628 Fees]]  
-
+french:
+- "[[7628 Fees]]"
+---
+# Frais

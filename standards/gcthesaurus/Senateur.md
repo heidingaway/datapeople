@@ -1,6 +1,11 @@
-# Senateur  
+---
+title: Senateur
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sénateur
 
-## French
-
-- [[13378 Members of the Senate]]  
-
+french:
+- "[[13378 Members of the Senate]]"
+---
+# Senateur

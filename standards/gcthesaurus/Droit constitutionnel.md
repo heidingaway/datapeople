@@ -1,6 +1,11 @@
-# Droit constitutionnel  
+---
+title: Droit constitutionnel
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Droit constitutionnel
 
-## French
-
-- [[3998 Constitutional law]]  
-
+french:
+- "[[3998 Constitutional law]]"
+---
+# Droit constitutionnel

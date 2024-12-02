@@ -1,6 +1,11 @@
-# Exemption  
+---
+title: Exemption
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Exemption
 
-## Related Term
-
-- [[7237 Exclusion]]  
-
+relatedTerm:
+- "[[7237 Exclusion]]"
+---
+# Exemption

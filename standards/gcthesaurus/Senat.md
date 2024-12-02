@@ -1,6 +1,11 @@
-# Senat  
+---
+title: Senat
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sénat
 
-## French
-
-- [[18524 Senate]]  
-
+french:
+- "[[18524 Senate]]"
+---
+# Senat

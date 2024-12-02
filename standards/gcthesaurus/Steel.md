@@ -1,6 +1,11 @@
-# Steel  
+---
+title: Steel
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Steel
 
-## Related Term
-
-- [[13458 Metalworking industry]]  
-
+relatedTerm:
+- "[[13458 Metalworking industry]]"
+---
+# Steel

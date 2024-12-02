@@ -1,6 +1,11 @@
-# Poetry  
+---
+title: Poetry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Poetry
 
-## Narrower Term
-
-- [[12515 Literature]]  
-
+narrowerTerm:
+- "[[12515 Literature]]"
+---
+# Poetry

@@ -1,6 +1,11 @@
-# Developpement communautaire  
+---
+title: Developpement communautaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Développement communautaire
 
-## French
-
-- [[3687 Community development]]  
-
+french:
+- "[[3687 Community development]]"
+---
+# Developpement communautaire

@@ -1,6 +1,11 @@
-# Ice hockey  
+---
+title: Ice hockey
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ice hockey
 
-## Used For
-
-- [[9994 Hockey]]  
-
+usedFor:
+- "[[9994 Hockey]]"
+---
+# Ice hockey

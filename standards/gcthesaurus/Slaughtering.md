@@ -1,12 +1,15 @@
-# Slaughtering  
+---
+title: Slaughtering
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Slaughtering
 
-## Related Term
-
-- [[1027 Animal husbandry]
-- [[12549 Livestock]]  
-
-## Use
-
-- [[18788 Slaughter of animals]
-- [[1090 Animal slaughtering]]  
-
+relatedTerm:
+- "[[1027 Animal husbandry]]"
+- "[[12549 Livestock]]"
+use:
+- "[[18788 Slaughter of animals]]"
+- "[[1090 Animal slaughtering]]"
+---
+# Slaughtering

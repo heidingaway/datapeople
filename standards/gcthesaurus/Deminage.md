@@ -1,6 +1,11 @@
-# Deminage  
+---
+title: Deminage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Déminage
 
-## French
-
-- [[5078 Demining]]  
-
+french:
+- "[[5078 Demining]]"
+---
+# Deminage

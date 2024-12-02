@@ -1,6 +1,11 @@
-# Information electronique  
+---
+title: Information electronique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Information électronique
 
-## French
-
-- [[6338 Electronic information]]  
-
+french:
+- "[[6338 Electronic information]]"
+---
+# Information electronique

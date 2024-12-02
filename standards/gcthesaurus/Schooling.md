@@ -1,6 +1,11 @@
-# Schooling  
+---
+title: Schooling
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Schooling
 
-## Used For
-
-- [[6023 Education]]  
-
+usedFor:
+- "[[6023 Education]]"
+---
+# Schooling

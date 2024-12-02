@@ -1,6 +1,11 @@
-# Technologie energetique  
+---
+title: Technologie energetique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Technologie énergétique
 
-## French
-
-- [[6699 Energy technology]]  
-
+french:
+- "[[6699 Energy technology]]"
+---
+# Technologie energetique

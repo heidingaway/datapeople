@@ -1,6 +1,11 @@
-# Hydroelectricity  
+---
+title: Hydroelectricity
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hydroelectricity
 
-## Used For
-
-- [[10414 Hydropower]]  
-
+usedFor:
+- "[[10414 Hydropower]]"
+---
+# Hydroelectricity

@@ -1,6 +1,11 @@
-# Recyclable waste  
+---
+title: Recyclable waste
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Recyclable waste
 
-## Used For
-
-- [[17360 Recyclable materials]]  
-
+usedFor:
+- "[[17360 Recyclable materials]]"
+---
+# Recyclable waste

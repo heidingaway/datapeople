@@ -1,6 +1,11 @@
-# Morse  
+---
+title: Morse
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Morse
 
-## French
-
-- [[21235 Walruses]]  
-
+french:
+- "[[21235 Walruses]]"
+---
+# Morse

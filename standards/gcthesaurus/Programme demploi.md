@@ -1,6 +1,11 @@
-# Programme demploi  
+---
+title: Programme demploi
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Programme d'emploi
 
-## French
-
-- [[6580 Employment programs]]  
-
+french:
+- "[[6580 Employment programs]]"
+---
+# Programme demploi

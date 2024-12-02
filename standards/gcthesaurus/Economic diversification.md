@@ -1,6 +1,11 @@
-# Economic diversification  
+---
+title: Economic diversification
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Economic diversification
 
-## Used For
-
-- [[5869 Economic development]]  
-
+usedFor:
+- "[[5869 Economic development]]"
+---
+# Economic diversification

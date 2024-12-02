@@ -1,6 +1,11 @@
-# Programmes sociaux  
+---
+title: Programmes sociaux
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Programmes sociaux
 
-## French
-
-- [[18966 Social programs]]  
-
+french:
+- "[[18966 Social programs]]"
+---
+# Programmes sociaux

@@ -1,6 +1,11 @@
-# Rapport technique  
+---
+title: Rapport technique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rapport technique
 
-## French
-
-- [[19819 Technical reports]]  
-
+french:
+- "[[19819 Technical reports]]"
+---
+# Rapport technique

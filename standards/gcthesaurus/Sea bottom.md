@@ -1,6 +1,11 @@
-# Sea bottom  
+---
+title: Sea bottom
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sea bottom
 
-## Used For
-
-- [[14841 Ocean floor]]  
-
+usedFor:
+- "[[14841 Ocean floor]]"
+---
+# Sea bottom

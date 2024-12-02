@@ -1,6 +1,11 @@
-# Sensibilisation  
+---
+title: Sensibilisation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sensibilisation
 
-## French
-
-- [[1815 Awareness]]  
-
+french:
+- "[[1815 Awareness]]"
+---
+# Sensibilisation

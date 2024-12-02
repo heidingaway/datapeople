@@ -1,12 +1,15 @@
-# Fundraising  
+---
+title: Fundraising
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fundraising
 
-## Related Term
-
-- [[8635 Funding]]  
-
-## Use
-
-- [[8646 Fundraising campaign]
-- [[8622 Fund raising campaign]
-- [[8620 Fund raising]]  
-
+relatedTerm:
+- "[[8635 Funding]]"
+use:
+- "[[8646 Fundraising campaign]]"
+- "[[8622 Fund raising campaign]]"
+- "[[8620 Fund raising]]"
+---
+# Fundraising

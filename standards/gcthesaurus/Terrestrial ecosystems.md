@@ -1,10 +1,13 @@
-# Terrestrial ecosystems  
+---
+title: Terrestrial ecosystems
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Terrestrial ecosystems
 
-## Narrower Term
-
-- [[5996 Ecosystems]]  
-
-## Use
-
-- [[11991 Land ecosystems]]  
-
+narrowerTerm:
+- "[[5996 Ecosystems]]"
+use:
+- "[[11991 Land ecosystems]]"
+---
+# Terrestrial ecosystems

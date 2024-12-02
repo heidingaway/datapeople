@@ -1,6 +1,11 @@
-# Role  
+---
+title: Role
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rôle
 
-## French
-
-- [[17943 Roles]]  
-
+french:
+- "[[17943 Roles]]"
+---
+# Role

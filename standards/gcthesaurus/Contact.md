@@ -1,6 +1,11 @@
-# Contact  
+---
+title: Contact
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Contact
 
-## Related Term
-
-- [[10967 Information]]  
-
+relatedTerm:
+- "[[10967 Information]]"
+---
+# Contact

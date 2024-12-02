@@ -1,6 +1,11 @@
-# Psychological harassment  
+---
+title: Psychological harassment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Psychological harassment
 
-## Used For
-
-- [[9466 Harassment]]  
-
+usedFor:
+- "[[9466 Harassment]]"
+---
+# Psychological harassment

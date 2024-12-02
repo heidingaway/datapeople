@@ -1,6 +1,11 @@
-# Personne handicapee  
+---
+title: Personne handicapee
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Personne handicapée
 
-## French
-
-- [[15579 Persons with disabilities]]  
-
+french:
+- "[[15579 Persons with disabilities]]"
+---
+# Personne handicapee

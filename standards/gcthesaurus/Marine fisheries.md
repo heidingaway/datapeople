@@ -1,6 +1,11 @@
-# Marine fisheries  
+---
+title: Marine fisheries
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Marine fisheries
 
-## Used For
-
-- [[7909 Fisheries]]  
-
+usedFor:
+- "[[7909 Fisheries]]"
+---
+# Marine fisheries

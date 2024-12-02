@@ -1,6 +1,11 @@
-# Government finance  
+---
+title: Government finance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Government finance
 
-## Used For
-
-- [[16813 Public finance]]  
-
+usedFor:
+- "[[16813 Public finance]]"
+---
+# Government finance

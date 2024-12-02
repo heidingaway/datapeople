@@ -1,6 +1,11 @@
-# Faillite  
+---
+title: Faillite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Faillite
 
-## French
-
-- [[1853 Bankruptcies]]  
-
+french:
+- "[[1853 Bankruptcies]]"
+---
+# Faillite

@@ -1,6 +1,11 @@
-# Survival  
+---
+title: Survival
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Survival
 
-## Use
-
-- [[19622 Survival training]]  
-
+use:
+- "[[19622 Survival training]]"
+---
+# Survival

@@ -1,6 +1,11 @@
-# Decoration  
+---
+title: Decoration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Décoration
 
-## French
-
-- [[5004 Decorations]]  
-
+french:
+- "[[5004 Decorations]]"
+---
+# Decoration

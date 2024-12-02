@@ -1,6 +1,11 @@
-# Langue officielle  
+---
+title: Langue officielle
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Langue officielle
 
-## French
-
-- [[14928 Official languages]]  
-
+french:
+- "[[14928 Official languages]]"
+---
+# Langue officielle

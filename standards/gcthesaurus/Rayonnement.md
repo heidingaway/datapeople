@@ -1,6 +1,11 @@
-# Rayonnement  
+---
+title: Rayonnement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rayonnement
 
-## French
-
-- [[17062 Radiation]]  
-
+french:
+- "[[17062 Radiation]]"
+---
+# Rayonnement

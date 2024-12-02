@@ -1,14 +1,15 @@
-# Intimidation  
+---
+title: Intimidation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Intimidation
 
-## French
-
-- [[11519 Intimidation]]  
-
-## Narrower Term
-
-- [[21030 Violence]]  
-
-## Use
-
-- [[2478 Bullying]]  
-
+french:
+- "[[11519 Intimidation]]"
+narrowerTerm:
+- "[[21030 Violence]]"
+use:
+- "[[2478 Bullying]]"
+---
+# Intimidation

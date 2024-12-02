@@ -1,6 +1,11 @@
-# Mort  
+---
+title: Mort
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mort
 
-## French
-
-- [[4938 Death]]  
-
+french:
+- "[[4938 Death]]"
+---
+# Mort

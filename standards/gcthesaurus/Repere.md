@@ -1,6 +1,11 @@
-# Repere  
+---
+title: Repere
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Repère
 
-## French
-
-- [[1941 Benchmarks]]  
-
+french:
+- "[[1941 Benchmarks]]"
+---
+# Repere

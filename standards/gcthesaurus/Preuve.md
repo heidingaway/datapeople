@@ -1,6 +1,11 @@
-# Preuve  
+---
+title: Preuve
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Preuve
 
-## French
-
-- [[7206 Evidence]]  
-
+french:
+- "[[7206 Evidence]]"
+---
+# Preuve

@@ -1,6 +1,11 @@
-# Occupational mobility  
+---
+title: Occupational mobility
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Occupational mobility
 
-## Used For
-
-- [[11917 Labour mobility]]  
-
+usedFor:
+- "[[11917 Labour mobility]]"
+---
+# Occupational mobility

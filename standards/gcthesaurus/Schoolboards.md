@@ -1,6 +1,11 @@
-# Schoolboards  
+---
+title: Schoolboards
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Schoolboards
 
-## Used For
-
-- [[18204 School boards]]  
-
+usedFor:
+- "[[18204 School boards]]"
+---
+# Schoolboards

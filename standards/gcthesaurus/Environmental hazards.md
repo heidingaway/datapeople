@@ -1,8 +1,13 @@
-# Environmental hazards  
+---
+title: Environmental hazards
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Environmental hazards
 
-## Related Term
-
-- [[6886 Environmental impact]
-- [[6971 Environmental protection]
-- [[9528 Hazardous materials]]  
-
+relatedTerm:
+- "[[6886 Environmental impact]]"
+- "[[6971 Environmental protection]]"
+- "[[9528 Hazardous materials]]"
+---
+# Environmental hazards

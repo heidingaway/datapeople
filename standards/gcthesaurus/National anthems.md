@@ -1,10 +1,13 @@
-# National anthems  
+---
+title: National anthems
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: National anthems
 
-## Narrower Term
-
-- [[14244 National symbols]]  
-
-## Related Term
-
-- [[19309 State ceremonial]]  
-
+narrowerTerm:
+- "[[14244 National symbols]]"
+relatedTerm:
+- "[[19309 State ceremonial]]"
+---
+# National anthems

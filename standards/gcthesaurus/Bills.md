@@ -1,6 +1,11 @@
-# Bills  
+---
+title: Bills
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Bills
 
-## Used For
-
-- [[12299 Legislation]]  
-
+usedFor:
+- "[[12299 Legislation]]"
+---
+# Bills

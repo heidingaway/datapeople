@@ -1,14 +1,15 @@
-# Trucks  
+---
+title: Trucks
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Trucks
 
-## Narrower Term
-
-- [[13977 Motor vehicles]]  
-
-## Related Term
-
-- [[20715 Trucking industry]]  
-
-## Use
-
-- [[13961 Motor trucks]]  
-
+narrowerTerm:
+- "[[13977 Motor vehicles]]"
+relatedTerm:
+- "[[20715 Trucking industry]]"
+use:
+- "[[13961 Motor trucks]]"
+---
+# Trucks

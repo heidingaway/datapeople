@@ -1,6 +1,11 @@
-# Plante ornementale  
+---
+title: Plante ornementale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Plante ornementale
 
-## French
-
-- [[15118 Ornamental plants]]  
-
+french:
+- "[[15118 Ornamental plants]]"
+---
+# Plante ornementale

@@ -1,6 +1,11 @@
-# Decontamination  
+---
+title: Decontamination
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Décontamination
 
-## French
-
-- [[5000 Decontamination]]  
-
+french:
+- "[[5000 Decontamination]]"
+---
+# Decontamination

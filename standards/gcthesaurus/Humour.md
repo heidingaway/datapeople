@@ -1,15 +1,16 @@
-# Humour  
+---
+title: Humour
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Humour
 
-## French
-
-- [[10295 Humour]]  
-
-## Narrower Term
-
-- [[15475 Performing arts]]  
-
-## Use
-
-- [[2805 Caricatures]
-- [[10293 Humor]]  
-
+french:
+- "[[10295 Humour]]"
+narrowerTerm:
+- "[[15475 Performing arts]]"
+use:
+- "[[2805 Caricatures]]"
+- "[[10293 Humor]]"
+---
+# Humour

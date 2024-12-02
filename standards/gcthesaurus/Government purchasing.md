@@ -1,6 +1,11 @@
-# Government purchasing  
+---
+title: Government purchasing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Government purchasing
 
-## Used For
-
-- [[16970 Purchasing]]  
-
+usedFor:
+- "[[16970 Purchasing]]"
+---
+# Government purchasing

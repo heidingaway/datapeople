@@ -1,6 +1,11 @@
-# Labor  
+---
+title: Labor
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Labor
 
-## Used For
-
-- [[11837 Labour]]  
-
+usedFor:
+- "[[11837 Labour]]"
+---
+# Labor

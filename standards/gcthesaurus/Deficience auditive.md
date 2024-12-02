@@ -1,6 +1,11 @@
-# Deficience auditive  
+---
+title: Deficience auditive
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Déficience auditive
 
-## French
-
-- [[9794 Hearing disabilities]]  
-
+french:
+- "[[9794 Hearing disabilities]]"
+---
+# Deficience auditive

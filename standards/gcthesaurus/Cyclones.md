@@ -1,6 +1,11 @@
-# Cyclones  
+---
+title: Cyclones
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cyclones
 
-## Used For
-
-- [[19417 Storms]]  
-
+usedFor:
+- "[[19417 Storms]]"
+---
+# Cyclones

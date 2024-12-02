@@ -1,6 +1,11 @@
-# Stratigraphy  
+---
+title: Stratigraphy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Stratigraphy
 
-## Narrower Term
-
-- [[8990 Geology]]  
-
+narrowerTerm:
+- "[[8990 Geology]]"
+---
+# Stratigraphy

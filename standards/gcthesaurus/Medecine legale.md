@@ -1,6 +1,11 @@
-# Medecine legale  
+---
+title: Medecine legale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Médecine légale
 
-## French
-
-- [[8282 Forensics]]  
-
+french:
+- "[[8282 Forensics]]"
+---
+# Medecine legale

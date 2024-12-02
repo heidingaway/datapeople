@@ -1,6 +1,11 @@
-# Bulletins  
+---
+title: Bulletins
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Bulletins
 
-## Used For
-
-- [[14440 Newsletters]]  
-
+usedFor:
+- "[[14440 Newsletters]]"
+---
+# Bulletins

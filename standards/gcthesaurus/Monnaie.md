@@ -1,6 +1,11 @@
-# Monnaie  
+---
+title: Monnaie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Monnaie
 
-## French
-
-- [[4729 Currency]]  
-
+french:
+- "[[4729 Currency]]"
+---
+# Monnaie

@@ -1,10 +1,13 @@
-# Family businesses  
+---
+title: Family businesses
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Family businesses
 
-## Narrower Term
-
-- [[2590 Businesses]]  
-
-## Use
-
-- [[7391 Family owned businesses]]  
-
+narrowerTerm:
+- "[[2590 Businesses]]"
+use:
+- "[[7391 Family owned businesses]]"
+---
+# Family businesses

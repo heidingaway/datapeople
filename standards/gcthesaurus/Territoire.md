@@ -1,6 +1,11 @@
-# Territoire  
+---
+title: Territoire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Territoire
 
-## French
-
-- [[20085 Territories]]  
-
+french:
+- "[[20085 Territories]]"
+---
+# Territoire

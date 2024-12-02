@@ -1,6 +1,11 @@
-# Minorite  
+---
+title: Minorite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Minorité
 
-## French
-
-- [[13768 Minorities]]  
-
+french:
+- "[[13768 Minorities]]"
+---
+# Minorite

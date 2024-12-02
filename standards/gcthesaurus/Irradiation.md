@@ -1,14 +1,15 @@
-# Irradiation  
+---
+title: Irradiation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Irradiation
 
-## Broader Term
-
-- [[8119 Food irradiation]]  
-
-## French
-
-- [[11605 Irradiation]]  
-
-## Related Term
-
-- [[17064 Radiation]]  
-
+broaderTerm:
+- "[[8119 Food irradiation]]"
+french:
+- "[[11605 Irradiation]]"
+relatedTerm:
+- "[[17064 Radiation]]"
+---
+# Irradiation

@@ -1,6 +1,11 @@
-# Developpement regional  
+---
+title: Developpement regional
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Développement régional
 
-## French
-
-- [[17436 Regional development]]  
-
+french:
+- "[[17436 Regional development]]"
+---
+# Developpement regional

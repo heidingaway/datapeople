@@ -1,6 +1,11 @@
-# World market  
+---
+title: World market
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: World market
 
-## Used For
-
-- [[11402 International markets]]  
-
+usedFor:
+- "[[11402 International markets]]"
+---
+# World market

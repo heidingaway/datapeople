@@ -1,6 +1,11 @@
-# Reading skills  
+---
+title: Reading skills
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Reading skills
 
-## Used For
-
-- [[17222 Reading]]  
-
+usedFor:
+- "[[17222 Reading]]"
+---
+# Reading skills

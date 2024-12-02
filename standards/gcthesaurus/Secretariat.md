@@ -1,6 +1,11 @@
-# Secretariat  
+---
+title: Secretariat
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Secretariat
 
-## Used For
-
-- [[244 Administrative services]]  
-
+usedFor:
+- "[[244 Administrative services]]"
+---
+# Secretariat

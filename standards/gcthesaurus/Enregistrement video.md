@@ -1,6 +1,11 @@
-# Enregistrement video  
+---
+title: Enregistrement video
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Enregistrement vidéo
 
-## French
-
-- [[21001 Videorecordings]]  
-
+french:
+- "[[21001 Videorecordings]]"
+---
+# Enregistrement video

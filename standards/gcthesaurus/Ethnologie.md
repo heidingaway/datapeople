@@ -1,6 +1,11 @@
-# Ethnologie  
+---
+title: Ethnologie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ethnologie
 
-## French
-
-- [[7184 Ethnology]]  
-
+french:
+- "[[7184 Ethnology]]"
+---
+# Ethnologie

@@ -1,6 +1,11 @@
-# Prevision economique  
+---
+title: Prevision economique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prévision économique
 
-## French
-
-- [[5883 Economic forecasting]]  
-
+french:
+- "[[5883 Economic forecasting]]"
+---
+# Prevision economique

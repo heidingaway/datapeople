@@ -1,6 +1,11 @@
-# Industrie agroalimentaire  
+---
+title: Industrie agroalimentaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrie agro-alimentaire
 
-## French
-
-- [[411 Agri-food industry]]  
-
+french:
+- "[[411 Agri-food industry]]"
+---
+# Industrie agroalimentaire

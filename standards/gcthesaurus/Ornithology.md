@@ -1,10 +1,13 @@
-# Ornithology  
+---
+title: Ornithology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ornithology
 
-## Narrower Term
-
-- [[22137 Zoology]]  
-
-## Related Term
-
-- [[2246 Birds]]  
-
+narrowerTerm:
+- "[[22137 Zoology]]"
+relatedTerm:
+- "[[2246 Birds]]"
+---
+# Ornithology

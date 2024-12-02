@@ -1,6 +1,11 @@
-# Politique dimmigration  
+---
+title: Politique dimmigration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Politique d'immigration
 
-## French
-
-- [[10514 Immigration policy]]  
-
+french:
+- "[[10514 Immigration policy]]"
+---
+# Politique dimmigration

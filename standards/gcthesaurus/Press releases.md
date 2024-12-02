@@ -1,15 +1,18 @@
-# Press releases  
+---
+title: Press releases
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Press releases
 
-## Related Term
-
-- [[9182 Government information]
-- [[9155 Government communications]
-- [[9234 Government publications]
-- [[13198 Media]
-- [[16871 Public relations]
-- [[10988 Information dissemination]]  
-
-## Use
-
-- [[3683 Communiqués]]  
-
+relatedTerm:
+- "[[9182 Government information]]"
+- "[[9155 Government communications]]"
+- "[[9234 Government publications]]"
+- "[[13198 Media]]"
+- "[[16871 Public relations]]"
+- "[[10988 Information dissemination]]"
+use:
+- "[[3683 Communiqués]]"
+---
+# Press releases

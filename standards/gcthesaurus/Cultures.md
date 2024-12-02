@@ -1,6 +1,11 @@
-# Cultures  
+---
+title: Cultures
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cultures
 
-## French
-
-- [[4537 Crops]]  
-
+french:
+- "[[4537 Crops]]"
+---
+# Cultures

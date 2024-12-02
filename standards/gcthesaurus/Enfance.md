@@ -1,6 +1,11 @@
-# Enfance  
+---
+title: Enfance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Enfance
 
-## French
-
-- [[3153 Childhood]]  
-
+french:
+- "[[3153 Childhood]]"
+---
+# Enfance

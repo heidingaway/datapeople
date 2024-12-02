@@ -1,6 +1,11 @@
-# Status of the elderly  
+---
+title: Status of the elderly
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Status of the elderly
 
-## Related Term
-
-- [[18552 Seniors]]  
-
+relatedTerm:
+- "[[18552 Seniors]]"
+---
+# Status of the elderly

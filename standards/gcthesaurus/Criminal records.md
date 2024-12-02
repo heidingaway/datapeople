@@ -1,7 +1,12 @@
-# Criminal records  
+---
+title: Criminal records
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Criminal records
 
-## Related Term
-
-- [[11728 Justice system]
-- [[4460 Crime]]  
-
+relatedTerm:
+- "[[11728 Justice system]]"
+- "[[4460 Crime]]"
+---
+# Criminal records

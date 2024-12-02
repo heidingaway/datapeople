@@ -1,6 +1,11 @@
-# Respiratory illness  
+---
+title: Respiratory illness
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Respiratory illness
 
-## Used For
-
-- [[17748 Respiratory diseases]]  
-
+usedFor:
+- "[[17748 Respiratory diseases]]"
+---
+# Respiratory illness

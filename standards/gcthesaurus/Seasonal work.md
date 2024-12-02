@@ -1,6 +1,11 @@
-# Seasonal work  
+---
+title: Seasonal work
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Seasonal work
 
-## Used For
-
-- [[18363 Seasonal employment]]  
-
+usedFor:
+- "[[18363 Seasonal employment]]"
+---
+# Seasonal work

@@ -1,6 +1,11 @@
-# Candidat  
+---
+title: Candidat
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Candidat
 
-## French
-
-- [[2722 Candidates]]  
-
+french:
+- "[[2722 Candidates]]"
+---
+# Candidat

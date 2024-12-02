@@ -1,8 +1,13 @@
-# Vacations  
+---
+title: Vacations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vacations
 
-## Related Term
-
-- [[12247 Leave of absence]
-- [[21962 Working conditions]
-- [[10006 Holidays]]  
-
+relatedTerm:
+- "[[12247 Leave of absence]]"
+- "[[21962 Working conditions]]"
+- "[[10006 Holidays]]"
+---
+# Vacations

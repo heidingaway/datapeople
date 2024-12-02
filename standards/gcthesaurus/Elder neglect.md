@@ -1,6 +1,11 @@
-# Elder neglect  
+---
+title: Elder neglect
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Elder neglect
 
-## Used For
-
-- [[6134 Elder abuse]]  
-
+usedFor:
+- "[[6134 Elder abuse]]"
+---
+# Elder neglect

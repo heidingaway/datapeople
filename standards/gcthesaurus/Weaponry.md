@@ -1,6 +1,11 @@
-# Weaponry  
+---
+title: Weaponry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Weaponry
 
-## Used For
-
-- [[21581 Weapons]]  
-
+usedFor:
+- "[[21581 Weapons]]"
+---
+# Weaponry

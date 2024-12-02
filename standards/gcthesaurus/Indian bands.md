@@ -1,6 +1,11 @@
-# Indian bands  
+---
+title: Indian bands
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Indian bands
 
-## Used For
-
-- [[7815 First Nations]]  
-
+usedFor:
+- "[[7815 First Nations]]"
+---
+# Indian bands

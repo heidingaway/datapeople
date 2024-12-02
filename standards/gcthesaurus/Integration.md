@@ -1,6 +1,11 @@
-# Integration  
+---
+title: Integration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Intégration
 
-## French
-
-- [[11219 Integration]]  
-
+french:
+- "[[11219 Integration]]"
+---
+# Integration

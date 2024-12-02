@@ -1,6 +1,11 @@
-# Ticks  
+---
+title: Ticks
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ticks
 
-## Used For
-
-- [[1322 Arachnids]]  
-
+usedFor:
+- "[[1322 Arachnids]]"
+---
+# Ticks

@@ -1,6 +1,11 @@
-# CanadaUS relations  
+---
+title: CanadaUS relations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Canada-U.S. relations
 
-## Used For
-
-- [[2684 Canadian-American relations]]  
-
+usedFor:
+- "[[2684 Canadian-American relations]]"
+---
+# CanadaUS relations

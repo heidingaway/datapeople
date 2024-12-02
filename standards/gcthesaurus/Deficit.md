@@ -1,6 +1,11 @@
-# Deficit  
+---
+title: Deficit
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Déficit
 
-## French
-
-- [[5043 Deficit]]  
-
+french:
+- "[[5043 Deficit]]"
+---
+# Deficit

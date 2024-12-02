@@ -1,6 +1,11 @@
-# Relations de travail  
+---
+title: Relations de travail
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Relations de travail
 
-## French
-
-- [[11931 Labour relations]]  
-
+french:
+- "[[11931 Labour relations]]"
+---
+# Relations de travail

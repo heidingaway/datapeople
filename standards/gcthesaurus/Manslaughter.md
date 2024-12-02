@@ -1,6 +1,11 @@
-# Manslaughter  
+---
+title: Manslaughter
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Manslaughter
 
-## Used For
-
-- [[10053 Homicide]]  
-
+usedFor:
+- "[[10053 Homicide]]"
+---
+# Manslaughter

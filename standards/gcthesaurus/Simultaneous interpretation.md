@@ -1,6 +1,11 @@
-# Simultaneous interpretation  
+---
+title: Simultaneous interpretation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Simultaneous interpretation
 
-## Used For
-
-- [[11492 Interpretation]]  
-
+usedFor:
+- "[[11492 Interpretation]]"
+---
+# Simultaneous interpretation

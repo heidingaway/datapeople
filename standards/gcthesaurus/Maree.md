@@ -1,6 +1,11 @@
-# Maree  
+---
+title: Maree
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Marée
 
-## French
-
-- [[20183 Tides]]  
-
+french:
+- "[[20183 Tides]]"
+---
+# Maree

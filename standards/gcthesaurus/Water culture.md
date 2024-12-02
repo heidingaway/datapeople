@@ -1,6 +1,11 @@
-# Water culture  
+---
+title: Water culture
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Water culture
 
-## Used For
-
-- [[10406 Hydroponics]]  
-
+usedFor:
+- "[[10406 Hydroponics]]"
+---
+# Water culture

@@ -1,6 +1,11 @@
-# Murder  
+---
+title: Murder
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Murder
 
-## Used For
-
-- [[10054 Homicide]]  
-
+usedFor:
+- "[[10054 Homicide]]"
+---
+# Murder

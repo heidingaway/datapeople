@@ -1,6 +1,11 @@
-# Information storage and retrieval systems  
+---
+title: Information storage and retrieval systems
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Information storage and retrieval systems
 
-## Used For
-
-- [[11034 Information systems]]  
-
+usedFor:
+- "[[11034 Information systems]]"
+---
+# Information storage and retrieval systems

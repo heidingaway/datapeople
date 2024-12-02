@@ -1,6 +1,11 @@
-# Vin  
+---
+title: Vin
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vin
 
-## French
-
-- [[21791 Wine]]  
-
+french:
+- "[[21791 Wine]]"
+---
+# Vin

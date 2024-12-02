@@ -1,6 +1,11 @@
-# Gouvernement provincial  
+---
+title: Gouvernement provincial
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gouvernement provincial
 
-## French
-
-- [[16703 Provincial governments]]  
-
+french:
+- "[[16703 Provincial governments]]"
+---
+# Gouvernement provincial

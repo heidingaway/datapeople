@@ -1,6 +1,11 @@
-# Work to rules  
+---
+title: Work to rules
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Work to rules
 
-## Used For
-
-- [[11865 Labour disputes]]  
-
+usedFor:
+- "[[11865 Labour disputes]]"
+---
+# Work to rules

@@ -1,7 +1,12 @@
-# Injunctions  
+---
+title: Injunctions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Injunctions
 
-## Related Term
-
-- [[13911 Moratorium]
-- [[16587 Prohibition]]  
-
+relatedTerm:
+- "[[13911 Moratorium]]"
+- "[[16587 Prohibition]]"
+---
+# Injunctions

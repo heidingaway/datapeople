@@ -1,7 +1,12 @@
-# Burials  
+---
+title: Burials
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Burials
 
-## Related Term
-
-- [[4941 Death]
-- [[2912 Cemeteries]]  
-
+relatedTerm:
+- "[[4941 Death]]"
+- "[[2912 Cemeteries]]"
+---
+# Burials

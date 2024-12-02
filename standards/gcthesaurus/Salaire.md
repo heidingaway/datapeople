@@ -1,6 +1,11 @@
-# Salaire  
+---
+title: Salaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Salaire
 
-## French
-
-- [[18076 Salaries]]  
-
+french:
+- "[[18076 Salaries]]"
+---
+# Salaire

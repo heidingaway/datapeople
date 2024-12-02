@@ -1,6 +1,11 @@
-# Spiders  
+---
+title: Spiders
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Spiders
 
-## Used For
-
-- [[1321 Arachnids]]  
-
+usedFor:
+- "[[1321 Arachnids]]"
+---
+# Spiders

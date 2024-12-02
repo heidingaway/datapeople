@@ -1,6 +1,11 @@
-# Forces alliees  
+---
+title: Forces alliees
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Forces alliées
 
-## French
-
-- [[865 Allied forces]]  
-
+french:
+- "[[865 Allied forces]]"
+---
+# Forces alliees

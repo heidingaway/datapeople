@@ -1,6 +1,11 @@
-# Cod  
+---
+title: Cod
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cod
 
-## Used For
-
-- [[18125 Salt water fish]]  
-
+usedFor:
+- "[[18125 Salt water fish]]"
+---
+# Cod

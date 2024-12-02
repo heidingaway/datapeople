@@ -1,6 +1,11 @@
-# Training workshops  
+---
+title: Training workshops
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Training workshops
 
-## Used For
-
-- [[20489 Training]]  
-
+usedFor:
+- "[[20489 Training]]"
+---
+# Training workshops

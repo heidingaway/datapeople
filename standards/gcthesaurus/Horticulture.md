@@ -1,15 +1,16 @@
-# Horticulture  
+---
+title: Horticulture
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Horticulture
 
-## French
-
-- [[10075 Horticulture]]  
-
-## Narrower Term
-
-- [[557 Agriculture]]  
-
-## Related Term
-
-- [[9371 Greenhouses]
-- [[8716 Gardening]]  
-
+french:
+- "[[10075 Horticulture]]"
+narrowerTerm:
+- "[[557 Agriculture]]"
+relatedTerm:
+- "[[9371 Greenhouses]]"
+- "[[8716 Gardening]]"
+---
+# Horticulture

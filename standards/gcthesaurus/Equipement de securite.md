@@ -1,6 +1,11 @@
-# Equipement de securite  
+---
+title: Equipement de securite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Équipement de sécurité
 
-## French
-
-- [[18017 Safety equipment]]  
-
+french:
+- "[[18017 Safety equipment]]"
+---
+# Equipement de securite

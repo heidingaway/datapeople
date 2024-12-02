@@ -1,11 +1,14 @@
-# Decorations  
+---
+title: Decorations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Decorations
 
-## Related Term
-
-- [[1812 Awards]]  
-
-## Use
-
-- [[13185 Medals]
-- [[5436 Distinctions]]  
-
+relatedTerm:
+- "[[1812 Awards]]"
+use:
+- "[[13185 Medals]]"
+- "[[5436 Distinctions]]"
+---
+# Decorations

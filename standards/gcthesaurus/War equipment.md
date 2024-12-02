@@ -1,6 +1,11 @@
-# War equipment  
+---
+title: War equipment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: War equipment
 
-## Used For
-
-- [[13673 Military technology]]  
-
+usedFor:
+- "[[13673 Military technology]]"
+---
+# War equipment

@@ -1,6 +1,11 @@
-# Military bases  
+---
+title: Military bases
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Military bases
 
-## Used For
-
-- [[13648 Military installations]]  
-
+usedFor:
+- "[[13648 Military installations]]"
+---
+# Military bases

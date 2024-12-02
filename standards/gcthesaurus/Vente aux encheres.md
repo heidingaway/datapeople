@@ -1,6 +1,11 @@
-# Vente aux encheres  
+---
+title: Vente aux encheres
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vente aux enchères
 
-## French
-
-- [[1683 Auctions]]  
-
+french:
+- "[[1683 Auctions]]"
+---
+# Vente aux encheres

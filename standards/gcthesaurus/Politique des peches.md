@@ -1,6 +1,11 @@
-# Politique des peches  
+---
+title: Politique des peches
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Politique des pêches
 
-## French
-
-- [[7927 Fisheries policy]]  
-
+french:
+- "[[7927 Fisheries policy]]"
+---
+# Politique des peches

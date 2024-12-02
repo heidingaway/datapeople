@@ -1,6 +1,11 @@
-# Norme  
+---
+title: Norme
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Norme
 
-## French
-
-- [[19290 Standards]]  
-
+french:
+- "[[19290 Standards]]"
+---
+# Norme

@@ -1,6 +1,11 @@
-# Placement initial  
+---
+title: Placement initial
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Placement initial
 
-## French
-
-- [[11078 Initial public offering]]  
-
+french:
+- "[[11078 Initial public offering]]"
+---
+# Placement initial

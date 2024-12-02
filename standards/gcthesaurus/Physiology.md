@@ -1,11 +1,14 @@
-# Physiology  
+---
+title: Physiology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Physiology
 
-## Narrower Term
-
-- [[2203 Biology]]  
-
-## Related Term
-
-- [[13353 Medicine]
-- [[964 Anatomy]]  
-
+narrowerTerm:
+- "[[2203 Biology]]"
+relatedTerm:
+- "[[13353 Medicine]]"
+- "[[964 Anatomy]]"
+---
+# Physiology

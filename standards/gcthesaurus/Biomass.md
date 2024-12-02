@@ -1,11 +1,14 @@
-# Biomass  
+---
+title: Biomass
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biomass
 
-## Related Term
-
-- [[5997 Ecosystems]
-- [[2127 Bioenergy]]  
-
-## Use
-
-- [[8298 Forest biomass]]  
-
+relatedTerm:
+- "[[5997 Ecosystems]]"
+- "[[2127 Bioenergy]]"
+use:
+- "[[8298 Forest biomass]]"
+---
+# Biomass

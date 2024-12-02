@@ -1,6 +1,11 @@
-# Espece menacee  
+---
+title: Espece menacee
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Espèce menacée
 
-## French
-
-- [[6604 Endangered species]]  
-
+french:
+- "[[6604 Endangered species]]"
+---
+# Espece menacee

@@ -1,6 +1,11 @@
-# Enquete criminelle  
+---
+title: Enquete criminelle
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Enquête criminelle
 
-## French
-
-- [[4487 Criminal investigations]]  
-
+french:
+- "[[4487 Criminal investigations]]"
+---
+# Enquete criminelle

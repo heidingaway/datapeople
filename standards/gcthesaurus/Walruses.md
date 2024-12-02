@@ -1,7 +1,12 @@
-# Walruses  
+---
+title: Walruses
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Walruses
 
-## Narrower Term
-
-- [[1265 Aquatic animals]
-- [[12740 Mammals]]  
-
+narrowerTerm:
+- "[[1265 Aquatic animals]]"
+- "[[12740 Mammals]]"
+---
+# Walruses

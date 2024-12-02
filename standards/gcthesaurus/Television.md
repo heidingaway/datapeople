@@ -1,6 +1,11 @@
-# Television  
+---
+title: Television
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Télévision
 
-## French
-
-- [[19985 Television]]  
-
+french:
+- "[[19985 Television]]"
+---
+# Television

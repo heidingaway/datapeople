@@ -1,6 +1,11 @@
-# Competitivite  
+---
+title: Competitivite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Compétitivité
 
-## French
-
-- [[3769 Competitiveness]]  
-
+french:
+- "[[3769 Competitiveness]]"
+---
+# Competitivite

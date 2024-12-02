@@ -1,6 +1,11 @@
-# Foster children  
+---
+title: Foster children
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Foster children
 
-## Narrower Term
-
-- [[8459 Foster families]]  
-
+narrowerTerm:
+- "[[8459 Foster families]]"
+---
+# Foster children

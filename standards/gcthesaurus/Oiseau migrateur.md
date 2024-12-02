@@ -1,6 +1,11 @@
-# Oiseau migrateur  
+---
+title: Oiseau migrateur
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Oiseau migrateur
 
-## French
-
-- [[13590 Migratory birds]]  
-
+french:
+- "[[13590 Migratory birds]]"
+---
+# Oiseau migrateur

@@ -1,6 +1,11 @@
-# Financing  
+---
+title: Financing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Financing
 
-## Used For
-
-- [[8631 Funding]]  
-
+usedFor:
+- "[[8631 Funding]]"
+---
+# Financing

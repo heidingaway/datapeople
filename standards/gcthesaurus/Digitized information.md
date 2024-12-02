@@ -1,7 +1,12 @@
-# Digitized information  
+---
+title: Digitized information
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Digitized information
 
-## Narrower Term
-
-- [[5266 Digitization]
-- [[10961 Information]]  
-
+narrowerTerm:
+- "[[5266 Digitization]]"
+- "[[10961 Information]]"
+---
+# Digitized information

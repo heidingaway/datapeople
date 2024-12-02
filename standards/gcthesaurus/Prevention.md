@@ -1,6 +1,11 @@
-# Prevention  
+---
+title: Prevention
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prévention
 
-## French
-
-- [[16271 Prevention]]  
-
+french:
+- "[[16271 Prevention]]"
+---
+# Prevention

@@ -1,10 +1,13 @@
-# Birth certificates  
+---
+title: Birth certificates
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Birth certificates
 
-## Narrower Term
-
-- [[3245 Citizenship documents]]  
-
-## Related Term
-
-- [[2250 Birth]]  
-
+narrowerTerm:
+- "[[3245 Citizenship documents]]"
+relatedTerm:
+- "[[2250 Birth]]"
+---
+# Birth certificates

@@ -1,6 +1,11 @@
-# Seal hunt  
+---
+title: Seal hunt
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Seal hunt
 
-## Used For
-
-- [[18338 Sealing]]  
-
+usedFor:
+- "[[18338 Sealing]]"
+---
+# Seal hunt

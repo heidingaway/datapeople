@@ -1,6 +1,11 @@
-# Biochemical compounds  
+---
+title: Biochemical compounds
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biochemical compounds
 
-## Used For
-
-- [[2091 Biochemicals]]  
-
+usedFor:
+- "[[2091 Biochemicals]]"
+---
+# Biochemical compounds

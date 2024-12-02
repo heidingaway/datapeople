@@ -1,387 +1,392 @@
-# GV Government and Politics  
+---
+title: GV Government and Politics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: GV Government and Politics
 
-## Subject Category
-
-- [[19311 State ceremonial]
-- [[12272 Legal notices (Web sites)]
-- [[7931 Fisheries policy]
-- [[9733 Health policy]
-- [[21231 Voting]
-- [[7576 Federal programs]
-- [[3236 Citizen participation]
-- [[6410 Embassies]
-- [[5442 Distribution of jurisdictions]
-- [[21667 Welfare state]
-- [[4696 Cultural policy]
-- [[15979 Political activities]
-- [[15305 Parliamentary debates]
-- [[15981 Political autonomy]
-- [[20067 Territorial councils]
-- [[5446 Distribution of powers]
-- [[6263 Electronic administration]
-- [[11497 Interprovincial cooperation]
-- [[11580 Investigative bodies]
-- [[2682 Canada-U.S. relations]
-- [[7560 Federal information]
-- [[15983 Political life]
-- [[16599 Promotion of official languages]
-- [[14001 MPs]
-- [[20090 Territories]
-- [[16596 Promotion of linguistic duality]
-- [[15985 Political organizations]
-- [[2641 Cabinet]
-- [[20682 Treasury Board Secretariat]
-- [[8257 Foreign policy]
-- [[16008 Politics]
-- [[20057 Terms of use]
-- [[5457 Division of jurisdiction]
-- [[15299 Parliament of Canada]
-- [[2349 Borders]
-- [[40 Aboriginal issues]
-- [[10103 House of Commons]
-- [[8901 Geographic boundaries]
-- [[8220 Foreign affairs]
-- [[2347 Border crossing]
-- [[20052 Terms of service]
-- [[5147 Departments]
-- [[2626 By-elections]
-- [[5459 Division of power]
-- [[20045 Terms and conditions]
-- [[523 Agricultural policy]
-- [[6177 Electoral districts]
-- [[1236 Approval processes]
-- [[6184 Electoral rights]
-- [[11587 Investment policy]
-- [[7569 Federal institutions]
-- [[20867 Utilities]
-- [[20065 Territorial assemblies]
-- [[14342 Naturalization]
-- [[13140 Material disposal services]
-- [[15303 Parliamentary committees]
-- [[14503 Non-repayable contributions]
-- [[7528 Federal employees]
-- [[21229 Vote]
-- [[15992 Political parties]
-- [[20063 Territorial administration]
-- [[17570 Repayable contributions]
-- [[10517 Immigration policy]
-- [[233 Administrative burdens]
-- [[17589 Representatives]
-- [[12411 Lieutenant Governor]
-- [[21671 Western provinces]
-- [[7869 Fiscal policy]
-- [[7558 Federal government publications]
-- [[14556 North-South relations]
-- [[2384 Boundaries]
-- [[12327 Legislative bodies]
-- [[4049 Consuls]
-- [[11984 Land claims]
-- [[14068 Municipal buildings]
-- [[19379 Statutes]
-- [[17949 Royal visits]
-- [[17947 Royal commissions]
-- [[3249 Citizenship documents]
-- [[12325 Legislative assemblies]
-- [[12329 Legislative process]
-- [[20755 U.S.-Canada relations]
-- [[7552 Federal government]
-- [[19323 Statements]
-- [[14167 National accounts]
-- [[35 Aboriginal governments]
-- [[14062 Municipal administration]
-- [[5725 Duty to accommodate]
-- [[14175 National archives]
-- [[3485 Collaborations]
-- [[14070 Municipal councils]
-- [[4046 Consulates]
-- [[14185 National Capital]
-- [[7583 Federal provincial conferences]
-- [[5734 E-administration]
-- [[12309 Legislation]
-- [[17392 Red tape burdens]
-- [[15316 Parliamentary leaders]
-- [[17395 Red tape reduction]
-- [[2413 Briefing papers]
-- [[12593 Lobbying]
-- [[7585 Federal provincial cooperation]
-- [[4043 Consular services]
-- [[14072 Municipal governments]
-- [[7581 Federal provincial agreements]
-- [[6179 Electoral law]
-- [[20084 Territorial waters]
-- [[20082 Territorial sea]
-- [[14077 Municipalities]
-- [[17405 Referendums]
-- [[5243 Digital government]
-- [[7511 Federal agencies]
-- [[15973 Policy instruments]
-- [[2396 Branches]
-- [[2688 Canadian-American relations]
-- [[5516 Domestic security]
-- [[11505 Interprovincial relations]
-- [[6670 Energy policy]
-- [[7554 Federal government employees]
-- [[14253 Nationality]
-- [[2389 Boundary waters]
-- [[2706 Canadian Parliament]
-- [[14257 Nationalized enterprises]
-- [[17821 Ridings]
-- [[10632 Indigenous affairs]
-- [[10653 Indigenous governments]
-- [[5368 Disclosure of wrongdoing]
-- [[6437 Emergency procedures]
-- [[16192 PPP]
-- [[7509 Federal administration]
-- [[7839 Fiscal equalization]
-- [[5504 Domestic debt]
-- [[19507 Submissions]
-- [[19313 State ceremonies]
-- [[3242 Citizenship]
-- [[14241 National security]
-- [[5741 E-government]
-- [[20075 Territorial governments]
-- [[12340 Legislatures]
-- [[12608 Local governments]
-- [[15322 Parliamentary procedure]
-- [[14194 National debt]
-- [[8139 Food policy]
-- [[14196 National defence]
-- [[14199 National defense]
-- [[14601 Northerners]
-- [[14217 National income]
-- [[15887 Plebiscites]
-- [[14222 National libraries]
-- [[15977 Policy review]
-- [[14587 Northern residents]
-- [[19317 State visits]
-- [[2724 Candidates]
-- [[8387 Forestry policy]
-- [[14230 National parks]
-- [[8259 Foreign relations]
-- [[5035 Defence policy]
-- [[6182 Electoral reform]
-- [[11420 International relations]
-- [[16394 Privacy]
-- [[18590 Services]
-- [[9156 Government communications]
-- [[16859 Public participation]
-- [[9160 Government departments]
-- [[16866 Public policy]
-- [[5287 Diplomats]
-- [[19158 Sovereignty]
-- [[9162 Government employees]
-- [[21718 Whistle blowing]
-- [[4559 Crown assets]
-- [[13669 Military policy]
-- [[15359 Partnerships]
-- [[5041 Defense policy]
-- [[21726 Whistleblowing]
-- [[16711 Provincial governments]
-- [[9166 Government expenditures]
-- [[11011 Information policy]
-- [[8780 Gender-based analysis plus]
-- [[9169 Government finance]
-- [[15965 Policy]
-- [[16876 Public safety]
-- [[9171 Government House leader]
-- [[9274 Governor General]
-- [[11303 Intergovernmental relations]
-- [[6171 Electoral boundaries]
-- [[6334 Electronic government]
-- [[9270 Governments]
-- [[3281 Civil servants]
-- [[7601 Federal publications]
-- [[5285 Diplomatic missions]
-- [[14950 Official visits]
-- [[61 Aboriginal self government]
-- [[11348 International boundary waters]
-- [[16824 Public finance]
-- [[7079 Equalization payments]
-- [[7077 Equalization]
-- [[7571 Federal lands]
-- [[9126 GOL]
-- [[21715 Whistle blower protection]
-- [[16828 Public funding]
-- [[20546 Transfer payments]
-- [[20433 Trade promotion]
-- [[7526 Federal departments]
-- [[6434 Emergency preparedness]
-- [[15970 Policy evaluation]
-- [[16834 Public hearings]
-- [[16839 Public lands]
-- [[14948 Official residences]
-- [[6776 Entry to Canada]
-- [[9141 Governance]
-- [[15968 Policy development]
-- [[21095 Visits of state]
-- [[2976 CFO]
-- [[6420 Emergency planning]
-- [[8269 Foreign service]
-- [[9145 Government-industry partnerships]
-- [[14941 Official languages promotion]
-- [[14945 Official publications]
-- [[9148 Government accounts]
-- [[6192 Electoral system]
-- [[9150 Government administration]
-- [[3284 Civil service]
-- [[20531 Transboundary waters]
-- [[9184 Government information]
-- [[18512 Self government]
-- [[4576 Crown lands]
-- [[15039 Open data]
-- [[9216 Government plans]
-- [[16906 Public service employees]
-- [[18461 Security investigations]
-- [[9249 Government services]
-- [[150 Accounting standards]
-- [[9224 Government policy]
-- [[16908 Public services]
-- [[15050 Open government]
-- [[9228 Government priorities]
-- [[6950 Environmental policy]
-- [[15057 Operations]
-- [[16400 Private-public partnerships]
-- [[18456 Security intelligence]
-- [[5067 Delegations]
-- [[15064 Opposition House leader]
-- [[13535 Microeconomic policy]
-- [[9236 Government publications]
-- [[18505 Self governance]
-- [[5414 Disposal services]
-- [[16932 Public works]
-- [[4569 Crown corporations]
-- [[16108 Portfolio]
-- [[16913 Public spending]
-- [[21723 Whistleblower protection]
-- [[16926 Public utilities]
-- [[3081 Chief Electoral Officer]
-- [[11305 Intergovernmental transfers]
-- [[15036 Online government]
-- [[19892 Technology policy]
-- [[18527 Senate]
-- [[18532 Senators]
-- [[17022 Quarterly financial reports]
-- [[4562 Crown companies]
-- [[9187 Government inquiries]
-- [[7596 Federal provincial relations]
-- [[9189 Government lands]
-- [[16888 Public sector]
-- [[9197 Government leader]
-- [[18428 Sections]
-- [[8234 Foreign interference]
-- [[9200 Government leader in the Senate]
-- [[16890 Public servants]
-- [[18529 Senate members]
-- [[21082 Visas]
-- [[20515 Training policy]
-- [[8770 GBA plus (Gender-based analysis plus)]
-- [[7598 Federal public service]
-- [[9206 Government libraries]
-- [[4856 Data breach]
-- [[3091 Chief Human Resources Officer]
-- [[16365 Prime Minister]
-- [[18450 Security breach]
-- [[926 Ambassadors]
-- [[12101 Language policy]
-- [[9210 Government On-Line]
-- [[16904 Public service]
-- [[9251 Government transfers]
-- [[9212 Government Online]
-- [[11429 International security]
-- [[3087 Chief Financial Officer]
-- [[20401 Trade missions]
-- [[18234 Science policy]
-- [[12694 Machinery of government]
-- [[7627 Federalism]
-- [[3651 Commonwealth]
-- [[2942 Central provinces]
-- [[16779 Public administration]
-- [[3270 Civil preparedness]
-- [[16698 Provincial agencies]
-- [[11460 International travel]
-- [[1645 Atlantic provinces]
-- [[16793 Public debt]
-- [[3986 Constituencies]
-- [[7625 Federal transfers]
-- [[1843 Ballots]
-- [[2262 Birth certificates]
-- [[2056 Bilingual services]
-- [[5139 Departmental relations]
-- [[16797 Public diplomacy]
-- [[12182 Leader of the government in the House of Commons]
-- [[12204 Leader of the opposition in the Senate]
-- [[18953 Social policy]
-- [[5278 Diplomacy]
-- [[7117 Espionage]
-- [[12185 Leader of the government in the Senate]
-- [[16397 Privacy breach]
-- [[16799 Public employees]
-- [[13877 Monetary policy]
-- [[7615 Federal territorial agreements]
-- [[197 Acts]
-- [[20636 Transport policy]
-- [[17269 Recipients]
-- [[16716 Provincial institutions]
-- [[16752 Public-private partnerships]
-- [[12201 Leader of the opposition in the House of Commons]
-- [[19762 Tax system]
-- [[17259 Receiver General]
-- [[12198 Leader of the opposition]
-- [[16763 Public accounts]
-- [[4777 Cybergovernment]
-- [[11317 Internal audits]
-- [[12194 Leader of the Official Opposition]
-- [[11333 International affairs]
-- [[13870 Monarchy]
-- [[7604 Federal revenues]
-- [[20646 Transportation policy]
-- [[870 Allocation of powers]
-- [[7623 Federal territorial relations]
-- [[5792 East-West relations]
-- [[16696 Provincial administration]
-- [[6105 Educational policy]
-- [[16694 Provinces]
-- [[193 Active offer of bilingual services]
-- [[3616 Commissions of inquiry]
-- [[16531 Profiles]
-- [[11296 Intergovernmental organizations]
-- [[7324 External relations]
-- [[19754 Tax policy]
-- [[7606 Federal services]
-- [[16811 Public expenditures]
-- [[20425 Trade policy]
-- [[5934 Economic policy]
-- [[13383 Members of the Senate]
-- [[13376 Members of the House of Commons]
-- [[16702 Provincial federal relations]
-- [[19932 Telecommunications policy]
-- [[5333 Disaster planning]
-- [[16725 Provincial parks]
-- [[20673 Travel documents]
-- [[16700 Provincial bodies]
-- [[4954 Death certificates]
-- [[16720 Provincial legislatures]
-- [[16718 Provincial legislative assemblies]
-- [[5468 Division of powers]
-- [[10798 Industrial policy]
-- [[2065 Bills]
-- [[5471 Divisions]
-- [[11293 Intergovernmental affairs]
-- [[2939 Central government]
-- [[20415 Trade office]
-- [[2937 Central banks]
-- [[28 Aboriginal affairs]
-- [[13766 Ministers]
-- [[7513 Federal bodies]
-- [[6169 Elections]
-- [[7518 Federal contracts]
-- [[6075 Education policy]
-- [[20678 Treasury board]
-- [[16802 Public enterprises]
-- [[9421 Guidelines]
-- [[10097 House leaders]
-- [[15367 Passports]
-- [[13365 Members of Parliament]
-- [[15297 Parliament]
-- [[4975 Debt management]]  
-
+subjectCategory:
+- "[[19311 State ceremonial]]"
+- "[[12272 Legal notices (Web sites)]]"
+- "[[7931 Fisheries policy]]"
+- "[[9733 Health policy]]"
+- "[[21231 Voting]]"
+- "[[7576 Federal programs]]"
+- "[[3236 Citizen participation]]"
+- "[[6410 Embassies]]"
+- "[[5442 Distribution of jurisdictions]]"
+- "[[21667 Welfare state]]"
+- "[[4696 Cultural policy]]"
+- "[[15979 Political activities]]"
+- "[[15305 Parliamentary debates]]"
+- "[[15981 Political autonomy]]"
+- "[[20067 Territorial councils]]"
+- "[[5446 Distribution of powers]]"
+- "[[6263 Electronic administration]]"
+- "[[11497 Interprovincial cooperation]]"
+- "[[11580 Investigative bodies]]"
+- "[[2682 Canada-U.S. relations]]"
+- "[[7560 Federal information]]"
+- "[[15983 Political life]]"
+- "[[16599 Promotion of official languages]]"
+- "[[14001 MPs]]"
+- "[[20090 Territories]]"
+- "[[16596 Promotion of linguistic duality]]"
+- "[[15985 Political organizations]]"
+- "[[2641 Cabinet]]"
+- "[[20682 Treasury Board Secretariat]]"
+- "[[8257 Foreign policy]]"
+- "[[16008 Politics]]"
+- "[[20057 Terms of use]]"
+- "[[5457 Division of jurisdiction]]"
+- "[[15299 Parliament of Canada]]"
+- "[[2349 Borders]]"
+- "[[40 Aboriginal issues]]"
+- "[[10103 House of Commons]]"
+- "[[8901 Geographic boundaries]]"
+- "[[8220 Foreign affairs]]"
+- "[[2347 Border crossing]]"
+- "[[20052 Terms of service]]"
+- "[[5147 Departments]]"
+- "[[2626 By-elections]]"
+- "[[5459 Division of power]]"
+- "[[20045 Terms and conditions]]"
+- "[[523 Agricultural policy]]"
+- "[[6177 Electoral districts]]"
+- "[[1236 Approval processes]]"
+- "[[6184 Electoral rights]]"
+- "[[11587 Investment policy]]"
+- "[[7569 Federal institutions]]"
+- "[[20867 Utilities]]"
+- "[[20065 Territorial assemblies]]"
+- "[[14342 Naturalization]]"
+- "[[13140 Material disposal services]]"
+- "[[15303 Parliamentary committees]]"
+- "[[14503 Non-repayable contributions]]"
+- "[[7528 Federal employees]]"
+- "[[21229 Vote]]"
+- "[[15992 Political parties]]"
+- "[[20063 Territorial administration]]"
+- "[[17570 Repayable contributions]]"
+- "[[10517 Immigration policy]]"
+- "[[233 Administrative burdens]]"
+- "[[17589 Representatives]]"
+- "[[12411 Lieutenant Governor]]"
+- "[[21671 Western provinces]]"
+- "[[7869 Fiscal policy]]"
+- "[[7558 Federal government publications]]"
+- "[[14556 North-South relations]]"
+- "[[2384 Boundaries]]"
+- "[[12327 Legislative bodies]]"
+- "[[4049 Consuls]]"
+- "[[11984 Land claims]]"
+- "[[14068 Municipal buildings]]"
+- "[[19379 Statutes]]"
+- "[[17949 Royal visits]]"
+- "[[17947 Royal commissions]]"
+- "[[3249 Citizenship documents]]"
+- "[[12325 Legislative assemblies]]"
+- "[[12329 Legislative process]]"
+- "[[20755 U.S.-Canada relations]]"
+- "[[7552 Federal government]]"
+- "[[19323 Statements]]"
+- "[[14167 National accounts]]"
+- "[[35 Aboriginal governments]]"
+- "[[14062 Municipal administration]]"
+- "[[5725 Duty to accommodate]]"
+- "[[14175 National archives]]"
+- "[[3485 Collaborations]]"
+- "[[14070 Municipal councils]]"
+- "[[4046 Consulates]]"
+- "[[14185 National Capital]]"
+- "[[7583 Federal provincial conferences]]"
+- "[[5734 E-administration]]"
+- "[[12309 Legislation]]"
+- "[[17392 Red tape burdens]]"
+- "[[15316 Parliamentary leaders]]"
+- "[[17395 Red tape reduction]]"
+- "[[2413 Briefing papers]]"
+- "[[12593 Lobbying]]"
+- "[[7585 Federal provincial cooperation]]"
+- "[[4043 Consular services]]"
+- "[[14072 Municipal governments]]"
+- "[[7581 Federal provincial agreements]]"
+- "[[6179 Electoral law]]"
+- "[[20084 Territorial waters]]"
+- "[[20082 Territorial sea]]"
+- "[[14077 Municipalities]]"
+- "[[17405 Referendums]]"
+- "[[5243 Digital government]]"
+- "[[7511 Federal agencies]]"
+- "[[15973 Policy instruments]]"
+- "[[2396 Branches]]"
+- "[[2688 Canadian-American relations]]"
+- "[[5516 Domestic security]]"
+- "[[11505 Interprovincial relations]]"
+- "[[6670 Energy policy]]"
+- "[[7554 Federal government employees]]"
+- "[[14253 Nationality]]"
+- "[[2389 Boundary waters]]"
+- "[[2706 Canadian Parliament]]"
+- "[[14257 Nationalized enterprises]]"
+- "[[17821 Ridings]]"
+- "[[10632 Indigenous affairs]]"
+- "[[10653 Indigenous governments]]"
+- "[[5368 Disclosure of wrongdoing]]"
+- "[[6437 Emergency procedures]]"
+- "[[16192 PPP]]"
+- "[[7509 Federal administration]]"
+- "[[7839 Fiscal equalization]]"
+- "[[5504 Domestic debt]]"
+- "[[19507 Submissions]]"
+- "[[19313 State ceremonies]]"
+- "[[3242 Citizenship]]"
+- "[[14241 National security]]"
+- "[[5741 E-government]]"
+- "[[20075 Territorial governments]]"
+- "[[12340 Legislatures]]"
+- "[[12608 Local governments]]"
+- "[[15322 Parliamentary procedure]]"
+- "[[14194 National debt]]"
+- "[[8139 Food policy]]"
+- "[[14196 National defence]]"
+- "[[14199 National defense]]"
+- "[[14601 Northerners]]"
+- "[[14217 National income]]"
+- "[[15887 Plebiscites]]"
+- "[[14222 National libraries]]"
+- "[[15977 Policy review]]"
+- "[[14587 Northern residents]]"
+- "[[19317 State visits]]"
+- "[[2724 Candidates]]"
+- "[[8387 Forestry policy]]"
+- "[[14230 National parks]]"
+- "[[8259 Foreign relations]]"
+- "[[5035 Defence policy]]"
+- "[[6182 Electoral reform]]"
+- "[[11420 International relations]]"
+- "[[16394 Privacy]]"
+- "[[18590 Services]]"
+- "[[9156 Government communications]]"
+- "[[16859 Public participation]]"
+- "[[9160 Government departments]]"
+- "[[16866 Public policy]]"
+- "[[5287 Diplomats]]"
+- "[[19158 Sovereignty]]"
+- "[[9162 Government employees]]"
+- "[[21718 Whistle blowing]]"
+- "[[4559 Crown assets]]"
+- "[[13669 Military policy]]"
+- "[[15359 Partnerships]]"
+- "[[5041 Defense policy]]"
+- "[[21726 Whistleblowing]]"
+- "[[16711 Provincial governments]]"
+- "[[9166 Government expenditures]]"
+- "[[11011 Information policy]]"
+- "[[8780 Gender-based analysis plus]]"
+- "[[9169 Government finance]]"
+- "[[15965 Policy]]"
+- "[[16876 Public safety]]"
+- "[[9171 Government House leader]]"
+- "[[9274 Governor General]]"
+- "[[11303 Intergovernmental relations]]"
+- "[[6171 Electoral boundaries]]"
+- "[[6334 Electronic government]]"
+- "[[9270 Governments]]"
+- "[[3281 Civil servants]]"
+- "[[7601 Federal publications]]"
+- "[[5285 Diplomatic missions]]"
+- "[[14950 Official visits]]"
+- "[[61 Aboriginal self government]]"
+- "[[11348 International boundary waters]]"
+- "[[16824 Public finance]]"
+- "[[7079 Equalization payments]]"
+- "[[7077 Equalization]]"
+- "[[7571 Federal lands]]"
+- "[[9126 GOL]]"
+- "[[21715 Whistle blower protection]]"
+- "[[16828 Public funding]]"
+- "[[20546 Transfer payments]]"
+- "[[20433 Trade promotion]]"
+- "[[7526 Federal departments]]"
+- "[[6434 Emergency preparedness]]"
+- "[[15970 Policy evaluation]]"
+- "[[16834 Public hearings]]"
+- "[[16839 Public lands]]"
+- "[[14948 Official residences]]"
+- "[[6776 Entry to Canada]]"
+- "[[9141 Governance]]"
+- "[[15968 Policy development]]"
+- "[[21095 Visits of state]]"
+- "[[2976 CFO]]"
+- "[[6420 Emergency planning]]"
+- "[[8269 Foreign service]]"
+- "[[9145 Government-industry partnerships]]"
+- "[[14941 Official languages promotion]]"
+- "[[14945 Official publications]]"
+- "[[9148 Government accounts]]"
+- "[[6192 Electoral system]]"
+- "[[9150 Government administration]]"
+- "[[3284 Civil service]]"
+- "[[20531 Transboundary waters]]"
+- "[[9184 Government information]]"
+- "[[18512 Self government]]"
+- "[[4576 Crown lands]]"
+- "[[15039 Open data]]"
+- "[[9216 Government plans]]"
+- "[[16906 Public service employees]]"
+- "[[18461 Security investigations]]"
+- "[[9249 Government services]]"
+- "[[150 Accounting standards]]"
+- "[[9224 Government policy]]"
+- "[[16908 Public services]]"
+- "[[15050 Open government]]"
+- "[[9228 Government priorities]]"
+- "[[6950 Environmental policy]]"
+- "[[15057 Operations]]"
+- "[[16400 Private-public partnerships]]"
+- "[[18456 Security intelligence]]"
+- "[[5067 Delegations]]"
+- "[[15064 Opposition House leader]]"
+- "[[13535 Microeconomic policy]]"
+- "[[9236 Government publications]]"
+- "[[18505 Self governance]]"
+- "[[5414 Disposal services]]"
+- "[[16932 Public works]]"
+- "[[4569 Crown corporations]]"
+- "[[16108 Portfolio]]"
+- "[[16913 Public spending]]"
+- "[[21723 Whistleblower protection]]"
+- "[[16926 Public utilities]]"
+- "[[3081 Chief Electoral Officer]]"
+- "[[11305 Intergovernmental transfers]]"
+- "[[15036 Online government]]"
+- "[[19892 Technology policy]]"
+- "[[18527 Senate]]"
+- "[[18532 Senators]]"
+- "[[17022 Quarterly financial reports]]"
+- "[[4562 Crown companies]]"
+- "[[9187 Government inquiries]]"
+- "[[7596 Federal provincial relations]]"
+- "[[9189 Government lands]]"
+- "[[16888 Public sector]]"
+- "[[9197 Government leader]]"
+- "[[18428 Sections]]"
+- "[[8234 Foreign interference]]"
+- "[[9200 Government leader in the Senate]]"
+- "[[16890 Public servants]]"
+- "[[18529 Senate members]]"
+- "[[21082 Visas]]"
+- "[[20515 Training policy]]"
+- "[[8770 GBA plus (Gender-based analysis plus)]]"
+- "[[7598 Federal public service]]"
+- "[[9206 Government libraries]]"
+- "[[4856 Data breach]]"
+- "[[3091 Chief Human Resources Officer]]"
+- "[[16365 Prime Minister]]"
+- "[[18450 Security breach]]"
+- "[[926 Ambassadors]]"
+- "[[12101 Language policy]]"
+- "[[9210 Government On-Line]]"
+- "[[16904 Public service]]"
+- "[[9251 Government transfers]]"
+- "[[9212 Government Online]]"
+- "[[11429 International security]]"
+- "[[3087 Chief Financial Officer]]"
+- "[[20401 Trade missions]]"
+- "[[18234 Science policy]]"
+- "[[12694 Machinery of government]]"
+- "[[7627 Federalism]]"
+- "[[3651 Commonwealth]]"
+- "[[2942 Central provinces]]"
+- "[[16779 Public administration]]"
+- "[[3270 Civil preparedness]]"
+- "[[16698 Provincial agencies]]"
+- "[[11460 International travel]]"
+- "[[1645 Atlantic provinces]]"
+- "[[16793 Public debt]]"
+- "[[3986 Constituencies]]"
+- "[[7625 Federal transfers]]"
+- "[[1843 Ballots]]"
+- "[[2262 Birth certificates]]"
+- "[[2056 Bilingual services]]"
+- "[[5139 Departmental relations]]"
+- "[[16797 Public diplomacy]]"
+- "[[12182 Leader of the government in the House of Commons]]"
+- "[[12204 Leader of the opposition in the Senate]]"
+- "[[18953 Social policy]]"
+- "[[5278 Diplomacy]]"
+- "[[7117 Espionage]]"
+- "[[12185 Leader of the government in the Senate]]"
+- "[[16397 Privacy breach]]"
+- "[[16799 Public employees]]"
+- "[[13877 Monetary policy]]"
+- "[[7615 Federal territorial agreements]]"
+- "[[197 Acts]]"
+- "[[20636 Transport policy]]"
+- "[[17269 Recipients]]"
+- "[[16716 Provincial institutions]]"
+- "[[16752 Public-private partnerships]]"
+- "[[12201 Leader of the opposition in the House of Commons]]"
+- "[[19762 Tax system]]"
+- "[[17259 Receiver General]]"
+- "[[12198 Leader of the opposition]]"
+- "[[16763 Public accounts]]"
+- "[[4777 Cybergovernment]]"
+- "[[11317 Internal audits]]"
+- "[[12194 Leader of the Official Opposition]]"
+- "[[11333 International affairs]]"
+- "[[13870 Monarchy]]"
+- "[[7604 Federal revenues]]"
+- "[[20646 Transportation policy]]"
+- "[[870 Allocation of powers]]"
+- "[[7623 Federal territorial relations]]"
+- "[[5792 East-West relations]]"
+- "[[16696 Provincial administration]]"
+- "[[6105 Educational policy]]"
+- "[[16694 Provinces]]"
+- "[[193 Active offer of bilingual services]]"
+- "[[3616 Commissions of inquiry]]"
+- "[[16531 Profiles]]"
+- "[[11296 Intergovernmental organizations]]"
+- "[[7324 External relations]]"
+- "[[19754 Tax policy]]"
+- "[[7606 Federal services]]"
+- "[[16811 Public expenditures]]"
+- "[[20425 Trade policy]]"
+- "[[5934 Economic policy]]"
+- "[[13383 Members of the Senate]]"
+- "[[13376 Members of the House of Commons]]"
+- "[[16702 Provincial federal relations]]"
+- "[[19932 Telecommunications policy]]"
+- "[[5333 Disaster planning]]"
+- "[[16725 Provincial parks]]"
+- "[[20673 Travel documents]]"
+- "[[16700 Provincial bodies]]"
+- "[[4954 Death certificates]]"
+- "[[16720 Provincial legislatures]]"
+- "[[16718 Provincial legislative assemblies]]"
+- "[[5468 Division of powers]]"
+- "[[10798 Industrial policy]]"
+- "[[2065 Bills]]"
+- "[[5471 Divisions]]"
+- "[[11293 Intergovernmental affairs]]"
+- "[[2939 Central government]]"
+- "[[20415 Trade office]]"
+- "[[2937 Central banks]]"
+- "[[28 Aboriginal affairs]]"
+- "[[13766 Ministers]]"
+- "[[7513 Federal bodies]]"
+- "[[6169 Elections]]"
+- "[[7518 Federal contracts]]"
+- "[[6075 Education policy]]"
+- "[[20678 Treasury board]]"
+- "[[16802 Public enterprises]]"
+- "[[9421 Guidelines]]"
+- "[[10097 House leaders]]"
+- "[[15367 Passports]]"
+- "[[13365 Members of Parliament]]"
+- "[[15297 Parliament]]"
+- "[[4975 Debt management]]"
+---
+# GV Government and Politics

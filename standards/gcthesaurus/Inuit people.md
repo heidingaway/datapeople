@@ -1,6 +1,11 @@
-# Inuit people  
+---
+title: Inuit people
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Inuit people
 
-## Used For
-
-- [[11536 Inuit]]  
-
+usedFor:
+- "[[11536 Inuit]]"
+---
+# Inuit people

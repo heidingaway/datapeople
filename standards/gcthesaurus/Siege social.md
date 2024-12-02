@@ -1,6 +1,11 @@
-# Siege social  
+---
+title: Siege social
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Siège social
 
-## French
-
-- [[9560 Headquarters]]  
-
+french:
+- "[[9560 Headquarters]]"
+---
+# Siege social

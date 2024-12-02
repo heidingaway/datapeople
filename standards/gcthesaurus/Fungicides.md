@@ -1,10 +1,13 @@
-# Fungicides  
+---
+title: Fungicides
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fungicides
 
-## Narrower Term
-
-- [[15622 Pesticides]]  
-
-## Related Term
-
-- [[8655 Fungi]]  
-
+narrowerTerm:
+- "[[15622 Pesticides]]"
+relatedTerm:
+- "[[8655 Fungi]]"
+---
+# Fungicides

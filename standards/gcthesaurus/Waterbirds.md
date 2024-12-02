@@ -1,6 +1,11 @@
-# Waterbirds  
+---
+title: Waterbirds
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Waterbirds
 
-## Used For
-
-- [[1279 Aquatic birds]]  
-
+usedFor:
+- "[[1279 Aquatic birds]]"
+---
+# Waterbirds

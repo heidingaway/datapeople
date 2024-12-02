@@ -1,6 +1,11 @@
-# Livestock products  
+---
+title: Livestock products
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Livestock products
 
-## Used For
-
-- [[436 Agri-food products]]  
-
+usedFor:
+- "[[436 Agri-food products]]"
+---
+# Livestock products

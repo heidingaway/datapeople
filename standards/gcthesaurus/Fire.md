@@ -1,10 +1,13 @@
-# Fire  
+---
+title: Fire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fire
 
-## Broader Term
-
-- [[8305 Forest fires]]  
-
-## Related Term
-
-- [[7796 Fire prevention]]  
-
+broaderTerm:
+- "[[8305 Forest fires]]"
+relatedTerm:
+- "[[7796 Fire prevention]]"
+---
+# Fire

@@ -1,6 +1,11 @@
-# Misappropriation of funds  
+---
+title: Misappropriation of funds
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Misappropriation of funds
 
-## Narrower Term
-
-- [[5864 Economic crime]]  
-
+narrowerTerm:
+- "[[5864 Economic crime]]"
+---
+# Misappropriation of funds

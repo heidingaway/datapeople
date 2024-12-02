@@ -1,6 +1,11 @@
-# Vehicule automobile  
+---
+title: Vehicule automobile
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Véhicule automobile
 
-## French
-
-- [[13967 Motor vehicles]]  
-
+french:
+- "[[13967 Motor vehicles]]"
+---
+# Vehicule automobile

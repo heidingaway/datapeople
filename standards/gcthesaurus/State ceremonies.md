@@ -1,6 +1,11 @@
-# State ceremonies  
+---
+title: State ceremonies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: State ceremonies
 
-## Used For
-
-- [[19308 State ceremonial]]  
-
+usedFor:
+- "[[19308 State ceremonial]]"
+---
+# State ceremonies

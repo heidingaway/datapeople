@@ -1,6 +1,11 @@
-# Travailleur agricole  
+---
+title: Travailleur agricole
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Travailleur agricole
 
-## French
-
-- [[547 Agricultural workers]]  
-
+french:
+- "[[547 Agricultural workers]]"
+---
+# Travailleur agricole

@@ -1,6 +1,11 @@
-# Crustace  
+---
+title: Crustace
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Crustacé
 
-## French
-
-- [[4592 Crustaceans]]  
-
+french:
+- "[[4592 Crustaceans]]"
+---
+# Crustace

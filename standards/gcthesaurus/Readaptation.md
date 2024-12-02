@@ -1,6 +1,11 @@
-# Readaptation  
+---
+title: Readaptation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Réadaptation
 
-## French
-
-- [[17483 Rehabilitation]]  
-
+french:
+- "[[17483 Rehabilitation]]"
+---
+# Readaptation

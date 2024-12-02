@@ -1,6 +1,11 @@
-# Systeme de soins de sante  
+---
+title: Systeme de soins de sante
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Système de soins de santé
 
-## French
-
-- [[9657 Health care system]]  
-
+french:
+- "[[9657 Health care system]]"
+---
+# Systeme de soins de sante

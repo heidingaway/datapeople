@@ -1,6 +1,11 @@
-# Water animals  
+---
+title: Water animals
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Water animals
 
-## Used For
-
-- [[1259 Aquatic animals]]  
-
+usedFor:
+- "[[1259 Aquatic animals]]"
+---
+# Water animals

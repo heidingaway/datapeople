@@ -1,6 +1,11 @@
-# Privatization  
+---
+title: Privatization
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Privatization
 
-## Related Term
-
-- [[16417 Private sector]]  
-
+relatedTerm:
+- "[[16417 Private sector]]"
+---
+# Privatization

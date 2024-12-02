@@ -1,6 +1,11 @@
-# Executives  
+---
+title: Executives
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Executives
 
-## Related Term
-
-- [[12777 Management]]  
-
+relatedTerm:
+- "[[12777 Management]]"
+---
+# Executives

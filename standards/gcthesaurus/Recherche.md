@@ -1,6 +1,11 @@
-# Recherche  
+---
+title: Recherche
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Recherche
 
-## French
-
-- [[17641 Research]]  
-
+french:
+- "[[17641 Research]]"
+---
+# Recherche

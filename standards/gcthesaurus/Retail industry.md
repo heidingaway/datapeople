@@ -1,6 +1,11 @@
-# Retail industry  
+---
+title: Retail industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Retail industry
 
-## Used For
-
-- [[17771 Retail trade]]  
-
+usedFor:
+- "[[17771 Retail trade]]"
+---
+# Retail industry

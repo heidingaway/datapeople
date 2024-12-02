@@ -1,6 +1,11 @@
-# Immunisation  
+---
+title: Immunisation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Immunisation
 
-## French
-
-- [[10519 Immunization]]  
-
+french:
+- "[[10519 Immunization]]"
+---
+# Immunisation

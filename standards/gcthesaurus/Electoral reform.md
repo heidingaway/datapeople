@@ -1,6 +1,11 @@
-# Electoral reform  
+---
+title: Electoral reform
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electoral reform
 
-## Used For
-
-- [[6187 Electoral system]]  
-
+usedFor:
+- "[[6187 Electoral system]]"
+---
+# Electoral reform

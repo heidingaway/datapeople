@@ -1,6 +1,11 @@
-# Conformite  
+---
+title: Conformite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conformité
 
-## French
-
-- [[3778 Compliance]]  
-
+french:
+- "[[3778 Compliance]]"
+---
+# Conformite

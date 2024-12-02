@@ -1,14 +1,15 @@
-# Tobacco industry  
+---
+title: Tobacco industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tobacco industry
 
-## Narrower Term
-
-- [[12855 Manufacturing industry]]  
-
-## Related Term
-
-- [[18830 Smoking]]  
-
-## Use
-
-- [[3214 Cigarettes]]  
-
+narrowerTerm:
+- "[[12855 Manufacturing industry]]"
+relatedTerm:
+- "[[18830 Smoking]]"
+use:
+- "[[3214 Cigarettes]]"
+---
+# Tobacco industry

@@ -1,6 +1,11 @@
-# Revolvers  
+---
+title: Revolvers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Revolvers
 
-## Used For
-
-- [[7808 Firearms]]  
-
+usedFor:
+- "[[7808 Firearms]]"
+---
+# Revolvers

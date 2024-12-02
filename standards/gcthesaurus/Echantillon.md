@@ -1,6 +1,11 @@
-# Echantillon  
+---
+title: Echantillon
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Échantillon
 
-## French
-
-- [[18144 Samples]]  
-
+french:
+- "[[18144 Samples]]"
+---
+# Echantillon

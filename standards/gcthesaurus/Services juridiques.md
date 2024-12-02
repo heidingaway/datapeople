@@ -1,6 +1,11 @@
-# Services juridiques  
+---
+title: Services juridiques
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Services juridiques
 
-## French
-
-- [[12287 Legal services]]  
-
+french:
+- "[[12287 Legal services]]"
+---
+# Services juridiques

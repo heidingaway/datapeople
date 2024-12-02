@@ -1,10 +1,13 @@
-# Olympic games  
+---
+title: Olympic games
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Olympic games
 
-## Narrower Term
-
-- [[19252 Sports events]]  
-
-## Related Term
-
-- [[922 Amateur sports]]  
-
+narrowerTerm:
+- "[[19252 Sports events]]"
+relatedTerm:
+- "[[922 Amateur sports]]"
+---
+# Olympic games

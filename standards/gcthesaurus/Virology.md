@@ -1,6 +1,11 @@
-# Virology  
+---
+title: Virology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Virology
 
-## Used For
-
-- [[13521 Microbiology]]  
-
+usedFor:
+- "[[13521 Microbiology]]"
+---
+# Virology

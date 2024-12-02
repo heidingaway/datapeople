@@ -1,10 +1,13 @@
-# Corporate income tax  
+---
+title: Corporate income tax
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Corporate income tax
 
-## Narrower Term
-
-- [[10580 Income tax]]  
-
-## Related Term
-
-- [[4288 Corporations]]  
-
+narrowerTerm:
+- "[[10580 Income tax]]"
+relatedTerm:
+- "[[4288 Corporations]]"
+---
+# Corporate income tax

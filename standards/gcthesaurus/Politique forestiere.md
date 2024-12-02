@@ -1,6 +1,11 @@
-# Politique forestiere  
+---
+title: Politique forestiere
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Politique forestière
 
-## French
-
-- [[8382 Forestry policy]]  
-
+french:
+- "[[8382 Forestry policy]]"
+---
+# Politique forestiere

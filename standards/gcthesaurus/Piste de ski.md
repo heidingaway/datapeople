@@ -1,6 +1,11 @@
-# Piste de ski  
+---
+title: Piste de ski
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Piste de ski
 
-## French
-
-- [[18765 Ski trails]]  
-
+french:
+- "[[18765 Ski trails]]"
+---
+# Piste de ski

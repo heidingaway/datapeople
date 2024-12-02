@@ -1,10 +1,13 @@
-# Numismatics  
+---
+title: Numismatics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Numismatics
 
-## Related Term
-
-- [[3481 Coins]]  
-
-## Use
-
-- [[3475 Coin collecting]]  
-
+relatedTerm:
+- "[[3481 Coins]]"
+use:
+- "[[3475 Coin collecting]]"
+---
+# Numismatics

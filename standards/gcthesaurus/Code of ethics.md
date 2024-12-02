@@ -1,6 +1,11 @@
-# Code of ethics  
+---
+title: Code of ethics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Code of ethics
 
-## Used For
-
-- [[7145 Ethics]]  
-
+usedFor:
+- "[[7145 Ethics]]"
+---
+# Code of ethics

@@ -1,6 +1,11 @@
-# Relations federalesprovinciales  
+---
+title: Relations federalesprovinciales
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Relations fédérales-provinciales
 
-## French
-
-- [[7586 Federal provincial relations]]  
-
+french:
+- "[[7586 Federal provincial relations]]"
+---
+# Relations federalesprovinciales

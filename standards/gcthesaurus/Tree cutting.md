@@ -1,6 +1,11 @@
-# Tree cutting  
+---
+title: Tree cutting
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tree cutting
 
-## Used For
-
-- [[5050 Deforestation]]  
-
+usedFor:
+- "[[5050 Deforestation]]"
+---
+# Tree cutting

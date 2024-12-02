@@ -1,10 +1,13 @@
-# Financial audit  
+---
+title: Financial audit
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Financial audit
 
-## Narrower Term
-
-- [[1704 Audit]]  
-
-## Related Term
-
-- [[143 Accounting]]  
-
+narrowerTerm:
+- "[[1704 Audit]]"
+relatedTerm:
+- "[[143 Accounting]]"
+---
+# Financial audit

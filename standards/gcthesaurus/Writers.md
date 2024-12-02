@@ -1,6 +1,11 @@
-# Writers  
+---
+title: Writers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Writers
 
-## Used For
-
-- [[1716 Authors]]  
-
+usedFor:
+- "[[1716 Authors]]"
+---
+# Writers

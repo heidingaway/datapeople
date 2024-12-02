@@ -1,6 +1,11 @@
-# Weed killers  
+---
+title: Weed killers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Weed killers
 
-## Used For
-
-- [[9860 Herbicides]]  
-
+usedFor:
+- "[[9860 Herbicides]]"
+---
+# Weed killers

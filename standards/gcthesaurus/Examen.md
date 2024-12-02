@@ -1,6 +1,11 @@
-# Examen  
+---
+title: Examen
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Examen
 
-## French
-
-- [[17808 Review]]  
-
+french:
+- "[[17808 Review]]"
+---
+# Examen

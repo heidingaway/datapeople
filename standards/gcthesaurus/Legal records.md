@@ -1,6 +1,11 @@
-# Legal records  
+---
+title: Legal records
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Legal records
 
-## Used For
-
-- [[12261 Legal documents]]  
-
+usedFor:
+- "[[12261 Legal documents]]"
+---
+# Legal records

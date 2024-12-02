@@ -1,6 +1,11 @@
-# Welfare state  
+---
+title: Welfare state
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Welfare state
 
-## Used For
-
-- [[18949 Social policy]]  
-
+usedFor:
+- "[[18949 Social policy]]"
+---
+# Welfare state

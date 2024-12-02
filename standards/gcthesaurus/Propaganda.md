@@ -1,6 +1,11 @@
-# Propaganda  
+---
+title: Propaganda
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Propaganda
 
-## Related Term
-
-- [[310 Advertising]]  
-
+relatedTerm:
+- "[[310 Advertising]]"
+---
+# Propaganda

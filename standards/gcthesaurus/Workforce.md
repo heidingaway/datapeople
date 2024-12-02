@@ -1,6 +1,11 @@
-# Workforce  
+---
+title: Workforce
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Workforce
 
-## Used For
-
-- [[11875 Labour force]]  
-
+usedFor:
+- "[[11875 Labour force]]"
+---
+# Workforce

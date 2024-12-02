@@ -1,10 +1,13 @@
-# Curriculum  
+---
+title: Curriculum
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Curriculum
 
-## French
-
-- [[4740 Curriculum]]  
-
-## Related Term
-
-- [[6047 Education]]  
-
+french:
+- "[[4740 Curriculum]]"
+relatedTerm:
+- "[[6047 Education]]"
+---
+# Curriculum

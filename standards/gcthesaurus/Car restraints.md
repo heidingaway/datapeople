@@ -1,6 +1,11 @@
-# Car restraints  
+---
+title: Car restraints
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Car restraints
 
-## Used For
-
-- [[1756 Automobile safety equipment]]  
-
+usedFor:
+- "[[1756 Automobile safety equipment]]"
+---
+# Car restraints

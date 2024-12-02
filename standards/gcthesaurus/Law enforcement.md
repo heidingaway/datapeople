@@ -1,6 +1,11 @@
-# Law enforcement  
+---
+title: Law enforcement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Law enforcement
 
-## Used For
-
-- [[15922 Police services]]  
-
+usedFor:
+- "[[15922 Police services]]"
+---
+# Law enforcement

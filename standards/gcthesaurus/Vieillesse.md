@@ -1,6 +1,11 @@
-# Vieillesse  
+---
+title: Vieillesse
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vieillesse
 
-## French
-
-- [[15010 Old age]]  
-
+french:
+- "[[15010 Old age]]"
+---
+# Vieillesse

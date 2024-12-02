@@ -1,6 +1,11 @@
-# Environmental economy  
+---
+title: Environmental economy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Environmental economy
 
-## Used For
-
-- [[6841 Environmental economics]]  
-
+usedFor:
+- "[[6841 Environmental economics]]"
+---
+# Environmental economy

@@ -1,6 +1,11 @@
-# Donnees du recensement  
+---
+title: Donnees du recensement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Données du recensement
 
-## French
-
-- [[2927 Census data]]  
-
+french:
+- "[[2927 Census data]]"
+---
+# Donnees du recensement

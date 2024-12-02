@@ -1,6 +1,11 @@
-# Fruit  
+---
+title: Fruit
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fruit
 
-## French
-
-- [[8558 Fruits]]  
-
+french:
+- "[[8558 Fruits]]"
+---
+# Fruit

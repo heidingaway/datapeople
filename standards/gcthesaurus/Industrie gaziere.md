@@ -1,6 +1,11 @@
-# Industrie gaziere  
+---
+title: Industrie gaziere
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrie gazière
 
-## French
-
-- [[8726 Gas industry]]  
-
+french:
+- "[[8726 Gas industry]]"
+---
+# Industrie gaziere

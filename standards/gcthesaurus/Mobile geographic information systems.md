@@ -1,6 +1,11 @@
-# Mobile geographic information systems  
+---
+title: Mobile geographic information systems
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mobile geographic information systems
 
-## Used For
-
-- [[9082 Global navigation satellite systems]]  
-
+usedFor:
+- "[[9082 Global navigation satellite systems]]"
+---
+# Mobile geographic information systems

@@ -1,6 +1,11 @@
-# Pasturelands  
+---
+title: Pasturelands
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pasturelands
 
-## Used For
-
-- [[9322 Grasslands]]  
-
+usedFor:
+- "[[9322 Grasslands]]"
+---
+# Pasturelands

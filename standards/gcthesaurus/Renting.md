@@ -1,6 +1,11 @@
-# Renting  
+---
+title: Renting
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Renting
 
-## Used For
-
-- [[12242 Leasing]]  
-
+usedFor:
+- "[[12242 Leasing]]"
+---
+# Renting

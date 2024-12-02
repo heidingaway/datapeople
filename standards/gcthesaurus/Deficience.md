@@ -1,6 +1,11 @@
-# Deficience  
+---
+title: Deficience
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Déficience
 
-## French
-
-- [[5298 Disabilities]]  
-
+french:
+- "[[5298 Disabilities]]"
+---
+# Deficience

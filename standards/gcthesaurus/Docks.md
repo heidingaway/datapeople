@@ -1,6 +1,11 @@
-# Docks  
+---
+title: Docks
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Docks
 
-## Used For
-
-- [[21693 Wharfs]]  
-
+usedFor:
+- "[[21693 Wharfs]]"
+---
+# Docks

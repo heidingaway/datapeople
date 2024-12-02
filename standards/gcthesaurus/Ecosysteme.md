@@ -1,6 +1,11 @@
-# Ecosysteme  
+---
+title: Ecosysteme
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Écosystème
 
-## French
-
-- [[5988 Ecosystems]]  
-
+french:
+- "[[5988 Ecosystems]]"
+---
+# Ecosysteme

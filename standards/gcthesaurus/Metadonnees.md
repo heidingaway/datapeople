@@ -1,6 +1,11 @@
-# Metadonnees  
+---
+title: Metadonnees
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Métadonnées
 
-## French
-
-- [[13441 Metadata]]  
-
+french:
+- "[[13441 Metadata]]"
+---
+# Metadonnees

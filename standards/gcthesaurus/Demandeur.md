@@ -1,6 +1,11 @@
-# Demandeur  
+---
+title: Demandeur
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Demandeur
 
-## French
-
-- [[1208 Applicants]]  
-
+french:
+- "[[1208 Applicants]]"
+---
+# Demandeur

@@ -1,6 +1,11 @@
-# Trade law  
+---
+title: Trade law
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Trade law
 
-## Used For
-
-- [[3581 Commercial law]]  
-
+usedFor:
+- "[[3581 Commercial law]]"
+---
+# Trade law

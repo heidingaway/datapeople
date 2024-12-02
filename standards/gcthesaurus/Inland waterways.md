@@ -1,6 +1,11 @@
-# Inland waterways  
+---
+title: Inland waterways
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Inland waterways
 
-## Used For
-
-- [[21560 Waterways]]  
-
+usedFor:
+- "[[21560 Waterways]]"
+---
+# Inland waterways

@@ -1,11 +1,14 @@
-# Chief Financial Officer  
+---
+title: Chief Financial Officer
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Chief Financial Officer
 
-## Related Term
-
-- [[7694 Finance]
-- [[7749 Financial management]]  
-
-## Use
-
-- [[2975 CFO]]  
-
+relatedTerm:
+- "[[7694 Finance]]"
+- "[[7749 Financial management]]"
+use:
+- "[[2975 CFO]]"
+---
+# Chief Financial Officer

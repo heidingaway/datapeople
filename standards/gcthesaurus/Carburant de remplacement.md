@@ -1,6 +1,11 @@
-# Carburant de remplacement  
+---
+title: Carburant de remplacement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Carburant de remplacement
 
-## French
-
-- [[899 Alternative fuels]]  
-
+french:
+- "[[899 Alternative fuels]]"
+---
+# Carburant de remplacement

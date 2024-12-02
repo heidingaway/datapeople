@@ -1,10 +1,13 @@
-# Professional associations  
+---
+title: Professional associations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Professional associations
 
-## Narrower Term
-
-- [[1606 Associations]]  
-
-## Related Term
-
-- [[14817 Occupations]]  
-
+narrowerTerm:
+- "[[1606 Associations]]"
+relatedTerm:
+- "[[14817 Occupations]]"
+---
+# Professional associations

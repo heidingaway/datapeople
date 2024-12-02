@@ -1,6 +1,11 @@
-# Conference proceedings  
+---
+title: Conference proceedings
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conference proceedings
 
-## Used For
-
-- [[3911 Conferences]]  
-
+usedFor:
+- "[[3911 Conferences]]"
+---
+# Conference proceedings

@@ -1,11 +1,14 @@
-# Demographic maps  
+---
+title: Demographic maps
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Demographic maps
 
-## Narrower Term
-
-- [[12891 Maps]]  
-
-## Related Term
-
-- [[5115 Demography]
-- [[16076 Population]]  
-
+narrowerTerm:
+- "[[12891 Maps]]"
+relatedTerm:
+- "[[5115 Demography]]"
+- "[[16076 Population]]"
+---
+# Demographic maps

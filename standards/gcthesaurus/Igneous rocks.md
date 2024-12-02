@@ -1,15 +1,16 @@
-# Igneous rocks  
+---
+title: Igneous rocks
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Igneous rocks
 
-## Narrower Term
-
-- [[5775 Earth sciences]
-- [[8984 Geology]]  
-
-## Related Term
-
-- [[9493 Hard rocks]]  
-
-## Use
-
-- [[12700 Magmatic rocks]]  
-
+narrowerTerm:
+- "[[5775 Earth sciences]]"
+- "[[8984 Geology]]"
+relatedTerm:
+- "[[9493 Hard rocks]]"
+use:
+- "[[12700 Magmatic rocks]]"
+---
+# Igneous rocks

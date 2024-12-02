@@ -1,6 +1,11 @@
-# Raison sociale  
+---
+title: Raison sociale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Raison sociale
 
-## French
-
-- [[4273 Corporate names]]  
-
+french:
+- "[[4273 Corporate names]]"
+---
+# Raison sociale

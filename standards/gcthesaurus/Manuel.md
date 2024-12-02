@@ -1,6 +1,11 @@
-# Manuel  
+---
+title: Manuel
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Manuel
 
-## French
-
-- [[9435 Handbooks]]  
-
+french:
+- "[[9435 Handbooks]]"
+---
+# Manuel

@@ -1,6 +1,11 @@
-# Computerization  
+---
+title: Computerization
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Computerization
 
-## Used For
-
-- [[1732 Automation]]  
-
+usedFor:
+- "[[1732 Automation]]"
+---
+# Computerization

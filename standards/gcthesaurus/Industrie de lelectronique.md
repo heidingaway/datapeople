@@ -1,6 +1,11 @@
-# Industrie de lelectronique  
+---
+title: Industrie de lelectronique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrie de l'électronique
 
-## French
-
-- [[6389 Electronics industry]]  
-
+french:
+- "[[6389 Electronics industry]]"
+---
+# Industrie de lelectronique

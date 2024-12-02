@@ -1,6 +1,11 @@
-# Redaction administrative  
+---
+title: Redaction administrative
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rédaction administrative
 
-## French
-
-- [[247 Administrative writing]]  
-
+french:
+- "[[247 Administrative writing]]"
+---
+# Redaction administrative

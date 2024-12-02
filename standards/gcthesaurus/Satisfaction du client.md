@@ -1,6 +1,11 @@
-# Satisfaction du client  
+---
+title: Satisfaction du client
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Satisfaction du client
 
-## French
-
-- [[3320 Client satisfaction]]  
-
+french:
+- "[[3320 Client satisfaction]]"
+---
+# Satisfaction du client

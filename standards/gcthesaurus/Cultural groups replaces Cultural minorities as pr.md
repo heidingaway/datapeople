@@ -1,7 +1,8 @@
-# Cultural groups replaces Cultural minorities as pr  
+---
+title: Cultural groups replaces Cultural minorities as pr
+alias: "Cultural groups" replaces "Cultural minorities" as preferred term in February 2009.
 
-## History note
-
-- [[4646 Cultural groups]
-- [[4688 Cultural minorities]]  
-
+historyNote:
+- "[[4646 Cultural groups]]"
+- "[[4688 Cultural minorities]]"
+---

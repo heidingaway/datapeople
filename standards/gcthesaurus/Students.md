@@ -1,18 +1,19 @@
-# Students  
+---
+title: Students
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Students
 
-## Broader Term
-
-- [[15333 Part-time students]
-- [[8273 Foreign students]]  
-
-## Related Term
-
-- [[6098 Educational institutions]
-- [[6061 Education]
-- [[19458 Student labour]]  
-
-## Use
-
-- [[20795 University students]
-- [[3524 College students]]  
-
+broaderTerm:
+- "[[15333 Part-time students]]"
+- "[[8273 Foreign students]]"
+relatedTerm:
+- "[[6098 Educational institutions]]"
+- "[[6061 Education]]"
+- "[[19458 Student labour]]"
+use:
+- "[[20795 University students]]"
+- "[[3524 College students]]"
+---
+# Students

@@ -1,16 +1,17 @@
-# Continuing education  
+---
+title: Continuing education
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Continuing education
 
-## Narrower Term
-
-- [[6026 Education]]  
-
-## Related Term
-
-- [[17798 Retraining]
-- [[16517 Professional development]]  
-
-## Use
-
-- [[276 Adult education]
-- [[12441 Lifelong education]]  
-
+narrowerTerm:
+- "[[6026 Education]]"
+relatedTerm:
+- "[[17798 Retraining]]"
+- "[[16517 Professional development]]"
+use:
+- "[[276 Adult education]]"
+- "[[12441 Lifelong education]]"
+---
+# Continuing education

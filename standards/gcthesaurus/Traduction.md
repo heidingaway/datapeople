@@ -1,6 +1,11 @@
-# Traduction  
+---
+title: Traduction
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Traduction
 
-## French
-
-- [[20573 Translation]]  
-
+french:
+- "[[20573 Translation]]"
+---
+# Traduction

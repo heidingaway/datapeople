@@ -1,6 +1,11 @@
-# Gestion de programme  
+---
+title: Gestion de programme
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gestion de programme
 
-## French
-
-- [[16553 Program management]]  
-
+french:
+- "[[16553 Program management]]"
+---
+# Gestion de programme

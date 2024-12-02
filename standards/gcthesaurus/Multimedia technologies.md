@@ -1,6 +1,11 @@
-# Multimedia technologies  
+---
+title: Multimedia technologies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Multimedia technologies
 
-## Used For
-
-- [[14034 Multimedia]]  
-
+usedFor:
+- "[[14034 Multimedia]]"
+---
+# Multimedia technologies

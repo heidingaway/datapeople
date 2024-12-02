@@ -1,6 +1,11 @@
-# Tobacco smoking  
+---
+title: Tobacco smoking
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tobacco smoking
 
-## Used For
-
-- [[18826 Smoking]]  
-
+usedFor:
+- "[[18826 Smoking]]"
+---
+# Tobacco smoking

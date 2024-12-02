@@ -1,6 +1,11 @@
-# Cereal crops  
+---
+title: Cereal crops
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cereal crops
 
-## Used For
-
-- [[2957 Cereals]]  
-
+usedFor:
+- "[[2957 Cereals]]"
+---
+# Cereal crops

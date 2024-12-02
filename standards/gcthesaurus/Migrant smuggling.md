@@ -1,6 +1,11 @@
-# Migrant smuggling  
+---
+title: Migrant smuggling
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Migrant smuggling
 
-## Used For
-
-- [[11618 Irregular migration]]  
-
+usedFor:
+- "[[11618 Irregular migration]]"
+---
+# Migrant smuggling

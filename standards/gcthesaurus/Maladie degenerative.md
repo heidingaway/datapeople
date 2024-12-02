@@ -1,6 +1,11 @@
-# Maladie degenerative  
+---
+title: Maladie degenerative
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Maladie dégénérative
 
-## French
-
-- [[5054 Degenerative diseases]]  
-
+french:
+- "[[5054 Degenerative diseases]]"
+---
+# Maladie degenerative

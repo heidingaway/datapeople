@@ -1,6 +1,11 @@
-# Taux de mortalite  
+---
+title: Taux de mortalite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Taux de mortalité
 
-## French
-
-- [[4956 Death rate]]  
-
+french:
+- "[[4956 Death rate]]"
+---
+# Taux de mortalite

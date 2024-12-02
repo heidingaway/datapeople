@@ -1,6 +1,11 @@
-# Public notices  
+---
+title: Public notices
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Public notices
 
-## Related Term
-
-- [[16833 Public hearings]]  
-
+relatedTerm:
+- "[[16833 Public hearings]]"
+---
+# Public notices

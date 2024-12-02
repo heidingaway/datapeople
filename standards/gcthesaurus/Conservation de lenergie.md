@@ -1,6 +1,11 @@
-# Conservation de lenergie  
+---
+title: Conservation de lenergie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conservation de l'énergie
 
-## French
-
-- [[6632 Energy conservation]]  
-
+french:
+- "[[6632 Energy conservation]]"
+---
+# Conservation de lenergie

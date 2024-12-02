@@ -1,6 +1,11 @@
-# Installations nucleaires  
+---
+title: Installations nucleaires
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Installations nucléaires
 
-## French
-
-- [[14624 Nuclear facilities]]  
-
+french:
+- "[[14624 Nuclear facilities]]"
+---
+# Installations nucleaires

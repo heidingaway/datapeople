@@ -1,6 +1,11 @@
-# Indemnite  
+---
+title: Indemnite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Indemnité
 
-## French
-
-- [[10597 Indemnities]]  
-
+french:
+- "[[10597 Indemnities]]"
+---
+# Indemnite

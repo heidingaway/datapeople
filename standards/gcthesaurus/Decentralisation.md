@@ -1,6 +1,11 @@
-# Decentralisation  
+---
+title: Decentralisation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Décentralisation
 
-## French
-
-- [[4986 Decentralization]]  
-
+french:
+- "[[4986 Decentralization]]"
+---
+# Decentralisation

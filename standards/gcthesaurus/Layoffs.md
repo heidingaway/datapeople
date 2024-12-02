@@ -1,6 +1,11 @@
-# Layoffs  
+---
+title: Layoffs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Layoffs
 
-## Used For
-
-- [[20032 Termination of employment]]  
-
+usedFor:
+- "[[20032 Termination of employment]]"
+---
+# Layoffs

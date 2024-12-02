@@ -1,6 +1,11 @@
-# Satellite navigation  
+---
+title: Satellite navigation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Satellite navigation
 
-## Used For
-
-- [[9083 Global navigation satellite systems]]  
-
+usedFor:
+- "[[9083 Global navigation satellite systems]]"
+---
+# Satellite navigation

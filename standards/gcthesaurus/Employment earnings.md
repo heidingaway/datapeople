@@ -1,6 +1,11 @@
-# Employment earnings  
+---
+title: Employment earnings
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Employment earnings
 
-## Used For
-
-- [[18078 Salaries]]  
-
+usedFor:
+- "[[18078 Salaries]]"
+---
+# Employment earnings

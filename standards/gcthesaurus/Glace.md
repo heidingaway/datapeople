@@ -1,6 +1,11 @@
-# Glace  
+---
+title: Glace
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Glace
 
-## French
-
-- [[10423 Ice]]  
-
+french:
+- "[[10423 Ice]]"
+---
+# Glace

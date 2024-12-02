@@ -1,6 +1,11 @@
-# Hydroculture  
+---
+title: Hydroculture
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hydroculture
 
-## Used For
-
-- [[10402 Hydroponics]]  
-
+usedFor:
+- "[[10402 Hydroponics]]"
+---
+# Hydroculture

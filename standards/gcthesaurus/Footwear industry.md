@@ -1,6 +1,11 @@
-# Footwear industry  
+---
+title: Footwear industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Footwear industry
 
-## Used For
-
-- [[18704 Shoe industry]]  
-
+usedFor:
+- "[[18704 Shoe industry]]"
+---
+# Footwear industry

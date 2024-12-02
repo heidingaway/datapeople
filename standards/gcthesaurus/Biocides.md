@@ -1,6 +1,11 @@
-# Biocides  
+---
+title: Biocides
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biocides
 
-## Used For
-
-- [[15616 Pesticides]]  
-
+usedFor:
+- "[[15616 Pesticides]]"
+---
+# Biocides

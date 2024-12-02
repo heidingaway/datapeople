@@ -1,6 +1,11 @@
-# Railway lines  
+---
+title: Railway lines
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Railway lines
 
-## Used For
-
-- [[17179 Railway networks]]  
-
+usedFor:
+- "[[17179 Railway networks]]"
+---
+# Railway lines

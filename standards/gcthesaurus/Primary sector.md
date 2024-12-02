@@ -1,6 +1,11 @@
-# Primary sector  
+---
+title: Primary sector
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Primary sector
 
-## Used For
-
-- [[16338 Primary industry]]  
-
+usedFor:
+- "[[16338 Primary industry]]"
+---
+# Primary sector

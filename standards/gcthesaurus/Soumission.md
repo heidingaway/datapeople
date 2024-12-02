@@ -1,6 +1,11 @@
-# Soumission  
+---
+title: Soumission
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Soumission
 
-## French
-
-- [[20021 Tenders]]  
-
+french:
+- "[[20021 Tenders]]"
+---
+# Soumission

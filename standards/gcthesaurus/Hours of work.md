@@ -1,6 +1,11 @@
-# Hours of work  
+---
+title: Hours of work
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hours of work
 
-## Used For
-
-- [[21947 Working conditions]]  
-
+usedFor:
+- "[[21947 Working conditions]]"
+---
+# Hours of work

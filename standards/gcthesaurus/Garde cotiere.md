@@ -1,6 +1,11 @@
-# Garde cotiere  
+---
+title: Garde cotiere
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Garde côtière
 
-## French
-
-- [[3410 Coast guard]]  
-
+french:
+- "[[3410 Coast guard]]"
+---
+# Garde cotiere

@@ -1,11 +1,14 @@
-# Environmental programs  
+---
+title: Environmental programs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Environmental programs
 
-## Narrower Term
-
-- [[16570 Programs]]  
-
-## Related Term
-
-- [[6949 Environmental policy]
-- [[6792 Environment]]  
-
+narrowerTerm:
+- "[[16570 Programs]]"
+relatedTerm:
+- "[[6949 Environmental policy]]"
+- "[[6792 Environment]]"
+---
+# Environmental programs

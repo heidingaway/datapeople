@@ -1,6 +1,11 @@
-# Electric appliances  
+---
+title: Electric appliances
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electric appliances
 
-## Used For
-
-- [[6235 Electrical appliances]]  
-
+usedFor:
+- "[[6235 Electrical appliances]]"
+---
+# Electric appliances

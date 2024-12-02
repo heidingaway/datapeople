@@ -1,6 +1,11 @@
-# Employeur  
+---
+title: Employeur
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Employeur
 
-## French
-
-- [[6481 Employers]]  
-
+french:
+- "[[6481 Employers]]"
+---
+# Employeur

@@ -1,6 +1,11 @@
-# Diet  
+---
+title: Diet
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Diet
 
-## Used For
-
-- [[14698 Nutrition]]  
-
+usedFor:
+- "[[14698 Nutrition]]"
+---
+# Diet

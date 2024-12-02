@@ -1,6 +1,11 @@
-# Impot federal  
+---
+title: Impot federal
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Impôt fédéral
 
-## French
-
-- [[7607 Federal taxes]]  
-
+french:
+- "[[7607 Federal taxes]]"
+---
+# Impot federal

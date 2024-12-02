@@ -1,6 +1,11 @@
-# Vie sociale  
+---
+title: Vie sociale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vie sociale
 
-## French
-
-- [[18931 Social life]]  
-
+french:
+- "[[18931 Social life]]"
+---
+# Vie sociale

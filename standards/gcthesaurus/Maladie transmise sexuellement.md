@@ -1,6 +1,11 @@
-# Maladie transmise sexuellement  
+---
+title: Maladie transmise sexuellement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Maladie transmise sexuellement
 
-## French
-
-- [[18649 Sexually transmitted diseases]]  
-
+french:
+- "[[18649 Sexually transmitted diseases]]"
+---
+# Maladie transmise sexuellement

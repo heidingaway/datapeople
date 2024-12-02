@@ -1,6 +1,11 @@
-# Environmental heritage  
+---
+title: Environmental heritage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Environmental heritage
 
-## Used For
-
-- [[14303 Natural heritage]]  
-
+usedFor:
+- "[[14303 Natural heritage]]"
+---
+# Environmental heritage

@@ -1,6 +1,11 @@
-# Seminars  
+---
+title: Seminars
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Seminars
 
-## Used For
-
-- [[3914 Conferences]]  
-
+usedFor:
+- "[[3914 Conferences]]"
+---
+# Seminars

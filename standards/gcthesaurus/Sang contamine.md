@@ -1,6 +1,11 @@
-# Sang contamine  
+---
+title: Sang contamine
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sang contaminé
 
-## French
-
-- [[10908 Infected blood]]  
-
+french:
+- "[[10908 Infected blood]]"
+---
+# Sang contamine

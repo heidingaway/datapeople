@@ -1,6 +1,11 @@
-# Waste products  
+---
+title: Waste products
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Waste products
 
-## Used For
-
-- [[21302 Waste]]  
-
+usedFor:
+- "[[21302 Waste]]"
+---
+# Waste products

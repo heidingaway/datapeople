@@ -1,6 +1,11 @@
-# Gestion  
+---
+title: Gestion
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gestion
 
-## French
-
-- [[12746 Management]]  
-
+french:
+- "[[12746 Management]]"
+---
+# Gestion

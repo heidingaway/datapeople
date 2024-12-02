@@ -1,6 +1,11 @@
-# Victimization  
+---
+title: Victimization
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Victimization
 
-## Used For
-
-- [[20986 Victims]]  
-
+usedFor:
+- "[[20986 Victims]]"
+---
+# Victimization

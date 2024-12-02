@@ -1,6 +1,11 @@
-# Biologie  
+---
+title: Biologie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biologie
 
-## French
-
-- [[2196 Biology]]  
-
+french:
+- "[[2196 Biology]]"
+---
+# Biologie

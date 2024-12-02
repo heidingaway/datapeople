@@ -1,6 +1,11 @@
-# Ecole primaire  
+---
+title: Ecole primaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: École primaire
 
-## French
-
-- [[6400 Elementary schools]]  
-
+french:
+- "[[6400 Elementary schools]]"
+---
+# Ecole primaire

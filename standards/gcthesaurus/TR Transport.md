@@ -1,256 +1,261 @@
-# TR Transport  
+---
+title: TR Transport
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: TR Transport
 
-## Subject Category
-
-- [[21712 Wheelchairs]
-- [[13034 Maritime disasters]
-- [[17922 Road transport]
-- [[20243 Tolls]
-- [[758 Aircraft de-icing]
-- [[13042 Maritime law]
-- [[13044 Maritime traffic]
-- [[11508 Interprovincial transport]
-- [[13013 Marine transportation]
-- [[765 Airline industry]
-- [[11454 International transport]
-- [[2637 Cabin safety]
-- [[7642 Ferries]
-- [[14370 Navigable waters]
-- [[21703 Wheel chairs]
-- [[13016 Marine transportation industry]
-- [[1170 Anti-icing of aircraft]
-- [[13011 Marine transport industry]
-- [[21809 Wing anti-icing]
-- [[13416 Merchant navy]
-- [[4850 Dangerous products transport]
-- [[4929 De-icing of aircraft]
-- [[21514 Water transport industry]
-- [[21516 Water transportation]
-- [[746 Aircraft anti-icing]
-- [[13413 Merchant marine]
-- [[20644 Transportation of dangerous goods]
-- [[20647 Transportation policy]
-- [[16118 Post offices]
-- [[13004 Marine shipping industry]
-- [[20709 Trucking]
-- [[13008 Marine transport]
-- [[16133 Postal services]
-- [[2313 Boats]
-- [[21519 Water transportation industry]
-- [[2714 Canals]
-- [[789 Airport administrations]
-- [[16098 Port authorities]
-- [[348 Aeronautics]
-- [[13006 Marine traffic]
-- [[4399 Covered bridges]
-- [[771 Airlines]
-- [[340 Aerodromes]
-- [[19278 Stamps]
-- [[20736 Tunnels]
-- [[20717 Trucking industry]
-- [[16096 Port administrations]
-- [[2014 Bicycle lanes]
-- [[18670 Ship piloting]
-- [[2044 Bike paths]
-- [[18673 Ship sinking]
-- [[2041 Bike lanes]
-- [[2495 Buses]
-- [[8006 Fishing ships]
-- [[14386 Navigation]
-- [[17929 Roads]
-- [[17927 Road transportation]
-- [[18702 Shipwrecks]
-- [[18699 Ships]
-- [[2502 Business aviation]
-- [[17906 Road safety]
-- [[2036 Bicycle trails]
-- [[17908 Road systems]
-- [[14858 Ocean transportation]
-- [[17910 Road traffic]
-- [[14856 Ocean transport industry]
-- [[14388 Navigation aids]
-- [[17925 Road transport industry]
-- [[18679 Shipbuilding]
-- [[2028 Bicycle paths]
-- [[14853 Ocean transport]
-- [[17896 Road networks]
-- [[8028 Fleet management]
-- [[14372 Navigable waterways]
-- [[783 Airplane de-icing]
-- [[21569 Waterways]
-- [[787 Airplanes]
-- [[18686 Shipping industry]
-- [[21696 Wharfs]
-- [[18075 Sailing]
-- [[8504 Freight]
-- [[16110 Ports]
-- [[18073 Sailboats]
-- [[20722 Trucks]
-- [[774 Airplane accidents]
-- [[2408 Bridges]
-- [[14399 Navigation systems]
-- [[8031 Flight safety]
-- [[113 Accessible transport]
-- [[777 Airplane anti-icing]
-- [[17985 Safe boating]
-- [[2050 Biking trails]
-- [[780 Airplane crashes]
-- [[20656 Transportation safety]
-- [[8060 Flying accidents]
-- [[2047 Bike trails]
-- [[17871 Road accidents]
-- [[17876 Road construction]
-- [[17882 Road motor vehicles]
-- [[20463 Traffic accidents]
-- [[9933 Highways]
-- [[13001 Marine shipping]
-- [[4839 Dangerous goods transport]
-- [[611 Air-cushioned vehicles]
-- [[13597 Military aeronautics]
-- [[20637 Transport policy]
-- [[616 Air carriers]
-- [[6195 Electric-powered vehicles]
-- [[623 Air cushion vehicles]
-- [[19646 Sustainable transportation]
-- [[626 Air disasters]
-- [[1793 Aviation accidents]
-- [[634 Air navigation]
-- [[1790 Aviation]
-- [[723 Aircraft]
-- [[10447 Icebreakers]
-- [[12454 Lighthouses]
-- [[20847 Urban transit]
-- [[1807 Aviation safety]
-- [[12626 Locks]
-- [[16124 Postal codes]
-- [[794 Airport authorities]
-- [[9931 Highway systems]
-- [[6233 Electric vehicles]
-- [[11262 Intelligent transportation systems]
-- [[20838 Urban traffic]
-- [[18375 Seaway]
-- [[10155 Hovercraft]
-- [[12709 Mail services]
-- [[13616 Military aviation]
-- [[16402 Private aircraft]
-- [[11255 Intelligent transport systems]
-- [[13602 Military aircraft]
-- [[15885 Pleasure craft]
-- [[16924 Public transportation]
-- [[16922 Public transport]
-- [[16920 Public transit]
-- [[20849 Urban transport]
-- [[20947 Vessels]
-- [[9927 Highway networks]
-- [[1745 Automobile driving]
-- [[1743 Automobile accidents]
-- [[3262 Civil aviation]
-- [[693 Air transport]
-- [[13982 Motor vehicles]
-- [[20631 Transport industry]
-- [[13984 Motorcoaches]
-- [[20851 Urban transportation]
-- [[11101 Inland waterways]
-- [[16122 Postage]
-- [[3589 Commercial navigation]
-- [[702 Air transport industry]
-- [[804 Airports]
-- [[704 Air transportation]
-- [[707 Air transportation industry]
-- [[3290 Civilian aircraft]
-- [[15833 Planes]
-- [[3601 Commercial ships]
-- [[1774 Automotive vehicles]
-- [[3254 Civil aeronautics]
-- [[807 Airworthiness]
-- [[1768 Automobiles]
-- [[797 Airport safety]
-- [[667 Air safety]
-- [[20938 Vessel safety]
-- [[15796 Pilotage]
-- [[5157 Derailments]
-- [[20620 Transport]
-- [[669 Air taxi]
-- [[678 Air traffic]
-- [[20921 Vehicles]
-- [[15828 Plane crashes]
-- [[15831 Plane de-icing]
-- [[20912 Vehicle management]
-- [[20909 Vehicle fleets]
-- [[21501 Water transport]
-- [[9929 Highway safety]
-- [[13966 Motor vehicle fleets]
-- [[20642 Transportation industry]
-- [[21814 Wings (Aircraft)]
-- [[5602 Driving]
-- [[1905 Beacons]
-- [[11278 Intercity transportation]
-- [[15362 Passenger transportation]
-- [[12917 Marinas]
-- [[9471 Harbor authorities]
-- [[17199 Railways]
-- [[9473 Harbors]
-- [[17197 Railway transport]
-- [[9480 Harbour authorities]
-- [[17195 Railway tracks]
-- [[17193 Railway systems]
-- [[17191 Railway safety]
-- [[9489 Harbours]
-- [[12925 Marine accidents]
-- [[3559 Commercial aircraft]
-- [[17119 Rail carriers]
-- [[12947 Marine equipment]
-- [[2748 Car accidents]
-- [[12992 Marine safety]
-- [[21812 Wing de-icing]
-- [[20468 Traffic safety]
-- [[11513 Interurban transportation]
-- [[12970 Marine pilotage]
-- [[15277 Parking]
-- [[12968 Marine navigation safety]
-- [[4841 Dangerous goods transportation]
-- [[12965 Marine navigation]
-- [[2804 Cargo]
-- [[12963 Marine installations]
-- [[17336 Recreational aviation]
-- [[2812 Cars]
-- [[21471 Water routes]
-- [[11276 Intercity transport]
-- [[20479 Train stations]
-- [[18314 Sea traffic]
-- [[13956 Motor coaches]
-- [[17144 Rail transport]
-- [[5481 Docks]
-- [[20482 Train wrecks]
-- [[18318 Sea transportation]
-- [[9833 Helicopters]
-- [[9835 Heliports]
-- [[13954 Motor buses]
-- [[4589 Cruise ships]
-- [[17185 Railway networks]
-- [[17131 Rail traffic]
-- [[17129 Rail networks]
-- [[13962 Motor trucks]
-- [[20523 Trains]
-- [[17127 Rail lines]
-- [[17125 Rail companies]
-- [[13964 Motor vehicle driving]
-- [[9830 Helicopter transportation]
-- [[5596 Driver education]
-- [[11265 Intelligent vehicle highway systems]
-- [[9543 Hazardous materials transport]
-- [[17153 Rail transportation]
-- [[17156 Rail transportation industry]
-- [[17158 Railroad tracks]
-- [[17160 Railroads]
-- [[11267 Inter-city transportation]
-- [[18316 Sea transport]
-- [[17167 Railway accidents]
-- [[17151 Rail transport industry]
-- [[3565 Commercial aviation]
-- [[20639 Transportation]
-- [[17171 Railway installations]
-- [[17173 Railway lines]
-- [[735 Aircraft accidents]
-- [[9545 Hazardous materials transportation]]  
-
+subjectCategory:
+- "[[21712 Wheelchairs]]"
+- "[[13034 Maritime disasters]]"
+- "[[17922 Road transport]]"
+- "[[20243 Tolls]]"
+- "[[758 Aircraft de-icing]]"
+- "[[13042 Maritime law]]"
+- "[[13044 Maritime traffic]]"
+- "[[11508 Interprovincial transport]]"
+- "[[13013 Marine transportation]]"
+- "[[765 Airline industry]]"
+- "[[11454 International transport]]"
+- "[[2637 Cabin safety]]"
+- "[[7642 Ferries]]"
+- "[[14370 Navigable waters]]"
+- "[[21703 Wheel chairs]]"
+- "[[13016 Marine transportation industry]]"
+- "[[1170 Anti-icing of aircraft]]"
+- "[[13011 Marine transport industry]]"
+- "[[21809 Wing anti-icing]]"
+- "[[13416 Merchant navy]]"
+- "[[4850 Dangerous products transport]]"
+- "[[4929 De-icing of aircraft]]"
+- "[[21514 Water transport industry]]"
+- "[[21516 Water transportation]]"
+- "[[746 Aircraft anti-icing]]"
+- "[[13413 Merchant marine]]"
+- "[[20644 Transportation of dangerous goods]]"
+- "[[20647 Transportation policy]]"
+- "[[16118 Post offices]]"
+- "[[13004 Marine shipping industry]]"
+- "[[20709 Trucking]]"
+- "[[13008 Marine transport]]"
+- "[[16133 Postal services]]"
+- "[[2313 Boats]]"
+- "[[21519 Water transportation industry]]"
+- "[[2714 Canals]]"
+- "[[789 Airport administrations]]"
+- "[[16098 Port authorities]]"
+- "[[348 Aeronautics]]"
+- "[[13006 Marine traffic]]"
+- "[[4399 Covered bridges]]"
+- "[[771 Airlines]]"
+- "[[340 Aerodromes]]"
+- "[[19278 Stamps]]"
+- "[[20736 Tunnels]]"
+- "[[20717 Trucking industry]]"
+- "[[16096 Port administrations]]"
+- "[[2014 Bicycle lanes]]"
+- "[[18670 Ship piloting]]"
+- "[[2044 Bike paths]]"
+- "[[18673 Ship sinking]]"
+- "[[2041 Bike lanes]]"
+- "[[2495 Buses]]"
+- "[[8006 Fishing ships]]"
+- "[[14386 Navigation]]"
+- "[[17929 Roads]]"
+- "[[17927 Road transportation]]"
+- "[[18702 Shipwrecks]]"
+- "[[18699 Ships]]"
+- "[[2502 Business aviation]]"
+- "[[17906 Road safety]]"
+- "[[2036 Bicycle trails]]"
+- "[[17908 Road systems]]"
+- "[[14858 Ocean transportation]]"
+- "[[17910 Road traffic]]"
+- "[[14856 Ocean transport industry]]"
+- "[[14388 Navigation aids]]"
+- "[[17925 Road transport industry]]"
+- "[[18679 Shipbuilding]]"
+- "[[2028 Bicycle paths]]"
+- "[[14853 Ocean transport]]"
+- "[[17896 Road networks]]"
+- "[[8028 Fleet management]]"
+- "[[14372 Navigable waterways]]"
+- "[[783 Airplane de-icing]]"
+- "[[21569 Waterways]]"
+- "[[787 Airplanes]]"
+- "[[18686 Shipping industry]]"
+- "[[21696 Wharfs]]"
+- "[[18075 Sailing]]"
+- "[[8504 Freight]]"
+- "[[16110 Ports]]"
+- "[[18073 Sailboats]]"
+- "[[20722 Trucks]]"
+- "[[774 Airplane accidents]]"
+- "[[2408 Bridges]]"
+- "[[14399 Navigation systems]]"
+- "[[8031 Flight safety]]"
+- "[[113 Accessible transport]]"
+- "[[777 Airplane anti-icing]]"
+- "[[17985 Safe boating]]"
+- "[[2050 Biking trails]]"
+- "[[780 Airplane crashes]]"
+- "[[20656 Transportation safety]]"
+- "[[8060 Flying accidents]]"
+- "[[2047 Bike trails]]"
+- "[[17871 Road accidents]]"
+- "[[17876 Road construction]]"
+- "[[17882 Road motor vehicles]]"
+- "[[20463 Traffic accidents]]"
+- "[[9933 Highways]]"
+- "[[13001 Marine shipping]]"
+- "[[4839 Dangerous goods transport]]"
+- "[[611 Air-cushioned vehicles]]"
+- "[[13597 Military aeronautics]]"
+- "[[20637 Transport policy]]"
+- "[[616 Air carriers]]"
+- "[[6195 Electric-powered vehicles]]"
+- "[[623 Air cushion vehicles]]"
+- "[[19646 Sustainable transportation]]"
+- "[[626 Air disasters]]"
+- "[[1793 Aviation accidents]]"
+- "[[634 Air navigation]]"
+- "[[1790 Aviation]]"
+- "[[723 Aircraft]]"
+- "[[10447 Icebreakers]]"
+- "[[12454 Lighthouses]]"
+- "[[20847 Urban transit]]"
+- "[[1807 Aviation safety]]"
+- "[[12626 Locks]]"
+- "[[16124 Postal codes]]"
+- "[[794 Airport authorities]]"
+- "[[9931 Highway systems]]"
+- "[[6233 Electric vehicles]]"
+- "[[11262 Intelligent transportation systems]]"
+- "[[20838 Urban traffic]]"
+- "[[18375 Seaway]]"
+- "[[10155 Hovercraft]]"
+- "[[12709 Mail services]]"
+- "[[13616 Military aviation]]"
+- "[[16402 Private aircraft]]"
+- "[[11255 Intelligent transport systems]]"
+- "[[13602 Military aircraft]]"
+- "[[15885 Pleasure craft]]"
+- "[[16924 Public transportation]]"
+- "[[16922 Public transport]]"
+- "[[16920 Public transit]]"
+- "[[20849 Urban transport]]"
+- "[[20947 Vessels]]"
+- "[[9927 Highway networks]]"
+- "[[1745 Automobile driving]]"
+- "[[1743 Automobile accidents]]"
+- "[[3262 Civil aviation]]"
+- "[[693 Air transport]]"
+- "[[13982 Motor vehicles]]"
+- "[[20631 Transport industry]]"
+- "[[13984 Motorcoaches]]"
+- "[[20851 Urban transportation]]"
+- "[[11101 Inland waterways]]"
+- "[[16122 Postage]]"
+- "[[3589 Commercial navigation]]"
+- "[[702 Air transport industry]]"
+- "[[804 Airports]]"
+- "[[704 Air transportation]]"
+- "[[707 Air transportation industry]]"
+- "[[3290 Civilian aircraft]]"
+- "[[15833 Planes]]"
+- "[[3601 Commercial ships]]"
+- "[[1774 Automotive vehicles]]"
+- "[[3254 Civil aeronautics]]"
+- "[[807 Airworthiness]]"
+- "[[1768 Automobiles]]"
+- "[[797 Airport safety]]"
+- "[[667 Air safety]]"
+- "[[20938 Vessel safety]]"
+- "[[15796 Pilotage]]"
+- "[[5157 Derailments]]"
+- "[[20620 Transport]]"
+- "[[669 Air taxi]]"
+- "[[678 Air traffic]]"
+- "[[20921 Vehicles]]"
+- "[[15828 Plane crashes]]"
+- "[[15831 Plane de-icing]]"
+- "[[20912 Vehicle management]]"
+- "[[20909 Vehicle fleets]]"
+- "[[21501 Water transport]]"
+- "[[9929 Highway safety]]"
+- "[[13966 Motor vehicle fleets]]"
+- "[[20642 Transportation industry]]"
+- "[[21814 Wings (Aircraft)]]"
+- "[[5602 Driving]]"
+- "[[1905 Beacons]]"
+- "[[11278 Intercity transportation]]"
+- "[[15362 Passenger transportation]]"
+- "[[12917 Marinas]]"
+- "[[9471 Harbor authorities]]"
+- "[[17199 Railways]]"
+- "[[9473 Harbors]]"
+- "[[17197 Railway transport]]"
+- "[[9480 Harbour authorities]]"
+- "[[17195 Railway tracks]]"
+- "[[17193 Railway systems]]"
+- "[[17191 Railway safety]]"
+- "[[9489 Harbours]]"
+- "[[12925 Marine accidents]]"
+- "[[3559 Commercial aircraft]]"
+- "[[17119 Rail carriers]]"
+- "[[12947 Marine equipment]]"
+- "[[2748 Car accidents]]"
+- "[[12992 Marine safety]]"
+- "[[21812 Wing de-icing]]"
+- "[[20468 Traffic safety]]"
+- "[[11513 Interurban transportation]]"
+- "[[12970 Marine pilotage]]"
+- "[[15277 Parking]]"
+- "[[12968 Marine navigation safety]]"
+- "[[4841 Dangerous goods transportation]]"
+- "[[12965 Marine navigation]]"
+- "[[2804 Cargo]]"
+- "[[12963 Marine installations]]"
+- "[[17336 Recreational aviation]]"
+- "[[2812 Cars]]"
+- "[[21471 Water routes]]"
+- "[[11276 Intercity transport]]"
+- "[[20479 Train stations]]"
+- "[[18314 Sea traffic]]"
+- "[[13956 Motor coaches]]"
+- "[[17144 Rail transport]]"
+- "[[5481 Docks]]"
+- "[[20482 Train wrecks]]"
+- "[[18318 Sea transportation]]"
+- "[[9833 Helicopters]]"
+- "[[9835 Heliports]]"
+- "[[13954 Motor buses]]"
+- "[[4589 Cruise ships]]"
+- "[[17185 Railway networks]]"
+- "[[17131 Rail traffic]]"
+- "[[17129 Rail networks]]"
+- "[[13962 Motor trucks]]"
+- "[[20523 Trains]]"
+- "[[17127 Rail lines]]"
+- "[[17125 Rail companies]]"
+- "[[13964 Motor vehicle driving]]"
+- "[[9830 Helicopter transportation]]"
+- "[[5596 Driver education]]"
+- "[[11265 Intelligent vehicle highway systems]]"
+- "[[9543 Hazardous materials transport]]"
+- "[[17153 Rail transportation]]"
+- "[[17156 Rail transportation industry]]"
+- "[[17158 Railroad tracks]]"
+- "[[17160 Railroads]]"
+- "[[11267 Inter-city transportation]]"
+- "[[18316 Sea transport]]"
+- "[[17167 Railway accidents]]"
+- "[[17151 Rail transport industry]]"
+- "[[3565 Commercial aviation]]"
+- "[[20639 Transportation]]"
+- "[[17171 Railway installations]]"
+- "[[17173 Railway lines]]"
+- "[[735 Aircraft accidents]]"
+- "[[9545 Hazardous materials transportation]]"
+---
+# TR Transport

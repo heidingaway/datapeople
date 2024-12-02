@@ -1,6 +1,11 @@
-# Computer hardware  
+---
+title: Computer hardware
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Computer hardware
 
-## Used For
-
-- [[3883 Computers]]  
-
+usedFor:
+- "[[3883 Computers]]"
+---
+# Computer hardware

@@ -1,6 +1,11 @@
-# Marital situation  
+---
+title: Marital situation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Marital situation
 
-## Used For
-
-- [[13025 Marital status]]  
-
+usedFor:
+- "[[13025 Marital status]]"
+---
+# Marital situation

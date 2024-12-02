@@ -1,6 +1,11 @@
-# Geomatique  
+---
+title: Geomatique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Géomatique
 
-## French
-
-- [[9001 Geomatics]]  
-
+french:
+- "[[9001 Geomatics]]"
+---
+# Geomatique

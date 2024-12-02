@@ -1,6 +1,11 @@
-# Cultural studies  
+---
+title: Cultural studies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cultural studies
 
-## Related Term
-
-- [[4725 Culture]]  
-
+relatedTerm:
+- "[[4725 Culture]]"
+---
+# Cultural studies

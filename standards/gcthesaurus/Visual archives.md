@@ -1,6 +1,11 @@
-# Visual archives  
+---
+title: Visual archives
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Visual archives
 
-## Narrower Term
-
-- [[1384 Archives]]  
-
+narrowerTerm:
+- "[[1384 Archives]]"
+---
+# Visual archives

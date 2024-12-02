@@ -1,11 +1,14 @@
-# Gazetteers  
+---
+title: Gazetteers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gazetteers
 
-## Narrower Term
-
-- [[5295 Directories]]  
-
-## Related Term
-
-- [[20267 Toponymy]
-- [[8951 Geography]]  
-
+narrowerTerm:
+- "[[5295 Directories]]"
+relatedTerm:
+- "[[20267 Toponymy]]"
+- "[[8951 Geography]]"
+---
+# Gazetteers

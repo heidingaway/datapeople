@@ -1,14 +1,15 @@
-# Soil taxonomy  
+---
+title: Soil taxonomy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Soil taxonomy
 
-## Narrower Term
-
-- [[19789 Taxonomy]]  
-
-## Related Term
-
-- [[19077 Soil]]  
-
-## Use
-
-- [[19079 Soil classification]]  
-
+narrowerTerm:
+- "[[19789 Taxonomy]]"
+relatedTerm:
+- "[[19077 Soil]]"
+use:
+- "[[19079 Soil classification]]"
+---
+# Soil taxonomy

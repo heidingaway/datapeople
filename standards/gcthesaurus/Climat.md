@@ -1,6 +1,11 @@
-# Climat  
+---
+title: Climat
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Climat
 
-## French
-
-- [[3331 Climate]]  
-
+french:
+- "[[3331 Climate]]"
+---
+# Climat

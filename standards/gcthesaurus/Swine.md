@@ -1,6 +1,11 @@
-# Swine  
+---
+title: Swine
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Swine
 
-## Used For
-
-- [[9999 Hogs]]  
-
+usedFor:
+- "[[9999 Hogs]]"
+---
+# Swine

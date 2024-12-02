@@ -1,10 +1,13 @@
-# Multilateral agreements  
+---
+title: Multilateral agreements
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Multilateral agreements
 
-## Broader Term
-
-- [[14011 Multilateral agreement on investment]]  
-
-## Narrower Term
-
-- [[404 Agreements]]  
-
+broaderTerm:
+- "[[14011 Multilateral agreement on investment]]"
+narrowerTerm:
+- "[[404 Agreements]]"
+---
+# Multilateral agreements

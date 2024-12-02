@@ -1,6 +1,11 @@
-# Revenu individuel  
+---
+title: Revenu individuel
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Revenu individuel
 
-## French
-
-- [[15538 Personal income]]  
-
+french:
+- "[[15538 Personal income]]"
+---
+# Revenu individuel

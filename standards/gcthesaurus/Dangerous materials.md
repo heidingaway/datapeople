@@ -1,6 +1,11 @@
-# Dangerous materials  
+---
+title: Dangerous materials
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Dangerous materials
 
-## Used For
-
-- [[9519 Hazardous materials]]  
-
+usedFor:
+- "[[9519 Hazardous materials]]"
+---
+# Dangerous materials

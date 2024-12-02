@@ -1,6 +1,11 @@
-# Ship sinking  
+---
+title: Ship sinking
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ship sinking
 
-## Used For
-
-- [[12920 Marine accidents]]  
-
+usedFor:
+- "[[12920 Marine accidents]]"
+---
+# Ship sinking

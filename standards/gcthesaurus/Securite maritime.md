@@ -1,6 +1,11 @@
-# Securite maritime  
+---
+title: Securite maritime
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sécurité maritime
 
-## French
-
-- [[12981 Marine safety]]  
-
+french:
+- "[[12981 Marine safety]]"
+---
+# Securite maritime

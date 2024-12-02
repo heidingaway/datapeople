@@ -1,6 +1,11 @@
-# Materiel didactique  
+---
+title: Materiel didactique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Matériel didactique
 
-## French
-
-- [[11162 Instructional materials]]  
-
+french:
+- "[[11162 Instructional materials]]"
+---
+# Materiel didactique

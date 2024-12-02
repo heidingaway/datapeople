@@ -1,6 +1,11 @@
-# Programme daide  
+---
+title: Programme daide
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Programme d'aide
 
-## French
-
-- [[585 Aid programs]]  
-
+french:
+- "[[585 Aid programs]]"
+---
+# Programme daide

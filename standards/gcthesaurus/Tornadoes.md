@@ -1,6 +1,11 @@
-# Tornadoes  
+---
+title: Tornadoes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tornadoes
 
-## Used For
-
-- [[19421 Storms]]  
-
+usedFor:
+- "[[19421 Storms]]"
+---
+# Tornadoes

@@ -1,6 +1,11 @@
-# Recording information in digital format  
+---
+title: Recording information in digital format
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Recording information in digital format.
 
-## Scope Note
-
-- [[5262 Digitization]]  
-
+scopeNote:
+- "[[5262 Digitization]]"
+---
+# Recording information in digital format

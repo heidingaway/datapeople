@@ -1,6 +1,11 @@
-# Catastrophe naturelle  
+---
+title: Catastrophe naturelle
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Catastrophe naturelle
 
-## French
-
-- [[14273 Natural disasters]]  
-
+french:
+- "[[14273 Natural disasters]]"
+---
+# Catastrophe naturelle

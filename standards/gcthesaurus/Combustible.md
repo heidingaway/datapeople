@@ -1,6 +1,11 @@
-# Combustible  
+---
+title: Combustible
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Combustible
 
-## French
-
-- [[8570 Fuels]]  
-
+french:
+- "[[8570 Fuels]]"
+---
+# Combustible

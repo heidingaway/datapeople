@@ -1,6 +1,11 @@
-# Forecasts  
+---
+title: Forecasts
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Forecasts
 
-## Used For
-
-- [[8206 Forecasting]]  
-
+usedFor:
+- "[[8206 Forecasting]]"
+---
+# Forecasts

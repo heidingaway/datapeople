@@ -1,6 +1,11 @@
-# Religious life  
+---
+title: Religious life
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Religious life
 
-## Used For
-
-- [[17490 Religion]]  
-
+usedFor:
+- "[[17490 Religion]]"
+---
+# Religious life

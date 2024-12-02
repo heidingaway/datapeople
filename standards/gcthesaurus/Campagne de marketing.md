@@ -1,6 +1,11 @@
-# Campagne de marketing  
+---
+title: Campagne de marketing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Campagne de marketing
 
-## French
-
-- [[13102 Marketing campaigns]]  
-
+french:
+- "[[13102 Marketing campaigns]]"
+---
+# Campagne de marketing

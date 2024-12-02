@@ -1,6 +1,11 @@
-# Obligations  
+---
+title: Obligations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Obligations
 
-## French
-
-- [[2316 Bonds]]  
-
+french:
+- "[[2316 Bonds]]"
+---
+# Obligations

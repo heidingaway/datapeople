@@ -1,16 +1,17 @@
-# International organizations  
+---
+title: International organizations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: International organizations
 
-## Narrower Term
-
-- [[3650 Commonwealth]]  
-
-## Related Term
-
-- [[11366 International cooperation]
-- [[11295 Intergovernmental organizations]
-- [[14533 Nongovernmental organizations]]  
-
-## Use
-
-- [[11334 International agencies]]  
-
+narrowerTerm:
+- "[[3650 Commonwealth]]"
+relatedTerm:
+- "[[11366 International cooperation]]"
+- "[[11295 Intergovernmental organizations]]"
+- "[[14533 Nongovernmental organizations]]"
+use:
+- "[[11334 International agencies]]"
+---
+# International organizations

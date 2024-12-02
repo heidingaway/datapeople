@@ -1,6 +1,11 @@
-# Food hygiene  
+---
+title: Food hygiene
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Food hygiene
 
-## Used For
-
-- [[8167 Food safety]]  
-
+usedFor:
+- "[[8167 Food safety]]"
+---
+# Food hygiene

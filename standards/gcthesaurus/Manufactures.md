@@ -1,6 +1,11 @@
-# Manufactures  
+---
+title: Manufactures
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Manufactures
 
-## Used For
-
-- [[10738 Industrial buildings]]  
-
+usedFor:
+- "[[10738 Industrial buildings]]"
+---
+# Manufactures

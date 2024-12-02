@@ -1,6 +1,11 @@
-# Human nutrition  
+---
+title: Human nutrition
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Human nutrition
 
-## Used For
-
-- [[14701 Nutrition]]  
-
+usedFor:
+- "[[14701 Nutrition]]"
+---
+# Human nutrition

@@ -1,6 +1,11 @@
-# Lobsters  
+---
+title: Lobsters
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Lobsters
 
-## Used For
-
-- [[4596 Crustaceans]]  
-
+usedFor:
+- "[[4596 Crustaceans]]"
+---
+# Lobsters

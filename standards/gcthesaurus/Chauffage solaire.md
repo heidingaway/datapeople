@@ -1,6 +1,11 @@
-# Chauffage solaire  
+---
+title: Chauffage solaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Chauffage solaire
 
-## French
-
-- [[19117 Solar heating]]  
-
+french:
+- "[[19117 Solar heating]]"
+---
+# Chauffage solaire

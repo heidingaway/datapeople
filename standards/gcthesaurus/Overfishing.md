@@ -1,6 +1,11 @@
-# Overfishing  
+---
+title: Overfishing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Overfishing
 
-## Used For
-
-- [[7910 Fisheries]]  
-
+usedFor:
+- "[[7910 Fisheries]]"
+---
+# Overfishing

@@ -1,6 +1,11 @@
-# Customs tariffs  
+---
+title: Customs tariffs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Customs tariffs
 
-## Used For
-
-- [[19704 Tariffs]]  
-
+usedFor:
+- "[[19704 Tariffs]]"
+---
+# Customs tariffs

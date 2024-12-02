@@ -1,6 +1,11 @@
-# Chimie  
+---
+title: Chimie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Chimie
 
-## French
-
-- [[3070 Chemistry]]  
-
+french:
+- "[[3070 Chemistry]]"
+---
+# Chimie

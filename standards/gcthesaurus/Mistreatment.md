@@ -1,6 +1,11 @@
-# Mistreatment  
+---
+title: Mistreatment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mistreatment
 
-## Used For
-
-- [[21020 Violence]]  
-
+usedFor:
+- "[[21020 Violence]]"
+---
+# Mistreatment

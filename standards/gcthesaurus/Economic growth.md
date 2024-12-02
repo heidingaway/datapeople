@@ -1,6 +1,11 @@
-# Economic growth  
+---
+title: Economic growth
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Economic growth
 
-## Used For
-
-- [[5870 Economic development]]  
-
+usedFor:
+- "[[5870 Economic development]]"
+---
+# Economic growth

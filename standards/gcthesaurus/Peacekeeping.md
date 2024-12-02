@@ -1,12 +1,15 @@
-# Peacekeeping  
+---
+title: Peacekeeping
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Peacekeeping
 
-## Related Term
-
-- [[21251 War]
-- [[15415 Peacekeeping forces]
-- [[15404 Peace]]  
-
-## Use
-
-- [[15417 Peacemaking]]  
-
+relatedTerm:
+- "[[21251 War]]"
+- "[[15415 Peacekeeping forces]]"
+- "[[15404 Peace]]"
+use:
+- "[[15417 Peacemaking]]"
+---
+# Peacekeeping

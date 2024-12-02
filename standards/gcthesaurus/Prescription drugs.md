@@ -1,11 +1,14 @@
-# Prescription drugs  
+---
+title: Prescription drugs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prescription drugs
 
-## Narrower Term
-
-- [[5698 Drugs]]  
-
-## Use
-
-- [[16249 Prescription medications]
-- [[16251 Prescription medicines]]  
-
+narrowerTerm:
+- "[[5698 Drugs]]"
+use:
+- "[[16249 Prescription medications]]"
+- "[[16251 Prescription medicines]]"
+---
+# Prescription drugs

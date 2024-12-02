@@ -1,6 +1,11 @@
-# Tobacco addiction  
+---
+title: Tobacco addiction
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tobacco addiction
 
-## Used For
-
-- [[18824 Smoking]]  
-
+usedFor:
+- "[[18824 Smoking]]"
+---
+# Tobacco addiction

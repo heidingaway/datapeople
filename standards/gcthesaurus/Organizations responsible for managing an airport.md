@@ -1,6 +1,11 @@
-# Organizations responsible for managing an airport  
+---
+title: Organizations responsible for managing an airport
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Organizations responsible for managing an airport.
 
-## Scope Note
-
-- [[791 Airport authorities]]  
-
+scopeNote:
+- "[[791 Airport authorities]]"
+---
+# Organizations responsible for managing an airport

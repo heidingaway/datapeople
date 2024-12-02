@@ -1,6 +1,11 @@
-# Douleur  
+---
+title: Douleur
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Douleur
 
-## French
-
-- [[15212 Pain]]  
-
+french:
+- "[[15212 Pain]]"
+---
+# Douleur

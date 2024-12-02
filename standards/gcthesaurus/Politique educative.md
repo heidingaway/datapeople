@@ -1,6 +1,11 @@
-# Politique educative  
+---
+title: Politique educative
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Politique éducative
 
-## French
-
-- [[6070 Education policy]]  
-
+french:
+- "[[6070 Education policy]]"
+---
+# Politique educative

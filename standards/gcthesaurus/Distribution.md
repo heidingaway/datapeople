@@ -1,10 +1,13 @@
-# Distribution  
+---
+title: Distribution
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Distribution
 
-## French
-
-- [[5438 Distribution]]  
-
-## Related Term
-
-- [[5069 Deliveries]]  
-
+french:
+- "[[5438 Distribution]]"
+relatedTerm:
+- "[[5069 Deliveries]]"
+---
+# Distribution

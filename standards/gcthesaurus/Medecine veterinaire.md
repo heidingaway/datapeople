@@ -1,6 +1,11 @@
-# Medecine veterinaire  
+---
+title: Medecine veterinaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Médecine vétérinaire
 
-## French
-
-- [[20969 Veterinary medicine]]  
-
+french:
+- "[[20969 Veterinary medicine]]"
+---
+# Medecine veterinaire

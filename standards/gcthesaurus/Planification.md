@@ -1,6 +1,11 @@
-# Planification  
+---
+title: Planification
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Planification
 
-## French
-
-- [[15838 Planning]]  
-
+french:
+- "[[15838 Planning]]"
+---
+# Planification

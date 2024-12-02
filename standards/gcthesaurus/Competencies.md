@@ -1,6 +1,11 @@
-# Competencies  
+---
+title: Competencies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Competencies
 
-## Used For
-
-- [[18778 Skills]]  
-
+usedFor:
+- "[[18778 Skills]]"
+---
+# Competencies

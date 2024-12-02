@@ -1,6 +1,11 @@
-# Equipement de sauvetage  
+---
+title: Equipement de sauvetage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Équipement de sauvetage
 
-## French
-
-- [[17635 Rescue equipment]]  
-
+french:
+- "[[17635 Rescue equipment]]"
+---
+# Equipement de sauvetage

@@ -1,6 +1,11 @@
-# Floors  
+---
+title: Floors
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Floors
 
-## Related Term
-
-- [[2474 Buildings]]  
-
+relatedTerm:
+- "[[2474 Buildings]]"
+---
+# Floors

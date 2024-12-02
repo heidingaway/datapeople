@@ -1,6 +1,11 @@
-# Produit de la peche  
+---
+title: Produit de la peche
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Produit de la pêche
 
-## French
-
-- [[7932 Fisheries products]]  
-
+french:
+- "[[7932 Fisheries products]]"
+---
+# Produit de la peche

@@ -1,6 +1,11 @@
-# Public schools  
+---
+title: Public schools
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Public schools
 
-## Narrower Term
-
-- [[18218 Schools]]  
-
+narrowerTerm:
+- "[[18218 Schools]]"
+---
+# Public schools

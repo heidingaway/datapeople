@@ -1,6 +1,11 @@
-# CAAT  
+---
+title: CAAT
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: CAAT
 
-## Used For
-
-- [[3528 Colleges]]  
-
+usedFor:
+- "[[3528 Colleges]]"
+---
+# CAAT

@@ -1,6 +1,11 @@
-# Policy instruments  
+---
+title: Policy instruments
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Policy instruments
 
-## Related Term
-
-- [[15961 Policy]]  
-
+relatedTerm:
+- "[[15961 Policy]]"
+---
+# Policy instruments

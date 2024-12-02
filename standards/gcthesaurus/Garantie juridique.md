@@ -1,6 +1,11 @@
-# Garantie juridique  
+---
+title: Garantie juridique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Garantie juridique
 
-## French
-
-- [[12280 Legal rights]]  
-
+french:
+- "[[12280 Legal rights]]"
+---
+# Garantie juridique

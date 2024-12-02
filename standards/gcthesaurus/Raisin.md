@@ -1,6 +1,11 @@
-# Raisin  
+---
+title: Raisin
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Raisin
 
-## French
-
-- [[9307 Grapes]]  
-
+french:
+- "[[9307 Grapes]]"
+---
+# Raisin

@@ -1,6 +1,11 @@
-# Teaching personnel  
+---
+title: Teaching personnel
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Teaching personnel
 
-## Used For
-
-- [[19801 Teachers]]  
-
+usedFor:
+- "[[19801 Teachers]]"
+---
+# Teaching personnel

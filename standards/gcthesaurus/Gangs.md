@@ -1,15 +1,16 @@
-# Gangs  
+---
+title: Gangs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gangs
 
-## French
-
-- [[8703 Gangs]]  
-
-## Related Term
-
-- [[22113 Young offenders]
-- [[4462 Crime]]  
-
-## Use
-
-- [[19445 Street gangs]]  
-
+french:
+- "[[8703 Gangs]]"
+relatedTerm:
+- "[[22113 Young offenders]]"
+- "[[4462 Crime]]"
+use:
+- "[[19445 Street gangs]]"
+---
+# Gangs

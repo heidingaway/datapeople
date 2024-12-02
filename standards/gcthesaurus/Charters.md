@@ -1,6 +1,11 @@
-# Charters  
+---
+title: Charters
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Charters
 
-## Broader Term
-
-- [[3004 Charter of rights and freedoms]]  
-
+broaderTerm:
+- "[[3004 Charter of rights and freedoms]]"
+---
+# Charters

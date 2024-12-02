@@ -1,6 +1,11 @@
-# Fish aquaculture  
+---
+title: Fish aquaculture
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fish aquaculture
 
-## Used For
-
-- [[7886 Fish farming]]  
-
+usedFor:
+- "[[7886 Fish farming]]"
+---
+# Fish aquaculture

@@ -1,7 +1,12 @@
-# Rescue equipment  
+---
+title: Rescue equipment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rescue equipment
 
-## Related Term
-
-- [[17633 Rescue]
-- [[18024 Safety equipment]]  
-
+relatedTerm:
+- "[[17633 Rescue]]"
+- "[[18024 Safety equipment]]"
+---
+# Rescue equipment

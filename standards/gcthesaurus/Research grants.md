@@ -1,15 +1,16 @@
-# Research grants  
+---
+title: Research grants
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Research grants
 
-## Narrower Term
-
-- [[9297 Grants]]  
-
-## Related Term
-
-- [[17658 Research]]  
-
-## Use
-
-- [[17675 Research funding]
-- [[7632 Fellowships]]  
-
+narrowerTerm:
+- "[[9297 Grants]]"
+relatedTerm:
+- "[[17658 Research]]"
+use:
+- "[[17675 Research funding]]"
+- "[[7632 Fellowships]]"
+---
+# Research grants

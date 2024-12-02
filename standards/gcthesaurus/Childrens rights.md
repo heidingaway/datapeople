@@ -1,10 +1,13 @@
-# Childrens rights  
+---
+title: Childrens rights
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Children's rights
 
-## Narrower Term
-
-- [[10212 Human rights]]  
-
-## Use
-
-- [[17826 Rights of the child]]  
-
+narrowerTerm:
+- "[[10212 Human rights]]"
+use:
+- "[[17826 Rights of the child]]"
+---
+# Childrens rights

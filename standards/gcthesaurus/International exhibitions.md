@@ -1,6 +1,11 @@
-# International exhibitions  
+---
+title: International exhibitions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: International exhibitions
 
-## Narrower Term
-
-- [[4639 Cultural events]]  
-
+narrowerTerm:
+- "[[4639 Cultural events]]"
+---
+# International exhibitions

@@ -1,6 +1,11 @@
-# Relations estouest  
+---
+title: Relations estouest
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Relations est-ouest
 
-## French
-
-- [[5790 East-West relations]]  
-
+french:
+- "[[5790 East-West relations]]"
+---
+# Relations estouest

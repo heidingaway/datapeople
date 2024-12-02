@@ -1,10 +1,13 @@
-# Vegetable crops  
+---
+title: Vegetable crops
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vegetable crops
 
-## Narrower Term
-
-- [[4544 Crops]]  
-
-## Related Term
-
-- [[20904 Vegetables]]  
-
+narrowerTerm:
+- "[[4544 Crops]]"
+relatedTerm:
+- "[[20904 Vegetables]]"
+---
+# Vegetable crops

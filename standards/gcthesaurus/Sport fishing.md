@@ -1,6 +1,11 @@
-# Sport fishing  
+---
+title: Sport fishing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sport fishing
 
-## Used For
-
-- [[7967 Fishing (Sport)]]  
-
+usedFor:
+- "[[7967 Fishing (Sport)]]"
+---
+# Sport fishing

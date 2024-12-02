@@ -1,6 +1,11 @@
-# Enfant  
+---
+title: Enfant
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Enfant
 
-## French
-
-- [[3164 Children]]  
-
+french:
+- "[[3164 Children]]"
+---
+# Enfant

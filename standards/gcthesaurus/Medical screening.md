@@ -1,6 +1,11 @@
-# Medical screening  
+---
+title: Medical screening
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Medical screening
 
-## Used For
-
-- [[18292 Screening (Medicine)]]  
-
+usedFor:
+- "[[18292 Screening (Medicine)]]"
+---
+# Medical screening

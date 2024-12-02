@@ -1,6 +1,11 @@
-# Delegation commerciale  
+---
+title: Delegation commerciale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Délégation commerciale
 
-## French
-
-- [[20398 Trade missions]]  
-
+french:
+- "[[20398 Trade missions]]"
+---
+# Delegation commerciale

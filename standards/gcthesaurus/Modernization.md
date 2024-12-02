@@ -1,7 +1,12 @@
-# Modernization  
+---
+title: Modernization
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Modernization
 
-## Related Term
-
-- [[11116 Innovation]
-- [[1737 Automation]]  
-
+relatedTerm:
+- "[[11116 Innovation]]"
+- "[[1737 Automation]]"
+---
+# Modernization

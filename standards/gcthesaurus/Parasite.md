@@ -1,6 +1,11 @@
-# Parasite  
+---
+title: Parasite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Parasite
 
-## French
-
-- [[15246 Parasites]]  
-
+french:
+- "[[15246 Parasites]]"
+---
+# Parasite

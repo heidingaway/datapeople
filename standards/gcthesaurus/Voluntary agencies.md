@@ -1,6 +1,11 @@
-# Voluntary agencies  
+---
+title: Voluntary agencies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Voluntary agencies
 
-## Used For
-
-- [[14482 Non-profit organizations]]  
-
+usedFor:
+- "[[14482 Non-profit organizations]]"
+---
+# Voluntary agencies

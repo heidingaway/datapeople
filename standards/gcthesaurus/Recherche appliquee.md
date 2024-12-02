@@ -1,6 +1,11 @@
-# Recherche appliquee  
+---
+title: Recherche appliquee
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Recherche appliquée
 
-## French
-
-- [[1216 Applied research]]  
-
+french:
+- "[[1216 Applied research]]"
+---
+# Recherche appliquee

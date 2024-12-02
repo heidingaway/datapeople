@@ -1,6 +1,11 @@
-# Emploi a temps plein  
+---
+title: Emploi a temps plein
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Emploi à temps plein
 
-## French
-
-- [[8601 Full-time employment]]  
-
+french:
+- "[[8601 Full-time employment]]"
+---
+# Emploi a temps plein

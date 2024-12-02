@@ -1,14 +1,15 @@
-# Charitable donations  
+---
+title: Charitable donations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Charitable donations
 
-## Narrower Term
-
-- [[5539 Donations]]  
-
-## Related Term
-
-- [[2997 Charitable organizations]]  
-
-## Use
-
-- [[2986 Charitable contributions]]  
-
+narrowerTerm:
+- "[[5539 Donations]]"
+relatedTerm:
+- "[[2997 Charitable organizations]]"
+use:
+- "[[2986 Charitable contributions]]"
+---
+# Charitable donations

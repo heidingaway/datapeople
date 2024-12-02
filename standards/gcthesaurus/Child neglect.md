@@ -1,6 +1,11 @@
-# Child neglect  
+---
+title: Child neglect
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Child neglect
 
-## Used For
-
-- [[21041 Violence against children]]  
-
+usedFor:
+- "[[21041 Violence against children]]"
+---
+# Child neglect

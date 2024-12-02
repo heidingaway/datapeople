@@ -1,6 +1,11 @@
-# Price determination  
+---
+title: Price determination
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Price determination
 
-## Used For
-
-- [[16327 Pricing]]  
-
+usedFor:
+- "[[16327 Pricing]]"
+---
+# Price determination

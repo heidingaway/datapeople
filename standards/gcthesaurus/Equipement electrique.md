@@ -1,6 +1,11 @@
-# Equipement electrique  
+---
+title: Equipement electrique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Équipement électrique
 
-## French
-
-- [[6241 Electrical equipment]]  
-
+french:
+- "[[6241 Electrical equipment]]"
+---
+# Equipement electrique

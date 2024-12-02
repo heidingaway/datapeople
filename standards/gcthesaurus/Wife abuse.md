@@ -1,6 +1,11 @@
-# Wife abuse  
+---
+title: Wife abuse
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Wife abuse
 
-## Used For
-
-- [[7404 Family violence]]  
-
+usedFor:
+- "[[7404 Family violence]]"
+---
+# Wife abuse

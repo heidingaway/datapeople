@@ -1,6 +1,11 @@
-# Consultation  
+---
+title: Consultation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Consultation
 
-## French
-
-- [[4051 Consultations]]  
-
+french:
+- "[[4051 Consultations]]"
+---
+# Consultation

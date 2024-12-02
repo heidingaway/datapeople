@@ -1,6 +1,11 @@
-# Ecotechnology  
+---
+title: Ecotechnology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ecotechnology
 
-## Used For
-
-- [[7015 Environmental technology]]  
-
+usedFor:
+- "[[7015 Environmental technology]]"
+---
+# Ecotechnology

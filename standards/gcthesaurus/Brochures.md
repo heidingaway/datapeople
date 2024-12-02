@@ -1,6 +1,11 @@
-# Brochures  
+---
+title: Brochures
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Brochures
 
-## Used For
-
-- [[2328 Booklets]]  
-
+usedFor:
+- "[[2328 Booklets]]"
+---
+# Brochures

@@ -1,6 +1,11 @@
-# Environmental review  
+---
+title: Environmental review
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Environmental review
 
-## Used For
-
-- [[6897 Environmental impact assessment]]  
-
+usedFor:
+- "[[6897 Environmental impact assessment]]"
+---
+# Environmental review

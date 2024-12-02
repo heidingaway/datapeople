@@ -1,6 +1,11 @@
-# Marche regional  
+---
+title: Marche regional
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Marché régional
 
-## French
-
-- [[17442 Regional markets]]  
-
+french:
+- "[[17442 Regional markets]]"
+---
+# Marche regional

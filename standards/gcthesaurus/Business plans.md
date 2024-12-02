@@ -1,11 +1,14 @@
-# Business plans  
+---
+title: Business plans
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Business plans
 
-## Related Term
-
-- [[2568 Business start-ups]
-- [[15842 Planning]]  
-
-## Use
-
-- [[2552 Business planning]]  
-
+relatedTerm:
+- "[[2568 Business start-ups]]"
+- "[[15842 Planning]]"
+use:
+- "[[2552 Business planning]]"
+---
+# Business plans

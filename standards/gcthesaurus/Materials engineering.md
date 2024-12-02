@@ -1,6 +1,11 @@
-# Materials engineering  
+---
+title: Materials engineering
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Materials engineering
 
-## Used For
-
-- [[13153 Materials technology]]  
-
+usedFor:
+- "[[13153 Materials technology]]"
+---
+# Materials engineering

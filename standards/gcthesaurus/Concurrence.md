@@ -1,6 +1,11 @@
-# Concurrence  
+---
+title: Concurrence
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Concurrence
 
-## French
-
-- [[3764 Competition]]  
-
+french:
+- "[[3764 Competition]]"
+---
+# Concurrence

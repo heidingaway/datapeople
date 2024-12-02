@@ -1,6 +1,11 @@
-# Soft energy  
+---
+title: Soft energy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Soft energy
 
-## Used For
-
-- [[892 Alternative energy]]  
-
+usedFor:
+- "[[892 Alternative energy]]"
+---
+# Soft energy

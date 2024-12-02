@@ -1,6 +1,11 @@
-# Industrie de la radiodiffusion  
+---
+title: Industrie de la radiodiffusion
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrie de la radiodiffusion
 
-## French
-
-- [[2430 Broadcasting industry]]  
-
+french:
+- "[[2430 Broadcasting industry]]"
+---
+# Industrie de la radiodiffusion

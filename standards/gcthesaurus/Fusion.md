@@ -1,6 +1,11 @@
-# Fusion  
+---
+title: Fusion
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fusion
 
-## French
-
-- [[13422 Mergers]]  
-
+french:
+- "[[13422 Mergers]]"
+---
+# Fusion

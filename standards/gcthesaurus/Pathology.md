@@ -1,6 +1,11 @@
-# Pathology  
+---
+title: Pathology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pathology
 
-## Used For
-
-- [[5388 Diseases]]  
-
+usedFor:
+- "[[5388 Diseases]]"
+---
+# Pathology

@@ -1,6 +1,11 @@
-# Site development  
+---
+title: Site development
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Site development
 
-## Used For
-
-- [[18759 Site management]]  
-
+usedFor:
+- "[[18759 Site management]]"
+---
+# Site development

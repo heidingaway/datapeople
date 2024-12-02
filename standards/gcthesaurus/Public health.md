@@ -1,6 +1,11 @@
-# Public health  
+---
+title: Public health
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Public health
 
-## Used For
-
-- [[9566 Health]]  
-
+usedFor:
+- "[[9566 Health]]"
+---
+# Public health

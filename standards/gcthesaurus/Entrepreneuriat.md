@@ -1,6 +1,11 @@
-# Entrepreneuriat  
+---
+title: Entrepreneuriat
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Entrepreneuriat
 
-## French
-
-- [[6767 Entrepreneurship]]  
-
+french:
+- "[[6767 Entrepreneurship]]"
+---
+# Entrepreneuriat

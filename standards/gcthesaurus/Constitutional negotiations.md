@@ -1,6 +1,11 @@
-# Constitutional negotiations  
+---
+title: Constitutional negotiations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Constitutional negotiations
 
-## Used For
-
-- [[3990 Constitution]]  
-
+usedFor:
+- "[[3990 Constitution]]"
+---
+# Constitutional negotiations

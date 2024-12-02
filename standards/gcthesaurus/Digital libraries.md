@@ -1,10 +1,13 @@
-# Digital libraries  
+---
+title: Digital libraries
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Digital libraries
 
-## Narrower Term
-
-- [[12383 Libraries]]  
-
-## Related Term
-
-- [[5236 Digital collections]]  
-
+narrowerTerm:
+- "[[12383 Libraries]]"
+relatedTerm:
+- "[[5236 Digital collections]]"
+---
+# Digital libraries

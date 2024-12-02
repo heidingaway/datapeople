@@ -1,6 +1,11 @@
-# Integrated management  
+---
+title: Integrated management
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Integrated management
 
-## Narrower Term
-
-- [[12760 Management]]  
-
+narrowerTerm:
+- "[[12760 Management]]"
+---
+# Integrated management

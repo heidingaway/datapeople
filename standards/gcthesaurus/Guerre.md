@@ -1,6 +1,11 @@
-# Guerre  
+---
+title: Guerre
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Guerre
 
-## French
-
-- [[21241 War]]  
-
+french:
+- "[[21241 War]]"
+---
+# Guerre

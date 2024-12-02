@@ -1,6 +1,11 @@
-# Developpement  
+---
+title: Developpement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Développement
 
-## French
-
-- [[5181 Development]]  
-
+french:
+- "[[5181 Development]]"
+---
+# Developpement

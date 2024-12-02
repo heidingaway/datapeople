@@ -1,7 +1,12 @@
-# Tariff protection  
+---
+title: Tariff protection
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tariff protection
 
-## Related Term
-
-- [[20421 Trade policy]
-- [[19707 Tariffs]]  
-
+relatedTerm:
+- "[[20421 Trade policy]]"
+- "[[19707 Tariffs]]"
+---
+# Tariff protection

@@ -1,6 +1,11 @@
-# Heredite  
+---
+title: Heredite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hérédité
 
-## French
-
-- [[9868 Heredity]]  
-
+french:
+- "[[9868 Heredity]]"
+---
+# Heredite

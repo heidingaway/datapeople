@@ -1,6 +1,11 @@
-# Foods for animal  
+---
+title: Foods for animal
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Foods for animal
 
-## Used For
-
-- [[1045 Animal nutrition]]  
-
+usedFor:
+- "[[1045 Animal nutrition]]"
+---
+# Foods for animal

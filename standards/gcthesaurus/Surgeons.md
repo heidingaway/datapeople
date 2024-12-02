@@ -1,6 +1,11 @@
-# Surgeons  
+---
+title: Surgeons
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Surgeons
 
-## Narrower Term
-
-- [[19597 Surgery]]  
-
+narrowerTerm:
+- "[[19597 Surgery]]"
+---
+# Surgeons

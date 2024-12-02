@@ -1,6 +1,11 @@
-# Revenu  
+---
+title: Revenu
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Revenu
 
-## French
-
-- [[10554 Income]]  
-
+french:
+- "[[10554 Income]]"
+---
+# Revenu

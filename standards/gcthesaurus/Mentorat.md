@@ -1,6 +1,11 @@
-# Mentorat  
+---
+title: Mentorat
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mentorat
 
-## French
-
-- [[13404 Mentoring]]  
-
+french:
+- "[[13404 Mentoring]]"
+---
+# Mentorat

@@ -1,6 +1,11 @@
-# Biologie marine  
+---
+title: Biologie marine
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biologie marine
 
-## French
-
-- [[12928 Marine biology]]  
-
+french:
+- "[[12928 Marine biology]]"
+---
+# Biologie marine

@@ -1,6 +1,11 @@
-# Electronic products  
+---
+title: Electronic products
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electronic products
 
-## Used For
-
-- [[6311 Electronic equipment]]  
-
+usedFor:
+- "[[6311 Electronic equipment]]"
+---
+# Electronic products

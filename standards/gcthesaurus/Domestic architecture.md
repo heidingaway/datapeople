@@ -1,10 +1,13 @@
-# Domestic architecture  
+---
+title: Domestic architecture
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Domestic architecture
 
-## Narrower Term
-
-- [[1369 Architecture]]  
-
-## Related Term
-
-- [[7433 Farm buildings]]  
-
+narrowerTerm:
+- "[[1369 Architecture]]"
+relatedTerm:
+- "[[7433 Farm buildings]]"
+---
+# Domestic architecture

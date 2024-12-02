@@ -1,10 +1,13 @@
-# Property and casualty insurance  
+---
+title: Property and casualty insurance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Property and casualty insurance
 
-## Narrower Term
-
-- [[11198 Insurance]]  
-
-## Related Term
-
-- [[16620 Property]]  
-
+narrowerTerm:
+- "[[11198 Insurance]]"
+relatedTerm:
+- "[[16620 Property]]"
+---
+# Property and casualty insurance

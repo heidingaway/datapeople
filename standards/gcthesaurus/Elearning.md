@@ -1,6 +1,11 @@
-# Elearning  
+---
+title: Elearning
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: E-learning
 
-## Used For
-
-- [[5428 Distance education]]  
-
+usedFor:
+- "[[5428 Distance education]]"
+---
+# Elearning

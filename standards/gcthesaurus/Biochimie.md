@@ -1,6 +1,11 @@
-# Biochimie  
+---
+title: Biochimie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biochimie
 
-## French
-
-- [[2100 Biochemistry]]  
-
+french:
+- "[[2100 Biochemistry]]"
+---
+# Biochimie

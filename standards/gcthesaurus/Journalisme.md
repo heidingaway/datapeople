@@ -1,6 +1,11 @@
-# Journalisme  
+---
+title: Journalisme
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Journalisme
 
-## French
-
-- [[11693 Journalism]]  
-
+french:
+- "[[11693 Journalism]]"
+---
+# Journalisme

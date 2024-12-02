@@ -1,6 +1,11 @@
-# Place names  
+---
+title: Place names
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Place names
 
-## Used For
-
-- [[20266 Toponymy]]  
-
+usedFor:
+- "[[20266 Toponymy]]"
+---
+# Place names

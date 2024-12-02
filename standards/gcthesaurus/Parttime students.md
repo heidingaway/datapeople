@@ -1,6 +1,11 @@
-# Parttime students  
+---
+title: Parttime students
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Part-time students
 
-## Narrower Term
-
-- [[19471 Students]]  
-
+narrowerTerm:
+- "[[19471 Students]]"
+---
+# Parttime students

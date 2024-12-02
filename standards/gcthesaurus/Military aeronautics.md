@@ -1,6 +1,11 @@
-# Military aeronautics  
+---
+title: Military aeronautics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Military aeronautics
 
-## Used For
-
-- [[13612 Military aviation]]  
-
+usedFor:
+- "[[13612 Military aviation]]"
+---
+# Military aeronautics

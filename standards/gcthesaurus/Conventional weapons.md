@@ -1,6 +1,11 @@
-# Conventional weapons  
+---
+title: Conventional weapons
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conventional weapons
 
-## Used For
-
-- [[21579 Weapons]]  
-
+usedFor:
+- "[[21579 Weapons]]"
+---
+# Conventional weapons

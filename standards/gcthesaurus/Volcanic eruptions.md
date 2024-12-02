@@ -1,6 +1,11 @@
-# Volcanic eruptions  
+---
+title: Volcanic eruptions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Volcanic eruptions
 
-## Used For
-
-- [[21194 Volcanoes]]  
-
+usedFor:
+- "[[21194 Volcanoes]]"
+---
+# Volcanic eruptions

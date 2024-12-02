@@ -1,6 +1,11 @@
-# Lettuce  
+---
+title: Lettuce
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Lettuce
 
-## Narrower Term
-
-- [[20902 Vegetables]]  
-
+narrowerTerm:
+- "[[20902 Vegetables]]"
+---
+# Lettuce

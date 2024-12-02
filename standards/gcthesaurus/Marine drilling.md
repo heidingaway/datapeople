@@ -1,6 +1,11 @@
-# Marine drilling  
+---
+title: Marine drilling
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Marine drilling
 
-## Used For
-
-- [[14962 Offshore drilling]]  
-
+usedFor:
+- "[[14962 Offshore drilling]]"
+---
+# Marine drilling

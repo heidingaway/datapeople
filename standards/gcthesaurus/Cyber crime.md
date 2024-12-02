@@ -1,6 +1,11 @@
-# Cyber crime  
+---
+title: Cyber crime
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cyber crime
 
-## Used For
-
-- [[3802 Computer crime]]  
-
+usedFor:
+- "[[3802 Computer crime]]"
+---
+# Cyber crime

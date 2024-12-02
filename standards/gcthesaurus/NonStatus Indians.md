@@ -1,10 +1,13 @@
-# NonStatus Indians  
+---
+title: NonStatus Indians
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Non-Status Indians
 
-## Narrower Term
-
-- [[7820 First Nations]]  
-
-## Use
-
-- [[14524 Non status Indians]]  
-
+narrowerTerm:
+- "[[7820 First Nations]]"
+use:
+- "[[14524 Non status Indians]]"
+---
+# NonStatus Indians

@@ -1,6 +1,11 @@
-# Journal  
+---
+title: Journal
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Journal
 
-## French
-
-- [[14443 Newspapers]]  
-
+french:
+- "[[14443 Newspapers]]"
+---
+# Journal

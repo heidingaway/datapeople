@@ -1,6 +1,11 @@
-# Cessation demploi  
+---
+title: Cessation demploi
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cessation d'emploi
 
-## French
-
-- [[20031 Termination of employment]]  
-
+french:
+- "[[20031 Termination of employment]]"
+---
+# Cessation demploi

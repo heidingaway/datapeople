@@ -1,6 +1,11 @@
-# Espionage  
+---
+title: Espionage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Espionage
 
-## Used For
-
-- [[18452 Security intelligence]]  
-
+usedFor:
+- "[[18452 Security intelligence]]"
+---
+# Espionage

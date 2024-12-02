@@ -1,6 +1,11 @@
-# Deboisement  
+---
+title: Deboisement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Déboisement
 
-## French
-
-- [[5047 Deforestation]]  
-
+french:
+- "[[5047 Deforestation]]"
+---
+# Deboisement

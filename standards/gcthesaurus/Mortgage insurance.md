@@ -1,10 +1,13 @@
-# Mortgage insurance  
+---
+title: Mortgage insurance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mortgage insurance
 
-## Narrower Term
-
-- [[11197 Insurance]]  
-
-## Related Term
-
-- [[13929 Mortgage loans]]  
-
+narrowerTerm:
+- "[[11197 Insurance]]"
+relatedTerm:
+- "[[13929 Mortgage loans]]"
+---
+# Mortgage insurance

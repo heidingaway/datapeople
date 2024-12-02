@@ -1,6 +1,11 @@
-# Potatoes  
+---
+title: Potatoes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Potatoes
 
-## Narrower Term
-
-- [[20903 Vegetables]]  
-
+narrowerTerm:
+- "[[20903 Vegetables]]"
+---
+# Potatoes

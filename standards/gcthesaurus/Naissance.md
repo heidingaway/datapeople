@@ -1,6 +1,11 @@
-# Naissance  
+---
+title: Naissance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Naissance
 
-## French
-
-- [[2248 Birth]]  
-
+french:
+- "[[2248 Birth]]"
+---
+# Naissance

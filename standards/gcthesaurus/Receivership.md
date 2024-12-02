@@ -1,6 +1,11 @@
-# Receivership  
+---
+title: Receivership
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Receivership
 
-## Used For
-
-- [[1855 Bankruptcies]]  
-
+usedFor:
+- "[[1855 Bankruptcies]]"
+---
+# Receivership

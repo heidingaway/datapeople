@@ -1,6 +1,11 @@
-# Foreign trade  
+---
+title: Foreign trade
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Foreign trade
 
-## Used For
-
-- [[11439 International trade]]  
-
+usedFor:
+- "[[11439 International trade]]"
+---
+# Foreign trade

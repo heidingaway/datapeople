@@ -1,6 +1,11 @@
-# Highway networks  
+---
+title: Highway networks
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Highway networks
 
-## Used For
-
-- [[17884 Road networks]]  
-
+usedFor:
+- "[[17884 Road networks]]"
+---
+# Highway networks

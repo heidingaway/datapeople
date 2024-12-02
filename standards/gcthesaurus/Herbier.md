@@ -1,6 +1,11 @@
-# Herbier  
+---
+title: Herbier
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Herbier
 
-## French
-
-- [[9847 Herbaria]]  
-
+french:
+- "[[9847 Herbaria]]"
+---
+# Herbier

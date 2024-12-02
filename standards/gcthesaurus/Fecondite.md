@@ -1,6 +1,11 @@
-# Fecondite  
+---
+title: Fecondite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fécondité
 
-## French
-
-- [[7643 Fertility]]  
-
+french:
+- "[[7643 Fertility]]"
+---
+# Fecondite

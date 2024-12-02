@@ -1,6 +1,11 @@
-# Whaling  
+---
+title: Whaling
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Whaling
 
-## Related Term
-
-- [[21686 Whales]]  
-
+relatedTerm:
+- "[[21686 Whales]]"
+---
+# Whaling

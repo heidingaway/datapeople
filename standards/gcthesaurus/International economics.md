@@ -1,13 +1,16 @@
-# International economics  
+---
+title: International economics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: International economics
 
-## Narrower Term
-
-- [[5976 Economics]]  
-
-## Related Term
-
-- [[14059 Multinational corporations]
-- [[9110 Globalization]
-- [[11391 International finance]
-- [[11404 International markets]]  
-
+narrowerTerm:
+- "[[5976 Economics]]"
+relatedTerm:
+- "[[14059 Multinational corporations]]"
+- "[[9110 Globalization]]"
+- "[[11391 International finance]]"
+- "[[11404 International markets]]"
+---
+# International economics

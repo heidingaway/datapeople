@@ -1,6 +1,11 @@
-# Social action  
+---
+title: Social action
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Social action
 
-## Used For
-
-- [[324 Advocacy]]  
-
+usedFor:
+- "[[324 Advocacy]]"
+---
+# Social action

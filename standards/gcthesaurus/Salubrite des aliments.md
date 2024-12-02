@@ -1,6 +1,11 @@
-# Salubrite des aliments  
+---
+title: Salubrite des aliments
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Salubrité des aliments
 
-## French
-
-- [[8165 Food safety]]  
-
+french:
+- "[[8165 Food safety]]"
+---
+# Salubrite des aliments

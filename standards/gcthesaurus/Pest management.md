@@ -1,6 +1,11 @@
-# Pest management  
+---
+title: Pest management
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pest management
 
-## Used For
-
-- [[15621 Pesticides]]  
-
+usedFor:
+- "[[15621 Pesticides]]"
+---
+# Pest management

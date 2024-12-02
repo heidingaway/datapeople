@@ -1,6 +1,11 @@
-# Multimedia  
+---
+title: Multimedia
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Multimédia
 
-## French
-
-- [[14028 Multimedia]]  
-
+french:
+- "[[14028 Multimedia]]"
+---
+# Multimedia

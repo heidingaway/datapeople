@@ -1,6 +1,11 @@
-# Sciences naturelles  
+---
+title: Sciences naturelles
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sciences naturelles
 
-## French
-
-- [[14327 Natural sciences]]  
-
+french:
+- "[[14327 Natural sciences]]"
+---
+# Sciences naturelles

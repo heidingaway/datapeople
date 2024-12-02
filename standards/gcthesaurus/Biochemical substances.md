@@ -1,6 +1,11 @@
-# Biochemical substances  
+---
+title: Biochemical substances
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biochemical substances
 
-## Used For
-
-- [[2093 Biochemicals]]  
-
+usedFor:
+- "[[2093 Biochemicals]]"
+---
+# Biochemical substances

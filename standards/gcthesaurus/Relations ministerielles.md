@@ -1,6 +1,11 @@
-# Relations ministerielles  
+---
+title: Relations ministerielles
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Relations ministérielles
 
-## French
-
-- [[5137 Departmental relations]]  
-
+french:
+- "[[5137 Departmental relations]]"
+---
+# Relations ministerielles

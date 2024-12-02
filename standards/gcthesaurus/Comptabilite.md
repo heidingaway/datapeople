@@ -1,6 +1,11 @@
-# Comptabilite  
+---
+title: Comptabilite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Comptabilité
 
-## French
-
-- [[138 Accounting]]  
-
+french:
+- "[[138 Accounting]]"
+---
+# Comptabilite

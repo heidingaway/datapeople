@@ -1,12 +1,15 @@
-# Gross national product  
+---
+title: Gross national product
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gross national product
 
-## Related Term
-
-- [[14212 National income]
-- [[5914 Economic indicators]
-- [[9378 Gross domestic product]]  
-
-## Use
-
-- [[9121 GNP]]  
-
+relatedTerm:
+- "[[14212 National income]]"
+- "[[5914 Economic indicators]]"
+- "[[9378 Gross domestic product]]"
+use:
+- "[[9121 GNP]]"
+---
+# Gross national product

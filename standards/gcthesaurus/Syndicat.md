@@ -1,6 +1,11 @@
-# Syndicat  
+---
+title: Syndicat
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Syndicat
 
-## French
-
-- [[11962 Labour unions]]  
-
+french:
+- "[[11962 Labour unions]]"
+---
+# Syndicat

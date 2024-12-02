@@ -1,6 +1,11 @@
-# Radioactive substances  
+---
+title: Radioactive substances
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Radioactive substances
 
-## Used For
-
-- [[17092 Radioactive materials]]  
-
+usedFor:
+- "[[17092 Radioactive materials]]"
+---
+# Radioactive substances

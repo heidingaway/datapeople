@@ -1,6 +1,11 @@
-# Individual income tax  
+---
+title: Individual income tax
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Individual income tax
 
-## Used For
-
-- [[15550 Personal income tax]]  
-
+usedFor:
+- "[[15550 Personal income tax]]"
+---
+# Individual income tax

@@ -1,14 +1,15 @@
-# Canadian history  
+---
+title: Canadian history
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Canadian history
 
-## Narrower Term
-
-- [[9971 History]]  
-
-## Related Term
-
-- [[2708 Canadian studies]]  
-
-## Use
-
-- [[9987 History of Canada]]  
-
+narrowerTerm:
+- "[[9971 History]]"
+relatedTerm:
+- "[[2708 Canadian studies]]"
+use:
+- "[[9987 History of Canada]]"
+---
+# Canadian history

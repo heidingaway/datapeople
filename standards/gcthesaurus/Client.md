@@ -1,6 +1,11 @@
-# Client  
+---
+title: Client
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Client
 
-## French
-
-- [[3325 Clients]]  
-
+french:
+- "[[3325 Clients]]"
+---
+# Client

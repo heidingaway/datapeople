@@ -1,6 +1,11 @@
-# Flotation devices  
+---
+title: Flotation devices
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Flotation devices
 
-## Used For
-
-- [[12994 Marine safety equipment]]  
-
+usedFor:
+- "[[12994 Marine safety equipment]]"
+---
+# Flotation devices

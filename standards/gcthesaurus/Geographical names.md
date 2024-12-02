@@ -1,6 +1,11 @@
-# Geographical names  
+---
+title: Geographical names
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geographical names
 
-## Used For
-
-- [[20265 Toponymy]]  
-
+usedFor:
+- "[[20265 Toponymy]]"
+---
+# Geographical names

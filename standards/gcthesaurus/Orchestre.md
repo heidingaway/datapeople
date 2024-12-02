@@ -1,6 +1,11 @@
-# Orchestre  
+---
+title: Orchestre
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Orchestre
 
-## French
-
-- [[15081 Orchestras]]  
-
+french:
+- "[[15081 Orchestras]]"
+---
+# Orchestre

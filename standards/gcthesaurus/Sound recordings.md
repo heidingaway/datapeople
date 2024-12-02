@@ -1,11 +1,14 @@
-# Sound recordings  
+---
+title: Sound recordings
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sound recordings
 
-## Related Term
-
-- [[19143 Sound archives]]  
-
-## Use
-
-- [[1692 Audiocassettes]
-- [[5382 Discs]]  
-
+relatedTerm:
+- "[[19143 Sound archives]]"
+use:
+- "[[1692 Audiocassettes]]"
+- "[[5382 Discs]]"
+---
+# Sound recordings

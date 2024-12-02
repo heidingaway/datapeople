@@ -1,11 +1,14 @@
-# Foreign policy  
+---
+title: Foreign policy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Foreign policy
 
-## Narrower Term
-
-- [[15946 Policy]]  
-
-## Related Term
-
-- [[7321 External relations]
-- [[16796 Public diplomacy]]  
-
+narrowerTerm:
+- "[[15946 Policy]]"
+relatedTerm:
+- "[[7321 External relations]]"
+- "[[16796 Public diplomacy]]"
+---
+# Foreign policy

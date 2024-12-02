@@ -1,14 +1,15 @@
-# Shoe industry  
+---
+title: Shoe industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Shoe industry
 
-## Narrower Term
-
-- [[12853 Manufacturing industry]]  
-
-## Related Term
-
-- [[3392 Clothing industry]]  
-
-## Use
-
-- [[8196 Footwear industry]]  
-
+narrowerTerm:
+- "[[12853 Manufacturing industry]]"
+relatedTerm:
+- "[[3392 Clothing industry]]"
+use:
+- "[[8196 Footwear industry]]"
+---
+# Shoe industry

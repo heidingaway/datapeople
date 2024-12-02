@@ -1,6 +1,11 @@
-# Linguistic minority communities  
+---
+title: Linguistic minority communities
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Linguistic minority communities
 
-## Used For
-
-- [[12085 Language minorities]]  
-
+usedFor:
+- "[[12085 Language minorities]]"
+---
+# Linguistic minority communities

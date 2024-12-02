@@ -1,6 +1,11 @@
-# Tables  
+---
+title: Tables
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tables
 
-## Related Term
-
-- [[19358 Statistics]]  
-
+relatedTerm:
+- "[[19358 Statistics]]"
+---
+# Tables

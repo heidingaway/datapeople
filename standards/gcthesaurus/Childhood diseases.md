@@ -1,10 +1,13 @@
-# Childhood diseases  
+---
+title: Childhood diseases
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Childhood diseases
 
-## Narrower Term
-
-- [[5392 Diseases]]  
-
-## Related Term
-
-- [[3187 Children's health]]  
-
+narrowerTerm:
+- "[[5392 Diseases]]"
+relatedTerm:
+- "[[3187 Children's health]]"
+---
+# Childhood diseases

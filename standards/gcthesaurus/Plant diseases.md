@@ -1,10 +1,13 @@
-# Plant diseases  
+---
+title: Plant diseases
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Plant diseases
 
-## Narrower Term
-
-- [[5398 Diseases]]  
-
-## Related Term
-
-- [[15874 Plants]]  
-
+narrowerTerm:
+- "[[5398 Diseases]]"
+relatedTerm:
+- "[[15874 Plants]]"
+---
+# Plant diseases

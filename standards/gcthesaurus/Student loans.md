@@ -1,12 +1,15 @@
-# Student loans  
+---
+title: Student loans
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Student loans
 
-## Narrower Term
-
-- [[12582 Loans]]  
-
-## Related Term
-
-- [[6060 Education]
-- [[7722 Financial assistance]
-- [[18196 Scholarships]]  
-
+narrowerTerm:
+- "[[12582 Loans]]"
+relatedTerm:
+- "[[6060 Education]]"
+- "[[7722 Financial assistance]]"
+- "[[18196 Scholarships]]"
+---
+# Student loans

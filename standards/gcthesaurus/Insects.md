@@ -1,15 +1,16 @@
-# Insects  
+---
+title: Insects
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Insects
 
-## Broader Term
-
-- [[2617 Butterflies]]  
-
-## Narrower Term
-
-- [[1495 Arthropods]]  
-
-## Related Term
-
-- [[6760 Entomology]
-- [[11145 Insecticides]]  
-
+broaderTerm:
+- "[[2617 Butterflies]]"
+narrowerTerm:
+- "[[1495 Arthropods]]"
+relatedTerm:
+- "[[6760 Entomology]]"
+- "[[11145 Insecticides]]"
+---
+# Insects

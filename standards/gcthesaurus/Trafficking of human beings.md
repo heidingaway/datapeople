@@ -1,6 +1,11 @@
-# Trafficking of human beings  
+---
+title: Trafficking of human beings
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Trafficking of human beings
 
-## Used For
-
-- [[10246 Human trafficking]]  
-
+usedFor:
+- "[[10246 Human trafficking]]"
+---
+# Trafficking of human beings

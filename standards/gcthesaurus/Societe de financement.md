@@ -1,6 +1,11 @@
-# Societe de financement  
+---
+title: Societe de financement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Société de financement
 
-## French
-
-- [[7772 Financing companies]]  
-
+french:
+- "[[7772 Financing companies]]"
+---
+# Societe de financement

@@ -1,6 +1,11 @@
-# Ethnic origin  
+---
+title: Ethnic origin
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ethnic origin
 
-## Used For
-
-- [[7159 Ethnic groups]]  
-
+usedFor:
+- "[[7159 Ethnic groups]]"
+---
+# Ethnic origin

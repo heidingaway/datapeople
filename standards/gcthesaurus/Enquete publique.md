@@ -1,6 +1,11 @@
-# Enquete publique  
+---
+title: Enquete publique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Enquête publique
 
-## French
-
-- [[11132 Inquiry]]  
-
+french:
+- "[[11132 Inquiry]]"
+---
+# Enquete publique

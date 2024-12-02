@@ -1,6 +1,11 @@
-# Mushrooms  
+---
+title: Mushrooms
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mushrooms
 
-## Used For
-
-- [[8651 Fungi]]  
-
+usedFor:
+- "[[8651 Fungi]]"
+---
+# Mushrooms

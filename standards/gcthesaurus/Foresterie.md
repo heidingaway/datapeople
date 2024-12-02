@@ -1,6 +1,11 @@
-# Foresterie  
+---
+title: Foresterie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Foresterie
 
-## French
-
-- [[8348 Forestry]]  
-
+french:
+- "[[8348 Forestry]]"
+---
+# Foresterie

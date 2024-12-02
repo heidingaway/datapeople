@@ -1,6 +1,11 @@
-# Insemination artificielle  
+---
+title: Insemination artificielle
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Insémination artificielle
 
-## French
-
-- [[1497 Artificial insemination]]  
-
+french:
+- "[[1497 Artificial insemination]]"
+---
+# Insemination artificielle

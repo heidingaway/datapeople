@@ -1,6 +1,11 @@
-# Scholarship programs  
+---
+title: Scholarship programs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Scholarship programs
 
-## Used For
-
-- [[18191 Scholarships]]  
-
+usedFor:
+- "[[18191 Scholarships]]"
+---
+# Scholarship programs

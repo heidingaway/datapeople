@@ -1,6 +1,11 @@
-# Surgical procedures  
+---
+title: Surgical procedures
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Surgical procedures
 
-## Used For
-
-- [[19595 Surgery]]  
-
+usedFor:
+- "[[19595 Surgery]]"
+---
+# Surgical procedures

@@ -1,6 +1,11 @@
-# Disaster planning  
+---
+title: Disaster planning
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Disaster planning
 
-## Used For
-
-- [[6424 Emergency preparedness]]  
-
+usedFor:
+- "[[6424 Emergency preparedness]]"
+---
+# Disaster planning

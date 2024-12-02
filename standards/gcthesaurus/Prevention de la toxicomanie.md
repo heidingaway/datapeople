@@ -1,6 +1,11 @@
-# Prevention de la toxicomanie  
+---
+title: Prevention de la toxicomanie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prévention de la toxicomanie
 
-## French
-
-- [[5631 Drug education]]  
-
+french:
+- "[[5631 Drug education]]"
+---
+# Prevention de la toxicomanie

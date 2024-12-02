@@ -1,11 +1,14 @@
-# Explorations  
+---
+title: Explorations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Explorations
 
-## Broader Term
-
-- [[19163 Space exploration]]  
-
-## Related Term
-
-- [[15799 Pioneers]
-- [[3542 Colonization]]  
-
+broaderTerm:
+- "[[19163 Space exploration]]"
+relatedTerm:
+- "[[15799 Pioneers]]"
+- "[[3542 Colonization]]"
+---
+# Explorations

@@ -1,6 +1,11 @@
-# Personneressource  
+---
+title: Personneressource
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Personne-ressource
 
-## French
-
-- [[4101 Contact]]  
-
+french:
+- "[[4101 Contact]]"
+---
+# Personneressource

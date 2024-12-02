@@ -1,6 +1,11 @@
-# Ordering  
+---
+title: Ordering
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ordering
 
-## Used For
-
-- [[16971 Purchasing]]  
-
+usedFor:
+- "[[16971 Purchasing]]"
+---
+# Ordering

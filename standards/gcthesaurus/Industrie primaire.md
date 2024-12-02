@@ -1,6 +1,11 @@
-# Industrie primaire  
+---
+title: Industrie primaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrie primaire
 
-## French
-
-- [[16336 Primary industry]]  
-
+french:
+- "[[16336 Primary industry]]"
+---
+# Industrie primaire

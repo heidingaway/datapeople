@@ -1,15 +1,16 @@
-# Rural development  
+---
+title: Rural development
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rural development
 
-## Narrower Term
-
-- [[5192 Development]]  
-
-## Related Term
-
-- [[17962 Rural communities]
-- [[17440 Regional development]]  
-
-## Use
-
-- [[17981 Rural issues]]  
-
+narrowerTerm:
+- "[[5192 Development]]"
+relatedTerm:
+- "[[17962 Rural communities]]"
+- "[[17440 Regional development]]"
+use:
+- "[[17981 Rural issues]]"
+---
+# Rural development

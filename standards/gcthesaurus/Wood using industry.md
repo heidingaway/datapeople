@@ -1,6 +1,11 @@
-# Wood using industry  
+---
+title: Wood using industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Wood using industry
 
-## Used For
-
-- [[21866 Woodworking industry]]  
-
+usedFor:
+- "[[21866 Woodworking industry]]"
+---
+# Wood using industry

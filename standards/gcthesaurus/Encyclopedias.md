@@ -1,6 +1,11 @@
-# Encyclopedias  
+---
+title: Encyclopedias
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Encyclopedias
 
-## Used For
-
-- [[6596 Encyclopaedias]]  
-
+usedFor:
+- "[[6596 Encyclopaedias]]"
+---
+# Encyclopedias

@@ -1,10 +1,13 @@
-# International finance  
+---
+title: International finance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: International finance
 
-## Narrower Term
-
-- [[7688 Finance]]  
-
-## Related Term
-
-- [[11382 International economics]]  
-
+narrowerTerm:
+- "[[7688 Finance]]"
+relatedTerm:
+- "[[11382 International economics]]"
+---
+# International finance

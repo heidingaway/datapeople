@@ -1,6 +1,11 @@
-# Tobacco consumption  
+---
+title: Tobacco consumption
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tobacco consumption
 
-## Used For
-
-- [[18825 Smoking]]  
-
+usedFor:
+- "[[18825 Smoking]]"
+---
+# Tobacco consumption

@@ -1,6 +1,11 @@
-# Hepatitis  
+---
+title: Hepatitis
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hepatitis
 
-## Narrower Term
-
-- [[10923 Infectious diseases]]  
-
+narrowerTerm:
+- "[[10923 Infectious diseases]]"
+---
+# Hepatitis

@@ -1,7 +1,12 @@
-# Probate  
+---
+title: Probate
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Probate
 
-## Related Term
-
-- [[11075 Inheritance]
-- [[7124 Estates]]  
-
+relatedTerm:
+- "[[11075 Inheritance]]"
+- "[[7124 Estates]]"
+---
+# Probate

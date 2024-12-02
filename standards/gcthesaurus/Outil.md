@@ -1,6 +1,11 @@
-# Outil  
+---
+title: Outil
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Outil
 
-## French
-
-- [[20248 Tools]]  
-
+french:
+- "[[20248 Tools]]"
+---
+# Outil

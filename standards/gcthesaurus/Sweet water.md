@@ -1,6 +1,11 @@
-# Sweet water  
+---
+title: Sweet water
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sweet water
 
-## Used For
-
-- [[8535 Fresh water]]  
-
+usedFor:
+- "[[8535 Fresh water]]"
+---
+# Sweet water

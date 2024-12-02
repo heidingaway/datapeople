@@ -1,6 +1,11 @@
-# Protection du patrimoine  
+---
+title: Protection du patrimoine
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Protection du patrimoine
 
-## French
-
-- [[9893 Heritage conservation]]  
-
+french:
+- "[[9893 Heritage conservation]]"
+---
+# Protection du patrimoine

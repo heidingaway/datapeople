@@ -1,11 +1,14 @@
-# Veterans  
+---
+title: Veterans
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Veterans
 
-## Related Term
-
-- [[13661 Military personnel]
-- [[20950 Veteran pensions]]  
-
-## Use
-
-- [[21280 War veterans]]  
-
+relatedTerm:
+- "[[13661 Military personnel]]"
+- "[[20950 Veteran pensions]]"
+use:
+- "[[21280 War veterans]]"
+---
+# Veterans

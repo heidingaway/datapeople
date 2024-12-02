@@ -1,6 +1,11 @@
-# Gestion industrielle  
+---
+title: Gestion industrielle
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gestion industrielle
 
-## French
-
-- [[10784 Industrial management]]  
-
+french:
+- "[[10784 Industrial management]]"
+---
+# Gestion industrielle

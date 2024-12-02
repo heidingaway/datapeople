@@ -1,19 +1,18 @@
-# Chronic diseases  
+---
+title: Chronic diseases
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Chronic diseases
 
-## Broader Term
-
-- [[5208 Diabetes]]  
-
-## Narrower Term
-
-- [[5393 Diseases]]  
-
-## Related Term
-
-- [[861 Allergies]]  
-
-## Use
-
-- [[3207 Chronic health problems]
-- [[3209 Chronic illness]]  
-
+broaderTerm:
+- "[[5208 Diabetes]]"
+narrowerTerm:
+- "[[5393 Diseases]]"
+relatedTerm:
+- "[[861 Allergies]]"
+use:
+- "[[3207 Chronic health problems]]"
+- "[[3209 Chronic illness]]"
+---
+# Chronic diseases

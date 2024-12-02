@@ -1,6 +1,11 @@
-# Oil sand  
+---
+title: Oil sand
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Oil sand
 
-## Used For
-
-- [[14988 Oil sands]]  
-
+usedFor:
+- "[[14988 Oil sands]]"
+---
+# Oil sand

@@ -1,6 +1,11 @@
-# Nonproliferation  
+---
+title: Nonproliferation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Non-proliferation
 
-## Used For
-
-- [[1447 Arms control]]  
-
+usedFor:
+- "[[1447 Arms control]]"
+---
+# Nonproliferation

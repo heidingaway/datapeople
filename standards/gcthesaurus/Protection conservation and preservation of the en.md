@@ -1,6 +1,11 @@
-# Protection conservation and preservation of the en  
+---
+title: Protection conservation and preservation of the en
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Protection, conservation and preservation of the environment, whether natural or built.
 
-## Scope Note
-
-- [[6962 Environmental protection]]  
-
+scopeNote:
+- "[[6962 Environmental protection]]"
+---
+# Protection conservation and preservation of the en

@@ -1,6 +1,11 @@
-# Petite entreprise  
+---
+title: Petite entreprise
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Petite entreprise
 
-## French
-
-- [[18809 Small businesses]]  
-
+french:
+- "[[18809 Small businesses]]"
+---
+# Petite entreprise

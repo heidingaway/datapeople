@@ -1,6 +1,11 @@
-# Normalisation  
+---
+title: Normalisation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Normalisation
 
-## French
-
-- [[19287 Standardization]]  
-
+french:
+- "[[19287 Standardization]]"
+---
+# Normalisation

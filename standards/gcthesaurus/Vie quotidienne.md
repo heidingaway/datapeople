@@ -1,6 +1,11 @@
-# Vie quotidienne  
+---
+title: Vie quotidienne
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vie quotidienne
 
-## French
-
-- [[4794 Daily life]]  
-
+french:
+- "[[4794 Daily life]]"
+---
+# Vie quotidienne

@@ -1,6 +1,11 @@
-# Development tools  
+---
+title: Development tools
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Development tools
 
-## Related Term
-
-- [[20249 Tools]]  
-
+relatedTerm:
+- "[[20249 Tools]]"
+---
+# Development tools

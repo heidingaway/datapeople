@@ -1,11 +1,14 @@
-# Electronics  
+---
+title: Electronics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electronics
 
-## Broader Term
-
-- [[13537 Microelectronics]]  
-
-## Related Term
-
-- [[6392 Electronics industry]
-- [[6316 Electronic equipment]]  
-
+broaderTerm:
+- "[[13537 Microelectronics]]"
+relatedTerm:
+- "[[6392 Electronics industry]]"
+- "[[6316 Electronic equipment]]"
+---
+# Electronics

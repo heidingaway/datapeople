@@ -1,6 +1,11 @@
-# Telephone cellulaire  
+---
+title: Telephone cellulaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Téléphone cellulaire
 
-## French
-
-- [[2906 Cellular telephones]]  
-
+french:
+- "[[2906 Cellular telephones]]"
+---
+# Telephone cellulaire

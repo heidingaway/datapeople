@@ -1,6 +1,11 @@
-# Diplomats  
+---
+title: Diplomats
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Diplomats
 
-## Used For
-
-- [[8265 Foreign service]]  
-
+usedFor:
+- "[[8265 Foreign service]]"
+---
+# Diplomats

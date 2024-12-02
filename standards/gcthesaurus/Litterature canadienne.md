@@ -1,6 +1,11 @@
-# Litterature canadienne  
+---
+title: Litterature canadienne
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Littérature canadienne
 
-## French
-
-- [[2699 Canadian literature]]  
-
+french:
+- "[[2699 Canadian literature]]"
+---
+# Litterature canadienne

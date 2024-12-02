@@ -1,11 +1,14 @@
-# Composting  
+---
+title: Composting
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Composting
 
-## Narrower Term
-
-- [[21329 Waste management]]  
-
-## Related Term
-
-- [[2118 Biodegradation]
-- [[7656 Fertilizers]]  
-
+narrowerTerm:
+- "[[21329 Waste management]]"
+relatedTerm:
+- "[[2118 Biodegradation]]"
+- "[[7656 Fertilizers]]"
+---
+# Composting

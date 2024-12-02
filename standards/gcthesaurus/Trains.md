@@ -1,10 +1,13 @@
-# Trains  
+---
+title: Trains
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Trains
 
-## Narrower Term
-
-- [[20918 Vehicles]]  
-
-## Related Term
-
-- [[17143 Rail transport]]  
-
+narrowerTerm:
+- "[[20918 Vehicles]]"
+relatedTerm:
+- "[[17143 Rail transport]]"
+---
+# Trains

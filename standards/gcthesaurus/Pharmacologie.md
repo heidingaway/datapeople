@@ -1,6 +1,11 @@
-# Pharmacologie  
+---
+title: Pharmacologie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pharmacologie
 
-## French
-
-- [[15695 Pharmacology]]  
-
+french:
+- "[[15695 Pharmacology]]"
+---
+# Pharmacologie

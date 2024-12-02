@@ -1,6 +1,11 @@
-# Radioactive elements  
+---
+title: Radioactive elements
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Radioactive elements
 
-## Used For
-
-- [[17090 Radioactive materials]]  
-
+usedFor:
+- "[[17090 Radioactive materials]]"
+---
+# Radioactive elements

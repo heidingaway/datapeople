@@ -1,6 +1,11 @@
-# Viral diseases  
+---
+title: Viral diseases
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Viral diseases
 
-## Used For
-
-- [[10918 Infectious diseases]]  
-
+usedFor:
+- "[[10918 Infectious diseases]]"
+---
+# Viral diseases

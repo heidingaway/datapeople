@@ -1,6 +1,11 @@
-# Telecommunications  
+---
+title: Telecommunications
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Télécommunications
 
-## French
-
-- [[19905 Telecommunications]]  
-
+french:
+- "[[19905 Telecommunications]]"
+---
+# Telecommunications

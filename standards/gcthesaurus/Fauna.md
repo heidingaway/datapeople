@@ -1,6 +1,11 @@
-# Fauna  
+---
+title: Fauna
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fauna
 
-## Used For
-
-- [[21749 Wildlife]]  
-
+usedFor:
+- "[[21749 Wildlife]]"
+---
+# Fauna

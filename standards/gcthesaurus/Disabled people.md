@@ -1,6 +1,11 @@
-# Disabled people  
+---
+title: Disabled people
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Disabled people
 
-## Used For
-
-- [[15582 Persons with disabilities]]  
-
+usedFor:
+- "[[15582 Persons with disabilities]]"
+---
+# Disabled people

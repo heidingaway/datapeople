@@ -1,6 +1,11 @@
-# Monkey pox  
+---
+title: Monkey pox
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Monkey pox
 
-## Used For
-
-- [[13892 Monkeypox]]  
-
+usedFor:
+- "[[13892 Monkeypox]]"
+---
+# Monkey pox

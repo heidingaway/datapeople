@@ -1,6 +1,11 @@
-# Esperance de vie  
+---
+title: Esperance de vie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Espérance de vie
 
-## French
-
-- [[12413 Life expectancy]]  
-
+french:
+- "[[12413 Life expectancy]]"
+---
+# Esperance de vie

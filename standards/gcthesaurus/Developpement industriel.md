@@ -1,6 +1,11 @@
-# Developpement industriel  
+---
+title: Developpement industriel
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Développement industriel
 
-## French
-
-- [[10746 Industrial development]]  
-
+french:
+- "[[10746 Industrial development]]"
+---
+# Developpement industriel

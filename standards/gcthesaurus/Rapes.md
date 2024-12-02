@@ -1,6 +1,11 @@
-# Rapes  
+---
+title: Rapes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rapes
 
-## Used For
-
-- [[18625 Sexual offences]]  
-
+usedFor:
+- "[[18625 Sexual offences]]"
+---
+# Rapes

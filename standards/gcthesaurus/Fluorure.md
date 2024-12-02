@@ -1,6 +1,11 @@
-# Fluorure  
+---
+title: Fluorure
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fluorure
 
-## French
-
-- [[8054 Fluorides]]  
-
+french:
+- "[[8054 Fluorides]]"
+---
+# Fluorure

@@ -1,6 +1,11 @@
-# Ressources non renouvelables  
+---
+title: Ressources non renouvelables
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ressources non renouvelables
 
-## French
-
-- [[14496 Non-renewable resources]]  
-
+french:
+- "[[14496 Non-renewable resources]]"
+---
+# Ressources non renouvelables

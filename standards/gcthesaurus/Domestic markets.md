@@ -1,15 +1,16 @@
-# Domestic markets  
+---
+title: Domestic markets
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Domestic markets
 
-## Narrower Term
-
-- [[13114 Markets]]  
-
-## Related Term
-
-- [[5521 Domestic trade]]  
-
-## Use
-
-- [[12609 Local markets]
-- [[14224 National markets]]  
-
+narrowerTerm:
+- "[[13114 Markets]]"
+relatedTerm:
+- "[[5521 Domestic trade]]"
+use:
+- "[[12609 Local markets]]"
+- "[[14224 National markets]]"
+---
+# Domestic markets

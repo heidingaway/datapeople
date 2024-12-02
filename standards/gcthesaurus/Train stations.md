@@ -1,6 +1,11 @@
-# Train stations  
+---
+title: Train stations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Train stations
 
-## Narrower Term
-
-- [[17169 Railway installations]]  
-
+narrowerTerm:
+- "[[17169 Railway installations]]"
+---
+# Train stations

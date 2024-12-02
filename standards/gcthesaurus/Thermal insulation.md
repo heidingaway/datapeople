@@ -1,6 +1,11 @@
-# Thermal insulation  
+---
+title: Thermal insulation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Thermal insulation
 
-## Used For
-
-- [[11181 Insulation]]  
-
+usedFor:
+- "[[11181 Insulation]]"
+---
+# Thermal insulation

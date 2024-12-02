@@ -1,6 +1,11 @@
-# Evenement culturel  
+---
+title: Evenement culturel
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Événement culturel
 
-## French
-
-- [[4635 Cultural events]]  
-
+french:
+- "[[4635 Cultural events]]"
+---
+# Evenement culturel

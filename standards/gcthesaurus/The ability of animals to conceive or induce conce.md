@@ -1,6 +1,11 @@
-# The ability of animals to conceive or induce conce  
+---
+title: The ability of animals to conceive or induce conce
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: The ability of animals to conceive or induce conception and produce offspring.
 
-## Scope Note
-
-- [[7644 Fertility]]  
-
+scopeNote:
+- "[[7644 Fertility]]"
+---
+# The ability of animals to conceive or induce conce

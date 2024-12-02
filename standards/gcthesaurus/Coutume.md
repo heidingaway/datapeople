@@ -1,6 +1,11 @@
-# Coutume  
+---
+title: Coutume
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Coutume
 
-## French
-
-- [[4750 Customs]]  
-
+french:
+- "[[4750 Customs]]"
+---
+# Coutume

@@ -1,6 +1,11 @@
-# Historical documents  
+---
+title: Historical documents
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Historical documents
 
-## Used For
-
-- [[1380 Archives]]  
-
+usedFor:
+- "[[1380 Archives]]"
+---
+# Historical documents

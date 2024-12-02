@@ -1,10 +1,13 @@
-# Civil law  
+---
+title: Civil law
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Civil law
 
-## Broader Term
-
-- [[7380 Family law]]  
-
-## Narrower Term
-
-- [[12149 Law]]  
-
+broaderTerm:
+- "[[7380 Family law]]"
+narrowerTerm:
+- "[[12149 Law]]"
+---
+# Civil law

@@ -1,6 +1,11 @@
-# Intercity transportation  
+---
+title: Intercity transportation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Intercity transportation
 
-## Used For
-
-- [[11272 Intercity transport]]  
-
+usedFor:
+- "[[11272 Intercity transport]]"
+---
+# Intercity transportation

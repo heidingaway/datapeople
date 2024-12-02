@@ -1,6 +1,11 @@
-# Strikes  
+---
+title: Strikes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Strikes
 
-## Used For
-
-- [[11864 Labour disputes]]  
-
+usedFor:
+- "[[11864 Labour disputes]]"
+---
+# Strikes

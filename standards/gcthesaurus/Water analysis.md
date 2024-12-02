@@ -1,6 +1,11 @@
-# Water analysis  
+---
+title: Water analysis
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Water analysis
 
-## Used For
-
-- [[21432 Water management]]  
-
+usedFor:
+- "[[21432 Water management]]"
+---
+# Water analysis

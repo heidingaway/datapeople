@@ -1,6 +1,11 @@
-# Nuclear equipment  
+---
+title: Nuclear equipment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Nuclear equipment
 
-## Used For
-
-- [[14662 Nuclear technology]]  
-
+usedFor:
+- "[[14662 Nuclear technology]]"
+---
+# Nuclear equipment

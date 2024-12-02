@@ -1,6 +1,11 @@
-# Geographie  
+---
+title: Geographie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Géographie
 
-## French
-
-- [[8944 Geography]]  
-
+french:
+- "[[8944 Geography]]"
+---
+# Geographie

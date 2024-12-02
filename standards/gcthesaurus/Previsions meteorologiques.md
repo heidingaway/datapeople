@@ -1,6 +1,11 @@
-# Previsions meteorologiques  
+---
+title: Previsions meteorologiques
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prévisions météorologiques
 
-## French
-
-- [[21609 Weather forecasts]]  
-
+french:
+- "[[21609 Weather forecasts]]"
+---
+# Previsions meteorologiques

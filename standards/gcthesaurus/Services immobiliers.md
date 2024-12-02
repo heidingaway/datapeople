@@ -1,6 +1,11 @@
-# Services immobiliers  
+---
+title: Services immobiliers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Services immobiliers
 
-## French
-
-- [[17249 Real property services]]  
-
+french:
+- "[[17249 Real property services]]"
+---
+# Services immobiliers

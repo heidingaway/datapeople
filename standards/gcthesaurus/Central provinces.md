@@ -1,6 +1,11 @@
-# Central provinces  
+---
+title: Central provinces
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Central provinces
 
-## Narrower Term
-
-- [[16688 Provinces]]  
-
+narrowerTerm:
+- "[[16688 Provinces]]"
+---
+# Central provinces

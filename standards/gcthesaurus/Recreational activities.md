@@ -1,6 +1,11 @@
-# Recreational activities  
+---
+title: Recreational activities
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Recreational activities
 
-## Used For
-
-- [[17323 Recreation]]  
-
+usedFor:
+- "[[17323 Recreation]]"
+---
+# Recreational activities

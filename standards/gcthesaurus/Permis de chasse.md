@@ -1,6 +1,11 @@
-# Permis de chasse  
+---
+title: Permis de chasse
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Permis de chasse
 
-## French
-
-- [[10314 Hunting permits]]  
-
+french:
+- "[[10314 Hunting permits]]"
+---
+# Permis de chasse

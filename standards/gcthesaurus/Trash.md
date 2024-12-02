@@ -1,6 +1,11 @@
-# Trash  
+---
+title: Trash
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Trash
 
-## Used For
-
-- [[21300 Waste]]  
-
+usedFor:
+- "[[21300 Waste]]"
+---
+# Trash

@@ -1,6 +1,11 @@
-# Power plants  
+---
+title: Power plants
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Power plants
 
-## Used For
-
-- [[6215 Electric power stations]]  
-
+usedFor:
+- "[[6215 Electric power stations]]"
+---
+# Power plants

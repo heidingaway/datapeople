@@ -1,6 +1,11 @@
-# Bois  
+---
+title: Bois
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Bois
 
-## French
-
-- [[21840 Wood]]  
-
+french:
+- "[[21840 Wood]]"
+---
+# Bois

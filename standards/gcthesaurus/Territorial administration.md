@@ -1,6 +1,11 @@
-# Territorial administration  
+---
+title: Territorial administration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Territorial administration
 
-## Used For
-
-- [[20069 Territorial governments]]  
-
+usedFor:
+- "[[20069 Territorial governments]]"
+---
+# Territorial administration

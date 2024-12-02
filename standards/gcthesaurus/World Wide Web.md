@@ -1,6 +1,11 @@
-# World Wide Web  
+---
+title: World Wide Web
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: World Wide Web
 
-## Used For
-
-- [[11468 Internet]]  
-
+usedFor:
+- "[[11468 Internet]]"
+---
+# World Wide Web

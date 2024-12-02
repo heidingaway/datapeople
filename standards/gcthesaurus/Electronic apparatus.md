@@ -1,6 +1,11 @@
-# Electronic apparatus  
+---
+title: Electronic apparatus
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electronic apparatus
 
-## Used For
-
-- [[6306 Electronic equipment]]  
-
+usedFor:
+- "[[6306 Electronic equipment]]"
+---
+# Electronic apparatus

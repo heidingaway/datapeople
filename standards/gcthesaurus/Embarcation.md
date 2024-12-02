@@ -1,6 +1,11 @@
-# Embarcation  
+---
+title: Embarcation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Embarcation
 
-## French
-
-- [[20939 Vessels]]  
-
+french:
+- "[[20939 Vessels]]"
+---
+# Embarcation

@@ -1,10 +1,13 @@
-# Work permits  
+---
+title: Work permits
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Work permits
 
-## Narrower Term
-
-- [[15507 Permits]]  
-
-## Related Term
-
-- [[21899 Work organization]]  
-
+narrowerTerm:
+- "[[15507 Permits]]"
+relatedTerm:
+- "[[21899 Work organization]]"
+---
+# Work permits

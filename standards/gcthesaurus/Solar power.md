@@ -1,6 +1,11 @@
-# Solar power  
+---
+title: Solar power
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Solar power
 
-## Used For
-
-- [[19114 Solar energy]]  
-
+usedFor:
+- "[[19114 Solar energy]]"
+---
+# Solar power

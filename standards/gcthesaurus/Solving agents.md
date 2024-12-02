@@ -1,6 +1,11 @@
-# Solving agents  
+---
+title: Solving agents
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Solving agents
 
-## Used For
-
-- [[19136 Solvents]]  
-
+usedFor:
+- "[[19136 Solvents]]"
+---
+# Solving agents

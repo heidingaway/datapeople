@@ -1,6 +1,11 @@
-# Community justice  
+---
+title: Community justice
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Community justice
 
-## Related Term
-
-- [[11724 Justice system]]  
-
+relatedTerm:
+- "[[11724 Justice system]]"
+---
+# Community justice

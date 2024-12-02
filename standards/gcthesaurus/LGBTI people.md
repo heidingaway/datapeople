@@ -1,6 +1,11 @@
-# LGBTI people  
+---
+title: LGBTI people
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: LGBTI people
 
-## Used For
-
-- [[7 2SLGBTQI+ people]]  
-
+usedFor:
+- "[[7 2SLGBTQI+ people]]"
+---
+# LGBTI people

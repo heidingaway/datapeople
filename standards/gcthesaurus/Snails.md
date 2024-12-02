@@ -1,6 +1,11 @@
-# Snails  
+---
+title: Snails
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Snails
 
-## Used For
-
-- [[13858 Molluscs]]  
-
+usedFor:
+- "[[13858 Molluscs]]"
+---
+# Snails

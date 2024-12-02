@@ -1,12 +1,15 @@
-# Radioactive waste  
+---
+title: Radioactive waste
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Radioactive waste
 
-## Narrower Term
-
-- [[17094 Radioactive materials]
-- [[9556 Hazardous waste]]  
-
-## Use
-
-- [[14669 Nuclear waste]
-- [[17083 Radioactive debris]]  
-
+narrowerTerm:
+- "[[17094 Radioactive materials]]"
+- "[[9556 Hazardous waste]]"
+use:
+- "[[14669 Nuclear waste]]"
+- "[[17083 Radioactive debris]]"
+---
+# Radioactive waste

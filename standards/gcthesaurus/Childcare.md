@@ -1,6 +1,11 @@
-# Childcare  
+---
+title: Childcare
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Childcare
 
-## Used For
-
-- [[3103 Child care]]  
-
+usedFor:
+- "[[3103 Child care]]"
+---
+# Childcare

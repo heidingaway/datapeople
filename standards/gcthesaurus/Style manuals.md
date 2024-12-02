@@ -1,14 +1,15 @@
-# Style manuals  
+---
+title: Style manuals
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Style manuals
 
-## Narrower Term
-
-- [[19503 Submissions]]  
-
-## Related Term
-
-- [[22071 Writing]]  
-
-## Use
-
-- [[19481 Style guides]]  
-
+narrowerTerm:
+- "[[19503 Submissions]]"
+relatedTerm:
+- "[[22071 Writing]]"
+use:
+- "[[19481 Style guides]]"
+---
+# Style manuals

@@ -1,6 +1,11 @@
-# Childbirth  
+---
+title: Childbirth
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Childbirth
 
-## Used For
-
-- [[2249 Birth]]  
-
+usedFor:
+- "[[2249 Birth]]"
+---
+# Childbirth

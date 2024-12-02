@@ -1,6 +1,11 @@
-# Demande demploi  
+---
+title: Demande demploi
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Demande d'emploi
 
-## French
-
-- [[11649 Job applications]]  
-
+french:
+- "[[11649 Job applications]]"
+---
+# Demande demploi

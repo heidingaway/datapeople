@@ -1,6 +1,11 @@
-# Ingenierie  
+---
+title: Ingenierie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ingénierie
 
-## French
-
-- [[6727 Engineering]]  
-
+french:
+- "[[6727 Engineering]]"
+---
+# Ingenierie

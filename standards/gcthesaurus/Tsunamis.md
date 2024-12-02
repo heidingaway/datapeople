@@ -1,10 +1,13 @@
-# Tsunamis  
+---
+title: Tsunamis
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tsunamis
 
-## Narrower Term
-
-- [[14285 Natural disasters]]  
-
-## Use
-
-- [[18477 Seismic sea waves]]  
-
+narrowerTerm:
+- "[[14285 Natural disasters]]"
+use:
+- "[[18477 Seismic sea waves]]"
+---
+# Tsunamis

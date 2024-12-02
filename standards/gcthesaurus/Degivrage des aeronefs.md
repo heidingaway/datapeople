@@ -1,6 +1,11 @@
-# Degivrage des aeronefs  
+---
+title: Degivrage des aeronefs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Dégivrage des aéronefs
 
-## French
-
-- [[747 Aircraft de-icing]]  
-
+french:
+- "[[747 Aircraft de-icing]]"
+---
+# Degivrage des aeronefs

@@ -1,14 +1,15 @@
-# Bicycle safety equipment  
+---
+title: Bicycle safety equipment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Bicycle safety equipment
 
-## Narrower Term
-
-- [[18022 Safety equipment]]  
-
-## Related Term
-
-- [[4784 Cycling]]  
-
-## Use
-
-- [[2010 Bicycle helmets]]  
-
+narrowerTerm:
+- "[[18022 Safety equipment]]"
+relatedTerm:
+- "[[4784 Cycling]]"
+use:
+- "[[2010 Bicycle helmets]]"
+---
+# Bicycle safety equipment

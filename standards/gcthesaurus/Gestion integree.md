@@ -1,6 +1,11 @@
-# Gestion integree  
+---
+title: Gestion integree
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gestion intégrée
 
-## French
-
-- [[11214 Integrated management]]  
-
+french:
+- "[[11214 Integrated management]]"
+---
+# Gestion integree

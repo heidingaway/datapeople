@@ -1,6 +1,11 @@
-# Sciences de lespace  
+---
+title: Sciences de lespace
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sciences de l'espace
 
-## French
-
-- [[19173 Space sciences]]  
-
+french:
+- "[[19173 Space sciences]]"
+---
+# Sciences de lespace

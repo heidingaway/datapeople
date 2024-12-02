@@ -1,6 +1,11 @@
-# International transport  
+---
+title: International transport
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: International transport
 
-## Narrower Term
-
-- [[20604 Transport]]  
-
+narrowerTerm:
+- "[[20604 Transport]]"
+---
+# International transport

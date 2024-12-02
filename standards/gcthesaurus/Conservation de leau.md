@@ -1,6 +1,11 @@
-# Conservation de leau  
+---
+title: Conservation de leau
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conservation de l'eau
 
-## French
-
-- [[21398 Water conservation]]  
-
+french:
+- "[[21398 Water conservation]]"
+---
+# Conservation de leau

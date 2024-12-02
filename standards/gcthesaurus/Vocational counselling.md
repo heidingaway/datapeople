@@ -1,6 +1,11 @@
-# Vocational counselling  
+---
+title: Vocational counselling
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vocational counselling
 
-## Used For
-
-- [[21161 Vocational guidance]]  
-
+usedFor:
+- "[[21161 Vocational guidance]]"
+---
+# Vocational counselling

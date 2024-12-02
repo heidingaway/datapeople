@@ -1,6 +1,11 @@
-# Remuneration  
+---
+title: Remuneration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Remuneration
 
-## Used For
-
-- [[18083 Salaries]]  
-
+usedFor:
+- "[[18083 Salaries]]"
+---
+# Remuneration

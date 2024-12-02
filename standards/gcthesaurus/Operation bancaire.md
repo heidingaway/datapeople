@@ -1,6 +1,11 @@
-# Operation bancaire  
+---
+title: Operation bancaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Opération bancaire
 
-## French
-
-- [[1846 Banking]]  
-
+french:
+- "[[1846 Banking]]"
+---
+# Operation bancaire

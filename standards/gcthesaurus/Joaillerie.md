@@ -1,6 +1,11 @@
-# Joaillerie  
+---
+title: Joaillerie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Joaillerie
 
-## French
-
-- [[11638 Jewellery]]  
-
+french:
+- "[[11638 Jewellery]]"
+---
+# Joaillerie

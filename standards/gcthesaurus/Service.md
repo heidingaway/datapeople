@@ -1,6 +1,11 @@
-# Service  
+---
+title: Service
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Service
 
-## French
-
-- [[18588 Services]]  
-
+french:
+- "[[18588 Services]]"
+---
+# Service

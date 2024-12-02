@@ -1,6 +1,11 @@
-# War veterans  
+---
+title: War veterans
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: War veterans
 
-## Used For
-
-- [[20954 Veterans]]  
-
+usedFor:
+- "[[20954 Veterans]]"
+---
+# War veterans

@@ -1,6 +1,11 @@
-# Conventions Conferences  
+---
+title: Conventions Conferences
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conventions (Conferences)
 
-## Used For
-
-- [[3913 Conferences]]  
-
+usedFor:
+- "[[3913 Conferences]]"
+---
+# Conventions Conferences

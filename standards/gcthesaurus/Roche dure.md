@@ -1,6 +1,11 @@
-# Roche dure  
+---
+title: Roche dure
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Roche dure
 
-## French
-
-- [[9490 Hard rocks]]  
-
+french:
+- "[[9490 Hard rocks]]"
+---
+# Roche dure

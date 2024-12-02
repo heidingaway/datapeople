@@ -1,6 +1,11 @@
-# Industrie petroliere  
+---
+title: Industrie petroliere
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrie pétrolière
 
-## French
-
-- [[15653 Petroleum industry]]  
-
+french:
+- "[[15653 Petroleum industry]]"
+---
+# Industrie petroliere

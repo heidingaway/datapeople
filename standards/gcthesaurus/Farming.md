@@ -1,6 +1,11 @@
-# Farming  
+---
+title: Farming
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Farming
 
-## Used For
-
-- [[555 Agriculture]]  
-
+usedFor:
+- "[[555 Agriculture]]"
+---
+# Farming

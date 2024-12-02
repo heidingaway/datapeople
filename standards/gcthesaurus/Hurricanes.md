@@ -1,6 +1,11 @@
-# Hurricanes  
+---
+title: Hurricanes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hurricanes
 
-## Used For
-
-- [[19419 Storms]]  
-
+usedFor:
+- "[[19419 Storms]]"
+---
+# Hurricanes

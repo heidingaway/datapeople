@@ -1,6 +1,11 @@
-# Oil painting  
+---
+title: Oil painting
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Oil painting
 
-## Used For
-
-- [[15217 Painting]]  
-
+usedFor:
+- "[[15217 Painting]]"
+---
+# Oil painting

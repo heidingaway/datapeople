@@ -1,6 +1,11 @@
-# Employment possibilities  
+---
+title: Employment possibilities
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Employment possibilities
 
-## Used For
-
-- [[6564 Employment opportunities]]  
-
+usedFor:
+- "[[6564 Employment opportunities]]"
+---
+# Employment possibilities

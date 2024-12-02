@@ -1,6 +1,11 @@
-# Convicts  
+---
+title: Convicts
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Convicts
 
-## Used For
-
-- [[11103 Inmates]]  
-
+usedFor:
+- "[[11103 Inmates]]"
+---
+# Convicts

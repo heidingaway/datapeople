@@ -1,6 +1,11 @@
-# Geohydrology  
+---
+title: Geohydrology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geohydrology
 
-## Used For
-
-- [[10356 Hydrogeology]]  
-
+usedFor:
+- "[[10356 Hydrogeology]]"
+---
+# Geohydrology

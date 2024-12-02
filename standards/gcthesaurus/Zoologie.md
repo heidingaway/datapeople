@@ -1,6 +1,11 @@
-# Zoologie  
+---
+title: Zoologie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Zoologie
 
-## French
-
-- [[22132 Zoology]]  
-
+french:
+- "[[22132 Zoology]]"
+---
+# Zoologie

@@ -1,6 +1,11 @@
-# Secondary sector  
+---
+title: Secondary sector
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Secondary sector
 
-## Used For
-
-- [[18409 Secondary industry]]  
-
+usedFor:
+- "[[18409 Secondary industry]]"
+---
+# Secondary sector

@@ -1,6 +1,11 @@
-# Energy resources  
+---
+title: Energy resources
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Energy resources
 
-## Used For
-
-- [[6688 Energy supply]]  
-
+usedFor:
+- "[[6688 Energy supply]]"
+---
+# Energy resources

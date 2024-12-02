@@ -1,6 +1,11 @@
-# Geriatric medicine  
+---
+title: Geriatric medicine
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geriatric medicine
 
-## Used For
-
-- [[9044 Geriatrics]]  
-
+usedFor:
+- "[[9044 Geriatrics]]"
+---
+# Geriatric medicine

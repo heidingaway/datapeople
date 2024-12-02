@@ -1,6 +1,11 @@
-# Egalite des chances  
+---
+title: Egalite des chances
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Égalité des chances
 
-## French
-
-- [[7062 Equal opportunities]]  
-
+french:
+- "[[7062 Equal opportunities]]"
+---
+# Egalite des chances

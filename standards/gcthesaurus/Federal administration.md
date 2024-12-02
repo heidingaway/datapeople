@@ -1,6 +1,11 @@
-# Federal administration  
+---
+title: Federal administration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Federal administration
 
-## Used For
-
-- [[7532 Federal government]]  
-
+usedFor:
+- "[[7532 Federal government]]"
+---
+# Federal administration

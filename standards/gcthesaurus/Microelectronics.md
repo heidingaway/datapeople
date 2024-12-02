@@ -1,6 +1,11 @@
-# Microelectronics  
+---
+title: Microelectronics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Microelectronics
 
-## Narrower Term
-
-- [[6385 Electronics]]  
-
+narrowerTerm:
+- "[[6385 Electronics]]"
+---
+# Microelectronics

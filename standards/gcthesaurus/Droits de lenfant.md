@@ -1,6 +1,11 @@
-# Droits de lenfant  
+---
+title: Droits de lenfant
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Droits de l'enfant
 
-## French
-
-- [[3195 Children's rights]]  
-
+french:
+- "[[3195 Children's rights]]"
+---
+# Droits de lenfant

@@ -1,6 +1,11 @@
-# Lentille  
+---
+title: Lentille
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Lentille
 
-## French
-
-- [[12352 Lentils]]  
-
+french:
+- "[[12352 Lentils]]"
+---
+# Lentille

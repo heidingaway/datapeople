@@ -1,6 +1,11 @@
-# Purchasers  
+---
+title: Purchasers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Purchasers
 
-## Used For
-
-- [[2620 Buyers]]  
-
+usedFor:
+- "[[2620 Buyers]]"
+---
+# Purchasers

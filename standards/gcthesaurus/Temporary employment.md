@@ -1,10 +1,13 @@
-# Temporary employment  
+---
+title: Temporary employment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Temporary employment
 
-## Narrower Term
-
-- [[6491 Employment]]  
-
-## Related Term
-
-- [[18366 Seasonal employment]]  
-
+narrowerTerm:
+- "[[6491 Employment]]"
+relatedTerm:
+- "[[18366 Seasonal employment]]"
+---
+# Temporary employment

@@ -1,7 +1,12 @@
-# Canals  
+---
+title: Canals
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Canals
 
-## Related Term
-
-- [[21565 Waterways]
-- [[12625 Locks]]  
-
+relatedTerm:
+- "[[21565 Waterways]]"
+- "[[12625 Locks]]"
+---
+# Canals

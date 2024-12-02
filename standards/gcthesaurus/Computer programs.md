@@ -1,6 +1,11 @@
-# Computer programs  
+---
+title: Computer programs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Computer programs
 
-## Used For
-
-- [[19066 Software]]  
-
+usedFor:
+- "[[19066 Software]]"
+---
+# Computer programs

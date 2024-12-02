@@ -1,6 +1,11 @@
-# Paix  
+---
+title: Paix
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Paix
 
-## French
-
-- [[15401 Peace]]  
-
+french:
+- "[[15401 Peace]]"
+---
+# Paix

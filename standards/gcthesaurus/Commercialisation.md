@@ -1,6 +1,11 @@
-# Commercialisation  
+---
+title: Commercialisation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Commercialisation
 
-## French
-
-- [[3608 Commercialization]]  
-
+french:
+- "[[3608 Commercialization]]"
+---
+# Commercialisation

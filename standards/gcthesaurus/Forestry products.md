@@ -1,19 +1,18 @@
-# Forestry products  
+---
+title: Forestry products
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Forestry products
 
-## Broader Term
-
-- [[21841 Wood]]  
-
-## Narrower Term
-
-- [[16498 Products]]  
-
-## Related Term
-
-- [[8376 Forestry industry]
-- [[8422 Forests]]  
-
-## Use
-
-- [[8330 Forest products]]  
-
+broaderTerm:
+- "[[21841 Wood]]"
+narrowerTerm:
+- "[[16498 Products]]"
+relatedTerm:
+- "[[8376 Forestry industry]]"
+- "[[8422 Forests]]"
+use:
+- "[[8330 Forest products]]"
+---
+# Forestry products

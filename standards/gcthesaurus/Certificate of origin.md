@@ -1,6 +1,11 @@
-# Certificate of origin  
+---
+title: Certificate of origin
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Certificate of origin
 
-## Related Term
-
-- [[2972 Certification]]  
-
+relatedTerm:
+- "[[2972 Certification]]"
+---
+# Certificate of origin

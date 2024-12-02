@@ -1,6 +1,11 @@
-# Peinture  
+---
+title: Peinture
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Peinture
 
-## French
-
-- [[15216 Painting]]  
-
+french:
+- "[[15216 Painting]]"
+---
+# Peinture

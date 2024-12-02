@@ -1,6 +1,11 @@
-# Sables bitumineux  
+---
+title: Sables bitumineux
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sables bitumineux
 
-## French
-
-- [[14986 Oil sands]]  
-
+french:
+- "[[14986 Oil sands]]"
+---
+# Sables bitumineux

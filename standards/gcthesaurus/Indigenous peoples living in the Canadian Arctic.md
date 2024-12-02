@@ -1,6 +1,11 @@
-# Indigenous peoples living in the Canadian Arctic  
+---
+title: Indigenous peoples living in the Canadian Arctic
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Indigenous peoples living in the Canadian Arctic.
 
-## Scope Note
-
-- [[11534 Inuit]]  
-
+scopeNote:
+- "[[11534 Inuit]]"
+---
+# Indigenous peoples living in the Canadian Arctic

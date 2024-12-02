@@ -1,6 +1,11 @@
-# Industrial equipment  
+---
+title: Industrial equipment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrial equipment
 
-## Used For
-
-- [[10832 Industrial technology]]  
-
+usedFor:
+- "[[10832 Industrial technology]]"
+---
+# Industrial equipment

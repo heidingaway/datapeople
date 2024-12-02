@@ -1,6 +1,11 @@
-# Hydrophytes  
+---
+title: Hydrophytes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hydrophytes
 
-## Used For
-
-- [[1297 Aquatic plants]]  
-
+usedFor:
+- "[[1297 Aquatic plants]]"
+---
+# Hydrophytes

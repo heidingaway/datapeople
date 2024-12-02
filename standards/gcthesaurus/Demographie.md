@@ -1,6 +1,11 @@
-# Demographie  
+---
+title: Demographie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Démographie
 
-## French
-
-- [[5110 Demography]]  
-
+french:
+- "[[5110 Demography]]"
+---
+# Demographie

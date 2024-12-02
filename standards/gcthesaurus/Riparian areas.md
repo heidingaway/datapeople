@@ -1,6 +1,11 @@
-# Riparian areas  
+---
+title: Riparian areas
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Riparian areas
 
-## Used For
-
-- [[21677 Wetlands]]  
-
+usedFor:
+- "[[21677 Wetlands]]"
+---
+# Riparian areas

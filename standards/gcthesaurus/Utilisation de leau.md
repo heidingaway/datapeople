@@ -1,6 +1,11 @@
-# Utilisation de leau  
+---
+title: Utilisation de leau
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Utilisation de l'eau
 
-## French
-
-- [[21524 Water use]]  
-
+french:
+- "[[21524 Water use]]"
+---
+# Utilisation de leau

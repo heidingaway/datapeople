@@ -1,6 +1,11 @@
-# Headquarters  
+---
+title: Headquarters
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Headquarters
 
-## Related Term
-
-- [[4290 Corporations]]  
-
+relatedTerm:
+- "[[4290 Corporations]]"
+---
+# Headquarters

@@ -1,10 +1,13 @@
-# Environmental adaptation  
+---
+title: Environmental adaptation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Environmental adaptation
 
-## Related Term
-
-- [[6784 Environment]]  
-
-## Use
-
-- [[5798 Ecological adaptation]]  
-
+relatedTerm:
+- "[[6784 Environment]]"
+use:
+- "[[5798 Ecological adaptation]]"
+---
+# Environmental adaptation

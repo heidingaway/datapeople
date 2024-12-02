@@ -1,6 +1,11 @@
-# Hydroponic cultivation  
+---
+title: Hydroponic cultivation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hydroponic cultivation
 
-## Used For
-
-- [[10403 Hydroponics]]  
-
+usedFor:
+- "[[10403 Hydroponics]]"
+---
+# Hydroponic cultivation

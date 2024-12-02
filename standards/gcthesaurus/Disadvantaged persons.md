@@ -1,8 +1,13 @@
-# Disadvantaged persons  
+---
+title: Disadvantaged persons
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Disadvantaged persons
 
-## Related Term
-
-- [[18879 Social conditions]
-- [[10044 Homelessness]
-- [[16168 Poverty]]  
-
+relatedTerm:
+- "[[18879 Social conditions]]"
+- "[[10044 Homelessness]]"
+- "[[16168 Poverty]]"
+---
+# Disadvantaged persons

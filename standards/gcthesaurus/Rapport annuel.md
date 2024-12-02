@@ -1,6 +1,11 @@
-# Rapport annuel  
+---
+title: Rapport annuel
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rapport annuel
 
-## French
-
-- [[1135 Annual reports]]  
-
+french:
+- "[[1135 Annual reports]]"
+---
+# Rapport annuel

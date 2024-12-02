@@ -1,6 +1,11 @@
-# Importation  
+---
+title: Importation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Importation
 
-## French
-
-- [[10534 Imports]]  
-
+french:
+- "[[10534 Imports]]"
+---
+# Importation

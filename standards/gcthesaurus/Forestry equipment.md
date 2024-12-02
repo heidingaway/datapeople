@@ -1,6 +1,11 @@
-# Forestry equipment  
+---
+title: Forestry equipment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Forestry equipment
 
-## Used For
-
-- [[8402 Forestry technology]]  
-
+usedFor:
+- "[[8402 Forestry technology]]"
+---
+# Forestry equipment

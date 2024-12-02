@@ -1,15 +1,16 @@
-# Small businesses  
+---
+title: Small businesses
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Small businesses
 
-## Narrower Term
-
-- [[2597 Businesses]]  
-
-## Related Term
-
-- [[18807 Small business loans]]  
-
-## Use
-
-- [[18803 Small and medium-sized enterprises]
-- [[18801 Small and medium-sized businesses]]  
-
+narrowerTerm:
+- "[[2597 Businesses]]"
+relatedTerm:
+- "[[18807 Small business loans]]"
+use:
+- "[[18803 Small and medium-sized enterprises]]"
+- "[[18801 Small and medium-sized businesses]]"
+---
+# Small businesses

@@ -1,6 +1,11 @@
-# Objectif  
+---
+title: Objectif
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Objectif
 
-## French
-
-- [[14728 Objectives]]  
-
+french:
+- "[[14728 Objectives]]"
+---
+# Objectif

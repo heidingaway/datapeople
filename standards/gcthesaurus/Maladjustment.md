@@ -1,6 +1,11 @@
-# Maladjustment  
+---
+title: Maladjustment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Maladjustment
 
-## Used For
-
-- [[224 Adjustment]]  
-
+usedFor:
+- "[[224 Adjustment]]"
+---
+# Maladjustment

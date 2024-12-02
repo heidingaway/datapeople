@@ -1,6 +1,11 @@
-# Memorials  
+---
+title: Memorials
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Memorials
 
-## Used For
-
-- [[13902 Monuments]]  
-
+usedFor:
+- "[[13902 Monuments]]"
+---
+# Memorials

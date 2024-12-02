@@ -1,6 +1,11 @@
-# Lesbienne  
+---
+title: Lesbienne
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Lesbienne
 
-## French
-
-- [[12357 Lesbians]]  
-
+french:
+- "[[12357 Lesbians]]"
+---
+# Lesbienne

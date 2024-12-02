@@ -1,6 +1,11 @@
-# Engrais  
+---
+title: Engrais
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Engrais
 
-## French
-
-- [[7651 Fertilizers]]  
-
+french:
+- "[[7651 Fertilizers]]"
+---
+# Engrais

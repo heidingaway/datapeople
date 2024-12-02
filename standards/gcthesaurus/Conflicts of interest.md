@@ -1,6 +1,11 @@
-# Conflicts of interest  
+---
+title: Conflicts of interest
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conflicts of interest
 
-## Narrower Term
-
-- [[3935 Conflicts]]  
-
+narrowerTerm:
+- "[[3935 Conflicts]]"
+---
+# Conflicts of interest

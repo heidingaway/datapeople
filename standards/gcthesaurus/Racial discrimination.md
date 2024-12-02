@@ -1,15 +1,16 @@
-# Racial discrimination  
+---
+title: Racial discrimination
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Racial discrimination
 
-## Narrower Term
-
-- [[5377 Discrimination]]  
-
-## Related Term
-
-- [[21086 Visible minorities]
-- [[17040 Race relations]]  
-
-## Use
-
-- [[17056 Racism]]  
-
+narrowerTerm:
+- "[[5377 Discrimination]]"
+relatedTerm:
+- "[[21086 Visible minorities]]"
+- "[[17040 Race relations]]"
+use:
+- "[[17056 Racism]]"
+---
+# Racial discrimination

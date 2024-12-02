@@ -1,6 +1,11 @@
-# Support businesses  
+---
+title: Support businesses
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Support businesses
 
-## Narrower Term
-
-- [[2599 Businesses]]  
-
+narrowerTerm:
+- "[[2599 Businesses]]"
+---
+# Support businesses

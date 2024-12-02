@@ -1,6 +1,11 @@
-# Qualite de leau  
+---
+title: Qualite de leau
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Qualité de l'eau
 
-## French
-
-- [[21458 Water quality]]  
-
+french:
+- "[[21458 Water quality]]"
+---
+# Qualite de leau

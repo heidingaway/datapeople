@@ -1,6 +1,11 @@
-# Fish husbandry  
+---
+title: Fish husbandry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fish husbandry
 
-## Used For
-
-- [[7888 Fish farming]]  
-
+usedFor:
+- "[[7888 Fish farming]]"
+---
+# Fish husbandry

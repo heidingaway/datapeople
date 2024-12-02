@@ -1,6 +1,11 @@
-# Parimutuel betting  
+---
+title: Parimutuel betting
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pari-mutuel betting
 
-## Related Term
-
-- [[8693 Gambling]]  
-
+relatedTerm:
+- "[[8693 Gambling]]"
+---
+# Parimutuel betting

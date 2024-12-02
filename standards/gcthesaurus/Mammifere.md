@@ -1,6 +1,11 @@
-# Mammifere  
+---
+title: Mammifere
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mammifère
 
-## French
-
-- [[12730 Mammals]]  
-
+french:
+- "[[12730 Mammals]]"
+---
+# Mammifere

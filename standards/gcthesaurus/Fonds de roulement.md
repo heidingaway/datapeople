@@ -1,6 +1,11 @@
-# Fonds de roulement  
+---
+title: Fonds de roulement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fonds de roulement
 
-## French
-
-- [[21940 Working capital]]  
-
+french:
+- "[[21940 Working capital]]"
+---
+# Fonds de roulement

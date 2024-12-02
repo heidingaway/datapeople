@@ -1,17 +1,18 @@
-# Medical products  
+---
+title: Medical products
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Medical products
 
-## Narrower Term
-
-- [[9645 Health care products]]  
-
-## Related Term
-
-- [[13269 Medical products industry]]  
-
-## Use
-
-- [[13292 Medical supplies]
-- [[13234 Medical equipment]
-- [[13231 Medical devices]
-- [[13216 Medical apparatus]]  
-
+narrowerTerm:
+- "[[9645 Health care products]]"
+relatedTerm:
+- "[[13269 Medical products industry]]"
+use:
+- "[[13292 Medical supplies]]"
+- "[[13234 Medical equipment]]"
+- "[[13231 Medical devices]]"
+- "[[13216 Medical apparatus]]"
+---
+# Medical products

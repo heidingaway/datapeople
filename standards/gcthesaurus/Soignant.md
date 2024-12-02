@@ -1,6 +1,11 @@
-# Soignant  
+---
+title: Soignant
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Soignant
 
-## French
-
-- [[2790 Caregivers]]  
-
+french:
+- "[[2790 Caregivers]]"
+---
+# Soignant

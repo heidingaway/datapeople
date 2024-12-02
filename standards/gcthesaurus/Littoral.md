@@ -1,10 +1,13 @@
-# Littoral  
+---
+title: Littoral
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Littoral
 
-## French
-
-- [[3435 Coasts]]  
-
-## Used For
-
-- [[3440 Coasts]]  
-
+french:
+- "[[3435 Coasts]]"
+usedFor:
+- "[[3440 Coasts]]"
+---
+# Littoral

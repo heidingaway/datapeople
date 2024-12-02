@@ -1,6 +1,11 @@
-# Commonlaw partnerships  
+---
+title: Commonlaw partnerships
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Common-law partnerships
 
-## Used For
-
-- [[3639 Common-law unions]]  
-
+usedFor:
+- "[[3639 Common-law unions]]"
+---
+# Commonlaw partnerships

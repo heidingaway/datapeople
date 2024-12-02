@@ -1,6 +1,11 @@
-# Productivite  
+---
+title: Productivite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Productivité
 
-## French
-
-- [[16485 Productivity]]  
-
+french:
+- "[[16485 Productivity]]"
+---
+# Productivite

@@ -1,6 +1,11 @@
-# Legal notices Web sites  
+---
+title: Legal notices Web sites
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Legal notices (Web sites)
 
-## Used For
-
-- [[20054 Terms of use]]  
-
+usedFor:
+- "[[20054 Terms of use]]"
+---
+# Legal notices Web sites

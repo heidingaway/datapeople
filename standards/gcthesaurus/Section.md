@@ -1,6 +1,11 @@
-# Section  
+---
+title: Section
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Section
 
-## French
-
-- [[18426 Sections]]  
-
+french:
+- "[[18426 Sections]]"
+---
+# Section

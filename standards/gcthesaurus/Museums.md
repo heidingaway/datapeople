@@ -1,15 +1,16 @@
-# Museums  
+---
+title: Museums
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Museums
 
-## Narrower Term
-
-- [[4681 Cultural institutions]]  
-
-## Related Term
-
-- [[14084 Museum collections]
-- [[1469 Art galleries]]  
-
-## Use
-
-- [[14080 Museology]]  
-
+narrowerTerm:
+- "[[4681 Cultural institutions]]"
+relatedTerm:
+- "[[14084 Museum collections]]"
+- "[[1469 Art galleries]]"
+use:
+- "[[14080 Museology]]"
+---
+# Museums

@@ -1,6 +1,11 @@
-# Travail non remunere  
+---
+title: Travail non remunere
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Travail non rémunéré
 
-## French
-
-- [[20801 Unpaid work]]  
-
+french:
+- "[[20801 Unpaid work]]"
+---
+# Travail non remunere

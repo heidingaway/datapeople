@@ -1,6 +1,11 @@
-# Nanomedicine  
+---
+title: Nanomedicine
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Nanomedicine
 
-## Used For
-
-- [[14135 Nanotechnology]]  
-
+usedFor:
+- "[[14135 Nanotechnology]]"
+---
+# Nanomedicine

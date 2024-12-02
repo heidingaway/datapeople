@@ -1,11 +1,14 @@
-# Religious history  
+---
+title: Religious history
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Religious history
 
-## Narrower Term
-
-- [[9975 History]]  
-
-## Related Term
-
-- [[17492 Religion]
-- [[17507 Religious heritage]]  
-
+narrowerTerm:
+- "[[9975 History]]"
+relatedTerm:
+- "[[17492 Religion]]"
+- "[[17507 Religious heritage]]"
+---
+# Religious history

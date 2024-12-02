@@ -1,6 +1,11 @@
-# Work arrangements  
+---
+title: Work arrangements
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Work arrangements
 
-## Used For
-
-- [[21896 Work organization]]  
-
+usedFor:
+- "[[21896 Work organization]]"
+---
+# Work arrangements

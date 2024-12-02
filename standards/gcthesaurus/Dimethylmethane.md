@@ -1,6 +1,11 @@
-# Dimethylmethane  
+---
+title: Dimethylmethane
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Dimethylmethane
 
-## Used For
-
-- [[16609 Propane]]  
-
+usedFor:
+- "[[16609 Propane]]"
+---
+# Dimethylmethane

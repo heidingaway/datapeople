@@ -1,6 +1,11 @@
-# Politique culturelle  
+---
+title: Politique culturelle
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Politique culturelle
 
-## French
-
-- [[4691 Cultural policy]]  
-
+french:
+- "[[4691 Cultural policy]]"
+---
+# Politique culturelle

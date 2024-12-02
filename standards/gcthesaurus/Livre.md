@@ -1,6 +1,11 @@
-# Livre  
+---
+title: Livre
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Livre
 
-## French
-
-- [[2331 Books]]  
-
+french:
+- "[[2331 Books]]"
+---
+# Livre

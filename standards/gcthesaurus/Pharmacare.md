@@ -1,6 +1,11 @@
-# Pharmacare  
+---
+title: Pharmacare
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pharmacare
 
-## Used For
-
-- [[5647 Drug insurance]]  
-
+usedFor:
+- "[[5647 Drug insurance]]"
+---
+# Pharmacare

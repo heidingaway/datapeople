@@ -1,6 +1,11 @@
-# Vendeur  
+---
+title: Vendeur
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vendeur
 
-## French
-
-- [[20922 Vendors]]  
-
+french:
+- "[[20922 Vendors]]"
+---
+# Vendeur

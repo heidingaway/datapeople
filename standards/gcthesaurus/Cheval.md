@@ -1,6 +1,11 @@
-# Cheval  
+---
+title: Cheval
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cheval
 
-## French
-
-- [[10071 Horses]]  
-
+french:
+- "[[10071 Horses]]"
+---
+# Cheval

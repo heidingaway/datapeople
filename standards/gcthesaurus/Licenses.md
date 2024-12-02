@@ -1,6 +1,11 @@
-# Licenses  
+---
+title: Licenses
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Licenses
 
-## Used For
-
-- [[15504 Permits]]  
-
+usedFor:
+- "[[15504 Permits]]"
+---
+# Licenses

@@ -1,6 +1,11 @@
-# Military command  
+---
+title: Military command
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Military command
 
-## Related Term
-
-- [[1424 Armed forces]]  
-
+relatedTerm:
+- "[[1424 Armed forces]]"
+---
+# Military command

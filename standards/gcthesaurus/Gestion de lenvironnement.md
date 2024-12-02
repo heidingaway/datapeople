@@ -1,6 +1,11 @@
-# Gestion de lenvironnement  
+---
+title: Gestion de lenvironnement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gestion de l'environnement
 
-## French
-
-- [[6918 Environmental management]]  
-
+french:
+- "[[6918 Environmental management]]"
+---
+# Gestion de lenvironnement

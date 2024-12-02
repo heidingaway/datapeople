@@ -1,6 +1,11 @@
-# Transplantation Medecine  
+---
+title: Transplantation Medecine
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Transplantation (Médecine)
 
-## French
-
-- [[20582 Transplantation (Medicine)]]  
-
+french:
+- "[[20582 Transplantation (Medicine)]]"
+---
+# Transplantation Medecine

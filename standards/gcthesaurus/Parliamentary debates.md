@@ -1,6 +1,11 @@
-# Parliamentary debates  
+---
+title: Parliamentary debates
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Parliamentary debates
 
-## Used For
-
-- [[15319 Parliamentary procedure]]  
-
+usedFor:
+- "[[15319 Parliamentary procedure]]"
+---
+# Parliamentary debates

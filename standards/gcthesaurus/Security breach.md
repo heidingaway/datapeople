@@ -1,6 +1,11 @@
-# Security breach  
+---
+title: Security breach
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Security breach
 
-## Used For
-
-- [[16390 Privacy]]  
-
+usedFor:
+- "[[16390 Privacy]]"
+---
+# Security breach

@@ -1,6 +1,11 @@
-# Instruments  
+---
+title: Instruments
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Instruments
 
-## Used For
-
-- [[20245 Tooling]]  
-
+usedFor:
+- "[[20245 Tooling]]"
+---
+# Instruments

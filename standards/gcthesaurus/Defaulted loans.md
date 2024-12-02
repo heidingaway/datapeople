@@ -1,6 +1,11 @@
-# Defaulted loans  
+---
+title: Defaulted loans
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Defaulted loans
 
-## Narrower Term
-
-- [[12580 Loans]]  
-
+narrowerTerm:
+- "[[12580 Loans]]"
+---
+# Defaulted loans

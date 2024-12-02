@@ -1,6 +1,11 @@
-# Projections  
+---
+title: Projections
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Projections
 
-## Used For
-
-- [[8208 Forecasting]]  
-
+usedFor:
+- "[[8208 Forecasting]]"
+---
+# Projections

@@ -1,6 +1,11 @@
-# Preuve de citoyennete  
+---
+title: Preuve de citoyennete
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Preuve de citoyenneté
 
-## French
-
-- [[3244 Citizenship documents]]  
-
+french:
+- "[[3244 Citizenship documents]]"
+---
+# Preuve de citoyennete

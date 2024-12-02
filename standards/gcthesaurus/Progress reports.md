@@ -1,6 +1,11 @@
-# Progress reports  
+---
+title: Progress reports
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Progress reports
 
-## Narrower Term
-
-- [[17579 Reports]]  
-
+narrowerTerm:
+- "[[17579 Reports]]"
+---
+# Progress reports

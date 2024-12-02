@@ -1,6 +1,11 @@
-# Conception  
+---
+title: Conception
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conception
 
-## French
-
-- [[5158 Design]]  
-
+french:
+- "[[5158 Design]]"
+---
+# Conception

@@ -1,6 +1,11 @@
-# EIA  
+---
+title: EIA
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: EIA
 
-## Used For
-
-- [[6894 Environmental impact assessment]]  
-
+usedFor:
+- "[[6894 Environmental impact assessment]]"
+---
+# EIA

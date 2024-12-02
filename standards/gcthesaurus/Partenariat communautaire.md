@@ -1,6 +1,11 @@
-# Partenariat communautaire  
+---
+title: Partenariat communautaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Partenariat communautaire
 
-## French
-
-- [[3709 Community partnerships]]  
-
+french:
+- "[[3709 Community partnerships]]"
+---
+# Partenariat communautaire

@@ -1,6 +1,11 @@
-# Electronic media  
+---
+title: Electronic media
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electronic media
 
-## Used For
-
-- [[13188 Media]]  
-
+usedFor:
+- "[[13188 Media]]"
+---
+# Electronic media

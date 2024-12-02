@@ -1,6 +1,11 @@
-# Ecosysteme boreal  
+---
+title: Ecosysteme boreal
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Écosystème boréal
 
-## French
-
-- [[2350 Boreal ecosystems]]  
-
+french:
+- "[[2350 Boreal ecosystems]]"
+---
+# Ecosysteme boreal

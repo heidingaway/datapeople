@@ -1,6 +1,11 @@
-# Shoreline  
+---
+title: Shoreline
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Shoreline
 
-## Used For
-
-- [[3442 Coasts]]  
-
+usedFor:
+- "[[3442 Coasts]]"
+---
+# Shoreline

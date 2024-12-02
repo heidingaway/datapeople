@@ -1,15 +1,16 @@
-# Floods  
+---
+title: Floods
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Floods
 
-## Narrower Term
-
-- [[14282 Natural disasters]]  
-
-## Related Term
-
-- [[4827 Dams]
-- [[16213 Precipitation]]  
-
-## Use
-
-- [[8032 Flooding]]  
-
+narrowerTerm:
+- "[[14282 Natural disasters]]"
+relatedTerm:
+- "[[4827 Dams]]"
+- "[[16213 Precipitation]]"
+use:
+- "[[8032 Flooding]]"
+---
+# Floods

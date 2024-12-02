@@ -1,15 +1,18 @@
-# Pollution control  
+---
+title: Pollution control
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pollution control
 
-## Narrower Term
-
-- [[4148 Control]]  
-
-## Related Term
-
-- [[6464 Emission control technology]
-- [[6976 Environmental protection]
-- [[5002 Decontamination]
-- [[17383 Recycling]
-- [[16060 Pollution prevention]
-- [[16032 Pollution]]  
-
+narrowerTerm:
+- "[[4148 Control]]"
+relatedTerm:
+- "[[6464 Emission control technology]]"
+- "[[6976 Environmental protection]]"
+- "[[5002 Decontamination]]"
+- "[[17383 Recycling]]"
+- "[[16060 Pollution prevention]]"
+- "[[16032 Pollution]]"
+---
+# Pollution control

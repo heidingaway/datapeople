@@ -1,10 +1,13 @@
-# Rodenticides  
+---
+title: Rodenticides
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rodenticides
 
-## Narrower Term
-
-- [[15625 Pesticides]]  
-
-## Related Term
-
-- [[17941 Rodents]]  
-
+narrowerTerm:
+- "[[15625 Pesticides]]"
+relatedTerm:
+- "[[17941 Rodents]]"
+---
+# Rodenticides

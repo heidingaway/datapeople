@@ -1,6 +1,11 @@
-# Budget  
+---
+title: Budget
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Budget
 
-## French
-
-- [[2448 Budgets]]  
-
+french:
+- "[[2448 Budgets]]"
+---
+# Budget

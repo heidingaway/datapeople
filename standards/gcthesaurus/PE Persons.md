@@ -1,193 +1,198 @@
-# PE Persons  
+---
+title: PE Persons
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: PE Persons
 
-## Subject Category
-
-- [[10616 Indians]
-- [[8276 Foreign students]
-- [[13579 Migrant workers]
-- [[13663 Military personnel]
-- [[2660 Cadets]
-- [[10609 Indian bands]
-- [[14436 Newcomers]
-- [[17590 Representatives]
-- [[14433 Newborns]
-- [[21839 Women workers]
-- [[13595 Migratory workers]
-- [[11124 Innu]
-- [[13501 Métis]
-- [[11127 Innu First Nation]
-- [[14002 MPs]
-- [[4171 Convicts]
-- [[14263 Native peoples]
-- [[6478 Employees]
-- [[13377 Members of the House of Commons]
-- [[13384 Members of the Senate]
-- [[11130 Innu Nation]
-- [[10906 Infants]
-- [[13389 Men]
-- [[17786 Retention of staff]
-- [[10850 Industrial workers]
-- [[2361 Borrowers]
-- [[10951 Informal caregivers]
-- [[13403 Mentally handicapped]
-- [[14269 Natural caregivers]
-- [[18286 Scientists]
-- [[13274 Medical professionals]
-- [[7112 Eskimos]
-- [[11109 Inmates]
-- [[13254 Medical personnel]
-- [[2295 Blind persons]
-- [[10720 Indigenous youth]
-- [[18248 Scientific community]
-- [[10685 Indigenous peoples]
-- [[18272 Scientific researchers]
-- [[13819 Mobility impaired]
-- [[13767 Ministers]
-- [[13366 Members of Parliament]
-- [[16366 Prime Minister]
-- [[4105 Contact]
-- [[15801 Pioneers]
-- [[12199 Leader of the opposition]
-- [[12202 Leader of the opposition in the House of Commons]
-- [[12205 Leader of the opposition in the Senate]
-- [[3227 CIO]
-- [[6155 Elders]
-- [[4749 Customers]
-- [[3176 Children]
-- [[15776 Physically handicapped]
-- [[11553 Inuvialuit]
-- [[15773 Physically challenged]
-- [[6152 Elderly persons]
-- [[264 Adolescents]
-- [[3152 Childcare]
-- [[12412 Lieutenant Governor]
-- [[15601 Persons with disabilities]
-- [[7529 Federal employees]
-- [[12195 Leader of the Official Opposition]
-- [[12186 Leader of the government in the Senate]
-- [[12183 Leader of the government in the House of Commons]
-- [[7369 Family caregivers]
-- [[11702 Judges]
-- [[3330 Clients]
-- [[3324 Client satisfaction]
-- [[11707 Judicial appointments]
-- [[11745 Juvenile offenders]
-- [[6484 Employers]
-- [[16198 Preadolescents]
-- [[12028 Landed immigrants]
-- [[3282 Civil servants]
-- [[16527 Professors]
-- [[7460 Farm workers]
-- [[16533 Profiles]
-- [[15994 Political refugees]
-- [[7463 Farmers]
-- [[3526 College students]
-- [[274 Adoptive parents]
-- [[15500 Permanent residents]
-- [[4098 Consumers]
-- [[11177 Instructors]
-- [[2800 Caregivers]
-- [[11227 Intellectual capital]
-- [[15032 Ombudsman]
-- [[2767 Care givers]
-- [[15021 Older adults]
-- [[21826 Women]
-- [[17424 Refugees]
-- [[4050 Consuls]
-- [[290 Adults]
-- [[14602 Northerners]
-- [[14588 Northern residents]
-- [[2725 Candidates]
-- [[7822 First Nations]
-- [[7825 First peoples]
-- [[14525 Non status Indians]
-- [[14508 Non-Status Indians]
-- [[7242 Executives]
-- [[15065 Opposition House leader]
-- [[16383 Prisoners]
-- [[21935 Workers]
-- [[11549 Inuk]
-- [[3097 Chief Information Officer]
-- [[3092 Chief Human Resources Officer]
-- [[3088 Chief Financial Officer]
-- [[3082 Chief Electoral Officer]
-- [[11542 Inuit]
-- [[15455 People with disabilities]
-- [[7555 Federal government employees]
-- [[15432 Pensioners]
-- [[4934 Deaf persons]
-- [[11432 International students]
-- [[2977 CFO]
-- [[15335 Part-time students]
-- [[15317 Parliamentary leaders]
-- [[15270 Parents]
-- [[6124 Educators]
-- [[4369 Couples]
-- [[1639 Athletes]
-- [[9163 Government employees]
-- [[18553 Seniors]
-- [[19809 Teaching personnel]
-- [[373 Aged]
-- [[18535 Senior citizens]
-- [[18533 Senators]
-- [[19363 Status Indians]
-- [[20958 Veterans]
-- [[1622 Astronauts]
-- [[18530 Senate members]
-- [[22116 Young offenders]
-- [[9652 Health care professionals]
-- [[20729 Trustees]
-- [[19900 Teenagers]
-- [[21282 War veterans]
-- [[20686 Treaty Indians]
-- [[49 Aboriginal people]
-- [[22059 Writers]
-- [[19806 Teachers]
-- [[63 Aboriginal youth]
-- [[9802 Hearing impaired]
-- [[9637 Health care personnel]
-- [[19592 Surgeons]
-- [[9727 Health personnel]
-- [[8708 Gangs]
-- [[20925 Vendors]
-- [[5728 Duty to accommodate]
-- [[9749 Health professionals]
-- [[19476 Students]
-- [[75 Abused women]
-- [[20797 University students]
-- [[20987 Victims]
-- [[72 Abused children]
-- [[19447 Street gangs]
-- [[1516 Artists]
-- [[18775 Skilled workers]
-- [[8796 Gender-nonconforming people]
-- [[1962 Beneficiaries]
-- [[21078 Visa students]
-- [[18734 Sight impaired]
-- [[1893 Battered women]
-- [[22106 Young adults]
-- [[9452 Handicapped persons]
-- [[5320 Disabled people]
-- [[1822 Babies]
-- [[9201 Government leader in the Senate]
-- [[21123 Visually impaired]
-- [[5323 Disabled persons]
-- [[9275 Governor General]
-- [[5328 Disadvantaged persons]
-- [[9198 Government leader]
-- [[10505 Immigrants]
-- [[10039 Homeless]
-- [[19124 Soldiers]
-- [[6766 Entrepreneurs]
-- [[1722 Authors]
-- [[21226 Volunteers]
-- [[10098 House leaders]
-- [[553 Agricultural workers]
-- [[20485 Trainers]
-- [[1890 Battered children]
-- [[21278 War refugees]
-- [[1213 Applicants]
-- [[9172 Government House leader]
-- [[927 Ambassadors]
-- [[9449 Handicapped people]]  
-
+subjectCategory:
+- "[[10616 Indians]]"
+- "[[8276 Foreign students]]"
+- "[[13579 Migrant workers]]"
+- "[[13663 Military personnel]]"
+- "[[2660 Cadets]]"
+- "[[10609 Indian bands]]"
+- "[[14436 Newcomers]]"
+- "[[17590 Representatives]]"
+- "[[14433 Newborns]]"
+- "[[21839 Women workers]]"
+- "[[13595 Migratory workers]]"
+- "[[11124 Innu]]"
+- "[[13501 Métis]]"
+- "[[11127 Innu First Nation]]"
+- "[[14002 MPs]]"
+- "[[4171 Convicts]]"
+- "[[14263 Native peoples]]"
+- "[[6478 Employees]]"
+- "[[13377 Members of the House of Commons]]"
+- "[[13384 Members of the Senate]]"
+- "[[11130 Innu Nation]]"
+- "[[10906 Infants]]"
+- "[[13389 Men]]"
+- "[[17786 Retention of staff]]"
+- "[[10850 Industrial workers]]"
+- "[[2361 Borrowers]]"
+- "[[10951 Informal caregivers]]"
+- "[[13403 Mentally handicapped]]"
+- "[[14269 Natural caregivers]]"
+- "[[18286 Scientists]]"
+- "[[13274 Medical professionals]]"
+- "[[7112 Eskimos]]"
+- "[[11109 Inmates]]"
+- "[[13254 Medical personnel]]"
+- "[[2295 Blind persons]]"
+- "[[10720 Indigenous youth]]"
+- "[[18248 Scientific community]]"
+- "[[10685 Indigenous peoples]]"
+- "[[18272 Scientific researchers]]"
+- "[[13819 Mobility impaired]]"
+- "[[13767 Ministers]]"
+- "[[13366 Members of Parliament]]"
+- "[[16366 Prime Minister]]"
+- "[[4105 Contact]]"
+- "[[15801 Pioneers]]"
+- "[[12199 Leader of the opposition]]"
+- "[[12202 Leader of the opposition in the House of Commons]]"
+- "[[12205 Leader of the opposition in the Senate]]"
+- "[[3227 CIO]]"
+- "[[6155 Elders]]"
+- "[[4749 Customers]]"
+- "[[3176 Children]]"
+- "[[15776 Physically handicapped]]"
+- "[[11553 Inuvialuit]]"
+- "[[15773 Physically challenged]]"
+- "[[6152 Elderly persons]]"
+- "[[264 Adolescents]]"
+- "[[3152 Childcare]]"
+- "[[12412 Lieutenant Governor]]"
+- "[[15601 Persons with disabilities]]"
+- "[[7529 Federal employees]]"
+- "[[12195 Leader of the Official Opposition]]"
+- "[[12186 Leader of the government in the Senate]]"
+- "[[12183 Leader of the government in the House of Commons]]"
+- "[[7369 Family caregivers]]"
+- "[[11702 Judges]]"
+- "[[3330 Clients]]"
+- "[[3324 Client satisfaction]]"
+- "[[11707 Judicial appointments]]"
+- "[[11745 Juvenile offenders]]"
+- "[[6484 Employers]]"
+- "[[16198 Preadolescents]]"
+- "[[12028 Landed immigrants]]"
+- "[[3282 Civil servants]]"
+- "[[16527 Professors]]"
+- "[[7460 Farm workers]]"
+- "[[16533 Profiles]]"
+- "[[15994 Political refugees]]"
+- "[[7463 Farmers]]"
+- "[[3526 College students]]"
+- "[[274 Adoptive parents]]"
+- "[[15500 Permanent residents]]"
+- "[[4098 Consumers]]"
+- "[[11177 Instructors]]"
+- "[[2800 Caregivers]]"
+- "[[11227 Intellectual capital]]"
+- "[[15032 Ombudsman]]"
+- "[[2767 Care givers]]"
+- "[[15021 Older adults]]"
+- "[[21826 Women]]"
+- "[[17424 Refugees]]"
+- "[[4050 Consuls]]"
+- "[[290 Adults]]"
+- "[[14602 Northerners]]"
+- "[[14588 Northern residents]]"
+- "[[2725 Candidates]]"
+- "[[7822 First Nations]]"
+- "[[7825 First peoples]]"
+- "[[14525 Non status Indians]]"
+- "[[14508 Non-Status Indians]]"
+- "[[7242 Executives]]"
+- "[[15065 Opposition House leader]]"
+- "[[16383 Prisoners]]"
+- "[[21935 Workers]]"
+- "[[11549 Inuk]]"
+- "[[3097 Chief Information Officer]]"
+- "[[3092 Chief Human Resources Officer]]"
+- "[[3088 Chief Financial Officer]]"
+- "[[3082 Chief Electoral Officer]]"
+- "[[11542 Inuit]]"
+- "[[15455 People with disabilities]]"
+- "[[7555 Federal government employees]]"
+- "[[15432 Pensioners]]"
+- "[[4934 Deaf persons]]"
+- "[[11432 International students]]"
+- "[[2977 CFO]]"
+- "[[15335 Part-time students]]"
+- "[[15317 Parliamentary leaders]]"
+- "[[15270 Parents]]"
+- "[[6124 Educators]]"
+- "[[4369 Couples]]"
+- "[[1639 Athletes]]"
+- "[[9163 Government employees]]"
+- "[[18553 Seniors]]"
+- "[[19809 Teaching personnel]]"
+- "[[373 Aged]]"
+- "[[18535 Senior citizens]]"
+- "[[18533 Senators]]"
+- "[[19363 Status Indians]]"
+- "[[20958 Veterans]]"
+- "[[1622 Astronauts]]"
+- "[[18530 Senate members]]"
+- "[[22116 Young offenders]]"
+- "[[9652 Health care professionals]]"
+- "[[20729 Trustees]]"
+- "[[19900 Teenagers]]"
+- "[[21282 War veterans]]"
+- "[[20686 Treaty Indians]]"
+- "[[49 Aboriginal people]]"
+- "[[22059 Writers]]"
+- "[[19806 Teachers]]"
+- "[[63 Aboriginal youth]]"
+- "[[9802 Hearing impaired]]"
+- "[[9637 Health care personnel]]"
+- "[[19592 Surgeons]]"
+- "[[9727 Health personnel]]"
+- "[[8708 Gangs]]"
+- "[[20925 Vendors]]"
+- "[[5728 Duty to accommodate]]"
+- "[[9749 Health professionals]]"
+- "[[19476 Students]]"
+- "[[75 Abused women]]"
+- "[[20797 University students]]"
+- "[[20987 Victims]]"
+- "[[72 Abused children]]"
+- "[[19447 Street gangs]]"
+- "[[1516 Artists]]"
+- "[[18775 Skilled workers]]"
+- "[[8796 Gender-nonconforming people]]"
+- "[[1962 Beneficiaries]]"
+- "[[21078 Visa students]]"
+- "[[18734 Sight impaired]]"
+- "[[1893 Battered women]]"
+- "[[22106 Young adults]]"
+- "[[9452 Handicapped persons]]"
+- "[[5320 Disabled people]]"
+- "[[1822 Babies]]"
+- "[[9201 Government leader in the Senate]]"
+- "[[21123 Visually impaired]]"
+- "[[5323 Disabled persons]]"
+- "[[9275 Governor General]]"
+- "[[5328 Disadvantaged persons]]"
+- "[[9198 Government leader]]"
+- "[[10505 Immigrants]]"
+- "[[10039 Homeless]]"
+- "[[19124 Soldiers]]"
+- "[[6766 Entrepreneurs]]"
+- "[[1722 Authors]]"
+- "[[21226 Volunteers]]"
+- "[[10098 House leaders]]"
+- "[[553 Agricultural workers]]"
+- "[[20485 Trainers]]"
+- "[[1890 Battered children]]"
+- "[[21278 War refugees]]"
+- "[[1213 Applicants]]"
+- "[[9172 Government House leader]]"
+- "[[927 Ambassadors]]"
+- "[[9449 Handicapped people]]"
+---
+# PE Persons

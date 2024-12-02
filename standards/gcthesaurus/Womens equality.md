@@ -1,6 +1,11 @@
-# Womens equality  
+---
+title: Womens equality
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Women's equality
 
-## Used For
-
-- [[8809 Gender equality]]  
-
+usedFor:
+- "[[8809 Gender equality]]"
+---
+# Womens equality

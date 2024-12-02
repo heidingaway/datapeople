@@ -1,6 +1,11 @@
-# Tribunal  
+---
+title: Tribunal
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tribunal
 
-## French
-
-- [[4389 Courts]]  
-
+french:
+- "[[4389 Courts]]"
+---
+# Tribunal

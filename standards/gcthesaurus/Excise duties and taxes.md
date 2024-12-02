@@ -1,6 +1,11 @@
-# Excise duties and taxes  
+---
+title: Excise duties and taxes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Excise duties and taxes
 
-## Used For
-
-- [[7231 Excise taxes]]  
-
+usedFor:
+- "[[7231 Excise taxes]]"
+---
+# Excise duties and taxes

@@ -1,6 +1,11 @@
-# Press  
+---
+title: Press
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Press
 
-## Used For
-
-- [[14445 Newspapers]]  
-
+usedFor:
+- "[[14445 Newspapers]]"
+---
+# Press

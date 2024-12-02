@@ -1,6 +1,11 @@
-# Clinics  
+---
+title: Clinics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Clinics
 
-## Used For
-
-- [[9609 Health care facilities]]  
-
+usedFor:
+- "[[9609 Health care facilities]]"
+---
+# Clinics

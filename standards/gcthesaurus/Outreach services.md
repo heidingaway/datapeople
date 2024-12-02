@@ -1,11 +1,14 @@
-# Outreach services  
+---
+title: Outreach services
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Outreach services
 
-## Related Term
-
-- [[4357 Counselling services]
-- [[3733 Community services]]  
-
-## Use
-
-- [[15150 Outreach]]  
-
+relatedTerm:
+- "[[4357 Counselling services]]"
+- "[[3733 Community services]]"
+use:
+- "[[15150 Outreach]]"
+---
+# Outreach services

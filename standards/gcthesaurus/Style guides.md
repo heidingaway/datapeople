@@ -1,6 +1,11 @@
-# Style guides  
+---
+title: Style guides
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Style guides
 
-## Used For
-
-- [[19486 Style manuals]]  
-
+usedFor:
+- "[[19486 Style manuals]]"
+---
+# Style guides

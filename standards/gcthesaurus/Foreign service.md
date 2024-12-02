@@ -1,18 +1,19 @@
-# Foreign service  
+---
+title: Foreign service
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Foreign service
 
-## Broader Term
-
-- [[5282 Diplomatic missions]]  
-
-## Related Term
-
-- [[7322 External relations]
-- [[5065 Delegations]]  
-
-## Use
-
-- [[925 Ambassadors]
-- [[4048 Consuls]
-- [[5277 Diplomacy]
-- [[5286 Diplomats]]  
-
+broaderTerm:
+- "[[5282 Diplomatic missions]]"
+relatedTerm:
+- "[[7322 External relations]]"
+- "[[5065 Delegations]]"
+use:
+- "[[925 Ambassadors]]"
+- "[[4048 Consuls]]"
+- "[[5277 Diplomacy]]"
+- "[[5286 Diplomats]]"
+---
+# Foreign service

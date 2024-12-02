@@ -1,6 +1,11 @@
-# Nuclear power stations  
+---
+title: Nuclear power stations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Nuclear power stations
 
-## Used For
-
-- [[14646 Nuclear power plants]]  
-
+usedFor:
+- "[[14646 Nuclear power plants]]"
+---
+# Nuclear power stations

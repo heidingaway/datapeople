@@ -1,6 +1,11 @@
-# Essential skills  
+---
+title: Essential skills
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Essential skills
 
-## Used For
-
-- [[12434 Life skills]]  
-
+usedFor:
+- "[[12434 Life skills]]"
+---
+# Essential skills

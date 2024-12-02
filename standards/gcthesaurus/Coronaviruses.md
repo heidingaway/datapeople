@@ -1,10 +1,13 @@
-# Coronaviruses  
+---
+title: Coronaviruses
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Coronaviruses
 
-## Narrower Term
-
-- [[21072 Viruses]]  
-
-## Related Term
-
-- [[4254 Coronavirus diseases]]  
-
+narrowerTerm:
+- "[[21072 Viruses]]"
+relatedTerm:
+- "[[4254 Coronavirus diseases]]"
+---
+# Coronaviruses

@@ -1,6 +1,11 @@
-# Innovation sociale  
+---
+title: Innovation sociale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Innovation sociale
 
-## French
-
-- [[18916 Social innovation]]  
-
+french:
+- "[[18916 Social innovation]]"
+---
+# Innovation sociale

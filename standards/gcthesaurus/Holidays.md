@@ -1,9 +1,14 @@
-# Holidays  
+---
+title: Holidays
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Holidays
 
-## Related Term
-
-- [[12246 Leave of absence]
-- [[21957 Working conditions]
-- [[3550 Commemoration]
-- [[20877 Vacations]]  
-
+relatedTerm:
+- "[[12246 Leave of absence]]"
+- "[[21957 Working conditions]]"
+- "[[3550 Commemoration]]"
+- "[[20877 Vacations]]"
+---
+# Holidays

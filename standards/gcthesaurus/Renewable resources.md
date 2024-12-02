@@ -1,19 +1,18 @@
-# Renewable resources  
+---
+title: Renewable resources
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Renewable resources
 
-## Broader Term
-
-- [[17536 Renewable energy]
-- [[8415 Forests]]  
-
-## Narrower Term
-
-- [[14321 Natural resources]]  
-
-## Related Term
-
-- [[14499 Non-renewable resources]]  
-
-## Use
-
-- [[17551 Renewable natural resources]]  
-
+broaderTerm:
+- "[[17536 Renewable energy]]"
+- "[[8415 Forests]]"
+narrowerTerm:
+- "[[14321 Natural resources]]"
+relatedTerm:
+- "[[14499 Non-renewable resources]]"
+use:
+- "[[17551 Renewable natural resources]]"
+---
+# Renewable resources

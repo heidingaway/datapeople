@@ -1,6 +1,11 @@
-# Document dinformation  
+---
+title: Document dinformation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Document d'information
 
-## French
-
-- [[2409 Briefing papers]]  
-
+french:
+- "[[2409 Briefing papers]]"
+---
+# Document dinformation

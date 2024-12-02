@@ -1,6 +1,11 @@
-# Theatre  
+---
+title: Theatre
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Théâtre
 
-## French
-
-- [[20143 Theatre]]  
-
+french:
+- "[[20143 Theatre]]"
+---
+# Theatre

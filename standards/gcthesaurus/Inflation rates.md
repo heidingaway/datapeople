@@ -1,6 +1,11 @@
-# Inflation rates  
+---
+title: Inflation rates
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Inflation rates
 
-## Used For
-
-- [[10936 Inflation]]  
-
+usedFor:
+- "[[10936 Inflation]]"
+---
+# Inflation rates

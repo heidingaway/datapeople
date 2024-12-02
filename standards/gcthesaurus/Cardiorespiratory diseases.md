@@ -1,7 +1,12 @@
-# Cardiorespiratory diseases  
+---
+title: Cardiorespiratory diseases
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cardiorespiratory diseases
 
-## Used For
-
-- [[2760 Cardiovascular diseases]
-- [[17744 Respiratory diseases]]  
-
+usedFor:
+- "[[2760 Cardiovascular diseases]]"
+- "[[17744 Respiratory diseases]]"
+---
+# Cardiorespiratory diseases

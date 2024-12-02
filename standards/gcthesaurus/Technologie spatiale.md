@@ -1,6 +1,11 @@
-# Technologie spatiale  
+---
+title: Technologie spatiale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Technologie spatiale
 
-## French
-
-- [[19188 Space technology]]  
-
+french:
+- "[[19188 Space technology]]"
+---
+# Technologie spatiale

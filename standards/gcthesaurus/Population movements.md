@@ -1,6 +1,11 @@
-# Population movements  
+---
+title: Population movements
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Population movements
 
-## Used For
-
-- [[13583 Migration]]  
-
+usedFor:
+- "[[13583 Migration]]"
+---
+# Population movements

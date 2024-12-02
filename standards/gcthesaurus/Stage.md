@@ -1,6 +1,11 @@
-# Stage  
+---
+title: Stage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Stage
 
-## French
-
-- [[11481 Internships]]  
-
+french:
+- "[[11481 Internships]]"
+---
+# Stage

@@ -1,6 +1,11 @@
-# Environmentally sound products  
+---
+title: Environmentally sound products
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Environmentally sound products
 
-## Used For
-
-- [[9342 Green products]]  
-
+usedFor:
+- "[[9342 Green products]]"
+---
+# Environmentally sound products

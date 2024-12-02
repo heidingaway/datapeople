@@ -1,6 +1,11 @@
-# Spousal abuse  
+---
+title: Spousal abuse
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Spousal abuse
 
-## Used For
-
-- [[7403 Family violence]]  
-
+usedFor:
+- "[[7403 Family violence]]"
+---
+# Spousal abuse

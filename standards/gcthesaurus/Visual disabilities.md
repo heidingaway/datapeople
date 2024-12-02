@@ -1,18 +1,17 @@
-# Visual disabilities  
+---
+title: Visual disabilities
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Visual disabilities
 
-## Broader Term
-
-- [[2297 Blindness]]  
-
-## Narrower Term
-
-- [[5305 Disabilities]]  
-
-## Related Term
-
-- [[2392 Braille]]  
-
-## Use
-
-- [[21119 Visual impairments]]  
-
+broaderTerm:
+- "[[2297 Blindness]]"
+narrowerTerm:
+- "[[5305 Disabilities]]"
+relatedTerm:
+- "[[2392 Braille]]"
+use:
+- "[[21119 Visual impairments]]"
+---
+# Visual disabilities

@@ -1,6 +1,11 @@
-# Patented medicines  
+---
+title: Patented medicines
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Patented medicines
 
-## Narrower Term
-
-- [[5697 Drugs]]  
-
+narrowerTerm:
+- "[[5697 Drugs]]"
+---
+# Patented medicines

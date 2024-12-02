@@ -1,14 +1,15 @@
-# Physics  
+---
+title: Physics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Physics
 
-## Broader Term
-
-- [[9016 Geophysics]]  
-
-## Narrower Term
-
-- [[15766 Physical sciences]]  
-
-## Related Term
-
-- [[12705 Magnetism]]  
-
+broaderTerm:
+- "[[9016 Geophysics]]"
+narrowerTerm:
+- "[[15766 Physical sciences]]"
+relatedTerm:
+- "[[12705 Magnetism]]"
+---
+# Physics

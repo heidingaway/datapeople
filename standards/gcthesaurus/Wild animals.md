@@ -1,6 +1,11 @@
-# Wild animals  
+---
+title: Wild animals
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Wild animals
 
-## Used For
-
-- [[21750 Wildlife]]  
-
+usedFor:
+- "[[21750 Wildlife]]"
+---
+# Wild animals

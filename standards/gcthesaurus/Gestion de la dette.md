@@ -1,6 +1,11 @@
-# Gestion de la dette  
+---
+title: Gestion de la dette
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gestion de la dette
 
-## French
-
-- [[4970 Debt management]]  
-
+french:
+- "[[4970 Debt management]]"
+---
+# Gestion de la dette

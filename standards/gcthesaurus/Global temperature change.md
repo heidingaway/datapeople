@@ -1,6 +1,11 @@
-# Global temperature change  
+---
+title: Global temperature change
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Global temperature change
 
-## Used For
-
-- [[9102 Global warming]]  
-
+usedFor:
+- "[[9102 Global warming]]"
+---
+# Global temperature change

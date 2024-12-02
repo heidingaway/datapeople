@@ -1,6 +1,11 @@
-# Progenitor cells  
+---
+title: Progenitor cells
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Progenitor cells
 
-## Used For
-
-- [[19387 Stem cells]]  
-
+usedFor:
+- "[[19387 Stem cells]]"
+---
+# Progenitor cells

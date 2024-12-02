@@ -1,6 +1,11 @@
-# Viande  
+---
+title: Viande
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Viande
 
-## French
-
-- [[13178 Meat]]  
-
+french:
+- "[[13178 Meat]]"
+---
+# Viande

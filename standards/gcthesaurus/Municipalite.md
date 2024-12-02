@@ -1,6 +1,11 @@
-# Municipalite  
+---
+title: Municipalite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Municipalité
 
-## French
-
-- [[14073 Municipalities]]  
-
+french:
+- "[[14073 Municipalities]]"
+---
+# Municipalite

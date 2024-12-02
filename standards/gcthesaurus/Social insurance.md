@@ -1,6 +1,11 @@
-# Social insurance  
+---
+title: Social insurance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Social insurance
 
-## Used For
-
-- [[18991 Social security]]  
-
+usedFor:
+- "[[18991 Social security]]"
+---
+# Social insurance

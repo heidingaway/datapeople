@@ -1,6 +1,11 @@
-# Construction standards  
+---
+title: Construction standards
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Construction standards
 
-## Used For
-
-- [[4023 Construction industry]]  
-
+usedFor:
+- "[[4023 Construction industry]]"
+---
+# Construction standards

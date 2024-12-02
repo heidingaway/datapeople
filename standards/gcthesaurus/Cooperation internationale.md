@@ -1,6 +1,11 @@
-# Cooperation internationale  
+---
+title: Cooperation internationale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Coopération internationale
 
-## French
-
-- [[11357 International cooperation]]  
-
+french:
+- "[[11357 International cooperation]]"
+---
+# Cooperation internationale

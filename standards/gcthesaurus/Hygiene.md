@@ -1,6 +1,11 @@
-# Hygiene  
+---
+title: Hygiene
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hygiène
 
-## French
-
-- [[10419 Hygiene]]  
-
+french:
+- "[[10419 Hygiene]]"
+---
+# Hygiene

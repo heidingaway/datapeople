@@ -1,6 +1,11 @@
-# Hydrometric network  
+---
+title: Hydrometric network
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hydrometric network
 
-## Narrower Term
-
-- [[10391 Hydrometry]]  
-
+narrowerTerm:
+- "[[10391 Hydrometry]]"
+---
+# Hydrometric network

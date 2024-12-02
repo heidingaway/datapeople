@@ -1,10 +1,13 @@
-# Mining accidents  
+---
+title: Mining accidents
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mining accidents
 
-## Narrower Term
-
-- [[14744 Occupational accidents]]  
-
-## Related Term
-
-- [[13750 Mining industry]]  
-
+narrowerTerm:
+- "[[14744 Occupational accidents]]"
+relatedTerm:
+- "[[13750 Mining industry]]"
+---
+# Mining accidents

@@ -1,6 +1,11 @@
-# Documentation services  
+---
+title: Documentation services
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Documentation services
 
-## Used For
-
-- [[12380 Libraries]]  
-
+usedFor:
+- "[[12380 Libraries]]"
+---
+# Documentation services

@@ -1,6 +1,11 @@
-# Phonetics  
+---
+title: Phonetics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Phonetics
 
-## Used For
-
-- [[16602 Pronunciation]]  
-
+usedFor:
+- "[[16602 Pronunciation]]"
+---
+# Phonetics

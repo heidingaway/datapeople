@@ -1,6 +1,11 @@
-# Obesite  
+---
+title: Obesite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Obésité
 
-## French
-
-- [[14723 Obesity]]  
-
+french:
+- "[[14723 Obesity]]"
+---
+# Obesite

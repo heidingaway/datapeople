@@ -1,6 +1,11 @@
-# Serials  
+---
+title: Serials
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Serials
 
-## Used For
-
-- [[15490 Periodicals]]  
-
+usedFor:
+- "[[15490 Periodicals]]"
+---
+# Serials

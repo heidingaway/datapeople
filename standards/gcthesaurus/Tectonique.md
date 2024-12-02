@@ -1,6 +1,11 @@
-# Tectonique  
+---
+title: Tectonique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tectonique
 
-## French
-
-- [[19450 Structural geology]]  
-
+french:
+- "[[19450 Structural geology]]"
+---
+# Tectonique

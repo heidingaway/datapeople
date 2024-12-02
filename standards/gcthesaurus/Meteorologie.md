@@ -1,6 +1,11 @@
-# Meteorologie  
+---
+title: Meteorologie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Météorologie
 
-## French
-
-- [[13477 Meteorology]]  
-
+french:
+- "[[13477 Meteorology]]"
+---
+# Meteorologie

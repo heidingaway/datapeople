@@ -1,6 +1,11 @@
-# Nicotine addiction  
+---
+title: Nicotine addiction
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Nicotine addiction
 
-## Used For
-
-- [[18821 Smoking]]  
-
+usedFor:
+- "[[18821 Smoking]]"
+---
+# Nicotine addiction

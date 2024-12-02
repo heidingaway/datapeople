@@ -1,6 +1,11 @@
-# Paleontologie  
+---
+title: Paleontologie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Paléontologie
 
-## French
-
-- [[15220 Palaeontology]]  
-
+french:
+- "[[15220 Palaeontology]]"
+---
+# Paleontologie

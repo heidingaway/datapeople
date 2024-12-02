@@ -1,6 +1,11 @@
-# Eating habits  
+---
+title: Eating habits
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Eating habits
 
-## Used For
-
-- [[14699 Nutrition]]  
-
+usedFor:
+- "[[14699 Nutrition]]"
+---
+# Eating habits

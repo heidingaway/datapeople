@@ -1,6 +1,11 @@
-# Sales outlets  
+---
+title: Sales outlets
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sales outlets
 
-## Used For
-
-- [[17773 Retail trade]]  
-
+usedFor:
+- "[[17773 Retail trade]]"
+---
+# Sales outlets

@@ -1,6 +1,11 @@
-# Plainte  
+---
+title: Plainte
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Plainte
 
-## French
-
-- [[3773 Complaints]]  
-
+french:
+- "[[3773 Complaints]]"
+---
+# Plainte

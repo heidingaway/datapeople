@@ -1,6 +1,11 @@
-# Forts  
+---
+title: Forts
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Forts
 
-## Used For
-
-- [[13606 Military architecture]]  
-
+usedFor:
+- "[[13606 Military architecture]]"
+---
+# Forts

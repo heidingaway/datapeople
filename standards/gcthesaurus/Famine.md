@@ -1,11 +1,14 @@
-# Famine  
+---
+title: Famine
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Famine
 
-## French
-
-- [[7412 Famine]]  
-
-## Related Term
-
-- [[10302 Hunger]
-- [[8185 Food supply]]  
-
+french:
+- "[[7412 Famine]]"
+relatedTerm:
+- "[[10302 Hunger]]"
+- "[[8185 Food supply]]"
+---
+# Famine

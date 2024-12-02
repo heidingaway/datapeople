@@ -1,6 +1,11 @@
-# Geological investigations  
+---
+title: Geological investigations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geological investigations
 
-## Used For
-
-- [[8977 Geology]]  
-
+usedFor:
+- "[[8977 Geology]]"
+---
+# Geological investigations

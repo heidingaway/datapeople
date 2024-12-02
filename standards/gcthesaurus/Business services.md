@@ -1,7 +1,12 @@
-# Business services  
+---
+title: Business services
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Business services
 
-## Broader Term
-
-- [[306 Advertising]
-- [[140 Accounting]]  
-
+broaderTerm:
+- "[[306 Advertising]]"
+- "[[140 Accounting]]"
+---
+# Business services

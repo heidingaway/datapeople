@@ -1,9 +1,14 @@
-# Rural communities  
+---
+title: Rural communities
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rural communities
 
-## Related Term
-
-- [[11631 Isolated communities]
-- [[20813 Urban communities]
-- [[17970 Rural development]
-- [[17975 Rural environment]]  
-
+relatedTerm:
+- "[[11631 Isolated communities]]"
+- "[[20813 Urban communities]]"
+- "[[17970 Rural development]]"
+- "[[17975 Rural environment]]"
+---
+# Rural communities

@@ -1,19 +1,18 @@
-# Farm buildings  
+---
+title: Farm buildings
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Farm buildings
 
-## Broader Term
-
-- [[9370 Greenhouses]]  
-
-## Narrower Term
-
-- [[2467 Buildings]]  
-
-## Related Term
-
-- [[7498 Farms]
-- [[5500 Domestic architecture]]  
-
-## Use
-
-- [[472 Agricultural buildings]]  
-
+broaderTerm:
+- "[[9370 Greenhouses]]"
+narrowerTerm:
+- "[[2467 Buildings]]"
+relatedTerm:
+- "[[7498 Farms]]"
+- "[[5500 Domestic architecture]]"
+use:
+- "[[472 Agricultural buildings]]"
+---
+# Farm buildings

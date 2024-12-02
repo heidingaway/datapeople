@@ -1,6 +1,11 @@
-# Recourse  
+---
+title: Recourse
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Recourse
 
-## Related Term
-
-- [[1198 Appeals]]  
-
+relatedTerm:
+- "[[1198 Appeals]]"
+---
+# Recourse

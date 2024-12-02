@@ -1,6 +1,11 @@
-# Vieillissement  
+---
+title: Vieillissement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Vieillissement
 
-## French
-
-- [[381 Aging]]  
-
+french:
+- "[[381 Aging]]"
+---
+# Vieillissement

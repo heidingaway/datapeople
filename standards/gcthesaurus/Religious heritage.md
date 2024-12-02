@@ -1,11 +1,14 @@
-# Religious heritage  
+---
+title: Religious heritage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Religious heritage
 
-## Narrower Term
-
-- [[9880 Heritage]]  
-
-## Related Term
-
-- [[17513 Religious history]
-- [[17502 Religious buildings]]  
-
+narrowerTerm:
+- "[[9880 Heritage]]"
+relatedTerm:
+- "[[17513 Religious history]]"
+- "[[17502 Religious buildings]]"
+---
+# Religious heritage

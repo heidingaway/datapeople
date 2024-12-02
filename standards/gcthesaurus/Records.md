@@ -1,13 +1,16 @@
-# Records  
+---
+title: Records
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Records
 
-## Broader Term
-
-- [[13276 Medical records]
-- [[2814 Cartographic records]
-- [[17277 Record of employment]]  
-
-## Related Term
-
-- [[17302 Records management]
-- [[1387 Archives]]  
-
+broaderTerm:
+- "[[13276 Medical records]]"
+- "[[2814 Cartographic records]]"
+- "[[17277 Record of employment]]"
+relatedTerm:
+- "[[17302 Records management]]"
+- "[[1387 Archives]]"
+---
+# Records

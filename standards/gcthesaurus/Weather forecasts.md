@@ -1,7 +1,12 @@
-# Weather forecasts  
+---
+title: Weather forecasts
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Weather forecasts
 
-## Related Term
-
-- [[21603 Weather]
-- [[21617 Weather warnings]]  
-
+relatedTerm:
+- "[[21603 Weather]]"
+- "[[21617 Weather warnings]]"
+---
+# Weather forecasts

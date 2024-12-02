@@ -1,6 +1,11 @@
-# Gerontologie  
+---
+title: Gerontologie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Gérontologie
 
-## French
-
-- [[9050 Gerontology]]  
-
+french:
+- "[[9050 Gerontology]]"
+---
+# Gerontologie

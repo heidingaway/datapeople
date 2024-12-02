@@ -1,6 +1,11 @@
-# Boats  
+---
+title: Boats
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Boats
 
-## Used For
-
-- [[18688 Ships]]  
-
+usedFor:
+- "[[18688 Ships]]"
+---
+# Boats

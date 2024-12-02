@@ -1,10 +1,13 @@
-# Fruit crops  
+---
+title: Fruit crops
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fruit crops
 
-## Narrower Term
-
-- [[4543 Crops]]  
-
-## Related Term
-
-- [[8562 Fruits]]  
-
+narrowerTerm:
+- "[[4543 Crops]]"
+relatedTerm:
+- "[[8562 Fruits]]"
+---
+# Fruit crops

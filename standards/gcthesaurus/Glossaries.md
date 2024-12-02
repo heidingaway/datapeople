@@ -1,6 +1,11 @@
-# Glossaries  
+---
+title: Glossaries
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Glossaries
 
-## Used For
-
-- [[5218 Dictionaries]]  
-
+usedFor:
+- "[[5218 Dictionaries]]"
+---
+# Glossaries

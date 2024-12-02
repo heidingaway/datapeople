@@ -1,6 +1,11 @@
-# Relative humidity  
+---
+title: Relative humidity
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Relative humidity
 
-## Used For
-
-- [[10290 Humidity]]  
-
+usedFor:
+- "[[10290 Humidity]]"
+---
+# Relative humidity

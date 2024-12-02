@@ -1,7 +1,12 @@
-# Ski trails  
+---
+title: Ski trails
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ski trails
 
-## Related Term
-
-- [[17346 Recreational facilities]
-- [[18771 Skiing]]  
-
+relatedTerm:
+- "[[17346 Recreational facilities]]"
+- "[[18771 Skiing]]"
+---
+# Ski trails

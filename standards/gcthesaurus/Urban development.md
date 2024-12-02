@@ -1,10 +1,13 @@
-# Urban development  
+---
+title: Urban development
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Urban development
 
-## Narrower Term
-
-- [[5194 Development]]  
-
-## Related Term
-
-- [[20814 Urban communities]]  
-
+narrowerTerm:
+- "[[5194 Development]]"
+relatedTerm:
+- "[[20814 Urban communities]]"
+---
+# Urban development

@@ -1,6 +1,11 @@
-# Prizes  
+---
+title: Prizes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prizes
 
-## Used For
-
-- [[1811 Awards]]  
-
+usedFor:
+- "[[1811 Awards]]"
+---
+# Prizes

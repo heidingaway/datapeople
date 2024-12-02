@@ -1,6 +1,11 @@
-# Donor semen  
+---
+title: Donor semen
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Donor semen
 
-## Used For
-
-- [[18514 Semen]]  
-
+usedFor:
+- "[[18514 Semen]]"
+---
+# Donor semen

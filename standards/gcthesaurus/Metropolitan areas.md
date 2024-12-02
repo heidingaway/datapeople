@@ -1,6 +1,11 @@
-# Metropolitan areas  
+---
+title: Metropolitan areas
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Metropolitan areas
 
-## Used For
-
-- [[20823 Urban environment]]  
-
+usedFor:
+- "[[20823 Urban environment]]"
+---
+# Metropolitan areas

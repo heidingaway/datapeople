@@ -1,6 +1,11 @@
-# Human tissues  
+---
+title: Human tissues
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Human tissues
 
-## Used For
-
-- [[20205 Tissues]]  
-
+usedFor:
+- "[[20205 Tissues]]"
+---
+# Human tissues

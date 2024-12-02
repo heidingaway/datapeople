@@ -1,6 +1,11 @@
-# Sedimentologie  
+---
+title: Sedimentologie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sédimentologie
 
-## French
-
-- [[18468 Sedimentology]]  
-
+french:
+- "[[18468 Sedimentology]]"
+---
+# Sedimentologie

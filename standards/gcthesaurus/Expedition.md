@@ -1,6 +1,11 @@
-# Expedition  
+---
+title: Expedition
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Expédition
 
-## French
-
-- [[18680 Shipping]]  
-
+french:
+- "[[18680 Shipping]]"
+---
+# Expedition

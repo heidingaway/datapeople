@@ -1,19 +1,20 @@
-# Genetically modified organisms  
+---
+title: Genetically modified organisms
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Genetically modified organisms
 
-## Narrower Term
-
-- [[12567 Living organisms]]  
-
-## Related Term
-
-- [[8830 Genetic engineering]
-- [[8853 Genetically modified foods]]  
-
-## Use
-
-- [[8838 Genetically altered organisms]
-- [[8844 Genetically engineered organisms]
-- [[20568 Transgenic organisms]
-- [[9118 GMO]
-- [[12560 Living modified organisms]]  
-
+narrowerTerm:
+- "[[12567 Living organisms]]"
+relatedTerm:
+- "[[8830 Genetic engineering]]"
+- "[[8853 Genetically modified foods]]"
+use:
+- "[[8838 Genetically altered organisms]]"
+- "[[8844 Genetically engineered organisms]]"
+- "[[20568 Transgenic organisms]]"
+- "[[9118 GMO]]"
+- "[[12560 Living modified organisms]]"
+---
+# Genetically modified organisms

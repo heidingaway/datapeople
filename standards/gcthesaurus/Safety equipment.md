@@ -1,24 +1,23 @@
-# Safety equipment  
+---
+title: Safety equipment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Safety equipment
 
-## Broader Term
-
-- [[1759 Automobile safety equipment]
-- [[12997 Marine safety equipment]
-- [[2031 Bicycle safety equipment]]  
-
-## Narrower Term
-
-- [[7088 Equipment]]  
-
-## Related Term
-
-- [[17998 Safety]
-- [[17637 Rescue equipment]
-- [[18046 Safety measures]
-- [[18063 Safety standards]]  
-
-## Use
-
-- [[18006 Safety devices]
-- [[18034 Safety kits]]  
-
+broaderTerm:
+- "[[1759 Automobile safety equipment]]"
+- "[[12997 Marine safety equipment]]"
+- "[[2031 Bicycle safety equipment]]"
+narrowerTerm:
+- "[[7088 Equipment]]"
+relatedTerm:
+- "[[17998 Safety]]"
+- "[[17637 Rescue equipment]]"
+- "[[18046 Safety measures]]"
+- "[[18063 Safety standards]]"
+use:
+- "[[18006 Safety devices]]"
+- "[[18034 Safety kits]]"
+---
+# Safety equipment

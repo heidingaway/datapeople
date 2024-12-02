@@ -1,6 +1,11 @@
-# Paleontology  
+---
+title: Paleontology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Paleontology
 
-## Used For
-
-- [[15221 Palaeontology]]  
-
+usedFor:
+- "[[15221 Palaeontology]]"
+---
+# Paleontology

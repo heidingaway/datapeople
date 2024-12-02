@@ -1,6 +1,11 @@
-# Data protection  
+---
+title: Data protection
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Data protection
 
-## Related Term
-
-- [[12682 Machine readable data]]  
-
+relatedTerm:
+- "[[12682 Machine readable data]]"
+---
+# Data protection

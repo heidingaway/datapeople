@@ -1,6 +1,11 @@
-# Human safety  
+---
+title: Human safety
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Human safety
 
-## Used For
-
-- [[10228 Human security]]  
-
+usedFor:
+- "[[10228 Human security]]"
+---
+# Human safety

@@ -1,6 +1,11 @@
-# Generating stations  
+---
+title: Generating stations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Generating stations
 
-## Used For
-
-- [[6213 Electric power stations]]  
-
+usedFor:
+- "[[6213 Electric power stations]]"
+---
+# Generating stations

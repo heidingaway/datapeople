@@ -1,6 +1,11 @@
-# Restaurant  
+---
+title: Restaurant
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Restaurant
 
-## French
-
-- [[17757 Restaurants]]  
-
+french:
+- "[[17757 Restaurants]]"
+---
+# Restaurant

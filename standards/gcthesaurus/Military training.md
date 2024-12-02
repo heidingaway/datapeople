@@ -1,11 +1,14 @@
-# Military training  
+---
+title: Military training
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Military training
 
-## Narrower Term
-
-- [[20492 Training]]  
-
-## Related Term
-
-- [[13660 Military personnel]
-- [[13621 Military colleges]]  
-
+narrowerTerm:
+- "[[20492 Training]]"
+relatedTerm:
+- "[[13660 Military personnel]]"
+- "[[13621 Military colleges]]"
+---
+# Military training

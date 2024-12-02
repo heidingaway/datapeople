@@ -1,6 +1,11 @@
-# Reseau de telecommunications  
+---
+title: Reseau de telecommunications
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Réseau de télécommunications
 
-## French
-
-- [[19925 Telecommunications networks]]  
-
+french:
+- "[[19925 Telecommunications networks]]"
+---
+# Reseau de telecommunications

@@ -1,6 +1,11 @@
-# Construction permits  
+---
+title: Construction permits
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Construction permits
 
-## Used For
-
-- [[4022 Construction industry]]  
-
+usedFor:
+- "[[4022 Construction industry]]"
+---
+# Construction permits

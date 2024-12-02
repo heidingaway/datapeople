@@ -1,6 +1,11 @@
-# Evidence  
+---
+title: Evidence
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Evidence
 
-## Broader Term
-
-- [[20109 Testimony]]  
-
+broaderTerm:
+- "[[20109 Testimony]]"
+---
+# Evidence

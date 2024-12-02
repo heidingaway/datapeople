@@ -1,6 +1,11 @@
-# Nationality  
+---
+title: Nationality
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Nationality
 
-## Used For
-
-- [[3239 Citizenship]]  
-
+usedFor:
+- "[[3239 Citizenship]]"
+---
+# Nationality

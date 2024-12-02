@@ -1,6 +1,11 @@
-# Fumier  
+---
+title: Fumier
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fumier
 
-## French
-
-- [[12865 Manure]]  
-
+french:
+- "[[12865 Manure]]"
+---
+# Fumier

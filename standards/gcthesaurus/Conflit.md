@@ -1,6 +1,11 @@
-# Conflit  
+---
+title: Conflit
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conflit
 
-## French
-
-- [[3934 Conflicts]]  
-
+french:
+- "[[3934 Conflicts]]"
+---
+# Conflit

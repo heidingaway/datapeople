@@ -1,6 +1,11 @@
-# Refrigeration equipment  
+---
+title: Refrigeration equipment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Refrigeration equipment
 
-## Narrower Term
-
-- [[7087 Equipment]]  
-
+narrowerTerm:
+- "[[7087 Equipment]]"
+---
+# Refrigeration equipment

@@ -1,6 +1,11 @@
-# Fortifications  
+---
+title: Fortifications
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fortifications
 
-## Used For
-
-- [[13604 Military architecture]]  
-
+usedFor:
+- "[[13604 Military architecture]]"
+---
+# Fortifications

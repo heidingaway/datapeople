@@ -1,20 +1,19 @@
-# Biotechnology  
+---
+title: Biotechnology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biotechnology
 
-## Broader Term
-
-- [[17605 Reproductive technology]]  
-
-## Narrower Term
-
-- [[19864 Technology]]  
-
-## Related Term
-
-- [[8828 Genetic engineering]
-- [[2138 Bioethics]]  
-
-## Use
-
-- [[2167 Biological engineering]
-- [[2129 Bioengineering]]  
-
+broaderTerm:
+- "[[17605 Reproductive technology]]"
+narrowerTerm:
+- "[[19864 Technology]]"
+relatedTerm:
+- "[[8828 Genetic engineering]]"
+- "[[2138 Bioethics]]"
+use:
+- "[[2167 Biological engineering]]"
+- "[[2129 Bioengineering]]"
+---
+# Biotechnology

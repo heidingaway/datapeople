@@ -1,6 +1,11 @@
-# Geochronologie  
+---
+title: Geochronologie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Géochronologie
 
-## French
-
-- [[8883 Geochronology]]  
-
+french:
+- "[[8883 Geochronology]]"
+---
+# Geochronologie

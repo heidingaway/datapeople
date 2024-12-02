@@ -1,6 +1,11 @@
-# Flore  
+---
+title: Flore
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Flore
 
-## French
-
-- [[8043 Flora]]  
-
+french:
+- "[[8043 Flora]]"
+---
+# Flore

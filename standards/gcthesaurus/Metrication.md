@@ -1,6 +1,11 @@
-# Metrication  
+---
+title: Metrication
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Metrication
 
-## Used For
-
-- [[13504 Metric system]]  
-
+usedFor:
+- "[[13504 Metric system]]"
+---
+# Metrication

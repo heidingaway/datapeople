@@ -1,6 +1,11 @@
-# Retraite  
+---
+title: Retraite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Retraite
 
-## French
-
-- [[17788 Retirement]]  
-
+french:
+- "[[17788 Retirement]]"
+---
+# Retraite

@@ -1,6 +1,11 @@
-# Stock exchanges  
+---
+title: Stock exchanges
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Stock exchanges
 
-## Used For
-
-- [[19403 Stock markets]]  
-
+usedFor:
+- "[[19403 Stock markets]]"
+---
+# Stock exchanges

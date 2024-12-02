@@ -1,6 +1,11 @@
-# Decorative plants  
+---
+title: Decorative plants
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Decorative plants
 
-## Used For
-
-- [[15119 Ornamental plants]]  
-
+usedFor:
+- "[[15119 Ornamental plants]]"
+---
+# Decorative plants

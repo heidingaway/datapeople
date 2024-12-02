@@ -1,6 +1,11 @@
-# Educational indicators  
+---
+title: Educational indicators
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Educational indicators
 
-## Used For
-
-- [[6066 Education indicators]]  
-
+usedFor:
+- "[[6066 Education indicators]]"
+---
+# Educational indicators

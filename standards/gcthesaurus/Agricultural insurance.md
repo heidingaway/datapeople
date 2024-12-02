@@ -1,6 +1,11 @@
-# Agricultural insurance  
-
-## Used For
-
-- [[4522 Crop insurance]]  
-
+---
+title: Agricultural insurance
+created: 2024-12-01
+modified: 2024-12-01
+tags:
+  - TBSMetadata
+alias: Agricultural insurance
+usedFor:
+  - "[[4522 Crop insurance]]"
+---
+# Agricultural insurance

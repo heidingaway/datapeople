@@ -1,6 +1,11 @@
-# Inhumation  
+---
+title: Inhumation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Inhumation
 
-## French
-
-- [[2482 Burials]]  
-
+french:
+- "[[2482 Burials]]"
+---
+# Inhumation

@@ -1,6 +1,11 @@
-# Prime de risque  
+---
+title: Prime de risque
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prime de risque
 
-## French
-
-- [[17851 Risk premiums]]  
-
+french:
+- "[[17851 Risk premiums]]"
+---
+# Prime de risque

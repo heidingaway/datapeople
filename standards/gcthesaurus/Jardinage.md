@@ -1,6 +1,11 @@
-# Jardinage  
+---
+title: Jardinage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Jardinage
 
-## French
-
-- [[8713 Gardening]]  
-
+french:
+- "[[8713 Gardening]]"
+---
+# Jardinage

@@ -1,6 +1,11 @@
-# Consommation  
+---
+title: Consommation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Consommation
 
-## French
-
-- [[4086 Consumerism]]  
-
+french:
+- "[[4086 Consumerism]]"
+---
+# Consommation

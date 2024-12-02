@@ -1,6 +1,11 @@
-# Writing skills  
+---
+title: Writing skills
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Writing skills
 
-## Used For
-
-- [[22061 Writing]]  
-
+usedFor:
+- "[[22061 Writing]]"
+---
+# Writing skills

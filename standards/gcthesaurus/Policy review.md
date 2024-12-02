@@ -1,10 +1,13 @@
-# Policy review  
+---
+title: Policy review
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Policy review
 
-## Related Term
-
-- [[15962 Policy]]  
-
-## Use
-
-- [[15969 Policy evaluation]]  
-
+relatedTerm:
+- "[[15962 Policy]]"
+use:
+- "[[15969 Policy evaluation]]"
+---
+# Policy review

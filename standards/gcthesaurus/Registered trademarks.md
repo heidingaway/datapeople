@@ -1,6 +1,11 @@
-# Registered trademarks  
+---
+title: Registered trademarks
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Registered trademarks
 
-## Used For
-
-- [[20451 Trademarks]]  
-
+usedFor:
+- "[[20451 Trademarks]]"
+---
+# Registered trademarks

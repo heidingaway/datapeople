@@ -1,10 +1,13 @@
-# Leasing  
+---
+title: Leasing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Leasing
 
-## Related Term
-
-- [[12239 Lease]]  
-
-## Use
-
-- [[17564 Renting]]  
-
+relatedTerm:
+- "[[12239 Lease]]"
+use:
+- "[[17564 Renting]]"
+---
+# Leasing

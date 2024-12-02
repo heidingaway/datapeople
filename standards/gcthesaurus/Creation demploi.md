@@ -1,6 +1,11 @@
-# Creation demploi  
+---
+title: Creation demploi
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Création d'emploi
 
-## French
-
-- [[11659 Job creation]]  
-
+french:
+- "[[11659 Job creation]]"
+---
+# Creation demploi

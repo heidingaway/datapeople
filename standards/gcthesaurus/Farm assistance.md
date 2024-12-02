@@ -1,6 +1,11 @@
-# Farm assistance  
+---
+title: Farm assistance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Farm assistance
 
-## Used For
-
-- [[468 Agricultural assistance]]  
-
+usedFor:
+- "[[468 Agricultural assistance]]"
+---
+# Farm assistance

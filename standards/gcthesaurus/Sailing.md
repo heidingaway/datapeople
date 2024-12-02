@@ -1,6 +1,11 @@
-# Sailing  
+---
+title: Sailing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sailing
 
-## Used For
-
-- [[14376 Navigation]]  
-
+usedFor:
+- "[[14376 Navigation]]"
+---
+# Sailing

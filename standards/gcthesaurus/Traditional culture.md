@@ -1,6 +1,11 @@
-# Traditional culture  
+---
+title: Traditional culture
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Traditional culture
 
-## Used For
-
-- [[16066 Popular culture]]  
-
+usedFor:
+- "[[16066 Popular culture]]"
+---
+# Traditional culture

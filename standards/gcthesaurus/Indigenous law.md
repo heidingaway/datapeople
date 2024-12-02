@@ -1,15 +1,16 @@
-# Indigenous law  
+---
+title: Indigenous law
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Indigenous law
 
-## Narrower Term
-
-- [[12155 Law]]  
-
-## Related Term
-
-- [[10713 Indigenous rights]
-- [[10690 Indigenous policing]]  
-
-## Use
-
-- [[46 Aboriginal law]]  
-
+narrowerTerm:
+- "[[12155 Law]]"
+relatedTerm:
+- "[[10713 Indigenous rights]]"
+- "[[10690 Indigenous policing]]"
+use:
+- "[[46 Aboriginal law]]"
+---
+# Indigenous law

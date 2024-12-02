@@ -1,6 +1,11 @@
-# Micrographie  
+---
+title: Micrographie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Micrographie
 
-## French
-
-- [[13545 Micrographics]]  
-
+french:
+- "[[13545 Micrographics]]"
+---
+# Micrographie

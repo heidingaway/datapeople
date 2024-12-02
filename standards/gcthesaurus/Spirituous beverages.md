@@ -1,6 +1,11 @@
-# Spirituous beverages  
+---
+title: Spirituous beverages
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Spirituous beverages
 
-## Used For
-
-- [[838 Alcoholic beverages]]  
-
+usedFor:
+- "[[838 Alcoholic beverages]]"
+---
+# Spirituous beverages

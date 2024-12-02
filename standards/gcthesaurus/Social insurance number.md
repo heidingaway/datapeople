@@ -1,6 +1,11 @@
-# Social insurance number  
+---
+title: Social insurance number
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Social insurance number
 
-## Related Term
-
-- [[18999 Social security]]  
-
+relatedTerm:
+- "[[18999 Social security]]"
+---
+# Social insurance number

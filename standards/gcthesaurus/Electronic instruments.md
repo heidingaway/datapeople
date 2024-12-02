@@ -1,6 +1,11 @@
-# Electronic instruments  
+---
+title: Electronic instruments
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electronic instruments
 
-## Used For
-
-- [[6309 Electronic equipment]]  
-
+usedFor:
+- "[[6309 Electronic equipment]]"
+---
+# Electronic instruments

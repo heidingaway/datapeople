@@ -1,15 +1,16 @@
-# Resources management  
+---
+title: Resources management
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Resources management
 
-## Broader Term
-
-- [[6657 Energy management]]  
-
-## Narrower Term
-
-- [[6928 Environmental management]]  
-
-## Related Term
-
-- [[14325 Natural resources]
-- [[17733 Resources conservation]]  
-
+broaderTerm:
+- "[[6657 Energy management]]"
+narrowerTerm:
+- "[[6928 Environmental management]]"
+relatedTerm:
+- "[[14325 Natural resources]]"
+- "[[17733 Resources conservation]]"
+---
+# Resources management

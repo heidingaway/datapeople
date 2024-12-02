@@ -1,6 +1,11 @@
-# Technologie nucleaire  
+---
+title: Technologie nucleaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Technologie nucléaire
 
-## French
-
-- [[14660 Nuclear technology]]  
-
+french:
+- "[[14660 Nuclear technology]]"
+---
+# Technologie nucleaire

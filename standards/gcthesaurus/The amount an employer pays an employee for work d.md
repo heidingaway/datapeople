@@ -1,6 +1,11 @@
-# The amount an employer pays an employee for work d  
+---
+title: The amount an employer pays an employee for work d
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: The amount an employer pays an employee for work done.
 
-## Scope Note
-
-- [[18077 Salaries]]  
-
+scopeNote:
+- "[[18077 Salaries]]"
+---
+# The amount an employer pays an employee for work d

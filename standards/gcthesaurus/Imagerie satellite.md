@@ -1,6 +1,11 @@
-# Imagerie satellite  
+---
+title: Imagerie satellite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Imagerie satellite
 
-## French
-
-- [[18151 Satellite imagery]]  
-
+french:
+- "[[18151 Satellite imagery]]"
+---
+# Imagerie satellite

@@ -1,6 +1,11 @@
-# Hydrometric station  
+---
+title: Hydrometric station
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hydrometric station
 
-## Narrower Term
-
-- [[10392 Hydrometry]]  
-
+narrowerTerm:
+- "[[10392 Hydrometry]]"
+---
+# Hydrometric station

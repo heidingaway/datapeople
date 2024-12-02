@@ -1,6 +1,11 @@
-# Edition  
+---
+title: Edition
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Édition
 
-## French
-
-- [[16935 Publishing]]  
-
+french:
+- "[[16935 Publishing]]"
+---
+# Edition

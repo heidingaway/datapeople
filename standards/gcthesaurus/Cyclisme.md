@@ -1,6 +1,11 @@
-# Cyclisme  
+---
+title: Cyclisme
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cyclisme
 
-## French
-
-- [[4781 Cycling]]  
-
+french:
+- "[[4781 Cycling]]"
+---
+# Cyclisme

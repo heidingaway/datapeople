@@ -1,6 +1,11 @@
-# Reptile  
+---
+title: Reptile
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Reptile
 
-## French
-
-- [[17620 Reptiles]]  
-
+french:
+- "[[17620 Reptiles]]"
+---
+# Reptile

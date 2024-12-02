@@ -1,6 +1,11 @@
-# Provinces du Centre  
+---
+title: Provinces du Centre
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Provinces du Centre
 
-## French
-
-- [[2940 Central provinces]]  
-
+french:
+- "[[2940 Central provinces]]"
+---
+# Provinces du Centre

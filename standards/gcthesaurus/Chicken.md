@@ -1,6 +1,11 @@
-# Chicken  
+---
+title: Chicken
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Chicken
 
-## Used For
-
-- [[16157 Poultry]]  
-
+usedFor:
+- "[[16157 Poultry]]"
+---
+# Chicken

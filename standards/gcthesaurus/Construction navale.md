@@ -1,6 +1,11 @@
-# Construction navale  
+---
+title: Construction navale
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Construction navale
 
-## French
-
-- [[18674 Shipbuilding]]  
-
+french:
+- "[[18674 Shipbuilding]]"
+---
+# Construction navale

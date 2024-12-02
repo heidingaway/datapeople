@@ -1,6 +1,11 @@
-# Pollution atmospherique  
+---
+title: Pollution atmospherique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pollution atmosphérique
 
-## French
-
-- [[637 Air pollution]]  
-
+french:
+- "[[637 Air pollution]]"
+---
+# Pollution atmospherique

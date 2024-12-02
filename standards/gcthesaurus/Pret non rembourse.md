@@ -1,6 +1,11 @@
-# Pret non rembourse  
+---
+title: Pret non rembourse
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prêt non remboursé
 
-## French
-
-- [[5017 Defaulted loans]]  
-
+french:
+- "[[5017 Defaulted loans]]"
+---
+# Pret non rembourse

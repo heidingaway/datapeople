@@ -1,7 +1,12 @@
-# Fishing area  
+---
+title: Fishing area
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fishing area
 
-## Related Term
-
-- [[7998 Fishing rights]
-- [[7916 Fisheries]]  
-
+relatedTerm:
+- "[[7998 Fishing rights]]"
+- "[[7916 Fisheries]]"
+---
+# Fishing area

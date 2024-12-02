@@ -1,6 +1,11 @@
-# Medical devices  
+---
+title: Medical devices
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Medical devices
 
-## Used For
-
-- [[13257 Medical products]]  
-
+usedFor:
+- "[[13257 Medical products]]"
+---
+# Medical devices

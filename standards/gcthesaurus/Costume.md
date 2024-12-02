@@ -1,10 +1,13 @@
-# Costume  
+---
+title: Costume
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Costume
 
-## French
-
-- [[4341 Costume]]  
-
-## Related Term
-
-- [[3381 Clothing]]  
-
+french:
+- "[[4341 Costume]]"
+relatedTerm:
+- "[[3381 Clothing]]"
+---
+# Costume

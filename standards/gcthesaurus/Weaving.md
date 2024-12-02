@@ -1,14 +1,15 @@
-# Weaving  
+---
+title: Weaving
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Weaving
 
-## Narrower Term
-
-- [[4414 Crafts]]  
-
-## Related Term
-
-- [[20141 Textiles]]  
-
-## Use
-
-- [[9461 Handspinning]]  
-
+narrowerTerm:
+- "[[4414 Crafts]]"
+relatedTerm:
+- "[[20141 Textiles]]"
+use:
+- "[[9461 Handspinning]]"
+---
+# Weaving

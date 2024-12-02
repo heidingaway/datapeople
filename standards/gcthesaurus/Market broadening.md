@@ -1,6 +1,11 @@
-# Market broadening  
+---
+title: Market broadening
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Market broadening
 
-## Used For
-
-- [[13058 Market development]]  
-
+usedFor:
+- "[[13058 Market development]]"
+---
+# Market broadening

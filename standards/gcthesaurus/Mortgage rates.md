@@ -1,6 +1,11 @@
-# Mortgage rates  
+---
+title: Mortgage rates
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mortgage rates
 
-## Used For
-
-- [[13925 Mortgage loans]]  
-
+usedFor:
+- "[[13925 Mortgage loans]]"
+---
+# Mortgage rates

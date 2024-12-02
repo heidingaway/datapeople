@@ -1,6 +1,11 @@
-# Companies  
+---
+title: Companies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Companies
 
-## Used For
-
-- [[4280 Corporations]]  
-
+usedFor:
+- "[[4280 Corporations]]"
+---
+# Companies

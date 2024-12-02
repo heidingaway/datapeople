@@ -1,6 +1,11 @@
-# Formation a distance  
+---
+title: Formation a distance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Formation à distance
 
-## French
-
-- [[5425 Distance education]]  
-
+french:
+- "[[5425 Distance education]]"
+---
+# Formation a distance

@@ -1,6 +1,11 @@
-# Public officials authorized to decide questions br  
+---
+title: Public officials authorized to decide questions br
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Public officials authorized to decide questions brought before a court.
 
-## Scope Note
-
-- [[11698 Judges]]  
-
+scopeNote:
+- "[[11698 Judges]]"
+---
+# Public officials authorized to decide questions br

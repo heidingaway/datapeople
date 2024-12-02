@@ -1,6 +1,11 @@
-# Centre demploi  
+---
+title: Centre demploi
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Centre d'emploi
 
-## French
-
-- [[6521 Employment centres]]  
-
+french:
+- "[[6521 Employment centres]]"
+---
+# Centre demploi

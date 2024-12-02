@@ -1,6 +1,11 @@
-# Casino  
+---
+title: Casino
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Casino
 
-## French
-
-- [[2837 Casinos]]  
-
+french:
+- "[[2837 Casinos]]"
+---
+# Casino

@@ -1,6 +1,11 @@
-# Telecare  
+---
+title: Telecare
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Telecare
 
-## Used For
-
-- [[19950 Telehealth]]  
-
+usedFor:
+- "[[19950 Telehealth]]"
+---
+# Telecare

@@ -1,6 +1,11 @@
-# Rongeur  
+---
+title: Rongeur
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rongeur
 
-## French
-
-- [[17938 Rodents]]  
-
+french:
+- "[[17938 Rodents]]"
+---
+# Rongeur

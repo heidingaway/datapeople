@@ -1,6 +1,11 @@
-# Chemical substances  
+---
+title: Chemical substances
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Chemical substances
 
-## Used For
-
-- [[3053 Chemicals]]  
-
+usedFor:
+- "[[3053 Chemicals]]"
+---
+# Chemical substances

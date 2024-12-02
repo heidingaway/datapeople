@@ -1,6 +1,11 @@
-# Composition of the population  
+---
+title: Composition of the population
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Composition of the population
 
-## Used For
-
-- [[16083 Population distribution]]  
-
+usedFor:
+- "[[16083 Population distribution]]"
+---
+# Composition of the population

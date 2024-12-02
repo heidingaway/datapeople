@@ -1,6 +1,11 @@
-# Paper industry  
+---
+title: Paper industry
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Paper industry
 
-## Used For
-
-- [[16954 Pulp and paper industry]]  
-
+usedFor:
+- "[[16954 Pulp and paper industry]]"
+---
+# Paper industry

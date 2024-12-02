@@ -1,7 +1,12 @@
-# Real property services  
+---
+title: Real property services
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Real property services
 
-## Related Term
-
-- [[16623 Property]
-- [[17241 Real estate]]  
-
+relatedTerm:
+- "[[16623 Property]]"
+- "[[17241 Real estate]]"
+---
+# Real property services

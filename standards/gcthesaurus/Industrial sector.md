@@ -1,6 +1,11 @@
-# Industrial sector  
+---
+title: Industrial sector
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrial sector
 
-## Used For
-
-- [[10853 Industry]]  
-
+usedFor:
+- "[[10853 Industry]]"
+---
+# Industrial sector

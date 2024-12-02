@@ -1,6 +1,11 @@
-# Reboisement  
+---
+title: Reboisement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Reboisement
 
-## French
-
-- [[17406 Reforestation]]  
-
+french:
+- "[[17406 Reforestation]]"
+---
+# Reboisement

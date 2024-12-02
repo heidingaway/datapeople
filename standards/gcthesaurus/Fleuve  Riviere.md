@@ -1,6 +1,11 @@
-# Fleuve  Riviere  
+---
+title: Fleuve  Riviere
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fleuve / Rivière
 
-## French
-
-- [[17860 Rivers]]  
-
+french:
+- "[[17860 Rivers]]"
+---
+# Fleuve  Riviere

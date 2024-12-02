@@ -1,15 +1,16 @@
-# Coal  
+---
+title: Coal
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Coal
 
-## Narrower Term
-
-- [[8577 Fuels]
-- [[13718 Minerals]]  
-
-## Related Term
-
-- [[13746 Mining industry]]  
-
-## Use
-
-- [[2282 Bituminous coal]]  
-
+narrowerTerm:
+- "[[8577 Fuels]]"
+- "[[13718 Minerals]]"
+relatedTerm:
+- "[[13746 Mining industry]]"
+use:
+- "[[2282 Bituminous coal]]"
+---
+# Coal

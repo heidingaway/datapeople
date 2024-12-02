@@ -1,6 +1,11 @@
-# Videodiscs  
+---
+title: Videodiscs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Videodiscs
 
-## Used For
-
-- [[21006 Videorecordings]]  
-
+usedFor:
+- "[[21006 Videorecordings]]"
+---
+# Videodiscs

@@ -1,6 +1,11 @@
-# Taux de change  
+---
+title: Taux de change
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Taux de change
 
-## French
-
-- [[7215 Exchange rates]]  
-
+french:
+- "[[7215 Exchange rates]]"
+---
+# Taux de change

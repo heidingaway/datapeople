@@ -1,10 +1,13 @@
-# Public architecture  
+---
+title: Public architecture
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Public architecture
 
-## Narrower Term
-
-- [[1371 Architecture]]  
-
-## Related Term
-
-- [[16789 Public buildings]]  
-
+narrowerTerm:
+- "[[1371 Architecture]]"
+relatedTerm:
+- "[[16789 Public buildings]]"
+---
+# Public architecture

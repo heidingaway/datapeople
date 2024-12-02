@@ -1,6 +1,11 @@
-# Opinion publique  
+---
+title: Opinion publique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Opinion publique
 
-## French
-
-- [[16846 Public opinion]]  
-
+french:
+- "[[16846 Public opinion]]"
+---
+# Opinion publique

@@ -1,6 +1,11 @@
-# Parc  
+---
+title: Parc
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Parc
 
-## French
-
-- [[15278 Parks]]  
-
+french:
+- "[[15278 Parks]]"
+---
+# Parc

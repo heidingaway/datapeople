@@ -1,6 +1,11 @@
-# Voyage international  
+---
+title: Voyage international
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Voyage international
 
-## French
-
-- [[11455 International travel]]  
-
+french:
+- "[[11455 International travel]]"
+---
+# Voyage international

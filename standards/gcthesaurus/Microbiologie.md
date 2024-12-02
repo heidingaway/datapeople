@@ -1,6 +1,11 @@
-# Microbiologie  
+---
+title: Microbiologie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Microbiologie
 
-## French
-
-- [[13520 Microbiology]]  
-
+french:
+- "[[13520 Microbiology]]"
+---
+# Microbiologie

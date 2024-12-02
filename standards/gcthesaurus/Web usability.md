@@ -1,6 +1,11 @@
-# Web usability  
+---
+title: Web usability
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Web usability
 
-## Narrower Term
-
-- [[21644 Websites]]  
-
+narrowerTerm:
+- "[[21644 Websites]]"
+---
+# Web usability

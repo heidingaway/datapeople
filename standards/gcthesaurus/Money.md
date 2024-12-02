@@ -1,6 +1,11 @@
-# Money  
+---
+title: Money
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Money
 
-## Used For
-
-- [[4733 Currency]]  
-
+usedFor:
+- "[[4733 Currency]]"
+---
+# Money

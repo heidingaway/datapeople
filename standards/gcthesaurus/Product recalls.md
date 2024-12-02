@@ -1,7 +1,12 @@
-# Product recalls  
+---
+title: Product recalls
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Product recalls
 
-## Related Term
-
-- [[16505 Products]
-- [[18044 Safety measures]]  
-
+relatedTerm:
+- "[[16505 Products]]"
+- "[[18044 Safety measures]]"
+---
+# Product recalls

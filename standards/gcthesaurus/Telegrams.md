@@ -1,6 +1,11 @@
-# Telegrams  
+---
+title: Telegrams
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Telegrams
 
-## Used For
-
-- [[19943 Telegraph]]  
-
+usedFor:
+- "[[19943 Telegraph]]"
+---
+# Telegrams

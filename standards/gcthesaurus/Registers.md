@@ -1,6 +1,11 @@
-# Registers  
+---
+title: Registers
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Registers
 
-## Related Term
-
-- [[2848 Catalogues]]  
-
+relatedTerm:
+- "[[2848 Catalogues]]"
+---
+# Registers

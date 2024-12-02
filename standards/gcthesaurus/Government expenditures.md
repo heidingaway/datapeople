@@ -1,6 +1,11 @@
-# Government expenditures  
+---
+title: Government expenditures
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Government expenditures
 
-## Used For
-
-- [[16805 Public expenditures]]  
-
+usedFor:
+- "[[16805 Public expenditures]]"
+---
+# Government expenditures

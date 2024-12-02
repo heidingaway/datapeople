@@ -1,6 +1,11 @@
-# Industrial facilities  
+---
+title: Industrial facilities
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrial facilities
 
-## Used For
-
-- [[10736 Industrial buildings]]  
-
+usedFor:
+- "[[10736 Industrial buildings]]"
+---
+# Industrial facilities

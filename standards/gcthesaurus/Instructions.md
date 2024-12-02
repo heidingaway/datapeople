@@ -1,6 +1,11 @@
-# Instructions  
+---
+title: Instructions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Instructions
 
-## Used For
-
-- [[6022 Education]]  
-
+usedFor:
+- "[[6022 Education]]"
+---
+# Instructions

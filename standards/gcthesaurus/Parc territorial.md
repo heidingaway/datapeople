@@ -1,6 +1,11 @@
-# Parc territorial  
+---
+title: Parc territorial
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Parc territorial
 
-## French
-
-- [[20076 Territorial parks]]  
-
+french:
+- "[[20076 Territorial parks]]"
+---
+# Parc territorial

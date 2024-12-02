@@ -1,6 +1,11 @@
-# Geological studies  
+---
+title: Geological studies
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geological studies
 
-## Used For
-
-- [[8978 Geology]]  
-
+usedFor:
+- "[[8978 Geology]]"
+---
+# Geological studies

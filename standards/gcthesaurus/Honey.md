@@ -1,10 +1,13 @@
-# Honey  
+---
+title: Honey
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Honey
 
-## Narrower Term
-
-- [[445 Agri-food products]]  
-
-## Related Term
-
-- [[1924 Beekeeping]]  
-
+narrowerTerm:
+- "[[445 Agri-food products]]"
+relatedTerm:
+- "[[1924 Beekeeping]]"
+---
+# Honey

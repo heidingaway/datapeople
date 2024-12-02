@@ -1,6 +1,11 @@
-# Cultures maraicheres  
+---
+title: Cultures maraicheres
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cultures maraîchères
 
-## French
-
-- [[20893 Vegetable crops]]  
-
+french:
+- "[[20893 Vegetable crops]]"
+---
+# Cultures maraicheres

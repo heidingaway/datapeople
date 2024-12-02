@@ -1,6 +1,11 @@
-# Epreuve biologique  
+---
+title: Epreuve biologique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Épreuve biologique
 
-## French
-
-- [[2073 Bioassay]]  
-
+french:
+- "[[2073 Bioassay]]"
+---
+# Epreuve biologique

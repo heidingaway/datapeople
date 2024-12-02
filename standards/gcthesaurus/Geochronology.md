@@ -1,10 +1,13 @@
-# Geochronology  
+---
+title: Geochronology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Geochronology
 
-## Narrower Term
-
-- [[5767 Earth sciences]]  
-
-## Use
-
-- [[369 Age of rocks]]  
-
+narrowerTerm:
+- "[[5767 Earth sciences]]"
+use:
+- "[[369 Age of rocks]]"
+---
+# Geochronology

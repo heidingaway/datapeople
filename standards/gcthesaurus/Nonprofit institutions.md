@@ -1,6 +1,11 @@
-# Nonprofit institutions  
+---
+title: Nonprofit institutions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Non-profit institutions
 
-## Used For
-
-- [[14476 Non-profit organizations]]  
-
+usedFor:
+- "[[14476 Non-profit organizations]]"
+---
+# Nonprofit institutions

@@ -1,6 +1,11 @@
-# Droit du travail  
+---
+title: Droit du travail
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Droit du travail
 
-## French
-
-- [[11889 Labour law]]  
-
+french:
+- "[[11889 Labour law]]"
+---
+# Droit du travail

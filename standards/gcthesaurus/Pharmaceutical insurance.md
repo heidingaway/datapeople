@@ -1,6 +1,11 @@
-# Pharmaceutical insurance  
+---
+title: Pharmaceutical insurance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pharmaceutical insurance
 
-## Used For
-
-- [[5649 Drug insurance]]  
-
+usedFor:
+- "[[5649 Drug insurance]]"
+---
+# Pharmaceutical insurance

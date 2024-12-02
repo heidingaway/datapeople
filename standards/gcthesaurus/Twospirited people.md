@@ -1,6 +1,11 @@
-# Twospirited people  
+---
+title: Twospirited people
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Two-spirited people
 
-## Used For
-
-- [[20747 Two-spirit people]]  
-
+usedFor:
+- "[[20747 Two-spirit people]]"
+---
+# Twospirited people

@@ -1,6 +1,11 @@
-# Bulletin  
+---
+title: Bulletin
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Bulletin
 
-## French
-
-- [[14438 Newsletters]]  
-
+french:
+- "[[14438 Newsletters]]"
+---
+# Bulletin

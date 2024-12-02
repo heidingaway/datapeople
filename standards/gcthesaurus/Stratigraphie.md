@@ -1,6 +1,11 @@
-# Stratigraphie  
+---
+title: Stratigraphie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Stratigraphie
 
-## French
-
-- [[19435 Stratigraphy]]  
-
+french:
+- "[[19435 Stratigraphy]]"
+---
+# Stratigraphie

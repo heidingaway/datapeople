@@ -1,6 +1,11 @@
-# Droit commercial  
+---
+title: Droit commercial
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Droit commercial
 
-## French
-
-- [[3579 Commercial law]]  
-
+french:
+- "[[3579 Commercial law]]"
+---
+# Droit commercial

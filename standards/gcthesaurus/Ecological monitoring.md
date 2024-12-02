@@ -1,6 +1,11 @@
-# Ecological monitoring  
+---
+title: Ecological monitoring
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ecological monitoring
 
-## Used For
-
-- [[6919 Environmental management]]  
-
+usedFor:
+- "[[6919 Environmental management]]"
+---
+# Ecological monitoring

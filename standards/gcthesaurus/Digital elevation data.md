@@ -1,6 +1,11 @@
-# Digital elevation data  
+---
+title: Digital elevation data
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Digital elevation data
 
-## Narrower Term
-
-- [[17522 Remote sensing]]  
-
+narrowerTerm:
+- "[[17522 Remote sensing]]"
+---
+# Digital elevation data

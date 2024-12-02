@@ -1,6 +1,11 @@
-# Cablodistribution  
+---
+title: Cablodistribution
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Câblodistribution
 
-## French
-
-- [[2648 Cable television]]  
-
+french:
+- "[[2648 Cable television]]"
+---
+# Cablodistribution

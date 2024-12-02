@@ -1,6 +1,11 @@
-# Industrie forestiere  
+---
+title: Industrie forestiere
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrie forestière
 
-## French
-
-- [[8362 Forestry industry]]  
-
+french:
+- "[[8362 Forestry industry]]"
+---
+# Industrie forestiere

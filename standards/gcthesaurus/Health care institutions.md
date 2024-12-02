@@ -1,6 +1,11 @@
-# Health care institutions  
+---
+title: Health care institutions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Health care institutions
 
-## Used For
-
-- [[9610 Health care facilities]]  
-
+usedFor:
+- "[[9610 Health care facilities]]"
+---
+# Health care institutions

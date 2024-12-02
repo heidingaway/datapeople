@@ -1,7 +1,12 @@
-# Profiles  
+---
+title: Profiles
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Profiles
 
-## Narrower Term
-
-- [[15111 Organizations]
-- [[2596 Businesses]]  
-
+narrowerTerm:
+- "[[15111 Organizations]]"
+- "[[2596 Businesses]]"
+---
+# Profiles

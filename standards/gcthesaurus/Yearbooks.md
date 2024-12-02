@@ -1,6 +1,11 @@
-# Yearbooks  
+---
+title: Yearbooks
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Yearbooks
 
-## Related Term
-
-- [[885 Almanacs]]  
-
+relatedTerm:
+- "[[885 Almanacs]]"
+---
+# Yearbooks

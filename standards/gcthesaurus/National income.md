@@ -1,17 +1,18 @@
-# National income  
+---
+title: National income
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: National income
 
-## Narrower Term
-
-- [[10561 Income]]  
-
-## Related Term
-
-- [[16818 Public finance]
-- [[16809 Public expenditures]
-- [[9384 Gross national product]
-- [[17256 Receiver General]]  
-
-## Use
-
-- [[7602 Federal revenues]]  
-
+narrowerTerm:
+- "[[10561 Income]]"
+relatedTerm:
+- "[[16818 Public finance]]"
+- "[[16809 Public expenditures]]"
+- "[[9384 Gross national product]]"
+- "[[17256 Receiver General]]"
+use:
+- "[[7602 Federal revenues]]"
+---
+# National income

@@ -1,12 +1,15 @@
-# Preschool education  
+---
+title: Preschool education
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Preschool education
 
-## Narrower Term
-
-- [[6038 Education]]  
-
-## Use
-
-- [[5752 Early childhood education]
-- [[11748 Kindergarten]
-- [[14684 Nursery schools]]  
-
+narrowerTerm:
+- "[[6038 Education]]"
+use:
+- "[[5752 Early childhood education]]"
+- "[[11748 Kindergarten]]"
+- "[[14684 Nursery schools]]"
+---
+# Preschool education

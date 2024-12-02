@@ -1,6 +1,11 @@
-# Diamant  
+---
+title: Diamant
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Diamant
 
-## French
-
-- [[5213 Diamonds]]  
-
+french:
+- "[[5213 Diamonds]]"
+---
+# Diamant

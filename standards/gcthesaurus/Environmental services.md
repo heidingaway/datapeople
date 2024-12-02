@@ -1,8 +1,13 @@
-# Environmental services  
+---
+title: Environmental services
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Environmental services
 
-## Related Term
-
-- [[6936 Environmental management]
-- [[6796 Environment]
-- [[6844 Environmental economics]]  
-
+relatedTerm:
+- "[[6936 Environmental management]]"
+- "[[6796 Environment]]"
+- "[[6844 Environmental economics]]"
+---
+# Environmental services

@@ -1,6 +1,11 @@
-# Statistical data  
+---
+title: Statistical data
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Statistical data
 
-## Used For
-
-- [[19346 Statistics]]  
-
+usedFor:
+- "[[19346 Statistics]]"
+---
+# Statistical data

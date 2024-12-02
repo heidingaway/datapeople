@@ -1,6 +1,11 @@
-# Experimentation  
+---
+title: Experimentation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Expérimentation
 
-## French
-
-- [[7264 Experiments]]  
-
+french:
+- "[[7264 Experiments]]"
+---
+# Experimentation

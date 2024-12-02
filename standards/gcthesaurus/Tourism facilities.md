@@ -1,11 +1,14 @@
-# Tourism facilities  
+---
+title: Tourism facilities
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tourism facilities
 
-## Related Term
-
-- [[10087 Hospitality industry]
-- [[20281 Tourism]]  
-
-## Use
-
-- [[20294 Tourism infrastructure]]  
-
+relatedTerm:
+- "[[10087 Hospitality industry]]"
+- "[[20281 Tourism]]"
+use:
+- "[[20294 Tourism infrastructure]]"
+---
+# Tourism facilities

@@ -1,14 +1,15 @@
-# Second language education  
+---
+title: Second language education
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Second language education
 
-## Narrower Term
-
-- [[12065 Language education]]  
-
-## Related Term
-
-- [[18400 Second languages]]  
-
-## Use
-
-- [[18391 Second language teaching]]  
-
+narrowerTerm:
+- "[[12065 Language education]]"
+relatedTerm:
+- "[[18400 Second languages]]"
+use:
+- "[[18391 Second language teaching]]"
+---
+# Second language education

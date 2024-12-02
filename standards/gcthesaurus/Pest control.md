@@ -1,6 +1,11 @@
-# Pest control  
+---
+title: Pest control
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pest control
 
-## Used For
-
-- [[15618 Pesticides]]  
-
+usedFor:
+- "[[15618 Pesticides]]"
+---
+# Pest control

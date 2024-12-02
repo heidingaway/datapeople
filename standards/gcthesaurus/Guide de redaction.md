@@ -1,6 +1,11 @@
-# Guide de redaction  
+---
+title: Guide de redaction
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Guide de rédaction
 
-## French
-
-- [[19484 Style manuals]]  
-
+french:
+- "[[19484 Style manuals]]"
+---
+# Guide de redaction

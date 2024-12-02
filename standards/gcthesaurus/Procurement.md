@@ -1,6 +1,11 @@
-# Procurement  
+---
+title: Procurement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Procurement
 
-## Used For
-
-- [[16972 Purchasing]]  
-
+usedFor:
+- "[[16972 Purchasing]]"
+---
+# Procurement

@@ -1,6 +1,11 @@
-# Entree au Canada  
+---
+title: Entree au Canada
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Entrée au Canada
 
-## French
-
-- [[6772 Entry to Canada]]  
-
+french:
+- "[[6772 Entry to Canada]]"
+---
+# Entree au Canada

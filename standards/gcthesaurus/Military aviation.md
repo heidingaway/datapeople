@@ -1,14 +1,15 @@
-# Military aviation  
+---
+title: Military aviation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Military aviation
 
-## Narrower Term
-
-- [[1785 Aviation]]  
-
-## Related Term
-
-- [[13600 Military aircraft]]  
-
-## Use
-
-- [[13596 Military aeronautics]]  
-
+narrowerTerm:
+- "[[1785 Aviation]]"
+relatedTerm:
+- "[[13600 Military aircraft]]"
+use:
+- "[[13596 Military aeronautics]]"
+---
+# Military aviation

@@ -1,6 +1,11 @@
-# Renseignement de securite  
+---
+title: Renseignement de securite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Renseignement de sécurité
 
-## French
-
-- [[18451 Security intelligence]]  
-
+french:
+- "[[18451 Security intelligence]]"
+---
+# Renseignement de securite

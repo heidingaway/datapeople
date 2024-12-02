@@ -1,6 +1,11 @@
-# Norme relative a lenvironnement  
+---
+title: Norme relative a lenvironnement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Norme relative à l'environnement
 
-## French
-
-- [[7004 Environmental standards]]  
-
+french:
+- "[[7004 Environmental standards]]"
+---
+# Norme relative a lenvironnement

@@ -1,6 +1,11 @@
-# Philosophy  
+---
+title: Philosophy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Philosophy
 
-## Narrower Term
-
-- [[10277 Humanities]]  
-
+narrowerTerm:
+- "[[10277 Humanities]]"
+---
+# Philosophy

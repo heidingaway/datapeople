@@ -1,14 +1,15 @@
-# Obesity  
+---
+title: Obesity
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Obesity
 
-## Narrower Term
-
-- [[5396 Diseases]]  
-
-## Related Term
-
-- [[14709 Nutrition]]  
-
-## Use
-
-- [[15171 Overweight]]  
-
+narrowerTerm:
+- "[[5396 Diseases]]"
+relatedTerm:
+- "[[14709 Nutrition]]"
+use:
+- "[[15171 Overweight]]"
+---
+# Obesity

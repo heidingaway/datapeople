@@ -1,6 +1,11 @@
-# Cellule  
+---
+title: Cellule
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cellule
 
-## French
-
-- [[2894 Cells]]  
-
+french:
+- "[[2894 Cells]]"
+---
+# Cellule

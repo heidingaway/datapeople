@@ -1,6 +1,11 @@
-# Court appearances  
+---
+title: Court appearances
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Court appearances
 
-## Related Term
-
-- [[11725 Justice system]]  
-
+relatedTerm:
+- "[[11725 Justice system]]"
+---
+# Court appearances

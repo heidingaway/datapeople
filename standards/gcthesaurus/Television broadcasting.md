@@ -1,6 +1,11 @@
-# Television broadcasting  
+---
+title: Television broadcasting
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Television broadcasting
 
-## Used For
-
-- [[2422 Broadcasting]]  
-
+usedFor:
+- "[[2422 Broadcasting]]"
+---
+# Television broadcasting

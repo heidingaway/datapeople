@@ -1,6 +1,11 @@
-# Espece envahissante  
+---
+title: Espece envahissante
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Espèce envahissante
 
-## French
-
-- [[11559 Invasive species]]  
-
+french:
+- "[[11559 Invasive species]]"
+---
+# Espece envahissante

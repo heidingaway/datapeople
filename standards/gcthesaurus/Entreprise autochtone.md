@@ -1,6 +1,11 @@
-# Entreprise autochtone  
+---
+title: Entreprise autochtone
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Entreprise autochtone
 
-## French
-
-- [[10634 Indigenous businesses]]  
-
+french:
+- "[[10634 Indigenous businesses]]"
+---
+# Entreprise autochtone

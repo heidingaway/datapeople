@@ -1,6 +1,11 @@
-# Sediment  
+---
+title: Sediment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sédiment
 
-## French
-
-- [[18474 Sediments]]  
-
+french:
+- "[[18474 Sediments]]"
+---
+# Sediment

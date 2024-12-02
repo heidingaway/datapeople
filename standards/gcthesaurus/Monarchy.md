@@ -1,7 +1,12 @@
-# Monarchy  
+---
+title: Monarchy
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Monarchy
 
-## Related Term
-
-- [[12409 Lieutenant Governor]
-- [[9273 Governor General]]  
-
+relatedTerm:
+- "[[12409 Lieutenant Governor]]"
+- "[[9273 Governor General]]"
+---
+# Monarchy

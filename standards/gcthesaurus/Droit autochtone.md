@@ -1,6 +1,11 @@
-# Droit autochtone  
+---
+title: Droit autochtone
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Droit autochtone
 
-## French
-
-- [[10667 Indigenous law]]  
-
+french:
+- "[[10667 Indigenous law]]"
+---
+# Droit autochtone

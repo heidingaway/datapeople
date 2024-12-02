@@ -1,6 +1,11 @@
-# Caricatures  
+---
+title: Caricatures
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Caricatures
 
-## Used For
-
-- [[10297 Humour]]  
-
+usedFor:
+- "[[10297 Humour]]"
+---
+# Caricatures

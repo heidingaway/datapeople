@@ -1,6 +1,11 @@
-# Grain  
+---
+title: Grain
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Grain
 
-## French
-
-- [[9289 Grains]]  
-
+french:
+- "[[9289 Grains]]"
+---
+# Grain

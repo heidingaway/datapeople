@@ -1,6 +1,11 @@
-# Etudiant etranger  
+---
+title: Etudiant etranger
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Étudiant étranger
 
-## French
-
-- [[8270 Foreign students]]  
-
+french:
+- "[[8270 Foreign students]]"
+---
+# Etudiant etranger

@@ -1,6 +1,11 @@
-# Fishing Commercial  
+---
+title: Fishing Commercial
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fishing (Commercial)
 
-## Used For
-
-- [[7906 Fisheries]]  
-
+usedFor:
+- "[[7906 Fisheries]]"
+---
+# Fishing Commercial

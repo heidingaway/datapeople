@@ -1,6 +1,11 @@
-# Soil classification  
+---
+title: Soil classification
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Soil classification
 
-## Used For
-
-- [[19107 Soil taxonomy]]  
-
+usedFor:
+- "[[19107 Soil taxonomy]]"
+---
+# Soil classification

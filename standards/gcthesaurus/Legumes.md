@@ -1,16 +1,17 @@
-# Legumes  
+---
+title: Legumes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Legumes
 
-## Broader Term
-
-- [[1907 Beans]
-- [[15420 Peas]
-- [[12353 Lentils]]  
-
-## Narrower Term
-
-- [[446 Agri-food products]]  
-
-## Use
-
-- [[5567 Dried legumes]]  
-
+broaderTerm:
+- "[[1907 Beans]]"
+- "[[15420 Peas]]"
+- "[[12353 Lentils]]"
+narrowerTerm:
+- "[[446 Agri-food products]]"
+use:
+- "[[5567 Dried legumes]]"
+---
+# Legumes

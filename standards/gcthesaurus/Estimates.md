@@ -1,8 +1,13 @@
-# Estimates  
+---
+title: Estimates
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Estimates
 
-## Related Term
-
-- [[7254 Expenditure management]
-- [[16808 Public expenditures]
-- [[2450 Budgets]]  
-
+relatedTerm:
+- "[[7254 Expenditure management]]"
+- "[[16808 Public expenditures]]"
+- "[[2450 Budgets]]"
+---
+# Estimates

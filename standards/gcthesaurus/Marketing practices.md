@@ -1,6 +1,11 @@
-# Marketing practices  
+---
+title: Marketing practices
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Marketing practices
 
-## Used For
-
-- [[13086 Marketing]]  
-
+usedFor:
+- "[[13086 Marketing]]"
+---
+# Marketing practices

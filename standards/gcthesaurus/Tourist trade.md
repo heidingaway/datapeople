@@ -1,6 +1,11 @@
-# Tourist trade  
+---
+title: Tourist trade
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Tourist trade
 
-## Used For
-
-- [[20275 Tourism]]  
-
+usedFor:
+- "[[20275 Tourism]]"
+---
+# Tourist trade

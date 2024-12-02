@@ -1,6 +1,11 @@
-# Electronic administration  
+---
+title: Electronic administration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Electronic administration
 
-## Used For
-
-- [[6325 Electronic government]]  
-
+usedFor:
+- "[[6325 Electronic government]]"
+---
+# Electronic administration

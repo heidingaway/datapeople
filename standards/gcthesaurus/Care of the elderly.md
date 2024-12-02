@@ -1,6 +1,11 @@
-# Care of the elderly  
+---
+title: Care of the elderly
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Care of the elderly
 
-## Used For
-
-- [[6146 Elderly care]]  
-
+usedFor:
+- "[[6146 Elderly care]]"
+---
+# Care of the elderly

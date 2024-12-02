@@ -1,6 +1,11 @@
-# Politique de defense  
+---
+title: Politique de defense
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Politique de défense
 
-## French
-
-- [[5026 Defence policy]]  
-
+french:
+- "[[5026 Defence policy]]"
+---
+# Politique de defense

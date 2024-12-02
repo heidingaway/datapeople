@@ -1,6 +1,11 @@
-# Career counseling  
+---
+title: Career counseling
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Career counseling
 
-## Used For
-
-- [[21154 Vocational guidance]]  
-
+usedFor:
+- "[[21154 Vocational guidance]]"
+---
+# Career counseling

@@ -1,6 +1,11 @@
-# Conglomerat  
+---
+title: Conglomerat
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conglomérat
 
-## French
-
-- [[3946 Conglomerates]]  
-
+french:
+- "[[3946 Conglomerates]]"
+---
+# Conglomerat

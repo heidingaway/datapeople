@@ -1,6 +1,11 @@
-# Food contamination  
+---
+title: Food contamination
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Food contamination
 
-## Used For
-
-- [[8166 Food safety]]  
-
+usedFor:
+- "[[8166 Food safety]]"
+---
+# Food contamination

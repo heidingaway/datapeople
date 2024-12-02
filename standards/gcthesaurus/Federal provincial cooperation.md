@@ -1,6 +1,11 @@
-# Federal provincial cooperation  
+---
+title: Federal provincial cooperation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Federal provincial cooperation
 
-## Used For
-
-- [[7588 Federal provincial relations]]  
-
+usedFor:
+- "[[7588 Federal provincial relations]]"
+---
+# Federal provincial cooperation

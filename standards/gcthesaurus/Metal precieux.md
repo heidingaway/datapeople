@@ -1,6 +1,11 @@
-# Metal precieux  
+---
+title: Metal precieux
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Métal précieux
 
-## French
-
-- [[16202 Precious metals]]  
-
+french:
+- "[[16202 Precious metals]]"
+---
+# Metal precieux

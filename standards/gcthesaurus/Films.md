@@ -1,6 +1,11 @@
-# Films  
+---
+title: Films
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Films
 
-## Used For
-
-- [[3217 Cinema]]  
-
+usedFor:
+- "[[3217 Cinema]]"
+---
+# Films

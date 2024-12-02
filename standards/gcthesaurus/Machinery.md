@@ -1,6 +1,11 @@
-# Machinery  
+---
+title: Machinery
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Machinery
 
-## Used For
-
-- [[7081 Equipment]]  
-
+usedFor:
+- "[[7081 Equipment]]"
+---
+# Machinery

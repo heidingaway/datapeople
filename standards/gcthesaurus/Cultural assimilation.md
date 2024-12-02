@@ -1,6 +1,11 @@
-# Cultural assimilation  
+---
+title: Cultural assimilation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cultural assimilation
 
-## Used For
-
-- [[154 Acculturation]]  
-
+usedFor:
+- "[[154 Acculturation]]"
+---
+# Cultural assimilation

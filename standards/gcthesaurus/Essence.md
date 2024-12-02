@@ -1,6 +1,11 @@
-# Essence  
+---
+title: Essence
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Essence
 
-## French
-
-- [[8740 Gasoline]]  
-
+french:
+- "[[8740 Gasoline]]"
+---
+# Essence

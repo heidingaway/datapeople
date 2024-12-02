@@ -1,6 +1,11 @@
-# Homeopathie  
+---
+title: Homeopathie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Homéopathie
 
-## French
-
-- [[10048 Homeopathy]]  
-
+french:
+- "[[10048 Homeopathy]]"
+---
+# Homeopathie

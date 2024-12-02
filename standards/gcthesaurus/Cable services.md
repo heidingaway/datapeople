@@ -1,6 +1,11 @@
-# Cable services  
+---
+title: Cable services
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cable services
 
-## Used For
-
-- [[2651 Cable television]]  
-
+usedFor:
+- "[[2651 Cable television]]"
+---
+# Cable services

@@ -1,6 +1,11 @@
-# Motor coaches  
+---
+title: Motor coaches
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Motor coaches
 
-## Used For
-
-- [[2491 Buses]]  
-
+usedFor:
+- "[[2491 Buses]]"
+---
+# Motor coaches

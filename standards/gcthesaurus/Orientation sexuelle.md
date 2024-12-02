@@ -1,6 +1,11 @@
-# Orientation sexuelle  
+---
+title: Orientation sexuelle
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Orientation sexuelle
 
-## French
-
-- [[18642 Sexual orientation]]  
-
+french:
+- "[[18642 Sexual orientation]]"
+---
+# Orientation sexuelle

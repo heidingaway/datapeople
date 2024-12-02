@@ -1,6 +1,11 @@
-# Terres autochtones  
+---
+title: Terres autochtones
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Terres autochtones
 
-## French
-
-- [[10654 Indigenous lands]]  
-
+french:
+- "[[10654 Indigenous lands]]"
+---
+# Terres autochtones

@@ -1,7 +1,12 @@
-# Copyright clearance  
+---
+title: Copyright clearance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Copyright clearance
 
-## Related Term
-
-- [[16942 Publishing]
-- [[4214 Copyright]]  
-
+relatedTerm:
+- "[[16942 Publishing]]"
+- "[[4214 Copyright]]"
+---
+# Copyright clearance

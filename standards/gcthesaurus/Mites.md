@@ -1,6 +1,11 @@
-# Mites  
+---
+title: Mites
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mites
 
-## Used For
-
-- [[1320 Arachnids]]  
-
+usedFor:
+- "[[1320 Arachnids]]"
+---
+# Mites

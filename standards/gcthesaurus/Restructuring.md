@@ -1,10 +1,13 @@
-# Restructuring  
+---
+title: Restructuring
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Restructuring
 
-## Related Term
-
-- [[20560 Transformation]]  
-
-## Use
-
-- [[17396 Redeployment]]  
-
+relatedTerm:
+- "[[20560 Transformation]]"
+use:
+- "[[17396 Redeployment]]"
+---
+# Restructuring

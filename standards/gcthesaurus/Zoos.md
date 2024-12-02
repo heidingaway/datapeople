@@ -1,6 +1,11 @@
-# Zoos  
+---
+title: Zoos
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Zoos
 
-## Used For
-
-- [[22124 Zoological gardens]]  
-
+usedFor:
+- "[[22124 Zoological gardens]]"
+---
+# Zoos

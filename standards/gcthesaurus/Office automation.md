@@ -1,12 +1,15 @@
-# Office automation  
+---
+title: Office automation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Office automation
 
-## Narrower Term
-
-- [[1733 Automation]]  
-
-## Related Term
-
-- [[14918 Office management]
-- [[21991 Workplace automation]
-- [[14909 Office equipment]]  
-
+narrowerTerm:
+- "[[1733 Automation]]"
+relatedTerm:
+- "[[14918 Office management]]"
+- "[[21991 Workplace automation]]"
+- "[[14909 Office equipment]]"
+---
+# Office automation

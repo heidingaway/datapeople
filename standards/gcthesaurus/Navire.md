@@ -1,6 +1,11 @@
-# Navire  
+---
+title: Navire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Navire
 
-## French
-
-- [[18687 Ships]]  
-
+french:
+- "[[18687 Ships]]"
+---
+# Navire

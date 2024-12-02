@@ -1,6 +1,11 @@
-# Safety procedures  
+---
+title: Safety procedures
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Safety procedures
 
-## Used For
-
-- [[18039 Safety measures]]  
-
+usedFor:
+- "[[18039 Safety measures]]"
+---
+# Safety procedures

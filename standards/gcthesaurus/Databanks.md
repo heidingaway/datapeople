@@ -1,6 +1,11 @@
-# Databanks  
+---
+title: Databanks
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Databanks
 
-## Used For
-
-- [[4900 Databases]]  
-
+usedFor:
+- "[[4900 Databases]]"
+---
+# Databanks

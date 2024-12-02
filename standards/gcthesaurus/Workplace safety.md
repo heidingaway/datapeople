@@ -1,6 +1,11 @@
-# Workplace safety  
+---
+title: Workplace safety
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Workplace safety
 
-## Used For
-
-- [[14799 Occupational safety]]  
-
+usedFor:
+- "[[14799 Occupational safety]]"
+---
+# Workplace safety

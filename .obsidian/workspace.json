@@ -1,41 +1,25 @@
 {
   "main": {
-    "id": "7bae569f0ecc8307",
+    "id": "4eb9edcca1cec7e9",
     "type": "split",
     "children": [
       {
-        "id": "430c02caca1f501e",
+        "id": "3418738234a1d6da",
         "type": "tabs",
         "children": [
           {
-            "id": "c3651389c91caca0",
+            "id": "fab1e17ad9d2e07a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-29.md",
+                "file": "2024-12-02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-29"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d90f4cac7e29bcba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "348e962b5c6b5a91",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "2024-12-02"
             }
           }
         ]
@@ -44,27 +28,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c3d0b8fc1f67c093",
+    "id": "b755a82c130aa772",
     "type": "split",
     "children": [
       {
-        "id": "07bd2cb4cc9e6328",
+        "id": "2383c1b39731d7b7",
         "type": "tabs",
         "children": [
           {
-            "id": "5a565fc9d575399c",
+            "id": "e8351de45c116702",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "09ebf8d977389e47",
+            "id": "47f00738f94c9f36",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,7 +65,7 @@
             }
           },
           {
-            "id": "b622827b48ba46a8",
+            "id": "2e7ca96ea63248fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,7 +75,7 @@
             }
           },
           {
-            "id": "086152a91f0938ad",
+            "id": "3261214403441120",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -101,7 +85,7 @@
             }
           },
           {
-            "id": "62038df40bf3d167",
+            "id": "b98c699dcb7ec286",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -110,27 +94,27 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 300
   },
   "right": {
-    "id": "8e4e191fea20b5d8",
+    "id": "687072620662b2cb",
     "type": "split",
     "children": [
       {
-        "id": "c4aaf5597ea91b72",
+        "id": "a726ecbc5880cfae",
         "type": "tabs",
         "children": [
           {
-            "id": "ccf03f3f643318c5",
+            "id": "b09716b0e1a2f89d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101 T1 Uses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,25 +124,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 101 T1 Uses"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "996e8f46b3d5ed71",
+            "id": "bb31b52e043a7c94",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-W45.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-W45"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "c1ceb7456fde153a",
+            "id": "b7d6f32744a10656",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -171,19 +154,19 @@
             }
           },
           {
-            "id": "07d6bebc898eb371",
+            "id": "f1a0ffb2161afbac",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-W45.md"
+                "file": "Library/test - surveilance.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-W45"
+              "title": "Outline of test - surveilance"
             }
           },
           {
-            "id": "ed6a13518bffb6a2",
+            "id": "98e7fd8cdbdd6e1c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -193,7 +176,7 @@
             }
           },
           {
-            "id": "ebf3cfa1ed1b5f49",
+            "id": "c010eb482e4228f5",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -203,7 +186,7 @@
             }
           },
           {
-            "id": "dfcf267149698c8c",
+            "id": "b30b01441613a624",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -221,57 +204,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "templater-obsidian:Templater": true,
-      "obsidian-book-search-plugin:Create new book note": true,
-      "obsidian-kanban:Create new board": true,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-kanban:Create new board": false,
       "quick-tagger:Add tag to current note": false,
       "quick-tagger:Remove tag from current note": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "5a565fc9d575399c",
+  "active": "fab1e17ad9d2e07a",
   "lastOpenFiles": [
-    "standards/gcthesaurus",
-    "standards/New folder",
-    "standards/gcthesaurus/2SLGBTQI people.md",
-    "standards/gcthesaurus/Minorities.md",
-    "standards/gcthesaurus/Language minorities.md",
-    "standards/gcthesaurus/Ethnic minorities.md",
-    "standards/gcthesaurus/Visible minorities.md",
-    "standards/gcthesaurus/Ethnic groups.md",
-    "standards/gcthesaurus/2SLGBTQI+ people.md",
-    "standards/gcthesaurus/LGBTQ2+ people.md",
-    "standards/gcthesaurus/2SLGBTQ+ people.md",
-    "standards/gcthesaurus/Training.md",
+    "2024-12-02.md",
+    "standards/gcthesaurus/Economy.md",
+    "standards/gcthesaurus/Securite.md",
+    "standards/gcthesaurus/Arme nucleaire.md",
+    "standards/gcthesaurus/2019nCoV disease.md",
+    "standards/gcthesaurus/Zootechnics.md",
     "standards/gcthesaurus/2SLGBTQ people.md",
-    "2024-11-29.md",
-    "standards/gcthesaurus/Acts.md",
-    "standards/gcthesaurus/Plan gouvernemental.md",
-    "standards/gcthesaurus/Teletravail.md",
-    "standards/gcthesaurus/Programme international.md",
-    "standards/gcthesaurus/Battle sites.md",
-    "standards/gcthesaurus/Change.md",
-    "standards/gcthesaurus/Accident environnemental.md",
-    "standards/gcthesaurus/Teachers.md",
-    "standards/gcthesaurus/Volaille.md",
-    "standards/gcthesaurus/Beer.md",
-    "standards/gcthesaurus/Rapport annuel.md",
-    "standards/gcthesaurus/Allocation.md",
-    "standards/gcthesaurus/Metamorphic rocks.md",
-    "Tags/#project",
-    "standards/gcdepts",
-    "standards/person",
+    "standards/gcthesaurus/2SLGBTQI people.md",
+    "standards/gcthesaurus/Adolescents.md",
+    "standards/gcthesaurus/Administrative services.md",
+    "standards/gcthesaurus/Administrative data.md",
+    "standards/gcthesaurus/Administration.md",
+    "standards/gcthesaurus/Acidic rain.md",
+    "standards/gcthesaurus/Accessibility for persons with disabilities.md",
+    "standards/gcthesaurus/Accessibility.md",
+    "standards/gcthesaurus/Accessibilite.md",
+    "standards/gcthesaurus/A collection of written and approved laws that gui.md",
+    "standards/gcthesaurus/2019 novel coronavirus disease.md",
+    "standards/gcthesaurus/2spirited people.md",
+    "standards/gcthesaurus/2spirit people.md",
+    "2024-12-01.md",
+    "standards/gcthesaurus/A copy of an article chapter or other portion of a.md",
+    "standards/gcthesaurus/A community living organisms together with the env.md",
+    "standards/gcthesaurus/A contagious viral infection characterized by infl.md",
+    "2024-11-30.md",
+    "standards/gcthesaurus/Advocacy.md",
+    "standards/gcthesaurus/markdown_files",
     "standards/pt",
-    "Tags/#location",
+    "standards/person",
+    "standards/gcthesaurus",
+    "standards/gcdepts",
     "standards/country",
     "standards",
-    "New folder",
-    "Reference Photos/Pasted image 20241106160409.png"
+    "opengov_pt.ipynb",
+    "opengov_gender.ipynb",
+    "opengov_country.ipynb"
   ]
 }

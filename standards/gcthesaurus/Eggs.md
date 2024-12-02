@@ -1,10 +1,13 @@
-# Eggs  
+---
+title: Eggs
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Eggs
 
-## Narrower Term
-
-- [[442 Agri-food products]]  
-
-## Related Term
-
-- [[16160 Poultry]]  
-
+narrowerTerm:
+- "[[442 Agri-food products]]"
+relatedTerm:
+- "[[16160 Poultry]]"
+---
+# Eggs

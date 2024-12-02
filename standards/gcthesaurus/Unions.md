@@ -1,6 +1,11 @@
-# Unions  
+---
+title: Unions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Unions
 
-## Used For
-
-- [[11967 Labour unions]]  
-
+usedFor:
+- "[[11967 Labour unions]]"
+---
+# Unions

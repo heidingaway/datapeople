@@ -1,6 +1,11 @@
-# Nutriceuticals  
+---
+title: Nutriceuticals
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Nutriceuticals
 
-## Used For
-
-- [[8609 Functional foods]]  
-
+usedFor:
+- "[[8609 Functional foods]]"
+---
+# Nutriceuticals

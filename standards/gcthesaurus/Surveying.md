@@ -1,7 +1,12 @@
-# Surveying  
+---
+title: Surveying
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Surveying
 
-## Related Term
-
-- [[12010 Land management]
-- [[8893 Geodesy]]  
-
+relatedTerm:
+- "[[12010 Land management]]"
+- "[[8893 Geodesy]]"
+---
+# Surveying

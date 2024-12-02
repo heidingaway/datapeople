@@ -1,6 +1,11 @@
-# Ressources humaines  
+---
+title: Ressources humaines
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Ressources humaines
 
-## French
-
-- [[10195 Human resources]]  
-
+french:
+- "[[10195 Human resources]]"
+---
+# Ressources humaines

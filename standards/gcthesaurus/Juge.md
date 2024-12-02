@@ -1,6 +1,11 @@
-# Juge  
+---
+title: Juge
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Juge
 
-## French
-
-- [[11697 Judges]]  
-
+french:
+- "[[11697 Judges]]"
+---
+# Juge

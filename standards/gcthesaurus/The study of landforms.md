@@ -1,6 +1,11 @@
-# The study of landforms  
+---
+title: The study of landforms
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: The study of landforms.
 
-## Scope Note
-
-- [[9007 Geomorphology]]  
-
+scopeNote:
+- "[[9007 Geomorphology]]"
+---
+# The study of landforms

@@ -1,6 +1,11 @@
-# Produit forestier  
+---
+title: Produit forestier
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Produit forestier
 
-## French
-
-- [[8388 Forestry products]]  
-
+french:
+- "[[8388 Forestry products]]"
+---
+# Produit forestier

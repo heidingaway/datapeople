@@ -1,6 +1,11 @@
-# Illegal activities  
+---
+title: Illegal activities
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Illegal activities
 
-## Used For
-
-- [[4443 Crime]]  
-
+usedFor:
+- "[[4443 Crime]]"
+---
+# Illegal activities

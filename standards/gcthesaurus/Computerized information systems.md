@@ -1,6 +1,11 @@
-# Computerized information systems  
+---
+title: Computerized information systems
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Computerized information systems
 
-## Used For
-
-- [[11032 Information systems]]  
-
+usedFor:
+- "[[11032 Information systems]]"
+---
+# Computerized information systems

@@ -1,6 +1,11 @@
-# Monarchie  
+---
+title: Monarchie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Monarchie
 
-## French
-
-- [[13866 Monarchy]]  
-
+french:
+- "[[13866 Monarchy]]"
+---
+# Monarchie

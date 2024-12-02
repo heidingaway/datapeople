@@ -1,6 +1,11 @@
-# Heritage resources  
+---
+title: Heritage resources
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Heritage resources
 
-## Used For
-
-- [[9874 Heritage]]  
-
+usedFor:
+- "[[9874 Heritage]]"
+---
+# Heritage resources

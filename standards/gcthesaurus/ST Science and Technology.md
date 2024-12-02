@@ -1,551 +1,556 @@
-# ST Science and Technology  
+---
+title: ST Science and Technology
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: ST Science and Technology
 
-## Subject Category
-
-- [[11988 Land cover]
-- [[12145 LANs]
-- [[4830 Dams]
-- [[15920 Polar sciences]
-- [[11833 Laboratories]
-- [[15861 Plant tissues]
-- [[4864 Data extraction]
-- [[19904 Telecare]
-- [[4780 Cybersecurity]
-- [[19972 Telephone services]
-- [[19984 Telephones]
-- [[19992 Television]
-- [[19995 Television broadcasting]
-- [[19997 Television distribution]
-- [[20005 Temperature]
-- [[14733 Observatories]
-- [[20013 Templates]
-- [[13419 Mercury]
-- [[14668 Nuclear technology]
-- [[14657 Nuclear stations]
-- [[14655 Nuclear reactors]
-- [[14653 Nuclear power stations]
-- [[14651 Nuclear power plants]
-- [[14641 Nuclear power generating stations]
-- [[14637 Nuclear plants]
-- [[14630 Nuclear generating stations]
-- [[14628 Nuclear facilities]
-- [[14623 Nuclear equipment]
-- [[14621 Nuclear engineering]
-- [[13465 Metamorphic rocks]
-- [[13469 Metamorphism]
-- [[19974 Telephone sets]
-- [[19970 Telephone equipment]
-- [[15853 Plant cells]
-- [[19965 Telephone companies]
-- [[14914 Office furnitures]
-- [[14911 Office equipment]
-- [[19924 Telecommunications equipment]
-- [[14901 Office automation]
-- [[14894 Office appliances]
-- [[13297 Medical techniques]
-- [[20348 Toxicology]
-- [[19928 Telecommunications networks]
-- [[1274 Aquatic biology]
-- [[14869 Oceanology]
-- [[14867 Oceanography]
-- [[13309 Medical technology]
-- [[19933 Telecommunications policy]
-- [[19938 Teleconferencing]
-- [[13312 Medically assisted procreation]
-- [[19941 Telegrams]
-- [[19946 Telegraph]
-- [[19955 Telehealth]
-- [[13315 Medically assisted reproduction]
-- [[13356 Medicine]
-- [[19962 Telemedicine]
-- [[13484 Meteorology]
-- [[13507 Metric system]
-- [[13509 Metrication]
-- [[13511 Metrology]
-- [[13811 Mobile geographic information systems]
-- [[13813 Mobile telephones]
-- [[13816 Mobility aids]
-- [[20166 Thermal power plants]
-- [[4173 Cookery]
-- [[13890 Monkey pox]
-- [[13895 Monkeypox]
-- [[4182 Cooking]
-- [[13938 Mother cells]
-- [[14139 Nanotechnology]
-- [[20193 Time]
-- [[20197 Time zones]
-- [[14130 Nanoscience]
-- [[14128 Nanomedicine]
-- [[14126 Nanomaterials]
-- [[14124 Nanocomposites]
-- [[20211 Tissues]
-- [[14052 Multimedia technologies]
-- [[14048 Multimedia products]
-- [[14045 Multimedia materials]
-- [[14042 Multimedia documents]
-- [[1104 Animal tissues]
-- [[20164 Thermal insulation]
-- [[13799 MIS]
-- [[1089 Animal sciences]
-- [[13517 Micro-organisms]
-- [[13525 Microbiology]
-- [[13527 Microcomputers]
-- [[13538 Microelectronics]
-- [[13566 Microorganisms]
-- [[13569 Microscopic organisms]
-- [[13635 Military engineering]
-- [[13638 Military equipment]
-- [[1083 Animal research]
-- [[14429 New technology]
-- [[14340 Natural sciences]
-- [[20263 Topography]
-- [[13684 Military technology]
-- [[20252 Tools]
-- [[14398 Navigation systems]
-- [[13737 Mining equipment]
-- [[1100 Animal testing]
-- [[13758 Mining technology]
-- [[20247 Tooling]
-- [[20156 Therapeutic cloning]
-- [[13184 Mechanical engineering]
-- [[14925 Office supplies]
-- [[19921 Telecommunications]
-- [[15400 PDA]
-- [[15672 Petrology]
-- [[12562 Living modified organisms]
-- [[12598 Local area networks]
-- [[15643 Petrography]
-- [[12620 Lockers]
-- [[19833 Technological breakthrough]
-- [[12677 Machine intelligence]
-- [[3726 Community radio]
-- [[12687 Machine readable data]
-- [[12689 Machinery]
-- [[12692 Machinery industry]
-- [[19835 Technological change]
-- [[12702 Magmatic rocks]
-- [[12707 Magnetism]
-- [[20529 Transborder data flow]
-- [[15530 Personal digital assistant]
-- [[19839 Technological disasters]
-- [[19841 Technological evolution]
-- [[12792 Management information systems]
-- [[12802 Management tool]
-- [[12864 Manufacturing technology]
-- [[20567 Transgenic foods]
-- [[3682 Communications technologies]
-- [[19831 Technical writing]
-- [[19816 Technical innovation]
-- [[12210 Leading edge technology]
-- [[3592 Commercial printing]
-- [[4773 Cyber security]
-- [[19793 Taxonomy]
-- [[12236 Learning technology]
-- [[12270 Legal medicine]
-- [[15786 Physiology]
-- [[15781 Physics]
-- [[19814 Technical education]
-- [[15768 Physical sciences]
-- [[3679 Communications satellites]
-- [[12429 Life sciences]
-- [[19818 Technical progress]
-- [[15736 Photography]
-- [[12456 Lighting]
-- [[15720 Photocopy]
-- [[3669 Communications equipment]
-- [[20581 Transnational data flow]
-- [[20570 Transgenic organisms]
-- [[15702 Pharmacology]
-- [[19853 Technological innovation]
-- [[12884 Mapping]
-- [[998 Animal experiments]
-- [[3796 Computational intelligence]
-- [[3870 Computer system security]
-- [[19893 Technology policy]
-- [[3876 Computer systems]
-- [[3878 Computerization]
-- [[3881 Computerized information systems]
-- [[965 Anatomy]
-- [[15128 Ornithology]
-- [[3895 Computers]
-- [[3897 Computing science]
-- [[19898 Technology transfer]
-- [[974 Animal-to-human transplantation]
-- [[3906 Concrete]
-- [[15041 Open data]
-- [[980 Animal cells]
-- [[982 Animal cloning]
-- [[13151 Materials engineering]
-- [[13155 Materials technology]
-- [[13167 Mathematics]
-- [[13169 Meal preparation]
-- [[996 Animal experimentation]
-- [[13177 Measurement]
-- [[15226 Palaeontology]
-- [[3867 Computer software]
-- [[3865 Computer services]
-- [[19885 Technology]
-- [[15397 Pay television]
-- [[12888 Mapping data]
-- [[19855 Technological progress]
-- [[19857 Technological revolution]
-- [[3810 Computer hardware]
-- [[19859 Technologies]
-- [[15344 Particle accelerators]
-- [[15342 Participatory media]
-- [[12932 Marine biology]
-- [[3825 Computer networks]
-- [[15230 Paleobotany]
-- [[3827 Computer operating systems]
-- [[3829 Computer programmes]
-- [[3835 Computer programming]
-- [[3837 Computer programs]
-- [[19887 Technology development]
-- [[3845 Computer science]
-- [[960 Analytics]
-- [[3860 Computer security]
-- [[15232 Paleontology]
-- [[11753 Knowledge-based systems]
-- [[3228 CIO]
-- [[16049 Pollution control equipment]
-- [[10113 Household equipment]
-- [[2645 Cable distribution]
-- [[17592 Reproductive cloning]
-- [[2647 Cable services]
-- [[2657 Cable television]
-- [[5812 Ecologically sound technology]
-- [[2667 Calibration]
-- [[17528 Remote sensing]
-- [[8822 Generating plants]
-- [[8824 Generating stations]
-- [[8833 Genetic engineering]
-- [[5783 Earth sciences]
-- [[8840 Genetically altered organisms]
-- [[8843 Genetically engineered foods]
-- [[8846 Genetically engineered organisms]
-- [[336 Aerial photography]
-- [[8855 Genetically modified foods]
-- [[8866 Genetically modified organisms]
-- [[8872 Genetics]
-- [[8875 Genomics]
-- [[8882 Geochemistry]
-- [[8887 Geochronology]
-- [[8895 Geodesy]
-- [[8897 Geodetic surveys]
-- [[5761 Earth physics]
-- [[8899 Geodetics]
-- [[8914 Geographic data]
-- [[8917 Geographic information]
-- [[8928 Geographic information systems]
-- [[8931 Geographical data]
-- [[2643 Cable broadcasting]
-- [[17613 Reproductive technology]
-- [[5821 Ecology]
-- [[1582 Assisted reproductive techniques]
-- [[19315 State of the art technology]
-- [[7980 Fishing equipment]
-- [[7983 Fishing gear]
-- [[7988 Fishing nets]
-- [[19327 Stationery]
-- [[1590 Assistive devices]
-- [[21647 Websites]
-- [[8057 Fluorides]
-- [[1585 Assisted reproductive technology]
-- [[21638 Web usability]
-- [[8192 Food technology]
-- [[21634 Web sites]
-- [[21631 Web pages]
-- [[21626 Web]
-- [[17619 Reprography]
-- [[1579 Assisted reproduction techniques]
-- [[8290 Forensics]
-- [[8293 Forensics technology]
-- [[8361 Forestry equipment]
-- [[21613 Weather forecasts]
-- [[8407 Forestry technology]
-- [[293 Advanced technology]
-- [[1576 Assisted reproduction]
-- [[1573 Assisted human reproduction]
-- [[8533 Frequently asked questions]
-- [[17689 Research laboratories]
-- [[17687 Research institutes]
-- [[1570 Assisted conception]
-- [[8934 Geographical information]
-- [[8937 Geographical information systems]
-- [[8959 Geography]
-- [[5497 Domestic appliances]
-- [[5575 Drilling]
-- [[489 Agricultural engineering]
-- [[495 Agricultural equipment]
-- [[1501 Artificial insemination]
-- [[2891 Cell phones]
-- [[9495 Hard rocks]
-- [[5543 Donor semen]
-- [[2905 Cells]
-- [[503 Agricultural implements]
-- [[2910 Cellular telephones]
-- [[21240 WANs]
-- [[514 Agricultural machinery]
-- [[9674 Health care technology]
-- [[9779 Health sciences]
-- [[17232 Real-time hydrometric data]
-- [[9793 Health technology]
-- [[9822 Heating]
-- [[9826 Heating systems]
-- [[9854 Herbaria]
-- [[9857 Herbariums]
-- [[9913 High tech]
-- [[9923 High technology]
-- [[9958 Historical hydrometric data]
-- [[546 Agricultural technology]
-- [[17082 Radio broadcasting]
-- [[17079 Radio]
-- [[17061 Radar]
-- [[10080 Horticulture]
-- [[9414 Guardianship]
-- [[9349 Green technology]
-- [[8961 Geohydrology]
-- [[9032 Geospatial information systems]
-- [[8964 Geological investigations]
-- [[8971 Geological studies]
-- [[19393 Stem cells]
-- [[8974 Geological surveys]
-- [[17419 Refrigeration equipment]
-- [[5732 Dykes]
-- [[9000 Geology]
-- [[9005 Geomatics]
-- [[9012 Geomorphology]
-- [[9020 Geophysics]
-- [[9023 Geosciences]
-- [[9026 Geospatial data]
-- [[9029 Geospatial information]
-- [[371 Age of rocks]
-- [[17263 Recipes]
-- [[9088 Global navigation satellite systems]
-- [[9096 Global positioning systems]
-- [[9117 GM foods]
-- [[9120 GMO]
-- [[9124 GNSS]
-- [[19437 Stratigraphy]
-- [[19452 Structural geology]
-- [[1511 Artificial intelligence systems]
-- [[2829 Cartography]
-- [[9277 GPS]
-- [[9279 GPS satellite systems]
-- [[9281 GPS systems]
-- [[1509 Artificial intelligence]
-- [[7958 Fisheries technology]
-- [[6003 Ecotechnology]
-- [[6011 EDI]
-- [[19180 Space sciences]
-- [[6870 Environmental equipment]
-- [[6348 Electronic instruments]
-- [[6346 Electronic information systems]
-- [[1700 Audiovisual equipment]
-- [[6337 Electronic highway]
-- [[6318 Electronic equipment]
-- [[6998 Environmental sciences]
-- [[21996 Workplace automation]
-- [[7026 Environmental technology]
-- [[19170 Space exploration]
-- [[7035 Environmentally friendly technology]
-- [[7047 Environmentally sound technology]
-- [[6304 Electronic documents]
-- [[6298 Electronic document interchange]
-- [[19160 Space arm]
-- [[1687 Audio-visual equipment]
-- [[19182 Space shuttles]
-- [[6296 Electronic devices]
-- [[6294 Electronic data processing]
-- [[6292 Electronic data interchange]
-- [[7093 Equipment]
-- [[7099 Equipment industry]
-- [[19187 Space station]
-- [[6267 Electronic appliances]
-- [[6265 Electronic apparatus]
-- [[19194 Space technology]
-- [[2078 Bioassay]
-- [[6247 Electrical equipment]
-- [[6867 Environmental engineering]
-- [[6354 Electronic mail]
-- [[19199 Spatial data]
-- [[1827 Bacteria]
-- [[22140 Zoology]
-- [[1726 Automated information systems]
-- [[1730 Automatic data processing]
-- [[22131 Zoological research]
-- [[19119 Solar heating]
-- [[6450 Emerging technology]
-- [[6466 Emission control technology]
-- [[1740 Automation]
-- [[19070 Software]
-- [[22097 Yeasts]
-- [[22089 Xenotransplantation]
-- [[22083 WWW]
-- [[6418 Embryonic stem cells]
-- [[1837 Bacteriology]
-- [[6356 Electronic materials]
-- [[6394 Electronics industry]
-- [[6388 Electronics]
-- [[6706 Energy technology]
-- [[6732 Engineering]
-- [[22056 World Wide Web]
-- [[18942 Social media]
-- [[6378 Electronic surveillance]
-- [[6761 Entomology]
-- [[6370 Electronic publications]
-- [[6367 Electronic products]
-- [[6364 Electronic networks]
-- [[6362 Electronic monitoring]
-- [[6831 Environmental biology]
-- [[19196 Spacecraft]
-- [[6238 Electrical appliances]
-- [[7922 Fisheries equipment]
-- [[18155 Satellite imagery]
-- [[18249 Scientific community]
-- [[18246 Sciences]
-- [[18235 Science policy]
-- [[18230 Science education]
-- [[18225 Science disciplines]
-- [[21732 Wide area networks]
-- [[18182 Scanning]
-- [[18169 Satellites]
-- [[1628 Astronomical observatories]
-- [[6121 Educational technology]
-- [[209 Adaptive aids (for persons with disabilities)]
-- [[18162 Satellite navigation]
-- [[18160 Satellite images]
-- [[21711 Wheelchairs]
-- [[1634 Astronomy]
-- [[1623 Astronauts]
-- [[21702 Wheel chairs]
-- [[1617 Astronautics]
-- [[1615 Astronaut training program]
-- [[1613 Astronaut training]
-- [[2378 Botany]
-- [[6080 Education technology]
-- [[2417 Broadband communications]
-- [[2429 Broadcasting]
-- [[2437 Broadcasting industry]
-- [[1601 Assistive technologies]
-- [[21662 Weighing]
-- [[17933 Robotics]
-- [[18251 Scientific disciplines]
-- [[18257 Scientific equipment]
-- [[19202 Spatial information systems]
-- [[6197 Electric appliances]
-- [[2104 Biochemistry]
-- [[6232 Electric vehicles]
-- [[18521 Semen]
-- [[6225 Electric stations]
-- [[6223 Electric power stations]
-- [[2130 Bioengineering]
-- [[18483 Seismology]
-- [[7272 Expert systems]
-- [[6207 Electric power plants]
-- [[18473 Sedimentology]
-- [[18467 Sedimentary rocks]
-- [[6205 Electric power generating stations]
-- [[6201 Electric equipment]
-- [[2168 Biological engineering]
-- [[18262 Scientific information]
-- [[6194 Electric-powered vehicles]
-- [[2178 Biological sciences]
-- [[2211 Biology]
-- [[1636 Astrophysics]
-- [[18287 Scientists]
-- [[2226 Biomedical experiments]
-- [[18273 Scientific researchers]
-- [[7420 FAQ]
-- [[7449 Farm equipment]
-- [[18270 Scientific research]
-- [[2237 Biotechnology]
-- [[7454 Farm machinery]
-- [[21790 Wind power plants]
-- [[10105 Household appliances]
-- [[5744 E-health]
-- [[14039 Multimedia]
-- [[4926 Daylight saving time]
-- [[10394 Hydrometry]
-- [[10386 Hydrometric station]
-- [[3372 Cloning]
-- [[10383 Hydrometric network]
-- [[5258 Digital technology]
-- [[5260 Digital transmission]
-- [[10380 Hydrology]
-- [[19588 Surficial geology]
-- [[621 Air conditioning]
-- [[10369 Hydrography]
-- [[5269 Digitization]
-- [[10359 Hydrogeology]
-- [[5274 Digitized information]
-- [[10352 Hydroelectric stations]
-- [[10350 Hydroelectric power stations]
-- [[10348 Hydroelectric power plants]
-- [[10344 Hydroelectric plants]
-- [[11436 International telecommunications]
-- [[10333 Hydroelectric generating stations]
-- [[10323 Hydro-electric power plants]
-- [[10321 Hydro-electric plants]
-- [[20772 Undifferentiated cells]
-- [[11475 Internet]
-- [[609 Air-conditioning]
-- [[3098 Chief Information Officer]
-- [[11480 Internet sites]
-- [[16189 Poxvirus diseases]
-- [[16182 Power stations]
-- [[16178 Power plants]
-- [[4995 Decision support systems]
-- [[5250 Digital libraries]
-- [[5241 Digital elevation data]
-- [[3315 Clean technology]
-- [[10837 Industrial technology]
-- [[10761 Industrial equipment]
-- [[10954 Informatics]
-- [[10957 Informatics security]
-- [[6457 Emission control equipment]
-- [[16539 Progenitor cells]
-- [[10992 Information highway]
-- [[11026 Information storage and retrieval systems]
-- [[11029 Information system security]
-- [[11045 Information systems]
-- [[11062 Information technology]
-- [[11065 Information technology security]
-- [[11170 Instructional technology]
-- [[11179 Instruments]
-- [[10453 Ichthyology]
-- [[5201 Development tools]
-- [[16685 Prototyping]
-- [[11183 Insulation]
-- [[19609 Surveying]
-- [[20981 Veterinary research]
-- [[11218 Integrated management information systems]
-- [[11252 Intelligent systems]
-- [[11254 Intelligent transport systems]
-- [[11261 Intelligent transportation systems]
-- [[11264 Intelligent vehicle highway systems]
-- [[16374 Printing]
-- [[10496 Imaging]
-- [[10473 Igneous rocks]
-- [[16176 Power generating stations]
-- [[16785 Public broadcasting]
-- [[10194 Human reproductive technology]
-- [[10180 Human cloning]
-- [[4894 Data security]
-- [[11635 IT security]
-- [[10191 Human reproduction techniques]
-- [[11609 Irradiation]
-- [[11568 Inventions]
-- [[21062 Virology]
-- [[10160 Human assisted reproduction]
-- [[20743 TV distribution]
-- [[10240 Human tissues]
-- [[10178 Human cells]
-- [[20741 TV]
-- [[4885 Data processing]
-- [[3076 Chemistry]
-- [[16052 Pollution control technology]
-- [[11527 Intranet sites]
-- [[11532 Intranets]
-- [[4870 Data mining]]  
-
+subjectCategory:
+- "[[11988 Land cover]]"
+- "[[12145 LANs]]"
+- "[[4830 Dams]]"
+- "[[15920 Polar sciences]]"
+- "[[11833 Laboratories]]"
+- "[[15861 Plant tissues]]"
+- "[[4864 Data extraction]]"
+- "[[19904 Telecare]]"
+- "[[4780 Cybersecurity]]"
+- "[[19972 Telephone services]]"
+- "[[19984 Telephones]]"
+- "[[19992 Television]]"
+- "[[19995 Television broadcasting]]"
+- "[[19997 Television distribution]]"
+- "[[20005 Temperature]]"
+- "[[14733 Observatories]]"
+- "[[20013 Templates]]"
+- "[[13419 Mercury]]"
+- "[[14668 Nuclear technology]]"
+- "[[14657 Nuclear stations]]"
+- "[[14655 Nuclear reactors]]"
+- "[[14653 Nuclear power stations]]"
+- "[[14651 Nuclear power plants]]"
+- "[[14641 Nuclear power generating stations]]"
+- "[[14637 Nuclear plants]]"
+- "[[14630 Nuclear generating stations]]"
+- "[[14628 Nuclear facilities]]"
+- "[[14623 Nuclear equipment]]"
+- "[[14621 Nuclear engineering]]"
+- "[[13465 Metamorphic rocks]]"
+- "[[13469 Metamorphism]]"
+- "[[19974 Telephone sets]]"
+- "[[19970 Telephone equipment]]"
+- "[[15853 Plant cells]]"
+- "[[19965 Telephone companies]]"
+- "[[14914 Office furnitures]]"
+- "[[14911 Office equipment]]"
+- "[[19924 Telecommunications equipment]]"
+- "[[14901 Office automation]]"
+- "[[14894 Office appliances]]"
+- "[[13297 Medical techniques]]"
+- "[[20348 Toxicology]]"
+- "[[19928 Telecommunications networks]]"
+- "[[1274 Aquatic biology]]"
+- "[[14869 Oceanology]]"
+- "[[14867 Oceanography]]"
+- "[[13309 Medical technology]]"
+- "[[19933 Telecommunications policy]]"
+- "[[19938 Teleconferencing]]"
+- "[[13312 Medically assisted procreation]]"
+- "[[19941 Telegrams]]"
+- "[[19946 Telegraph]]"
+- "[[19955 Telehealth]]"
+- "[[13315 Medically assisted reproduction]]"
+- "[[13356 Medicine]]"
+- "[[19962 Telemedicine]]"
+- "[[13484 Meteorology]]"
+- "[[13507 Metric system]]"
+- "[[13509 Metrication]]"
+- "[[13511 Metrology]]"
+- "[[13811 Mobile geographic information systems]]"
+- "[[13813 Mobile telephones]]"
+- "[[13816 Mobility aids]]"
+- "[[20166 Thermal power plants]]"
+- "[[4173 Cookery]]"
+- "[[13890 Monkey pox]]"
+- "[[13895 Monkeypox]]"
+- "[[4182 Cooking]]"
+- "[[13938 Mother cells]]"
+- "[[14139 Nanotechnology]]"
+- "[[20193 Time]]"
+- "[[20197 Time zones]]"
+- "[[14130 Nanoscience]]"
+- "[[14128 Nanomedicine]]"
+- "[[14126 Nanomaterials]]"
+- "[[14124 Nanocomposites]]"
+- "[[20211 Tissues]]"
+- "[[14052 Multimedia technologies]]"
+- "[[14048 Multimedia products]]"
+- "[[14045 Multimedia materials]]"
+- "[[14042 Multimedia documents]]"
+- "[[1104 Animal tissues]]"
+- "[[20164 Thermal insulation]]"
+- "[[13799 MIS]]"
+- "[[1089 Animal sciences]]"
+- "[[13517 Micro-organisms]]"
+- "[[13525 Microbiology]]"
+- "[[13527 Microcomputers]]"
+- "[[13538 Microelectronics]]"
+- "[[13566 Microorganisms]]"
+- "[[13569 Microscopic organisms]]"
+- "[[13635 Military engineering]]"
+- "[[13638 Military equipment]]"
+- "[[1083 Animal research]]"
+- "[[14429 New technology]]"
+- "[[14340 Natural sciences]]"
+- "[[20263 Topography]]"
+- "[[13684 Military technology]]"
+- "[[20252 Tools]]"
+- "[[14398 Navigation systems]]"
+- "[[13737 Mining equipment]]"
+- "[[1100 Animal testing]]"
+- "[[13758 Mining technology]]"
+- "[[20247 Tooling]]"
+- "[[20156 Therapeutic cloning]]"
+- "[[13184 Mechanical engineering]]"
+- "[[14925 Office supplies]]"
+- "[[19921 Telecommunications]]"
+- "[[15400 PDA]]"
+- "[[15672 Petrology]]"
+- "[[12562 Living modified organisms]]"
+- "[[12598 Local area networks]]"
+- "[[15643 Petrography]]"
+- "[[12620 Lockers]]"
+- "[[19833 Technological breakthrough]]"
+- "[[12677 Machine intelligence]]"
+- "[[3726 Community radio]]"
+- "[[12687 Machine readable data]]"
+- "[[12689 Machinery]]"
+- "[[12692 Machinery industry]]"
+- "[[19835 Technological change]]"
+- "[[12702 Magmatic rocks]]"
+- "[[12707 Magnetism]]"
+- "[[20529 Transborder data flow]]"
+- "[[15530 Personal digital assistant]]"
+- "[[19839 Technological disasters]]"
+- "[[19841 Technological evolution]]"
+- "[[12792 Management information systems]]"
+- "[[12802 Management tool]]"
+- "[[12864 Manufacturing technology]]"
+- "[[20567 Transgenic foods]]"
+- "[[3682 Communications technologies]]"
+- "[[19831 Technical writing]]"
+- "[[19816 Technical innovation]]"
+- "[[12210 Leading edge technology]]"
+- "[[3592 Commercial printing]]"
+- "[[4773 Cyber security]]"
+- "[[19793 Taxonomy]]"
+- "[[12236 Learning technology]]"
+- "[[12270 Legal medicine]]"
+- "[[15786 Physiology]]"
+- "[[15781 Physics]]"
+- "[[19814 Technical education]]"
+- "[[15768 Physical sciences]]"
+- "[[3679 Communications satellites]]"
+- "[[12429 Life sciences]]"
+- "[[19818 Technical progress]]"
+- "[[15736 Photography]]"
+- "[[12456 Lighting]]"
+- "[[15720 Photocopy]]"
+- "[[3669 Communications equipment]]"
+- "[[20581 Transnational data flow]]"
+- "[[20570 Transgenic organisms]]"
+- "[[15702 Pharmacology]]"
+- "[[19853 Technological innovation]]"
+- "[[12884 Mapping]]"
+- "[[998 Animal experiments]]"
+- "[[3796 Computational intelligence]]"
+- "[[3870 Computer system security]]"
+- "[[19893 Technology policy]]"
+- "[[3876 Computer systems]]"
+- "[[3878 Computerization]]"
+- "[[3881 Computerized information systems]]"
+- "[[965 Anatomy]]"
+- "[[15128 Ornithology]]"
+- "[[3895 Computers]]"
+- "[[3897 Computing science]]"
+- "[[19898 Technology transfer]]"
+- "[[974 Animal-to-human transplantation]]"
+- "[[3906 Concrete]]"
+- "[[15041 Open data]]"
+- "[[980 Animal cells]]"
+- "[[982 Animal cloning]]"
+- "[[13151 Materials engineering]]"
+- "[[13155 Materials technology]]"
+- "[[13167 Mathematics]]"
+- "[[13169 Meal preparation]]"
+- "[[996 Animal experimentation]]"
+- "[[13177 Measurement]]"
+- "[[15226 Palaeontology]]"
+- "[[3867 Computer software]]"
+- "[[3865 Computer services]]"
+- "[[19885 Technology]]"
+- "[[15397 Pay television]]"
+- "[[12888 Mapping data]]"
+- "[[19855 Technological progress]]"
+- "[[19857 Technological revolution]]"
+- "[[3810 Computer hardware]]"
+- "[[19859 Technologies]]"
+- "[[15344 Particle accelerators]]"
+- "[[15342 Participatory media]]"
+- "[[12932 Marine biology]]"
+- "[[3825 Computer networks]]"
+- "[[15230 Paleobotany]]"
+- "[[3827 Computer operating systems]]"
+- "[[3829 Computer programmes]]"
+- "[[3835 Computer programming]]"
+- "[[3837 Computer programs]]"
+- "[[19887 Technology development]]"
+- "[[3845 Computer science]]"
+- "[[960 Analytics]]"
+- "[[3860 Computer security]]"
+- "[[15232 Paleontology]]"
+- "[[11753 Knowledge-based systems]]"
+- "[[3228 CIO]]"
+- "[[16049 Pollution control equipment]]"
+- "[[10113 Household equipment]]"
+- "[[2645 Cable distribution]]"
+- "[[17592 Reproductive cloning]]"
+- "[[2647 Cable services]]"
+- "[[2657 Cable television]]"
+- "[[5812 Ecologically sound technology]]"
+- "[[2667 Calibration]]"
+- "[[17528 Remote sensing]]"
+- "[[8822 Generating plants]]"
+- "[[8824 Generating stations]]"
+- "[[8833 Genetic engineering]]"
+- "[[5783 Earth sciences]]"
+- "[[8840 Genetically altered organisms]]"
+- "[[8843 Genetically engineered foods]]"
+- "[[8846 Genetically engineered organisms]]"
+- "[[336 Aerial photography]]"
+- "[[8855 Genetically modified foods]]"
+- "[[8866 Genetically modified organisms]]"
+- "[[8872 Genetics]]"
+- "[[8875 Genomics]]"
+- "[[8882 Geochemistry]]"
+- "[[8887 Geochronology]]"
+- "[[8895 Geodesy]]"
+- "[[8897 Geodetic surveys]]"
+- "[[5761 Earth physics]]"
+- "[[8899 Geodetics]]"
+- "[[8914 Geographic data]]"
+- "[[8917 Geographic information]]"
+- "[[8928 Geographic information systems]]"
+- "[[8931 Geographical data]]"
+- "[[2643 Cable broadcasting]]"
+- "[[17613 Reproductive technology]]"
+- "[[5821 Ecology]]"
+- "[[1582 Assisted reproductive techniques]]"
+- "[[19315 State of the art technology]]"
+- "[[7980 Fishing equipment]]"
+- "[[7983 Fishing gear]]"
+- "[[7988 Fishing nets]]"
+- "[[19327 Stationery]]"
+- "[[1590 Assistive devices]]"
+- "[[21647 Websites]]"
+- "[[8057 Fluorides]]"
+- "[[1585 Assisted reproductive technology]]"
+- "[[21638 Web usability]]"
+- "[[8192 Food technology]]"
+- "[[21634 Web sites]]"
+- "[[21631 Web pages]]"
+- "[[21626 Web]]"
+- "[[17619 Reprography]]"
+- "[[1579 Assisted reproduction techniques]]"
+- "[[8290 Forensics]]"
+- "[[8293 Forensics technology]]"
+- "[[8361 Forestry equipment]]"
+- "[[21613 Weather forecasts]]"
+- "[[8407 Forestry technology]]"
+- "[[293 Advanced technology]]"
+- "[[1576 Assisted reproduction]]"
+- "[[1573 Assisted human reproduction]]"
+- "[[8533 Frequently asked questions]]"
+- "[[17689 Research laboratories]]"
+- "[[17687 Research institutes]]"
+- "[[1570 Assisted conception]]"
+- "[[8934 Geographical information]]"
+- "[[8937 Geographical information systems]]"
+- "[[8959 Geography]]"
+- "[[5497 Domestic appliances]]"
+- "[[5575 Drilling]]"
+- "[[489 Agricultural engineering]]"
+- "[[495 Agricultural equipment]]"
+- "[[1501 Artificial insemination]]"
+- "[[2891 Cell phones]]"
+- "[[9495 Hard rocks]]"
+- "[[5543 Donor semen]]"
+- "[[2905 Cells]]"
+- "[[503 Agricultural implements]]"
+- "[[2910 Cellular telephones]]"
+- "[[21240 WANs]]"
+- "[[514 Agricultural machinery]]"
+- "[[9674 Health care technology]]"
+- "[[9779 Health sciences]]"
+- "[[17232 Real-time hydrometric data]]"
+- "[[9793 Health technology]]"
+- "[[9822 Heating]]"
+- "[[9826 Heating systems]]"
+- "[[9854 Herbaria]]"
+- "[[9857 Herbariums]]"
+- "[[9913 High tech]]"
+- "[[9923 High technology]]"
+- "[[9958 Historical hydrometric data]]"
+- "[[546 Agricultural technology]]"
+- "[[17082 Radio broadcasting]]"
+- "[[17079 Radio]]"
+- "[[17061 Radar]]"
+- "[[10080 Horticulture]]"
+- "[[9414 Guardianship]]"
+- "[[9349 Green technology]]"
+- "[[8961 Geohydrology]]"
+- "[[9032 Geospatial information systems]]"
+- "[[8964 Geological investigations]]"
+- "[[8971 Geological studies]]"
+- "[[19393 Stem cells]]"
+- "[[8974 Geological surveys]]"
+- "[[17419 Refrigeration equipment]]"
+- "[[5732 Dykes]]"
+- "[[9000 Geology]]"
+- "[[9005 Geomatics]]"
+- "[[9012 Geomorphology]]"
+- "[[9020 Geophysics]]"
+- "[[9023 Geosciences]]"
+- "[[9026 Geospatial data]]"
+- "[[9029 Geospatial information]]"
+- "[[371 Age of rocks]]"
+- "[[17263 Recipes]]"
+- "[[9088 Global navigation satellite systems]]"
+- "[[9096 Global positioning systems]]"
+- "[[9117 GM foods]]"
+- "[[9120 GMO]]"
+- "[[9124 GNSS]]"
+- "[[19437 Stratigraphy]]"
+- "[[19452 Structural geology]]"
+- "[[1511 Artificial intelligence systems]]"
+- "[[2829 Cartography]]"
+- "[[9277 GPS]]"
+- "[[9279 GPS satellite systems]]"
+- "[[9281 GPS systems]]"
+- "[[1509 Artificial intelligence]]"
+- "[[7958 Fisheries technology]]"
+- "[[6003 Ecotechnology]]"
+- "[[6011 EDI]]"
+- "[[19180 Space sciences]]"
+- "[[6870 Environmental equipment]]"
+- "[[6348 Electronic instruments]]"
+- "[[6346 Electronic information systems]]"
+- "[[1700 Audiovisual equipment]]"
+- "[[6337 Electronic highway]]"
+- "[[6318 Electronic equipment]]"
+- "[[6998 Environmental sciences]]"
+- "[[21996 Workplace automation]]"
+- "[[7026 Environmental technology]]"
+- "[[19170 Space exploration]]"
+- "[[7035 Environmentally friendly technology]]"
+- "[[7047 Environmentally sound technology]]"
+- "[[6304 Electronic documents]]"
+- "[[6298 Electronic document interchange]]"
+- "[[19160 Space arm]]"
+- "[[1687 Audio-visual equipment]]"
+- "[[19182 Space shuttles]]"
+- "[[6296 Electronic devices]]"
+- "[[6294 Electronic data processing]]"
+- "[[6292 Electronic data interchange]]"
+- "[[7093 Equipment]]"
+- "[[7099 Equipment industry]]"
+- "[[19187 Space station]]"
+- "[[6267 Electronic appliances]]"
+- "[[6265 Electronic apparatus]]"
+- "[[19194 Space technology]]"
+- "[[2078 Bioassay]]"
+- "[[6247 Electrical equipment]]"
+- "[[6867 Environmental engineering]]"
+- "[[6354 Electronic mail]]"
+- "[[19199 Spatial data]]"
+- "[[1827 Bacteria]]"
+- "[[22140 Zoology]]"
+- "[[1726 Automated information systems]]"
+- "[[1730 Automatic data processing]]"
+- "[[22131 Zoological research]]"
+- "[[19119 Solar heating]]"
+- "[[6450 Emerging technology]]"
+- "[[6466 Emission control technology]]"
+- "[[1740 Automation]]"
+- "[[19070 Software]]"
+- "[[22097 Yeasts]]"
+- "[[22089 Xenotransplantation]]"
+- "[[22083 WWW]]"
+- "[[6418 Embryonic stem cells]]"
+- "[[1837 Bacteriology]]"
+- "[[6356 Electronic materials]]"
+- "[[6394 Electronics industry]]"
+- "[[6388 Electronics]]"
+- "[[6706 Energy technology]]"
+- "[[6732 Engineering]]"
+- "[[22056 World Wide Web]]"
+- "[[18942 Social media]]"
+- "[[6378 Electronic surveillance]]"
+- "[[6761 Entomology]]"
+- "[[6370 Electronic publications]]"
+- "[[6367 Electronic products]]"
+- "[[6364 Electronic networks]]"
+- "[[6362 Electronic monitoring]]"
+- "[[6831 Environmental biology]]"
+- "[[19196 Spacecraft]]"
+- "[[6238 Electrical appliances]]"
+- "[[7922 Fisheries equipment]]"
+- "[[18155 Satellite imagery]]"
+- "[[18249 Scientific community]]"
+- "[[18246 Sciences]]"
+- "[[18235 Science policy]]"
+- "[[18230 Science education]]"
+- "[[18225 Science disciplines]]"
+- "[[21732 Wide area networks]]"
+- "[[18182 Scanning]]"
+- "[[18169 Satellites]]"
+- "[[1628 Astronomical observatories]]"
+- "[[6121 Educational technology]]"
+- "[[209 Adaptive aids (for persons with disabilities)]]"
+- "[[18162 Satellite navigation]]"
+- "[[18160 Satellite images]]"
+- "[[21711 Wheelchairs]]"
+- "[[1634 Astronomy]]"
+- "[[1623 Astronauts]]"
+- "[[21702 Wheel chairs]]"
+- "[[1617 Astronautics]]"
+- "[[1615 Astronaut training program]]"
+- "[[1613 Astronaut training]]"
+- "[[2378 Botany]]"
+- "[[6080 Education technology]]"
+- "[[2417 Broadband communications]]"
+- "[[2429 Broadcasting]]"
+- "[[2437 Broadcasting industry]]"
+- "[[1601 Assistive technologies]]"
+- "[[21662 Weighing]]"
+- "[[17933 Robotics]]"
+- "[[18251 Scientific disciplines]]"
+- "[[18257 Scientific equipment]]"
+- "[[19202 Spatial information systems]]"
+- "[[6197 Electric appliances]]"
+- "[[2104 Biochemistry]]"
+- "[[6232 Electric vehicles]]"
+- "[[18521 Semen]]"
+- "[[6225 Electric stations]]"
+- "[[6223 Electric power stations]]"
+- "[[2130 Bioengineering]]"
+- "[[18483 Seismology]]"
+- "[[7272 Expert systems]]"
+- "[[6207 Electric power plants]]"
+- "[[18473 Sedimentology]]"
+- "[[18467 Sedimentary rocks]]"
+- "[[6205 Electric power generating stations]]"
+- "[[6201 Electric equipment]]"
+- "[[2168 Biological engineering]]"
+- "[[18262 Scientific information]]"
+- "[[6194 Electric-powered vehicles]]"
+- "[[2178 Biological sciences]]"
+- "[[2211 Biology]]"
+- "[[1636 Astrophysics]]"
+- "[[18287 Scientists]]"
+- "[[2226 Biomedical experiments]]"
+- "[[18273 Scientific researchers]]"
+- "[[7420 FAQ]]"
+- "[[7449 Farm equipment]]"
+- "[[18270 Scientific research]]"
+- "[[2237 Biotechnology]]"
+- "[[7454 Farm machinery]]"
+- "[[21790 Wind power plants]]"
+- "[[10105 Household appliances]]"
+- "[[5744 E-health]]"
+- "[[14039 Multimedia]]"
+- "[[4926 Daylight saving time]]"
+- "[[10394 Hydrometry]]"
+- "[[10386 Hydrometric station]]"
+- "[[3372 Cloning]]"
+- "[[10383 Hydrometric network]]"
+- "[[5258 Digital technology]]"
+- "[[5260 Digital transmission]]"
+- "[[10380 Hydrology]]"
+- "[[19588 Surficial geology]]"
+- "[[621 Air conditioning]]"
+- "[[10369 Hydrography]]"
+- "[[5269 Digitization]]"
+- "[[10359 Hydrogeology]]"
+- "[[5274 Digitized information]]"
+- "[[10352 Hydroelectric stations]]"
+- "[[10350 Hydroelectric power stations]]"
+- "[[10348 Hydroelectric power plants]]"
+- "[[10344 Hydroelectric plants]]"
+- "[[11436 International telecommunications]]"
+- "[[10333 Hydroelectric generating stations]]"
+- "[[10323 Hydro-electric power plants]]"
+- "[[10321 Hydro-electric plants]]"
+- "[[20772 Undifferentiated cells]]"
+- "[[11475 Internet]]"
+- "[[609 Air-conditioning]]"
+- "[[3098 Chief Information Officer]]"
+- "[[11480 Internet sites]]"
+- "[[16189 Poxvirus diseases]]"
+- "[[16182 Power stations]]"
+- "[[16178 Power plants]]"
+- "[[4995 Decision support systems]]"
+- "[[5250 Digital libraries]]"
+- "[[5241 Digital elevation data]]"
+- "[[3315 Clean technology]]"
+- "[[10837 Industrial technology]]"
+- "[[10761 Industrial equipment]]"
+- "[[10954 Informatics]]"
+- "[[10957 Informatics security]]"
+- "[[6457 Emission control equipment]]"
+- "[[16539 Progenitor cells]]"
+- "[[10992 Information highway]]"
+- "[[11026 Information storage and retrieval systems]]"
+- "[[11029 Information system security]]"
+- "[[11045 Information systems]]"
+- "[[11062 Information technology]]"
+- "[[11065 Information technology security]]"
+- "[[11170 Instructional technology]]"
+- "[[11179 Instruments]]"
+- "[[10453 Ichthyology]]"
+- "[[5201 Development tools]]"
+- "[[16685 Prototyping]]"
+- "[[11183 Insulation]]"
+- "[[19609 Surveying]]"
+- "[[20981 Veterinary research]]"
+- "[[11218 Integrated management information systems]]"
+- "[[11252 Intelligent systems]]"
+- "[[11254 Intelligent transport systems]]"
+- "[[11261 Intelligent transportation systems]]"
+- "[[11264 Intelligent vehicle highway systems]]"
+- "[[16374 Printing]]"
+- "[[10496 Imaging]]"
+- "[[10473 Igneous rocks]]"
+- "[[16176 Power generating stations]]"
+- "[[16785 Public broadcasting]]"
+- "[[10194 Human reproductive technology]]"
+- "[[10180 Human cloning]]"
+- "[[4894 Data security]]"
+- "[[11635 IT security]]"
+- "[[10191 Human reproduction techniques]]"
+- "[[11609 Irradiation]]"
+- "[[11568 Inventions]]"
+- "[[21062 Virology]]"
+- "[[10160 Human assisted reproduction]]"
+- "[[20743 TV distribution]]"
+- "[[10240 Human tissues]]"
+- "[[10178 Human cells]]"
+- "[[20741 TV]]"
+- "[[4885 Data processing]]"
+- "[[3076 Chemistry]]"
+- "[[16052 Pollution control technology]]"
+- "[[11527 Intranet sites]]"
+- "[[11532 Intranets]]"
+- "[[4870 Data mining]]"
+---
+# ST Science and Technology

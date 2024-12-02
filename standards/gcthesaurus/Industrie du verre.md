@@ -1,6 +1,11 @@
-# Industrie du verre  
+---
+title: Industrie du verre
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Industrie du verre
 
-## French
-
-- [[9075 Glass industry]]  
-
+french:
+- "[[9075 Glass industry]]"
+---
+# Industrie du verre

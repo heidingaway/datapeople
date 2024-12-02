@@ -1,6 +1,11 @@
-# Imaging  
+---
+title: Imaging
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Imaging
 
-## Used For
-
-- [[5263 Digitization]]  
-
+usedFor:
+- "[[5263 Digitization]]"
+---
+# Imaging

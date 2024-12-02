@@ -1,6 +1,11 @@
-# Destroyer  
+---
+title: Destroyer
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Destroyer
 
-## French
-
-- [[5166 Destroyers]]  
-
+french:
+- "[[5166 Destroyers]]"
+---
+# Destroyer

@@ -1,6 +1,11 @@
-# Maintien de la paix  
+---
+title: Maintien de la paix
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Maintien de la paix
 
-## French
-
-- [[15407 Peacekeeping]]  
-
+french:
+- "[[15407 Peacekeeping]]"
+---
+# Maintien de la paix

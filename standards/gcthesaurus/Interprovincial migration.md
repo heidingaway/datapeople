@@ -1,6 +1,11 @@
-# Interprovincial migration  
+---
+title: Interprovincial migration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Interprovincial migration
 
-## Used For
-
-- [[11322 Internal migration]]  
-
+usedFor:
+- "[[11322 Internal migration]]"
+---
+# Interprovincial migration

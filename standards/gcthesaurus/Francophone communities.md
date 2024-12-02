@@ -1,6 +1,11 @@
-# Francophone communities  
+---
+title: Francophone communities
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Francophone communities
 
-## Used For
-
-- [[8473 Francophonie]]  
-
+usedFor:
+- "[[8473 Francophonie]]"
+---
+# Francophone communities

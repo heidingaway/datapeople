@@ -1,6 +1,11 @@
-# Income tax deductions  
+---
+title: Income tax deductions
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Income tax deductions
 
-## Used For
-
-- [[19722 Tax credits]]  
-
+usedFor:
+- "[[19722 Tax credits]]"
+---
+# Income tax deductions

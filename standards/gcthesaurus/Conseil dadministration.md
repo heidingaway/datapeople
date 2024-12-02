@@ -1,6 +1,11 @@
-# Conseil dadministration  
+---
+title: Conseil dadministration
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conseil d'administration
 
-## French
-
-- [[2306 Board of directors]]  
-
+french:
+- "[[2306 Board of directors]]"
+---
+# Conseil dadministration

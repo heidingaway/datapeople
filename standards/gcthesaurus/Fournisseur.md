@@ -1,6 +1,11 @@
-# Fournisseur  
+---
+title: Fournisseur
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fournisseur
 
-## French
-
-- [[19550 Suppliers]]  
-
+french:
+- "[[19550 Suppliers]]"
+---
+# Fournisseur

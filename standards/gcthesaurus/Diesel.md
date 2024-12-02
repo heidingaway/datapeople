@@ -1,6 +1,11 @@
-# Diesel  
+---
+title: Diesel
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Diesel
 
-## Used For
-
-- [[5229 Diesel fuel]]  
-
+usedFor:
+- "[[5229 Diesel fuel]]"
+---
+# Diesel

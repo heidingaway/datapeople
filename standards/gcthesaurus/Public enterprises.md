@@ -1,6 +1,11 @@
-# Public enterprises  
+---
+title: Public enterprises
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Public enterprises
 
-## Used For
-
-- [[16883 Public sector]]  
-
+usedFor:
+- "[[16883 Public sector]]"
+---
+# Public enterprises

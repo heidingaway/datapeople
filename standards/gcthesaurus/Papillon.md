@@ -1,6 +1,11 @@
-# Papillon  
+---
+title: Papillon
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Papillon
 
-## French
-
-- [[2615 Butterflies]]  
-
+french:
+- "[[2615 Butterflies]]"
+---
+# Papillon

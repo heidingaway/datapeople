@@ -1,10 +1,13 @@
-# Peacekeeping forces  
+---
+title: Peacekeeping forces
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Peacekeeping forces
 
-## Narrower Term
-
-- [[1421 Armed forces]]  
-
-## Related Term
-
-- [[15410 Peacekeeping]]  
-
+narrowerTerm:
+- "[[1421 Armed forces]]"
+relatedTerm:
+- "[[15410 Peacekeeping]]"
+---
+# Peacekeeping forces

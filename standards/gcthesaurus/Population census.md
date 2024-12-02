@@ -1,6 +1,11 @@
-# Population census  
+---
+title: Population census
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Population census
 
-## Used For
-
-- [[2922 Census]]  
-
+usedFor:
+- "[[2922 Census]]"
+---
+# Population census

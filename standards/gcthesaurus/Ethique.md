@@ -1,6 +1,11 @@
-# Ethique  
+---
+title: Ethique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Éthique
 
-## French
-
-- [[7143 Ethics]]  
-
+french:
+- "[[7143 Ethics]]"
+---
+# Ethique

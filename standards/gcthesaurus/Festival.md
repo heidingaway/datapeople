@@ -1,6 +1,11 @@
-# Festival  
+---
+title: Festival
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Festival
 
-## French
-
-- [[7660 Festivals]]  
-
+french:
+- "[[7660 Festivals]]"
+---
+# Festival

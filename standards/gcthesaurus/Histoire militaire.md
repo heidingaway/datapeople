@@ -1,6 +1,11 @@
-# Histoire militaire  
+---
+title: Histoire militaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Histoire militaire
 
-## French
-
-- [[13641 Military history]]  
-
+french:
+- "[[13641 Military history]]"
+---
+# Histoire militaire

@@ -1,7 +1,12 @@
-# Logistics  
+---
+title: Logistics
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Logistics
 
-## Related Term
-
-- [[12642 Logistical support]
-- [[13147 Material management]]  
-
+relatedTerm:
+- "[[12642 Logistical support]]"
+- "[[13147 Material management]]"
+---
+# Logistics

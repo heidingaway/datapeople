@@ -1,6 +1,11 @@
-# Garantie  
+---
+title: Garantie
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Garantie
 
-## French
-
-- [[21285 Warranties]]  
-
+french:
+- "[[21285 Warranties]]"
+---
+# Garantie

@@ -1,13 +1,16 @@
-# Regulation  
+---
+title: Regulation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Regulation
 
-## Broader Term
-
-- [[16310 Price regulation]]  
-
-## Related Term
-
-- [[15963 Policy]
-- [[17476 Regulations]
-- [[12307 Legislation]
-- [[12405 Licensing]]  
-
+broaderTerm:
+- "[[16310 Price regulation]]"
+relatedTerm:
+- "[[15963 Policy]]"
+- "[[17476 Regulations]]"
+- "[[12307 Legislation]]"
+- "[[12405 Licensing]]"
+---
+# Regulation

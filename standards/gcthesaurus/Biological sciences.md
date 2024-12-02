@@ -1,6 +1,11 @@
-# Biological sciences  
+---
+title: Biological sciences
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Biological sciences
 
-## Used For
-
-- [[12424 Life sciences]]  
-
+usedFor:
+- "[[12424 Life sciences]]"
+---
+# Biological sciences

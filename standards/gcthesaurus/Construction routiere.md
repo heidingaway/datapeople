@@ -1,6 +1,11 @@
-# Construction routiere  
+---
+title: Construction routiere
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Construction routière
 
-## French
-
-- [[17872 Road construction]]  
-
+french:
+- "[[17872 Road construction]]"
+---
+# Construction routiere

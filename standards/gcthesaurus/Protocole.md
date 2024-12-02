@@ -1,6 +1,11 @@
-# Protocole  
+---
+title: Protocole
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Protocole
 
-## French
-
-- [[16675 Protocol]]  
-
+french:
+- "[[16675 Protocol]]"
+---
+# Protocole

@@ -1,6 +1,11 @@
-# EastWest relations  
+---
+title: EastWest relations
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: East-West relations
 
-## Related Term
-
-- [[11362 International cooperation]]  
-
+relatedTerm:
+- "[[11362 International cooperation]]"
+---
+# EastWest relations

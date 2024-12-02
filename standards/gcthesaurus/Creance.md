@@ -1,6 +1,11 @@
-# Creance  
+---
+title: Creance
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Créance
 
-## French
-
-- [[12374 Liability]]  
-
+french:
+- "[[12374 Liability]]"
+---
+# Creance

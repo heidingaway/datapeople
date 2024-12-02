@@ -1,12 +1,15 @@
-# Learning  
+---
+title: Learning
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Learning
 
-## Related Term
-
-- [[3399 Coaching]
-- [[20497 Training]
-- [[6055 Education]]  
-
-## Use
-
-- [[11754 Knowledge acquisition]]  
-
+relatedTerm:
+- "[[3399 Coaching]]"
+- "[[20497 Training]]"
+- "[[6055 Education]]"
+use:
+- "[[11754 Knowledge acquisition]]"
+---
+# Learning

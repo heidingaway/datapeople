@@ -1,6 +1,11 @@
-# Cultural activities  
+---
+title: Cultural activities
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Cultural activities
 
-## Used For
-
-- [[4636 Cultural events]]  
-
+usedFor:
+- "[[4636 Cultural events]]"
+---
+# Cultural activities

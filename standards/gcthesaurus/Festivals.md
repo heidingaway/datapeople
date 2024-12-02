@@ -1,10 +1,13 @@
-# Festivals  
+---
+title: Festivals
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Festivals
 
-## Narrower Term
-
-- [[4638 Cultural events]]  
-
-## Related Term
-
-- [[15477 Performing arts]]  
-
+narrowerTerm:
+- "[[4638 Cultural events]]"
+relatedTerm:
+- "[[15477 Performing arts]]"
+---
+# Festivals

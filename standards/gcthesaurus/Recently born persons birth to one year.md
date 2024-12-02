@@ -1,6 +1,11 @@
-# Recently born persons birth to one year  
+---
+title: Recently born persons birth to one year
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Recently born persons, birth to one year.
 
-## Scope Note
-
-- [[10899 Infants]]  
-
+scopeNote:
+- "[[10899 Infants]]"
+---
+# Recently born persons birth to one year

@@ -1,6 +1,11 @@
-# Railroads  
+---
+title: Railroads
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Railroads
 
-## Used For
-
-- [[17178 Railway networks]]  
-
+usedFor:
+- "[[17178 Railway networks]]"
+---
+# Railroads

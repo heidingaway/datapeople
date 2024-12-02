@@ -1,6 +1,11 @@
-# Waste reduction  
+---
+title: Waste reduction
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Waste reduction
 
-## Used For
-
-- [[21326 Waste management]]  
-
+usedFor:
+- "[[21326 Waste management]]"
+---
+# Waste reduction

@@ -1,6 +1,11 @@
-# Jeunesse  
+---
+title: Jeunesse
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Jeunesse
 
-## French
-
-- [[22117 Youth]]  
-
+french:
+- "[[22117 Youth]]"
+---
+# Jeunesse

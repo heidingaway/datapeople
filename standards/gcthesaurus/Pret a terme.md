@@ -1,6 +1,11 @@
-# Pret a terme  
+---
+title: Pret a terme
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Prêt à terme
 
-## French
-
-- [[20026 Term loans]]  
-
+french:
+- "[[20026 Term loans]]"
+---
+# Pret a terme

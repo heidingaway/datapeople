@@ -1,6 +1,11 @@
-# Sentences  
+---
+title: Sentences
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sentences
 
-## Used For
-
-- [[4379 Court decisions]]  
-
+usedFor:
+- "[[4379 Court decisions]]"
+---
+# Sentences

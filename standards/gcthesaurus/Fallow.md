@@ -1,6 +1,11 @@
-# Fallow  
+---
+title: Fallow
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Fallow
 
-## Used For
-
-- [[4532 Crop rotation]]  
-
+usedFor:
+- "[[4532 Crop rotation]]"
+---
+# Fallow

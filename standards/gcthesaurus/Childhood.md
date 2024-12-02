@@ -1,6 +1,11 @@
-# Childhood  
+---
+title: Childhood
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Childhood
 
-## Related Term
-
-- [[3170 Children]]  
-
+relatedTerm:
+- "[[3170 Children]]"
+---
+# Childhood

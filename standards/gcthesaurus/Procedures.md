@@ -1,6 +1,11 @@
-# Procedures  
+---
+title: Procedures
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Procedures
 
-## Used For
-
-- [[13493 Methodology]]  
-
+usedFor:
+- "[[13493 Methodology]]"
+---
+# Procedures

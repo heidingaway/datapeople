@@ -1,6 +1,11 @@
-# Pergelisol  
+---
+title: Pergelisol
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Pergélisol
 
-## French
-
-- [[15494 Permafrost]]  
-
+french:
+- "[[15494 Permafrost]]"
+---
+# Pergelisol

@@ -1,6 +1,11 @@
-# Metal  
+---
+title: Metal
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Métal
 
-## French
-
-- [[13447 Metals]]  
-
+french:
+- "[[13447 Metals]]"
+---
+# Metal

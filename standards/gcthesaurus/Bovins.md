@@ -1,6 +1,11 @@
-# Bovins  
+---
+title: Bovins
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Bovins
 
-## French
-
-- [[2870 Cattle]]  
-
+french:
+- "[[2870 Cattle]]"
+---
+# Bovins

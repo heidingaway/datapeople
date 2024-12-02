@@ -1,6 +1,11 @@
-# Mammalians  
+---
+title: Mammalians
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mammalians
 
-## Used For
-
-- [[12731 Mammals]]  
-
+usedFor:
+- "[[12731 Mammals]]"
+---
+# Mammalians

@@ -1,15 +1,16 @@
-# Physical sciences  
+---
+title: Physical sciences
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Physical sciences
 
-## Broader Term
-
-- [[3071 Chemistry]
-- [[15778 Physics]]  
-
-## Narrower Term
-
-- [[14333 Natural sciences]]  
-
-## Related Term
-
-- [[18283 Scientists]]  
-
+broaderTerm:
+- "[[3071 Chemistry]]"
+- "[[15778 Physics]]"
+narrowerTerm:
+- "[[14333 Natural sciences]]"
+relatedTerm:
+- "[[18283 Scientists]]"
+---
+# Physical sciences

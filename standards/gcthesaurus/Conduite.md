@@ -1,6 +1,11 @@
-# Conduite  
+---
+title: Conduite
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Conduite
 
-## French
-
-- [[5597 Driving]]  
-
+french:
+- "[[5597 Driving]]"
+---
+# Conduite

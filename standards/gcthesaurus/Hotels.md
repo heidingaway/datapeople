@@ -1,6 +1,11 @@
-# Hotels  
+---
+title: Hotels
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Hotels
 
-## Used For
-
-- [[10083 Hospitality industry]]  
-
+usedFor:
+- "[[10083 Hospitality industry]]"
+---
+# Hotels

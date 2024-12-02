@@ -1,6 +1,11 @@
-# Borrowing  
+---
+title: Borrowing
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Borrowing
 
-## Used For
-
-- [[12576 Loans]]  
-
+usedFor:
+- "[[12576 Loans]]"
+---
+# Borrowing

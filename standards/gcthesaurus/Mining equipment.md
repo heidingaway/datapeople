@@ -1,6 +1,11 @@
-# Mining equipment  
+---
+title: Mining equipment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Mining equipment
 
-## Used For
-
-- [[13755 Mining technology]]  
-
+usedFor:
+- "[[13755 Mining technology]]"
+---
+# Mining equipment

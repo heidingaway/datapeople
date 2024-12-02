@@ -1,10 +1,13 @@
-# Insecticides  
+---
+title: Insecticides
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Insecticides
 
-## Narrower Term
-
-- [[15624 Pesticides]]  
-
-## Related Term
-
-- [[11151 Insects]]  
-
+narrowerTerm:
+- "[[15624 Pesticides]]"
+relatedTerm:
+- "[[11151 Insects]]"
+---
+# Insecticides

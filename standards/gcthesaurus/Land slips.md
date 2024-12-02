@@ -1,6 +1,11 @@
-# Land slips  
+---
+title: Land slips
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Land slips
 
-## Used For
-
-- [[12048 Landslides]]  
-
+usedFor:
+- "[[12048 Landslides]]"
+---
+# Land slips

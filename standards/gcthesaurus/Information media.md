@@ -1,6 +1,11 @@
-# Information media  
+---
+title: Information media
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Information media
 
-## Used For
-
-- [[13189 Media]]  
-
+usedFor:
+- "[[13189 Media]]"
+---
+# Information media

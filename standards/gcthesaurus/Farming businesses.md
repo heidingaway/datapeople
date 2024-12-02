@@ -1,6 +1,11 @@
-# Farming businesses  
+---
+title: Farming businesses
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Farming businesses
 
-## Used For
-
-- [[7493 Farms]]  
-
+usedFor:
+- "[[7493 Farms]]"
+---
+# Farming businesses

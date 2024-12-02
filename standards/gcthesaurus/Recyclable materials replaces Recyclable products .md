@@ -1,7 +1,8 @@
-# Recyclable materials replaces Recyclable products   
+---
+title: Recyclable materials replaces Recyclable products 
+alias: "Recyclable materials" replaces "Recyclable products" as preferred term in April 2009.
 
-## History note
-
-- [[17364 Recyclable products]
-- [[17358 Recyclable materials]]  
-
+historyNote:
+- "[[17364 Recyclable products]]"
+- "[[17358 Recyclable materials]]"
+---

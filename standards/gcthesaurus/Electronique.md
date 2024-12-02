@@ -1,6 +1,11 @@
-# Electronique  
+---
+title: Electronique
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Électronique
 
-## French
-
-- [[6384 Electronics]]  
-
+french:
+- "[[6384 Electronics]]"
+---
+# Electronique

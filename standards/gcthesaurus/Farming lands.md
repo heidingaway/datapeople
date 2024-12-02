@@ -1,6 +1,11 @@
-# Farming lands  
+---
+title: Farming lands
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Farming lands
 
-## Used For
-
-- [[7483 Farmlands]]  
-
+usedFor:
+- "[[7483 Farmlands]]"
+---
+# Farming lands

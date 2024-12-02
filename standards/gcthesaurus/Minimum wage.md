@@ -1,6 +1,11 @@
-# Minimum wage  
+---
+title: Minimum wage
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Minimum wage
 
-## Narrower Term
-
-- [[18087 Salaries]]  
-
+narrowerTerm:
+- "[[18087 Salaries]]"
+---
+# Minimum wage

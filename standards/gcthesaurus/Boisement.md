@@ -1,6 +1,11 @@
-# Boisement  
+---
+title: Boisement
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Boisement
 
-## French
-
-- [[365 Afforestation]]  
-
+french:
+- "[[365 Afforestation]]"
+---
+# Boisement

@@ -1,6 +1,11 @@
-# Water resource management  
+---
+title: Water resource management
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Water resource management
 
-## Used For
-
-- [[21435 Water management]]  
-
+usedFor:
+- "[[21435 Water management]]"
+---
+# Water resource management

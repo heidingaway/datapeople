@@ -1,6 +1,11 @@
-# Residual hazardous materials  
+---
+title: Residual hazardous materials
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Residual hazardous materials
 
-## Used For
-
-- [[9553 Hazardous waste]]  
-
+usedFor:
+- "[[9553 Hazardous waste]]"
+---
+# Residual hazardous materials

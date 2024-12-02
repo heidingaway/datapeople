@@ -1,6 +1,11 @@
-# Worker mobility  
+---
+title: Worker mobility
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Worker mobility
 
-## Used For
-
-- [[11919 Labour mobility]]  
-
+usedFor:
+- "[[11919 Labour mobility]]"
+---
+# Worker mobility

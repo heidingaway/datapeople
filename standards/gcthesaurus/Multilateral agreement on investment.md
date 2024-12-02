@@ -1,10 +1,13 @@
-# Multilateral agreement on investment  
+---
+title: Multilateral agreement on investment
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Multilateral agreement on investment
 
-## Narrower Term
-
-- [[14016 Multilateral agreements]]  
-
-## Related Term
-
-- [[11599 Investments]]  
-
+narrowerTerm:
+- "[[14016 Multilateral agreements]]"
+relatedTerm:
+- "[[11599 Investments]]"
+---
+# Multilateral agreement on investment

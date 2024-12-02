@@ -1,6 +1,11 @@
-# Standardization  
+---
+title: Standardization
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Standardization
 
-## Related Term
-
-- [[19299 Standards]]  
-
+relatedTerm:
+- "[[19299 Standards]]"
+---
+# Standardization

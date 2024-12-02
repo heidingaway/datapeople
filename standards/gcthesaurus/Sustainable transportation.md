@@ -1,6 +1,11 @@
-# Sustainable transportation  
+---
+title: Sustainable transportation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Sustainable transportation
 
-## Related Term
-
-- [[20615 Transport]]  
-
+relatedTerm:
+- "[[20615 Transport]]"
+---
+# Sustainable transportation

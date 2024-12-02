@@ -1,6 +1,11 @@
-# Porc  
+---
+title: Porc
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Porc
 
-## French
-
-- [[9997 Hogs]]  
-
+french:
+- "[[9997 Hogs]]"
+---
+# Porc

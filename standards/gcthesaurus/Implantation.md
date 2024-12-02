@@ -1,6 +1,11 @@
-# Implantation  
+---
+title: Implantation
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Implantation
 
-## French
-
-- [[10531 Implementation]]  
-
+french:
+- "[[10531 Implementation]]"
+---
+# Implantation

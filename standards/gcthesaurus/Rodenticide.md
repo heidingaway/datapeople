@@ -1,6 +1,11 @@
-# Rodenticide  
+---
+title: Rodenticide
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Rodenticide
 
-## French
-
-- [[17934 Rodenticides]]  
-
+french:
+- "[[17934 Rodenticides]]"
+---
+# Rodenticide

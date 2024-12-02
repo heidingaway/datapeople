@@ -1,6 +1,11 @@
-# Narcotic use  
+---
+title: Narcotic use
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Narcotic use
 
-## Used For
-
-- [[5683 Drug use]]  
-
+usedFor:
+- "[[5683 Drug use]]"
+---
+# Narcotic use

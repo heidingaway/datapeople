@@ -1,6 +1,11 @@
-# Leisure  
+---
+title: Leisure
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Leisure
 
-## Used For
-
-- [[17322 Recreation]]  
-
+usedFor:
+- "[[17322 Recreation]]"
+---
+# Leisure

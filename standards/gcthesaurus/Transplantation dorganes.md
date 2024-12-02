@@ -1,6 +1,11 @@
-# Transplantation dorganes  
+---
+title: Transplantation dorganes
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Transplantation d'organes
 
-## French
-
-- [[15089 Organ transplantation]]  
-
+french:
+- "[[15089 Organ transplantation]]"
+---
+# Transplantation dorganes

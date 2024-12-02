@@ -1,6 +1,11 @@
-# Energie solaire  
+---
+title: Energie solaire
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Énergie solaire
 
-## French
-
-- [[19113 Solar energy]]  
-
+french:
+- "[[19113 Solar energy]]"
+---
+# Energie solaire

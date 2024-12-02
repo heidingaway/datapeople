@@ -1,6 +1,11 @@
-# Emprunteur  
+---
+title: Emprunteur
+created: 2024-12-01
+modified: 2024-12-01
+tags: 
+alias: Emprunteur
 
-## French
-
-- [[2356 Borrowers]]  
-
+french:
+- "[[2356 Borrowers]]"
+---
+# Emprunteur
