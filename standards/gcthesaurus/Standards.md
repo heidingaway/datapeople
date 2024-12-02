@@ -1,10 +1,9 @@
 ---
 title: Standards
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Standards
-
 broaderTerm:
 - "[[17007 Quality standards]]"
 - "[[7006 Environmental standards]]"

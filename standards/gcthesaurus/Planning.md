@@ -1,10 +1,9 @@
 ---
 title: Planning
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Planning
-
 broaderTerm:
 - "[[2442 Budget planning]]"
 - "[[7395 Family planning]]"

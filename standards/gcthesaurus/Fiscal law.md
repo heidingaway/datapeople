@@ -1,10 +1,9 @@
 ---
 title: Fiscal law
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Fiscal law
-
 narrowerTerm:
 - "[[12154 Law]]"
 relatedTerm:

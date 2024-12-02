@@ -1,10 +1,9 @@
 ---
 title: Marital status
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Marital status
-
 relatedTerm:
 - "[[3644 Common-law unions]]"
 - "[[7387 Family law]]"

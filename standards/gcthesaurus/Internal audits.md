@@ -1,10 +1,9 @@
 ---
 title: Internal audits
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Internal audits
-
 relatedTerm:
 - "[[4154 Control]]"
 - "[[17848 Risk management]]"

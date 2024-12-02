@@ -1,10 +1,9 @@
 ---
 title: Security intelligence
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Security intelligence
-
 relatedTerm:
 - "[[14239 National security]]"
 - "[[11427 International security]]"

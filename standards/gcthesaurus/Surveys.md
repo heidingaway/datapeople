@@ -1,10 +1,9 @@
 ---
 title: Surveys
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Surveys
-
 broaderTerm:
 - "[[19025 Social surveys]]"
 - "[[16853 Public opinion polls]]"

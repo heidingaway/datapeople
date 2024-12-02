@@ -1,10 +1,9 @@
 ---
 title: Ice caps
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Ice caps
-
 relatedTerm:
 - "[[9068 Glaciers]]"
 - "[[18852 Snow]]"

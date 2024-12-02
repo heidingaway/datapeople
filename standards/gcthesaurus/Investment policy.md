@@ -1,10 +1,9 @@
 ---
 title: Investment policy
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Investment policy
-
 narrowerTerm:
 - "[[15952 Policy]]"
 relatedTerm:

@@ -1,10 +1,9 @@
 ---
 title: Members of the Senate
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Members of the Senate
-
 relatedTerm:
 - "[[17588 Representatives]]"
 - "[[18526 Senate]]"

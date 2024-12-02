@@ -1,10 +1,9 @@
 ---
 title: Supply
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Supply
-
 relatedTerm:
 - "[[8188 Food supply]]"
 - "[[6697 Energy supply]]"

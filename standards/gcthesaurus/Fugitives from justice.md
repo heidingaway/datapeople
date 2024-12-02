@@ -1,10 +1,9 @@
 ---
 title: Fugitives from justice
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Fugitives from justice
-
 broaderTerm:
 - "[[15115 Organized crime]]"
 - "[[8480 Fraud]]"

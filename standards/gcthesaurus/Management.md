@@ -1,10 +1,9 @@
 ---
 title: Management
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Management
-
 broaderTerm:
 - "[[16633 Property management]]"
 - "[[16591 Project management]]"

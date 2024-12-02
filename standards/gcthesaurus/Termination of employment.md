@@ -1,10 +1,9 @@
 ---
 title: Termination of employment
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Termination of employment
-
 relatedTerm:
 - "[[20778 Unemployment]]"
 - "[[17705 Resignation]]"

@@ -1,13 +1,12 @@
 ---
 title: Airplanes
-created: 2024-12-01
-modified: 2024-12-01
-tags:
-  - TBSMetadata
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Airplanes
 narrowerTerm:
-  - "[[713 Aircraft]]"
+- "[[713 Aircraft]]"
 use:
-  - "[[15832 Planes]]"
+- "[[15832 Planes]]"
 ---
 # Airplanes

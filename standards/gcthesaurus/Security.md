@@ -1,10 +1,9 @@
 ---
 title: Security
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Security
-
 broaderTerm:
 - "[[18992 Social security]]"
 - "[[10229 Human security]]"

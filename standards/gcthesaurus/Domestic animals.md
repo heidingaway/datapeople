@@ -1,10 +1,9 @@
 ---
 title: Domestic animals
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Domestic animals
-
 narrowerTerm:
 - "[[1111 Animals]]"
 relatedTerm:

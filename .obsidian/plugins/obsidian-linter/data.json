@@ -31,8 +31,8 @@
       "force-multi-line-array-style": ""
     },
     "insert-yaml-attributes": {
-      "enabled": true,
-      "text-to-insert": "tags:"
+      "enabled": false,
+      "text-to-insert": "tags: TBSMetadata"
     },
     "move-tags-to-yaml": {
       "enabled": true,
@@ -40,7 +40,7 @@
       "tags-to-ignore": ""
     },
     "remove-yaml-keys": {
-      "enabled": true,
+      "enabled": false,
       "yaml-keys-to-remove": ""
     },
     "sort-yaml-array-values": {
@@ -176,8 +176,8 @@
       "list-style": "-"
     },
     "compact-yaml": {
-      "enabled": false,
-      "inner-new-lines": false
+      "enabled": true,
+      "inner-new-lines": true
     },
     "consecutive-blank-lines": {
       "enabled": false
@@ -271,8 +271,8 @@
     }
   },
   "lintOnSave": true,
-  "recordLintOnSaveLogs": false,
-  "displayChanged": true,
+  "recordLintOnSaveLogs": true,
+  "displayChanged": false,
   "lintOnFileChange": false,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
@@ -289,6 +289,6 @@
     "tagArrayStyle": "multi-line",
     "minimumNumberOfDollarSignsToBeAMathBlock": 2,
     "escapeCharacter": "\"",
-    "removeUnnecessaryEscapeCharsForMultiLineArrays": false
+    "removeUnnecessaryEscapeCharsForMultiLineArrays": true
   }
 }

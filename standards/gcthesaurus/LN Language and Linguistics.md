@@ -1,10 +1,9 @@
 ---
 title: LN Language and Linguistics
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: LN Language and Linguistics
-
 subjectCategory:
 - "[[16597 Promotion of linguistic duality]]"
 - "[[12465 Linguistic diversity]]"

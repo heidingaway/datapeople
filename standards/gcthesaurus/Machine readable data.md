@@ -1,10 +1,9 @@
 ---
 title: Machine readable data
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Machine readable data
-
 relatedTerm:
 - "[[4905 Databases]]"
 - "[[4861 Data dictionaries]]"

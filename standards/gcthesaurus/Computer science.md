@@ -1,10 +1,9 @@
 ---
 title: Computer science
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Computer science
-
 relatedTerm:
 - "[[14336 Natural sciences]]"
 - "[[4876 Data processing]]"

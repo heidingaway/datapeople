@@ -1,10 +1,9 @@
 ---
 title: Economic analysis
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Economic analysis
-
 broaderTerm:
 - "[[4329 Cost benefit analysis]]"
 - "[[13529 Microeconomic analysis]]"

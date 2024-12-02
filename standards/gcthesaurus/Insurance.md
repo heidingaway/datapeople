@@ -1,10 +1,9 @@
 ---
 title: Insurance
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Insurance
-
 broaderTerm:
 - "[[5650 Drug insurance]]"
 - "[[12419 Life insurance]]"

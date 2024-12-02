@@ -1,10 +1,9 @@
 ---
 title: Market analysis
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Market analysis
-
 relatedTerm:
 - "[[13093 Marketing]]"
 - "[[5842 Economic analysis]]"

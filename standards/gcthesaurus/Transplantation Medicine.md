@@ -1,10 +1,9 @@
 ---
 title: Transplantation Medicine
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Transplantation (Medicine)
-
 broaderTerm:
 - "[[15092 Organ transplantation]]"
 - "[[22087 Xenotransplantation]]"

@@ -1,8 +1,9 @@
 ---
 title: what is doing data
 created: 2024-11-26
-modified: 2024-11-26
-tags: 
+modified: 2024-12-02
+tags:
+- notestoself
 ---
 # what is doing data
 What does it mean to “do” data? What exactly is the point of all these data strategies to improve how we approach data?

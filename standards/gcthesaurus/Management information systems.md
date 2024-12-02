@@ -1,10 +1,9 @@
 ---
 title: Management information systems
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Management information systems
-
 narrowerTerm:
 - "[[11037 Information systems]]"
 relatedTerm:

@@ -1,10 +1,9 @@
 ---
 title: Satellites
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Satellites
-
 relatedTerm:
 - "[[17526 Remote sensing]]"
 - "[[19914 Telecommunications]]"

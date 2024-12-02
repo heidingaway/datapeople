@@ -1,10 +1,9 @@
 ---
 title: Personal information
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Personal information
-
 relatedTerm:
 - "[[3923 Confidentiality]]"
 - "[[2982 Change of address]]"

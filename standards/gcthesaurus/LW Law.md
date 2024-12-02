@@ -1,10 +1,9 @@
 ---
 title: LW Law
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: LW Law
-
 subjectCategory:
 - "[[4484 Criminal code]]"
 - "[[231 Administration of justice]]"

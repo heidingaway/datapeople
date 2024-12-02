@@ -1,10 +1,9 @@
 ---
 title: Health protection
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Health protection
-
 relatedTerm:
 - "[[16288 Preventive medicine]]"
 - "[[9754 Health promotion]]"

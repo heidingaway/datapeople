@@ -1,10 +1,9 @@
 ---
 title: Pipelines
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Pipelines
-
 relatedTerm:
 - "[[15664 Petroleum industry]]"
 - "[[8730 Gas industry]]"

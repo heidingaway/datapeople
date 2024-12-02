@@ -1,10 +1,9 @@
 ---
 title: Hunting Sport
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Hunting (Sport)
-
 narrowerTerm:
 - "[[19244 Sports]]"
 relatedTerm:

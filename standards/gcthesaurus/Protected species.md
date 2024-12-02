@@ -1,10 +1,9 @@
 ---
 title: Protected species
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Protected species
-
 relatedTerm:
 - "[[1251 Aquariums]]"
 - "[[22127 Zoological gardens]]"

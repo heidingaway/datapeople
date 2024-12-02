@@ -1,10 +1,9 @@
 ---
 title: GV Government and Politics
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: GV Government and Politics
-
 subjectCategory:
 - "[[19311 State ceremonial]]"
 - "[[12272 Legal notices (Web sites)]]"

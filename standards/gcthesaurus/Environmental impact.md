@@ -1,10 +1,9 @@
 ---
 title: Environmental impact
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Environmental impact
-
 relatedTerm:
 - "[[6874 Environmental hazards]]"
 - "[[15192 Ozone depletion]]"

@@ -1,10 +1,9 @@
 ---
 title: Earth sciences
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Earth sciences
-
 broaderTerm:
 - "[[8980 Geology]]"
 - "[[8879 Geochemistry]]"

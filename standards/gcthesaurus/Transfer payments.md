@@ -1,10 +1,9 @@
 ---
 title: Transfer payments
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Transfer payments
-
 broaderTerm:
 - "[[17569 Repayable contributions]]"
 - "[[14502 Non-repayable contributions]]"

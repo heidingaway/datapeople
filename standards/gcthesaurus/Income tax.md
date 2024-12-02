@@ -1,10 +1,9 @@
 ---
 title: Income tax
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Income tax
-
 broaderTerm:
 - "[[4270 Corporate income tax]]"
 - "[[15551 Personal income tax]]"

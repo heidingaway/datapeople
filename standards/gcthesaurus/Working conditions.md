@@ -1,10 +1,9 @@
 ---
 title: Working conditions
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Working conditions
-
 relatedTerm:
 - "[[10007 Holidays]]"
 - "[[11678 Job promotion]]"

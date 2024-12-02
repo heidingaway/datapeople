@@ -1,10 +1,9 @@
 ---
 title: Partnerships
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Partnerships
-
 broaderTerm:
 - "[[3711 Community partnerships]]"
 - "[[16748 Public-private partnerships]]"

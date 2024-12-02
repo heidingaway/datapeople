@@ -1,11 +1,10 @@
 ---
 title: Ageing
-created: 2024-12-01
-modified: 2024-12-01
-tags:
-  - TBSMetadata
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Ageing
 usedFor:
-  - "[[383 Aging]]"
+- "[[383 Aging]]"
 ---
 # Ageing

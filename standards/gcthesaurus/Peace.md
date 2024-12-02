@@ -1,10 +1,9 @@
 ---
 title: Peace
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Peace
-
 relatedTerm:
 - "[[1448 Arms control]]"
 - "[[21250 War]]"

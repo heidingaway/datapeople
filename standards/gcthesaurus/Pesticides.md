@@ -1,10 +1,9 @@
 ---
 title: Pesticides
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Pesticides
-
 broaderTerm:
 - "[[8658 Fungicides]]"
 - "[[17935 Rodenticides]]"

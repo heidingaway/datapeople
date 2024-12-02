@@ -1,10 +1,9 @@
 ---
 title: HI History and Archaeology
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: HI History and Archaeology
-
 subjectCategory:
 - "[[9988 History of Canada]]"
 - "[[18906 Social history]]"

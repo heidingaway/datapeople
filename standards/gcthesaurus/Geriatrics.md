@@ -1,10 +1,9 @@
 ---
 title: Geriatrics
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Geriatrics
-
 narrowerTerm:
 - "[[9053 Gerontology]]"
 - "[[13339 Medicine]]"

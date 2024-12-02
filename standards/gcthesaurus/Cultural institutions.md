@@ -1,10 +1,9 @@
 ---
 title: Cultural institutions
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Cultural institutions
-
 broaderTerm:
 - "[[14090 Museums]]"
 - "[[15082 Orchestras]]"

@@ -1,10 +1,9 @@
 ---
 title: Technological innovation
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Technological innovation
-
 narrowerTerm:
 - "[[11114 Innovation]]"
 relatedTerm:

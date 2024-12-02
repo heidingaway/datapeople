@@ -1,10 +1,9 @@
 ---
 title: Fish farming
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Fish farming
-
 narrowerTerm:
 - "[[1243 Aquaculture]]"
 - "[[1020 Animal husbandry]]"

@@ -1,10 +1,9 @@
 ---
 title: Transportation safety
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Transportation safety
-
 broaderTerm:
 - "[[17900 Road safety]]"
 - "[[12985 Marine safety]]"

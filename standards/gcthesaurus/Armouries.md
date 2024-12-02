@@ -1,13 +1,12 @@
 ---
 title: Armouries
-created: 2024-12-01
-modified: 2024-12-01
-tags:
-  - TBSMetadata
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Armouries
 relatedTerm:
-  - "[[21587 Weapons]]"
+- "[[21587 Weapons]]"
 use:
-  - "[[1432 Armories]]"
+- "[[1432 Armories]]"
 ---
 # Armouries

@@ -1,10 +1,9 @@
 ---
 title: Currency
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Currency
-
 relatedTerm:
 - "[[3480 Coins]]"
 - "[[7217 Exchange rates]]"

@@ -1,10 +1,9 @@
 ---
 title: Consumer protection
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Consumer protection
-
 relatedTerm:
 - "[[4095 Consumers]]"
 use:

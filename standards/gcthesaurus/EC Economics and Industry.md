@@ -1,10 +1,9 @@
 ---
 title: EC Economics and Industry
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: EC Economics and Industry
-
 subjectCategory:
 - "[[17362 Recyclable materials]]"
 - "[[1685 Auctions]]"

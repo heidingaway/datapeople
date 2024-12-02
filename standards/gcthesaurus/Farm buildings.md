@@ -1,10 +1,9 @@
 ---
 title: Farm buildings
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Farm buildings
-
 broaderTerm:
 - "[[9370 Greenhouses]]"
 narrowerTerm:

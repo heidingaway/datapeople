@@ -1,10 +1,9 @@
 ---
 title: Fish
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Fish
-
 broaderTerm:
 - "[[8548 Freshwater fish]]"
 - "[[18128 Salt water fish]]"

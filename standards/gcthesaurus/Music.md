@@ -1,10 +1,9 @@
 ---
 title: Music
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Music
-
 relatedTerm:
 - "[[14110 Music industry]]"
 - "[[1525 Arts]]"

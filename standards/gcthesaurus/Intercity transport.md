@@ -1,10 +1,9 @@
 ---
 title: Intercity transport
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Intercity transport
-
 narrowerTerm:
 - "[[20603 Transport]]"
 relatedTerm:

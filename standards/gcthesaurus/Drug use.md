@@ -1,10 +1,9 @@
 ---
 title: Drug use
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Drug use
-
 relatedTerm:
 - "[[5619 Drug addiction]]"
 - "[[14161 Narcotics]]"

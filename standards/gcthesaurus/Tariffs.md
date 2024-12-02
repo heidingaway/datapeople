@@ -1,10 +1,9 @@
 ---
 title: Tariffs
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Tariffs
-
 relatedTerm:
 - "[[19697 Tariff protection]]"
 - "[[4763 Customs and excise]]"

@@ -1,10 +1,9 @@
 ---
 title: Transport industry
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Transport industry
-
 broaderTerm:
 - "[[17147 Rail transport industry]]"
 - "[[21510 Water transport industry]]"

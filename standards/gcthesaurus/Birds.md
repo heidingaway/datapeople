@@ -1,10 +1,9 @@
 ---
 title: Birds
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Birds
-
 broaderTerm:
 - "[[1281 Aquatic birds]]"
 - "[[13591 Migratory birds]]"

@@ -1,10 +1,9 @@
 ---
 title: Quarterly financial reports
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Quarterly financial reports
-
 narrowerTerm:
 - "[[7691 Finance]]"
 - "[[17580 Reports]]"

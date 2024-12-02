@@ -1,10 +1,9 @@
 ---
 title: IN Information and Communications
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: IN Information and Communications
-
 subjectCategory:
 - "[[21646 Websites]]"
 - "[[13134 Mass communication media]]"

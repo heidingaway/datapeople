@@ -1,10 +1,9 @@
 ---
 title: Maps
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Maps
-
 broaderTerm:
 - "[[8966 Geological maps]]"
 - "[[344 Aeronautical maps]]"

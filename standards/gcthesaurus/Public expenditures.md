@@ -1,10 +1,9 @@
 ---
 title: Public expenditures
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Public expenditures
-
 narrowerTerm:
 - "[[7260 Expenditures]]"
 relatedTerm:

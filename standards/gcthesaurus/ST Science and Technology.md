@@ -1,10 +1,9 @@
 ---
 title: ST Science and Technology
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: ST Science and Technology
-
 subjectCategory:
 - "[[11988 Land cover]]"
 - "[[12145 LANs]]"

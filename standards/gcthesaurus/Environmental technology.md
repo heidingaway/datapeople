@@ -1,10 +1,9 @@
 ---
 title: Environmental technology
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Environmental technology
-
 broaderTerm:
 - "[[3312 Clean technology]]"
 - "[[6463 Emission control technology]]"

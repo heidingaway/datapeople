@@ -1,10 +1,9 @@
 ---
 title: Sexually transmitted diseases
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Sexually transmitted diseases
-
 narrowerTerm:
 - "[[10926 Infectious diseases]]"
 relatedTerm:

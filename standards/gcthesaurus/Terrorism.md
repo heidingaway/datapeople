@@ -1,10 +1,9 @@
 ---
 title: Terrorism
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Terrorism
-
 relatedTerm:
 - "[[21035 Violence]]"
 - "[[21252 War]]"

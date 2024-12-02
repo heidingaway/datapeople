@@ -1,10 +1,9 @@
 ---
 title: Natural resources
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Natural resources
-
 broaderTerm:
 - "[[17557 Renewable resources]]"
 - "[[14498 Non-renewable resources]]"

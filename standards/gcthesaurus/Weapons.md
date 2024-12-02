@@ -1,10 +1,9 @@
 ---
 title: Weapons
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Weapons
-
 broaderTerm:
 - "[[3044 Chemical weapons]]"
 - "[[7809 Firearms]]"

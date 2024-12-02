@@ -1,10 +1,9 @@
 ---
 title: Division of powers
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Division of powers
-
 relatedTerm:
 - "[[7591 Federal provincial relations]]"
 - "[[7618 Federal territorial relations]]"

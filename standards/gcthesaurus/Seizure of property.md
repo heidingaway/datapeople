@@ -1,10 +1,9 @@
 ---
 title: Seizure of property
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Seizure (of property)
-
 relatedTerm:
 - "[[16624 Property]]"
 - "[[17314 Recoveries]]"

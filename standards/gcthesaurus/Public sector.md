@@ -1,10 +1,9 @@
 ---
 title: Public sector
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Public sector
-
 relatedTerm:
 - "[[16750 Public-private partnerships]]"
 - "[[16419 Private sector]]"

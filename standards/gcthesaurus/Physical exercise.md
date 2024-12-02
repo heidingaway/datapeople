@@ -1,10 +1,9 @@
 ---
 title: Physical exercise
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Physical exercise
-
 usedFor:
 - "[[8011 Fitness]]"
 ---

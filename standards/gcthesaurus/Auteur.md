@@ -1,11 +1,10 @@
 ---
 title: Auteur
-created: 2024-12-01
-modified: 2024-12-01
-tags:
-  - TBSMetadata
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Auteur
 french:
-  - "[[1715 Authors]]"
+- "[[1715 Authors]]"
 ---
 # Auteur

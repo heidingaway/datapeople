@@ -1,10 +1,9 @@
 ---
 title: Trade relations
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Trade relations
-
 relatedTerm:
 - "[[20409 Trade negotiations]]"
 - "[[20399 Trade missions]]"

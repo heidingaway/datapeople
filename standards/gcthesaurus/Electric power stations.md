@@ -1,10 +1,9 @@
 ---
 title: Electric power stations
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Electric power stations
-
 broaderTerm:
 - "[[10341 Hydroelectric plants]]"
 - "[[14648 Nuclear power plants]]"

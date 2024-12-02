@@ -1,10 +1,9 @@
 ---
 title: Infectious diseases
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Infectious diseases
-
 broaderTerm:
 - "[[4252 Coronavirus diseases]]"
 - "[[18652 Sexually transmitted diseases]]"

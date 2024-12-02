@@ -1,10 +1,9 @@
 ---
 title: Employment opportunities
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Employment opportunities
-
 relatedTerm:
 - "[[6496 Employment]]"
 - "[[6583 Employment programs]]"

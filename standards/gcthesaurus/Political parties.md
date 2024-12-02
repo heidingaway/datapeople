@@ -1,10 +1,9 @@
 ---
 title: Political parties
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Political parties
-
 relatedTerm:
 - "[[12193 Leader of the Official Opposition]]"
 - "[[16006 Politics]]"

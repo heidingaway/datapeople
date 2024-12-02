@@ -1,10 +1,9 @@
 ---
 title: Linguistic duality
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Linguistic duality
-
 relatedTerm:
 - "[[2060 Bilingualism]]"
 - "[[14933 Official languages]]"

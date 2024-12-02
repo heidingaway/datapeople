@@ -1,10 +1,9 @@
 ---
 title: Vocational training
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Vocational training
-
 narrowerTerm:
 - "[[20494 Training]]"
 relatedTerm:

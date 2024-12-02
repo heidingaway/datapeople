@@ -1,10 +1,9 @@
 ---
 title: Ozone depletion
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Ozone depletion
-
 relatedTerm:
 - "[[646 Air pollution]]"
 - "[[6890 Environmental impact]]"

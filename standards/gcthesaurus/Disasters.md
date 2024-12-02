@@ -1,10 +1,9 @@
 ---
 title: Disasters
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Disasters
-
 broaderTerm:
 - "[[6808 Environmental accidents]]"
 - "[[14278 Natural disasters]]"

@@ -1,10 +1,9 @@
 ---
 title: Environmental protection
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Environmental protection
-
 broaderTerm:
 - "[[17726 Resources conservation]]"
 - "[[14351 Nature conservation]]"

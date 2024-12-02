@@ -1,10 +1,9 @@
 ---
 title: Public service
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Public service
-
 relatedTerm:
 - "[[16777 Public administration]]"
 - "[[18593 Severance pay]]"

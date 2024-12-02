@@ -1,16 +1,15 @@
 ---
 title: Astronomy
-created: 2024-12-01
-modified: 2024-12-01
-tags:
-  - TBSMetadata
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Astronomy
 narrowerTerm:
-  - "[[19176 Space sciences]]"
+- "[[19176 Space sciences]]"
 relatedTerm:
-  - "[[1626 Astronomical observatories]]"
-  - "[[15836 Planetariums]]"
+- "[[1626 Astronomical observatories]]"
+- "[[15836 Planetariums]]"
 use:
-  - "[[1635 Astrophysics]]"
+- "[[1635 Astrophysics]]"
 ---
 # Astronomy

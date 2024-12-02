@@ -1,10 +1,9 @@
 ---
 title: Water supply
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Water supply
-
 relatedTerm:
 - "[[21532 Water use]]"
 - "[[21444 Water management]]"

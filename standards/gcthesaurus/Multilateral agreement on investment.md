@@ -1,10 +1,9 @@
 ---
 title: Multilateral agreement on investment
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Multilateral agreement on investment
-
 narrowerTerm:
 - "[[14016 Multilateral agreements]]"
 relatedTerm:

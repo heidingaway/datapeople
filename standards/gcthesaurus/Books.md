@@ -1,10 +1,9 @@
 ---
 title: Books
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Books
-
 broaderTerm:
 - "[[9060 Gift books]]"
 - "[[3179 Children's books]]"

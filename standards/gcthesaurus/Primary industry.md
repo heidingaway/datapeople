@@ -1,10 +1,9 @@
 ---
 title: Primary industry
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Primary industry
-
 broaderTerm:
 - "[[8369 Forestry industry]]"
 - "[[8728 Gas industry]]"

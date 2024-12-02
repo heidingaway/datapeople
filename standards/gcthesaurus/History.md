@@ -1,10 +1,9 @@
 ---
 title: History
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: History
-
 broaderTerm:
 - "[[13642 Military history]]"
 - "[[5894 Economic history]]"

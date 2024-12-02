@@ -1,10 +1,9 @@
 ---
 title: Energy
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Energy
-
 broaderTerm:
 - "[[893 Alternative energy]]"
 - "[[14615 Nuclear energy]]"

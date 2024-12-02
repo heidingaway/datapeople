@@ -1,10 +1,9 @@
 ---
 title: Manufacturing industry
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Manufacturing industry
-
 broaderTerm:
 - "[[13456 Metalworking industry]]"
 - "[[12667 Lumber industry]]"

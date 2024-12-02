@@ -1,10 +1,9 @@
 ---
 title: Historic sites
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Historic sites
-
 relatedTerm:
 - "[[9983 History]]"
 - "[[13904 Monuments]]"

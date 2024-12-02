@@ -1,10 +1,9 @@
 ---
 title: Job creation
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Job creation
-
 relatedTerm:
 - "[[11906 Labour market]]"
 - "[[6499 Employment]]"

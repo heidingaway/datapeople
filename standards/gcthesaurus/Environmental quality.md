@@ -1,10 +1,9 @@
 ---
 title: Environmental quality
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Environmental quality
-
 broaderTerm:
 - "[[650 Air quality]]"
 - "[[21459 Water quality]]"

@@ -12,13 +12,3 @@ due <% tp.date.now("YYYY-MM-DD") %>
 not done
 ```
 ## Inbox
-## Notes created today
-```dataview
-LIST
-WHERE created = date("{{date}}")
-```
-## Notes modified today
-```dataview
-LIST
-WHERE modified = date(<% tp.date.now("YYYY-MM-DD") %>)
-```

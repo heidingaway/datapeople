@@ -1,10 +1,9 @@
 ---
 title: Death
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Death
-
 relatedTerm:
 - "[[2252 Birth]]"
 - "[[7198 Euthanasia]]"

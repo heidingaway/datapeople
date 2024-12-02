@@ -1,10 +1,9 @@
 ---
 title: Polar regions
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Polar regions
-
 broaderTerm:
 - "[[1144 Antarctic]]"
 - "[[1393 Arctic]]"

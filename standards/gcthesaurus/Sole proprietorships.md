@@ -1,10 +1,9 @@
 ---
 title: Sole proprietorships
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Sole proprietorships
-
 narrowerTerm:
 - "[[2598 Businesses]]"
 relatedTerm:

@@ -1,10 +1,9 @@
 ---
 title: Safety measures
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Safety measures
-
 relatedTerm:
 - "[[7798 Fire prevention]]"
 - "[[17999 Safety]]"

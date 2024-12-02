@@ -1,10 +1,9 @@
 ---
 title: Police services
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Police services
-
 relatedTerm:
 - "[[4477 Crime prevention]]"
 - "[[6431 Emergency preparedness]]"

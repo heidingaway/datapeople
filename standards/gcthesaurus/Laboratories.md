@@ -1,10 +1,9 @@
 ---
 title: Laboratories
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Laboratories
-
 relatedTerm:
 - "[[17684 Research institutes]]"
 - "[[7267 Experiments]]"

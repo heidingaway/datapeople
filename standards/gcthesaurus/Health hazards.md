@@ -1,10 +1,9 @@
 ---
 title: Health hazards
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Health hazards
-
 relatedTerm:
 - "[[9759 Health protection]]"
 - "[[9686 Health impact]]"

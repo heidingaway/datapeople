@@ -1,10 +1,9 @@
 ---
 title: Committees
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Committees
-
 broaderTerm:
 - "[[15301 Parliamentary committees]]"
 - "[[318 Advisory committees]]"

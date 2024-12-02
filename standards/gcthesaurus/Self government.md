@@ -1,10 +1,9 @@
 ---
 title: Self government
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Self government
-
 relatedTerm:
 - "[[9269 Governments]]"
 - "[[19157 Sovereignty]]"

@@ -1,10 +1,9 @@
 ---
 title: Donations
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Donations
-
 broaderTerm:
 - "[[2990 Charitable donations]]"
 use:

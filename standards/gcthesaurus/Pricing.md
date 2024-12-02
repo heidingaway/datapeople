@@ -1,10 +1,9 @@
 ---
 title: Pricing
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Pricing
-
 relatedTerm:
 - "[[16323 Prices]]"
 - "[[16313 Price regulation]]"

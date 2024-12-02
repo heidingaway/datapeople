@@ -1,10 +1,9 @@
 ---
 title: Labour mobility
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Labour mobility
-
 relatedTerm:
 - "[[11880 Labour force]]"
 - "[[12615 Lockers]]"

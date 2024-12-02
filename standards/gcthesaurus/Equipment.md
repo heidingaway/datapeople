@@ -1,10 +1,9 @@
 ---
 title: Equipment
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Equipment
-
 broaderTerm:
 - "[[10109 Household equipment]]"
 - "[[18020 Safety equipment]]"

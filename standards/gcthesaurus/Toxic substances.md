@@ -1,10 +1,9 @@
 ---
 title: Toxic substances
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Toxic substances
-
 relatedTerm:
 - "[[15628 Pesticides]]"
 - "[[3067 Chemicals]]"

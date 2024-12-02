@@ -1,10 +1,9 @@
 ---
 title: Markets
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Markets
-
 broaderTerm:
 - "[[19404 Stock markets]]"
 - "[[2743 Capital markets]]"

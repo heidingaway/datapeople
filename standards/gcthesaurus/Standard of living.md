@@ -1,10 +1,9 @@
 ---
 title: Standard of living
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Standard of living
-
 relatedTerm:
 - "[[12447 Lifestyle]]"
 - "[[5856 Economic conditions]]"

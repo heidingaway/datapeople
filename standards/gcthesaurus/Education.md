@@ -1,10 +1,9 @@
 ---
 title: Education
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Education
-
 broaderTerm:
 - "[[4119 Continuing education]]"
 - "[[825 Alcohol education]]"

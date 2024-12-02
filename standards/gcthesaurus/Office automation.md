@@ -1,10 +1,9 @@
 ---
 title: Office automation
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Office automation
-
 narrowerTerm:
 - "[[1733 Automation]]"
 relatedTerm:

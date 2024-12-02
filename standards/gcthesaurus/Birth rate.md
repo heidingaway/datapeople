@@ -1,10 +1,9 @@
 ---
 title: Birth rate
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Birth rate
-
 relatedTerm:
 - "[[2251 Birth]]"
 - "[[7397 Family planning]]"

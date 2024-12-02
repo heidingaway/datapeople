@@ -1,10 +1,9 @@
 ---
 title: SO Society and Culture
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: SO Society and Culture
-
 subjectCategory:
 - "[[7370 Family caregivers]]"
 - "[[20301 Town planning]]"

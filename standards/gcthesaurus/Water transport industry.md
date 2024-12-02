@@ -1,10 +1,9 @@
 ---
 title: Water transport industry
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Water transport industry
-
 narrowerTerm:
 - "[[20628 Transport industry]]"
 relatedTerm:

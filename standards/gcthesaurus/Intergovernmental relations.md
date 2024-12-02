@@ -1,10 +1,9 @@
 ---
 title: Intergovernmental relations
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Intergovernmental relations
-
 broaderTerm:
 - "[[7590 Federal provincial relations]]"
 - "[[11502 Interprovincial relations]]"

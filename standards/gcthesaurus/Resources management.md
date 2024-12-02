@@ -1,10 +1,9 @@
 ---
 title: Resources management
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Resources management
-
 broaderTerm:
 - "[[6657 Energy management]]"
 narrowerTerm:

@@ -1,10 +1,9 @@
 ---
 title: Northern Canada
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Northern Canada
-
 relatedTerm:
 - "[[14600 Northerners]]"
 - "[[14578 Northern development]]"

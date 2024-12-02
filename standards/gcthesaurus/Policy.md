@@ -1,10 +1,9 @@
 ---
 title: Policy
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Policy
-
 broaderTerm:
 - "[[20634 Transport policy]]"
 - "[[18950 Social policy]]"

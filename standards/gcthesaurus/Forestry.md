@@ -1,10 +1,9 @@
 ---
 title: Forestry
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Forestry
-
 relatedTerm:
 - "[[8324 Forest management]]"
 - "[[8375 Forestry industry]]"

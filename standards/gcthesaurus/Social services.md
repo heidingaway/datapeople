@@ -1,10 +1,9 @@
 ---
 title: Social services
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Social services
-
 broaderTerm:
 - "[[19515 Subsidized housing]]"
 - "[[10147 Housing assistance]]"

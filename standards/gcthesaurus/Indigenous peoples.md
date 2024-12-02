@@ -1,10 +1,9 @@
 ---
 title: Indigenous peoples
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Indigenous peoples
-
 broaderTerm:
 - "[[13500 Métis]]"
 - "[[10719 Indigenous youth]]"

@@ -1,10 +1,9 @@
 ---
 title: Costs
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Costs
-
 relatedTerm:
 - "[[16318 Prices]]"
 - "[[7629 Fees]]"

@@ -1,10 +1,9 @@
 ---
 title: Federal institutions
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Federal institutions
-
 relatedTerm:
 - "[[7540 Federal government]]"
 - "[[16103 Portfolio]]"

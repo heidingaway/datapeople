@@ -1,10 +1,9 @@
 ---
 title: Ocean energy
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Ocean energy
-
 narrowerTerm:
 - "[[17539 Renewable energy]]"
 relatedTerm:

@@ -1,10 +1,9 @@
 ---
 title: Euthanasia
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Euthanasia
-
 relatedTerm:
 - "[[2140 Bioethics]]"
 - "[[10058 Homicide]]"

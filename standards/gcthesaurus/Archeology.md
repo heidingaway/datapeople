@@ -1,11 +1,10 @@
 ---
 title: Archeology
-created: 2024-12-01
-modified: 2024-12-01
-tags:
-  - TBSMetadata
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Archeology
 usedFor:
-  - "[[1344 Archaeology]]"
+- "[[1344 Archaeology]]"
 ---
 # Archeology

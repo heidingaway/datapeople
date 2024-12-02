@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-12-02.md",
+                "file": "Open by Design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-02"
+              "title": "Open by Design"
             }
           }
         ]
@@ -83,19 +83,9 @@
               "icon": "stacked-levels",
               "title": "Tag Folder"
             }
-          },
-          {
-            "id": "b98c699dcb7ec286",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -220,32 +210,32 @@
   },
   "active": "fab1e17ad9d2e07a",
   "lastOpenFiles": [
+    "what is doing data.md",
+    "standards/gcthesaurus/Theatre replaces both Drama and Theatres as a sing.md",
+    "standards/gcthesaurus/Parliamentary leaders replaces House leaders as pr.md",
+    "standards/gcthesaurus/Recyclable materials replaces Recyclable products .md",
+    "Open by Design.md",
+    "standards/gcthesaurus/Occupational safety replaces Workplace safety as p.md",
+    "standards/gcthesaurus/Investments money property or other valuables belo.md",
+    "standards/gcthesaurus/Leader of the Official Opposition replaces Leader .md",
+    "standards/gcthesaurus/Oral health replaces Dental health as preferred te.md",
+    "standards/gcthesaurus/Publicprivate partnerships replaces Governmentindu.md",
+    "standards/gcthesaurus/Side effects replaces Adverse effects as preferred.md",
+    "standards/gcthesaurus/Social assistance replaces Welfare  as preferred t.md",
+    "standards/gcthesaurus/The sciences that deal with the earth or any part .md",
+    "standards/gcthesaurus/Theatre replaces Drama  as preferred term in May 2.md",
+    "standards/gcthesaurus/Visual disabilities replaces Visual impairments as.md",
     "2024-12-02.md",
-    "standards/gcthesaurus/Economy.md",
-    "standards/gcthesaurus/Securite.md",
-    "standards/gcthesaurus/Arme nucleaire.md",
-    "standards/gcthesaurus/2019nCoV disease.md",
-    "standards/gcthesaurus/Zootechnics.md",
-    "standards/gcthesaurus/2SLGBTQ people.md",
-    "standards/gcthesaurus/2SLGBTQI people.md",
-    "standards/gcthesaurus/Adolescents.md",
-    "standards/gcthesaurus/Administrative services.md",
-    "standards/gcthesaurus/Administrative data.md",
-    "standards/gcthesaurus/Administration.md",
-    "standards/gcthesaurus/Acidic rain.md",
-    "standards/gcthesaurus/Accessibility for persons with disabilities.md",
-    "standards/gcthesaurus/Accessibility.md",
-    "standards/gcthesaurus/Accessibilite.md",
-    "standards/gcthesaurus/A collection of written and approved laws that gui.md",
-    "standards/gcthesaurus/2019 novel coronavirus disease.md",
-    "standards/gcthesaurus/2spirited people.md",
-    "standards/gcthesaurus/2spirit people.md",
-    "2024-12-01.md",
-    "standards/gcthesaurus/A copy of an article chapter or other portion of a.md",
-    "standards/gcthesaurus/A community living organisms together with the env.md",
-    "standards/gcthesaurus/A contagious viral infection characterized by infl.md",
-    "2024-11-30.md",
-    "standards/gcthesaurus/Advocacy.md",
+    "Templates/daily template.md",
+    "standards/gcthesaurus/Industry assistance replaces Industrial aid as pre.md",
+    "standards/gcthesaurus/Human security replaces Human safety as preferred .md",
+    "standards/gcthesaurus/Hazardous materials transport replaces Dangerous p.md",
+    "standards/gcthesaurus/Hazardous materials replaces Dangerous products as.md",
+    "standards/gcthesaurus/Geographic data replaces Mapping data  as preferre.md",
+    "standards/gcthesaurus/Green products replaces Environment friendly produ.md",
+    "standards/gcthesaurus/Cultural groups replaces Cultural minorities as pr.md",
+    "standards/gcthesaurus/Electronic government replaces Government OnLine a.md",
+    "standards/gcthesaurus/Demining replaces Mine clearing as preferred term .md",
     "standards/gcthesaurus/markdown_files",
     "standards/pt",
     "standards/person",

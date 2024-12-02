@@ -1,10 +1,9 @@
 ---
 title: Law
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Law
-
 broaderTerm:
 - "[[13248 Medical law]]"
 - "[[13038 Maritime law]]"

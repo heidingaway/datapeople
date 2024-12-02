@@ -1,10 +1,9 @@
 ---
 title: Fitness
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Fitness
-
 relatedTerm:
 - "[[19247 Sports]]"
 - "[[9691 Health indicators]]"

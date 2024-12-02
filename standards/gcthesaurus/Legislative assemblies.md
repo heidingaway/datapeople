@@ -1,10 +1,9 @@
 ---
 title: Legislative assemblies
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Legislative assemblies
-
 relatedTerm:
 - "[[20073 Territorial governments]]"
 - "[[16708 Provincial governments]]"

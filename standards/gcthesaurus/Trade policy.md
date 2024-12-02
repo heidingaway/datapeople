@@ -1,10 +1,9 @@
 ---
 title: Trade policy
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Trade policy
-
 narrowerTerm:
 - "[[5928 Economic policy]]"
 relatedTerm:

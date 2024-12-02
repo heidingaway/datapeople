@@ -1,10 +1,9 @@
 ---
 title: Safety equipment
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Safety equipment
-
 broaderTerm:
 - "[[1759 Automobile safety equipment]]"
 - "[[12997 Marine safety equipment]]"

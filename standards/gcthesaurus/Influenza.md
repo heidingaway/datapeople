@@ -1,10 +1,9 @@
 ---
 title: Influenza
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Influenza
-
 narrowerTerm:
 - "[[10924 Infectious diseases]]"
 relatedTerm:

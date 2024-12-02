@@ -1,10 +1,9 @@
 ---
 title: Interpersonal relations
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Interpersonal relations
-
 relatedTerm:
 - "[[1934 Behaviour]]"
 use:

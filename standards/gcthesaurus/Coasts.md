@@ -1,10 +1,9 @@
 ---
 title: Coasts
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Coasts
-
 relatedTerm:
 - "[[18354 Seas]]"
 - "[[14872 Oceans]]"

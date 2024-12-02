@@ -1,10 +1,9 @@
 ---
 title: Geographic data
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Geographic data
-
 relatedTerm:
 - "[[12900 Maps]]"
 - "[[8925 Geographic information systems]]"

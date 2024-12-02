@@ -1,10 +1,9 @@
 ---
 title: Intelligent systems
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Intelligent systems
-
 broaderTerm:
 - "[[11259 Intelligent transportation systems]]"
 narrowerTerm:

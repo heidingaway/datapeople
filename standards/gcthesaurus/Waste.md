@@ -1,10 +1,9 @@
 ---
 title: Waste
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Waste
-
 broaderTerm:
 - "[[6381 Electronic waste]]"
 - "[[10844 Industrial waste]]"

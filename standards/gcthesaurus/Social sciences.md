@@ -1,10 +1,9 @@
 ---
 title: Social sciences
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Social sciences
-
 broaderTerm:
 - "[[9052 Gerontology]]"
 - "[[5973 Economics]]"

@@ -1,10 +1,9 @@
 ---
 title: Imprisonment
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Imprisonment
-
 relatedTerm:
 - "[[4305 Correctional institutions]]"
 - "[[11107 Inmates]]"

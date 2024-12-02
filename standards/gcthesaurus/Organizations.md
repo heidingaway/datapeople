@@ -1,10 +1,9 @@
 ---
 title: Organizations
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Organizations
-
 broaderTerm:
 - "[[15351 Partnerships]]"
 - "[[4282 Corporations]]"

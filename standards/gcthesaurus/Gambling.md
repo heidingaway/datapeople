@@ -1,10 +1,9 @@
 ---
 title: Gambling
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Gambling
-
 relatedTerm:
 - "[[15273 Pari-mutuel betting]]"
 - "[[12653 Lotteries]]"

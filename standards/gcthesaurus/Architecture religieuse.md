@@ -1,11 +1,10 @@
 ---
 title: Architecture religieuse
-created: 2024-12-01
-modified: 2024-12-01
-tags:
-  - TBSMetadata
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Architecture religieuse
 french:
-  - "[[17494 Religious architecture]]"
+- "[[17494 Religious architecture]]"
 ---
 # Architecture religieuse

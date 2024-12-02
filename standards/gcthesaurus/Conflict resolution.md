@@ -1,10 +1,9 @@
 ---
 title: Conflict resolution
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Conflict resolution
-
 relatedTerm:
 - "[[13214 Mediation]]"
 - "[[14412 Negotiations]]"

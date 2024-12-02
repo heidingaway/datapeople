@@ -1,11 +1,10 @@
 ---
 title: Alcoolisme
-created: 2024-12-01
-modified: 2024-12-01
-tags:
-  - TBSMetadata
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Alcoolisme
 french:
-  - "[[846 Alcoholism]]"
+- "[[846 Alcoholism]]"
 ---
 # Alcoolisme

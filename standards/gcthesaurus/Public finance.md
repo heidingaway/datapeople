@@ -1,10 +1,9 @@
 ---
 title: Public finance
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Public finance
-
 narrowerTerm:
 - "[[7690 Finance]]"
 relatedTerm:

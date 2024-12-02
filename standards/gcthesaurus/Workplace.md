@@ -1,10 +1,9 @@
 ---
 title: Workplace
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Workplace
-
 relatedTerm:
 - "[[22015 Workplace violence]]"
 - "[[21994 Workplace automation]]"

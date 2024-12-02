@@ -1,10 +1,9 @@
 ---
 title: Quality control
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Quality control
-
 narrowerTerm:
 - "[[4149 Control]]"
 relatedTerm:

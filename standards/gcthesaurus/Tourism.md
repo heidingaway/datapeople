@@ -1,10 +1,9 @@
 ---
 title: Tourism
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Tourism
-
 relatedTerm:
 - "[[20288 Tourism facilities]]"
 - "[[4588 Cruise ships]]"

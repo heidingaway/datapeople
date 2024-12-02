@@ -1,10 +1,9 @@
 ---
 title: Medicine
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Medicine
-
 broaderTerm:
 - "[[908 Alternative medicine]]"
 - "[[14634 Nuclear medicine]]"

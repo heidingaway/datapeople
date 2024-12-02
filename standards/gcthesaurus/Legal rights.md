@@ -1,10 +1,9 @@
 ---
 title: Legal rights
-created: 2024-12-01
-modified: 2024-12-01
-tags: 
+created: 2024-12-02
+modified: 2024-12-02
+tags: TBSMetadata
 alias: Legal rights
-
 relatedTerm:
 - "[[15030 Ombudsman]]"
 - "[[10220 Human rights]]"
