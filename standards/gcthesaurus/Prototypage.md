@@ -1,10 +1,8 @@
 ---
 title: Prototypage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prototypage
+longTitle: 'Prototypage'
+tags:
+- gccommon
 french:
-- "[[16679 Prototyping]]"
+- "[[Prototyping]]"
 ---
-# Prototypage

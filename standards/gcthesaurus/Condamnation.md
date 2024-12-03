@@ -1,10 +1,8 @@
 ---
 title: Condamnation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Condamnation
+longTitle: 'Condamnation'
+tags:
+- gccommon
 french:
-- "[[4166 Conviction]]"
+- "[[Conviction]]"
 ---
-# Condamnation

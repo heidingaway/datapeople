@@ -1,10 +1,8 @@
 ---
 title: Systeme informatique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Système informatique
+longTitle: 'Système informatique'
+tags:
+- gccommon
 french:
-- "[[3871 Computer systems]]"
+- "[[Computer systems]]"
 ---
-# Systeme informatique

@@ -1,10 +1,8 @@
 ---
 title: Tribunal international
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tribunal international
+longTitle: 'Tribunal international'
+tags:
+- gccommon
 french:
-- "[[11370 International courts]]"
+- "[[International courts]]"
 ---
-# Tribunal international

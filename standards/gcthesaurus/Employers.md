@@ -1,10 +1,8 @@
 ---
 title: Employers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Employers
+longTitle: 'Employers'
+tags:
+- gccommon
 relatedTerm:
-- "[[11904 Labour market]]"
+- "[[Labour market]]"
 ---
-# Employers

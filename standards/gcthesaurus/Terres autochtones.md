@@ -1,10 +1,8 @@
 ---
 title: Terres autochtones
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Terres autochtones
+longTitle: 'Terres autochtones'
+tags:
+- gccommon
 french:
-- "[[10654 Indigenous lands]]"
+- "[[Indigenous lands]]"
 ---
-# Terres autochtones

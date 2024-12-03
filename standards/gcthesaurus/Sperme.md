@@ -1,10 +1,8 @@
 ---
 title: Sperme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sperme
+longTitle: 'Sperme'
+tags:
+- gccommon
 french:
-- "[[18513 Semen]]"
+- "[[Semen]]"
 ---
-# Sperme

@@ -1,15 +1,12 @@
 ---
 title: Pilotage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pilotage
+longTitle: 'Pilotage'
+tags:
+- gccommon
 french:
-- "[[15791 Pilotage]]"
+- "[[Pilotage]]"
 relatedTerm:
-- "[[14382 Navigation]]"
+- "[[Navigation]]"
 use:
-- "[[18669 Ship piloting]]"
-- "[[12969 Marine pilotage]]"
+- "[[Ship piloting Marine pilotage]]"
 ---
-# Pilotage

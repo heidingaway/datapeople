@@ -1,14 +1,10 @@
 ---
 title: Licensing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Licensing
+longTitle: 'Licensing'
+tags:
+- gccommon
 relatedTerm:
-- "[[15509 Permits]]"
-- "[[2973 Certification]]"
-- "[[17463 Regulation]]"
+- "[[Permits Certification Regulation]]"
 use:
-- "[[12397 Licencing]]"
+- "[[Licencing]]"
 ---
-# Licensing

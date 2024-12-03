@@ -1,10 +1,8 @@
 ---
 title: Discounts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Discounts
+longTitle: 'Discounts'
+tags:
+- gccommon
 relatedTerm:
-- "[[18173 Savings]]"
+- "[[Savings]]"
 ---
-# Discounts

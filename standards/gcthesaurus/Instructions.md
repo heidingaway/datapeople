@@ -1,10 +1,8 @@
 ---
 title: Instructions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Instructions
+longTitle: 'Instructions'
+tags:
+- gccommon
 usedFor:
-- "[[6022 Education]]"
+- "[[Education]]"
 ---
-# Instructions

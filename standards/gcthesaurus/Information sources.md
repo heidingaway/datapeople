@@ -1,10 +1,8 @@
 ---
 title: Information sources
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Information sources
+longTitle: 'Information sources'
+tags:
+- gccommon
 usedFor:
-- "[[10960 Information]]"
+- "[[Information]]"
 ---
-# Information sources

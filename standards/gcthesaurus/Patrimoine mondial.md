@@ -1,10 +1,8 @@
 ---
 title: Patrimoine mondial
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Patrimoine mondial
+longTitle: 'Patrimoine mondial'
+tags:
+- gccommon
 french:
-- "[[22018 World heritage]]"
+- "[[World heritage]]"
 ---
-# Patrimoine mondial

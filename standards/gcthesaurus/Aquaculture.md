@@ -1,20 +1,16 @@
 ---
 title: Aquaculture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aquaculture
+longTitle: 'Aquaculture'
+tags:
+- gccommon
 broaderTerm:
-- "[[7892 Fish farming]]"
+- "[[Fish farming]]"
 french:
-- "[[1238 Aquaculture]]"
+- "[[Aquaculture]]"
 narrowerTerm:
-- "[[556 Agriculture]]"
+- "[[Agriculture]]"
 relatedTerm:
-- "[[1302 Aquatic plants]]"
-- "[[1268 Aquatic animals]]"
+- "[[Aquatic plants Aquatic animals]]"
 use:
-- "[[1314 Aquiculture]]"
-- "[[1253 Aquatic agriculture]]"
+- "[[Aquiculture Aquatic agriculture]]"
 ---
-# Aquaculture

@@ -1,13 +1,10 @@
 ---
 title: Addiction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Addiction
+longTitle: 'Addiction'
+tags:
+- gccommon
 broaderTerm:
-- "[[850 Alcoholism]]"
-- "[[5617 Drug addiction]]"
+- "[[Alcoholism Drug addiction]]"
 narrowerTerm:
-- "[[18956 Social problems]]"
+- "[[Social problems]]"
 ---
-# Addiction

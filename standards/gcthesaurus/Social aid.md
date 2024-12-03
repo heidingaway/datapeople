@@ -1,10 +1,8 @@
 ---
 title: Social aid
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Social aid
+longTitle: 'Social aid'
+tags:
+- gccommon
 usedFor:
-- "[[18867 Social assistance]]"
+- "[[Social assistance]]"
 ---
-# Social aid

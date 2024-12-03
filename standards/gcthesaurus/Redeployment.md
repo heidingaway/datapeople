@@ -1,10 +1,8 @@
 ---
 title: Redeployment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Redeployment
+longTitle: 'Redeployment'
+tags:
+- gccommon
 usedFor:
-- "[[17765 Restructuring]]"
+- "[[Restructuring]]"
 ---
-# Redeployment

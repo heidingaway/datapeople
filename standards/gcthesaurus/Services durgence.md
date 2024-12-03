@@ -1,10 +1,8 @@
 ---
 title: Services durgence
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Services d'urgence
+longTitle: 'Services d'urgence'
+tags:
+- gccommon
 french:
-- "[[6444 Emergency services]]"
+- "[[Emergency services]]"
 ---
-# Services durgence

@@ -1,10 +1,8 @@
 ---
 title: Meteorologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Météorologie
+longTitle: 'Météorologie'
+tags:
+- gccommon
 french:
-- "[[13477 Meteorology]]"
+- "[[Meteorology]]"
 ---
-# Meteorologie

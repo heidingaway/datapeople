@@ -1,10 +1,8 @@
 ---
 title: Aeolian erosion
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aeolian erosion
+longTitle: 'Aeolian erosion'
+tags:
+- gccommon
 usedFor:
-- "[[7104 Erosion]]"
+- "[[Erosion]]"
 ---
-# Aeolian erosion

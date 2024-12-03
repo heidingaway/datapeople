@@ -1,10 +1,8 @@
 ---
 title: Repertoire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Répertoire
+longTitle: 'Répertoire'
+tags:
+- gccommon
 french:
-- "[[5293 Directories]]"
+- "[[Directories]]"
 ---
-# Repertoire

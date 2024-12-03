@@ -1,10 +1,8 @@
 ---
 title: Vandalism
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vandalism
+longTitle: 'Vandalism'
+tags:
+- gccommon
 relatedTerm:
-- "[[4466 Crime]]"
+- "[[Crime]]"
 ---
-# Vandalism

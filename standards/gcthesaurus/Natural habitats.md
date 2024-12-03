@@ -1,10 +1,8 @@
 ---
 title: Natural habitats
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Natural habitats
+longTitle: 'Natural habitats'
+tags:
+- gccommon
 usedFor:
-- "[[9432 Habitats]]"
+- "[[Habitats]]"
 ---
-# Natural habitats

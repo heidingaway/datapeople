@@ -1,13 +1,10 @@
 ---
 title: Exchange rates
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Exchange rates
+longTitle: 'Exchange rates'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17213 Rates]]"
+- "[[Rates]]"
 relatedTerm:
-- "[[8251 Foreign payments]]"
-- "[[4736 Currency]]"
+- "[[Foreign payments Currency]]"
 ---
-# Exchange rates

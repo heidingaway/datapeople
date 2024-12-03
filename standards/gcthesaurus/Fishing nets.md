@@ -1,10 +1,8 @@
 ---
 title: Fishing nets
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fishing nets
+longTitle: 'Fishing nets'
+tags:
+- gccommon
 usedFor:
-- "[[7952 Fisheries technology]]"
+- "[[Fisheries technology]]"
 ---
-# Fishing nets

@@ -1,10 +1,8 @@
 ---
 title: Brochures
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Brochures
+longTitle: 'Brochures'
+tags:
+- gccommon
 usedFor:
-- "[[2328 Booklets]]"
+- "[[Booklets]]"
 ---
-# Brochures

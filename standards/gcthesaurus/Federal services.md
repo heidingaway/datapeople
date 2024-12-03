@@ -1,10 +1,8 @@
 ---
 title: Federal services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Federal services
+longTitle: 'Federal services'
+tags:
+- gccommon
 usedFor:
-- "[[9242 Government services]]"
+- "[[Government services]]"
 ---
-# Federal services

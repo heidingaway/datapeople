@@ -1,14 +1,12 @@
 ---
 title: Rodents
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rodents
+longTitle: 'Rodents'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12737 Mammals]]"
+- "[[Mammals]]"
 relatedTerm:
-- "[[17936 Rodenticides]]"
+- "[[Rodenticides]]"
 use:
-- "[[17216 Rats]]"
+- "[[Rats]]"
 ---
-# Rodents

@@ -1,10 +1,8 @@
 ---
 title: Refrigeration equipment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Refrigeration equipment
+longTitle: 'Refrigeration equipment'
+tags:
+- gccommon
 narrowerTerm:
-- "[[7087 Equipment]]"
+- "[[Equipment]]"
 ---
-# Refrigeration equipment

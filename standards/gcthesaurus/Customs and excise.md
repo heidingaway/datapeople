@@ -1,16 +1,10 @@
 ---
 title: Customs and excise
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Customs and excise
+longTitle: 'Customs and excise'
+tags:
+- gccommon
 relatedTerm:
-- "[[10537 Imports]]"
-- "[[7233 Excise taxes]]"
-- "[[19705 Tariffs]]"
-- "[[11444 International trade]]"
-- "[[2343 Border crossing]]"
+- "[[Imports Excise taxes Tariffs International trade B]]"
 use:
-- "[[7227 Excise regulations]]"
+- "[[Excise regulations]]"
 ---
-# Customs and excise

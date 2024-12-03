@@ -1,12 +1,8 @@
 ---
 title: Recipients
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Recipients
+longTitle: 'Recipients'
+tags:
+- gccommon
 relatedTerm:
-- "[[16821 Public finance]]"
-- "[[20545 Transfer payments]]"
-- "[[8637 Funding]]"
+- "[[Public finance Transfer payments Funding]]"
 ---
-# Recipients

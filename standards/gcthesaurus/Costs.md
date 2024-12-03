@@ -1,15 +1,10 @@
 ---
 title: Costs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Costs
+longTitle: 'Costs'
+tags:
+- gccommon
 relatedTerm:
-- "[[16318 Prices]]"
-- "[[7629 Fees]]"
-- "[[16976 Purchasing]]"
-- "[[16232 Premiums]]"
+- "[[Prices Fees Purchasing Premiums]]"
 use:
-- "[[2984 Charges]]"
+- "[[Charges]]"
 ---
-# Costs

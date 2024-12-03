@@ -1,10 +1,8 @@
 ---
 title: Ecole secondaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: École secondaire
+longTitle: 'École secondaire'
+tags:
+- gccommon
 french:
-- "[[18417 Secondary schools]]"
+- "[[Secondary schools]]"
 ---
-# Ecole secondaire

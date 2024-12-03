@@ -1,12 +1,10 @@
 ---
 title: Mother tongue
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mother tongue
+longTitle: 'Mother tongue'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12129 Languages]]"
+- "[[Languages]]"
 relatedTerm:
-- "[[9903 Heritage languages]]"
+- "[[Heritage languages]]"
 ---
-# Mother tongue

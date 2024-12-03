@@ -1,12 +1,10 @@
 ---
 title: Railway installations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Railway installations
+longTitle: 'Railway installations'
+tags:
+- gccommon
 broaderTerm:
-- "[[20478 Train stations]]"
+- "[[Train stations]]"
 relatedTerm:
-- "[[17140 Rail transport]]"
+- "[[Rail transport]]"
 ---
-# Railway installations

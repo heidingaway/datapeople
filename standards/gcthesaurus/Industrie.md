@@ -1,10 +1,8 @@
 ---
 title: Industrie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie
+longTitle: 'Industrie'
+tags:
+- gccommon
 french:
-- "[[10851 Industry]]"
+- "[[Industry]]"
 ---
-# Industrie

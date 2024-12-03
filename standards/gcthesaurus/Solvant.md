@@ -1,10 +1,8 @@
 ---
 title: Solvant
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Solvant
+longTitle: 'Solvant'
+tags:
+- gccommon
 french:
-- "[[19134 Solvents]]"
+- "[[Solvents]]"
 ---
-# Solvant

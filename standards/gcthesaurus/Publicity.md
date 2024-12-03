@@ -1,10 +1,8 @@
 ---
 title: Publicity
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Publicity
+longTitle: 'Publicity'
+tags:
+- gccommon
 usedFor:
-- "[[305 Advertising]]"
+- "[[Advertising]]"
 ---
-# Publicity

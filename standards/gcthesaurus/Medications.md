@@ -1,10 +1,8 @@
 ---
 title: Medications
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Medications
+longTitle: 'Medications'
+tags:
+- gccommon
 usedFor:
-- "[[5692 Drugs]]"
+- "[[Drugs]]"
 ---
-# Medications

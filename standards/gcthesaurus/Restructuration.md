@@ -1,10 +1,8 @@
 ---
 title: Restructuration
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Restructuration
+longTitle: 'Restructuration'
+tags:
+- gccommon
 french:
-- "[[17764 Restructuring]]"
+- "[[Restructuring]]"
 ---
-# Restructuration

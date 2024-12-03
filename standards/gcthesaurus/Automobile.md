@@ -1,10 +1,8 @@
 ---
 title: Automobile
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Automobile
+longTitle: 'Automobile'
+tags:
+- gccommon
 french:
-- "[[1763 Automobiles]]"
+- "[[Automobiles]]"
 ---
-# Automobile

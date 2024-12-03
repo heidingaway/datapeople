@@ -1,18 +1,12 @@
 ---
 title: Foreign service
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Foreign service
+longTitle: 'Foreign service'
+tags:
+- gccommon
 broaderTerm:
-- "[[5282 Diplomatic missions]]"
+- "[[Diplomatic missions]]"
 relatedTerm:
-- "[[7322 External relations]]"
-- "[[5065 Delegations]]"
+- "[[External relations Delegations]]"
 use:
-- "[[925 Ambassadors]]"
-- "[[4048 Consuls]]"
-- "[[5277 Diplomacy]]"
-- "[[5286 Diplomats]]"
+- "[[Ambassadors Consuls Diplomacy Diplomats]]"
 ---
-# Foreign service

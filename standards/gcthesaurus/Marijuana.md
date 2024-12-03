@@ -1,17 +1,14 @@
 ---
 title: Marijuana
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marijuana
+longTitle: 'Marijuana'
+tags:
+- gccommon
 french:
-- "[[12906 Marijuana]]"
+- "[[Marijuana]]"
 narrowerTerm:
-- "[[14158 Narcotics]]"
+- "[[Narcotics]]"
 relatedTerm:
-- "[[5706 Drugs]]"
-- "[[13331 Medicinal plants]]"
+- "[[Drugs Medicinal plants]]"
 use:
-- "[[12902 Marihuana]]"
+- "[[Marihuana]]"
 ---
-# Marijuana

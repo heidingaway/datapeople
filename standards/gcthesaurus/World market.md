@@ -1,10 +1,8 @@
 ---
 title: World market
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: World market
+longTitle: 'World market'
+tags:
+- gccommon
 usedFor:
-- "[[11402 International markets]]"
+- "[[International markets]]"
 ---
-# World market

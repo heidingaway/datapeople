@@ -1,10 +1,8 @@
 ---
 title: Telesante
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Télésanté
+longTitle: 'Télésanté'
+tags:
+- gccommon
 french:
-- "[[19947 Telehealth]]"
+- "[[Telehealth]]"
 ---
-# Telesante

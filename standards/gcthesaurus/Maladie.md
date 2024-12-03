@@ -1,10 +1,8 @@
 ---
 title: Maladie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maladie
+longTitle: 'Maladie'
+tags:
+- gccommon
 french:
-- "[[5386 Diseases]]"
+- "[[Diseases]]"
 ---
-# Maladie

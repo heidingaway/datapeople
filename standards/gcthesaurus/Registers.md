@@ -1,10 +1,8 @@
 ---
 title: Registers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Registers
+longTitle: 'Registers'
+tags:
+- gccommon
 relatedTerm:
-- "[[2848 Catalogues]]"
+- "[[Catalogues]]"
 ---
-# Registers

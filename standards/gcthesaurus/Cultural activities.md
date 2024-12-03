@@ -1,10 +1,8 @@
 ---
 title: Cultural activities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cultural activities
+longTitle: 'Cultural activities'
+tags:
+- gccommon
 usedFor:
-- "[[4636 Cultural events]]"
+- "[[Cultural events]]"
 ---
-# Cultural activities

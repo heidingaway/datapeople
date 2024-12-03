@@ -1,10 +1,8 @@
 ---
 title: Farm equipment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Farm equipment
+longTitle: 'Farm equipment'
+tags:
+- gccommon
 usedFor:
-- "[[541 Agricultural technology]]"
+- "[[Agricultural technology]]"
 ---
-# Farm equipment

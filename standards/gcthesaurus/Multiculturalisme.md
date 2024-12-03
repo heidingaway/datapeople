@@ -1,10 +1,8 @@
 ---
 title: Multiculturalisme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Multiculturalisme
+longTitle: 'Multiculturalisme'
+tags:
+- gccommon
 french:
-- "[[14003 Multiculturalism]]"
+- "[[Multiculturalism]]"
 ---
-# Multiculturalisme

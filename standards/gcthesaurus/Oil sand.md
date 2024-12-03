@@ -1,10 +1,8 @@
 ---
 title: Oil sand
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Oil sand
+longTitle: 'Oil sand'
+tags:
+- gccommon
 usedFor:
-- "[[14988 Oil sands]]"
+- "[[Oil sands]]"
 ---
-# Oil sand

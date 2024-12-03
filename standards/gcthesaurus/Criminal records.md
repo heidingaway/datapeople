@@ -1,11 +1,8 @@
 ---
 title: Criminal records
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Criminal records
+longTitle: 'Criminal records'
+tags:
+- gccommon
 relatedTerm:
-- "[[11728 Justice system]]"
-- "[[4460 Crime]]"
+- "[[Justice system Crime]]"
 ---
-# Criminal records

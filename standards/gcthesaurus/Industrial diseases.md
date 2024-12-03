@@ -1,10 +1,8 @@
 ---
 title: Industrial diseases
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrial diseases
+longTitle: 'Industrial diseases'
+tags:
+- gccommon
 usedFor:
-- "[[14752 Occupational diseases]]"
+- "[[Occupational diseases]]"
 ---
-# Industrial diseases

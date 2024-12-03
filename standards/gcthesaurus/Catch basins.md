@@ -1,10 +1,8 @@
 ---
 title: Catch basins
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Catch basins
+longTitle: 'Catch basins'
+tags:
+- gccommon
 usedFor:
-- "[[21547 Watersheds]]"
+- "[[Watersheds]]"
 ---
-# Catch basins

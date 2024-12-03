@@ -1,10 +1,8 @@
 ---
 title: Etablissement des prix
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Établissement des prix
+longTitle: 'Établissement des prix'
+tags:
+- gccommon
 french:
-- "[[16326 Pricing]]"
+- "[[Pricing]]"
 ---
-# Etablissement des prix

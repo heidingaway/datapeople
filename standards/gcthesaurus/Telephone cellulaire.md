@@ -1,10 +1,8 @@
 ---
 title: Telephone cellulaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Téléphone cellulaire
+longTitle: 'Téléphone cellulaire'
+tags:
+- gccommon
 french:
-- "[[2906 Cellular telephones]]"
+- "[[Cellular telephones]]"
 ---
-# Telephone cellulaire

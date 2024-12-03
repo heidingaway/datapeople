@@ -1,19 +1,12 @@
 ---
 title: Gender discrimination
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gender discrimination
+longTitle: 'Gender discrimination'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5376 Discrimination]]"
+- "[[Discrimination]]"
 relatedTerm:
-- "[[19374 Status of women]]"
-- "[[8810 Gender equality]]"
-- "[[8787 Gender-based violence]]"
-- "[[18644 Sexual orientation]]"
-- "[[18620 Sexual harassment]]"
+- "[[Status of women Gender equality Gender-based viole]]"
 use:
-- "[[18608 Sex discrimination]]"
-- "[[8813 Gender portrayal]]"
+- "[[Sex discrimination Gender portrayal]]"
 ---
-# Gender discrimination

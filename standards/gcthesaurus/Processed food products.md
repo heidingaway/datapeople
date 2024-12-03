@@ -1,10 +1,8 @@
 ---
 title: Processed food products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Processed food products
+longTitle: 'Processed food products'
+tags:
+- gccommon
 usedFor:
-- "[[8147 Food processing]]"
+- "[[Food processing]]"
 ---
-# Processed food products

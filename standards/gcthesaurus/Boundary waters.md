@@ -1,13 +1,10 @@
 ---
 title: Boundary waters
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Boundary waters
+longTitle: 'Boundary waters'
+tags:
+- gccommon
 relatedTerm:
-- "[[2383 Boundaries]]"
+- "[[Boundaries]]"
 use:
-- "[[11347 International boundary waters]]"
-- "[[20530 Transboundary waters]]"
+- "[[International boundary waters Transboundary waters]]"
 ---
-# Boundary waters

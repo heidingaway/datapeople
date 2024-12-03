@@ -1,12 +1,10 @@
 ---
 title: Community radio
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Community radio
+longTitle: 'Community radio'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17074 Radio]]"
+- "[[Radio]]"
 relatedTerm:
-- "[[3693 Community development]]"
+- "[[Community development]]"
 ---
-# Community radio

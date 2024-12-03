@@ -1,10 +1,8 @@
 ---
 title: Appauvrissement de lozone
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Appauvrissement de l'ozone
+longTitle: 'Appauvrissement de l'ozone'
+tags:
+- gccommon
 french:
-- "[[15184 Ozone depletion]]"
+- "[[Ozone depletion]]"
 ---
-# Appauvrissement de lozone

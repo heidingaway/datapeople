@@ -1,10 +1,8 @@
 ---
 title: Tissue grafting
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tissue grafting
+longTitle: 'Tissue grafting'
+tags:
+- gccommon
 usedFor:
-- "[[20587 Transplantation (Medicine)]]"
+- "[[Transplantation Medicine]]"
 ---
-# Tissue grafting

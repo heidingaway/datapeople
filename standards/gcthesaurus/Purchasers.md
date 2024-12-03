@@ -1,10 +1,8 @@
 ---
 title: Purchasers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Purchasers
+longTitle: 'Purchasers'
+tags:
+- gccommon
 usedFor:
-- "[[2620 Buyers]]"
+- "[[Buyers]]"
 ---
-# Purchasers

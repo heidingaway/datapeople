@@ -1,10 +1,8 @@
 ---
 title: Energy resources
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Energy resources
+longTitle: 'Energy resources'
+tags:
+- gccommon
 usedFor:
-- "[[6688 Energy supply]]"
+- "[[Energy supply]]"
 ---
-# Energy resources

@@ -1,10 +1,8 @@
 ---
 title: Species diversity
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Species diversity
+longTitle: 'Species diversity'
+tags:
+- gccommon
 usedFor:
-- "[[2164 Biological diversity]]"
+- "[[Biological diversity]]"
 ---
-# Species diversity

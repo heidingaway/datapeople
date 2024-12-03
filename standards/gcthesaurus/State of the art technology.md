@@ -1,10 +1,8 @@
 ---
 title: State of the art technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: State of the art technology
+longTitle: 'State of the art technology'
+tags:
+- gccommon
 usedFor:
-- "[[9920 High technology]]"
+- "[[High technology]]"
 ---
-# State of the art technology

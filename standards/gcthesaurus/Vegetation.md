@@ -1,10 +1,8 @@
 ---
 title: Vegetation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vegetation
+longTitle: 'Vegetation'
+tags:
+- gccommon
 usedFor:
-- "[[15863 Plants]]"
+- "[[Plants]]"
 ---
-# Vegetation

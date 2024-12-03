@@ -1,10 +1,8 @@
 ---
 title: Bibliotheque specialisee
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bibliothèque spécialisée
+longTitle: 'Bibliothèque spécialisée'
+tags:
+- gccommon
 french:
-- "[[19205 Special libraries]]"
+- "[[Special libraries]]"
 ---
-# Bibliotheque specialisee

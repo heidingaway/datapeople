@@ -1,10 +1,8 @@
 ---
 title: Informatics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Informatics
+longTitle: 'Informatics'
+tags:
+- gccommon
 usedFor:
-- "[[3840 Computer science]]"
+- "[[Computer science]]"
 ---
-# Informatics

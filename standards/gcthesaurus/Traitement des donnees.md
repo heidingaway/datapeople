@@ -1,10 +1,8 @@
 ---
 title: Traitement des donnees
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Traitement des données
+longTitle: 'Traitement des données'
+tags:
+- gccommon
 french:
-- "[[4871 Data processing]]"
+- "[[Data processing]]"
 ---
-# Traitement des donnees

@@ -1,10 +1,8 @@
 ---
 title: Natural environments of plants and animals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Natural environments of plants and animals.
+longTitle: 'Natural environments of plants and animals.'
+tags:
+- gccommon
 scopeNote:
-- "[[9431 Habitats]]"
+- "[[Habitats]]"
 ---
-# Natural environments of plants and animals

@@ -1,10 +1,8 @@
 ---
 title: Persons or companies that buy licenses to do busin
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Persons, or companies, that buy licenses to do business under the trade mark and legal name of the owner of those legal entities.
+longTitle: 'Persons, or companies, that buy licenses to do business under the trade mark and legal name of the owner of those legal entities.'
+tags:
+- gccommon
 scopeNote:
-- "[[8465 Franchises]]"
+- "[[Franchises]]"
 ---
-# Persons or companies that buy licenses to do busin

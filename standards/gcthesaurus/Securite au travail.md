@@ -1,10 +1,8 @@
 ---
 title: Securite au travail
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sécurité au travail
+longTitle: 'Sécurité au travail'
+tags:
+- gccommon
 french:
-- "[[14793 Occupational safety]]"
+- "[[Occupational safety]]"
 ---
-# Securite au travail

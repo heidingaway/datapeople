@@ -1,10 +1,8 @@
 ---
 title: Carte routiere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Carte routière
+longTitle: 'Carte routière'
+tags:
+- gccommon
 french:
-- "[[17877 Road maps]]"
+- "[[Road maps]]"
 ---
-# Carte routiere

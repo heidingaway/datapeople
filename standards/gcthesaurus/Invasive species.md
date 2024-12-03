@@ -1,14 +1,10 @@
 ---
 title: Invasive species
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Invasive species
+longTitle: 'Invasive species'
+tags:
+- gccommon
 relatedTerm:
-- "[[15639 Pests]]"
+- "[[Pests]]"
 use:
-- "[[11555 Invasive alien species]]"
-- "[[856 Alien invasive species]]"
-- "[[11557 Invasive exotic species]]"
+- "[[Invasive alien species Alien invasive species Inva]]"
 ---
-# Invasive species

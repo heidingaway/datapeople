@@ -1,10 +1,8 @@
 ---
 title: Philanthropic organizations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Philanthropic organizations
+longTitle: 'Philanthropic organizations'
+tags:
+- gccommon
 usedFor:
-- "[[2995 Charitable organizations]]"
+- "[[Charitable organizations]]"
 ---
-# Philanthropic organizations

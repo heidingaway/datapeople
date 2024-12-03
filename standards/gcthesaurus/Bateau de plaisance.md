@@ -1,10 +1,8 @@
 ---
 title: Bateau de plaisance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bateau de plaisance
+longTitle: 'Bateau de plaisance'
+tags:
+- gccommon
 french:
-- "[[15881 Pleasure craft]]"
+- "[[Pleasure craft]]"
 ---
-# Bateau de plaisance

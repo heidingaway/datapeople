@@ -1,10 +1,8 @@
 ---
 title: Black tides
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Black tides
+longTitle: 'Black tides'
+tags:
+- gccommon
 usedFor:
-- "[[14998 Oil spills]]"
+- "[[Oil spills]]"
 ---
-# Black tides

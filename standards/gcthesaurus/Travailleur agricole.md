@@ -1,10 +1,8 @@
 ---
 title: Travailleur agricole
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Travailleur agricole
+longTitle: 'Travailleur agricole'
+tags:
+- gccommon
 french:
-- "[[547 Agricultural workers]]"
+- "[[Agricultural workers]]"
 ---
-# Travailleur agricole

@@ -1,16 +1,12 @@
 ---
 title: Crown lands
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Crown lands
+longTitle: 'Crown lands'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4557 Crown assets]]"
+- "[[Crown assets]]"
 relatedTerm:
-- "[[12006 Land management]]"
+- "[[Land management]]"
 use:
-- "[[9188 Government lands]]"
-- "[[7570 Federal lands]]"
-- "[[16838 Public lands]]"
+- "[[Government lands Federal lands Public lands]]"
 ---
-# Crown lands

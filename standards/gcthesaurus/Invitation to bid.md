@@ -1,10 +1,8 @@
 ---
 title: Invitation to bid
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Invitation to bid
+longTitle: 'Invitation to bid'
+tags:
+- gccommon
 usedFor:
-- "[[2669 Call for tenders]]"
+- "[[Call for tenders]]"
 ---
-# Invitation to bid

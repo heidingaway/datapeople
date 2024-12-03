@@ -1,10 +1,8 @@
 ---
 title: Work to rules
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Work to rules
+longTitle: 'Work to rules'
+tags:
+- gccommon
 usedFor:
-- "[[11865 Labour disputes]]"
+- "[[Labour disputes]]"
 ---
-# Work to rules

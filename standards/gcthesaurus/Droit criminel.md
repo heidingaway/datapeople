@@ -1,10 +1,8 @@
 ---
 title: Droit criminel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Droit criminel
+longTitle: 'Droit criminel'
+tags:
+- gccommon
 french:
-- "[[4501 Criminal law]]"
+- "[[Criminal law]]"
 ---
-# Droit criminel

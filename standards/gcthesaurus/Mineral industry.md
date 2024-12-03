@@ -1,10 +1,8 @@
 ---
 title: Mineral industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mineral industry
+longTitle: 'Mineral industry'
+tags:
+- gccommon
 usedFor:
-- "[[13741 Mining industry]]"
+- "[[Mining industry]]"
 ---
-# Mineral industry

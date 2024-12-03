@@ -1,10 +1,8 @@
 ---
 title: Textile fabrics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Textile fabrics
+longTitle: 'Textile fabrics'
+tags:
+- gccommon
 usedFor:
-- "[[20135 Textiles]]"
+- "[[Textiles]]"
 ---
-# Textile fabrics

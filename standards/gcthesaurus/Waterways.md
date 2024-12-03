@@ -1,19 +1,10 @@
 ---
 title: Waterways
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Waterways
+longTitle: 'Waterways'
+tags:
+- gccommon
 relatedTerm:
-- "[[21544 Watercourses]]"
-- "[[14385 Navigation]]"
-- "[[21500 Water transport]]"
-- "[[2713 Canals]]"
+- "[[Watercourses Navigation Water transport Canals]]"
 use:
-- "[[14369 Navigable waters]]"
-- "[[14371 Navigable waterways]]"
-- "[[21470 Water routes]]"
-- "[[11100 Inland waterways]]"
-- "[[18374 Seaway]]"
+- "[[Navigable waters Navigable waterways Water routes ]]"
 ---
-# Waterways

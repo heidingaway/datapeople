@@ -1,14 +1,10 @@
 ---
 title: Trade relations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Trade relations
+longTitle: 'Trade relations'
+tags:
+- gccommon
 relatedTerm:
-- "[[20409 Trade negotiations]]"
-- "[[20399 Trade missions]]"
-- "[[20386 Trade agreements]]"
+- "[[Trade negotiations Trade missions Trade agreements]]"
 use:
-- "[[5939 Economic relations]]"
+- "[[Economic relations]]"
 ---
-# Trade relations

@@ -1,19 +1,12 @@
 ---
 title: Control
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Control
+longTitle: 'Control'
+tags:
+- gccommon
 broaderTerm:
-- "[[16039 Pollution control]]"
-- "[[16989 Quality control]]"
+- "[[Pollution control Quality control]]"
 relatedTerm:
-- "[[1542 Assessment]]"
-- "[[1952 Benchmarks]]"
-- "[[1705 Audit]]"
-- "[[11160 Inspection]]"
-- "[[11312 Internal audits]]"
+- "[[Assessment Benchmarks Audit Inspection Internal au]]"
 use:
-- "[[13886 Monitoring]]"
+- "[[Monitoring]]"
 ---
-# Control

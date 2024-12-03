@@ -1,10 +1,8 @@
 ---
 title: Etudes canadiennes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Études canadiennes
+longTitle: 'Études canadiennes'
+tags:
+- gccommon
 french:
-- "[[2707 Canadian studies]]"
+- "[[Canadian studies]]"
 ---
-# Etudes canadiennes

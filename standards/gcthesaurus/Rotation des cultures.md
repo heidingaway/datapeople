@@ -1,10 +1,8 @@
 ---
 title: Rotation des cultures
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rotation des cultures
+longTitle: 'Rotation des cultures'
+tags:
+- gccommon
 french:
-- "[[4530 Crop rotation]]"
+- "[[Crop rotation]]"
 ---
-# Rotation des cultures

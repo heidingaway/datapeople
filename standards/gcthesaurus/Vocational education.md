@@ -1,10 +1,8 @@
 ---
 title: Vocational education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vocational education
+longTitle: 'Vocational education'
+tags:
+- gccommon
 usedFor:
-- "[[21180 Vocational training]]"
+- "[[Vocational training]]"
 ---
-# Vocational education

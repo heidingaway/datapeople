@@ -1,10 +1,8 @@
 ---
 title: Fardeau administratif
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fardeau administratif
+longTitle: 'Fardeau administratif'
+tags:
+- gccommon
 french:
-- "[[17387 Red tape burdens]]"
+- "[[Red tape burdens]]"
 ---
-# Fardeau administratif

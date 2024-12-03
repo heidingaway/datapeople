@@ -1,16 +1,10 @@
 ---
 title: Fisheries resources
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fisheries resources
+longTitle: 'Fisheries resources'
+tags:
+- gccommon
 relatedTerm:
-- "[[7914 Fisheries]]"
-- "[[7876 Fish]]"
-- "[[4601 Crustaceans]]"
-- "[[13861 Molluscs]]"
+- "[[Fisheries Fish Crustaceans Molluscs]]"
 use:
-- "[[7961 Fishery resources]]"
-- "[[7994 Fishing resources]]"
+- "[[Fishery resources Fishing resources]]"
 ---
-# Fisheries resources

@@ -1,10 +1,8 @@
 ---
 title: Emerging technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Emerging technology
+longTitle: 'Emerging technology'
+tags:
+- gccommon
 usedFor:
-- "[[9916 High technology]]"
+- "[[High technology]]"
 ---
-# Emerging technology

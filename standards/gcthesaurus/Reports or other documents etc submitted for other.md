@@ -1,10 +1,8 @@
 ---
 title: Reports or other documents etc submitted for other
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Reports or other documents, etc., submitted for others to view.
+longTitle: 'Reports or other documents, etc., submitted for others to view.'
+tags:
+- gccommon
 scopeNote:
-- "[[19500 Submissions]]"
+- "[[Submissions]]"
 ---
-# Reports or other documents etc submitted for other

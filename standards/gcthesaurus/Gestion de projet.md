@@ -1,10 +1,8 @@
 ---
 title: Gestion de projet
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gestion de projet
+longTitle: 'Gestion de projet'
+tags:
+- gccommon
 french:
-- "[[16590 Project management]]"
+- "[[Project management]]"
 ---
-# Gestion de projet

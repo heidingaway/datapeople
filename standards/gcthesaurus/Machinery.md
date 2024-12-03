@@ -1,10 +1,8 @@
 ---
 title: Machinery
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Machinery
+longTitle: 'Machinery'
+tags:
+- gccommon
 usedFor:
-- "[[7081 Equipment]]"
+- "[[Equipment]]"
 ---
-# Machinery

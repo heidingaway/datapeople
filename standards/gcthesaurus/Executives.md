@@ -1,10 +1,8 @@
 ---
 title: Executives
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Executives
+longTitle: 'Executives'
+tags:
+- gccommon
 relatedTerm:
-- "[[12777 Management]]"
+- "[[Management]]"
 ---
-# Executives

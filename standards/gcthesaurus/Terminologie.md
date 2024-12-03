@@ -1,10 +1,8 @@
 ---
 title: Terminologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Terminologie
+longTitle: 'Terminologie'
+tags:
+- gccommon
 french:
-- "[[20037 Terminology]]"
+- "[[Terminology]]"
 ---
-# Terminologie

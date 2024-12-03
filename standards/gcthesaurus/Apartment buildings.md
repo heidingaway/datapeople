@@ -1,10 +1,8 @@
 ---
 title: Apartment buildings
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Apartment buildings
+longTitle: 'Apartment buildings'
+tags:
+- gccommon
 relatedTerm:
-- "[[10140 Housing]]"
+- "[[Housing]]"
 ---
-# Apartment buildings

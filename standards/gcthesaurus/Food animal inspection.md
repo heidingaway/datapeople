@@ -1,10 +1,8 @@
 ---
 title: Food animal inspection
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Food animal inspection
+longTitle: 'Food animal inspection'
+tags:
+- gccommon
 usedFor:
-- "[[1031 Animal inspection]]"
+- "[[Animal inspection]]"
 ---
-# Food animal inspection

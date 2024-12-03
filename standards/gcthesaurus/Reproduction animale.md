@@ -1,10 +1,8 @@
 ---
 title: Reproduction animale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Reproduction animale
+longTitle: 'Reproduction animale'
+tags:
+- gccommon
 french:
-- "[[1063 Animal reproduction]]"
+- "[[Animal reproduction]]"
 ---
-# Reproduction animale

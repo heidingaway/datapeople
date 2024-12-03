@@ -1,12 +1,10 @@
 ---
 title: Military history
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Military history
+longTitle: 'Military history'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9973 History]]"
+- "[[History]]"
 relatedTerm:
-- "[[21274 War memorials]]"
+- "[[War memorials]]"
 ---
-# Military history

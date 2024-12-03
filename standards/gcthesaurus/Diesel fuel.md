@@ -1,12 +1,10 @@
 ---
 title: Diesel fuel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Diesel fuel
+longTitle: 'Diesel fuel'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8578 Fuels]]"
+- "[[Fuels]]"
 use:
-- "[[5225 Diesel]]"
+- "[[Diesel]]"
 ---
-# Diesel fuel

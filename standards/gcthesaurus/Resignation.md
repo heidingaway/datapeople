@@ -1,10 +1,8 @@
 ---
 title: Resignation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Resignation
+longTitle: 'Resignation'
+tags:
+- gccommon
 relatedTerm:
-- "[[20034 Termination of employment]]"
+- "[[Termination of employment]]"
 ---
-# Resignation

@@ -1,10 +1,8 @@
 ---
 title: Securite routiere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sécurité routière
+longTitle: 'Sécurité routière'
+tags:
+- gccommon
 french:
-- "[[17897 Road safety]]"
+- "[[Road safety]]"
 ---
-# Securite routiere

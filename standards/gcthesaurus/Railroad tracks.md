@@ -1,10 +1,8 @@
 ---
 title: Railroad tracks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Railroad tracks
+longTitle: 'Railroad tracks'
+tags:
+- gccommon
 usedFor:
-- "[[17177 Railway networks]]"
+- "[[Railway networks]]"
 ---
-# Railroad tracks

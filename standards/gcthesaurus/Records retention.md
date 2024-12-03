@@ -1,10 +1,8 @@
 ---
 title: Records retention
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Records retention
+longTitle: 'Records retention'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17298 Records management]]"
+- "[[Records management]]"
 ---
-# Records retention

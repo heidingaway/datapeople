@@ -1,10 +1,8 @@
 ---
 title: Naturalization
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Naturalization
+longTitle: 'Naturalization'
+tags:
+- gccommon
 usedFor:
-- "[[3240 Citizenship]]"
+- "[[Citizenship]]"
 ---
-# Naturalization

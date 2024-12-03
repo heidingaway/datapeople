@@ -1,10 +1,8 @@
 ---
 title: Oiseau migrateur
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Oiseau migrateur
+longTitle: 'Oiseau migrateur'
+tags:
+- gccommon
 french:
-- "[[13590 Migratory birds]]"
+- "[[Migratory birds]]"
 ---
-# Oiseau migrateur

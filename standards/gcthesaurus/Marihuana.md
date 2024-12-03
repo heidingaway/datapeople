@@ -1,10 +1,8 @@
 ---
 title: Marihuana
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marihuana
+longTitle: 'Marihuana'
+tags:
+- gccommon
 usedFor:
-- "[[12907 Marijuana]]"
+- "[[Marijuana]]"
 ---
-# Marihuana

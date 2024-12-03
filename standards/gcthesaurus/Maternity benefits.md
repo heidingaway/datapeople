@@ -1,12 +1,10 @@
 ---
 title: Maternity benefits
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maternity benefits
+longTitle: 'Maternity benefits'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1964 Benefits]]"
+- "[[Benefits]]"
 relatedTerm:
-- "[[6550 Employment insurance]]"
+- "[[Employment insurance]]"
 ---
-# Maternity benefits

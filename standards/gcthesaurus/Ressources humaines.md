@@ -1,10 +1,8 @@
 ---
 title: Ressources humaines
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ressources humaines
+longTitle: 'Ressources humaines'
+tags:
+- gccommon
 french:
-- "[[10195 Human resources]]"
+- "[[Human resources]]"
 ---
-# Ressources humaines

@@ -1,10 +1,8 @@
 ---
 title: Piste de ski
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Piste de ski
+longTitle: 'Piste de ski'
+tags:
+- gccommon
 french:
-- "[[18765 Ski trails]]"
+- "[[Ski trails]]"
 ---
-# Piste de ski

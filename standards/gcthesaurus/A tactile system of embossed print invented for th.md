@@ -1,10 +1,8 @@
 ---
 title: A tactile system of embossed print invented for th
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: A tactile system of embossed print invented for the visually impaired, which uses combinations of six raised dots arranged in columns three dots high and two dots wide to represent letters of the alphabet.
+longTitle: 'A tactile system of embossed print invented for the visually impaired, which uses combinations of six raised dots arranged in columns three dots high and two dots wide to represent letters of the alphabet.'
+tags:
+- gccommon
 scopeNote:
-- "[[2391 Braille]]"
+- "[[Braille]]"
 ---
-# A tactile system of embossed print invented for th

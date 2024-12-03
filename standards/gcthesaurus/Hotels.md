@@ -1,10 +1,8 @@
 ---
 title: Hotels
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hotels
+longTitle: 'Hotels'
+tags:
+- gccommon
 usedFor:
-- "[[10083 Hospitality industry]]"
+- "[[Hospitality industry]]"
 ---
-# Hotels

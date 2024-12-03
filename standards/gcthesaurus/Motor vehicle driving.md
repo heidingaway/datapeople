@@ -1,10 +1,8 @@
 ---
 title: Motor vehicle driving
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Motor vehicle driving
+longTitle: 'Motor vehicle driving'
+tags:
+- gccommon
 usedFor:
-- "[[5599 Driving]]"
+- "[[Driving]]"
 ---
-# Motor vehicle driving

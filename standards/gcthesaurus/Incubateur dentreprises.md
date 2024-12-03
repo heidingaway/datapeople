@@ -1,10 +1,8 @@
 ---
 title: Incubateur dentreprises
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Incubateur d'entreprises
+longTitle: 'Incubateur d'entreprises'
+tags:
+- gccommon
 french:
-- "[[2523 Business incubators]]"
+- "[[Business incubators]]"
 ---
-# Incubateur dentreprises

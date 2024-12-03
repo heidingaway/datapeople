@@ -1,13 +1,10 @@
 ---
 title: Anatomy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Anatomy
+longTitle: 'Anatomy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2198 Biology]]"
+- "[[Biology]]"
 relatedTerm:
-- "[[13345 Medicine]]"
-- "[[15784 Physiology]]"
+- "[[Medicine Physiology]]"
 ---
-# Anatomy

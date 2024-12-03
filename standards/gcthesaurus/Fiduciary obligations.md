@@ -1,12 +1,10 @@
 ---
 title: Fiduciary obligations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fiduciary obligations
+longTitle: 'Fiduciary obligations'
+tags:
+- gccommon
 relatedTerm:
-- "[[20727 Trustees]]"
+- "[[Trustees]]"
 use:
-- "[[7664 Fiduciary duty]]"
+- "[[Fiduciary duty]]"
 ---
-# Fiduciary obligations

@@ -1,10 +1,8 @@
 ---
 title: Developpement urbain
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Développement urbain
+longTitle: 'Développement urbain'
+tags:
+- gccommon
 french:
-- "[[20817 Urban development]]"
+- "[[Urban development]]"
 ---
-# Developpement urbain

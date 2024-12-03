@@ -1,17 +1,10 @@
 ---
 title: Wetlands
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wetlands
+longTitle: 'Wetlands'
+tags:
+- gccommon
 relatedTerm:
-- "[[5552 Drainage]]"
+- "[[Drainage]]"
 use:
-- "[[15422 Peatlands]]"
-- "[[17828 Riparian areas]]"
-- "[[17830 Riparian zones]]"
-- "[[2314 Bogs]]"
-- "[[21672 Wet areas]]"
-- "[[19647 Swamps]]"
+- "[[Peatlands Riparian areas Riparian zones Bogs Wet a]]"
 ---
-# Wetlands

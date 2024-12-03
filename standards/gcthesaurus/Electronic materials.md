@@ -1,10 +1,8 @@
 ---
 title: Electronic materials
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electronic materials
+longTitle: 'Electronic materials'
+tags:
+- gccommon
 usedFor:
-- "[[6310 Electronic equipment]]"
+- "[[Electronic equipment]]"
 ---
-# Electronic materials

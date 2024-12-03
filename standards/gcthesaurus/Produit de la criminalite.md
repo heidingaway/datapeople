@@ -1,10 +1,8 @@
 ---
 title: Produit de la criminalite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Produit de la criminalité
+longTitle: 'Produit de la criminalité'
+tags:
+- gccommon
 french:
-- "[[16439 Proceeds of crime]]"
+- "[[Proceeds of crime]]"
 ---
-# Produit de la criminalite

@@ -1,10 +1,8 @@
 ---
 title: Arthrite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Arthrite
+longTitle: 'Arthrite'
+tags:
+- gccommon
 french:
-- "[[1487 Arthritis]]"
+- "[[Arthritis]]"
 ---
-# Arthrite

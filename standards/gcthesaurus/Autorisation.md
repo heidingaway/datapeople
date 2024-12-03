@@ -1,10 +1,8 @@
 ---
 title: Autorisation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Autorisation
+longTitle: 'Autorisation'
+tags:
+- gccommon
 french:
-- "[[1711 Authorization]]"
+- "[[Authorization]]"
 ---
-# Autorisation

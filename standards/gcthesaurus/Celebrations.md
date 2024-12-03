@@ -1,10 +1,8 @@
 ---
 title: Celebrations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Celebrations
+longTitle: 'Celebrations'
+tags:
+- gccommon
 usedFor:
-- "[[3549 Commemoration]]"
+- "[[Commemoration]]"
 ---
-# Celebrations

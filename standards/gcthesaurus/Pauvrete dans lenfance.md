@@ -1,10 +1,8 @@
 ---
 title: Pauvrete dans lenfance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pauvreté dans l'enfance
+longTitle: 'Pauvreté dans l'enfance'
+tags:
+- gccommon
 french:
-- "[[3126 Child poverty]]"
+- "[[Child poverty]]"
 ---
-# Pauvrete dans lenfance

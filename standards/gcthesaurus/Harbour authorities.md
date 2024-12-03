@@ -1,14 +1,10 @@
 ---
 title: Harbour authorities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Harbour authorities
+longTitle: 'Harbour authorities'
+tags:
+- gccommon
 relatedTerm:
-- "[[9486 Harbours]]"
+- "[[Harbours]]"
 use:
-- "[[16097 Port authorities]]"
-- "[[9470 Harbor authorities]]"
-- "[[16095 Port administrations]]"
+- "[[Port authorities Harbor authorities Port administr]]"
 ---
-# Harbour authorities

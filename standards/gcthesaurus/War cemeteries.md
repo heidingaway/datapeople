@@ -1,10 +1,8 @@
 ---
 title: War cemeteries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: War cemeteries
+longTitle: 'War cemeteries'
+tags:
+- gccommon
 usedFor:
-- "[[21271 War memorials]]"
+- "[[War memorials]]"
 ---
-# War cemeteries

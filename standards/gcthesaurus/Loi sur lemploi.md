@@ -1,10 +1,8 @@
 ---
 title: Loi sur lemploi
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Loi sur l'emploi
+longTitle: 'Loi sur l'emploi'
+tags:
+- gccommon
 french:
-- "[[6515 Employment act]]"
+- "[[Employment act]]"
 ---
-# Loi sur lemploi

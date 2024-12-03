@@ -1,10 +1,8 @@
 ---
 title: Nonprofits
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nonprofits
+longTitle: 'Nonprofits'
+tags:
+- gccommon
 usedFor:
-- "[[14480 Non-profit organizations]]"
+- "[[Non-profit organizations]]"
 ---
-# Nonprofits

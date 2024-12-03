@@ -1,10 +1,8 @@
 ---
 title: Primary education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Primary education
+longTitle: 'Primary education'
+tags:
+- gccommon
 usedFor:
-- "[[6396 Elementary education]]"
+- "[[Elementary education]]"
 ---
-# Primary education

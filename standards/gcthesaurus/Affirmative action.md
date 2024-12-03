@@ -1,16 +1,10 @@
 ---
 title: Affirmative action
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Affirmative action
+longTitle: 'Affirmative action'
+tags:
+- gccommon
 relatedTerm:
-- "[[5378 Discrimination]]"
-- "[[6535 Employment equity]]"
-- "[[19373 Status of women]]"
-- "[[7065 Equal opportunities]]"
+- "[[Discrimination Employment equity Status of women E]]"
 use:
-- "[[16115 Positive discrimination]]"
-- "[[17806 Reverse discrimination]]"
+- "[[Positive discrimination Reverse discrimination]]"
 ---
-# Affirmative action

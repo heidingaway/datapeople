@@ -1,10 +1,8 @@
 ---
 title: Volunteers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Volunteers
+longTitle: 'Volunteers'
+tags:
+- gccommon
 usedFor:
-- "[[21215 Volunteer work]]"
+- "[[Volunteer work]]"
 ---
-# Volunteers

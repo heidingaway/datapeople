@@ -1,10 +1,8 @@
 ---
 title: Antitank mines
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Antitank mines
+longTitle: 'Antitank mines'
+tags:
+- gccommon
 usedFor:
-- "[[12040 Landmines]]"
+- "[[Landmines]]"
 ---
-# Antitank mines

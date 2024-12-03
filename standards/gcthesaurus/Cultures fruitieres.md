@@ -1,10 +1,8 @@
 ---
 title: Cultures fruitieres
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cultures fruitières
+longTitle: 'Cultures fruitières'
+tags:
+- gccommon
 french:
-- "[[8554 Fruit crops]]"
+- "[[Fruit crops]]"
 ---
-# Cultures fruitieres

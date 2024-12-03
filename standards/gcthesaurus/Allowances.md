@@ -1,18 +1,12 @@
 ---
 title: Allowances
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Allowances
+longTitle: 'Allowances'
+tags:
+- gccommon
 broaderTerm:
-- "[[7356 Family allowances]]"
+- "[[Family allowances]]"
 relatedTerm:
-- "[[1967 Benefits]]"
-- "[[18089 Salaries]]"
-- "[[9298 Grants]]"
-- "[[15443 Pensions]]"
+- "[[Benefits Salaries Grants Pensions]]"
 use:
-- "[[3760 Compensation]]"
-- "[[1139 Annuities]]"
+- "[[Compensation Annuities]]"
 ---
-# Allowances

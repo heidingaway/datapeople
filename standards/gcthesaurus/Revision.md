@@ -1,10 +1,8 @@
 ---
 title: Revision
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Révision
+longTitle: 'Révision'
+tags:
+- gccommon
 french:
-- "[[17812 Revision]]"
+- "[[Revision]]"
 ---
-# Revision

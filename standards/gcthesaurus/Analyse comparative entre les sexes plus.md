@@ -1,10 +1,8 @@
 ---
 title: Analyse comparative entre les sexes plus
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Analyse comparative entre les sexes plus
+longTitle: 'Analyse comparative entre les sexes plus'
+tags:
+- gccommon
 french:
-- "[[8777 Gender-based analysis plus]]"
+- "[[Gender-based analysis plus]]"
 ---
-# Analyse comparative entre les sexes plus

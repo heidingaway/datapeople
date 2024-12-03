@@ -1,10 +1,8 @@
 ---
 title: Profil statistique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Profil statistique
+longTitle: 'Profil statistique'
+tags:
+- gccommon
 french:
-- "[[19338 Statistical profile]]"
+- "[[Statistical profile]]"
 ---
-# Profil statistique

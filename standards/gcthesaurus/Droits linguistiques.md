@@ -1,10 +1,8 @@
 ---
 title: Droits linguistiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Droits linguistiques
+longTitle: 'Droits linguistiques'
+tags:
+- gccommon
 french:
-- "[[12103 Language rights]]"
+- "[[Language rights]]"
 ---
-# Droits linguistiques

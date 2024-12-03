@@ -1,10 +1,8 @@
 ---
 title: Animal food
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Animal food
+longTitle: 'Animal food'
+tags:
+- gccommon
 usedFor:
-- "[[1044 Animal nutrition]]"
+- "[[Animal nutrition]]"
 ---
-# Animal food

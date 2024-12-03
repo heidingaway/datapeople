@@ -1,16 +1,12 @@
 ---
 title: Archaeology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Archaeology
+longTitle: 'Archaeology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18978 Social sciences]]"
+- "[[Social sciences]]"
 relatedTerm:
-- "[[1338 Archaeological investigations]]"
-- "[[9977 History]]"
-- "[[1151 Anthropology]]"
+- "[[Archaeological investigations History Anthropology]]"
 use:
-- "[[1350 Archeology]]"
+- "[[Archeology]]"
 ---
-# Archaeology

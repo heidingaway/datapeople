@@ -1,10 +1,8 @@
 ---
 title: Subsidies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Subsidies
+longTitle: 'Subsidies'
+tags:
+- gccommon
 usedFor:
-- "[[9296 Grants]]"
+- "[[Grants]]"
 ---
-# Subsidies

@@ -1,10 +1,8 @@
 ---
 title: Vie privee
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vie privée
+longTitle: 'Vie privée'
+tags:
+- gccommon
 french:
-- "[[16386 Privacy]]"
+- "[[Privacy]]"
 ---
-# Vie privee

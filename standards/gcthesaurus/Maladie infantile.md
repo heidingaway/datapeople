@@ -1,10 +1,8 @@
 ---
 title: Maladie infantile
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maladie infantile
+longTitle: 'Maladie infantile'
+tags:
+- gccommon
 french:
-- "[[3157 Childhood diseases]]"
+- "[[Childhood diseases]]"
 ---
-# Maladie infantile

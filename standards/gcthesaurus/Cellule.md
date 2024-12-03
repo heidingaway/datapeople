@@ -1,10 +1,8 @@
 ---
 title: Cellule
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cellule
+longTitle: 'Cellule'
+tags:
+- gccommon
 french:
-- "[[2894 Cells]]"
+- "[[Cells]]"
 ---
-# Cellule

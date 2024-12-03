@@ -1,10 +1,8 @@
 ---
 title: Cadre de reference
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cadre de référence
+longTitle: 'Cadre de référence'
+tags:
+- gccommon
 french:
-- "[[20046 Terms of reference]]"
+- "[[Terms of reference]]"
 ---
-# Cadre de reference

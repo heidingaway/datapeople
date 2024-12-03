@@ -1,10 +1,8 @@
 ---
 title: Computer programs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Computer programs
+longTitle: 'Computer programs'
+tags:
+- gccommon
 usedFor:
-- "[[19066 Software]]"
+- "[[Software]]"
 ---
-# Computer programs

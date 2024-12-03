@@ -1,21 +1,12 @@
 ---
 title: Electricity
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electricity
+longTitle: 'Electricity'
+tags:
+- gccommon
 broaderTerm:
-- "[[10415 Hydropower]]"
+- "[[Hydropower]]"
 relatedTerm:
-- "[[12704 Magnetism]]"
-- "[[6222 Electric power stations]]"
-- "[[6245 Electrical equipment]]"
-- "[[6621 Energy]]"
-- "[[6231 Electric vehicles]]"
+- "[[Magnetism Electric power stations Electrical equip]]"
 use:
-- "[[6248 Electrical power]]"
-- "[[6202 Electric power]]"
-- "[[6239 Electrical energy]]"
-- "[[6198 Electric energy]]"
+- "[[Electrical power Electric power Electrical energy ]]"
 ---
-# Electricity

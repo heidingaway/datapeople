@@ -1,10 +1,8 @@
 ---
 title: Infraction sexuelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Infraction sexuelle
+longTitle: 'Infraction sexuelle'
+tags:
+- gccommon
 french:
-- "[[18623 Sexual offences]]"
+- "[[Sexual offences]]"
 ---
-# Infraction sexuelle

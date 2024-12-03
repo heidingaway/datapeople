@@ -1,10 +1,8 @@
 ---
 title: Performance assessment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Performance assessment
+longTitle: 'Performance assessment'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1537 Assessment]]"
+- "[[Assessment]]"
 ---
-# Performance assessment

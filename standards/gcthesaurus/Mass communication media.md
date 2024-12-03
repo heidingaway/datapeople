@@ -1,10 +1,8 @@
 ---
 title: Mass communication media
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mass communication media
+longTitle: 'Mass communication media'
+tags:
+- gccommon
 usedFor:
-- "[[13190 Media]]"
+- "[[Media]]"
 ---
-# Mass communication media

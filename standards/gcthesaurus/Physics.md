@@ -1,14 +1,12 @@
 ---
 title: Physics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Physics
+longTitle: 'Physics'
+tags:
+- gccommon
 broaderTerm:
-- "[[9016 Geophysics]]"
+- "[[Geophysics]]"
 narrowerTerm:
-- "[[15766 Physical sciences]]"
+- "[[Physical sciences]]"
 relatedTerm:
-- "[[12705 Magnetism]]"
+- "[[Magnetism]]"
 ---
-# Physics

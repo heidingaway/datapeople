@@ -1,10 +1,8 @@
 ---
 title: Strategies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Strategies
+longTitle: 'Strategies'
+tags:
+- gccommon
 relatedTerm:
-- "[[15848 Planning]]"
+- "[[Planning]]"
 ---
-# Strategies

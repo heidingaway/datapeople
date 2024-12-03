@@ -1,10 +1,8 @@
 ---
 title: Gas Gasoline
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gas (Gasoline)
+longTitle: 'Gas (Gasoline)'
+tags:
+- gccommon
 usedFor:
-- "[[8743 Gasoline]]"
+- "[[Gasoline]]"
 ---
-# Gas Gasoline

@@ -1,10 +1,8 @@
 ---
 title: Violence familiale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Violence familiale
+longTitle: 'Violence familiale'
+tags:
+- gccommon
 french:
-- "[[7400 Family violence]]"
+- "[[Family violence]]"
 ---
-# Violence familiale

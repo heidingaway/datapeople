@@ -1,10 +1,8 @@
 ---
 title: Linguistics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Linguistics
+longTitle: 'Linguistics'
+tags:
+- gccommon
 usedFor:
-- "[[12123 Languages]]"
+- "[[Languages]]"
 ---
-# Linguistics

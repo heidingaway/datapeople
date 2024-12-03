@@ -1,10 +1,8 @@
 ---
 title: Fonction publique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fonction publique
+longTitle: 'Fonction publique'
+tags:
+- gccommon
 french:
-- "[[16891 Public service]]"
+- "[[Public service]]"
 ---
-# Fonction publique

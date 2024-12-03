@@ -1,12 +1,10 @@
 ---
 title: Learning disabilities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Learning disabilities
+longTitle: 'Learning disabilities'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5303 Disabilities]]"
+- "[[Disabilities]]"
 use:
-- "[[12226 Learning disorders]]"
+- "[[Learning disorders]]"
 ---
-# Learning disabilities

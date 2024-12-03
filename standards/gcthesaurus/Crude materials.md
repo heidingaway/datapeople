@@ -1,10 +1,8 @@
 ---
 title: Crude materials
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Crude materials
+longTitle: 'Crude materials'
+tags:
+- gccommon
 usedFor:
-- "[[3624 Commodities]]"
+- "[[Commodities]]"
 ---
-# Crude materials

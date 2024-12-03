@@ -1,10 +1,8 @@
 ---
 title: Blindness
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Blindness
+longTitle: 'Blindness'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21115 Visual disabilities]]"
+- "[[Visual disabilities]]"
 ---
-# Blindness

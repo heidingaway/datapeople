@@ -1,16 +1,12 @@
 ---
 title: Harassment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Harassment
+longTitle: 'Harassment'
+tags:
+- gccommon
 broaderTerm:
-- "[[18619 Sexual harassment]]"
+- "[[Sexual harassment]]"
 narrowerTerm:
-- "[[21029 Violence]]"
+- "[[Violence]]"
 use:
-- "[[13906 Moral harassment]]"
-- "[[16734 Psychological harassment]]"
-- "[[4485 Criminal harassment]]"
+- "[[Moral harassment Psychological harassment Criminal]]"
 ---
-# Harassment

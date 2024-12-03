@@ -1,10 +1,8 @@
 ---
 title: Constitutional reform
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Constitutional reform
+longTitle: 'Constitutional reform'
+tags:
+- gccommon
 usedFor:
-- "[[3991 Constitution]]"
+- "[[Constitution]]"
 ---
-# Constitutional reform

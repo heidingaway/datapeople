@@ -1,14 +1,10 @@
 ---
 title: Lifestyle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Lifestyle
+longTitle: 'Lifestyle'
+tags:
+- gccommon
 relatedTerm:
-- "[[4796 Daily life]]"
-- "[[16998 Quality of life]]"
-- "[[19283 Standard of living]]"
+- "[[Daily life Quality of life Standard of living]]"
 use:
-- "[[12556 Living arrangement]]"
+- "[[Living arrangement]]"
 ---
-# Lifestyle

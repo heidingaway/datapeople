@@ -1,18 +1,12 @@
 ---
 title: Communications
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Communications
+longTitle: 'Communications'
+tags:
+- gccommon
 broaderTerm:
-- "[[9152 Government communications]]"
-- "[[19908 Telecommunications]]"
-- "[[13628 Military communications]]"
+- "[[Government communications Telecommunications Milit]]"
 french:
-- "[[3654 Communications]]"
+- "[[Communications]]"
 relatedTerm:
-- "[[3666 Communications equipment]]"
-- "[[13192 Media]]"
-- "[[3674 Communications industry]]"
+- "[[Communications equipment Media Communications indu]]"
 ---
-# Communications

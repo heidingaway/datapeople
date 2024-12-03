@@ -1,10 +1,8 @@
 ---
 title: CEGEPs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: CEGEPs
+longTitle: 'CEGEPs'
+tags:
+- gccommon
 usedFor:
-- "[[3529 Colleges]]"
+- "[[Colleges]]"
 ---
-# CEGEPs

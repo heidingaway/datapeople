@@ -1,10 +1,8 @@
 ---
 title: Waste salvage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Waste salvage
+longTitle: 'Waste salvage'
+tags:
+- gccommon
 usedFor:
-- "[[17379 Recycling]]"
+- "[[Recycling]]"
 ---
-# Waste salvage

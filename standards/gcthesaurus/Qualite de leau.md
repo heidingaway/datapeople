@@ -1,10 +1,8 @@
 ---
 title: Qualite de leau
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Qualité de l'eau
+longTitle: 'Qualité de l'eau'
+tags:
+- gccommon
 french:
-- "[[21458 Water quality]]"
+- "[[Water quality]]"
 ---
-# Qualite de leau

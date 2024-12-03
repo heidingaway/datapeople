@@ -1,17 +1,10 @@
 ---
 title: Dumping
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dumping
+longTitle: 'Dumping'
+tags:
+- gccommon
 french:
-- "[[5713 Dumping]]"
+- "[[Dumping]]"
 relatedTerm:
-- "[[11445 International trade]]"
-- "[[20406 Trade negotiations]]"
-- "[[20419 Trade policy]]"
-- "[[1159 Anti-dumping]]"
-- "[[10538 Imports]]"
-- "[[7308 Exports]]"
+- "[[International trade Trade negotiations Trade polic]]"
 ---
-# Dumping

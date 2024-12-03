@@ -1,10 +1,8 @@
 ---
 title: Artefact
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Artefact
+longTitle: 'Artefact'
+tags:
+- gccommon
 french:
-- "[[1480 Artefacts]]"
+- "[[Artefacts]]"
 ---
-# Artefact

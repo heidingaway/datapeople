@@ -1,10 +1,8 @@
 ---
 title: Manufacturing technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Manufacturing technology
+longTitle: 'Manufacturing technology'
+tags:
+- gccommon
 usedFor:
-- "[[10833 Industrial technology]]"
+- "[[Industrial technology]]"
 ---
-# Manufacturing technology

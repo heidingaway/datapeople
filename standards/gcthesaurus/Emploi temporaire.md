@@ -1,10 +1,8 @@
 ---
 title: Emploi temporaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Emploi temporaire
+longTitle: 'Emploi temporaire'
+tags:
+- gccommon
 french:
-- "[[20014 Temporary employment]]"
+- "[[Temporary employment]]"
 ---
-# Emploi temporaire

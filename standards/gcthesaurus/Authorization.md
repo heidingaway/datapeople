@@ -1,11 +1,8 @@
 ---
 title: Authorization
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Authorization
+longTitle: 'Authorization'
+tags:
+- gccommon
 relatedTerm:
-- "[[21291 Warrants]]"
-- "[[15508 Permits]]"
+- "[[Warrants Permits]]"
 ---
-# Authorization

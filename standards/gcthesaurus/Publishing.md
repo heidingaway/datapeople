@@ -1,20 +1,12 @@
 ---
 title: Publishing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Publishing
+longTitle: 'Publishing'
+tags:
+- gccommon
 broaderTerm:
-- "[[6373 Electronic publishing]]"
+- "[[Electronic publishing]]"
 relatedTerm:
-- "[[2338 Books]]"
-- "[[1719 Authors]]"
-- "[[16372 Printing]]"
-- "[[4673 Cultural industry]]"
-- "[[4222 Copyright clearance]]"
-- "[[12873 Manuscripts]]"
+- "[[Books Authors Printing Cultural industry Copyright]]"
 use:
-- "[[2322 Book industry]]"
-- "[[16948 Publishing industry]]"
+- "[[Book industry Publishing industry]]"
 ---
-# Publishing

@@ -1,10 +1,8 @@
 ---
 title: Service
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Service
+longTitle: 'Service'
+tags:
+- gccommon
 french:
-- "[[18588 Services]]"
+- "[[Services]]"
 ---
-# Service

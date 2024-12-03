@@ -1,10 +1,8 @@
 ---
 title: Human safety
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Human safety
+longTitle: 'Human safety'
+tags:
+- gccommon
 usedFor:
-- "[[10228 Human security]]"
+- "[[Human security]]"
 ---
-# Human safety

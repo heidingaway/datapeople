@@ -1,10 +1,8 @@
 ---
 title: Employment outlook
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Employment outlook
+longTitle: 'Employment outlook'
+tags:
+- gccommon
 usedFor:
-- "[[6563 Employment opportunities]]"
+- "[[Employment opportunities]]"
 ---
-# Employment outlook

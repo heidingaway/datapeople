@@ -1,10 +1,8 @@
 ---
 title: Propriete intellectuelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Propriété intellectuelle
+longTitle: 'Propriété intellectuelle'
+tags:
+- gccommon
 french:
-- "[[11239 Intellectual property]]"
+- "[[Intellectual property]]"
 ---
-# Propriete intellectuelle

@@ -1,10 +1,8 @@
 ---
 title: Interpretation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Interprétation
+longTitle: 'Interprétation'
+tags:
+- gccommon
 french:
-- "[[11490 Interpretation]]"
+- "[[Interpretation]]"
 ---
-# Interpretation

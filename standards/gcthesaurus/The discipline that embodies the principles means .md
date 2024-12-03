@@ -1,10 +1,8 @@
 ---
-title: "The discipline that embodies the principles means "
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: The discipline that embodies the principles, means, and methods for the transformation of data in order to hide their semantic content, to prevent their unauthorized use, or to prevent their undetected modification.
+title: The discipline that embodies the principles means 
+longTitle: 'The discipline that embodies the principles, means, and methods for the transformation of data in order to hide their semantic content, to prevent their unauthorized use, or to prevent their undetected modification.'
+tags:
+- gccommon
 scopeNote:
-- "[[4605 Cryptography]]"
+- "[[Cryptography]]"
 ---
-# The discipline that embodies the principles means

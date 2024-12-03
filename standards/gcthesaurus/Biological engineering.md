@@ -1,10 +1,8 @@
 ---
 title: Biological engineering
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Biological engineering
+longTitle: 'Biological engineering'
+tags:
+- gccommon
 usedFor:
-- "[[2232 Biotechnology]]"
+- "[[Biotechnology]]"
 ---
-# Biological engineering

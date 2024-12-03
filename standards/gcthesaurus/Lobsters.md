@@ -1,10 +1,8 @@
 ---
 title: Lobsters
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Lobsters
+longTitle: 'Lobsters'
+tags:
+- gccommon
 usedFor:
-- "[[4596 Crustaceans]]"
+- "[[Crustaceans]]"
 ---
-# Lobsters

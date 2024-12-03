@@ -1,10 +1,8 @@
 ---
 title: Candidates
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Candidates
+longTitle: 'Candidates'
+tags:
+- gccommon
 relatedTerm:
-- "[[6163 Elections]]"
+- "[[Elections]]"
 ---
-# Candidates

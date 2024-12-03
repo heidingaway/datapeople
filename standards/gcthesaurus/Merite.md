@@ -1,10 +1,8 @@
 ---
 title: Merite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mérite
+longTitle: 'Mérite'
+tags:
+- gccommon
 french:
-- "[[13434 Merit]]"
+- "[[Merit]]"
 ---
-# Merite

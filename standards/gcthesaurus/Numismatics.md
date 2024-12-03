@@ -1,12 +1,10 @@
 ---
 title: Numismatics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Numismatics
+longTitle: 'Numismatics'
+tags:
+- gccommon
 relatedTerm:
-- "[[3481 Coins]]"
+- "[[Coins]]"
 use:
-- "[[3475 Coin collecting]]"
+- "[[Coin collecting]]"
 ---
-# Numismatics

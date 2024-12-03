@@ -1,10 +1,8 @@
 ---
 title: Communications gouvernementales
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Communications gouvernementales
+longTitle: 'Communications gouvernementales'
+tags:
+- gccommon
 french:
-- "[[9151 Government communications]]"
+- "[[Government communications]]"
 ---
-# Communications gouvernementales

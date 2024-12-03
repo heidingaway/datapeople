@@ -1,10 +1,8 @@
 ---
 title: World Wide Web
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: World Wide Web
+longTitle: 'World Wide Web'
+tags:
+- gccommon
 usedFor:
-- "[[11468 Internet]]"
+- "[[Internet]]"
 ---
-# World Wide Web

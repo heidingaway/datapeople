@@ -1,10 +1,8 @@
 ---
 title: Habitat conservation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Habitat conservation
+longTitle: 'Habitat conservation'
+tags:
+- gccommon
 usedFor:
-- "[[14345 Nature conservation]]"
+- "[[Nature conservation]]"
 ---
-# Habitat conservation

@@ -1,10 +1,8 @@
 ---
 title: International investments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: International investments
+longTitle: 'International investments'
+tags:
+- gccommon
 usedFor:
-- "[[8238 Foreign investments]]"
+- "[[Foreign investments]]"
 ---
-# International investments

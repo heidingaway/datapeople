@@ -1,10 +1,8 @@
 ---
 title: Analyse de lindustrie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Analyse de l'industrie
+longTitle: 'Analyse de l'industrie'
+tags:
+- gccommon
 french:
-- "[[10868 Industry analysis]]"
+- "[[Industry analysis]]"
 ---
-# Analyse de lindustrie

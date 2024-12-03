@@ -1,11 +1,8 @@
 ---
 title: Market entry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Market entry
+longTitle: 'Market entry'
+tags:
+- gccommon
 relatedTerm:
-- "[[13095 Marketing]]"
-- "[[13119 Markets]]"
+- "[[Marketing Markets]]"
 ---
-# Market entry

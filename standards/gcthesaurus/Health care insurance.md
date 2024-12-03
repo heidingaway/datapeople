@@ -1,10 +1,8 @@
 ---
 title: Health care insurance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Health care insurance
+longTitle: 'Health care insurance'
+tags:
+- gccommon
 usedFor:
-- "[[9703 Health insurance]]"
+- "[[Health insurance]]"
 ---
-# Health care insurance

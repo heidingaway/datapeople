@@ -1,10 +1,8 @@
 ---
 title: Social anthropology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Social anthropology
+longTitle: 'Social anthropology'
+tags:
+- gccommon
 usedFor:
-- "[[7188 Ethnology]]"
+- "[[Ethnology]]"
 ---
-# Social anthropology

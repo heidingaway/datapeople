@@ -1,10 +1,8 @@
 ---
 title: Alcohol abuse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Alcohol abuse
+longTitle: 'Alcohol abuse'
+tags:
+- gccommon
 usedFor:
-- "[[847 Alcoholism]]"
+- "[[Alcoholism]]"
 ---
-# Alcohol abuse

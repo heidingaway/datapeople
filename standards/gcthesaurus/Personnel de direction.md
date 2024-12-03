@@ -1,10 +1,8 @@
 ---
 title: Personnel de direction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Personnel de direction
+longTitle: 'Personnel de direction'
+tags:
+- gccommon
 french:
-- "[[7239 Executives]]"
+- "[[Executives]]"
 ---
-# Personnel de direction

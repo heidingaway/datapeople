@@ -1,10 +1,8 @@
 ---
 title: Foreign intervention
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Foreign intervention
+longTitle: 'Foreign intervention'
+tags:
+- gccommon
 usedFor:
-- "[[8231 Foreign interference]]"
+- "[[Foreign interference]]"
 ---
-# Foreign intervention

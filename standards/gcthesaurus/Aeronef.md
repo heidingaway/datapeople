@@ -1,10 +1,8 @@
 ---
 title: Aeronef
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aéronef
+longTitle: 'Aéronef'
+tags:
+- gccommon
 french:
-- "[[710 Aircraft]]"
+- "[[Aircraft]]"
 ---
-# Aeronef

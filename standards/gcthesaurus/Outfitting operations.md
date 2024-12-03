@@ -1,10 +1,8 @@
 ---
 title: Outfitting operations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Outfitting operations
+longTitle: 'Outfitting operations'
+tags:
+- gccommon
 usedFor:
-- "[[15141 Outfitters]]"
+- "[[Outfitters]]"
 ---
-# Outfitting operations

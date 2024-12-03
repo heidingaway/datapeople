@@ -1,12 +1,10 @@
 ---
 title: Reptiles
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Reptiles
+longTitle: 'Reptiles'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1116 Animals]]"
+- "[[Animals]]"
 use:
-- "[[18844 Snakes]]"
+- "[[Snakes]]"
 ---
-# Reptiles

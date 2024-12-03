@@ -1,10 +1,8 @@
 ---
 title: Reserves
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Reserves
+longTitle: 'Reserves'
+tags:
+- gccommon
 usedFor:
-- "[[10702 Indigenous reserves]]"
+- "[[Indigenous reserves]]"
 ---
-# Reserves

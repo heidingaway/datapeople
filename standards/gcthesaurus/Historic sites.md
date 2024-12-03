@@ -1,15 +1,10 @@
 ---
 title: Historic sites
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Historic sites
+longTitle: 'Historic sites'
+tags:
+- gccommon
 relatedTerm:
-- "[[9983 History]]"
-- "[[13904 Monuments]]"
+- "[[History Monuments]]"
 use:
-- "[[1896 Battle sites]]"
-- "[[9944 Historic plaques]]"
-- "[[14207 National historic sites]]"
+- "[[Battle sites Historic plaques National historic si]]"
 ---
-# Historic sites

@@ -1,12 +1,10 @@
 ---
 title: Foreign aid
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Foreign aid
+longTitle: 'Foreign aid'
+tags:
+- gccommon
 narrowerTerm:
-- "[[11361 International cooperation]]"
+- "[[International cooperation]]"
 use:
-- "[[8227 Foreign assistance]]"
+- "[[Foreign assistance]]"
 ---
-# Foreign aid

@@ -1,19 +1,14 @@
 ---
 title: Zoology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Zoology
+longTitle: 'Zoology'
+tags:
+- gccommon
 broaderTerm:
-- "[[10451 Ichthyology]]"
-- "[[15126 Ornithology]]"
-- "[[6759 Entomology]]"
+- "[[Ichthyology Ornithology Entomology]]"
 narrowerTerm:
-- "[[2204 Biology]]"
+- "[[Biology]]"
 relatedTerm:
-- "[[1080 Animal research]]"
-- "[[1130 Animals]]"
+- "[[Animal research Animals]]"
 use:
-- "[[1088 Animal sciences]]"
+- "[[Animal sciences]]"
 ---
-# Zoology

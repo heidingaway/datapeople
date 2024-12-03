@@ -1,10 +1,8 @@
 ---
 title: Ageing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ageing
+longTitle: 'Ageing'
+tags:
+- gccommon
 usedFor:
-- "[[383 Aging]]"
+- "[[Aging]]"
 ---
-# Ageing

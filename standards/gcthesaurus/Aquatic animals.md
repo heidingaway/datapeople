@@ -1,27 +1,14 @@
 ---
 title: Aquatic animals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aquatic animals
+longTitle: 'Aquatic animals'
+tags:
+- gccommon
 broaderTerm:
-- "[[4599 Crustaceans]]"
-- "[[1280 Aquatic birds]]"
-- "[[21236 Walruses]]"
-- "[[7871 Fish]]"
-- "[[18343 Seals]]"
-- "[[21684 Whales]]"
+- "[[Crustaceans Aquatic birds Walruses Fish Seals Whal]]"
 narrowerTerm:
-- "[[1108 Animals]]"
+- "[[Animals]]"
 relatedTerm:
-- "[[1311 Aquatic wildlife]]"
-- "[[13860 Molluscs]]"
-- "[[1250 Aquariums]]"
-- "[[942 Amphibians]]"
-- "[[1244 Aquaculture]]"
+- "[[Aquatic wildlife Molluscs Aquariums Amphibians Aqu]]"
 use:
-- "[[8540 Freshwater animals]]"
-- "[[12926 Marine animals]]"
-- "[[21392 Water animals]]"
+- "[[Freshwater animals Marine animals Water animals]]"
 ---
-# Aquatic animals

@@ -1,10 +1,8 @@
 ---
 title: Economic activity dedicated to the making and broa
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Economic activity dedicated to the making and broadcasting of television and radio programs.
+longTitle: 'Economic activity dedicated to the making and broadcasting of television and radio programs.'
+tags:
+- gccommon
 scopeNote:
-- "[[2431 Broadcasting industry]]"
+- "[[Broadcasting industry]]"
 ---
-# Economic activity dedicated to the making and broa

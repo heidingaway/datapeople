@@ -1,10 +1,8 @@
 ---
 title: Food additives
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Food additives
+longTitle: 'Food additives'
+tags:
+- gccommon
 usedFor:
-- "[[8144 Food processing]]"
+- "[[Food processing]]"
 ---
-# Food additives

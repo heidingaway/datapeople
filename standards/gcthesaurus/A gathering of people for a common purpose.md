@@ -1,10 +1,8 @@
 ---
 title: A gathering of people for a common purpose
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: A gathering of people for a common purpose.
+longTitle: 'A gathering of people for a common purpose.'
+tags:
+- gccommon
 scopeNote:
-- "[[1603 Associations]]"
+- "[[Associations]]"
 ---
-# A gathering of people for a common purpose

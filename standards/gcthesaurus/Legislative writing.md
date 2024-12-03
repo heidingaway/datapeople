@@ -1,16 +1,12 @@
 ---
 title: Legislative writing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Legislative writing
+longTitle: 'Legislative writing'
+tags:
+- gccommon
 narrowerTerm:
-- "[[22065 Writing]]"
+- "[[Writing]]"
 relatedTerm:
-- "[[12305 Legislation]]"
-- "[[2629 By-laws]]"
-- "[[17474 Regulations]]"
+- "[[Legislation By-laws Regulations]]"
 use:
-- "[[12293 Legal writing]]"
+- "[[Legal writing]]"
 ---
-# Legislative writing

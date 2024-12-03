@@ -1,10 +1,8 @@
 ---
 title: Industrie hoteliere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie hôtelière
+longTitle: 'Industrie hôtelière'
+tags:
+- gccommon
 french:
-- "[[10081 Hospitality industry]]"
+- "[[Hospitality industry]]"
 ---
-# Industrie hoteliere

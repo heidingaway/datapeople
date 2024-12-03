@@ -1,18 +1,12 @@
 ---
 title: Vessels
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vessels
+longTitle: 'Vessels'
+tags:
+- gccommon
 broaderTerm:
-- "[[18689 Ships]]"
-- "[[7638 Ferries]]"
-- "[[19496 Submarines]]"
-- "[[15882 Pleasure craft]]"
+- "[[Ships Ferries Submarines Pleasure craft]]"
 narrowerTerm:
-- "[[20919 Vehicles]]"
+- "[[Vehicles]]"
 relatedTerm:
-- "[[14383 Navigation]]"
-- "[[12946 Marine equipment]]"
+- "[[Navigation Marine equipment]]"
 ---
-# Vessels

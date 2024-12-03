@@ -1,10 +1,8 @@
 ---
 title: Literary works
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Literary works
+longTitle: 'Literary works'
+tags:
+- gccommon
 usedFor:
-- "[[12511 Literature]]"
+- "[[Literature]]"
 ---
-# Literary works

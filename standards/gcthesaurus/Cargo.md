@@ -1,10 +1,8 @@
 ---
 title: Cargo
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cargo
+longTitle: 'Cargo'
+tags:
+- gccommon
 usedFor:
-- "[[8500 Freight]]"
+- "[[Freight]]"
 ---
-# Cargo

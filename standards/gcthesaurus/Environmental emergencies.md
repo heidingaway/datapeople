@@ -1,13 +1,10 @@
 ---
 title: Environmental emergencies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental emergencies
+longTitle: 'Environmental emergencies'
+tags:
+- gccommon
 relatedTerm:
-- "[[6811 Environmental accidents]]"
-- "[[6788 Environment]]"
+- "[[Environmental accidents Environment]]"
 use:
-- "[[5800 Ecological emergencies]]"
+- "[[Ecological emergencies]]"
 ---
-# Environmental emergencies

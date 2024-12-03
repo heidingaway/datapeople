@@ -1,12 +1,10 @@
 ---
 title: Capital markets
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Capital markets
+longTitle: 'Capital markets'
+tags:
+- gccommon
 narrowerTerm:
-- "[[13113 Markets]]"
+- "[[Markets]]"
 relatedTerm:
-- "[[11594 Investments]]"
+- "[[Investments]]"
 ---
-# Capital markets

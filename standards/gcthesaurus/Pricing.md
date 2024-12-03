@@ -1,14 +1,10 @@
 ---
 title: Pricing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pricing
+longTitle: 'Pricing'
+tags:
+- gccommon
 relatedTerm:
-- "[[16323 Prices]]"
-- "[[16313 Price regulation]]"
+- "[[Prices Price regulation]]"
 use:
-- "[[16294 Price determination]]"
-- "[[16296 Price fixing]]"
+- "[[Price determination Price fixing]]"
 ---
-# Pricing

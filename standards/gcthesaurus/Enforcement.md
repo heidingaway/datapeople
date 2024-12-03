@@ -1,10 +1,8 @@
 ---
 title: Enforcement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Enforcement
+longTitle: 'Enforcement'
+tags:
+- gccommon
 relatedTerm:
-- "[[3779 Compliance]]"
+- "[[Compliance]]"
 ---
-# Enforcement

@@ -1,14 +1,10 @@
 ---
 title: Forgery
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forgery
+longTitle: 'Forgery'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8481 Fraud]]"
+- "[[Fraud]]"
 use:
-- "[[4360 Counterfeiting]]"
-- "[[7343 Falsification]]"
-- "[[278 Adulteration]]"
+- "[[Counterfeiting Falsification Adulteration]]"
 ---
-# Forgery

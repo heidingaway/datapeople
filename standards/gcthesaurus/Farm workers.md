@@ -1,10 +1,8 @@
 ---
 title: Farm workers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Farm workers
+longTitle: 'Farm workers'
+tags:
+- gccommon
 usedFor:
-- "[[548 Agricultural workers]]"
+- "[[Agricultural workers]]"
 ---
-# Farm workers

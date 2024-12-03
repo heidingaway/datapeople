@@ -1,10 +1,8 @@
 ---
 title: The processes of conducting an appropriate referen
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: The processes of conducting an appropriate reference interview and assisting users in locating required information.
+longTitle: 'The processes of conducting an appropriate reference interview and assisting users in locating required information.'
+tags:
+- gccommon
 scopeNote:
-- "[[17399 Reference services]]"
+- "[[Reference services]]"
 ---
-# The processes of conducting an appropriate referen

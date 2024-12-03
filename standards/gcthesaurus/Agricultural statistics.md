@@ -1,10 +1,8 @@
 ---
 title: Agricultural statistics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Agricultural statistics
+longTitle: 'Agricultural statistics'
+tags:
+- gccommon
 usedFor:
-- "[[574 Agriculture statistics]]"
+- "[[Agriculture statistics]]"
 ---
-# Agricultural statistics

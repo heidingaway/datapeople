@@ -1,10 +1,8 @@
 ---
 title: Management of real property assets as a business i
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Management of real property assets as a business including marketing, leasing, rent, rent collection, and overall maintenance of a property.
+longTitle: 'Management of real property assets as a business including marketing, leasing, rent, rent collection, and overall maintenance of a property.'
+tags:
+- gccommon
 scopeNote:
-- "[[16631 Property management]]"
+- "[[Property management]]"
 ---
-# Management of real property assets as a business i

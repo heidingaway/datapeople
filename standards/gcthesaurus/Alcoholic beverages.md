@@ -1,20 +1,14 @@
 ---
 title: Alcoholic beverages
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Alcoholic beverages
+longTitle: 'Alcoholic beverages'
+tags:
+- gccommon
 broaderTerm:
-- "[[21792 Wine]]"
-- "[[1927 Beer]]"
+- "[[Wine Beer]]"
 narrowerTerm:
-- "[[1995 Beverages]]"
+- "[[Beverages]]"
 relatedTerm:
-- "[[819 Alcohol consumption]]"
+- "[[Alcohol consumption]]"
 use:
-- "[[812 Alcohol beverages]]"
-- "[[19229 Spirituous beverages]]"
-- "[[7635 Fermented beverages]]"
-- "[[844 Alcoholic drinks]]"
+- "[[Alcohol beverages Spirituous beverages Fermented b]]"
 ---
-# Alcoholic beverages

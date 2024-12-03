@@ -1,10 +1,8 @@
 ---
 title: Dangerous materials
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dangerous materials
+longTitle: 'Dangerous materials'
+tags:
+- gccommon
 usedFor:
-- "[[9519 Hazardous materials]]"
+- "[[Hazardous materials]]"
 ---
-# Dangerous materials

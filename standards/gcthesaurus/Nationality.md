@@ -1,10 +1,8 @@
 ---
 title: Nationality
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nationality
+longTitle: 'Nationality'
+tags:
+- gccommon
 usedFor:
-- "[[3239 Citizenship]]"
+- "[[Citizenship]]"
 ---
-# Nationality

@@ -1,10 +1,8 @@
 ---
 title: Workforce mobility
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Workforce mobility
+longTitle: 'Workforce mobility'
+tags:
+- gccommon
 usedFor:
-- "[[11920 Labour mobility]]"
+- "[[Labour mobility]]"
 ---
-# Workforce mobility

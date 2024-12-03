@@ -1,14 +1,12 @@
 ---
 title: Second language education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Second language education
+longTitle: 'Second language education'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12065 Language education]]"
+- "[[Language education]]"
 relatedTerm:
-- "[[18400 Second languages]]"
+- "[[Second languages]]"
 use:
-- "[[18391 Second language teaching]]"
+- "[[Second language teaching]]"
 ---
-# Second language education

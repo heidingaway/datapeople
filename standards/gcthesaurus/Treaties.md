@@ -1,10 +1,8 @@
 ---
 title: Treaties
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Treaties
+longTitle: 'Treaties'
+tags:
+- gccommon
 usedFor:
-- "[[396 Agreements]]"
+- "[[Agreements]]"
 ---
-# Treaties

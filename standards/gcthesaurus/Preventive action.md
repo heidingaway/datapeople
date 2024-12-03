@@ -1,10 +1,8 @@
 ---
 title: Preventive action
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Preventive action
+longTitle: 'Preventive action'
+tags:
+- gccommon
 usedFor:
-- "[[16272 Prevention]]"
+- "[[Prevention]]"
 ---
-# Preventive action

@@ -1,14 +1,12 @@
 ---
 title: Foreign interference
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Foreign interference
+longTitle: 'Foreign interference'
+tags:
+- gccommon
 narrowerTerm:
-- "[[14235 National security]]"
+- "[[National security]]"
 relatedTerm:
-- "[[3858 Computer security]]"
+- "[[Computer security]]"
 use:
-- "[[8236 Foreign intervention]]"
+- "[[Foreign intervention]]"
 ---
-# Foreign interference

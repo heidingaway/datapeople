@@ -1,14 +1,10 @@
 ---
 title: Accident prevention
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Accident prevention
+longTitle: 'Accident prevention'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16273 Prevention]]"
+- "[[Prevention]]"
 relatedTerm:
-- "[[17995 Safety]]"
-- "[[18040 Safety measures]]"
-- "[[127 Accidents]]"
+- "[[Safety Safety measures Accidents]]"
 ---
-# Accident prevention

@@ -1,10 +1,8 @@
 ---
 title: Tissage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tissage
+longTitle: 'Tissage'
+tags:
+- gccommon
 french:
-- "[[21619 Weaving]]"
+- "[[Weaving]]"
 ---
-# Tissage

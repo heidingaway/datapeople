@@ -1,10 +1,8 @@
 ---
 title: Installations maritimes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Installations maritimes
+longTitle: 'Installations maritimes'
+tags:
+- gccommon
 french:
-- "[[12957 Marine installations]]"
+- "[[Marine installations]]"
 ---
-# Installations maritimes

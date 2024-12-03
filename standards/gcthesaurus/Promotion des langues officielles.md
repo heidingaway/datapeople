@@ -1,10 +1,8 @@
 ---
 title: Promotion des langues officielles
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Promotion des langues officielles
+longTitle: 'Promotion des langues officielles'
+tags:
+- gccommon
 french:
-- "[[14936 Official languages promotion]]"
+- "[[Official languages promotion]]"
 ---
-# Promotion des langues officielles

@@ -1,12 +1,10 @@
 ---
 title: Financial audit
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Financial audit
+longTitle: 'Financial audit'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1704 Audit]]"
+- "[[Audit]]"
 relatedTerm:
-- "[[143 Accounting]]"
+- "[[Accounting]]"
 ---
-# Financial audit

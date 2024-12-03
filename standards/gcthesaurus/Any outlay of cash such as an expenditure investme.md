@@ -1,10 +1,8 @@
 ---
 title: Any outlay of cash such as an expenditure investme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Any outlay of cash, such as an expenditure, investment, advance or loan payment.
+longTitle: 'Any outlay of cash, such as an expenditure, investment, advance or loan payment.'
+tags:
+- gccommon
 scopeNote:
-- "[[5353 Disbursements]]"
+- "[[Disbursements]]"
 ---
-# Any outlay of cash such as an expenditure investme

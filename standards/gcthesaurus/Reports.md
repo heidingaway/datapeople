@@ -1,15 +1,10 @@
 ---
 title: Reports
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Reports
+longTitle: 'Reports'
+tags:
+- gccommon
 broaderTerm:
-- "[[1136 Annual reports]]"
-- "[[17016 Quarterly financial reports]]"
-- "[[19820 Technical reports]]"
-- "[[16584 Progress reports]]"
+- "[[Annual reports Quarterly financial reports Technic]]"
 narrowerTerm:
-- "[[19502 Submissions]]"
+- "[[Submissions]]"
 ---
-# Reports

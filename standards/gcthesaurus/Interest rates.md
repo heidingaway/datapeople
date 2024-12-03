@@ -1,12 +1,10 @@
 ---
 title: Interest rates
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Interest rates
+longTitle: 'Interest rates'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17214 Rates]]"
+- "[[Rates]]"
 relatedTerm:
-- "[[12587 Loans]]"
+- "[[Loans]]"
 ---
-# Interest rates

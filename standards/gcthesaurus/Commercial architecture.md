@@ -1,12 +1,10 @@
 ---
 title: Commercial architecture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Commercial architecture
+longTitle: 'Commercial architecture'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1368 Architecture]]"
+- "[[Architecture]]"
 relatedTerm:
-- "[[3568 Commercial buildings]]"
+- "[[Commercial buildings]]"
 ---
-# Commercial architecture

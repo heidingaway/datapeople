@@ -1,18 +1,12 @@
 ---
 title: Acid rain
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Acid rain
+longTitle: 'Acid rain'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16210 Precipitation]]"
+- "[[Precipitation]]"
 relatedTerm:
-- "[[641 Air pollution]]"
+- "[[Air pollution]]"
 use:
-- "[[171 Acidic precipitation]]"
-- "[[159 Acid precipitation]]"
-- "[[157 Acid deposition]]"
-- "[[173 Acidic rain]]"
-- "[[175 Acidified precipitation]]"
+- "[[Acidic precipitation Acid precipitation Acid depos]]"
 ---
-# Acid rain

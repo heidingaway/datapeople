@@ -1,10 +1,8 @@
 ---
 title: Jobs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Jobs
+longTitle: 'Jobs'
+tags:
+- gccommon
 usedFor:
-- "[[6486 Employment]]"
+- "[[Employment]]"
 ---
-# Jobs

@@ -1,10 +1,8 @@
 ---
 title: Transfert de responsabilites
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transfert de responsabilités
+longTitle: 'Transfert de responsabilités'
+tags:
+- gccommon
 french:
-- "[[5202 Devolution]]"
+- "[[Devolution]]"
 ---
-# Transfert de responsabilites

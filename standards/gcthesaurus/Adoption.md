@@ -1,15 +1,12 @@
 ---
 title: Adoption
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Adoption
+longTitle: 'Adoption'
+tags:
+- gccommon
 broaderTerm:
-- "[[11330 International adoption]]"
+- "[[International adoption]]"
 french:
-- "[[266 Adoption]]"
+- "[[Adoption]]"
 relatedTerm:
-- "[[7381 Family law]]"
-- "[[273 Adoptive parents]]"
+- "[[Family law Adoptive parents]]"
 ---
-# Adoption

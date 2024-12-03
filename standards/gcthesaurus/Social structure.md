@@ -1,13 +1,10 @@
 ---
 title: Social structure
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Social structure
+longTitle: 'Social structure'
+tags:
+- gccommon
 relatedTerm:
-- "[[18898 Social equity]]"
-- "[[18893 Social development]]"
+- "[[Social equity Social development]]"
 use:
-- "[[18876 Social classes]]"
+- "[[Social classes]]"
 ---
-# Social structure

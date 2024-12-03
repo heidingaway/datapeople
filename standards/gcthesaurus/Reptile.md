@@ -1,10 +1,8 @@
 ---
 title: Reptile
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Reptile
+longTitle: 'Reptile'
+tags:
+- gccommon
 french:
-- "[[17620 Reptiles]]"
+- "[[Reptiles]]"
 ---
-# Reptile

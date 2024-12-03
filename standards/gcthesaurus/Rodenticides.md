@@ -1,12 +1,10 @@
 ---
 title: Rodenticides
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rodenticides
+longTitle: 'Rodenticides'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15625 Pesticides]]"
+- "[[Pesticides]]"
 relatedTerm:
-- "[[17941 Rodents]]"
+- "[[Rodents]]"
 ---
-# Rodenticides

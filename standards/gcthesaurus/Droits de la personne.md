@@ -1,10 +1,8 @@
 ---
 title: Droits de la personne
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Droits de la personne
+longTitle: 'Droits de la personne'
+tags:
+- gccommon
 french:
-- "[[10205 Human rights]]"
+- "[[Human rights]]"
 ---
-# Droits de la personne

@@ -1,15 +1,10 @@
 ---
 title: Atmospheric emissions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Atmospheric emissions
+longTitle: 'Atmospheric emissions'
+tags:
+- gccommon
 relatedTerm:
-- "[[9366 Greenhouse gases]]"
-- "[[16013 Pollutants]]"
-- "[[644 Air pollution]]"
+- "[[Greenhouse gases Pollutants Air pollution]]"
 use:
-- "[[627 Air emissions]]"
-- "[[708 Airborne emissions]]"
+- "[[Air emissions Airborne emissions]]"
 ---
-# Atmospheric emissions

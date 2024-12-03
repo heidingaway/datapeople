@@ -1,10 +1,8 @@
 ---
 title: Pionnier
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pionnier
+longTitle: 'Pionnier'
+tags:
+- gccommon
 french:
-- "[[15797 Pioneers]]"
+- "[[Pioneers]]"
 ---
-# Pionnier

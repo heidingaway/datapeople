@@ -1,10 +1,8 @@
 ---
 title: Systeme judiciaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Système judiciaire
+longTitle: 'Système judiciaire'
+tags:
+- gccommon
 french:
-- "[[11716 Justice system]]"
+- "[[Justice system]]"
 ---
-# Systeme judiciaire

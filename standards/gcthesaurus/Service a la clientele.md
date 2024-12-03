@@ -1,10 +1,8 @@
 ---
 title: Service a la clientele
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Service à la clientèle
+longTitle: 'Service à la clientèle'
+tags:
+- gccommon
 french:
-- "[[4743 Customer services]]"
+- "[[Customer services]]"
 ---
-# Service a la clientele

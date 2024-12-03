@@ -1,14 +1,12 @@
 ---
 title: Indigenous programs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indigenous programs
+longTitle: 'Indigenous programs'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16573 Programs]]"
+- "[[Programs]]"
 relatedTerm:
-- "[[10637 Indigenous businesses]]"
+- "[[Indigenous businesses]]"
 use:
-- "[[53 Aboriginal programs]]"
+- "[[Aboriginal programs]]"
 ---
-# Indigenous programs

@@ -1,15 +1,12 @@
 ---
 title: Industrial technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrial technology
+longTitle: 'Industrial technology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19873 Technology]]"
+- "[[Technology]]"
 relatedTerm:
-- "[[10863 Industry]]"
+- "[[Industry]]"
 use:
-- "[[10759 Industrial equipment]]"
-- "[[12862 Manufacturing technology]]"
+- "[[Industrial equipment Manufacturing technology]]"
 ---
-# Industrial technology

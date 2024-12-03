@@ -1,10 +1,8 @@
 ---
 title: Vocabulary
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vocabulary
+longTitle: 'Vocabulary'
+tags:
+- gccommon
 usedFor:
-- "[[20038 Terminology]]"
+- "[[Terminology]]"
 ---
-# Vocabulary

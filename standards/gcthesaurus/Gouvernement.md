@@ -1,10 +1,8 @@
 ---
 title: Gouvernement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gouvernement
+longTitle: 'Gouvernement'
+tags:
+- gccommon
 french:
-- "[[9252 Governments]]"
+- "[[Governments]]"
 ---
-# Gouvernement

@@ -1,13 +1,10 @@
 ---
 title: Accessible transport
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Accessible transport
+longTitle: 'Accessible transport'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20600 Transport]]"
+- "[[Transport]]"
 relatedTerm:
-- "[[103 Accessibility for persons with disabilities]]"
-- "[[15596 Persons with disabilities]]"
+- "[[Accessibility for persons with disabilities Person]]"
 ---
-# Accessible transport

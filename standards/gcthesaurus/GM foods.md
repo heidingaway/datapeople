@@ -1,10 +1,8 @@
 ---
 title: GM foods
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: GM foods
+longTitle: 'GM foods'
+tags:
+- gccommon
 usedFor:
-- "[[8850 Genetically modified foods]]"
+- "[[Genetically modified foods]]"
 ---
-# GM foods

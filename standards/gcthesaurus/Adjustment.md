@@ -1,13 +1,10 @@
 ---
 title: Adjustment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Adjustment
+longTitle: 'Adjustment'
+tags:
+- gccommon
 relatedTerm:
-- "[[20557 Transformation]]"
+- "[[Transformation]]"
 use:
-- "[[12718 Maladjustment]]"
-- "[[205 Adaptation]]"
+- "[[Maladjustment Adaptation]]"
 ---
-# Adjustment

@@ -1,10 +1,8 @@
 ---
 title: Normes comptables
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Normes comptables
+longTitle: 'Normes comptables'
+tags:
+- gccommon
 french:
-- "[[146 Accounting standards]]"
+- "[[Accounting standards]]"
 ---
-# Normes comptables

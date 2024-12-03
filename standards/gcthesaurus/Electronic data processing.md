@@ -1,10 +1,8 @@
 ---
 title: Electronic data processing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electronic data processing
+longTitle: 'Electronic data processing'
+tags:
+- gccommon
 usedFor:
-- "[[4873 Data processing]]"
+- "[[Data processing]]"
 ---
-# Electronic data processing

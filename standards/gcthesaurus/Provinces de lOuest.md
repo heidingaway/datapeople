@@ -1,10 +1,8 @@
 ---
 title: Provinces de lOuest
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Provinces de l'Ouest
+longTitle: 'Provinces de l'Ouest'
+tags:
+- gccommon
 french:
-- "[[21669 Western provinces]]"
+- "[[Western provinces]]"
 ---
-# Provinces de lOuest

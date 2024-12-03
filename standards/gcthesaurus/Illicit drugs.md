@@ -1,10 +1,8 @@
 ---
 title: Illicit drugs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Illicit drugs
+longTitle: 'Illicit drugs'
+tags:
+- gccommon
 usedFor:
-- "[[14157 Narcotics]]"
+- "[[Narcotics]]"
 ---
-# Illicit drugs

@@ -1,10 +1,8 @@
 ---
 title: Mapping
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mapping
+longTitle: 'Mapping'
+tags:
+- gccommon
 usedFor:
-- "[[2821 Cartography]]"
+- "[[Cartography]]"
 ---
-# Mapping

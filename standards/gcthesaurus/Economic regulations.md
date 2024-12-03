@@ -1,12 +1,10 @@
 ---
 title: Economic regulations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Economic regulations
+longTitle: 'Economic regulations'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17469 Regulations]]"
+- "[[Regulations]]"
 relatedTerm:
-- "[[16311 Price regulation]]"
+- "[[Price regulation]]"
 ---
-# Economic regulations

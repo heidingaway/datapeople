@@ -1,10 +1,8 @@
 ---
 title: Consortium
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Consortium
+longTitle: 'Consortium'
+tags:
+- gccommon
 french:
-- "[[3981 Consortia]]"
+- "[[Consortia]]"
 ---
-# Consortium

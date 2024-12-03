@@ -1,10 +1,8 @@
 ---
 title: Aide humanitaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aide humanitaire
+longTitle: 'Aide humanitaire'
+tags:
+- gccommon
 french:
-- "[[10253 Humanitarian aid]]"
+- "[[Humanitarian aid]]"
 ---
-# Aide humanitaire

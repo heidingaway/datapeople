@@ -1,15 +1,10 @@
 ---
 title: Aid programs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aid programs
+longTitle: 'Aid programs'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16568 Programs]]"
+- "[[Programs]]"
 use:
-- "[[461 Agricultural aid programs]]"
-- "[[1566 Assistance programs]]"
-- "[[19575 Support programs]]"
-- "[[19577 Supporting programs]]"
+- "[[Agricultural aid programs Assistance programs Supp]]"
 ---
-# Aid programs

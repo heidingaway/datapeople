@@ -1,10 +1,8 @@
 ---
 title: Parti politique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Parti politique
+longTitle: 'Parti politique'
+tags:
+- gccommon
 french:
-- "[[15986 Political parties]]"
+- "[[Political parties]]"
 ---
-# Parti politique

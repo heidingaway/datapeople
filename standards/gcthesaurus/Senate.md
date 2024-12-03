@@ -1,12 +1,10 @@
 ---
 title: Senate
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Senate
+longTitle: 'Senate'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15290 Parliament]]"
+- "[[Parliament]]"
 relatedTerm:
-- "[[13382 Members of the Senate]]"
+- "[[Members of the Senate]]"
 ---
-# Senate

@@ -1,10 +1,8 @@
 ---
 title: Water routes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Water routes
+longTitle: 'Water routes'
+tags:
+- gccommon
 usedFor:
-- "[[21564 Waterways]]"
+- "[[Waterways]]"
 ---
-# Water routes

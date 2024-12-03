@@ -1,14 +1,12 @@
 ---
 title: Storage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Storage
+longTitle: 'Storage'
+tags:
+- gccommon
 broaderTerm:
-- "[[12614 Lockers]]"
+- "[[Lockers]]"
 relatedTerm:
-- "[[11572 Inventories]]"
+- "[[Inventories]]"
 use:
-- "[[21283 Warehousing]]"
+- "[[Warehousing]]"
 ---
-# Storage

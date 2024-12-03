@@ -1,10 +1,8 @@
 ---
 title: Casier judiciaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Casier judiciaire
+longTitle: 'Casier judiciaire'
+tags:
+- gccommon
 french:
-- "[[4509 Criminal records]]"
+- "[[Criminal records]]"
 ---
-# Casier judiciaire

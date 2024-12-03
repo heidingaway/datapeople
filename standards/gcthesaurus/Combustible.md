@@ -1,10 +1,8 @@
 ---
 title: Combustible
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Combustible
+longTitle: 'Combustible'
+tags:
+- gccommon
 french:
-- "[[8570 Fuels]]"
+- "[[Fuels]]"
 ---
-# Combustible

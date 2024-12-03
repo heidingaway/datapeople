@@ -1,10 +1,8 @@
 ---
 title: Consumer goods
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Consumer goods
+longTitle: 'Consumer goods'
+tags:
+- gccommon
 usedFor:
-- "[[4076 Consumer products]]"
+- "[[Consumer products]]"
 ---
-# Consumer goods

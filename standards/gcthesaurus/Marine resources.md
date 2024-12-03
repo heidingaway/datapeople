@@ -1,10 +1,8 @@
 ---
 title: Marine resources
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marine resources
+longTitle: 'Marine resources'
+tags:
+- gccommon
 usedFor:
-- "[[14318 Natural resources]]"
+- "[[Natural resources]]"
 ---
-# Marine resources

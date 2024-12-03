@@ -1,10 +1,8 @@
 ---
 title: Alliances
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Alliances
+longTitle: 'Alliances'
+tags:
+- gccommon
 usedFor:
-- "[[394 Agreements]]"
+- "[[Agreements]]"
 ---
-# Alliances

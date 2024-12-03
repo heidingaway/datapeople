@@ -1,10 +1,8 @@
 ---
-title: "The formation in law of an organization giving it "
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: The formation in law of an organization giving it the quality of perpetual existence and succession.
+title: The formation in law of an organization giving it 
+longTitle: 'The formation in law of an organization giving it the quality of perpetual existence and succession.'
+tags:
+- gccommon
 scopeNote:
-- "[[10590 Incorporation]]"
+- "[[Incorporation]]"
 ---
-# The formation in law of an organization giving it

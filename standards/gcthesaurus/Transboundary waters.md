@@ -1,10 +1,8 @@
 ---
 title: Transboundary waters
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transboundary waters
+longTitle: 'Transboundary waters'
+tags:
+- gccommon
 usedFor:
-- "[[2387 Boundary waters]]"
+- "[[Boundary waters]]"
 ---
-# Transboundary waters

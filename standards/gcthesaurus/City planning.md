@@ -1,10 +1,8 @@
 ---
 title: City planning
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: City planning
+longTitle: 'City planning'
+tags:
+- gccommon
 usedFor:
-- "[[20832 Urban planning]]"
+- "[[Urban planning]]"
 ---
-# City planning

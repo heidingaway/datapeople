@@ -1,13 +1,10 @@
 ---
 title: Geochemistry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Geochemistry
+longTitle: 'Geochemistry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5766 Earth sciences]]"
-- "[[3073 Chemistry]]"
+- "[[Earth sciences Chemistry]]"
 relatedTerm:
-- "[[8994 Geology]]"
+- "[[Geology]]"
 ---
-# Geochemistry

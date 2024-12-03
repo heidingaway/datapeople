@@ -1,10 +1,8 @@
 ---
 title: Obligation legale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Obligation légale
+longTitle: 'Obligation légale'
+tags:
+- gccommon
 french:
-- "[[12273 Legal obligations]]"
+- "[[Legal obligations]]"
 ---
-# Obligation legale

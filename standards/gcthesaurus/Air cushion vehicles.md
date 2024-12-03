@@ -1,10 +1,8 @@
 ---
 title: Air cushion vehicles
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Air cushion vehicles
+longTitle: 'Air cushion vehicles'
+tags:
+- gccommon
 usedFor:
-- "[[10152 Hovercraft]]"
+- "[[Hovercraft]]"
 ---
-# Air cushion vehicles

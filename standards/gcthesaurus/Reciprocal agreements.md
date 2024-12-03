@@ -1,10 +1,8 @@
 ---
 title: Reciprocal agreements
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Reciprocal agreements
+longTitle: 'Reciprocal agreements'
+tags:
+- gccommon
 narrowerTerm:
-- "[[405 Agreements]]"
+- "[[Agreements]]"
 ---
-# Reciprocal agreements

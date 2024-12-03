@@ -1,10 +1,8 @@
 ---
 title: Parc territorial
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Parc territorial
+longTitle: 'Parc territorial'
+tags:
+- gccommon
 french:
-- "[[20076 Territorial parks]]"
+- "[[Territorial parks]]"
 ---
-# Parc territorial

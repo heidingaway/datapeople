@@ -1,13 +1,10 @@
 ---
 title: Job applications
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Job applications
+longTitle: 'Job applications'
+tags:
+- gccommon
 relatedTerm:
-- "[[11684 Job search]]"
-- "[[1210 Applicants]]"
+- "[[Job search Applicants]]"
 use:
-- "[[1214 Application for employment]]"
+- "[[Application for employment]]"
 ---
-# Job applications

@@ -1,10 +1,8 @@
 ---
 title: Womens status
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Women's status
+longTitle: 'Women's status'
+tags:
+- gccommon
 usedFor:
-- "[[19372 Status of women]]"
+- "[[Status of women]]"
 ---
-# Womens status

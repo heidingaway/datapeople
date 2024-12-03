@@ -1,10 +1,8 @@
 ---
 title: Developpement de lenfant
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Développement de l'enfant
+longTitle: 'Développement de l'enfant'
+tags:
+- gccommon
 french:
-- "[[3117 Child development]]"
+- "[[Child development]]"
 ---
-# Developpement de lenfant

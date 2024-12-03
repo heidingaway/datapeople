@@ -1,10 +1,8 @@
 ---
 title: Death benefits
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Death benefits
+longTitle: 'Death benefits'
+tags:
+- gccommon
 usedFor:
-- "[[19626 Survivor benefits]]"
+- "[[Survivor benefits]]"
 ---
-# Death benefits

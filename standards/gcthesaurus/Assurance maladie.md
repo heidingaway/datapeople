@@ -1,10 +1,8 @@
 ---
 title: Assurance maladie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Assurance maladie
+longTitle: 'Assurance maladie'
+tags:
+- gccommon
 french:
-- "[[9701 Health insurance]]"
+- "[[Health insurance]]"
 ---
-# Assurance maladie

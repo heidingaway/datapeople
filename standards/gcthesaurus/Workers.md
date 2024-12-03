@@ -1,20 +1,12 @@
 ---
 title: Workers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Workers
+longTitle: 'Workers'
+tags:
+- gccommon
 broaderTerm:
-- "[[21837 Women workers]]"
-- "[[550 Agricultural workers]]"
-- "[[13577 Migrant workers]]"
-- "[[10847 Industrial workers]]"
+- "[[Women workers Agricultural workers Migrant workers]]"
 relatedTerm:
-- "[[11882 Labour force]]"
-- "[[11897 Labour law]]"
-- "[[10203 Human resources]]"
+- "[[Labour force Labour law Human resources]]"
 use:
-- "[[18773 Skilled workers]]"
-- "[[6476 Employees]]"
+- "[[Skilled workers Employees]]"
 ---
-# Workers

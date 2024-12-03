@@ -1,13 +1,10 @@
 ---
 title: Personal assets
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Personal assets
+longTitle: 'Personal assets'
+tags:
+- gccommon
 broaderTerm:
-- "[[7122 Estates]]"
-- "[[11073 Inheritance]]"
+- "[[Estates Inheritance]]"
 narrowerTerm:
-- "[[1554 Assets]]"
+- "[[Assets]]"
 ---
-# Personal assets

@@ -1,14 +1,10 @@
 ---
 title: Pro bono legal services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pro bono legal services
+longTitle: 'Pro bono legal services'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12161 Law]]"
+- "[[Law]]"
 relatedTerm:
-- "[[12254 Legal aid]]"
-- "[[11735 Justice system]]"
-- "[[21217 Volunteer work]]"
+- "[[Legal aid Justice system Volunteer work]]"
 ---
-# Pro bono legal services

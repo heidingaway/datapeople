@@ -1,10 +1,8 @@
 ---
 title: Document electronique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Document électronique
+longTitle: 'Document électronique'
+tags:
+- gccommon
 french:
-- "[[6299 Electronic documents]]"
+- "[[Electronic documents]]"
 ---
-# Document electronique

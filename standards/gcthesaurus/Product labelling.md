@@ -1,10 +1,8 @@
 ---
 title: Product labelling
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Product labelling
+longTitle: 'Product labelling'
+tags:
+- gccommon
 usedFor:
-- "[[11781 Labelling]]"
+- "[[Labelling]]"
 ---
-# Product labelling

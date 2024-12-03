@@ -1,15 +1,10 @@
 ---
 title: Subsidized housing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Subsidized housing
+longTitle: 'Subsidized housing'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19005 Social services]]"
-- "[[10139 Housing]]"
+- "[[Social services Housing]]"
 use:
-- "[[14519 Non profit housing]]"
-- "[[14544 Nonprofit housing]]"
-- "[[12655 Low-cost housing]]"
+- "[[Non profit housing Nonprofit housing Low-cost hous]]"
 ---
-# Subsidized housing

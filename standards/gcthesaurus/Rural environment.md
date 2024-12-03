@@ -1,15 +1,12 @@
 ---
 title: Rural environment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rural environment
+longTitle: 'Rural environment'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6779 Environment]]"
+- "[[Environment]]"
 relatedTerm:
-- "[[17963 Rural communities]]"
-- "[[20826 Urban environment]]"
+- "[[Rural communities Urban environment]]"
 use:
-- "[[17958 Rural areas]]"
+- "[[Rural areas]]"
 ---
-# Rural environment

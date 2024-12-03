@@ -1,10 +1,8 @@
 ---
 title: Constitutional accord
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Constitutional accord
+longTitle: 'Constitutional accord'
+tags:
+- gccommon
 usedFor:
-- "[[3989 Constitution]]"
+- "[[Constitution]]"
 ---
-# Constitutional accord

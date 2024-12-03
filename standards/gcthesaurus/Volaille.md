@@ -1,10 +1,8 @@
 ---
 title: Volaille
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Volaille
+longTitle: 'Volaille'
+tags:
+- gccommon
 french:
-- "[[16156 Poultry]]"
+- "[[Poultry]]"
 ---
-# Volaille

@@ -1,10 +1,8 @@
 ---
 title: Millennium scholarships
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Millennium scholarships
+longTitle: 'Millennium scholarships'
+tags:
+- gccommon
 usedFor:
-- "[[18190 Scholarships]]"
+- "[[Scholarships]]"
 ---
-# Millennium scholarships

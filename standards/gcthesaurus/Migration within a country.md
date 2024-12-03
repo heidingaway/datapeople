@@ -1,10 +1,8 @@
 ---
 title: Migration within a country
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Migration within a country.
+longTitle: 'Migration within a country.'
+tags:
+- gccommon
 scopeNote:
-- "[[11320 Internal migration]]"
+- "[[Internal migration]]"
 ---
-# Migration within a country

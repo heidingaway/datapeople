@@ -1,10 +1,8 @@
 ---
 title: Organisme nuisible
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Organisme nuisible
+longTitle: 'Organisme nuisible'
+tags:
+- gccommon
 french:
-- "[[15631 Pests]]"
+- "[[Pests]]"
 ---
-# Organisme nuisible

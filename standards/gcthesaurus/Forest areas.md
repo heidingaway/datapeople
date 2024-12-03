@@ -1,10 +1,8 @@
 ---
 title: Forest areas
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forest areas
+longTitle: 'Forest areas'
+tags:
+- gccommon
 usedFor:
-- "[[8409 Forests]]"
+- "[[Forests]]"
 ---
-# Forest areas

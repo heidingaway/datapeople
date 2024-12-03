@@ -1,10 +1,8 @@
 ---
 title: Flowcharts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Flowcharts
+longTitle: 'Flowcharts'
+tags:
+- gccommon
 use:
-- "[[15102 Organizational charts]]"
+- "[[Organizational charts]]"
 ---
-# Flowcharts

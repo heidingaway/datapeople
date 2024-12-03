@@ -1,18 +1,12 @@
 ---
 title: Landmines
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Landmines
+longTitle: 'Landmines'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21585 Weapons]]"
+- "[[Weapons]]"
 relatedTerm:
-- "[[5088 Demining]]"
+- "[[Demining]]"
 use:
-- "[[12013 Land mines]]"
-- "[[1173 Anti-tank mines]]"
-- "[[1183 Antitank mines]]"
-- "[[1179 Antipersonnel mines]]"
-- "[[1171 Anti-personnel mines]]"
+- "[[Land mines Anti-tank mines Antitank mines Antipers]]"
 ---
-# Landmines

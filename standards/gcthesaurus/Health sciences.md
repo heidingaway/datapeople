@@ -1,19 +1,12 @@
 ---
 title: Health sciences
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Health sciences
+longTitle: 'Health sciences'
+tags:
+- gccommon
 broaderTerm:
-- "[[7057 Epidemiology]]"
-- "[[15696 Pharmacology]]"
-- "[[20343 Toxicology]]"
-- "[[13336 Medicine]]"
+- "[[Epidemiology Pharmacology Toxicology Medicine]]"
 narrowerTerm:
-- "[[12427 Life sciences]]"
+- "[[Life sciences]]"
 relatedTerm:
-- "[[9582 Health]]"
-- "[[18280 Scientists]]"
-- "[[9747 Health professionals]]"
+- "[[Health Scientists Health professionals]]"
 ---
-# Health sciences

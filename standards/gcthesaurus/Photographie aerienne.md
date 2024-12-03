@@ -1,10 +1,8 @@
 ---
 title: Photographie aerienne
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Photographie aérienne
+longTitle: 'Photographie aérienne'
+tags:
+- gccommon
 french:
-- "[[333 Aerial photography]]"
+- "[[Aerial photography]]"
 ---
-# Photographie aerienne

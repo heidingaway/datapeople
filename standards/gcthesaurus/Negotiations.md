@@ -1,18 +1,12 @@
 ---
 title: Negotiations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Negotiations
+longTitle: 'Negotiations'
+tags:
+- gccommon
 broaderTerm:
-- "[[3512 Collective bargaining]]"
-- "[[20403 Trade negotiations]]"
+- "[[Collective bargaining Trade negotiations]]"
 relatedTerm:
-- "[[3902 Conciliation]]"
-- "[[3932 Conflict resolution]]"
-- "[[1329 Arbitration]]"
-- "[[409 Agreements]]"
+- "[[Conciliation Conflict resolution Arbitration Agree]]"
 use:
-- "[[1870 Bargaining]]"
+- "[[Bargaining]]"
 ---
-# Negotiations

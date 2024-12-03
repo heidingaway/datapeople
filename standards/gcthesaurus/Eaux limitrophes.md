@@ -1,10 +1,8 @@
 ---
 title: Eaux limitrophes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Eaux limitrophes
+longTitle: 'Eaux limitrophes'
+tags:
+- gccommon
 french:
-- "[[2385 Boundary waters]]"
+- "[[Boundary waters]]"
 ---
-# Eaux limitrophes

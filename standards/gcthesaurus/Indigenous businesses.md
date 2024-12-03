@@ -1,14 +1,12 @@
 ---
 title: Indigenous businesses
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indigenous businesses
+longTitle: 'Indigenous businesses'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2595 Businesses]]"
+- "[[Businesses]]"
 relatedTerm:
-- "[[10697 Indigenous programs]]"
+- "[[Indigenous programs]]"
 use:
-- "[[30 Aboriginal businesses]]"
+- "[[Aboriginal businesses]]"
 ---
-# Indigenous businesses

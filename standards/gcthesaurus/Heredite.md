@@ -1,10 +1,8 @@
 ---
 title: Heredite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hérédité
+longTitle: 'Hérédité'
+tags:
+- gccommon
 french:
-- "[[9868 Heredity]]"
+- "[[Heredity]]"
 ---
-# Heredite

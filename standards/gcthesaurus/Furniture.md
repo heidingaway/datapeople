@@ -1,12 +1,10 @@
 ---
 title: Furniture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Furniture
+longTitle: 'Furniture'
+tags:
+- gccommon
 relatedTerm:
-- "[[8670 Furniture industry]]"
+- "[[Furniture industry]]"
 use:
-- "[[10026 Home furnishings]]"
+- "[[Home furnishings]]"
 ---
-# Furniture

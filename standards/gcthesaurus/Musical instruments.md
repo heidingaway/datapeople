@@ -1,10 +1,8 @@
 ---
 title: Musical instruments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Musical instruments
+longTitle: 'Musical instruments'
+tags:
+- gccommon
 usedFor:
-- "[[14097 Music]]"
+- "[[Music]]"
 ---
-# Musical instruments

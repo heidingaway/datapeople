@@ -1,10 +1,8 @@
 ---
 title: Private aircraft
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Private aircraft
+longTitle: 'Private aircraft'
+tags:
+- gccommon
 usedFor:
-- "[[3287 Civilian aircraft]]"
+- "[[Civilian aircraft]]"
 ---
-# Private aircraft

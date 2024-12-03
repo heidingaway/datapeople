@@ -1,10 +1,8 @@
 ---
 title: A decision of a court or judge
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: A decision of a court or judge.
+longTitle: 'A decision of a court or judge.'
+tags:
+- gccommon
 scopeNote:
-- "[[4375 Court decisions]]"
+- "[[Court decisions]]"
 ---
-# A decision of a court or judge

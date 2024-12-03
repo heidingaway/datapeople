@@ -1,10 +1,8 @@
 ---
 title: Leading edge technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Leading edge technology
+longTitle: 'Leading edge technology'
+tags:
+- gccommon
 usedFor:
-- "[[9918 High technology]]"
+- "[[High technology]]"
 ---
-# Leading edge technology

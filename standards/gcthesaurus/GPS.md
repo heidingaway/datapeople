@@ -1,10 +1,8 @@
 ---
 title: GPS
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: GPS
+longTitle: 'GPS'
+tags:
+- gccommon
 usedFor:
-- "[[9090 Global positioning systems]]"
+- "[[Global positioning systems]]"
 ---
-# GPS

@@ -1,10 +1,8 @@
 ---
 title: Programme communautaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Programme communautaire
+longTitle: 'Programme communautaire'
+tags:
+- gccommon
 french:
-- "[[3716 Community programs]]"
+- "[[Community programs]]"
 ---
-# Programme communautaire

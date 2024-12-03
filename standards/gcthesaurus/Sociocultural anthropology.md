@@ -1,10 +1,8 @@
 ---
 title: Sociocultural anthropology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sociocultural anthropology
+longTitle: 'Sociocultural anthropology'
+tags:
+- gccommon
 usedFor:
-- "[[7189 Ethnology]]"
+- "[[Ethnology]]"
 ---
-# Sociocultural anthropology

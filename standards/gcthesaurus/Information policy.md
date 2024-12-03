@@ -1,11 +1,8 @@
 ---
 title: Information policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Information policy
+longTitle: 'Information policy'
+tags:
+- gccommon
 relatedTerm:
-- "[[10999 Information management]]"
-- "[[10971 Information]]"
+- "[[Information management Information]]"
 ---
-# Information policy

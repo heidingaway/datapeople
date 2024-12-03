@@ -1,10 +1,8 @@
 ---
 title: Restauration
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Restauration
+longTitle: 'Restauration'
+tags:
+- gccommon
 french:
-- "[[17761 Restoration]]"
+- "[[Restoration]]"
 ---
-# Restauration

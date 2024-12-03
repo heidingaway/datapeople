@@ -1,10 +1,8 @@
 ---
 title: Catchment basins
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Catchment basins
+longTitle: 'Catchment basins'
+tags:
+- gccommon
 usedFor:
-- "[[21548 Watersheds]]"
+- "[[Watersheds]]"
 ---
-# Catchment basins

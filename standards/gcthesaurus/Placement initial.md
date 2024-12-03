@@ -1,10 +1,8 @@
 ---
 title: Placement initial
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Placement initial
+longTitle: 'Placement initial'
+tags:
+- gccommon
 french:
-- "[[11078 Initial public offering]]"
+- "[[Initial public offering]]"
 ---
-# Placement initial

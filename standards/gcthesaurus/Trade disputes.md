@@ -1,13 +1,10 @@
 ---
 title: Trade disputes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Trade disputes
+longTitle: 'Trade disputes'
+tags:
+- gccommon
 relatedTerm:
-- "[[20408 Trade negotiations]]"
-- "[[20383 Trade agreements]]"
+- "[[Trade negotiations Trade agreements]]"
 use:
-- "[[20388 Trade conflicts]]"
+- "[[Trade conflicts]]"
 ---
-# Trade disputes

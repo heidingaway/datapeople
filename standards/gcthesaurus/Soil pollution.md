@@ -1,16 +1,12 @@
 ---
 title: Soil pollution
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Soil pollution
+longTitle: 'Soil pollution'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16027 Pollution]]"
+- "[[Pollution]]"
 relatedTerm:
-- "[[19104 Soil quality]]"
-- "[[19075 Soil]]"
+- "[[Soil quality Soil]]"
 use:
-- "[[12015 Land pollution]]"
-- "[[19086 Soil contamination]]"
+- "[[Land pollution Soil contamination]]"
 ---
-# Soil pollution

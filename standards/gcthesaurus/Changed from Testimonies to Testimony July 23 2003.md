@@ -1,10 +1,8 @@
 ---
 title: Changed from Testimonies to Testimony July 23 2003
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Changed from "Testimonies" to "Testimony" July 23, 2003.
+longTitle: 'Changed from "Testimonies" to "Testimony" July 23, 2003.'
+tags:
+- gccommon
 historyNote:
-- "[[20107 Testimony]]"
+- "[[Testimony]]"
 ---
-# Changed from Testimonies to Testimony July 23 2003

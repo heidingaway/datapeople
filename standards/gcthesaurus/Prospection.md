@@ -1,10 +1,8 @@
 ---
 title: Prospection
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prospection
+longTitle: 'Prospection'
+tags:
+- gccommon
 french:
-- "[[16644 Prospecting]]"
+- "[[Prospecting]]"
 ---
-# Prospection

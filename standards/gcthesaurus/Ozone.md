@@ -1,20 +1,14 @@
 ---
 title: Ozone
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ozone
+longTitle: 'Ozone'
+tags:
+- gccommon
 french:
-- "[[15175 Ozone]]"
+- "[[Ozone]]"
 narrowerTerm:
-- "[[8737 Gases]]"
+- "[[Gases]]"
 relatedTerm:
-- "[[15193 Ozone depletion]]"
+- "[[Ozone depletion]]"
 use:
-- "[[20703 Tropospheric ozone]]"
-- "[[19438 Stratospheric ozone]]"
-- "[[15197 Ozone layer]]"
-- "[[1669 Atmospheric ozone]]"
-- "[[9388 Ground level ozone]]"
+- "[[Tropospheric ozone Stratospheric ozone Ozone layer]]"
 ---
-# Ozone

@@ -1,18 +1,14 @@
 ---
 title: Poverty
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Poverty
+longTitle: 'Poverty'
+tags:
+- gccommon
 broaderTerm:
-- "[[3128 Child poverty]]"
+- "[[Child poverty]]"
 narrowerTerm:
-- "[[18960 Social problems]]"
+- "[[Social problems]]"
 relatedTerm:
-- "[[10046 Homelessness]]"
-- "[[5854 Economic conditions]]"
-- "[[5326 Disadvantaged persons]]"
+- "[[Homelessness Economic conditions Disadvantaged per]]"
 use:
-- "[[10542 Impoverishment]]"
+- "[[Impoverishment]]"
 ---
-# Poverty

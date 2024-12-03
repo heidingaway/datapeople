@@ -1,10 +1,8 @@
 ---
 title: Refers to humans as a species
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Refers to humans as a species.
+longTitle: 'Refers to humans as a species.'
+tags:
+- gccommon
 scopeNote:
-- "[[10162 Human beings]]"
+- "[[Human beings]]"
 ---
-# Refers to humans as a species

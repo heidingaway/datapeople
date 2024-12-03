@@ -1,10 +1,8 @@
 ---
 title: Resolution de conflit
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Résolution de conflit
+longTitle: 'Résolution de conflit'
+tags:
+- gccommon
 french:
-- "[[3926 Conflict resolution]]"
+- "[[Conflict resolution]]"
 ---
-# Resolution de conflit

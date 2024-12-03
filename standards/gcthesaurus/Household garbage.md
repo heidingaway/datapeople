@@ -1,10 +1,8 @@
 ---
 title: Household garbage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Household garbage
+longTitle: 'Household garbage'
+tags:
+- gccommon
 usedFor:
-- "[[5527 Domestic waste]]"
+- "[[Domestic waste]]"
 ---
-# Household garbage

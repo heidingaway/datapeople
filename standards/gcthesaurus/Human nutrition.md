@@ -1,10 +1,8 @@
 ---
 title: Human nutrition
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Human nutrition
+longTitle: 'Human nutrition'
+tags:
+- gccommon
 usedFor:
-- "[[14701 Nutrition]]"
+- "[[Nutrition]]"
 ---
-# Human nutrition

@@ -1,10 +1,8 @@
 ---
 title: Staff
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Staff
+longTitle: 'Staff'
+tags:
+- gccommon
 usedFor:
-- "[[10197 Human resources]]"
+- "[[Human resources]]"
 ---
-# Staff

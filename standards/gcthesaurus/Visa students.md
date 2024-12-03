@@ -1,10 +1,8 @@
 ---
 title: Visa students
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Visa students
+longTitle: 'Visa students'
+tags:
+- gccommon
 usedFor:
-- "[[8272 Foreign students]]"
+- "[[Foreign students]]"
 ---
-# Visa students

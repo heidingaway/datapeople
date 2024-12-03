@@ -1,10 +1,8 @@
 ---
 title: Cafe
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Café
+longTitle: 'Café'
+tags:
+- gccommon
 french:
-- "[[3470 Coffee]]"
+- "[[Coffee]]"
 ---
-# Cafe

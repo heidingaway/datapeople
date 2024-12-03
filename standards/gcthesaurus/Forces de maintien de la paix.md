@@ -1,10 +1,8 @@
 ---
 title: Forces de maintien de la paix
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forces de maintien de la paix
+longTitle: 'Forces de maintien de la paix'
+tags:
+- gccommon
 french:
-- "[[15413 Peacekeeping forces]]"
+- "[[Peacekeeping forces]]"
 ---
-# Forces de maintien de la paix

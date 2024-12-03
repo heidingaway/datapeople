@@ -1,14 +1,10 @@
 ---
 title: Botany
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Botany
+longTitle: 'Botany'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2199 Biology]]"
+- "[[Biology]]"
 relatedTerm:
-- "[[15871 Plants]]"
-- "[[2370 Botanical gardens]]"
-- "[[9851 Herbaria]]"
+- "[[Plants Botanical gardens Herbaria]]"
 ---
-# Botany

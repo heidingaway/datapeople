@@ -1,20 +1,12 @@
 ---
 title: Hydroelectric plants
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hydroelectric plants
+longTitle: 'Hydroelectric plants'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6220 Electric power stations]]"
+- "[[Electric power stations]]"
 relatedTerm:
-- "[[10416 Hydropower]]"
-- "[[4828 Dams]]"
+- "[[Hydropower Dams]]"
 use:
-- "[[10320 Hydro-electric plants]]"
-- "[[10351 Hydroelectric stations]]"
-- "[[10322 Hydro-electric power plants]]"
-- "[[10349 Hydroelectric power stations]]"
-- "[[10347 Hydroelectric power plants]]"
-- "[[10332 Hydroelectric generating stations]]"
+- "[[Hydro-electric plants Hydroelectric stations Hydro]]"
 ---
-# Hydroelectric plants

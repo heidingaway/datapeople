@@ -1,14 +1,12 @@
 ---
 title: Workplace violence
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Workplace violence
+longTitle: 'Workplace violence'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21033 Violence]]"
+- "[[Violence]]"
 relatedTerm:
-- "[[21984 Workplace]]"
+- "[[Workplace]]"
 use:
-- "[[21056 Violence in the workplace]]"
+- "[[Violence in the workplace]]"
 ---
-# Workplace violence

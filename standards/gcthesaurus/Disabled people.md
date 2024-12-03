@@ -1,10 +1,8 @@
 ---
 title: Disabled people
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Disabled people
+longTitle: 'Disabled people'
+tags:
+- gccommon
 usedFor:
-- "[[15582 Persons with disabilities]]"
+- "[[Persons with disabilities]]"
 ---
-# Disabled people

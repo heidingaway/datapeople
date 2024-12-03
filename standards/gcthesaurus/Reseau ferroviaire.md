@@ -1,10 +1,8 @@
 ---
 title: Reseau ferroviaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Réseau ferroviaire
+longTitle: 'Réseau ferroviaire'
+tags:
+- gccommon
 french:
-- "[[17174 Railway networks]]"
+- "[[Railway networks]]"
 ---
-# Reseau ferroviaire

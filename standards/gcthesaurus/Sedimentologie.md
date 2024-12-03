@@ -1,10 +1,8 @@
 ---
 title: Sedimentologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sédimentologie
+longTitle: 'Sédimentologie'
+tags:
+- gccommon
 french:
-- "[[18468 Sedimentology]]"
+- "[[Sedimentology]]"
 ---
-# Sedimentologie

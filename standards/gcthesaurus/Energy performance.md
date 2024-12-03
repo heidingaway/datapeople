@@ -1,10 +1,8 @@
 ---
 title: Energy performance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Energy performance
+longTitle: 'Energy performance'
+tags:
+- gccommon
 usedFor:
-- "[[6644 Energy efficiency]]"
+- "[[Energy efficiency]]"
 ---
-# Energy performance

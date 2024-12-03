@@ -1,10 +1,8 @@
 ---
 title: Icecaps
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Icecaps
+longTitle: 'Icecaps'
+tags:
+- gccommon
 usedFor:
-- "[[10435 Ice caps]]"
+- "[[Ice caps]]"
 ---
-# Icecaps

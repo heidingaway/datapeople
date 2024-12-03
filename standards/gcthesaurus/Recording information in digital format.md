@@ -1,10 +1,8 @@
 ---
 title: Recording information in digital format
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Recording information in digital format.
+longTitle: 'Recording information in digital format.'
+tags:
+- gccommon
 scopeNote:
-- "[[5262 Digitization]]"
+- "[[Digitization]]"
 ---
-# Recording information in digital format

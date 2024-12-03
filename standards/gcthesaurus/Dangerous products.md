@@ -1,10 +1,8 @@
 ---
 title: Dangerous products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dangerous products
+longTitle: 'Dangerous products'
+tags:
+- gccommon
 usedFor:
-- "[[9520 Hazardous materials]]"
+- "[[Hazardous materials]]"
 ---
-# Dangerous products

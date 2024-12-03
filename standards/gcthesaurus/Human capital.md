@@ -1,10 +1,8 @@
 ---
 title: Human capital
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Human capital
+longTitle: 'Human capital'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2732 Capital]]"
+- "[[Capital]]"
 ---
-# Human capital

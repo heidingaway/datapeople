@@ -1,10 +1,8 @@
 ---
 title: Centre demploi
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Centre d'emploi
+longTitle: 'Centre d'emploi'
+tags:
+- gccommon
 french:
-- "[[6521 Employment centres]]"
+- "[[Employment centres]]"
 ---
-# Centre demploi

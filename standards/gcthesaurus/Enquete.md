@@ -1,10 +1,8 @@
 ---
 title: Enquete
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Enquête
+longTitle: 'Enquête'
+tags:
+- gccommon
 french:
-- "[[11574 Investigations]]"
+- "[[Investigations]]"
 ---
-# Enquete

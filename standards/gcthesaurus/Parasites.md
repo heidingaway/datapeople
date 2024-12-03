@@ -1,10 +1,8 @@
 ---
 title: Parasites
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Parasites
+longTitle: 'Parasites'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15637 Pests]]"
+- "[[Pests]]"
 ---
-# Parasites

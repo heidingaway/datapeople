@@ -1,14 +1,8 @@
 ---
 title: Ministers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ministers
+longTitle: 'Ministers'
+tags:
+- gccommon
 relatedTerm:
-- "[[2639 Cabinet]]"
-- "[[16363 Prime Minister]]"
-- "[[7523 Federal departments]]"
-- "[[16105 Portfolio]]"
-- "[[13372 Members of the House of Commons]]"
+- "[[Cabinet Prime Minister Federal departments Portfol]]"
 ---
-# Ministers

@@ -1,10 +1,8 @@
 ---
 title: Amphibia
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Amphibia
+longTitle: 'Amphibia'
+tags:
+- gccommon
 usedFor:
-- "[[940 Amphibians]]"
+- "[[Amphibians]]"
 ---
-# Amphibia

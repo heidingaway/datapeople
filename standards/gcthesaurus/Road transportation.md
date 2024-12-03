@@ -1,10 +1,8 @@
 ---
 title: Road transportation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Road transportation
+longTitle: 'Road transportation'
+tags:
+- gccommon
 usedFor:
-- "[[17913 Road transport]]"
+- "[[Road transport]]"
 ---
-# Road transportation

@@ -1,10 +1,8 @@
 ---
 title: Humor
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Humor
+longTitle: 'Humor'
+tags:
+- gccommon
 usedFor:
-- "[[10298 Humour]]"
+- "[[Humour]]"
 ---
-# Humor

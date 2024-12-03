@@ -1,10 +1,8 @@
 ---
 title: Comparaison
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Comparaison
+longTitle: 'Comparaison'
+tags:
+- gccommon
 french:
-- "[[3755 Comparison]]"
+- "[[Comparison]]"
 ---
-# Comparaison

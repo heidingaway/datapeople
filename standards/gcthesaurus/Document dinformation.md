@@ -1,10 +1,8 @@
 ---
 title: Document dinformation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Document d'information
+longTitle: 'Document d'information'
+tags:
+- gccommon
 french:
-- "[[2409 Briefing papers]]"
+- "[[Briefing papers]]"
 ---
-# Document dinformation

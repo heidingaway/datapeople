@@ -1,10 +1,8 @@
 ---
 title: Money management
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Money management
+longTitle: 'Money management'
+tags:
+- gccommon
 usedFor:
-- "[[7745 Financial management]]"
+- "[[Financial management]]"
 ---
-# Money management

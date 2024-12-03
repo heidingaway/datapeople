@@ -1,10 +1,8 @@
 ---
 title: Diplomacy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Diplomacy
+longTitle: 'Diplomacy'
+tags:
+- gccommon
 usedFor:
-- "[[8264 Foreign service]]"
+- "[[Foreign service]]"
 ---
-# Diplomacy

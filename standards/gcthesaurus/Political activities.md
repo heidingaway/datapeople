@@ -1,10 +1,8 @@
 ---
 title: Political activities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Political activities
+longTitle: 'Political activities'
+tags:
+- gccommon
 usedFor:
-- "[[16003 Politics]]"
+- "[[Politics]]"
 ---
-# Political activities

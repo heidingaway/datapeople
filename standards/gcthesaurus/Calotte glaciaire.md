@@ -1,10 +1,8 @@
 ---
 title: Calotte glaciaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Calotte glaciaire
+longTitle: 'Calotte glaciaire'
+tags:
+- gccommon
 french:
-- "[[10434 Ice caps]]"
+- "[[Ice caps]]"
 ---
-# Calotte glaciaire

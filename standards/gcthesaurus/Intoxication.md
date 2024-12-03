@@ -1,10 +1,8 @@
 ---
 title: Intoxication
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Intoxication
+longTitle: 'Intoxication'
+tags:
+- gccommon
 usedFor:
-- "[[15898 Poisoning]]"
+- "[[Poisoning]]"
 ---
-# Intoxication

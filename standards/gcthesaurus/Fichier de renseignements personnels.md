@@ -1,10 +1,8 @@
 ---
 title: Fichier de renseignements personnels
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fichier de renseignements personnels
+longTitle: 'Fichier de renseignements personnels'
+tags:
+- gccommon
 french:
-- "[[15560 Personal information banks]]"
+- "[[Personal information banks]]"
 ---
-# Fichier de renseignements personnels

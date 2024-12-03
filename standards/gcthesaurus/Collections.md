@@ -1,14 +1,10 @@
 ---
 title: Collections
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Collections
+longTitle: 'Collections'
+tags:
+- gccommon
 broaderTerm:
-- "[[9850 Herbaria]]"
-- "[[14083 Museum collections]]"
-- "[[5235 Digital collections]]"
+- "[[Herbaria Museum collections Digital collections]]"
 relatedTerm:
-- "[[1485 Artefacts]]"
+- "[[Artefacts]]"
 ---
-# Collections

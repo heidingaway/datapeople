@@ -1,15 +1,12 @@
 ---
 title: Floods
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Floods
+longTitle: 'Floods'
+tags:
+- gccommon
 narrowerTerm:
-- "[[14282 Natural disasters]]"
+- "[[Natural disasters]]"
 relatedTerm:
-- "[[4827 Dams]]"
-- "[[16213 Precipitation]]"
+- "[[Dams Precipitation]]"
 use:
-- "[[8032 Flooding]]"
+- "[[Flooding]]"
 ---
-# Floods

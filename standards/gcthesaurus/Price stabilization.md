@@ -1,10 +1,8 @@
 ---
 title: Price stabilization
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Price stabilization
+longTitle: 'Price stabilization'
+tags:
+- gccommon
 usedFor:
-- "[[16309 Price regulation]]"
+- "[[Price regulation]]"
 ---
-# Price stabilization

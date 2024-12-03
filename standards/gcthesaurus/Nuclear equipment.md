@@ -1,10 +1,8 @@
 ---
 title: Nuclear equipment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nuclear equipment
+longTitle: 'Nuclear equipment'
+tags:
+- gccommon
 usedFor:
-- "[[14662 Nuclear technology]]"
+- "[[Nuclear technology]]"
 ---
-# Nuclear equipment

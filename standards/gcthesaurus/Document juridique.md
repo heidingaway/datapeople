@@ -1,10 +1,8 @@
 ---
 title: Document juridique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Document juridique
+longTitle: 'Document juridique'
+tags:
+- gccommon
 french:
-- "[[12260 Legal documents]]"
+- "[[Legal documents]]"
 ---
-# Document juridique

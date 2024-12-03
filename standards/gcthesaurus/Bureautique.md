@@ -1,10 +1,8 @@
 ---
 title: Bureautique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bureautique
+longTitle: 'Bureautique'
+tags:
+- gccommon
 french:
-- "[[14895 Office automation]]"
+- "[[Office automation]]"
 ---
-# Bureautique

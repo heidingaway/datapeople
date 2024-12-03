@@ -1,10 +1,8 @@
 ---
 title: Equality in employment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Equality in employment
+longTitle: 'Equality in employment'
+tags:
+- gccommon
 usedFor:
-- "[[6534 Employment equity]]"
+- "[[Employment equity]]"
 ---
-# Equality in employment

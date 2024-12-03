@@ -1,10 +1,8 @@
 ---
 title: Impot sur le revenu des societes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Impôt sur le revenu des sociétés
+longTitle: 'Impôt sur le revenu des sociétés'
+tags:
+- gccommon
 french:
-- "[[4269 Corporate income tax]]"
+- "[[Corporate income tax]]"
 ---
-# Impot sur le revenu des societes

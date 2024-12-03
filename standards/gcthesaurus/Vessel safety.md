@@ -1,10 +1,8 @@
 ---
 title: Vessel safety
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vessel safety
+longTitle: 'Vessel safety'
+tags:
+- gccommon
 usedFor:
-- "[[12984 Marine safety]]"
+- "[[Marine safety]]"
 ---
-# Vessel safety

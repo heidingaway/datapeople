@@ -1,10 +1,8 @@
 ---
 title: Epidemiologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Épidémiologie
+longTitle: 'Épidémiologie'
+tags:
+- gccommon
 french:
-- "[[7056 Epidemiology]]"
+- "[[Epidemiology]]"
 ---
-# Epidemiologie

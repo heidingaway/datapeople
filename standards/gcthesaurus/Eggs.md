@@ -1,12 +1,10 @@
 ---
 title: Eggs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Eggs
+longTitle: 'Eggs'
+tags:
+- gccommon
 narrowerTerm:
-- "[[442 Agri-food products]]"
+- "[[Agri-food products]]"
 relatedTerm:
-- "[[16160 Poultry]]"
+- "[[Poultry]]"
 ---
-# Eggs

@@ -1,10 +1,8 @@
 ---
 title: Learning centers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Learning centers
+longTitle: 'Learning centers'
+tags:
+- gccommon
 usedFor:
-- "[[20505 Training centres]]"
+- "[[Training centres]]"
 ---
-# Learning centers

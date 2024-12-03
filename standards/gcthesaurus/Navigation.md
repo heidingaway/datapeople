@@ -1,24 +1,12 @@
 ---
 title: Navigation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Navigation
+longTitle: 'Navigation'
+tags:
+- gccommon
 french:
-- "[[14373 Navigation]]"
+- "[[Navigation]]"
 relatedTerm:
-- "[[20946 Vessels]]"
-- "[[21497 Water transport]]"
-- "[[21566 Waterways]]"
-- "[[12989 Marine safety]]"
-- "[[14396 Navigation systems]]"
-- "[[15795 Pilotage]]"
-- "[[13039 Maritime law]]"
-- "[[12453 Lighthouses]]"
-- "[[14363 Nautical charts]]"
+- "[[Vessels Water transport Waterways Marine safety Na]]"
 use:
-- "[[12964 Marine navigation]]"
-- "[[18074 Sailing]]"
-- "[[3587 Commercial navigation]]"
+- "[[Marine navigation Sailing Commercial navigation]]"
 ---
-# Navigation

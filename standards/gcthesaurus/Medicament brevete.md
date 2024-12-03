@@ -1,10 +1,8 @@
 ---
 title: Medicament brevete
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Médicament breveté
+longTitle: 'Médicament breveté'
+tags:
+- gccommon
 french:
-- "[[15374 Patented medicines]]"
+- "[[Patented medicines]]"
 ---
-# Medicament brevete

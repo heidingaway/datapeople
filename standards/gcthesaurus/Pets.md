@@ -1,10 +1,8 @@
 ---
 title: Pets
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pets
+longTitle: 'Pets'
+tags:
+- gccommon
 usedFor:
-- "[[5491 Domestic animals]]"
+- "[[Domestic animals]]"
 ---
-# Pets

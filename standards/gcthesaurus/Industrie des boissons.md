@@ -1,10 +1,8 @@
 ---
 title: Industrie des boissons
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie des boissons
+longTitle: 'Industrie des boissons'
+tags:
+- gccommon
 french:
-- "[[1982 Beverage industry]]"
+- "[[Beverage industry]]"
 ---
-# Industrie des boissons

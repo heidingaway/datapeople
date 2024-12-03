@@ -1,13 +1,10 @@
 ---
 title: Direct marketing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Direct marketing
+longTitle: 'Direct marketing'
+tags:
+- gccommon
 narrowerTerm:
-- "[[13089 Marketing]]"
+- "[[Marketing]]"
 use:
-- "[[19956 Telemarketing]]"
-- "[[15715 Phone marketing]]"
+- "[[Telemarketing Phone marketing]]"
 ---
-# Direct marketing

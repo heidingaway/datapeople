@@ -1,15 +1,12 @@
 ---
 title: Forestry technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forestry technology
+longTitle: 'Forestry technology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19871 Technology]]"
+- "[[Technology]]"
 relatedTerm:
-- "[[8327 Forest management]]"
-- "[[8377 Forestry industry]]"
+- "[[Forest management Forestry industry]]"
 use:
-- "[[8359 Forestry equipment]]"
+- "[[Forestry equipment]]"
 ---
-# Forestry technology

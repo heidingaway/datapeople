@@ -1,10 +1,8 @@
 ---
 title: Vin
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vin
+longTitle: 'Vin'
+tags:
+- gccommon
 french:
-- "[[21791 Wine]]"
+- "[[Wine]]"
 ---
-# Vin

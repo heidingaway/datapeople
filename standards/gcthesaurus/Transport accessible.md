@@ -1,10 +1,8 @@
 ---
 title: Transport accessible
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transport accessible
+longTitle: 'Transport accessible'
+tags:
+- gccommon
 french:
-- "[[108 Accessible transport]]"
+- "[[Accessible transport]]"
 ---
-# Transport accessible

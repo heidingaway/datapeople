@@ -1,10 +1,8 @@
 ---
 title: Visual impairments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Visual impairments
+longTitle: 'Visual impairments'
+tags:
+- gccommon
 usedFor:
-- "[[21113 Visual disabilities]]"
+- "[[Visual disabilities]]"
 ---
-# Visual impairments

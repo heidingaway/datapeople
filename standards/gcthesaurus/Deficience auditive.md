@@ -1,10 +1,8 @@
 ---
 title: Deficience auditive
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Déficience auditive
+longTitle: 'Déficience auditive'
+tags:
+- gccommon
 french:
-- "[[9794 Hearing disabilities]]"
+- "[[Hearing disabilities]]"
 ---
-# Deficience auditive

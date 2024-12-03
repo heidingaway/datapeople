@@ -1,10 +1,8 @@
 ---
 title: Circonscription electorale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Circonscription électorale
+longTitle: 'Circonscription électorale'
+tags:
+- gccommon
 french:
-- "[[6172 Electoral districts]]"
+- "[[Electoral districts]]"
 ---
-# Circonscription electorale

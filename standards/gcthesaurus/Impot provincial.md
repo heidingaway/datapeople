@@ -1,10 +1,8 @@
 ---
 title: Impot provincial
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Impôt provincial
+longTitle: 'Impôt provincial'
+tags:
+- gccommon
 french:
-- "[[16727 Provincial taxes]]"
+- "[[Provincial taxes]]"
 ---
-# Impot provincial

@@ -1,12 +1,10 @@
 ---
 title: Strategic management
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Strategic management
+longTitle: 'Strategic management'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12771 Management]]"
+- "[[Management]]"
 use:
-- "[[19430 Strategic planning]]"
+- "[[Strategic planning]]"
 ---
-# Strategic management

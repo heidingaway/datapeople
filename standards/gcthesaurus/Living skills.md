@@ -1,10 +1,8 @@
 ---
 title: Living skills
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Living skills
+longTitle: 'Living skills'
+tags:
+- gccommon
 usedFor:
-- "[[12435 Life skills]]"
+- "[[Life skills]]"
 ---
-# Living skills

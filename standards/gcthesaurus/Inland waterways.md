@@ -1,10 +1,8 @@
 ---
 title: Inland waterways
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Inland waterways
+longTitle: 'Inland waterways'
+tags:
+- gccommon
 usedFor:
-- "[[21560 Waterways]]"
+- "[[Waterways]]"
 ---
-# Inland waterways

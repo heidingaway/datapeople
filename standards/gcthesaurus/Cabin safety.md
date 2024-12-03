@@ -1,10 +1,8 @@
 ---
 title: Cabin safety
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cabin safety
+longTitle: 'Cabin safety'
+tags:
+- gccommon
 usedFor:
-- "[[661 Air safety]]"
+- "[[Air safety]]"
 ---
-# Cabin safety

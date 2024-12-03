@@ -1,10 +1,8 @@
 ---
 title: Terrorisme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Terrorisme
+longTitle: 'Terrorisme'
+tags:
+- gccommon
 french:
-- "[[20091 Terrorism]]"
+- "[[Terrorism]]"
 ---
-# Terrorisme

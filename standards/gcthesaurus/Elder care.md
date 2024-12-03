@@ -1,10 +1,8 @@
 ---
 title: Elder care
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Elder care
+longTitle: 'Elder care'
+tags:
+- gccommon
 usedFor:
-- "[[6147 Elderly care]]"
+- "[[Elderly care]]"
 ---
-# Elder care

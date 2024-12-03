@@ -1,19 +1,12 @@
 ---
 title: Explosives
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Explosives
+longTitle: 'Explosives'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9525 Hazardous materials]]"
+- "[[Hazardous materials]]"
 relatedTerm:
-- "[[21589 Weapons]]"
-- "[[3059 Chemicals]]"
-- "[[7282 Explosions]]"
+- "[[Weapons Chemicals Explosions]]"
 use:
-- "[[7284 Explosive devices]]"
-- "[[7289 Explosive products]]"
-- "[[7287 Explosive materials]]"
-- "[[7292 Explosive substances]]"
+- "[[Explosive devices Explosive products Explosive mat]]"
 ---
-# Explosives

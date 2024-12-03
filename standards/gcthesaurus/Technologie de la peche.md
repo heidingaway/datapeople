@@ -1,10 +1,8 @@
 ---
 title: Technologie de la peche
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Technologie de la pêche
+longTitle: 'Technologie de la pêche'
+tags:
+- gccommon
 french:
-- "[[7948 Fisheries technology]]"
+- "[[Fisheries technology]]"
 ---
-# Technologie de la peche

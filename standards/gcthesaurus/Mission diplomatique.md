@@ -1,10 +1,8 @@
 ---
 title: Mission diplomatique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mission diplomatique
+longTitle: 'Mission diplomatique'
+tags:
+- gccommon
 french:
-- "[[5279 Diplomatic missions]]"
+- "[[Diplomatic missions]]"
 ---
-# Mission diplomatique

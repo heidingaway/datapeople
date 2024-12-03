@@ -1,12 +1,10 @@
 ---
 title: Medical law
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Medical law
+longTitle: 'Medical law'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12159 Law]]"
+- "[[Law]]"
 relatedTerm:
-- "[[13350 Medicine]]"
+- "[[Medicine]]"
 ---
-# Medical law

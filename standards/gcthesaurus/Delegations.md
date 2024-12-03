@@ -1,12 +1,8 @@
 ---
 title: Delegations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Delegations
+longTitle: 'Delegations'
+tags:
+- gccommon
 relatedTerm:
-- "[[8267 Foreign service]]"
-- "[[5284 Diplomatic missions]]"
-- "[[17585 Representatives]]"
+- "[[Foreign service Diplomatic missions Representative]]"
 ---
-# Delegations

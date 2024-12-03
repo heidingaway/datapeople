@@ -1,10 +1,8 @@
 ---
 title: Animal culture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Animal culture
+longTitle: 'Animal culture'
+tags:
+- gccommon
 usedFor:
-- "[[1016 Animal husbandry]]"
+- "[[Animal husbandry]]"
 ---
-# Animal culture

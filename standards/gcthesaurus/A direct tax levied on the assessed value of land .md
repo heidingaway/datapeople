@@ -1,10 +1,8 @@
 ---
-title: "A direct tax levied on the assessed value of land "
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: A direct tax levied on the assessed value of land and buildings.
+title: A direct tax levied on the assessed value of land 
+longTitle: 'A direct tax levied on the assessed value of land and buildings.'
+tags:
+- gccommon
 scopeNote:
-- "[[16637 Property tax]]"
+- "[[Property tax]]"
 ---
-# A direct tax levied on the assessed value of land

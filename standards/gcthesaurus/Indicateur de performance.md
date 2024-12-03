@@ -1,10 +1,8 @@
 ---
 title: Indicateur de performance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indicateur de performance
+longTitle: 'Indicateur de performance'
+tags:
+- gccommon
 french:
-- "[[15465 Performance indicators]]"
+- "[[Performance indicators]]"
 ---
-# Indicateur de performance

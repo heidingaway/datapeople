@@ -1,10 +1,8 @@
 ---
 title: Distribution of powers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Distribution of powers
+longTitle: 'Distribution of powers'
+tags:
+- gccommon
 usedFor:
-- "[[5463 Division of powers]]"
+- "[[Division of powers]]"
 ---
-# Distribution of powers

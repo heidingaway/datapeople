@@ -1,10 +1,8 @@
 ---
 title: Land tax
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Land tax
+longTitle: 'Land tax'
+tags:
+- gccommon
 usedFor:
-- "[[16638 Property tax]]"
+- "[[Property tax]]"
 ---
-# Land tax

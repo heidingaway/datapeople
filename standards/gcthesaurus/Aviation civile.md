@@ -1,10 +1,8 @@
 ---
 title: Aviation civile
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aviation civile
+longTitle: 'Aviation civile'
+tags:
+- gccommon
 french:
-- "[[3255 Civil aviation]]"
+- "[[Civil aviation]]"
 ---
-# Aviation civile

@@ -1,16 +1,10 @@
 ---
 title: Soil
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Soil
+longTitle: 'Soil'
+tags:
+- gccommon
 broaderTerm:
-- "[[15497 Permafrost]]"
+- "[[Permafrost]]"
 relatedTerm:
-- "[[19109 Soil taxonomy]]"
-- "[[7486 Farmlands]]"
-- "[[19084 Soil conservation]]"
-- "[[19103 Soil quality]]"
-- "[[19098 Soil pollution]]"
+- "[[Soil taxonomy Farmlands Soil conservation Soil qua]]"
 ---
-# Soil

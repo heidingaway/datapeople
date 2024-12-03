@@ -1,10 +1,8 @@
 ---
 title: Educational indicators
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Educational indicators
+longTitle: 'Educational indicators'
+tags:
+- gccommon
 usedFor:
-- "[[6066 Education indicators]]"
+- "[[Education indicators]]"
 ---
-# Educational indicators

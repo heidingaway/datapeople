@@ -1,10 +1,8 @@
 ---
 title: Planification budgetaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Planification budgétaire
+longTitle: 'Planification budgétaire'
+tags:
+- gccommon
 french:
-- "[[2440 Budget planning]]"
+- "[[Budget planning]]"
 ---
-# Planification budgetaire

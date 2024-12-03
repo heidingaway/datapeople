@@ -1,13 +1,10 @@
 ---
 title: Astronomical observatories
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Astronomical observatories
+longTitle: 'Astronomical observatories'
+tags:
+- gccommon
 relatedTerm:
-- "[[15835 Planetariums]]"
-- "[[1632 Astronomy]]"
+- "[[Planetariums Astronomy]]"
 use:
-- "[[14732 Observatories]]"
+- "[[Observatories]]"
 ---
-# Astronomical observatories

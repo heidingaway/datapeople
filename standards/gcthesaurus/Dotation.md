@@ -1,10 +1,8 @@
 ---
 title: Dotation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dotation
+longTitle: 'Dotation'
+tags:
+- gccommon
 french:
-- "[[19264 Staffing]]"
+- "[[Staffing]]"
 ---
-# Dotation

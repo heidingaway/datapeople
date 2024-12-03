@@ -1,10 +1,8 @@
 ---
 title: Kitchen waste
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Kitchen waste
+longTitle: 'Kitchen waste'
+tags:
+- gccommon
 usedFor:
-- "[[5530 Domestic waste]]"
+- "[[Domestic waste]]"
 ---
-# Kitchen waste

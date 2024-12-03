@@ -1,10 +1,8 @@
 ---
 title: Prisons
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prisons
+longTitle: 'Prisons'
+tags:
+- gccommon
 usedFor:
-- "[[4303 Correctional institutions]]"
+- "[[Correctional institutions]]"
 ---
-# Prisons

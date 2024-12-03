@@ -1,10 +1,8 @@
 ---
 title: Systeme mondial de navigation par satellite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Système mondial de navigation par satellite
+longTitle: 'Système mondial de navigation par satellite'
+tags:
+- gccommon
 french:
-- "[[9080 Global navigation satellite systems]]"
+- "[[Global navigation satellite systems]]"
 ---
-# Systeme mondial de navigation par satellite

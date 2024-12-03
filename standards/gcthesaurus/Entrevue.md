@@ -1,10 +1,8 @@
 ---
 title: Entrevue
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Entrevue
+longTitle: 'Entrevue'
+tags:
+- gccommon
 french:
-- "[[11514 Interviews]]"
+- "[[Interviews]]"
 ---
-# Entrevue

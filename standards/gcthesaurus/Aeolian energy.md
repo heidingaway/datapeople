@@ -1,10 +1,8 @@
 ---
 title: Aeolian energy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aeolian energy
+longTitle: 'Aeolian energy'
+tags:
+- gccommon
 usedFor:
-- "[[21779 Wind energy]]"
+- "[[Wind energy]]"
 ---
-# Aeolian energy

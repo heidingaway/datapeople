@@ -1,10 +1,8 @@
 ---
 title: Tornadoes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tornadoes
+longTitle: 'Tornadoes'
+tags:
+- gccommon
 usedFor:
-- "[[19421 Storms]]"
+- "[[Storms]]"
 ---
-# Tornadoes

@@ -1,10 +1,8 @@
 ---
 title: Futur
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Futur
+longTitle: 'Futur'
+tags:
+- gccommon
 french:
-- "[[8682 Future]]"
+- "[[Future]]"
 ---
-# Futur

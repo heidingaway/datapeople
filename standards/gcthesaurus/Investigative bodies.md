@@ -1,12 +1,10 @@
 ---
 title: Investigative bodies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Investigative bodies
+longTitle: 'Investigative bodies'
+tags:
+- gccommon
 broaderTerm:
-- "[[3615 Commissions of inquiry]]"
+- "[[Commissions of inquiry]]"
 relatedTerm:
-- "[[11135 Inquiry]]"
+- "[[Inquiry]]"
 ---
-# Investigative bodies

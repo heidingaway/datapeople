@@ -1,10 +1,8 @@
 ---
 title: Intercity transportation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Intercity transportation
+longTitle: 'Intercity transportation'
+tags:
+- gccommon
 usedFor:
-- "[[11272 Intercity transport]]"
+- "[[Intercity transport]]"
 ---
-# Intercity transportation

@@ -1,10 +1,8 @@
 ---
 title: Cod
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cod
+longTitle: 'Cod'
+tags:
+- gccommon
 usedFor:
-- "[[18125 Salt water fish]]"
+- "[[Salt water fish]]"
 ---
-# Cod

@@ -1,10 +1,8 @@
 ---
 title: Position description
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Position description
+longTitle: 'Position description'
+tags:
+- gccommon
 usedFor:
-- "[[11666 Job description]]"
+- "[[Job description]]"
 ---
-# Position description

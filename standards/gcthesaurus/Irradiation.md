@@ -1,14 +1,12 @@
 ---
 title: Irradiation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Irradiation
+longTitle: 'Irradiation'
+tags:
+- gccommon
 broaderTerm:
-- "[[8119 Food irradiation]]"
+- "[[Food irradiation]]"
 french:
-- "[[11605 Irradiation]]"
+- "[[Irradiation]]"
 relatedTerm:
-- "[[17064 Radiation]]"
+- "[[Radiation]]"
 ---
-# Irradiation

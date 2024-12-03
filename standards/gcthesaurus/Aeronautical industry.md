@@ -1,10 +1,8 @@
 ---
 title: Aeronautical industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aeronautical industry
+longTitle: 'Aeronautical industry'
+tags:
+- gccommon
 usedFor:
-- "[[1796 Aviation industry]]"
+- "[[Aviation industry]]"
 ---
-# Aeronautical industry

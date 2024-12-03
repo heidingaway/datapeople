@@ -1,15 +1,10 @@
 ---
 title: Call for tenders
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Call for tenders
+longTitle: 'Call for tenders'
+tags:
+- gccommon
 relatedTerm:
-- "[[4127 Contracting]]"
-- "[[20023 Tenders]]"
+- "[[Contracting Tenders]]"
 use:
-- "[[11603 Invitation to bid]]"
-- "[[20019 Tender call]]"
-- "[[17624 Request for tenders]]"
+- "[[Invitation to bid Tender call Request for tenders]]"
 ---
-# Call for tenders

@@ -1,10 +1,8 @@
 ---
 title: Essential skills
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Essential skills
+longTitle: 'Essential skills'
+tags:
+- gccommon
 usedFor:
-- "[[12434 Life skills]]"
+- "[[Life skills]]"
 ---
-# Essential skills

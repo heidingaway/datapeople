@@ -1,10 +1,8 @@
 ---
 title: Finances personnelles
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Finances personnelles
+longTitle: 'Finances personnelles'
+tags:
+- gccommon
 french:
-- "[[15531 Personal finance]]"
+- "[[Personal finance]]"
 ---
-# Finances personnelles

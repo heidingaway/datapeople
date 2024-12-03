@@ -1,10 +1,8 @@
 ---
 title: Persons of the age 13 through 18 years
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Persons of the age 13 through 18 years.
+longTitle: 'Persons of the age 13 through 18 years.'
+tags:
+- gccommon
 scopeNote:
-- "[[258 Adolescents]]"
+- "[[Adolescents]]"
 ---
-# Persons of the age 13 through 18 years

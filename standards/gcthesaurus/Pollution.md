@@ -1,23 +1,14 @@
 ---
 title: Pollution
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pollution
+longTitle: 'Pollution'
+tags:
+- gccommon
 broaderTerm:
-- "[[639 Air pollution]]"
-- "[[21452 Water pollution]]"
-- "[[22004 Workplace pollution]]"
-- "[[19097 Soil pollution]]"
+- "[[Air pollution Water pollution Workplace pollution ]]"
 french:
-- "[[16022 Pollution]]"
+- "[[Pollution]]"
 relatedTerm:
-- "[[16059 Pollution prevention]]"
-- "[[16043 Pollution control]]"
-- "[[16017 Pollutants]]"
-- "[[6813 Environmental accidents]]"
+- "[[Pollution prevention Pollution control Pollutants ]]"
 use:
-- "[[6952 Environmental pollution]]"
-- "[[6834 Environmental contamination]]"
+- "[[Environmental pollution Environmental contaminatio]]"
 ---
-# Pollution

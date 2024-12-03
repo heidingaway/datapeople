@@ -1,10 +1,8 @@
 ---
 title: Exemption
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Exemption
+longTitle: 'Exemption'
+tags:
+- gccommon
 relatedTerm:
-- "[[7237 Exclusion]]"
+- "[[Exclusion]]"
 ---
-# Exemption

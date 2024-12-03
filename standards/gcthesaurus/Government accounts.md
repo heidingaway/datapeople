@@ -1,10 +1,8 @@
 ---
 title: Government accounts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Government accounts
+longTitle: 'Government accounts'
+tags:
+- gccommon
 usedFor:
-- "[[16757 Public accounts]]"
+- "[[Public accounts]]"
 ---
-# Government accounts

@@ -1,10 +1,8 @@
 ---
 title: Language interpretation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Language interpretation
+longTitle: 'Language interpretation'
+tags:
+- gccommon
 usedFor:
-- "[[11491 Interpretation]]"
+- "[[Interpretation]]"
 ---
-# Language interpretation

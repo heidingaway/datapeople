@@ -1,10 +1,8 @@
 ---
 title: Public speaking
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public speaking
+longTitle: 'Public speaking'
+tags:
+- gccommon
 usedFor:
-- "[[15067 Oral communication]]"
+- "[[Oral communication]]"
 ---
-# Public speaking

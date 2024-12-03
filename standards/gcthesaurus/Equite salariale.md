@@ -1,10 +1,8 @@
 ---
 title: Equite salariale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Équité salariale
+longTitle: 'Équité salariale'
+tags:
+- gccommon
 french:
-- "[[15392 Pay equity]]"
+- "[[Pay equity]]"
 ---
-# Equite salariale

@@ -1,10 +1,8 @@
 ---
 title: Foret
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forêt
+longTitle: 'Forêt'
+tags:
+- gccommon
 french:
-- "[[8408 Forests]]"
+- "[[Forests]]"
 ---
-# Foret

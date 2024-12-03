@@ -1,10 +1,8 @@
 ---
 title: Handicaps
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Handicaps
+longTitle: 'Handicaps'
+tags:
+- gccommon
 usedFor:
-- "[[5299 Disabilities]]"
+- "[[Disabilities]]"
 ---
-# Handicaps

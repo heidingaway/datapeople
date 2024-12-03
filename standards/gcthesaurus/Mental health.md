@@ -1,12 +1,10 @@
 ---
 title: Mental health
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mental health
+longTitle: 'Mental health'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9569 Health]]"
+- "[[Health]]"
 relatedTerm:
-- "[[11235 Intellectual disabilities]]"
+- "[[Intellectual disabilities]]"
 ---
-# Mental health

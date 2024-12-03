@@ -1,10 +1,8 @@
 ---
 title: Releve demploi
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Relevé d'emploi
+longTitle: 'Relevé d'emploi'
+tags:
+- gccommon
 french:
-- "[[17276 Record of employment]]"
+- "[[Record of employment]]"
 ---
-# Releve demploi

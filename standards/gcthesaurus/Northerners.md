@@ -1,14 +1,10 @@
 ---
 title: Northerners
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Northerners
+longTitle: 'Northerners'
+tags:
+- gccommon
 relatedTerm:
-- "[[11123 Innu]]"
-- "[[14572 Northern Canada]]"
-- "[[11541 Inuit]]"
+- "[[Innu Northern Canada Inuit]]"
 use:
-- "[[14586 Northern residents]]"
+- "[[Northern residents]]"
 ---
-# Northerners

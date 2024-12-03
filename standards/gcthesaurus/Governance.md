@@ -1,12 +1,8 @@
 ---
 title: Governance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Governance
+longTitle: 'Governance'
+tags:
+- gccommon
 relatedTerm:
-- "[[16772 Public administration]]"
-- "[[9264 Governments]]"
-- "[[11313 Internal audits]]"
+- "[[Public administration Governments Internal audits]]"
 ---
-# Governance

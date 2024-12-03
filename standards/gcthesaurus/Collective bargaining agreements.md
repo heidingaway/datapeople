@@ -1,10 +1,8 @@
 ---
 title: Collective bargaining agreements
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Collective bargaining agreements
+longTitle: 'Collective bargaining agreements'
+tags:
+- gccommon
 usedFor:
-- "[[3502 Collective agreements]]"
+- "[[Collective agreements]]"
 ---
-# Collective bargaining agreements

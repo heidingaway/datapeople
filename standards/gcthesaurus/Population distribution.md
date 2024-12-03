@@ -1,15 +1,10 @@
 ---
 title: Population distribution
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Population distribution
+longTitle: 'Population distribution'
+tags:
+- gccommon
 relatedTerm:
-- "[[5108 Demographic statistics]]"
-- "[[16078 Population]]"
-- "[[5118 Demography]]"
+- "[[Demographic statistics Population Demography]]"
 use:
-- "[[5443 Distribution of population]]"
-- "[[3781 Composition of the population]]"
+- "[[Distribution of population Composition of the popu]]"
 ---
-# Population distribution

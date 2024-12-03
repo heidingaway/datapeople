@@ -1,13 +1,10 @@
 ---
 title: Appointments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Appointments
+longTitle: 'Appointments'
+tags:
+- gccommon
 relatedTerm:
-- "[[6162 Elections]]"
-- "[[19267 Staffing]]"
+- "[[Elections Staffing]]"
 use:
-- "[[14461 Nominations]]"
+- "[[Nominations]]"
 ---
-# Appointments

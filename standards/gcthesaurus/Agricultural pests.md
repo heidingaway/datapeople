@@ -1,10 +1,8 @@
 ---
 title: Agricultural pests
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Agricultural pests
+longTitle: 'Agricultural pests'
+tags:
+- gccommon
 usedFor:
-- "[[15632 Pests]]"
+- "[[Pests]]"
 ---
-# Agricultural pests

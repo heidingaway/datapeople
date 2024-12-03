@@ -1,14 +1,12 @@
 ---
 title: Knowledge based economy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Knowledge based economy
+longTitle: 'Knowledge based economy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5983 Economy]]"
+- "[[Economy]]"
 relatedTerm:
-- "[[10976 Information]]"
+- "[[Information]]"
 use:
-- "[[11761 Knowledge based industry]]"
+- "[[Knowledge based industry]]"
 ---
-# Knowledge based economy

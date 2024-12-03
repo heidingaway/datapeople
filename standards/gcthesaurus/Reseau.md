@@ -1,10 +1,8 @@
 ---
 title: Reseau
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Réseau
+longTitle: 'Réseau'
+tags:
+- gccommon
 french:
-- "[[14416 Networks]]"
+- "[[Networks]]"
 ---
-# Reseau

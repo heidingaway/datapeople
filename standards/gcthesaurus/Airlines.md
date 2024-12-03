@@ -1,13 +1,10 @@
 ---
 title: Airlines
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Airlines
+longTitle: 'Airlines'
+tags:
+- gccommon
 relatedTerm:
-- "[[699 Air transport industry]]"
-- "[[690 Air transport]]"
+- "[[Air transport industry Air transport]]"
 use:
-- "[[614 Air carriers]]"
+- "[[Air carriers]]"
 ---
-# Airlines

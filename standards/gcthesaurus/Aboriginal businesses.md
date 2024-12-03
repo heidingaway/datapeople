@@ -1,10 +1,8 @@
 ---
 title: Aboriginal businesses
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aboriginal businesses
+longTitle: 'Aboriginal businesses'
+tags:
+- gccommon
 usedFor:
-- "[[10635 Indigenous businesses]]"
+- "[[Indigenous businesses]]"
 ---
-# Aboriginal businesses

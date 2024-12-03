@@ -1,10 +1,8 @@
 ---
 title: Microfiches
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Microfiches
+longTitle: 'Microfiches'
+tags:
+- gccommon
 usedFor:
-- "[[13546 Micrographics]]"
+- "[[Micrographics]]"
 ---
-# Microfiches

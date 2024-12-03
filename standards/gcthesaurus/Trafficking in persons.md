@@ -1,10 +1,8 @@
 ---
 title: Trafficking in persons
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Trafficking in persons
+longTitle: 'Trafficking in persons'
+tags:
+- gccommon
 usedFor:
-- "[[10245 Human trafficking]]"
+- "[[Human trafficking]]"
 ---
-# Trafficking in persons

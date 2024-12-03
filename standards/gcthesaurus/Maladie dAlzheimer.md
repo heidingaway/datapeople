@@ -1,10 +1,8 @@
 ---
 title: Maladie dAlzheimer
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maladie d'Alzheimer
+longTitle: 'Maladie d'Alzheimer'
+tags:
+- gccommon
 french:
-- "[[914 Alzheimer's disease]]"
+- "[[Alzheimers disease]]"
 ---
-# Maladie dAlzheimer

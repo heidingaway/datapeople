@@ -1,10 +1,8 @@
 ---
 title: Non governmental organizations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Non governmental organizations
+longTitle: 'Non governmental organizations'
+tags:
+- gccommon
 usedFor:
-- "[[14531 Nongovernmental organizations]]"
+- "[[Nongovernmental organizations]]"
 ---
-# Non governmental organizations

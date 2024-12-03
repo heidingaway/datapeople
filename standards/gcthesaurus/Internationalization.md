@@ -1,10 +1,8 @@
 ---
 title: Internationalization
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Internationalization
+longTitle: 'Internationalization'
+tags:
+- gccommon
 usedFor:
-- "[[9109 Globalization]]"
+- "[[Globalization]]"
 ---
-# Internationalization

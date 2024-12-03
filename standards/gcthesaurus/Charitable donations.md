@@ -1,14 +1,12 @@
 ---
 title: Charitable donations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Charitable donations
+longTitle: 'Charitable donations'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5539 Donations]]"
+- "[[Donations]]"
 relatedTerm:
-- "[[2997 Charitable organizations]]"
+- "[[Charitable organizations]]"
 use:
-- "[[2986 Charitable contributions]]"
+- "[[Charitable contributions]]"
 ---
-# Charitable donations

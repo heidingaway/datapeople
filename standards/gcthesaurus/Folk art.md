@@ -1,13 +1,10 @@
 ---
 title: Folk art
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Folk art
+longTitle: 'Folk art'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1518 Arts]]"
+- "[[Arts]]"
 relatedTerm:
-- "[[4416 Crafts]]"
-- "[[8073 Folklore]]"
+- "[[Crafts Folklore]]"
 ---
-# Folk art

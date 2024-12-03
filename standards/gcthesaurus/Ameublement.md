@@ -1,10 +1,8 @@
 ---
 title: Ameublement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ameublement
+longTitle: 'Ameublement'
+tags:
+- gccommon
 french:
-- "[[8664 Furniture]]"
+- "[[Furniture]]"
 ---
-# Ameublement

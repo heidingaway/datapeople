@@ -1,18 +1,12 @@
 ---
 title: Performing arts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Performing arts
+longTitle: 'Performing arts'
+tags:
+- gccommon
 broaderTerm:
-- "[[4833 Dance]]"
-- "[[20147 Theatre]]"
-- "[[10299 Humour]]"
-- "[[3221 Cinema]]"
+- "[[Dance Theatre Humour Cinema]]"
 narrowerTerm:
-- "[[1519 Arts]]"
+- "[[Arts]]"
 relatedTerm:
-- "[[14102 Music]]"
-- "[[7662 Festivals]]"
+- "[[Music Festivals]]"
 ---
-# Performing arts

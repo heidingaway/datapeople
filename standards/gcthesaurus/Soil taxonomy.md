@@ -1,14 +1,12 @@
 ---
 title: Soil taxonomy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Soil taxonomy
+longTitle: 'Soil taxonomy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19789 Taxonomy]]"
+- "[[Taxonomy]]"
 relatedTerm:
-- "[[19077 Soil]]"
+- "[[Soil]]"
 use:
-- "[[19079 Soil classification]]"
+- "[[Soil classification]]"
 ---
-# Soil taxonomy

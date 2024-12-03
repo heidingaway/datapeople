@@ -1,18 +1,12 @@
 ---
 title: Biochemicals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Biochemicals
+longTitle: 'Biochemicals'
+tags:
+- gccommon
 narrowerTerm:
-- "[[3054 Chemicals]]"
+- "[[Chemicals]]"
 relatedTerm:
-- "[[2102 Biochemistry]]"
-- "[[2173 Biological products]]"
+- "[[Biochemistry Biological products]]"
 use:
-- "[[2079 Biochemical compounds]]"
-- "[[2086 Biochemical substances]]"
-- "[[2083 Biochemical products]]"
-- "[[9333 Green chemicals]]"
+- "[[Biochemical compounds Biochemical substances Bioch]]"
 ---
-# Biochemicals

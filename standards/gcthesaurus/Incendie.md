@@ -1,10 +1,8 @@
 ---
 title: Incendie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Incendie
+longTitle: 'Incendie'
+tags:
+- gccommon
 french:
-- "[[7785 Fire]]"
+- "[[Fire]]"
 ---
-# Incendie

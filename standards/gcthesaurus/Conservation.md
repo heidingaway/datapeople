@@ -1,20 +1,14 @@
 ---
 title: Conservation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Conservation
+longTitle: 'Conservation'
+tags:
+- gccommon
 broaderTerm:
-- "[[17725 Resources conservation]]"
-- "[[9894 Heritage conservation]]"
-- "[[14350 Nature conservation]]"
+- "[[Resources conservation Heritage conservation Natur]]"
 french:
-- "[[3961 Conservation]]"
+- "[[Conservation]]"
 relatedTerm:
-- "[[17381 Recycling]]"
-- "[[17762 Restoration]]"
-- "[[5267 Digitization]]"
+- "[[Recycling Restoration Digitization]]"
 use:
-- "[[16253 Preservation]]"
+- "[[Preservation]]"
 ---
-# Conservation

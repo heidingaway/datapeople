@@ -1,10 +1,8 @@
 ---
 title: People smuggling
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: People smuggling
+longTitle: 'People smuggling'
+tags:
+- gccommon
 usedFor:
-- "[[11619 Irregular migration]]"
+- "[[Irregular migration]]"
 ---
-# People smuggling

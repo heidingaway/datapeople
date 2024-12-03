@@ -1,10 +1,8 @@
 ---
 title: Gouvernement en ligne
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gouvernement en ligne
+longTitle: 'Gouvernement en ligne'
+tags:
+- gccommon
 french:
-- "[[6319 Electronic government]]"
+- "[[Electronic government]]"
 ---
-# Gouvernement en ligne

@@ -1,10 +1,8 @@
 ---
 title: Pret non rembourse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prêt non remboursé
+longTitle: 'Prêt non remboursé'
+tags:
+- gccommon
 french:
-- "[[5017 Defaulted loans]]"
+- "[[Defaulted loans]]"
 ---
-# Pret non rembourse

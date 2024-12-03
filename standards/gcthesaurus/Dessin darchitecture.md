@@ -1,10 +1,8 @@
 ---
 title: Dessin darchitecture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dessin d'architecture
+longTitle: 'Dessin d'architecture'
+tags:
+- gccommon
 french:
-- "[[1352 Architectural drawings]]"
+- "[[Architectural drawings]]"
 ---
-# Dessin darchitecture

@@ -1,10 +1,8 @@
 ---
 title: Office consolidations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Office consolidations
+longTitle: 'Office consolidations'
+tags:
+- gccommon
 relatedTerm:
-- "[[12306 Legislation]]"
+- "[[Legislation]]"
 ---
-# Office consolidations

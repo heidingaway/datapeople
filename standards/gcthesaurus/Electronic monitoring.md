@@ -1,12 +1,10 @@
 ---
 title: Electronic monitoring
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electronic monitoring
+longTitle: 'Electronic monitoring'
+tags:
+- gccommon
 relatedTerm:
-- "[[18453 Security intelligence]]"
+- "[[Security intelligence]]"
 use:
-- "[[6377 Electronic surveillance]]"
+- "[[Electronic surveillance]]"
 ---
-# Electronic monitoring

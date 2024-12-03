@@ -1,19 +1,12 @@
 ---
 title: High technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: High technology
+longTitle: 'High technology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19872 Technology]]"
+- "[[Technology]]"
 relatedTerm:
-- "[[19852 Technological innovation]]"
+- "[[Technological innovation]]"
 use:
-- "[[9912 High tech]]"
-- "[[6449 Emerging technology]]"
-- "[[14428 New technology]]"
-- "[[292 Advanced technology]]"
-- "[[19314 State of the art technology]]"
-- "[[12209 Leading edge technology]]"
+- "[[High tech Emerging technology New technology Advan]]"
 ---
-# High technology

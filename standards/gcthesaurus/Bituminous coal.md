@@ -1,10 +1,8 @@
 ---
 title: Bituminous coal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bituminous coal
+longTitle: 'Bituminous coal'
+tags:
+- gccommon
 usedFor:
-- "[[3405 Coal]]"
+- "[[Coal]]"
 ---
-# Bituminous coal

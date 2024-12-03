@@ -1,10 +1,8 @@
 ---
 title: Street gangs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Street gangs
+longTitle: 'Street gangs'
+tags:
+- gccommon
 usedFor:
-- "[[8704 Gangs]]"
+- "[[Gangs]]"
 ---
-# Street gangs

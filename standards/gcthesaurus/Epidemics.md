@@ -1,11 +1,8 @@
 ---
 title: Epidemics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Epidemics
+longTitle: 'Epidemics'
+tags:
+- gccommon
 relatedTerm:
-- "[[10927 Infectious diseases]]"
-- "[[7058 Epidemiology]]"
+- "[[Infectious diseases Epidemiology]]"
 ---
-# Epidemics

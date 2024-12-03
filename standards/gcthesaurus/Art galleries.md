@@ -1,14 +1,10 @@
 ---
 title: Art galleries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Art galleries
+longTitle: 'Art galleries'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4678 Cultural institutions]]"
+- "[[Cultural institutions]]"
 relatedTerm:
-- "[[21108 Visual arts]]"
-- "[[14091 Museums]]"
-- "[[1462 Art exhibitions]]"
+- "[[Visual arts Museums Art exhibitions]]"
 ---
-# Art galleries

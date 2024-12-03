@@ -1,10 +1,8 @@
 ---
 title: Milieu rural
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Milieu rural
+longTitle: 'Milieu rural'
+tags:
+- gccommon
 french:
-- "[[17972 Rural environment]]"
+- "[[Rural environment]]"
 ---
-# Milieu rural

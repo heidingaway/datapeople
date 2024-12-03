@@ -1,10 +1,8 @@
 ---
 title: Air transportation industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Air transportation industry
+longTitle: 'Air transportation industry'
+tags:
+- gccommon
 usedFor:
-- "[[695 Air transport industry]]"
+- "[[Air transport industry]]"
 ---
-# Air transportation industry

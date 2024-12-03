@@ -1,11 +1,8 @@
 ---
 title: Detention
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Detention
+longTitle: 'Detention'
+tags:
+- gccommon
 usedFor:
-- "[[4299 Correctional institutions]]"
-- "[[10546 Imprisonment]]"
+- "[[Correctional institutions Imprisonment]]"
 ---
-# Detention

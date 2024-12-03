@@ -1,10 +1,8 @@
 ---
 title: Economic relations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Economic relations
+longTitle: 'Economic relations'
+tags:
+- gccommon
 usedFor:
-- "[[20435 Trade relations]]"
+- "[[Trade relations]]"
 ---
-# Economic relations

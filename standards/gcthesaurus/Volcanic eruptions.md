@@ -1,10 +1,8 @@
 ---
 title: Volcanic eruptions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Volcanic eruptions
+longTitle: 'Volcanic eruptions'
+tags:
+- gccommon
 usedFor:
-- "[[21194 Volcanoes]]"
+- "[[Volcanoes]]"
 ---
-# Volcanic eruptions

@@ -1,12 +1,10 @@
 ---
 title: Primates
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Primates
+longTitle: 'Primates'
+tags:
+- gccommon
 broaderTerm:
-- "[[10165 Human beings]]"
+- "[[Human beings]]"
 narrowerTerm:
-- "[[12736 Mammals]]"
+- "[[Mammals]]"
 ---
-# Primates

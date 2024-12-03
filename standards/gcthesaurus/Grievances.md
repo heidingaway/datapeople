@@ -1,10 +1,8 @@
 ---
 title: Grievances
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Grievances
+longTitle: 'Grievances'
+tags:
+- gccommon
 usedFor:
-- "[[3774 Complaints]]"
+- "[[Complaints]]"
 ---
-# Grievances

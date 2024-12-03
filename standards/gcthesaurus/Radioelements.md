@@ -1,10 +1,8 @@
 ---
 title: Radioelements
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Radioelements
+longTitle: 'Radioelements'
+tags:
+- gccommon
 usedFor:
-- "[[17093 Radioactive materials]]"
+- "[[Radioactive materials]]"
 ---
-# Radioelements

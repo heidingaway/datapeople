@@ -1,10 +1,8 @@
 ---
 title: Terms and conditions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Terms and conditions
+longTitle: 'Terms and conditions'
+tags:
+- gccommon
 usedFor:
-- "[[20055 Terms of use]]"
+- "[[Terms of use]]"
 ---
-# Terms and conditions

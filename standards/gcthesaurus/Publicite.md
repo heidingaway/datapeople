@@ -1,10 +1,8 @@
 ---
 title: Publicite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Publicité
+longTitle: 'Publicité'
+tags:
+- gccommon
 french:
-- "[[302 Advertising]]"
+- "[[Advertising]]"
 ---
-# Publicite

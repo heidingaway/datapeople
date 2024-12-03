@@ -1,18 +1,10 @@
 ---
 title: Analysis
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Analysis
+longTitle: 'Analysis'
+tags:
+- gccommon
 broaderTerm:
-- "[[18430 Sector analysis]]"
-- "[[5826 Economic analysis]]"
-- "[[7711 Financial analysis]]"
-- "[[19330 Statistical analysis]]"
+- "[[Sector analysis Economic analysis Financial analys]]"
 relatedTerm:
-- "[[13830 Modelling]]"
-- "[[2833 Case studies]]"
-- "[[7506 Feasibility studies]]"
-- "[[5211 Diagnosis]]"
+- "[[Modelling Case studies Feasibility studies Diagnos]]"
 ---
-# Analysis

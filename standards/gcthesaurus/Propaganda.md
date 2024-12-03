@@ -1,10 +1,8 @@
 ---
 title: Propaganda
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Propaganda
+longTitle: 'Propaganda'
+tags:
+- gccommon
 relatedTerm:
-- "[[310 Advertising]]"
+- "[[Advertising]]"
 ---
-# Propaganda

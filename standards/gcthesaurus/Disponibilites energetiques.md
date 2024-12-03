@@ -1,10 +1,8 @@
 ---
 title: Disponibilites energetiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Disponibilités énergétiques
+longTitle: 'Disponibilités énergétiques'
+tags:
+- gccommon
 french:
-- "[[6687 Energy supply]]"
+- "[[Energy supply]]"
 ---
-# Disponibilites energetiques

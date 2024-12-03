@@ -1,10 +1,8 @@
 ---
 title: Patrimoine culturel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Patrimoine culturel
+longTitle: 'Patrimoine culturel'
+tags:
+- gccommon
 french:
-- "[[4654 Cultural heritage]]"
+- "[[Cultural heritage]]"
 ---
-# Patrimoine culturel

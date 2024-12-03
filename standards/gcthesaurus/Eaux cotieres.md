@@ -1,10 +1,8 @@
 ---
 title: Eaux cotieres
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Eaux côtières
+longTitle: 'Eaux côtières'
+tags:
+- gccommon
 french:
-- "[[3416 Coastal waters]]"
+- "[[Coastal waters]]"
 ---
-# Eaux cotieres

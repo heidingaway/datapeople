@@ -1,18 +1,12 @@
 ---
 title: First Nations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: First Nations
+longTitle: 'First Nations'
+tags:
+- gccommon
 broaderTerm:
-- "[[11122 Innu]]"
-- "[[19362 Status Indians]]"
-- "[[14507 Non-Status Indians]]"
+- "[[Innu Status Indians Non-Status Indians]]"
 narrowerTerm:
-- "[[10678 Indigenous peoples]]"
+- "[[Indigenous peoples]]"
 use:
-- "[[10615 Indians]]"
-- "[[20685 Treaty Indians]]"
-- "[[10608 Indian bands]]"
+- "[[Indians Treaty Indians Indian bands]]"
 ---
-# First Nations

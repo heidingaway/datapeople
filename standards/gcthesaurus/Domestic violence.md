@@ -1,10 +1,8 @@
 ---
 title: Domestic violence
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Domestic violence
+longTitle: 'Domestic violence'
+tags:
+- gccommon
 usedFor:
-- "[[7402 Family violence]]"
+- "[[Family violence]]"
 ---
-# Domestic violence

@@ -1,10 +1,8 @@
 ---
 title: Emprisonnement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Emprisonnement
+longTitle: 'Emprisonnement'
+tags:
+- gccommon
 french:
-- "[[10545 Imprisonment]]"
+- "[[Imprisonment]]"
 ---
-# Emprisonnement

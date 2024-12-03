@@ -1,10 +1,8 @@
 ---
 title: Idiome
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Idiome
+longTitle: 'Idiome'
+tags:
+- gccommon
 french:
-- "[[10464 Idioms]]"
+- "[[Idioms]]"
 ---
-# Idiome

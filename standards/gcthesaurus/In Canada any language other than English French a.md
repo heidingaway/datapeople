@@ -1,10 +1,8 @@
 ---
 title: In Canada any language other than English French a
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: In Canada, any language other than English, French, and Indigenous languages.
+longTitle: 'In Canada, any language other than English, French, and Indigenous languages.'
+tags:
+- gccommon
 scopeNote:
-- "[[8242 Foreign languages]]"
+- "[[Foreign languages]]"
 ---
-# In Canada any language other than English French a

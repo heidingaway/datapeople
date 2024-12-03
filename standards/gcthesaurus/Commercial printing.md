@@ -1,10 +1,8 @@
 ---
 title: Commercial printing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Commercial printing
+longTitle: 'Commercial printing'
+tags:
+- gccommon
 usedFor:
-- "[[16368 Printing]]"
+- "[[Printing]]"
 ---
-# Commercial printing

@@ -1,16 +1,12 @@
 ---
 title: Buses
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Buses
+longTitle: 'Buses'
+tags:
+- gccommon
 narrowerTerm:
-- "[[13975 Motor vehicles]]"
+- "[[Motor vehicles]]"
 relatedTerm:
-- "[[16918 Public transit]]"
+- "[[Public transit]]"
 use:
-- "[[13983 Motorcoaches]]"
-- "[[13953 Motor buses]]"
-- "[[13955 Motor coaches]]"
+- "[[Motorcoaches Motor buses Motor coaches]]"
 ---
-# Buses

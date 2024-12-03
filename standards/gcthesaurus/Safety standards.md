@@ -1,16 +1,12 @@
 ---
 title: Safety standards
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Safety standards
+longTitle: 'Safety standards'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19295 Standards]]"
+- "[[Standards]]"
 relatedTerm:
-- "[[18058 Safety regulations]]"
-- "[[18048 Safety measures]]"
-- "[[18027 Safety equipment]]"
+- "[[Safety regulations Safety measures Safety equipmen]]"
 use:
-- "[[18029 Safety guidelines]]"
+- "[[Safety guidelines]]"
 ---
-# Safety standards

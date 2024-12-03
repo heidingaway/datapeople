@@ -1,10 +1,8 @@
 ---
 title: Cereal grains
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cereal grains
+longTitle: 'Cereal grains'
+tags:
+- gccommon
 usedFor:
-- "[[2958 Cereals]]"
+- "[[Cereals]]"
 ---
-# Cereal grains

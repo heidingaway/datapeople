@@ -1,12 +1,10 @@
 ---
 title: Educational funding
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Educational funding
+longTitle: 'Educational funding'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8632 Funding]]"
+- "[[Funding]]"
 relatedTerm:
-- "[[6050 Education]]"
+- "[[Education]]"
 ---
-# Educational funding

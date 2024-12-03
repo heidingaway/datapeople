@@ -1,15 +1,12 @@
 ---
 title: Sexually transmitted diseases
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sexually transmitted diseases
+longTitle: 'Sexually transmitted diseases'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10926 Infectious diseases]]"
+- "[[Infectious diseases]]"
 relatedTerm:
-- "[[598 AIDS (disease)]]"
+- "[[AIDS disease]]"
 use:
-- "[[20926 Venereal diseases]]"
-- "[[18655 Sexually transmitted infections]]"
+- "[[Venereal diseases Sexually transmitted infections]]"
 ---
-# Sexually transmitted diseases

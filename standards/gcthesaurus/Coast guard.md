@@ -1,12 +1,10 @@
 ---
 title: Coast guard
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Coast guard
+longTitle: 'Coast guard'
+tags:
+- gccommon
 relatedTerm:
-- "[[3422 Coastal waters]]"
+- "[[Coastal waters]]"
 use:
-- "[[3428 Coastguard]]"
+- "[[Coastguard]]"
 ---
-# Coast guard

@@ -1,10 +1,8 @@
 ---
 title: Program delivery
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Program delivery
+longTitle: 'Program delivery'
+tags:
+- gccommon
 relatedTerm:
-- "[[16578 Programs]]"
+- "[[Programs]]"
 ---
-# Program delivery

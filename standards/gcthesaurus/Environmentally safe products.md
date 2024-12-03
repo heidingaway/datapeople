@@ -1,10 +1,8 @@
 ---
 title: Environmentally safe products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmentally safe products
+longTitle: 'Environmentally safe products'
+tags:
+- gccommon
 usedFor:
-- "[[9341 Green products]]"
+- "[[Green products]]"
 ---
-# Environmentally safe products

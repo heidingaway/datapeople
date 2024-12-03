@@ -1,10 +1,8 @@
 ---
 title: Receveur general
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Receveur général
+longTitle: 'Receveur général'
+tags:
+- gccommon
 french:
-- "[[17255 Receiver General]]"
+- "[[Receiver General]]"
 ---
-# Receveur general

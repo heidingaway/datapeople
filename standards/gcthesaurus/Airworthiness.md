@@ -1,10 +1,8 @@
 ---
 title: Airworthiness
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Airworthiness
+longTitle: 'Airworthiness'
+tags:
+- gccommon
 usedFor:
-- "[[659 Air safety]]"
+- "[[Air safety]]"
 ---
-# Airworthiness

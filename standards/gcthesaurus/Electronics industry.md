@@ -1,13 +1,10 @@
 ---
 title: Electronics industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electronics industry
+longTitle: 'Electronics industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12844 Manufacturing industry]]"
+- "[[Manufacturing industry]]"
 relatedTerm:
-- "[[6317 Electronic equipment]]"
-- "[[6387 Electronics]]"
+- "[[Electronic equipment Electronics]]"
 ---
-# Electronics industry

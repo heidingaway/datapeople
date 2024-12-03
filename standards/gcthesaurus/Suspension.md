@@ -1,12 +1,10 @@
 ---
 title: Suspension
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Suspension
+longTitle: 'Suspension'
+tags:
+- gccommon
 french:
-- "[[19629 Suspension]]"
+- "[[Suspension]]"
 relatedTerm:
-- "[[5408 Dismissal]]"
+- "[[Dismissal]]"
 ---
-# Suspension

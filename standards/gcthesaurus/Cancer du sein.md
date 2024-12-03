@@ -1,10 +1,8 @@
 ---
 title: Cancer du sein
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cancer du sein
+longTitle: 'Cancer du sein'
+tags:
+- gccommon
 french:
-- "[[2397 Breast cancer]]"
+- "[[Breast cancer]]"
 ---
-# Cancer du sein

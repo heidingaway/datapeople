@@ -1,10 +1,8 @@
 ---
 title: Day care centers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Day care centers
+longTitle: 'Day care centers'
+tags:
+- gccommon
 usedFor:
-- "[[4913 Daycare]]"
+- "[[Daycare]]"
 ---
-# Day care centers

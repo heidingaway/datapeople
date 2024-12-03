@@ -1,10 +1,8 @@
 ---
 title: Services financiers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Services financiers
+longTitle: 'Services financiers'
+tags:
+- gccommon
 french:
-- "[[7758 Financial services]]"
+- "[[Financial services]]"
 ---
-# Services financiers

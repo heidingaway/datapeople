@@ -1,10 +1,8 @@
 ---
 title: Service diplomatique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Service diplomatique
+longTitle: 'Service diplomatique'
+tags:
+- gccommon
 french:
-- "[[8260 Foreign service]]"
+- "[[Foreign service]]"
 ---
-# Service diplomatique

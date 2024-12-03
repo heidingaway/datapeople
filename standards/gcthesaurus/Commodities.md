@@ -1,15 +1,10 @@
 ---
 title: Commodities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Commodities
+longTitle: 'Commodities'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16496 Products]]"
+- "[[Products]]"
 use:
-- "[[16332 Primary commodities]]"
-- "[[17218 Raw materials]]"
-- "[[4579 Crude materials]]"
-- "[[16351 Primary products]]"
+- "[[Primary commodities Raw materials Crude materials ]]"
 ---
-# Commodities

@@ -1,10 +1,8 @@
 ---
 title: Bills of sale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bills of sale
+longTitle: 'Bills of sale'
+tags:
+- gccommon
 relatedTerm:
-- "[[18097 Sales]]"
+- "[[Sales]]"
 ---
-# Bills of sale

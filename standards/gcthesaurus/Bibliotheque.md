@@ -1,10 +1,8 @@
 ---
 title: Bibliotheque
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bibliothèque
+longTitle: 'Bibliothèque'
+tags:
+- gccommon
 french:
-- "[[12377 Libraries]]"
+- "[[Libraries]]"
 ---
-# Bibliotheque

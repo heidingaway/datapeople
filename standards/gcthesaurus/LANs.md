@@ -1,10 +1,8 @@
 ---
 title: LANs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: LANs
+longTitle: 'LANs'
+tags:
+- gccommon
 usedFor:
-- "[[3813 Computer networks]]"
+- "[[Computer networks]]"
 ---
-# LANs

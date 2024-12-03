@@ -1,10 +1,8 @@
 ---
 title: Capitale nationale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Capitale nationale
+longTitle: 'Capitale nationale'
+tags:
+- gccommon
 french:
-- "[[14183 National Capital]]"
+- "[[National Capital]]"
 ---
-# Capitale nationale

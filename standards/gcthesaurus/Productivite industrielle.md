@@ -1,10 +1,8 @@
 ---
 title: Productivite industrielle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Productivité industrielle
+longTitle: 'Productivité industrielle'
+tags:
+- gccommon
 french:
-- "[[10801 Industrial productivity]]"
+- "[[Industrial productivity]]"
 ---
-# Productivite industrielle

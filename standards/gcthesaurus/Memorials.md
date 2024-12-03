@@ -1,10 +1,8 @@
 ---
 title: Memorials
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Memorials
+longTitle: 'Memorials'
+tags:
+- gccommon
 usedFor:
-- "[[13902 Monuments]]"
+- "[[Monuments]]"
 ---
-# Memorials

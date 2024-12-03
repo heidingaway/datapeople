@@ -1,10 +1,8 @@
 ---
 title: National Capital
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: National Capital
+longTitle: 'National Capital'
+tags:
+- gccommon
 relatedTerm:
-- "[[7549 Federal government]]"
+- "[[Federal government]]"
 ---
-# National Capital

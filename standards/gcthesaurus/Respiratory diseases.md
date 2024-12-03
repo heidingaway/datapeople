@@ -1,20 +1,14 @@
 ---
 title: Respiratory diseases
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Respiratory diseases
+longTitle: 'Respiratory diseases'
+tags:
+- gccommon
 broaderTerm:
-- "[[4253 Coronavirus diseases]]"
+- "[[Coronavirus diseases]]"
 narrowerTerm:
-- "[[5399 Diseases]]"
+- "[[Diseases]]"
 relatedTerm:
-- "[[18828 Smoking]]"
+- "[[Smoking]]"
 use:
-- "[[2756 Cardiorespiratory diseases]]"
-- "[[16951 Pulmonary diseases]]"
-- "[[17755 Respiratory illness]]"
-- "[[17753 Respiratory disorders]]"
-- "[[12674 Lung diseases]]"
+- "[[Cardiorespiratory diseases Pulmonary diseases Resp]]"
 ---
-# Respiratory diseases

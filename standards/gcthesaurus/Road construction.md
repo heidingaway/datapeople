@@ -1,12 +1,10 @@
 ---
 title: Road construction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Road construction
+longTitle: 'Road construction'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4008 Construction]]"
+- "[[Construction]]"
 relatedTerm:
-- "[[17891 Road networks]]"
+- "[[Road networks]]"
 ---
-# Road construction

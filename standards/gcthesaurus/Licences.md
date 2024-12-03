@@ -1,10 +1,8 @@
 ---
 title: Licences
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Licences
+longTitle: 'Licences'
+tags:
+- gccommon
 usedFor:
-- "[[15503 Permits]]"
+- "[[Permits]]"
 ---
-# Licences

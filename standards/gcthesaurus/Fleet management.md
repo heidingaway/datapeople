@@ -1,14 +1,12 @@
 ---
 title: Fleet management
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fleet management
+longTitle: 'Fleet management'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12757 Management]]"
+- "[[Management]]"
 relatedTerm:
-- "[[13979 Motor vehicles]]"
+- "[[Motor vehicles]]"
 use:
-- "[[20910 Vehicle management]]"
+- "[[Vehicle management]]"
 ---
-# Fleet management

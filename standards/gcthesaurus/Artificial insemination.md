@@ -1,12 +1,10 @@
 ---
 title: Artificial insemination
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Artificial insemination
+longTitle: 'Artificial insemination'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17606 Reproductive technology]]"
+- "[[Reproductive technology]]"
 relatedTerm:
-- "[[18516 Semen]]"
+- "[[Semen]]"
 ---
-# Artificial insemination

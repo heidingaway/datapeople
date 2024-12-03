@@ -1,10 +1,8 @@
 ---
 title: Seal hunt
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Seal hunt
+longTitle: 'Seal hunt'
+tags:
+- gccommon
 usedFor:
-- "[[18338 Sealing]]"
+- "[[Sealing]]"
 ---
-# Seal hunt

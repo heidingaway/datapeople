@@ -1,10 +1,8 @@
 ---
 title: Navire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Navire
+longTitle: 'Navire'
+tags:
+- gccommon
 french:
-- "[[18687 Ships]]"
+- "[[Ships]]"
 ---
-# Navire

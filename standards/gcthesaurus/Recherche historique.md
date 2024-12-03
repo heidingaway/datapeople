@@ -1,10 +1,8 @@
 ---
 title: Recherche historique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Recherche historique
+longTitle: 'Recherche historique'
+tags:
+- gccommon
 french:
-- "[[9959 Historical research]]"
+- "[[Historical research]]"
 ---
-# Recherche historique

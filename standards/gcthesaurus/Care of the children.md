@@ -1,10 +1,8 @@
 ---
 title: Care of the children
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Care of the children
+longTitle: 'Care of the children'
+tags:
+- gccommon
 usedFor:
-- "[[3102 Child care]]"
+- "[[Child care]]"
 ---
-# Care of the children

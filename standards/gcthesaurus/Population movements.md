@@ -1,10 +1,8 @@
 ---
 title: Population movements
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Population movements
+longTitle: 'Population movements'
+tags:
+- gccommon
 usedFor:
-- "[[13583 Migration]]"
+- "[[Migration]]"
 ---
-# Population movements

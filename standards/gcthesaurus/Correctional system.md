@@ -1,10 +1,8 @@
 ---
 title: Correctional system
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Correctional system
+longTitle: 'Correctional system'
+tags:
+- gccommon
 usedFor:
-- "[[4298 Correctional institutions]]"
+- "[[Correctional institutions]]"
 ---
-# Correctional system

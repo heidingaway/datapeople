@@ -1,10 +1,8 @@
 ---
 title: Monetary system
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Monetary system
+longTitle: 'Monetary system'
+tags:
+- gccommon
 usedFor:
-- "[[4732 Currency]]"
+- "[[Currency]]"
 ---
-# Monetary system

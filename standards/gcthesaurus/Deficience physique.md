@@ -1,10 +1,8 @@
 ---
 title: Deficience physique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Déficience physique
+longTitle: 'Déficience physique'
+tags:
+- gccommon
 french:
-- "[[15751 Physical disabilities]]"
+- "[[Physical disabilities]]"
 ---
-# Deficience physique

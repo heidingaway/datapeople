@@ -1,10 +1,8 @@
 ---
 title: Manpower centers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Manpower centers
+longTitle: 'Manpower centers'
+tags:
+- gccommon
 usedFor:
-- "[[6523 Employment centres]]"
+- "[[Employment centres]]"
 ---
-# Manpower centers

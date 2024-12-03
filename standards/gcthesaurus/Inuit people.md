@@ -1,10 +1,8 @@
 ---
 title: Inuit people
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Inuit people
+longTitle: 'Inuit people'
+tags:
+- gccommon
 usedFor:
-- "[[11536 Inuit]]"
+- "[[Inuit]]"
 ---
-# Inuit people

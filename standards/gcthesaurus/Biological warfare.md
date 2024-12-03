@@ -1,15 +1,12 @@
 ---
 title: Biological warfare
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Biological warfare
+longTitle: 'Biological warfare'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21243 War]]"
+- "[[War]]"
 relatedTerm:
-- "[[3037 Chemical warfare]]"
-- "[[2193 Biological weapons]]"
+- "[[Chemical warfare Biological weapons]]"
 use:
-- "[[1830 Bacteriological warfare]]"
+- "[[Bacteriological warfare]]"
 ---
-# Biological warfare

@@ -1,10 +1,8 @@
 ---
 title: Smuggling
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Smuggling
+longTitle: 'Smuggling'
+tags:
+- gccommon
 usedFor:
-- "[[5861 Economic crime]]"
+- "[[Economic crime]]"
 ---
-# Smuggling

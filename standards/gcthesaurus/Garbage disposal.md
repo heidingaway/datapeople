@@ -1,10 +1,8 @@
 ---
 title: Garbage disposal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Garbage disposal
+longTitle: 'Garbage disposal'
+tags:
+- gccommon
 usedFor:
-- "[[21318 Waste management]]"
+- "[[Waste management]]"
 ---
-# Garbage disposal

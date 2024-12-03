@@ -1,10 +1,8 @@
 ---
 title: Depletion of the ozone layer
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Depletion of the ozone layer
+longTitle: 'Depletion of the ozone layer'
+tags:
+- gccommon
 usedFor:
-- "[[15185 Ozone depletion]]"
+- "[[Ozone depletion]]"
 ---
-# Depletion of the ozone layer

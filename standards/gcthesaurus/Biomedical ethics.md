@@ -1,10 +1,8 @@
 ---
 title: Biomedical ethics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Biomedical ethics
+longTitle: 'Biomedical ethics'
+tags:
+- gccommon
 usedFor:
-- "[[2132 Bioethics]]"
+- "[[Bioethics]]"
 ---
-# Biomedical ethics

@@ -1,10 +1,8 @@
 ---
 title: Tissu Biologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tissu (Biologie)
+longTitle: 'Tissu (Biologie)'
+tags:
+- gccommon
 french:
-- "[[20202 Tissues]]"
+- "[[Tissues]]"
 ---
-# Tissu Biologie

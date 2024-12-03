@@ -1,10 +1,8 @@
 ---
 title: Official publications
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Official publications
+longTitle: 'Official publications'
+tags:
+- gccommon
 usedFor:
-- "[[9232 Government publications]]"
+- "[[Government publications]]"
 ---
-# Official publications

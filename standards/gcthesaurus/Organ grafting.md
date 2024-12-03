@@ -1,10 +1,8 @@
 ---
 title: Organ grafting
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Organ grafting
+longTitle: 'Organ grafting'
+tags:
+- gccommon
 usedFor:
-- "[[15090 Organ transplantation]]"
+- "[[Organ transplantation]]"
 ---
-# Organ grafting

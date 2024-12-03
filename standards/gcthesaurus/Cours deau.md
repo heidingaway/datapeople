@@ -1,10 +1,8 @@
 ---
 title: Cours deau
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cours d'eau
+longTitle: 'Cours d'eau'
+tags:
+- gccommon
 french:
-- "[[21538 Watercourses]]"
+- "[[Watercourses]]"
 ---
-# Cours deau

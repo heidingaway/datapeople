@@ -1,11 +1,8 @@
 ---
 title: Sheep
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sheep
+longTitle: 'Sheep'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12542 Livestock]]"
-- "[[12739 Mammals]]"
+- "[[Livestock Mammals]]"
 ---
-# Sheep

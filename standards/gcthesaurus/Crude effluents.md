@@ -1,10 +1,8 @@
 ---
 title: Crude effluents
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Crude effluents
+longTitle: 'Crude effluents'
+tags:
+- gccommon
 usedFor:
-- "[[21353 Waste water]]"
+- "[[Waste water]]"
 ---
-# Crude effluents

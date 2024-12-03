@@ -1,10 +1,8 @@
 ---
 title: Food industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Food industry
+longTitle: 'Food industry'
+tags:
+- gccommon
 usedFor:
-- "[[417 Agri-food industry]]"
+- "[[Agri-food industry]]"
 ---
-# Food industry

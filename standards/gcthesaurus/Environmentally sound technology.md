@@ -1,10 +1,8 @@
 ---
 title: Environmentally sound technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmentally sound technology
+longTitle: 'Environmentally sound technology'
+tags:
+- gccommon
 usedFor:
-- "[[7019 Environmental technology]]"
+- "[[Environmental technology]]"
 ---
-# Environmentally sound technology

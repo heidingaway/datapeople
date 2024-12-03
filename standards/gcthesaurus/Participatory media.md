@@ -1,10 +1,8 @@
 ---
 title: Participatory media
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Participatory media
+longTitle: 'Participatory media'
+tags:
+- gccommon
 usedFor:
-- "[[18937 Social media]]"
+- "[[Social media]]"
 ---
-# Participatory media

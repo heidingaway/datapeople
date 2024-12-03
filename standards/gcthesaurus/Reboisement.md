@@ -1,10 +1,8 @@
 ---
 title: Reboisement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Reboisement
+longTitle: 'Reboisement'
+tags:
+- gccommon
 french:
-- "[[17406 Reforestation]]"
+- "[[Reforestation]]"
 ---
-# Reboisement

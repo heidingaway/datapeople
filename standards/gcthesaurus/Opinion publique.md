@@ -1,10 +1,8 @@
 ---
 title: Opinion publique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Opinion publique
+longTitle: 'Opinion publique'
+tags:
+- gccommon
 french:
-- "[[16846 Public opinion]]"
+- "[[Public opinion]]"
 ---
-# Opinion publique

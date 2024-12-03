@@ -1,15 +1,10 @@
 ---
 title: Multilingualism
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Multilingualism
+longTitle: 'Multilingualism'
+tags:
+- gccommon
 relatedTerm:
-- "[[2061 Bilingualism]]"
-- "[[14008 Multiculturalism]]"
-- "[[12139 Languages]]"
-- "[[12464 Linguistic diversity]]"
+- "[[Bilingualism Multiculturalism Languages Linguistic]]"
 use:
-- "[[15890 Plurilingualism]]"
+- "[[Plurilingualism]]"
 ---
-# Multilingualism

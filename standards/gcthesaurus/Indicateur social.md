@@ -1,10 +1,8 @@
 ---
 title: Indicateur social
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indicateur social
+longTitle: 'Indicateur social'
+tags:
+- gccommon
 french:
-- "[[18908 Social indicators]]"
+- "[[Social indicators]]"
 ---
-# Indicateur social

@@ -1,10 +1,8 @@
 ---
 title: Accord international
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Accord international
+longTitle: 'Accord international'
+tags:
+- gccommon
 french:
-- "[[11336 International agreements]]"
+- "[[International agreements]]"
 ---
-# Accord international

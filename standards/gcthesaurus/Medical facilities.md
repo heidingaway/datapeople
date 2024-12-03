@@ -1,10 +1,8 @@
 ---
 title: Medical facilities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Medical facilities
+longTitle: 'Medical facilities'
+tags:
+- gccommon
 usedFor:
-- "[[9615 Health care facilities]]"
+- "[[Health care facilities]]"
 ---
-# Medical facilities

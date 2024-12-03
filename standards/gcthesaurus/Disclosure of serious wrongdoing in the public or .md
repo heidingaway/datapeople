@@ -1,10 +1,8 @@
 ---
-title: "Disclosure of serious wrongdoing in the public or "
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Disclosure of serious wrongdoing in the public or private sectors.
+title: Disclosure of serious wrongdoing in the public or 
+longTitle: 'Disclosure of serious wrongdoing in the public or private sectors.'
+tags:
+- gccommon
 scopeNote:
-- "[[5363 Disclosure of wrongdoing]]"
+- "[[Disclosure of wrongdoing]]"
 ---
-# Disclosure of serious wrongdoing in the public or

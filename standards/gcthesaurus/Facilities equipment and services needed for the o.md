@@ -1,10 +1,8 @@
 ---
 title: Facilities equipment and services needed for the o
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Facilities, equipment and services needed for the operation of an organization.
+longTitle: 'Facilities, equipment and services needed for the operation of an organization.'
+tags:
+- gccommon
 scopeNote:
-- "[[11067 Infrastructures]]"
+- "[[Infrastructures]]"
 ---
-# Facilities equipment and services needed for the o

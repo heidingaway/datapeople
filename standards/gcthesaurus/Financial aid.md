@@ -1,10 +1,8 @@
 ---
 title: Financial aid
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Financial aid
+longTitle: 'Financial aid'
+tags:
+- gccommon
 usedFor:
-- "[[7717 Financial assistance]]"
+- "[[Financial assistance]]"
 ---
-# Financial aid

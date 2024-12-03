@@ -1,14 +1,12 @@
 ---
 title: Weaving
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Weaving
+longTitle: 'Weaving'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4414 Crafts]]"
+- "[[Crafts]]"
 relatedTerm:
-- "[[20141 Textiles]]"
+- "[[Textiles]]"
 use:
-- "[[9461 Handspinning]]"
+- "[[Handspinning]]"
 ---
-# Weaving

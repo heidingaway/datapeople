@@ -1,10 +1,8 @@
 ---
 title: Coronavirus
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Coronavirus
+longTitle: 'Coronavirus'
+tags:
+- gccommon
 french:
-- "[[4259 Coronaviruses]]"
+- "[[Coronaviruses]]"
 ---
-# Coronavirus

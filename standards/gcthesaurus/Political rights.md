@@ -1,10 +1,8 @@
 ---
 title: Political rights
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Political rights
+longTitle: 'Political rights'
+tags:
+- gccommon
 usedFor:
-- "[[3276 Civil rights]]"
+- "[[Civil rights]]"
 ---
-# Political rights

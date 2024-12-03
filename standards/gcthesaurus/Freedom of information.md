@@ -1,12 +1,10 @@
 ---
 title: Freedom of information
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Freedom of information
+longTitle: 'Freedom of information'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15046 Open government]]"
+- "[[Open government]]"
 relatedTerm:
-- "[[85 Access to information]]"
+- "[[Access to information]]"
 ---
-# Freedom of information

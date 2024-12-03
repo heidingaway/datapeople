@@ -1,14 +1,12 @@
 ---
 title: Photography
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Photography
+longTitle: 'Photography'
+tags:
+- gccommon
 broaderTerm:
-- "[[334 Aerial photography]]"
+- "[[Aerial photography]]"
 narrowerTerm:
-- "[[21106 Visual arts]]"
+- "[[Visual arts]]"
 relatedTerm:
-- "[[15727 Photographs]]"
+- "[[Photographs]]"
 ---
-# Photography

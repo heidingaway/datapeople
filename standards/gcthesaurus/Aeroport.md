@@ -1,10 +1,8 @@
 ---
 title: Aeroport
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aéroport
+longTitle: 'Aéroport'
+tags:
+- gccommon
 french:
-- "[[798 Airports]]"
+- "[[Airports]]"
 ---
-# Aeroport

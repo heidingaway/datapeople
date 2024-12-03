@@ -1,26 +1,14 @@
 ---
 title: Corporations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Corporations
+longTitle: 'Corporations'
+tags:
+- gccommon
 broaderTerm:
-- "[[4565 Crown corporations]]"
-- "[[14057 Multinational corporations]]"
+- "[[Crown corporations Multinational corporations]]"
 narrowerTerm:
-- "[[15108 Organizations]]"
+- "[[Organizations]]"
 relatedTerm:
-- "[[13428 Mergers]]"
-- "[[10592 Incorporation]]"
-- "[[4271 Corporate income tax]]"
-- "[[15356 Partnerships]]"
-- "[[4276 Corporate names]]"
-- "[[4267 Corporate image]]"
-- "[[2607 Businesses]]"
-- "[[9561 Headquarters]]"
-- "[[3949 Conglomerates]]"
+- "[[Mergers Incorporation Corporate income tax Partner]]"
 use:
-- "[[10587 Incorporated companies]]"
-- "[[3751 Companies]]"
+- "[[Incorporated companies Companies]]"
 ---
-# Corporations

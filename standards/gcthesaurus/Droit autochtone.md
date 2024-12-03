@@ -1,10 +1,8 @@
 ---
 title: Droit autochtone
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Droit autochtone
+longTitle: 'Droit autochtone'
+tags:
+- gccommon
 french:
-- "[[10667 Indigenous law]]"
+- "[[Indigenous law]]"
 ---
-# Droit autochtone

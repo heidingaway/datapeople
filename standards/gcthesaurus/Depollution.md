@@ -1,10 +1,8 @@
 ---
 title: Depollution
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Depollution
+longTitle: 'Depollution'
+tags:
+- gccommon
 usedFor:
-- "[[5001 Decontamination]]"
+- "[[Decontamination]]"
 ---
-# Depollution

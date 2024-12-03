@@ -1,10 +1,8 @@
 ---
 title: Droit administratif
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Droit administratif
+longTitle: 'Droit administratif'
+tags:
+- gccommon
 french:
-- "[[238 Administrative law]]"
+- "[[Administrative law]]"
 ---
-# Droit administratif

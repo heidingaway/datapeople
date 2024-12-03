@@ -1,10 +1,8 @@
 ---
 title: Universite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Université
+longTitle: 'Université'
+tags:
+- gccommon
 french:
-- "[[20789 Universities]]"
+- "[[Universities]]"
 ---
-# Universite

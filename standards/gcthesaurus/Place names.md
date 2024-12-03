@@ -1,10 +1,8 @@
 ---
 title: Place names
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Place names
+longTitle: 'Place names'
+tags:
+- gccommon
 usedFor:
-- "[[20266 Toponymy]]"
+- "[[Toponymy]]"
 ---
-# Place names

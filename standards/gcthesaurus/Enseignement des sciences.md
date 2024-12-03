@@ -1,10 +1,8 @@
 ---
 title: Enseignement des sciences
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Enseignement des sciences
+longTitle: 'Enseignement des sciences'
+tags:
+- gccommon
 french:
-- "[[18226 Science education]]"
+- "[[Science education]]"
 ---
-# Enseignement des sciences

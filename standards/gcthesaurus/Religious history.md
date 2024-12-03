@@ -1,13 +1,10 @@
 ---
 title: Religious history
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Religious history
+longTitle: 'Religious history'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9975 History]]"
+- "[[History]]"
 relatedTerm:
-- "[[17492 Religion]]"
-- "[[17507 Religious heritage]]"
+- "[[Religion Religious heritage]]"
 ---
-# Religious history

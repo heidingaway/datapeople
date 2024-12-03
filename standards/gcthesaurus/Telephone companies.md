@@ -1,10 +1,8 @@
 ---
 title: Telephone companies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Telephone companies
+longTitle: 'Telephone companies'
+tags:
+- gccommon
 usedFor:
-- "[[19976 Telephones]]"
+- "[[Telephones]]"
 ---
-# Telephone companies

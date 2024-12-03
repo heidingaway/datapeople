@@ -1,10 +1,8 @@
 ---
 title: Tendances sociales
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tendances sociales
+longTitle: 'Tendances sociales'
+tags:
+- gccommon
 french:
-- "[[19032 Social trends]]"
+- "[[Social trends]]"
 ---
-# Tendances sociales

@@ -1,10 +1,8 @@
 ---
 title: Historical hydrometric data
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Historical hydrometric data
+longTitle: 'Historical hydrometric data'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10390 Hydrometry]]"
+- "[[Hydrometry]]"
 ---
-# Historical hydrometric data

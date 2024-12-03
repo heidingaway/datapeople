@@ -1,17 +1,12 @@
 ---
 title: Hospitality industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hospitality industry
+longTitle: 'Hospitality industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18580 Service industry]]"
+- "[[Service industry]]"
 relatedTerm:
-- "[[17759 Restaurants]]"
-- "[[20278 Tourism]]"
-- "[[20287 Tourism facilities]]"
+- "[[Restaurants Tourism Tourism facilities]]"
 use:
-- "[[10091 Hotels]]"
-- "[[2868 Catering industry]]"
+- "[[Hotels Catering industry]]"
 ---
-# Hospitality industry

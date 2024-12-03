@@ -1,10 +1,8 @@
 ---
 title: Protective measures
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Protective measures
+longTitle: 'Protective measures'
+tags:
+- gccommon
 usedFor:
-- "[[18037 Safety measures]]"
+- "[[Safety measures]]"
 ---
-# Protective measures

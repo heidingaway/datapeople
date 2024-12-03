@@ -1,10 +1,8 @@
 ---
 title: Land drainage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Land drainage
+longTitle: 'Land drainage'
+tags:
+- gccommon
 usedFor:
-- "[[5548 Drainage]]"
+- "[[Drainage]]"
 ---
-# Land drainage

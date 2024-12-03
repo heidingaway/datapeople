@@ -1,10 +1,8 @@
 ---
 title: Legal decisions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Legal decisions
+longTitle: 'Legal decisions'
+tags:
+- gccommon
 usedFor:
-- "[[4377 Court decisions]]"
+- "[[Court decisions]]"
 ---
-# Legal decisions

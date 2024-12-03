@@ -1,14 +1,12 @@
 ---
 title: Interlibrary loans
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Interlibrary loans
+longTitle: 'Interlibrary loans'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12581 Loans]]"
+- "[[Loans]]"
 relatedTerm:
-- "[[12390 Libraries]]"
+- "[[Libraries]]"
 use:
-- "[[5482 Document delivery]]"
+- "[[Document delivery]]"
 ---
-# Interlibrary loans

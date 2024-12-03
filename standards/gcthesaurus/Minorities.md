@@ -1,15 +1,10 @@
 ---
 title: Minorities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Minorities
+longTitle: 'Minorities'
+tags:
+- gccommon
 broaderTerm:
-- "[[21084 Visible minorities]]"
-- "[[7171 Ethnic minorities]]"
-- "[[12090 Language minorities]]"
-- "[[11 2SLGBTQI+ people]]"
+- "[[Visible minorities Ethnic minorities Language mino]]"
 use:
-- "[[13775 Minority groups]]"
+- "[[Minority groups]]"
 ---
-# Minorities

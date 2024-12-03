@@ -1,16 +1,12 @@
 ---
 title: Beekeeping
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Beekeeping
+longTitle: 'Beekeeping'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1019 Animal husbandry]]"
+- "[[Animal husbandry]]"
 relatedTerm:
-- "[[10069 Honey]]"
+- "[[Honey]]"
 use:
-- "[[1191 Apiculture]]"
-- "[[1914 Bee keeping]]"
-- "[[1912 Bee culture]]"
+- "[[Apiculture Bee keeping Bee culture]]"
 ---
-# Beekeeping

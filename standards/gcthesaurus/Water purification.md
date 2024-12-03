@@ -1,10 +1,8 @@
 ---
 title: Water purification
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Water purification
+longTitle: 'Water purification'
+tags:
+- gccommon
 usedFor:
-- "[[21434 Water management]]"
+- "[[Water management]]"
 ---
-# Water purification

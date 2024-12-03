@@ -1,10 +1,8 @@
 ---
 title: Droit militaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Droit militaire
+longTitle: 'Droit militaire'
+tags:
+- gccommon
 french:
-- "[[13652 Military law]]"
+- "[[Military law]]"
 ---
-# Droit militaire

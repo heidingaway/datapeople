@@ -1,10 +1,8 @@
 ---
 title: Production denergie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Production d'énergie
+longTitle: 'Production d'énergie'
+tags:
+- gccommon
 french:
-- "[[6672 Energy production]]"
+- "[[Energy production]]"
 ---
-# Production denergie

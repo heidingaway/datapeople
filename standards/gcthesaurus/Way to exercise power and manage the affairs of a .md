@@ -1,10 +1,8 @@
 ---
-title: "Way to exercise power and manage the affairs of a "
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Way to exercise power and manage the affairs of a country, region or organization.
+title: Way to exercise power and manage the affairs of a 
+longTitle: 'Way to exercise power and manage the affairs of a country, region or organization.'
+tags:
+- gccommon
 scopeNote:
-- "[[9137 Governance]]"
+- "[[Governance]]"
 ---
-# Way to exercise power and manage the affairs of a

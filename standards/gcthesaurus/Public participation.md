@@ -1,10 +1,8 @@
 ---
 title: Public participation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public participation
+longTitle: 'Public participation'
+tags:
+- gccommon
 usedFor:
-- "[[3232 Citizen participation]]"
+- "[[Citizen participation]]"
 ---
-# Public participation

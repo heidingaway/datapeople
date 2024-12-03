@@ -1,10 +1,8 @@
 ---
 title: Action positive
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Action positive
+longTitle: 'Action positive'
+tags:
+- gccommon
 french:
-- "[[357 Affirmative action]]"
+- "[[Affirmative action]]"
 ---
-# Action positive

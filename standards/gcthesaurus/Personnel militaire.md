@@ -1,10 +1,8 @@
 ---
 title: Personnel militaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Personnel militaire
+longTitle: 'Personnel militaire'
+tags:
+- gccommon
 french:
-- "[[13657 Military personnel]]"
+- "[[Military personnel]]"
 ---
-# Personnel militaire

@@ -1,10 +1,8 @@
 ---
 title: Sight impaired
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sight impaired
+longTitle: 'Sight impaired'
+tags:
+- gccommon
 usedFor:
-- "[[15592 Persons with disabilities]]"
+- "[[Persons with disabilities]]"
 ---
-# Sight impaired

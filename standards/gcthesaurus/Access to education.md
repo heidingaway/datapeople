@@ -1,10 +1,8 @@
 ---
 title: Access to education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Access to education
+longTitle: 'Access to education'
+tags:
+- gccommon
 relatedTerm:
-- "[[6044 Education]]"
+- "[[Education]]"
 ---
-# Access to education

@@ -1,17 +1,12 @@
 ---
 title: Energy technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Energy technology
+longTitle: 'Energy technology'
+tags:
+- gccommon
 broaderTerm:
-- "[[6219 Electric power stations]]"
+- "[[Electric power stations]]"
 narrowerTerm:
-- "[[19867 Technology]]"
+- "[[Technology]]"
 relatedTerm:
-- "[[6677 Energy production]]"
-- "[[6628 Energy]]"
-- "[[6650 Energy efficiency]]"
-- "[[895 Alternative energy]]"
+- "[[Energy production Energy Energy efficiency Alterna]]"
 ---
-# Energy technology

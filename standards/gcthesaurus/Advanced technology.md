@@ -1,10 +1,8 @@
 ---
 title: Advanced technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Advanced technology
+longTitle: 'Advanced technology'
+tags:
+- gccommon
 usedFor:
-- "[[9915 High technology]]"
+- "[[High technology]]"
 ---
-# Advanced technology

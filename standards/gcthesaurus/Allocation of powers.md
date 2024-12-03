@@ -1,10 +1,8 @@
 ---
 title: Allocation of powers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Allocation of powers
+longTitle: 'Allocation of powers'
+tags:
+- gccommon
 usedFor:
-- "[[5461 Division of powers]]"
+- "[[Division of powers]]"
 ---
-# Allocation of powers

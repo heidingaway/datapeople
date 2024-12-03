@@ -1,12 +1,10 @@
 ---
 title: Hiking
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hiking
+longTitle: 'Hiking'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19243 Sports]]"
+- "[[Sports]]"
 relatedTerm:
-- "[[15137 Outdoor recreation]]"
+- "[[Outdoor recreation]]"
 ---
-# Hiking

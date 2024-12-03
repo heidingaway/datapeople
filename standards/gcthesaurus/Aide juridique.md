@@ -1,10 +1,8 @@
 ---
 title: Aide juridique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aide juridique
+longTitle: 'Aide juridique'
+tags:
+- gccommon
 french:
-- "[[12249 Legal aid]]"
+- "[[Legal aid]]"
 ---
-# Aide juridique

@@ -1,10 +1,8 @@
 ---
 title: Littoral waters
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Littoral waters
+longTitle: 'Littoral waters'
+tags:
+- gccommon
 usedFor:
-- "[[3418 Coastal waters]]"
+- "[[Coastal waters]]"
 ---
-# Littoral waters

@@ -1,15 +1,12 @@
 ---
 title: Office equipment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Office equipment
+longTitle: 'Office equipment'
+tags:
+- gccommon
 narrowerTerm:
-- "[[7086 Equipment]]"
+- "[[Equipment]]"
 relatedTerm:
-- "[[14897 Office automation]]"
-- "[[12616 Lockers]]"
+- "[[Office automation Lockers]]"
 use:
-- "[[14912 Office furnitures]]"
+- "[[Office furnitures]]"
 ---
-# Office equipment

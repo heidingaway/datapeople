@@ -1,10 +1,8 @@
 ---
 title: Norme relative a lenvironnement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Norme relative à l'environnement
+longTitle: 'Norme relative à l'environnement'
+tags:
+- gccommon
 french:
-- "[[7004 Environmental standards]]"
+- "[[Environmental standards]]"
 ---
-# Norme relative a lenvironnement

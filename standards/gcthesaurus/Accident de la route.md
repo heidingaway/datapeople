@@ -1,10 +1,8 @@
 ---
 title: Accident de la route
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Accident de la route
+longTitle: 'Accident de la route'
+tags:
+- gccommon
 french:
-- "[[17863 Road accidents]]"
+- "[[Road accidents]]"
 ---
-# Accident de la route

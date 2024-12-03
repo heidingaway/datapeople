@@ -1,20 +1,12 @@
 ---
 title: Accessibility for persons with disabilities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Accessibility for persons with disabilities
+longTitle: 'Accessibility for persons with disabilities'
+tags:
+- gccommon
 narrowerTerm:
-- "[[93 Accessibility]]"
+- "[[Accessibility]]"
 relatedTerm:
-- "[[110 Accessible transport]]"
-- "[[5724 Duty to accommodate]]"
-- "[[15595 Persons with disabilities]]"
-- "[[1597 Assistive technologies]]"
+- "[[Accessible transport Duty to accommodate Persons w]]"
 use:
-- "[[21704 Wheelchair access]]"
-- "[[77 Access for persons with disabilities]]"
-- "[[5316 Disabled access]]"
-- "[[1875 Barrier free access]]"
+- "[[Wheelchair access Access for persons with disabili]]"
 ---
-# Accessibility for persons with disabilities

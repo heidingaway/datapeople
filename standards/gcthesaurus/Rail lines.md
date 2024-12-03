@@ -1,10 +1,8 @@
 ---
 title: Rail lines
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rail lines
+longTitle: 'Rail lines'
+tags:
+- gccommon
 usedFor:
-- "[[17175 Railway networks]]"
+- "[[Railway networks]]"
 ---
-# Rail lines

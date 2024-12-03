@@ -1,12 +1,10 @@
 ---
 title: Distribution
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Distribution
+longTitle: 'Distribution'
+tags:
+- gccommon
 french:
-- "[[5438 Distribution]]"
+- "[[Distribution]]"
 relatedTerm:
-- "[[5069 Deliveries]]"
+- "[[Deliveries]]"
 ---
-# Distribution

@@ -1,10 +1,8 @@
 ---
 title: Medicinal drugs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Medicinal drugs
+longTitle: 'Medicinal drugs'
+tags:
+- gccommon
 usedFor:
-- "[[5693 Drugs]]"
+- "[[Drugs]]"
 ---
-# Medicinal drugs

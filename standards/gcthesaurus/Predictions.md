@@ -1,10 +1,8 @@
 ---
 title: Predictions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Predictions
+longTitle: 'Predictions'
+tags:
+- gccommon
 usedFor:
-- "[[8207 Forecasting]]"
+- "[[Forecasting]]"
 ---
-# Predictions

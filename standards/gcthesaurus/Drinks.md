@@ -1,10 +1,8 @@
 ---
 title: Drinks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Drinks
+longTitle: 'Drinks'
+tags:
+- gccommon
 usedFor:
-- "[[1993 Beverages]]"
+- "[[Beverages]]"
 ---
-# Drinks

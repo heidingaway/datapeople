@@ -1,10 +1,8 @@
 ---
 title: Dossier medical
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dossier médical
+longTitle: 'Dossier médical'
+tags:
+- gccommon
 french:
-- "[[13275 Medical records]]"
+- "[[Medical records]]"
 ---
-# Dossier medical

@@ -1,10 +1,8 @@
 ---
 title: Indigenous rights proposed or established to lands
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indigenous rights, proposed or established, to lands and natural resources.
+longTitle: 'Indigenous rights, proposed or established, to lands and natural resources.'
+tags:
+- gccommon
 scopeNote:
-- "[[11979 Land claims]]"
+- "[[Land claims]]"
 ---
-# Indigenous rights proposed or established to lands

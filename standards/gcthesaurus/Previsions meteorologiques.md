@@ -1,10 +1,8 @@
 ---
 title: Previsions meteorologiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prévisions météorologiques
+longTitle: 'Prévisions météorologiques'
+tags:
+- gccommon
 french:
-- "[[21609 Weather forecasts]]"
+- "[[Weather forecasts]]"
 ---
-# Previsions meteorologiques

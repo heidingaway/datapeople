@@ -1,10 +1,8 @@
 ---
 title: Droit
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Droit
+longTitle: 'Droit'
+tags:
+- gccommon
 french:
-- "[[12146 Law]]"
+- "[[Law]]"
 ---
-# Droit

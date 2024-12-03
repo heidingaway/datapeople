@@ -1,10 +1,8 @@
 ---
 title: Telecommunications equipment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Telecommunications equipment
+longTitle: 'Telecommunications equipment'
+tags:
+- gccommon
 usedFor:
-- "[[3663 Communications equipment]]"
+- "[[Communications equipment]]"
 ---
-# Telecommunications equipment

@@ -1,10 +1,8 @@
 ---
 title: Employment centers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Employment centers
+longTitle: 'Employment centers'
+tags:
+- gccommon
 usedFor:
-- "[[6522 Employment centres]]"
+- "[[Employment centres]]"
 ---
-# Employment centers

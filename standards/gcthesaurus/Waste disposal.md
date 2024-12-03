@@ -1,10 +1,8 @@
 ---
 title: Waste disposal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Waste disposal
+longTitle: 'Waste disposal'
+tags:
+- gccommon
 usedFor:
-- "[[21323 Waste management]]"
+- "[[Waste management]]"
 ---
-# Waste disposal

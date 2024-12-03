@@ -1,14 +1,10 @@
 ---
 title: Slaughtering
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Slaughtering
+longTitle: 'Slaughtering'
+tags:
+- gccommon
 relatedTerm:
-- "[[1027 Animal husbandry]]"
-- "[[12549 Livestock]]"
+- "[[Animal husbandry Livestock]]"
 use:
-- "[[18788 Slaughter of animals]]"
-- "[[1090 Animal slaughtering]]"
+- "[[Slaughter of animals Animal slaughtering]]"
 ---
-# Slaughtering

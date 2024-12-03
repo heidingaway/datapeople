@@ -1,10 +1,8 @@
 ---
 title: Wide area networks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wide area networks
+longTitle: 'Wide area networks'
+tags:
+- gccommon
 usedFor:
-- "[[3816 Computer networks]]"
+- "[[Computer networks]]"
 ---
-# Wide area networks

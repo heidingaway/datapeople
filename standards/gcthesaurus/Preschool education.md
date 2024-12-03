@@ -1,14 +1,10 @@
 ---
 title: Preschool education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Preschool education
+longTitle: 'Preschool education'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6038 Education]]"
+- "[[Education]]"
 use:
-- "[[5752 Early childhood education]]"
-- "[[11748 Kindergarten]]"
-- "[[14684 Nursery schools]]"
+- "[[Early childhood education Kindergarten Nursery sch]]"
 ---
-# Preschool education

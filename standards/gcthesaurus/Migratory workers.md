@@ -1,10 +1,8 @@
 ---
 title: Migratory workers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Migratory workers
+longTitle: 'Migratory workers'
+tags:
+- gccommon
 usedFor:
-- "[[13576 Migrant workers]]"
+- "[[Migrant workers]]"
 ---
-# Migratory workers

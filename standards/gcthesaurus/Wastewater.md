@@ -1,10 +1,8 @@
 ---
 title: Wastewater
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wastewater
+longTitle: 'Wastewater'
+tags:
+- gccommon
 usedFor:
-- "[[21358 Waste water]]"
+- "[[Waste water]]"
 ---
-# Wastewater

@@ -1,10 +1,8 @@
 ---
 title: Produit medical
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Produit médical
+longTitle: 'Produit médical'
+tags:
+- gccommon
 french:
-- "[[13255 Medical products]]"
+- "[[Medical products]]"
 ---
-# Produit medical

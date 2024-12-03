@@ -1,10 +1,8 @@
 ---
 title: Systematic screening
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Systematic screening
+longTitle: 'Systematic screening'
+tags:
+- gccommon
 usedFor:
-- "[[18293 Screening (Medicine)]]"
+- "[[Screening Medicine]]"
 ---
-# Systematic screening

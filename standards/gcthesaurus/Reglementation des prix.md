@@ -1,10 +1,8 @@
 ---
 title: Reglementation des prix
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Réglementation des prix
+longTitle: 'Réglementation des prix'
+tags:
+- gccommon
 french:
-- "[[16306 Price regulation]]"
+- "[[Price regulation]]"
 ---
-# Reglementation des prix

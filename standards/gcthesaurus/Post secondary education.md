@@ -1,10 +1,8 @@
 ---
 title: Post secondary education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Post secondary education
+longTitle: 'Post secondary education'
+tags:
+- gccommon
 usedFor:
-- "[[16142 Postsecondary education]]"
+- "[[Postsecondary education]]"
 ---
-# Post secondary education

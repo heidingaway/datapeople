@@ -1,16 +1,12 @@
 ---
 title: International organizations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: International organizations
+longTitle: 'International organizations'
+tags:
+- gccommon
 narrowerTerm:
-- "[[3650 Commonwealth]]"
+- "[[Commonwealth]]"
 relatedTerm:
-- "[[11366 International cooperation]]"
-- "[[11295 Intergovernmental organizations]]"
-- "[[14533 Nongovernmental organizations]]"
+- "[[International cooperation Intergovernmental organi]]"
 use:
-- "[[11334 International agencies]]"
+- "[[International agencies]]"
 ---
-# International organizations

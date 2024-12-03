@@ -1,17 +1,12 @@
 ---
 title: Gasoline
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gasoline
+longTitle: 'Gasoline'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8579 Fuels]]"
+- "[[Fuels]]"
 relatedTerm:
-- "[[15660 Petroleum industry]]"
+- "[[Petroleum industry]]"
 use:
-- "[[8724 Gas (Gasoline)]]"
-- "[[13959 Motor gasoline]]"
-- "[[1769 Automotive gasoline]]"
-- "[[1746 Automobile gasoline]]"
+- "[[Gas Gasoline Motor gasoline Automotive gasoline Au]]"
 ---
-# Gasoline

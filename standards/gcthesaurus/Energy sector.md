@@ -1,10 +1,8 @@
 ---
 title: Energy sector
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Energy sector
+longTitle: 'Energy sector'
+tags:
+- gccommon
 usedFor:
-- "[[6656 Energy management]]"
+- "[[Energy management]]"
 ---
-# Energy sector

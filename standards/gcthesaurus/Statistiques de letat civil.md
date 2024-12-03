@@ -1,10 +1,8 @@
 ---
 title: Statistiques de letat civil
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Statistiques de l'état civil
+longTitle: 'Statistiques de l'état civil'
+tags:
+- gccommon
 french:
-- "[[21124 Vital statistics]]"
+- "[[Vital statistics]]"
 ---
-# Statistiques de letat civil

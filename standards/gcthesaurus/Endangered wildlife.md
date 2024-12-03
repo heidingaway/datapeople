@@ -1,10 +1,8 @@
 ---
 title: Endangered wildlife
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Endangered wildlife
+longTitle: 'Endangered wildlife'
+tags:
+- gccommon
 usedFor:
-- "[[6607 Endangered species]]"
+- "[[Endangered species]]"
 ---
-# Endangered wildlife

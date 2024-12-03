@@ -1,10 +1,8 @@
 ---
 title: Politique alimentaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Politique alimentaire
+longTitle: 'Politique alimentaire'
+tags:
+- gccommon
 french:
-- "[[8134 Food policy]]"
+- "[[Food policy]]"
 ---
-# Politique alimentaire

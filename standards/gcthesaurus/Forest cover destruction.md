@@ -1,10 +1,8 @@
 ---
 title: Forest cover destruction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forest cover destruction
+longTitle: 'Forest cover destruction'
+tags:
+- gccommon
 usedFor:
-- "[[5049 Deforestation]]"
+- "[[Deforestation]]"
 ---
-# Forest cover destruction

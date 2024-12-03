@@ -1,10 +1,8 @@
 ---
 title: Spatial information systems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Spatial information systems
+longTitle: 'Spatial information systems'
+tags:
+- gccommon
 usedFor:
-- "[[8922 Geographic information systems]]"
+- "[[Geographic information systems]]"
 ---
-# Spatial information systems

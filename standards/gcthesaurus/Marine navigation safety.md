@@ -1,10 +1,8 @@
 ---
 title: Marine navigation safety
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marine navigation safety
+longTitle: 'Marine navigation safety'
+tags:
+- gccommon
 usedFor:
-- "[[12982 Marine safety]]"
+- "[[Marine safety]]"
 ---
-# Marine navigation safety

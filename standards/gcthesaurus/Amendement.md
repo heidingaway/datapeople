@@ -1,10 +1,8 @@
 ---
 title: Amendement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Amendement
+longTitle: 'Amendement'
+tags:
+- gccommon
 french:
-- "[[930 Amendments]]"
+- "[[Amendments]]"
 ---
-# Amendement

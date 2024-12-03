@@ -1,10 +1,8 @@
 ---
 title: Maritime traffic
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maritime traffic
+longTitle: 'Maritime traffic'
+tags:
+- gccommon
 usedFor:
-- "[[21486 Water transport]]"
+- "[[Water transport]]"
 ---
-# Maritime traffic

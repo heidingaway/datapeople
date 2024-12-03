@@ -1,10 +1,8 @@
 ---
 title: Piece de monnaie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pièce de monnaie
+longTitle: 'Pièce de monnaie'
+tags:
+- gccommon
 french:
-- "[[3477 Coins]]"
+- "[[Coins]]"
 ---
-# Piece de monnaie

@@ -1,19 +1,12 @@
 ---
 title: Schools
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Schools
+longTitle: 'Schools'
+tags:
+- gccommon
 broaderTerm:
-- "[[18419 Secondary schools]]"
-- "[[6402 Elementary schools]]"
-- "[[17696 Residential schools]]"
-- "[[16413 Private schools]]"
-- "[[16879 Public schools]]"
+- "[[Secondary schools Elementary schools Residential s]]"
 narrowerTerm:
-- "[[6095 Educational institutions]]"
+- "[[Educational institutions]]"
 relatedTerm:
-- "[[6059 Education]]"
-- "[[18206 School boards]]"
+- "[[Education School boards]]"
 ---
-# Schools

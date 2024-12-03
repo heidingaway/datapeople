@@ -1,10 +1,8 @@
 ---
 title: Disability benefits
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Disability benefits
+longTitle: 'Disability benefits'
+tags:
+- gccommon
 usedFor:
-- "[[5312 Disability pensions]]"
+- "[[Disability pensions]]"
 ---
-# Disability benefits

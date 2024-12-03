@@ -1,10 +1,8 @@
 ---
 title: Fournisseur
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fournisseur
+longTitle: 'Fournisseur'
+tags:
+- gccommon
 french:
-- "[[19550 Suppliers]]"
+- "[[Suppliers]]"
 ---
-# Fournisseur

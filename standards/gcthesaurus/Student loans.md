@@ -1,14 +1,10 @@
 ---
 title: Student loans
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Student loans
+longTitle: 'Student loans'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12582 Loans]]"
+- "[[Loans]]"
 relatedTerm:
-- "[[6060 Education]]"
-- "[[7722 Financial assistance]]"
-- "[[18196 Scholarships]]"
+- "[[Education Financial assistance Scholarships]]"
 ---
-# Student loans

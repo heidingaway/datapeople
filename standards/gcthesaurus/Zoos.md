@@ -1,10 +1,8 @@
 ---
 title: Zoos
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Zoos
+longTitle: 'Zoos'
+tags:
+- gccommon
 usedFor:
-- "[[22124 Zoological gardens]]"
+- "[[Zoological gardens]]"
 ---
-# Zoos

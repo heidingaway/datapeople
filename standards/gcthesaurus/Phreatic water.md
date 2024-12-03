@@ -1,10 +1,8 @@
 ---
 title: Phreatic water
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Phreatic water
+longTitle: 'Phreatic water'
+tags:
+- gccommon
 usedFor:
-- "[[9395 Groundwater]]"
+- "[[Groundwater]]"
 ---
-# Phreatic water

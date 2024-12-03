@@ -1,15 +1,10 @@
 ---
 title: Humidity
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Humidity
+longTitle: 'Humidity'
+tags:
+- gccommon
 relatedTerm:
-- "[[21599 Weather]]"
+- "[[Weather]]"
 use:
-- "[[1665 Atmospheric humidity]]"
-- "[[17487 Relative humidity]]"
-- "[[631 Air humidity]]"
-- "[[1667 Atmospheric moisture]]"
+- "[[Atmospheric humidity Relative humidity Air humidit]]"
 ---
-# Humidity

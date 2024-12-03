@@ -1,12 +1,10 @@
 ---
 title: Time zones
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Time zones
+longTitle: 'Time zones'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20192 Time]]"
+- "[[Time]]"
 relatedTerm:
-- "[[4925 Daylight saving time]]"
+- "[[Daylight saving time]]"
 ---
-# Time zones

@@ -1,10 +1,8 @@
 ---
 title: Politique industrielle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Politique industrielle
+longTitle: 'Politique industrielle'
+tags:
+- gccommon
 french:
-- "[[10793 Industrial policy]]"
+- "[[Industrial policy]]"
 ---
-# Politique industrielle

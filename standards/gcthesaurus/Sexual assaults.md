@@ -1,10 +1,8 @@
 ---
 title: Sexual assaults
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sexual assaults
+longTitle: 'Sexual assaults'
+tags:
+- gccommon
 usedFor:
-- "[[18628 Sexual offences]]"
+- "[[Sexual offences]]"
 ---
-# Sexual assaults

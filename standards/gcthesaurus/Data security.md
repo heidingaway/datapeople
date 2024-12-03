@@ -1,10 +1,8 @@
 ---
 title: Data security
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Data security
+longTitle: 'Data security'
+tags:
+- gccommon
 usedFor:
-- "[[3850 Computer security]]"
+- "[[Computer security]]"
 ---
-# Data security

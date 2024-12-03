@@ -1,10 +1,8 @@
 ---
 title: Industrie du transport ferroviaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie du transport ferroviaire
+longTitle: 'Industrie du transport ferroviaire'
+tags:
+- gccommon
 french:
-- "[[17145 Rail transport industry]]"
+- "[[Rail transport industry]]"
 ---
-# Industrie du transport ferroviaire

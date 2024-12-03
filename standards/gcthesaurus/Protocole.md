@@ -1,10 +1,8 @@
 ---
 title: Protocole
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Protocole
+longTitle: 'Protocole'
+tags:
+- gccommon
 french:
-- "[[16675 Protocol]]"
+- "[[Protocol]]"
 ---
-# Protocole

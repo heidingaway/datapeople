@@ -1,16 +1,12 @@
 ---
 title: Botanical gardens
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Botanical gardens
+longTitle: 'Botanical gardens'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8719 Gardens]]"
+- "[[Gardens]]"
 relatedTerm:
-- "[[2375 Botany]]"
-- "[[17343 Recreational facilities]]"
+- "[[Botany Recreational facilities]]"
 use:
-- "[[1331 Arboretums]]"
-- "[[2364 Botanic gardens]]"
+- "[[Arboretums Botanic gardens]]"
 ---
-# Botanical gardens

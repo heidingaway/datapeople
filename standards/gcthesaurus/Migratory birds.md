@@ -1,10 +1,8 @@
 ---
 title: Migratory birds
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Migratory birds
+longTitle: 'Migratory birds'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2245 Birds]]"
+- "[[Birds]]"
 ---
-# Migratory birds

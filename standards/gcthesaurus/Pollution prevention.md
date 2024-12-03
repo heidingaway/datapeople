@@ -1,16 +1,10 @@
 ---
 title: Pollution prevention
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pollution prevention
+longTitle: 'Pollution prevention'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16276 Prevention]]"
+- "[[Prevention]]"
 relatedTerm:
-- "[[16033 Pollution]]"
-- "[[896 Alternative energy]]"
-- "[[6977 Environmental protection]]"
-- "[[16044 Pollution control]]"
-- "[[3313 Clean technology]]"
+- "[[Pollution Alternative energy Environmental protect]]"
 ---
-# Pollution prevention

@@ -1,10 +1,8 @@
 ---
 title: Job opportunities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Job opportunities
+longTitle: 'Job opportunities'
+tags:
+- gccommon
 usedFor:
-- "[[6567 Employment opportunities]]"
+- "[[Employment opportunities]]"
 ---
-# Job opportunities

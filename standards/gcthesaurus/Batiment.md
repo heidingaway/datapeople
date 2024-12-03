@@ -1,10 +1,8 @@
 ---
 title: Batiment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bâtiment
+longTitle: 'Bâtiment'
+tags:
+- gccommon
 french:
-- "[[2465 Buildings]]"
+- "[[Buildings]]"
 ---
-# Batiment

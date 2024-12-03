@@ -1,10 +1,8 @@
 ---
 title: Statistiques demographiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Statistiques démographiques
+longTitle: 'Statistiques démographiques'
+tags:
+- gccommon
 french:
-- "[[5103 Demographic statistics]]"
+- "[[Demographic statistics]]"
 ---
-# Statistiques demographiques

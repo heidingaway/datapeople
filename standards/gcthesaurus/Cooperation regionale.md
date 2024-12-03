@@ -1,10 +1,8 @@
 ---
 title: Cooperation regionale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Coopération régionale
+longTitle: 'Coopération régionale'
+tags:
+- gccommon
 french:
-- "[[17432 Regional cooperation]]"
+- "[[Regional cooperation]]"
 ---
-# Cooperation regionale

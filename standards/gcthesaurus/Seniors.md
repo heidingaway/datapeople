@@ -1,25 +1,12 @@
 ---
 title: Seniors
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Seniors
+longTitle: 'Seniors'
+tags:
+- gccommon
 narrowerTerm:
-- "[[287 Adults]]"
+- "[[Adults]]"
 relatedTerm:
-- "[[390 Aging]]"
-- "[[15012 Old age]]"
-- "[[9048 Geriatrics]]"
-- "[[6139 Elder abuse]]"
-- "[[9055 Gerontology]]"
-- "[[6149 Elderly care]]"
-- "[[19369 Status of the elderly]]"
-- "[[17791 Retirement]]"
+- "[[Aging Old age Geriatrics Elder abuse Gerontology E]]"
 use:
-- "[[6154 Elders]]"
-- "[[15020 Older adults]]"
-- "[[372 Aged]]"
-- "[[18534 Senior citizens]]"
-- "[[6151 Elderly persons]]"
+- "[[Elders Older adults Aged Senior citizens Elderly p]]"
 ---
-# Seniors

@@ -1,10 +1,8 @@
 ---
 title: Government Online
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Government Online
+longTitle: 'Government Online'
+tags:
+- gccommon
 usedFor:
-- "[[6328 Electronic government]]"
+- "[[Electronic government]]"
 ---
-# Government Online

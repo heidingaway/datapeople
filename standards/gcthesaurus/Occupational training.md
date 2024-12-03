@@ -1,10 +1,8 @@
 ---
 title: Occupational training
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Occupational training
+longTitle: 'Occupational training'
+tags:
+- gccommon
 usedFor:
-- "[[21179 Vocational training]]"
+- "[[Vocational training]]"
 ---
-# Occupational training

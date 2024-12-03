@@ -1,10 +1,8 @@
 ---
 title: Snow avalanches
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Snow avalanches
+longTitle: 'Snow avalanches'
+tags:
+- gccommon
 usedFor:
-- "[[1776 Avalanches]]"
+- "[[Avalanches]]"
 ---
-# Snow avalanches

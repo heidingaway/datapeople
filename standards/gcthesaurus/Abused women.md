@@ -1,10 +1,8 @@
 ---
 title: Abused women
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Abused women
+longTitle: 'Abused women'
+tags:
+- gccommon
 usedFor:
-- "[[21049 Violence against women]]"
+- "[[Violence against women]]"
 ---
-# Abused women

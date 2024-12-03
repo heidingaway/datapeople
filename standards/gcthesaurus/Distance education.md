@@ -1,17 +1,12 @@
 ---
 title: Distance education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Distance education
+longTitle: 'Distance education'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6028 Education]]"
+- "[[Education]]"
 relatedTerm:
-- "[[6117 Educational technology]]"
+- "[[Educational technology]]"
 use:
-- "[[5434 Distance training]]"
-- "[[21627 Web-based learning]]"
-- "[[5745 E-learning]]"
-- "[[15153 Outreach education]]"
+- "[[Distance training Web-based learning E-learning Ou]]"
 ---
-# Distance education

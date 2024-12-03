@@ -1,15 +1,12 @@
 ---
 title: Infant care
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Infant care
+longTitle: 'Infant care'
+tags:
+- gccommon
 narrowerTerm:
-- "[[3104 Child care]]"
+- "[[Child care]]"
 relatedTerm:
-- "[[10904 Infants]]"
-- "[[15484 Perinatal care]]"
+- "[[Infants Perinatal care]]"
 use:
-- "[[14430 Newborn care]]"
+- "[[Newborn care]]"
 ---
-# Infant care

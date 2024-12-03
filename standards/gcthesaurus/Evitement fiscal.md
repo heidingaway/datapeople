@@ -1,10 +1,8 @@
 ---
 title: Evitement fiscal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Évitement fiscal
+longTitle: 'Évitement fiscal'
+tags:
+- gccommon
 french:
-- "[[19712 Tax avoidance]]"
+- "[[Tax avoidance]]"
 ---
-# Evitement fiscal

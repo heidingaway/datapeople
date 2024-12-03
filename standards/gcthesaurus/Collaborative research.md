@@ -1,17 +1,12 @@
 ---
 title: Collaborative research
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Collaborative research
+longTitle: 'Collaborative research'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17648 Research]]"
+- "[[Research]]"
 relatedTerm:
-- "[[15354 Partnerships]]"
-- "[[4186 Cooperation]]"
+- "[[Partnerships Cooperation]]"
 use:
-- "[[15345 Partnership research]]"
-- "[[4200 Cooperative research]]"
-- "[[11689 Joint research]]"
+- "[[Partnership research Cooperative research Joint re]]"
 ---
-# Collaborative research

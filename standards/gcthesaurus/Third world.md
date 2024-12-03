@@ -1,10 +1,8 @@
 ---
 title: Third world
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Third world
+longTitle: 'Third world'
+tags:
+- gccommon
 usedFor:
-- "[[5177 Developing countries]]"
+- "[[Developing countries]]"
 ---
-# Third world

@@ -1,10 +1,8 @@
 ---
 title: Construction navale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Construction navale
+longTitle: 'Construction navale'
+tags:
+- gccommon
 french:
-- "[[18674 Shipbuilding]]"
+- "[[Shipbuilding]]"
 ---
-# Construction navale

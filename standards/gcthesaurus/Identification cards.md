@@ -1,10 +1,8 @@
 ---
 title: Identification cards
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Identification cards
+longTitle: 'Identification cards'
+tags:
+- gccommon
 usedFor:
-- "[[10455 Identification]]"
+- "[[Identification]]"
 ---
-# Identification cards

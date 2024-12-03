@@ -1,12 +1,10 @@
 ---
 title: Service contracts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Service contracts
+longTitle: 'Service contracts'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4135 Contracts]]"
+- "[[Contracts]]"
 relatedTerm:
-- "[[18565 Service agreements]]"
+- "[[Service agreements]]"
 ---
-# Service contracts

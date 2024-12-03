@@ -1,10 +1,8 @@
 ---
 title: Dualite linguistique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dualité linguistique
+longTitle: 'Dualité linguistique'
+tags:
+- gccommon
 french:
-- "[[12466 Linguistic duality]]"
+- "[[Linguistic duality]]"
 ---
-# Dualite linguistique

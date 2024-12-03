@@ -1,10 +1,8 @@
 ---
 title: Organigramme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Organigramme
+longTitle: 'Organigramme'
+tags:
+- gccommon
 french:
-- "[[8049 Flowcharts]]"
+- "[[Flowcharts]]"
 ---
-# Organigramme

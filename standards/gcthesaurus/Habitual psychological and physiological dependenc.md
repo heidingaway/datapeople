@@ -1,10 +1,8 @@
 ---
 title: Habitual psychological and physiological dependenc
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Habitual psychological and physiological dependence on a substance or practice that is beyond voluntary control.
+longTitle: 'Habitual psychological and physiological dependence on a substance or practice that is beyond voluntary control.'
+tags:
+- gccommon
 scopeNote:
-- "[[211 Addiction]]"
+- "[[Addiction]]"
 ---
-# Habitual psychological and physiological dependenc

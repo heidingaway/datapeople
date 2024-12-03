@@ -1,10 +1,8 @@
 ---
 title: Blended sales tax
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Blended sales tax
+longTitle: 'Blended sales tax'
+tags:
+- gccommon
 usedFor:
-- "[[9497 Harmonized sales tax]]"
+- "[[Harmonized sales tax]]"
 ---
-# Blended sales tax

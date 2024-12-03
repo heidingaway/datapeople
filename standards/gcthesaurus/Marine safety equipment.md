@@ -1,16 +1,12 @@
 ---
 title: Marine safety equipment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marine safety equipment
+longTitle: 'Marine safety equipment'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18023 Safety equipment]]"
+- "[[Safety equipment]]"
 relatedTerm:
-- "[[12988 Marine safety]]"
+- "[[Marine safety]]"
 use:
-- "[[8047 Flotation devices]]"
-- "[[15536 Personal flotation devices]]"
-- "[[12421 Life jackets]]"
+- "[[Flotation devices Personal flotation devices Life ]]"
 ---
-# Marine safety equipment

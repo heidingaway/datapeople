@@ -1,10 +1,8 @@
 ---
 title: Bacteriological weapons
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bacteriological weapons
+longTitle: 'Bacteriological weapons'
+tags:
+- gccommon
 usedFor:
-- "[[2188 Biological weapons]]"
+- "[[Biological weapons]]"
 ---
-# Bacteriological weapons

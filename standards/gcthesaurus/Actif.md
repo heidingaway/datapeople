@@ -1,10 +1,8 @@
 ---
 title: Actif
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Actif
+longTitle: 'Actif'
+tags:
+- gccommon
 french:
-- "[[1548 Assets]]"
+- "[[Assets]]"
 ---
-# Actif

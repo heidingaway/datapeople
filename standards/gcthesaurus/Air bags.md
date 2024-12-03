@@ -1,10 +1,8 @@
 ---
 title: Air bags
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Air bags
+longTitle: 'Air bags'
+tags:
+- gccommon
 usedFor:
-- "[[1755 Automobile safety equipment]]"
+- "[[Automobile safety equipment]]"
 ---
-# Air bags

@@ -1,10 +1,8 @@
 ---
 title: Joint research
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Joint research
+longTitle: 'Joint research'
+tags:
+- gccommon
 usedFor:
-- "[[3489 Collaborative research]]"
+- "[[Collaborative research]]"
 ---
-# Joint research

@@ -1,10 +1,8 @@
 ---
 title: Police militaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Police militaire
+longTitle: 'Police militaire'
+tags:
+- gccommon
 french:
-- "[[13664 Military police]]"
+- "[[Military police]]"
 ---
-# Police militaire

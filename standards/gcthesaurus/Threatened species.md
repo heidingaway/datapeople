@@ -1,10 +1,8 @@
 ---
 title: Threatened species
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Threatened species
+longTitle: 'Threatened species'
+tags:
+- gccommon
 usedFor:
-- "[[6612 Endangered species]]"
+- "[[Endangered species]]"
 ---
-# Threatened species

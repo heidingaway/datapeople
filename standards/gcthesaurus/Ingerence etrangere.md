@@ -1,10 +1,8 @@
 ---
 title: Ingerence etrangere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ingérence étrangère
+longTitle: 'Ingérence étrangère'
+tags:
+- gccommon
 french:
-- "[[8230 Foreign interference]]"
+- "[[Foreign interference]]"
 ---
-# Ingerence etrangere

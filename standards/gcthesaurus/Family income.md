@@ -1,10 +1,8 @@
 ---
 title: Family income
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Family income
+longTitle: 'Family income'
+tags:
+- gccommon
 usedFor:
-- "[[10121 Household income]]"
+- "[[Household income]]"
 ---
-# Family income

@@ -1,10 +1,8 @@
 ---
 title: Aide au logement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aide au logement
+longTitle: 'Aide au logement'
+tags:
+- gccommon
 french:
-- "[[10146 Housing assistance]]"
+- "[[Housing assistance]]"
 ---
-# Aide au logement

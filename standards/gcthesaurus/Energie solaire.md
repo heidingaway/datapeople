@@ -1,10 +1,8 @@
 ---
 title: Energie solaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Énergie solaire
+longTitle: 'Énergie solaire'
+tags:
+- gccommon
 french:
-- "[[19113 Solar energy]]"
+- "[[Solar energy]]"
 ---
-# Energie solaire

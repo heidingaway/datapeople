@@ -1,13 +1,10 @@
 ---
 title: Chemical warfare
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Chemical warfare
+longTitle: 'Chemical warfare'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21244 War]]"
+- "[[War]]"
 relatedTerm:
-- "[[3046 Chemical weapons]]"
-- "[[2183 Biological warfare]]"
+- "[[Chemical weapons Biological warfare]]"
 ---
-# Chemical warfare

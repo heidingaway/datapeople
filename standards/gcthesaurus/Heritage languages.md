@@ -1,17 +1,12 @@
 ---
 title: Heritage languages
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Heritage languages
+longTitle: 'Heritage languages'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12127 Languages]]"
+- "[[Languages]]"
 relatedTerm:
-- "[[13941 Mother tongue]]"
-- "[[8244 Foreign languages]]"
-- "[[9884 Heritage]]"
-- "[[7165 Ethnic groups]]"
+- "[[Mother tongue Foreign languages Heritage Ethnic gr]]"
 use:
-- "[[966 Ancestral languages]]"
+- "[[Ancestral languages]]"
 ---
-# Heritage languages

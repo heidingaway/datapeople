@@ -1,10 +1,8 @@
 ---
 title: Stratospheric ozone
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Stratospheric ozone
+longTitle: 'Stratospheric ozone'
+tags:
+- gccommon
 usedFor:
-- "[[15179 Ozone]]"
+- "[[Ozone]]"
 ---
-# Stratospheric ozone

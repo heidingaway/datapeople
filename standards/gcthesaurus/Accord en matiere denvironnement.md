@@ -1,10 +1,8 @@
 ---
 title: Accord en matiere denvironnement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Accord en matière d'environnement
+longTitle: 'Accord en matière d'environnement'
+tags:
+- gccommon
 french:
-- "[[6819 Environmental agreements]]"
+- "[[Environmental agreements]]"
 ---
-# Accord en matiere denvironnement

@@ -1,14 +1,12 @@
 ---
 title: Toxic spills
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Toxic spills
+longTitle: 'Toxic spills'
+tags:
+- gccommon
 broaderTerm:
-- "[[15003 Oil spills]]"
+- "[[Oil spills]]"
 narrowerTerm:
-- "[[6809 Environmental accidents]]"
+- "[[Environmental accidents]]"
 relatedTerm:
-- "[[20335 Toxic substances]]"
+- "[[Toxic substances]]"
 ---
-# Toxic spills

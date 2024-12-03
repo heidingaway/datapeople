@@ -1,10 +1,8 @@
 ---
 title: Valeurs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Valeurs
+longTitle: 'Valeurs'
+tags:
+- gccommon
 french:
-- "[[20883 Values]]"
+- "[[Values]]"
 ---
-# Valeurs

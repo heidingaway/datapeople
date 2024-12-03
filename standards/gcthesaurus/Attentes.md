@@ -1,10 +1,8 @@
 ---
 title: Attentes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Attentes
+longTitle: 'Attentes'
+tags:
+- gccommon
 french:
-- "[[7246 Expectations]]"
+- "[[Expectations]]"
 ---
-# Attentes

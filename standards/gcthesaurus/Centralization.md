@@ -1,10 +1,8 @@
 ---
 title: Centralization
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Centralization
+longTitle: 'Centralization'
+tags:
+- gccommon
 relatedTerm:
-- "[[4988 Decentralization]]"
+- "[[Decentralization]]"
 ---
-# Centralization

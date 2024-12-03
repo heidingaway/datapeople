@@ -1,10 +1,8 @@
 ---
 title: Comite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Comité
+longTitle: 'Comité'
+tags:
+- gccommon
 french:
-- "[[3617 Committees]]"
+- "[[Committees]]"
 ---
-# Comite

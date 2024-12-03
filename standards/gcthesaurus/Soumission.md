@@ -1,10 +1,8 @@
 ---
 title: Soumission
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Soumission
+longTitle: 'Soumission'
+tags:
+- gccommon
 french:
-- "[[20021 Tenders]]"
+- "[[Tenders]]"
 ---
-# Soumission

@@ -1,10 +1,8 @@
 ---
 title: Repayable contributions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Repayable contributions
+longTitle: 'Repayable contributions'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20540 Transfer payments]]"
+- "[[Transfer payments]]"
 ---
-# Repayable contributions

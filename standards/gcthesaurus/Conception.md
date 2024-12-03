@@ -1,10 +1,8 @@
 ---
 title: Conception
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Conception
+longTitle: 'Conception'
+tags:
+- gccommon
 french:
-- "[[5158 Design]]"
+- "[[Design]]"
 ---
-# Conception

@@ -1,10 +1,8 @@
 ---
 title: Financial planning
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Financial planning
+longTitle: 'Financial planning'
+tags:
+- gccommon
 usedFor:
-- "[[7743 Financial management]]"
+- "[[Financial management]]"
 ---
-# Financial planning

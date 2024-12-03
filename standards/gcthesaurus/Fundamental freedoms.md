@@ -1,10 +1,8 @@
 ---
 title: Fundamental freedoms
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fundamental freedoms
+longTitle: 'Fundamental freedoms'
+tags:
+- gccommon
 usedFor:
-- "[[10209 Human rights]]"
+- "[[Human rights]]"
 ---
-# Fundamental freedoms

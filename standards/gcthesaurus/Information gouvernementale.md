@@ -1,10 +1,8 @@
 ---
 title: Information gouvernementale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Information gouvernementale
+longTitle: 'Information gouvernementale'
+tags:
+- gccommon
 french:
-- "[[9173 Government information]]"
+- "[[Government information]]"
 ---
-# Information gouvernementale

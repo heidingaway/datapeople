@@ -1,10 +1,8 @@
 ---
 title: Defense industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Defense industry
+longTitle: 'Defense industry'
+tags:
+- gccommon
 usedFor:
-- "[[5021 Defence industry]]"
+- "[[Defence industry]]"
 ---
-# Defense industry

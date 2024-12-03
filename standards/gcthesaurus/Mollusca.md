@@ -1,10 +1,8 @@
 ---
 title: Mollusca
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mollusca
+longTitle: 'Mollusca'
+tags:
+- gccommon
 usedFor:
-- "[[13852 Molluscs]]"
+- "[[Molluscs]]"
 ---
-# Mollusca

@@ -1,14 +1,10 @@
 ---
 title: Members of the Senate
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Members of the Senate
+longTitle: 'Members of the Senate'
+tags:
+- gccommon
 relatedTerm:
-- "[[17588 Representatives]]"
-- "[[18526 Senate]]"
+- "[[Representatives Senate]]"
 use:
-- "[[18531 Senators]]"
-- "[[18528 Senate members]]"
+- "[[Senators Senate members]]"
 ---
-# Members of the Senate

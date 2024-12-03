@@ -1,10 +1,8 @@
 ---
 title: Decision support systems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Decision support systems
+longTitle: 'Decision support systems'
+tags:
+- gccommon
 usedFor:
-- "[[12786 Management information systems]]"
+- "[[Management information systems]]"
 ---
-# Decision support systems

@@ -1,10 +1,8 @@
 ---
 title: Metal precieux
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Métal précieux
+longTitle: 'Métal précieux'
+tags:
+- gccommon
 french:
-- "[[16202 Precious metals]]"
+- "[[Precious metals]]"
 ---
-# Metal precieux

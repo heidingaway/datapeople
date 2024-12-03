@@ -1,10 +1,8 @@
 ---
 title: Foreign assistance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Foreign assistance
+longTitle: 'Foreign assistance'
+tags:
+- gccommon
 usedFor:
-- "[[8223 Foreign aid]]"
+- "[[Foreign aid]]"
 ---
-# Foreign assistance

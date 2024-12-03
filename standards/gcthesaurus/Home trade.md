@@ -1,10 +1,8 @@
 ---
 title: Home trade
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Home trade
+longTitle: 'Home trade'
+tags:
+- gccommon
 usedFor:
-- "[[5518 Domestic trade]]"
+- "[[Domestic trade]]"
 ---
-# Home trade

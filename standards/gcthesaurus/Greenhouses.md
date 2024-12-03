@@ -1,12 +1,10 @@
 ---
 title: Greenhouses
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Greenhouses
+longTitle: 'Greenhouses'
+tags:
+- gccommon
 narrowerTerm:
-- "[[7432 Farm buildings]]"
+- "[[Farm buildings]]"
 relatedTerm:
-- "[[10079 Horticulture]]"
+- "[[Horticulture]]"
 ---
-# Greenhouses

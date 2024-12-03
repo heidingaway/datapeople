@@ -1,10 +1,8 @@
 ---
 title: Correspondance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Correspondance
+longTitle: 'Correspondance'
+tags:
+- gccommon
 french:
-- "[[4314 Correspondence]]"
+- "[[Correspondence]]"
 ---
-# Correspondance

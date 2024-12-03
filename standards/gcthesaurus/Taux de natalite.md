@@ -1,10 +1,8 @@
 ---
 title: Taux de natalite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Taux de natalité
+longTitle: 'Taux de natalité'
+tags:
+- gccommon
 french:
-- "[[2266 Birth rate]]"
+- "[[Birth rate]]"
 ---
-# Taux de natalite

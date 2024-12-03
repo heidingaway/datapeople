@@ -1,10 +1,8 @@
 ---
 title: Respiratory disorders
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Respiratory disorders
+longTitle: 'Respiratory disorders'
+tags:
+- gccommon
 usedFor:
-- "[[17747 Respiratory diseases]]"
+- "[[Respiratory diseases]]"
 ---
-# Respiratory disorders

@@ -1,10 +1,8 @@
 ---
 title: Frais
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Frais
+longTitle: 'Frais'
+tags:
+- gccommon
 french:
-- "[[7628 Fees]]"
+- "[[Fees]]"
 ---
-# Frais

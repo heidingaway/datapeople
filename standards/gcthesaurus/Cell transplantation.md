@@ -1,10 +1,8 @@
 ---
 title: Cell transplantation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cell transplantation
+longTitle: 'Cell transplantation'
+tags:
+- gccommon
 usedFor:
-- "[[20585 Transplantation (Medicine)]]"
+- "[[Transplantation Medicine]]"
 ---
-# Cell transplantation

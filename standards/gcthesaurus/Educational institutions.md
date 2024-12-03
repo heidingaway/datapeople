@@ -1,16 +1,10 @@
 ---
 title: Educational institutions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Educational institutions
+longTitle: 'Educational institutions'
+tags:
+- gccommon
 broaderTerm:
-- "[[20790 Universities]]"
-- "[[3532 Colleges]]"
-- "[[18215 Schools]]"
+- "[[Universities Colleges Schools]]"
 relatedTerm:
-- "[[6052 Education]]"
-- "[[19473 Students]]"
-- "[[19804 Teachers]]"
+- "[[Education Students Teachers]]"
 ---
-# Educational institutions

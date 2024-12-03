@@ -1,10 +1,8 @@
 ---
 title: Repertoire telephonique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Répertoire téléphonique
+longTitle: 'Répertoire téléphonique'
+tags:
+- gccommon
 french:
-- "[[19966 Telephone directories]]"
+- "[[Telephone directories]]"
 ---
-# Repertoire telephonique

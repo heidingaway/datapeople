@@ -1,10 +1,8 @@
 ---
 title: Repertories
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Repertories
+longTitle: 'Repertories'
+tags:
+- gccommon
 usedFor:
-- "[[5294 Directories]]"
+- "[[Directories]]"
 ---
-# Repertories

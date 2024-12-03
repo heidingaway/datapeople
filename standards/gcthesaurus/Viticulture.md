@@ -1,20 +1,14 @@
 ---
 title: Viticulture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Viticulture
+longTitle: 'Viticulture'
+tags:
+- gccommon
 french:
-- "[[21133 Viticulture]]"
+- "[[Viticulture]]"
 narrowerTerm:
-- "[[558 Agriculture]]"
+- "[[Agriculture]]"
 relatedTerm:
-- "[[21794 Wine]]"
-- "[[21800 Wine industry]]"
-- "[[9309 Grapes]]"
+- "[[Wine Wine industry Grapes]]"
 use:
-- "[[9305 Grape growing]]"
-- "[[9303 Grape culture]]"
-- "[[21012 Viniculture]]"
+- "[[Grape growing Grape culture Viniculture]]"
 ---
-# Viticulture

@@ -1,10 +1,8 @@
 ---
 title: Technologie environnementale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Technologie environnementale
+longTitle: 'Technologie environnementale'
+tags:
+- gccommon
 french:
-- "[[7012 Environmental technology]]"
+- "[[Environmental technology]]"
 ---
-# Technologie environnementale

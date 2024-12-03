@@ -1,10 +1,8 @@
 ---
 title: Tobacco consumption
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tobacco consumption
+longTitle: 'Tobacco consumption'
+tags:
+- gccommon
 usedFor:
-- "[[18825 Smoking]]"
+- "[[Smoking]]"
 ---
-# Tobacco consumption

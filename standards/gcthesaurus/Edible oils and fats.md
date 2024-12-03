@@ -1,17 +1,12 @@
 ---
 title: Edible oils and fats
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Edible oils and fats
+longTitle: 'Edible oils and fats'
+tags:
+- gccommon
 broaderTerm:
-- "[[2727 Canola oil]]"
+- "[[Canola oil]]"
 narrowerTerm:
-- "[[441 Agri-food products]]"
+- "[[Agri-food products]]"
 use:
-- "[[20897 Vegetable oils]]"
-- "[[1051 Animal oils and fats]]"
-- "[[15006 Oils and fats]]"
-- "[[15008 Oilseeds]]"
+- "[[Vegetable oils Animal oils and fats Oils and fats ]]"
 ---
-# Edible oils and fats

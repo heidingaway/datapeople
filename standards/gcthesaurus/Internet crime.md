@@ -1,10 +1,8 @@
 ---
 title: Internet crime
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Internet crime
+longTitle: 'Internet crime'
+tags:
+- gccommon
 usedFor:
-- "[[3804 Computer crime]]"
+- "[[Computer crime]]"
 ---
-# Internet crime

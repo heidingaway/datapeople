@@ -1,10 +1,8 @@
 ---
 title: Computerization
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Computerization
+longTitle: 'Computerization'
+tags:
+- gccommon
 usedFor:
-- "[[1732 Automation]]"
+- "[[Automation]]"
 ---
-# Computerization

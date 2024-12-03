@@ -1,12 +1,10 @@
 ---
 title: Maple products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maple products
+longTitle: 'Maple products'
+tags:
+- gccommon
 narrowerTerm:
-- "[[447 Agri-food products]]"
+- "[[Agri-food products]]"
 use:
-- "[[12880 Maple syrup]]"
+- "[[Maple syrup]]"
 ---
-# Maple products

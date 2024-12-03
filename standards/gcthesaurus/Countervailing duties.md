@@ -1,10 +1,8 @@
 ---
 title: Countervailing duties
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Countervailing duties
+longTitle: 'Countervailing duties'
+tags:
+- gccommon
 usedFor:
-- "[[1158 Anti-dumping]]"
+- "[[Anti-dumping]]"
 ---
-# Countervailing duties

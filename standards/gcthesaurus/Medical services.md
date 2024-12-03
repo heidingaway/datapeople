@@ -1,10 +1,8 @@
 ---
 title: Medical services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Medical services
+longTitle: 'Medical services'
+tags:
+- gccommon
 usedFor:
-- "[[9663 Health care system]]"
+- "[[Health care system]]"
 ---
-# Medical services

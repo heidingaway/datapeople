@@ -1,10 +1,8 @@
 ---
 title: Barriere tarifaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Barrière tarifaire
+longTitle: 'Barrière tarifaire'
+tags:
+- gccommon
 french:
-- "[[19693 Tariff barriers]]"
+- "[[Tariff barriers]]"
 ---
-# Barriere tarifaire

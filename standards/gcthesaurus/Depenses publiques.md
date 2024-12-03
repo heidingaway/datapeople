@@ -1,10 +1,8 @@
 ---
 title: Depenses publiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dépenses publiques
+longTitle: 'Dépenses publiques'
+tags:
+- gccommon
 french:
-- "[[16803 Public expenditures]]"
+- "[[Public expenditures]]"
 ---
-# Depenses publiques

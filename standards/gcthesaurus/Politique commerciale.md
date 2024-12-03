@@ -1,10 +1,8 @@
 ---
 title: Politique commerciale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Politique commerciale
+longTitle: 'Politique commerciale'
+tags:
+- gccommon
 french:
-- "[[20416 Trade policy]]"
+- "[[Trade policy]]"
 ---
-# Politique commerciale

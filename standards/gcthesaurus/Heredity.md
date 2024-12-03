@@ -1,12 +1,10 @@
 ---
 title: Heredity
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Heredity
+longTitle: 'Heredity'
+tags:
+- gccommon
 relatedTerm:
-- "[[8871 Genetics]]"
+- "[[Genetics]]"
 use:
-- "[[8834 Genetic heritage]]"
+- "[[Genetic heritage]]"
 ---
-# Heredity

@@ -1,15 +1,12 @@
 ---
 title: Heritage buildings
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Heritage buildings
+longTitle: 'Heritage buildings'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2468 Buildings]]"
+- "[[Buildings]]"
 relatedTerm:
-- "[[9882 Heritage]]"
-- "[[1360 Architectural heritage]]"
+- "[[Heritage Architectural heritage]]"
 use:
-- "[[9940 Historic buildings]]"
+- "[[Historic buildings]]"
 ---
-# Heritage buildings

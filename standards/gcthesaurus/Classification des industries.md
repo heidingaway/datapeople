@@ -1,10 +1,8 @@
 ---
 title: Classification des industries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Classification des industries
+longTitle: 'Classification des industries'
+tags:
+- gccommon
 french:
-- "[[10878 Industry classification]]"
+- "[[Industry classification]]"
 ---
-# Classification des industries

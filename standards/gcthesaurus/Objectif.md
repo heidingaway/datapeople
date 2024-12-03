@@ -1,10 +1,8 @@
 ---
 title: Objectif
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Objectif
+longTitle: 'Objectif'
+tags:
+- gccommon
 french:
-- "[[14728 Objectives]]"
+- "[[Objectives]]"
 ---
-# Objectif

@@ -1,13 +1,10 @@
 ---
 title: Treasury board
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Treasury board
+longTitle: 'Treasury board'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9263 Governments]]"
+- "[[Governments]]"
 relatedTerm:
-- "[[2308 Board of directors]]"
-- "[[20681 Treasury Board Secretariat]]"
+- "[[Board of directors Treasury Board Secretariat]]"
 ---
-# Treasury board

@@ -1,16 +1,12 @@
 ---
 title: Humanitarian aid
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Humanitarian aid
+longTitle: 'Humanitarian aid'
+tags:
+- gccommon
 broaderTerm:
-- "[[5337 Disaster relief]]"
+- "[[Disaster relief]]"
 relatedTerm:
-- "[[11363 International cooperation]]"
-- "[[10266 Humanitarian crisis]]"
+- "[[International cooperation Humanitarian crisis]]"
 use:
-- "[[10274 Humanitarian relief]]"
-- "[[10260 Humanitarian assistance]]"
+- "[[Humanitarian relief Humanitarian assistance]]"
 ---
-# Humanitarian aid

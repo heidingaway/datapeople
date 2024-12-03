@@ -1,13 +1,10 @@
 ---
 title: Freight
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Freight
+longTitle: 'Freight'
+tags:
+- gccommon
 relatedTerm:
-- "[[18681 Shipping]]"
-- "[[20611 Transport]]"
+- "[[Shipping Transport]]"
 use:
-- "[[2802 Cargo]]"
+- "[[Cargo]]"
 ---
-# Freight

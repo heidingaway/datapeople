@@ -1,10 +1,8 @@
 ---
 title: Basic rights
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Basic rights
+longTitle: 'Basic rights'
+tags:
+- gccommon
 usedFor:
-- "[[10208 Human rights]]"
+- "[[Human rights]]"
 ---
-# Basic rights

@@ -1,10 +1,8 @@
 ---
 title: Beauty products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Beauty products
+longTitle: 'Beauty products'
+tags:
+- gccommon
 usedFor:
-- "[[15517 Personal care products]]"
+- "[[Personal care products]]"
 ---
-# Beauty products

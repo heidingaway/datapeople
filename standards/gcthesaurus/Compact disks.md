@@ -1,10 +1,8 @@
 ---
 title: Compact disks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Compact disks
+longTitle: 'Compact disks'
+tags:
+- gccommon
 usedFor:
-- "[[3743 Compact discs]]"
+- "[[Compact discs]]"
 ---
-# Compact disks

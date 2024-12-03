@@ -1,13 +1,10 @@
 ---
 title: Oral communication
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Oral communication
+longTitle: 'Oral communication'
+tags:
+- gccommon
 relatedTerm:
-- "[[16603 Pronunciation]]"
+- "[[Pronunciation]]"
 use:
-- "[[19203 Speaking skills]]"
-- "[[16909 Public speaking]]"
+- "[[Speaking skills Public speaking]]"
 ---
-# Oral communication

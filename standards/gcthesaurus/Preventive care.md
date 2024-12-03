@@ -1,10 +1,8 @@
 ---
 title: Preventive care
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Preventive care
+longTitle: 'Preventive care'
+tags:
+- gccommon
 usedFor:
-- "[[16285 Preventive medicine]]"
+- "[[Preventive medicine]]"
 ---
-# Preventive care

@@ -1,10 +1,8 @@
 ---
 title: Water treatment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Water treatment
+longTitle: 'Water treatment'
+tags:
+- gccommon
 usedFor:
-- "[[21436 Water management]]"
+- "[[Water management]]"
 ---
-# Water treatment

@@ -1,10 +1,8 @@
 ---
 title: Mollusque
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mollusque
+longTitle: 'Mollusque'
+tags:
+- gccommon
 french:
-- "[[13849 Molluscs]]"
+- "[[Molluscs]]"
 ---
-# Mollusque

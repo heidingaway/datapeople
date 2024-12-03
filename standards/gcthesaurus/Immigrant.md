@@ -1,10 +1,8 @@
 ---
 title: Immigrant
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Immigrant
+longTitle: 'Immigrant'
+tags:
+- gccommon
 french:
-- "[[10499 Immigrants]]"
+- "[[Immigrants]]"
 ---
-# Immigrant

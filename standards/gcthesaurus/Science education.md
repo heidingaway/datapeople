@@ -1,12 +1,10 @@
 ---
 title: Science education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Science education
+longTitle: 'Science education'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6040 Education]]"
+- "[[Education]]"
 relatedTerm:
-- "[[18241 Sciences]]"
+- "[[Sciences]]"
 ---
-# Science education

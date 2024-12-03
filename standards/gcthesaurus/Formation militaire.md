@@ -1,10 +1,8 @@
 ---
 title: Formation militaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Formation militaire
+longTitle: 'Formation militaire'
+tags:
+- gccommon
 french:
-- "[[13685 Military training]]"
+- "[[Military training]]"
 ---
-# Formation militaire

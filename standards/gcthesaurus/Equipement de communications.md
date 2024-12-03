@@ -1,10 +1,8 @@
 ---
 title: Equipement de communications
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Équipement de communications
+longTitle: 'Équipement de communications'
+tags:
+- gccommon
 french:
-- "[[3662 Communications equipment]]"
+- "[[Communications equipment]]"
 ---
-# Equipement de communications

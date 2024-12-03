@@ -1,10 +1,8 @@
 ---
 title: Automatic bank tellers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Automatic bank tellers
+longTitle: 'Automatic bank tellers'
+tags:
+- gccommon
 usedFor:
-- "[[1847 Banking]]"
+- "[[Banking]]"
 ---
-# Automatic bank tellers

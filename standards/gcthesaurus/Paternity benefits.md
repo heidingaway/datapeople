@@ -1,12 +1,10 @@
 ---
 title: Paternity benefits
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Paternity benefits
+longTitle: 'Paternity benefits'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1965 Benefits]]"
+- "[[Benefits]]"
 relatedTerm:
-- "[[6551 Employment insurance]]"
+- "[[Employment insurance]]"
 ---
-# Paternity benefits

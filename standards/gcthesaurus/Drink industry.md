@@ -1,10 +1,8 @@
 ---
 title: Drink industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Drink industry
+longTitle: 'Drink industry'
+tags:
+- gccommon
 usedFor:
-- "[[1985 Beverage industry]]"
+- "[[Beverage industry]]"
 ---
-# Drink industry

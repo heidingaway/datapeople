@@ -1,10 +1,8 @@
 ---
 title: Integrated health services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Integrated health services
+longTitle: 'Integrated health services'
+tags:
+- gccommon
 usedFor:
-- "[[9662 Health care system]]"
+- "[[Health care system]]"
 ---
-# Integrated health services

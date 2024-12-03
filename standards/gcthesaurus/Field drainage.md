@@ -1,10 +1,8 @@
 ---
 title: Field drainage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Field drainage
+longTitle: 'Field drainage'
+tags:
+- gccommon
 usedFor:
-- "[[5547 Drainage]]"
+- "[[Drainage]]"
 ---
-# Field drainage

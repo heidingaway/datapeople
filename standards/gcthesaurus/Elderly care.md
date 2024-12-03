@@ -1,14 +1,10 @@
 ---
 title: Elderly care
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Elderly care
+longTitle: 'Elderly care'
+tags:
+- gccommon
 relatedTerm:
-- "[[18547 Seniors]]"
-- "[[385 Aging]]"
+- "[[Seniors Aging]]"
 use:
-- "[[2771 Care of the elderly]]"
-- "[[6141 Elder care]]"
+- "[[Care of the elderly Elder care]]"
 ---
-# Elderly care

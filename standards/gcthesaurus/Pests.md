@@ -1,21 +1,14 @@
 ---
 title: Pests
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pests
+longTitle: 'Pests'
+tags:
+- gccommon
 broaderTerm:
-- "[[21657 Weeds]]"
-- "[[15247 Parasites]]"
+- "[[Weeds Parasites]]"
 narrowerTerm:
-- "[[12569 Living organisms]]"
+- "[[Living organisms]]"
 relatedTerm:
-- "[[11563 Invasive species]]"
-- "[[15627 Pesticides]]"
+- "[[Invasive species Pesticides]]"
 use:
-- "[[515 Agricultural pests]]"
-- "[[20934 Vermin]]"
-- "[[11141 Insect pests]]"
-- "[[1053 Animal pests]]"
+- "[[Agricultural pests Vermin Insect pests Animal pest]]"
 ---
-# Pests

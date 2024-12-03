@@ -1,10 +1,8 @@
 ---
 title: Right to privacy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Right to privacy
+longTitle: 'Right to privacy'
+tags:
+- gccommon
 usedFor:
-- "[[16389 Privacy]]"
+- "[[Privacy]]"
 ---
-# Right to privacy

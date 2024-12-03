@@ -1,19 +1,12 @@
 ---
 title: Storms
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Storms
+longTitle: 'Storms'
+tags:
+- gccommon
 narrowerTerm:
-- "[[14284 Natural disasters]]"
+- "[[Natural disasters]]"
 relatedTerm:
-- "[[21772 Wind]]"
-- "[[21602 Weather]]"
+- "[[Wind Weather]]"
 use:
-- "[[8686 Gales]]"
-- "[[20270 Tornadoes]]"
-- "[[10318 Hurricanes]]"
-- "[[4792 Cyclones]]"
-- "[[20006 Tempests]]"
+- "[[Gales Tornadoes Hurricanes Cyclones Tempests]]"
 ---
-# Storms

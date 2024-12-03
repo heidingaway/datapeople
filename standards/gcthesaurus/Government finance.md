@@ -1,10 +1,8 @@
 ---
 title: Government finance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Government finance
+longTitle: 'Government finance'
+tags:
+- gccommon
 usedFor:
-- "[[16813 Public finance]]"
+- "[[Public finance]]"
 ---
-# Government finance

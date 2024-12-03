@@ -1,10 +1,8 @@
 ---
 title: Western provinces
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Western provinces
+longTitle: 'Western provinces'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16689 Provinces]]"
+- "[[Provinces]]"
 ---
-# Western provinces

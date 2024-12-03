@@ -1,13 +1,10 @@
 ---
 title: Grains
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Grains
+longTitle: 'Grains'
+tags:
+- gccommon
 narrowerTerm:
-- "[[444 Agri-food products]]"
+- "[[Agri-food products]]"
 relatedTerm:
-- "[[9287 Grain elevators]]"
-- "[[2965 Cereals]]"
+- "[[Grain elevators Cereals]]"
 ---
-# Grains

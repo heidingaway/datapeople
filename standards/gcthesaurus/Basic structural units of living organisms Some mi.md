@@ -1,10 +1,8 @@
 ---
 title: Basic structural units of living organisms Some mi
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Basic structural units of living organisms. Some microorganisms consist of only one cell.
+longTitle: 'Basic structural units of living organisms. Some microorganisms consist of only one cell.'
+tags:
+- gccommon
 scopeNote:
-- "[[2895 Cells]]"
+- "[[Cells]]"
 ---
-# Basic structural units of living organisms Some mi

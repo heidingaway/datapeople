@@ -1,10 +1,8 @@
 ---
 title: Forestry equipment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forestry equipment
+longTitle: 'Forestry equipment'
+tags:
+- gccommon
 usedFor:
-- "[[8402 Forestry technology]]"
+- "[[Forestry technology]]"
 ---
-# Forestry equipment

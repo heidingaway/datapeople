@@ -1,10 +1,8 @@
 ---
 title: Centrale hydroelectrique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Centrale hydroélectrique
+longTitle: 'Centrale hydroélectrique'
+tags:
+- gccommon
 french:
-- "[[10334 Hydroelectric plants]]"
+- "[[Hydroelectric plants]]"
 ---
-# Centrale hydroelectrique

@@ -1,19 +1,10 @@
 ---
 title: Social problems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Social problems
+longTitle: 'Social problems'
+tags:
+- gccommon
 broaderTerm:
-- "[[10043 Homelessness]]"
-- "[[5375 Discrimination]]"
-- "[[21025 Violence]]"
-- "[[16166 Poverty]]"
-- "[[212 Addiction]]"
-- "[[4445 Crime]]"
+- "[[Homelessness Discrimination Violence Poverty Addic]]"
 relatedTerm:
-- "[[18926 Social issues]]"
-- "[[19029 Social surveys]]"
-- "[[18912 Social indicators]]"
+- "[[Social issues Social surveys Social indicators]]"
 ---
-# Social problems

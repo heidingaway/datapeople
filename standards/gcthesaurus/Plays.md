@@ -1,10 +1,8 @@
 ---
 title: Plays
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Plays
+longTitle: 'Plays'
+tags:
+- gccommon
 usedFor:
-- "[[20146 Theatre]]"
+- "[[Theatre]]"
 ---
-# Plays

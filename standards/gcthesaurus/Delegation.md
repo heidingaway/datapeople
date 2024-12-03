@@ -1,10 +1,8 @@
 ---
 title: Delegation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Délégation
+longTitle: 'Délégation'
+tags:
+- gccommon
 french:
-- "[[5063 Delegations]]"
+- "[[Delegations]]"
 ---
-# Delegation

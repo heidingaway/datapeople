@@ -1,10 +1,8 @@
 ---
 title: Securite sociale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sécurité sociale
+longTitle: 'Sécurité sociale'
+tags:
+- gccommon
 french:
-- "[[18990 Social security]]"
+- "[[Social security]]"
 ---
-# Securite sociale

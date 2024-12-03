@@ -1,10 +1,8 @@
 ---
 title: Adverse drug reactions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Adverse drug reactions
+longTitle: 'Adverse drug reactions'
+tags:
+- gccommon
 usedFor:
-- "[[18725 Side effects]]"
+- "[[Side effects]]"
 ---
-# Adverse drug reactions

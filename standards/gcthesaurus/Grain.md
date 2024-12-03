@@ -1,10 +1,8 @@
 ---
 title: Grain
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Grain
+longTitle: 'Grain'
+tags:
+- gccommon
 french:
-- "[[9289 Grains]]"
+- "[[Grains]]"
 ---
-# Grain

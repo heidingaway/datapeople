@@ -1,12 +1,10 @@
 ---
 title: Freshwater fish
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Freshwater fish
+longTitle: 'Freshwater fish'
+tags:
+- gccommon
 narrowerTerm:
-- "[[7872 Fish]]"
+- "[[Fish]]"
 use:
-- "[[20705 Trout]]"
+- "[[Trout]]"
 ---
-# Freshwater fish

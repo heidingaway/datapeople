@@ -1,10 +1,8 @@
 ---
 title: Safety procedures
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Safety procedures
+longTitle: 'Safety procedures'
+tags:
+- gccommon
 usedFor:
-- "[[18039 Safety measures]]"
+- "[[Safety measures]]"
 ---
-# Safety procedures

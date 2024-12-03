@@ -1,10 +1,8 @@
 ---
 title: Bribery
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bribery
+longTitle: 'Bribery'
+tags:
+- gccommon
 usedFor:
-- "[[4318 Corruption]]"
+- "[[Corruption]]"
 ---
-# Bribery

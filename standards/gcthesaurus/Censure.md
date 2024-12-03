@@ -1,10 +1,8 @@
 ---
 title: Censure
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Censure
+longTitle: 'Censure'
+tags:
+- gccommon
 french:
-- "[[2916 Censorship]]"
+- "[[Censorship]]"
 ---
-# Censure

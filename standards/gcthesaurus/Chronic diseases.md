@@ -1,17 +1,14 @@
 ---
 title: Chronic diseases
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Chronic diseases
+longTitle: 'Chronic diseases'
+tags:
+- gccommon
 broaderTerm:
-- "[[5208 Diabetes]]"
+- "[[Diabetes]]"
 narrowerTerm:
-- "[[5393 Diseases]]"
+- "[[Diseases]]"
 relatedTerm:
-- "[[861 Allergies]]"
+- "[[Allergies]]"
 use:
-- "[[3207 Chronic health problems]]"
-- "[[3209 Chronic illness]]"
+- "[[Chronic health problems Chronic illness]]"
 ---
-# Chronic diseases

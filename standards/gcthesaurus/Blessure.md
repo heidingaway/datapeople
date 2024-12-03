@@ -1,10 +1,8 @@
 ---
 title: Blessure
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Blessure
+longTitle: 'Blessure'
+tags:
+- gccommon
 french:
-- "[[11090 Injuries]]"
+- "[[Injuries]]"
 ---
-# Blessure

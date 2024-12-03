@@ -1,19 +1,10 @@
 ---
 title: Farms
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Farms
+longTitle: 'Farms'
+tags:
+- gccommon
 relatedTerm:
-- "[[571 Agriculture]]"
-- "[[424 Agri-food industry]]"
-- "[[7434 Farm buildings]]"
-- "[[453 Agri-food products]]"
+- "[[Agriculture Agri-food industry Farm buildings Agri]]"
 use:
-- "[[7436 Farm businesses]]"
-- "[[490 Agricultural enterprises]]"
-- "[[7466 Farming businesses]]"
-- "[[7469 Farming enterprises]]"
-- "[[7444 Farm enterprises]]"
+- "[[Farm businesses Agricultural enterprises Farming b]]"
 ---
-# Farms

@@ -1,10 +1,8 @@
 ---
 title: Developpement industriel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Développement industriel
+longTitle: 'Développement industriel'
+tags:
+- gccommon
 french:
-- "[[10746 Industrial development]]"
+- "[[Industrial development]]"
 ---
-# Developpement industriel

@@ -1,10 +1,8 @@
 ---
-title: Government OnLine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Government On-Line
+title: Government Online
+longTitle: 'Government Online'
+tags:
+- gccommon
 usedFor:
-- "[[6327 Electronic government]]"
+- "[[Electronic government]]"
 ---
-# Government OnLine

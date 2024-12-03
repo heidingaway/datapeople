@@ -1,10 +1,8 @@
 ---
 title: Politique en matiere de telecommunications
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Politique en matière de télécommunications
+longTitle: 'Politique en matière de télécommunications'
+tags:
+- gccommon
 french:
-- "[[19929 Telecommunications policy]]"
+- "[[Telecommunications policy]]"
 ---
-# Politique en matiere de telecommunications

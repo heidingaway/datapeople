@@ -1,10 +1,8 @@
 ---
 title: Organic fertilizers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Organic fertilizers
+longTitle: 'Organic fertilizers'
+tags:
+- gccommon
 usedFor:
-- "[[7654 Fertilizers]]"
+- "[[Fertilizers]]"
 ---
-# Organic fertilizers

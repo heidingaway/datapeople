@@ -1,10 +1,8 @@
 ---
 title: Local organizations assuming the management of a h
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Local organizations assuming the management of a harbour.
+longTitle: 'Local organizations assuming the management of a harbour.'
+tags:
+- gccommon
 scopeNote:
-- "[[9475 Harbour authorities]]"
+- "[[Harbour authorities]]"
 ---
-# Local organizations assuming the management of a h

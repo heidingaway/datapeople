@@ -1,10 +1,8 @@
 ---
 title: Training policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Training policy
+longTitle: 'Training policy'
+tags:
+- gccommon
 usedFor:
-- "[[20487 Training]]"
+- "[[Training]]"
 ---
-# Training policy

@@ -1,12 +1,10 @@
 ---
 title: Telecommunications networks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Telecommunications networks
+longTitle: 'Telecommunications networks'
+tags:
+- gccommon
 narrowerTerm:
-- "[[14421 Networks]]"
+- "[[Networks]]"
 relatedTerm:
-- "[[19916 Telecommunications]]"
+- "[[Telecommunications]]"
 ---
-# Telecommunications networks

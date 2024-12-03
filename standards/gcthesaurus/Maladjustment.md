@@ -1,10 +1,8 @@
 ---
 title: Maladjustment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maladjustment
+longTitle: 'Maladjustment'
+tags:
+- gccommon
 usedFor:
-- "[[224 Adjustment]]"
+- "[[Adjustment]]"
 ---
-# Maladjustment

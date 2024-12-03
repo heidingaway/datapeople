@@ -1,10 +1,8 @@
 ---
 title: Readaptation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Réadaptation
+longTitle: 'Réadaptation'
+tags:
+- gccommon
 french:
-- "[[17483 Rehabilitation]]"
+- "[[Rehabilitation]]"
 ---
-# Readaptation

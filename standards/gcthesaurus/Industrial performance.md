@@ -1,10 +1,8 @@
 ---
 title: Industrial performance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrial performance
+longTitle: 'Industrial performance'
+tags:
+- gccommon
 usedFor:
-- "[[10803 Industrial productivity]]"
+- "[[Industrial productivity]]"
 ---
-# Industrial performance

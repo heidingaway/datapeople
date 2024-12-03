@@ -1,10 +1,8 @@
 ---
 title: Wild flora
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wild flora
+longTitle: 'Wild flora'
+tags:
+- gccommon
 usedFor:
-- "[[21744 Wild plants]]"
+- "[[Wild plants]]"
 ---
-# Wild flora

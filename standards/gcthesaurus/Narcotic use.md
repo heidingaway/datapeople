@@ -1,10 +1,8 @@
 ---
 title: Narcotic use
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Narcotic use
+longTitle: 'Narcotic use'
+tags:
+- gccommon
 usedFor:
-- "[[5683 Drug use]]"
+- "[[Drug use]]"
 ---
-# Narcotic use

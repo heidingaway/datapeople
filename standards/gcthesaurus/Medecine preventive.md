@@ -1,10 +1,8 @@
 ---
 title: Medecine preventive
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Médecine préventive
+longTitle: 'Médecine préventive'
+tags:
+- gccommon
 french:
-- "[[16283 Preventive medicine]]"
+- "[[Preventive medicine]]"
 ---
-# Medecine preventive

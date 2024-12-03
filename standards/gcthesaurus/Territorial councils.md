@@ -1,10 +1,8 @@
 ---
 title: Territorial councils
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Territorial councils
+longTitle: 'Territorial councils'
+tags:
+- gccommon
 usedFor:
-- "[[12321 Legislative assemblies]]"
+- "[[Legislative assemblies]]"
 ---
-# Territorial councils

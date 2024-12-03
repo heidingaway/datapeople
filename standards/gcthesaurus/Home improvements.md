@@ -1,10 +1,8 @@
 ---
 title: Home improvements
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Home improvements
+longTitle: 'Home improvements'
+tags:
+- gccommon
 usedFor:
-- "[[10031 Home renovations]]"
+- "[[Home renovations]]"
 ---
-# Home improvements

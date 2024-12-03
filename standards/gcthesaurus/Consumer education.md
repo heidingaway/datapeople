@@ -1,10 +1,8 @@
 ---
 title: Consumer education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Consumer education
+longTitle: 'Consumer education'
+tags:
+- gccommon
 usedFor:
-- "[[4082 Consumer protection]]"
+- "[[Consumer protection]]"
 ---
-# Consumer education

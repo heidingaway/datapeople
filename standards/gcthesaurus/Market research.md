@@ -1,10 +1,8 @@
 ---
 title: Market research
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Market research
+longTitle: 'Market research'
+tags:
+- gccommon
 usedFor:
-- "[[13047 Market analysis]]"
+- "[[Market analysis]]"
 ---
-# Market research

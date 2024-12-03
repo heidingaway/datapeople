@@ -1,10 +1,8 @@
 ---
 title: Pollution standards
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pollution standards
+longTitle: 'Pollution standards'
+tags:
+- gccommon
 usedFor:
-- "[[7005 Environmental standards]]"
+- "[[Environmental standards]]"
 ---
-# Pollution standards

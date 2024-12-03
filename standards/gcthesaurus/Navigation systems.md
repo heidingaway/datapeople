@@ -1,18 +1,14 @@
 ---
 title: Navigation systems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Navigation systems
+longTitle: 'Navigation systems'
+tags:
+- gccommon
 broaderTerm:
-- "[[9084 Global navigation satellite systems]]"
+- "[[Global navigation satellite systems]]"
 narrowerTerm:
-- "[[19678 Systems]]"
+- "[[Systems]]"
 relatedTerm:
-- "[[12990 Marine safety]]"
-- "[[17060 Radar]]"
-- "[[14381 Navigation]]"
+- "[[Marine safety Radar Navigation]]"
 use:
-- "[[14387 Navigation aids]]"
+- "[[Navigation aids]]"
 ---
-# Navigation systems

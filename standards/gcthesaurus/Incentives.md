@@ -1,10 +1,8 @@
 ---
 title: Incentives
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Incentives
+longTitle: 'Incentives'
+tags:
+- gccommon
 broaderTerm:
-- "[[19743 Tax incentives]]"
+- "[[Tax incentives]]"
 ---
-# Incentives

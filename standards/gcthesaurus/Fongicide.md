@@ -1,10 +1,8 @@
 ---
 title: Fongicide
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fongicide
+longTitle: 'Fongicide'
+tags:
+- gccommon
 french:
-- "[[8657 Fungicides]]"
+- "[[Fungicides]]"
 ---
-# Fongicide

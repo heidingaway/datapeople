@@ -1,10 +1,8 @@
 ---
 title: Cooperative
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Coopérative
+longTitle: 'Coopérative'
+tags:
+- gccommon
 french:
-- "[[4202 Cooperatives]]"
+- "[[Cooperatives]]"
 ---
-# Cooperative

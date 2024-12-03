@@ -1,10 +1,8 @@
 ---
 title: Cybersecurity
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cybersecurity
+longTitle: 'Cybersecurity'
+tags:
+- gccommon
 usedFor:
-- "[[3849 Computer security]]"
+- "[[Computer security]]"
 ---
-# Cybersecurity

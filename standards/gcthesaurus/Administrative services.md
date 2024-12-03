@@ -1,12 +1,10 @@
 ---
 title: Administrative services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Administrative services
+longTitle: 'Administrative services'
+tags:
+- gccommon
 relatedTerm:
-- "[[12772 Management]]"
+- "[[Management]]"
 use:
-- "[[18424 Secretariat]]"
+- "[[Secretariat]]"
 ---
-# Administrative services

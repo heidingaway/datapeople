@@ -1,10 +1,8 @@
 ---
 title: Timbre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Timbre
+longTitle: 'Timbre'
+tags:
+- gccommon
 french:
-- "[[19275 Stamps]]"
+- "[[Stamps]]"
 ---
-# Timbre

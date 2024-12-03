@@ -1,18 +1,14 @@
 ---
 title: Health care products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Health care products
+longTitle: 'Health care products'
+tags:
+- gccommon
 broaderTerm:
-- "[[13260 Medical products]]"
-- "[[5695 Drugs]]"
+- "[[Medical products Drugs]]"
 narrowerTerm:
-- "[[16500 Products]]"
+- "[[Products]]"
 relatedTerm:
-- "[[9601 Health care]]"
-- "[[15522 Personal care products]]"
+- "[[Health care Personal care products]]"
 use:
-- "[[9735 Health products]]"
+- "[[Health products]]"
 ---
-# Health care products

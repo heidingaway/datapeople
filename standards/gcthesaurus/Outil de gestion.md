@@ -1,10 +1,8 @@
 ---
 title: Outil de gestion
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Outil de gestion
+longTitle: 'Outil de gestion'
+tags:
+- gccommon
 french:
-- "[[12799 Management tool]]"
+- "[[Management tool]]"
 ---
-# Outil de gestion

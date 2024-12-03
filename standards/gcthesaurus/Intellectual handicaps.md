@@ -1,10 +1,8 @@
 ---
 title: Intellectual handicaps
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Intellectual handicaps
+longTitle: 'Intellectual handicaps'
+tags:
+- gccommon
 usedFor:
-- "[[11231 Intellectual disabilities]]"
+- "[[Intellectual disabilities]]"
 ---
-# Intellectual handicaps

@@ -1,13 +1,10 @@
 ---
 title: Growth capital
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Growth capital
+longTitle: 'Growth capital'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2731 Capital]]"
+- "[[Capital]]"
 relatedTerm:
-- "[[11596 Investments]]"
-- "[[21942 Working capital]]"
+- "[[Investments Working capital]]"
 ---
-# Growth capital

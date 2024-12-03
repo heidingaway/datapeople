@@ -1,13 +1,10 @@
 ---
 title: Maritime law
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maritime law
+longTitle: 'Maritime law'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12158 Law]]"
+- "[[Law]]"
 relatedTerm:
-- "[[21496 Water transport]]"
-- "[[14379 Navigation]]"
+- "[[Water transport Navigation]]"
 ---
-# Maritime law

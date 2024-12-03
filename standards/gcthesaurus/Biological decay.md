@@ -1,10 +1,8 @@
 ---
 title: Biological decay
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Biological decay
+longTitle: 'Biological decay'
+tags:
+- gccommon
 usedFor:
-- "[[2114 Biodegradation]]"
+- "[[Biodegradation]]"
 ---
-# Biological decay

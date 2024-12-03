@@ -1,15 +1,10 @@
 ---
 title: Processing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Processing
+longTitle: 'Processing'
+tags:
+- gccommon
 broaderTerm:
-- "[[8148 Food processing]]"
-- "[[3297 Claims processing]]"
-- "[[4874 Data processing]]"
+- "[[Food processing Claims processing Data processing]]"
 relatedTerm:
-- "[[20558 Transformation]]"
-- "[[15056 Operations]]"
+- "[[Transformation Operations]]"
 ---
-# Processing

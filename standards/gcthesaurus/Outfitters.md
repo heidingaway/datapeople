@@ -1,13 +1,10 @@
 ---
 title: Outfitters
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Outfitters
+longTitle: 'Outfitters'
+tags:
+- gccommon
 relatedTerm:
-- "[[7971 Fishing (Sport)]]"
-- "[[10312 Hunting (Sport)]]"
+- "[[Fishing Sport Hunting Sport]]"
 use:
-- "[[15146 Outfitting operations]]"
+- "[[Outfitting operations]]"
 ---
-# Outfitters

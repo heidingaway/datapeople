@@ -1,12 +1,10 @@
 ---
 title: Foreign languages
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Foreign languages
+longTitle: 'Foreign languages'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12125 Languages]]"
+- "[[Languages]]"
 relatedTerm:
-- "[[9901 Heritage languages]]"
+- "[[Heritage languages]]"
 ---
-# Foreign languages

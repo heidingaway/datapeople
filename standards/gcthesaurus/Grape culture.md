@@ -1,10 +1,8 @@
 ---
 title: Grape culture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Grape culture
+longTitle: 'Grape culture'
+tags:
+- gccommon
 usedFor:
-- "[[21134 Viticulture]]"
+- "[[Viticulture]]"
 ---
-# Grape culture

@@ -1,10 +1,8 @@
 ---
 title: Nanotechnologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nanotechnologie
+longTitle: 'Nanotechnologie'
+tags:
+- gccommon
 french:
-- "[[14131 Nanotechnology]]"
+- "[[Nanotechnology]]"
 ---
-# Nanotechnologie

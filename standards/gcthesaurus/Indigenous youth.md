@@ -1,12 +1,10 @@
 ---
 title: Indigenous youth
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indigenous youth
+longTitle: 'Indigenous youth'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10679 Indigenous peoples]]"
+- "[[Indigenous peoples]]"
 use:
-- "[[62 Aboriginal youth]]"
+- "[[Aboriginal youth]]"
 ---
-# Indigenous youth

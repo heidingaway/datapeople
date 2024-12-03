@@ -1,10 +1,8 @@
 ---
 title: Farm drainage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Farm drainage
+longTitle: 'Farm drainage'
+tags:
+- gccommon
 usedFor:
-- "[[5546 Drainage]]"
+- "[[Drainage]]"
 ---
-# Farm drainage

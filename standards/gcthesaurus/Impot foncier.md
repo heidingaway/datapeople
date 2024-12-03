@@ -1,10 +1,8 @@
 ---
 title: Impot foncier
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Impôt foncier
+longTitle: 'Impôt foncier'
+tags:
+- gccommon
 french:
-- "[[16636 Property tax]]"
+- "[[Property tax]]"
 ---
-# Impot foncier

@@ -1,10 +1,8 @@
 ---
 title: Securite alimentaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sécurité alimentaire
+longTitle: 'Sécurité alimentaire'
+tags:
+- gccommon
 french:
-- "[[8174 Food security]]"
+- "[[Food security]]"
 ---
-# Securite alimentaire

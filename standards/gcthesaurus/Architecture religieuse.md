@@ -1,10 +1,8 @@
 ---
 title: Architecture religieuse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Architecture religieuse
+longTitle: 'Architecture religieuse'
+tags:
+- gccommon
 french:
-- "[[17494 Religious architecture]]"
+- "[[Religious architecture]]"
 ---
-# Architecture religieuse

@@ -1,15 +1,12 @@
 ---
 title: Social policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Social policy
+longTitle: 'Social policy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15956 Policy]]"
+- "[[Policy]]"
 relatedTerm:
-- "[[19000 Social security]]"
-- "[[18925 Social issues]]"
+- "[[Social security Social issues]]"
 use:
-- "[[21666 Welfare state]]"
+- "[[Welfare state]]"
 ---
-# Social policy

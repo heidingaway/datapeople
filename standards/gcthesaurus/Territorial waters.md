@@ -1,10 +1,8 @@
 ---
 title: Territorial waters
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Territorial waters
+longTitle: 'Territorial waters'
+tags:
+- gccommon
 usedFor:
-- "[[3421 Coastal waters]]"
+- "[[Coastal waters]]"
 ---
-# Territorial waters

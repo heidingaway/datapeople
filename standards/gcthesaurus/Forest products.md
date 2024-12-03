@@ -1,10 +1,8 @@
 ---
 title: Forest products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forest products
+longTitle: 'Forest products'
+tags:
+- gccommon
 usedFor:
-- "[[8389 Forestry products]]"
+- "[[Forestry products]]"
 ---
-# Forest products

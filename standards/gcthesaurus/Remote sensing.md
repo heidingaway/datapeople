@@ -1,15 +1,10 @@
 ---
 title: Remote sensing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Remote sensing
+longTitle: 'Remote sensing'
+tags:
+- gccommon
 broaderTerm:
-- "[[5239 Digital elevation data]]"
-- "[[18152 Satellite imagery]]"
-- "[[18157 Satellite images]]"
+- "[[Digital elevation data Satellite imagery Satellite]]"
 relatedTerm:
-- "[[18167 Satellites]]"
-- "[[335 Aerial photography]]"
+- "[[Satellites Aerial photography]]"
 ---
-# Remote sensing

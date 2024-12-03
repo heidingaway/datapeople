@@ -1,15 +1,12 @@
 ---
 title: Railway accidents
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Railway accidents
+longTitle: 'Railway accidents'
+tags:
+- gccommon
 narrowerTerm:
-- "[[125 Accidents]]"
+- "[[Accidents]]"
 relatedTerm:
-- "[[17189 Railway safety]]"
+- "[[Railway safety]]"
 use:
-- "[[5155 Derailments]]"
-- "[[20480 Train wrecks]]"
+- "[[Derailments Train wrecks]]"
 ---
-# Railway accidents

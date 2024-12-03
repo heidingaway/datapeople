@@ -1,10 +1,8 @@
 ---
 title: Refers to residents of Northern Canada
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Refers to residents of Northern Canada.
+longTitle: 'Refers to residents of Northern Canada.'
+tags:
+- gccommon
 scopeNote:
-- "[[14596 Northerners]]"
+- "[[Northerners]]"
 ---
-# Refers to residents of Northern Canada

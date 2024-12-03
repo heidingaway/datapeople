@@ -1,10 +1,8 @@
 ---
 title: Frontiere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Frontière
+longTitle: 'Frontière'
+tags:
+- gccommon
 french:
-- "[[2379 Boundaries]]"
+- "[[Boundaries]]"
 ---
-# Frontiere

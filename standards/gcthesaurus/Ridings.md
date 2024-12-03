@@ -1,10 +1,8 @@
 ---
 title: Ridings
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ridings
+longTitle: 'Ridings'
+tags:
+- gccommon
 usedFor:
-- "[[6175 Electoral districts]]"
+- "[[Electoral districts]]"
 ---
-# Ridings

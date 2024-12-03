@@ -1,10 +1,8 @@
 ---
 title: Aide fiscale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aide fiscale
+longTitle: 'Aide fiscale'
+tags:
+- gccommon
 french:
-- "[[7833 Fiscal assistance]]"
+- "[[Fiscal assistance]]"
 ---
-# Aide fiscale

@@ -1,12 +1,8 @@
 ---
 title: Terms of reference
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Terms of reference
+longTitle: 'Terms of reference'
+tags:
+- gccommon
 relatedTerm:
-- "[[12806 Mandate]]"
-- "[[3621 Committees]]"
-- "[[4139 Contracts]]"
+- "[[Mandate Committees Contracts]]"
 ---
-# Terms of reference

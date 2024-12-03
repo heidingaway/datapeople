@@ -1,10 +1,8 @@
 ---
 title: Environmental review
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental review
+longTitle: 'Environmental review'
+tags:
+- gccommon
 usedFor:
-- "[[6897 Environmental impact assessment]]"
+- "[[Environmental impact assessment]]"
 ---
-# Environmental review

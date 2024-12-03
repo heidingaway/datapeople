@@ -1,10 +1,8 @@
 ---
 title: Emploi a temps plein
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Emploi à temps plein
+longTitle: 'Emploi à temps plein'
+tags:
+- gccommon
 french:
-- "[[8601 Full-time employment]]"
+- "[[Full-time employment]]"
 ---
-# Emploi a temps plein

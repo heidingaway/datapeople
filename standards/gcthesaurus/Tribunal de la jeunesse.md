@@ -1,10 +1,8 @@
 ---
 title: Tribunal de la jeunesse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tribunal de la jeunesse
+longTitle: 'Tribunal de la jeunesse'
+tags:
+- gccommon
 french:
-- "[[11737 Juvenile court]]"
+- "[[Juvenile court]]"
 ---
-# Tribunal de la jeunesse

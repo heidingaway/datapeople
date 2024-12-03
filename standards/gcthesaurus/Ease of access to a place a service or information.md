@@ -1,10 +1,8 @@
 ---
 title: Ease of access to a place a service or information
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ease of access to a place, a service or information.
+longTitle: 'Ease of access to a place, a service or information.'
+tags:
+- gccommon
 scopeNote:
-- "[[92 Accessibility]]"
+- "[[Accessibility]]"
 ---
-# Ease of access to a place a service or information

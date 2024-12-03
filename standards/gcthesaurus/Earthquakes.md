@@ -1,15 +1,12 @@
 ---
 title: Earthquakes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Earthquakes
+longTitle: 'Earthquakes'
+tags:
+- gccommon
 narrowerTerm:
-- "[[14281 Natural disasters]]"
+- "[[Natural disasters]]"
 relatedTerm:
-- "[[8993 Geology]]"
-- "[[18481 Seismology]]"
+- "[[Geology Seismology]]"
 use:
-- "[[18484 Seisms]]"
+- "[[Seisms]]"
 ---
-# Earthquakes

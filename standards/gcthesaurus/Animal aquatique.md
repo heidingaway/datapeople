@@ -1,10 +1,8 @@
 ---
 title: Animal aquatique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Animal aquatique
+longTitle: 'Animal aquatique'
+tags:
+- gccommon
 french:
-- "[[1256 Aquatic animals]]"
+- "[[Aquatic animals]]"
 ---
-# Animal aquatique

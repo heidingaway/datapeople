@@ -1,12 +1,10 @@
 ---
 title: Geographical maps
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Geographical maps
+longTitle: 'Geographical maps'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12892 Maps]]"
+- "[[Maps]]"
 relatedTerm:
-- "[[8952 Geography]]"
+- "[[Geography]]"
 ---
-# Geographical maps

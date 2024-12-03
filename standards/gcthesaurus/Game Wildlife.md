@@ -1,10 +1,8 @@
 ---
 title: Game Wildlife
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Game (Wildlife)
+longTitle: 'Game (Wildlife)'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1112 Animals]]"
+- "[[Animals]]"
 ---
-# Game Wildlife

@@ -1,19 +1,12 @@
 ---
 title: Woodworking industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Woodworking industry
+longTitle: 'Woodworking industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8373 Forestry industry]]"
-- "[[12856 Manufacturing industry]]"
+- "[[Forestry industry Manufacturing industry]]"
 relatedTerm:
-- "[[12670 Lumber industry]]"
-- "[[21845 Wood]]"
+- "[[Lumber industry Wood]]"
 use:
-- "[[21852 Wood industry]]"
-- "[[21856 Wood using industry]]"
-- "[[21850 Wood-using industry]]"
-- "[[21858 Wood working industry]]"
+- "[[Wood industry Wood using industry Wood-using indus]]"
 ---
-# Woodworking industry

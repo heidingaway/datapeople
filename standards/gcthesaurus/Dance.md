@@ -1,12 +1,10 @@
 ---
 title: Dance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dance
+longTitle: 'Dance'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15474 Performing arts]]"
+- "[[Performing arts]]"
 use:
-- "[[1840 Ballet]]"
+- "[[Ballet]]"
 ---
-# Dance

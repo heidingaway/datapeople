@@ -1,10 +1,8 @@
 ---
 title: Batiment industriel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bâtiment industriel
+longTitle: 'Bâtiment industriel'
+tags:
+- gccommon
 french:
-- "[[10734 Industrial buildings]]"
+- "[[Industrial buildings]]"
 ---
-# Batiment industriel

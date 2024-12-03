@@ -1,10 +1,8 @@
 ---
 title: Judicial system
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Judicial system
+longTitle: 'Judicial system'
+tags:
+- gccommon
 usedFor:
-- "[[11719 Justice system]]"
+- "[[Justice system]]"
 ---
-# Judicial system

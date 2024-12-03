@@ -1,16 +1,12 @@
 ---
 title: Mortgage loans
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mortgage loans
+longTitle: 'Mortgage loans'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4070 Consumer loans]]"
+- "[[Consumer loans]]"
 relatedTerm:
-- "[[13918 Mortgage assistance]]"
-- "[[13922 Mortgage insurance]]"
-- "[[10144 Housing]]"
+- "[[Mortgage assistance Mortgage insurance Housing]]"
 use:
-- "[[13931 Mortgage rates]]"
+- "[[Mortgage rates]]"
 ---
-# Mortgage loans

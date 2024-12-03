@@ -1,14 +1,10 @@
 ---
 title: Cycling
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cycling
+longTitle: 'Cycling'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19241 Sports]]"
+- "[[Sports]]"
 relatedTerm:
-- "[[2032 Bicycle safety equipment]]"
-- "[[2025 Bicycle paths]]"
-- "[[15135 Outdoor recreation]]"
+- "[[Bicycle safety equipment Bicycle paths Outdoor rec]]"
 ---
-# Cycling

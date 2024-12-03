@@ -1,10 +1,8 @@
 ---
 title: Revenu
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Revenu
+longTitle: 'Revenu'
+tags:
+- gccommon
 french:
-- "[[10554 Income]]"
+- "[[Income]]"
 ---
-# Revenu

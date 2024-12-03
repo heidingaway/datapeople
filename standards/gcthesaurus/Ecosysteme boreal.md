@@ -1,10 +1,8 @@
 ---
 title: Ecosysteme boreal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Écosystème boréal
+longTitle: 'Écosystème boréal'
+tags:
+- gccommon
 french:
-- "[[2350 Boreal ecosystems]]"
+- "[[Boreal ecosystems]]"
 ---
-# Ecosysteme boreal

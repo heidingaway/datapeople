@@ -1,10 +1,8 @@
 ---
 title: Incendie de foret
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Incendie de forêt
+longTitle: 'Incendie de forêt'
+tags:
+- gccommon
 french:
-- "[[8304 Forest fires]]"
+- "[[Forest fires]]"
 ---
-# Incendie de foret

@@ -1,10 +1,8 @@
 ---
 title: Revendication
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Revendication
+longTitle: 'Revendication'
+tags:
+- gccommon
 french:
-- "[[3291 Claims]]"
+- "[[Claims]]"
 ---
-# Revendication

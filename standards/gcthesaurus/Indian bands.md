@@ -1,10 +1,8 @@
 ---
 title: Indian bands
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indian bands
+longTitle: 'Indian bands'
+tags:
+- gccommon
 usedFor:
-- "[[7815 First Nations]]"
+- "[[First Nations]]"
 ---
-# Indian bands

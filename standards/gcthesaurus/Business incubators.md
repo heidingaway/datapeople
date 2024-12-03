@@ -1,10 +1,8 @@
 ---
 title: Business incubators
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Business incubators
+longTitle: 'Business incubators'
+tags:
+- gccommon
 relatedTerm:
-- "[[2567 Business start-ups]]"
+- "[[Business start-ups]]"
 ---
-# Business incubators

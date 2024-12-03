@@ -1,10 +1,8 @@
 ---
 title: Donnees hydrometriques historiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Données hydrométriques historiques
+longTitle: 'Données hydrométriques historiques'
+tags:
+- gccommon
 french:
-- "[[9956 Historical hydrometric data]]"
+- "[[Historical hydrometric data]]"
 ---
-# Donnees hydrometriques historiques

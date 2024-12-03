@@ -1,10 +1,8 @@
 ---
 title: Aquiculture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aquiculture
+longTitle: 'Aquiculture'
+tags:
+- gccommon
 usedFor:
-- "[[1241 Aquaculture]]"
+- "[[Aquaculture]]"
 ---
-# Aquiculture

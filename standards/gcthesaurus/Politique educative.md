@@ -1,10 +1,8 @@
 ---
 title: Politique educative
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Politique éducative
+longTitle: 'Politique éducative'
+tags:
+- gccommon
 french:
-- "[[6070 Education policy]]"
+- "[[Education policy]]"
 ---
-# Politique educative

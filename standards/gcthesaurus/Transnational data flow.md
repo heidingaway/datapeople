@@ -1,10 +1,8 @@
 ---
 title: Transnational data flow
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transnational data flow
+longTitle: 'Transnational data flow'
+tags:
+- gccommon
 usedFor:
-- "[[20525 Transborder data flow]]"
+- "[[Transborder data flow]]"
 ---
-# Transnational data flow

@@ -1,10 +1,8 @@
 ---
 title: Deficience visuelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Déficience visuelle
+longTitle: 'Déficience visuelle'
+tags:
+- gccommon
 french:
-- "[[21111 Visual disabilities]]"
+- "[[Visual disabilities]]"
 ---
-# Deficience visuelle

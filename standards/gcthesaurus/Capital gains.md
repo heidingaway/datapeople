@@ -1,10 +1,8 @@
 ---
 title: Capital gains
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Capital gains
+longTitle: 'Capital gains'
+tags:
+- gccommon
 usedFor:
-- "[[10556 Income]]"
+- "[[Income]]"
 ---
-# Capital gains

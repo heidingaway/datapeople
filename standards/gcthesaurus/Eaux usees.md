@@ -1,10 +1,8 @@
 ---
 title: Eaux usees
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Eaux usées
+longTitle: 'Eaux usées'
+tags:
+- gccommon
 french:
-- "[[21352 Waste water]]"
+- "[[Waste water]]"
 ---
-# Eaux usees

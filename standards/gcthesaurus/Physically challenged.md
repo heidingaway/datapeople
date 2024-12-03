@@ -1,10 +1,8 @@
 ---
 title: Physically challenged
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Physically challenged
+longTitle: 'Physically challenged'
+tags:
+- gccommon
 usedFor:
-- "[[15590 Persons with disabilities]]"
+- "[[Persons with disabilities]]"
 ---
-# Physically challenged

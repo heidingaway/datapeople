@@ -1,10 +1,8 @@
 ---
 title: Programme pour autochtones
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Programme pour autochtones
+longTitle: 'Programme pour autochtones'
+tags:
+- gccommon
 french:
-- "[[10694 Indigenous programs]]"
+- "[[Indigenous programs]]"
 ---
-# Programme pour autochtones

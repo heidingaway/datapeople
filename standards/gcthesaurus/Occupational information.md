@@ -1,10 +1,8 @@
 ---
 title: Occupational information
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Occupational information
+longTitle: 'Occupational information'
+tags:
+- gccommon
 usedFor:
-- "[[21159 Vocational guidance]]"
+- "[[Vocational guidance]]"
 ---
-# Occupational information

@@ -1,10 +1,8 @@
 ---
 title: Cosmetics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cosmetics
+longTitle: 'Cosmetics'
+tags:
+- gccommon
 usedFor:
-- "[[15519 Personal care products]]"
+- "[[Personal care products]]"
 ---
-# Cosmetics

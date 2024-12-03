@@ -1,10 +1,8 @@
 ---
 title: Recherche medicale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Recherche médicale
+longTitle: 'Recherche médicale'
+tags:
+- gccommon
 french:
-- "[[13281 Medical research]]"
+- "[[Medical research]]"
 ---
-# Recherche medicale

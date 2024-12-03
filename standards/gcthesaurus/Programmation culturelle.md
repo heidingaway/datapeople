@@ -1,10 +1,8 @@
 ---
 title: Programmation culturelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Programmation culturelle
+longTitle: 'Programmation culturelle'
+tags:
+- gccommon
 french:
-- "[[4698 Cultural programming]]"
+- "[[Cultural programming]]"
 ---
-# Programmation culturelle

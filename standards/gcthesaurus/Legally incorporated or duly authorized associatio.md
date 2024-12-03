@@ -1,10 +1,8 @@
 ---
 title: Legally incorporated or duly authorized associatio
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Legally incorporated or duly authorized associations of inhabitants of limited geographic area for local governmental or other public purposes.
+longTitle: 'Legally incorporated or duly authorized associations of inhabitants of limited geographic area for local governmental or other public purposes.'
+tags:
+- gccommon
 scopeNote:
-- "[[14074 Municipalities]]"
+- "[[Municipalities]]"
 ---
-# Legally incorporated or duly authorized associatio

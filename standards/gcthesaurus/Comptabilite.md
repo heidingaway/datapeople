@@ -1,10 +1,8 @@
 ---
 title: Comptabilite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Comptabilité
+longTitle: 'Comptabilité'
+tags:
+- gccommon
 french:
-- "[[138 Accounting]]"
+- "[[Accounting]]"
 ---
-# Comptabilite

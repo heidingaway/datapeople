@@ -1,10 +1,8 @@
 ---
 title: Shipwrecks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Shipwrecks
+longTitle: 'Shipwrecks'
+tags:
+- gccommon
 usedFor:
-- "[[12921 Marine accidents]]"
+- "[[Marine accidents]]"
 ---
-# Shipwrecks

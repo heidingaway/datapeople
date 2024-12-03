@@ -1,10 +1,8 @@
 ---
 title: Life insurance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Life insurance
+longTitle: 'Life insurance'
+tags:
+- gccommon
 narrowerTerm:
-- "[[11196 Insurance]]"
+- "[[Insurance]]"
 ---
-# Life insurance

@@ -1,10 +1,8 @@
 ---
 title: Tariff relief
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tariff relief
+longTitle: 'Tariff relief'
+tags:
+- gccommon
 relatedTerm:
-- "[[19708 Tariffs]]"
+- "[[Tariffs]]"
 ---
-# Tariff relief

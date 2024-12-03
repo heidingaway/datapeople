@@ -1,10 +1,8 @@
 ---
 title: Credit services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Credit services
+longTitle: 'Credit services'
+tags:
+- gccommon
 usedFor:
-- "[[4425 Credit]]"
+- "[[Credit]]"
 ---
-# Credit services

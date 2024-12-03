@@ -1,10 +1,8 @@
 ---
 title: Work conditions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Work conditions
+longTitle: 'Work conditions'
+tags:
+- gccommon
 usedFor:
-- "[[21950 Working conditions]]"
+- "[[Working conditions]]"
 ---
-# Work conditions

@@ -1,10 +1,8 @@
 ---
 title: Machinery of government
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Machinery of government
+longTitle: 'Machinery of government'
+tags:
+- gccommon
 usedFor:
-- "[[16767 Public administration]]"
+- "[[Public administration]]"
 ---
-# Machinery of government

@@ -1,10 +1,8 @@
 ---
 title: Champ de bataille
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Champ de bataille
+longTitle: 'Champ de bataille'
+tags:
+- gccommon
 french:
-- "[[1899 Battlefields]]"
+- "[[Battlefields]]"
 ---
-# Champ de bataille

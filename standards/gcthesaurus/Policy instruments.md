@@ -1,10 +1,8 @@
 ---
 title: Policy instruments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Policy instruments
+longTitle: 'Policy instruments'
+tags:
+- gccommon
 relatedTerm:
-- "[[15961 Policy]]"
+- "[[Policy]]"
 ---
-# Policy instruments

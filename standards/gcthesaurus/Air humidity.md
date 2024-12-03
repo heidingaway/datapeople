@@ -1,10 +1,8 @@
 ---
 title: Air humidity
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Air humidity
+longTitle: 'Air humidity'
+tags:
+- gccommon
 usedFor:
-- "[[10287 Humidity]]"
+- "[[Humidity]]"
 ---
-# Air humidity

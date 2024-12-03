@@ -1,10 +1,8 @@
 ---
 title: Catastrophes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Catastrophes
+longTitle: 'Catastrophes'
+tags:
+- gccommon
 usedFor:
-- "[[5343 Disasters]]"
+- "[[Disasters]]"
 ---
-# Catastrophes

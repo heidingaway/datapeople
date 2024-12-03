@@ -1,10 +1,8 @@
 ---
 title: Couveuse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Couveuse
+longTitle: 'Couveuse'
+tags:
+- gccommon
 french:
-- "[[9508 Hatcheries]]"
+- "[[Hatcheries]]"
 ---
-# Couveuse

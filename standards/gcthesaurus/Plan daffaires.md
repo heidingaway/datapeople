@@ -1,10 +1,8 @@
 ---
 title: Plan daffaires
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Plan d'affaires
+longTitle: 'Plan d'affaires'
+tags:
+- gccommon
 french:
-- "[[2554 Business plans]]"
+- "[[Business plans]]"
 ---
-# Plan daffaires

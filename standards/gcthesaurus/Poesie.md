@@ -1,10 +1,8 @@
 ---
 title: Poesie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Poésie
+longTitle: 'Poésie'
+tags:
+- gccommon
 french:
-- "[[15894 Poetry]]"
+- "[[Poetry]]"
 ---
-# Poesie

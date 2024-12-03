@@ -1,10 +1,8 @@
 ---
 title: Souverainete
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Souveraineté
+longTitle: 'Souveraineté'
+tags:
+- gccommon
 french:
-- "[[19156 Sovereignty]]"
+- "[[Sovereignty]]"
 ---
-# Souverainete

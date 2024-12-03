@@ -1,10 +1,8 @@
 ---
 title: Mammalians
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mammalians
+longTitle: 'Mammalians'
+tags:
+- gccommon
 usedFor:
-- "[[12731 Mammals]]"
+- "[[Mammals]]"
 ---
-# Mammalians

@@ -1,10 +1,8 @@
 ---
 title: Perception
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Perception
+longTitle: 'Perception'
+tags:
+- gccommon
 french:
-- "[[15456 Perceptions]]"
+- "[[Perceptions]]"
 ---
-# Perception

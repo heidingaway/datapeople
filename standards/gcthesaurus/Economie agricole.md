@@ -1,10 +1,8 @@
 ---
 title: Economie agricole
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Économie agricole
+longTitle: 'Économie agricole'
+tags:
+- gccommon
 french:
-- "[[482 Agricultural economics]]"
+- "[[Agricultural economics]]"
 ---
-# Economie agricole

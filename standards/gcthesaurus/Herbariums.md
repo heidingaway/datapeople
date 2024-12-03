@@ -1,10 +1,8 @@
 ---
 title: Herbariums
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Herbariums
+longTitle: 'Herbariums'
+tags:
+- gccommon
 usedFor:
-- "[[9849 Herbaria]]"
+- "[[Herbaria]]"
 ---
-# Herbariums

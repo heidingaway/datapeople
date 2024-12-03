@@ -1,10 +1,8 @@
 ---
 title: Political organizations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Political organizations
+longTitle: 'Political organizations'
+tags:
+- gccommon
 usedFor:
-- "[[15987 Political parties]]"
+- "[[Political parties]]"
 ---
-# Political organizations

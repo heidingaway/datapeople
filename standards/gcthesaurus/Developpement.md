@@ -1,10 +1,8 @@
 ---
 title: Developpement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Développement
+longTitle: 'Développement'
+tags:
+- gccommon
 french:
-- "[[5181 Development]]"
+- "[[Development]]"
 ---
-# Developpement

@@ -1,10 +1,8 @@
 ---
 title: Excise duties
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Excise duties
+longTitle: 'Excise duties'
+tags:
+- gccommon
 usedFor:
-- "[[7230 Excise taxes]]"
+- "[[Excise taxes]]"
 ---
-# Excise duties

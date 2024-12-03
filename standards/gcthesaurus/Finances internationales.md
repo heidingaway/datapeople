@@ -1,10 +1,8 @@
 ---
 title: Finances internationales
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Finances internationales
+longTitle: 'Finances internationales'
+tags:
+- gccommon
 french:
-- "[[11389 International finance]]"
+- "[[International finance]]"
 ---
-# Finances internationales

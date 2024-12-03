@@ -1,10 +1,8 @@
 ---
 title: Financement public
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Financement public
+longTitle: 'Financement public'
+tags:
+- gccommon
 french:
-- "[[16825 Public funding]]"
+- "[[Public funding]]"
 ---
-# Financement public

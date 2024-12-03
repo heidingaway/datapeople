@@ -1,14 +1,10 @@
 ---
 title: Narcotic control
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Narcotic control
+longTitle: 'Narcotic control'
+tags:
+- gccommon
 relatedTerm:
-- "[[5636 Drug education]]"
-- "[[14163 Narcotics]]"
+- "[[Drug education Narcotics]]"
 use:
-- "[[5625 Drug control]]"
-- "[[5639 Drug enforcement]]"
+- "[[Drug control Drug enforcement]]"
 ---
-# Narcotic control

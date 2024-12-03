@@ -1,10 +1,8 @@
 ---
 title: Ecozones
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ecozones
+longTitle: 'Ecozones'
+tags:
+- gccommon
 usedFor:
-- "[[5990 Ecosystems]]"
+- "[[Ecosystems]]"
 ---
-# Ecozones

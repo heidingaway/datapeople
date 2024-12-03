@@ -1,10 +1,8 @@
 ---
-title: "Land including all the property on it that cannot "
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Land including all the property on it that cannot be moved.
+title: Land including all the property on it that cannot 
+longTitle: 'Land including all the property on it that cannot be moved.'
+tags:
+- gccommon
 scopeNote:
-- "[[17234 Real estate]]"
+- "[[Real estate]]"
 ---
-# Land including all the property on it that cannot

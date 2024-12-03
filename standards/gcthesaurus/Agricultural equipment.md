@@ -1,10 +1,8 @@
 ---
 title: Agricultural equipment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Agricultural equipment
+longTitle: 'Agricultural equipment'
+tags:
+- gccommon
 usedFor:
-- "[[538 Agricultural technology]]"
+- "[[Agricultural technology]]"
 ---
-# Agricultural equipment

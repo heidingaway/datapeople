@@ -1,10 +1,8 @@
 ---
 title: Besoins en eau
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Besoins en eau
+longTitle: 'Besoins en eau'
+tags:
+- gccommon
 french:
-- "[[21413 Water demand]]"
+- "[[Water demand]]"
 ---
-# Besoins en eau

@@ -1,12 +1,10 @@
 ---
 title: Digital collections
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Digital collections
+longTitle: 'Digital collections'
+tags:
+- gccommon
 narrowerTerm:
-- "[[3496 Collections]]"
+- "[[Collections]]"
 relatedTerm:
-- "[[5248 Digital libraries]]"
+- "[[Digital libraries]]"
 ---
-# Digital collections

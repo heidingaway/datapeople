@@ -1,10 +1,8 @@
 ---
 title: Motion pictures
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Motion pictures
+longTitle: 'Motion pictures'
+tags:
+- gccommon
 usedFor:
-- "[[3218 Cinema]]"
+- "[[Cinema]]"
 ---
-# Motion pictures

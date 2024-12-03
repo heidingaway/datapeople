@@ -1,10 +1,8 @@
 ---
 title: Carte aeronautique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Carte aéronautique
+longTitle: 'Carte aéronautique'
+tags:
+- gccommon
 french:
-- "[[343 Aeronautical maps]]"
+- "[[Aeronautical maps]]"
 ---
-# Carte aeronautique

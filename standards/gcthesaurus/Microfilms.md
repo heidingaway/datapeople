@@ -1,10 +1,8 @@
 ---
 title: Microfilms
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Microfilms
+longTitle: 'Microfilms'
+tags:
+- gccommon
 usedFor:
-- "[[13547 Micrographics]]"
+- "[[Micrographics]]"
 ---
-# Microfilms

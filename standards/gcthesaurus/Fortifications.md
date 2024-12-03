@@ -1,10 +1,8 @@
 ---
 title: Fortifications
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fortifications
+longTitle: 'Fortifications'
+tags:
+- gccommon
 usedFor:
-- "[[13604 Military architecture]]"
+- "[[Military architecture]]"
 ---
-# Fortifications

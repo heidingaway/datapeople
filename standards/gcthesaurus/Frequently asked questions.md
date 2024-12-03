@@ -1,13 +1,10 @@
 ---
 title: Frequently asked questions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Frequently asked questions
+longTitle: 'Frequently asked questions'
+tags:
+- gccommon
 relatedTerm:
-- "[[11016 Information requests]]"
-- "[[10968 Information]]"
+- "[[Information requests Information]]"
 use:
-- "[[7417 FAQ]]"
+- "[[FAQ]]"
 ---
-# Frequently asked questions

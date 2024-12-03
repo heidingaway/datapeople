@@ -1,10 +1,8 @@
 ---
 title: Video disks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Video disks
+longTitle: 'Video disks'
+tags:
+- gccommon
 usedFor:
-- "[[21003 Videorecordings]]"
+- "[[Videorecordings]]"
 ---
-# Video disks

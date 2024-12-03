@@ -1,10 +1,8 @@
 ---
 title: Donnees administratives
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Données administratives
+longTitle: 'Données administratives'
+tags:
+- gccommon
 french:
-- "[[234 Administrative data]]"
+- "[[Administrative data]]"
 ---
-# Donnees administratives

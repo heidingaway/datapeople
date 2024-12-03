@@ -1,10 +1,8 @@
 ---
 title: Hazardous goods
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hazardous goods
+longTitle: 'Hazardous goods'
+tags:
+- gccommon
 usedFor:
-- "[[9522 Hazardous materials]]"
+- "[[Hazardous materials]]"
 ---
-# Hazardous goods

@@ -1,12 +1,10 @@
 ---
 title: Leadership
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Leadership
+longTitle: 'Leadership'
+tags:
+- gccommon
 french:
-- "[[12206 Leadership]]"
+- "[[Leadership]]"
 relatedTerm:
-- "[[15576 Personnel management]]"
+- "[[Personnel management]]"
 ---
-# Leadership

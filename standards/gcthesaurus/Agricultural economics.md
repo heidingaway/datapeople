@@ -1,12 +1,10 @@
 ---
 title: Agricultural economics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Agricultural economics
+longTitle: 'Agricultural economics'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5974 Economics]]"
+- "[[Economics]]"
 relatedTerm:
-- "[[562 Agriculture]]"
+- "[[Agriculture]]"
 ---
-# Agricultural economics

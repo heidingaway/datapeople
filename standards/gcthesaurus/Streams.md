@@ -1,10 +1,8 @@
 ---
 title: Streams
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Streams
+longTitle: 'Streams'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21542 Watercourses]]"
+- "[[Watercourses]]"
 ---
-# Streams

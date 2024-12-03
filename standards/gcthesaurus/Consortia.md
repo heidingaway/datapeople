@@ -1,10 +1,8 @@
 ---
 title: Consortia
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Consortia
+longTitle: 'Consortia'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2588 Businesses]]"
+- "[[Businesses]]"
 ---
-# Consortia

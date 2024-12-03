@@ -1,10 +1,8 @@
 ---
 title: Boisson
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Boisson
+longTitle: 'Boisson'
+tags:
+- gccommon
 french:
-- "[[1992 Beverages]]"
+- "[[Beverages]]"
 ---
-# Boisson

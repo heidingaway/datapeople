@@ -1,10 +1,8 @@
 ---
 title: Relatively important buildings used for government
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Relatively important buildings used for government affairs or giving public access to government services.
+longTitle: 'Relatively important buildings used for government affairs or giving public access to government services.'
+tags:
+- gccommon
 scopeNote:
-- "[[16787 Public buildings]]"
+- "[[Public buildings]]"
 ---
-# Relatively important buildings used for government

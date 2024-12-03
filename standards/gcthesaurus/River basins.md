@@ -1,10 +1,8 @@
 ---
 title: River basins
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: River basins
+longTitle: 'River basins'
+tags:
+- gccommon
 usedFor:
-- "[[21554 Watersheds]]"
+- "[[Watersheds]]"
 ---
-# River basins

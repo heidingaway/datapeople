@@ -1,13 +1,10 @@
 ---
 title: Vital statistics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vital statistics
+longTitle: 'Vital statistics'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19351 Statistics]]"
+- "[[Statistics]]"
 relatedTerm:
-- "[[2271 Birth rate]]"
-- "[[4959 Death rate]]"
+- "[[Birth rate Death rate]]"
 ---
-# Vital statistics

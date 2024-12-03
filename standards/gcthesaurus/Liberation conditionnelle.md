@@ -1,10 +1,8 @@
 ---
 title: Liberation conditionnelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Libération conditionnelle
+longTitle: 'Libération conditionnelle'
+tags:
+- gccommon
 french:
-- "[[15323 Parole]]"
+- "[[Parole]]"
 ---
-# Liberation conditionnelle

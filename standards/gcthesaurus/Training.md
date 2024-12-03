@@ -1,25 +1,12 @@
 ---
 title: Training
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Training
+longTitle: 'Training'
+tags:
+- gccommon
 broaderTerm:
-- "[[13686 Military training]]"
-- "[[11959 Labour union training]]"
-- "[[12117 Language training]]"
-- "[[17797 Retraining]]"
-- "[[21181 Vocational training]]"
+- "[[Military training Labour union training Language t]]"
 relatedTerm:
-- "[[3401 Coaching]]"
-- "[[20509 Training centres]]"
-- "[[6063 Education]]"
-- "[[20854 User education]]"
-- "[[13407 Mentoring]]"
-- "[[12216 Learning]]"
+- "[[Coaching Training centres Education User education]]"
 use:
-- "[[20513 Training policy]]"
-- "[[20516 Training programs]]"
-- "[[20518 Training workshops]]"
+- "[[Training policy Training programs Training worksho]]"
 ---
-# Training

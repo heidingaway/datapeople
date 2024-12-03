@@ -1,22 +1,14 @@
 ---
 title: Sciences
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sciences
+longTitle: 'Sciences'
+tags:
+- gccommon
 broaderTerm:
-- "[[14329 Natural sciences]]"
-- "[[18976 Social sciences]]"
+- "[[Natural sciences Social sciences]]"
 french:
-- "[[18236 Sciences]]"
+- "[[Sciences]]"
 relatedTerm:
-- "[[18268 Scientific research]]"
-- "[[18255 Scientific equipment]]"
-- "[[18260 Scientific information]]"
-- "[[18233 Science policy]]"
-- "[[18228 Science education]]"
+- "[[Scientific research Scientific equipment Scientifi]]"
 use:
-- "[[18250 Scientific disciplines]]"
-- "[[18224 Science disciplines]]"
+- "[[Scientific disciplines Science disciplines]]"
 ---
-# Sciences

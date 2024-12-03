@@ -1,10 +1,8 @@
 ---
 title: Alcoolisme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Alcoolisme
+longTitle: 'Alcoolisme'
+tags:
+- gccommon
 french:
-- "[[846 Alcoholism]]"
+- "[[Alcoholism]]"
 ---
-# Alcoolisme

@@ -1,10 +1,8 @@
 ---
 title: Rapport annuel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rapport annuel
+longTitle: 'Rapport annuel'
+tags:
+- gccommon
 french:
-- "[[1135 Annual reports]]"
+- "[[Annual reports]]"
 ---
-# Rapport annuel

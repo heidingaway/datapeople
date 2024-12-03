@@ -1,10 +1,8 @@
 ---
 title: FAQ
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: FAQ
+longTitle: 'FAQ'
+tags:
+- gccommon
 usedFor:
-- "[[8528 Frequently asked questions]]"
+- "[[Frequently asked questions]]"
 ---
-# FAQ

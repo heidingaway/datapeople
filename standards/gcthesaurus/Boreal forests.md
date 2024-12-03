@@ -1,10 +1,8 @@
 ---
 title: Boreal forests
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Boreal forests
+longTitle: 'Boreal forests'
+tags:
+- gccommon
 usedFor:
-- "[[2351 Boreal ecosystems]]"
+- "[[Boreal ecosystems]]"
 ---
-# Boreal forests

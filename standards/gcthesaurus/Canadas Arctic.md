@@ -1,10 +1,8 @@
 ---
 title: Canadas Arctic
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Canada's Arctic
+longTitle: 'Canada's Arctic'
+tags:
+- gccommon
 usedFor:
-- "[[14563 Northern Canada]]"
+- "[[Northern Canada]]"
 ---
-# Canadas Arctic

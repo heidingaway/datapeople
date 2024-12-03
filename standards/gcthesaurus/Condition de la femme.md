@@ -1,10 +1,8 @@
 ---
 title: Condition de la femme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Condition de la femme
+longTitle: 'Condition de la femme'
+tags:
+- gccommon
 french:
-- "[[19371 Status of women]]"
+- "[[Status of women]]"
 ---
-# Condition de la femme

@@ -1,10 +1,8 @@
 ---
 title: Site Web
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Site Web
+longTitle: 'Site Web'
+tags:
+- gccommon
 french:
-- "[[21639 Websites]]"
+- "[[Websites]]"
 ---
-# Site Web

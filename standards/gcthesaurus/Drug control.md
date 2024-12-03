@@ -1,10 +1,8 @@
 ---
 title: Drug control
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Drug control
+longTitle: 'Drug control'
+tags:
+- gccommon
 usedFor:
-- "[[14144 Narcotic control]]"
+- "[[Narcotic control]]"
 ---
-# Drug control

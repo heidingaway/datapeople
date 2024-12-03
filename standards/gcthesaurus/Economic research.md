@@ -1,13 +1,10 @@
 ---
 title: Economic research
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Economic research
+longTitle: 'Economic research'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17649 Research]]"
+- "[[Research]]"
 relatedTerm:
-- "[[5920 Economic issues]]"
-- "[[5836 Economic analysis]]"
+- "[[Economic issues Economic analysis]]"
 ---
-# Economic research

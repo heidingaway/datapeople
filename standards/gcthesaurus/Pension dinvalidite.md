@@ -1,10 +1,8 @@
 ---
 title: Pension dinvalidite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pension d'invalidité
+longTitle: 'Pension d'invalidité'
+tags:
+- gccommon
 french:
-- "[[5311 Disability pensions]]"
+- "[[Disability pensions]]"
 ---
-# Pension dinvalidite

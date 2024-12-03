@@ -1,10 +1,8 @@
 ---
 title: Jeune adulte
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Jeune adulte
+longTitle: 'Jeune adulte'
+tags:
+- gccommon
 french:
-- "[[22101 Young adults]]"
+- "[[Young adults]]"
 ---
-# Jeune adulte

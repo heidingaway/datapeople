@@ -1,10 +1,8 @@
 ---
 title: Societe de fiducie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Société de fiducie
+longTitle: 'Société de fiducie'
+tags:
+- gccommon
 french:
-- "[[20723 Trust companies]]"
+- "[[Trust companies]]"
 ---
-# Societe de fiducie

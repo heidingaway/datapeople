@@ -1,10 +1,8 @@
 ---
 title: Organisation non gouvernementale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Organisation non gouvernementale
+longTitle: 'Organisation non gouvernementale'
+tags:
+- gccommon
 french:
-- "[[14527 Nongovernmental organizations]]"
+- "[[Nongovernmental organizations]]"
 ---
-# Organisation non gouvernementale

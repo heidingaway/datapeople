@@ -1,10 +1,8 @@
 ---
 title: Technological disasters
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Technological disasters
+longTitle: 'Technological disasters'
+tags:
+- gccommon
 usedFor:
-- "[[5346 Disasters]]"
+- "[[Disasters]]"
 ---
-# Technological disasters

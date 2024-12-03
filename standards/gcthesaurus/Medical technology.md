@@ -1,19 +1,12 @@
 ---
 title: Medical technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Medical technology
+longTitle: 'Medical technology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19876 Technology]]"
+- "[[Technology]]"
 relatedTerm:
-- "[[19952 Telehealth]]"
-- "[[13352 Medicine]]"
-- "[[13285 Medical research]]"
-- "[[20593 Transplantation (Medicine)]]"
+- "[[Telehealth Medicine Medical research Transplantati]]"
 use:
-- "[[9791 Health technology]]"
-- "[[9672 Health care technology]]"
-- "[[13295 Medical techniques]]"
+- "[[Health technology Health care technology Medical t]]"
 ---
-# Medical technology

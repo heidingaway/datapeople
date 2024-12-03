@@ -1,12 +1,10 @@
 ---
 title: Constitutional law
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Constitutional law
+longTitle: 'Constitutional law'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12151 Law]]"
+- "[[Law]]"
 relatedTerm:
-- "[[3992 Constitution]]"
+- "[[Constitution]]"
 ---
-# Constitutional law

@@ -1,10 +1,8 @@
 ---
 title: Inuk
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Inuk
+longTitle: 'Inuk'
+tags:
+- gccommon
 usedFor:
-- "[[11538 Inuit]]"
+- "[[Inuit]]"
 ---
-# Inuk

@@ -1,10 +1,8 @@
 ---
-title: "The biochemical process of decay or decomposition "
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: The biochemical process of decay or decomposition of either natural or synthetic organic materials, by living organisms populating soils, bodies of water, or wastewater treatment facilities.
+title: The biochemical process of decay or decomposition 
+longTitle: 'The biochemical process of decay or decomposition of either natural or synthetic organic materials, by living organisms populating soils, bodies of water, or wastewater treatment facilities.'
+tags:
+- gccommon
 scopeNote:
-- "[[2111 Biodegradation]]"
+- "[[Biodegradation]]"
 ---
-# The biochemical process of decay or decomposition

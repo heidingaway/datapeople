@@ -1,13 +1,10 @@
 ---
 title: Religious heritage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Religious heritage
+longTitle: 'Religious heritage'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9880 Heritage]]"
+- "[[Heritage]]"
 relatedTerm:
-- "[[17513 Religious history]]"
-- "[[17502 Religious buildings]]"
+- "[[Religious history Religious buildings]]"
 ---
-# Religious heritage

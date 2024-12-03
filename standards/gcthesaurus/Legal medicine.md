@@ -1,10 +1,8 @@
 ---
 title: Legal medicine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Legal medicine
+longTitle: 'Legal medicine'
+tags:
+- gccommon
 usedFor:
-- "[[8286 Forensics]]"
+- "[[Forensics]]"
 ---
-# Legal medicine

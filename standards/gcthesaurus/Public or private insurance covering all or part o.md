@@ -1,10 +1,8 @@
 ---
 title: Public or private insurance covering all or part o
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public or private insurance covering all or part of the health care costs.
+longTitle: 'Public or private insurance covering all or part of the health care costs.'
+tags:
+- gccommon
 scopeNote:
-- "[[9702 Health insurance]]"
+- "[[Health insurance]]"
 ---
-# Public or private insurance covering all or part o

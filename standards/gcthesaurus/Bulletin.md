@@ -1,10 +1,8 @@
 ---
 title: Bulletin
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bulletin
+longTitle: 'Bulletin'
+tags:
+- gccommon
 french:
-- "[[14438 Newsletters]]"
+- "[[Newsletters]]"
 ---
-# Bulletin

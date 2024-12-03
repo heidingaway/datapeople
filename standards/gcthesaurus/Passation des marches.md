@@ -1,10 +1,8 @@
 ---
 title: Passation des marches
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Passation des marchés
+longTitle: 'Passation des marchés'
+tags:
+- gccommon
 french:
-- "[[4123 Contracting]]"
+- "[[Contracting]]"
 ---
-# Passation des marches

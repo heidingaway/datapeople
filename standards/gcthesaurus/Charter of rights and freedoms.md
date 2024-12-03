@@ -1,13 +1,10 @@
 ---
 title: Charter of rights and freedoms
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Charter of rights and freedoms
+longTitle: 'Charter of rights and freedoms'
+tags:
+- gccommon
 narrowerTerm:
-- "[[3012 Charters]]"
+- "[[Charters]]"
 relatedTerm:
-- "[[12281 Legal rights]]"
-- "[[10216 Human rights]]"
+- "[[Legal rights Human rights]]"
 ---
-# Charter of rights and freedoms

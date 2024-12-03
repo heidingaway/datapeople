@@ -1,10 +1,8 @@
 ---
 title: Career development
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Career development
+longTitle: 'Career development'
+tags:
+- gccommon
 usedFor:
-- "[[16514 Professional development]]"
+- "[[Professional development]]"
 ---
-# Career development

@@ -1,10 +1,8 @@
 ---
 title: Internal waters
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Internal waters
+longTitle: 'Internal waters'
+tags:
+- gccommon
 usedFor:
-- "[[11096 Inland waters]]"
+- "[[Inland waters]]"
 ---
-# Internal waters

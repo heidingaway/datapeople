@@ -1,10 +1,8 @@
 ---
 title: Electrical power
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electrical power
+longTitle: 'Electrical power'
+tags:
+- gccommon
 usedFor:
-- "[[6254 Electricity]]"
+- "[[Electricity]]"
 ---
-# Electrical power

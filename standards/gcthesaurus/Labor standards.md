@@ -1,10 +1,8 @@
 ---
 title: Labor standards
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Labor standards
+longTitle: 'Labor standards'
+tags:
+- gccommon
 usedFor:
-- "[[11951 Labour standards]]"
+- "[[Labour standards]]"
 ---
-# Labor standards

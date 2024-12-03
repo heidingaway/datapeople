@@ -1,20 +1,12 @@
 ---
 title: Drainage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Drainage
+longTitle: 'Drainage'
+tags:
+- gccommon
 french:
-- "[[5544 Drainage]]"
+- "[[Drainage]]"
 relatedTerm:
-- "[[21439 Water management]]"
-- "[[12007 Land management]]"
-- "[[21681 Wetlands]]"
+- "[[Water management Land management Wetlands]]"
 use:
-- "[[479 Agricultural drainage]]"
-- "[[19088 Soil drainage]]"
-- "[[7673 Field drainage]]"
-- "[[7441 Farm drainage]]"
-- "[[11989 Land drainage]]"
+- "[[Agricultural drainage Soil drainage Field drainage]]"
 ---
-# Drainage

@@ -1,14 +1,10 @@
 ---
 title: Business intelligence
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Business intelligence
+longTitle: 'Business intelligence'
+tags:
+- gccommon
 relatedTerm:
-- "[[2512 Business development]]"
-- "[[2549 Business opportunities]]"
-- "[[10966 Information]]"
+- "[[Business development Business opportunities Inform]]"
 use:
-- "[[3767 Competitive intelligence]]"
+- "[[Competitive intelligence]]"
 ---
-# Business intelligence

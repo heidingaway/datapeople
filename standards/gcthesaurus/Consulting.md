@@ -1,10 +1,8 @@
 ---
 title: Consulting
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Consulting
+longTitle: 'Consulting'
+tags:
+- gccommon
 relatedTerm:
-- "[[4128 Contracting]]"
+- "[[Contracting]]"
 ---
-# Consulting

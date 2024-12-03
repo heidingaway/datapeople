@@ -1,10 +1,8 @@
 ---
 title: War materials
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: War materials
+longTitle: 'War materials'
+tags:
+- gccommon
 usedFor:
-- "[[13674 Military technology]]"
+- "[[Military technology]]"
 ---
-# War materials

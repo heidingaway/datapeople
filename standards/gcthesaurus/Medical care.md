@@ -1,10 +1,8 @@
 ---
 title: Medical care
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Medical care
+longTitle: 'Medical care'
+tags:
+- gccommon
 usedFor:
-- "[[9594 Health care]]"
+- "[[Health care]]"
 ---
-# Medical care

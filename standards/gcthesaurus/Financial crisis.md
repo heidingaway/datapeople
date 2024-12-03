@@ -1,12 +1,10 @@
 ---
 title: Financial crisis
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Financial crisis
+longTitle: 'Financial crisis'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4517 Crisis]]"
+- "[[Crisis]]"
 relatedTerm:
-- "[[7696 Finance]]"
+- "[[Finance]]"
 ---
-# Financial crisis

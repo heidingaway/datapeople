@@ -1,13 +1,10 @@
 ---
 title: Consular services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Consular services
+longTitle: 'Consular services'
+tags:
+- gccommon
 relatedTerm:
-- "[[5283 Diplomatic missions]]"
+- "[[Diplomatic missions]]"
 use:
-- "[[4044 Consulates]]"
-- "[[4047 Consuls]]"
+- "[[Consulates Consuls]]"
 ---
-# Consular services

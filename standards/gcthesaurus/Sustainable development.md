@@ -1,19 +1,12 @@
 ---
 title: Sustainable development
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sustainable development
+longTitle: 'Sustainable development'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5872 Economic development]]"
+- "[[Economic development]]"
 relatedTerm:
-- "[[6978 Environmental protection]]"
-- "[[17545 Renewable energy]]"
-- "[[19397 Stewardship]]"
-- "[[6937 Environmental management]]"
+- "[[Environmental protection Renewable energy Stewards]]"
 use:
-- "[[7039 Environmentally sound development]]"
-- "[[5795 Ecodevelopment]]"
-- "[[5807 Ecologically sound development]]"
+- "[[Environmentally sound development Ecodevelopment E]]"
 ---
-# Sustainable development

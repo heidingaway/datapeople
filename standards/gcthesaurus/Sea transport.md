@@ -1,10 +1,8 @@
 ---
 title: Sea transport
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sea transport
+longTitle: 'Sea transport'
+tags:
+- gccommon
 usedFor:
-- "[[21490 Water transport]]"
+- "[[Water transport]]"
 ---
-# Sea transport

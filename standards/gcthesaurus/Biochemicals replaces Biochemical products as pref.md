@@ -1,11 +1,8 @@
 ---
 title: Biochemicals replaces Biochemical products as pref
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: '"Biochemicals" replaces "Biochemical products" as preferred term in March 2009.'
+longTitle: '"Biochemicals" replaces "Biochemical products" as preferred term in March 2009.'
+tags:
+- gccommon
 historyNote:
-- "[[2090 Biochemicals]]"
-- "[[2082 Biochemical products]]"
+- "[[Biochemicals Biochemical products]]"
 ---
-# Biochemicals replaces Biochemical products as pref

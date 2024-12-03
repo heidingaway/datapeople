@@ -1,12 +1,10 @@
 ---
 title: Teleconferencing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Teleconferencing
+longTitle: 'Teleconferencing'
+tags:
+- gccommon
 narrowerTerm:
-- "[[13358 Meetings]]"
+- "[[Meetings]]"
 relatedTerm:
-- "[[19918 Telecommunications]]"
+- "[[Telecommunications]]"
 ---
-# Teleconferencing

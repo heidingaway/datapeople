@@ -1,10 +1,8 @@
 ---
 title: Transgenic organisms
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transgenic organisms
+longTitle: 'Transgenic organisms'
+tags:
+- gccommon
 usedFor:
-- "[[8861 Genetically modified organisms]]"
+- "[[Genetically modified organisms]]"
 ---
-# Transgenic organisms

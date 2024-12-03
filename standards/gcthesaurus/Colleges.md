@@ -1,20 +1,14 @@
 ---
 title: Colleges
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Colleges
+longTitle: 'Colleges'
+tags:
+- gccommon
 broaderTerm:
-- "[[13620 Military colleges]]"
+- "[[Military colleges]]"
 narrowerTerm:
-- "[[6094 Educational institutions]]"
+- "[[Educational institutions]]"
 relatedTerm:
-- "[[20791 Universities]]"
-- "[[16144 Postsecondary education]]"
+- "[[Universities Postsecondary education]]"
 use:
-- "[[3685 Community colleges]]"
-- "[[3537 Colleges of Applied Arts and Technology]]"
-- "[[2883 CEGEPs]]"
-- "[[2633 CAAT]]"
+- "[[Community colleges Colleges of Applied Arts and Te]]"
 ---
-# Colleges

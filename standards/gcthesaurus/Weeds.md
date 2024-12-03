@@ -1,13 +1,10 @@
 ---
 title: Weeds
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Weeds
+longTitle: 'Weeds'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15638 Pests]]"
-- "[[15869 Plants]]"
+- "[[Pests Plants]]"
 relatedTerm:
-- "[[9864 Herbicides]]"
+- "[[Herbicides]]"
 ---
-# Weeds

@@ -1,10 +1,8 @@
 ---
 title: Douanes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Douanes
+longTitle: 'Douanes'
+tags:
+- gccommon
 french:
-- "[[4757 Customs and excise]]"
+- "[[Customs and excise]]"
 ---
-# Douanes

@@ -1,10 +1,8 @@
 ---
 title: Groupe dinteret
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Groupe d'intérêt
+longTitle: 'Groupe d'intérêt'
+tags:
+- gccommon
 french:
-- "[[11279 Interest groups]]"
+- "[[Interest groups]]"
 ---
-# Groupe dinteret

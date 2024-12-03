@@ -1,10 +1,8 @@
 ---
 title: Avantage fiscal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Avantage fiscal
+longTitle: 'Avantage fiscal'
+tags:
+- gccommon
 french:
-- "[[19717 Tax benefits]]"
+- "[[Tax benefits]]"
 ---
-# Avantage fiscal

@@ -1,10 +1,8 @@
 ---
 title: Conformite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Conformité
+longTitle: 'Conformité'
+tags:
+- gccommon
 french:
-- "[[3778 Compliance]]"
+- "[[Compliance]]"
 ---
-# Conformite

@@ -1,10 +1,8 @@
 ---
 title: International assistance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: International assistance
+longTitle: 'International assistance'
+tags:
+- gccommon
 usedFor:
-- "[[11359 International cooperation]]"
+- "[[International cooperation]]"
 ---
-# International assistance

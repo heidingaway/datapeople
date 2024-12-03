@@ -1,15 +1,10 @@
 ---
 title: Political parties
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Political parties
+longTitle: 'Political parties'
+tags:
+- gccommon
 relatedTerm:
-- "[[12193 Leader of the Official Opposition]]"
-- "[[16006 Politics]]"
-- "[[6167 Elections]]"
-- "[[15315 Parliamentary leaders]]"
+- "[[Leader of the Official Opposition Politics Electio]]"
 use:
-- "[[15984 Political organizations]]"
+- "[[Political organizations]]"
 ---
-# Political parties

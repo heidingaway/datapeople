@@ -1,10 +1,8 @@
 ---
 title: First peoples
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: First peoples
+longTitle: 'First peoples'
+tags:
+- gccommon
 usedFor:
-- "[[10676 Indigenous peoples]]"
+- "[[Indigenous peoples]]"
 ---
-# First peoples

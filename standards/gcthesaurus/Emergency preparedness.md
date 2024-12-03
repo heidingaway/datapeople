@@ -1,21 +1,10 @@
 ---
 title: Emergency preparedness
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Emergency preparedness
+longTitle: 'Emergency preparedness'
+tags:
+- gccommon
 relatedTerm:
-- "[[15925 Police services]]"
-- "[[6447 Emergency services]]"
-- "[[7202 Evacuations]]"
-- "[[10264 Humanitarian crisis]]"
-- "[[6441 Emergency relief]]"
-- "[[16875 Public safety]]"
-- "[[17632 Rescue]]"
+- "[[Police services Emergency services Evacuations Hum]]"
 use:
-- "[[5332 Disaster planning]]"
-- "[[6436 Emergency procedures]]"
-- "[[6419 Emergency planning]]"
-- "[[3269 Civil preparedness]]"
+- "[[Disaster planning Emergency procedures Emergency p]]"
 ---
-# Emergency preparedness

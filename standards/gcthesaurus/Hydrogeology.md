@@ -1,13 +1,10 @@
 ---
 title: Hydrogeology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hydrogeology
+longTitle: 'Hydrogeology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10375 Hydrology]]"
-- "[[8983 Geology]]"
+- "[[Hydrology Geology]]"
 use:
-- "[[8960 Geohydrology]]"
+- "[[Geohydrology]]"
 ---
-# Hydrogeology

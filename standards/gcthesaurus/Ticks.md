@@ -1,10 +1,8 @@
 ---
 title: Ticks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ticks
+longTitle: 'Ticks'
+tags:
+- gccommon
 usedFor:
-- "[[1322 Arachnids]]"
+- "[[Arachnids]]"
 ---
-# Ticks

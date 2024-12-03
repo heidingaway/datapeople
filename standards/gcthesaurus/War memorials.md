@@ -1,15 +1,12 @@
 ---
 title: War memorials
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: War memorials
+longTitle: 'War memorials'
+tags:
+- gccommon
 narrowerTerm:
-- "[[13903 Monuments]]"
+- "[[Monuments]]"
 relatedTerm:
-- "[[2914 Cemeteries]]"
-- "[[13643 Military history]]"
+- "[[Cemeteries Military history]]"
 use:
-- "[[21255 War cemeteries]]"
+- "[[War cemeteries]]"
 ---
-# War memorials

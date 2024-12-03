@@ -1,10 +1,8 @@
 ---
 title: Arctique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Arctique
+longTitle: 'Arctique'
+tags:
+- gccommon
 french:
-- "[[1390 Arctic]]"
+- "[[Arctic]]"
 ---
-# Arctique

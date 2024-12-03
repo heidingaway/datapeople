@@ -1,10 +1,8 @@
 ---
 title: Conge
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Congé
+longTitle: 'Congé'
+tags:
+- gccommon
 french:
-- "[[12245 Leave of absence]]"
+- "[[Leave of absence]]"
 ---
-# Conge

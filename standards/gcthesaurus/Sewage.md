@@ -1,10 +1,8 @@
 ---
 title: Sewage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sewage
+longTitle: 'Sewage'
+tags:
+- gccommon
 usedFor:
-- "[[21356 Waste water]]"
+- "[[Waste water]]"
 ---
-# Sewage

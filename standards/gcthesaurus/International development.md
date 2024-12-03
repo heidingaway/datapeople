@@ -1,13 +1,10 @@
 ---
 title: International development
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: International development
+longTitle: 'International development'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5185 Development]]"
+- "[[Development]]"
 relatedTerm:
-- "[[5179 Developing countries]]"
-- "[[11365 International cooperation]]"
+- "[[Developing countries International cooperation]]"
 ---
-# International development

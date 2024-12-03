@@ -1,11 +1,8 @@
 ---
 title: Ombudsman
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ombudsman
+longTitle: 'Ombudsman'
+tags:
+- gccommon
 relatedTerm:
-- "[[12285 Legal rights]]"
-- "[[240 Administrative law]]"
+- "[[Legal rights Administrative law]]"
 ---
-# Ombudsman

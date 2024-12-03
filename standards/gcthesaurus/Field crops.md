@@ -1,10 +1,8 @@
 ---
 title: Field crops
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Field crops
+longTitle: 'Field crops'
+tags:
+- gccommon
 usedFor:
-- "[[4541 Crops]]"
+- "[[Crops]]"
 ---
-# Field crops

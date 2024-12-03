@@ -1,16 +1,12 @@
 ---
 title: Northern development
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Northern development
+longTitle: 'Northern development'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17438 Regional development]]"
+- "[[Regional development]]"
 relatedTerm:
-- "[[14592 Northern studies]]"
-- "[[14570 Northern Canada]]"
-- "[[15916 Polar sciences]]"
+- "[[Northern studies Northern Canada Polar sciences]]"
 use:
-- "[[14582 Northern economics]]"
+- "[[Northern economics]]"
 ---
-# Northern development

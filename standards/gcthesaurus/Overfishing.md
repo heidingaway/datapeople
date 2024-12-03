@@ -1,10 +1,8 @@
 ---
 title: Overfishing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Overfishing
+longTitle: 'Overfishing'
+tags:
+- gccommon
 usedFor:
-- "[[7910 Fisheries]]"
+- "[[Fisheries]]"
 ---
-# Overfishing

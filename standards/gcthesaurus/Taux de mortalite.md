@@ -1,10 +1,8 @@
 ---
 title: Taux de mortalite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Taux de mortalité
+longTitle: 'Taux de mortalité'
+tags:
+- gccommon
 french:
-- "[[4956 Death rate]]"
+- "[[Death rate]]"
 ---
-# Taux de mortalite

@@ -1,15 +1,12 @@
 ---
 title: Alternative fuels
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Alternative fuels
+longTitle: 'Alternative fuels'
+tags:
+- gccommon
 narrowerTerm:
-- "[[894 Alternative energy]]"
-- "[[8576 Fuels]]"
+- "[[Alternative energy Fuels]]"
 relatedTerm:
-- "[[6230 Electric vehicles]]"
+- "[[Electric vehicles]]"
 use:
-- "[[912 Alternative transportation fuels]]"
+- "[[Alternative transportation fuels]]"
 ---
-# Alternative fuels

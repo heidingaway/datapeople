@@ -1,10 +1,8 @@
 ---
 title: Vente
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vente
+longTitle: 'Vente'
+tags:
+- gccommon
 french:
-- "[[18095 Sales]]"
+- "[[Sales]]"
 ---
-# Vente

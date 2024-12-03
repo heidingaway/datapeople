@@ -1,12 +1,10 @@
 ---
 title: Falsification
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Falsification
+longTitle: 'Falsification'
+tags:
+- gccommon
 french:
-- "[[8426 Forgery]]"
+- "[[Forgery]]"
 usedFor:
-- "[[8430 Forgery]]"
+- "[[Forgery]]"
 ---
-# Falsification

@@ -1,10 +1,8 @@
 ---
 title: Manuals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Manuals
+longTitle: 'Manuals'
+tags:
+- gccommon
 usedFor:
-- "[[9439 Handbooks]]"
+- "[[Handbooks]]"
 ---
-# Manuals

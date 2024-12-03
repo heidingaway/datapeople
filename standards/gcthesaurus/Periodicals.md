@@ -1,14 +1,10 @@
 ---
 title: Periodicals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Periodicals
+longTitle: 'Periodicals'
+tags:
+- gccommon
 broaderTerm:
-- "[[14441 Newsletters]]"
-- "[[14446 Newspapers]]"
+- "[[Newsletters Newspapers]]"
 use:
-- "[[18561 Serials]]"
-- "[[12698 Magazines]]"
+- "[[Serials Magazines]]"
 ---
-# Periodicals

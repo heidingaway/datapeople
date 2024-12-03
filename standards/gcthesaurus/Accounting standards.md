@@ -1,12 +1,10 @@
 ---
 title: Accounting standards
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Accounting standards
+longTitle: 'Accounting standards'
+tags:
+- gccommon
 narrowerTerm:
-- "[[141 Accounting]]"
+- "[[Accounting]]"
 relatedTerm:
-- "[[7692 Finance]]"
+- "[[Finance]]"
 ---
-# Accounting standards

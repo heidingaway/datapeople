@@ -1,17 +1,14 @@
 ---
 title: Digitization
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Digitization
+longTitle: 'Digitization'
+tags:
+- gccommon
 broaderTerm:
-- "[[5271 Digitized information]]"
+- "[[Digitized information]]"
 narrowerTerm:
-- "[[4875 Data processing]]"
+- "[[Data processing]]"
 relatedTerm:
-- "[[3966 Conservation]]"
+- "[[Conservation]]"
 use:
-- "[[18180 Scanning]]"
-- "[[10494 Imaging]]"
+- "[[Scanning Imaging]]"
 ---
-# Digitization

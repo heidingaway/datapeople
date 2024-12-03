@@ -1,10 +1,8 @@
 ---
 title: Codification administrative
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Codification administrative
+longTitle: 'Codification administrative'
+tags:
+- gccommon
 french:
-- "[[14902 Office consolidations]]"
+- "[[Office consolidations]]"
 ---
-# Codification administrative

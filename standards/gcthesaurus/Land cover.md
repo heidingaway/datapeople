@@ -1,10 +1,8 @@
 ---
 title: Land cover
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Land cover
+longTitle: 'Land cover'
+tags:
+- gccommon
 relatedTerm:
-- "[[12009 Land management]]"
+- "[[Land management]]"
 ---
-# Land cover

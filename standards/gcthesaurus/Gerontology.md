@@ -1,15 +1,12 @@
 ---
 title: Gerontology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gerontology
+longTitle: 'Gerontology'
+tags:
+- gccommon
 broaderTerm:
-- "[[9045 Geriatrics]]"
+- "[[Geriatrics]]"
 narrowerTerm:
-- "[[18981 Social sciences]]"
+- "[[Social sciences]]"
 relatedTerm:
-- "[[18549 Seniors]]"
-- "[[387 Aging]]"
+- "[[Seniors Aging]]"
 ---
-# Gerontology

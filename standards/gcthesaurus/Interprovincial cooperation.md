@@ -1,10 +1,8 @@
 ---
 title: Interprovincial cooperation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Interprovincial cooperation
+longTitle: 'Interprovincial cooperation'
+tags:
+- gccommon
 usedFor:
-- "[[11501 Interprovincial relations]]"
+- "[[Interprovincial relations]]"
 ---
-# Interprovincial cooperation

@@ -1,15 +1,12 @@
 ---
 title: Corruption
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Corruption
+longTitle: 'Corruption'
+tags:
+- gccommon
 french:
-- "[[4317 Corruption]]"
+- "[[Corruption]]"
 narrowerTerm:
-- "[[4447 Crime]]"
-- "[[8591 Fugitives from justice]]"
+- "[[Crime Fugitives from justice]]"
 use:
-- "[[2402 Bribery]]"
+- "[[Bribery]]"
 ---
-# Corruption

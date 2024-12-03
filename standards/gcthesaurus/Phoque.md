@@ -1,10 +1,8 @@
 ---
 title: Phoque
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Phoque
+longTitle: 'Phoque'
+tags:
+- gccommon
 french:
-- "[[18342 Seals]]"
+- "[[Seals]]"
 ---
-# Phoque

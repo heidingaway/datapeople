@@ -1,10 +1,8 @@
 ---
 title: Nuclear reactors
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nuclear reactors
+longTitle: 'Nuclear reactors'
+tags:
+- gccommon
 usedFor:
-- "[[14663 Nuclear technology]]"
+- "[[Nuclear technology]]"
 ---
-# Nuclear reactors

@@ -1,10 +1,8 @@
 ---
 title: Fish husbandry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fish husbandry
+longTitle: 'Fish husbandry'
+tags:
+- gccommon
 usedFor:
-- "[[7888 Fish farming]]"
+- "[[Fish farming]]"
 ---
-# Fish husbandry

@@ -1,10 +1,8 @@
 ---
 title: Social rights
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Social rights
+longTitle: 'Social rights'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10215 Human rights]]"
+- "[[Human rights]]"
 ---
-# Social rights

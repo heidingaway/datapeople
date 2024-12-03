@@ -1,10 +1,8 @@
 ---
 title: Mondialisation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mondialisation
+longTitle: 'Mondialisation'
+tags:
+- gccommon
 french:
-- "[[9108 Globalization]]"
+- "[[Globalization]]"
 ---
-# Mondialisation

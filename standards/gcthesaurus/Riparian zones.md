@@ -1,10 +1,8 @@
 ---
 title: Riparian zones
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Riparian zones
+longTitle: 'Riparian zones'
+tags:
+- gccommon
 usedFor:
-- "[[21678 Wetlands]]"
+- "[[Wetlands]]"
 ---
-# Riparian zones

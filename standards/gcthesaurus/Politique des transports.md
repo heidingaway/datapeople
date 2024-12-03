@@ -1,10 +1,8 @@
 ---
 title: Politique des transports
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Politique des transports
+longTitle: 'Politique des transports'
+tags:
+- gccommon
 french:
-- "[[20632 Transport policy]]"
+- "[[Transport policy]]"
 ---
-# Politique des transports

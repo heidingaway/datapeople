@@ -1,10 +1,8 @@
 ---
 title: Agricultural chemicals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Agricultural chemicals
+longTitle: 'Agricultural chemicals'
+tags:
+- gccommon
 usedFor:
-- "[[15615 Pesticides]]"
+- "[[Pesticides]]"
 ---
-# Agricultural chemicals

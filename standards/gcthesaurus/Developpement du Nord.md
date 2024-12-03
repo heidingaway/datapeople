@@ -1,10 +1,8 @@
 ---
 title: Developpement du Nord
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Développement du Nord
+longTitle: 'Développement du Nord'
+tags:
+- gccommon
 french:
-- "[[14575 Northern development]]"
+- "[[Northern development]]"
 ---
-# Developpement du Nord

@@ -1,13 +1,10 @@
 ---
 title: Reprography
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Reprography
+longTitle: 'Reprography'
+tags:
+- gccommon
 relatedTerm:
-- "[[13550 Micrographics]]"
-- "[[4216 Copyright]]"
+- "[[Micrographics Copyright]]"
 use:
-- "[[15719 Photocopy]]"
+- "[[Photocopy]]"
 ---
-# Reprography

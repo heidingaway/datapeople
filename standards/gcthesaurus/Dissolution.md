@@ -1,13 +1,10 @@
 ---
 title: Dissolution
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dissolution
+longTitle: 'Dissolution'
+tags:
+- gccommon
 french:
-- "[[5419 Dissolution]]"
+- "[[Dissolution]]"
 relatedTerm:
-- "[[15357 Partnerships]]"
-- "[[13429 Mergers]]"
+- "[[Partnerships Mergers]]"
 ---
-# Dissolution

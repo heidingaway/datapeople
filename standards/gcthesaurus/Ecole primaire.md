@@ -1,10 +1,8 @@
 ---
 title: Ecole primaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: École primaire
+longTitle: 'École primaire'
+tags:
+- gccommon
 french:
-- "[[6400 Elementary schools]]"
+- "[[Elementary schools]]"
 ---
-# Ecole primaire

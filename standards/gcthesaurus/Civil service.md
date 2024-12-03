@@ -1,10 +1,8 @@
 ---
 title: Civil service
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Civil service
+longTitle: 'Civil service'
+tags:
+- gccommon
 usedFor:
-- "[[16893 Public service]]"
+- "[[Public service]]"
 ---
-# Civil service

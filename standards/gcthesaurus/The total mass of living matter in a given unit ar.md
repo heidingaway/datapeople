@@ -1,10 +1,8 @@
 ---
 title: The total mass of living matter in a given unit ar
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: The total mass of living matter in a given unit area or volume.
+longTitle: 'The total mass of living matter in a given unit area or volume.'
+tags:
+- gccommon
 scopeNote:
-- "[[2213 Biomass]]"
+- "[[Biomass]]"
 ---
-# The total mass of living matter in a given unit ar

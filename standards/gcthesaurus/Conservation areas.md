@@ -1,20 +1,12 @@
 ---
 title: Conservation areas
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Conservation areas
+longTitle: 'Conservation areas'
+tags:
+- gccommon
 broaderTerm:
-- "[[12935 Marine conservation areas]]"
+- "[[Marine conservation areas]]"
 relatedTerm:
-- "[[14352 Nature conservation]]"
-- "[[15282 Parks]]"
-- "[[17730 Resources conservation]]"
+- "[[Nature conservation Parks Resources conservation]]"
 use:
-- "[[21766 Wildlife refugies]]"
-- "[[21762 Wildlife preserves]]"
-- "[[21768 Wildlife sanctuaries]]"
-- "[[14358 Nature reserves]]"
-- "[[16657 Protected areas]]"
+- "[[Wildlife refugies Wildlife preserves Wildlife sanc]]"
 ---
-# Conservation areas

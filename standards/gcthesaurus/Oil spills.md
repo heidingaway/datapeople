@@ -1,18 +1,12 @@
 ---
 title: Oil spills
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Oil spills
+longTitle: 'Oil spills'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20315 Toxic spills]]"
+- "[[Toxic spills]]"
 relatedTerm:
-- "[[15649 Petroleum]]"
+- "[[Petroleum]]"
 use:
-- "[[2286 Black tides]]"
-- "[[14970 Oil discharge]]"
-- "[[14982 Oil releases]]"
-- "[[14995 Oil spillages]]"
-- "[[14974 Oil leaks]]"
+- "[[Black tides Oil discharge Oil releases Oil spillag]]"
 ---
-# Oil spills

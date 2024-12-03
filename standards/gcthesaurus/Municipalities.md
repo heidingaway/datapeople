@@ -1,11 +1,8 @@
 ---
 title: Municipalities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Municipalities
+longTitle: 'Municipalities'
+tags:
+- gccommon
 relatedTerm:
-- "[[14067 Municipal buildings]]"
-- "[[12607 Local governments]]"
+- "[[Municipal buildings Local governments]]"
 ---
-# Municipalities

@@ -1,10 +1,8 @@
 ---
 title: Refers to measures aiming to reduce the risks pose
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Refers to measures aiming to reduce the risks posed by pollutants and waste before their release to the environment.
+longTitle: 'Refers to measures aiming to reduce the risks posed by pollutants and waste before their release to the environment.'
+tags:
+- gccommon
 scopeNote:
-- "[[16038 Pollution control]]"
+- "[[Pollution control]]"
 ---
-# Refers to measures aiming to reduce the risks pose

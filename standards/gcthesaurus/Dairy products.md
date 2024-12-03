@@ -1,20 +1,14 @@
 ---
 title: Dairy products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dairy products
+longTitle: 'Dairy products'
+tags:
+- gccommon
 broaderTerm:
-- "[[4419 Cream]]"
-- "[[13694 Milk]]"
-- "[[22099 Yogurt]]"
-- "[[3015 Cheese]]"
-- "[[2613 Butter]]"
+- "[[Cream Milk Yogurt Cheese Butter]]"
 narrowerTerm:
-- "[[440 Agri-food products]]"
+- "[[Agri-food products]]"
 relatedTerm:
-- "[[4811 Dairy industry]]"
+- "[[Dairy industry]]"
 use:
-- "[[13697 Milk products]]"
+- "[[Milk products]]"
 ---
-# Dairy products

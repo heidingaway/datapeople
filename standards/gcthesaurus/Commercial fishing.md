@@ -1,10 +1,8 @@
 ---
 title: Commercial fishing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Commercial fishing
+longTitle: 'Commercial fishing'
+tags:
+- gccommon
 usedFor:
-- "[[7905 Fisheries]]"
+- "[[Fisheries]]"
 ---
-# Commercial fishing

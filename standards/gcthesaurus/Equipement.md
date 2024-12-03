@@ -1,10 +1,8 @@
 ---
 title: Equipement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Équipement
+longTitle: 'Équipement'
+tags:
+- gccommon
 french:
-- "[[7080 Equipment]]"
+- "[[Equipment]]"
 ---
-# Equipement

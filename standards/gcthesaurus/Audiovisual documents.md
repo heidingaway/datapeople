@@ -1,10 +1,8 @@
 ---
 title: Audiovisual documents
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Audiovisual documents
+longTitle: 'Audiovisual documents'
+tags:
+- gccommon
 usedFor:
-- "[[14029 Multimedia]]"
+- "[[Multimedia]]"
 ---
-# Audiovisual documents

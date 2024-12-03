@@ -1,10 +1,8 @@
 ---
 title: Droits de lenfant
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Droits de l'enfant
+longTitle: 'Droits de l'enfant'
+tags:
+- gccommon
 french:
-- "[[3195 Children's rights]]"
+- "[[Childrens rights]]"
 ---
-# Droits de lenfant

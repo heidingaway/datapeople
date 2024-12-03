@@ -1,10 +1,8 @@
 ---
 title: Region polaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Région polaire
+longTitle: 'Région polaire'
+tags:
+- gccommon
 french:
-- "[[15906 Polar regions]]"
+- "[[Polar regions]]"
 ---
-# Region polaire

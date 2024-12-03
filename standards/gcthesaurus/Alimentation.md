@@ -1,10 +1,8 @@
 ---
 title: Alimentation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Alimentation
+longTitle: 'Alimentation'
+tags:
+- gccommon
 french:
-- "[[14696 Nutrition]]"
+- "[[Nutrition]]"
 ---
-# Alimentation

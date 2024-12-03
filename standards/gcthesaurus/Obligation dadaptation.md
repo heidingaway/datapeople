@@ -1,10 +1,8 @@
 ---
 title: Obligation dadaptation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Obligation d'adaptation
+longTitle: 'Obligation d'adaptation'
+tags:
+- gccommon
 french:
-- "[[5721 Duty to accommodate]]"
+- "[[Duty to accommodate]]"
 ---
-# Obligation dadaptation

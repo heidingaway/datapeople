@@ -1,10 +1,8 @@
 ---
 title: Construction code
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Construction code
+longTitle: 'Construction code'
+tags:
+- gccommon
 usedFor:
-- "[[4021 Construction industry]]"
+- "[[Construction industry]]"
 ---
-# Construction code

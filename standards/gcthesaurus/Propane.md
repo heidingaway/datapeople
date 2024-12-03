@@ -1,16 +1,12 @@
 ---
 title: Propane
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Propane
+longTitle: 'Propane'
+tags:
+- gccommon
 french:
-- "[[16608 Propane]]"
+- "[[Propane]]"
 narrowerTerm:
-- "[[8738 Gases]]"
-- "[[8582 Fuels]]"
+- "[[Gases Fuels]]"
 use:
-- "[[5275 Dimethylmethane]]"
-- "[[16614 Propane gas]]"
+- "[[Dimethylmethane Propane gas]]"
 ---
-# Propane

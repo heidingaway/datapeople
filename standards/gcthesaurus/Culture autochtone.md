@@ -1,10 +1,8 @@
 ---
 title: Culture autochtone
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Culture autochtone
+longTitle: 'Culture autochtone'
+tags:
+- gccommon
 french:
-- "[[10639 Indigenous culture]]"
+- "[[Indigenous culture]]"
 ---
-# Culture autochtone

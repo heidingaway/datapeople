@@ -1,10 +1,8 @@
 ---
 title: Equite sociale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Équité sociale
+longTitle: 'Équité sociale'
+tags:
+- gccommon
 french:
-- "[[18896 Social equity]]"
+- "[[Social equity]]"
 ---
-# Equite sociale

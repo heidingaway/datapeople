@@ -1,10 +1,8 @@
 ---
 title: Industrial facilities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrial facilities
+longTitle: 'Industrial facilities'
+tags:
+- gccommon
 usedFor:
-- "[[10736 Industrial buildings]]"
+- "[[Industrial buildings]]"
 ---
-# Industrial facilities

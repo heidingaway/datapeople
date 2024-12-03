@@ -1,10 +1,8 @@
 ---
 title: Distinctions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Distinctions
+longTitle: 'Distinctions'
+tags:
+- gccommon
 usedFor:
-- "[[5005 Decorations]]"
+- "[[Decorations]]"
 ---
-# Distinctions

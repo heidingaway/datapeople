@@ -1,15 +1,12 @@
 ---
 title: Automobiles
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Automobiles
+longTitle: 'Automobiles'
+tags:
+- gccommon
 narrowerTerm:
-- "[[13974 Motor vehicles]]"
+- "[[Motor vehicles]]"
 relatedTerm:
-- "[[1752 Automobile industry]]"
-- "[[1760 Automobile safety equipment]]"
+- "[[Automobile industry Automobile safety equipment]]"
 use:
-- "[[2811 Cars]]"
+- "[[Cars]]"
 ---
-# Automobiles

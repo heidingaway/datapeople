@@ -1,12 +1,10 @@
 ---
 title: Skiing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Skiing
+longTitle: 'Skiing'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21819 Winter sports]]"
+- "[[Winter sports]]"
 relatedTerm:
-- "[[18767 Ski trails]]"
+- "[[Ski trails]]"
 ---
-# Skiing

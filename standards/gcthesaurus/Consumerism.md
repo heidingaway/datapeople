@@ -1,15 +1,10 @@
 ---
 title: Consumerism
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Consumerism
+longTitle: 'Consumerism'
+tags:
+- gccommon
 relatedTerm:
-- "[[5072 Demand]]"
-- "[[4077 Consumer products]]"
-- "[[16975 Purchasing]]"
-- "[[4096 Consumers]]"
+- "[[Demand Consumer products Purchasing Consumers]]"
 use:
-- "[[4099 Consumption]]"
+- "[[Consumption]]"
 ---
-# Consumerism

@@ -1,10 +1,8 @@
 ---
 title: Environmental legislation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental legislation
+longTitle: 'Environmental legislation'
+tags:
+- gccommon
 usedFor:
-- "[[6910 Environmental law]]"
+- "[[Environmental law]]"
 ---
-# Environmental legislation

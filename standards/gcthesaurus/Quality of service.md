@@ -1,11 +1,8 @@
 ---
 title: Quality of service
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Quality of service
+longTitle: 'Quality of service'
+tags:
+- gccommon
 relatedTerm:
-- "[[19298 Standards]]"
-- "[[18584 Service industry]]"
+- "[[Standards Service industry]]"
 ---
-# Quality of service

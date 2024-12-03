@@ -1,15 +1,12 @@
 ---
 title: Small businesses
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Small businesses
+longTitle: 'Small businesses'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2597 Businesses]]"
+- "[[Businesses]]"
 relatedTerm:
-- "[[18807 Small business loans]]"
+- "[[Small business loans]]"
 use:
-- "[[18803 Small and medium-sized enterprises]]"
-- "[[18801 Small and medium-sized businesses]]"
+- "[[Small and medium-sized enterprises Small and mediu]]"
 ---
-# Small businesses

@@ -1,10 +1,8 @@
 ---
 title: Relations raciales
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Relations raciales
+longTitle: 'Relations raciales'
+tags:
+- gccommon
 french:
-- "[[17037 Race relations]]"
+- "[[Race relations]]"
 ---
-# Relations raciales

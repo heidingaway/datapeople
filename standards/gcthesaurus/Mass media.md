@@ -1,10 +1,8 @@
 ---
 title: Mass media
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mass media
+longTitle: 'Mass media'
+tags:
+- gccommon
 usedFor:
-- "[[13191 Media]]"
+- "[[Media]]"
 ---
-# Mass media

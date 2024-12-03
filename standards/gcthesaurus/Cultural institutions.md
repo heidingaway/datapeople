@@ -1,19 +1,12 @@
 ---
 title: Cultural institutions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cultural institutions
+longTitle: 'Cultural institutions'
+tags:
+- gccommon
 broaderTerm:
-- "[[14090 Museums]]"
-- "[[15082 Orchestras]]"
-- "[[1467 Art galleries]]"
-- "[[12382 Libraries]]"
-- "[[9965 Historical societies]]"
+- "[[Museums Orchestras Art galleries Libraries Histori]]"
 relatedTerm:
-- "[[4722 Culture]]"
-- "[[4671 Cultural industry]]"
+- "[[Culture Cultural industry]]"
 use:
-- "[[4643 Cultural facilities]]"
+- "[[Cultural facilities]]"
 ---
-# Cultural institutions

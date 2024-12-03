@@ -1,10 +1,8 @@
 ---
 title: Medecine veterinaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Médecine vétérinaire
+longTitle: 'Médecine vétérinaire'
+tags:
+- gccommon
 french:
-- "[[20969 Veterinary medicine]]"
+- "[[Veterinary medicine]]"
 ---
-# Medecine veterinaire

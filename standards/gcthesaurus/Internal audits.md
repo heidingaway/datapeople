@@ -1,14 +1,8 @@
 ---
 title: Internal audits
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Internal audits
+longTitle: 'Internal audits'
+tags:
+- gccommon
 relatedTerm:
-- "[[4154 Control]]"
-- "[[17848 Risk management]]"
-- "[[11043 Information systems]]"
-- "[[17810 Review]]"
-- "[[9139 Governance]]"
+- "[[Control Risk management Information systems Review]]"
 ---
-# Internal audits

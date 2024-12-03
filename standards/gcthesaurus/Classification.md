@@ -1,16 +1,12 @@
 ---
 title: Classification
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Classification
+longTitle: 'Classification'
+tags:
+- gccommon
 broaderTerm:
-- "[[11655 Job classification]]"
+- "[[Job classification]]"
 french:
-- "[[3302 Classification]]"
+- "[[Classification]]"
 relatedTerm:
-- "[[2853 Cataloguing]]"
-- "[[3466 Coding]]"
-- "[[19790 Taxonomy]]"
+- "[[Cataloguing Coding Taxonomy]]"
 ---
-# Classification

@@ -1,10 +1,8 @@
 ---
 title: Newborns
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Newborns
+longTitle: 'Newborns'
+tags:
+- gccommon
 usedFor:
-- "[[10901 Infants]]"
+- "[[Infants]]"
 ---
-# Newborns

@@ -1,20 +1,12 @@
 ---
 title: Recreational facilities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Recreational facilities
+longTitle: 'Recreational facilities'
+tags:
+- gccommon
 broaderTerm:
-- "[[22125 Zoological gardens]]"
-- "[[1249 Aquariums]]"
+- "[[Zoological gardens Aquariums]]"
 relatedTerm:
-- "[[15283 Parks]]"
-- "[[17326 Recreation]]"
-- "[[2026 Bicycle paths]]"
-- "[[2371 Botanical gardens]]"
-- "[[18766 Ski trails]]"
+- "[[Parks Recreation Bicycle paths Botanical gardens S]]"
 use:
-- "[[17331 Recreation facilities]]"
-- "[[19256 Sports facilities]]"
+- "[[Recreation facilities Sports facilities]]"
 ---
-# Recreational facilities

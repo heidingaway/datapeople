@@ -1,10 +1,8 @@
 ---
 title: Gouverneur general
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gouverneur général
+longTitle: 'Gouverneur général'
+tags:
+- gccommon
 french:
-- "[[9271 Governor General]]"
+- "[[Governor General]]"
 ---
-# Gouverneur general

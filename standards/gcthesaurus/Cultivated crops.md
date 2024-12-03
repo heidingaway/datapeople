@@ -1,10 +1,8 @@
 ---
 title: Cultivated crops
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cultivated crops
+longTitle: 'Cultivated crops'
+tags:
+- gccommon
 usedFor:
-- "[[4539 Crops]]"
+- "[[Crops]]"
 ---
-# Cultivated crops

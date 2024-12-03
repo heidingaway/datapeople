@@ -1,10 +1,8 @@
 ---
 title: Sylviculture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sylviculture
+longTitle: 'Sylviculture'
+tags:
+- gccommon
 usedFor:
-- "[[8349 Forestry]]"
+- "[[Forestry]]"
 ---
-# Sylviculture

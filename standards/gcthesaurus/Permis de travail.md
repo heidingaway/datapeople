@@ -1,10 +1,8 @@
 ---
 title: Permis de travail
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Permis de travail
+longTitle: 'Permis de travail'
+tags:
+- gccommon
 french:
-- "[[21903 Work permits]]"
+- "[[Work permits]]"
 ---
-# Permis de travail

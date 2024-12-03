@@ -1,10 +1,8 @@
 ---
 title: Famille daccueil
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Famille d'accueil
+longTitle: 'Famille d'accueil'
+tags:
+- gccommon
 french:
-- "[[8456 Foster families]]"
+- "[[Foster families]]"
 ---
-# Famille daccueil

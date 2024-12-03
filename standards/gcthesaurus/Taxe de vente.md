@@ -1,10 +1,8 @@
 ---
 title: Taxe de vente
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Taxe de vente
+longTitle: 'Taxe de vente'
+tags:
+- gccommon
 french:
-- "[[18106 Sales taxes]]"
+- "[[Sales taxes]]"
 ---
-# Taxe de vente

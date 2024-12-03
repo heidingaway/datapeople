@@ -1,17 +1,12 @@
 ---
 title: Civil rights
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Civil rights
+longTitle: 'Civil rights'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10213 Human rights]]"
+- "[[Human rights]]"
 relatedTerm:
-- "[[3234 Citizen participation]]"
+- "[[Citizen participation]]"
 use:
-- "[[15996 Political rights]]"
-- "[[3267 Civil liberties]]"
-- "[[6183 Electoral rights]]"
-- "[[13820 Mobility rights]]"
+- "[[Political rights Civil liberties Electoral rights ]]"
 ---
-# Civil rights

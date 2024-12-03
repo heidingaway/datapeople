@@ -1,10 +1,8 @@
 ---
 title: Couverture du sol
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Couverture du sol
+longTitle: 'Couverture du sol'
+tags:
+- gccommon
 french:
-- "[[11985 Land cover]]"
+- "[[Land cover]]"
 ---
-# Couverture du sol

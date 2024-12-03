@@ -1,15 +1,10 @@
 ---
 title: Records
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Records
+longTitle: 'Records'
+tags:
+- gccommon
 broaderTerm:
-- "[[13276 Medical records]]"
-- "[[2814 Cartographic records]]"
-- "[[17277 Record of employment]]"
+- "[[Medical records Cartographic records Record of emp]]"
 relatedTerm:
-- "[[17302 Records management]]"
-- "[[1387 Archives]]"
+- "[[Records management Archives]]"
 ---
-# Records

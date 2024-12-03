@@ -1,10 +1,8 @@
 ---
 title: Floors
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Floors
+longTitle: 'Floors'
+tags:
+- gccommon
 relatedTerm:
-- "[[2474 Buildings]]"
+- "[[Buildings]]"
 ---
-# Floors

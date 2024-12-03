@@ -1,10 +1,8 @@
 ---
 title: Electronic data
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electronic data
+longTitle: 'Electronic data'
+tags:
+- gccommon
 usedFor:
-- "[[12679 Machine readable data]]"
+- "[[Machine readable data]]"
 ---
-# Electronic data

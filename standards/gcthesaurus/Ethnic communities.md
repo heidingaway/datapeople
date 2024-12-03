@@ -1,10 +1,8 @@
 ---
 title: Ethnic communities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ethnic communities
+longTitle: 'Ethnic communities'
+tags:
+- gccommon
 usedFor:
-- "[[7158 Ethnic groups]]"
+- "[[Ethnic groups]]"
 ---
-# Ethnic communities

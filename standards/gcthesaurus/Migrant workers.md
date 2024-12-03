@@ -1,12 +1,10 @@
 ---
 title: Migrant workers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Migrant workers
+longTitle: 'Migrant workers'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21929 Workers]]"
+- "[[Workers]]"
 use:
-- "[[13593 Migratory workers]]"
+- "[[Migratory workers]]"
 ---
-# Migrant workers

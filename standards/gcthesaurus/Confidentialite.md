@@ -1,10 +1,8 @@
 ---
 title: Confidentialite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Confidentialité
+longTitle: 'Confidentialité'
+tags:
+- gccommon
 french:
-- "[[3920 Confidentiality]]"
+- "[[Confidentiality]]"
 ---
-# Confidentialite

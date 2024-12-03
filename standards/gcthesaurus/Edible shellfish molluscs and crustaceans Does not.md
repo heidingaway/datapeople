@@ -1,10 +1,8 @@
 ---
 title: Edible shellfish molluscs and crustaceans Does not
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Edible shellfish (molluscs and crustaceans). Does not include fish.
+longTitle: 'Edible shellfish (molluscs and crustaceans). Does not include fish.'
+tags:
+- gccommon
 scopeNote:
-- "[[18328 Seafood]]"
+- "[[Seafood]]"
 ---
-# Edible shellfish molluscs and crustaceans Does not

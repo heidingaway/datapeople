@@ -1,10 +1,8 @@
 ---
 title: Numero dentreprise
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Numéro d'entreprise
+longTitle: 'Numéro d'entreprise'
+tags:
+- gccommon
 french:
-- "[[2545 Business numbers]]"
+- "[[Business numbers]]"
 ---
-# Numero dentreprise

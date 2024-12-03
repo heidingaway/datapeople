@@ -1,14 +1,12 @@
 ---
 title: Elementary schools
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Elementary schools
+longTitle: 'Elementary schools'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18216 Schools]]"
+- "[[Schools]]"
 relatedTerm:
-- "[[6398 Elementary education]]"
+- "[[Elementary education]]"
 use:
-- "[[16353 Primary schools]]"
+- "[[Primary schools]]"
 ---
-# Elementary schools

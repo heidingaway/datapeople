@@ -1,17 +1,12 @@
 ---
 title: Alcoholism
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Alcoholism
+longTitle: 'Alcoholism'
+tags:
+- gccommon
 narrowerTerm:
-- "[[213 Addiction]]"
+- "[[Addiction]]"
 relatedTerm:
-- "[[820 Alcohol consumption]]"
-- "[[827 Alcohol education]]"
+- "[[Alcohol consumption Alcohol education]]"
 use:
-- "[[19517 Substance abuse]]"
-- "[[808 Alcohol abuse]]"
-- "[[810 Alcohol addiction]]"
+- "[[Substance abuse Alcohol abuse Alcohol addiction]]"
 ---
-# Alcoholism

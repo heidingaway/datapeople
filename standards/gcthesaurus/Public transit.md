@@ -1,16 +1,12 @@
 ---
 title: Public transit
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public transit
+longTitle: 'Public transit'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20606 Transport]]"
+- "[[Transport]]"
 relatedTerm:
-- "[[2494 Buses]]"
-- "[[20845 Urban transit]]"
+- "[[Buses Urban transit]]"
 use:
-- "[[16921 Public transport]]"
-- "[[16923 Public transportation]]"
+- "[[Public transport Public transportation]]"
 ---
-# Public transit

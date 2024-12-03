@@ -1,10 +1,8 @@
 ---
 title: Foods derived from genetically modified organisms
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Foods derived from genetically modified organisms.
+longTitle: 'Foods derived from genetically modified organisms.'
+tags:
+- gccommon
 scopeNote:
-- "[[8848 Genetically modified foods]]"
+- "[[Genetically modified foods]]"
 ---
-# Foods derived from genetically modified organisms

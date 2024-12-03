@@ -1,10 +1,8 @@
 ---
 title: Wind power
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wind power
+longTitle: 'Wind power'
+tags:
+- gccommon
 usedFor:
-- "[[21781 Wind energy]]"
+- "[[Wind energy]]"
 ---
-# Wind power

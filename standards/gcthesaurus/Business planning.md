@@ -1,10 +1,8 @@
 ---
 title: Business planning
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Business planning
+longTitle: 'Business planning'
+tags:
+- gccommon
 usedFor:
-- "[[2555 Business plans]]"
+- "[[Business plans]]"
 ---
-# Business planning

@@ -1,14 +1,12 @@
 ---
 title: Marine conservation areas
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marine conservation areas
+longTitle: 'Marine conservation areas'
+tags:
+- gccommon
 narrowerTerm:
-- "[[3976 Conservation areas]]"
+- "[[Conservation areas]]"
 relatedTerm:
-- "[[12954 Marine heritage]]"
+- "[[Marine heritage]]"
 use:
-- "[[12975 Marine protected areas]]"
+- "[[Marine protected areas]]"
 ---
-# Marine conservation areas

@@ -1,10 +1,8 @@
 ---
 title: Electronic devices
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electronic devices
+longTitle: 'Electronic devices'
+tags:
+- gccommon
 usedFor:
-- "[[6308 Electronic equipment]]"
+- "[[Electronic equipment]]"
 ---
-# Electronic devices

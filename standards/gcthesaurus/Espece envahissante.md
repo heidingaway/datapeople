@@ -1,10 +1,8 @@
 ---
 title: Espece envahissante
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Espèce envahissante
+longTitle: 'Espèce envahissante'
+tags:
+- gccommon
 french:
-- "[[11559 Invasive species]]"
+- "[[Invasive species]]"
 ---
-# Espece envahissante

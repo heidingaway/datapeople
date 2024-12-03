@@ -1,10 +1,8 @@
 ---
 title: Aboriginal rights
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aboriginal rights
+longTitle: 'Aboriginal rights'
+tags:
+- gccommon
 usedFor:
-- "[[10707 Indigenous rights]]"
+- "[[Indigenous rights]]"
 ---
-# Aboriginal rights

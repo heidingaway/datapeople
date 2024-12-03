@@ -1,12 +1,10 @@
 ---
 title: Immigration policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Immigration policy
+longTitle: 'Immigration policy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15950 Policy]]"
+- "[[Policy]]"
 relatedTerm:
-- "[[10512 Immigration]]"
+- "[[Immigration]]"
 ---
-# Immigration policy

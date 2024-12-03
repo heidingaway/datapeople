@@ -1,10 +1,8 @@
 ---
 title: Pollution de leau
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pollution de l'eau
+longTitle: 'Pollution de l'eau'
+tags:
+- gccommon
 french:
-- "[[21450 Water pollution]]"
+- "[[Water pollution]]"
 ---
-# Pollution de leau

@@ -1,10 +1,8 @@
 ---
 title: Politique environnementale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Politique environnementale
+longTitle: 'Politique environnementale'
+tags:
+- gccommon
 french:
-- "[[6943 Environmental policy]]"
+- "[[Environmental policy]]"
 ---
-# Politique environnementale

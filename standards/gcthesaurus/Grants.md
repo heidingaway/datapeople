@@ -1,17 +1,12 @@
 ---
 title: Grants
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Grants
+longTitle: 'Grants'
+tags:
+- gccommon
 broaderTerm:
-- "[[17680 Research grants]]"
+- "[[Research grants]]"
 relatedTerm:
-- "[[879 Allowances]]"
-- "[[18195 Scholarships]]"
-- "[[7719 Financial assistance]]"
-- "[[8636 Funding]]"
+- "[[Allowances Scholarships Financial assistance Fundi]]"
 use:
-- "[[19508 Subsidies]]"
+- "[[Subsidies]]"
 ---
-# Grants

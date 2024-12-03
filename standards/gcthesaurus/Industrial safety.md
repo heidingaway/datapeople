@@ -1,10 +1,8 @@
 ---
 title: Industrial safety
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrial safety
+longTitle: 'Industrial safety'
+tags:
+- gccommon
 usedFor:
-- "[[14796 Occupational safety]]"
+- "[[Occupational safety]]"
 ---
-# Industrial safety

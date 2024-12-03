@@ -1,10 +1,8 @@
 ---
 title: Oil refining
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Oil refining
+longTitle: 'Oil refining'
+tags:
+- gccommon
 usedFor:
-- "[[15655 Petroleum industry]]"
+- "[[Petroleum industry]]"
 ---
-# Oil refining

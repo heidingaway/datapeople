@@ -1,12 +1,10 @@
 ---
 title: Arctic ecosystems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Arctic ecosystems
+longTitle: 'Arctic ecosystems'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5993 Ecosystems]]"
+- "[[Ecosystems]]"
 relatedTerm:
-- "[[1394 Arctic]]"
+- "[[Arctic]]"
 ---
-# Arctic ecosystems

@@ -1,10 +1,8 @@
 ---
 title: Guaranteed income
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Guaranteed income
+longTitle: 'Guaranteed income'
+tags:
+- gccommon
 usedFor:
-- "[[10571 Income security]]"
+- "[[Income security]]"
 ---
-# Guaranteed income

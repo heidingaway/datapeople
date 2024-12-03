@@ -1,10 +1,8 @@
 ---
 title: Institution provinciale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Institution provinciale
+longTitle: 'Institution provinciale'
+tags:
+- gccommon
 french:
-- "[[16712 Provincial institutions]]"
+- "[[Provincial institutions]]"
 ---
-# Institution provinciale

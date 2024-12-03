@@ -1,14 +1,12 @@
 ---
 title: Shoe industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Shoe industry
+longTitle: 'Shoe industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12853 Manufacturing industry]]"
+- "[[Manufacturing industry]]"
 relatedTerm:
-- "[[3392 Clothing industry]]"
+- "[[Clothing industry]]"
 use:
-- "[[8196 Footwear industry]]"
+- "[[Footwear industry]]"
 ---
-# Shoe industry

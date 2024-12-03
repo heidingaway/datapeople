@@ -1,10 +1,8 @@
 ---
 title: User guides
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: User guides
+longTitle: 'User guides'
+tags:
+- gccommon
 usedFor:
-- "[[9440 Handbooks]]"
+- "[[Handbooks]]"
 ---
-# User guides

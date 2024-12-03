@@ -1,10 +1,8 @@
 ---
 title: Habiletes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Habiletés
+longTitle: 'Habiletés'
+tags:
+- gccommon
 french:
-- "[[18776 Skills]]"
+- "[[Skills]]"
 ---
-# Habiletes

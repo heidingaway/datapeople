@@ -1,10 +1,8 @@
 ---
 title: Bioweapons
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bioweapons
+longTitle: 'Bioweapons'
+tags:
+- gccommon
 usedFor:
-- "[[2190 Biological weapons]]"
+- "[[Biological weapons]]"
 ---
-# Bioweapons

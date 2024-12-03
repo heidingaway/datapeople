@@ -1,13 +1,10 @@
 ---
 title: Grapes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Grapes
+longTitle: 'Grapes'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8561 Fruits]]"
+- "[[Fruits]]"
 relatedTerm:
-- "[[21138 Viticulture]]"
-- "[[21793 Wine]]"
+- "[[Viticulture Wine]]"
 ---
-# Grapes

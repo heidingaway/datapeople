@@ -1,13 +1,10 @@
 ---
 title: Energy policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Energy policy
+longTitle: 'Energy policy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15941 Policy]]"
+- "[[Policy]]"
 relatedTerm:
-- "[[6625 Energy]]"
-- "[[6661 Energy management]]"
+- "[[Energy Energy management]]"
 ---
-# Energy policy

@@ -1,10 +1,8 @@
 ---
 title: Politique economique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Politique économique
+longTitle: 'Politique économique'
+tags:
+- gccommon
 french:
-- "[[5925 Economic policy]]"
+- "[[Economic policy]]"
 ---
-# Politique economique

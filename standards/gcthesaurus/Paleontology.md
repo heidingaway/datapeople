@@ -1,10 +1,8 @@
 ---
 title: Paleontology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Paleontology
+longTitle: 'Paleontology'
+tags:
+- gccommon
 usedFor:
-- "[[15221 Palaeontology]]"
+- "[[Palaeontology]]"
 ---
-# Paleontology

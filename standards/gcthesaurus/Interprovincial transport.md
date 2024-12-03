@@ -1,10 +1,8 @@
 ---
 title: Interprovincial transport
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Interprovincial transport
+longTitle: 'Interprovincial transport'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20605 Transport]]"
+- "[[Transport]]"
 ---
-# Interprovincial transport

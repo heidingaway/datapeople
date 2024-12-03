@@ -1,10 +1,8 @@
 ---
 title: Don de charite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Don de charité
+longTitle: 'Don de charité'
+tags:
+- gccommon
 french:
-- "[[2988 Charitable donations]]"
+- "[[Charitable donations]]"
 ---
-# Don de charite

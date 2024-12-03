@@ -1,10 +1,8 @@
 ---
 title: Questions sociales
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Questions sociales
+longTitle: 'Questions sociales'
+tags:
+- gccommon
 french:
-- "[[18924 Social issues]]"
+- "[[Social issues]]"
 ---
-# Questions sociales

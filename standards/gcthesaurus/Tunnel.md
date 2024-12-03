@@ -1,10 +1,8 @@
 ---
 title: Tunnel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tunnel
+longTitle: 'Tunnel'
+tags:
+- gccommon
 french:
-- "[[20734 Tunnels]]"
+- "[[Tunnels]]"
 ---
-# Tunnel

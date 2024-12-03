@@ -1,10 +1,8 @@
 ---
 title: Joint ventures
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Joint ventures
+longTitle: 'Joint ventures'
+tags:
+- gccommon
 usedFor:
-- "[[15350 Partnerships]]"
+- "[[Partnerships]]"
 ---
-# Joint ventures

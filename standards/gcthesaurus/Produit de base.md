@@ -1,10 +1,8 @@
 ---
 title: Produit de base
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Produit de base
+longTitle: 'Produit de base'
+tags:
+- gccommon
 french:
-- "[[3623 Commodities]]"
+- "[[Commodities]]"
 ---
-# Produit de base

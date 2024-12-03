@@ -1,10 +1,8 @@
 ---
 title: Affaires etrangeres
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Affaires étrangères
+longTitle: 'Affaires étrangères'
+tags:
+- gccommon
 french:
-- "[[8216 Foreign affairs]]"
+- "[[Foreign affairs]]"
 ---
-# Affaires etrangeres

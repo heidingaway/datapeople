@@ -1,10 +1,8 @@
 ---
 title: Medical equipment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Medical equipment
+longTitle: 'Medical equipment'
+tags:
+- gccommon
 usedFor:
-- "[[13258 Medical products]]"
+- "[[Medical products]]"
 ---
-# Medical equipment

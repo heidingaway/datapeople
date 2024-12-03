@@ -1,10 +1,8 @@
 ---
 title: Slaughter of animals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Slaughter of animals
+longTitle: 'Slaughter of animals'
+tags:
+- gccommon
 usedFor:
-- "[[18792 Slaughtering]]"
+- "[[Slaughtering]]"
 ---
-# Slaughter of animals

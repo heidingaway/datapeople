@@ -1,10 +1,8 @@
 ---
 title: Maladie transmise sexuellement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maladie transmise sexuellement
+longTitle: 'Maladie transmise sexuellement'
+tags:
+- gccommon
 french:
-- "[[18649 Sexually transmitted diseases]]"
+- "[[Sexually transmitted diseases]]"
 ---
-# Maladie transmise sexuellement

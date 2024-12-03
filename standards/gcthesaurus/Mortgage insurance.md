@@ -1,12 +1,10 @@
 ---
 title: Mortgage insurance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mortgage insurance
+longTitle: 'Mortgage insurance'
+tags:
+- gccommon
 narrowerTerm:
-- "[[11197 Insurance]]"
+- "[[Insurance]]"
 relatedTerm:
-- "[[13929 Mortgage loans]]"
+- "[[Mortgage loans]]"
 ---
-# Mortgage insurance

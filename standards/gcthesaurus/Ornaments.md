@@ -1,10 +1,8 @@
 ---
 title: Ornaments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ornaments
+longTitle: 'Ornaments'
+tags:
+- gccommon
 relatedTerm:
-- "[[11643 Jewellery]]"
+- "[[Jewellery]]"
 ---
-# Ornaments

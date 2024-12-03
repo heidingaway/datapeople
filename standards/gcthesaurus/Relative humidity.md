@@ -1,10 +1,8 @@
 ---
 title: Relative humidity
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Relative humidity
+longTitle: 'Relative humidity'
+tags:
+- gccommon
 usedFor:
-- "[[10290 Humidity]]"
+- "[[Humidity]]"
 ---
-# Relative humidity

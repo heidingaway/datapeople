@@ -1,10 +1,8 @@
 ---
 title: Impact sur la sante
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Impact sur la santé
+longTitle: 'Impact sur la santé'
+tags:
+- gccommon
 french:
-- "[[9684 Health impact]]"
+- "[[Health impact]]"
 ---
-# Impact sur la sante

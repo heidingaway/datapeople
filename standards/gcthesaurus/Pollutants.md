@@ -1,19 +1,10 @@
 ---
 title: Pollutants
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pollutants
+longTitle: 'Pollutants'
+tags:
+- gccommon
 relatedTerm:
-- "[[4114 Contaminated sites]]"
-- "[[1659 Atmospheric emissions]]"
-- "[[9530 Hazardous materials]]"
-- "[[20334 Toxic substances]]"
-- "[[3065 Chemicals]]"
-- "[[16031 Pollution]]"
+- "[[Contaminated sites Atmospheric emissions Hazardous]]"
 use:
-- "[[16020 Polluting substances]]"
-- "[[4110 Contaminants]]"
-- "[[635 Air pollutants]]"
+- "[[Polluting substances Contaminants Air pollutants]]"
 ---
-# Pollutants

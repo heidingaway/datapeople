@@ -1,12 +1,10 @@
 ---
 title: Painting
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Painting
+longTitle: 'Painting'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21105 Visual arts]]"
+- "[[Visual arts]]"
 use:
-- "[[14976 Oil painting]]"
+- "[[Oil painting]]"
 ---
-# Painting

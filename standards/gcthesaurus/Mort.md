@@ -1,10 +1,8 @@
 ---
 title: Mort
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mort
+longTitle: 'Mort'
+tags:
+- gccommon
 french:
-- "[[4938 Death]]"
+- "[[Death]]"
 ---
-# Mort

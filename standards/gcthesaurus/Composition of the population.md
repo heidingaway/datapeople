@@ -1,10 +1,8 @@
 ---
 title: Composition of the population
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Composition of the population
+longTitle: 'Composition of the population'
+tags:
+- gccommon
 usedFor:
-- "[[16083 Population distribution]]"
+- "[[Population distribution]]"
 ---
-# Composition of the population

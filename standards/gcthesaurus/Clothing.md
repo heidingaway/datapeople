@@ -1,15 +1,10 @@
 ---
 title: Clothing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Clothing
+longTitle: 'Clothing'
+tags:
+- gccommon
 relatedTerm:
-- "[[3391 Clothing industry]]"
-- "[[4342 Costume]]"
-- "[[8676 Furs]]"
-- "[[20137 Textiles]]"
+- "[[Clothing industry Costume Furs Textiles]]"
 use:
-- "[[3375 Clothes]]"
+- "[[Clothes]]"
 ---
-# Clothing

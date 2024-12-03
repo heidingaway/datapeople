@@ -1,10 +1,8 @@
 ---
 title: Agricultural buildings
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Agricultural buildings
+longTitle: 'Agricultural buildings'
+tags:
+- gccommon
 usedFor:
-- "[[7430 Farm buildings]]"
+- "[[Farm buildings]]"
 ---
-# Agricultural buildings

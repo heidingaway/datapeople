@@ -1,13 +1,10 @@
 ---
 title: Solvents
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Solvents
+longTitle: 'Solvents'
+tags:
+- gccommon
 relatedTerm:
-- "[[3066 Chemicals]]"
+- "[[Chemicals]]"
 use:
-- "[[5423 Dissolving agents]]"
-- "[[19139 Solving agents]]"
+- "[[Dissolving agents Solving agents]]"
 ---
-# Solvents

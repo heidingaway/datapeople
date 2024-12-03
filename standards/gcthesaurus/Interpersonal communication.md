@@ -1,10 +1,8 @@
 ---
 title: Interpersonal communication
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Interpersonal communication
+longTitle: 'Interpersonal communication'
+tags:
+- gccommon
 usedFor:
-- "[[11487 Interpersonal relations]]"
+- "[[Interpersonal relations]]"
 ---
-# Interpersonal communication

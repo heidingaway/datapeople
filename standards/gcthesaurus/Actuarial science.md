@@ -1,11 +1,8 @@
 ---
 title: Actuarial science
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Actuarial science
+longTitle: 'Actuarial science'
+tags:
+- gccommon
 relatedTerm:
-- "[[5885 Economic forecasting]]"
-- "[[11199 Insurance]]"
+- "[[Economic forecasting Insurance]]"
 ---
-# Actuarial science

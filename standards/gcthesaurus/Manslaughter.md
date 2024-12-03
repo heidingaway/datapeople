@@ -1,10 +1,8 @@
 ---
 title: Manslaughter
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Manslaughter
+longTitle: 'Manslaughter'
+tags:
+- gccommon
 usedFor:
-- "[[10053 Homicide]]"
+- "[[Homicide]]"
 ---
-# Manslaughter

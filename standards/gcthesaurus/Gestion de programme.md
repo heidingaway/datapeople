@@ -1,10 +1,8 @@
 ---
 title: Gestion de programme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gestion de programme
+longTitle: 'Gestion de programme'
+tags:
+- gccommon
 french:
-- "[[16553 Program management]]"
+- "[[Program management]]"
 ---
-# Gestion de programme

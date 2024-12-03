@@ -1,10 +1,8 @@
 ---
 title: Laboratoire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Laboratoire
+longTitle: 'Laboratoire'
+tags:
+- gccommon
 french:
-- "[[11828 Laboratories]]"
+- "[[Laboratories]]"
 ---
-# Laboratoire

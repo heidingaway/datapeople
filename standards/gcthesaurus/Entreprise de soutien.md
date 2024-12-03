@@ -1,10 +1,8 @@
 ---
 title: Entreprise de soutien
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Entreprise de soutien
+longTitle: 'Entreprise de soutien'
+tags:
+- gccommon
 french:
-- "[[19572 Support businesses]]"
+- "[[Support businesses]]"
 ---
-# Entreprise de soutien

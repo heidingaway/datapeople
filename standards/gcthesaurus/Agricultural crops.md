@@ -1,10 +1,8 @@
 ---
 title: Agricultural crops
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Agricultural crops
+longTitle: 'Agricultural crops'
+tags:
+- gccommon
 usedFor:
-- "[[4538 Crops]]"
+- "[[Crops]]"
 ---
-# Agricultural crops

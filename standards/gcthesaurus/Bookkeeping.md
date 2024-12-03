@@ -1,10 +1,8 @@
 ---
 title: Bookkeeping
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bookkeeping
+longTitle: 'Bookkeeping'
+tags:
+- gccommon
 usedFor:
-- "[[139 Accounting]]"
+- "[[Accounting]]"
 ---
-# Bookkeeping

@@ -1,10 +1,8 @@
 ---
 title: Aboriginal governments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aboriginal governments
+longTitle: 'Aboriginal governments'
+tags:
+- gccommon
 usedFor:
-- "[[10648 Indigenous governments]]"
+- "[[Indigenous governments]]"
 ---
-# Aboriginal governments

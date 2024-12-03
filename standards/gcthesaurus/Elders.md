@@ -1,10 +1,8 @@
 ---
 title: Elders
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Elders
+longTitle: 'Elders'
+tags:
+- gccommon
 usedFor:
-- "[[18541 Seniors]]"
+- "[[Seniors]]"
 ---
-# Elders

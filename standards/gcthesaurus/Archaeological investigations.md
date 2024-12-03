@@ -1,14 +1,10 @@
 ---
 title: Archaeological investigations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Archaeological investigations
+longTitle: 'Archaeological investigations'
+tags:
+- gccommon
 relatedTerm:
-- "[[1347 Archaeology]]"
-- "[[1484 Artefacts]]"
+- "[[Archaeology Artefacts]]"
 use:
-- "[[1341 Archaeological sites]]"
-- "[[1333 Archaeological excavation sites]]"
+- "[[Archaeological sites Archaeological excavation sit]]"
 ---
-# Archaeological investigations

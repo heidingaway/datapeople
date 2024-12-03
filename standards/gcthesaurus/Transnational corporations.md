@@ -1,10 +1,8 @@
 ---
 title: Transnational corporations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transnational corporations
+longTitle: 'Transnational corporations'
+tags:
+- gccommon
 usedFor:
-- "[[14056 Multinational corporations]]"
+- "[[Multinational corporations]]"
 ---
-# Transnational corporations

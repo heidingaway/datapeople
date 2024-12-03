@@ -1,10 +1,8 @@
 ---
 title: Promise of payment against possible damage or loss
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Promise of payment against possible damage or loss, or the money paid if damage or loss occurs.
+longTitle: 'Promise of payment against possible damage or loss, or the money paid if damage or loss occurs.'
+tags:
+- gccommon
 scopeNote:
-- "[[10598 Indemnities]]"
+- "[[Indemnities]]"
 ---
-# Promise of payment against possible damage or loss

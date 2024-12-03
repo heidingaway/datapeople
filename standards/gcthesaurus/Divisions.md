@@ -1,10 +1,8 @@
 ---
 title: Divisions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Divisions
+longTitle: 'Divisions'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5143 Departments]]"
+- "[[Departments]]"
 ---
-# Divisions

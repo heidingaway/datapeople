@@ -1,10 +1,8 @@
 ---
 title: Old growth forests
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Old growth forests
+longTitle: 'Old growth forests'
+tags:
+- gccommon
 usedFor:
-- "[[8413 Forests]]"
+- "[[Forests]]"
 ---
-# Old growth forests

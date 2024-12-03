@@ -1,10 +1,8 @@
 ---
 title: Collector coins
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Collector coins
+longTitle: 'Collector coins'
+tags:
+- gccommon
 usedFor:
-- "[[3478 Coins]]"
+- "[[Coins]]"
 ---
-# Collector coins

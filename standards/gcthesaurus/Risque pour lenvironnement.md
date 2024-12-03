@@ -1,10 +1,8 @@
 ---
 title: Risque pour lenvironnement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Risque pour l'environnement
+longTitle: 'Risque pour l'environnement'
+tags:
+- gccommon
 french:
-- "[[6873 Environmental hazards]]"
+- "[[Environmental hazards]]"
 ---
-# Risque pour lenvironnement

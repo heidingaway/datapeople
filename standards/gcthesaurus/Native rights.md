@@ -1,10 +1,8 @@
 ---
 title: Native rights
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Native rights
+longTitle: 'Native rights'
+tags:
+- gccommon
 usedFor:
-- "[[10709 Indigenous rights]]"
+- "[[Indigenous rights]]"
 ---
-# Native rights

@@ -1,12 +1,10 @@
 ---
 title: Ornithology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ornithology
+longTitle: 'Ornithology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[22137 Zoology]]"
+- "[[Zoology]]"
 relatedTerm:
-- "[[2246 Birds]]"
+- "[[Birds]]"
 ---
-# Ornithology

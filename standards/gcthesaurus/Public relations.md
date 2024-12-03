@@ -1,11 +1,8 @@
 ---
 title: Public relations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public relations
+longTitle: 'Public relations'
+tags:
+- gccommon
 relatedTerm:
-- "[[16267 Press releases]]"
-- "[[13097 Marketing]]"
+- "[[Press releases Marketing]]"
 ---
-# Public relations

@@ -1,10 +1,8 @@
 ---
 title: Cultures fourrageres
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cultures fourragères
+longTitle: 'Cultures fourragères'
+tags:
+- gccommon
 french:
-- "[[8198 Forage crops]]"
+- "[[Forage crops]]"
 ---
-# Cultures fourrageres

@@ -1,22 +1,10 @@
 ---
 title: Safety measures
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Safety measures
+longTitle: 'Safety measures'
+tags:
+- gccommon
 relatedTerm:
-- "[[7798 Fire prevention]]"
-- "[[17999 Safety]]"
-- "[[744 Aircraft anti-icing]]"
-- "[[756 Aircraft de-icing]]"
-- "[[18064 Safety standards]]"
-- "[[18057 Safety regulations]]"
-- "[[18026 Safety equipment]]"
-- "[[118 Accident prevention]]"
-- "[[16477 Product recalls]]"
+- "[[Fire prevention Safety Aircraft anti-icing Aircraf]]"
 use:
-- "[[18052 Safety procedures]]"
-- "[[16673 Protective measures]]"
-- "[[18050 Safety precautions]]"
+- "[[Safety procedures Protective measures Safety preca]]"
 ---
-# Safety measures

@@ -1,10 +1,8 @@
 ---
 title: Minerai
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Minerai
+longTitle: 'Minerai'
+tags:
+- gccommon
 french:
-- "[[13716 Minerals]]"
+- "[[Minerals]]"
 ---
-# Minerai

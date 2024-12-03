@@ -1,10 +1,8 @@
 ---
 title: Planning management and operating functions of org
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Planning, management, and operating functions of organizations, facilities, and equipment.
+longTitle: 'Planning, management, and operating functions of organizations, facilities, and equipment.'
+tags:
+- gccommon
 scopeNote:
-- "[[15053 Operations]]"
+- "[[Operations]]"
 ---
-# Planning management and operating functions of org

@@ -1,15 +1,12 @@
 ---
 title: Dairy cattle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dairy cattle
+longTitle: 'Dairy cattle'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2876 Cattle]]"
+- "[[Cattle]]"
 relatedTerm:
-- "[[4810 Dairy industry]]"
-- "[[13695 Milk]]"
+- "[[Dairy industry Milk]]"
 use:
-- "[[4805 Dairy cows]]"
+- "[[Dairy cows]]"
 ---
-# Dairy cattle

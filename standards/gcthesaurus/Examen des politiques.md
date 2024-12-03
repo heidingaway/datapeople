@@ -1,10 +1,8 @@
 ---
 title: Examen des politiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Examen des politiques
+longTitle: 'Examen des politiques'
+tags:
+- gccommon
 french:
-- "[[15974 Policy review]]"
+- "[[Policy review]]"
 ---
-# Examen des politiques

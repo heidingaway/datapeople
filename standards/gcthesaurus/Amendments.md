@@ -1,12 +1,10 @@
 ---
 title: Amendments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Amendments
+longTitle: 'Amendments'
+tags:
+- gccommon
 relatedTerm:
-- "[[12303 Legislation]]"
+- "[[Legislation]]"
 use:
-- "[[12311 Legislative amendments]]"
+- "[[Legislative amendments]]"
 ---
-# Amendments

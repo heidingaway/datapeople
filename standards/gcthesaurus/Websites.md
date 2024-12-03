@@ -1,18 +1,14 @@
 ---
 title: Websites
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Websites
+longTitle: 'Websites'
+tags:
+- gccommon
 broaderTerm:
-- "[[21636 Web usability]]"
+- "[[Web usability]]"
 narrowerTerm:
-- "[[11471 Internet]]"
+- "[[Internet]]"
 relatedTerm:
-- "[[20011 Templates]]"
+- "[[Templates]]"
 use:
-- "[[11478 Internet sites]]"
-- "[[21632 Web sites]]"
-- "[[21629 Web pages]]"
+- "[[Internet sites Web sites Web pages]]"
 ---
-# Websites

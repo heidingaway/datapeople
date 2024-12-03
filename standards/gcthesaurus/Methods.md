@@ -1,10 +1,8 @@
 ---
 title: Methods
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Methods
+longTitle: 'Methods'
+tags:
+- gccommon
 usedFor:
-- "[[13492 Methodology]]"
+- "[[Methodology]]"
 ---
-# Methods

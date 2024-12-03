@@ -1,10 +1,8 @@
 ---
 title: Avis public
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Avis public
+longTitle: 'Avis public'
+tags:
+- gccommon
 french:
-- "[[16843 Public notices]]"
+- "[[Public notices]]"
 ---
-# Avis public

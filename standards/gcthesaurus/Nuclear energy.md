@@ -1,17 +1,12 @@
 ---
 title: Nuclear energy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nuclear energy
+longTitle: 'Nuclear energy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6619 Energy]]"
+- "[[Energy]]"
 relatedTerm:
-- "[[14650 Nuclear power plants]]"
-- "[[14626 Nuclear facilities]]"
-- "[[14666 Nuclear technology]]"
+- "[[Nuclear power plants Nuclear facilities Nuclear te]]"
 use:
-- "[[14638 Nuclear power]]"
-- "[[1675 Atomic energy]]"
+- "[[Nuclear power Atomic energy]]"
 ---
-# Nuclear energy

@@ -1,14 +1,12 @@
 ---
 title: Elementary education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Elementary education
+longTitle: 'Elementary education'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6031 Education]]"
+- "[[Education]]"
 relatedTerm:
-- "[[6403 Elementary schools]]"
+- "[[Elementary schools]]"
 use:
-- "[[16334 Primary education]]"
+- "[[Primary education]]"
 ---
-# Elementary education

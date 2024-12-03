@@ -1,10 +1,8 @@
 ---
 title: Work force
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Work force
+longTitle: 'Work force'
+tags:
+- gccommon
 usedFor:
-- "[[11874 Labour force]]"
+- "[[Labour force]]"
 ---
-# Work force

@@ -1,10 +1,8 @@
 ---
 title: Ecosysteme aquatique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Écosystème aquatique
+longTitle: 'Écosystème aquatique'
+tags:
+- gccommon
 french:
-- "[[1283 Aquatic ecosystems]]"
+- "[[Aquatic ecosystems]]"
 ---
-# Ecosysteme aquatique

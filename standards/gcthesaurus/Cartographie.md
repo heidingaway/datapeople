@@ -1,10 +1,8 @@
 ---
 title: Cartographie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cartographie
+longTitle: 'Cartographie'
+tags:
+- gccommon
 french:
-- "[[2820 Cartography]]"
+- "[[Cartography]]"
 ---
-# Cartographie

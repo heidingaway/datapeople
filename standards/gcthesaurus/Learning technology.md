@@ -1,10 +1,8 @@
 ---
 title: Learning technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Learning technology
+longTitle: 'Learning technology'
+tags:
+- gccommon
 usedFor:
-- "[[6115 Educational technology]]"
+- "[[Educational technology]]"
 ---
-# Learning technology

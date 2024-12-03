@@ -1,16 +1,12 @@
 ---
 title: Indigenous governments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indigenous governments
+longTitle: 'Indigenous governments'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9257 Governments]]"
+- "[[Governments]]"
 relatedTerm:
-- "[[10712 Indigenous rights]]"
-- "[[10682 Indigenous peoples]]"
+- "[[Indigenous rights Indigenous peoples]]"
 use:
-- "[[34 Aboriginal governments]]"
-- "[[59 Aboriginal self government]]"
+- "[[Aboriginal governments Aboriginal self government]]"
 ---
-# Indigenous governments

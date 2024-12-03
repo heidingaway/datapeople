@@ -1,10 +1,8 @@
 ---
 title: Information highway
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Information highway
+longTitle: 'Information highway'
+tags:
+- gccommon
 usedFor:
-- "[[11466 Internet]]"
+- "[[Internet]]"
 ---
-# Information highway

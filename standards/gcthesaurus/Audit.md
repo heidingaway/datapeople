@@ -1,13 +1,10 @@
 ---
 title: Audit
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Audit
+longTitle: 'Audit'
+tags:
+- gccommon
 broaderTerm:
-- "[[7725 Financial audit]]"
+- "[[Financial audit]]"
 relatedTerm:
-- "[[4151 Control]]"
-- "[[17809 Review]]"
+- "[[Control Review]]"
 ---
-# Audit

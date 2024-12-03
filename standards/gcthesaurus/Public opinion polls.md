@@ -1,16 +1,12 @@
 ---
 title: Public opinion polls
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public opinion polls
+longTitle: 'Public opinion polls'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19612 Surveys]]"
+- "[[Surveys]]"
 relatedTerm:
-- "[[16848 Public opinion]]"
-- "[[15458 Perceptions]]"
+- "[[Public opinion Perceptions]]"
 use:
-- "[[15061 Opinion surveys]]"
-- "[[15059 Opinion polls]]"
+- "[[Opinion surveys Opinion polls]]"
 ---
-# Public opinion polls

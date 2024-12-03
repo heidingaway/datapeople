@@ -1,14 +1,10 @@
 ---
 title: International travel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: International travel
+longTitle: 'International travel'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20662 Travel]]"
+- "[[Travel]]"
 relatedTerm:
-- "[[2345 Border crossing]]"
-- "[[20671 Travel documents]]"
-- "[[20279 Tourism]]"
+- "[[Border crossing Travel documents Tourism]]"
 ---
-# International travel

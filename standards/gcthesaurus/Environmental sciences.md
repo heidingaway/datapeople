@@ -1,15 +1,12 @@
 ---
 title: Environmental sciences
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental sciences
+longTitle: 'Environmental sciences'
+tags:
+- gccommon
 broaderTerm:
-- "[[5815 Ecology]]"
+- "[[Ecology]]"
 narrowerTerm:
-- "[[14331 Natural sciences]]"
+- "[[Natural sciences]]"
 relatedTerm:
-- "[[18279 Scientists]]"
-- "[[6795 Environment]]"
+- "[[Scientists Environment]]"
 ---
-# Environmental sciences

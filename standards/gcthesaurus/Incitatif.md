@@ -1,10 +1,8 @@
 ---
 title: Incitatif
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Incitatif
+longTitle: 'Incitatif'
+tags:
+- gccommon
 french:
-- "[[10551 Incentives]]"
+- "[[Incentives]]"
 ---
-# Incitatif

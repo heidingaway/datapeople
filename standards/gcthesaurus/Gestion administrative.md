@@ -1,10 +1,8 @@
 ---
 title: Gestion administrative
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gestion administrative
+longTitle: 'Gestion administrative'
+tags:
+- gccommon
 french:
-- "[[14915 Office management]]"
+- "[[Office management]]"
 ---
-# Gestion administrative

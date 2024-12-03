@@ -1,10 +1,8 @@
 ---
 title: Faible revenu
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Faible revenu
+longTitle: 'Faible revenu'
+tags:
+- gccommon
 french:
-- "[[12657 Low income]]"
+- "[[Low income]]"
 ---
-# Faible revenu

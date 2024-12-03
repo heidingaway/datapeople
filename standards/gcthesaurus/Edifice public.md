@@ -1,10 +1,8 @@
 ---
 title: Edifice public
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Édifice public
+longTitle: 'Édifice public'
+tags:
+- gccommon
 french:
-- "[[16786 Public buildings]]"
+- "[[Public buildings]]"
 ---
-# Edifice public

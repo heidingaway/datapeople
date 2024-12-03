@@ -1,10 +1,8 @@
 ---
 title: Whistle blowing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Whistle blowing
+longTitle: 'Whistle blowing'
+tags:
+- gccommon
 usedFor:
-- "[[5364 Disclosure of wrongdoing]]"
+- "[[Disclosure of wrongdoing]]"
 ---
-# Whistle blowing

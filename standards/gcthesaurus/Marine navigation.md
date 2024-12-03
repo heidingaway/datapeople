@@ -1,10 +1,8 @@
 ---
 title: Marine navigation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marine navigation
+longTitle: 'Marine navigation'
+tags:
+- gccommon
 usedFor:
-- "[[14375 Navigation]]"
+- "[[Navigation]]"
 ---
-# Marine navigation

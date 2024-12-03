@@ -1,12 +1,10 @@
 ---
 title: Poxvirus diseases
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Poxvirus diseases
+longTitle: 'Poxvirus diseases'
+tags:
+- gccommon
 broaderTerm:
-- "[[13893 Monkeypox]]"
+- "[[Monkeypox]]"
 narrowerTerm:
-- "[[10925 Infectious diseases]]"
+- "[[Infectious diseases]]"
 ---
-# Poxvirus diseases

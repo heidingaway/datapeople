@@ -1,10 +1,8 @@
 ---
 title: Personne bisexuelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Personne bisexuelle
+longTitle: 'Personne bisexuelle'
+tags:
+- gccommon
 french:
-- "[[2275 Bisexual people]]"
+- "[[Bisexual people]]"
 ---
-# Personne bisexuelle

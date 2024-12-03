@@ -1,10 +1,8 @@
 ---
 title: Provinces du Centre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Provinces du Centre
+longTitle: 'Provinces du Centre'
+tags:
+- gccommon
 french:
-- "[[2940 Central provinces]]"
+- "[[Central provinces]]"
 ---
-# Provinces du Centre

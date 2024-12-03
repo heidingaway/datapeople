@@ -1,10 +1,8 @@
 ---
 title: Federal provincial conferences
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Federal provincial conferences
+longTitle: 'Federal provincial conferences'
+tags:
+- gccommon
 usedFor:
-- "[[7587 Federal provincial relations]]"
+- "[[Federal provincial relations]]"
 ---
-# Federal provincial conferences

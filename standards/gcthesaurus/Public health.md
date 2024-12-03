@@ -1,10 +1,8 @@
 ---
 title: Public health
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public health
+longTitle: 'Public health'
+tags:
+- gccommon
 usedFor:
-- "[[9566 Health]]"
+- "[[Health]]"
 ---
-# Public health

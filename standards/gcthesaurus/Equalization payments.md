@@ -1,10 +1,8 @@
 ---
 title: Equalization payments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Equalization payments
+longTitle: 'Equalization payments'
+tags:
+- gccommon
 usedFor:
-- "[[20534 Transfer payments]]"
+- "[[Transfer payments]]"
 ---
-# Equalization payments

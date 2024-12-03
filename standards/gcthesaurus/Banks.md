@@ -1,17 +1,14 @@
 ---
 title: Banks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Banks
+longTitle: 'Banks'
+tags:
+- gccommon
 broaderTerm:
-- "[[2935 Central banks]]"
+- "[[Central banks]]"
 narrowerTerm:
-- "[[7734 Financial institutions]]"
+- "[[Financial institutions]]"
 relatedTerm:
-- "[[1849 Banking]]"
-- "[[4205 Cooperatives]]"
+- "[[Banking Cooperatives]]"
 use:
-- "[[3008 Chartered banks]]"
+- "[[Chartered banks]]"
 ---
-# Banks

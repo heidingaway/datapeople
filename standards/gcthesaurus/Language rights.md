@@ -1,14 +1,10 @@
 ---
 title: Language rights
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Language rights
+longTitle: 'Language rights'
+tags:
+- gccommon
 relatedTerm:
-- "[[13783 Minority language education]]"
-- "[[12091 Language minorities]]"
-- "[[10219 Human rights]]"
+- "[[Minority language education Language minorities Hu]]"
 use:
-- "[[13789 Minority language rights]]"
+- "[[Minority language rights]]"
 ---
-# Language rights

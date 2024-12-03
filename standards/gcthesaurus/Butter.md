@@ -1,10 +1,8 @@
 ---
 title: Butter
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Butter
+longTitle: 'Butter'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4817 Dairy products]]"
+- "[[Dairy products]]"
 ---
-# Butter

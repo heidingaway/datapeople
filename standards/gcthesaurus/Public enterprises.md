@@ -1,10 +1,8 @@
 ---
 title: Public enterprises
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public enterprises
+longTitle: 'Public enterprises'
+tags:
+- gccommon
 usedFor:
-- "[[16883 Public sector]]"
+- "[[Public sector]]"
 ---
-# Public enterprises

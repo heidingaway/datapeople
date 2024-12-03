@@ -1,10 +1,8 @@
 ---
 title: Hydrogeologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hydrogéologie
+longTitle: 'Hydrogéologie'
+tags:
+- gccommon
 french:
-- "[[10355 Hydrogeology]]"
+- "[[Hydrogeology]]"
 ---
-# Hydrogeologie

@@ -1,10 +1,8 @@
 ---
 title: Pathology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pathology
+longTitle: 'Pathology'
+tags:
+- gccommon
 usedFor:
-- "[[5388 Diseases]]"
+- "[[Diseases]]"
 ---
-# Pathology

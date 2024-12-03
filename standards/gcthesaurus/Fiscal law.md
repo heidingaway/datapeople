@@ -1,14 +1,12 @@
 ---
 title: Fiscal law
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fiscal law
+longTitle: 'Fiscal law'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12154 Law]]"
+- "[[Law]]"
 relatedTerm:
-- "[[10582 Income tax]]"
+- "[[Income tax]]"
 use:
-- "[[19747 Tax law]]"
+- "[[Tax law]]"
 ---
-# Fiscal law

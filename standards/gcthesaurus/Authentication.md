@@ -1,10 +1,8 @@
 ---
 title: Authentication
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Authentication
+longTitle: 'Authentication'
+tags:
+- gccommon
 relatedTerm:
-- "[[10456 Identification]]"
+- "[[Identification]]"
 ---
-# Authentication

@@ -1,10 +1,8 @@
 ---
 title: Succession
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Succession
+longTitle: 'Succession'
+tags:
+- gccommon
 french:
-- "[[7120 Estates]]"
+- "[[Estates]]"
 ---
-# Succession

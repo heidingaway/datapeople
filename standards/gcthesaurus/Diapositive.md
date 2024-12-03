@@ -1,10 +1,8 @@
 ---
 title: Diapositive
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Diapositive
+longTitle: 'Diapositive'
+tags:
+- gccommon
 french:
-- "[[18796 Slides]]"
+- "[[Slides]]"
 ---
-# Diapositive

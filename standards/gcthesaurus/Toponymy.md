@@ -1,14 +1,10 @@
 ---
 title: Toponymy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Toponymy
+longTitle: 'Toponymy'
+tags:
+- gccommon
 relatedTerm:
-- "[[8767 Gazetteers]]"
-- "[[8958 Geography]]"
+- "[[Gazetteers Geography]]"
 use:
-- "[[8942 Geographical names]]"
-- "[[15817 Place names]]"
+- "[[Geographical names Place names]]"
 ---
-# Toponymy

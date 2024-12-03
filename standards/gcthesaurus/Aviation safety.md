@@ -1,10 +1,8 @@
 ---
 title: Aviation safety
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aviation safety
+longTitle: 'Aviation safety'
+tags:
+- gccommon
 usedFor:
-- "[[660 Air safety]]"
+- "[[Air safety]]"
 ---
-# Aviation safety

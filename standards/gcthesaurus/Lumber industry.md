@@ -1,20 +1,12 @@
 ---
 title: Lumber industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Lumber industry
+longTitle: 'Lumber industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12848 Manufacturing industry]]"
-- "[[8371 Forestry industry]]"
+- "[[Manufacturing industry Forestry industry]]"
 relatedTerm:
-- "[[21870 Woodworking industry]]"
-- "[[21844 Wood]]"
-- "[[4027 Construction industry]]"
+- "[[Woodworking industry Wood Construction industry]]"
 use:
-- "[[20188 Timber industry]]"
-- "[[12672 Lumber sector]]"
-- "[[18176 Sawmill industry]]"
-- "[[18178 Sawmilling industry]]"
+- "[[Timber industry Lumber sector Sawmill industry Saw]]"
 ---
-# Lumber industry

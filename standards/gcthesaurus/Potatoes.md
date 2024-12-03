@@ -1,10 +1,8 @@
 ---
 title: Potatoes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Potatoes
+longTitle: 'Potatoes'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20903 Vegetables]]"
+- "[[Vegetables]]"
 ---
-# Potatoes

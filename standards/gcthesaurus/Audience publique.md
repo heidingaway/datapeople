@@ -1,10 +1,8 @@
 ---
 title: Audience publique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Audience publique
+longTitle: 'Audience publique'
+tags:
+- gccommon
 french:
-- "[[16831 Public hearings]]"
+- "[[Public hearings]]"
 ---
-# Audience publique

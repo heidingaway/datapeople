@@ -1,10 +1,8 @@
 ---
 title: Intelligence artificielle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Intelligence artificielle
+longTitle: 'Intelligence artificielle'
+tags:
+- gccommon
 french:
-- "[[1502 Artificial intelligence]]"
+- "[[Artificial intelligence]]"
 ---
-# Intelligence artificielle

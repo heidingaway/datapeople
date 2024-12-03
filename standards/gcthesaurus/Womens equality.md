@@ -1,10 +1,8 @@
 ---
 title: Womens equality
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Women's equality
+longTitle: 'Women's equality'
+tags:
+- gccommon
 usedFor:
-- "[[8809 Gender equality]]"
+- "[[Gender equality]]"
 ---
-# Womens equality

@@ -1,10 +1,8 @@
 ---
 title: Surgical operations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Surgical operations
+longTitle: 'Surgical operations'
+tags:
+- gccommon
 usedFor:
-- "[[19594 Surgery]]"
+- "[[Surgery]]"
 ---
-# Surgical operations

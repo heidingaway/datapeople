@@ -1,10 +1,8 @@
 ---
 title: Relations publiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Relations publiques
+longTitle: 'Relations publiques'
+tags:
+- gccommon
 french:
-- "[[16869 Public relations]]"
+- "[[Public relations]]"
 ---
-# Relations publiques

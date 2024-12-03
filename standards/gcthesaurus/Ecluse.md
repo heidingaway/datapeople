@@ -1,10 +1,8 @@
 ---
 title: Ecluse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Écluse
+longTitle: 'Écluse'
+tags:
+- gccommon
 french:
-- "[[12623 Locks]]"
+- "[[Locks]]"
 ---
-# Ecluse

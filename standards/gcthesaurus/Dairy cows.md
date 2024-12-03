@@ -1,10 +1,8 @@
 ---
 title: Dairy cows
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dairy cows
+longTitle: 'Dairy cows'
+tags:
+- gccommon
 usedFor:
-- "[[4800 Dairy cattle]]"
+- "[[Dairy cattle]]"
 ---
-# Dairy cows

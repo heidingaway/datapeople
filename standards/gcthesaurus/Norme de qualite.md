@@ -1,10 +1,8 @@
 ---
 title: Norme de qualite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Norme de qualité
+longTitle: 'Norme de qualité'
+tags:
+- gccommon
 french:
-- "[[17006 Quality standards]]"
+- "[[Quality standards]]"
 ---
-# Norme de qualite

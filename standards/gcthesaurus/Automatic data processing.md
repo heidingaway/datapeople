@@ -1,10 +1,8 @@
 ---
 title: Automatic data processing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Automatic data processing
+longTitle: 'Automatic data processing'
+tags:
+- gccommon
 usedFor:
-- "[[4872 Data processing]]"
+- "[[Data processing]]"
 ---
-# Automatic data processing

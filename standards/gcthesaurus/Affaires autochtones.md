@@ -1,10 +1,8 @@
 ---
 title: Affaires autochtones
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Affaires autochtones
+longTitle: 'Affaires autochtones'
+tags:
+- gccommon
 french:
-- "[[10627 Indigenous affairs]]"
+- "[[Indigenous affairs]]"
 ---
-# Affaires autochtones

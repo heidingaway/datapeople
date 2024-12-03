@@ -1,10 +1,8 @@
 ---
 title: Assemblee legislative
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Assemblée législative
+longTitle: 'Assemblée législative'
+tags:
+- gccommon
 french:
-- "[[12314 Legislative assemblies]]"
+- "[[Legislative assemblies]]"
 ---
-# Assemblee legislative

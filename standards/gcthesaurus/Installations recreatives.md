@@ -1,10 +1,8 @@
 ---
 title: Installations recreatives
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Installations récréatives
+longTitle: 'Installations récréatives'
+tags:
+- gccommon
 french:
-- "[[17337 Recreational facilities]]"
+- "[[Recreational facilities]]"
 ---
-# Installations recreatives

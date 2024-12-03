@@ -1,12 +1,8 @@
 ---
 title: Sedimentary rocks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sedimentary rocks
+longTitle: 'Sedimentary rocks'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5779 Earth sciences]]"
-- "[[18471 Sedimentology]]"
-- "[[8988 Geology]]"
+- "[[Earth sciences Sedimentology Geology]]"
 ---
-# Sedimentary rocks

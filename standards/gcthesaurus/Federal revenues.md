@@ -1,10 +1,8 @@
 ---
 title: Federal revenues
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Federal revenues
+longTitle: 'Federal revenues'
+tags:
+- gccommon
 usedFor:
-- "[[14210 National income]]"
+- "[[National income]]"
 ---
-# Federal revenues

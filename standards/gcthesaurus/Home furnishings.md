@@ -1,10 +1,8 @@
 ---
 title: Home furnishings
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Home furnishings
+longTitle: 'Home furnishings'
+tags:
+- gccommon
 usedFor:
-- "[[8665 Furniture]]"
+- "[[Furniture]]"
 ---
-# Home furnishings

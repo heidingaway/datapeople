@@ -1,12 +1,8 @@
 ---
 title: Prime Minister
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prime Minister
+longTitle: 'Prime Minister'
+tags:
+- gccommon
 relatedTerm:
-- "[[13374 Members of the House of Commons]]"
-- "[[15296 Parliament]]"
-- "[[13765 Ministers]]"
+- "[[Members of the House of Commons Parliament Ministe]]"
 ---
-# Prime Minister

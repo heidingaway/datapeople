@@ -1,12 +1,10 @@
 ---
 title: Religious architecture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Religious architecture
+longTitle: 'Religious architecture'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1372 Architecture]]"
+- "[[Architecture]]"
 relatedTerm:
-- "[[17501 Religious buildings]]"
+- "[[Religious buildings]]"
 ---
-# Religious architecture

@@ -1,10 +1,8 @@
 ---
 title: Authentification
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Authentification
+longTitle: 'Authentification'
+tags:
+- gccommon
 french:
-- "[[1708 Authentication]]"
+- "[[Authentication]]"
 ---
-# Authentification

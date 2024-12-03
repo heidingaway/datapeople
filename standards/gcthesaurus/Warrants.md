@@ -1,13 +1,10 @@
 ---
 title: Warrants
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Warrants
+longTitle: 'Warrants'
+tags:
+- gccommon
 relatedTerm:
-- "[[1713 Authorization]]"
-- "[[11137 Inquiry]]"
+- "[[Authorization Inquiry]]"
 use:
-- "[[18350 Search warrants]]"
+- "[[Search warrants]]"
 ---
-# Warrants

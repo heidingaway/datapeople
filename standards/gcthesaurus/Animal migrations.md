@@ -1,14 +1,10 @@
 ---
 title: Animal migrations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Animal migrations
+longTitle: 'Animal migrations'
+tags:
+- gccommon
 relatedTerm:
-- "[[1120 Animals]]"
+- "[[Animals]]"
 use:
-- "[[2240 Bird migrations]]"
-- "[[11139 Insect migrations]]"
-- "[[7899 Fish migrations]]"
+- "[[Bird migrations Insect migrations Fish migrations]]"
 ---
-# Animal migrations

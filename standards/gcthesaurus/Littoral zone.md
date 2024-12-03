@@ -1,10 +1,8 @@
 ---
 title: Littoral zone
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Littoral zone
+longTitle: 'Littoral zone'
+tags:
+- gccommon
 usedFor:
-- "[[3441 Coasts]]"
+- "[[Coasts]]"
 ---
-# Littoral zone

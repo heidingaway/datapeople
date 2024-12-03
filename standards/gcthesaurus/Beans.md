@@ -1,10 +1,8 @@
 ---
 title: Beans
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Beans
+longTitle: 'Beans'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12344 Legumes]]"
+- "[[Legumes]]"
 ---
-# Beans

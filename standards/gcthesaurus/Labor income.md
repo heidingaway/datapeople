@@ -1,10 +1,8 @@
 ---
 title: Labor income
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Labor income
+longTitle: 'Labor income'
+tags:
+- gccommon
 usedFor:
-- "[[18080 Salaries]]"
+- "[[Salaries]]"
 ---
-# Labor income

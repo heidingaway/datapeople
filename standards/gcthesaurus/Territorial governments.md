@@ -1,17 +1,12 @@
 ---
 title: Territorial governments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Territorial governments
+longTitle: 'Territorial governments'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9262 Governments]]"
+- "[[Governments]]"
 relatedTerm:
-- "[[12324 Legislative assemblies]]"
-- "[[7614 Federal territorial agreements]]"
-- "[[7621 Federal territorial relations]]"
-- "[[20088 Territories]]"
+- "[[Legislative assemblies Federal territorial agreeme]]"
 use:
-- "[[20062 Territorial administration]]"
+- "[[Territorial administration]]"
 ---
-# Territorial governments

@@ -1,10 +1,8 @@
 ---
 title: Disque compact
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Disque compact
+longTitle: 'Disque compact'
+tags:
+- gccommon
 french:
-- "[[3737 Compact discs]]"
+- "[[Compact discs]]"
 ---
-# Disque compact

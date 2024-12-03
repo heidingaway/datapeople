@@ -1,23 +1,12 @@
 ---
 title: Road networks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Road networks
+longTitle: 'Road networks'
+tags:
+- gccommon
 narrowerTerm:
-- "[[14420 Networks]]"
+- "[[Networks]]"
 relatedTerm:
-- "[[20735 Tunnels]]"
-- "[[20240 Tolls]]"
-- "[[17879 Road maps]]"
-- "[[17919 Road transport]]"
-- "[[17874 Road construction]]"
-- "[[2406 Bridges]]"
+- "[[Tunnels Tolls Road maps Road transport Road constr]]"
 use:
-- "[[9930 Highway systems]]"
-- "[[9926 Highway networks]]"
-- "[[9932 Highways]]"
-- "[[17928 Roads]]"
-- "[[17907 Road systems]]"
+- "[[Highway systems Highway networks Highways Roads Ro]]"
 ---
-# Road networks

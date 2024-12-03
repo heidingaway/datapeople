@@ -1,10 +1,8 @@
 ---
 title: Avortement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Avortement
+longTitle: 'Avortement'
+tags:
+- gccommon
 french:
-- "[[65 Abortion]]"
+- "[[Abortion]]"
 ---
-# Avortement

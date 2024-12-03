@@ -1,10 +1,8 @@
 ---
 title: Tourism infrastructure
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tourism infrastructure
+longTitle: 'Tourism infrastructure'
+tags:
+- gccommon
 usedFor:
-- "[[20286 Tourism facilities]]"
+- "[[Tourism facilities]]"
 ---
-# Tourism infrastructure

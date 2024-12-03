@@ -1,10 +1,8 @@
 ---
 title: Affectation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Affectation
+longTitle: 'Affectation'
+tags:
+- gccommon
 french:
-- "[[1562 Assignments]]"
+- "[[Assignments]]"
 ---
-# Affectation

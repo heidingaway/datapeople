@@ -1,21 +1,12 @@
 ---
 title: Road transport
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Road transport
+longTitle: 'Road transport'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20608 Transport]]"
+- "[[Transport]]"
 relatedTerm:
-- "[[13981 Motor vehicles]]"
-- "[[2407 Bridges]]"
-- "[[17869 Road accidents]]"
-- "[[7640 Ferries]]"
-- "[[20714 Trucking industry]]"
-- "[[17904 Road safety]]"
-- "[[17893 Road networks]]"
+- "[[Motor vehicles Bridges Road accidents Ferries Truc]]"
 use:
-- "[[17926 Road transportation]]"
-- "[[17909 Road traffic]]"
+- "[[Road transportation Road traffic]]"
 ---
-# Road transport

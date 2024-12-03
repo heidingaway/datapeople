@@ -1,13 +1,10 @@
 ---
 title: Adolescence
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Adolescence
+longTitle: 'Adolescence'
+tags:
+- gccommon
 french:
-- "[[252 Adolescence]]"
+- "[[Adolescence]]"
 relatedTerm:
-- "[[22119 Youth]]"
-- "[[261 Adolescents]]"
+- "[[Youth Adolescents]]"
 ---
-# Adolescence

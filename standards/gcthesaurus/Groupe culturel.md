@@ -1,10 +1,8 @@
 ---
 title: Groupe culturel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Groupe culturel
+longTitle: 'Groupe culturel'
+tags:
+- gccommon
 french:
-- "[[4645 Cultural groups]]"
+- "[[Cultural groups]]"
 ---
-# Groupe culturel

@@ -1,12 +1,10 @@
 ---
 title: Investment policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Investment policy
+longTitle: 'Investment policy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15952 Policy]]"
+- "[[Policy]]"
 relatedTerm:
-- "[[11598 Investments]]"
+- "[[Investments]]"
 ---
-# Investment policy

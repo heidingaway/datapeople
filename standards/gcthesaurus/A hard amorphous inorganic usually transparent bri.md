@@ -1,10 +1,8 @@
 ---
 title: A hard amorphous inorganic usually transparent bri
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: A hard, amorphous, inorganic, usually transparent, brittle substance made by fusing silicates, sometimes borates and phosphates, with certain basic oxides and then rapidly cooling to prevent crystallization.
+longTitle: 'A hard, amorphous, inorganic, usually transparent, brittle substance made by fusing silicates, sometimes borates and phosphates, with certain basic oxides and then rapidly cooling to prevent crystallization.'
+tags:
+- gccommon
 scopeNote:
-- "[[9072 Glass]]"
+- "[[Glass]]"
 ---
-# A hard amorphous inorganic usually transparent bri

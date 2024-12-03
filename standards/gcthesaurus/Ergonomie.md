@@ -1,10 +1,8 @@
 ---
 title: Ergonomie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ergonomie
+longTitle: 'Ergonomie'
+tags:
+- gccommon
 french:
-- "[[7100 Ergonomics]]"
+- "[[Ergonomics]]"
 ---
-# Ergonomie

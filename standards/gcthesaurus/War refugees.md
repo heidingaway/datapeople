@@ -1,10 +1,8 @@
 ---
 title: War refugees
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: War refugees
+longTitle: 'War refugees'
+tags:
+- gccommon
 usedFor:
-- "[[17422 Refugees]]"
+- "[[Refugees]]"
 ---
-# War refugees

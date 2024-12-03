@@ -1,10 +1,8 @@
 ---
 title: Patrimoine architectural
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Patrimoine architectural
+longTitle: 'Patrimoine architectural'
+tags:
+- gccommon
 french:
-- "[[1357 Architectural heritage]]"
+- "[[Architectural heritage]]"
 ---
-# Patrimoine architectural

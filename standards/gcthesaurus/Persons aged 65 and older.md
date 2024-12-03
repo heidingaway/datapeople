@@ -1,10 +1,8 @@
 ---
 title: Persons aged 65 and older
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Persons aged 65 and older.
+longTitle: 'Persons aged 65 and older.'
+tags:
+- gccommon
 scopeNote:
-- "[[18538 Seniors]]"
+- "[[Seniors]]"
 ---
-# Persons aged 65 and older

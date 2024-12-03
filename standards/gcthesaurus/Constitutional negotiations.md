@@ -1,10 +1,8 @@
 ---
 title: Constitutional negotiations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Constitutional negotiations
+longTitle: 'Constitutional negotiations'
+tags:
+- gccommon
 usedFor:
-- "[[3990 Constitution]]"
+- "[[Constitution]]"
 ---
-# Constitutional negotiations

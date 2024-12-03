@@ -1,10 +1,8 @@
 ---
 title: Global temperature change
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Global temperature change
+longTitle: 'Global temperature change'
+tags:
+- gccommon
 usedFor:
-- "[[9102 Global warming]]"
+- "[[Global warming]]"
 ---
-# Global temperature change

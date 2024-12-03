@@ -1,10 +1,8 @@
 ---
 title: Garantie juridique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Garantie juridique
+longTitle: 'Garantie juridique'
+tags:
+- gccommon
 french:
-- "[[12280 Legal rights]]"
+- "[[Legal rights]]"
 ---
-# Garantie juridique

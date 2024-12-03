@@ -1,14 +1,10 @@
 ---
 title: Private sector
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Private sector
+longTitle: 'Private sector'
+tags:
+- gccommon
 relatedTerm:
-- "[[16749 Public-private partnerships]]"
-- "[[16885 Public sector]]"
-- "[[16422 Privatization]]"
+- "[[Public-private partnerships Public sector Privatiz]]"
 use:
-- "[[16403 Private enterprises]]"
+- "[[Private enterprises]]"
 ---
-# Private sector

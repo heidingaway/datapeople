@@ -1,10 +1,8 @@
 ---
 title: Electoral rights
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electoral rights
+longTitle: 'Electoral rights'
+tags:
+- gccommon
 usedFor:
-- "[[3274 Civil rights]]"
+- "[[Civil rights]]"
 ---
-# Electoral rights

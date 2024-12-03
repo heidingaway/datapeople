@@ -1,10 +1,8 @@
 ---
 title: Retraite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Retraite
+longTitle: 'Retraite'
+tags:
+- gccommon
 french:
-- "[[17788 Retirement]]"
+- "[[Retirement]]"
 ---
-# Retraite

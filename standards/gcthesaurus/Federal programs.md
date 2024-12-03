@@ -1,13 +1,10 @@
 ---
 title: Federal programs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Federal programs
+longTitle: 'Federal programs'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16572 Programs]]"
+- "[[Programs]]"
 relatedTerm:
-- "[[7541 Federal government]]"
-- "[[9221 Government policy]]"
+- "[[Federal government Government policy]]"
 ---
-# Federal programs

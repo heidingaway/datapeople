@@ -1,10 +1,8 @@
 ---
 title: Medecine douce
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Médecine douce
+longTitle: 'Médecine douce'
+tags:
+- gccommon
 french:
-- "[[906 Alternative medicine]]"
+- "[[Alternative medicine]]"
 ---
-# Medecine douce

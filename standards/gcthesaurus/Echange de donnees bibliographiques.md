@@ -1,10 +1,8 @@
 ---
 title: Echange de donnees bibliographiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Échange de données bibliographiques
+longTitle: 'Échange de données bibliographiques'
+tags:
+- gccommon
 french:
-- "[[2003 Bibliographic data interchange]]"
+- "[[Bibliographic data interchange]]"
 ---
-# Echange de donnees bibliographiques

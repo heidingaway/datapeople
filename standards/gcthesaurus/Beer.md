@@ -1,10 +1,8 @@
 ---
 title: Beer
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Beer
+longTitle: 'Beer'
+tags:
+- gccommon
 narrowerTerm:
-- "[[840 Alcoholic beverages]]"
+- "[[Alcoholic beverages]]"
 ---
-# Beer

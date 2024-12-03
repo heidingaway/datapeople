@@ -1,11 +1,8 @@
 ---
-title: "Demining replaces Mine clearing as preferred term "
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: '"Demining" replaces "Mine clearing" as preferred term in March 2009.'
+title: Demining replaces Mine clearing as preferred term 
+longTitle: '"Demining" replaces "Mine clearing" as preferred term in March 2009.'
+tags:
+- gccommon
 historyNote:
-- "[[5079 Demining]]"
-- "[[13705 Mine clearing]]"
+- "[[Demining Mine clearing]]"
 ---
-# Demining replaces Mine clearing as preferred term

@@ -1,15 +1,12 @@
 ---
 title: Budget planning
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Budget planning
+longTitle: 'Budget planning'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15839 Planning]]"
+- "[[Planning]]"
 relatedTerm:
-- "[[2449 Budgets]]"
-- "[[7747 Financial management]]"
+- "[[Budgets Financial management]]"
 use:
-- "[[2446 Budgeting]]"
+- "[[Budgeting]]"
 ---
-# Budget planning

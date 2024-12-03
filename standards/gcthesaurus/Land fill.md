@@ -1,10 +1,8 @@
 ---
 title: Land fill
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Land fill
+longTitle: 'Land fill'
+tags:
+- gccommon
 usedFor:
-- "[[21319 Waste management]]"
+- "[[Waste management]]"
 ---
-# Land fill

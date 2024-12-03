@@ -1,10 +1,8 @@
 ---
 title: Home care
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Home care
+longTitle: 'Home care'
+tags:
+- gccommon
 usedFor:
-- "[[9593 Health care]]"
+- "[[Health care]]"
 ---
-# Home care

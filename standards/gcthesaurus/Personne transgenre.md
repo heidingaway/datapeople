@@ -1,10 +1,8 @@
 ---
 title: Personne transgenre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Personne transgenre
+longTitle: 'Personne transgenre'
+tags:
+- gccommon
 french:
-- "[[20562 Transgender people]]"
+- "[[Transgender people]]"
 ---
-# Personne transgenre

@@ -1,10 +1,8 @@
 ---
 title: Accord fiscal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Accord fiscal
+longTitle: 'Accord fiscal'
+tags:
+- gccommon
 french:
-- "[[7829 Fiscal agreements]]"
+- "[[Fiscal agreements]]"
 ---
-# Accord fiscal

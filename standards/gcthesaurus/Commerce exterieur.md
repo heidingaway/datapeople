@@ -1,10 +1,8 @@
 ---
 title: Commerce exterieur
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Commerce extérieur
+longTitle: 'Commerce extérieur'
+tags:
+- gccommon
 french:
-- "[[11437 International trade]]"
+- "[[International trade]]"
 ---
-# Commerce exterieur

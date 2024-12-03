@@ -1,10 +1,8 @@
 ---
 title: Disponibilites alimentaires
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Disponibilités alimentaires
+longTitle: 'Disponibilités alimentaires'
+tags:
+- gccommon
 french:
-- "[[8181 Food supply]]"
+- "[[Food supply]]"
 ---
-# Disponibilites alimentaires

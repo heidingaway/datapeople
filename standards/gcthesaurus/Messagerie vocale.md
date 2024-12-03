@@ -1,10 +1,8 @@
 ---
 title: Messagerie vocale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Messagerie vocale
+longTitle: 'Messagerie vocale'
+tags:
+- gccommon
 french:
-- "[[21185 Voice mail]]"
+- "[[Voice mail]]"
 ---
-# Messagerie vocale

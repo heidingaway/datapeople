@@ -1,10 +1,8 @@
 ---
 title: Cenotaphe
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cénotaphe
+longTitle: 'Cénotaphe'
+tags:
+- gccommon
 french:
-- "[[21270 War memorials]]"
+- "[[War memorials]]"
 ---
-# Cenotaphe

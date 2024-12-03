@@ -1,17 +1,12 @@
 ---
 title: Herbicides
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Herbicides
+longTitle: 'Herbicides'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15623 Pesticides]]"
+- "[[Pesticides]]"
 relatedTerm:
-- "[[21659 Weeds]]"
+- "[[Weeds]]"
 use:
-- "[[21650 Weed killers]]"
-- "[[15787 Phytocides]]"
-- "[[21652 Weedicides]]"
-- "[[21654 Weedkillers]]"
+- "[[Weed killers Phytocides Weedicides Weedkillers]]"
 ---
-# Herbicides

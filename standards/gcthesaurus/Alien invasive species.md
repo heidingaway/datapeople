@@ -1,10 +1,8 @@
 ---
 title: Alien invasive species
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Alien invasive species
+longTitle: 'Alien invasive species'
+tags:
+- gccommon
 usedFor:
-- "[[11560 Invasive species]]"
+- "[[Invasive species]]"
 ---
-# Alien invasive species

@@ -1,12 +1,10 @@
 ---
 title: Handling
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Handling
+longTitle: 'Handling'
+tags:
+- gccommon
 relatedTerm:
-- "[[20612 Transport]]"
+- "[[Transport]]"
 use:
-- "[[17986 Safe handling]]"
+- "[[Safe handling]]"
 ---
-# Handling

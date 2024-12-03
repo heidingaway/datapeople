@@ -1,10 +1,8 @@
 ---
 title: Housework
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Housework
+longTitle: 'Housework'
+tags:
+- gccommon
 usedFor:
-- "[[10017 Home economics]]"
+- "[[Home economics]]"
 ---
-# Housework

@@ -1,11 +1,8 @@
 ---
 title: Horses
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Horses
+longTitle: 'Horses'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12541 Livestock]]"
-- "[[12735 Mammals]]"
+- "[[Livestock Mammals]]"
 ---
-# Horses

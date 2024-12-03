@@ -1,14 +1,10 @@
 ---
 title: Termination of employment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Termination of employment
+longTitle: 'Termination of employment'
+tags:
+- gccommon
 relatedTerm:
-- "[[20778 Unemployment]]"
-- "[[17705 Resignation]]"
-- "[[5359 Discharge]]"
+- "[[Unemployment Resignation Discharge]]"
 use:
-- "[[12175 Layoffs]]"
+- "[[Layoffs]]"
 ---
-# Termination of employment

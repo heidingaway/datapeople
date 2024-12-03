@@ -1,15 +1,10 @@
 ---
 title: Pharmacology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pharmacology
+longTitle: 'Pharmacology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9773 Health sciences]]"
+- "[[Health sciences]]"
 relatedTerm:
-- "[[5710 Drugs]]"
-- "[[15687 Pharmaceutical industry]]"
-- "[[18729 Side effects]]"
-- "[[20344 Toxicology]]"
+- "[[Drugs Pharmaceutical industry Side effects Toxicol]]"
 ---
-# Pharmacology

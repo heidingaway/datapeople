@@ -1,10 +1,8 @@
 ---
 title: Agricultural products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Agricultural products
+longTitle: 'Agricultural products'
+tags:
+- gccommon
 usedFor:
-- "[[431 Agri-food products]]"
+- "[[Agri-food products]]"
 ---
-# Agricultural products

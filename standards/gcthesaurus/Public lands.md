@@ -1,10 +1,8 @@
 ---
 title: Public lands
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public lands
+longTitle: 'Public lands'
+tags:
+- gccommon
 usedFor:
-- "[[4573 Crown lands]]"
+- "[[Crown lands]]"
 ---
-# Public lands

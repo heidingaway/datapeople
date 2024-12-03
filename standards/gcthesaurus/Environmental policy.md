@@ -1,16 +1,10 @@
 ---
 title: Environmental policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental policy
+longTitle: 'Environmental policy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15942 Policy]]"
+- "[[Policy]]"
 relatedTerm:
-- "[[6791 Environment]]"
-- "[[6912 Environmental law]]"
-- "[[6934 Environmental management]]"
-- "[[6959 Environmental programs]]"
-- "[[6822 Environmental agreements]]"
+- "[[Environment Environmental law Environmental manage]]"
 ---
-# Environmental policy

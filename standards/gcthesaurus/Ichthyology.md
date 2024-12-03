@@ -1,12 +1,10 @@
 ---
 title: Ichthyology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ichthyology
+longTitle: 'Ichthyology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[22136 Zoology]]"
+- "[[Zoology]]"
 relatedTerm:
-- "[[7877 Fish]]"
+- "[[Fish]]"
 ---
-# Ichthyology

@@ -1,10 +1,8 @@
 ---
 title: Archives sonores
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Archives sonores
+longTitle: 'Archives sonores'
+tags:
+- gccommon
 french:
-- "[[19141 Sound archives]]"
+- "[[Sound archives]]"
 ---
-# Archives sonores

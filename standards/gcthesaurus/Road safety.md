@@ -1,18 +1,12 @@
 ---
 title: Road safety
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Road safety
+longTitle: 'Road safety'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20653 Transportation safety]]"
+- "[[Transportation safety]]"
 relatedTerm:
-- "[[5593 Driver education]]"
-- "[[1761 Automobile safety equipment]]"
-- "[[17868 Road accidents]]"
-- "[[17920 Road transport]]"
+- "[[Driver education Automobile safety equipment Road ]]"
 use:
-- "[[9928 Highway safety]]"
-- "[[20466 Traffic safety]]"
+- "[[Highway safety Traffic safety]]"
 ---
-# Road safety

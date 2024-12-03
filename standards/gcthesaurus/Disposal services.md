@@ -1,12 +1,10 @@
 ---
 title: Disposal services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Disposal services
+longTitle: 'Disposal services'
+tags:
+- gccommon
 relatedTerm:
-- "[[17382 Recycling]]"
+- "[[Recycling]]"
 use:
-- "[[13139 Material disposal services]]"
+- "[[Material disposal services]]"
 ---
-# Disposal services

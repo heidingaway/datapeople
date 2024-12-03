@@ -1,10 +1,8 @@
 ---
 title: External trade
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: External trade
+longTitle: 'External trade'
+tags:
+- gccommon
 usedFor:
-- "[[11438 International trade]]"
+- "[[International trade]]"
 ---
-# External trade

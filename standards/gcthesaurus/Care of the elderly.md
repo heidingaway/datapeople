@@ -1,10 +1,8 @@
 ---
 title: Care of the elderly
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Care of the elderly
+longTitle: 'Care of the elderly'
+tags:
+- gccommon
 usedFor:
-- "[[6146 Elderly care]]"
+- "[[Elderly care]]"
 ---
-# Care of the elderly

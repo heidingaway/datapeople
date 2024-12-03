@@ -1,14 +1,10 @@
 ---
 title: Women
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Women
+longTitle: 'Women'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10167 Human beings]]"
+- "[[Human beings]]"
 relatedTerm:
-- "[[21832 Women's health]]"
-- "[[21054 Violence against women]]"
-- "[[19376 Status of women]]"
+- "[[Womens health Violence against women Status of wom]]"
 ---
-# Women

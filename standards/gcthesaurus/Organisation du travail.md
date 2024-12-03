@@ -1,10 +1,8 @@
 ---
 title: Organisation du travail
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Organisation du travail
+longTitle: 'Organisation du travail'
+tags:
+- gccommon
 french:
-- "[[21894 Work organization]]"
+- "[[Work organization]]"
 ---
-# Organisation du travail

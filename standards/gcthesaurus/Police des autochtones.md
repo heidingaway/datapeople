@@ -1,10 +1,8 @@
 ---
 title: Police des autochtones
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Police des autochtones
+longTitle: 'Police des autochtones'
+tags:
+- gccommon
 french:
-- "[[10687 Indigenous policing]]"
+- "[[Indigenous policing]]"
 ---
-# Police des autochtones

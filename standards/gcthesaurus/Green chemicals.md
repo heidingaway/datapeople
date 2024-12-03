@@ -1,10 +1,8 @@
 ---
 title: Green chemicals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Green chemicals
+longTitle: 'Green chemicals'
+tags:
+- gccommon
 usedFor:
-- "[[2094 Biochemicals]]"
+- "[[Biochemicals]]"
 ---
-# Green chemicals

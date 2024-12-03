@@ -1,10 +1,8 @@
 ---
 title: Health of animals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Health of animals
+longTitle: 'Health of animals'
+tags:
+- gccommon
 usedFor:
-- "[[1009 Animal health]]"
+- "[[Animal health]]"
 ---
-# Health of animals

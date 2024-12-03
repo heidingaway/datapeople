@@ -1,10 +1,8 @@
 ---
 title: Ozone thinning
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ozone thinning
+longTitle: 'Ozone thinning'
+tags:
+- gccommon
 usedFor:
-- "[[15189 Ozone depletion]]"
+- "[[Ozone depletion]]"
 ---
-# Ozone thinning

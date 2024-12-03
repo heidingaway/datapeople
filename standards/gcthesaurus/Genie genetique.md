@@ -1,10 +1,8 @@
 ---
 title: Genie genetique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Génie génétique
+longTitle: 'Génie génétique'
+tags:
+- gccommon
 french:
-- "[[8825 Genetic engineering]]"
+- "[[Genetic engineering]]"
 ---
-# Genie genetique

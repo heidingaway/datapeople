@@ -1,10 +1,8 @@
 ---
 title: Visa
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Visa
+longTitle: 'Visa'
+tags:
+- gccommon
 french:
-- "[[21079 Visas]]"
+- "[[Visas]]"
 ---
-# Visa

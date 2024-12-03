@@ -1,10 +1,8 @@
 ---
 title: Donnees hydrometriques en temps reel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Données hydrométriques en temps réel
+longTitle: 'Données hydrométriques en temps réel'
+tags:
+- gccommon
 french:
-- "[[17230 Real-time hydrometric data]]"
+- "[[Real-time hydrometric data]]"
 ---
-# Donnees hydrometriques en temps reel

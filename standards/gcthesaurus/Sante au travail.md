@@ -1,10 +1,8 @@
 ---
 title: Sante au travail
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Santé au travail
+longTitle: 'Santé au travail'
+tags:
+- gccommon
 french:
-- "[[14762 Occupational health]]"
+- "[[Occupational health]]"
 ---
-# Sante au travail

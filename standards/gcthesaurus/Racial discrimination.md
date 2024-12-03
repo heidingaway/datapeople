@@ -1,15 +1,12 @@
 ---
 title: Racial discrimination
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Racial discrimination
+longTitle: 'Racial discrimination'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5377 Discrimination]]"
+- "[[Discrimination]]"
 relatedTerm:
-- "[[21086 Visible minorities]]"
-- "[[17040 Race relations]]"
+- "[[Visible minorities Race relations]]"
 use:
-- "[[17056 Racism]]"
+- "[[Racism]]"
 ---
-# Racial discrimination

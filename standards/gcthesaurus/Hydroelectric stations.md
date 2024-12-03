@@ -1,10 +1,8 @@
 ---
 title: Hydroelectric stations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hydroelectric stations
+longTitle: 'Hydroelectric stations'
+tags:
+- gccommon
 usedFor:
-- "[[10340 Hydroelectric plants]]"
+- "[[Hydroelectric plants]]"
 ---
-# Hydroelectric stations

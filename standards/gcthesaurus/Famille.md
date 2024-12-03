@@ -1,10 +1,8 @@
 ---
 title: Famille
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Famille
+longTitle: 'Famille'
+tags:
+- gccommon
 french:
-- "[[7345 Family]]"
+- "[[Family]]"
 ---
-# Famille

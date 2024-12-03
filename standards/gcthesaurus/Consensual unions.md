@@ -1,10 +1,8 @@
 ---
 title: Consensual unions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Consensual unions
+longTitle: 'Consensual unions'
+tags:
+- gccommon
 usedFor:
-- "[[3641 Common-law unions]]"
+- "[[Common-law unions]]"
 ---
-# Consensual unions

@@ -1,15 +1,10 @@
 ---
 title: International security
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: International security
+longTitle: 'International security'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18443 Security]]"
+- "[[Security]]"
 relatedTerm:
-- "[[18458 Security investigations]]"
-- "[[18454 Security intelligence]]"
-- "[[14238 National security]]"
-- "[[15403 Peace]]"
+- "[[Security investigations Security intelligence Nati]]"
 ---
-# International security

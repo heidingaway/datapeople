@@ -1,10 +1,8 @@
 ---
 title: Mental disabilities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mental disabilities
+longTitle: 'Mental disabilities'
+tags:
+- gccommon
 usedFor:
-- "[[11232 Intellectual disabilities]]"
+- "[[Intellectual disabilities]]"
 ---
-# Mental disabilities

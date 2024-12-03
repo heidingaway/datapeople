@@ -1,12 +1,10 @@
 ---
 title: Functions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Functions
+longTitle: 'Functions'
+tags:
+- gccommon
 relatedTerm:
-- "[[12778 Management]]"
+- "[[Management]]"
 use:
-- "[[19710 Tasks]]"
+- "[[Tasks]]"
 ---
-# Functions

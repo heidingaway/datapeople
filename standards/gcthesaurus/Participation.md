@@ -1,12 +1,10 @@
 ---
 title: Participation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Participation
+longTitle: 'Participation'
+tags:
+- gccommon
 broaderTerm:
-- "[[3233 Citizen participation]]"
+- "[[Citizen participation]]"
 french:
-- "[[15336 Participation]]"
+- "[[Participation]]"
 ---
-# Participation

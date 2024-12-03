@@ -1,19 +1,10 @@
 ---
 title: Ocean floor
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ocean floor
+longTitle: 'Ocean floor'
+tags:
+- gccommon
 relatedTerm:
-- "[[18356 Seas]]"
-- "[[14874 Oceans]]"
+- "[[Seas Oceans]]"
 use:
-- "[[18303 Sea bed]]"
-- "[[18301 Sea-bed]]"
-- "[[18325 Seafloor]]"
-- "[[18321 Seabed]]"
-- "[[14820 Ocean bottom]]"
-- "[[18307 Sea bottom]]"
-- "[[18309 Sea floor]]"
+- "[[Sea bed Sea-bed Seafloor Seabed Ocean bottom Sea b]]"
 ---
-# Ocean floor

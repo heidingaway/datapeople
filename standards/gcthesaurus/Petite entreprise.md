@@ -1,10 +1,8 @@
 ---
 title: Petite entreprise
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Petite entreprise
+longTitle: 'Petite entreprise'
+tags:
+- gccommon
 french:
-- "[[18809 Small businesses]]"
+- "[[Small businesses]]"
 ---
-# Petite entreprise

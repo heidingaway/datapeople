@@ -1,10 +1,8 @@
 ---
 title: Official residences
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Official residences
+longTitle: 'Official residences'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4558 Crown assets]]"
+- "[[Crown assets]]"
 ---
-# Official residences

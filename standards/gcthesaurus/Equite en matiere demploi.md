@@ -1,10 +1,8 @@
 ---
 title: Equite en matiere demploi
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Équité en matière d'emploi
+longTitle: 'Équité en matière d'emploi'
+tags:
+- gccommon
 french:
-- "[[6533 Employment equity]]"
+- "[[Employment equity]]"
 ---
-# Equite en matiere demploi

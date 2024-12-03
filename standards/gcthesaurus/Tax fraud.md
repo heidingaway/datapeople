@@ -1,19 +1,12 @@
 ---
 title: Tax fraud
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tax fraud
+longTitle: 'Tax fraud'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8482 Fraud]]"
-- "[[5865 Economic crime]]"
+- "[[Fraud Economic crime]]"
 relatedTerm:
-- "[[19714 Tax avoidance]]"
-- "[[7865 Fiscal policy]]"
-- "[[19782 Taxes]]"
+- "[[Tax avoidance Fiscal policy Taxes]]"
 use:
-- "[[7842 Fiscal fraud]]"
-- "[[7840 Fiscal evasion]]"
-- "[[19730 Tax evasion]]"
+- "[[Fiscal fraud Fiscal evasion Tax evasion]]"
 ---
-# Tax fraud

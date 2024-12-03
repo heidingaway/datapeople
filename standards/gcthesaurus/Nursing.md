@@ -1,10 +1,8 @@
 ---
 title: Nursing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nursing
+longTitle: 'Nursing'
+tags:
+- gccommon
 usedFor:
-- "[[9595 Health care]]"
+- "[[Health care]]"
 ---
-# Nursing

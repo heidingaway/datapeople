@@ -1,12 +1,10 @@
 ---
 title: Newsletters
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Newsletters
+longTitle: 'Newsletters'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15491 Periodicals]]"
+- "[[Periodicals]]"
 use:
-- "[[2476 Bulletins]]"
+- "[[Bulletins]]"
 ---
-# Newsletters

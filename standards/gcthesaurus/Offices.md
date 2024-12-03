@@ -1,10 +1,8 @@
 ---
 title: Offices
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Offices
+longTitle: 'Offices'
+tags:
+- gccommon
 usedFor:
-- "[[21975 Workplace]]"
+- "[[Workplace]]"
 ---
-# Offices

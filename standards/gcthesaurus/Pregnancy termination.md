@@ -1,10 +1,8 @@
 ---
 title: Pregnancy termination
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pregnancy termination
+longTitle: 'Pregnancy termination'
+tags:
+- gccommon
 usedFor:
-- "[[66 Abortion]]"
+- "[[Abortion]]"
 ---
-# Pregnancy termination

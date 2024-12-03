@@ -1,15 +1,10 @@
 ---
 title: Oil sands
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Oil sands
+longTitle: 'Oil sands'
+tags:
+- gccommon
 relatedTerm:
-- "[[15648 Petroleum]]"
-- "[[15662 Petroleum industry]]"
+- "[[Petroleum Petroleum industry]]"
 use:
-- "[[2284 Bituminous sands]]"
-- "[[19689 Tar sands]]"
-- "[[14984 Oil sand]]"
+- "[[Bituminous sands Tar sands Oil sand]]"
 ---
-# Oil sands

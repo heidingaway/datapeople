@@ -1,10 +1,8 @@
 ---
 title: Services consultatifs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Services consultatifs
+longTitle: 'Services consultatifs'
+tags:
+- gccommon
 french:
-- "[[320 Advisory services]]"
+- "[[Advisory services]]"
 ---
-# Services consultatifs

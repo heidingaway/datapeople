@@ -1,10 +1,8 @@
 ---
 title: Musee
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Musée
+longTitle: 'Musée'
+tags:
+- gccommon
 french:
-- "[[14088 Museums]]"
+- "[[Museums]]"
 ---
-# Musee

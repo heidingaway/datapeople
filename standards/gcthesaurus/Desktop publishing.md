@@ -1,10 +1,8 @@
 ---
 title: Desktop publishing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Desktop publishing
+longTitle: 'Desktop publishing'
+tags:
+- gccommon
 usedFor:
-- "[[6372 Electronic publishing]]"
+- "[[Electronic publishing]]"
 ---
-# Desktop publishing

@@ -1,13 +1,10 @@
 ---
 title: Museum collections
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Museum collections
+longTitle: 'Museum collections'
+tags:
+- gccommon
 narrowerTerm:
-- "[[3498 Collections]]"
+- "[[Collections]]"
 relatedTerm:
-- "[[14092 Museums]]"
-- "[[21066 Virtual exhibitions]]"
+- "[[Museums Virtual exhibitions]]"
 ---
-# Museum collections

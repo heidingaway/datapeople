@@ -1,10 +1,8 @@
 ---
 title: Moral values
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Moral values
+longTitle: 'Moral values'
+tags:
+- gccommon
 usedFor:
-- "[[7150 Ethics]]"
+- "[[Ethics]]"
 ---
-# Moral values

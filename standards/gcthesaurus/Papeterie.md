@@ -1,10 +1,8 @@
 ---
 title: Papeterie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Papeterie
+longTitle: 'Papeterie'
+tags:
+- gccommon
 french:
-- "[[19324 Stationery]]"
+- "[[Stationery]]"
 ---
-# Papeterie

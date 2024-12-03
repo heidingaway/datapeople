@@ -1,14 +1,12 @@
 ---
 title: Hockey
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hockey
+longTitle: 'Hockey'
+tags:
+- gccommon
 french:
-- "[[9993 Hockey]]"
+- "[[Hockey]]"
 narrowerTerm:
-- "[[21817 Winter sports]]"
+- "[[Winter sports]]"
 use:
-- "[[10440 Ice hockey]]"
+- "[[Ice hockey]]"
 ---
-# Hockey

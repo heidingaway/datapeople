@@ -1,10 +1,8 @@
 ---
 title: Arts visuels
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Arts visuels
+longTitle: 'Arts visuels'
+tags:
+- gccommon
 french:
-- "[[21100 Visual arts]]"
+- "[[Visual arts]]"
 ---
-# Arts visuels

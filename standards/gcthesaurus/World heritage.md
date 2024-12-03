@@ -1,10 +1,8 @@
 ---
 title: World heritage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: World heritage
+longTitle: 'World heritage'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9881 Heritage]]"
+- "[[Heritage]]"
 ---
-# World heritage

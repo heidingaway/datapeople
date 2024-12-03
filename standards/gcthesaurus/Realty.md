@@ -1,10 +1,8 @@
 ---
 title: Realty
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Realty
+longTitle: 'Realty'
+tags:
+- gccommon
 usedFor:
-- "[[17236 Real estate]]"
+- "[[Real estate]]"
 ---
-# Realty

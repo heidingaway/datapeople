@@ -1,10 +1,8 @@
 ---
 title: Jour ferie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Jour férié
+longTitle: 'Jour férié'
+tags:
+- gccommon
 french:
-- "[[10003 Holidays]]"
+- "[[Holidays]]"
 ---
-# Jour ferie

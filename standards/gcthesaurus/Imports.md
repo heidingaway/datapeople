@@ -1,16 +1,10 @@
 ---
 title: Imports
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Imports
+longTitle: 'Imports'
+tags:
+- gccommon
 relatedTerm:
-- "[[5716 Dumping]]"
-- "[[1161 Anti-dumping]]"
-- "[[7309 Exports]]"
-- "[[4761 Customs and excise]]"
-- "[[11448 International trade]]"
+- "[[Dumping Anti-dumping Exports Customs and excise In]]"
 use:
-- "[[3577 Commercial imports]]"
+- "[[Commercial imports]]"
 ---
-# Imports

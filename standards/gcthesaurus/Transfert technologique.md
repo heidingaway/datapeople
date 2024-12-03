@@ -1,10 +1,8 @@
 ---
 title: Transfert technologique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transfert technologique
+longTitle: 'Transfert technologique'
+tags:
+- gccommon
 french:
-- "[[19894 Technology transfer]]"
+- "[[Technology transfer]]"
 ---
-# Transfert technologique

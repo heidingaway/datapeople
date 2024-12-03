@@ -1,18 +1,10 @@
 ---
 title: Property
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Property
+longTitle: 'Property'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1555 Assets]]"
+- "[[Assets]]"
 relatedTerm:
-- "[[2736 Capital]]"
-- "[[17250 Real property services]]"
-- "[[18488 Seizure (of property)]]"
-- "[[16628 Property and casualty insurance]]"
-- "[[17238 Real estate]]"
-- "[[7125 Estates]]"
-- "[[16634 Property management]]"
+- "[[Capital Real property services Seizure of property]]"
 ---
-# Property

@@ -1,18 +1,12 @@
 ---
 title: Salt water
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Salt water
+longTitle: 'Salt water'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21377 Water]]"
+- "[[Water]]"
 relatedTerm:
-- "[[8538 Fresh water]]"
-- "[[18359 Seas]]"
-- "[[14876 Oceans]]"
+- "[[Fresh water Seas Oceans]]"
 use:
-- "[[18130 Saltwater]]"
-- "[[18111 Saline water]]"
-- "[[18319 Sea water]]"
+- "[[Saltwater Saline water Sea water]]"
 ---
-# Salt water

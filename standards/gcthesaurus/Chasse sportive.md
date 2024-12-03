@@ -1,10 +1,8 @@
 ---
 title: Chasse sportive
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Chasse sportive
+longTitle: 'Chasse sportive'
+tags:
+- gccommon
 french:
-- "[[10306 Hunting (Sport)]]"
+- "[[Hunting Sport]]"
 ---
-# Chasse sportive

@@ -1,10 +1,8 @@
 ---
 title: Creation demploi
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Création d'emploi
+longTitle: 'Création d'emploi'
+tags:
+- gccommon
 french:
-- "[[11659 Job creation]]"
+- "[[Job creation]]"
 ---
-# Creation demploi

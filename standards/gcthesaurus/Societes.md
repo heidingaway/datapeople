@@ -1,10 +1,8 @@
 ---
 title: Societes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sociétés
+longTitle: 'Sociétés'
+tags:
+- gccommon
 french:
-- "[[4278 Corporations]]"
+- "[[Corporations]]"
 ---
-# Societes

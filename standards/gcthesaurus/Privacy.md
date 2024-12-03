@@ -1,17 +1,10 @@
 ---
 title: Privacy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Privacy
+longTitle: 'Privacy'
+tags:
+- gccommon
 relatedTerm:
-- "[[15558 Personal information]]"
-- "[[89 Access to information]]"
-- "[[3924 Confidentiality]]"
+- "[[Personal information Access to information Confide]]"
 use:
-- "[[18449 Security breach]]"
-- "[[16396 Privacy breach]]"
-- "[[4855 Data breach]]"
-- "[[17822 Right to privacy]]"
+- "[[Security breach Privacy breach Data breach Right t]]"
 ---
-# Privacy

@@ -1,10 +1,8 @@
 ---
 title: Telephone equipment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Telephone equipment
+longTitle: 'Telephone equipment'
+tags:
+- gccommon
 usedFor:
-- "[[19977 Telephones]]"
+- "[[Telephones]]"
 ---
-# Telephone equipment

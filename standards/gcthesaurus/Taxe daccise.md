@@ -1,10 +1,8 @@
 ---
 title: Taxe daccise
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Taxe d'accise
+longTitle: 'Taxe d'accise'
+tags:
+- gccommon
 french:
-- "[[7229 Excise taxes]]"
+- "[[Excise taxes]]"
 ---
-# Taxe daccise

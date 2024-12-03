@@ -1,10 +1,8 @@
 ---
 title: Linguistic communities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Linguistic communities
+longTitle: 'Linguistic communities'
+tags:
+- gccommon
 usedFor:
-- "[[12071 Language groups]]"
+- "[[Language groups]]"
 ---
-# Linguistic communities

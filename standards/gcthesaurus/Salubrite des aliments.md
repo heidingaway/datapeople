@@ -1,10 +1,8 @@
 ---
 title: Salubrite des aliments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Salubrité des aliments
+longTitle: 'Salubrité des aliments'
+tags:
+- gccommon
 french:
-- "[[8165 Food safety]]"
+- "[[Food safety]]"
 ---
-# Salubrite des aliments

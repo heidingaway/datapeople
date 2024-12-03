@@ -1,14 +1,12 @@
 ---
 title: Audiovisual equipment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Audiovisual equipment
+longTitle: 'Audiovisual equipment'
+tags:
+- gccommon
 narrowerTerm:
-- "[[7082 Equipment]]"
+- "[[Equipment]]"
 relatedTerm:
-- "[[14035 Multimedia]]"
+- "[[Multimedia]]"
 use:
-- "[[1686 Audio-visual equipment]]"
+- "[[Audio-visual equipment]]"
 ---
-# Audiovisual equipment

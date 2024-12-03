@@ -1,10 +1,8 @@
 ---
 title: Age adulte
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Âge adulte
+longTitle: 'Âge adulte'
+tags:
+- gccommon
 french:
-- "[[280 Adulthood]]"
+- "[[Adulthood]]"
 ---
-# Age adulte

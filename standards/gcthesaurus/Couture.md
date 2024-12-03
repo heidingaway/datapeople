@@ -1,10 +1,8 @@
 ---
 title: Couture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Couture
+longTitle: 'Couture'
+tags:
+- gccommon
 french:
-- "[[18602 Sewing]]"
+- "[[Sewing]]"
 ---
-# Couture

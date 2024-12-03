@@ -1,10 +1,8 @@
 ---
 title: Conflit de travail
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Conflit de travail
+longTitle: 'Conflit de travail'
+tags:
+- gccommon
 french:
-- "[[11858 Labour disputes]]"
+- "[[Labour disputes]]"
 ---
-# Conflit de travail

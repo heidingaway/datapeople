@@ -1,10 +1,8 @@
 ---
 title: Recherche demploi
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Recherche d'emploi
+longTitle: 'Recherche d'emploi'
+tags:
+- gccommon
 french:
-- "[[11682 Job search]]"
+- "[[Job search]]"
 ---
-# Recherche demploi

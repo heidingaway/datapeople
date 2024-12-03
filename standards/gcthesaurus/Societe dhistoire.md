@@ -1,10 +1,8 @@
 ---
 title: Societe dhistoire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Société d'histoire
+longTitle: 'Société d'histoire'
+tags:
+- gccommon
 french:
-- "[[9964 Historical societies]]"
+- "[[Historical societies]]"
 ---
-# Societe dhistoire

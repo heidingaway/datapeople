@@ -1,10 +1,8 @@
 ---
 title: Carte demographique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Carte démographique
+longTitle: 'Carte démographique'
+tags:
+- gccommon
 french:
-- "[[5097 Demographic maps]]"
+- "[[Demographic maps]]"
 ---
-# Carte demographique

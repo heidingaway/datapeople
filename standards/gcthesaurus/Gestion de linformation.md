@@ -1,10 +1,8 @@
 ---
 title: Gestion de linformation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gestion de l'information
+longTitle: 'Gestion de l'information'
+tags:
+- gccommon
 french:
-- "[[10993 Information management]]"
+- "[[Information management]]"
 ---
-# Gestion de linformation

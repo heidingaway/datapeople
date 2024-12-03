@@ -1,16 +1,10 @@
 ---
 title: Marital status
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marital status
+longTitle: 'Marital status'
+tags:
+- gccommon
 relatedTerm:
-- "[[3644 Common-law unions]]"
-- "[[7387 Family law]]"
-- "[[5476 Divorce]]"
-- "[[13131 Marriage]]"
+- "[[Common-law unions Family law Divorce Marriage]]"
 use:
-- "[[13019 Marital situation]]"
-- "[[3954 Conjugal status]]"
+- "[[Marital situation Conjugal status]]"
 ---
-# Marital status

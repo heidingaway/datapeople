@@ -1,10 +1,8 @@
 ---
 title: Statistiques economiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Statistiques économiques
+longTitle: 'Statistiques économiques'
+tags:
+- gccommon
 french:
-- "[[5955 Economic statistics]]"
+- "[[Economic statistics]]"
 ---
-# Statistiques economiques

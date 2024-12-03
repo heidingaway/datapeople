@@ -1,10 +1,8 @@
 ---
 title: Guerre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Guerre
+longTitle: 'Guerre'
+tags:
+- gccommon
 french:
-- "[[21241 War]]"
+- "[[War]]"
 ---
-# Guerre

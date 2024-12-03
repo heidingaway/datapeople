@@ -1,10 +1,8 @@
 ---
 title: Etablissement denseignement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Établissement d'enseignement
+longTitle: 'Établissement d'enseignement'
+tags:
+- gccommon
 french:
-- "[[6093 Educational institutions]]"
+- "[[Educational institutions]]"
 ---
-# Etablissement denseignement

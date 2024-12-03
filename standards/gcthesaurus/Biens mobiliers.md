@@ -1,10 +1,8 @@
 ---
 title: Biens mobiliers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Biens mobiliers
+longTitle: 'Biens mobiliers'
+tags:
+- gccommon
 french:
-- "[[15511 Personal assets]]"
+- "[[Personal assets]]"
 ---
-# Biens mobiliers

@@ -1,10 +1,8 @@
 ---
 title: Parc provincial
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Parc provincial
+longTitle: 'Parc provincial'
+tags:
+- gccommon
 french:
-- "[[16721 Provincial parks]]"
+- "[[Provincial parks]]"
 ---
-# Parc provincial

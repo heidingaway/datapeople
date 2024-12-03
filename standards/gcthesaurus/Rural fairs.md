@@ -1,10 +1,8 @@
 ---
 title: Rural fairs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rural fairs
+longTitle: 'Rural fairs'
+tags:
+- gccommon
 usedFor:
-- "[[497 Agricultural fairs]]"
+- "[[Agricultural fairs]]"
 ---
-# Rural fairs

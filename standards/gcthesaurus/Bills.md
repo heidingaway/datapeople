@@ -1,10 +1,8 @@
 ---
 title: Bills
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bills
+longTitle: 'Bills'
+tags:
+- gccommon
 usedFor:
-- "[[12299 Legislation]]"
+- "[[Legislation]]"
 ---
-# Bills

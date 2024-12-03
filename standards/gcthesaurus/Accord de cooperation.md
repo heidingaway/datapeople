@@ -1,10 +1,8 @@
 ---
 title: Accord de cooperation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Accord de coopération
+longTitle: 'Accord de coopération'
+tags:
+- gccommon
 french:
-- "[[4191 Cooperation agreements]]"
+- "[[Cooperation agreements]]"
 ---
-# Accord de cooperation

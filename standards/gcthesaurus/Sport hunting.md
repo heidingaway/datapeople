@@ -1,10 +1,8 @@
 ---
 title: Sport hunting
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sport hunting
+longTitle: 'Sport hunting'
+tags:
+- gccommon
 usedFor:
-- "[[10308 Hunting (Sport)]]"
+- "[[Hunting Sport]]"
 ---
-# Sport hunting

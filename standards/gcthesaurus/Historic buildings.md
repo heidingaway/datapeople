@@ -1,10 +1,8 @@
 ---
 title: Historic buildings
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Historic buildings
+longTitle: 'Historic buildings'
+tags:
+- gccommon
 usedFor:
-- "[[9888 Heritage buildings]]"
+- "[[Heritage buildings]]"
 ---
-# Historic buildings

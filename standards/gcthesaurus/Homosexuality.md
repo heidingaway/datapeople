@@ -1,10 +1,8 @@
 ---
 title: Homosexuality
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Homosexuality
+longTitle: 'Homosexuality'
+tags:
+- gccommon
 usedFor:
-- "[[18643 Sexual orientation]]"
+- "[[Sexual orientation]]"
 ---
-# Homosexuality

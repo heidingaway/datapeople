@@ -1,10 +1,8 @@
 ---
 title: Apprentissage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Apprentissage
+longTitle: 'Apprentissage'
+tags:
+- gccommon
 french:
-- "[[12211 Learning]]"
+- "[[Learning]]"
 ---
-# Apprentissage

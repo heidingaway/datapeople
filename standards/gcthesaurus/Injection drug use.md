@@ -1,10 +1,8 @@
 ---
 title: Injection drug use
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Injection drug use
+longTitle: 'Injection drug use'
+tags:
+- gccommon
 usedFor:
-- "[[5682 Drug use]]"
+- "[[Drug use]]"
 ---
-# Injection drug use

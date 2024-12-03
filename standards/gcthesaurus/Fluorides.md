@@ -1,10 +1,8 @@
 ---
 title: Fluorides
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fluorides
+longTitle: 'Fluorides'
+tags:
+- gccommon
 relatedTerm:
-- "[[3061 Chemicals]]"
+- "[[Chemicals]]"
 ---
-# Fluorides

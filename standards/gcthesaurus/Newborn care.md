@@ -1,10 +1,8 @@
 ---
 title: Newborn care
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Newborn care
+longTitle: 'Newborn care'
+tags:
+- gccommon
 usedFor:
-- "[[10887 Infant care]]"
+- "[[Infant care]]"
 ---
-# Newborn care

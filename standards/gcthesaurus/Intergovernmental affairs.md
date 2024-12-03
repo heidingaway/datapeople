@@ -1,10 +1,8 @@
 ---
 title: Intergovernmental affairs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Intergovernmental affairs
+longTitle: 'Intergovernmental affairs'
+tags:
+- gccommon
 usedFor:
-- "[[11298 Intergovernmental relations]]"
+- "[[Intergovernmental relations]]"
 ---
-# Intergovernmental affairs

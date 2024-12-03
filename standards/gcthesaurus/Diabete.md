@@ -1,10 +1,8 @@
 ---
 title: Diabete
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Diabète
+longTitle: 'Diabète'
+tags:
+- gccommon
 french:
-- "[[5207 Diabetes]]"
+- "[[Diabetes]]"
 ---
-# Diabete

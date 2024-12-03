@@ -1,10 +1,8 @@
 ---
 title: Jails
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Jails
+longTitle: 'Jails'
+tags:
+- gccommon
 usedFor:
-- "[[4300 Correctional institutions]]"
+- "[[Correctional institutions]]"
 ---
-# Jails

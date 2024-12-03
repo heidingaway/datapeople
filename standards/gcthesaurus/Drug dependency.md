@@ -1,10 +1,8 @@
 ---
 title: Drug dependency
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Drug dependency
+longTitle: 'Drug dependency'
+tags:
+- gccommon
 usedFor:
-- "[[5614 Drug addiction]]"
+- "[[Drug addiction]]"
 ---
-# Drug dependency

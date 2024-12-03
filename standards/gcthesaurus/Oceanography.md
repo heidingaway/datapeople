@@ -1,17 +1,12 @@
 ---
 title: Oceanography
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Oceanography
+longTitle: 'Oceanography'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5778 Earth sciences]]"
+- "[[Earth sciences]]"
 relatedTerm:
-- "[[10367 Hydrography]]"
-- "[[18357 Seas]]"
-- "[[14875 Oceans]]"
-- "[[12931 Marine biology]]"
+- "[[Hydrography Seas Oceans Marine biology]]"
 use:
-- "[[14868 Oceanology]]"
+- "[[Oceanology]]"
 ---
-# Oceanography

@@ -1,14 +1,10 @@
 ---
 title: Engineering
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Engineering
+longTitle: 'Engineering'
+tags:
+- gccommon
 broaderTerm:
-- "[[8826 Genetic engineering]]"
-- "[[13632 Military engineering]]"
-- "[[13183 Mechanical engineering]]"
+- "[[Genetic engineering Military engineering Mechanica]]"
 narrowerTerm:
-- "[[19868 Technology]]"
+- "[[Technology]]"
 ---
-# Engineering

@@ -1,10 +1,8 @@
 ---
 title: Leisure
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Leisure
+longTitle: 'Leisure'
+tags:
+- gccommon
 usedFor:
-- "[[17322 Recreation]]"
+- "[[Recreation]]"
 ---
-# Leisure

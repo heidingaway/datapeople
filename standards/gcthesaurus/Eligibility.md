@@ -1,11 +1,8 @@
 ---
 title: Eligibility
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Eligibility
+longTitle: 'Eligibility'
+tags:
+- gccommon
 relatedTerm:
-- "[[6749 Enrolment applications]]"
-- "[[16981 Qualifications]]"
+- "[[Enrolment applications Qualifications]]"
 ---
-# Eligibility

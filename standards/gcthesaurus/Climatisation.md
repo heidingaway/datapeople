@@ -1,10 +1,8 @@
 ---
 title: Climatisation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Climatisation
+longTitle: 'Climatisation'
+tags:
+- gccommon
 french:
-- "[[617 Air conditioning]]"
+- "[[Air conditioning]]"
 ---
-# Climatisation

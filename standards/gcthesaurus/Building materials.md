@@ -1,10 +1,8 @@
 ---
 title: Building materials
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Building materials
+longTitle: 'Building materials'
+tags:
+- gccommon
 usedFor:
-- "[[4030 Construction materials]]"
+- "[[Construction materials]]"
 ---
-# Building materials

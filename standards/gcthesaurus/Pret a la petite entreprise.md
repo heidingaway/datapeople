@@ -1,10 +1,8 @@
 ---
 title: Pret a la petite entreprise
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prêt à la petite entreprise
+longTitle: 'Prêt à la petite entreprise'
+tags:
+- gccommon
 french:
-- "[[18805 Small business loans]]"
+- "[[Small business loans]]"
 ---
-# Pret a la petite entreprise

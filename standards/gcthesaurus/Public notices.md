@@ -1,10 +1,8 @@
 ---
 title: Public notices
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public notices
+longTitle: 'Public notices'
+tags:
+- gccommon
 relatedTerm:
-- "[[16833 Public hearings]]"
+- "[[Public hearings]]"
 ---
-# Public notices

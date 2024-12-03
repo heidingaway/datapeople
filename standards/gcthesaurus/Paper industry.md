@@ -1,10 +1,8 @@
 ---
 title: Paper industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Paper industry
+longTitle: 'Paper industry'
+tags:
+- gccommon
 usedFor:
-- "[[16954 Pulp and paper industry]]"
+- "[[Pulp and paper industry]]"
 ---
-# Paper industry

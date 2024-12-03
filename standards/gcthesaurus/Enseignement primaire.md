@@ -1,10 +1,8 @@
 ---
 title: Enseignement primaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Enseignement primaire
+longTitle: 'Enseignement primaire'
+tags:
+- gccommon
 french:
-- "[[6395 Elementary education]]"
+- "[[Elementary education]]"
 ---
-# Enseignement primaire

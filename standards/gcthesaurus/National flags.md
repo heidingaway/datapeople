@@ -1,10 +1,8 @@
 ---
 title: National flags
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: National flags
+longTitle: 'National flags'
+tags:
+- gccommon
 usedFor:
-- "[[8018 Flags]]"
+- "[[Flags]]"
 ---
-# National flags

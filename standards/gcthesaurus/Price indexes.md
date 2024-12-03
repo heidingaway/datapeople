@@ -1,13 +1,10 @@
 ---
 title: Price indexes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Price indexes
+longTitle: 'Price indexes'
+tags:
+- gccommon
 relatedTerm:
-- "[[16321 Prices]]"
-- "[[5916 Economic indicators]]"
+- "[[Prices Economic indicators]]"
 use:
-- "[[4072 Consumer price index]]"
+- "[[Consumer price index]]"
 ---
-# Price indexes

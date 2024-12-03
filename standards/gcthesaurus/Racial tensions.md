@@ -1,10 +1,8 @@
 ---
 title: Racial tensions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Racial tensions
+longTitle: 'Racial tensions'
+tags:
+- gccommon
 usedFor:
-- "[[17039 Race relations]]"
+- "[[Race relations]]"
 ---
-# Racial tensions

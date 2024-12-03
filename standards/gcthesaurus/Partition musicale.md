@@ -1,10 +1,8 @@
 ---
 title: Partition musicale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Partition musicale
+longTitle: 'Partition musicale'
+tags:
+- gccommon
 french:
-- "[[14113 Music scores]]"
+- "[[Music scores]]"
 ---
-# Partition musicale

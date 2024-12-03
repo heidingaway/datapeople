@@ -1,17 +1,12 @@
 ---
 title: Hunting Sport
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hunting (Sport)
+longTitle: 'Hunting (Sport)'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19244 Sports]]"
+- "[[Sports]]"
 relatedTerm:
-- "[[10316 Hunting permits]]"
-- "[[15143 Outfitters]]"
-- "[[15138 Outdoor recreation]]"
+- "[[Hunting permits Outfitters Outdoor recreation]]"
 use:
-- "[[17350 Recreational hunting]]"
-- "[[19236 Sport hunting]]"
+- "[[Recreational hunting Sport hunting]]"
 ---
-# Hunting Sport

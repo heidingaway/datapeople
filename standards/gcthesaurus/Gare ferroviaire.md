@@ -1,10 +1,8 @@
 ---
 title: Gare ferroviaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gare ferroviaire
+longTitle: 'Gare ferroviaire'
+tags:
+- gccommon
 french:
-- "[[20477 Train stations]]"
+- "[[Train stations]]"
 ---
-# Gare ferroviaire

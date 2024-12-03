@@ -1,10 +1,8 @@
 ---
 title: Flying accidents
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Flying accidents
+longTitle: 'Flying accidents'
+tags:
+- gccommon
 usedFor:
-- "[[729 Aircraft accidents]]"
+- "[[Aircraft accidents]]"
 ---
-# Flying accidents

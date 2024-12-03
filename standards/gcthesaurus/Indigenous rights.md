@@ -1,19 +1,10 @@
 ---
 title: Indigenous rights
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indigenous rights
+longTitle: 'Indigenous rights'
+tags:
+- gccommon
 relatedTerm:
-- "[[10684 Indigenous peoples]]"
-- "[[10218 Human rights]]"
-- "[[11983 Land claims]]"
-- "[[10671 Indigenous law]]"
-- "[[10652 Indigenous governments]]"
-- "[[10630 Indigenous affairs]]"
+- "[[Indigenous peoples Human rights Land claims Indige]]"
 use:
-- "[[57 Aboriginal rights]]"
-- "[[14265 Native rights]]"
-- "[[968 Ancestral rights]]"
+- "[[Aboriginal rights Native rights Ancestral rights]]"
 ---
-# Indigenous rights

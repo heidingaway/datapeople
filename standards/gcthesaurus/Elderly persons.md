@@ -1,10 +1,8 @@
 ---
 title: Elderly persons
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Elderly persons
+longTitle: 'Elderly persons'
+tags:
+- gccommon
 usedFor:
-- "[[18540 Seniors]]"
+- "[[Seniors]]"
 ---
-# Elderly persons

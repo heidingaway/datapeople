@@ -1,10 +1,8 @@
 ---
 title: Electronic publications
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electronic publications
+longTitle: 'Electronic publications'
+tags:
+- gccommon
 usedFor:
-- "[[6300 Electronic documents]]"
+- "[[Electronic documents]]"
 ---
-# Electronic publications

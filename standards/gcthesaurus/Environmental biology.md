@@ -1,10 +1,8 @@
 ---
 title: Environmental biology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental biology
+longTitle: 'Environmental biology'
+tags:
+- gccommon
 usedFor:
-- "[[5814 Ecology]]"
+- "[[Ecology]]"
 ---
-# Environmental biology

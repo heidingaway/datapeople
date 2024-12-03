@@ -1,10 +1,8 @@
 ---
 title: Sailing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sailing
+longTitle: 'Sailing'
+tags:
+- gccommon
 usedFor:
-- "[[14376 Navigation]]"
+- "[[Navigation]]"
 ---
-# Sailing

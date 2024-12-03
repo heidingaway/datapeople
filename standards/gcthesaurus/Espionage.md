@@ -1,10 +1,8 @@
 ---
 title: Espionage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Espionage
+longTitle: 'Espionage'
+tags:
+- gccommon
 usedFor:
-- "[[18452 Security intelligence]]"
+- "[[Security intelligence]]"
 ---
-# Espionage

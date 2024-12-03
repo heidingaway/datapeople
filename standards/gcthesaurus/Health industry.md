@@ -1,10 +1,8 @@
 ---
 title: Health industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Health industry
+longTitle: 'Health industry'
+tags:
+- gccommon
 usedFor:
-- "[[9622 Health care industry]]"
+- "[[Health care industry]]"
 ---
-# Health industry

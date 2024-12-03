@@ -1,10 +1,8 @@
 ---
 title: Admissibilite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Admissibilité
+longTitle: 'Admissibilité'
+tags:
+- gccommon
 french:
-- "[[6405 Eligibility]]"
+- "[[Eligibility]]"
 ---
-# Admissibilite

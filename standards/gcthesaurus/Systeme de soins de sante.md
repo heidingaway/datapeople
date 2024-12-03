@@ -1,10 +1,8 @@
 ---
 title: Systeme de soins de sante
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Système de soins de santé
+longTitle: 'Système de soins de santé'
+tags:
+- gccommon
 french:
-- "[[9657 Health care system]]"
+- "[[Health care system]]"
 ---
-# Systeme de soins de sante

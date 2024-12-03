@@ -1,10 +1,8 @@
 ---
 title: Botanique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Botanique
+longTitle: 'Botanique'
+tags:
+- gccommon
 french:
-- "[[2373 Botany]]"
+- "[[Botany]]"
 ---
-# Botanique

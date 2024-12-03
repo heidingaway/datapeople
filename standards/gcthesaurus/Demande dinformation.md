@@ -1,10 +1,8 @@
 ---
 title: Demande dinformation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Demande d'information
+longTitle: 'Demande d'information'
+tags:
+- gccommon
 french:
-- "[[11013 Information requests]]"
+- "[[Information requests]]"
 ---
-# Demande dinformation

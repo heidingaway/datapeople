@@ -1,10 +1,8 @@
 ---
 title: Drainage basins
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Drainage basins
+longTitle: 'Drainage basins'
+tags:
+- gccommon
 usedFor:
-- "[[21551 Watersheds]]"
+- "[[Watersheds]]"
 ---
-# Drainage basins

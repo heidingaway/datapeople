@@ -1,13 +1,10 @@
 ---
 title: Drought
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Drought
+longTitle: 'Drought'
+tags:
+- gccommon
 narrowerTerm:
-- "[[14280 Natural disasters]]"
+- "[[Natural disasters]]"
 relatedTerm:
-- "[[11623 Irrigation]]"
-- "[[16212 Precipitation]]"
+- "[[Irrigation Precipitation]]"
 ---
-# Drought

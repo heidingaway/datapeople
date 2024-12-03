@@ -1,10 +1,8 @@
 ---
 title: GIS
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: GIS
+longTitle: 'GIS'
+tags:
+- gccommon
 usedFor:
-- "[[8921 Geographic information systems]]"
+- "[[Geographic information systems]]"
 ---
-# GIS

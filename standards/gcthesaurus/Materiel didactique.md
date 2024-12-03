@@ -1,10 +1,8 @@
 ---
 title: Materiel didactique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Matériel didactique
+longTitle: 'Matériel didactique'
+tags:
+- gccommon
 french:
-- "[[11162 Instructional materials]]"
+- "[[Instructional materials]]"
 ---
-# Materiel didactique

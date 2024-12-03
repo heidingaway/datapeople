@@ -1,10 +1,8 @@
 ---
 title: Serials
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Serials
+longTitle: 'Serials'
+tags:
+- gccommon
 usedFor:
-- "[[15490 Periodicals]]"
+- "[[Periodicals]]"
 ---
-# Serials

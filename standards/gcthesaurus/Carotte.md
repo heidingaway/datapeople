@@ -1,10 +1,8 @@
 ---
 title: Carotte
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Carotte
+longTitle: 'Carotte'
+tags:
+- gccommon
 french:
-- "[[2808 Carrots]]"
+- "[[Carrots]]"
 ---
-# Carotte

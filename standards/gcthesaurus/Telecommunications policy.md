@@ -1,12 +1,10 @@
 ---
 title: Telecommunications policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Telecommunications policy
+longTitle: 'Telecommunications policy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15958 Policy]]"
+- "[[Policy]]"
 relatedTerm:
-- "[[19917 Telecommunications]]"
+- "[[Telecommunications]]"
 ---
-# Telecommunications policy

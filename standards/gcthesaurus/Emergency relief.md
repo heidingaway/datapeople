@@ -1,12 +1,10 @@
 ---
 title: Emergency relief
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Emergency relief
+longTitle: 'Emergency relief'
+tags:
+- gccommon
 broaderTerm:
-- "[[5336 Disaster relief]]"
+- "[[Disaster relief]]"
 relatedTerm:
-- "[[6427 Emergency preparedness]]"
+- "[[Emergency preparedness]]"
 ---
-# Emergency relief

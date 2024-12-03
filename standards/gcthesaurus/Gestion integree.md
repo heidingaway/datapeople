@@ -1,10 +1,8 @@
 ---
 title: Gestion integree
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gestion intégrée
+longTitle: 'Gestion intégrée'
+tags:
+- gccommon
 french:
-- "[[11214 Integrated management]]"
+- "[[Integrated management]]"
 ---
-# Gestion integree

@@ -1,10 +1,8 @@
 ---
 title: Toxic products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Toxic products
+longTitle: 'Toxic products'
+tags:
+- gccommon
 usedFor:
-- "[[20324 Toxic substances]]"
+- "[[Toxic substances]]"
 ---
-# Toxic products

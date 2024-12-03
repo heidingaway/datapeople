@@ -1,18 +1,10 @@
 ---
 title: Human resources
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Human resources
+longTitle: 'Human resources'
+tags:
+- gccommon
 relatedTerm:
-- "[[15575 Personnel management]]"
-- "[[11224 Intellectual capital]]"
-- "[[3090 Chief Human Resources Officer]]"
-- "[[21931 Workers]]"
-- "[[11878 Labour force]]"
-- "[[19269 Staffing]]"
+- "[[Personnel management Intellectual capital Chief Hu]]"
 use:
-- "[[15566 Personnel]]"
-- "[[19260 Staff]]"
+- "[[Personnel Staff]]"
 ---
-# Human resources

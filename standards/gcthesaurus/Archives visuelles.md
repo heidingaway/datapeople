@@ -1,10 +1,8 @@
 ---
 title: Archives visuelles
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Archives visuelles
+longTitle: 'Archives visuelles'
+tags:
+- gccommon
 french:
-- "[[21096 Visual archives]]"
+- "[[Visual archives]]"
 ---
-# Archives visuelles

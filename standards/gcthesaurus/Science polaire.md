@@ -1,10 +1,8 @@
 ---
 title: Science polaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Science polaire
+longTitle: 'Science polaire'
+tags:
+- gccommon
 french:
-- "[[15913 Polar sciences]]"
+- "[[Polar sciences]]"
 ---
-# Science polaire

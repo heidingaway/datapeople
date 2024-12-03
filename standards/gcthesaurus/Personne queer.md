@@ -1,10 +1,8 @@
 ---
 title: Personne queer
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Personne queer
+longTitle: 'Personne queer'
+tags:
+- gccommon
 french:
-- "[[17023 Queer people]]"
+- "[[Queer people]]"
 ---
-# Personne queer

@@ -1,10 +1,8 @@
 ---
 title: Lung diseases
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Lung diseases
+longTitle: 'Lung diseases'
+tags:
+- gccommon
 usedFor:
-- "[[17745 Respiratory diseases]]"
+- "[[Respiratory diseases]]"
 ---
-# Lung diseases

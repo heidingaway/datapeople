@@ -1,10 +1,8 @@
 ---
 title: Water utilisation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Water utilisation
+longTitle: 'Water utilisation'
+tags:
+- gccommon
 usedFor:
-- "[[21527 Water use]]"
+- "[[Water use]]"
 ---
-# Water utilisation

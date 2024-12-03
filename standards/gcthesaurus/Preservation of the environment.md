@@ -1,10 +1,8 @@
 ---
 title: Preservation of the environment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Preservation of the environment
+longTitle: 'Preservation of the environment'
+tags:
+- gccommon
 usedFor:
-- "[[6966 Environmental protection]]"
+- "[[Environmental protection]]"
 ---
-# Preservation of the environment

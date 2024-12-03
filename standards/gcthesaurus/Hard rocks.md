@@ -1,13 +1,10 @@
 ---
 title: Hard rocks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hard rocks
+longTitle: 'Hard rocks'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8982 Geology]]"
-- "[[5772 Earth sciences]]"
+- "[[Geology Earth sciences]]"
 relatedTerm:
-- "[[10471 Igneous rocks]]"
+- "[[Igneous rocks]]"
 ---
-# Hard rocks

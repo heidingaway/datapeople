@@ -1,10 +1,8 @@
 ---
 title: Education familiale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Éducation familiale
+longTitle: 'Éducation familiale'
+tags:
+- gccommon
 french:
-- "[[7371 Family education]]"
+- "[[Family education]]"
 ---
-# Education familiale

@@ -1,10 +1,8 @@
 ---
 title: Maintenance and repair
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maintenance and repair
+longTitle: 'Maintenance and repair'
+tags:
+- gccommon
 usedFor:
-- "[[12712 Maintenance]]"
+- "[[Maintenance]]"
 ---
-# Maintenance and repair

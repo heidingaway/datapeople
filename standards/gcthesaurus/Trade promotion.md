@@ -1,14 +1,8 @@
 ---
 title: Trade promotion
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Trade promotion
+longTitle: 'Trade promotion'
+tags:
+- gccommon
 relatedTerm:
-- "[[13100 Marketing]]"
-- "[[2517 Business development]]"
-- "[[312 Advertising]]"
-- "[[13064 Market development]]"
-- "[[20443 Trade shows]]"
+- "[[Marketing Business development Advertising Market ]]"
 ---
-# Trade promotion

@@ -1,10 +1,8 @@
 ---
-title: "Attributes education seniority skills of a person "
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Attributes (education, seniority, skills) of a person that are productive in some economic context.
+title: Attributes education seniority skills of a person 
+longTitle: 'Attributes (education, seniority, skills) of a person that are productive in some economic context.'
+tags:
+- gccommon
 scopeNote:
-- "[[10173 Human capital]]"
+- "[[Human capital]]"
 ---
-# Attributes education seniority skills of a person

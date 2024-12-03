@@ -1,14 +1,12 @@
 ---
 title: Style manuals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Style manuals
+longTitle: 'Style manuals'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19503 Submissions]]"
+- "[[Submissions]]"
 relatedTerm:
-- "[[22071 Writing]]"
+- "[[Writing]]"
 use:
-- "[[19481 Style guides]]"
+- "[[Style guides]]"
 ---
-# Style manuals

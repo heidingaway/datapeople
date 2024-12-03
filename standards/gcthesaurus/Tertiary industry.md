@@ -1,10 +1,8 @@
 ---
 title: Tertiary industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tertiary industry
+longTitle: 'Tertiary industry'
+tags:
+- gccommon
 usedFor:
-- "[[18573 Service industry]]"
+- "[[Service industry]]"
 ---
-# Tertiary industry

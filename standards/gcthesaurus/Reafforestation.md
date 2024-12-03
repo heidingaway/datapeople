@@ -1,10 +1,8 @@
 ---
 title: Reafforestation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Reafforestation
+longTitle: 'Reafforestation'
+tags:
+- gccommon
 usedFor:
-- "[[17408 Reforestation]]"
+- "[[Reforestation]]"
 ---
-# Reafforestation

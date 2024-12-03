@@ -1,10 +1,8 @@
 ---
 title: Fecondite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fécondité
+longTitle: 'Fécondité'
+tags:
+- gccommon
 french:
-- "[[7643 Fertility]]"
+- "[[Fertility]]"
 ---
-# Fecondite

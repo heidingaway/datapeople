@@ -1,24 +1,14 @@
 ---
 title: Electronic equipment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electronic equipment
+longTitle: 'Electronic equipment'
+tags:
+- gccommon
 broaderTerm:
-- "[[3885 Computers]]"
+- "[[Computers]]"
 narrowerTerm:
-- "[[7084 Equipment]]"
+- "[[Equipment]]"
 relatedTerm:
-- "[[6386 Electronics]]"
-- "[[6391 Electronics industry]]"
-- "[[6246 Electrical equipment]]"
-- "[[6382 Electronic waste]]"
+- "[[Electronics Electronics industry Electrical equipm]]"
 use:
-- "[[6295 Electronic devices]]"
-- "[[6264 Electronic apparatus]]"
-- "[[6355 Electronic materials]]"
-- "[[6266 Electronic appliances]]"
-- "[[6365 Electronic products]]"
-- "[[6347 Electronic instruments]]"
+- "[[Electronic devices Electronic apparatus Electronic]]"
 ---
-# Electronic equipment

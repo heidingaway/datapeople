@@ -1,13 +1,10 @@
 ---
 title: Stewardship
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Stewardship
+longTitle: 'Stewardship'
+tags:
+- gccommon
 relatedTerm:
-- "[[12782 Management]]"
-- "[[19641 Sustainable development]]"
+- "[[Management Sustainable development]]"
 use:
-- "[[9412 Guardianship]]"
+- "[[Guardianship]]"
 ---
-# Stewardship

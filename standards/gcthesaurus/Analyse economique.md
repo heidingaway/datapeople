@@ -1,10 +1,8 @@
 ---
 title: Analyse economique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Analyse économique
+longTitle: 'Analyse économique'
+tags:
+- gccommon
 french:
-- "[[5822 Economic analysis]]"
+- "[[Economic analysis]]"
 ---
-# Analyse economique

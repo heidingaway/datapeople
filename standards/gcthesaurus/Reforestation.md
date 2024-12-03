@@ -1,12 +1,10 @@
 ---
 title: Reforestation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Reforestation
+longTitle: 'Reforestation'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8323 Forest management]]"
+- "[[Forest management]]"
 use:
-- "[[17228 Reafforestation]]"
+- "[[Reafforestation]]"
 ---
-# Reforestation

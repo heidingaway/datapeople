@@ -1,10 +1,8 @@
 ---
 title: Enseignant
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Enseignant
+longTitle: 'Enseignant'
+tags:
+- gccommon
 french:
-- "[[19797 Teachers]]"
+- "[[Teachers]]"
 ---
-# Enseignant

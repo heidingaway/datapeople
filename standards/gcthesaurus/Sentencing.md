@@ -1,10 +1,8 @@
 ---
 title: Sentencing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sentencing
+longTitle: 'Sentencing'
+tags:
+- gccommon
 usedFor:
-- "[[4380 Court decisions]]"
+- "[[Court decisions]]"
 ---
-# Sentencing

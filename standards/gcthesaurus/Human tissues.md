@@ -1,10 +1,8 @@
 ---
 title: Human tissues
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Human tissues
+longTitle: 'Human tissues'
+tags:
+- gccommon
 usedFor:
-- "[[20205 Tissues]]"
+- "[[Tissues]]"
 ---
-# Human tissues

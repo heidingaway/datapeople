@@ -1,10 +1,8 @@
 ---
 title: Ozone hole
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ozone hole
+longTitle: 'Ozone hole'
+tags:
+- gccommon
 usedFor:
-- "[[15186 Ozone depletion]]"
+- "[[Ozone depletion]]"
 ---
-# Ozone hole

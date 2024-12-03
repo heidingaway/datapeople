@@ -1,14 +1,10 @@
 ---
 title: Environmental indicators
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental indicators
+longTitle: 'Environmental indicators'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10621 Indicators]]"
+- "[[Indicators]]"
 relatedTerm:
-- "[[6900 Environmental impact assessment]]"
-- "[[6933 Environmental management]]"
-- "[[6790 Environment]]"
+- "[[Environmental impact assessment Environmental mana]]"
 ---
-# Environmental indicators

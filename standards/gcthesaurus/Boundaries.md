@@ -1,14 +1,10 @@
 ---
 title: Boundaries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Boundaries
+longTitle: 'Boundaries'
+tags:
+- gccommon
 relatedTerm:
-- "[[2388 Boundary waters]]"
-- "[[2342 Border crossing]]"
+- "[[Boundary waters Border crossing]]"
 use:
-- "[[2348 Borders]]"
-- "[[8900 Geographic boundaries]]"
+- "[[Borders Geographic boundaries]]"
 ---
-# Boundaries

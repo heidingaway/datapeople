@@ -1,10 +1,8 @@
 ---
 title: Home education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Home education
+longTitle: 'Home education'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6034 Education]]"
+- "[[Education]]"
 ---
-# Home education

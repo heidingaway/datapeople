@@ -1,10 +1,8 @@
 ---
 title: Visually impaired
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Visually impaired
+longTitle: 'Visually impaired'
+tags:
+- gccommon
 usedFor:
-- "[[15593 Persons with disabilities]]"
+- "[[Persons with disabilities]]"
 ---
-# Visually impaired

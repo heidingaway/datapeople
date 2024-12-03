@@ -1,13 +1,10 @@
 ---
 title: Demographic maps
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Demographic maps
+longTitle: 'Demographic maps'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12891 Maps]]"
+- "[[Maps]]"
 relatedTerm:
-- "[[5115 Demography]]"
-- "[[16076 Population]]"
+- "[[Demography Population]]"
 ---
-# Demographic maps

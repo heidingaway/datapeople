@@ -1,14 +1,12 @@
 ---
 title: Environmental law
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental law
+longTitle: 'Environmental law'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12153 Law]]"
+- "[[Law]]"
 relatedTerm:
-- "[[6947 Environmental policy]]"
+- "[[Environmental policy]]"
 use:
-- "[[6915 Environmental legislation]]"
+- "[[Environmental legislation]]"
 ---
-# Environmental law

@@ -1,12 +1,10 @@
 ---
 title: Natural history
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Natural history
+longTitle: 'Natural history'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9974 History]]"
+- "[[History]]"
 relatedTerm:
-- "[[14338 Natural sciences]]"
+- "[[Natural sciences]]"
 ---
-# Natural history

@@ -1,10 +1,8 @@
 ---
 title: Assets management
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Assets management
+longTitle: 'Assets management'
+tags:
+- gccommon
 usedFor:
-- "[[16632 Property management]]"
+- "[[Property management]]"
 ---
-# Assets management

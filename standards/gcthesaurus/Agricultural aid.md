@@ -1,10 +1,8 @@
 ---
 title: Agricultural aid
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Agricultural aid
+longTitle: 'Agricultural aid'
+tags:
+- gccommon
 usedFor:
-- "[[465 Agricultural assistance]]"
+- "[[Agricultural assistance]]"
 ---
-# Agricultural aid

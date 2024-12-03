@@ -1,10 +1,8 @@
 ---
 title: Fiduciaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fiduciaire
+longTitle: 'Fiduciaire'
+tags:
+- gccommon
 french:
-- "[[20726 Trustees]]"
+- "[[Trustees]]"
 ---
-# Fiduciaire

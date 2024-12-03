@@ -1,10 +1,8 @@
 ---
 title: Wild animals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wild animals
+longTitle: 'Wild animals'
+tags:
+- gccommon
 usedFor:
-- "[[21750 Wildlife]]"
+- "[[Wildlife]]"
 ---
-# Wild animals

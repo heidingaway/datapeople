@@ -1,10 +1,8 @@
 ---
 title: Services immobiliers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Services immobiliers
+longTitle: 'Services immobiliers'
+tags:
+- gccommon
 french:
-- "[[17249 Real property services]]"
+- "[[Real property services]]"
 ---
-# Services immobiliers

@@ -1,10 +1,8 @@
 ---
 title: Propagande
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Propagande
+longTitle: 'Propagande'
+tags:
+- gccommon
 french:
-- "[[16605 Propaganda]]"
+- "[[Propaganda]]"
 ---
-# Propagande

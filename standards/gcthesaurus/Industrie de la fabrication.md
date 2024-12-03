@@ -1,10 +1,8 @@
 ---
 title: Industrie de la fabrication
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie de la fabrication
+longTitle: 'Industrie de la fabrication'
+tags:
+- gccommon
 french:
-- "[[12831 Manufacturing industry]]"
+- "[[Manufacturing industry]]"
 ---
-# Industrie de la fabrication

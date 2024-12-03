@@ -1,11 +1,8 @@
 ---
 title: Rates
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rates
+longTitle: 'Rates'
+tags:
+- gccommon
 broaderTerm:
-- "[[7216 Exchange rates]]"
-- "[[11289 Interest rates]]"
+- "[[Exchange rates Interest rates]]"
 ---
-# Rates

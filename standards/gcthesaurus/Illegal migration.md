@@ -1,10 +1,8 @@
 ---
 title: Illegal migration
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Illegal migration
+longTitle: 'Illegal migration'
+tags:
+- gccommon
 usedFor:
-- "[[11615 Irregular migration]]"
+- "[[Irregular migration]]"
 ---
-# Illegal migration

@@ -1,13 +1,10 @@
 ---
 title: Chief Financial Officer
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Chief Financial Officer
+longTitle: 'Chief Financial Officer'
+tags:
+- gccommon
 relatedTerm:
-- "[[7694 Finance]]"
-- "[[7749 Financial management]]"
+- "[[Finance Financial management]]"
 use:
-- "[[2975 CFO]]"
+- "[[CFO]]"
 ---
-# Chief Financial Officer

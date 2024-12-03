@@ -1,10 +1,8 @@
 ---
 title: Energy consumption
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Energy consumption
+longTitle: 'Energy consumption'
+tags:
+- gccommon
 usedFor:
-- "[[6710 Energy use]]"
+- "[[Energy use]]"
 ---
-# Energy consumption

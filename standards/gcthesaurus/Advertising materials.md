@@ -1,10 +1,8 @@
 ---
 title: Advertising materials
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Advertising materials
+longTitle: 'Advertising materials'
+tags:
+- gccommon
 usedFor:
-- "[[304 Advertising]]"
+- "[[Advertising]]"
 ---
-# Advertising materials

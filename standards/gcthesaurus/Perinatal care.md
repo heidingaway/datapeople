@@ -1,15 +1,10 @@
 ---
 title: Perinatal care
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Perinatal care
+longTitle: 'Perinatal care'
+tags:
+- gccommon
 relatedTerm:
-- "[[2255 Birth]]"
-- "[[10890 Infant care]]"
-- "[[10896 Infant nutrition]]"
+- "[[Birth Infant care Infant nutrition]]"
 use:
-- "[[16236 Prenatal care]]"
-- "[[16138 Postnatal care]]"
+- "[[Prenatal care Postnatal care]]"
 ---
-# Perinatal care

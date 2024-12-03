@@ -1,10 +1,8 @@
 ---
 title: Athlete
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Athlète
+longTitle: 'Athlète'
+tags:
+- gccommon
 french:
-- "[[1637 Athletes]]"
+- "[[Athletes]]"
 ---
-# Athlete

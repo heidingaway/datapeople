@@ -1,10 +1,8 @@
 ---
 title: Travail non remunere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Travail non rémunéré
+longTitle: 'Travail non rémunéré'
+tags:
+- gccommon
 french:
-- "[[20801 Unpaid work]]"
+- "[[Unpaid work]]"
 ---
-# Travail non remunere

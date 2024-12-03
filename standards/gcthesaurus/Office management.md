@@ -1,14 +1,10 @@
 ---
 title: Office management
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Office management
+longTitle: 'Office management'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12763 Management]]"
+- "[[Management]]"
 relatedTerm:
-- "[[235 Administrative data]]"
-- "[[17301 Records management]]"
-- "[[14898 Office automation]]"
+- "[[Administrative data Records management Office auto]]"
 ---
-# Office management

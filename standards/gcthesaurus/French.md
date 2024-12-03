@@ -1,10 +1,8 @@
 ---
 title: French
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: French
+longTitle: 'French'
+tags:
+- gccommon
 usedFor:
-- "[[8512 French language]]"
+- "[[French language]]"
 ---
-# French

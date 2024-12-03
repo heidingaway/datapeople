@@ -1,10 +1,8 @@
 ---
 title: Medical device industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Medical device industry
+longTitle: 'Medical device industry'
+tags:
+- gccommon
 usedFor:
-- "[[13265 Medical products industry]]"
+- "[[Medical products industry]]"
 ---
-# Medical device industry

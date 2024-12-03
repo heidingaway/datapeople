@@ -1,10 +1,8 @@
 ---
 title: Droit fiscal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Droit fiscal
+longTitle: 'Droit fiscal'
+tags:
+- gccommon
 french:
-- "[[7848 Fiscal law]]"
+- "[[Fiscal law]]"
 ---
-# Droit fiscal

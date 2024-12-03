@@ -1,15 +1,12 @@
 ---
 title: Fresh water
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fresh water
+longTitle: 'Fresh water'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21375 Water]]"
+- "[[Water]]"
 relatedTerm:
-- "[[5584 Drinking water]]"
-- "[[18120 Salt water]]"
+- "[[Drinking water Salt water]]"
 use:
-- "[[19649 Sweet water]]"
+- "[[Sweet water]]"
 ---
-# Fresh water

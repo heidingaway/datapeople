@@ -1,10 +1,8 @@
 ---
 title: Philosophie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Philosophie
+longTitle: 'Philosophie'
+tags:
+- gccommon
 french:
-- "[[15711 Philosophy]]"
+- "[[Philosophy]]"
 ---
-# Philosophie

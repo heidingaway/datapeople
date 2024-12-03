@@ -1,14 +1,10 @@
 ---
 title: Health policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Health policy
+longTitle: 'Health policy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15949 Policy]]"
+- "[[Policy]]"
 relatedTerm:
-- "[[8137 Food policy]]"
-- "[[9669 Health care system]]"
-- "[[9579 Health]]"
+- "[[Food policy Health care system Health]]"
 ---
-# Health policy

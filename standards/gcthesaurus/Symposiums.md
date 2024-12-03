@@ -1,10 +1,8 @@
 ---
 title: Symposiums
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Symposiums
+longTitle: 'Symposiums'
+tags:
+- gccommon
 usedFor:
-- "[[3916 Conferences]]"
+- "[[Conferences]]"
 ---
-# Symposiums

@@ -1,10 +1,8 @@
 ---
 title: Developpement international
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Développement international
+longTitle: 'Développement international'
+tags:
+- gccommon
 french:
-- "[[11374 International development]]"
+- "[[International development]]"
 ---
-# Developpement international

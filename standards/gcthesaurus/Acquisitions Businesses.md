@@ -1,14 +1,10 @@
 ---
 title: Acquisitions Businesses
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Acquisitions (Businesses)
+longTitle: 'Acquisitions (Businesses)'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2509 Business development]]"
+- "[[Business development]]"
 relatedTerm:
-- "[[2600 Businesses]]"
-- "[[13426 Mergers]]"
-- "[[2566 Business start-ups]]"
+- "[[Businesses Mergers Business start-ups]]"
 ---
-# Acquisitions Businesses

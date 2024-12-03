@@ -1,13 +1,10 @@
 ---
 title: Claims
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Claims
+longTitle: 'Claims'
+tags:
+- gccommon
 broaderTerm:
-- "[[11980 Land claims]]"
+- "[[Land claims]]"
 relatedTerm:
-- "[[3298 Claims processing]]"
-- "[[3776 Complaints]]"
+- "[[Claims processing Complaints]]"
 ---
-# Claims

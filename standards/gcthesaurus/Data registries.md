@@ -1,10 +1,8 @@
 ---
 title: Data registries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Data registries
+longTitle: 'Data registries'
+tags:
+- gccommon
 usedFor:
-- "[[4899 Databases]]"
+- "[[Databases]]"
 ---
-# Data registries

@@ -1,10 +1,8 @@
 ---
 title: Refers to all sciences that study the natural worl
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Refers to all sciences that study the natural world, as opposed to social sciences.
+longTitle: 'Refers to all sciences that study the natural world, as opposed to social sciences.'
+tags:
+- gccommon
 scopeNote:
-- "[[14328 Natural sciences]]"
+- "[[Natural sciences]]"
 ---
-# Refers to all sciences that study the natural worl

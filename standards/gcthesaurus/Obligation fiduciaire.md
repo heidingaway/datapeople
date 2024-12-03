@@ -1,10 +1,8 @@
 ---
 title: Obligation fiduciaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Obligation fiduciaire
+longTitle: 'Obligation fiduciaire'
+tags:
+- gccommon
 french:
-- "[[7666 Fiduciary obligations]]"
+- "[[Fiduciary obligations]]"
 ---
-# Obligation fiduciaire

@@ -1,10 +1,8 @@
 ---
 title: Diversite linguistique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Diversité linguistique
+longTitle: 'Diversité linguistique'
+tags:
+- gccommon
 french:
-- "[[12460 Linguistic diversity]]"
+- "[[Linguistic diversity]]"
 ---
-# Diversite linguistique

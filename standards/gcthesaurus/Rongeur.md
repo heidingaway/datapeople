@@ -1,10 +1,8 @@
 ---
 title: Rongeur
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rongeur
+longTitle: 'Rongeur'
+tags:
+- gccommon
 french:
-- "[[17938 Rodents]]"
+- "[[Rodents]]"
 ---
-# Rongeur

@@ -1,10 +1,8 @@
 ---
 title: Centre de formation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Centre de formation
+longTitle: 'Centre de formation'
+tags:
+- gccommon
 french:
-- "[[20504 Training centres]]"
+- "[[Training centres]]"
 ---
-# Centre de formation

@@ -1,10 +1,8 @@
 ---
 title: Aboriginal issues
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aboriginal issues
+longTitle: 'Aboriginal issues'
+tags:
+- gccommon
 usedFor:
-- "[[10629 Indigenous affairs]]"
+- "[[Indigenous affairs]]"
 ---
-# Aboriginal issues

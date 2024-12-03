@@ -1,10 +1,8 @@
 ---
 title: Water plants
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Water plants
+longTitle: 'Water plants'
+tags:
+- gccommon
 usedFor:
-- "[[1300 Aquatic plants]]"
+- "[[Aquatic plants]]"
 ---
-# Water plants

@@ -1,10 +1,8 @@
 ---
 title: Child maintenance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Child maintenance
+longTitle: 'Child maintenance'
+tags:
+- gccommon
 usedFor:
-- "[[3138 Child support]]"
+- "[[Child support]]"
 ---
-# Child maintenance

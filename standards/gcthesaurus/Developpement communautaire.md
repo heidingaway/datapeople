@@ -1,10 +1,8 @@
 ---
 title: Developpement communautaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Développement communautaire
+longTitle: 'Développement communautaire'
+tags:
+- gccommon
 french:
-- "[[3687 Community development]]"
+- "[[Community development]]"
 ---
-# Developpement communautaire

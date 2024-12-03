@@ -1,16 +1,12 @@
 ---
 title: Postsecondary education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Postsecondary education
+longTitle: 'Postsecondary education'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6037 Education]]"
+- "[[Education]]"
 relatedTerm:
-- "[[3534 Colleges]]"
-- "[[20792 Universities]]"
+- "[[Colleges Universities]]"
 use:
-- "[[9924 Higher education]]"
-- "[[16119 Post secondary education]]"
+- "[[Higher education Post secondary education]]"
 ---
-# Postsecondary education

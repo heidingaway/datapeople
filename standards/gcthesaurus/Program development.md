@@ -1,12 +1,10 @@
 ---
 title: Program development
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Program development
+longTitle: 'Program development'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5189 Development]]"
+- "[[Development]]"
 relatedTerm:
-- "[[16579 Programs]]"
+- "[[Programs]]"
 ---
-# Program development

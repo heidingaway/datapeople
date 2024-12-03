@@ -1,10 +1,8 @@
 ---
 title: Saline water
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Saline water
+longTitle: 'Saline water'
+tags:
+- gccommon
 usedFor:
-- "[[18116 Salt water]]"
+- "[[Salt water]]"
 ---
-# Saline water

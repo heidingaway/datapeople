@@ -1,10 +1,8 @@
 ---
 title: Motor buses
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Motor buses
+longTitle: 'Motor buses'
+tags:
+- gccommon
 usedFor:
-- "[[2490 Buses]]"
+- "[[Buses]]"
 ---
-# Motor buses

@@ -1,10 +1,8 @@
 ---
 title: Test
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Test
+longTitle: 'Test'
+tags:
+- gccommon
 french:
-- "[[20113 Testing]]"
+- "[[Testing]]"
 ---
-# Test

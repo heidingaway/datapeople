@@ -1,10 +1,8 @@
 ---
 title: Sciences de la vie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sciences de la vie
+longTitle: 'Sciences de la vie'
+tags:
+- gccommon
 french:
-- "[[12423 Life sciences]]"
+- "[[Life sciences]]"
 ---
-# Sciences de la vie

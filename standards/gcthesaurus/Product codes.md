@@ -1,11 +1,8 @@
 ---
 title: Product codes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Product codes
+longTitle: 'Product codes'
+tags:
+- gccommon
 relatedTerm:
-- "[[16503 Products]]"
-- "[[11787 Labelling]]"
+- "[[Products Labelling]]"
 ---
-# Product codes

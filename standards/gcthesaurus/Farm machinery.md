@@ -1,10 +1,8 @@
 ---
 title: Farm machinery
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Farm machinery
+longTitle: 'Farm machinery'
+tags:
+- gccommon
 usedFor:
-- "[[542 Agricultural technology]]"
+- "[[Agricultural technology]]"
 ---
-# Farm machinery

@@ -1,10 +1,8 @@
 ---
 title: Information electronique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Information électronique
+longTitle: 'Information électronique'
+tags:
+- gccommon
 french:
-- "[[6338 Electronic information]]"
+- "[[Electronic information]]"
 ---
-# Information electronique

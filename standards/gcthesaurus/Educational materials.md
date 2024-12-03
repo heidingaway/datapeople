@@ -1,10 +1,8 @@
 ---
 title: Educational materials
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Educational materials
+longTitle: 'Educational materials'
+tags:
+- gccommon
 usedFor:
-- "[[6107 Educational resources]]"
+- "[[Educational resources]]"
 ---
-# Educational materials

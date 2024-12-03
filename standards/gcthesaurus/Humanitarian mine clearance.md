@@ -1,10 +1,8 @@
 ---
 title: Humanitarian mine clearance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Humanitarian mine clearance
+longTitle: 'Humanitarian mine clearance'
+tags:
+- gccommon
 usedFor:
-- "[[5082 Demining]]"
+- "[[Demining]]"
 ---
-# Humanitarian mine clearance

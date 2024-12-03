@@ -1,12 +1,10 @@
 ---
 title: Geomatics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Geomatics
+longTitle: 'Geomatics'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8947 Geography]]"
+- "[[Geography]]"
 relatedTerm:
-- "[[8926 Geographic information systems]]"
+- "[[Geographic information systems]]"
 ---
-# Geomatics

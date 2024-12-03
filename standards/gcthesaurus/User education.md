@@ -1,12 +1,10 @@
 ---
 title: User education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: User education
+longTitle: 'User education'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6043 Education]]"
+- "[[Education]]"
 relatedTerm:
-- "[[20500 Training]]"
+- "[[Training]]"
 ---
-# User education

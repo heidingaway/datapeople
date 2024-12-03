@@ -1,10 +1,8 @@
 ---
 title: Index
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Index
+longTitle: 'Index'
+tags:
+- gccommon
 french:
-- "[[10605 Indexes]]"
+- "[[Indexes]]"
 ---
-# Index

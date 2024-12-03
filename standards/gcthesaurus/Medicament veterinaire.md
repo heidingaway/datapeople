@@ -1,10 +1,8 @@
 ---
 title: Medicament veterinaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Médicament vétérinaire
+longTitle: 'Médicament vétérinaire'
+tags:
+- gccommon
 french:
-- "[[20959 Veterinary drugs]]"
+- "[[Veterinary drugs]]"
 ---
-# Medicament veterinaire

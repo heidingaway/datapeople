@@ -1,10 +1,8 @@
 ---
 title: Garbage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Garbage
+longTitle: 'Garbage'
+tags:
+- gccommon
 usedFor:
-- "[[21296 Waste]]"
+- "[[Waste]]"
 ---
-# Garbage

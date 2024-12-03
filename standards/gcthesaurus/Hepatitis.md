@@ -1,10 +1,8 @@
 ---
 title: Hepatitis
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hepatitis
+longTitle: 'Hepatitis'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10923 Infectious diseases]]"
+- "[[Infectious diseases]]"
 ---
-# Hepatitis

@@ -1,10 +1,8 @@
 ---
 title: Prevention du tabagisme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prévention du tabagisme
+longTitle: 'Prévention du tabagisme'
+tags:
+- gccommon
 french:
-- "[[18836 Smoking prevention]]"
+- "[[Smoking prevention]]"
 ---
-# Prevention du tabagisme

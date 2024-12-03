@@ -1,10 +1,8 @@
 ---
 title: Minimum wage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Minimum wage
+longTitle: 'Minimum wage'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18087 Salaries]]"
+- "[[Salaries]]"
 ---
-# Minimum wage

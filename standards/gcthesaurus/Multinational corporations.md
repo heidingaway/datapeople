@@ -1,17 +1,12 @@
 ---
 title: Multinational corporations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Multinational corporations
+longTitle: 'Multinational corporations'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4284 Corporations]]"
+- "[[Corporations]]"
 relatedTerm:
-- "[[11384 International economics]]"
-- "[[11351 International business development]]"
+- "[[International economics International business dev]]"
 use:
-- "[[20577 Transnational corporations]]"
-- "[[11355 International businesses]]"
-- "[[11353 International business enterprises]]"
+- "[[Transnational corporations International businesse]]"
 ---
-# Multinational corporations

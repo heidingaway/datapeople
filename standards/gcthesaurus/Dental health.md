@@ -1,10 +1,8 @@
 ---
 title: Dental health
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dental health
+longTitle: 'Dental health'
+tags:
+- gccommon
 usedFor:
-- "[[15073 Oral health]]"
+- "[[Oral health]]"
 ---
-# Dental health

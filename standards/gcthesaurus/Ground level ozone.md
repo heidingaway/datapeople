@@ -1,10 +1,8 @@
 ---
 title: Ground level ozone
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ground level ozone
+longTitle: 'Ground level ozone'
+tags:
+- gccommon
 usedFor:
-- "[[15177 Ozone]]"
+- "[[Ozone]]"
 ---
-# Ground level ozone

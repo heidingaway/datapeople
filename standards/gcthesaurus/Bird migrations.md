@@ -1,10 +1,8 @@
 ---
 title: Bird migrations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bird migrations
+longTitle: 'Bird migrations'
+tags:
+- gccommon
 usedFor:
-- "[[1036 Animal migrations]]"
+- "[[Animal migrations]]"
 ---
-# Bird migrations

@@ -1,10 +1,8 @@
 ---
 title: Photos
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Photos
+longTitle: 'Photos'
+tags:
+- gccommon
 usedFor:
-- "[[15726 Photographs]]"
+- "[[Photographs]]"
 ---
-# Photos

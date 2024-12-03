@@ -1,10 +1,8 @@
 ---
 title: Crop lands
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Crop lands
+longTitle: 'Crop lands'
+tags:
+- gccommon
 usedFor:
-- "[[7479 Farmlands]]"
+- "[[Farmlands]]"
 ---
-# Crop lands

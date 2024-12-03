@@ -1,10 +1,8 @@
 ---
 title: Process industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Process industry
+longTitle: 'Process industry'
+tags:
+- gccommon
 usedFor:
-- "[[12834 Manufacturing industry]]"
+- "[[Manufacturing industry]]"
 ---
-# Process industry

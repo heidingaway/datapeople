@@ -1,16 +1,12 @@
 ---
 title: Forage crops
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forage crops
+longTitle: 'Forage crops'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4542 Crops]]"
+- "[[Crops]]"
 relatedTerm:
-- "[[9325 Grasslands]]"
-- "[[1048 Animal nutrition]]"
+- "[[Grasslands Animal nutrition]]"
 use:
-- "[[8061 Fodder crops]]"
-- "[[9511 Hay]]"
+- "[[Fodder crops Hay]]"
 ---
-# Forage crops

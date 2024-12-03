@@ -1,10 +1,8 @@
 ---
 title: Emprunteur
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Emprunteur
+longTitle: 'Emprunteur'
+tags:
+- gccommon
 french:
-- "[[2356 Borrowers]]"
+- "[[Borrowers]]"
 ---
-# Emprunteur

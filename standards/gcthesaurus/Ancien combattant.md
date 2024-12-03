@@ -1,10 +1,8 @@
 ---
 title: Ancien combattant
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ancien combattant
+longTitle: 'Ancien combattant'
+tags:
+- gccommon
 french:
-- "[[20953 Veterans]]"
+- "[[Veterans]]"
 ---
-# Ancien combattant

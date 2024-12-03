@@ -1,10 +1,8 @@
 ---
 title: Tasks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tasks
+longTitle: 'Tasks'
+tags:
+- gccommon
 usedFor:
-- "[[8617 Functions]]"
+- "[[Functions]]"
 ---
-# Tasks

@@ -1,12 +1,10 @@
 ---
 title: Illustrations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Illustrations
+longTitle: 'Illustrations'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9315 Graphic arts]]"
+- "[[Graphic arts]]"
 relatedTerm:
-- "[[5564 Drawings]]"
+- "[[Drawings]]"
 ---
-# Illustrations

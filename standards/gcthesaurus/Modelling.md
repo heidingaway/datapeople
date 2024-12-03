@@ -1,13 +1,10 @@
 ---
 title: Modelling
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Modelling
+longTitle: 'Modelling'
+tags:
+- gccommon
 relatedTerm:
-- "[[16681 Prototyping]]"
-- "[[952 Analysis]]"
+- "[[Prototyping Analysis]]"
 use:
-- "[[13826 Modeling]]"
+- "[[Modeling]]"
 ---
-# Modelling

@@ -1,10 +1,8 @@
 ---
 title: Ichtyologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ichtyologie
+longTitle: 'Ichtyologie'
+tags:
+- gccommon
 french:
-- "[[10450 Ichthyology]]"
+- "[[Ichthyology]]"
 ---
-# Ichtyologie

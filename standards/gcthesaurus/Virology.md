@@ -1,10 +1,8 @@
 ---
 title: Virology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Virology
+longTitle: 'Virology'
+tags:
+- gccommon
 usedFor:
-- "[[13521 Microbiology]]"
+- "[[Microbiology]]"
 ---
-# Virology

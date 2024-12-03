@@ -1,15 +1,10 @@
 ---
 title: Language policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Language policy
+longTitle: 'Language policy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15953 Policy]]"
+- "[[Policy]]"
 relatedTerm:
-- "[[14932 Official languages]]"
-- "[[14939 Official languages promotion]]"
-- "[[2055 Bilingual services]]"
-- "[[12469 Linguistic duality]]"
+- "[[Official languages Official languages promotion Bi]]"
 ---
-# Language policy

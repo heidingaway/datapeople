@@ -1,10 +1,8 @@
 ---
 title: Bases
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bases
+longTitle: 'Bases'
+tags:
+- gccommon
 usedFor:
-- "[[13647 Military installations]]"
+- "[[Military installations]]"
 ---
-# Bases

@@ -1,10 +1,8 @@
 ---
 title: Alcohol drinking
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Alcohol drinking
+longTitle: 'Alcohol drinking'
+tags:
+- gccommon
 usedFor:
-- "[[815 Alcohol consumption]]"
+- "[[Alcohol consumption]]"
 ---
-# Alcohol drinking

@@ -1,14 +1,12 @@
 ---
 title: Electrical appliances
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electrical appliances
+longTitle: 'Electrical appliances'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6244 Electrical equipment]]"
+- "[[Electrical equipment]]"
 relatedTerm:
-- "[[10110 Household equipment]]"
+- "[[Household equipment]]"
 use:
-- "[[6196 Electric appliances]]"
+- "[[Electric appliances]]"
 ---
-# Electrical appliances

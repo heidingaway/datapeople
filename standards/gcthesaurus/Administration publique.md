@@ -1,10 +1,8 @@
 ---
 title: Administration publique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Administration publique
+longTitle: 'Administration publique'
+tags:
+- gccommon
 french:
-- "[[16764 Public administration]]"
+- "[[Public administration]]"
 ---
-# Administration publique

@@ -1,10 +1,8 @@
 ---
 title: Renovation domiciliaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rénovation domiciliaire
+longTitle: 'Rénovation domiciliaire'
+tags:
+- gccommon
 french:
-- "[[10030 Home renovations]]"
+- "[[Home renovations]]"
 ---
-# Renovation domiciliaire

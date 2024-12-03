@@ -1,10 +1,8 @@
 ---
 title: Tunnels
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tunnels
+longTitle: 'Tunnels'
+tags:
+- gccommon
 relatedTerm:
-- "[[17895 Road networks]]"
+- "[[Road networks]]"
 ---
-# Tunnels

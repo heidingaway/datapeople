@@ -1,12 +1,10 @@
 ---
 title: Scientific information
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Scientific information
+longTitle: 'Scientific information'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10964 Information]]"
+- "[[Information]]"
 relatedTerm:
-- "[[18244 Sciences]]"
+- "[[Sciences]]"
 ---
-# Scientific information

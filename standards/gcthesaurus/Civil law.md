@@ -1,12 +1,10 @@
 ---
 title: Civil law
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Civil law
+longTitle: 'Civil law'
+tags:
+- gccommon
 broaderTerm:
-- "[[7380 Family law]]"
+- "[[Family law]]"
 narrowerTerm:
-- "[[12149 Law]]"
+- "[[Law]]"
 ---
-# Civil law

@@ -1,25 +1,14 @@
 ---
 title: Computer networks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Computer networks
+longTitle: 'Computer networks'
+tags:
+- gccommon
 broaderTerm:
-- "[[11470 Internet]]"
-- "[[11530 Intranets]]"
+- "[[Internet Intranets]]"
 narrowerTerm:
-- "[[14418 Networks]]"
+- "[[Networks]]"
 relatedTerm:
-- "[[3888 Computers]]"
-- "[[19911 Telecommunications]]"
-- "[[3807 Computer crime]]"
-- "[[11050 Information technology]]"
-- "[[3874 Computer systems]]"
+- "[[Computers Telecommunications Computer crime Inform]]"
 use:
-- "[[21731 Wide area networks]]"
-- "[[6363 Electronic networks]]"
-- "[[21239 WANs]]"
-- "[[12597 Local area networks]]"
-- "[[12144 LANs]]"
+- "[[Wide area networks Electronic networks WANs Local ]]"
 ---
-# Computer networks

@@ -1,13 +1,10 @@
 ---
 title: Organ transplantation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Organ transplantation
+longTitle: 'Organ transplantation'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20590 Transplantation (Medicine)]]"
+- "[[Transplantation Medicine]]"
 use:
-- "[[15087 Organ grafting]]"
-- "[[15094 Organ transplants]]"
+- "[[Organ grafting Organ transplants]]"
 ---
-# Organ transplantation

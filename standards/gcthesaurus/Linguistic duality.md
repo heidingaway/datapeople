@@ -1,15 +1,10 @@
 ---
 title: Linguistic duality
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Linguistic duality
+longTitle: 'Linguistic duality'
+tags:
+- gccommon
 relatedTerm:
-- "[[2060 Bilingualism]]"
-- "[[14933 Official languages]]"
-- "[[12098 Language policy]]"
-- "[[12463 Linguistic diversity]]"
+- "[[Bilingualism Official languages Language policy Li]]"
 use:
-- "[[12060 Language duality]]"
+- "[[Language duality]]"
 ---
-# Linguistic duality

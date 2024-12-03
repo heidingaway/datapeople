@@ -1,10 +1,8 @@
 ---
 title: Animal domestique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Animal domestique
+longTitle: 'Animal domestique'
+tags:
+- gccommon
 french:
-- "[[5490 Domestic animals]]"
+- "[[Domestic animals]]"
 ---
-# Animal domestique

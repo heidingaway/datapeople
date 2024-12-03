@@ -1,12 +1,10 @@
 ---
 title: Beneficiaries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Beneficiaries
+longTitle: 'Beneficiaries'
+tags:
+- gccommon
 relatedTerm:
-- "[[1968 Benefits]]"
+- "[[Benefits]]"
 use:
-- "[[15430 Pensioners]]"
+- "[[Pensioners]]"
 ---
-# Beneficiaries

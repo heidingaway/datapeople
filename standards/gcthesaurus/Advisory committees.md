@@ -1,10 +1,8 @@
 ---
 title: Advisory committees
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Advisory committees
+longTitle: 'Advisory committees'
+tags:
+- gccommon
 narrowerTerm:
-- "[[3618 Committees]]"
+- "[[Committees]]"
 ---
-# Advisory committees

@@ -1,10 +1,8 @@
 ---
 title: Proceeds of crime
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Proceeds of crime
+longTitle: 'Proceeds of crime'
+tags:
+- gccommon
 relatedTerm:
-- "[[4465 Crime]]"
+- "[[Crime]]"
 ---
-# Proceeds of crime

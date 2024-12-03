@@ -1,10 +1,8 @@
 ---
 title: Economie internationale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Économie internationale
+longTitle: 'Économie internationale'
+tags:
+- gccommon
 french:
-- "[[11379 International economics]]"
+- "[[International economics]]"
 ---
-# Economie internationale

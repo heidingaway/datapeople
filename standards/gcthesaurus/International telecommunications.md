@@ -1,10 +1,8 @@
 ---
 title: International telecommunications
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: International telecommunications
+longTitle: 'International telecommunications'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19909 Telecommunications]]"
+- "[[Telecommunications]]"
 ---
-# International telecommunications

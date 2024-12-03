@@ -1,10 +1,8 @@
 ---
 title: Comptes publics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Comptes publics
+longTitle: 'Comptes publics'
+tags:
+- gccommon
 french:
-- "[[16756 Public accounts]]"
+- "[[Public accounts]]"
 ---
-# Comptes publics

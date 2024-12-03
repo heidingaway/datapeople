@@ -1,10 +1,8 @@
 ---
 title: Quai
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Quai
+longTitle: 'Quai'
+tags:
+- gccommon
 french:
-- "[[21692 Wharfs]]"
+- "[[Wharfs]]"
 ---
-# Quai

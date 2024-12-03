@@ -1,10 +1,8 @@
 ---
 title: Swamps
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Swamps
+longTitle: 'Swamps'
+tags:
+- gccommon
 usedFor:
-- "[[21679 Wetlands]]"
+- "[[Wetlands]]"
 ---
-# Swamps

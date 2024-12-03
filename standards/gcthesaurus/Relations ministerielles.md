@@ -1,10 +1,8 @@
 ---
 title: Relations ministerielles
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Relations ministérielles
+longTitle: 'Relations ministérielles'
+tags:
+- gccommon
 french:
-- "[[5137 Departmental relations]]"
+- "[[Departmental relations]]"
 ---
-# Relations ministerielles

@@ -1,10 +1,8 @@
 ---
 title: Cable broadcasting
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cable broadcasting
+longTitle: 'Cable broadcasting'
+tags:
+- gccommon
 usedFor:
-- "[[2649 Cable television]]"
+- "[[Cable television]]"
 ---
-# Cable broadcasting

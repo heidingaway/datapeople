@@ -1,15 +1,12 @@
 ---
 title: Zoological gardens
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Zoological gardens
+longTitle: 'Zoological gardens'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17341 Recreational facilities]]"
+- "[[Recreational facilities]]"
 relatedTerm:
-- "[[16669 Protected species]]"
-- "[[1129 Animals]]"
+- "[[Protected species Animals]]"
 use:
-- "[[22141 Zoos]]"
+- "[[Zoos]]"
 ---
-# Zoological gardens

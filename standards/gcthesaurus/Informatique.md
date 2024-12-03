@@ -1,10 +1,8 @@
 ---
 title: Informatique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Informatique
+longTitle: 'Informatique'
+tags:
+- gccommon
 french:
-- "[[3838 Computer science]]"
+- "[[Computer science]]"
 ---
-# Informatique

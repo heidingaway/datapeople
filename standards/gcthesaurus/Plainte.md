@@ -1,10 +1,8 @@
 ---
 title: Plainte
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Plainte
+longTitle: 'Plainte'
+tags:
+- gccommon
 french:
-- "[[3773 Complaints]]"
+- "[[Complaints]]"
 ---
-# Plainte

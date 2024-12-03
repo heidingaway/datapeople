@@ -1,10 +1,8 @@
 ---
 title: Homeless
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Homeless
+longTitle: 'Homeless'
+tags:
+- gccommon
 usedFor:
-- "[[10042 Homelessness]]"
+- "[[Homelessness]]"
 ---
-# Homeless

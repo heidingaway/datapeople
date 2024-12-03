@@ -1,11 +1,8 @@
 ---
 title: Child development
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Child development
+longTitle: 'Child development'
+tags:
+- gccommon
 relatedTerm:
-- "[[3169 Children]]"
-- "[[3185 Children's health]]"
+- "[[Children Childrens health]]"
 ---
-# Child development

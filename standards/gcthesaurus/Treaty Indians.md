@@ -1,10 +1,8 @@
 ---
 title: Treaty Indians
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Treaty Indians
+longTitle: 'Treaty Indians'
+tags:
+- gccommon
 usedFor:
-- "[[7817 First Nations]]"
+- "[[First Nations]]"
 ---
-# Treaty Indians

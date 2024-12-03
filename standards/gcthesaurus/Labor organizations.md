@@ -1,10 +1,8 @@
 ---
 title: Labor organizations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Labor organizations
+longTitle: 'Labor organizations'
+tags:
+- gccommon
 usedFor:
-- "[[11963 Labour unions]]"
+- "[[Labour unions]]"
 ---
-# Labor organizations

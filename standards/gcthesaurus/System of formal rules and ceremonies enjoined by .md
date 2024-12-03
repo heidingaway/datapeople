@@ -1,10 +1,8 @@
 ---
-title: "System of formal rules and ceremonies enjoined by "
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: System of formal rules and ceremonies enjoined by law, protocol or custom for observance in affairs of State.
+title: System of formal rules and ceremonies enjoined by 
+longTitle: 'System of formal rules and ceremonies enjoined by law, protocol or custom for observance in affairs of State.'
+tags:
+- gccommon
 scopeNote:
-- "[[19307 State ceremonial]]"
+- "[[State ceremonial]]"
 ---
-# System of formal rules and ceremonies enjoined by

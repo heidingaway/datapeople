@@ -1,10 +1,8 @@
 ---
 title: Refers to tobacco use or abuse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Refers to tobacco use or abuse.
+longTitle: 'Refers to tobacco use or abuse.'
+tags:
+- gccommon
 scopeNote:
-- "[[18819 Smoking]]"
+- "[[Smoking]]"
 ---
-# Refers to tobacco use or abuse

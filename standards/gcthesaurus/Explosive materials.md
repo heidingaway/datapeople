@@ -1,10 +1,8 @@
 ---
 title: Explosive materials
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Explosive materials
+longTitle: 'Explosive materials'
+tags:
+- gccommon
 usedFor:
-- "[[7296 Explosives]]"
+- "[[Explosives]]"
 ---
-# Explosive materials

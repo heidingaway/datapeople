@@ -1,10 +1,8 @@
 ---
 title: Toxicomanie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Toxicomanie
+longTitle: 'Toxicomanie'
+tags:
+- gccommon
 french:
-- "[[5611 Drug addiction]]"
+- "[[Drug addiction]]"
 ---
-# Toxicomanie

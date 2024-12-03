@@ -1,10 +1,8 @@
 ---
 title: An integrated systematic approach to identifying m
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: An integrated, systematic approach to identifying, managing, and sharing all of an enterprise's information assets, including databases, documents, policies and procedures, as well as previously unarticulated expertise and experience held by individual workers.
+longTitle: 'An integrated, systematic approach to identifying, managing, and sharing all of an enterprise's information assets, including databases, documents, policies and procedures, as well as previously unarticulated expertise and experience held by individual workers.'
+tags:
+- gccommon
 scopeNote:
-- "[[11764 Knowledge management]]"
+- "[[Knowledge management]]"
 ---
-# An integrated systematic approach to identifying m

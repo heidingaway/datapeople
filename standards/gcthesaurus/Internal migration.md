@@ -1,13 +1,10 @@
 ---
 title: Internal migration
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Internal migration
+longTitle: 'Internal migration'
+tags:
+- gccommon
 narrowerTerm:
-- "[[13586 Migration]]"
+- "[[Migration]]"
 use:
-- "[[11268 Inter-provincial migration]]"
-- "[[11498 Interprovincial migration]]"
+- "[[Inter-provincial migration Interprovincial migrati]]"
 ---
-# Internal migration

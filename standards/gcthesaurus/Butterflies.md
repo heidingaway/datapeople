@@ -1,12 +1,10 @@
 ---
 title: Butterflies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Butterflies
+longTitle: 'Butterflies'
+tags:
+- gccommon
 narrowerTerm:
-- "[[11149 Insects]]"
+- "[[Insects]]"
 use:
-- "[[13943 Moths]]"
+- "[[Moths]]"
 ---
-# Butterflies

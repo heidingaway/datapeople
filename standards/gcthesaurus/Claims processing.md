@@ -1,12 +1,10 @@
 ---
 title: Claims processing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Claims processing
+longTitle: 'Claims processing'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16448 Processing]]"
+- "[[Processing]]"
 relatedTerm:
-- "[[3293 Claims]]"
+- "[[Claims]]"
 ---
-# Claims processing

@@ -1,11 +1,8 @@
 ---
 title: Financial statements
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Financial statements
+longTitle: 'Financial statements'
+tags:
+- gccommon
 relatedTerm:
-- "[[17019 Quarterly financial reports]]"
-- "[[7699 Finance]]"
+- "[[Quarterly financial reports Finance]]"
 ---
-# Financial statements

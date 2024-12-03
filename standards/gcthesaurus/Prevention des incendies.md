@@ -1,10 +1,8 @@
 ---
 title: Prevention des incendies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prévention des incendies
+longTitle: 'Prévention des incendies'
+tags:
+- gccommon
 french:
-- "[[7793 Fire prevention]]"
+- "[[Fire prevention]]"
 ---
-# Prevention des incendies

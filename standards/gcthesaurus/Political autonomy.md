@@ -1,10 +1,8 @@
 ---
 title: Political autonomy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Political autonomy
+longTitle: 'Political autonomy'
+tags:
+- gccommon
 usedFor:
-- "[[18508 Self government]]"
+- "[[Self government]]"
 ---
-# Political autonomy

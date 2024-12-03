@@ -1,12 +1,10 @@
 ---
 title: Fiscal agreements
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fiscal agreements
+longTitle: 'Fiscal agreements'
+tags:
+- gccommon
 narrowerTerm:
-- "[[402 Agreements]]"
+- "[[Agreements]]"
 relatedTerm:
-- "[[7861 Fiscal policy]]"
+- "[[Fiscal policy]]"
 ---
-# Fiscal agreements

@@ -1,10 +1,8 @@
 ---
 title: Croplands
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Croplands
+longTitle: 'Croplands'
+tags:
+- gccommon
 usedFor:
-- "[[7480 Farmlands]]"
+- "[[Farmlands]]"
 ---
-# Croplands

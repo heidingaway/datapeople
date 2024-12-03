@@ -1,10 +1,8 @@
 ---
 title: Assisted conception
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Assisted conception
+longTitle: 'Assisted conception'
+tags:
+- gccommon
 usedFor:
-- "[[17594 Reproductive technology]]"
+- "[[Reproductive technology]]"
 ---
-# Assisted conception

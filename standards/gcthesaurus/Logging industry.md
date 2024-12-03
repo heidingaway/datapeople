@@ -1,15 +1,12 @@
 ---
 title: Logging industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Logging industry
+longTitle: 'Logging industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8370 Forestry industry]]"
+- "[[Forestry industry]]"
 relatedTerm:
-- "[[21843 Wood]]"
+- "[[Wood]]"
 use:
-- "[[12627 Logging]]"
-- "[[12636 Logging sector]]"
+- "[[Logging Logging sector]]"
 ---
-# Logging industry

@@ -1,12 +1,10 @@
 ---
 title: Visas
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Visas
+longTitle: 'Visas'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20669 Travel documents]]"
+- "[[Travel documents]]"
 relatedTerm:
-- "[[15366 Passports]]"
+- "[[Passports]]"
 ---
-# Visas

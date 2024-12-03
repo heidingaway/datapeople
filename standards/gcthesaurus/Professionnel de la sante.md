@@ -1,10 +1,8 @@
 ---
 title: Professionnel de la sante
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Professionnel de la santé
+longTitle: 'Professionnel de la santé'
+tags:
+- gccommon
 french:
-- "[[9738 Health professionals]]"
+- "[[Health professionals]]"
 ---
-# Professionnel de la sante

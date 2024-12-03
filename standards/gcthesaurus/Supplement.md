@@ -1,10 +1,8 @@
 ---
 title: Supplement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Supplément
+longTitle: 'Supplément'
+tags:
+- gccommon
 french:
-- "[[19547 Supplements]]"
+- "[[Supplements]]"
 ---
-# Supplement

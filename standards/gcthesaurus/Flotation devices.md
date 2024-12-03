@@ -1,10 +1,8 @@
 ---
 title: Flotation devices
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Flotation devices
+longTitle: 'Flotation devices'
+tags:
+- gccommon
 usedFor:
-- "[[12994 Marine safety equipment]]"
+- "[[Marine safety equipment]]"
 ---
-# Flotation devices

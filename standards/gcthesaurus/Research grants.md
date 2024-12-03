@@ -1,15 +1,12 @@
 ---
 title: Research grants
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Research grants
+longTitle: 'Research grants'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9297 Grants]]"
+- "[[Grants]]"
 relatedTerm:
-- "[[17658 Research]]"
+- "[[Research]]"
 use:
-- "[[17675 Research funding]]"
-- "[[7632 Fellowships]]"
+- "[[Research funding Fellowships]]"
 ---
-# Research grants

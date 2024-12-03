@@ -1,10 +1,8 @@
 ---
 title: Gestion des documents
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gestion des documents
+longTitle: 'Gestion des documents'
+tags:
+- gccommon
 french:
-- "[[17295 Records management]]"
+- "[[Records management]]"
 ---
-# Gestion des documents

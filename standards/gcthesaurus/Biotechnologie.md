@@ -1,10 +1,8 @@
 ---
 title: Biotechnologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Biotechnologie
+longTitle: 'Biotechnologie'
+tags:
+- gccommon
 french:
-- "[[2230 Biotechnology]]"
+- "[[Biotechnology]]"
 ---
-# Biotechnologie

@@ -1,17 +1,10 @@
 ---
 title: Portfolio
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Portfolio
+longTitle: 'Portfolio'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9259 Governments]]"
+- "[[Governments]]"
 relatedTerm:
-- "[[13764 Ministers]]"
-- "[[7550 Federal government]]"
-- "[[7568 Federal institutions]]"
-- "[[7700 Finance]]"
-- "[[16776 Public administration]]"
-- "[[7524 Federal departments]]"
+- "[[Ministers Federal government Federal institutions ]]"
 ---
-# Portfolio

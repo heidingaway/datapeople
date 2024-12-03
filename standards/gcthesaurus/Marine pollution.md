@@ -1,10 +1,8 @@
 ---
 title: Marine pollution
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marine pollution
+longTitle: 'Marine pollution'
+tags:
+- gccommon
 usedFor:
-- "[[21451 Water pollution]]"
+- "[[Water pollution]]"
 ---
-# Marine pollution

@@ -1,19 +1,10 @@
 ---
 title: Assets
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Assets
+longTitle: 'Assets'
+tags:
+- gccommon
 broaderTerm:
-- "[[4556 Crown assets]]"
-- "[[16617 Property]]"
-- "[[11591 Investments]]"
-- "[[18433 Securities]]"
-- "[[2730 Capital]]"
-- "[[15512 Personal assets]]"
-- "[[2319 Bonds]]"
-- "[[18659 Shares]]"
+- "[[Crown assets Property Investments Securities Capit]]"
 relatedTerm:
-- "[[5453 Divestiture]]"
+- "[[Divestiture]]"
 ---
-# Assets

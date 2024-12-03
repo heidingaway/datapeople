@@ -1,10 +1,8 @@
 ---
 title: International adoption
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: International adoption
+longTitle: 'International adoption'
+tags:
+- gccommon
 narrowerTerm:
-- "[[267 Adoption]]"
+- "[[Adoption]]"
 ---
-# International adoption

@@ -1,10 +1,8 @@
 ---
 title: Ports
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ports
+longTitle: 'Ports'
+tags:
+- gccommon
 usedFor:
-- "[[9483 Harbours]]"
+- "[[Harbours]]"
 ---
-# Ports

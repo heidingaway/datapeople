@@ -1,10 +1,8 @@
 ---
 title: Magmatic rocks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Magmatic rocks
+longTitle: 'Magmatic rocks'
+tags:
+- gccommon
 usedFor:
-- "[[10468 Igneous rocks]]"
+- "[[Igneous rocks]]"
 ---
-# Magmatic rocks

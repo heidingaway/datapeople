@@ -1,14 +1,12 @@
 ---
 title: Physical disabilities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Physical disabilities
+longTitle: 'Physical disabilities'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5304 Disabilities]]"
+- "[[Disabilities]]"
 relatedTerm:
-- "[[21709 Wheelchairs]]"
+- "[[Wheelchairs]]"
 use:
-- "[[15761 Physical handicaps]]"
+- "[[Physical handicaps]]"
 ---
-# Physical disabilities

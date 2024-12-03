@@ -1,10 +1,8 @@
 ---
 title: Polluting substances
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Polluting substances
+longTitle: 'Polluting substances'
+tags:
+- gccommon
 usedFor:
-- "[[16012 Pollutants]]"
+- "[[Pollutants]]"
 ---
-# Polluting substances

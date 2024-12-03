@@ -1,10 +1,8 @@
 ---
 title: Changement climatique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Changement climatique
+longTitle: 'Changement climatique'
+tags:
+- gccommon
 french:
-- "[[3345 Climate change]]"
+- "[[Climate change]]"
 ---
-# Changement climatique

@@ -1,10 +1,8 @@
 ---
 title: Carving
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Carving
+longTitle: 'Carving'
+tags:
+- gccommon
 usedFor:
-- "[[18298 Sculpture]]"
+- "[[Sculpture]]"
 ---
-# Carving

@@ -1,10 +1,8 @@
 ---
 title: Unemployment insurance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Unemployment insurance
+longTitle: 'Unemployment insurance'
+tags:
+- gccommon
 usedFor:
-- "[[6547 Employment insurance]]"
+- "[[Employment insurance]]"
 ---
-# Unemployment insurance

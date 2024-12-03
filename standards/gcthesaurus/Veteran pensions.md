@@ -1,12 +1,10 @@
 ---
 title: Veteran pensions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Veteran pensions
+longTitle: 'Veteran pensions'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15442 Pensions]]"
+- "[[Pensions]]"
 relatedTerm:
-- "[[20956 Veterans]]"
+- "[[Veterans]]"
 ---
-# Veteran pensions

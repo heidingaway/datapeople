@@ -1,10 +1,8 @@
 ---
 title: Antipersonnel mines
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Antipersonnel mines
+longTitle: 'Antipersonnel mines'
+tags:
+- gccommon
 usedFor:
-- "[[12039 Landmines]]"
+- "[[Landmines]]"
 ---
-# Antipersonnel mines

@@ -1,10 +1,8 @@
 ---
 title: Procurement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Procurement
+longTitle: 'Procurement'
+tags:
+- gccommon
 usedFor:
-- "[[16972 Purchasing]]"
+- "[[Purchasing]]"
 ---
-# Procurement

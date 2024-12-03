@@ -1,10 +1,8 @@
 ---
 title: Thermal insulation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Thermal insulation
+longTitle: 'Thermal insulation'
+tags:
+- gccommon
 usedFor:
-- "[[11181 Insulation]]"
+- "[[Insulation]]"
 ---
-# Thermal insulation

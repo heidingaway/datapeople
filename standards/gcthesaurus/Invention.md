@@ -1,10 +1,8 @@
 ---
 title: Invention
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Invention
+longTitle: 'Invention'
+tags:
+- gccommon
 french:
-- "[[11565 Inventions]]"
+- "[[Inventions]]"
 ---
-# Invention

@@ -1,14 +1,10 @@
 ---
 title: Hogs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hogs
+longTitle: 'Hogs'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12734 Mammals]]"
-- "[[12540 Livestock]]"
+- "[[Mammals Livestock]]"
 use:
-- "[[19651 Swine]]"
-- "[[15789 Pigs]]"
+- "[[Swine Pigs]]"
 ---
-# Hogs

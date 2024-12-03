@@ -1,14 +1,12 @@
 ---
 title: Shares
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Shares
+longTitle: 'Shares'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1557 Assets]]"
+- "[[Assets]]"
 relatedTerm:
-- "[[18436 Securities]]"
+- "[[Securities]]"
 use:
-- "[[3647 Common shares]]"
+- "[[Common shares]]"
 ---
-# Shares

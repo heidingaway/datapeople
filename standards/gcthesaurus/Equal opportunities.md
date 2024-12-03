@@ -1,16 +1,10 @@
 ---
 title: Equal opportunities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Equal opportunities
+longTitle: 'Equal opportunities'
+tags:
+- gccommon
 relatedTerm:
-- "[[5379 Discrimination]]"
-- "[[10883 Inequality]]"
-- "[[18897 Social equity]]"
-- "[[362 Affirmative action]]"
+- "[[Discrimination Inequality Social equity Affirmativ]]"
 use:
-- "[[7070 Equal rights]]"
-- "[[7072 Equality]]"
+- "[[Equal rights Equality]]"
 ---
-# Equal opportunities

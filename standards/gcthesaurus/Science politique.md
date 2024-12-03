@@ -1,10 +1,8 @@
 ---
 title: Science politique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Science politique
+longTitle: 'Science politique'
+tags:
+- gccommon
 french:
-- "[[15998 Political science]]"
+- "[[Political science]]"
 ---
-# Science politique

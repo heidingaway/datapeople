@@ -1,10 +1,8 @@
 ---
 title: Donnees numeriques delevation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Données numériques d'élévation
+longTitle: 'Données numériques d'élévation'
+tags:
+- gccommon
 french:
-- "[[5238 Digital elevation data]]"
+- "[[Digital elevation data]]"
 ---
-# Donnees numeriques delevation

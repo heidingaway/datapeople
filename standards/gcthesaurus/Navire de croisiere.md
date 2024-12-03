@@ -1,10 +1,8 @@
 ---
 title: Navire de croisiere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Navire de croisière
+longTitle: 'Navire de croisière'
+tags:
+- gccommon
 french:
-- "[[4586 Cruise ships]]"
+- "[[Cruise ships]]"
 ---
-# Navire de croisiere

@@ -1,26 +1,12 @@
 ---
 title: Waste
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Waste
+longTitle: 'Waste'
+tags:
+- gccommon
 broaderTerm:
-- "[[6381 Electronic waste]]"
-- "[[10844 Industrial waste]]"
-- "[[5532 Domestic waste]]"
-- "[[9555 Hazardous waste]]"
+- "[[Electronic waste Industrial waste Domestic waste H]]"
 relatedTerm:
-- "[[21360 Waste water]]"
-- "[[12868 Manure]]"
-- "[[21331 Waste management]]"
+- "[[Waste water Manure Waste management]]"
 use:
-- "[[17956 Rubbish]]"
-- "[[19130 Solid waste]]"
-- "[[17426 Refuse]]"
-- "[[20659 Trash]]"
-- "[[8709 Garbage]]"
-- "[[5356 Discarded materials]]"
-- "[[21337 Waste products]]"
-- "[[21333 Waste materials]]"
+- "[[Rubbish Solid waste Refuse Trash Garbage Discarded]]"
 ---
-# Waste

@@ -1,10 +1,8 @@
 ---
 title: Droits de peche
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Droits de pêche
+longTitle: 'Droits de pêche'
+tags:
+- gccommon
 french:
-- "[[7996 Fishing rights]]"
+- "[[Fishing rights]]"
 ---
-# Droits de peche

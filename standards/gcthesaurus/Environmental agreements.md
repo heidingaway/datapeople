@@ -1,13 +1,10 @@
 ---
 title: Environmental agreements
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental agreements
+longTitle: 'Environmental agreements'
+tags:
+- gccommon
 narrowerTerm:
-- "[[399 Agreements]]"
+- "[[Agreements]]"
 relatedTerm:
-- "[[6785 Environment]]"
-- "[[6946 Environmental policy]]"
+- "[[Environment Environmental policy]]"
 ---
-# Environmental agreements

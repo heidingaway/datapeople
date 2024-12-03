@@ -1,10 +1,8 @@
 ---
 title: Innovation technologique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Innovation technologique
+longTitle: 'Innovation technologique'
+tags:
+- gccommon
 french:
-- "[[19842 Technological innovation]]"
+- "[[Technological innovation]]"
 ---
-# Innovation technologique

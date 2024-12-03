@@ -1,10 +1,8 @@
 ---
 title: Plante sauvage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Plante sauvage
+longTitle: 'Plante sauvage'
+tags:
+- gccommon
 french:
-- "[[21743 Wild plants]]"
+- "[[Wild plants]]"
 ---
-# Plante sauvage

@@ -1,10 +1,8 @@
 ---
 title: Residual hazardous materials
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Residual hazardous materials
+longTitle: 'Residual hazardous materials'
+tags:
+- gccommon
 usedFor:
-- "[[9553 Hazardous waste]]"
+- "[[Hazardous waste]]"
 ---
-# Residual hazardous materials

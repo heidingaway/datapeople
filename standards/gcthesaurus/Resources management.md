@@ -1,15 +1,12 @@
 ---
 title: Resources management
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Resources management
+longTitle: 'Resources management'
+tags:
+- gccommon
 broaderTerm:
-- "[[6657 Energy management]]"
+- "[[Energy management]]"
 narrowerTerm:
-- "[[6928 Environmental management]]"
+- "[[Environmental management]]"
 relatedTerm:
-- "[[14325 Natural resources]]"
-- "[[17733 Resources conservation]]"
+- "[[Natural resources Resources conservation]]"
 ---
-# Resources management

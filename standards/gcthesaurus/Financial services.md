@@ -1,11 +1,8 @@
 ---
 title: Financial services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Financial services
+longTitle: 'Financial services'
+tags:
+- gccommon
 relatedTerm:
-- "[[7698 Finance]]"
-- "[[7754 Financial management]]"
+- "[[Finance Financial management]]"
 ---
-# Financial services

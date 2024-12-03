@@ -1,10 +1,8 @@
 ---
 title: Aquarium
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aquarium
+longTitle: 'Aquarium'
+tags:
+- gccommon
 french:
-- "[[1248 Aquariums]]"
+- "[[Aquariums]]"
 ---
-# Aquarium

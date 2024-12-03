@@ -1,10 +1,8 @@
 ---
 title: Supply chain management
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Supply chain management
+longTitle: 'Supply chain management'
+tags:
+- gccommon
 usedFor:
-- "[[13144 Material management]]"
+- "[[Material management]]"
 ---
-# Supply chain management

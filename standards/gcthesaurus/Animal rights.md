@@ -1,12 +1,10 @@
 ---
 title: Animal rights
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Animal rights
+longTitle: 'Animal rights'
+tags:
+- gccommon
 relatedTerm:
-- "[[1125 Animals]]"
+- "[[Animals]]"
 use:
-- "[[1059 Animal protection]]"
+- "[[Animal protection]]"
 ---
-# Animal rights

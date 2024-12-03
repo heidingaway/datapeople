@@ -1,13 +1,10 @@
 ---
 title: Sociology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sociology
+longTitle: 'Sociology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18985 Social sciences]]"
+- "[[Social sciences]]"
 relatedTerm:
-- "[[18905 Social history]]"
-- "[[18929 Social issues]]"
+- "[[Social history Social issues]]"
 ---
-# Sociology

@@ -1,10 +1,8 @@
 ---
 title: Train
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Train
+longTitle: 'Train'
+tags:
+- gccommon
 french:
-- "[[20520 Trains]]"
+- "[[Trains]]"
 ---
-# Train

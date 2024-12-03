@@ -1,10 +1,8 @@
 ---
 title: Physical violence
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Physical violence
+longTitle: 'Physical violence'
+tags:
+- gccommon
 usedFor:
-- "[[21022 Violence]]"
+- "[[Violence]]"
 ---
-# Physical violence

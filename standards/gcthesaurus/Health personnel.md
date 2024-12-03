@@ -1,10 +1,8 @@
 ---
 title: Health personnel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Health personnel
+longTitle: 'Health personnel'
+tags:
+- gccommon
 usedFor:
-- "[[9741 Health professionals]]"
+- "[[Health professionals]]"
 ---
-# Health personnel

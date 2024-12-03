@@ -1,16 +1,12 @@
 ---
 title: Indigenous languages
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indigenous languages
+longTitle: 'Indigenous languages'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12128 Languages]]"
+- "[[Languages]]"
 relatedTerm:
-- "[[10644 Indigenous culture]]"
+- "[[Indigenous culture]]"
 use:
-- "[[44 Aboriginal languages]]"
-- "[[14260 Native languages]]"
-- "[[935 Amerindian languages]]"
+- "[[Aboriginal languages Native languages Amerindian l]]"
 ---
-# Indigenous languages

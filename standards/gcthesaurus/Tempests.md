@@ -1,10 +1,8 @@
 ---
 title: Tempests
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tempests
+longTitle: 'Tempests'
+tags:
+- gccommon
 usedFor:
-- "[[19420 Storms]]"
+- "[[Storms]]"
 ---
-# Tempests

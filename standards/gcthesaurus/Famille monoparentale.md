@@ -1,10 +1,8 @@
 ---
 title: Famille monoparentale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Famille monoparentale
+longTitle: 'Famille monoparentale'
+tags:
+- gccommon
 french:
-- "[[18749 Single parent families]]"
+- "[[Single parent families]]"
 ---
-# Famille monoparentale

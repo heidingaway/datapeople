@@ -1,10 +1,8 @@
 ---
 title: GOL
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: GOL
+longTitle: 'GOL'
+tags:
+- gccommon
 usedFor:
-- "[[6326 Electronic government]]"
+- "[[Electronic government]]"
 ---
-# GOL

@@ -1,10 +1,8 @@
 ---
 title: Old age security
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Old age security
+longTitle: 'Old age security'
+tags:
+- gccommon
 usedFor:
-- "[[15436 Pensions]]"
+- "[[Pensions]]"
 ---
-# Old age security

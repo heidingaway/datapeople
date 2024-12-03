@@ -1,10 +1,8 @@
 ---
 title: Ceremonies honouring the memory of someone or some
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ceremonies honouring the memory of someone or something.
+longTitle: 'Ceremonies honouring the memory of someone or something.'
+tags:
+- gccommon
 scopeNote:
-- "[[3547 Commemoration]]"
+- "[[Commemoration]]"
 ---
-# Ceremonies honouring the memory of someone or some

@@ -1,12 +1,10 @@
 ---
 title: Panamerican games
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Panamerican games
+longTitle: 'Panamerican games'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19253 Sports events]]"
+- "[[Sports events]]"
 relatedTerm:
-- "[[923 Amateur sports]]"
+- "[[Amateur sports]]"
 ---
-# Panamerican games

@@ -1,10 +1,8 @@
 ---
 title: Egalite des chances
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Égalité des chances
+longTitle: 'Égalité des chances'
+tags:
+- gccommon
 french:
-- "[[7062 Equal opportunities]]"
+- "[[Equal opportunities]]"
 ---
-# Egalite des chances

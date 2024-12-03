@@ -1,12 +1,10 @@
 ---
 title: Glass industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Glass industry
+longTitle: 'Glass industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12847 Manufacturing industry]]"
+- "[[Manufacturing industry]]"
 relatedTerm:
-- "[[9073 Glass]]"
+- "[[Glass]]"
 ---
-# Glass industry

@@ -1,10 +1,8 @@
 ---
 title: Water culture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Water culture
+longTitle: 'Water culture'
+tags:
+- gccommon
 usedFor:
-- "[[10406 Hydroponics]]"
+- "[[Hydroponics]]"
 ---
-# Water culture

@@ -1,10 +1,8 @@
 ---
 title: Administrative burdens
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Administrative burdens
+longTitle: 'Administrative burdens'
+tags:
+- gccommon
 usedFor:
-- "[[17388 Red tape burdens]]"
+- "[[Red tape burdens]]"
 ---
-# Administrative burdens

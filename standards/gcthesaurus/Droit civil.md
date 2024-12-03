@@ -1,10 +1,8 @@
 ---
 title: Droit civil
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Droit civil
+longTitle: 'Droit civil'
+tags:
+- gccommon
 french:
-- "[[3263 Civil law]]"
+- "[[Civil law]]"
 ---
-# Droit civil

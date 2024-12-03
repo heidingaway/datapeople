@@ -1,12 +1,10 @@
 ---
 title: Expertise
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Expertise
+longTitle: 'Expertise'
+tags:
+- gccommon
 french:
-- "[[7273 Expertise]]"
+- "[[Expertise]]"
 relatedTerm:
-- "[[18780 Skills]]"
+- "[[Skills]]"
 ---
-# Expertise

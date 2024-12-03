@@ -1,10 +1,8 @@
 ---
 title: Violence faite aux femmes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Violence faite aux femmes
+longTitle: 'Violence faite aux femmes'
+tags:
+- gccommon
 french:
-- "[[21048 Violence against women]]"
+- "[[Violence against women]]"
 ---
-# Violence faite aux femmes

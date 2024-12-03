@@ -1,10 +1,8 @@
 ---
 title: Medicare
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Medicare
+longTitle: 'Medicare'
+tags:
+- gccommon
 usedFor:
-- "[[9709 Health insurance]]"
+- "[[Health insurance]]"
 ---
-# Medicare

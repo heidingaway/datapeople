@@ -1,10 +1,8 @@
 ---
 title: Dessin industriel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dessin industriel
+longTitle: 'Dessin industriel'
+tags:
+- gccommon
 french:
-- "[[10743 Industrial design]]"
+- "[[Industrial design]]"
 ---
-# Dessin industriel

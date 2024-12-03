@@ -1,10 +1,8 @@
 ---
 title: Manuscrit
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Manuscrit
+longTitle: 'Manuscrit'
+tags:
+- gccommon
 french:
-- "[[12870 Manuscripts]]"
+- "[[Manuscripts]]"
 ---
-# Manuscrit

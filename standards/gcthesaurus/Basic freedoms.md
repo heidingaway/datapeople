@@ -1,10 +1,8 @@
 ---
 title: Basic freedoms
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Basic freedoms
+longTitle: 'Basic freedoms'
+tags:
+- gccommon
 usedFor:
-- "[[10207 Human rights]]"
+- "[[Human rights]]"
 ---
-# Basic freedoms

@@ -1,10 +1,8 @@
 ---
 title: Chemical fertilizers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Chemical fertilizers
+longTitle: 'Chemical fertilizers'
+tags:
+- gccommon
 usedFor:
-- "[[7652 Fertilizers]]"
+- "[[Fertilizers]]"
 ---
-# Chemical fertilizers

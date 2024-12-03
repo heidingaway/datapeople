@@ -1,10 +1,8 @@
 ---
 title: Taux de change
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Taux de change
+longTitle: 'Taux de change'
+tags:
+- gccommon
 french:
-- "[[7215 Exchange rates]]"
+- "[[Exchange rates]]"
 ---
-# Taux de change

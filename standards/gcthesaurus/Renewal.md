@@ -1,10 +1,8 @@
 ---
 title: Renewal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Renewal
+longTitle: 'Renewal'
+tags:
+- gccommon
 usedFor:
-- "[[17413 Reform]]"
+- "[[Reform]]"
 ---
-# Renewal

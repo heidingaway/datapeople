@@ -1,10 +1,8 @@
 ---
 title: Fournitures de bureau
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fournitures de bureau
+longTitle: 'Fournitures de bureau'
+tags:
+- gccommon
 french:
-- "[[14921 Office supplies]]"
+- "[[Office supplies]]"
 ---
-# Fournitures de bureau

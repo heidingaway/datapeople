@@ -1,10 +1,8 @@
 ---
 title: Worker health
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Worker health
+longTitle: 'Worker health'
+tags:
+- gccommon
 usedFor:
-- "[[14766 Occupational health]]"
+- "[[Occupational health]]"
 ---
-# Worker health

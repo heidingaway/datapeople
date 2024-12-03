@@ -1,10 +1,8 @@
 ---
 title: South Pole
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: South Pole
+longTitle: 'South Pole'
+tags:
+- gccommon
 usedFor:
-- "[[1143 Antarctic]]"
+- "[[Antarctic]]"
 ---
-# South Pole

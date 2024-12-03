@@ -1,15 +1,12 @@
 ---
 title: Electronic information
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electronic information
+longTitle: 'Electronic information'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10962 Information]]"
+- "[[Information]]"
 relatedTerm:
-- "[[6375 Electronic publishing]]"
-- "[[6301 Electronic documents]]"
+- "[[Electronic publishing Electronic documents]]"
 use:
-- "[[5244 Digital information]]"
+- "[[Digital information]]"
 ---
-# Electronic information

@@ -1,10 +1,8 @@
 ---
 title: Electric equipment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electric equipment
+longTitle: 'Electric equipment'
+tags:
+- gccommon
 usedFor:
-- "[[6242 Electrical equipment]]"
+- "[[Electrical equipment]]"
 ---
-# Electric equipment

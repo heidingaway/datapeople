@@ -1,10 +1,8 @@
 ---
 title: Safety training
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Safety training
+longTitle: 'Safety training'
+tags:
+- gccommon
 usedFor:
-- "[[18011 Safety education]]"
+- "[[Safety education]]"
 ---
-# Safety training

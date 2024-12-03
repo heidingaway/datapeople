@@ -1,13 +1,8 @@
 ---
 title: Design
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Design
+longTitle: 'Design'
+tags:
+- gccommon
 relatedTerm:
-- "[[10532 Implementation]]"
-- "[[16467 Product development]]"
-- "[[16680 Prototyping]]"
-- "[[5195 Development]]"
+- "[[Implementation Product development Prototyping Dev]]"
 ---
-# Design

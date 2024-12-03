@@ -1,10 +1,8 @@
 ---
 title: Jewels
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Jewels
+longTitle: 'Jewels'
+tags:
+- gccommon
 usedFor:
-- "[[11640 Jewellery]]"
+- "[[Jewellery]]"
 ---
-# Jewels

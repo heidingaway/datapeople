@@ -1,21 +1,12 @@
 ---
 title: Transplantation Medicine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transplantation (Medicine)
+longTitle: 'Transplantation (Medicine)'
+tags:
+- gccommon
 broaderTerm:
-- "[[15092 Organ transplantation]]"
-- "[[22087 Xenotransplantation]]"
+- "[[Organ transplantation Xenotransplantation]]"
 relatedTerm:
-- "[[2142 Bioethics]]"
-- "[[13307 Medical technology]]"
+- "[[Bioethics Medical technology]]"
 use:
-- "[[20595 Transplants]]"
-- "[[2888 Cell grafting]]"
-- "[[20198 Tissue grafting]]"
-- "[[20200 Tissue transplantation]]"
-- "[[2892 Cell transplantation]]"
-- "[[9284 Grafting (Medicine)]]"
+- "[[Transplants Cell grafting Tissue grafting Tissue t]]"
 ---
-# Transplantation Medicine

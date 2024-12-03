@@ -1,13 +1,10 @@
 ---
 title: Suicide
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Suicide
+longTitle: 'Suicide'
+tags:
+- gccommon
 french:
-- "[[19525 Suicide]]"
+- "[[Suicide]]"
 relatedTerm:
-- "[[10059 Homicide]]"
-- "[[4947 Death]]"
+- "[[Homicide Death]]"
 ---
-# Suicide

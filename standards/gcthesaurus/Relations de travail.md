@@ -1,10 +1,8 @@
 ---
 title: Relations de travail
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Relations de travail
+longTitle: 'Relations de travail'
+tags:
+- gccommon
 french:
-- "[[11931 Labour relations]]"
+- "[[Labour relations]]"
 ---
-# Relations de travail

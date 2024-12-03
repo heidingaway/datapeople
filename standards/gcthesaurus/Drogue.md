@@ -1,10 +1,8 @@
 ---
 title: Drogue
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Drogue
+longTitle: 'Drogue'
+tags:
+- gccommon
 french:
-- "[[14153 Narcotics]]"
+- "[[Narcotics]]"
 ---
-# Drogue

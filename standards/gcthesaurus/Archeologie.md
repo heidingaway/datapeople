@@ -1,10 +1,8 @@
 ---
 title: Archeologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Archéologie
+longTitle: 'Archéologie'
+tags:
+- gccommon
 french:
-- "[[1343 Archaeology]]"
+- "[[Archaeology]]"
 ---
-# Archeologie

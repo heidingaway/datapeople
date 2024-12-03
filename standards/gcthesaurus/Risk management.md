@@ -1,17 +1,12 @@
 ---
 title: Risk management
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Risk management
+longTitle: 'Risk management'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12769 Management]]"
+- "[[Management]]"
 relatedTerm:
-- "[[11316 Internal audits]]"
+- "[[Internal audits]]"
 use:
-- "[[17832 Risk analysis]]"
-- "[[17835 Risk assessment]]"
-- "[[17856 Risk protection]]"
-- "[[17838 Risk communication]]"
+- "[[Risk analysis Risk assessment Risk protection Risk]]"
 ---
-# Risk management

@@ -1,10 +1,8 @@
 ---
 title: Hydroponic culture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hydroponic culture
+longTitle: 'Hydroponic culture'
+tags:
+- gccommon
 usedFor:
-- "[[10404 Hydroponics]]"
+- "[[Hydroponics]]"
 ---
-# Hydroponic culture

@@ -1,10 +1,8 @@
 ---
 title: The ability of an aircraft or component parts to p
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: The ability of an aircraft or component parts to perform its function satisfactorily through a range of operations.
+longTitle: 'The ability of an aircraft or component parts to perform its function satisfactorily through a range of operations.'
+tags:
+- gccommon
 scopeNote:
-- "[[657 Air safety]]"
+- "[[Air safety]]"
 ---
-# The ability of an aircraft or component parts to p

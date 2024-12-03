@@ -1,10 +1,8 @@
 ---
 title: Personal flotation devices
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Personal flotation devices
+longTitle: 'Personal flotation devices'
+tags:
+- gccommon
 usedFor:
-- "[[12996 Marine safety equipment]]"
+- "[[Marine safety equipment]]"
 ---
-# Personal flotation devices

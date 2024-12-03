@@ -1,10 +1,8 @@
 ---
 title: Dental care plan
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dental care plan
+longTitle: 'Dental care plan'
+tags:
+- gccommon
 usedFor:
-- "[[5129 Dental insurance]]"
+- "[[Dental insurance]]"
 ---
-# Dental care plan

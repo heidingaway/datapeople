@@ -1,10 +1,8 @@
 ---
 title: Placement en famille daccueil
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Placement en famille d'accueil
+longTitle: 'Placement en famille d'accueil'
+tags:
+- gccommon
 french:
-- "[[8450 Foster care placement]]"
+- "[[Foster care placement]]"
 ---
-# Placement en famille daccueil

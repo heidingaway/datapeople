@@ -1,16 +1,12 @@
 ---
 title: Labour standards
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Labour standards
+longTitle: 'Labour standards'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19293 Standards]]"
+- "[[Standards]]"
 relatedTerm:
-- "[[21959 Working conditions]]"
-- "[[11896 Labour law]]"
-- "[[11852 Labour code]]"
+- "[[Working conditions Labour law Labour code]]"
 use:
-- "[[11822 Labor standards]]"
+- "[[Labor standards]]"
 ---
-# Labour standards

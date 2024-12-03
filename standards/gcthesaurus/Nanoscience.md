@@ -1,10 +1,8 @@
 ---
 title: Nanoscience
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nanoscience
+longTitle: 'Nanoscience'
+tags:
+- gccommon
 usedFor:
-- "[[14136 Nanotechnology]]"
+- "[[Nanotechnology]]"
 ---
-# Nanoscience

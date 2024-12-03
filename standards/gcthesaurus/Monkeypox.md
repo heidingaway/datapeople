@@ -1,12 +1,10 @@
 ---
 title: Monkeypox
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Monkeypox
+longTitle: 'Monkeypox'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16187 Poxvirus diseases]]"
+- "[[Poxvirus diseases]]"
 use:
-- "[[13888 Monkey pox]]"
+- "[[Monkey pox]]"
 ---
-# Monkeypox

@@ -1,15 +1,12 @@
 ---
 title: Citizen participation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Citizen participation
+longTitle: 'Citizen participation'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15337 Participation]]"
+- "[[Participation]]"
 relatedTerm:
-- "[[15048 Open government]]"
-- "[[3278 Civil rights]]"
+- "[[Open government Civil rights]]"
 use:
-- "[[16858 Public participation]]"
+- "[[Public participation]]"
 ---
-# Citizen participation

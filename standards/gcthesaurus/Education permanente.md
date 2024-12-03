@@ -1,10 +1,8 @@
 ---
 title: Education permanente
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Éducation permanente
+longTitle: 'Éducation permanente'
+tags:
+- gccommon
 french:
-- "[[4116 Continuing education]]"
+- "[[Continuing education]]"
 ---
-# Education permanente

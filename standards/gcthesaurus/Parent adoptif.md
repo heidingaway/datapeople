@@ -1,10 +1,8 @@
 ---
 title: Parent adoptif
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Parent adoptif
+longTitle: 'Parent adoptif'
+tags:
+- gccommon
 french:
-- "[[271 Adoptive parents]]"
+- "[[Adoptive parents]]"
 ---
-# Parent adoptif

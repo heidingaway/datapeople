@@ -1,10 +1,8 @@
 ---
 title: Mercury
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mercury
+longTitle: 'Mercury'
+tags:
+- gccommon
 narrowerTerm:
-- "[[13449 Metals]]"
+- "[[Metals]]"
 ---
-# Mercury

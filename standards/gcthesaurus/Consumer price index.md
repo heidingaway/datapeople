@@ -1,10 +1,8 @@
 ---
 title: Consumer price index
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Consumer price index
+longTitle: 'Consumer price index'
+tags:
+- gccommon
 usedFor:
-- "[[16302 Price indexes]]"
+- "[[Price indexes]]"
 ---
-# Consumer price index

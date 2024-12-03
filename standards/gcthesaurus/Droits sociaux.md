@@ -1,10 +1,8 @@
 ---
 title: Droits sociaux
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Droits sociaux
+longTitle: 'Droits sociaux'
+tags:
+- gccommon
 french:
-- "[[18971 Social rights]]"
+- "[[Social rights]]"
 ---
-# Droits sociaux

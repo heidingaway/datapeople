@@ -1,10 +1,8 @@
 ---
 title: Internal trade
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Internal trade
+longTitle: 'Internal trade'
+tags:
+- gccommon
 usedFor:
-- "[[5519 Domestic trade]]"
+- "[[Domestic trade]]"
 ---
-# Internal trade

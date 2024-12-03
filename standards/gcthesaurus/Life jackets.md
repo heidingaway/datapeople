@@ -1,10 +1,8 @@
 ---
 title: Life jackets
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Life jackets
+longTitle: 'Life jackets'
+tags:
+- gccommon
 usedFor:
-- "[[12995 Marine safety equipment]]"
+- "[[Marine safety equipment]]"
 ---
-# Life jackets

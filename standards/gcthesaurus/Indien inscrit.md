@@ -1,10 +1,8 @@
 ---
 title: Indien inscrit
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indien inscrit
+longTitle: 'Indien inscrit'
+tags:
+- gccommon
 french:
-- "[[19360 Status Indians]]"
+- "[[Status Indians]]"
 ---
-# Indien inscrit

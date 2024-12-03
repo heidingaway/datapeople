@@ -1,10 +1,8 @@
 ---
 title: Habitant du Nord
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Habitant du Nord
+longTitle: 'Habitant du Nord'
+tags:
+- gccommon
 french:
-- "[[14595 Northerners]]"
+- "[[Northerners]]"
 ---
-# Habitant du Nord

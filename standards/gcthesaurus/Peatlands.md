@@ -1,10 +1,8 @@
 ---
 title: Peatlands
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Peatlands
+longTitle: 'Peatlands'
+tags:
+- gccommon
 usedFor:
-- "[[21676 Wetlands]]"
+- "[[Wetlands]]"
 ---
-# Peatlands

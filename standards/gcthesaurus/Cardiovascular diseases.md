@@ -1,14 +1,10 @@
 ---
 title: Cardiovascular diseases
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cardiovascular diseases
+longTitle: 'Cardiovascular diseases'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5391 Diseases]]"
+- "[[Diseases]]"
 use:
-- "[[2755 Cardiorespiratory diseases]]"
-- "[[9814 Heart diseases]]"
-- "[[20891 Vascular diseases]]"
+- "[[Cardiorespiratory diseases Heart diseases Vascular]]"
 ---
-# Cardiovascular diseases

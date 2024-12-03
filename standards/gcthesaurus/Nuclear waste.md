@@ -1,10 +1,8 @@
 ---
 title: Nuclear waste
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nuclear waste
+longTitle: 'Nuclear waste'
+tags:
+- gccommon
 usedFor:
-- "[[17105 Radioactive waste]]"
+- "[[Radioactive waste]]"
 ---
-# Nuclear waste

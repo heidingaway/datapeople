@@ -1,12 +1,10 @@
 ---
 title: Urban development
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Urban development
+longTitle: 'Urban development'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5194 Development]]"
+- "[[Development]]"
 relatedTerm:
-- "[[20814 Urban communities]]"
+- "[[Urban communities]]"
 ---
-# Urban development

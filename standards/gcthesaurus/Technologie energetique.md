@@ -1,10 +1,8 @@
 ---
 title: Technologie energetique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Technologie énergétique
+longTitle: 'Technologie énergétique'
+tags:
+- gccommon
 french:
-- "[[6699 Energy technology]]"
+- "[[Energy technology]]"
 ---
-# Technologie energetique

@@ -1,10 +1,8 @@
 ---
 title: Multimedia materials
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Multimedia materials
+longTitle: 'Multimedia materials'
+tags:
+- gccommon
 usedFor:
-- "[[14032 Multimedia]]"
+- "[[Multimedia]]"
 ---
-# Multimedia materials

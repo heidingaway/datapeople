@@ -1,10 +1,8 @@
 ---
 title: Politique monetaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Politique monétaire
+longTitle: 'Politique monétaire'
+tags:
+- gccommon
 french:
-- "[[13871 Monetary policy]]"
+- "[[Monetary policy]]"
 ---
-# Politique monetaire

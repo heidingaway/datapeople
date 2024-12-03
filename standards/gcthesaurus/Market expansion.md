@@ -1,10 +1,8 @@
 ---
 title: Market expansion
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Market expansion
+longTitle: 'Market expansion'
+tags:
+- gccommon
 usedFor:
-- "[[13059 Market development]]"
+- "[[Market development]]"
 ---
-# Market expansion

@@ -1,10 +1,8 @@
 ---
 title: Fines
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fines
+longTitle: 'Fines'
+tags:
+- gccommon
 relatedTerm:
-- "[[5950 Economic sanctions]]"
+- "[[Economic sanctions]]"
 ---
-# Fines

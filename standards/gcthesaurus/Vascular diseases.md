@@ -1,10 +1,8 @@
 ---
 title: Vascular diseases
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vascular diseases
+longTitle: 'Vascular diseases'
+tags:
+- gccommon
 usedFor:
-- "[[2762 Cardiovascular diseases]]"
+- "[[Cardiovascular diseases]]"
 ---
-# Vascular diseases

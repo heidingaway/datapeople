@@ -1,16 +1,12 @@
 ---
 title: Indigenous culture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indigenous culture
+longTitle: 'Indigenous culture'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4712 Culture]]"
+- "[[Culture]]"
 relatedTerm:
-- "[[10665 Indigenous languages]]"
+- "[[Indigenous languages]]"
 use:
-- "[[32 Aboriginal culture]]"
-- "[[14258 Native culture]]"
-- "[[36 Aboriginal heritage]]"
+- "[[Aboriginal culture Native culture Aboriginal herit]]"
 ---
-# Indigenous culture

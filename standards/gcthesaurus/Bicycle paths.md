@@ -1,20 +1,10 @@
 ---
 title: Bicycle paths
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bicycle paths
+longTitle: 'Bicycle paths'
+tags:
+- gccommon
 relatedTerm:
-- "[[4783 Cycling]]"
-- "[[17342 Recreational facilities]]"
+- "[[Cycling Recreational facilities]]"
 use:
-- "[[2042 Bike paths]]"
-- "[[2039 Bike lanes]]"
-- "[[2034 Bicycle trails]]"
-- "[[2045 Bike trails]]"
-- "[[2048 Biking trails]]"
-- "[[2012 Bicycle lanes]]"
-- "[[4787 Cycling paths]]"
-- "[[4790 Cycling trails]]"
+- "[[Bike paths Bike lanes Bicycle trails Bike trails B]]"
 ---
-# Bicycle paths

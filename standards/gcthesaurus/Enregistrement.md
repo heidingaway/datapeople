@@ -1,10 +1,8 @@
 ---
 title: Enregistrement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Enregistrement
+longTitle: 'Enregistrement'
+tags:
+- gccommon
 french:
-- "[[17456 Registration]]"
+- "[[Registration]]"
 ---
-# Enregistrement

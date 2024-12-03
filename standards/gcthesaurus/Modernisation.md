@@ -1,10 +1,8 @@
 ---
 title: Modernisation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Modernisation
+longTitle: 'Modernisation'
+tags:
+- gccommon
 french:
-- "[[13837 Modernization]]"
+- "[[Modernization]]"
 ---
-# Modernisation

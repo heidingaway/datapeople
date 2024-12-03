@@ -1,10 +1,8 @@
 ---
 title: Most wanted
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Most wanted
+longTitle: 'Most wanted'
+tags:
+- gccommon
 usedFor:
-- "[[8588 Fugitives from justice]]"
+- "[[Fugitives from justice]]"
 ---
-# Most wanted

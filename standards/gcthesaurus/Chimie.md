@@ -1,10 +1,8 @@
 ---
 title: Chimie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Chimie
+longTitle: 'Chimie'
+tags:
+- gccommon
 french:
-- "[[3070 Chemistry]]"
+- "[[Chemistry]]"
 ---
-# Chimie

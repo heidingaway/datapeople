@@ -1,11 +1,8 @@
 ---
 title: Divestiture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Divestiture
+longTitle: 'Divestiture'
+tags:
+- gccommon
 relatedTerm:
-- "[[11595 Investments]]"
-- "[[1558 Assets]]"
+- "[[Investments Assets]]"
 ---
-# Divestiture

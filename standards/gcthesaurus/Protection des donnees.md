@@ -1,10 +1,8 @@
 ---
 title: Protection des donnees
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Protection des données
+longTitle: 'Protection des données'
+tags:
+- gccommon
 french:
-- "[[4886 Data protection]]"
+- "[[Data protection]]"
 ---
-# Protection des donnees

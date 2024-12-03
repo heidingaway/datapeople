@@ -1,10 +1,8 @@
 ---
 title: Pasturelands
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pasturelands
+longTitle: 'Pasturelands'
+tags:
+- gccommon
 usedFor:
-- "[[9322 Grasslands]]"
+- "[[Grasslands]]"
 ---
-# Pasturelands

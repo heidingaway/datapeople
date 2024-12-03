@@ -1,10 +1,8 @@
 ---
 title: Transport routier
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transport routier
+longTitle: 'Transport routier'
+tags:
+- gccommon
 french:
-- "[[17911 Road transport]]"
+- "[[Road transport]]"
 ---
-# Transport routier

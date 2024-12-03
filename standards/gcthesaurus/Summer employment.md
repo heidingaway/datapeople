@@ -1,10 +1,8 @@
 ---
 title: Summer employment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Summer employment
+longTitle: 'Summer employment'
+tags:
+- gccommon
 usedFor:
-- "[[18364 Seasonal employment]]"
+- "[[Seasonal employment]]"
 ---
-# Summer employment

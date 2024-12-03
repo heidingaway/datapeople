@@ -1,10 +1,8 @@
 ---
 title: Alcohol addiction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Alcohol addiction
+longTitle: 'Alcohol addiction'
+tags:
+- gccommon
 usedFor:
-- "[[848 Alcoholism]]"
+- "[[Alcoholism]]"
 ---
-# Alcohol addiction

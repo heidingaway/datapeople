@@ -1,10 +1,8 @@
 ---
 title: Style guides
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Style guides
+longTitle: 'Style guides'
+tags:
+- gccommon
 usedFor:
-- "[[19486 Style manuals]]"
+- "[[Style manuals]]"
 ---
-# Style guides

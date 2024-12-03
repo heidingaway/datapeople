@@ -1,10 +1,8 @@
 ---
 title: Construction standards
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Construction standards
+longTitle: 'Construction standards'
+tags:
+- gccommon
 usedFor:
-- "[[4023 Construction industry]]"
+- "[[Construction industry]]"
 ---
-# Construction standards

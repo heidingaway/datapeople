@@ -1,10 +1,8 @@
 ---
 title: Sciences sociales
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sciences sociales
+longTitle: 'Sciences sociales'
+tags:
+- gccommon
 french:
-- "[[18974 Social sciences]]"
+- "[[Social sciences]]"
 ---
-# Sciences sociales

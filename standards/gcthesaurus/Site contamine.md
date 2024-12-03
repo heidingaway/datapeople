@@ -1,10 +1,8 @@
 ---
 title: Site contamine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Site contaminé
+longTitle: 'Site contaminé'
+tags:
+- gccommon
 french:
-- "[[4112 Contaminated sites]]"
+- "[[Contaminated sites]]"
 ---
-# Site contamine

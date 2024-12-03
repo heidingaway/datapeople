@@ -1,10 +1,8 @@
 ---
 title: Programme multilateral
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Programme multilatéral
+longTitle: 'Programme multilatéral'
+tags:
+- gccommon
 french:
-- "[[14018 Multilateral programs]]"
+- "[[Multilateral programs]]"
 ---
-# Programme multilateral

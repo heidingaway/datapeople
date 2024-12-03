@@ -1,10 +1,8 @@
 ---
 title: Cable distribution
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cable distribution
+longTitle: 'Cable distribution'
+tags:
+- gccommon
 usedFor:
-- "[[2650 Cable television]]"
+- "[[Cable television]]"
 ---
-# Cable distribution

@@ -1,13 +1,10 @@
 ---
 title: Refugees
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Refugees
+longTitle: 'Refugees'
+tags:
+- gccommon
 relatedTerm:
-- "[[10504 Immigrants]]"
+- "[[Immigrants]]"
 use:
-- "[[15993 Political refugees]]"
-- "[[21277 War refugees]]"
+- "[[Political refugees War refugees]]"
 ---
-# Refugees

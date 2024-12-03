@@ -1,10 +1,8 @@
 ---
 title: Amerindian languages
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Amerindian languages
+longTitle: 'Amerindian languages'
+tags:
+- gccommon
 usedFor:
-- "[[10662 Indigenous languages]]"
+- "[[Indigenous languages]]"
 ---
-# Amerindian languages

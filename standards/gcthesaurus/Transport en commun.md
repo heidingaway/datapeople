@@ -1,10 +1,8 @@
 ---
 title: Transport en commun
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transport en commun
+longTitle: 'Transport en commun'
+tags:
+- gccommon
 french:
-- "[[16914 Public transit]]"
+- "[[Public transit]]"
 ---
-# Transport en commun

@@ -1,12 +1,8 @@
 ---
 title: Astronauts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Astronauts
+longTitle: 'Astronauts'
+tags:
+- gccommon
 relatedTerm:
-- "[[19184 Space station]]"
-- "[[19166 Space exploration]]"
-- "[[1611 Astronaut training]]"
+- "[[Space station Space exploration Astronaut training]]"
 ---
-# Astronauts

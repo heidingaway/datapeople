@@ -1,21 +1,12 @@
 ---
 title: Energy supply
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Energy supply
+longTitle: 'Energy supply'
+tags:
+- gccommon
 broaderTerm:
-- "[[8567 Fuel supply]]"
+- "[[Fuel supply]]"
 relatedTerm:
-- "[[6627 Energy]]"
-- "[[17543 Renewable energy]]"
-- "[[6676 Energy production]]"
-- "[[6716 Energy use]]"
-- "[[19563 Supply]]"
+- "[[Energy Renewable energy Energy production Energy u]]"
 use:
-- "[[6679 Energy resources]]"
-- "[[16183 Power supply]]"
-- "[[16179 Power resources]]"
-- "[[6685 Energy sources]]"
+- "[[Energy resources Power supply Power resources Ener]]"
 ---
-# Energy supply

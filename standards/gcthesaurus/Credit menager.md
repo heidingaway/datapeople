@@ -1,10 +1,8 @@
 ---
 title: Credit menager
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Crédit ménager
+longTitle: 'Crédit ménager'
+tags:
+- gccommon
 french:
-- "[[10114 Household finance]]"
+- "[[Household finance]]"
 ---
-# Credit menager

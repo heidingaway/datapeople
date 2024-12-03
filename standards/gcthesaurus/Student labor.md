@@ -1,10 +1,8 @@
 ---
 title: Student labor
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Student labor
+longTitle: 'Student labor'
+tags:
+- gccommon
 usedFor:
-- "[[19456 Student labour]]"
+- "[[Student labour]]"
 ---
-# Student labor

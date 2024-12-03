@@ -1,10 +1,8 @@
 ---
 title: Petrologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pétrologie
+longTitle: 'Pétrologie'
+tags:
+- gccommon
 french:
-- "[[15668 Petrology]]"
+- "[[Petrology]]"
 ---
-# Petrologie

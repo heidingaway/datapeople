@@ -1,17 +1,12 @@
 ---
 title: Medicinal plants
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Medicinal plants
+longTitle: 'Medicinal plants'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15866 Plants]]"
+- "[[Plants]]"
 relatedTerm:
-- "[[5707 Drugs]]"
-- "[[12910 Marijuana]]"
-- "[[910 Alternative medicine]]"
+- "[[Drugs Marijuana Alternative medicine]]"
 use:
-- "[[5673 Drug plants]]"
-- "[[9845 Herbal remedies]]"
+- "[[Drug plants Herbal remedies]]"
 ---
-# Medicinal plants

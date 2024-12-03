@@ -1,10 +1,8 @@
 ---
 title: Lending
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Lending
+longTitle: 'Lending'
+tags:
+- gccommon
 usedFor:
-- "[[12577 Loans]]"
+- "[[Loans]]"
 ---
-# Lending

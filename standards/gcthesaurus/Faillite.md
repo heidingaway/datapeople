@@ -1,10 +1,8 @@
 ---
 title: Faillite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Faillite
+longTitle: 'Faillite'
+tags:
+- gccommon
 french:
-- "[[1853 Bankruptcies]]"
+- "[[Bankruptcies]]"
 ---
-# Faillite

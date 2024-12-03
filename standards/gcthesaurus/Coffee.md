@@ -1,10 +1,8 @@
 ---
 title: Coffee
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Coffee
+longTitle: 'Coffee'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1996 Beverages]]"
+- "[[Beverages]]"
 ---
-# Coffee

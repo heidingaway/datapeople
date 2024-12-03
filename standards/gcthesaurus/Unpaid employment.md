@@ -1,10 +1,8 @@
 ---
 title: Unpaid employment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Unpaid employment
+longTitle: 'Unpaid employment'
+tags:
+- gccommon
 usedFor:
-- "[[20802 Unpaid work]]"
+- "[[Unpaid work]]"
 ---
-# Unpaid employment

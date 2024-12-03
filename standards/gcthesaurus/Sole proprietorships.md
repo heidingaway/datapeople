@@ -1,12 +1,10 @@
 ---
 title: Sole proprietorships
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sole proprietorships
+longTitle: 'Sole proprietorships'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2598 Businesses]]"
+- "[[Businesses]]"
 relatedTerm:
-- "[[2578 Business types]]"
+- "[[Business types]]"
 ---
-# Sole proprietorships

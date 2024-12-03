@@ -1,13 +1,10 @@
 ---
 title: Economic history
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Economic history
+longTitle: 'Economic history'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9972 History]]"
+- "[[History]]"
 relatedTerm:
-- "[[5978 Economics]]"
-- "[[5986 Economy]]"
+- "[[Economics Economy]]"
 ---
-# Economic history

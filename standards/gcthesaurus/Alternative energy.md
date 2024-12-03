@@ -1,21 +1,14 @@
 ---
 title: Alternative energy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Alternative energy
+longTitle: 'Alternative energy'
+tags:
+- gccommon
 broaderTerm:
-- "[[902 Alternative fuels]]"
+- "[[Alternative fuels]]"
 narrowerTerm:
-- "[[6618 Energy]]"
+- "[[Energy]]"
 relatedTerm:
-- "[[16056 Pollution prevention]]"
-- "[[6702 Energy technology]]"
-- "[[17542 Renewable energy]]"
+- "[[Pollution prevention Energy technology Renewable e]]"
 use:
-- "[[19060 Soft energy]]"
-- "[[16035 Pollution-free energy]]"
-- "[[14463 Non-conventional energy]]"
-- "[[3308 Clean energy]]"
+- "[[Soft energy Pollution-free energy Non-conventional]]"
 ---
-# Alternative energy

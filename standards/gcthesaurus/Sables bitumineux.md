@@ -1,10 +1,8 @@
 ---
 title: Sables bitumineux
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sables bitumineux
+longTitle: 'Sables bitumineux'
+tags:
+- gccommon
 french:
-- "[[14986 Oil sands]]"
+- "[[Oil sands]]"
 ---
-# Sables bitumineux

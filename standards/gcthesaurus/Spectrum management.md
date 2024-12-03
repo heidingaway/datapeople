@@ -1,14 +1,10 @@
 ---
 title: Spectrum management
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Spectrum management
+longTitle: 'Spectrum management'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12770 Management]]"
+- "[[Management]]"
 relatedTerm:
-- "[[19915 Telecommunications]]"
-- "[[17478 Regulations]]"
-- "[[2426 Broadcasting]]"
+- "[[Telecommunications Regulations Broadcasting]]"
 ---
-# Spectrum management

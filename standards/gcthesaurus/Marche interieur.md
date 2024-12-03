@@ -1,10 +1,8 @@
 ---
 title: Marche interieur
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marché intérieur
+longTitle: 'Marché intérieur'
+tags:
+- gccommon
 french:
-- "[[5507 Domestic markets]]"
+- "[[Domestic markets]]"
 ---
-# Marche interieur

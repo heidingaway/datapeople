@@ -1,10 +1,8 @@
 ---
 title: Financing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Financing
+longTitle: 'Financing'
+tags:
+- gccommon
 usedFor:
-- "[[8631 Funding]]"
+- "[[Funding]]"
 ---
-# Financing

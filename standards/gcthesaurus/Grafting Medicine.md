@@ -1,10 +1,8 @@
 ---
 title: Grafting Medicine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Grafting (Medicine)
+longTitle: 'Grafting (Medicine)'
+tags:
+- gccommon
 usedFor:
-- "[[20586 Transplantation (Medicine)]]"
+- "[[Transplantation Medicine]]"
 ---
-# Grafting Medicine

@@ -1,10 +1,8 @@
 ---
 title: Organisme denquete
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Organisme d'enquête
+longTitle: 'Organisme d'enquête'
+tags:
+- gccommon
 french:
-- "[[11577 Investigative bodies]]"
+- "[[Investigative bodies]]"
 ---
-# Organisme denquete

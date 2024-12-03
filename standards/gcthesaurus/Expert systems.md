@@ -1,10 +1,8 @@
 ---
 title: Expert systems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Expert systems
+longTitle: 'Expert systems'
+tags:
+- gccommon
 usedFor:
-- "[[11245 Intelligent systems]]"
+- "[[Intelligent systems]]"
 ---
-# Expert systems

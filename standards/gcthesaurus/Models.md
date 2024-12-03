@@ -1,11 +1,8 @@
 ---
 title: Models
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Models
+longTitle: 'Models'
+tags:
+- gccommon
 relatedTerm:
-- "[[16682 Prototyping]]"
-- "[[18145 Samples]]"
+- "[[Prototyping Samples]]"
 ---
-# Models

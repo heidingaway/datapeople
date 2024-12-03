@@ -1,10 +1,8 @@
 ---
 title: Tax rebates
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tax rebates
+longTitle: 'Tax rebates'
+tags:
+- gccommon
 usedFor:
-- "[[19724 Tax credits]]"
+- "[[Tax credits]]"
 ---
-# Tax rebates

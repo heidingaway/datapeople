@@ -1,10 +1,8 @@
 ---
 title: Batiment agricole
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bâtiment agricole
+longTitle: 'Bâtiment agricole'
+tags:
+- gccommon
 french:
-- "[[7429 Farm buildings]]"
+- "[[Farm buildings]]"
 ---
-# Batiment agricole

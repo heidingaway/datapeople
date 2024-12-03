@@ -1,10 +1,8 @@
 ---
 title: Formation professionnelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Formation professionnelle
+longTitle: 'Formation professionnelle'
+tags:
+- gccommon
 french:
-- "[[21177 Vocational training]]"
+- "[[Vocational training]]"
 ---
-# Formation professionnelle

@@ -1,10 +1,8 @@
 ---
 title: Animals kept or raised for use food or other produ
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Animals kept or raised for use, food or other products.
+longTitle: 'Animals kept or raised for use, food or other products.'
+tags:
+- gccommon
 scopeNote:
-- "[[12535 Livestock]]"
+- "[[Livestock]]"
 ---
-# Animals kept or raised for use food or other produ

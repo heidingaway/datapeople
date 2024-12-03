@@ -1,10 +1,8 @@
 ---
 title: Public schools
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public schools
+longTitle: 'Public schools'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18218 Schools]]"
+- "[[Schools]]"
 ---
-# Public schools

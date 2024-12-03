@@ -1,10 +1,8 @@
 ---
 title: Hydrologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hydrologie
+longTitle: 'Hydrologie'
+tags:
+- gccommon
 french:
-- "[[10372 Hydrology]]"
+- "[[Hydrology]]"
 ---
-# Hydrologie

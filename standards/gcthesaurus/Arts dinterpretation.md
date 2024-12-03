@@ -1,10 +1,8 @@
 ---
 title: Arts dinterpretation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Arts d'interprétation
+longTitle: 'Arts d'interprétation'
+tags:
+- gccommon
 french:
-- "[[15471 Performing arts]]"
+- "[[Performing arts]]"
 ---
-# Arts dinterpretation

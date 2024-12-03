@@ -1,11 +1,8 @@
 ---
 title: Devolution
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Devolution
+longTitle: 'Devolution'
+tags:
+- gccommon
 relatedTerm:
-- "[[5061 Delegation of authority]]"
-- "[[136 Accountability]]"
+- "[[Delegation of authority Accountability]]"
 ---
-# Devolution

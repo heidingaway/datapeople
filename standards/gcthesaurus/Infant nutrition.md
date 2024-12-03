@@ -1,15 +1,12 @@
 ---
 title: Infant nutrition
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Infant nutrition
+longTitle: 'Infant nutrition'
+tags:
+- gccommon
 narrowerTerm:
-- "[[14704 Nutrition]]"
+- "[[Nutrition]]"
 relatedTerm:
-- "[[10905 Infants]]"
-- "[[15485 Perinatal care]]"
+- "[[Infants Perinatal care]]"
 use:
-- "[[2400 Breastfeeding]]"
+- "[[Breastfeeding]]"
 ---
-# Infant nutrition

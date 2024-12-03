@@ -1,12 +1,10 @@
 ---
 title: Extraction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Extraction
+longTitle: 'Extraction'
+tags:
+- gccommon
 french:
-- "[[7327 Extraction]]"
+- "[[Extraction]]"
 relatedTerm:
-- "[[16347 Primary industry]]"
+- "[[Primary industry]]"
 ---
-# Extraction

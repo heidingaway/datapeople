@@ -1,10 +1,8 @@
 ---
 title: Geographic area that lies seaward of the coastline
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Geographic area that lies seaward of the coastline.
+longTitle: 'Geographic area that lies seaward of the coastline.'
+tags:
+- gccommon
 scopeNote:
-- "[[14955 Offshore area]]"
+- "[[Offshore area]]"
 ---
-# Geographic area that lies seaward of the coastline

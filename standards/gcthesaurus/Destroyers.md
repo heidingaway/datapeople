@@ -1,12 +1,10 @@
 ---
 title: Destroyers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Destroyers
+longTitle: 'Destroyers'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18692 Ships]]"
+- "[[Ships]]"
 relatedTerm:
-- "[[13678 Military technology]]"
+- "[[Military technology]]"
 ---
-# Destroyers

@@ -1,10 +1,8 @@
 ---
 title: Drapeau
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Drapeau
+longTitle: 'Drapeau'
+tags:
+- gccommon
 french:
-- "[[8017 Flags]]"
+- "[[Flags]]"
 ---
-# Drapeau

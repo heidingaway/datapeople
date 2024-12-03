@@ -1,17 +1,14 @@
 ---
 title: Palaeontology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Palaeontology
+longTitle: 'Palaeontology'
+tags:
+- gccommon
 broaderTerm:
-- "[[15228 Paleobotany]]"
+- "[[Paleobotany]]"
 narrowerTerm:
-- "[[8986 Geology]]"
+- "[[Geology]]"
 relatedTerm:
-- "[[8448 Fossils]]"
-- "[[2210 Biology]]"
+- "[[Fossils Biology]]"
 use:
-- "[[15231 Paleontology]]"
+- "[[Paleontology]]"
 ---
-# Palaeontology

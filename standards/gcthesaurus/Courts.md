@@ -1,17 +1,12 @@
 ---
 title: Courts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Courts
+longTitle: 'Courts'
+tags:
+- gccommon
 broaderTerm:
-- "[[11371 International courts]]"
-- "[[11738 Juvenile court]]"
+- "[[International courts Juvenile court]]"
 relatedTerm:
-- "[[11727 Justice system]]"
-- "[[4386 Court decisions]]"
-- "[[9809 Hearings]]"
+- "[[Justice system Court decisions Hearings]]"
 use:
-- "[[20701 Tribunals]]"
+- "[[Tribunals]]"
 ---
-# Courts

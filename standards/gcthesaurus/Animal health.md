@@ -1,16 +1,12 @@
 ---
 title: Animal health
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Animal health
+longTitle: 'Animal health'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9567 Health]]"
+- "[[Health]]"
 relatedTerm:
-- "[[1118 Animals]]"
-- "[[988 Animal diseases]]"
-- "[[20973 Veterinary medicine]]"
+- "[[Animals Animal diseases Veterinary medicine]]"
 use:
-- "[[9723 Health of animals]]"
+- "[[Health of animals]]"
 ---
-# Animal health

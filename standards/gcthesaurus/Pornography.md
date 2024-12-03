@@ -1,13 +1,10 @@
 ---
 title: Pornography
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pornography
+longTitle: 'Pornography'
+tags:
+- gccommon
 french:
-- "[[16091 Pornography]]"
+- "[[Pornography]]"
 relatedTerm:
-- "[[2918 Censorship]]"
-- "[[18635 Sexual offences]]"
+- "[[Censorship Sexual offences]]"
 ---
-# Pornography

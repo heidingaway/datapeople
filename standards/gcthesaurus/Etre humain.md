@@ -1,10 +1,8 @@
 ---
 title: Etre humain
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Être humain
+longTitle: 'Être humain'
+tags:
+- gccommon
 french:
-- "[[10161 Human beings]]"
+- "[[Human beings]]"
 ---
-# Etre humain

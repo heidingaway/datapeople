@@ -1,18 +1,14 @@
 ---
 title: Anthropology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Anthropology
+longTitle: 'Anthropology'
+tags:
+- gccommon
 broaderTerm:
-- "[[7190 Ethnology]]"
+- "[[Ethnology]]"
 narrowerTerm:
-- "[[18977 Social sciences]]"
+- "[[Social sciences]]"
 relatedTerm:
-- "[[1346 Archaeology]]"
-- "[[10168 Human beings]]"
+- "[[Archaeology Human beings]]"
 use:
-- "[[2149 Biological anthropology]]"
-- "[[15746 Physical anthropology]]"
+- "[[Biological anthropology Physical anthropology]]"
 ---
-# Anthropology

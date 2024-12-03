@@ -1,10 +1,8 @@
 ---
 title: Indemnite de cessation demploi
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indemnité de cessation d'emploi
+longTitle: 'Indemnité de cessation d'emploi'
+tags:
+- gccommon
 french:
-- "[[18591 Severance pay]]"
+- "[[Severance pay]]"
 ---
-# Indemnite de cessation demploi

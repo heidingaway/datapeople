@@ -1,10 +1,8 @@
 ---
 title: Appel doffres
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Appel d'offres
+longTitle: 'Appel d'offres'
+tags:
+- gccommon
 french:
-- "[[2668 Call for tenders]]"
+- "[[Call for tenders]]"
 ---
-# Appel doffres

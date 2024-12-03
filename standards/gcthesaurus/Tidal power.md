@@ -1,10 +1,8 @@
 ---
 title: Tidal power
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tidal power
+longTitle: 'Tidal power'
+tags:
+- gccommon
 usedFor:
-- "[[14831 Ocean energy]]"
+- "[[Ocean energy]]"
 ---
-# Tidal power

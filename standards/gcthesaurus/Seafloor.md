@@ -1,10 +1,8 @@
 ---
 title: Seafloor
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Seafloor
+longTitle: 'Seafloor'
+tags:
+- gccommon
 usedFor:
-- "[[14844 Ocean floor]]"
+- "[[Ocean floor]]"
 ---
-# Seafloor

@@ -1,24 +1,14 @@
 ---
 title: Economic development
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Economic development
+longTitle: 'Economic development'
+tags:
+- gccommon
 broaderTerm:
-- "[[19637 Sustainable development]]"
+- "[[Sustainable development]]"
 narrowerTerm:
-- "[[5184 Development]]"
+- "[[Development]]"
 relatedTerm:
-- "[[5929 Economic policy]]"
-- "[[5910 Economic indicators]]"
-- "[[5178 Developing countries]]"
-- "[[5968 Economic trends]]"
-- "[[3771 Competitiveness]]"
-- "[[2514 Business development]]"
-- "[[5888 Economic forecasting]]"
+- "[[Economic policy Economic indicators Developing cou]]"
 use:
-- "[[5891 Economic growth]]"
-- "[[3571 Commercial development]]"
-- "[[5881 Economic diversification]]"
+- "[[Economic growth Commercial development Economic di]]"
 ---
-# Economic development

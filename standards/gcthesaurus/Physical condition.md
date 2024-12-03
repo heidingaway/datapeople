@@ -1,10 +1,8 @@
 ---
 title: Physical condition
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Physical condition
+longTitle: 'Physical condition'
+tags:
+- gccommon
 usedFor:
-- "[[8010 Fitness]]"
+- "[[Fitness]]"
 ---
-# Physical condition

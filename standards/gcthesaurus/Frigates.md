@@ -1,12 +1,10 @@
 ---
 title: Frigates
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Frigates
+longTitle: 'Frigates'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18694 Ships]]"
+- "[[Ships]]"
 relatedTerm:
-- "[[13679 Military technology]]"
+- "[[Military technology]]"
 ---
-# Frigates

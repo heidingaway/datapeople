@@ -1,10 +1,8 @@
 ---
 title: Biological degradation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Biological degradation
+longTitle: 'Biological degradation'
+tags:
+- gccommon
 usedFor:
-- "[[2116 Biodegradation]]"
+- "[[Biodegradation]]"
 ---
-# Biological degradation

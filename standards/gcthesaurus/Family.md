@@ -1,17 +1,10 @@
 ---
 title: Family
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Family
+longTitle: 'Family'
+tags:
+- gccommon
 broaderTerm:
-- "[[18752 Single parent families]]"
+- "[[Single parent families]]"
 relatedTerm:
-- "[[7386 Family law]]"
-- "[[8818 Genealogy]]"
-- "[[15268 Parents]]"
-- "[[3172 Children]]"
-- "[[4367 Couples]]"
-- "[[7357 Family allowances]]"
+- "[[Family law Genealogy Parents Children Couples Fami]]"
 ---
-# Family

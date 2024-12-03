@@ -1,10 +1,8 @@
 ---
 title: Ozone layer
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ozone layer
+longTitle: 'Ozone layer'
+tags:
+- gccommon
 usedFor:
-- "[[15178 Ozone]]"
+- "[[Ozone]]"
 ---
-# Ozone layer

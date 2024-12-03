@@ -1,11 +1,8 @@
 ---
 title: Gardening
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gardening
+longTitle: 'Gardening'
+tags:
+- gccommon
 relatedTerm:
-- "[[8720 Gardens]]"
-- "[[10078 Horticulture]]"
+- "[[Gardens Horticulture]]"
 ---
-# Gardening

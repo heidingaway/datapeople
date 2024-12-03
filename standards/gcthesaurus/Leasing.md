@@ -1,12 +1,10 @@
 ---
 title: Leasing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Leasing
+longTitle: 'Leasing'
+tags:
+- gccommon
 relatedTerm:
-- "[[12239 Lease]]"
+- "[[Lease]]"
 use:
-- "[[17564 Renting]]"
+- "[[Renting]]"
 ---
-# Leasing

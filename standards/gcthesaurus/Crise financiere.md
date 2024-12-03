@@ -1,10 +1,8 @@
 ---
 title: Crise financiere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Crise financière
+longTitle: 'Crise financière'
+tags:
+- gccommon
 french:
-- "[[7728 Financial crisis]]"
+- "[[Financial crisis]]"
 ---
-# Crise financiere

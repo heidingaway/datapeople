@@ -1,10 +1,8 @@
 ---
 title: Chaire de recherche
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Chaire de recherche
+longTitle: 'Chaire de recherche'
+tags:
+- gccommon
 french:
-- "[[17671 Research chairs]]"
+- "[[Research chairs]]"
 ---
-# Chaire de recherche

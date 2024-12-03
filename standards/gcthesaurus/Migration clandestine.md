@@ -1,10 +1,8 @@
 ---
 title: Migration clandestine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Migration clandestine
+longTitle: 'Migration clandestine'
+tags:
+- gccommon
 french:
-- "[[11612 Irregular migration]]"
+- "[[Irregular migration]]"
 ---
-# Migration clandestine

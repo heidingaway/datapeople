@@ -1,10 +1,8 @@
 ---
 title: Written communication
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Written communication
+longTitle: 'Written communication'
+tags:
+- gccommon
 usedFor:
-- "[[22062 Writing]]"
+- "[[Writing]]"
 ---
-# Written communication

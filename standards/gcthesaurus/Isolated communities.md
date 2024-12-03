@@ -1,12 +1,10 @@
 ---
 title: Isolated communities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Isolated communities
+longTitle: 'Isolated communities'
+tags:
+- gccommon
 relatedTerm:
-- "[[17961 Rural communities]]"
+- "[[Rural communities]]"
 use:
-- "[[17518 Remote communities]]"
+- "[[Remote communities]]"
 ---
-# Isolated communities

@@ -1,21 +1,14 @@
 ---
 title: Personal income
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Personal income
+longTitle: 'Personal income'
+tags:
+- gccommon
 broaderTerm:
-- "[[12658 Low income]]"
+- "[[Low income]]"
 narrowerTerm:
-- "[[10562 Income]]"
+- "[[Income]]"
 relatedTerm:
-- "[[15552 Personal income tax]]"
-- "[[3143 Child support]]"
-- "[[18091 Salaries]]"
-- "[[15445 Pensions]]"
-- "[[7358 Family allowances]]"
-- "[[15533 Personal finance]]"
+- "[[Personal income tax Child support Salaries Pension]]"
 use:
-- "[[10722 Individual income]]"
+- "[[Individual income]]"
 ---
-# Personal income

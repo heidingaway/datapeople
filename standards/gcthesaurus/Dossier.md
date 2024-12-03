@@ -1,10 +1,8 @@
 ---
 title: Dossier
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dossier
+longTitle: 'Dossier'
+tags:
+- gccommon
 french:
-- "[[17284 Records]]"
+- "[[Records]]"
 ---
-# Dossier

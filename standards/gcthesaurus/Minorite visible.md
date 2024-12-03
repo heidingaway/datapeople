@@ -1,10 +1,8 @@
 ---
 title: Minorite visible
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Minorité visible
+longTitle: 'Minorité visible'
+tags:
+- gccommon
 french:
-- "[[21083 Visible minorities]]"
+- "[[Visible minorities]]"
 ---
-# Minorite visible

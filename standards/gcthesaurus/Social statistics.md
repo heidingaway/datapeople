@@ -1,13 +1,10 @@
 ---
 title: Social statistics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Social statistics
+longTitle: 'Social statistics'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19350 Statistics]]"
+- "[[Statistics]]"
 relatedTerm:
-- "[[19050 Socioeconomic data]]"
-- "[[19045 Socioeconomic analysis]]"
+- "[[Socioeconomic data Socioeconomic analysis]]"
 ---
-# Social statistics

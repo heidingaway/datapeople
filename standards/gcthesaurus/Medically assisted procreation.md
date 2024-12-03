@@ -1,10 +1,8 @@
 ---
 title: Medically assisted procreation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Medically assisted procreation
+longTitle: 'Medically assisted procreation'
+tags:
+- gccommon
 usedFor:
-- "[[17603 Reproductive technology]]"
+- "[[Reproductive technology]]"
 ---
-# Medically assisted procreation

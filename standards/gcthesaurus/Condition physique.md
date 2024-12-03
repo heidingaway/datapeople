@@ -1,10 +1,8 @@
 ---
 title: Condition physique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Condition physique
+longTitle: 'Condition physique'
+tags:
+- gccommon
 french:
-- "[[8007 Fitness]]"
+- "[[Fitness]]"
 ---
-# Condition physique

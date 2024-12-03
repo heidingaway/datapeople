@@ -1,10 +1,8 @@
 ---
 title: Economie du savoir
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Économie du savoir
+longTitle: 'Économie du savoir'
+tags:
+- gccommon
 french:
-- "[[11756 Knowledge based economy]]"
+- "[[Knowledge based economy]]"
 ---
-# Economie du savoir

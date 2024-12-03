@@ -1,10 +1,8 @@
 ---
 title: Microscopic organisms
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Microscopic organisms
+longTitle: 'Microscopic organisms'
+tags:
+- gccommon
 usedFor:
-- "[[13555 Microorganisms]]"
+- "[[Microorganisms]]"
 ---
-# Microscopic organisms

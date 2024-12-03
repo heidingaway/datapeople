@@ -1,10 +1,8 @@
 ---
 title: Domestic refuse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Domestic refuse
+longTitle: 'Domestic refuse'
+tags:
+- gccommon
 usedFor:
-- "[[5526 Domestic waste]]"
+- "[[Domestic waste]]"
 ---
-# Domestic refuse

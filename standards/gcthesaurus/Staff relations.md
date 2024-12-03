@@ -1,10 +1,8 @@
 ---
 title: Staff relations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Staff relations
+longTitle: 'Staff relations'
+tags:
+- gccommon
 usedFor:
-- "[[11940 Labour relations]]"
+- "[[Labour relations]]"
 ---
-# Staff relations

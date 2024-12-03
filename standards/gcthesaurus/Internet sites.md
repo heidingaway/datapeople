@@ -1,10 +1,8 @@
 ---
 title: Internet sites
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Internet sites
+longTitle: 'Internet sites'
+tags:
+- gccommon
 usedFor:
-- "[[21640 Websites]]"
+- "[[Websites]]"
 ---
-# Internet sites

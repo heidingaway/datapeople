@@ -1,10 +1,8 @@
 ---
 title: International relations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: International relations
+longTitle: 'International relations'
+tags:
+- gccommon
 usedFor:
-- "[[7317 External relations]]"
+- "[[External relations]]"
 ---
-# International relations

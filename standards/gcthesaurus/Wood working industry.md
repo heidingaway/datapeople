@@ -1,10 +1,8 @@
 ---
 title: Wood working industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wood working industry
+longTitle: 'Wood working industry'
+tags:
+- gccommon
 usedFor:
-- "[[21867 Woodworking industry]]"
+- "[[Woodworking industry]]"
 ---
-# Wood working industry

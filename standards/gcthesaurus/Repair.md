@@ -1,10 +1,8 @@
 ---
 title: Repair
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Repair
+longTitle: 'Repair'
+tags:
+- gccommon
 usedFor:
-- "[[12713 Maintenance]]"
+- "[[Maintenance]]"
 ---
-# Repair

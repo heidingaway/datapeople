@@ -1,10 +1,8 @@
 ---
 title: Bulletin dinformation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bulletin d'information
+longTitle: 'Bulletin d'information'
+tags:
+- gccommon
 french:
-- "[[10980 Information bulletin]]"
+- "[[Information bulletin]]"
 ---
-# Bulletin dinformation

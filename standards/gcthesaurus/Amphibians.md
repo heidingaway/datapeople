@@ -1,14 +1,12 @@
 ---
 title: Amphibians
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Amphibians
+longTitle: 'Amphibians'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1107 Animals]]"
+- "[[Animals]]"
 relatedTerm:
-- "[[1267 Aquatic animals]]"
+- "[[Aquatic animals]]"
 use:
-- "[[937 Amphibia]]"
+- "[[Amphibia]]"
 ---
-# Amphibians

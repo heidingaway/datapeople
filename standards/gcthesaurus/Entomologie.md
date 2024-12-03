@@ -1,10 +1,8 @@
 ---
 title: Entomologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Entomologie
+longTitle: 'Entomologie'
+tags:
+- gccommon
 french:
-- "[[6758 Entomology]]"
+- "[[Entomology]]"
 ---
-# Entomologie

@@ -1,17 +1,10 @@
 ---
 title: Genetic engineering
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Genetic engineering
+longTitle: 'Genetic engineering'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6729 Engineering]]"
+- "[[Engineering]]"
 relatedTerm:
-- "[[19391 Stem cells]]"
-- "[[8870 Genetics]]"
-- "[[2141 Bioethics]]"
-- "[[3369 Cloning]]"
-- "[[2236 Biotechnology]]"
-- "[[8863 Genetically modified organisms]]"
+- "[[Stem cells Genetics Bioethics Cloning Biotechnolog]]"
 ---
-# Genetic engineering

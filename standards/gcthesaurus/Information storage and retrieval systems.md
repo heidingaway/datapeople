@@ -1,10 +1,8 @@
 ---
 title: Information storage and retrieval systems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Information storage and retrieval systems
+longTitle: 'Information storage and retrieval systems'
+tags:
+- gccommon
 usedFor:
-- "[[11034 Information systems]]"
+- "[[Information systems]]"
 ---
-# Information storage and retrieval systems

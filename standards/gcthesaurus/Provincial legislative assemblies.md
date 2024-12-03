@@ -1,10 +1,8 @@
 ---
 title: Provincial legislative assemblies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Provincial legislative assemblies
+longTitle: 'Provincial legislative assemblies'
+tags:
+- gccommon
 usedFor:
-- "[[12318 Legislative assemblies]]"
+- "[[Legislative assemblies]]"
 ---
-# Provincial legislative assemblies

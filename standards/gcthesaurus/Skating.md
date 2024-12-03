@@ -1,10 +1,8 @@
 ---
 title: Skating
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Skating
+longTitle: 'Skating'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21818 Winter sports]]"
+- "[[Winter sports]]"
 ---
-# Skating

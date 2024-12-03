@@ -1,12 +1,10 @@
 ---
 title: Office supplies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Office supplies
+longTitle: 'Office supplies'
+tags:
+- gccommon
 broaderTerm:
-- "[[19325 Stationery]]"
+- "[[Stationery]]"
 narrowerTerm:
-- "[[19556 Supplies]]"
+- "[[Supplies]]"
 ---
-# Office supplies

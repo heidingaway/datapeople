@@ -1,10 +1,8 @@
 ---
 title: Industrial health
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrial health
+longTitle: 'Industrial health'
+tags:
+- gccommon
 usedFor:
-- "[[14763 Occupational health]]"
+- "[[Occupational health]]"
 ---
-# Industrial health

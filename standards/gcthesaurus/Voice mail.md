@@ -1,12 +1,10 @@
 ---
 title: Voice mail
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Voice mail
+longTitle: 'Voice mail'
+tags:
+- gccommon
 relatedTerm:
-- "[[19983 Telephones]]"
+- "[[Telephones]]"
 use:
-- "[[21189 Voice messaging]]"
+- "[[Voice messaging]]"
 ---
-# Voice mail

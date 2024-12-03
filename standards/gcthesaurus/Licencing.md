@@ -1,10 +1,8 @@
 ---
 title: Licencing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Licencing
+longTitle: 'Licencing'
+tags:
+- gccommon
 usedFor:
-- "[[12402 Licensing]]"
+- "[[Licensing]]"
 ---
-# Licencing

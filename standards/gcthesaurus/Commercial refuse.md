@@ -1,10 +1,8 @@
 ---
 title: Commercial refuse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Commercial refuse
+longTitle: 'Commercial refuse'
+tags:
+- gccommon
 usedFor:
-- "[[10839 Industrial waste]]"
+- "[[Industrial waste]]"
 ---
-# Commercial refuse

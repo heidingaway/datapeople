@@ -1,10 +1,8 @@
 ---
 title: Automatisation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Automatisation
+longTitle: 'Automatisation'
+tags:
+- gccommon
 french:
-- "[[1731 Automation]]"
+- "[[Automation]]"
 ---
-# Automatisation

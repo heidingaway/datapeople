@@ -1,10 +1,8 @@
 ---
 title: Industrie de lautomobile
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie de l'automobile
+longTitle: 'Industrie de l'automobile'
+tags:
+- gccommon
 french:
-- "[[1748 Automobile industry]]"
+- "[[Automobile industry]]"
 ---
-# Industrie de lautomobile

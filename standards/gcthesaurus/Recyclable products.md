@@ -1,10 +1,8 @@
 ---
 title: Recyclable products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Recyclable products
+longTitle: 'Recyclable products'
+tags:
+- gccommon
 usedFor:
-- "[[17359 Recyclable materials]]"
+- "[[Recyclable materials]]"
 ---
-# Recyclable products

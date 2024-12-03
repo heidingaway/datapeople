@@ -1,10 +1,8 @@
 ---
 title: Microcomputers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Microcomputers
+longTitle: 'Microcomputers'
+tags:
+- gccommon
 usedFor:
-- "[[3884 Computers]]"
+- "[[Computers]]"
 ---
-# Microcomputers

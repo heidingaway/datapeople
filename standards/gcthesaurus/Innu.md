@@ -1,17 +1,14 @@
 ---
 title: Innu
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Innu
+longTitle: 'Innu'
+tags:
+- gccommon
 french:
-- "[[11118 Innu]]"
+- "[[Innu]]"
 narrowerTerm:
-- "[[7819 First Nations]]"
+- "[[First Nations]]"
 relatedTerm:
-- "[[14598 Northerners]]"
+- "[[Northerners]]"
 use:
-- "[[11126 Innu First Nation]]"
-- "[[11129 Innu Nation]]"
+- "[[Innu First Nation Innu Nation]]"
 ---
-# Innu

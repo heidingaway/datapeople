@@ -1,10 +1,8 @@
 ---
 title: Cultural assimilation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cultural assimilation
+longTitle: 'Cultural assimilation'
+tags:
+- gccommon
 usedFor:
-- "[[154 Acculturation]]"
+- "[[Acculturation]]"
 ---
-# Cultural assimilation

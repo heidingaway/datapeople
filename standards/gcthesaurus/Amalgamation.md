@@ -1,10 +1,8 @@
 ---
 title: Amalgamation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Amalgamation
+longTitle: 'Amalgamation'
+tags:
+- gccommon
 usedFor:
-- "[[13423 Mergers]]"
+- "[[Mergers]]"
 ---
-# Amalgamation

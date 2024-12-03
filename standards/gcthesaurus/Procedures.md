@@ -1,10 +1,8 @@
 ---
 title: Procedures
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Procedures
+longTitle: 'Procedures'
+tags:
+- gccommon
 usedFor:
-- "[[13493 Methodology]]"
+- "[[Methodology]]"
 ---
-# Procedures

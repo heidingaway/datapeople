@@ -1,10 +1,8 @@
 ---
 title: Carte
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Carte
+longTitle: 'Carte'
+tags:
+- gccommon
 french:
-- "[[12889 Maps]]"
+- "[[Maps]]"
 ---
-# Carte

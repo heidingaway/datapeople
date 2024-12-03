@@ -1,18 +1,14 @@
 ---
 title: Watercourses
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Watercourses
+longTitle: 'Watercourses'
+tags:
+- gccommon
 broaderTerm:
-- "[[17861 Rivers]]"
-- "[[19443 Streams]]"
+- "[[Rivers Streams]]"
 narrowerTerm:
-- "[[11098 Inland waters]]"
+- "[[Inland waters]]"
 relatedTerm:
-- "[[21568 Waterways]]"
-- "[[7135 Estuaries]]"
+- "[[Waterways Estuaries]]"
 use:
-- "[[21407 Water courses]]"
+- "[[Water courses]]"
 ---
-# Watercourses

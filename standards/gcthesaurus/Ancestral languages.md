@@ -1,10 +1,8 @@
 ---
 title: Ancestral languages
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ancestral languages
+longTitle: 'Ancestral languages'
+tags:
+- gccommon
 usedFor:
-- "[[9898 Heritage languages]]"
+- "[[Heritage languages]]"
 ---
-# Ancestral languages

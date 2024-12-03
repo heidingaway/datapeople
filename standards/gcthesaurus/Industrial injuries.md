@@ -1,10 +1,8 @@
 ---
 title: Industrial injuries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrial injuries
+longTitle: 'Industrial injuries'
+tags:
+- gccommon
 usedFor:
-- "[[14737 Occupational accidents]]"
+- "[[Occupational accidents]]"
 ---
-# Industrial injuries

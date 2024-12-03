@@ -1,14 +1,12 @@
 ---
 title: Wheelchairs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wheelchairs
+longTitle: 'Wheelchairs'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1596 Assistive technologies]]"
+- "[[Assistive technologies]]"
 relatedTerm:
-- "[[15755 Physical disabilities]]"
+- "[[Physical disabilities]]"
 use:
-- "[[21700 Wheel chairs]]"
+- "[[Wheel chairs]]"
 ---
-# Wheelchairs

@@ -1,10 +1,8 @@
 ---
 title: Artists
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Artists
+longTitle: 'Artists'
+tags:
+- gccommon
 relatedTerm:
-- "[[1521 Arts]]"
+- "[[Arts]]"
 ---
-# Artists

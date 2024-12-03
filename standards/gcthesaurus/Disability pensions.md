@@ -1,14 +1,12 @@
 ---
 title: Disability pensions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Disability pensions
+longTitle: 'Disability pensions'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15439 Pensions]]"
+- "[[Pensions]]"
 relatedTerm:
-- "[[5306 Disabilities]]"
+- "[[Disabilities]]"
 use:
-- "[[5309 Disability benefits]]"
+- "[[Disability benefits]]"
 ---
-# Disability pensions

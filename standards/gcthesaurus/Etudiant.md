@@ -1,10 +1,8 @@
 ---
 title: Etudiant
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Étudiant
+longTitle: 'Étudiant'
+tags:
+- gccommon
 french:
-- "[[19467 Students]]"
+- "[[Students]]"
 ---
-# Etudiant

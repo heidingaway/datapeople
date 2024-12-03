@@ -1,10 +1,8 @@
 ---
 title: Cereale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Céréale
+longTitle: 'Céréale'
+tags:
+- gccommon
 french:
-- "[[2956 Cereals]]"
+- "[[Cereals]]"
 ---
-# Cereale

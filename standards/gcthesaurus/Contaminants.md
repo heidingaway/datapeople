@@ -1,10 +1,8 @@
 ---
 title: Contaminants
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Contaminants
+longTitle: 'Contaminants'
+tags:
+- gccommon
 usedFor:
-- "[[16011 Pollutants]]"
+- "[[Pollutants]]"
 ---
-# Contaminants

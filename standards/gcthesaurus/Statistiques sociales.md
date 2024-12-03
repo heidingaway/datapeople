@@ -1,10 +1,8 @@
 ---
 title: Statistiques sociales
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Statistiques sociales
+longTitle: 'Statistiques sociales'
+tags:
+- gccommon
 french:
-- "[[19012 Social statistics]]"
+- "[[Social statistics]]"
 ---
-# Statistiques sociales

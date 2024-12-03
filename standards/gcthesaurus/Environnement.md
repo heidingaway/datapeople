@@ -1,10 +1,8 @@
 ---
 title: Environnement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environnement
+longTitle: 'Environnement'
+tags:
+- gccommon
 french:
-- "[[6777 Environment]]"
+- "[[Environment]]"
 ---
-# Environnement

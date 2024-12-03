@@ -1,10 +1,8 @@
 ---
 title: Implantation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Implantation
+longTitle: 'Implantation'
+tags:
+- gccommon
 french:
-- "[[10531 Implementation]]"
+- "[[Implementation]]"
 ---
-# Implantation

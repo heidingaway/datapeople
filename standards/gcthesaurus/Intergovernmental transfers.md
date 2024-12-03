@@ -1,10 +1,8 @@
 ---
 title: Intergovernmental transfers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Intergovernmental transfers
+longTitle: 'Intergovernmental transfers'
+tags:
+- gccommon
 usedFor:
-- "[[20538 Transfer payments]]"
+- "[[Transfer payments]]"
 ---
-# Intergovernmental transfers

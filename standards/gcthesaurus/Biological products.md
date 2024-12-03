@@ -1,13 +1,10 @@
 ---
 title: Biological products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Biological products
+longTitle: 'Biological products'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16495 Products]]"
+- "[[Products]]"
 relatedTerm:
-- "[[2207 Biology]]"
-- "[[2097 Biochemicals]]"
+- "[[Biology Biochemicals]]"
 ---
-# Biological products

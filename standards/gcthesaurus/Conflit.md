@@ -1,10 +1,8 @@
 ---
 title: Conflit
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Conflit
+longTitle: 'Conflit'
+tags:
+- gccommon
 french:
-- "[[3934 Conflicts]]"
+- "[[Conflicts]]"
 ---
-# Conflit

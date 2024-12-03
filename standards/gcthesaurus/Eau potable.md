@@ -1,10 +1,8 @@
 ---
 title: Eau potable
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Eau potable
+longTitle: 'Eau potable'
+tags:
+- gccommon
 french:
-- "[[5580 Drinking water]]"
+- "[[Drinking water]]"
 ---
-# Eau potable

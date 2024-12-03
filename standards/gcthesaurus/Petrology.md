@@ -1,14 +1,12 @@
 ---
 title: Petrology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Petrology
+longTitle: 'Petrology'
+tags:
+- gccommon
 broaderTerm:
-- "[[18470 Sedimentology]]"
+- "[[Sedimentology]]"
 narrowerTerm:
-- "[[8987 Geology]]"
+- "[[Geology]]"
 use:
-- "[[15642 Petrography]]"
+- "[[Petrography]]"
 ---
-# Petrology

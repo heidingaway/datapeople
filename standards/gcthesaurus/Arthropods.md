@@ -1,14 +1,10 @@
 ---
 title: Arthropods
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Arthropods
+longTitle: 'Arthropods'
+tags:
+- gccommon
 broaderTerm:
-- "[[4600 Crustaceans]]"
-- "[[11148 Insects]]"
-- "[[1323 Arachnids]]"
+- "[[Crustaceans Insects Arachnids]]"
 narrowerTerm:
-- "[[1109 Animals]]"
+- "[[Animals]]"
 ---
-# Arthropods

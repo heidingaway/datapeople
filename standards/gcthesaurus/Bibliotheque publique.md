@@ -1,10 +1,8 @@
 ---
 title: Bibliotheque publique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bibliothèque publique
+longTitle: 'Bibliothèque publique'
+tags:
+- gccommon
 french:
-- "[[16840 Public libraries]]"
+- "[[Public libraries]]"
 ---
-# Bibliotheque publique

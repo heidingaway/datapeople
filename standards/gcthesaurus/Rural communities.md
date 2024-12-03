@@ -1,13 +1,8 @@
 ---
 title: Rural communities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rural communities
+longTitle: 'Rural communities'
+tags:
+- gccommon
 relatedTerm:
-- "[[11631 Isolated communities]]"
-- "[[20813 Urban communities]]"
-- "[[17970 Rural development]]"
-- "[[17975 Rural environment]]"
+- "[[Isolated communities Urban communities Rural devel]]"
 ---
-# Rural communities

@@ -1,10 +1,8 @@
 ---
 title: Diamant
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Diamant
+longTitle: 'Diamant'
+tags:
+- gccommon
 french:
-- "[[5213 Diamonds]]"
+- "[[Diamonds]]"
 ---
-# Diamant

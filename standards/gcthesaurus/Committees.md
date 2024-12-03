@@ -1,14 +1,10 @@
 ---
 title: Committees
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Committees
+longTitle: 'Committees'
+tags:
+- gccommon
 broaderTerm:
-- "[[15301 Parliamentary committees]]"
-- "[[318 Advisory committees]]"
+- "[[Parliamentary committees Advisory committees]]"
 relatedTerm:
-- "[[20047 Terms of reference]]"
-- "[[2410 Briefing papers]]"
+- "[[Terms of reference Briefing papers]]"
 ---
-# Committees

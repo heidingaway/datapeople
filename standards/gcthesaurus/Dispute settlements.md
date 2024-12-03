@@ -1,10 +1,8 @@
 ---
 title: Dispute settlements
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dispute settlements
+longTitle: 'Dispute settlements'
+tags:
+- gccommon
 usedFor:
-- "[[3928 Conflict resolution]]"
+- "[[Conflict resolution]]"
 ---
-# Dispute settlements

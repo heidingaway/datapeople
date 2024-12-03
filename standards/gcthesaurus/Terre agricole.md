@@ -1,10 +1,8 @@
 ---
 title: Terre agricole
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Terre agricole
+longTitle: 'Terre agricole'
+tags:
+- gccommon
 french:
-- "[[7477 Farmlands]]"
+- "[[Farmlands]]"
 ---
-# Terre agricole

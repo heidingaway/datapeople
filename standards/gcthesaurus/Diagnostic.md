@@ -1,10 +1,8 @@
 ---
 title: Diagnostic
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Diagnostic
+longTitle: 'Diagnostic'
+tags:
+- gccommon
 french:
-- "[[5210 Diagnosis]]"
+- "[[Diagnosis]]"
 ---
-# Diagnostic

@@ -1,10 +1,8 @@
 ---
 title: Non prescription medications
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Non prescription medications
+longTitle: 'Non prescription medications'
+tags:
+- gccommon
 usedFor:
-- "[[14538 Nonprescription drugs]]"
+- "[[Nonprescription drugs]]"
 ---
-# Non prescription medications

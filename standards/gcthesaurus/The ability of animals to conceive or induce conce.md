@@ -1,10 +1,8 @@
 ---
 title: The ability of animals to conceive or induce conce
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: The ability of animals to conceive or induce conception and produce offspring.
+longTitle: 'The ability of animals to conceive or induce conception and produce offspring.'
+tags:
+- gccommon
 scopeNote:
-- "[[7644 Fertility]]"
+- "[[Fertility]]"
 ---
-# The ability of animals to conceive or induce conce

@@ -1,10 +1,8 @@
 ---
 title: Edition electronique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Édition électronique
+longTitle: 'Édition électronique'
+tags:
+- gccommon
 french:
-- "[[6371 Electronic publishing]]"
+- "[[Electronic publishing]]"
 ---
-# Edition electronique

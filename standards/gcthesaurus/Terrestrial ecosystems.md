@@ -1,12 +1,10 @@
 ---
 title: Terrestrial ecosystems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Terrestrial ecosystems
+longTitle: 'Terrestrial ecosystems'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5996 Ecosystems]]"
+- "[[Ecosystems]]"
 use:
-- "[[11991 Land ecosystems]]"
+- "[[Land ecosystems]]"
 ---
-# Terrestrial ecosystems

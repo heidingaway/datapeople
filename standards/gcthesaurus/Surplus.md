@@ -1,12 +1,10 @@
 ---
 title: Surplus
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Surplus
+longTitle: 'Surplus'
+tags:
+- gccommon
 french:
-- "[[19603 Surplus]]"
+- "[[Surplus]]"
 relatedTerm:
-- "[[19568 Supply]]"
+- "[[Supply]]"
 ---
-# Surplus

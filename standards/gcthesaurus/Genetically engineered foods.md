@@ -1,10 +1,8 @@
 ---
 title: Genetically engineered foods
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Genetically engineered foods
+longTitle: 'Genetically engineered foods'
+tags:
+- gccommon
 usedFor:
-- "[[8849 Genetically modified foods]]"
+- "[[Genetically modified foods]]"
 ---
-# Genetically engineered foods

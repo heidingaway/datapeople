@@ -1,12 +1,10 @@
 ---
 title: Wholesale trade
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wholesale trade
+longTitle: 'Wholesale trade'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20367 Trade]]"
+- "[[Trade]]"
 relatedTerm:
-- "[[17779 Retail trade]]"
+- "[[Retail trade]]"
 ---
-# Wholesale trade

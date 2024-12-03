@@ -1,18 +1,10 @@
 ---
 title: Cartography
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cartography
+longTitle: 'Cartography'
+tags:
+- gccommon
 relatedTerm:
-- "[[8910 Geographic data]]"
-- "[[2816 Cartographic records]]"
-- "[[12899 Maps]]"
-- "[[8924 Geographic information systems]]"
-- "[[8892 Geodesy]]"
-- "[[8950 Geography]]"
-- "[[10365 Hydrography]]"
+- "[[Geographic data Cartographic records Maps Geograph]]"
 use:
-- "[[12883 Mapping]]"
+- "[[Mapping]]"
 ---
-# Cartography

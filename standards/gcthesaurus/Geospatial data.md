@@ -1,10 +1,8 @@
 ---
 title: Geospatial data
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Geospatial data
+longTitle: 'Geospatial data'
+tags:
+- gccommon
 usedFor:
-- "[[8906 Geographic data]]"
+- "[[Geographic data]]"
 ---
-# Geospatial data

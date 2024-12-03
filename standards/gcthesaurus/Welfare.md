@@ -1,10 +1,8 @@
 ---
 title: Welfare
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Welfare
+longTitle: 'Welfare'
+tags:
+- gccommon
 usedFor:
-- "[[18869 Social assistance]]"
+- "[[Social assistance]]"
 ---
-# Welfare

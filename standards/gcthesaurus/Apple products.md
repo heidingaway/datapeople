@@ -1,10 +1,8 @@
 ---
 title: Apple products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Apple products
+longTitle: 'Apple products'
+tags:
+- gccommon
 usedFor:
-- "[[1205 Apples]]"
+- "[[Apples]]"
 ---
-# Apple products

@@ -1,10 +1,8 @@
 ---
 title: Aboriginal languages
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aboriginal languages
+longTitle: 'Aboriginal languages'
+tags:
+- gccommon
 usedFor:
-- "[[10661 Indigenous languages]]"
+- "[[Indigenous languages]]"
 ---
-# Aboriginal languages

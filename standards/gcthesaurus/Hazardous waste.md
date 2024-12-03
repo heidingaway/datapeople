@@ -1,16 +1,12 @@
 ---
 title: Hazardous waste
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hazardous waste
+longTitle: 'Hazardous waste'
+tags:
+- gccommon
 broaderTerm:
-- "[[17107 Radioactive waste]]"
+- "[[Radioactive waste]]"
 narrowerTerm:
-- "[[9526 Hazardous materials]]"
-- "[[21305 Waste]]"
+- "[[Hazardous materials Waste]]"
 use:
-- "[[17700 Residual hazardous materials]]"
-- "[[4853 Dangerous waste]]"
+- "[[Residual hazardous materials Dangerous waste]]"
 ---
-# Hazardous waste

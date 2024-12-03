@@ -1,16 +1,12 @@
 ---
 title: Military architecture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Military architecture
+longTitle: 'Military architecture'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1370 Architecture]]"
+- "[[Architecture]]"
 relatedTerm:
-- "[[13650 Military installations]]"
+- "[[Military installations]]"
 use:
-- "[[8436 Fortifications]]"
-- "[[8442 Forts]]"
-- "[[8439 Fortress]]"
+- "[[Fortifications Forts Fortress]]"
 ---
-# Military architecture

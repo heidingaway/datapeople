@@ -1,10 +1,8 @@
 ---
 title: Electronic appliances
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electronic appliances
+longTitle: 'Electronic appliances'
+tags:
+- gccommon
 usedFor:
-- "[[6307 Electronic equipment]]"
+- "[[Electronic equipment]]"
 ---
-# Electronic appliances

@@ -1,10 +1,8 @@
 ---
 title: Affranchissement des droits
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Affranchissement des droits
+longTitle: 'Affranchissement des droits'
+tags:
+- gccommon
 french:
-- "[[4219 Copyright clearance]]"
+- "[[Copyright clearance]]"
 ---
-# Affranchissement des droits

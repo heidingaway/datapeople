@@ -1,10 +1,8 @@
 ---
 title: Arbitrage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Arbitrage
+longTitle: 'Arbitrage'
+tags:
+- gccommon
 french:
-- "[[1325 Arbitration]]"
+- "[[Arbitration]]"
 ---
-# Arbitrage

@@ -1,10 +1,8 @@
 ---
 title: Droit constitutionnel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Droit constitutionnel
+longTitle: 'Droit constitutionnel'
+tags:
+- gccommon
 french:
-- "[[3998 Constitutional law]]"
+- "[[Constitutional law]]"
 ---
-# Droit constitutionnel

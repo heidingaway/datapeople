@@ -1,10 +1,8 @@
 ---
 title: Langue
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Langue
+longTitle: 'Langue'
+tags:
+- gccommon
 french:
-- "[[12122 Languages]]"
+- "[[Languages]]"
 ---
-# Langue

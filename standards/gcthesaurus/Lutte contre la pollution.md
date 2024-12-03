@@ -1,10 +1,8 @@
 ---
 title: Lutte contre la pollution
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Lutte contre la pollution
+longTitle: 'Lutte contre la pollution'
+tags:
+- gccommon
 french:
-- "[[16037 Pollution control]]"
+- "[[Pollution control]]"
 ---
-# Lutte contre la pollution

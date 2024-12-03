@@ -1,10 +1,8 @@
 ---
 title: Climatic warming
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Climatic warming
+longTitle: 'Climatic warming'
+tags:
+- gccommon
 usedFor:
-- "[[9101 Global warming]]"
+- "[[Global warming]]"
 ---
-# Climatic warming

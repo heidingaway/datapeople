@@ -1,10 +1,8 @@
 ---
 title: Industrie de la chaussure
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie de la chaussure
+longTitle: 'Industrie de la chaussure'
+tags:
+- gccommon
 french:
-- "[[18703 Shoe industry]]"
+- "[[Shoe industry]]"
 ---
-# Industrie de la chaussure

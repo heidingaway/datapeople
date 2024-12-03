@@ -1,10 +1,8 @@
 ---
 title: Defense policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Defense policy
+longTitle: 'Defense policy'
+tags:
+- gccommon
 usedFor:
-- "[[5027 Defence policy]]"
+- "[[Defence policy]]"
 ---
-# Defense policy

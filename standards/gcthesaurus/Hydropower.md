@@ -1,19 +1,12 @@
 ---
 title: Hydropower
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hydropower
+longTitle: 'Hydropower'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6255 Electricity]]"
+- "[[Electricity]]"
 relatedTerm:
-- "[[17544 Renewable energy]]"
-- "[[10343 Hydroelectric plants]]"
+- "[[Renewable energy Hydroelectric plants]]"
 use:
-- "[[10326 Hydro power]]"
-- "[[10353 Hydroelectricity]]"
-- "[[10330 Hydroelectric energy]]"
-- "[[10324 Hydro-electricity]]"
-- "[[10345 Hydroelectric power]]"
+- "[[Hydro power Hydroelectricity Hydroelectric energy ]]"
 ---
-# Hydropower

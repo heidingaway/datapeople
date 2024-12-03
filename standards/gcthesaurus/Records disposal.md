@@ -1,10 +1,8 @@
 ---
 title: Records disposal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Records disposal
+longTitle: 'Records disposal'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17297 Records management]]"
+- "[[Records management]]"
 ---
-# Records disposal

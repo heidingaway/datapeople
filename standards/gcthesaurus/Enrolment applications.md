@@ -1,10 +1,8 @@
 ---
 title: Enrolment applications
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Enrolment applications
+longTitle: 'Enrolment applications'
+tags:
+- gccommon
 relatedTerm:
-- "[[6406 Eligibility]]"
+- "[[Eligibility]]"
 ---
-# Enrolment applications

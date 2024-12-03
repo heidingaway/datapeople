@@ -1,27 +1,12 @@
 ---
 title: Agreements
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Agreements
+longTitle: 'Agreements'
+tags:
+- gccommon
 broaderTerm:
-- "[[7611 Federal territorial agreements]]"
-- "[[7578 Federal provincial agreements]]"
-- "[[11337 International agreements]]"
-- "[[3503 Collective agreements]]"
-- "[[6820 Environmental agreements]]"
-- "[[7830 Fiscal agreements]]"
-- "[[17271 Reciprocal agreements]]"
-- "[[20379 Trade agreements]]"
-- "[[18564 Service agreements]]"
-- "[[4192 Cooperation agreements]]"
-- "[[14015 Multilateral agreements]]"
+- "[[Federal territorial agreements Federal provincial ]]"
 relatedTerm:
-- "[[14409 Negotiations]]"
-- "[[4136 Contracts]]"
+- "[[Negotiations Contracts]]"
 use:
-- "[[4162 Conventions (Agreements)]]"
-- "[[20683 Treaties]]"
-- "[[863 Alliances]]"
+- "[[Conventions Agreements Treaties Alliances]]"
 ---
-# Agreements

@@ -1,13 +1,10 @@
 ---
 title: Technical writing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Technical writing
+longTitle: 'Technical writing'
+tags:
+- gccommon
 narrowerTerm:
-- "[[22066 Writing]]"
+- "[[Writing]]"
 relatedTerm:
-- "[[19821 Technical reports]]"
-- "[[250 Administrative writing]]"
+- "[[Technical reports Administrative writing]]"
 ---
-# Technical writing

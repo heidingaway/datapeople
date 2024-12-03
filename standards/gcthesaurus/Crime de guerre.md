@@ -1,10 +1,8 @@
 ---
 title: Crime de guerre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Crime de guerre
+longTitle: 'Crime de guerre'
+tags:
+- gccommon
 french:
-- "[[21258 War crimes]]"
+- "[[War crimes]]"
 ---
-# Crime de guerre

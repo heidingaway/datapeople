@@ -1,13 +1,10 @@
 ---
 title: Inland waters
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Inland waters
+longTitle: 'Inland waters'
+tags:
+- gccommon
 broaderTerm:
-- "[[11973 Lakes]]"
-- "[[21540 Watercourses]]"
+- "[[Lakes Watercourses]]"
 use:
-- "[[11327 Internal waters]]"
+- "[[Internal waters]]"
 ---
-# Inland waters

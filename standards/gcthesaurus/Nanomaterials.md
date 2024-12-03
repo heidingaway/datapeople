@@ -1,10 +1,8 @@
 ---
 title: Nanomaterials
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nanomaterials
+longTitle: 'Nanomaterials'
+tags:
+- gccommon
 usedFor:
-- "[[14134 Nanotechnology]]"
+- "[[Nanotechnology]]"
 ---
-# Nanomaterials

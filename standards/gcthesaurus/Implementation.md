@@ -1,10 +1,8 @@
 ---
 title: Implementation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Implementation
+longTitle: 'Implementation'
+tags:
+- gccommon
 relatedTerm:
-- "[[5160 Design]]"
+- "[[Design]]"
 ---
-# Implementation

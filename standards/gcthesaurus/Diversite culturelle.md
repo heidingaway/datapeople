@@ -1,10 +1,8 @@
 ---
 title: Diversite culturelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Diversité culturelle
+longTitle: 'Diversité culturelle'
+tags:
+- gccommon
 french:
-- "[[4630 Cultural diversity]]"
+- "[[Cultural diversity]]"
 ---
-# Diversite culturelle

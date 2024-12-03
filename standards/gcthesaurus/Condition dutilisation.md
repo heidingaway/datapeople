@@ -1,10 +1,8 @@
 ---
 title: Condition dutilisation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Condition d'utilisation
+longTitle: 'Condition d'utilisation'
+tags:
+- gccommon
 french:
-- "[[20053 Terms of use]]"
+- "[[Terms of use]]"
 ---
-# Condition dutilisation

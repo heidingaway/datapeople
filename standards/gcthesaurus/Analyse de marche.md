@@ -1,10 +1,8 @@
 ---
 title: Analyse de marche
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Analyse de marché
+longTitle: 'Analyse de marché'
+tags:
+- gccommon
 french:
-- "[[13045 Market analysis]]"
+- "[[Market analysis]]"
 ---
-# Analyse de marche

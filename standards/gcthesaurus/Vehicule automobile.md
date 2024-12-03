@@ -1,10 +1,8 @@
 ---
 title: Vehicule automobile
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Véhicule automobile
+longTitle: 'Véhicule automobile'
+tags:
+- gccommon
 french:
-- "[[13967 Motor vehicles]]"
+- "[[Motor vehicles]]"
 ---
-# Vehicule automobile

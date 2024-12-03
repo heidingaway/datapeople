@@ -1,13 +1,10 @@
 ---
 title: Provincial institutions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Provincial institutions
+longTitle: 'Provincial institutions'
+tags:
+- gccommon
 relatedTerm:
-- "[[16710 Provincial governments]]"
+- "[[Provincial governments]]"
 use:
-- "[[16699 Provincial bodies]]"
-- "[[16697 Provincial agencies]]"
+- "[[Provincial bodies Provincial agencies]]"
 ---
-# Provincial institutions

@@ -1,17 +1,12 @@
 ---
 title: Air
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Air
+longTitle: 'Air'
+tags:
+- gccommon
 french:
-- "[[601 Air]]"
+- "[[Air]]"
 relatedTerm:
-- "[[651 Air quality]]"
-- "[[619 Air conditioning]]"
-- "[[642 Air pollution]]"
+- "[[Air quality Air conditioning Air pollution]]"
 use:
-- "[[1650 Atmosphere]]"
-- "[[1661 Atmospheric environment]]"
+- "[[Atmosphere Atmospheric environment]]"
 ---
-# Air

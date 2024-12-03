@@ -1,10 +1,8 @@
 ---
 title: Slugs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Slugs
+longTitle: 'Slugs'
+tags:
+- gccommon
 usedFor:
-- "[[13857 Molluscs]]"
+- "[[Molluscs]]"
 ---
-# Slugs

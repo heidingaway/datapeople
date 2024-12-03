@@ -1,10 +1,8 @@
 ---
 title: Dette nationale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dette nationale
+longTitle: 'Dette nationale'
+tags:
+- gccommon
 french:
-- "[[14186 National debt]]"
+- "[[National debt]]"
 ---
-# Dette nationale

@@ -1,10 +1,8 @@
 ---
 title: Telemedecine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Télémédecine
+longTitle: 'Télémédecine'
+tags:
+- gccommon
 french:
-- "[[19958 Telemedicine]]"
+- "[[Telemedicine]]"
 ---
-# Telemedecine

@@ -1,18 +1,12 @@
 ---
 title: Surveys
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Surveys
+longTitle: 'Surveys'
+tags:
+- gccommon
 broaderTerm:
-- "[[19025 Social surveys]]"
-- "[[16853 Public opinion polls]]"
+- "[[Social surveys Public opinion polls]]"
 relatedTerm:
-- "[[19357 Statistics]]"
-- "[[11517 Interviews]]"
-- "[[11136 Inquiry]]"
-- "[[17029 Questionnaires]]"
+- "[[Statistics Interviews Inquiry Questionnaires]]"
 use:
-- "[[19342 Statistical surveys]]"
+- "[[Statistical surveys]]"
 ---
-# Surveys

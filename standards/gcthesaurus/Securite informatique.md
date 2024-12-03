@@ -1,10 +1,8 @@
 ---
 title: Securite informatique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sécurité informatique
+longTitle: 'Sécurité informatique'
+tags:
+- gccommon
 french:
-- "[[3846 Computer security]]"
+- "[[Computer security]]"
 ---
-# Securite informatique

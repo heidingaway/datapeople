@@ -1,10 +1,8 @@
 ---
 title: Miel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Miel
+longTitle: 'Miel'
+tags:
+- gccommon
 french:
-- "[[10067 Honey]]"
+- "[[Honey]]"
 ---
-# Miel

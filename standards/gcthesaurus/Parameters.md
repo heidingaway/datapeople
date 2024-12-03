@@ -1,10 +1,8 @@
 ---
 title: Parameters
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Parameters
+longTitle: 'Parameters'
+tags:
+- gccommon
 usedFor:
-- "[[19214 Specifications]]"
+- "[[Specifications]]"
 ---
-# Parameters

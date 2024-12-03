@@ -1,10 +1,8 @@
 ---
 title: Developpement culturel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Développement culturel
+longTitle: 'Développement culturel'
+tags:
+- gccommon
 french:
-- "[[4624 Cultural development]]"
+- "[[Cultural development]]"
 ---
-# Developpement culturel

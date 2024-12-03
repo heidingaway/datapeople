@@ -1,15 +1,10 @@
 ---
 title: Gambling
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gambling
+longTitle: 'Gambling'
+tags:
+- gccommon
 relatedTerm:
-- "[[15273 Pari-mutuel betting]]"
-- "[[12653 Lotteries]]"
-- "[[8699 Games]]"
-- "[[2838 Casinos]]"
+- "[[Pari-mutuel betting Lotteries Games Casinos]]"
 use:
-- "[[1980 Betting]]"
+- "[[Betting]]"
 ---
-# Gambling

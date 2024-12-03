@@ -1,21 +1,12 @@
 ---
 title: Business development
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Business development
+longTitle: 'Business development'
+tags:
+- gccommon
 broaderTerm:
-- "[[11350 International business development]]"
-- "[[184 Acquisitions (Businesses)]]"
+- "[[International business development Acquisitions Bu]]"
 relatedTerm:
-- "[[2497 Business accelerators]]"
-- "[[5873 Economic development]]"
-- "[[2601 Businesses]]"
-- "[[13062 Market development]]"
-- "[[2528 Business intelligence]]"
-- "[[10749 Industrial development]]"
-- "[[20428 Trade promotion]]"
+- "[[Business accelerators Economic development Busines]]"
 use:
-- "[[2521 Business growth]]"
+- "[[Business growth]]"
 ---
-# Business development

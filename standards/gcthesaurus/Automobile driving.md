@@ -1,10 +1,8 @@
 ---
 title: Automobile driving
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Automobile driving
+longTitle: 'Automobile driving'
+tags:
+- gccommon
 usedFor:
-- "[[5598 Driving]]"
+- "[[Driving]]"
 ---
-# Automobile driving

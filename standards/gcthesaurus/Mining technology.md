@@ -1,12 +1,10 @@
 ---
 title: Mining technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mining technology
+longTitle: 'Mining technology'
+tags:
+- gccommon
 relatedTerm:
-- "[[13751 Mining industry]]"
+- "[[Mining industry]]"
 use:
-- "[[13735 Mining equipment]]"
+- "[[Mining equipment]]"
 ---
-# Mining technology

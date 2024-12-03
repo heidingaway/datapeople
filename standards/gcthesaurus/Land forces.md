@@ -1,10 +1,8 @@
 ---
 title: Land forces
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Land forces
+longTitle: 'Land forces'
+tags:
+- gccommon
 usedFor:
-- "[[1415 Armed forces]]"
+- "[[Armed forces]]"
 ---
-# Land forces

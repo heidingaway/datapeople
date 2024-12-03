@@ -1,10 +1,8 @@
 ---
 title: Bank notes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bank notes
+longTitle: 'Bank notes'
+tags:
+- gccommon
 usedFor:
-- "[[4730 Currency]]"
+- "[[Currency]]"
 ---
-# Bank notes

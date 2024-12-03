@@ -1,11 +1,8 @@
 ---
 title: Independent living
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Independent living
+longTitle: 'Independent living'
+tags:
+- gccommon
 relatedTerm:
-- "[[1598 Assistive technologies]]"
-- "[[12437 Life skills]]"
+- "[[Assistive technologies Life skills]]"
 ---
-# Independent living

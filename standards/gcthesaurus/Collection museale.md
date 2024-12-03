@@ -1,10 +1,8 @@
 ---
 title: Collection museale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Collection muséale
+longTitle: 'Collection muséale'
+tags:
+- gccommon
 french:
-- "[[14082 Museum collections]]"
+- "[[Museum collections]]"
 ---
-# Collection museale

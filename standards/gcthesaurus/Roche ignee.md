@@ -1,10 +1,8 @@
 ---
 title: Roche ignee
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Roche ignée
+longTitle: 'Roche ignée'
+tags:
+- gccommon
 french:
-- "[[10467 Igneous rocks]]"
+- "[[Igneous rocks]]"
 ---
-# Roche ignee

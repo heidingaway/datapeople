@@ -1,14 +1,12 @@
 ---
 title: Education policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Education policy
+longTitle: 'Education policy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15940 Policy]]"
+- "[[Policy]]"
 relatedTerm:
-- "[[6049 Education]]"
+- "[[Education]]"
 use:
-- "[[6103 Educational policy]]"
+- "[[Educational policy]]"
 ---
-# Education policy

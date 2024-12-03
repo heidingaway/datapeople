@@ -1,10 +1,8 @@
 ---
 title: Experimentation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Expérimentation
+longTitle: 'Expérimentation'
+tags:
+- gccommon
 french:
-- "[[7264 Experiments]]"
+- "[[Experiments]]"
 ---
-# Experimentation

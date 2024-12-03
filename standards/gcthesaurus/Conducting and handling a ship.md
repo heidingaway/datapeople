@@ -1,10 +1,8 @@
 ---
 title: Conducting and handling a ship
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Conducting and handling a ship.
+longTitle: 'Conducting and handling a ship.'
+tags:
+- gccommon
 scopeNote:
-- "[[15792 Pilotage]]"
+- "[[Pilotage]]"
 ---
-# Conducting and handling a ship

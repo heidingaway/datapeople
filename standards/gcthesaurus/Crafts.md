@@ -1,17 +1,12 @@
 ---
 title: Crafts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Crafts
+longTitle: 'Crafts'
+tags:
+- gccommon
 broaderTerm:
-- "[[21621 Weaving]]"
-- "[[17032 Quilting]]"
-- "[[18603 Sewing]]"
+- "[[Weaving Quilting Sewing]]"
 relatedTerm:
-- "[[5013 Decorative arts]]"
-- "[[8065 Folk art]]"
+- "[[Decorative arts Folk art]]"
 use:
-- "[[9455 Handicrafts]]"
+- "[[Handicrafts]]"
 ---
-# Crafts

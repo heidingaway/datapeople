@@ -1,18 +1,12 @@
 ---
 title: Nuclear technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nuclear technology
+longTitle: 'Nuclear technology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19879 Technology]]"
+- "[[Technology]]"
 relatedTerm:
-- "[[14627 Nuclear facilities]]"
-- "[[14618 Nuclear energy]]"
+- "[[Nuclear facilities Nuclear energy]]"
 use:
-- "[[15343 Particle accelerators]]"
-- "[[14654 Nuclear reactors]]"
-- "[[14622 Nuclear equipment]]"
-- "[[14620 Nuclear engineering]]"
+- "[[Particle accelerators Nuclear reactors Nuclear equ]]"
 ---
-# Nuclear technology

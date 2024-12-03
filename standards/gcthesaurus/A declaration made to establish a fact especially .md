@@ -1,10 +1,8 @@
 ---
-title: "A declaration made to establish a fact especially "
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: A declaration made to establish a fact, especially one made under oath by a witness in court.
+title: A declaration made to establish a fact especially 
+longTitle: 'A declaration made to establish a fact, especially one made under oath by a witness in court.'
+tags:
+- gccommon
 scopeNote:
-- "[[20108 Testimony]]"
+- "[[Testimony]]"
 ---
-# A declaration made to establish a fact especially

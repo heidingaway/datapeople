@@ -1,10 +1,8 @@
 ---
 title: Industrie du vetement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie du vêtement
+longTitle: 'Industrie du vêtement'
+tags:
+- gccommon
 french:
-- "[[3385 Clothing industry]]"
+- "[[Clothing industry]]"
 ---
-# Industrie du vetement

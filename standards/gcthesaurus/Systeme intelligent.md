@@ -1,10 +1,8 @@
 ---
 title: Systeme intelligent
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Système intelligent
+longTitle: 'Système intelligent'
+tags:
+- gccommon
 french:
-- "[[11243 Intelligent systems]]"
+- "[[Intelligent systems]]"
 ---
-# Systeme intelligent

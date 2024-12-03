@@ -1,10 +1,8 @@
 ---
 title: Gouvernement ouvert
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gouvernement ouvert
+longTitle: 'Gouvernement ouvert'
+tags:
+- gccommon
 french:
-- "[[15042 Open government]]"
+- "[[Open government]]"
 ---
-# Gouvernement ouvert

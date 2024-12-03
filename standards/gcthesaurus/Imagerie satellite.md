@@ -1,10 +1,8 @@
 ---
 title: Imagerie satellite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Imagerie satellite
+longTitle: 'Imagerie satellite'
+tags:
+- gccommon
 french:
-- "[[18151 Satellite imagery]]"
+- "[[Satellite imagery]]"
 ---
-# Imagerie satellite

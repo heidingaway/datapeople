@@ -1,10 +1,8 @@
 ---
 title: Industrie miniere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie minière
+longTitle: 'Industrie minière'
+tags:
+- gccommon
 french:
-- "[[13740 Mining industry]]"
+- "[[Mining industry]]"
 ---
-# Industrie miniere

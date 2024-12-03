@@ -1,10 +1,8 @@
 ---
 title: Port de plaisance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Port de plaisance
+longTitle: 'Port de plaisance'
+tags:
+- gccommon
 french:
-- "[[12914 Marinas]]"
+- "[[Marinas]]"
 ---
-# Port de plaisance

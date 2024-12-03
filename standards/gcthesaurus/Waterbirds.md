@@ -1,10 +1,8 @@
 ---
 title: Waterbirds
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Waterbirds
+longTitle: 'Waterbirds'
+tags:
+- gccommon
 usedFor:
-- "[[1279 Aquatic birds]]"
+- "[[Aquatic birds]]"
 ---
-# Waterbirds

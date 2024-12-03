@@ -1,10 +1,8 @@
 ---
 title: Audiocassettes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Audiocassettes
+longTitle: 'Audiocassettes'
+tags:
+- gccommon
 usedFor:
-- "[[19150 Sound recordings]]"
+- "[[Sound recordings]]"
 ---
-# Audiocassettes

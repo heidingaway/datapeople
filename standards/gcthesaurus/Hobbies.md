@@ -1,10 +1,8 @@
 ---
 title: Hobbies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hobbies
+longTitle: 'Hobbies'
+tags:
+- gccommon
 usedFor:
-- "[[17321 Recreation]]"
+- "[[Recreation]]"
 ---
-# Hobbies

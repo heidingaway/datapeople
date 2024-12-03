@@ -1,10 +1,8 @@
 ---
 title: Photographic images
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Photographic images
+longTitle: 'Photographic images'
+tags:
+- gccommon
 usedFor:
-- "[[15725 Photographs]]"
+- "[[Photographs]]"
 ---
-# Photographic images

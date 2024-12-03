@@ -1,10 +1,8 @@
 ---
 title: Equipement de securite automobile
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Équipement de sécurité automobile
+longTitle: 'Équipement de sécurité automobile'
+tags:
+- gccommon
 french:
-- "[[1754 Automobile safety equipment]]"
+- "[[Automobile safety equipment]]"
 ---
-# Equipement de securite automobile

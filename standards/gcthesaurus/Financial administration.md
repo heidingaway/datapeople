@@ -1,10 +1,8 @@
 ---
 title: Financial administration
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Financial administration
+longTitle: 'Financial administration'
+tags:
+- gccommon
 usedFor:
-- "[[7742 Financial management]]"
+- "[[Financial management]]"
 ---
-# Financial administration

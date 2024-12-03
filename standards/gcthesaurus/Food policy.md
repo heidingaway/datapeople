@@ -1,13 +1,10 @@
 ---
 title: Food policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Food policy
+longTitle: 'Food policy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15945 Policy]]"
+- "[[Policy]]"
 relatedTerm:
-- "[[9730 Health policy]]"
-- "[[521 Agricultural policy]]"
+- "[[Health policy Agricultural policy]]"
 ---
-# Food policy

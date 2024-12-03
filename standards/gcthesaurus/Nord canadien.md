@@ -1,10 +1,8 @@
 ---
 title: Nord canadien
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nord canadien
+longTitle: 'Nord canadien'
+tags:
+- gccommon
 french:
-- "[[14561 Northern Canada]]"
+- "[[Northern Canada]]"
 ---
-# Nord canadien

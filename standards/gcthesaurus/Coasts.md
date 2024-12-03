@@ -1,18 +1,10 @@
 ---
 title: Coasts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Coasts
+longTitle: 'Coasts'
+tags:
+- gccommon
 relatedTerm:
-- "[[18354 Seas]]"
-- "[[14872 Oceans]]"
-- "[[3423 Coastal waters]]"
+- "[[Seas Oceans Coastal waters]]"
 use:
-- "[[3433 Coastline]]"
-- "[[18708 Shoreline]]"
-- "[[3431 Coastlands]]"
-- "[[12532 Littoral zone]]"
-- "[[12528 Littoral]]"
+- "[[Coastline Shoreline Coastlands Littoral zone Litto]]"
 ---
-# Coasts

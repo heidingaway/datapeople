@@ -1,10 +1,8 @@
 ---
 title: Carte geologique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Carte géologique
+longTitle: 'Carte géologique'
+tags:
+- gccommon
 french:
-- "[[8965 Geological maps]]"
+- "[[Geological maps]]"
 ---
-# Carte geologique

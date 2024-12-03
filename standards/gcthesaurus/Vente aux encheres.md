@@ -1,10 +1,8 @@
 ---
 title: Vente aux encheres
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vente aux enchères
+longTitle: 'Vente aux enchères'
+tags:
+- gccommon
 french:
-- "[[1683 Auctions]]"
+- "[[Auctions]]"
 ---
-# Vente aux encheres

@@ -1,10 +1,8 @@
 ---
 title: Procedure dagrement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Procédure d'agrément
+longTitle: 'Procédure d'agrément'
+tags:
+- gccommon
 french:
-- "[[1230 Approval processes]]"
+- "[[Approval processes]]"
 ---
-# Procedure dagrement

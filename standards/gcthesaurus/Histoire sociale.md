@@ -1,10 +1,8 @@
 ---
 title: Histoire sociale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Histoire sociale
+longTitle: 'Histoire sociale'
+tags:
+- gccommon
 french:
-- "[[18903 Social history]]"
+- "[[Social history]]"
 ---
-# Histoire sociale

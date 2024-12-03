@@ -1,10 +1,8 @@
 ---
 title: Etudes a letranger
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Études à l'étranger
+longTitle: 'Études à l'étranger'
+tags:
+- gccommon
 french:
-- "[[19477 Studies abroad]]"
+- "[[Studies abroad]]"
 ---
-# Etudes a letranger

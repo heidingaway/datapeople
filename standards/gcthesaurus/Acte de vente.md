@@ -1,10 +1,8 @@
 ---
 title: Acte de vente
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Acte de vente
+longTitle: 'Acte de vente'
+tags:
+- gccommon
 french:
-- "[[2067 Bills of sale]]"
+- "[[Bills of sale]]"
 ---
-# Acte de vente

@@ -1,10 +1,8 @@
 ---
 title: Regional markets
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Regional markets
+longTitle: 'Regional markets'
+tags:
+- gccommon
 narrowerTerm:
-- "[[13116 Markets]]"
+- "[[Markets]]"
 ---
-# Regional markets

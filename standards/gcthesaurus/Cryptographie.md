@@ -1,10 +1,8 @@
 ---
 title: Cryptographie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cryptographie
+longTitle: 'Cryptographie'
+tags:
+- gccommon
 french:
-- "[[4604 Cryptography]]"
+- "[[Cryptography]]"
 ---
-# Cryptographie

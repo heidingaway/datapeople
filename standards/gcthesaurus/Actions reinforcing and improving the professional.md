@@ -1,10 +1,8 @@
 ---
 title: Actions reinforcing and improving the professional
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Actions reinforcing and improving the professional knowledge acquired by an individual in the performance of duties so as to support its advance or mobility of employment.
+longTitle: 'Actions reinforcing and improving the professional knowledge acquired by an individual in the performance of duties so as to support its advance or mobility of employment.'
+tags:
+- gccommon
 scopeNote:
-- "[[16513 Professional development]]"
+- "[[Professional development]]"
 ---
-# Actions reinforcing and improving the professional

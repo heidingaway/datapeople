@@ -1,10 +1,8 @@
 ---
 title: Cars
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cars
+longTitle: 'Cars'
+tags:
+- gccommon
 usedFor:
-- "[[1764 Automobiles]]"
+- "[[Automobiles]]"
 ---
-# Cars

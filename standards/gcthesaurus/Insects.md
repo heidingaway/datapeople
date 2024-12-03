@@ -1,15 +1,12 @@
 ---
 title: Insects
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Insects
+longTitle: 'Insects'
+tags:
+- gccommon
 broaderTerm:
-- "[[2617 Butterflies]]"
+- "[[Butterflies]]"
 narrowerTerm:
-- "[[1495 Arthropods]]"
+- "[[Arthropods]]"
 relatedTerm:
-- "[[6760 Entomology]]"
-- "[[11145 Insecticides]]"
+- "[[Entomology Insecticides]]"
 ---
-# Insects

@@ -1,12 +1,10 @@
 ---
 title: Logistical support
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Logistical support
+longTitle: 'Logistical support'
+tags:
+- gccommon
 relatedTerm:
-- "[[12645 Logistics]]"
+- "[[Logistics]]"
 use:
-- "[[12638 Logistic support]]"
+- "[[Logistic support]]"
 ---
-# Logistical support

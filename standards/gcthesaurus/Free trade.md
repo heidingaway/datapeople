@@ -1,13 +1,10 @@
 ---
 title: Free trade
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Free trade
+longTitle: 'Free trade'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20364 Trade]]"
+- "[[Trade]]"
 relatedTerm:
-- "[[11447 International trade]]"
-- "[[8492 Free trade agreements]]"
+- "[[International trade Free trade agreements]]"
 ---
-# Free trade

@@ -1,10 +1,8 @@
 ---
 title: Entreprise domiciliaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Entreprise domiciliaire
+longTitle: 'Entreprise domiciliaire'
+tags:
+- gccommon
 french:
-- "[[10009 Home-based businesses]]"
+- "[[Home-based businesses]]"
 ---
-# Entreprise domiciliaire

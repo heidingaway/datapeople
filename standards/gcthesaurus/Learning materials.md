@@ -1,10 +1,8 @@
 ---
 title: Learning materials
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Learning materials
+longTitle: 'Learning materials'
+tags:
+- gccommon
 usedFor:
-- "[[11164 Instructional materials]]"
+- "[[Instructional materials]]"
 ---
-# Learning materials

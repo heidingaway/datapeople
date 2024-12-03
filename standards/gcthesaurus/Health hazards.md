@@ -1,14 +1,10 @@
 ---
 title: Health hazards
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Health hazards
+longTitle: 'Health hazards'
+tags:
+- gccommon
 relatedTerm:
-- "[[9759 Health protection]]"
-- "[[9686 Health impact]]"
-- "[[9575 Health]]"
+- "[[Health protection Health impact Health]]"
 use:
-- "[[9767 Health risks]]"
+- "[[Health risks]]"
 ---
-# Health hazards

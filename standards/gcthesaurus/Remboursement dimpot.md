@@ -1,10 +1,8 @@
 ---
 title: Remboursement dimpot
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Remboursement d'impôt
+longTitle: 'Remboursement d'impôt'
+tags:
+- gccommon
 french:
-- "[[19757 Tax refunds]]"
+- "[[Tax refunds]]"
 ---
-# Remboursement dimpot

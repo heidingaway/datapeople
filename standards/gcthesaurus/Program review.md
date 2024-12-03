@@ -1,11 +1,8 @@
 ---
 title: Program review
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Program review
+longTitle: 'Program review'
+tags:
+- gccommon
 relatedTerm:
-- "[[16580 Programs]]"
-- "[[16543 Program assessment]]"
+- "[[Programs Program assessment]]"
 ---
-# Program review

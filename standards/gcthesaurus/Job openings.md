@@ -1,10 +1,8 @@
 ---
 title: Job openings
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Job openings
+longTitle: 'Job openings'
+tags:
+- gccommon
 usedFor:
-- "[[6566 Employment opportunities]]"
+- "[[Employment opportunities]]"
 ---
-# Job openings

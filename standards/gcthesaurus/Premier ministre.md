@@ -1,10 +1,8 @@
 ---
 title: Premier ministre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Premier ministre
+longTitle: 'Premier ministre'
+tags:
+- gccommon
 french:
-- "[[16361 Prime Minister]]"
+- "[[Prime Minister]]"
 ---
-# Premier ministre

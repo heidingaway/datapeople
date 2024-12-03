@@ -1,10 +1,8 @@
 ---
 title: Fauna
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fauna
+longTitle: 'Fauna'
+tags:
+- gccommon
 usedFor:
-- "[[21749 Wildlife]]"
+- "[[Wildlife]]"
 ---
-# Fauna

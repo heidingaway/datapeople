@@ -1,11 +1,8 @@
 ---
 title: Socioeconomic data
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Socioeconomic data
+longTitle: 'Socioeconomic data'
+tags:
+- gccommon
 relatedTerm:
-- "[[19046 Socioeconomic analysis]]"
-- "[[19015 Social statistics]]"
+- "[[Socioeconomic analysis Social statistics]]"
 ---
-# Socioeconomic data

@@ -1,10 +1,8 @@
 ---
 title: Secteur prive
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Secteur privé
+longTitle: 'Secteur privé'
+tags:
+- gccommon
 french:
-- "[[16415 Private sector]]"
+- "[[Private sector]]"
 ---
-# Secteur prive

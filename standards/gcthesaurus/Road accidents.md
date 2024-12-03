@@ -1,17 +1,12 @@
 ---
 title: Road accidents
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Road accidents
+longTitle: 'Road accidents'
+tags:
+- gccommon
 narrowerTerm:
-- "[[126 Accidents]]"
+- "[[Accidents]]"
 relatedTerm:
-- "[[17903 Road safety]]"
-- "[[17918 Road transport]]"
+- "[[Road safety Road transport]]"
 use:
-- "[[20461 Traffic accidents]]"
-- "[[2746 Car accidents]]"
-- "[[1741 Automobile accidents]]"
+- "[[Traffic accidents Car accidents Automobile acciden]]"
 ---
-# Road accidents

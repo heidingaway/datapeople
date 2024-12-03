@@ -1,10 +1,8 @@
 ---
 title: Grain elevators
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Grain elevators
+longTitle: 'Grain elevators'
+tags:
+- gccommon
 relatedTerm:
-- "[[9293 Grains]]"
+- "[[Grains]]"
 ---
-# Grain elevators

@@ -1,10 +1,8 @@
 ---
 title: Acces a leducation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Accès à l'éducation
+longTitle: 'Accès à l'éducation'
+tags:
+- gccommon
 french:
-- "[[79 Access to education]]"
+- "[[Access to education]]"
 ---
-# Acces a leducation

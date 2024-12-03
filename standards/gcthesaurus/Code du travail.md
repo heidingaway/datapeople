@@ -1,10 +1,8 @@
 ---
 title: Code du travail
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Code du travail
+longTitle: 'Code du travail'
+tags:
+- gccommon
 french:
-- "[[11849 Labour code]]"
+- "[[Labour code]]"
 ---
-# Code du travail

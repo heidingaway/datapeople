@@ -1,10 +1,8 @@
 ---
 title: Enquete criminelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Enquête criminelle
+longTitle: 'Enquête criminelle'
+tags:
+- gccommon
 french:
-- "[[4487 Criminal investigations]]"
+- "[[Criminal investigations]]"
 ---
-# Enquete criminelle

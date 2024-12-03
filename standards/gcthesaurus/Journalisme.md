@@ -1,10 +1,8 @@
 ---
 title: Journalisme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Journalisme
+longTitle: 'Journalisme'
+tags:
+- gccommon
 french:
-- "[[11693 Journalism]]"
+- "[[Journalism]]"
 ---
-# Journalisme

@@ -1,10 +1,8 @@
 ---
 title: Sciences naturelles
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sciences naturelles
+longTitle: 'Sciences naturelles'
+tags:
+- gccommon
 french:
-- "[[14327 Natural sciences]]"
+- "[[Natural sciences]]"
 ---
-# Sciences naturelles

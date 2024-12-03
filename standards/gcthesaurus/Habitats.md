@@ -1,12 +1,10 @@
 ---
 title: Habitats
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Habitats
+longTitle: 'Habitats'
+tags:
+- gccommon
 relatedTerm:
-- "[[6798 Environment]]"
+- "[[Environment]]"
 use:
-- "[[14297 Natural habitats]]"
+- "[[Natural habitats]]"
 ---
-# Habitats

@@ -1,10 +1,8 @@
 ---
 title: Work injuries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Work injuries
+longTitle: 'Work injuries'
+tags:
+- gccommon
 usedFor:
-- "[[14740 Occupational accidents]]"
+- "[[Occupational accidents]]"
 ---
-# Work injuries

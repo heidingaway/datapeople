@@ -1,10 +1,8 @@
 ---
 title: Allergies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Allergies
+longTitle: 'Allergies'
+tags:
+- gccommon
 relatedTerm:
-- "[[3205 Chronic diseases]]"
+- "[[Chronic diseases]]"
 ---
-# Allergies

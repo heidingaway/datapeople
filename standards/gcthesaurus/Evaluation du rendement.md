@@ -1,10 +1,8 @@
 ---
 title: Evaluation du rendement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Évaluation du rendement
+longTitle: 'Évaluation du rendement'
+tags:
+- gccommon
 french:
-- "[[15462 Performance assessment]]"
+- "[[Performance assessment]]"
 ---
-# Evaluation du rendement

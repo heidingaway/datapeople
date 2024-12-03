@@ -1,13 +1,10 @@
 ---
 title: Foreign policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Foreign policy
+longTitle: 'Foreign policy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15946 Policy]]"
+- "[[Policy]]"
 relatedTerm:
-- "[[7321 External relations]]"
-- "[[16796 Public diplomacy]]"
+- "[[External relations Public diplomacy]]"
 ---
-# Foreign policy

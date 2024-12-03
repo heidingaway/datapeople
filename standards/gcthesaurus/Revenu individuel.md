@@ -1,10 +1,8 @@
 ---
 title: Revenu individuel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Revenu individuel
+longTitle: 'Revenu individuel'
+tags:
+- gccommon
 french:
-- "[[15538 Personal income]]"
+- "[[Personal income]]"
 ---
-# Revenu individuel

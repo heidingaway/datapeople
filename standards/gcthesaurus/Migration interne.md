@@ -1,10 +1,8 @@
 ---
 title: Migration interne
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Migration interne
+longTitle: 'Migration interne'
+tags:
+- gccommon
 french:
-- "[[11319 Internal migration]]"
+- "[[Internal migration]]"
 ---
-# Migration interne

@@ -1,10 +1,8 @@
 ---
 title: Older adults
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Older adults
+longTitle: 'Older adults'
+tags:
+- gccommon
 usedFor:
-- "[[18542 Seniors]]"
+- "[[Seniors]]"
 ---
-# Older adults

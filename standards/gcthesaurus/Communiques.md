@@ -1,10 +1,8 @@
 ---
 title: Communiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Communiqués
+longTitle: 'Communiqués'
+tags:
+- gccommon
 usedFor:
-- "[[16261 Press releases]]"
+- "[[Press releases]]"
 ---
-# Communiques

@@ -1,10 +1,8 @@
 ---
 title: Magnetisme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Magnétisme
+longTitle: 'Magnétisme'
+tags:
+- gccommon
 french:
-- "[[12703 Magnetism]]"
+- "[[Magnetism]]"
 ---
-# Magnetisme

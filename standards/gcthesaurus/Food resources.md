@@ -1,10 +1,8 @@
 ---
 title: Food resources
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Food resources
+longTitle: 'Food resources'
+tags:
+- gccommon
 usedFor:
-- "[[8183 Food supply]]"
+- "[[Food supply]]"
 ---
-# Food resources

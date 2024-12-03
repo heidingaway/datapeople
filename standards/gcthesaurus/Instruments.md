@@ -1,10 +1,8 @@
 ---
 title: Instruments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Instruments
+longTitle: 'Instruments'
+tags:
+- gccommon
 usedFor:
-- "[[20245 Tooling]]"
+- "[[Tooling]]"
 ---
-# Instruments

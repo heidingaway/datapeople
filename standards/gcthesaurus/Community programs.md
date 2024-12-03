@@ -1,14 +1,10 @@
 ---
 title: Community programs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Community programs
+longTitle: 'Community programs'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16569 Programs]]"
+- "[[Programs]]"
 relatedTerm:
-- "[[3713 Community partnerships]]"
-- "[[3692 Community development]]"
-- "[[3732 Community services]]"
+- "[[Community partnerships Community development Commu]]"
 ---
-# Community programs

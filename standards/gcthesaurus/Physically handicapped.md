@@ -1,10 +1,8 @@
 ---
 title: Physically handicapped
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Physically handicapped
+longTitle: 'Physically handicapped'
+tags:
+- gccommon
 usedFor:
-- "[[15591 Persons with disabilities]]"
+- "[[Persons with disabilities]]"
 ---
-# Physically handicapped

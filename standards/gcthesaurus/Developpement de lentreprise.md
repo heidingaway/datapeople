@@ -1,10 +1,8 @@
 ---
 title: Developpement de lentreprise
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Développement de l'entreprise
+longTitle: 'Développement de l'entreprise'
+tags:
+- gccommon
 french:
-- "[[2507 Business development]]"
+- "[[Business development]]"
 ---
-# Developpement de lentreprise

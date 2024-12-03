@@ -1,10 +1,8 @@
 ---
 title: Auctions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Auctions
+longTitle: 'Auctions'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18096 Sales]]"
+- "[[Sales]]"
 ---
-# Auctions

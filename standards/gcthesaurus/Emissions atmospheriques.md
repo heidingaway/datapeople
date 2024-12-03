@@ -1,10 +1,8 @@
 ---
 title: Emissions atmospheriques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Émissions atmosphériques
+longTitle: 'Émissions atmosphériques'
+tags:
+- gccommon
 french:
-- "[[1654 Atmospheric emissions]]"
+- "[[Atmospheric emissions]]"
 ---
-# Emissions atmospheriques

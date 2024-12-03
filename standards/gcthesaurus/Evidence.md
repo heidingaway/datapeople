@@ -1,10 +1,8 @@
 ---
 title: Evidence
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Evidence
+longTitle: 'Evidence'
+tags:
+- gccommon
 broaderTerm:
-- "[[20109 Testimony]]"
+- "[[Testimony]]"
 ---
-# Evidence

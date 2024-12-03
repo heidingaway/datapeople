@@ -1,10 +1,8 @@
 ---
 title: Web
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Web
+longTitle: 'Web'
+tags:
+- gccommon
 usedFor:
-- "[[11467 Internet]]"
+- "[[Internet]]"
 ---
-# Web

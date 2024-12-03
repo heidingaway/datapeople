@@ -1,10 +1,8 @@
 ---
 title: Religious life
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Religious life
+longTitle: 'Religious life'
+tags:
+- gccommon
 usedFor:
-- "[[17490 Religion]]"
+- "[[Religion]]"
 ---
-# Religious life

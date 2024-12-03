@@ -1,10 +1,8 @@
 ---
 title: Infraction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Infraction
+longTitle: 'Infraction'
+tags:
+- gccommon
 french:
-- "[[14880 Offences]]"
+- "[[Offences]]"
 ---
-# Infraction

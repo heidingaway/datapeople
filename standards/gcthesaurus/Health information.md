@@ -1,10 +1,8 @@
 ---
 title: Health information
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Health information
+longTitle: 'Health information'
+tags:
+- gccommon
 usedFor:
-- "[[9752 Health promotion]]"
+- "[[Health promotion]]"
 ---
-# Health information

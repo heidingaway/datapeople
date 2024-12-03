@@ -1,25 +1,12 @@
 ---
 title: Fuels
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fuels
+longTitle: 'Fuels'
+tags:
+- gccommon
 broaderTerm:
-- "[[16611 Propane]]"
-- "[[903 Alternative fuels]]"
-- "[[8745 Gasoline]]"
-- "[[14292 Natural gas]]"
-- "[[3406 Coal]]"
-- "[[15647 Petroleum]]"
-- "[[5230 Diesel fuel]]"
+- "[[Propane Alternative fuels Gasoline Natural gas Coa]]"
 relatedTerm:
-- "[[6630 Energy]]"
-- "[[8568 Fuel supply]]"
+- "[[Energy Fuel supply]]"
 use:
-- "[[13957 Motor fuels]]"
-- "[[6725 Engine fuels]]"
-- "[[13708 Mineral fuels]]"
-- "[[8445 Fossil fuels]]"
-- "[[9823 Heating fuels]]"
+- "[[Motor fuels Engine fuels Mineral fuels Fossil fuel]]"
 ---
-# Fuels

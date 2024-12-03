@@ -1,10 +1,8 @@
 ---
 title: Assurance hypothecaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Assurance hypothécaire
+longTitle: 'Assurance hypothécaire'
+tags:
+- gccommon
 french:
-- "[[13920 Mortgage insurance]]"
+- "[[Mortgage insurance]]"
 ---
-# Assurance hypothecaire

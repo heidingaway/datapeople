@@ -1,10 +1,8 @@
 ---
 title: Mentorat
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mentorat
+longTitle: 'Mentorat'
+tags:
+- gccommon
 french:
-- "[[13404 Mentoring]]"
+- "[[Mentoring]]"
 ---
-# Mentorat

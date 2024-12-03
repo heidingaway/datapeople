@@ -1,10 +1,8 @@
 ---
 title: Atomic energy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Atomic energy
+longTitle: 'Atomic energy'
+tags:
+- gccommon
 usedFor:
-- "[[14613 Nuclear energy]]"
+- "[[Nuclear energy]]"
 ---
-# Atomic energy

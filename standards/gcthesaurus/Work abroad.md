@@ -1,10 +1,8 @@
 ---
 title: Work abroad
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Work abroad
+longTitle: 'Work abroad'
+tags:
+- gccommon
 usedFor:
-- "[[6511 Employment abroad]]"
+- "[[Employment abroad]]"
 ---
-# Work abroad

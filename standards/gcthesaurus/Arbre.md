@@ -1,10 +1,8 @@
 ---
 title: Arbre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Arbre
+longTitle: 'Arbre'
+tags:
+- gccommon
 french:
-- "[[20692 Trees]]"
+- "[[Trees]]"
 ---
-# Arbre

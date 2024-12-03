@@ -1,10 +1,8 @@
 ---
 title: Economic surveys
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Economic surveys
+longTitle: 'Economic surveys'
+tags:
+- gccommon
 usedFor:
-- "[[5825 Economic analysis]]"
+- "[[Economic analysis]]"
 ---
-# Economic surveys

@@ -1,18 +1,14 @@
 ---
 title: Government policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Government policy
+longTitle: 'Government policy'
+tags:
+- gccommon
 broaderTerm:
-- "[[15045 Open government]]"
+- "[[Open government]]"
 narrowerTerm:
-- "[[15948 Policy]]"
+- "[[Policy]]"
 relatedTerm:
-- "[[16773 Public administration]]"
-- "[[7575 Federal programs]]"
-- "[[9266 Governments]]"
+- "[[Public administration Federal programs Governments]]"
 use:
-- "[[16865 Public policy]]"
+- "[[Public policy]]"
 ---
-# Government policy

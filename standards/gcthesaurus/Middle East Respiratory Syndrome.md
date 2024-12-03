@@ -1,10 +1,8 @@
 ---
 title: Middle East Respiratory Syndrome
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Middle East Respiratory Syndrome
+longTitle: 'Middle East Respiratory Syndrome'
+tags:
+- gccommon
 usedFor:
-- "[[4248 Coronavirus diseases]]"
+- "[[Coronavirus diseases]]"
 ---
-# Middle East Respiratory Syndrome

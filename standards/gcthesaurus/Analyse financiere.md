@@ -1,10 +1,8 @@
 ---
 title: Analyse financiere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Analyse financière
+longTitle: 'Analyse financière'
+tags:
+- gccommon
 french:
-- "[[7709 Financial analysis]]"
+- "[[Financial analysis]]"
 ---
-# Analyse financiere

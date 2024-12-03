@@ -1,10 +1,8 @@
 ---
 title: Central government
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Central government
+longTitle: 'Central government'
+tags:
+- gccommon
 usedFor:
-- "[[7531 Federal government]]"
+- "[[Federal government]]"
 ---
-# Central government

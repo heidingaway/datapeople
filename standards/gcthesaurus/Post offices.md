@@ -1,10 +1,8 @@
 ---
 title: Post offices
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Post offices
+longTitle: 'Post offices'
+tags:
+- gccommon
 usedFor:
-- "[[16127 Postal services]]"
+- "[[Postal services]]"
 ---
-# Post offices

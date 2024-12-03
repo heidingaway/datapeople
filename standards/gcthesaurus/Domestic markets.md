@@ -1,15 +1,12 @@
 ---
 title: Domestic markets
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Domestic markets
+longTitle: 'Domestic markets'
+tags:
+- gccommon
 narrowerTerm:
-- "[[13114 Markets]]"
+- "[[Markets]]"
 relatedTerm:
-- "[[5521 Domestic trade]]"
+- "[[Domestic trade]]"
 use:
-- "[[12609 Local markets]]"
-- "[[14224 National markets]]"
+- "[[Local markets National markets]]"
 ---
-# Domestic markets

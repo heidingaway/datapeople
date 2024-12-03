@@ -1,10 +1,8 @@
 ---
 title: Vent
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vent
+longTitle: 'Vent'
+tags:
+- gccommon
 french:
-- "[[21770 Wind]]"
+- "[[Wind]]"
 ---
-# Vent

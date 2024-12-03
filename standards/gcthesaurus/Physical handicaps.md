@@ -1,10 +1,8 @@
 ---
 title: Physical handicaps
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Physical handicaps
+longTitle: 'Physical handicaps'
+tags:
+- gccommon
 usedFor:
-- "[[15753 Physical disabilities]]"
+- "[[Physical disabilities]]"
 ---
-# Physical handicaps

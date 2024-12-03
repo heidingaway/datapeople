@@ -1,12 +1,10 @@
 ---
 title: National heritage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: National heritage
+longTitle: 'National heritage'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9878 Heritage]]"
+- "[[Heritage]]"
 relatedTerm:
-- "[[14228 National parks]]"
+- "[[National parks]]"
 ---
-# National heritage

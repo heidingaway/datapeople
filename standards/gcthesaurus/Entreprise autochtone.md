@@ -1,10 +1,8 @@
 ---
 title: Entreprise autochtone
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Entreprise autochtone
+longTitle: 'Entreprise autochtone'
+tags:
+- gccommon
 french:
-- "[[10634 Indigenous businesses]]"
+- "[[Indigenous businesses]]"
 ---
-# Entreprise autochtone

@@ -1,18 +1,12 @@
 ---
 title: Aquatic wildlife
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aquatic wildlife
+longTitle: 'Aquatic wildlife'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21752 Wildlife]]"
+- "[[Wildlife]]"
 relatedTerm:
-- "[[1270 Aquatic animals]]"
-- "[[1288 Aquatic ecosystems]]"
+- "[[Aquatic animals Aquatic ecosystems]]"
 use:
-- "[[13017 Marine wildlife]]"
-- "[[8544 Freshwater fauna]]"
-- "[[12948 Marine fauna]]"
-- "[[1290 Aquatic fauna]]"
+- "[[Marine wildlife Freshwater fauna Marine fauna Aqua]]"
 ---
-# Aquatic wildlife

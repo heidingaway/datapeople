@@ -1,10 +1,8 @@
 ---
 title: Centrale electrique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Centrale électrique
+longTitle: 'Centrale électrique'
+tags:
+- gccommon
 french:
-- "[[6208 Electric power stations]]"
+- "[[Electric power stations]]"
 ---
-# Centrale electrique

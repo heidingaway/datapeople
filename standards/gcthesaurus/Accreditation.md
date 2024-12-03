@@ -1,10 +1,8 @@
 ---
 title: Accreditation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Accréditation
+longTitle: 'Accréditation'
+tags:
+- gccommon
 french:
-- "[[2970 Certification]]"
+- "[[Certification]]"
 ---
-# Accreditation

@@ -1,10 +1,8 @@
 ---
 title: Environmental assessment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental assessment
+longTitle: 'Environmental assessment'
+tags:
+- gccommon
 usedFor:
-- "[[6895 Environmental impact assessment]]"
+- "[[Environmental impact assessment]]"
 ---
-# Environmental assessment

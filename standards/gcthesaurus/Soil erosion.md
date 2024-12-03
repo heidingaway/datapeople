@@ -1,10 +1,8 @@
 ---
 title: Soil erosion
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Soil erosion
+longTitle: 'Soil erosion'
+tags:
+- gccommon
 usedFor:
-- "[[7107 Erosion]]"
+- "[[Erosion]]"
 ---
-# Soil erosion

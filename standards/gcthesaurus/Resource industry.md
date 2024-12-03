@@ -1,10 +1,8 @@
 ---
 title: Resource industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Resource industry
+longTitle: 'Resource industry'
+tags:
+- gccommon
 usedFor:
-- "[[16340 Primary industry]]"
+- "[[Primary industry]]"
 ---
-# Resource industry

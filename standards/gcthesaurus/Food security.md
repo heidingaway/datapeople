@@ -1,14 +1,12 @@
 ---
 title: Food security
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Food security
+longTitle: 'Food security'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18441 Security]]"
+- "[[Security]]"
 relatedTerm:
-- "[[8187 Food supply]]"
+- "[[Food supply]]"
 use:
-- "[[8108 Food insecurity]]"
+- "[[Food insecurity]]"
 ---
-# Food security

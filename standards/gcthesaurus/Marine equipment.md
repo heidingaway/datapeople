@@ -1,11 +1,8 @@
 ---
 title: Marine equipment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marine equipment
+longTitle: 'Marine equipment'
+tags:
+- gccommon
 relatedTerm:
-- "[[20945 Vessels]]"
-- "[[7956 Fisheries technology]]"
+- "[[Vessels Fisheries technology]]"
 ---
-# Marine equipment

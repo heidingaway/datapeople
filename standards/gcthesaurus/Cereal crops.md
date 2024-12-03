@@ -1,10 +1,8 @@
 ---
 title: Cereal crops
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cereal crops
+longTitle: 'Cereal crops'
+tags:
+- gccommon
 usedFor:
-- "[[2957 Cereals]]"
+- "[[Cereals]]"
 ---
-# Cereal crops

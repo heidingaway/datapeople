@@ -1,16 +1,14 @@
 ---
 title: Alternative medicine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Alternative medicine
+longTitle: 'Alternative medicine'
+tags:
+- gccommon
 broaderTerm:
-- "[[10049 Homeopathy]]"
+- "[[Homeopathy]]"
 narrowerTerm:
-- "[[13337 Medicine]]"
+- "[[Medicine]]"
 relatedTerm:
-- "[[13329 Medicinal plants]]"
+- "[[Medicinal plants]]"
 use:
-- "[[19062 Soft medicine]]"
+- "[[Soft medicine]]"
 ---
-# Alternative medicine

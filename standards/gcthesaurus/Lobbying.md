@@ -1,14 +1,10 @@
 ---
 title: Lobbying
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Lobbying
+longTitle: 'Lobbying'
+tags:
+- gccommon
 french:
-- "[[12589 Lobbying]]"
+- "[[Lobbying]]"
 relatedTerm:
-- "[[11286 Interest groups]]"
-- "[[326 Advocacy]]"
-- "[[1818 Awareness]]"
+- "[[Interest groups Advocacy Awareness]]"
 ---
-# Lobbying

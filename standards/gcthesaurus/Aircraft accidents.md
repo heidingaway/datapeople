@@ -1,20 +1,12 @@
 ---
 title: Aircraft accidents
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aircraft accidents
+longTitle: 'Aircraft accidents'
+tags:
+- gccommon
 narrowerTerm:
-- "[[121 Accidents]]"
+- "[[Accidents]]"
 relatedTerm:
-- "[[718 Aircraft]]"
-- "[[665 Air safety]]"
+- "[[Aircraft Air safety]]"
 use:
-- "[[8058 Flying accidents]]"
-- "[[1791 Aviation accidents]]"
-- "[[15826 Plane crashes]]"
-- "[[772 Airplane accidents]]"
-- "[[624 Air disasters]]"
-- "[[778 Airplane crashes]]"
+- "[[Flying accidents Aviation accidents Plane crashes ]]"
 ---
-# Aircraft accidents

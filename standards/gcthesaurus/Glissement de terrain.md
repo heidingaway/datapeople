@@ -1,10 +1,8 @@
 ---
 title: Glissement de terrain
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Glissement de terrain
+longTitle: 'Glissement de terrain'
+tags:
+- gccommon
 french:
-- "[[12047 Landslides]]"
+- "[[Landslides]]"
 ---
-# Glissement de terrain

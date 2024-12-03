@@ -1,10 +1,8 @@
 ---
 title: Produit biologique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Produit biologique
+longTitle: 'Produit biologique'
+tags:
+- gccommon
 french:
-- "[[2171 Biological products]]"
+- "[[Biological products]]"
 ---
-# Produit biologique

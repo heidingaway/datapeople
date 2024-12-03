@@ -1,16 +1,12 @@
 ---
 title: Water conservation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Water conservation
+longTitle: 'Water conservation'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17729 Resources conservation]]"
+- "[[Resources conservation]]"
 relatedTerm:
-- "[[21382 Water]]"
-- "[[21442 Water management]]"
-- "[[21530 Water use]]"
+- "[[Water Water management Water use]]"
 use:
-- "[[21423 Water efficiency]]"
+- "[[Water efficiency]]"
 ---
-# Water conservation

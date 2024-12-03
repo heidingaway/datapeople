@@ -1,10 +1,8 @@
 ---
 title: Archives nationales
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Archives nationales
+longTitle: 'Archives nationales'
+tags:
+- gccommon
 french:
-- "[[14173 National archives]]"
+- "[[National archives]]"
 ---
-# Archives nationales

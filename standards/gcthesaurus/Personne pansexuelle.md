@@ -1,10 +1,8 @@
 ---
 title: Personne pansexuelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Personne pansexuelle
+longTitle: 'Personne pansexuelle'
+tags:
+- gccommon
 french:
-- "[[15239 Pansexual people]]"
+- "[[Pansexual people]]"
 ---
-# Personne pansexuelle

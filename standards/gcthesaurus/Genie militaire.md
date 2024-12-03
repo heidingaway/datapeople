@@ -1,10 +1,8 @@
 ---
 title: Genie militaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Génie militaire
+longTitle: 'Génie militaire'
+tags:
+- gccommon
 french:
-- "[[13631 Military engineering]]"
+- "[[Military engineering]]"
 ---
-# Genie militaire

@@ -1,15 +1,12 @@
 ---
 title: Associations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Associations
+longTitle: 'Associations'
+tags:
+- gccommon
 broaderTerm:
-- "[[11968 Labour unions]]"
-- "[[16509 Professional associations]]"
+- "[[Labour unions Professional associations]]"
 narrowerTerm:
-- "[[15106 Organizations]]"
+- "[[Organizations]]"
 relatedTerm:
-- "[[11285 Interest groups]]"
+- "[[Interest groups]]"
 ---
-# Associations

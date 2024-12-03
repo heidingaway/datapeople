@@ -1,10 +1,8 @@
 ---
 title: Allocations familiales
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Allocations familiales
+longTitle: 'Allocations familiales'
+tags:
+- gccommon
 french:
-- "[[7354 Family allowances]]"
+- "[[Family allowances]]"
 ---
-# Allocations familiales

@@ -1,10 +1,8 @@
 ---
 title: Use for medical and health care techniques For med
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Use for medical and health care techniques. For medical devices and equipment, use "Medical products".
+longTitle: 'Use for medical and health care techniques. For medical devices and equipment, use "Medical products".'
+tags:
+- gccommon
 scopeNote:
-- "[[13299 Medical technology]]"
+- "[[Medical technology]]"
 ---
-# Use for medical and health care techniques For med

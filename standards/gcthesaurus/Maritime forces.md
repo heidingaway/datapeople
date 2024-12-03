@@ -1,10 +1,8 @@
 ---
 title: Maritime forces
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maritime forces
+longTitle: 'Maritime forces'
+tags:
+- gccommon
 usedFor:
-- "[[1416 Armed forces]]"
+- "[[Armed forces]]"
 ---
-# Maritime forces

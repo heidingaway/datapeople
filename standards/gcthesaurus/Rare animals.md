@@ -1,10 +1,8 @@
 ---
 title: Rare animals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rare animals
+longTitle: 'Rare animals'
+tags:
+- gccommon
 usedFor:
-- "[[6608 Endangered species]]"
+- "[[Endangered species]]"
 ---
-# Rare animals

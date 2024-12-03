@@ -1,10 +1,8 @@
 ---
 title: Protecteur du citoyen
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Protecteur du citoyen
+longTitle: 'Protecteur du citoyen'
+tags:
+- gccommon
 french:
-- "[[15027 Ombudsman]]"
+- "[[Ombudsman]]"
 ---
-# Protecteur du citoyen

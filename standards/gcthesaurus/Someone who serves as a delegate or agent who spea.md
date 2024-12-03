@@ -1,10 +1,8 @@
 ---
 title: Someone who serves as a delegate or agent who spea
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Someone who serves as a delegate, or agent who speaks or acts on behalf of others.
+longTitle: 'Someone who serves as a delegate, or agent who speaks or acts on behalf of others.'
+tags:
+- gccommon
 scopeNote:
-- "[[17584 Representatives]]"
+- "[[Representatives]]"
 ---
-# Someone who serves as a delegate or agent who spea

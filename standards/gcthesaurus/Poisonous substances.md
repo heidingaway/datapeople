@@ -1,10 +1,8 @@
 ---
 title: Poisonous substances
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Poisonous substances
+longTitle: 'Poisonous substances'
+tags:
+- gccommon
 usedFor:
-- "[[20319 Toxic substances]]"
+- "[[Toxic substances]]"
 ---
-# Poisonous substances

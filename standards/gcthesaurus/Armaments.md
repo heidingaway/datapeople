@@ -1,10 +1,8 @@
 ---
 title: Armaments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Armaments
+longTitle: 'Armaments'
+tags:
+- gccommon
 usedFor:
-- "[[21575 Weapons]]"
+- "[[Weapons]]"
 ---
-# Armaments

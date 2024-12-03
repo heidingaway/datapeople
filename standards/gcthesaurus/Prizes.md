@@ -1,10 +1,8 @@
 ---
 title: Prizes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prizes
+longTitle: 'Prizes'
+tags:
+- gccommon
 usedFor:
-- "[[1811 Awards]]"
+- "[[Awards]]"
 ---
-# Prizes

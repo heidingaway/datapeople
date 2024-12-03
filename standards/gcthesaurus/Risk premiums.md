@@ -1,10 +1,8 @@
 ---
 title: Risk premiums
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Risk premiums
+longTitle: 'Risk premiums'
+tags:
+- gccommon
 relatedTerm:
-- "[[18092 Salaries]]"
+- "[[Salaries]]"
 ---
-# Risk premiums

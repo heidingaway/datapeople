@@ -1,12 +1,10 @@
 ---
 title: Smoking prevention
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Smoking prevention
+longTitle: 'Smoking prevention'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16277 Prevention]]"
+- "[[Prevention]]"
 relatedTerm:
-- "[[18829 Smoking]]"
+- "[[Smoking]]"
 ---
-# Smoking prevention

@@ -1,10 +1,8 @@
 ---
 title: Aviation militaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aviation militaire
+longTitle: 'Aviation militaire'
+tags:
+- gccommon
 french:
-- "[[13611 Military aviation]]"
+- "[[Military aviation]]"
 ---
-# Aviation militaire

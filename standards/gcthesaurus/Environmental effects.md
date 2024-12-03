@@ -1,10 +1,8 @@
 ---
 title: Environmental effects
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental effects
+longTitle: 'Environmental effects'
+tags:
+- gccommon
 usedFor:
-- "[[6883 Environmental impact]]"
+- "[[Environmental impact]]"
 ---
-# Environmental effects

@@ -1,10 +1,8 @@
 ---
 title: Lentille
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Lentille
+longTitle: 'Lentille'
+tags:
+- gccommon
 french:
-- "[[12352 Lentils]]"
+- "[[Lentils]]"
 ---
-# Lentille

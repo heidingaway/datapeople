@@ -1,10 +1,8 @@
 ---
 title: Theft
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Theft
+longTitle: 'Theft'
+tags:
+- gccommon
 usedFor:
-- "[[4444 Crime]]"
+- "[[Crime]]"
 ---
-# Theft

@@ -1,19 +1,12 @@
 ---
 title: Environmental impact assessment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental impact assessment
+longTitle: 'Environmental impact assessment'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1536 Assessment]]"
+- "[[Assessment]]"
 relatedTerm:
-- "[[6906 Environmental indicators]]"
-- "[[10527 Impact studies]]"
-- "[[6887 Environmental impact]]"
+- "[[Environmental indicators Impact studies Environmen]]"
 use:
-- "[[6990 Environmental review]]"
-- "[[6824 Environmental assessment]]"
-- "[[6131 EIA]]"
-- "[[6871 Environmental evaluation]]"
+- "[[Environmental review Environmental assessment EIA ]]"
 ---
-# Environmental impact assessment

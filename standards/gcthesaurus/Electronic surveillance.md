@@ -1,10 +1,8 @@
 ---
 title: Electronic surveillance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electronic surveillance
+longTitle: 'Electronic surveillance'
+tags:
+- gccommon
 usedFor:
-- "[[6360 Electronic monitoring]]"
+- "[[Electronic monitoring]]"
 ---
-# Electronic surveillance

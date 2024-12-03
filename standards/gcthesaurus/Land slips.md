@@ -1,10 +1,8 @@
 ---
 title: Land slips
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Land slips
+longTitle: 'Land slips'
+tags:
+- gccommon
 usedFor:
-- "[[12048 Landslides]]"
+- "[[Landslides]]"
 ---
-# Land slips

@@ -1,14 +1,10 @@
 ---
 title: Salt water fish
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Salt water fish
+longTitle: 'Salt water fish'
+tags:
+- gccommon
 narrowerTerm:
-- "[[7873 Fish]]"
+- "[[Fish]]"
 use:
-- "[[18132 Saltwater fish]]"
-- "[[18113 Salmon]]"
-- "[[3449 Cod]]"
+- "[[Saltwater fish Salmon Cod]]"
 ---
-# Salt water fish

@@ -1,10 +1,8 @@
 ---
 title: Aide a letranger
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aide à l'étranger
+longTitle: 'Aide à l'étranger'
+tags:
+- gccommon
 french:
-- "[[8221 Foreign aid]]"
+- "[[Foreign aid]]"
 ---
-# Aide a letranger

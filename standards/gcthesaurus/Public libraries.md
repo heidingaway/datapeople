@@ -1,10 +1,8 @@
 ---
 title: Public libraries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public libraries
+longTitle: 'Public libraries'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12386 Libraries]]"
+- "[[Libraries]]"
 ---
-# Public libraries

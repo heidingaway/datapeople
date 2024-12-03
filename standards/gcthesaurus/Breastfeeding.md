@@ -1,10 +1,8 @@
 ---
 title: Breastfeeding
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Breastfeeding
+longTitle: 'Breastfeeding'
+tags:
+- gccommon
 usedFor:
-- "[[10893 Infant nutrition]]"
+- "[[Infant nutrition]]"
 ---
-# Breastfeeding

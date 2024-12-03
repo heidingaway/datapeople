@@ -1,21 +1,14 @@
 ---
 title: Archives
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Archives
+longTitle: 'Archives'
+tags:
+- gccommon
 broaderTerm:
-- "[[14174 National archives]]"
-- "[[19142 Sound archives]]"
-- "[[3341 Climate archives]]"
-- "[[21097 Visual archives]]"
+- "[[National archives Sound archives Climate archives ]]"
 french:
-- "[[1378 Archives]]"
+- "[[Archives]]"
 relatedTerm:
-- "[[17289 Records]]"
-- "[[2815 Cartographic records]]"
-- "[[9978 History]]"
+- "[[Records Cartographic records History]]"
 use:
-- "[[9953 Historical documents]]"
+- "[[Historical documents]]"
 ---
-# Archives

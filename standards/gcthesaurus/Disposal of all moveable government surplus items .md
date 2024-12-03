@@ -1,10 +1,8 @@
 ---
-title: "Disposal of all moveable government surplus items "
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Disposal of all moveable government surplus items and equipment.
+title: Disposal of all moveable government surplus items 
+longTitle: 'Disposal of all moveable government surplus items and equipment.'
+tags:
+- gccommon
 scopeNote:
-- "[[5411 Disposal services]]"
+- "[[Disposal services]]"
 ---
-# Disposal of all moveable government surplus items

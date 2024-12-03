@@ -1,10 +1,8 @@
 ---
 title: Schoolboards
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Schoolboards
+longTitle: 'Schoolboards'
+tags:
+- gccommon
 usedFor:
-- "[[18204 School boards]]"
+- "[[School boards]]"
 ---
-# Schoolboards

@@ -1,10 +1,8 @@
 ---
 title: Rainfall
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rainfall
+longTitle: 'Rainfall'
+tags:
+- gccommon
 usedFor:
-- "[[16209 Precipitation]]"
+- "[[Precipitation]]"
 ---
-# Rainfall

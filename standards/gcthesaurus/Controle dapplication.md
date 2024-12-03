@@ -1,10 +1,8 @@
 ---
 title: Controle dapplication
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Contrôle d'application
+longTitle: 'Contrôle d'application'
+tags:
+- gccommon
 french:
-- "[[6722 Enforcement]]"
+- "[[Enforcement]]"
 ---
-# Controle dapplication

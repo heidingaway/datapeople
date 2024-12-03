@@ -1,10 +1,8 @@
 ---
 title: Active population
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Active population
+longTitle: 'Active population'
+tags:
+- gccommon
 usedFor:
-- "[[11871 Labour force]]"
+- "[[Labour force]]"
 ---
-# Active population

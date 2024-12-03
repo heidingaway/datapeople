@@ -1,10 +1,8 @@
 ---
 title: WWI
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: WWI
+longTitle: 'WWI'
+tags:
+- gccommon
 usedFor:
-- "[[22043 World War, 1914-1918]]"
+- "[[World War 1914-1918]]"
 ---
-# WWI

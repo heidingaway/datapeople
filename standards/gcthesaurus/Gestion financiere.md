@@ -1,10 +1,8 @@
 ---
 title: Gestion financiere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gestion financière
+longTitle: 'Gestion financière'
+tags:
+- gccommon
 french:
-- "[[7740 Financial management]]"
+- "[[Financial management]]"
 ---
-# Gestion financiere

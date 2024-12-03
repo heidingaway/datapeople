@@ -1,10 +1,8 @@
 ---
 title: Knowledge acquisition
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Knowledge acquisition
+longTitle: 'Knowledge acquisition'
+tags:
+- gccommon
 usedFor:
-- "[[12213 Learning]]"
+- "[[Learning]]"
 ---
-# Knowledge acquisition

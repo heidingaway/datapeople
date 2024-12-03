@@ -1,13 +1,10 @@
 ---
 title: Whales
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Whales
+longTitle: 'Whales'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1266 Aquatic animals]]"
-- "[[12741 Mammals]]"
+- "[[Aquatic animals Mammals]]"
 relatedTerm:
-- "[[21689 Whaling]]"
+- "[[Whaling]]"
 ---
-# Whales

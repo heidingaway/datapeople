@@ -1,10 +1,8 @@
 ---
 title: Accident daviation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Accident d'aviation
+longTitle: 'Accident d'aviation'
+tags:
+- gccommon
 french:
-- "[[724 Aircraft accidents]]"
+- "[[Aircraft accidents]]"
 ---
-# Accident daviation

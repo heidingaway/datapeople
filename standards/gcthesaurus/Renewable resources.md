@@ -1,17 +1,14 @@
 ---
 title: Renewable resources
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Renewable resources
+longTitle: 'Renewable resources'
+tags:
+- gccommon
 broaderTerm:
-- "[[17536 Renewable energy]]"
-- "[[8415 Forests]]"
+- "[[Renewable energy Forests]]"
 narrowerTerm:
-- "[[14321 Natural resources]]"
+- "[[Natural resources]]"
 relatedTerm:
-- "[[14499 Non-renewable resources]]"
+- "[[Non-renewable resources]]"
 use:
-- "[[17551 Renewable natural resources]]"
+- "[[Renewable natural resources]]"
 ---
-# Renewable resources

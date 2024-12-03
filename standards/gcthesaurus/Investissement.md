@@ -1,10 +1,8 @@
 ---
 title: Investissement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Investissement
+longTitle: 'Investissement'
+tags:
+- gccommon
 french:
-- "[[11588 Investments]]"
+- "[[Investments]]"
 ---
-# Investissement

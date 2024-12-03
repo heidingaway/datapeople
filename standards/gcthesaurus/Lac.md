@@ -1,10 +1,8 @@
 ---
 title: Lac
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Lac
+longTitle: 'Lac'
+tags:
+- gccommon
 french:
-- "[[11972 Lakes]]"
+- "[[Lakes]]"
 ---
-# Lac

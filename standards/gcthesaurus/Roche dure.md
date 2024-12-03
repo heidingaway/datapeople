@@ -1,10 +1,8 @@
 ---
 title: Roche dure
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Roche dure
+longTitle: 'Roche dure'
+tags:
+- gccommon
 french:
-- "[[9490 Hard rocks]]"
+- "[[Hard rocks]]"
 ---
-# Roche dure

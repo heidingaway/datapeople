@@ -1,10 +1,8 @@
 ---
 title: Differend commercial
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Différend commercial
+longTitle: 'Différend commercial'
+tags:
+- gccommon
 french:
-- "[[20390 Trade disputes]]"
+- "[[Trade disputes]]"
 ---
-# Differend commercial

@@ -1,18 +1,10 @@
 ---
 title: Birth
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Birth
+longTitle: 'Birth'
+tags:
+- gccommon
 relatedTerm:
-- "[[15483 Perinatal care]]"
-- "[[10903 Infants]]"
-- "[[16220 Pregnancy]]"
-- "[[7396 Family planning]]"
-- "[[2261 Birth certificates]]"
-- "[[2267 Birth rate]]"
-- "[[4940 Death]]"
+- "[[Perinatal care Infants Pregnancy Family planning B]]"
 use:
-- "[[3147 Childbirth]]"
+- "[[Childbirth]]"
 ---
-# Birth

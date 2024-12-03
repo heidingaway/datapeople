@@ -1,10 +1,8 @@
 ---
 title: Gestion forestiere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gestion forestière
+longTitle: 'Gestion forestière'
+tags:
+- gccommon
 french:
-- "[[8313 Forest management]]"
+- "[[Forest management]]"
 ---
-# Gestion forestiere

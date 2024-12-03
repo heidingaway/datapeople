@@ -1,12 +1,10 @@
 ---
 title: Womens health
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Women's health
+longTitle: 'Women's health'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9572 Health]]"
+- "[[Health]]"
 relatedTerm:
-- "[[21825 Women]]"
+- "[[Women]]"
 ---
-# Womens health

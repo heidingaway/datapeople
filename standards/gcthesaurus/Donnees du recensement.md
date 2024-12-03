@@ -1,10 +1,8 @@
 ---
 title: Donnees du recensement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Données du recensement
+longTitle: 'Données du recensement'
+tags:
+- gccommon
 french:
-- "[[2927 Census data]]"
+- "[[Census data]]"
 ---
-# Donnees du recensement

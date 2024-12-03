@@ -1,20 +1,12 @@
 ---
 title: Retail trade
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Retail trade
+longTitle: 'Retail trade'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20366 Trade]]"
+- "[[Trade]]"
 relatedTerm:
-- "[[4079 Consumer products]]"
-- "[[13098 Marketing]]"
-- "[[6279 Electronic commerce]]"
-- "[[21729 Wholesale trade]]"
+- "[[Consumer products Marketing Electronic commerce Wh]]"
 use:
-- "[[17781 Retailing]]"
-- "[[18102 Sales outlets]]"
-- "[[19414 Stores]]"
-- "[[17768 Retail industry]]"
+- "[[Retailing Sales outlets Stores Retail industry]]"
 ---
-# Retail trade

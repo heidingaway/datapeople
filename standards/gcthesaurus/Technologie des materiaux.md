@@ -1,10 +1,8 @@
 ---
 title: Technologie des materiaux
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Technologie des matériaux
+longTitle: 'Technologie des matériaux'
+tags:
+- gccommon
 french:
-- "[[13152 Materials technology]]"
+- "[[Materials technology]]"
 ---
-# Technologie des materiaux

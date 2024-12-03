@@ -1,10 +1,8 @@
 ---
 title: Portefeuille
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Portefeuille
+longTitle: 'Portefeuille'
+tags:
+- gccommon
 french:
-- "[[16099 Portfolio]]"
+- "[[Portfolio]]"
 ---
-# Portefeuille

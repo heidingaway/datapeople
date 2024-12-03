@@ -1,10 +1,8 @@
 ---
 title: Services aux entreprises
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Services aux entreprises
+longTitle: 'Services aux entreprises'
+tags:
+- gccommon
 french:
-- "[[2559 Business services]]"
+- "[[Business services]]"
 ---
-# Services aux entreprises

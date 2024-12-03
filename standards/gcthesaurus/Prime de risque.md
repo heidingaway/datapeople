@@ -1,10 +1,8 @@
 ---
 title: Prime de risque
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prime de risque
+longTitle: 'Prime de risque'
+tags:
+- gccommon
 french:
-- "[[17851 Risk premiums]]"
+- "[[Risk premiums]]"
 ---
-# Prime de risque

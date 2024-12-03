@@ -1,10 +1,8 @@
 ---
 title: Autonomie personnelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Autonomie personnelle
+longTitle: 'Autonomie personnelle'
+tags:
+- gccommon
 french:
-- "[[10601 Independent living]]"
+- "[[Independent living]]"
 ---
-# Autonomie personnelle

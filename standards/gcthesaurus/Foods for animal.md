@@ -1,10 +1,8 @@
 ---
 title: Foods for animal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Foods for animal
+longTitle: 'Foods for animal'
+tags:
+- gccommon
 usedFor:
-- "[[1045 Animal nutrition]]"
+- "[[Animal nutrition]]"
 ---
-# Foods for animal

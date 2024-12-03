@@ -1,10 +1,8 @@
 ---
 title: Programme federal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Programme fédéral
+longTitle: 'Programme fédéral'
+tags:
+- gccommon
 french:
-- "[[7572 Federal programs]]"
+- "[[Federal programs]]"
 ---
-# Programme federal

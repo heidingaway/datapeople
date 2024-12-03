@@ -1,10 +1,8 @@
 ---
 title: Rehabilitation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rehabilitation
+longTitle: 'Rehabilitation'
+tags:
+- gccommon
 broaderTerm:
-- "[[21174 Vocational rehabilitation]]"
+- "[[Vocational rehabilitation]]"
 ---
-# Rehabilitation

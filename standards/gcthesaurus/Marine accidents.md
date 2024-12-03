@@ -1,16 +1,12 @@
 ---
 title: Marine accidents
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marine accidents
+longTitle: 'Marine accidents'
+tags:
+- gccommon
 narrowerTerm:
-- "[[123 Accidents]]"
+- "[[Accidents]]"
 relatedTerm:
-- "[[12987 Marine safety]]"
+- "[[Marine safety]]"
 use:
-- "[[18700 Shipwrecks]]"
-- "[[13032 Maritime disasters]]"
-- "[[18671 Ship sinking]]"
+- "[[Shipwrecks Maritime disasters Ship sinking]]"
 ---
-# Marine accidents

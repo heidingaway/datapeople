@@ -1,14 +1,10 @@
 ---
 title: Communications industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Communications industry
+longTitle: 'Communications industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18577 Service industry]]"
+- "[[Service industry]]"
 relatedTerm:
-- "[[3659 Communications]]"
-- "[[3667 Communications equipment]]"
-- "[[2434 Broadcasting industry]]"
+- "[[Communications Communications equipment Broadcasti]]"
 ---
-# Communications industry

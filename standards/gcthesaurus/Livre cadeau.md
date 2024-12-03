@@ -1,10 +1,8 @@
 ---
 title: Livre cadeau
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Livre cadeau
+longTitle: 'Livre cadeau'
+tags:
+- gccommon
 french:
-- "[[9059 Gift books]]"
+- "[[Gift books]]"
 ---
-# Livre cadeau

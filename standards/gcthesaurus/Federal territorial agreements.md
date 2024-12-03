@@ -1,14 +1,10 @@
 ---
 title: Federal territorial agreements
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Federal territorial agreements
+longTitle: 'Federal territorial agreements'
+tags:
+- gccommon
 narrowerTerm:
-- "[[401 Agreements]]"
+- "[[Agreements]]"
 relatedTerm:
-- "[[20071 Territorial governments]]"
-- "[[7544 Federal government]]"
-- "[[7620 Federal territorial relations]]"
+- "[[Territorial governments Federal government Federal]]"
 ---
-# Federal territorial agreements

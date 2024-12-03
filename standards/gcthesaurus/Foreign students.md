@@ -1,15 +1,12 @@
 ---
 title: Foreign students
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Foreign students
+longTitle: 'Foreign students'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19470 Students]]"
+- "[[Students]]"
 relatedTerm:
-- "[[19479 Studies abroad]]"
+- "[[Studies abroad]]"
 use:
-- "[[21076 Visa students]]"
-- "[[11430 International students]]"
+- "[[Visa students International students]]"
 ---
-# Foreign students

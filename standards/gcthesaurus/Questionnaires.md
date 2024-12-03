@@ -1,12 +1,8 @@
 ---
 title: Questionnaires
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Questionnaires
+longTitle: 'Questionnaires'
+tags:
+- gccommon
 relatedTerm:
-- "[[19616 Surveys]]"
-- "[[8434 Forms]]"
-- "[[11516 Interviews]]"
+- "[[Surveys Forms Interviews]]"
 ---
-# Questionnaires

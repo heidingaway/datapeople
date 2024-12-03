@@ -1,10 +1,8 @@
 ---
 title: Reduction or elimination of pollution at the sourc
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Reduction or elimination of pollution at the source.
+longTitle: 'Reduction or elimination of pollution at the source.'
+tags:
+- gccommon
 scopeNote:
-- "[[16054 Pollution prevention]]"
+- "[[Pollution prevention]]"
 ---
-# Reduction or elimination of pollution at the sourc

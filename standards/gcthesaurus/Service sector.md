@@ -1,10 +1,8 @@
 ---
 title: Service sector
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Service sector
+longTitle: 'Service sector'
+tags:
+- gccommon
 usedFor:
-- "[[18572 Service industry]]"
+- "[[Service industry]]"
 ---
-# Service sector

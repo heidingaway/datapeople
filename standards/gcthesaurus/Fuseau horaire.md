@@ -1,10 +1,8 @@
 ---
 title: Fuseau horaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fuseau horaire
+longTitle: 'Fuseau horaire'
+tags:
+- gccommon
 french:
-- "[[20194 Time zones]]"
+- "[[Time zones]]"
 ---
-# Fuseau horaire

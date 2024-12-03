@@ -1,10 +1,8 @@
 ---
 title: French in the workplace
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: French in the workplace
+longTitle: 'French in the workplace'
+tags:
+- gccommon
 relatedTerm:
-- "[[8515 French language]]"
+- "[[French language]]"
 ---
-# French in the workplace

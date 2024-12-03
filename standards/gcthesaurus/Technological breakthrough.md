@@ -1,10 +1,8 @@
 ---
 title: Technological breakthrough
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Technological breakthrough
+longTitle: 'Technological breakthrough'
+tags:
+- gccommon
 usedFor:
-- "[[19845 Technological innovation]]"
+- "[[Technological innovation]]"
 ---
-# Technological breakthrough

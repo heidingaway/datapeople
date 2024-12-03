@@ -1,10 +1,8 @@
 ---
 title: Competition
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Competition
+longTitle: 'Competition'
+tags:
+- gccommon
 relatedTerm:
-- "[[3770 Competitiveness]]"
+- "[[Competitiveness]]"
 ---
-# Competition

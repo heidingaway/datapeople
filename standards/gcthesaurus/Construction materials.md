@@ -1,15 +1,12 @@
 ---
 title: Construction materials
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Construction materials
+longTitle: 'Construction materials'
+tags:
+- gccommon
 broaderTerm:
-- "[[3905 Concrete]]"
+- "[[Concrete]]"
 relatedTerm:
-- "[[4026 Construction industry]]"
-- "[[4011 Construction]]"
+- "[[Construction industry Construction]]"
 use:
-- "[[2461 Building materials]]"
+- "[[Building materials]]"
 ---
-# Construction materials

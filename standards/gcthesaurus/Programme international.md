@@ -1,10 +1,8 @@
 ---
 title: Programme international
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Programme international
+longTitle: 'Programme international'
+tags:
+- gccommon
 french:
-- "[[11416 International programs]]"
+- "[[International programs]]"
 ---
-# Programme international

@@ -1,10 +1,8 @@
 ---
 title: Certificat de naissance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Certificat de naissance
+longTitle: 'Certificat de naissance'
+tags:
+- gccommon
 french:
-- "[[2259 Birth certificates]]"
+- "[[Birth certificates]]"
 ---
-# Certificat de naissance

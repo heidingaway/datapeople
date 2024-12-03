@@ -1,10 +1,8 @@
 ---
 title: Archeology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Archeology
+longTitle: 'Archeology'
+tags:
+- gccommon
 usedFor:
-- "[[1344 Archaeology]]"
+- "[[Archaeology]]"
 ---
-# Archeology

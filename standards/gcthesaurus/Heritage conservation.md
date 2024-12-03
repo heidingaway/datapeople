@@ -1,12 +1,10 @@
 ---
 title: Heritage conservation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Heritage conservation
+longTitle: 'Heritage conservation'
+tags:
+- gccommon
 narrowerTerm:
-- "[[3963 Conservation]]"
+- "[[Conservation]]"
 relatedTerm:
-- "[[9883 Heritage]]"
+- "[[Heritage]]"
 ---
-# Heritage conservation

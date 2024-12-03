@@ -1,10 +1,8 @@
 ---
 title: Training facilities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Training facilities
+longTitle: 'Training facilities'
+tags:
+- gccommon
 usedFor:
-- "[[20508 Training centres]]"
+- "[[Training centres]]"
 ---
-# Training facilities

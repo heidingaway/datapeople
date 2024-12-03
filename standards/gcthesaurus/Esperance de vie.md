@@ -1,10 +1,8 @@
 ---
 title: Esperance de vie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Espérance de vie
+longTitle: 'Espérance de vie'
+tags:
+- gccommon
 french:
-- "[[12413 Life expectancy]]"
+- "[[Life expectancy]]"
 ---
-# Esperance de vie

@@ -1,10 +1,8 @@
 ---
 title: Revision de programme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Révision de programme
+longTitle: 'Révision de programme'
+tags:
+- gccommon
 french:
-- "[[16557 Program review]]"
+- "[[Program review]]"
 ---
-# Revision de programme

@@ -1,10 +1,8 @@
 ---
 title: Mine clearance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mine clearance
+longTitle: 'Mine clearance'
+tags:
+- gccommon
 usedFor:
-- "[[5085 Demining]]"
+- "[[Demining]]"
 ---
-# Mine clearance

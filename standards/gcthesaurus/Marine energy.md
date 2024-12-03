@@ -1,10 +1,8 @@
 ---
 title: Marine energy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marine energy
+longTitle: 'Marine energy'
+tags:
+- gccommon
 usedFor:
-- "[[14826 Ocean energy]]"
+- "[[Ocean energy]]"
 ---
-# Marine energy

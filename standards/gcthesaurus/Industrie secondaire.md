@@ -1,10 +1,8 @@
 ---
 title: Industrie secondaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie secondaire
+longTitle: 'Industrie secondaire'
+tags:
+- gccommon
 french:
-- "[[18408 Secondary industry]]"
+- "[[Secondary industry]]"
 ---
-# Industrie secondaire

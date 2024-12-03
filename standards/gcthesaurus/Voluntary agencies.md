@@ -1,10 +1,8 @@
 ---
 title: Voluntary agencies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Voluntary agencies
+longTitle: 'Voluntary agencies'
+tags:
+- gccommon
 usedFor:
-- "[[14482 Non-profit organizations]]"
+- "[[Non-profit organizations]]"
 ---
-# Voluntary agencies

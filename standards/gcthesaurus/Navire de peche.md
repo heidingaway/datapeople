@@ -1,10 +1,8 @@
 ---
 title: Navire de peche
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Navire de pêche
+longTitle: 'Navire de pêche'
+tags:
+- gccommon
 french:
-- "[[8001 Fishing ships]]"
+- "[[Fishing ships]]"
 ---
-# Navire de peche

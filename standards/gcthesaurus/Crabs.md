@@ -1,10 +1,8 @@
 ---
 title: Crabs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Crabs
+longTitle: 'Crabs'
+tags:
+- gccommon
 usedFor:
-- "[[4594 Crustaceans]]"
+- "[[Crustaceans]]"
 ---
-# Crabs

@@ -1,10 +1,8 @@
 ---
 title: Climatic change
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Climatic change
+longTitle: 'Climatic change'
+tags:
+- gccommon
 usedFor:
-- "[[3347 Climate change]]"
+- "[[Climate change]]"
 ---
-# Climatic change

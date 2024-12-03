@@ -1,10 +1,8 @@
 ---
 title: Environmental control
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental control
+longTitle: 'Environmental control'
+tags:
+- gccommon
 usedFor:
-- "[[6920 Environmental management]]"
+- "[[Environmental management]]"
 ---
-# Environmental control

@@ -1,16 +1,12 @@
 ---
 title: Cattle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cattle
+longTitle: 'Cattle'
+tags:
+- gccommon
 broaderTerm:
-- "[[1917 Beef cattle]]"
-- "[[4801 Dairy cattle]]"
+- "[[Beef cattle Dairy cattle]]"
 narrowerTerm:
-- "[[12539 Livestock]]"
-- "[[12733 Mammals]]"
+- "[[Livestock Mammals]]"
 use:
-- "[[4406 Cows]]"
+- "[[Cows]]"
 ---
-# Cattle

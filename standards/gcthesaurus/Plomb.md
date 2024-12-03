@@ -1,10 +1,8 @@
 ---
 title: Plomb
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Plomb
+longTitle: 'Plomb'
+tags:
+- gccommon
 french:
-- "[[12178 Lead]]"
+- "[[Lead]]"
 ---
-# Plomb

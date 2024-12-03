@@ -1,13 +1,10 @@
 ---
 title: Historical research
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Historical research
+longTitle: 'Historical research'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17650 Research]]"
+- "[[Research]]"
 relatedTerm:
-- "[[9966 Historical societies]]"
-- "[[9984 History]]"
+- "[[Historical societies History]]"
 ---
-# Historical research

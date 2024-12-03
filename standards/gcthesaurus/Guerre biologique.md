@@ -1,10 +1,8 @@
 ---
 title: Guerre biologique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Guerre biologique
+longTitle: 'Guerre biologique'
+tags:
+- gccommon
 french:
-- "[[2179 Biological warfare]]"
+- "[[Biological warfare]]"
 ---
-# Guerre biologique

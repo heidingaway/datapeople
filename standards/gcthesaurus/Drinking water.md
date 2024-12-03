@@ -1,15 +1,12 @@
 ---
 title: Drinking water
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Drinking water
+longTitle: 'Drinking water'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1997 Beverages]]"
-- "[[21374 Water]]"
+- "[[Beverages Water]]"
 relatedTerm:
-- "[[8537 Fresh water]]"
+- "[[Fresh water]]"
 use:
-- "[[16147 Potable water]]"
+- "[[Potable water]]"
 ---
-# Drinking water

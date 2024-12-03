@@ -1,10 +1,8 @@
 ---
 title: Industrie forestiere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie forestière
+longTitle: 'Industrie forestière'
+tags:
+- gccommon
 french:
-- "[[8362 Forestry industry]]"
+- "[[Forestry industry]]"
 ---
-# Industrie forestiere

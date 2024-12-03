@@ -1,10 +1,8 @@
 ---
 title: Remote communities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Remote communities
+longTitle: 'Remote communities'
+tags:
+- gccommon
 usedFor:
-- "[[11630 Isolated communities]]"
+- "[[Isolated communities]]"
 ---
-# Remote communities

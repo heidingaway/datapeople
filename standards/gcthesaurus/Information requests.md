@@ -1,15 +1,10 @@
 ---
 title: Information requests
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Information requests
+longTitle: 'Information requests'
+tags:
+- gccommon
 relatedTerm:
-- "[[17400 Reference services]]"
-- "[[8530 Frequently asked questions]]"
-- "[[10972 Information]]"
-- "[[87 Access to information]]"
+- "[[Reference services Frequently asked questions Info]]"
 use:
-- "[[6746 Enquiries]]"
+- "[[Enquiries]]"
 ---
-# Information requests

@@ -1,10 +1,8 @@
 ---
 title: Charges
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Charges
+longTitle: 'Charges'
+tags:
+- gccommon
 usedFor:
-- "[[4335 Costs]]"
+- "[[Costs]]"
 ---
-# Charges

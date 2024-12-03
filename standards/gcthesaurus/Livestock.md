@@ -1,26 +1,14 @@
 ---
 title: Livestock
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Livestock
+longTitle: 'Livestock'
+tags:
+- gccommon
 broaderTerm:
-- "[[10000 Hogs]]"
-- "[[2873 Cattle]]"
-- "[[18663 Sheep]]"
-- "[[10072 Horses]]"
+- "[[Hogs Cattle Sheep Horses]]"
 narrowerTerm:
-- "[[1113 Animals]]"
+- "[[Animals]]"
 relatedTerm:
-- "[[16162 Poultry]]"
-- "[[12867 Manure]]"
-- "[[5493 Domestic animals]]"
-- "[[13180 Meat]]"
-- "[[9326 Grasslands]]"
-- "[[18794 Slaughtering]]"
-- "[[1026 Animal husbandry]]"
+- "[[Poultry Manure Domestic animals Meat Grasslands Sl]]"
 use:
-- "[[7424 Farm animals]]"
-- "[[9866 Herds]]"
+- "[[Farm animals Herds]]"
 ---
-# Livestock

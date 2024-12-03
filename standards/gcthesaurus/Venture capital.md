@@ -1,12 +1,10 @@
 ---
 title: Venture capital
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Venture capital
+longTitle: 'Venture capital'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2733 Capital]]"
+- "[[Capital]]"
 relatedTerm:
-- "[[21943 Working capital]]"
+- "[[Working capital]]"
 ---
-# Venture capital

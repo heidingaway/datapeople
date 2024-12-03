@@ -1,10 +1,8 @@
 ---
 title: Progress reports
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Progress reports
+longTitle: 'Progress reports'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17579 Reports]]"
+- "[[Reports]]"
 ---
-# Progress reports

@@ -1,10 +1,8 @@
 ---
 title: Gift books
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gift books
+longTitle: 'Gift books'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2333 Books]]"
+- "[[Books]]"
 ---
-# Gift books

@@ -1,10 +1,8 @@
 ---
 title: Case studies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Case studies
+longTitle: 'Case studies'
+tags:
+- gccommon
 relatedTerm:
-- "[[949 Analysis]]"
+- "[[Analysis]]"
 ---
-# Case studies

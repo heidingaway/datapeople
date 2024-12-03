@@ -1,15 +1,10 @@
 ---
 title: Immunization
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Immunization
+longTitle: 'Immunization'
+tags:
+- gccommon
 relatedTerm:
-- "[[16289 Preventive medicine]]"
-- "[[9762 Health protection]]"
-- "[[7059 Epidemiology]]"
-- "[[10929 Infectious diseases]]"
+- "[[Preventive medicine Health protection Epidemiology]]"
 use:
-- "[[20881 Vaccines]]"
+- "[[Vaccines]]"
 ---
-# Immunization

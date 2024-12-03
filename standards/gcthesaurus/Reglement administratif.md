@@ -1,10 +1,8 @@
 ---
 title: Reglement administratif
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Règlement administratif
+longTitle: 'Règlement administratif'
+tags:
+- gccommon
 french:
-- "[[2627 By-laws]]"
+- "[[By-laws]]"
 ---
-# Reglement administratif

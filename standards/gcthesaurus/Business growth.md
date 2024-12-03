@@ -1,10 +1,8 @@
 ---
 title: Business growth
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Business growth
+longTitle: 'Business growth'
+tags:
+- gccommon
 usedFor:
-- "[[2508 Business development]]"
+- "[[Business development]]"
 ---
-# Business growth

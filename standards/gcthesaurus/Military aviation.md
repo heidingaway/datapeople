@@ -1,14 +1,12 @@
 ---
 title: Military aviation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Military aviation
+longTitle: 'Military aviation'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1785 Aviation]]"
+- "[[Aviation]]"
 relatedTerm:
-- "[[13600 Military aircraft]]"
+- "[[Military aircraft]]"
 use:
-- "[[13596 Military aeronautics]]"
+- "[[Military aeronautics]]"
 ---
-# Military aviation

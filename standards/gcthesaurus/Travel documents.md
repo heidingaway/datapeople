@@ -1,15 +1,10 @@
 ---
 title: Travel documents
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Travel documents
+longTitle: 'Travel documents'
+tags:
+- gccommon
 broaderTerm:
-- "[[21080 Visas]]"
-- "[[15364 Passports]]"
+- "[[Visas Passports]]"
 relatedTerm:
-- "[[3248 Citizenship documents]]"
-- "[[20665 Travel]]"
-- "[[11459 International travel]]"
+- "[[Citizenship documents Travel International travel]]"
 ---
-# Travel documents

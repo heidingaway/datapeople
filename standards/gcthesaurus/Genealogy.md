@@ -1,12 +1,8 @@
 ---
 title: Genealogy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Genealogy
+longTitle: 'Genealogy'
+tags:
+- gccommon
 relatedTerm:
-- "[[9980 History]]"
-- "[[7351 Family]]"
-- "[[2145 Biographies]]"
+- "[[History Family Biographies]]"
 ---
-# Genealogy

@@ -1,10 +1,8 @@
 ---
 title: Communications satellites
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Communications satellites
+longTitle: 'Communications satellites'
+tags:
+- gccommon
 usedFor:
-- "[[18164 Satellites]]"
+- "[[Satellites]]"
 ---
-# Communications satellites

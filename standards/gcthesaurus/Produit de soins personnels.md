@@ -1,10 +1,8 @@
 ---
 title: Produit de soins personnels
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Produit de soins personnels
+longTitle: 'Produit de soins personnels'
+tags:
+- gccommon
 french:
-- "[[15516 Personal care products]]"
+- "[[Personal care products]]"
 ---
-# Produit de soins personnels

@@ -1,10 +1,8 @@
 ---
 title: Television broadcasting
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Television broadcasting
+longTitle: 'Television broadcasting'
+tags:
+- gccommon
 usedFor:
-- "[[2422 Broadcasting]]"
+- "[[Broadcasting]]"
 ---
-# Television broadcasting

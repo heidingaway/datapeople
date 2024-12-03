@@ -1,14 +1,12 @@
 ---
 title: Avalanches
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Avalanches
+longTitle: 'Avalanches'
+tags:
+- gccommon
 narrowerTerm:
-- "[[14279 Natural disasters]]"
+- "[[Natural disasters]]"
 relatedTerm:
-- "[[18849 Snow]]"
+- "[[Snow]]"
 use:
-- "[[18854 Snow avalanches]]"
+- "[[Snow avalanches]]"
 ---
-# Avalanches

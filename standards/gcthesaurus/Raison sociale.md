@@ -1,10 +1,8 @@
 ---
 title: Raison sociale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Raison sociale
+longTitle: 'Raison sociale'
+tags:
+- gccommon
 french:
-- "[[4273 Corporate names]]"
+- "[[Corporate names]]"
 ---
-# Raison sociale

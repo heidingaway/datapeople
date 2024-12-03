@@ -1,10 +1,8 @@
 ---
 title: Space arm
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Space arm
+longTitle: 'Space arm'
+tags:
+- gccommon
 usedFor:
-- "[[19189 Space technology]]"
+- "[[Space technology]]"
 ---
-# Space arm

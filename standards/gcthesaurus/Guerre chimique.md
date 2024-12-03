@@ -1,10 +1,8 @@
 ---
 title: Guerre chimique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Guerre chimique
+longTitle: 'Guerre chimique'
+tags:
+- gccommon
 french:
-- "[[3035 Chemical warfare]]"
+- "[[Chemical warfare]]"
 ---
-# Guerre chimique

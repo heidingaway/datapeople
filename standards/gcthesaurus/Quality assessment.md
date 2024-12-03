@@ -1,10 +1,8 @@
 ---
 title: Quality assessment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Quality assessment
+longTitle: 'Quality assessment'
+tags:
+- gccommon
 usedFor:
-- "[[16988 Quality control]]"
+- "[[Quality control]]"
 ---
-# Quality assessment

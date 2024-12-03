@@ -1,13 +1,10 @@
 ---
 title: Buyers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Buyers
+longTitle: 'Buyers'
+tags:
+- gccommon
 relatedTerm:
-- "[[16974 Purchasing]]"
-- "[[4094 Consumers]]"
+- "[[Purchasing Consumers]]"
 use:
-- "[[16966 Purchasers]]"
+- "[[Purchasers]]"
 ---
-# Buyers

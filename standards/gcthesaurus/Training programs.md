@@ -1,10 +1,8 @@
 ---
 title: Training programs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Training programs
+longTitle: 'Training programs'
+tags:
+- gccommon
 usedFor:
-- "[[20488 Training]]"
+- "[[Training]]"
 ---
-# Training programs

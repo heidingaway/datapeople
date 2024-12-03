@@ -1,10 +1,8 @@
 ---
 title: Bail
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bail
+longTitle: 'Bail'
+tags:
+- gccommon
 french:
-- "[[12237 Lease]]"
+- "[[Lease]]"
 ---
-# Bail

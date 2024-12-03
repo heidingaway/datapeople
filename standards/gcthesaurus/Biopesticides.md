@@ -1,10 +1,8 @@
 ---
 title: Biopesticides
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Biopesticides
+longTitle: 'Biopesticides'
+tags:
+- gccommon
 usedFor:
-- "[[15617 Pesticides]]"
+- "[[Pesticides]]"
 ---
-# Biopesticides

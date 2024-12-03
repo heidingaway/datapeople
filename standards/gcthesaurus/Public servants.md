@@ -1,10 +1,8 @@
 ---
 title: Public servants
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public servants
+longTitle: 'Public servants'
+tags:
+- gccommon
 usedFor:
-- "[[16899 Public service]]"
+- "[[Public service]]"
 ---
-# Public servants

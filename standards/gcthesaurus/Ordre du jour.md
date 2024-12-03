@@ -1,10 +1,8 @@
 ---
 title: Ordre du jour
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ordre du jour
+longTitle: 'Ordre du jour'
+tags:
+- gccommon
 french:
-- "[[378 Agenda]]"
+- "[[Agenda]]"
 ---
-# Ordre du jour

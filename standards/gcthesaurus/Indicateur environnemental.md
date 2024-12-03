@@ -1,10 +1,8 @@
 ---
 title: Indicateur environnemental
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indicateur environnemental
+longTitle: 'Indicateur environnemental'
+tags:
+- gccommon
 french:
-- "[[6903 Environmental indicators]]"
+- "[[Environmental indicators]]"
 ---
-# Indicateur environnemental

@@ -1,10 +1,8 @@
 ---
 title: Saisie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Saisie
+longTitle: 'Saisie'
+tags:
+- gccommon
 french:
-- "[[18486 Seizure (of property)]]"
+- "[[Seizure of property]]"
 ---
-# Saisie

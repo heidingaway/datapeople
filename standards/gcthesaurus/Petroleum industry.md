@@ -1,22 +1,12 @@
 ---
 title: Petroleum industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Petroleum industry
+longTitle: 'Petroleum industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16345 Primary industry]]"
+- "[[Primary industry]]"
 relatedTerm:
-- "[[15650 Petroleum]]"
-- "[[14966 Offshore drilling]]"
-- "[[14991 Oil sands]]"
-- "[[8746 Gasoline]]"
-- "[[15808 Pipelines]]"
+- "[[Petroleum Offshore drilling Oil sands Gasoline Pip]]"
 use:
-- "[[14980 Oil refining]]"
-- "[[15666 Petroleum refining]]"
-- "[[19691 Tar sands industry]]"
-- "[[14993 Oil sands industry]]"
-- "[[14972 Oil industry]]"
+- "[[Oil refining Petroleum refining Tar sands industry]]"
 ---
-# Petroleum industry

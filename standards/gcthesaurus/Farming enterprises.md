@@ -1,10 +1,8 @@
 ---
 title: Farming enterprises
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Farming enterprises
+longTitle: 'Farming enterprises'
+tags:
+- gccommon
 usedFor:
-- "[[7494 Farms]]"
+- "[[Farms]]"
 ---
-# Farming enterprises

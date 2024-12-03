@@ -1,10 +1,8 @@
 ---
 title: Political life
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Political life
+longTitle: 'Political life'
+tags:
+- gccommon
 usedFor:
-- "[[16004 Politics]]"
+- "[[Politics]]"
 ---
-# Political life

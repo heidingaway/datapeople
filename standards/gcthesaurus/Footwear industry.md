@@ -1,10 +1,8 @@
 ---
 title: Footwear industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Footwear industry
+longTitle: 'Footwear industry'
+tags:
+- gccommon
 usedFor:
-- "[[18704 Shoe industry]]"
+- "[[Shoe industry]]"
 ---
-# Footwear industry

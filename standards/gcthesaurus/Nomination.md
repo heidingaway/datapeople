@@ -1,10 +1,8 @@
 ---
 title: Nomination
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nomination
+longTitle: 'Nomination'
+tags:
+- gccommon
 french:
-- "[[1220 Appointments]]"
+- "[[Appointments]]"
 ---
-# Nomination

@@ -1,16 +1,12 @@
 ---
 title: Chemistry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Chemistry
+longTitle: 'Chemistry'
+tags:
+- gccommon
 broaderTerm:
-- "[[8878 Geochemistry]]"
-- "[[2101 Biochemistry]]"
+- "[[Geochemistry Biochemistry]]"
 narrowerTerm:
-- "[[15765 Physical sciences]]"
+- "[[Physical sciences]]"
 relatedTerm:
-- "[[3028 Chemical industry]]"
-- "[[3057 Chemicals]]"
+- "[[Chemical industry Chemicals]]"
 ---
-# Chemistry

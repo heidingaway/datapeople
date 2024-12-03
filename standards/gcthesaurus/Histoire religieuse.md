@@ -1,10 +1,8 @@
 ---
 title: Histoire religieuse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Histoire religieuse
+longTitle: 'Histoire religieuse'
+tags:
+- gccommon
 french:
-- "[[17510 Religious history]]"
+- "[[Religious history]]"
 ---
-# Histoire religieuse

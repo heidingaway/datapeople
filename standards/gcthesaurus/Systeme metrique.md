@@ -1,10 +1,8 @@
 ---
 title: Systeme metrique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Système métrique
+longTitle: 'Système métrique'
+tags:
+- gccommon
 french:
-- "[[13503 Metric system]]"
+- "[[Metric system]]"
 ---
-# Systeme metrique

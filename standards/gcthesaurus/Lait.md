@@ -1,10 +1,8 @@
 ---
 title: Lait
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Lait
+longTitle: 'Lait'
+tags:
+- gccommon
 french:
-- "[[13693 Milk]]"
+- "[[Milk]]"
 ---
-# Lait

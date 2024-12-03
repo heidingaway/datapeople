@@ -1,15 +1,12 @@
 ---
 title: National symbols
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: National symbols
+longTitle: 'National symbols'
+tags:
+- gccommon
 broaderTerm:
-- "[[14170 National anthems]]"
+- "[[National anthems]]"
 narrowerTerm:
-- "[[19659 Symbols]]"
+- "[[Symbols]]"
 relatedTerm:
-- "[[8021 Flags]]"
-- "[[14250 Nationalism]]"
+- "[[Flags Nationalism]]"
 ---
-# National symbols

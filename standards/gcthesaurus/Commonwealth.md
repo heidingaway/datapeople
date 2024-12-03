@@ -1,12 +1,10 @@
 ---
 title: Commonwealth
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Commonwealth
+longTitle: 'Commonwealth'
+tags:
+- gccommon
 broaderTerm:
-- "[[11411 International organizations]]"
+- "[[International organizations]]"
 french:
-- "[[3649 Commonwealth]]"
+- "[[Commonwealth]]"
 ---
-# Commonwealth

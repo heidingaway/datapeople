@@ -1,10 +1,8 @@
 ---
 title: Consumer credit
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Consumer credit
+longTitle: 'Consumer credit'
+tags:
+- gccommon
 usedFor:
-- "[[4423 Credit]]"
+- "[[Credit]]"
 ---
-# Consumer credit

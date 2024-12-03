@@ -1,10 +1,8 @@
 ---
 title: Homeopathie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Homéopathie
+longTitle: 'Homéopathie'
+tags:
+- gccommon
 french:
-- "[[10048 Homeopathy]]"
+- "[[Homeopathy]]"
 ---
-# Homeopathie

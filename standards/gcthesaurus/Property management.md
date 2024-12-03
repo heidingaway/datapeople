@@ -1,14 +1,12 @@
 ---
 title: Property management
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Property management
+longTitle: 'Property management'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12767 Management]]"
+- "[[Management]]"
 relatedTerm:
-- "[[16621 Property]]"
+- "[[Property]]"
 use:
-- "[[1560 Assets management]]"
+- "[[Assets management]]"
 ---
-# Property management

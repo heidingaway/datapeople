@@ -1,10 +1,8 @@
 ---
 title: Relations avec les medias
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Relations avec les médias
+longTitle: 'Relations avec les médias'
+tags:
+- gccommon
 french:
-- "[[13207 Media relations]]"
+- "[[Media relations]]"
 ---
-# Relations avec les medias

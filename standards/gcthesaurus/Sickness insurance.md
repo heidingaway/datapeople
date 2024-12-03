@@ -1,10 +1,8 @@
 ---
 title: Sickness insurance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sickness insurance
+longTitle: 'Sickness insurance'
+tags:
+- gccommon
 usedFor:
-- "[[9710 Health insurance]]"
+- "[[Health insurance]]"
 ---
-# Sickness insurance

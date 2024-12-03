@@ -1,10 +1,8 @@
 ---
 title: Zoologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Zoologie
+longTitle: 'Zoologie'
+tags:
+- gccommon
 french:
-- "[[22132 Zoology]]"
+- "[[Zoology]]"
 ---
-# Zoologie

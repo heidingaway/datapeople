@@ -1,10 +1,8 @@
 ---
 title: Guns
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Guns
+longTitle: 'Guns'
+tags:
+- gccommon
 usedFor:
-- "[[7804 Firearms]]"
+- "[[Firearms]]"
 ---
-# Guns

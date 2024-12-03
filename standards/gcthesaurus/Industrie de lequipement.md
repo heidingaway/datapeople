@@ -1,10 +1,8 @@
 ---
 title: Industrie de lequipement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie de l'équipement
+longTitle: 'Industrie de l'équipement'
+tags:
+- gccommon
 french:
-- "[[7094 Equipment industry]]"
+- "[[Equipment industry]]"
 ---
-# Industrie de lequipement

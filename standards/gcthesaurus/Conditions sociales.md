@@ -1,10 +1,8 @@
 ---
 title: Conditions sociales
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Conditions sociales
+longTitle: 'Conditions sociales'
+tags:
+- gccommon
 french:
-- "[[18878 Social conditions]]"
+- "[[Social conditions]]"
 ---
-# Conditions sociales

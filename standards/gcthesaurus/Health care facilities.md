@@ -1,20 +1,10 @@
 ---
 title: Health care facilities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Health care facilities
+longTitle: 'Health care facilities'
+tags:
+- gccommon
 relatedTerm:
-- "[[9599 Health care]]"
-- "[[9666 Health care system]]"
+- "[[Health care Health care system]]"
 use:
-- "[[3361 Clinics]]"
-- "[[12650 Long term care facilities]]"
-- "[[13224 Medical centers]]"
-- "[[13242 Medical facilities]]"
-- "[[9630 Health care institutions]]"
-- "[[13226 Medical centres]]"
-- "[[10089 Hospitals]]"
-- "[[14688 Nursing homes]]"
+- "[[Clinics Long term care facilities Medical centers ]]"
 ---
-# Health care facilities

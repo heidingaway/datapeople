@@ -1,16 +1,14 @@
 ---
 title: Visual disabilities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Visual disabilities
+longTitle: 'Visual disabilities'
+tags:
+- gccommon
 broaderTerm:
-- "[[2297 Blindness]]"
+- "[[Blindness]]"
 narrowerTerm:
-- "[[5305 Disabilities]]"
+- "[[Disabilities]]"
 relatedTerm:
-- "[[2392 Braille]]"
+- "[[Braille]]"
 use:
-- "[[21119 Visual impairments]]"
+- "[[Visual impairments]]"
 ---
-# Visual disabilities

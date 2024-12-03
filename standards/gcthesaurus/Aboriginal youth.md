@@ -1,10 +1,8 @@
 ---
 title: Aboriginal youth
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aboriginal youth
+longTitle: 'Aboriginal youth'
+tags:
+- gccommon
 usedFor:
-- "[[10718 Indigenous youth]]"
+- "[[Indigenous youth]]"
 ---
-# Aboriginal youth

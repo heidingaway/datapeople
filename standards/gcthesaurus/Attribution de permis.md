@@ -1,10 +1,8 @@
 ---
 title: Attribution de permis
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Attribution de permis
+longTitle: 'Attribution de permis'
+tags:
+- gccommon
 french:
-- "[[12401 Licensing]]"
+- "[[Licensing]]"
 ---
-# Attribution de permis

@@ -1,10 +1,8 @@
 ---
 title: Arms limitation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Arms limitation
+longTitle: 'Arms limitation'
+tags:
+- gccommon
 usedFor:
-- "[[1444 Arms control]]"
+- "[[Arms control]]"
 ---
-# Arms limitation

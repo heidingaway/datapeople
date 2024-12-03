@@ -1,10 +1,8 @@
 ---
 title: Occupational mobility
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Occupational mobility
+longTitle: 'Occupational mobility'
+tags:
+- gccommon
 usedFor:
-- "[[11917 Labour mobility]]"
+- "[[Labour mobility]]"
 ---
-# Occupational mobility

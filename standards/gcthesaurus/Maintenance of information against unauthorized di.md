@@ -1,10 +1,8 @@
 ---
 title: Maintenance of information against unauthorized di
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maintenance of information against unauthorized disclosure.
+longTitle: 'Maintenance of information against unauthorized disclosure.'
+tags:
+- gccommon
 scopeNote:
-- "[[3921 Confidentiality]]"
+- "[[Confidentiality]]"
 ---
-# Maintenance of information against unauthorized di

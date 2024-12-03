@@ -1,10 +1,8 @@
 ---
 title: Trade law
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Trade law
+longTitle: 'Trade law'
+tags:
+- gccommon
 usedFor:
-- "[[3581 Commercial law]]"
+- "[[Commercial law]]"
 ---
-# Trade law

@@ -1,10 +1,8 @@
 ---
 title: Formation linguistique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Formation linguistique
+longTitle: 'Formation linguistique'
+tags:
+- gccommon
 french:
-- "[[12113 Language training]]"
+- "[[Language training]]"
 ---
-# Formation linguistique

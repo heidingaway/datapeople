@@ -1,10 +1,8 @@
 ---
 title: Nomination judiciaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nomination judiciaire
+longTitle: 'Nomination judiciaire'
+tags:
+- gccommon
 french:
-- "[[11703 Judicial appointments]]"
+- "[[Judicial appointments]]"
 ---
-# Nomination judiciaire

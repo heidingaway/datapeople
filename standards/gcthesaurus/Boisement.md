@@ -1,10 +1,8 @@
 ---
 title: Boisement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Boisement
+longTitle: 'Boisement'
+tags:
+- gccommon
 french:
-- "[[365 Afforestation]]"
+- "[[Afforestation]]"
 ---
-# Boisement

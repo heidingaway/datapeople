@@ -1,10 +1,8 @@
 ---
 title: Diabetes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Diabetes
+longTitle: 'Diabetes'
+tags:
+- gccommon
 narrowerTerm:
-- "[[3204 Chronic diseases]]"
+- "[[Chronic diseases]]"
 ---
-# Diabetes

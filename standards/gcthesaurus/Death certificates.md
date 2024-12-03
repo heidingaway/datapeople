@@ -1,10 +1,8 @@
 ---
 title: Death certificates
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Death certificates
+longTitle: 'Death certificates'
+tags:
+- gccommon
 relatedTerm:
-- "[[4943 Death]]"
+- "[[Death]]"
 ---
-# Death certificates

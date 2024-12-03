@@ -1,10 +1,8 @@
 ---
 title: Biocides
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Biocides
+longTitle: 'Biocides'
+tags:
+- gccommon
 usedFor:
-- "[[15616 Pesticides]]"
+- "[[Pesticides]]"
 ---
-# Biocides

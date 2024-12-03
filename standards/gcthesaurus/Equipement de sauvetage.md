@@ -1,10 +1,8 @@
 ---
 title: Equipement de sauvetage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Équipement de sauvetage
+longTitle: 'Équipement de sauvetage'
+tags:
+- gccommon
 french:
-- "[[17635 Rescue equipment]]"
+- "[[Rescue equipment]]"
 ---
-# Equipement de sauvetage

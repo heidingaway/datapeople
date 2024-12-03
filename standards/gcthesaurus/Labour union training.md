@@ -1,14 +1,12 @@
 ---
 title: Labour union training
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Labour union training
+longTitle: 'Labour union training'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20490 Training]]"
+- "[[Training]]"
 relatedTerm:
-- "[[11970 Labour unions]]"
+- "[[Labour unions]]"
 use:
-- "[[11824 Labor union training]]"
+- "[[Labor union training]]"
 ---
-# Labour union training

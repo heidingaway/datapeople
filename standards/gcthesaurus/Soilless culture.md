@@ -1,10 +1,8 @@
 ---
 title: Soilless culture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Soilless culture
+longTitle: 'Soilless culture'
+tags:
+- gccommon
 usedFor:
-- "[[10405 Hydroponics]]"
+- "[[Hydroponics]]"
 ---
-# Soilless culture

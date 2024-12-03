@@ -1,10 +1,8 @@
 ---
 title: Animal pests
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Animal pests
+longTitle: 'Animal pests'
+tags:
+- gccommon
 usedFor:
-- "[[15633 Pests]]"
+- "[[Pests]]"
 ---
-# Animal pests

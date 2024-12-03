@@ -1,10 +1,8 @@
 ---
 title: Diet
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Diet
+longTitle: 'Diet'
+tags:
+- gccommon
 usedFor:
-- "[[14698 Nutrition]]"
+- "[[Nutrition]]"
 ---
-# Diet

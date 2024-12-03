@@ -1,10 +1,8 @@
 ---
 title: Monument
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Monument
+longTitle: 'Monument'
+tags:
+- gccommon
 french:
-- "[[13900 Monuments]]"
+- "[[Monuments]]"
 ---
-# Monument

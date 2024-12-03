@@ -1,12 +1,10 @@
 ---
 title: Childhood diseases
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Childhood diseases
+longTitle: 'Childhood diseases'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5392 Diseases]]"
+- "[[Diseases]]"
 relatedTerm:
-- "[[3187 Children's health]]"
+- "[[Childrens health]]"
 ---
-# Childhood diseases

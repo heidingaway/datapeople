@@ -1,10 +1,8 @@
 ---
 title: Tire a part
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tiré à part
+longTitle: 'Tiré à part'
+tags:
+- gccommon
 french:
-- "[[14951 Offprints]]"
+- "[[Offprints]]"
 ---
-# Tire a part

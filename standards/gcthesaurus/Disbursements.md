@@ -1,10 +1,8 @@
 ---
 title: Disbursements
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Disbursements
+longTitle: 'Disbursements'
+tags:
+- gccommon
 broaderTerm:
-- "[[7259 Expenditures]]"
+- "[[Expenditures]]"
 ---
-# Disbursements

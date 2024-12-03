@@ -1,10 +1,8 @@
 ---
 title: Exploration spatiale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Exploration spatiale
+longTitle: 'Exploration spatiale'
+tags:
+- gccommon
 french:
-- "[[19161 Space exploration]]"
+- "[[Space exploration]]"
 ---
-# Exploration spatiale

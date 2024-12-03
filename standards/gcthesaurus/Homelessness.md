@@ -1,16 +1,12 @@
 ---
 title: Homelessness
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Homelessness
+longTitle: 'Homelessness'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18959 Social problems]]"
+- "[[Social problems]]"
 relatedTerm:
-- "[[5325 Disadvantaged persons]]"
-- "[[16170 Poverty]]"
-- "[[10142 Housing]]"
+- "[[Disadvantaged persons Poverty Housing]]"
 use:
-- "[[10038 Homeless]]"
+- "[[Homeless]]"
 ---
-# Homelessness

@@ -1,15 +1,10 @@
 ---
 title: Production
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Production
+longTitle: 'Production'
+tags:
+- gccommon
 french:
-- "[[16479 Production]]"
+- "[[Production]]"
 relatedTerm:
-- "[[19566 Supply]]"
-- "[[16506 Products]]"
-- "[[16489 Productivity]]"
-- "[[12858 Manufacturing industry]]"
+- "[[Supply Products Productivity Manufacturing industr]]"
 ---
-# Production

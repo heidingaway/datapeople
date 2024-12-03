@@ -1,10 +1,8 @@
 ---
 title: Morse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Morse
+longTitle: 'Morse'
+tags:
+- gccommon
 french:
-- "[[21235 Walruses]]"
+- "[[Walruses]]"
 ---
-# Morse

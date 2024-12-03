@@ -1,10 +1,8 @@
 ---
 title: Inshore waters
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Inshore waters
+longTitle: 'Inshore waters'
+tags:
+- gccommon
 usedFor:
-- "[[3417 Coastal waters]]"
+- "[[Coastal waters]]"
 ---
-# Inshore waters

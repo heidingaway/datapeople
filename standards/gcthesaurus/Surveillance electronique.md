@@ -1,10 +1,8 @@
 ---
 title: Surveillance electronique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Surveillance électronique
+longTitle: 'Surveillance électronique'
+tags:
+- gccommon
 french:
-- "[[6359 Electronic monitoring]]"
+- "[[Electronic monitoring]]"
 ---
-# Surveillance electronique

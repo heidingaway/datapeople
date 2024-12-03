@@ -1,10 +1,8 @@
 ---
 title: Gestion du materiel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gestion du matériel
+longTitle: 'Gestion du matériel'
+tags:
+- gccommon
 french:
-- "[[13141 Material management]]"
+- "[[Material management]]"
 ---
-# Gestion du materiel

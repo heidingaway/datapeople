@@ -1,10 +1,8 @@
 ---
 title: Public funding
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public funding
+longTitle: 'Public funding'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8633 Funding]]"
+- "[[Funding]]"
 ---
-# Public funding

@@ -1,10 +1,8 @@
 ---
 title: Fregate
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Frégate
+longTitle: 'Frégate'
+tags:
+- gccommon
 french:
-- "[[8550 Frigates]]"
+- "[[Frigates]]"
 ---
-# Fregate

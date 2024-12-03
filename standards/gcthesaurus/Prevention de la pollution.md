@@ -1,10 +1,8 @@
 ---
 title: Prevention de la pollution
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prévention de la pollution
+longTitle: 'Prévention de la pollution'
+tags:
+- gccommon
 french:
-- "[[16053 Pollution prevention]]"
+- "[[Pollution prevention]]"
 ---
-# Prevention de la pollution

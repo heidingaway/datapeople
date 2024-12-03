@@ -1,12 +1,10 @@
 ---
 title: Gardens
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gardens
+longTitle: 'Gardens'
+tags:
+- gccommon
 broaderTerm:
-- "[[2369 Botanical gardens]]"
+- "[[Botanical gardens]]"
 relatedTerm:
-- "[[8715 Gardening]]"
+- "[[Gardening]]"
 ---
-# Gardens

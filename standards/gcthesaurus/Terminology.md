@@ -1,15 +1,10 @@
 ---
 title: Terminology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Terminology
+longTitle: 'Terminology'
+tags:
+- gccommon
 relatedTerm:
-- "[[12141 Languages]]"
-- "[[20170 Thesauri]]"
-- "[[5221 Dictionaries]]"
-- "[[23 Abbreviations]]"
+- "[[Languages Thesauri Dictionaries Abbreviations]]"
 use:
-- "[[21142 Vocabulary]]"
+- "[[Vocabulary]]"
 ---
-# Terminology

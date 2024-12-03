@@ -1,10 +1,8 @@
 ---
 title: Ethical values
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ethical values
+longTitle: 'Ethical values'
+tags:
+- gccommon
 usedFor:
-- "[[7149 Ethics]]"
+- "[[Ethics]]"
 ---
-# Ethical values

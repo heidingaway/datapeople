@@ -1,13 +1,10 @@
 ---
 title: Banking
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Banking
+longTitle: 'Banking'
+tags:
+- gccommon
 relatedTerm:
-- "[[1865 Banks]]"
+- "[[Banks]]"
 use:
-- "[[1727 Automatic bank tellers]]"
-- "[[1851 Banking services]]"
+- "[[Automatic bank tellers Banking services]]"
 ---
-# Banking

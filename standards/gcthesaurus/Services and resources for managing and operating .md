@@ -1,10 +1,8 @@
 ---
-title: "Services and resources for managing and operating "
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Services and resources for managing and operating an enterprise.
+title: Services and resources for managing and operating 
+longTitle: 'Services and resources for managing and operating an enterprise.'
+tags:
+- gccommon
 scopeNote:
-- "[[2560 Business services]]"
+- "[[Business services]]"
 ---
-# Services and resources for managing and operating

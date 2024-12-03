@@ -1,26 +1,14 @@
 ---
 title: Libraries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Libraries
+longTitle: 'Libraries'
+tags:
+- gccommon
 broaderTerm:
-- "[[19206 Special libraries]]"
-- "[[5247 Digital libraries]]"
-- "[[14220 National libraries]]"
-- "[[16841 Public libraries]]"
-- "[[9203 Government libraries]]"
+- "[[Special libraries Digital libraries National libra]]"
 narrowerTerm:
-- "[[4680 Cultural institutions]]"
+- "[[Cultural institutions]]"
 relatedTerm:
-- "[[2855 Cataloguing]]"
-- "[[11309 Interlibrary loans]]"
-- "[[2005 Bibliographic data interchange]]"
-- "[[17401 Reference services]]"
+- "[[Cataloguing Interlibrary loans Bibliographic data ]]"
 use:
-- "[[5486 Documentation centres]]"
-- "[[5488 Documentation services]]"
-- "[[12393 Library collections]]"
-- "[[5484 Documentation centers]]"
+- "[[Documentation centres Documentation services Libra]]"
 ---
-# Libraries

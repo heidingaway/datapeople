@@ -1,17 +1,12 @@
 ---
 title: Snow
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Snow
+longTitle: 'Snow'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16211 Precipitation]]"
+- "[[Precipitation]]"
 relatedTerm:
-- "[[10438 Ice caps]]"
-- "[[1778 Avalanches]]"
-- "[[10431 Ice]]"
-- "[[9069 Glaciers]]"
+- "[[Ice caps Avalanches Ice Glaciers]]"
 use:
-- "[[18856 Snowfall]]"
+- "[[Snowfall]]"
 ---
-# Snow

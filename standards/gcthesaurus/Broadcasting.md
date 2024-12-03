@@ -1,18 +1,10 @@
 ---
 title: Broadcasting
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Broadcasting
+longTitle: 'Broadcasting'
+tags:
+- gccommon
 relatedTerm:
-- "[[2654 Cable television]]"
-- "[[19988 Television]]"
-- "[[17075 Radio]]"
-- "[[19220 Spectrum management]]"
-- "[[2433 Broadcasting industry]]"
+- "[[Cable television Television Radio Spectrum managem]]"
 use:
-- "[[16784 Public broadcasting]]"
-- "[[17080 Radio broadcasting]]"
-- "[[19993 Television broadcasting]]"
+- "[[Public broadcasting Radio broadcasting Television ]]"
 ---
-# Broadcasting

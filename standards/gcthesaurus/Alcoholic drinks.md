@@ -1,10 +1,8 @@
 ---
 title: Alcoholic drinks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Alcoholic drinks
+longTitle: 'Alcoholic drinks'
+tags:
+- gccommon
 usedFor:
-- "[[836 Alcoholic beverages]]"
+- "[[Alcoholic beverages]]"
 ---
-# Alcoholic drinks

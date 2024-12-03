@@ -1,10 +1,8 @@
 ---
 title: Recours
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Recours
+longTitle: 'Recours'
+tags:
+- gccommon
 french:
-- "[[17307 Recourse]]"
+- "[[Recourse]]"
 ---
-# Recours

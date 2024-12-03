@@ -1,10 +1,8 @@
 ---
 title: Equipement audiovisuel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Équipement audiovisuel
+longTitle: 'Équipement audiovisuel'
+tags:
+- gccommon
 french:
-- "[[1696 Audiovisual equipment]]"
+- "[[Audiovisual equipment]]"
 ---
-# Equipement audiovisuel

@@ -1,10 +1,8 @@
 ---
 title: Protection des tarifs douaniers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Protection des tarifs douaniers
+longTitle: 'Protection des tarifs douaniers'
+tags:
+- gccommon
 french:
-- "[[19696 Tariff protection]]"
+- "[[Tariff protection]]"
 ---
-# Protection des tarifs douaniers

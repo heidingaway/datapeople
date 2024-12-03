@@ -1,10 +1,8 @@
 ---
 title: Addictive drugs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Addictive drugs
+longTitle: 'Addictive drugs'
+tags:
+- gccommon
 usedFor:
-- "[[14155 Narcotics]]"
+- "[[Narcotics]]"
 ---
-# Addictive drugs

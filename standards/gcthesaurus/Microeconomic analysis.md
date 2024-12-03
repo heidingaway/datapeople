@@ -1,10 +1,8 @@
 ---
 title: Microeconomic analysis
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Microeconomic analysis
+longTitle: 'Microeconomic analysis'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5829 Economic analysis]]"
+- "[[Economic analysis]]"
 ---
-# Microeconomic analysis

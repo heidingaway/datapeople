@@ -1,10 +1,8 @@
 ---
 title: Droit de la famille
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Droit de la famille
+longTitle: 'Droit de la famille'
+tags:
+- gccommon
 french:
-- "[[7379 Family law]]"
+- "[[Family law]]"
 ---
-# Droit de la famille

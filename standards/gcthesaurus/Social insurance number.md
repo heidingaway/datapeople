@@ -1,10 +1,8 @@
 ---
 title: Social insurance number
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Social insurance number
+longTitle: 'Social insurance number'
+tags:
+- gccommon
 relatedTerm:
-- "[[18999 Social security]]"
+- "[[Social security]]"
 ---
-# Social insurance number

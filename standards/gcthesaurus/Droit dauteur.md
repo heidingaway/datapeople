@@ -1,10 +1,8 @@
 ---
 title: Droit dauteur
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Droit d'auteur
+longTitle: 'Droit d'auteur'
+tags:
+- gccommon
 french:
-- "[[4212 Copyright]]"
+- "[[Copyright]]"
 ---
-# Droit dauteur

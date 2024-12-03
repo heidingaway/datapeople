@@ -1,11 +1,8 @@
 ---
 title: Customer services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Customer services
+longTitle: 'Customer services'
+tags:
+- gccommon
 relatedTerm:
-- "[[3328 Clients]]"
-- "[[3322 Client satisfaction]]"
+- "[[Clients Client satisfaction]]"
 ---
-# Customer services

@@ -1,10 +1,8 @@
 ---
 title: Edifice municipal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Édifice municipal
+longTitle: 'Édifice municipal'
+tags:
+- gccommon
 french:
-- "[[14063 Municipal buildings]]"
+- "[[Municipal buildings]]"
 ---
-# Edifice municipal

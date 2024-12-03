@@ -1,10 +1,8 @@
 ---
 title: Parc
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Parc
+longTitle: 'Parc'
+tags:
+- gccommon
 french:
-- "[[15278 Parks]]"
+- "[[Parks]]"
 ---
-# Parc

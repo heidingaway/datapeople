@@ -1,14 +1,10 @@
 ---
 title: Parents
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Parents
+longTitle: 'Parents'
+tags:
+- gccommon
 broaderTerm:
-- "[[272 Adoptive parents]]"
+- "[[Adoptive parents]]"
 relatedTerm:
-- "[[7352 Family]]"
-- "[[3173 Children]]"
-- "[[15261 Parenting]]"
+- "[[Family Children Parenting]]"
 ---
-# Parents

@@ -1,12 +1,10 @@
 ---
 title: Juvenile court
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Juvenile court
+longTitle: 'Juvenile court'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4393 Courts]]"
+- "[[Courts]]"
 relatedTerm:
-- "[[22114 Young offenders]]"
+- "[[Young offenders]]"
 ---
-# Juvenile court

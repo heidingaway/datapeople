@@ -1,10 +1,8 @@
 ---
 title: Etudes nordiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Études nordiques
+longTitle: 'Études nordiques'
+tags:
+- gccommon
 french:
-- "[[14590 Northern studies]]"
+- "[[Northern studies]]"
 ---
-# Etudes nordiques

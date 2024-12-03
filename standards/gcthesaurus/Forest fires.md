@@ -1,13 +1,10 @@
 ---
 title: Forest fires
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forest fires
+longTitle: 'Forest fires'
+tags:
+- gccommon
 narrowerTerm:
-- "[[7786 Fire]]"
+- "[[Fire]]"
 relatedTerm:
-- "[[14286 Natural disasters]]"
-- "[[8417 Forests]]"
+- "[[Natural disasters Forests]]"
 ---
-# Forest fires

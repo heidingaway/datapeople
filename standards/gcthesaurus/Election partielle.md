@@ -1,10 +1,8 @@
 ---
 title: Election partielle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Élection partielle
+longTitle: 'Élection partielle'
+tags:
+- gccommon
 french:
-- "[[2624 By-elections]]"
+- "[[By-elections]]"
 ---
-# Election partielle

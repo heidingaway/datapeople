@@ -1,10 +1,8 @@
 ---
 title: MIS
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: MIS
+longTitle: 'MIS'
+tags:
+- gccommon
 usedFor:
-- "[[12788 Management information systems]]"
+- "[[Management information systems]]"
 ---
-# MIS

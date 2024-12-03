@@ -1,12 +1,10 @@
 ---
 title: Government priorities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Government priorities
+longTitle: 'Government priorities'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9256 Governments]]"
+- "[[Governments]]"
 relatedTerm:
-- "[[7548 Federal government]]"
+- "[[Federal government]]"
 ---
-# Government priorities

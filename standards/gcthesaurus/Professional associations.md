@@ -1,12 +1,10 @@
 ---
 title: Professional associations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Professional associations
+longTitle: 'Professional associations'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1606 Associations]]"
+- "[[Associations]]"
 relatedTerm:
-- "[[14817 Occupations]]"
+- "[[Occupations]]"
 ---
-# Professional associations

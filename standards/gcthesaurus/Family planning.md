@@ -1,16 +1,12 @@
 ---
 title: Family planning
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Family planning
+longTitle: 'Family planning'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15840 Planning]]"
+- "[[Planning]]"
 relatedTerm:
-- "[[16221 Pregnancy]]"
-- "[[2253 Birth]]"
-- "[[2268 Birth rate]]"
+- "[[Pregnancy Birth Birth rate]]"
 use:
-- "[[2264 Birth control]]"
+- "[[Birth control]]"
 ---
-# Family planning

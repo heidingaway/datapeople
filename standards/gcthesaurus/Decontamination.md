@@ -1,10 +1,8 @@
 ---
 title: Decontamination
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Décontamination
+longTitle: 'Décontamination'
+tags:
+- gccommon
 french:
-- "[[5000 Decontamination]]"
+- "[[Decontamination]]"
 ---
-# Decontamination

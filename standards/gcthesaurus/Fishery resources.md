@@ -1,10 +1,8 @@
 ---
 title: Fishery resources
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fishery resources
+longTitle: 'Fishery resources'
+tags:
+- gccommon
 usedFor:
-- "[[7940 Fisheries resources]]"
+- "[[Fisheries resources]]"
 ---
-# Fishery resources

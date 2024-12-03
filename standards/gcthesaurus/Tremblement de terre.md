@@ -1,10 +1,8 @@
 ---
 title: Tremblement de terre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tremblement de terre
+longTitle: 'Tremblement de terre'
+tags:
+- gccommon
 french:
-- "[[5784 Earthquakes]]"
+- "[[Earthquakes]]"
 ---
-# Tremblement de terre

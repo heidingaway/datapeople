@@ -1,12 +1,10 @@
 ---
 title: Airport authorities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Airport authorities
+longTitle: 'Airport authorities'
+tags:
+- gccommon
 relatedTerm:
-- "[[803 Airports]]"
+- "[[Airports]]"
 use:
-- "[[788 Airport administrations]]"
+- "[[Airport administrations]]"
 ---
-# Airport authorities

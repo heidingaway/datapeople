@@ -1,10 +1,8 @@
 ---
 title: Mesure de securite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mesure de sécurité
+longTitle: 'Mesure de sécurité'
+tags:
+- gccommon
 french:
-- "[[18036 Safety measures]]"
+- "[[Safety measures]]"
 ---
-# Mesure de securite

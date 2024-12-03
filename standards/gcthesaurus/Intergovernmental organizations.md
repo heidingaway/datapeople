@@ -1,10 +1,8 @@
 ---
 title: Intergovernmental organizations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Intergovernmental organizations
+longTitle: 'Intergovernmental organizations'
+tags:
+- gccommon
 relatedTerm:
-- "[[11412 International organizations]]"
+- "[[International organizations]]"
 ---
-# Intergovernmental organizations

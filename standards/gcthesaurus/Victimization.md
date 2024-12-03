@@ -1,10 +1,8 @@
 ---
 title: Victimization
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Victimization
+longTitle: 'Victimization'
+tags:
+- gccommon
 usedFor:
-- "[[20986 Victims]]"
+- "[[Victims]]"
 ---
-# Victimization

@@ -1,10 +1,8 @@
 ---
 title: Observatories
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Observatories
+longTitle: 'Observatories'
+tags:
+- gccommon
 usedFor:
-- "[[1625 Astronomical observatories]]"
+- "[[Astronomical observatories]]"
 ---
-# Observatories

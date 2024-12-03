@@ -1,10 +1,8 @@
 ---
 title: Genealogie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Généalogie
+longTitle: 'Généalogie'
+tags:
+- gccommon
 french:
-- "[[8815 Genealogy]]"
+- "[[Genealogy]]"
 ---
-# Genealogie

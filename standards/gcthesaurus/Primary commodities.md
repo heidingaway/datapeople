@@ -1,10 +1,8 @@
 ---
 title: Primary commodities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Primary commodities
+longTitle: 'Primary commodities'
+tags:
+- gccommon
 usedFor:
-- "[[3625 Commodities]]"
+- "[[Commodities]]"
 ---
-# Primary commodities

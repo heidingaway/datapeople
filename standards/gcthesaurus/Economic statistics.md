@@ -1,13 +1,10 @@
 ---
 title: Economic statistics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Economic statistics
+longTitle: 'Economic statistics'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19349 Statistics]]"
+- "[[Statistics]]"
 relatedTerm:
-- "[[5837 Economic analysis]]"
-- "[[5911 Economic indicators]]"
+- "[[Economic analysis Economic indicators]]"
 ---
-# Economic statistics

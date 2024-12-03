@@ -1,10 +1,8 @@
 ---
 title: Beacons
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Beacons
+longTitle: 'Beacons'
+tags:
+- gccommon
 usedFor:
-- "[[12450 Lighthouses]]"
+- "[[Lighthouses]]"
 ---
-# Beacons

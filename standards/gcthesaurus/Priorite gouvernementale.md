@@ -1,10 +1,8 @@
 ---
 title: Priorite gouvernementale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Priorité gouvernementale
+longTitle: 'Priorité gouvernementale'
+tags:
+- gccommon
 french:
-- "[[9225 Government priorities]]"
+- "[[Government priorities]]"
 ---
-# Priorite gouvernementale

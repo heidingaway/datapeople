@@ -1,16 +1,12 @@
 ---
 title: Language groups
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Language groups
+longTitle: 'Language groups'
+tags:
+- gccommon
 broaderTerm:
-- "[[12089 Language minorities]]"
+- "[[Language minorities]]"
 relatedTerm:
-- "[[4651 Cultural groups]]"
-- "[[12136 Languages]]"
+- "[[Cultural groups Languages]]"
 use:
-- "[[12473 Linguistic groups]]"
-- "[[12457 Linguistic communities]]"
+- "[[Linguistic groups Linguistic communities]]"
 ---
-# Language groups

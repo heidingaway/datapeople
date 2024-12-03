@@ -1,16 +1,12 @@
 ---
 title: Vegetables
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vegetables
+longTitle: 'Vegetables'
+tags:
+- gccommon
 broaderTerm:
-- "[[12362 Lettuce]]"
-- "[[2809 Carrots]]"
-- "[[16150 Potatoes]]"
+- "[[Lettuce Carrots Potatoes]]"
 narrowerTerm:
-- "[[449 Agri-food products]]"
+- "[[Agri-food products]]"
 relatedTerm:
-- "[[20895 Vegetable crops]]"
+- "[[Vegetable crops]]"
 ---
-# Vegetables

@@ -1,10 +1,8 @@
 ---
 title: Maladie respiratoire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maladie respiratoire
+longTitle: 'Maladie respiratoire'
+tags:
+- gccommon
 french:
-- "[[17743 Respiratory diseases]]"
+- "[[Respiratory diseases]]"
 ---
-# Maladie respiratoire

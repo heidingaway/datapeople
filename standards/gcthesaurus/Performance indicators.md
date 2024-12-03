@@ -1,12 +1,10 @@
 ---
 title: Performance indicators
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Performance indicators
+longTitle: 'Performance indicators'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10623 Indicators]]"
+- "[[Indicators]]"
 relatedTerm:
-- "[[16488 Productivity]]"
+- "[[Productivity]]"
 ---
-# Performance indicators

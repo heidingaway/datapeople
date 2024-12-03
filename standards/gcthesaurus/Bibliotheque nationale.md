@@ -1,10 +1,8 @@
 ---
 title: Bibliotheque nationale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bibliothèque nationale
+longTitle: 'Bibliothèque nationale'
+tags:
+- gccommon
 french:
-- "[[14218 National libraries]]"
+- "[[National libraries]]"
 ---
-# Bibliotheque nationale

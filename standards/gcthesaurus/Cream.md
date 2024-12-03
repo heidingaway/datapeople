@@ -1,10 +1,8 @@
 ---
 title: Cream
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cream
+longTitle: 'Cream'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4819 Dairy products]]"
+- "[[Dairy products]]"
 ---
-# Cream

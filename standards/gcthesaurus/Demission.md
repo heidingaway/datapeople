@@ -1,10 +1,8 @@
 ---
 title: Demission
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Démission
+longTitle: 'Démission'
+tags:
+- gccommon
 french:
-- "[[17704 Resignation]]"
+- "[[Resignation]]"
 ---
-# Demission

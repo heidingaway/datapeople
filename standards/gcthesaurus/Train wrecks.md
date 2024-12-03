@@ -1,10 +1,8 @@
 ---
 title: Train wrecks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Train wrecks
+longTitle: 'Train wrecks'
+tags:
+- gccommon
 usedFor:
-- "[[17163 Railway accidents]]"
+- "[[Railway accidents]]"
 ---
-# Train wrecks

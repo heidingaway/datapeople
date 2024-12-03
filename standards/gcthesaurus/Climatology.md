@@ -1,10 +1,8 @@
 ---
 title: Climatology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Climatology
+longTitle: 'Climatology'
+tags:
+- gccommon
 usedFor:
-- "[[3333 Climate]]"
+- "[[Climate]]"
 ---
-# Climatology

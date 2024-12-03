@@ -1,10 +1,8 @@
 ---
 title: Childcare
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Childcare
+longTitle: 'Childcare'
+tags:
+- gccommon
 usedFor:
-- "[[3103 Child care]]"
+- "[[Child care]]"
 ---
-# Childcare

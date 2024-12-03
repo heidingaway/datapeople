@@ -1,10 +1,8 @@
 ---
 title: Services consulaires
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Services consulaires
+longTitle: 'Services consulaires'
+tags:
+- gccommon
 french:
-- "[[4039 Consular services]]"
+- "[[Consular services]]"
 ---
-# Services consulaires

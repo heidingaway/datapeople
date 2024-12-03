@@ -1,10 +1,8 @@
 ---
 title: Cellule souche
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cellule souche
+longTitle: 'Cellule souche'
+tags:
+- gccommon
 french:
-- "[[19384 Stem cells]]"
+- "[[Stem cells]]"
 ---
-# Cellule souche

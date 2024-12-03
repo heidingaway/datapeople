@@ -1,10 +1,8 @@
 ---
 title: Personne bispirituelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Personne bispirituelle
+longTitle: 'Personne bispirituelle'
+tags:
+- gccommon
 french:
-- "[[20744 Two-spirit people]]"
+- "[[Two-spirit people]]"
 ---
-# Personne bispirituelle

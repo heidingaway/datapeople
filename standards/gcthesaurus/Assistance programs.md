@@ -1,10 +1,8 @@
 ---
 title: Assistance programs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Assistance programs
+longTitle: 'Assistance programs'
+tags:
+- gccommon
 usedFor:
-- "[[587 Aid programs]]"
+- "[[Aid programs]]"
 ---
-# Assistance programs

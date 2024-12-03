@@ -1,12 +1,10 @@
 ---
 title: Contravention
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Contravention
+longTitle: 'Contravention'
+tags:
+- gccommon
 french:
-- "[[4143 Contravention]]"
+- "[[Contravention]]"
 relatedTerm:
-- "[[14883 Offences]]"
+- "[[Offences]]"
 ---
-# Contravention

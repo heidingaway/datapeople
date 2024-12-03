@@ -1,17 +1,12 @@
 ---
 title: Wildlife
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wildlife
+longTitle: 'Wildlife'
+tags:
+- gccommon
 broaderTerm:
-- "[[1310 Aquatic wildlife]]"
+- "[[Aquatic wildlife]]"
 relatedTerm:
-- "[[21760 Wildlife management]]"
-- "[[1128 Animals]]"
+- "[[Wildlife management Animals]]"
 use:
-- "[[7503 Fauna]]"
-- "[[21739 Wild fauna]]"
-- "[[21737 Wild animals]]"
+- "[[Fauna Wild fauna Wild animals]]"
 ---
-# Wildlife

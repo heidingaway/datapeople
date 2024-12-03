@@ -1,10 +1,8 @@
 ---
 title: Manpower
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Manpower
+longTitle: 'Manpower'
+tags:
+- gccommon
 usedFor:
-- "[[11873 Labour force]]"
+- "[[Labour force]]"
 ---
-# Manpower

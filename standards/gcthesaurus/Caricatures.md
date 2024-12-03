@@ -1,10 +1,8 @@
 ---
 title: Caricatures
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Caricatures
+longTitle: 'Caricatures'
+tags:
+- gccommon
 usedFor:
-- "[[10297 Humour]]"
+- "[[Humour]]"
 ---
-# Caricatures

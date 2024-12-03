@@ -1,14 +1,10 @@
 ---
 title: Forestry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forestry
+longTitle: 'Forestry'
+tags:
+- gccommon
 relatedTerm:
-- "[[8324 Forest management]]"
-- "[[8375 Forestry industry]]"
-- "[[8419 Forests]]"
+- "[[Forest management Forestry industry Forests]]"
 use:
-- "[[19653 Sylviculture]]"
+- "[[Sylviculture]]"
 ---
-# Forestry

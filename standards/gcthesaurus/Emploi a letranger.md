@@ -1,10 +1,8 @@
 ---
 title: Emploi a letranger
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Emploi à l'étranger
+longTitle: 'Emploi à l'étranger'
+tags:
+- gccommon
 french:
-- "[[6510 Employment abroad]]"
+- "[[Employment abroad]]"
 ---
-# Emploi a letranger

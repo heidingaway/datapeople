@@ -1,10 +1,8 @@
 ---
 title: Multimedia products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Multimedia products
+longTitle: 'Multimedia products'
+tags:
+- gccommon
 usedFor:
-- "[[14033 Multimedia]]"
+- "[[Multimedia]]"
 ---
-# Multimedia products

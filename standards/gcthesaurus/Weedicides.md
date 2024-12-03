@@ -1,10 +1,8 @@
 ---
 title: Weedicides
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Weedicides
+longTitle: 'Weedicides'
+tags:
+- gccommon
 usedFor:
-- "[[9861 Herbicides]]"
+- "[[Herbicides]]"
 ---
-# Weedicides

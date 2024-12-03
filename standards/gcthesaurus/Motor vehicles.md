@@ -1,25 +1,14 @@
 ---
 title: Motor vehicles
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Motor vehicles
+longTitle: 'Motor vehicles'
+tags:
+- gccommon
 broaderTerm:
-- "[[6229 Electric vehicles]]"
-- "[[20720 Trucks]]"
-- "[[2493 Buses]]"
-- "[[1765 Automobiles]]"
+- "[[Electric vehicles Trucks Buses Automobiles]]"
 narrowerTerm:
-- "[[20917 Vehicles]]"
+- "[[Vehicles]]"
 relatedTerm:
-- "[[15276 Parking]]"
-- "[[5601 Driving]]"
-- "[[17917 Road transport]]"
-- "[[8026 Fleet management]]"
+- "[[Parking Driving Road transport Fleet management]]"
 use:
-- "[[13965 Motor vehicle fleets]]"
-- "[[20908 Vehicle fleets]]"
-- "[[1773 Automotive vehicles]]"
-- "[[17881 Road motor vehicles]]"
+- "[[Motor vehicle fleets Vehicle fleets Automotive veh]]"
 ---
-# Motor vehicles

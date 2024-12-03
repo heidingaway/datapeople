@@ -1,10 +1,8 @@
 ---
 title: Allegement tarifaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Allègement tarifaire
+longTitle: 'Allègement tarifaire'
+tags:
+- gccommon
 french:
-- "[[19700 Tariff relief]]"
+- "[[Tariff relief]]"
 ---
-# Allegement tarifaire

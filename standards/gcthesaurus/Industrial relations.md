@@ -1,10 +1,8 @@
 ---
 title: Industrial relations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrial relations
+longTitle: 'Industrial relations'
+tags:
+- gccommon
 usedFor:
-- "[[11936 Labour relations]]"
+- "[[Labour relations]]"
 ---
-# Industrial relations

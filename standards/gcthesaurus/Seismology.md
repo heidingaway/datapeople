@@ -1,12 +1,10 @@
 ---
 title: Seismology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Seismology
+longTitle: 'Seismology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9017 Geophysics]]"
+- "[[Geophysics]]"
 relatedTerm:
-- "[[5788 Earthquakes]]"
+- "[[Earthquakes]]"
 ---
-# Seismology

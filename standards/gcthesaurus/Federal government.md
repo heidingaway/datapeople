@@ -1,33 +1,14 @@
 ---
 title: Federal government
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Federal government
+longTitle: 'Federal government'
+tags:
+- gccommon
 broaderTerm:
-- "[[20680 Treasury Board Secretariat]]"
-- "[[17389 Red tape burdens]]"
-- "[[19501 Submissions]]"
+- "[[Treasury Board Secretariat Red tape burdens Submis]]"
 narrowerTerm:
-- "[[9254 Governments]]"
+- "[[Governments]]"
 relatedTerm:
-- "[[14184 National Capital]]"
-- "[[9196 Government leader]]"
-- "[[19542 Supplementary estimates]]"
-- "[[9227 Government priorities]]"
-- "[[7521 Federal departments]]"
-- "[[9215 Government plans]]"
-- "[[7516 Federal contracts]]"
-- "[[7592 Federal provincial relations]]"
-- "[[7574 Federal programs]]"
-- "[[7612 Federal territorial agreements]]"
-- "[[16102 Portfolio]]"
-- "[[7619 Federal territorial relations]]"
-- "[[7567 Federal institutions]]"
-- "[[7579 Federal provincial agreements]]"
+- "[[National Capital Government leader Supplementary e]]"
 use:
-- "[[7508 Federal administration]]"
-- "[[2938 Central government]]"
-- "[[7626 Federalism]]"
+- "[[Federal administration Central government Federali]]"
 ---
-# Federal government

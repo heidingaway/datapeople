@@ -1,10 +1,8 @@
 ---
 title: Racial minorities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Racial minorities
+longTitle: 'Racial minorities'
+tags:
+- gccommon
 usedFor:
-- "[[7169 Ethnic minorities]]"
+- "[[Ethnic minorities]]"
 ---
-# Racial minorities

@@ -1,10 +1,8 @@
 ---
 title: Bovins laitiers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bovins laitiers
+longTitle: 'Bovins laitiers'
+tags:
+- gccommon
 french:
-- "[[4799 Dairy cattle]]"
+- "[[Dairy cattle]]"
 ---
-# Bovins laitiers

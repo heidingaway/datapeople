@@ -1,10 +1,8 @@
 ---
 title: Sea ice
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sea ice
+longTitle: 'Sea ice'
+tags:
+- gccommon
 usedFor:
-- "[[10425 Ice]]"
+- "[[Ice]]"
 ---
-# Sea ice

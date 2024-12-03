@@ -1,10 +1,8 @@
 ---
 title: Recourse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Recourse
+longTitle: 'Recourse'
+tags:
+- gccommon
 relatedTerm:
-- "[[1198 Appeals]]"
+- "[[Appeals]]"
 ---
-# Recourse

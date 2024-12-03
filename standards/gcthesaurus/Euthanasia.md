@@ -1,16 +1,10 @@
 ---
 title: Euthanasia
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Euthanasia
+longTitle: 'Euthanasia'
+tags:
+- gccommon
 relatedTerm:
-- "[[2140 Bioethics]]"
-- "[[10058 Homicide]]"
-- "[[4945 Death]]"
+- "[[Bioethics Homicide Death]]"
 use:
-- "[[19530 Suicide assistance]]"
-- "[[1586 Assisted suicide]]"
-- "[[13420 Mercy killing]]"
+- "[[Suicide assistance Assisted suicide Mercy killing]]"
 ---
-# Euthanasia

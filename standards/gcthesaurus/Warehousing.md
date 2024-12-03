@@ -1,10 +1,8 @@
 ---
 title: Warehousing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Warehousing
+longTitle: 'Warehousing'
+tags:
+- gccommon
 usedFor:
-- "[[19410 Storage]]"
+- "[[Storage]]"
 ---
-# Warehousing

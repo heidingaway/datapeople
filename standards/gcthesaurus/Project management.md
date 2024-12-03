@@ -1,10 +1,8 @@
 ---
 title: Project management
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Project management
+longTitle: 'Project management'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12766 Management]]"
+- "[[Management]]"
 ---
-# Project management

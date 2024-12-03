@@ -1,10 +1,8 @@
 ---
 title: Scanning
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Scanning
+longTitle: 'Scanning'
+tags:
+- gccommon
 usedFor:
-- "[[5264 Digitization]]"
+- "[[Digitization]]"
 ---
-# Scanning

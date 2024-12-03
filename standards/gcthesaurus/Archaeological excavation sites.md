@@ -1,10 +1,8 @@
 ---
 title: Archaeological excavation sites
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Archaeological excavation sites
+longTitle: 'Archaeological excavation sites'
+tags:
+- gccommon
 usedFor:
-- "[[1336 Archaeological investigations]]"
+- "[[Archaeological investigations]]"
 ---
-# Archaeological excavation sites

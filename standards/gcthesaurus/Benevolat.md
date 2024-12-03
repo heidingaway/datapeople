@@ -1,10 +1,8 @@
 ---
 title: Benevolat
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bénévolat
+longTitle: 'Bénévolat'
+tags:
+- gccommon
 french:
-- "[[21212 Volunteer work]]"
+- "[[Volunteer work]]"
 ---
-# Benevolat

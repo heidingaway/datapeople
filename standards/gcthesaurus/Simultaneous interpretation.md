@@ -1,10 +1,8 @@
 ---
 title: Simultaneous interpretation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Simultaneous interpretation
+longTitle: 'Simultaneous interpretation'
+tags:
+- gccommon
 usedFor:
-- "[[11492 Interpretation]]"
+- "[[Interpretation]]"
 ---
-# Simultaneous interpretation

@@ -1,10 +1,8 @@
 ---
 title: Conditions de travail
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Conditions de travail
+longTitle: 'Conditions de travail'
+tags:
+- gccommon
 french:
-- "[[21945 Working conditions]]"
+- "[[Working conditions]]"
 ---
-# Conditions de travail

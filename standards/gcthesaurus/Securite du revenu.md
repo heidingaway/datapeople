@@ -1,10 +1,8 @@
 ---
 title: Securite du revenu
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sécurité du revenu
+longTitle: 'Sécurité du revenu'
+tags:
+- gccommon
 french:
-- "[[10570 Income security]]"
+- "[[Income security]]"
 ---
-# Securite du revenu

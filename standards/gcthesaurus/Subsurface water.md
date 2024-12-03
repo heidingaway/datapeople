@@ -1,10 +1,8 @@
 ---
 title: Subsurface water
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Subsurface water
+longTitle: 'Subsurface water'
+tags:
+- gccommon
 usedFor:
-- "[[9397 Groundwater]]"
+- "[[Groundwater]]"
 ---
-# Subsurface water

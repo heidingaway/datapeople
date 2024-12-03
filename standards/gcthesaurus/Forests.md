@@ -1,28 +1,14 @@
 ---
 title: Forests
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forests
+longTitle: 'Forests'
+tags:
+- gccommon
 broaderTerm:
-- "[[13823 Model forests]]"
+- "[[Model forests]]"
 narrowerTerm:
-- "[[17558 Renewable resources]]"
+- "[[Renewable resources]]"
 relatedTerm:
-- "[[8393 Forestry products]]"
-- "[[21842 Wood]]"
-- "[[8306 Forest fires]]"
-- "[[20694 Trees]]"
-- "[[8328 Forest management]]"
-- "[[8352 Forestry]]"
-- "[[8385 Forestry policy]]"
-- "[[8378 Forestry industry]]"
+- "[[Forestry products Wood Forest fires Trees Forest m]]"
 use:
-- "[[15018 Old growth forests]]"
-- "[[8338 Forest resources]]"
-- "[[8346 Forestlands]]"
-- "[[8296 Forest areas]]"
-- "[[8311 Forest lands]]"
-- "[[21860 Woodlands]]"
+- "[[Old growth forests Forest resources Forestlands Fo]]"
 ---
-# Forests

@@ -1,15 +1,12 @@
 ---
 title: Religion
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Religion
+longTitle: 'Religion'
+tags:
+- gccommon
 french:
-- "[[17489 Religion]]"
+- "[[Religion]]"
 relatedTerm:
-- "[[17500 Religious buildings]]"
-- "[[17512 Religious history]]"
+- "[[Religious buildings Religious history]]"
 use:
-- "[[17516 Religious life]]"
+- "[[Religious life]]"
 ---
-# Religion

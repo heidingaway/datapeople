@@ -1,13 +1,10 @@
 ---
 title: Young adults
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Young adults
+longTitle: 'Young adults'
+tags:
+- gccommon
 narrowerTerm:
-- "[[288 Adults]]"
+- "[[Adults]]"
 relatedTerm:
-- "[[22121 Youth]]"
-- "[[283 Adulthood]]"
+- "[[Youth Adulthood]]"
 ---
-# Young adults

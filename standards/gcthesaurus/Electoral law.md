@@ -1,10 +1,8 @@
 ---
 title: Electoral law
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electoral law
+longTitle: 'Electoral law'
+tags:
+- gccommon
 usedFor:
-- "[[6186 Electoral system]]"
+- "[[Electoral system]]"
 ---
-# Electoral law

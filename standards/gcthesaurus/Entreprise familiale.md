@@ -1,10 +1,8 @@
 ---
 title: Entreprise familiale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Entreprise familiale
+longTitle: 'Entreprise familiale'
+tags:
+- gccommon
 french:
-- "[[7361 Family businesses]]"
+- "[[Family businesses]]"
 ---
-# Entreprise familiale

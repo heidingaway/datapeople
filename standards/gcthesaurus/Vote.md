@@ -1,10 +1,8 @@
 ---
 title: Vote
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vote
+longTitle: 'Vote'
+tags:
+- gccommon
 usedFor:
-- "[[6159 Elections]]"
+- "[[Elections]]"
 ---
-# Vote

@@ -1,10 +1,8 @@
 ---
 title: Forage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forage
+longTitle: 'Forage'
+tags:
+- gccommon
 french:
-- "[[5569 Drilling]]"
+- "[[Drilling]]"
 ---
-# Forage

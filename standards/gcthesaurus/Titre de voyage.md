@@ -1,10 +1,8 @@
 ---
 title: Titre de voyage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Titre de voyage
+longTitle: 'Titre de voyage'
+tags:
+- gccommon
 french:
-- "[[20667 Travel documents]]"
+- "[[Travel documents]]"
 ---
-# Titre de voyage

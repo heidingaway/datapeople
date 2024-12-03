@@ -1,10 +1,8 @@
 ---
 title: Documentation centers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Documentation centers
+longTitle: 'Documentation centers'
+tags:
+- gccommon
 usedFor:
-- "[[12378 Libraries]]"
+- "[[Libraries]]"
 ---
-# Documentation centers

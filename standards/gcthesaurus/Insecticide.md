@@ -1,10 +1,8 @@
 ---
 title: Insecticide
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Insecticide
+longTitle: 'Insecticide'
+tags:
+- gccommon
 french:
-- "[[11143 Insecticides]]"
+- "[[Insecticides]]"
 ---
-# Insecticide

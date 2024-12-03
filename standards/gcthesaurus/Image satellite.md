@@ -1,10 +1,8 @@
 ---
 title: Image satellite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Image satellite
+longTitle: 'Image satellite'
+tags:
+- gccommon
 french:
-- "[[18156 Satellite images]]"
+- "[[Satellite images]]"
 ---
-# Image satellite

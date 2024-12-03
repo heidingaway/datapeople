@@ -1,16 +1,10 @@
 ---
 title: Economic forecasting
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Economic forecasting
+longTitle: 'Economic forecasting'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8209 Forecasting]]"
+- "[[Forecasting]]"
 relatedTerm:
-- "[[202 Actuarial science]]"
-- "[[5848 Economic conditions]]"
-- "[[5832 Economic analysis]]"
-- "[[5876 Economic development]]"
-- "[[5969 Economic trends]]"
+- "[[Actuarial science Economic conditions Economic ana]]"
 ---
-# Economic forecasting

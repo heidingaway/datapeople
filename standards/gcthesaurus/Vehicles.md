@@ -1,16 +1,10 @@
 ---
 title: Vehicles
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vehicles
+longTitle: 'Vehicles'
+tags:
+- gccommon
 broaderTerm:
-- "[[13973 Motor vehicles]]"
-- "[[10153 Hovercraft]]"
-- "[[20521 Trains]]"
-- "[[20940 Vessels]]"
-- "[[712 Aircraft]]"
+- "[[Motor vehicles Hovercraft Trains Vessels Aircraft]]"
 relatedTerm:
-- "[[20619 Transport]]"
+- "[[Transport]]"
 ---
-# Vehicles

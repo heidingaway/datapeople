@@ -1,10 +1,8 @@
 ---
 title: Industrie textile
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie textile
+longTitle: 'Industrie textile'
+tags:
+- gccommon
 french:
-- "[[20125 Textile industry]]"
+- "[[Textile industry]]"
 ---
-# Industrie textile

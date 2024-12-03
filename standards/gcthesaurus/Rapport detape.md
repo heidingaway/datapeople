@@ -1,10 +1,8 @@
 ---
 title: Rapport detape
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rapport d'étape
+longTitle: 'Rapport d'étape'
+tags:
+- gccommon
 french:
-- "[[16583 Progress reports]]"
+- "[[Progress reports]]"
 ---
-# Rapport detape

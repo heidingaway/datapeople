@@ -1,10 +1,8 @@
 ---
 title: Pharmacare plan
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pharmacare plan
+longTitle: 'Pharmacare plan'
+tags:
+- gccommon
 usedFor:
-- "[[5648 Drug insurance]]"
+- "[[Drug insurance]]"
 ---
-# Pharmacare plan

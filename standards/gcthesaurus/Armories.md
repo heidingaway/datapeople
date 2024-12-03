@@ -1,10 +1,8 @@
 ---
 title: Armories
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Armories
+longTitle: 'Armories'
+tags:
+- gccommon
 usedFor:
-- "[[1435 Armouries]]"
+- "[[Armouries]]"
 ---
-# Armories

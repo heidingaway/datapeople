@@ -1,13 +1,10 @@
 ---
 title: Architectural drawings
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Architectural drawings
+longTitle: 'Architectural drawings'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5563 Drawings]]"
+- "[[Drawings]]"
 relatedTerm:
-- "[[1373 Architecture]]"
-- "[[1364 Architectural services]]"
+- "[[Architecture Architectural services]]"
 ---
-# Architectural drawings

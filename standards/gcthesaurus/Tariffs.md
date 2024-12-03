@@ -1,15 +1,10 @@
 ---
 title: Tariffs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tariffs
+longTitle: 'Tariffs'
+tags:
+- gccommon
 relatedTerm:
-- "[[19697 Tariff protection]]"
-- "[[4763 Customs and excise]]"
-- "[[19694 Tariff barriers]]"
-- "[[19701 Tariff relief]]"
+- "[[Tariff protection Customs and excise Tariff barrie]]"
 use:
-- "[[4765 Customs tariffs]]"
+- "[[Customs tariffs]]"
 ---
-# Tariffs

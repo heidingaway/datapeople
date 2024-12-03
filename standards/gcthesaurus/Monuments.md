@@ -1,15 +1,12 @@
 ---
 title: Monuments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Monuments
+longTitle: 'Monuments'
+tags:
+- gccommon
 broaderTerm:
-- "[[21272 War memorials]]"
+- "[[War memorials]]"
 relatedTerm:
-- "[[9951 Historic sites]]"
+- "[[Historic sites]]"
 use:
-- "[[9942 Historic monuments]]"
-- "[[13385 Memorials]]"
+- "[[Historic monuments Memorials]]"
 ---
-# Monuments

@@ -1,12 +1,10 @@
 ---
 title: Canadian literature
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Canadian literature
+longTitle: 'Canadian literature'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12513 Literature]]"
+- "[[Literature]]"
 relatedTerm:
-- "[[2709 Canadian studies]]"
+- "[[Canadian studies]]"
 ---
-# Canadian literature

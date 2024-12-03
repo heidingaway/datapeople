@@ -1,12 +1,10 @@
 ---
 title: Sailboats
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sailboats
+longTitle: 'Sailboats'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15883 Pleasure craft]]"
+- "[[Pleasure craft]]"
 relatedTerm:
-- "[[18696 Ships]]"
+- "[[Ships]]"
 ---
-# Sailboats

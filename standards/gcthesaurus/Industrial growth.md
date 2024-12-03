@@ -1,10 +1,8 @@
 ---
 title: Industrial growth
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrial growth
+longTitle: 'Industrial growth'
+tags:
+- gccommon
 usedFor:
-- "[[10748 Industrial development]]"
+- "[[Industrial development]]"
 ---
-# Industrial growth

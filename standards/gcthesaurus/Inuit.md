@@ -1,21 +1,16 @@
 ---
 title: Inuit
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Inuit
+longTitle: 'Inuit'
+tags:
+- gccommon
 broaderTerm:
-- "[[11552 Inuvialuit]]"
+- "[[Inuvialuit]]"
 french:
-- "[[11533 Inuit]]"
+- "[[Inuit]]"
 narrowerTerm:
-- "[[10680 Indigenous peoples]]"
+- "[[Indigenous peoples]]"
 relatedTerm:
-- "[[14599 Northerners]]"
+- "[[Northerners]]"
 use:
-- "[[11548 Inuk]]"
-- "[[11546 Inuit population]]"
-- "[[11544 Inuit people]]"
-- "[[7111 Eskimos]]"
+- "[[Inuk Inuit population Inuit people Eskimos]]"
 ---
-# Inuit

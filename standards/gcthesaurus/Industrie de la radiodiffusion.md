@@ -1,10 +1,8 @@
 ---
 title: Industrie de la radiodiffusion
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie de la radiodiffusion
+longTitle: 'Industrie de la radiodiffusion'
+tags:
+- gccommon
 french:
-- "[[2430 Broadcasting industry]]"
+- "[[Broadcasting industry]]"
 ---
-# Industrie de la radiodiffusion

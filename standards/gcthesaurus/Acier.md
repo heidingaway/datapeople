@@ -1,10 +1,8 @@
 ---
 title: Acier
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Acier
+longTitle: 'Acier'
+tags:
+- gccommon
 french:
-- "[[19381 Steel]]"
+- "[[Steel]]"
 ---
-# Acier

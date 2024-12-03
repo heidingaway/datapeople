@@ -1,10 +1,8 @@
 ---
 title: Wheel chairs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wheel chairs
+longTitle: 'Wheel chairs'
+tags:
+- gccommon
 usedFor:
-- "[[21707 Wheelchairs]]"
+- "[[Wheelchairs]]"
 ---
-# Wheel chairs

@@ -1,10 +1,8 @@
 ---
 title: Renseignements personnels
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Renseignements personnels
+longTitle: 'Renseignements personnels'
+tags:
+- gccommon
 french:
-- "[[15554 Personal information]]"
+- "[[Personal information]]"
 ---
-# Renseignements personnels

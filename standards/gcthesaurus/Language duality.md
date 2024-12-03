@@ -1,10 +1,8 @@
 ---
 title: Language duality
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Language duality
+longTitle: 'Language duality'
+tags:
+- gccommon
 usedFor:
-- "[[12467 Linguistic duality]]"
+- "[[Linguistic duality]]"
 ---
-# Language duality

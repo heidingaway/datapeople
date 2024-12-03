@@ -1,10 +1,8 @@
 ---
 title: Vie sociale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vie sociale
+longTitle: 'Vie sociale'
+tags:
+- gccommon
 french:
-- "[[18931 Social life]]"
+- "[[Social life]]"
 ---
-# Vie sociale

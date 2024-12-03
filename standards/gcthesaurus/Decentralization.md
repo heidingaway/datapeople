@@ -1,12 +1,10 @@
 ---
 title: Decentralization
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Decentralization
+longTitle: 'Decentralization'
+tags:
+- gccommon
 relatedTerm:
-- "[[2944 Centralization]]"
+- "[[Centralization]]"
 use:
-- "[[17445 Regionalisation]]"
+- "[[Regionalisation]]"
 ---
-# Decentralization

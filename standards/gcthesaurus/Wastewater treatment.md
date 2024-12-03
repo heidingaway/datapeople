@@ -1,10 +1,8 @@
 ---
 title: Wastewater treatment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wastewater treatment
+longTitle: 'Wastewater treatment'
+tags:
+- gccommon
 usedFor:
-- "[[21431 Water management]]"
+- "[[Water management]]"
 ---
-# Wastewater treatment

@@ -1,10 +1,8 @@
 ---
 title: Working relationships
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Working relationships
+longTitle: 'Working relationships'
+tags:
+- gccommon
 usedFor:
-- "[[11942 Labour relations]]"
+- "[[Labour relations]]"
 ---
-# Working relationships

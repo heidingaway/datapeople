@@ -1,10 +1,8 @@
 ---
 title: Federal publications
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Federal publications
+longTitle: 'Federal publications'
+tags:
+- gccommon
 usedFor:
-- "[[9231 Government publications]]"
+- "[[Government publications]]"
 ---
-# Federal publications

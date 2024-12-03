@@ -1,10 +1,8 @@
 ---
 title: Relations communautaires
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Relations communautaires
+longTitle: 'Relations communautaires'
+tags:
+- gccommon
 french:
-- "[[3727 Community relations]]"
+- "[[Community relations]]"
 ---
-# Relations communautaires

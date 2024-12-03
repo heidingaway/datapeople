@@ -1,10 +1,8 @@
 ---
 title: Malignant tumours
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Malignant tumours
+longTitle: 'Malignant tumours'
+tags:
+- gccommon
 usedFor:
-- "[[2718 Cancer]]"
+- "[[Cancer]]"
 ---
-# Malignant tumours

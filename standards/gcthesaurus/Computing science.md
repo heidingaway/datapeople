@@ -1,10 +1,8 @@
 ---
 title: Computing science
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Computing science
+longTitle: 'Computing science'
+tags:
+- gccommon
 usedFor:
-- "[[3839 Computer science]]"
+- "[[Computer science]]"
 ---
-# Computing science

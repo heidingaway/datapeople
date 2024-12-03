@@ -1,10 +1,8 @@
 ---
 title: Informatics security
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Informatics security
+longTitle: 'Informatics security'
+tags:
+- gccommon
 usedFor:
-- "[[3851 Computer security]]"
+- "[[Computer security]]"
 ---
-# Informatics security

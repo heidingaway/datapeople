@@ -1,10 +1,8 @@
 ---
 title: Includes seed grain and edible grains like cereals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Includes seed grain and edible grains like cereals and pulses.
+longTitle: 'Includes seed grain and edible grains like cereals and pulses.'
+tags:
+- gccommon
 scopeNote:
-- "[[9290 Grains]]"
+- "[[Grains]]"
 ---
-# Includes seed grain and edible grains like cereals

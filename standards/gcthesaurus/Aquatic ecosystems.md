@@ -1,16 +1,12 @@
 ---
 title: Aquatic ecosystems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aquatic ecosystems
+longTitle: 'Aquatic ecosystems'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5992 Ecosystems]]"
+- "[[Ecosystems]]"
 relatedTerm:
-- "[[1303 Aquatic plants]]"
-- "[[1312 Aquatic wildlife]]"
+- "[[Aquatic plants Aquatic wildlife]]"
 use:
-- "[[12940 Marine ecosystems]]"
-- "[[8542 Freshwater ecosystems]]"
+- "[[Marine ecosystems Freshwater ecosystems]]"
 ---
-# Aquatic ecosystems

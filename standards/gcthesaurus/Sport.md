@@ -1,10 +1,8 @@
 ---
 title: Sport
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sport
+longTitle: 'Sport'
+tags:
+- gccommon
 french:
-- "[[19238 Sports]]"
+- "[[Sports]]"
 ---
-# Sport

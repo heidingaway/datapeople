@@ -1,10 +1,8 @@
 ---
 title: Dechets electroniques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Déchets électroniques
+longTitle: 'Déchets électroniques'
+tags:
+- gccommon
 french:
-- "[[6379 Electronic waste]]"
+- "[[Electronic waste]]"
 ---
-# Dechets electroniques

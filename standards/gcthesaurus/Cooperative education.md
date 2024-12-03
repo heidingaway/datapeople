@@ -1,13 +1,10 @@
 ---
 title: Cooperative education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cooperative education
+longTitle: 'Cooperative education'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6027 Education]]"
+- "[[Education]]"
 relatedTerm:
-- "[[11482 Internships]]"
-- "[[4188 Cooperation]]"
+- "[[Internships Cooperation]]"
 ---
-# Cooperative education

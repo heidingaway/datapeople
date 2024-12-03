@@ -1,10 +1,8 @@
 ---
 title: Electoral reform
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electoral reform
+longTitle: 'Electoral reform'
+tags:
+- gccommon
 usedFor:
-- "[[6187 Electoral system]]"
+- "[[Electoral system]]"
 ---
-# Electoral reform

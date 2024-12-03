@@ -1,10 +1,8 @@
 ---
 title: Bovins de boucherie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bovins de boucherie
+longTitle: 'Bovins de boucherie'
+tags:
+- gccommon
 french:
-- "[[1916 Beef cattle]]"
+- "[[Beef cattle]]"
 ---
-# Bovins de boucherie

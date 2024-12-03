@@ -1,10 +1,8 @@
 ---
 title: Aboriginal culture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aboriginal culture
+longTitle: 'Aboriginal culture'
+tags:
+- gccommon
 usedFor:
-- "[[10640 Indigenous culture]]"
+- "[[Indigenous culture]]"
 ---
-# Aboriginal culture

@@ -1,10 +1,8 @@
 ---
 title: Fonctionnement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fonctionnement
+longTitle: 'Fonctionnement'
+tags:
+- gccommon
 french:
-- "[[15052 Operations]]"
+- "[[Operations]]"
 ---
-# Fonctionnement

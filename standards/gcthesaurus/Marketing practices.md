@@ -1,10 +1,8 @@
 ---
 title: Marketing practices
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marketing practices
+longTitle: 'Marketing practices'
+tags:
+- gccommon
 usedFor:
-- "[[13086 Marketing]]"
+- "[[Marketing]]"
 ---
-# Marketing practices

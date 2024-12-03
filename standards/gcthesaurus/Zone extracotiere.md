@@ -1,10 +1,8 @@
 ---
 title: Zone extracotiere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Zone extracôtière
+longTitle: 'Zone extracôtière'
+tags:
+- gccommon
 french:
-- "[[14954 Offshore area]]"
+- "[[Offshore area]]"
 ---
-# Zone extracotiere

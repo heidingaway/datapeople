@@ -1,13 +1,10 @@
 ---
 title: State ceremonial
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: State ceremonial
+longTitle: 'State ceremonial'
+tags:
+- gccommon
 relatedTerm:
-- "[[14171 National anthems]]"
-- "[[16676 Protocol]]"
+- "[[National anthems Protocol]]"
 use:
-- "[[19312 State ceremonies]]"
+- "[[State ceremonies]]"
 ---
-# State ceremonial

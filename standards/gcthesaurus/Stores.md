@@ -1,10 +1,8 @@
 ---
 title: Stores
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Stores
+longTitle: 'Stores'
+tags:
+- gccommon
 usedFor:
-- "[[17774 Retail trade]]"
+- "[[Retail trade]]"
 ---
-# Stores

@@ -1,10 +1,8 @@
 ---
 title: Catalogs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Catalogs
+longTitle: 'Catalogs'
+tags:
+- gccommon
 usedFor:
-- "[[2845 Catalogues]]"
+- "[[Catalogues]]"
 ---
-# Catalogs

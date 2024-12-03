@@ -1,17 +1,12 @@
 ---
 title: Fishing Sport
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fishing (Sport)
+longTitle: 'Fishing (Sport)'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19242 Sports]]"
+- "[[Sports]]"
 relatedTerm:
-- "[[7991 Fishing permits]]"
-- "[[15136 Outdoor recreation]]"
-- "[[15142 Outfitters]]"
+- "[[Fishing permits Outdoor recreation Outfitters]]"
 use:
-- "[[19234 Sport fishing]]"
-- "[[17348 Recreational fishing]]"
+- "[[Sport fishing Recreational fishing]]"
 ---
-# Fishing Sport

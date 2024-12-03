@@ -1,12 +1,10 @@
 ---
 title: Biomedical experiments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Biomedical experiments
+longTitle: 'Biomedical experiments'
+tags:
+- gccommon
 narrowerTerm:
-- "[[7265 Experiments]]"
+- "[[Experiments]]"
 relatedTerm:
-- "[[2137 Bioethics]]"
+- "[[Bioethics]]"
 ---
-# Biomedical experiments

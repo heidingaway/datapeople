@@ -1,10 +1,8 @@
 ---
 title: Bisexuals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bisexuals
+longTitle: 'Bisexuals'
+tags:
+- gccommon
 usedFor:
-- "[[2277 Bisexual people]]"
+- "[[Bisexual people]]"
 ---
-# Bisexuals

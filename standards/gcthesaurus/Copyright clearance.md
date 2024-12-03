@@ -1,11 +1,8 @@
 ---
 title: Copyright clearance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Copyright clearance
+longTitle: 'Copyright clearance'
+tags:
+- gccommon
 relatedTerm:
-- "[[16942 Publishing]]"
-- "[[4214 Copyright]]"
+- "[[Publishing Copyright]]"
 ---
-# Copyright clearance

@@ -1,10 +1,8 @@
 ---
 title: Canal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Canal
+longTitle: 'Canal'
+tags:
+- gccommon
 french:
-- "[[2711 Canals]]"
+- "[[Canals]]"
 ---
-# Canal

@@ -1,10 +1,8 @@
 ---
 title: Traversier
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Traversier
+longTitle: 'Traversier'
+tags:
+- gccommon
 french:
-- "[[7637 Ferries]]"
+- "[[Ferries]]"
 ---
-# Traversier

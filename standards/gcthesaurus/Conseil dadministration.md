@@ -1,10 +1,8 @@
 ---
 title: Conseil dadministration
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Conseil d'administration
+longTitle: 'Conseil d'administration'
+tags:
+- gccommon
 french:
-- "[[2306 Board of directors]]"
+- "[[Board of directors]]"
 ---
-# Conseil dadministration

@@ -1,10 +1,8 @@
 ---
 title: Seabed
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Seabed
+longTitle: 'Seabed'
+tags:
+- gccommon
 usedFor:
-- "[[14843 Ocean floor]]"
+- "[[Ocean floor]]"
 ---
-# Seabed

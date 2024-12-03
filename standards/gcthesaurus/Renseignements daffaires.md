@@ -1,10 +1,8 @@
 ---
 title: Renseignements daffaires
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Renseignements d'affaires
+longTitle: 'Renseignements d'affaires'
+tags:
+- gccommon
 french:
-- "[[2526 Business intelligence]]"
+- "[[Business intelligence]]"
 ---
-# Renseignements daffaires

@@ -1,10 +1,8 @@
 ---
 title: Cultural anthropology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cultural anthropology
+longTitle: 'Cultural anthropology'
+tags:
+- gccommon
 usedFor:
-- "[[7185 Ethnology]]"
+- "[[Ethnology]]"
 ---
-# Cultural anthropology

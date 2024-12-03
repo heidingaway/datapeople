@@ -1,10 +1,8 @@
 ---
 title: Vandalisme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vandalisme
+longTitle: 'Vandalisme'
+tags:
+- gccommon
 french:
-- "[[20888 Vandalism]]"
+- "[[Vandalism]]"
 ---
-# Vandalisme

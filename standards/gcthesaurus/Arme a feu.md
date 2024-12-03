@@ -1,10 +1,8 @@
 ---
 title: Arme a feu
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Arme à feu
+longTitle: 'Arme à feu'
+tags:
+- gccommon
 french:
-- "[[7802 Firearms]]"
+- "[[Firearms]]"
 ---
-# Arme a feu

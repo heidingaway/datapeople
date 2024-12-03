@@ -1,10 +1,8 @@
 ---
 title: Langue autochtone
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Langue autochtone
+longTitle: 'Langue autochtone'
+tags:
+- gccommon
 french:
-- "[[10660 Indigenous languages]]"
+- "[[Indigenous languages]]"
 ---
-# Langue autochtone

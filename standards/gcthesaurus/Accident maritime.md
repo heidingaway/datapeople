@@ -1,10 +1,8 @@
 ---
 title: Accident maritime
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Accident maritime
+longTitle: 'Accident maritime'
+tags:
+- gccommon
 french:
-- "[[12918 Marine accidents]]"
+- "[[Marine accidents]]"
 ---
-# Accident maritime

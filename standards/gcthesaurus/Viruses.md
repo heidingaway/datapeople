@@ -1,15 +1,12 @@
 ---
 title: Viruses
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Viruses
+longTitle: 'Viruses'
+tags:
+- gccommon
 broaderTerm:
-- "[[4260 Coronaviruses]]"
+- "[[Coronaviruses]]"
 narrowerTerm:
-- "[[13561 Microorganisms]]"
+- "[[Microorganisms]]"
 relatedTerm:
-- "[[599 AIDS (disease)]]"
-- "[[10947 Influenza]]"
+- "[[AIDS disease Influenza]]"
 ---
-# Viruses

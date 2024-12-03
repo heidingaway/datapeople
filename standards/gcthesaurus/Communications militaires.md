@@ -1,10 +1,8 @@
 ---
 title: Communications militaires
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Communications militaires
+longTitle: 'Communications militaires'
+tags:
+- gccommon
 french:
-- "[[13627 Military communications]]"
+- "[[Military communications]]"
 ---
-# Communications militaires

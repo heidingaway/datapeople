@@ -1,10 +1,8 @@
 ---
 title: Carte geographique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Carte géographique
+longTitle: 'Carte géographique'
+tags:
+- gccommon
 french:
-- "[[8938 Geographical maps]]"
+- "[[Geographical maps]]"
 ---
-# Carte geographique

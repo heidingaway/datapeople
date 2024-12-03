@@ -1,10 +1,8 @@
 ---
 title: Milieu urbain
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Milieu urbain
+longTitle: 'Milieu urbain'
+tags:
+- gccommon
 french:
-- "[[20821 Urban environment]]"
+- "[[Urban environment]]"
 ---
-# Milieu urbain

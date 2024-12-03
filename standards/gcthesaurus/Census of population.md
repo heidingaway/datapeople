@@ -1,10 +1,8 @@
 ---
 title: Census of population
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Census of population
+longTitle: 'Census of population'
+tags:
+- gccommon
 usedFor:
-- "[[2921 Census]]"
+- "[[Census]]"
 ---
-# Census of population

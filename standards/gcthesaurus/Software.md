@@ -1,15 +1,10 @@
 ---
 title: Software
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Software
+longTitle: 'Software'
+tags:
+- gccommon
 relatedTerm:
-- "[[3834 Computer programming]]"
-- "[[3894 Computers]]"
+- "[[Computer programming Computers]]"
 use:
-- "[[3836 Computer programs]]"
-- "[[3828 Computer programmes]]"
-- "[[3866 Computer software]]"
+- "[[Computer programs Computer programmes Computer sof]]"
 ---
-# Software

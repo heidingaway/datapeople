@@ -1,10 +1,8 @@
 ---
 title: Vehicle fleets
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vehicle fleets
+longTitle: 'Vehicle fleets'
+tags:
+- gccommon
 usedFor:
-- "[[13972 Motor vehicles]]"
+- "[[Motor vehicles]]"
 ---
-# Vehicle fleets

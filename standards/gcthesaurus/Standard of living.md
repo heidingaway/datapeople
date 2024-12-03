@@ -1,15 +1,10 @@
 ---
 title: Standard of living
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Standard of living
+longTitle: 'Standard of living'
+tags:
+- gccommon
 relatedTerm:
-- "[[12447 Lifestyle]]"
-- "[[5856 Economic conditions]]"
-- "[[16999 Quality of life]]"
-- "[[10566 Income]]"
+- "[[Lifestyle Economic conditions Quality of life Inco]]"
 use:
-- "[[4332 Cost of living]]"
+- "[[Cost of living]]"
 ---
-# Standard of living

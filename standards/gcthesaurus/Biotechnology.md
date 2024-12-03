@@ -1,18 +1,14 @@
 ---
 title: Biotechnology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Biotechnology
+longTitle: 'Biotechnology'
+tags:
+- gccommon
 broaderTerm:
-- "[[17605 Reproductive technology]]"
+- "[[Reproductive technology]]"
 narrowerTerm:
-- "[[19864 Technology]]"
+- "[[Technology]]"
 relatedTerm:
-- "[[8828 Genetic engineering]]"
-- "[[2138 Bioethics]]"
+- "[[Genetic engineering Bioethics]]"
 use:
-- "[[2167 Biological engineering]]"
-- "[[2129 Bioengineering]]"
+- "[[Biological engineering Bioengineering]]"
 ---
-# Biotechnology

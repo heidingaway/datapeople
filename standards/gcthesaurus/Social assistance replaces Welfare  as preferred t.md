@@ -1,11 +1,8 @@
 ---
 title: Social assistance replaces Welfare  as preferred t
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: '"Social assistance" replaces "Welfare"  as preferred term in May 2009.'
+longTitle: '"Social assistance" replaces "Welfare"  as preferred term in May 2009.'
+tags:
+- gccommon
 historyNote:
-- "[[21663 Welfare]]"
-- "[[18865 Social assistance]]"
+- "[[Welfare Social assistance]]"
 ---
-# Social assistance replaces Welfare  as preferred t

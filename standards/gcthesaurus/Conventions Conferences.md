@@ -1,10 +1,8 @@
 ---
 title: Conventions Conferences
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Conventions (Conferences)
+longTitle: 'Conventions (Conferences)'
+tags:
+- gccommon
 usedFor:
-- "[[3913 Conferences]]"
+- "[[Conferences]]"
 ---
-# Conventions Conferences

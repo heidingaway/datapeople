@@ -1,10 +1,8 @@
 ---
 title: Monitoring
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Monitoring
+longTitle: 'Monitoring'
+tags:
+- gccommon
 usedFor:
-- "[[4147 Control]]"
+- "[[Control]]"
 ---
-# Monitoring

@@ -1,10 +1,8 @@
 ---
 title: Short supply
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Short supply
+longTitle: 'Short supply'
+tags:
+- gccommon
 usedFor:
-- "[[18714 Shortage]]"
+- "[[Shortage]]"
 ---
-# Short supply

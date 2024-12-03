@@ -1,12 +1,10 @@
 ---
 title: Geochronology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Geochronology
+longTitle: 'Geochronology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5767 Earth sciences]]"
+- "[[Earth sciences]]"
 use:
-- "[[369 Age of rocks]]"
+- "[[Age of rocks]]"
 ---
-# Geochronology

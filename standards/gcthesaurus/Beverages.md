@@ -1,19 +1,14 @@
 ---
 title: Beverages
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Beverages
+longTitle: 'Beverages'
+tags:
+- gccommon
 broaderTerm:
-- "[[839 Alcoholic beverages]]"
-- "[[19795 Tea]]"
-- "[[5582 Drinking water]]"
-- "[[3471 Coffee]]"
+- "[[Alcoholic beverages Tea Drinking water Coffee]]"
 narrowerTerm:
-- "[[438 Agri-food products]]"
+- "[[Agri-food products]]"
 relatedTerm:
-- "[[1988 Beverage industry]]"
+- "[[Beverage industry]]"
 use:
-- "[[5588 Drinks]]"
+- "[[Drinks]]"
 ---
-# Beverages

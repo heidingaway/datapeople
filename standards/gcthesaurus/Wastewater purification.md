@@ -1,10 +1,8 @@
 ---
 title: Wastewater purification
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wastewater purification
+longTitle: 'Wastewater purification'
+tags:
+- gccommon
 usedFor:
-- "[[21430 Water management]]"
+- "[[Water management]]"
 ---
-# Wastewater purification

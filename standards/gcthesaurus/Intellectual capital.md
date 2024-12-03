@@ -1,11 +1,8 @@
 ---
 title: Intellectual capital
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Intellectual capital
+longTitle: 'Intellectual capital'
+tags:
+- gccommon
 relatedTerm:
-- "[[11767 Knowledge management]]"
-- "[[10199 Human resources]]"
+- "[[Knowledge management Human resources]]"
 ---
-# Intellectual capital

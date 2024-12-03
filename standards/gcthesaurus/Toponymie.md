@@ -1,10 +1,8 @@
 ---
 title: Toponymie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Toponymie
+longTitle: 'Toponymie'
+tags:
+- gccommon
 french:
-- "[[20264 Toponymy]]"
+- "[[Toponymy]]"
 ---
-# Toponymie

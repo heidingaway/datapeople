@@ -1,10 +1,8 @@
 ---
 title: Technology development
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Technology development
+longTitle: 'Technology development'
+tags:
+- gccommon
 usedFor:
-- "[[19850 Technological innovation]]"
+- "[[Technological innovation]]"
 ---
-# Technology development

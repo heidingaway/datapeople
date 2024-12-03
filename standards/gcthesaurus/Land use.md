@@ -1,10 +1,8 @@
 ---
 title: Land use
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Land use
+longTitle: 'Land use'
+tags:
+- gccommon
 usedFor:
-- "[[12003 Land management]]"
+- "[[Land management]]"
 ---
-# Land use

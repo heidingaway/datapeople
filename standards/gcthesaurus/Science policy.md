@@ -1,12 +1,10 @@
 ---
 title: Science policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Science policy
+longTitle: 'Science policy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15955 Policy]]"
+- "[[Policy]]"
 relatedTerm:
-- "[[18242 Sciences]]"
+- "[[Sciences]]"
 ---
-# Science policy

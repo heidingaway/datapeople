@@ -1,10 +1,8 @@
 ---
 title: Atmosphere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Atmosphere
+longTitle: 'Atmosphere'
+tags:
+- gccommon
 usedFor:
-- "[[602 Air]]"
+- "[[Air]]"
 ---
-# Atmosphere

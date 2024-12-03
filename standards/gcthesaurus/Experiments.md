@@ -1,15 +1,10 @@
 ---
 title: Experiments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Experiments
+longTitle: 'Experiments'
+tags:
+- gccommon
 broaderTerm:
-- "[[2223 Biomedical experiments]]"
+- "[[Biomedical experiments]]"
 relatedTerm:
-- "[[1099 Animal testing]]"
-- "[[17653 Research]]"
-- "[[18254 Scientific equipment]]"
-- "[[11830 Laboratories]]"
+- "[[Animal testing Research Scientific equipment Labor]]"
 ---
-# Experiments

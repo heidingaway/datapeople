@@ -1,10 +1,8 @@
 ---
 title: Prevention
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prévention
+longTitle: 'Prévention'
+tags:
+- gccommon
 french:
-- "[[16271 Prevention]]"
+- "[[Prevention]]"
 ---
-# Prevention

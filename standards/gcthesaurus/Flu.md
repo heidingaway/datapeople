@@ -1,10 +1,8 @@
 ---
 title: Flu
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Flu
+longTitle: 'Flu'
+tags:
+- gccommon
 usedFor:
-- "[[10945 Influenza]]"
+- "[[Influenza]]"
 ---
-# Flu

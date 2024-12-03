@@ -1,10 +1,8 @@
 ---
 title: Deliveries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Deliveries
+longTitle: 'Deliveries'
+tags:
+- gccommon
 relatedTerm:
-- "[[5439 Distribution]]"
+- "[[Distribution]]"
 ---
-# Deliveries

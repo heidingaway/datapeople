@@ -1,10 +1,8 @@
 ---
 title: Maladie des plantes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maladie des plantes
+longTitle: 'Maladie des plantes'
+tags:
+- gccommon
 french:
-- "[[15854 Plant diseases]]"
+- "[[Plant diseases]]"
 ---
-# Maladie des plantes

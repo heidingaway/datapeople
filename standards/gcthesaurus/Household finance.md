@@ -1,12 +1,10 @@
 ---
 title: Household finance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Household finance
+longTitle: 'Household finance'
+tags:
+- gccommon
 narrowerTerm:
-- "[[7687 Finance]]"
+- "[[Finance]]"
 relatedTerm:
-- "[[10123 Household income]]"
+- "[[Household income]]"
 ---
-# Household finance

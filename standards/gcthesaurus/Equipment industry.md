@@ -1,14 +1,12 @@
 ---
 title: Equipment industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Equipment industry
+longTitle: 'Equipment industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12845 Manufacturing industry]]"
+- "[[Manufacturing industry]]"
 relatedTerm:
-- "[[7090 Equipment]]"
+- "[[Equipment]]"
 use:
-- "[[12690 Machinery industry]]"
+- "[[Machinery industry]]"
 ---
-# Equipment industry

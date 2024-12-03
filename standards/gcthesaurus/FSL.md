@@ -1,10 +1,8 @@
 ---
 title: FSL
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: FSL
+longTitle: 'FSL'
+tags:
+- gccommon
 usedFor:
-- "[[8520 French second language]]"
+- "[[French second language]]"
 ---
-# FSL

@@ -1,19 +1,12 @@
 ---
 title: Geographic information systems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Geographic information systems
+longTitle: 'Geographic information systems'
+tags:
+- gccommon
 narrowerTerm:
-- "[[11036 Information systems]]"
+- "[[Information systems]]"
 relatedTerm:
-- "[[9004 Geomatics]]"
-- "[[8911 Geographic data]]"
-- "[[2825 Cartography]]"
+- "[[Geomatics Geographic data Cartography]]"
 use:
-- "[[19200 Spatial information systems]]"
-- "[[9030 Geospatial information systems]]"
-- "[[8935 Geographical information systems]]"
-- "[[9064 GIS]]"
+- "[[Spatial information systems Geospatial information]]"
 ---
-# Geographic information systems

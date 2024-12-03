@@ -1,10 +1,8 @@
 ---
 title: Industrial plants
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrial plants
+longTitle: 'Industrial plants'
+tags:
+- gccommon
 usedFor:
-- "[[10737 Industrial buildings]]"
+- "[[Industrial buildings]]"
 ---
-# Industrial plants

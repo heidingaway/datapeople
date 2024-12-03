@@ -1,10 +1,8 @@
 ---
 title: Gestion de leau
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gestion de l'eau
+longTitle: 'Gestion de l'eau'
+tags:
+- gccommon
 french:
-- "[[21427 Water management]]"
+- "[[Water management]]"
 ---
-# Gestion de leau

@@ -1,14 +1,12 @@
 ---
 title: Pleasure craft
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pleasure craft
+longTitle: 'Pleasure craft'
+tags:
+- gccommon
 broaderTerm:
-- "[[18071 Sailboats]]"
+- "[[Sailboats]]"
 narrowerTerm:
-- "[[20942 Vessels]]"
+- "[[Vessels]]"
 relatedTerm:
-- "[[12916 Marinas]]"
+- "[[Marinas]]"
 ---
-# Pleasure craft

@@ -1,10 +1,8 @@
 ---
 title: International transport
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: International transport
+longTitle: 'International transport'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20604 Transport]]"
+- "[[Transport]]"
 ---
-# International transport

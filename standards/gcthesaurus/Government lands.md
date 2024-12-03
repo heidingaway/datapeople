@@ -1,10 +1,8 @@
 ---
 title: Government lands
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Government lands
+longTitle: 'Government lands'
+tags:
+- gccommon
 usedFor:
-- "[[4572 Crown lands]]"
+- "[[Crown lands]]"
 ---
-# Government lands

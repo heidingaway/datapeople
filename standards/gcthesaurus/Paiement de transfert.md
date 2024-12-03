@@ -1,10 +1,8 @@
 ---
 title: Paiement de transfert
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Paiement de transfert
+longTitle: 'Paiement de transfert'
+tags:
+- gccommon
 french:
-- "[[20532 Transfer payments]]"
+- "[[Transfer payments]]"
 ---
-# Paiement de transfert

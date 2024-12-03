@@ -1,10 +1,8 @@
 ---
 title: Individual income
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Individual income
+longTitle: 'Individual income'
+tags:
+- gccommon
 usedFor:
-- "[[15539 Personal income]]"
+- "[[Personal income]]"
 ---
-# Individual income

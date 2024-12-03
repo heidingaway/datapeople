@@ -1,10 +1,8 @@
 ---
 title: Moths
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Moths
+longTitle: 'Moths'
+tags:
+- gccommon
 usedFor:
-- "[[2616 Butterflies]]"
+- "[[Butterflies]]"
 ---
-# Moths

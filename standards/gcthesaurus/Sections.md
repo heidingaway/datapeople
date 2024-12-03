@@ -1,10 +1,8 @@
 ---
 title: Sections
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sections
+longTitle: 'Sections'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5144 Departments]]"
+- "[[Departments]]"
 ---
-# Sections

@@ -1,19 +1,12 @@
 ---
 title: Drug insurance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Drug insurance
+longTitle: 'Drug insurance'
+tags:
+- gccommon
 narrowerTerm:
-- "[[11193 Insurance]]"
+- "[[Insurance]]"
 relatedTerm:
-- "[[9713 Health insurance]]"
-- "[[5703 Drugs]]"
-- "[[9664 Health care system]]"
+- "[[Health insurance Drugs Health care system]]"
 use:
-- "[[15675 Pharmacare]]"
-- "[[15690 Pharmaceutical insurance]]"
-- "[[15678 Pharmacare plan]]"
-- "[[5656 Drug insurance plan]]"
+- "[[Pharmacare Pharmaceutical insurance Pharmacare pla]]"
 ---
-# Drug insurance

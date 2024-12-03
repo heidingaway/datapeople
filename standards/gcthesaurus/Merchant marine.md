@@ -1,10 +1,8 @@
 ---
 title: Merchant marine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Merchant marine
+longTitle: 'Merchant marine'
+tags:
+- gccommon
 usedFor:
-- "[[21506 Water transport industry]]"
+- "[[Water transport industry]]"
 ---
-# Merchant marine

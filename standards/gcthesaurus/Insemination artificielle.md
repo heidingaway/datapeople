@@ -1,10 +1,8 @@
 ---
 title: Insemination artificielle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Insémination artificielle
+longTitle: 'Insémination artificielle'
+tags:
+- gccommon
 french:
-- "[[1497 Artificial insemination]]"
+- "[[Artificial insemination]]"
 ---
-# Insemination artificielle

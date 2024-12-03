@@ -1,15 +1,12 @@
 ---
 title: Sedimentology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sedimentology
+longTitle: 'Sedimentology'
+tags:
+- gccommon
 broaderTerm:
-- "[[18465 Sedimentary rocks]]"
+- "[[Sedimentary rocks]]"
 narrowerTerm:
-- "[[15671 Petrology]]"
-- "[[8989 Geology]]"
+- "[[Petrology Geology]]"
 relatedTerm:
-- "[[18475 Sediments]]"
+- "[[Sediments]]"
 ---
-# Sedimentology

@@ -1,17 +1,12 @@
 ---
 title: Second languages
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Second languages
+longTitle: 'Second languages'
+tags:
+- gccommon
 broaderTerm:
-- "[[8521 French second language]]"
-- "[[6743 English second language]]"
+- "[[French second language English second language]]"
 narrowerTerm:
-- "[[12131 Languages]]"
+- "[[Languages]]"
 relatedTerm:
-- "[[2062 Bilingualism]]"
-- "[[18386 Second language education]]"
-- "[[18381 Second language assessment]]"
+- "[[Bilingualism Second language education Second lang]]"
 ---
-# Second languages

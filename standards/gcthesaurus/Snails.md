@@ -1,10 +1,8 @@
 ---
 title: Snails
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Snails
+longTitle: 'Snails'
+tags:
+- gccommon
 usedFor:
-- "[[13858 Molluscs]]"
+- "[[Molluscs]]"
 ---
-# Snails

@@ -1,10 +1,8 @@
 ---
 title: Analyse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Analyse
+longTitle: 'Analyse'
+tags:
+- gccommon
 french:
-- "[[944 Analysis]]"
+- "[[Analysis]]"
 ---
-# Analyse

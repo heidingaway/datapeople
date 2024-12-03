@@ -1,13 +1,10 @@
 ---
 title: Clients
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Clients
+longTitle: 'Clients'
+tags:
+- gccommon
 relatedTerm:
-- "[[3321 Client satisfaction]]"
-- "[[4745 Customer services]]"
+- "[[Client satisfaction Customer services]]"
 use:
-- "[[4747 Customers]]"
+- "[[Customers]]"
 ---
-# Clients

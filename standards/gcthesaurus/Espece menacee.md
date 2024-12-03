@@ -1,10 +1,8 @@
 ---
 title: Espece menacee
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Espèce menacée
+longTitle: 'Espèce menacée'
+tags:
+- gccommon
 french:
-- "[[6604 Endangered species]]"
+- "[[Endangered species]]"
 ---
-# Espece menacee

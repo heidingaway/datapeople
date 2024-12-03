@@ -1,10 +1,8 @@
 ---
 title: Reprographie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Reprographie
+longTitle: 'Reprographie'
+tags:
+- gccommon
 french:
-- "[[17614 Reprography]]"
+- "[[Reprography]]"
 ---
-# Reprographie

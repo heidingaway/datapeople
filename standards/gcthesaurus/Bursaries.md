@@ -1,10 +1,8 @@
 ---
 title: Bursaries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bursaries
+longTitle: 'Bursaries'
+tags:
+- gccommon
 usedFor:
-- "[[18189 Scholarships]]"
+- "[[Scholarships]]"
 ---
-# Bursaries

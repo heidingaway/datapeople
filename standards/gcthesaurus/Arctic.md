@@ -1,16 +1,12 @@
 ---
 title: Arctic
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Arctic
+longTitle: 'Arctic'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15909 Polar regions]]"
+- "[[Polar regions]]"
 relatedTerm:
-- "[[1399 Arctic ecosystems]]"
-- "[[14569 Northern Canada]]"
+- "[[Arctic ecosystems Northern Canada]]"
 use:
-- "[[14559 North Pole]]"
-- "[[1401 Arctic regions]]"
+- "[[North Pole Arctic regions]]"
 ---
-# Arctic

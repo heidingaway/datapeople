@@ -1,15 +1,12 @@
 ---
 title: Bonds
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bonds
+longTitle: 'Bonds'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1550 Assets]]"
+- "[[Assets]]"
 relatedTerm:
-- "[[18434 Securities]]"
+- "[[Securities]]"
 use:
-- "[[18170 Saving bonds]]"
-- "[[9239 Government securities]]"
+- "[[Saving bonds Government securities]]"
 ---
-# Bonds

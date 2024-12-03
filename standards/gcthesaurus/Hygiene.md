@@ -1,10 +1,8 @@
 ---
 title: Hygiene
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hygiène
+longTitle: 'Hygiène'
+tags:
+- gccommon
 french:
-- "[[10419 Hygiene]]"
+- "[[Hygiene]]"
 ---
-# Hygiene

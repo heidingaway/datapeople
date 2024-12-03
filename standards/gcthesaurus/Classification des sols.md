@@ -1,10 +1,8 @@
 ---
 title: Classification des sols
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Classification des sols
+longTitle: 'Classification des sols'
+tags:
+- gccommon
 french:
-- "[[19106 Soil taxonomy]]"
+- "[[Soil taxonomy]]"
 ---
-# Classification des sols

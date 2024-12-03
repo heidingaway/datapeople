@@ -1,12 +1,10 @@
 ---
 title: Military colleges
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Military colleges
+longTitle: 'Military colleges'
+tags:
+- gccommon
 narrowerTerm:
-- "[[3533 Colleges]]"
+- "[[Colleges]]"
 relatedTerm:
-- "[[13687 Military training]]"
+- "[[Military training]]"
 ---
-# Military colleges

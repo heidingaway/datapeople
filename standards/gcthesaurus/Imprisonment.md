@@ -1,14 +1,10 @@
 ---
 title: Imprisonment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Imprisonment
+longTitle: 'Imprisonment'
+tags:
+- gccommon
 relatedTerm:
-- "[[4305 Correctional institutions]]"
-- "[[11107 Inmates]]"
-- "[[4498 Criminal justice]]"
+- "[[Correctional institutions Inmates Criminal justice]]"
 use:
-- "[[5174 Detention]]"
+- "[[Detention]]"
 ---
-# Imprisonment

@@ -1,10 +1,8 @@
 ---
 title: Logging
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Logging
+longTitle: 'Logging'
+tags:
+- gccommon
 usedFor:
-- "[[12631 Logging industry]]"
+- "[[Logging industry]]"
 ---
-# Logging

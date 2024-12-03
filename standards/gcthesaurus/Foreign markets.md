@@ -1,10 +1,8 @@
 ---
 title: Foreign markets
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Foreign markets
+longTitle: 'Foreign markets'
+tags:
+- gccommon
 usedFor:
-- "[[11401 International markets]]"
+- "[[International markets]]"
 ---
-# Foreign markets

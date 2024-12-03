@@ -1,10 +1,8 @@
 ---
 title: An activity that chiefly engages ones time or serv
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: An activity that chiefly engages one's time, or serves as one's livelihood.
+longTitle: 'An activity that chiefly engages one's time, or serves as one's livelihood.'
+tags:
+- gccommon
 scopeNote:
-- "[[14811 Occupations]]"
+- "[[Occupations]]"
 ---
-# An activity that chiefly engages ones time or serv

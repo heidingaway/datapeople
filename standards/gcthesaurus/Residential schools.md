@@ -1,12 +1,10 @@
 ---
 title: Residential schools
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Residential schools
+longTitle: 'Residential schools'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18219 Schools]]"
+- "[[Schools]]"
 use:
-- "[[2310 Boarding schools]]"
+- "[[Boarding schools]]"
 ---
-# Residential schools

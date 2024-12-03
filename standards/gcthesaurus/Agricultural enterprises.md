@@ -1,10 +1,8 @@
 ---
 title: Agricultural enterprises
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Agricultural enterprises
+longTitle: 'Agricultural enterprises'
+tags:
+- gccommon
 usedFor:
-- "[[7490 Farms]]"
+- "[[Farms]]"
 ---
-# Agricultural enterprises

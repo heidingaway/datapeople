@@ -1,10 +1,8 @@
 ---
 title: Glossaries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Glossaries
+longTitle: 'Glossaries'
+tags:
+- gccommon
 usedFor:
-- "[[5218 Dictionaries]]"
+- "[[Dictionaries]]"
 ---
-# Glossaries

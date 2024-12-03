@@ -1,10 +1,8 @@
 ---
 title: Marche de capitaux
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marché de capitaux
+longTitle: 'Marché de capitaux'
+tags:
+- gccommon
 french:
-- "[[2742 Capital markets]]"
+- "[[Capital markets]]"
 ---
-# Marche de capitaux

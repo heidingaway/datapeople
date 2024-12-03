@@ -1,10 +1,8 @@
 ---
 title: Flore
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Flore
+longTitle: 'Flore'
+tags:
+- gccommon
 french:
-- "[[8043 Flora]]"
+- "[[Flora]]"
 ---
-# Flore

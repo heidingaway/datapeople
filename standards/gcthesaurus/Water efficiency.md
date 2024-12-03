@@ -1,10 +1,8 @@
 ---
 title: Water efficiency
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Water efficiency
+longTitle: 'Water efficiency'
+tags:
+- gccommon
 usedFor:
-- "[[21399 Water conservation]]"
+- "[[Water conservation]]"
 ---
-# Water efficiency

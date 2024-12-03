@@ -1,10 +1,8 @@
 ---
 title: Perennially frozen ground
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Perennially frozen ground
+longTitle: 'Perennially frozen ground'
+tags:
+- gccommon
 usedFor:
-- "[[15496 Permafrost]]"
+- "[[Permafrost]]"
 ---
-# Perennially frozen ground

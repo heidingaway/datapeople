@@ -1,10 +1,8 @@
 ---
 title: Commercial navigation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Commercial navigation
+longTitle: 'Commercial navigation'
+tags:
+- gccommon
 usedFor:
-- "[[14374 Navigation]]"
+- "[[Navigation]]"
 ---
-# Commercial navigation

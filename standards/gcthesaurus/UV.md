@@ -1,10 +1,8 @@
 ---
 title: UV
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: UV
+longTitle: 'UV'
+tags:
+- gccommon
 usedFor:
-- "[[20761 Ultraviolet radiation]]"
+- "[[Ultraviolet radiation]]"
 ---
-# UV

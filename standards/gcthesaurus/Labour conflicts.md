@@ -1,10 +1,8 @@
 ---
 title: Labour conflicts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Labour conflicts
+longTitle: 'Labour conflicts'
+tags:
+- gccommon
 usedFor:
-- "[[11861 Labour disputes]]"
+- "[[Labour disputes]]"
 ---
-# Labour conflicts

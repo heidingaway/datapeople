@@ -1,17 +1,14 @@
 ---
 title: Innovation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Innovation
+longTitle: 'Innovation'
+tags:
+- gccommon
 broaderTerm:
-- "[[19851 Technological innovation]]"
+- "[[Technological innovation]]"
 french:
-- "[[11112 Innovation]]"
+- "[[Innovation]]"
 relatedTerm:
-- "[[13839 Modernization]]"
-- "[[11566 Inventions]]"
+- "[[Modernization Inventions]]"
 use:
-- "[[2978 Change]]"
+- "[[Change]]"
 ---
-# Innovation

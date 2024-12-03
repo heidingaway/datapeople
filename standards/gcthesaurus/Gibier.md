@@ -1,10 +1,8 @@
 ---
 title: Gibier
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gibier
+longTitle: 'Gibier'
+tags:
+- gccommon
 french:
-- "[[8695 Game (Wildlife)]]"
+- "[[Game Wildlife]]"
 ---
-# Gibier

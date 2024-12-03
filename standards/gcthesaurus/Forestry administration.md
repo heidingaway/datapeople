@@ -1,10 +1,8 @@
 ---
 title: Forestry administration
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forestry administration
+longTitle: 'Forestry administration'
+tags:
+- gccommon
 usedFor:
-- "[[8317 Forest management]]"
+- "[[Forest management]]"
 ---
-# Forestry administration

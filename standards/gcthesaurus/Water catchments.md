@@ -1,10 +1,8 @@
 ---
 title: Water catchments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Water catchments
+longTitle: 'Water catchments'
+tags:
+- gccommon
 usedFor:
-- "[[21555 Watersheds]]"
+- "[[Watersheds]]"
 ---
-# Water catchments

@@ -1,10 +1,8 @@
 ---
 title: Carrots
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Carrots
+longTitle: 'Carrots'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20901 Vegetables]]"
+- "[[Vegetables]]"
 ---
-# Carrots

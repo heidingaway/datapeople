@@ -1,15 +1,12 @@
 ---
 title: Crop insurance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Crop insurance
+longTitle: 'Crop insurance'
+tags:
+- gccommon
 narrowerTerm:
-- "[[11191 Insurance]]"
+- "[[Insurance]]"
 relatedTerm:
-- "[[9505 Harvest]]"
-- "[[4547 Crops]]"
+- "[[Harvest Crops]]"
 use:
-- "[[507 Agricultural insurance]]"
+- "[[Agricultural insurance]]"
 ---
-# Crop insurance

@@ -1,10 +1,8 @@
 ---
 title: Victime
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Victime
+longTitle: 'Victime'
+tags:
+- gccommon
 french:
-- "[[20984 Victims]]"
+- "[[Victims]]"
 ---
-# Victime

@@ -1,10 +1,8 @@
 ---
 title: Resource recovery
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Resource recovery
+longTitle: 'Resource recovery'
+tags:
+- gccommon
 usedFor:
-- "[[17372 Recycling]]"
+- "[[Recycling]]"
 ---
-# Resource recovery

@@ -1,10 +1,8 @@
 ---
 title: Ecodevelopment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ecodevelopment
+longTitle: 'Ecodevelopment'
+tags:
+- gccommon
 usedFor:
-- "[[19634 Sustainable development]]"
+- "[[Sustainable development]]"
 ---
-# Ecodevelopment

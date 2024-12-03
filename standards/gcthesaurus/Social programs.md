@@ -1,13 +1,10 @@
 ---
 title: Social programs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Social programs
+longTitle: 'Social programs'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16576 Programs]]"
+- "[[Programs]]"
 relatedTerm:
-- "[[19009 Social services]]"
-- "[[18870 Social assistance]]"
+- "[[Social services Social assistance]]"
 ---
-# Social programs

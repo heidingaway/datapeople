@@ -1,10 +1,8 @@
 ---
 title: Arthritis
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Arthritis
+longTitle: 'Arthritis'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5057 Degenerative diseases]]"
+- "[[Degenerative diseases]]"
 ---
-# Arthritis

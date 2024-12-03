@@ -1,10 +1,8 @@
 ---
 title: Transport maritime
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transport maritime
+longTitle: 'Transport maritime'
+tags:
+- gccommon
 french:
-- "[[21481 Water transport]]"
+- "[[Water transport]]"
 ---
-# Transport maritime

@@ -1,10 +1,8 @@
 ---
 title: Gestion industrielle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gestion industrielle
+longTitle: 'Gestion industrielle'
+tags:
+- gccommon
 french:
-- "[[10784 Industrial management]]"
+- "[[Industrial management]]"
 ---
-# Gestion industrielle

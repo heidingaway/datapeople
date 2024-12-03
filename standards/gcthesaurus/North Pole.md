@@ -1,10 +1,8 @@
 ---
 title: North Pole
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: North Pole
+longTitle: 'North Pole'
+tags:
+- gccommon
 usedFor:
-- "[[1392 Arctic]]"
+- "[[Arctic]]"
 ---
-# North Pole

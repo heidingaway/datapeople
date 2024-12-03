@@ -1,10 +1,8 @@
 ---
 title: Subvention
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Subvention
+longTitle: 'Subvention'
+tags:
+- gccommon
 french:
-- "[[9295 Grants]]"
+- "[[Grants]]"
 ---
-# Subvention

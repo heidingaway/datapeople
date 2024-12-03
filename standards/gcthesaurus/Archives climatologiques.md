@@ -1,10 +1,8 @@
 ---
 title: Archives climatologiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Archives climatologiques
+longTitle: 'Archives climatologiques'
+tags:
+- gccommon
 french:
-- "[[3340 Climate archives]]"
+- "[[Climate archives]]"
 ---
-# Archives climatologiques

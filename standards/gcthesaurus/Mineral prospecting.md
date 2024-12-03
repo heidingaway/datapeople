@@ -1,10 +1,8 @@
 ---
 title: Mineral prospecting
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mineral prospecting
+longTitle: 'Mineral prospecting'
+tags:
+- gccommon
 usedFor:
-- "[[16645 Prospecting]]"
+- "[[Prospecting]]"
 ---
-# Mineral prospecting

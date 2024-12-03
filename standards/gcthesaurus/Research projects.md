@@ -1,10 +1,8 @@
 ---
 title: Research projects
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Research projects
+longTitle: 'Research projects'
+tags:
+- gccommon
 usedFor:
-- "[[17646 Research]]"
+- "[[Research]]"
 ---
-# Research projects

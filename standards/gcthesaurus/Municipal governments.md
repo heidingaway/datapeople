@@ -1,10 +1,8 @@
 ---
 title: Municipal governments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Municipal governments
+longTitle: 'Municipal governments'
+tags:
+- gccommon
 usedFor:
-- "[[12603 Local governments]]"
+- "[[Local governments]]"
 ---
-# Municipal governments

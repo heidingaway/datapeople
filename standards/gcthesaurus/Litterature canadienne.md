@@ -1,10 +1,8 @@
 ---
 title: Litterature canadienne
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Littérature canadienne
+longTitle: 'Littérature canadienne'
+tags:
+- gccommon
 french:
-- "[[2699 Canadian literature]]"
+- "[[Canadian literature]]"
 ---
-# Litterature canadienne

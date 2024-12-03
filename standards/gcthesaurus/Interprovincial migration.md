@@ -1,10 +1,8 @@
 ---
 title: Interprovincial migration
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Interprovincial migration
+longTitle: 'Interprovincial migration'
+tags:
+- gccommon
 usedFor:
-- "[[11322 Internal migration]]"
+- "[[Internal migration]]"
 ---
-# Interprovincial migration

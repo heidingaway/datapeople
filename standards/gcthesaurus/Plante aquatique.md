@@ -1,10 +1,8 @@
 ---
 title: Plante aquatique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Plante aquatique
+longTitle: 'Plante aquatique'
+tags:
+- gccommon
 french:
-- "[[1294 Aquatic plants]]"
+- "[[Aquatic plants]]"
 ---
-# Plante aquatique

@@ -1,10 +1,8 @@
 ---
 title: Helicopter transportation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Helicopter transportation
+longTitle: 'Helicopter transportation'
+tags:
+- gccommon
 usedFor:
-- "[[685 Air transport]]"
+- "[[Air transport]]"
 ---
-# Helicopter transportation

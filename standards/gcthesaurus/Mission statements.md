@@ -1,10 +1,8 @@
 ---
 title: Mission statements
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mission statements
+longTitle: 'Mission statements'
+tags:
+- gccommon
 relatedTerm:
-- "[[14730 Objectives]]"
+- "[[Objectives]]"
 ---
-# Mission statements

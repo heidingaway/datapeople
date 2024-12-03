@@ -1,10 +1,8 @@
 ---
 title: Negociation collective
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Négociation collective
+longTitle: 'Négociation collective'
+tags:
+- gccommon
 french:
-- "[[3508 Collective bargaining]]"
+- "[[Collective bargaining]]"
 ---
-# Negociation collective

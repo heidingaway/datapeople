@@ -1,10 +1,8 @@
 ---
 title: Delegation commerciale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Délégation commerciale
+longTitle: 'Délégation commerciale'
+tags:
+- gccommon
 french:
-- "[[20398 Trade missions]]"
+- "[[Trade missions]]"
 ---
-# Delegation commerciale

@@ -1,10 +1,8 @@
 ---
 title: Aeronef militaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aéronef militaire
+longTitle: 'Aéronef militaire'
+tags:
+- gccommon
 french:
-- "[[13598 Military aircraft]]"
+- "[[Military aircraft]]"
 ---
-# Aeronef militaire

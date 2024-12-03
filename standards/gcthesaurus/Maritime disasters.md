@@ -1,10 +1,8 @@
 ---
 title: Maritime disasters
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maritime disasters
+longTitle: 'Maritime disasters'
+tags:
+- gccommon
 usedFor:
-- "[[12919 Marine accidents]]"
+- "[[Marine accidents]]"
 ---
-# Maritime disasters

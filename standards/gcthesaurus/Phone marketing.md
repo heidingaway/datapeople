@@ -1,10 +1,8 @@
 ---
 title: Phone marketing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Phone marketing
+longTitle: 'Phone marketing'
+tags:
+- gccommon
 usedFor:
-- "[[5289 Direct marketing]]"
+- "[[Direct marketing]]"
 ---
-# Phone marketing

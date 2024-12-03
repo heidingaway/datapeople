@@ -1,10 +1,8 @@
 ---
 title: Approvisionnement en sang
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Approvisionnement en sang
+longTitle: 'Approvisionnement en sang'
+tags:
+- gccommon
 french:
-- "[[2301 Blood supply]]"
+- "[[Blood supply]]"
 ---
-# Approvisionnement en sang

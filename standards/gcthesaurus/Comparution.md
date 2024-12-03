@@ -1,10 +1,8 @@
 ---
 title: Comparution
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Comparution
+longTitle: 'Comparution'
+tags:
+- gccommon
 french:
-- "[[4371 Court appearances]]"
+- "[[Court appearances]]"
 ---
-# Comparution

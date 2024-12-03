@@ -1,14 +1,12 @@
 ---
 title: Influenza
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Influenza
+longTitle: 'Influenza'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10924 Infectious diseases]]"
+- "[[Infectious diseases]]"
 relatedTerm:
-- "[[21074 Viruses]]"
+- "[[Viruses]]"
 use:
-- "[[8052 Flu]]"
+- "[[Flu]]"
 ---
-# Influenza

@@ -1,15 +1,12 @@
 ---
 title: Agricultural workers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Agricultural workers
+longTitle: 'Agricultural workers'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21927 Workers]]"
+- "[[Workers]]"
 relatedTerm:
-- "[[566 Agriculture]]"
+- "[[Agriculture]]"
 use:
-- "[[7458 Farm workers]]"
-- "[[7461 Farmers]]"
+- "[[Farm workers Farmers]]"
 ---
-# Agricultural workers

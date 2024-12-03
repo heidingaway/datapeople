@@ -1,11 +1,8 @@
 ---
 title: Securite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sécurité
+longTitle: 'Sécurité'
+tags:
+- gccommon
 french:
-- "[[17989 Safety]]"
-- "[[18439 Security]]"
+- "[[Safety Security]]"
 ---
-# Securite

@@ -1,10 +1,8 @@
 ---
 title: Maladie animale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maladie animale
+longTitle: 'Maladie animale'
+tags:
+- gccommon
 french:
-- "[[986 Animal diseases]]"
+- "[[Animal diseases]]"
 ---
-# Maladie animale

@@ -1,10 +1,8 @@
 ---
 title: Geographie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Géographie
+longTitle: 'Géographie'
+tags:
+- gccommon
 french:
-- "[[8944 Geography]]"
+- "[[Geography]]"
 ---
-# Geographie

@@ -1,10 +1,8 @@
 ---
 title: Mountains
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mountains
+longTitle: 'Mountains'
+tags:
+- gccommon
 relatedTerm:
-- "[[20261 Topography]]"
+- "[[Topography]]"
 ---
-# Mountains

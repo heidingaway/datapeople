@@ -1,10 +1,8 @@
 ---
 title: Intelligent vehicle highway systems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Intelligent vehicle highway systems
+longTitle: 'Intelligent vehicle highway systems'
+tags:
+- gccommon
 usedFor:
-- "[[11258 Intelligent transportation systems]]"
+- "[[Intelligent transportation systems]]"
 ---
-# Intelligent vehicle highway systems

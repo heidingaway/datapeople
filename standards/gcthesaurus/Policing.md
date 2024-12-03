@@ -1,12 +1,10 @@
 ---
 title: Policing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Policing
+longTitle: 'Policing'
+tags:
+- gccommon
 broaderTerm:
-- "[[10689 Indigenous policing]]"
+- "[[Indigenous policing]]"
 relatedTerm:
-- "[[15928 Police services]]"
+- "[[Police services]]"
 ---
-# Policing

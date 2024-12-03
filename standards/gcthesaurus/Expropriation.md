@@ -1,12 +1,10 @@
 ---
 title: Expropriation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Expropriation
+longTitle: 'Expropriation'
+tags:
+- gccommon
 french:
-- "[[7312 Expropriation]]"
+- "[[Expropriation]]"
 relatedTerm:
-- "[[17237 Real estate]]"
+- "[[Real estate]]"
 ---
-# Expropriation

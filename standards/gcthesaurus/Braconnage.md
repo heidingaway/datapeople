@@ -1,10 +1,8 @@
 ---
 title: Braconnage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Braconnage
+longTitle: 'Braconnage'
+tags:
+- gccommon
 french:
-- "[[15892 Poaching]]"
+- "[[Poaching]]"
 ---
-# Braconnage

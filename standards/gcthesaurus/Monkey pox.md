@@ -1,10 +1,8 @@
 ---
 title: Monkey pox
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Monkey pox
+longTitle: 'Monkey pox'
+tags:
+- gccommon
 usedFor:
-- "[[13892 Monkeypox]]"
+- "[[Monkeypox]]"
 ---
-# Monkey pox

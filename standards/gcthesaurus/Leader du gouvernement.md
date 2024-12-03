@@ -1,10 +1,8 @@
 ---
 title: Leader du gouvernement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Leader du gouvernement
+longTitle: 'Leader du gouvernement'
+tags:
+- gccommon
 french:
-- "[[9190 Government leader]]"
+- "[[Government leader]]"
 ---
-# Leader du gouvernement

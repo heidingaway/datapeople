@@ -1,10 +1,8 @@
 ---
 title: Infrastructure communautaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Infrastructure communautaire
+longTitle: 'Infrastructure communautaire'
+tags:
+- gccommon
 french:
-- "[[3701 Community infrastructures]]"
+- "[[Community infrastructures]]"
 ---
-# Infrastructure communautaire

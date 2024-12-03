@@ -1,17 +1,10 @@
 ---
 title: Water supply
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Water supply
+longTitle: 'Water supply'
+tags:
+- gccommon
 relatedTerm:
-- "[[21532 Water use]]"
-- "[[21444 Water management]]"
-- "[[21387 Water]]"
-- "[[21418 Water demand]]"
+- "[[Water use Water management Water Water demand]]"
 use:
-- "[[5586 Drinking water supply]]"
-- "[[21411 Water delivery]]"
-- "[[21421 Water distribution]]"
+- "[[Drinking water supply Water delivery Water distrib]]"
 ---
-# Water supply

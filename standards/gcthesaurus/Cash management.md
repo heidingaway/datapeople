@@ -1,10 +1,8 @@
 ---
 title: Cash management
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cash management
+longTitle: 'Cash management'
+tags:
+- gccommon
 usedFor:
-- "[[7741 Financial management]]"
+- "[[Financial management]]"
 ---
-# Cash management

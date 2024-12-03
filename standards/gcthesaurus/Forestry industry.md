@@ -1,27 +1,14 @@
 ---
 title: Forestry industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forestry industry
+longTitle: 'Forestry industry'
+tags:
+- gccommon
 broaderTerm:
-- "[[12666 Lumber industry]]"
-- "[[16959 Pulp and paper industry]]"
-- "[[12633 Logging industry]]"
-- "[[21868 Woodworking industry]]"
+- "[[Lumber industry Pulp and paper industry Logging in]]"
 narrowerTerm:
-- "[[16342 Primary industry]]"
+- "[[Primary industry]]"
 relatedTerm:
-- "[[8351 Forestry]]"
-- "[[8405 Forestry technology]]"
-- "[[8420 Forests]]"
-- "[[8392 Forestry products]]"
-- "[[8325 Forest management]]"
+- "[[Forestry Forestry technology Forests Forestry prod]]"
 use:
-- "[[8332 Forest products industry]]"
-- "[[8398 Forestry services industry]]"
-- "[[8309 Forest industry]]"
-- "[[8395 Forestry sector]]"
-- "[[8340 Forest sector]]"
+- "[[Forest products industry Forestry services industr]]"
 ---
-# Forestry industry

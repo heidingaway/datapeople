@@ -1,10 +1,8 @@
 ---
 title: Transmission du savoir
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transmission du savoir
+longTitle: 'Transmission du savoir'
+tags:
+- gccommon
 french:
-- "[[11771 Knowledge transfer]]"
+- "[[Knowledge transfer]]"
 ---
-# Transmission du savoir

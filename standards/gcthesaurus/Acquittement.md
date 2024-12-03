@@ -1,10 +1,8 @@
 ---
 title: Acquittement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Acquittement
+longTitle: 'Acquittement'
+tags:
+- gccommon
 french:
-- "[[189 Acquittal]]"
+- "[[Acquittal]]"
 ---
-# Acquittement

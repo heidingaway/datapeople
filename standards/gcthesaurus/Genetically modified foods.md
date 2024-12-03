@@ -1,16 +1,12 @@
 ---
 title: Genetically modified foods
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Genetically modified foods
+longTitle: 'Genetically modified foods'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8079 Food]]"
+- "[[Food]]"
 relatedTerm:
-- "[[8864 Genetically modified organisms]]"
+- "[[Genetically modified organisms]]"
 use:
-- "[[20565 Transgenic foods]]"
-- "[[8841 Genetically engineered foods]]"
-- "[[9115 GM foods]]"
+- "[[Transgenic foods Genetically engineered foods GM f]]"
 ---
-# Genetically modified foods

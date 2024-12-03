@@ -1,10 +1,8 @@
 ---
 title: Childhood
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Childhood
+longTitle: 'Childhood'
+tags:
+- gccommon
 relatedTerm:
-- "[[3170 Children]]"
+- "[[Children]]"
 ---
-# Childhood

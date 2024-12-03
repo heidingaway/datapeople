@@ -1,10 +1,8 @@
 ---
 title: Safety instruction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Safety instruction
+longTitle: 'Safety instruction'
+tags:
+- gccommon
 usedFor:
-- "[[18010 Safety education]]"
+- "[[Safety education]]"
 ---
-# Safety instruction

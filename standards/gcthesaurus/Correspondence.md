@@ -1,10 +1,8 @@
 ---
 title: Correspondence
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Correspondence
+longTitle: 'Correspondence'
+tags:
+- gccommon
 relatedTerm:
-- "[[6351 Electronic mail]]"
+- "[[Electronic mail]]"
 ---
-# Correspondence

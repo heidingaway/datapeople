@@ -1,12 +1,10 @@
 ---
 title: Satellite imagery
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Satellite imagery
+longTitle: 'Satellite imagery'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17523 Remote sensing]]"
+- "[[Remote sensing]]"
 relatedTerm:
-- "[[18158 Satellite images]]"
+- "[[Satellite images]]"
 ---
-# Satellite imagery

@@ -1,10 +1,8 @@
 ---
 title: Relations intergouvernementales
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Relations intergouvernementales
+longTitle: 'Relations intergouvernementales'
+tags:
+- gccommon
 french:
-- "[[11297 Intergovernmental relations]]"
+- "[[Intergovernmental relations]]"
 ---
-# Relations intergouvernementales

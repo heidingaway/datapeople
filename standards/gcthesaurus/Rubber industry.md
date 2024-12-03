@@ -1,10 +1,8 @@
 ---
 title: Rubber industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rubber industry
+longTitle: 'Rubber industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12852 Manufacturing industry]]"
+- "[[Manufacturing industry]]"
 ---
-# Rubber industry

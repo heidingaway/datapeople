@@ -1,10 +1,8 @@
 ---
 title: Repartition des pouvoirs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Répartition des pouvoirs
+longTitle: 'Répartition des pouvoirs'
+tags:
+- gccommon
 french:
-- "[[5460 Division of powers]]"
+- "[[Division of powers]]"
 ---
-# Repartition des pouvoirs

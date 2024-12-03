@@ -1,10 +1,8 @@
 ---
 title: Paleobotany
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Paleobotany
+longTitle: 'Paleobotany'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15223 Palaeontology]]"
+- "[[Palaeontology]]"
 ---
-# Paleobotany

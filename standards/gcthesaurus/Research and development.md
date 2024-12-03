@@ -1,16 +1,10 @@
 ---
 title: Research and development
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Research and development
+longTitle: 'Research and development'
+tags:
+- gccommon
 relatedTerm:
-- "[[5196 Development]]"
-- "[[17656 Research]]"
-- "[[10822 Industrial research]]"
-- "[[15380 Patents]]"
-- "[[1218 Applied research]]"
+- "[[Development Research Industrial research Patents A]]"
 use:
-- "[[17035 R&D]]"
+- "[[RD]]"
 ---
-# Research and development

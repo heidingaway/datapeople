@@ -1,10 +1,8 @@
 ---
 title: Legal issues
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Legal issues
+longTitle: 'Legal issues'
+tags:
+- gccommon
 relatedTerm:
-- "[[12166 Law]]"
+- "[[Law]]"
 ---
-# Legal issues

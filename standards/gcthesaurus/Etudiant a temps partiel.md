@@ -1,10 +1,8 @@
 ---
 title: Etudiant a temps partiel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Étudiant à temps partiel
+longTitle: 'Étudiant à temps partiel'
+tags:
+- gccommon
 french:
-- "[[15332 Part-time students]]"
+- "[[Part-time students]]"
 ---
-# Etudiant a temps partiel

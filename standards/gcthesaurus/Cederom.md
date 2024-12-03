@@ -1,10 +1,8 @@
 ---
 title: Cederom
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cédérom
+longTitle: 'Cédérom'
+tags:
+- gccommon
 french:
-- "[[2878 CD-ROMs]]"
+- "[[CD-ROMs]]"
 ---
-# Cederom

@@ -1,10 +1,8 @@
 ---
 title: Personne intersexuelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Personne intersexuelle
+longTitle: 'Personne intersexuelle'
+tags:
+- gccommon
 french:
-- "[[11509 Intersex people]]"
+- "[[Intersex people]]"
 ---
-# Personne intersexuelle

@@ -1,10 +1,8 @@
 ---
 title: Press
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Press
+longTitle: 'Press'
+tags:
+- gccommon
 usedFor:
-- "[[14445 Newspapers]]"
+- "[[Newspapers]]"
 ---
-# Press

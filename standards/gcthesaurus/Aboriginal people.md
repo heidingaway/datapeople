@@ -1,10 +1,8 @@
 ---
 title: Aboriginal people
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aboriginal people
+longTitle: 'Aboriginal people'
+tags:
+- gccommon
 usedFor:
-- "[[10675 Indigenous peoples]]"
+- "[[Indigenous peoples]]"
 ---
-# Aboriginal people

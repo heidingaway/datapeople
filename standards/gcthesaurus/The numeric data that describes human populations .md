@@ -1,10 +1,8 @@
 ---
-title: "The numeric data that describes human populations "
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: The numeric data that describes human populations especially with reference to size and density, distribution, and vital statistics.
+title: The numeric data that describes human populations 
+longTitle: 'The numeric data that describes human populations especially with reference to size and density, distribution, and vital statistics.'
+tags:
+- gccommon
 scopeNote:
-- "[[5104 Demographic statistics]]"
+- "[[Demographic statistics]]"
 ---
-# The numeric data that describes human populations

@@ -1,10 +1,8 @@
 ---
 title: Provinces atlantiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Provinces atlantiques
+longTitle: 'Provinces atlantiques'
+tags:
+- gccommon
 french:
-- "[[1643 Atlantic provinces]]"
+- "[[Atlantic provinces]]"
 ---
-# Provinces atlantiques

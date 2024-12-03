@@ -1,10 +1,8 @@
 ---
 title: Roche sedimentaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Roche sédimentaire
+longTitle: 'Roche sédimentaire'
+tags:
+- gccommon
 french:
-- "[[18462 Sedimentary rocks]]"
+- "[[Sedimentary rocks]]"
 ---
-# Roche sedimentaire

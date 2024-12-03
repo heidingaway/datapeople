@@ -1,12 +1,10 @@
 ---
 title: Tooling
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tooling
+longTitle: 'Tooling'
+tags:
+- gccommon
 relatedTerm:
-- "[[7092 Equipment]]"
+- "[[Equipment]]"
 use:
-- "[[11178 Instruments]]"
+- "[[Instruments]]"
 ---
-# Tooling

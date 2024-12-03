@@ -1,10 +1,8 @@
 ---
 title: Milk products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Milk products
+longTitle: 'Milk products'
+tags:
+- gccommon
 usedFor:
-- "[[4815 Dairy products]]"
+- "[[Dairy products]]"
 ---
-# Milk products

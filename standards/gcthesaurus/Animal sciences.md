@@ -1,10 +1,8 @@
 ---
 title: Animal sciences
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Animal sciences
+longTitle: 'Animal sciences'
+tags:
+- gccommon
 usedFor:
-- "[[22133 Zoology]]"
+- "[[Zoology]]"
 ---
-# Animal sciences

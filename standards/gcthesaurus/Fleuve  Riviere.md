@@ -1,10 +1,8 @@
 ---
 title: Fleuve  Riviere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fleuve / Rivière
+longTitle: 'Fleuve / Rivière'
+tags:
+- gccommon
 french:
-- "[[17860 Rivers]]"
+- "[[Rivers]]"
 ---
-# Fleuve  Riviere

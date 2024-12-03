@@ -1,17 +1,12 @@
 ---
 title: Personal care products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Personal care products
+longTitle: 'Personal care products'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16502 Products]]"
+- "[[Products]]"
 relatedTerm:
-- "[[9647 Health care products]]"
+- "[[Health care products]]"
 use:
-- "[[4325 Cosmetics]]"
-- "[[1909 Beauty products]]"
-- "[[20235 Toiletries]]"
-- "[[4322 Cosmetic products]]"
+- "[[Cosmetics Beauty products Toiletries Cosmetic prod]]"
 ---
-# Personal care products

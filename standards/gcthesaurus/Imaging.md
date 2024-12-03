@@ -1,10 +1,8 @@
 ---
 title: Imaging
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Imaging
+longTitle: 'Imaging'
+tags:
+- gccommon
 usedFor:
-- "[[5263 Digitization]]"
+- "[[Digitization]]"
 ---
-# Imaging

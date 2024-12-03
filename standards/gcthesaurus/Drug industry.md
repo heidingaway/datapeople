@@ -1,10 +1,8 @@
 ---
 title: Drug industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Drug industry
+longTitle: 'Drug industry'
+tags:
+- gccommon
 usedFor:
-- "[[15682 Pharmaceutical industry]]"
+- "[[Pharmaceutical industry]]"
 ---
-# Drug industry

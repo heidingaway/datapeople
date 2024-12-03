@@ -1,10 +1,8 @@
 ---
 title: Technologie numerique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Technologie numérique
+longTitle: 'Technologie numérique'
+tags:
+- gccommon
 french:
-- "[[5255 Digital technology]]"
+- "[[Digital technology]]"
 ---
-# Technologie numerique

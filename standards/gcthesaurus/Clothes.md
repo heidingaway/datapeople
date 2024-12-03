@@ -1,10 +1,8 @@
 ---
 title: Clothes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Clothes
+longTitle: 'Clothes'
+tags:
+- gccommon
 usedFor:
-- "[[3379 Clothing]]"
+- "[[Clothing]]"
 ---
-# Clothes

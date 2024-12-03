@@ -1,10 +1,8 @@
 ---
 title: Procedure parlementaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Procédure parlementaire
+longTitle: 'Procédure parlementaire'
+tags:
+- gccommon
 french:
-- "[[15318 Parliamentary procedure]]"
+- "[[Parliamentary procedure]]"
 ---
-# Procedure parlementaire

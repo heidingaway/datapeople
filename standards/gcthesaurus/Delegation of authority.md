@@ -1,11 +1,8 @@
 ---
 title: Delegation of authority
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Delegation of authority
+longTitle: 'Delegation of authority'
+tags:
+- gccommon
 relatedTerm:
-- "[[5205 Devolution]]"
-- "[[135 Accountability]]"
+- "[[Devolution Accountability]]"
 ---
-# Delegation of authority

@@ -1,10 +1,8 @@
 ---
 title: Deafness
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Deafness
+longTitle: 'Deafness'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9798 Hearing disabilities]]"
+- "[[Hearing disabilities]]"
 ---
-# Deafness

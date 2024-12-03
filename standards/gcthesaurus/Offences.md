@@ -1,15 +1,12 @@
 ---
 title: Offences
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Offences
+longTitle: 'Offences'
+tags:
+- gccommon
 broaderTerm:
-- "[[18633 Sexual offences]]"
+- "[[Sexual offences]]"
 relatedTerm:
-- "[[4464 Crime]]"
-- "[[4144 Contravention]]"
+- "[[Crime Contravention]]"
 use:
-- "[[14886 Offenses]]"
+- "[[Offenses]]"
 ---
-# Offences

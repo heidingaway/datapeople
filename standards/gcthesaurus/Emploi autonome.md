@@ -1,10 +1,8 @@
 ---
 title: Emploi autonome
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Emploi autonome
+longTitle: 'Emploi autonome'
+tags:
+- gccommon
 french:
-- "[[18498 Self employment]]"
+- "[[Self employment]]"
 ---
-# Emploi autonome

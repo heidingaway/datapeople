@@ -1,10 +1,8 @@
 ---
 title: Gestion du savoir
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gestion du savoir
+longTitle: 'Gestion du savoir'
+tags:
+- gccommon
 french:
-- "[[11763 Knowledge management]]"
+- "[[Knowledge management]]"
 ---
-# Gestion du savoir

@@ -1,12 +1,10 @@
 ---
 title: Military law
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Military law
+longTitle: 'Military law'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12160 Law]]"
+- "[[Law]]"
 relatedTerm:
-- "[[1425 Armed forces]]"
+- "[[Armed forces]]"
 ---
-# Military law

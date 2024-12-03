@@ -1,10 +1,8 @@
 ---
 title: Carburant de remplacement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Carburant de remplacement
+longTitle: 'Carburant de remplacement'
+tags:
+- gccommon
 french:
-- "[[899 Alternative fuels]]"
+- "[[Alternative fuels]]"
 ---
-# Carburant de remplacement

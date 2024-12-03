@@ -1,10 +1,8 @@
 ---
 title: Union de fait
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Union de fait
+longTitle: 'Union de fait'
+tags:
+- gccommon
 french:
-- "[[3636 Common-law unions]]"
+- "[[Common-law unions]]"
 ---
-# Union de fait

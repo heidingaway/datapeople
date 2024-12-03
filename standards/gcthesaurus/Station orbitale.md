@@ -1,10 +1,8 @@
 ---
 title: Station orbitale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Station orbitale
+longTitle: 'Station orbitale'
+tags:
+- gccommon
 french:
-- "[[19183 Space station]]"
+- "[[Space station]]"
 ---
-# Station orbitale

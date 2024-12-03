@@ -1,13 +1,10 @@
 ---
 title: Plain language
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Plain language
+longTitle: 'Plain language'
+tags:
+- gccommon
 relatedTerm:
-- "[[12140 Languages]]"
-- "[[22070 Writing]]"
+- "[[Languages Writing]]"
 use:
-- "[[3318 Clear language]]"
+- "[[Clear language]]"
 ---
-# Plain language

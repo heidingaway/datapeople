@@ -1,10 +1,8 @@
 ---
 title: Adjudication
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Adjudication
+longTitle: 'Adjudication'
+tags:
+- gccommon
 usedFor:
-- "[[4376 Court decisions]]"
+- "[[Court decisions]]"
 ---
-# Adjudication

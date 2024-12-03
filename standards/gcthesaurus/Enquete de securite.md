@@ -1,10 +1,8 @@
 ---
 title: Enquete de securite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Enquête de sécurité
+longTitle: 'Enquête de sécurité'
+tags:
+- gccommon
 french:
-- "[[18457 Security investigations]]"
+- "[[Security investigations]]"
 ---
-# Enquete de securite

@@ -1,10 +1,8 @@
 ---
 title: Helicopter industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Helicopter industry
+longTitle: 'Helicopter industry'
+tags:
+- gccommon
 usedFor:
-- "[[1799 Aviation industry]]"
+- "[[Aviation industry]]"
 ---
-# Helicopter industry

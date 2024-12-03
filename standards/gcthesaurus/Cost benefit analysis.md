@@ -1,10 +1,8 @@
 ---
 title: Cost benefit analysis
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cost benefit analysis
+longTitle: 'Cost benefit analysis'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5827 Economic analysis]]"
+- "[[Economic analysis]]"
 ---
-# Cost benefit analysis

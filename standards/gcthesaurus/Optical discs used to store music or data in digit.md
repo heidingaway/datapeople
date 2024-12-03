@@ -1,10 +1,8 @@
 ---
 title: Optical discs used to store music or data in digit
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Optical discs used to store music or data in digital form played back by a laser.
+longTitle: 'Optical discs used to store music or data in digital form played back by a laser.'
+tags:
+- gccommon
 scopeNote:
-- "[[3738 Compact discs]]"
+- "[[Compact discs]]"
 ---
-# Optical discs used to store music or data in digit

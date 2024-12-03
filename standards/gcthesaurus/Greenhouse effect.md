@@ -1,15 +1,10 @@
 ---
 title: Greenhouse effect
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Greenhouse effect
+longTitle: 'Greenhouse effect'
+tags:
+- gccommon
 relatedTerm:
-- "[[9367 Greenhouse gases]]"
-- "[[6889 Environmental impact]]"
-- "[[9106 Global warming]]"
-- "[[674 Air temperature]]"
+- "[[Greenhouse gases Environmental impact Global warmi]]"
 use:
-- "[[1663 Atmospheric greenhouse effect]]"
+- "[[Atmospheric greenhouse effect]]"
 ---
-# Greenhouse effect

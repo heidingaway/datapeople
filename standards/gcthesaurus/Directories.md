@@ -1,13 +1,10 @@
 ---
 title: Directories
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Directories
+longTitle: 'Directories'
+tags:
+- gccommon
 broaderTerm:
-- "[[19967 Telephone directories]]"
-- "[[8765 Gazetteers]]"
+- "[[Telephone directories Gazetteers]]"
 use:
-- "[[17571 Repertories]]"
+- "[[Repertories]]"
 ---
-# Directories

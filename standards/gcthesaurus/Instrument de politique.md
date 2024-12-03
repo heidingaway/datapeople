@@ -1,10 +1,8 @@
 ---
 title: Instrument de politique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Instrument de politique
+longTitle: 'Instrument de politique'
+tags:
+- gccommon
 french:
-- "[[15971 Policy instruments]]"
+- "[[Policy instruments]]"
 ---
-# Instrument de politique

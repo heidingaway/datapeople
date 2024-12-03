@@ -1,10 +1,8 @@
 ---
 title: Marine plants
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marine plants
+longTitle: 'Marine plants'
+tags:
+- gccommon
 usedFor:
-- "[[1298 Aquatic plants]]"
+- "[[Aquatic plants]]"
 ---
-# Marine plants

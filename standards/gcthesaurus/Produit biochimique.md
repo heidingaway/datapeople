@@ -1,10 +1,8 @@
 ---
 title: Produit biochimique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Produit biochimique
+longTitle: 'Produit biochimique'
+tags:
+- gccommon
 french:
-- "[[2089 Biochemicals]]"
+- "[[Biochemicals]]"
 ---
-# Produit biochimique

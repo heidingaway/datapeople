@@ -1,10 +1,8 @@
 ---
 title: Donnees lisibles par machine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Données lisibles par machine
+longTitle: 'Données lisibles par machine'
+tags:
+- gccommon
 french:
-- "[[12678 Machine readable data]]"
+- "[[Machine readable data]]"
 ---
-# Donnees lisibles par machine

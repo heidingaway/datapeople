@@ -1,10 +1,8 @@
 ---
 title: Cimetiere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cimetière
+longTitle: 'Cimetière'
+tags:
+- gccommon
 french:
-- "[[2911 Cemeteries]]"
+- "[[Cemeteries]]"
 ---
-# Cimetiere

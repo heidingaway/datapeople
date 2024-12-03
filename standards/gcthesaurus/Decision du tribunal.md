@@ -1,10 +1,8 @@
 ---
 title: Decision du tribunal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Décision du tribunal
+longTitle: 'Décision du tribunal'
+tags:
+- gccommon
 french:
-- "[[4374 Court decisions]]"
+- "[[Court decisions]]"
 ---
-# Decision du tribunal

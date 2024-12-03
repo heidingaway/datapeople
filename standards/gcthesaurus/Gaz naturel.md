@@ -1,10 +1,8 @@
 ---
 title: Gaz naturel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gaz naturel
+longTitle: 'Gaz naturel'
+tags:
+- gccommon
 french:
-- "[[14291 Natural gas]]"
+- "[[Natural gas]]"
 ---
-# Gaz naturel

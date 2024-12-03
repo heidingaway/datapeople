@@ -1,10 +1,8 @@
 ---
 title: Collectively all the Indigenous people in Canada w
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Collectively all the Indigenous people in Canada who are not Inuit or Métis.
+longTitle: 'Collectively all the Indigenous people in Canada who are not Inuit or Métis.'
+tags:
+- gccommon
 scopeNote:
-- "[[7814 First Nations]]"
+- "[[First Nations]]"
 ---
-# Collectively all the Indigenous people in Canada w

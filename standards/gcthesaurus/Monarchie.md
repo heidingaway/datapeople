@@ -1,10 +1,8 @@
 ---
 title: Monarchie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Monarchie
+longTitle: 'Monarchie'
+tags:
+- gccommon
 french:
-- "[[13866 Monarchy]]"
+- "[[Monarchy]]"
 ---
-# Monarchie

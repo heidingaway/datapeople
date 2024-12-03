@@ -1,13 +1,10 @@
 ---
 title: Provincial parks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Provincial parks
+longTitle: 'Provincial parks'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15280 Parks]]"
+- "[[Parks]]"
 relatedTerm:
-- "[[14306 Natural heritage]]"
-- "[[16692 Provinces]]"
+- "[[Natural heritage Provinces]]"
 ---
-# Provincial parks

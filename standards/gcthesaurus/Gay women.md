@@ -1,10 +1,8 @@
 ---
 title: Gay women
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gay women
+longTitle: 'Gay women'
+tags:
+- gccommon
 usedFor:
-- "[[12358 Lesbians]]"
+- "[[Lesbians]]"
 ---
-# Gay women

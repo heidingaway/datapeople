@@ -1,10 +1,8 @@
 ---
 title: Commercialisation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Commercialisation
+longTitle: 'Commercialisation'
+tags:
+- gccommon
 french:
-- "[[3608 Commercialization]]"
+- "[[Commercialization]]"
 ---
-# Commercialisation

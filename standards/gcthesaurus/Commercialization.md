@@ -1,10 +1,8 @@
 ---
 title: Commercialization
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Commercialization
+longTitle: 'Commercialization'
+tags:
+- gccommon
 relatedTerm:
-- "[[13092 Marketing]]"
+- "[[Marketing]]"
 ---
-# Commercialization

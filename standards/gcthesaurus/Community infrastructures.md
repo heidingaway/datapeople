@@ -1,12 +1,10 @@
 ---
 title: Community infrastructures
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Community infrastructures
+longTitle: 'Community infrastructures'
+tags:
+- gccommon
 narrowerTerm:
-- "[[11068 Infrastructures]]"
+- "[[Infrastructures]]"
 relatedTerm:
-- "[[3690 Community development]]"
+- "[[Community development]]"
 ---
-# Community infrastructures

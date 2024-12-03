@@ -1,10 +1,8 @@
 ---
 title: Indicateur de leducation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indicateur de l'éducation
+longTitle: 'Indicateur de l'éducation'
+tags:
+- gccommon
 french:
-- "[[6065 Education indicators]]"
+- "[[Education indicators]]"
 ---
-# Indicateur de leducation

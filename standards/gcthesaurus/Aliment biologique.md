@@ -1,10 +1,8 @@
 ---
 title: Aliment biologique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aliment biologique
+longTitle: 'Aliment biologique'
+tags:
+- gccommon
 french:
-- "[[15099 Organic foods]]"
+- "[[Organic foods]]"
 ---
-# Aliment biologique

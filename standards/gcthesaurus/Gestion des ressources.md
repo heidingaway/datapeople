@@ -1,10 +1,8 @@
 ---
 title: Gestion des ressources
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gestion des ressources
+longTitle: 'Gestion des ressources'
+tags:
+- gccommon
 french:
-- "[[17737 Resources management]]"
+- "[[Resources management]]"
 ---
-# Gestion des ressources

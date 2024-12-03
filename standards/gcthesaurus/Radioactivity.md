@@ -1,11 +1,8 @@
 ---
 title: Radioactivity
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Radioactivity
+longTitle: 'Radioactivity'
+tags:
+- gccommon
 relatedTerm:
-- "[[17067 Radiation]]"
-- "[[17097 Radioactive materials]]"
+- "[[Radiation Radioactive materials]]"
 ---
-# Radioactivity

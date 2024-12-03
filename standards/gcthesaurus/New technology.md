@@ -1,10 +1,8 @@
 ---
 title: New technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: New technology
+longTitle: 'New technology'
+tags:
+- gccommon
 usedFor:
-- "[[9919 High technology]]"
+- "[[High technology]]"
 ---
-# New technology

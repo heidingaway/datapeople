@@ -1,10 +1,8 @@
 ---
 title: Alphabetisation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Alphabétisation
+longTitle: 'Alphabétisation'
+tags:
+- gccommon
 french:
-- "[[12489 Literacy]]"
+- "[[Literacy]]"
 ---
-# Alphabetisation

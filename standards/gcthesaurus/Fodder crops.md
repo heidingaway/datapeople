@@ -1,10 +1,8 @@
 ---
 title: Fodder crops
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fodder crops
+longTitle: 'Fodder crops'
+tags:
+- gccommon
 usedFor:
-- "[[8199 Forage crops]]"
+- "[[Forage crops]]"
 ---
-# Fodder crops

@@ -1,27 +1,12 @@
 ---
 title: Water
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Water
+longTitle: 'Water'
+tags:
+- gccommon
 broaderTerm:
-- "[[18119 Salt water]]"
-- "[[19580 Surface water]]"
-- "[[21359 Waste water]]"
-- "[[9400 Groundwater]]"
-- "[[5583 Drinking water]]"
-- "[[8536 Fresh water]]"
+- "[[Salt water Surface water Waste water Groundwater D]]"
 relatedTerm:
-- "[[21441 Water management]]"
-- "[[21453 Water pollution]]"
-- "[[10378 Hydrology]]"
-- "[[10432 Ice]]"
-- "[[21401 Water conservation]]"
-- "[[21460 Water quality]]"
-- "[[21529 Water use]]"
-- "[[21476 Water supply]]"
-- "[[21417 Water demand]]"
+- "[[Water management Water pollution Hydrology Ice Wat]]"
 use:
-- "[[21468 Water resources]]"
+- "[[Water resources]]"
 ---
-# Water

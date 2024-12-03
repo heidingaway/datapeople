@@ -1,10 +1,8 @@
 ---
 title: Soft energy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Soft energy
+longTitle: 'Soft energy'
+tags:
+- gccommon
 usedFor:
-- "[[892 Alternative energy]]"
+- "[[Alternative energy]]"
 ---
-# Soft energy

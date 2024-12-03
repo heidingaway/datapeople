@@ -1,10 +1,8 @@
 ---
 title: Metrication
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Metrication
+longTitle: 'Metrication'
+tags:
+- gccommon
 usedFor:
-- "[[13504 Metric system]]"
+- "[[Metric system]]"
 ---
-# Metrication

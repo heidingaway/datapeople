@@ -1,10 +1,8 @@
 ---
 title: Securite humaine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sécurité humaine
+longTitle: 'Sécurité humaine'
+tags:
+- gccommon
 french:
-- "[[10225 Human security]]"
+- "[[Human security]]"
 ---
-# Securite humaine

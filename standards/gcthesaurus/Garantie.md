@@ -1,10 +1,8 @@
 ---
 title: Garantie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Garantie
+longTitle: 'Garantie'
+tags:
+- gccommon
 french:
-- "[[21285 Warranties]]"
+- "[[Warranties]]"
 ---
-# Garantie

@@ -1,17 +1,12 @@
 ---
 title: Skills
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Skills
+longTitle: 'Skills'
+tags:
+- gccommon
 broaderTerm:
-- "[[12436 Life skills]]"
+- "[[Life skills]]"
 relatedTerm:
-- "[[18786 Skills transfer]]"
-- "[[7274 Expertise]]"
-- "[[16982 Qualifications]]"
+- "[[Skills transfer Expertise Qualifications]]"
 use:
-- "[[3762 Competencies]]"
-- "[[25 Abilities]]"
+- "[[Competencies Abilities]]"
 ---
-# Skills

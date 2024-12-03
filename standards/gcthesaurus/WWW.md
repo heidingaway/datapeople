@@ -1,10 +1,8 @@
 ---
 title: WWW
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: WWW
+longTitle: 'WWW'
+tags:
+- gccommon
 usedFor:
-- "[[11469 Internet]]"
+- "[[Internet]]"
 ---
-# WWW

@@ -1,10 +1,8 @@
 ---
 title: Requirements
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Requirements
+longTitle: 'Requirements'
+tags:
+- gccommon
 usedFor:
-- "[[19215 Specifications]]"
+- "[[Specifications]]"
 ---
-# Requirements

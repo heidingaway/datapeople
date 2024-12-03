@@ -1,10 +1,8 @@
 ---
 title: Allergie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Allergie
+longTitle: 'Allergie'
+tags:
+- gccommon
 french:
-- "[[860 Allergies]]"
+- "[[Allergies]]"
 ---
-# Allergie

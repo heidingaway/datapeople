@@ -1,10 +1,8 @@
 ---
 title: Symbole
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Symbole
+longTitle: 'Symbole'
+tags:
+- gccommon
 french:
-- "[[19656 Symbols]]"
+- "[[Symbols]]"
 ---
-# Symbole

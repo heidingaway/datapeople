@@ -1,10 +1,8 @@
 ---
 title: Transportation industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transportation industry
+longTitle: 'Transportation industry'
+tags:
+- gccommon
 usedFor:
-- "[[20623 Transport industry]]"
+- "[[Transport industry]]"
 ---
-# Transportation industry

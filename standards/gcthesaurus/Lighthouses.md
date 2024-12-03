@@ -1,15 +1,12 @@
 ---
 title: Lighthouses
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Lighthouses
+longTitle: 'Lighthouses'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12959 Marine installations]]"
+- "[[Marine installations]]"
 relatedTerm:
-- "[[12986 Marine safety]]"
-- "[[14377 Navigation]]"
+- "[[Marine safety Navigation]]"
 use:
-- "[[1904 Beacons]]"
+- "[[Beacons]]"
 ---
-# Lighthouses

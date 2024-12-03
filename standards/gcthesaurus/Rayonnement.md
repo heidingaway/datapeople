@@ -1,10 +1,8 @@
 ---
 title: Rayonnement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rayonnement
+longTitle: 'Rayonnement'
+tags:
+- gccommon
 french:
-- "[[17062 Radiation]]"
+- "[[Radiation]]"
 ---
-# Rayonnement

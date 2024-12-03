@@ -1,10 +1,8 @@
 ---
 title: Depistage Medecine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dépistage (Médecine)
+longTitle: 'Dépistage (Médecine)'
+tags:
+- gccommon
 french:
-- "[[18288 Screening (Medicine)]]"
+- "[[Screening Medicine]]"
 ---
-# Depistage Medecine

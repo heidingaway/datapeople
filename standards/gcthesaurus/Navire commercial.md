@@ -1,10 +1,8 @@
 ---
 title: Navire commercial
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Navire commercial
+longTitle: 'Navire commercial'
+tags:
+- gccommon
 french:
-- "[[3597 Commercial ships]]"
+- "[[Commercial ships]]"
 ---
-# Navire commercial

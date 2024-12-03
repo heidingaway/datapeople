@@ -1,10 +1,8 @@
 ---
 title: Pret a terme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prêt à terme
+longTitle: 'Prêt à terme'
+tags:
+- gccommon
 french:
-- "[[20026 Term loans]]"
+- "[[Term loans]]"
 ---
-# Pret a terme

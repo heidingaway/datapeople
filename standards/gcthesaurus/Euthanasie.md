@@ -1,10 +1,8 @@
 ---
 title: Euthanasie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Euthanasie
+longTitle: 'Euthanasie'
+tags:
+- gccommon
 french:
-- "[[7193 Euthanasia]]"
+- "[[Euthanasia]]"
 ---
-# Euthanasie

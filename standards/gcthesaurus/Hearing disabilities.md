@@ -1,15 +1,12 @@
 ---
 title: Hearing disabilities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hearing disabilities
+longTitle: 'Hearing disabilities'
+tags:
+- gccommon
 broaderTerm:
-- "[[4936 Deafness]]"
+- "[[Deafness]]"
 narrowerTerm:
-- "[[5301 Disabilities]]"
+- "[[Disabilities]]"
 use:
-- "[[9805 Hearing loss]]"
-- "[[9803 Hearing impairments]]"
+- "[[Hearing loss Hearing impairments]]"
 ---
-# Hearing disabilities

@@ -1,12 +1,10 @@
 ---
 title: Bacteria
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bacteria
+longTitle: 'Bacteria'
+tags:
+- gccommon
 narrowerTerm:
-- "[[13560 Microorganisms]]"
+- "[[Microorganisms]]"
 relatedTerm:
-- "[[1836 Bacteriology]]"
+- "[[Bacteriology]]"
 ---
-# Bacteria

@@ -1,10 +1,8 @@
 ---
 title: Ecosysteme arctique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Écosystème arctique
+longTitle: 'Écosystème arctique'
+tags:
+- gccommon
 french:
-- "[[1397 Arctic ecosystems]]"
+- "[[Arctic ecosystems]]"
 ---
-# Ecosysteme arctique

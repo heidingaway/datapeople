@@ -1,12 +1,10 @@
 ---
 title: Government plans
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Government plans
+longTitle: 'Government plans'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9255 Governments]]"
+- "[[Governments]]"
 relatedTerm:
-- "[[7547 Federal government]]"
+- "[[Federal government]]"
 ---
-# Government plans

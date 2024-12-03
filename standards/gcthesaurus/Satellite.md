@@ -1,10 +1,8 @@
 ---
 title: Satellite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Satellite
+longTitle: 'Satellite'
+tags:
+- gccommon
 french:
-- "[[18163 Satellites]]"
+- "[[Satellites]]"
 ---
-# Satellite

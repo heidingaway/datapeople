@@ -1,10 +1,8 @@
 ---
 title: Economic activity dedicated to the primary process
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Economic activity dedicated to the primary processing of wood, aside from the pulp and paper sector.
+longTitle: 'Economic activity dedicated to the primary processing of wood, aside from the pulp and paper sector.'
+tags:
+- gccommon
 scopeNote:
-- "[[12661 Lumber industry]]"
+- "[[Lumber industry]]"
 ---
-# Economic activity dedicated to the primary process

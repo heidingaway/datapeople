@@ -1,10 +1,8 @@
 ---
 title: Code of values
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Code of values
+longTitle: 'Code of values'
+tags:
+- gccommon
 usedFor:
-- "[[20885 Values]]"
+- "[[Values]]"
 ---
-# Code of values

@@ -1,10 +1,8 @@
 ---
 title: Risk analysis
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Risk analysis
+longTitle: 'Risk analysis'
+tags:
+- gccommon
 usedFor:
-- "[[17843 Risk management]]"
+- "[[Risk management]]"
 ---
-# Risk analysis

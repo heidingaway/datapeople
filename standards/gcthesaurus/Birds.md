@@ -1,15 +1,12 @@
 ---
 title: Birds
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Birds
+longTitle: 'Birds'
+tags:
+- gccommon
 broaderTerm:
-- "[[1281 Aquatic birds]]"
-- "[[13591 Migratory birds]]"
+- "[[Aquatic birds Migratory birds]]"
 narrowerTerm:
-- "[[1110 Animals]]"
+- "[[Animals]]"
 relatedTerm:
-- "[[15127 Ornithology]]"
+- "[[Ornithology]]"
 ---
-# Birds

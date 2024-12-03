@@ -1,10 +1,8 @@
 ---
 title: Technologies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Technologies
+longTitle: 'Technologies'
+tags:
+- gccommon
 usedFor:
-- "[[19862 Technology]]"
+- "[[Technology]]"
 ---
-# Technologies

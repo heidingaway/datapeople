@@ -1,28 +1,14 @@
 ---
 title: Marketing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marketing
+longTitle: 'Marketing'
+tags:
+- gccommon
 broaderTerm:
-- "[[5291 Direct marketing]]"
+- "[[Direct marketing]]"
 french:
-- "[[13084 Marketing]]"
+- "[[Marketing]]"
 relatedTerm:
-- "[[13103 Marketing campaigns]]"
-- "[[308 Advertising]]"
-- "[[1819 Awareness]]"
-- "[[16870 Public relations]]"
-- "[[20430 Trade promotion]]"
-- "[[13063 Market development]]"
-- "[[13052 Market analysis]]"
-- "[[18098 Sales]]"
-- "[[17778 Retail trade]]"
-- "[[3610 Commercialization]]"
-- "[[13067 Market entry]]"
+- "[[Marketing campaigns Advertising Awareness Public r]]"
 use:
-- "[[13105 Marketing practices]]"
-- "[[13409 Merchandising]]"
-- "[[18104 Sales promotion]]"
+- "[[Marketing practices Merchandising Sales promotion]]"
 ---
-# Marketing

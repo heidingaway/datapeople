@@ -1,18 +1,12 @@
 ---
 title: Price regulation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Price regulation
+longTitle: 'Price regulation'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17461 Regulation]]"
+- "[[Regulation]]"
 relatedTerm:
-- "[[16322 Prices]]"
-- "[[16329 Pricing]]"
-- "[[5937 Economic regulations]]"
+- "[[Prices Pricing Economic regulations]]"
 use:
-- "[[16298 Price freeze]]"
-- "[[16292 Price control]]"
-- "[[16315 Price stabilization]]"
+- "[[Price freeze Price control Price stabilization]]"
 ---
-# Price regulation

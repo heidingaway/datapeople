@@ -1,10 +1,8 @@
 ---
 title: Criminal harassment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Criminal harassment
+longTitle: 'Criminal harassment'
+tags:
+- gccommon
 usedFor:
-- "[[9464 Harassment]]"
+- "[[Harassment]]"
 ---
-# Criminal harassment

@@ -1,10 +1,8 @@
 ---
 title: Occupational rehabilitation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Occupational rehabilitation
+longTitle: 'Occupational rehabilitation'
+tags:
+- gccommon
 usedFor:
-- "[[21173 Vocational rehabilitation]]"
+- "[[Vocational rehabilitation]]"
 ---
-# Occupational rehabilitation

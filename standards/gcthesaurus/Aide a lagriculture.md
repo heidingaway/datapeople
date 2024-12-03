@@ -1,10 +1,8 @@
 ---
 title: Aide a lagriculture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aide à l'agriculture
+longTitle: 'Aide à l'agriculture'
+tags:
+- gccommon
 french:
-- "[[464 Agricultural assistance]]"
+- "[[Agricultural assistance]]"
 ---
-# Aide a lagriculture

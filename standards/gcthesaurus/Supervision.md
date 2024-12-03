@@ -1,13 +1,10 @@
 ---
 title: Supervision
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Supervision
+longTitle: 'Supervision'
+tags:
+- gccommon
 french:
-- "[[19535 Supervision]]"
+- "[[Supervision]]"
 relatedTerm:
-- "[[15577 Personnel management]]"
-- "[[4210 Coordination]]"
+- "[[Personnel management Coordination]]"
 ---
-# Supervision

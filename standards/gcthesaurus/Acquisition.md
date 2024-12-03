@@ -1,10 +1,8 @@
 ---
 title: Acquisition
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Acquisition
+longTitle: 'Acquisition'
+tags:
+- gccommon
 usedFor:
-- "[[16969 Purchasing]]"
+- "[[Purchasing]]"
 ---
-# Acquisition

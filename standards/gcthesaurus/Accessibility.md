@@ -1,12 +1,10 @@
 ---
 title: Accessibility
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Accessibility
+longTitle: 'Accessibility'
+tags:
+- gccommon
 broaderTerm:
-- "[[102 Accessibility for persons with disabilities]]"
+- "[[Accessibility for persons with disabilities]]"
 relatedTerm:
-- "[[16754 Public access]]"
+- "[[Public access]]"
 ---
-# Accessibility

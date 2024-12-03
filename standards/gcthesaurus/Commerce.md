@@ -1,12 +1,10 @@
 ---
 title: Commerce
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Commerce
+longTitle: 'Commerce'
+tags:
+- gccommon
 french:
-- "[[20360 Trade]]"
+- "[[Trade]]"
 usedFor:
-- "[[20361 Trade]]"
+- "[[Trade]]"
 ---
-# Commerce

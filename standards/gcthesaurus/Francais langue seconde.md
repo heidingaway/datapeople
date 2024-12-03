@@ -1,10 +1,8 @@
 ---
 title: Francais langue seconde
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Français langue seconde
+longTitle: 'Français langue seconde'
+tags:
+- gccommon
 french:
-- "[[8519 French second language]]"
+- "[[French second language]]"
 ---
-# Francais langue seconde

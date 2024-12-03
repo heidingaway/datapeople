@@ -1,15 +1,10 @@
 ---
 title: Fertility
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fertility
+longTitle: 'Fertility'
+tags:
+- gccommon
 relatedTerm:
-- "[[18517 Semen]]"
-- "[[17609 Reproductive technology]]"
-- "[[1067 Animal reproduction]]"
-- "[[2269 Birth rate]]"
+- "[[Semen Reproductive technology Animal reproduction ]]"
 use:
-- "[[10933 Infertility]]"
+- "[[Infertility]]"
 ---
-# Fertility

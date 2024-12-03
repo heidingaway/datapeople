@@ -1,15 +1,10 @@
 ---
 title: Public accounts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public accounts
+longTitle: 'Public accounts'
+tags:
+- gccommon
 relatedTerm:
-- "[[17257 Receiver General]]"
-- "[[19544 Supplementary estimates]]"
-- "[[16819 Public finance]]"
+- "[[Receiver General Supplementary estimates Public fi]]"
 use:
-- "[[14165 National accounts]]"
-- "[[9146 Government accounts]]"
+- "[[National accounts Government accounts]]"
 ---
-# Public accounts

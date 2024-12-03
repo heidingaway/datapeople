@@ -1,10 +1,8 @@
 ---
 title: Aliment genetiquement modifie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aliment génétiquement modifié
+longTitle: 'Aliment génétiquement modifié'
+tags:
+- gccommon
 french:
-- "[[8847 Genetically modified foods]]"
+- "[[Genetically modified foods]]"
 ---
-# Aliment genetiquement modifie

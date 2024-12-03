@@ -1,10 +1,8 @@
 ---
 title: Tendances
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tendances
+longTitle: 'Tendances'
+tags:
+- gccommon
 french:
-- "[[20696 Trends]]"
+- "[[Trends]]"
 ---
-# Tendances

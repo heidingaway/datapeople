@@ -1,10 +1,8 @@
 ---
 title: Documents stating results achieved or providing ev
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Documents stating results achieved or providing evidence of activities performed.
+longTitle: 'Documents stating results achieved or providing evidence of activities performed.'
+tags:
+- gccommon
 scopeNote:
-- "[[17285 Records]]"
+- "[[Records]]"
 ---
-# Documents stating results achieved or providing ev

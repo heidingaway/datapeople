@@ -1,10 +1,8 @@
 ---
 title: Federal bodies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Federal bodies
+longTitle: 'Federal bodies'
+tags:
+- gccommon
 usedFor:
-- "[[7564 Federal institutions]]"
+- "[[Federal institutions]]"
 ---
-# Federal bodies

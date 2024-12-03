@@ -1,12 +1,10 @@
 ---
 title: Annual reports
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Annual reports
+longTitle: 'Annual reports'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17578 Reports]]"
+- "[[Reports]]"
 relatedTerm:
-- "[[249 Administrative writing]]"
+- "[[Administrative writing]]"
 ---
-# Annual reports

@@ -1,11 +1,8 @@
 ---
 title: Social life
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Social life
+longTitle: 'Social life'
+tags:
+- gccommon
 relatedTerm:
-- "[[4797 Daily life]]"
-- "[[18882 Social conditions]]"
+- "[[Daily life Social conditions]]"
 ---
-# Social life

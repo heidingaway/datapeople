@@ -1,10 +1,8 @@
 ---
 title: Industrie cinematographique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie cinématographique
+longTitle: 'Industrie cinématographique'
+tags:
+- gccommon
 french:
-- "[[7675 Film industry]]"
+- "[[Film industry]]"
 ---
-# Industrie cinematographique

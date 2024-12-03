@@ -1,10 +1,8 @@
 ---
 title: Adulteration
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Adulteration
+longTitle: 'Adulteration'
+tags:
+- gccommon
 usedFor:
-- "[[8428 Forgery]]"
+- "[[Forgery]]"
 ---
-# Adulteration

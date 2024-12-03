@@ -1,10 +1,8 @@
 ---
 title: Transfert de droit
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transfert de droit
+longTitle: 'Transfert de droit'
+tags:
+- gccommon
 french:
-- "[[6755 Entitlement]]"
+- "[[Entitlement]]"
 ---
-# Transfert de droit

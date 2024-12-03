@@ -1,10 +1,8 @@
 ---
 title: Physical exercise
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Physical exercise
+longTitle: 'Physical exercise'
+tags:
+- gccommon
 usedFor:
-- "[[8011 Fitness]]"
+- "[[Fitness]]"
 ---
-# Physical exercise

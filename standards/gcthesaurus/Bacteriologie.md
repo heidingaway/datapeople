@@ -1,10 +1,8 @@
 ---
 title: Bacteriologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bactériologie
+longTitle: 'Bactériologie'
+tags:
+- gccommon
 french:
-- "[[1834 Bacteriology]]"
+- "[[Bacteriology]]"
 ---
-# Bacteriologie

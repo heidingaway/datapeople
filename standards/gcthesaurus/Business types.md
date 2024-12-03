@@ -1,14 +1,10 @@
 ---
 title: Business types
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Business types
+longTitle: 'Business types'
+tags:
+- gccommon
 relatedTerm:
-- "[[8467 Franchises]]"
-- "[[19128 Sole proprietorships]]"
-- "[[2606 Businesses]]"
+- "[[Franchises Sole proprietorships Businesses]]"
 use:
-- "[[20752 Type of business]]"
+- "[[Type of business]]"
 ---
-# Business types

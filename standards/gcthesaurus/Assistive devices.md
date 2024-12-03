@@ -1,10 +1,8 @@
 ---
 title: Assistive devices
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Assistive devices
+longTitle: 'Assistive devices'
+tags:
+- gccommon
 usedFor:
-- "[[1594 Assistive technologies]]"
+- "[[Assistive technologies]]"
 ---
-# Assistive devices

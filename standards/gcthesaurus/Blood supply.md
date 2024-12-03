@@ -1,13 +1,10 @@
 ---
 title: Blood supply
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Blood supply
+longTitle: 'Blood supply'
+tags:
+- gccommon
 relatedTerm:
-- "[[6446 Emergency services]]"
-- "[[10909 Infected blood]]"
+- "[[Emergency services Infected blood]]"
 use:
-- "[[2299 Blood banks]]"
+- "[[Blood banks]]"
 ---
-# Blood supply

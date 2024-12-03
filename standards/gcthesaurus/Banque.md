@@ -1,10 +1,8 @@
 ---
 title: Banque
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Banque
+longTitle: 'Banque'
+tags:
+- gccommon
 french:
-- "[[1861 Banks]]"
+- "[[Banks]]"
 ---
-# Banque

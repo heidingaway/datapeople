@@ -1,10 +1,8 @@
 ---
 title: Collecte de fonds
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Collecte de fonds
+longTitle: 'Collecte de fonds'
+tags:
+- gccommon
 french:
-- "[[8640 Fundraising]]"
+- "[[Fundraising]]"
 ---
-# Collecte de fonds

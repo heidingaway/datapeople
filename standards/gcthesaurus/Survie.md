@@ -1,10 +1,8 @@
 ---
 title: Survie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Survie
+longTitle: 'Survie'
+tags:
+- gccommon
 french:
-- "[[19619 Survival]]"
+- "[[Survival]]"
 ---
-# Survie

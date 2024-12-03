@@ -1,10 +1,8 @@
 ---
 title: Residence officielle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Résidence officielle
+longTitle: 'Résidence officielle'
+tags:
+- gccommon
 french:
-- "[[14946 Official residences]]"
+- "[[Official residences]]"
 ---
-# Residence officielle

@@ -1,13 +1,10 @@
 ---
 title: Trends
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Trends
+longTitle: 'Trends'
+tags:
+- gccommon
 broaderTerm:
-- "[[19033 Social trends]]"
-- "[[5965 Economic trends]]"
+- "[[Social trends Economic trends]]"
 relatedTerm:
-- "[[8212 Forecasting]]"
+- "[[Forecasting]]"
 ---
-# Trends

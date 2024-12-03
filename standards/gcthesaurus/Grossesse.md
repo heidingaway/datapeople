@@ -1,10 +1,8 @@
 ---
 title: Grossesse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Grossesse
+longTitle: 'Grossesse'
+tags:
+- gccommon
 french:
-- "[[16218 Pregnancy]]"
+- "[[Pregnancy]]"
 ---
-# Grossesse

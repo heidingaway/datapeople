@@ -1,11 +1,8 @@
 ---
 title: Harvest
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Harvest
+longTitle: 'Harvest'
+tags:
+- gccommon
 relatedTerm:
-- "[[4550 Crops]]"
-- "[[4525 Crop insurance]]"
+- "[[Crops Crop insurance]]"
 ---
-# Harvest

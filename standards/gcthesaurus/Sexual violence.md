@@ -1,10 +1,8 @@
 ---
 title: Sexual violence
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sexual violence
+longTitle: 'Sexual violence'
+tags:
+- gccommon
 usedFor:
-- "[[18632 Sexual offences]]"
+- "[[Sexual offences]]"
 ---
-# Sexual violence

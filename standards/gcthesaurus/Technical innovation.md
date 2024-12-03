@@ -1,10 +1,8 @@
 ---
 title: Technical innovation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Technical innovation
+longTitle: 'Technical innovation'
+tags:
+- gccommon
 usedFor:
-- "[[19843 Technological innovation]]"
+- "[[Technological innovation]]"
 ---
-# Technical innovation

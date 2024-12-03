@@ -1,10 +1,8 @@
 ---
 title: Medicament dordonnance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Médicament d'ordonnance
+longTitle: 'Médicament d'ordonnance'
+tags:
+- gccommon
 french:
-- "[[16244 Prescription drugs]]"
+- "[[Prescription drugs]]"
 ---
-# Medicament dordonnance

@@ -1,14 +1,12 @@
 ---
 title: Emblems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Emblems
+longTitle: 'Emblems'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19657 Symbols]]"
+- "[[Symbols]]"
 relatedTerm:
-- "[[8020 Flags]]"
+- "[[Flags]]"
 use:
-- "[[1838 Badges]]"
+- "[[Badges]]"
 ---
-# Emblems

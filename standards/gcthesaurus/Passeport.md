@@ -1,10 +1,8 @@
 ---
 title: Passeport
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Passeport
+longTitle: 'Passeport'
+tags:
+- gccommon
 french:
-- "[[15363 Passports]]"
+- "[[Passports]]"
 ---
-# Passeport

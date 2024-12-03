@@ -1,18 +1,12 @@
 ---
 title: Automobile safety equipment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Automobile safety equipment
+longTitle: 'Automobile safety equipment'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18021 Safety equipment]]"
+- "[[Safety equipment]]"
 relatedTerm:
-- "[[17901 Road safety]]"
-- "[[1767 Automobiles]]"
+- "[[Road safety Automobiles]]"
 use:
-- "[[612 Air bags]]"
-- "[[18372 Seat belts]]"
-- "[[2751 Car seats]]"
-- "[[2749 Car restraints]]"
+- "[[Air bags Seat belts Car seats Car restraints]]"
 ---
-# Automobile safety equipment

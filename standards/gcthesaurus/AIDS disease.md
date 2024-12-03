@@ -1,18 +1,12 @@
 ---
 title: AIDS disease
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: AIDS (disease)
+longTitle: 'AIDS (disease)'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10921 Infectious diseases]]"
+- "[[Infectious diseases]]"
 relatedTerm:
-- "[[18653 Sexually transmitted diseases]]"
-- "[[21073 Viruses]]"
+- "[[Sexually transmitted diseases Viruses]]"
 use:
-- "[[179 Acquired immunodeficiency syndrome]]"
-- "[[9989 HIV]]"
-- "[[177 Acquired immune deficiency syndrome]]"
-- "[[10183 Human immunodeficiency virus]]"
+- "[[Acquired immunodeficiency syndrome HIV Acquired im]]"
 ---
-# AIDS disease

@@ -1,13 +1,10 @@
 ---
 title: Cultural programming
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cultural programming
+longTitle: 'Cultural programming'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16563 Programming]]"
+- "[[Programming]]"
 relatedTerm:
-- "[[4640 Cultural events]]"
-- "[[4724 Culture]]"
+- "[[Cultural events Culture]]"
 ---
-# Cultural programming

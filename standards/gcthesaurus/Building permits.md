@@ -1,10 +1,8 @@
 ---
 title: Building permits
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Building permits
+longTitle: 'Building permits'
+tags:
+- gccommon
 usedFor:
-- "[[4020 Construction industry]]"
+- "[[Construction industry]]"
 ---
-# Building permits

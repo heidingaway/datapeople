@@ -1,10 +1,8 @@
 ---
 title: Endangered plants
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Endangered plants
+longTitle: 'Endangered plants'
+tags:
+- gccommon
 usedFor:
-- "[[6606 Endangered species]]"
+- "[[Endangered species]]"
 ---
-# Endangered plants

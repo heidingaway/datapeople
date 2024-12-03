@@ -1,16 +1,12 @@
 ---
 title: Legumes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Legumes
+longTitle: 'Legumes'
+tags:
+- gccommon
 broaderTerm:
-- "[[1907 Beans]]"
-- "[[15420 Peas]]"
-- "[[12353 Lentils]]"
+- "[[Beans Peas Lentils]]"
 narrowerTerm:
-- "[[446 Agri-food products]]"
+- "[[Agri-food products]]"
 use:
-- "[[5567 Dried legumes]]"
+- "[[Dried legumes]]"
 ---
-# Legumes

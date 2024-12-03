@@ -1,20 +1,14 @@
 ---
 title: Intelligent systems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Intelligent systems
+longTitle: 'Intelligent systems'
+tags:
+- gccommon
 broaderTerm:
-- "[[11259 Intelligent transportation systems]]"
+- "[[Intelligent transportation systems]]"
 narrowerTerm:
-- "[[19675 Systems]]"
+- "[[Systems]]"
 relatedTerm:
-- "[[1507 Artificial intelligence]]"
-- "[[11042 Information systems]]"
-- "[[11056 Information technology]]"
+- "[[Artificial intelligence Information systems Inform]]"
 use:
-- "[[1510 Artificial intelligence systems]]"
-- "[[11752 Knowledge-based systems]]"
-- "[[7271 Expert systems]]"
+- "[[Artificial intelligence systems Knowledge-based sy]]"
 ---
-# Intelligent systems

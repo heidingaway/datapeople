@@ -1,10 +1,8 @@
 ---
 title: Subvention de recherche
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Subvention de recherche
+longTitle: 'Subvention de recherche'
+tags:
+- gccommon
 french:
-- "[[17677 Research grants]]"
+- "[[Research grants]]"
 ---
-# Subvention de recherche

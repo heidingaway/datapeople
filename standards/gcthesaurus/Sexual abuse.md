@@ -1,10 +1,8 @@
 ---
 title: Sexual abuse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sexual abuse
+longTitle: 'Sexual abuse'
+tags:
+- gccommon
 usedFor:
-- "[[18627 Sexual offences]]"
+- "[[Sexual offences]]"
 ---
-# Sexual abuse

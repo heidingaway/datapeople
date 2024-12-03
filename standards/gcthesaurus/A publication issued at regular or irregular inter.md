@@ -1,10 +1,8 @@
 ---
 title: A publication issued at regular or irregular inter
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: A publication issued at regular or irregular intervals, for an indefinite period, with a title common to all issues.
+longTitle: 'A publication issued at regular or irregular intervals, for an indefinite period, with a title common to all issues.'
+tags:
+- gccommon
 scopeNote:
-- "[[15488 Periodicals]]"
+- "[[Periodicals]]"
 ---
-# A publication issued at regular or irregular inter

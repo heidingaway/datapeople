@@ -1,10 +1,8 @@
 ---
 title: Baleine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Baleine
+longTitle: 'Baleine'
+tags:
+- gccommon
 french:
-- "[[21683 Whales]]"
+- "[[Whales]]"
 ---
-# Baleine

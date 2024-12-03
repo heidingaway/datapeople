@@ -1,10 +1,8 @@
 ---
 title: Securite de lenfant
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sécurité de l'enfant
+longTitle: 'Sécurité de l'enfant'
+tags:
+- gccommon
 french:
-- "[[3131 Child safety]]"
+- "[[Child safety]]"
 ---
-# Securite de lenfant

@@ -1,10 +1,8 @@
 ---
 title: Soutien logistique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Soutien logistique
+longTitle: 'Soutien logistique'
+tags:
+- gccommon
 french:
-- "[[12640 Logistical support]]"
+- "[[Logistical support]]"
 ---
-# Soutien logistique

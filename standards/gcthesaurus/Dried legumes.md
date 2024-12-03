@@ -1,10 +1,8 @@
 ---
 title: Dried legumes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dried legumes
+longTitle: 'Dried legumes'
+tags:
+- gccommon
 usedFor:
-- "[[12342 Legumes]]"
+- "[[Legumes]]"
 ---
-# Dried legumes

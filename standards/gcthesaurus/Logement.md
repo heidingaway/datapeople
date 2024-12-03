@@ -1,10 +1,8 @@
 ---
 title: Logement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Logement
+longTitle: 'Logement'
+tags:
+- gccommon
 french:
-- "[[10133 Housing]]"
+- "[[Housing]]"
 ---
-# Logement

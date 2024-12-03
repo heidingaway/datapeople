@@ -1,10 +1,8 @@
 ---
 title: Land ecosystems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Land ecosystems
+longTitle: 'Land ecosystems'
+tags:
+- gccommon
 usedFor:
-- "[[20059 Terrestrial ecosystems]]"
+- "[[Terrestrial ecosystems]]"
 ---
-# Land ecosystems

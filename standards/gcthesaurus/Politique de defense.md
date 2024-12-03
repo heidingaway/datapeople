@@ -1,10 +1,8 @@
 ---
 title: Politique de defense
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Politique de défense
+longTitle: 'Politique de défense'
+tags:
+- gccommon
 french:
-- "[[5026 Defence policy]]"
+- "[[Defence policy]]"
 ---
-# Politique de defense

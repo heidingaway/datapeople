@@ -1,10 +1,8 @@
 ---
 title: Elaboration des politiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Élaboration des politiques
+longTitle: 'Élaboration des politiques'
+tags:
+- gccommon
 french:
-- "[[15966 Policy development]]"
+- "[[Policy development]]"
 ---
-# Elaboration des politiques

@@ -1,10 +1,8 @@
 ---
 title: Enfance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Enfance
+longTitle: 'Enfance'
+tags:
+- gccommon
 french:
-- "[[3153 Childhood]]"
+- "[[Childhood]]"
 ---
-# Enfance

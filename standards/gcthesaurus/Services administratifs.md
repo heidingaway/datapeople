@@ -1,10 +1,8 @@
 ---
 title: Services administratifs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Services administratifs
+longTitle: 'Services administratifs'
+tags:
+- gccommon
 french:
-- "[[243 Administrative services]]"
+- "[[Administrative services]]"
 ---
-# Services administratifs

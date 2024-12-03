@@ -1,10 +1,8 @@
 ---
 title: Fundraising campaign
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fundraising campaign
+longTitle: 'Fundraising campaign'
+tags:
+- gccommon
 usedFor:
-- "[[8643 Fundraising]]"
+- "[[Fundraising]]"
 ---
-# Fundraising campaign

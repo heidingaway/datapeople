@@ -1,10 +1,8 @@
 ---
 title: Child abuse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Child abuse
+longTitle: 'Child abuse'
+tags:
+- gccommon
 usedFor:
-- "[[21040 Violence against children]]"
+- "[[Violence against children]]"
 ---
-# Child abuse

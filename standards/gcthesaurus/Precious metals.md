@@ -1,13 +1,10 @@
 ---
 title: Precious metals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Precious metals
+longTitle: 'Precious metals'
+tags:
+- gccommon
 broaderTerm:
-- "[[9128 Gold]]"
-- "[[18745 Silver]]"
+- "[[Gold Silver]]"
 narrowerTerm:
-- "[[13450 Metals]]"
+- "[[Metals]]"
 ---
-# Precious metals

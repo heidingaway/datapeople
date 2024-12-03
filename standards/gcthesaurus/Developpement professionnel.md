@@ -1,10 +1,8 @@
 ---
 title: Developpement professionnel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Développement professionnel
+longTitle: 'Développement professionnel'
+tags:
+- gccommon
 french:
-- "[[16512 Professional development]]"
+- "[[Professional development]]"
 ---
-# Developpement professionnel

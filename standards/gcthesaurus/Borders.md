@@ -1,10 +1,8 @@
 ---
 title: Borders
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Borders
+longTitle: 'Borders'
+tags:
+- gccommon
 usedFor:
-- "[[2380 Boundaries]]"
+- "[[Boundaries]]"
 ---
-# Borders

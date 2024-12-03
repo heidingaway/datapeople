@@ -1,10 +1,8 @@
 ---
 title: Investissement prive
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Investissement privé
+longTitle: 'Investissement privé'
+tags:
+- gccommon
 french:
-- "[[16405 Private investments]]"
+- "[[Private investments]]"
 ---
-# Investissement prive

@@ -1,10 +1,8 @@
 ---
 title: Rats
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rats
+longTitle: 'Rats'
+tags:
+- gccommon
 usedFor:
-- "[[17939 Rodents]]"
+- "[[Rodents]]"
 ---
-# Rats

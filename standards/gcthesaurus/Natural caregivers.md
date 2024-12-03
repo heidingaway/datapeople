@@ -1,10 +1,8 @@
 ---
 title: Natural caregivers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Natural caregivers
+longTitle: 'Natural caregivers'
+tags:
+- gccommon
 usedFor:
-- "[[2795 Caregivers]]"
+- "[[Caregivers]]"
 ---
-# Natural caregivers

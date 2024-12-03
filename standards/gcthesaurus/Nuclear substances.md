@@ -1,10 +1,8 @@
 ---
 title: Nuclear substances
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nuclear substances
+longTitle: 'Nuclear substances'
+tags:
+- gccommon
 usedFor:
-- "[[17089 Radioactive materials]]"
+- "[[Radioactive materials]]"
 ---
-# Nuclear substances

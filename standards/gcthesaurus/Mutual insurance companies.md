@@ -1,10 +1,8 @@
 ---
 title: Mutual insurance companies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mutual insurance companies
+longTitle: 'Mutual insurance companies'
+tags:
+- gccommon
 narrowerTerm:
-- "[[11207 Insurance companies]]"
+- "[[Insurance companies]]"
 ---
-# Mutual insurance companies

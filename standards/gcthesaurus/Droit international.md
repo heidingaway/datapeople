@@ -1,10 +1,8 @@
 ---
 title: Droit international
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Droit international
+longTitle: 'Droit international'
+tags:
+- gccommon
 french:
-- "[[11395 International law]]"
+- "[[International law]]"
 ---
-# Droit international

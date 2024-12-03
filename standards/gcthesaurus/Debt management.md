@@ -1,13 +1,10 @@
 ---
 title: Debt management
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Debt management
+longTitle: 'Debt management'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12752 Management]]"
+- "[[Management]]"
 relatedTerm:
-- "[[16815 Public finance]]"
-- "[[14190 National debt]]"
+- "[[Public finance National debt]]"
 ---
-# Debt management

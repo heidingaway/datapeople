@@ -1,15 +1,12 @@
 ---
 title: Dental insurance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dental insurance
+longTitle: 'Dental insurance'
+tags:
+- gccommon
 narrowerTerm:
-- "[[11192 Insurance]]"
+- "[[Insurance]]"
 relatedTerm:
-- "[[15077 Oral health]]"
-- "[[9712 Health insurance]]"
+- "[[Oral health Health insurance]]"
 use:
-- "[[5120 Dental care plan]]"
+- "[[Dental care plan]]"
 ---
-# Dental insurance

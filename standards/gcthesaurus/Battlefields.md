@@ -1,13 +1,10 @@
 ---
 title: Battlefields
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Battlefields
+longTitle: 'Battlefields'
+tags:
+- gccommon
 relatedTerm:
-- "[[5087 Demining]]"
-- "[[21249 War]]"
+- "[[Demining War]]"
 use:
-- "[[1895 Battle sites]]"
+- "[[Battle sites]]"
 ---
-# Battlefields

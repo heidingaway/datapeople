@@ -1,16 +1,10 @@
 ---
 title: Artificial intelligence
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Artificial intelligence
+longTitle: 'Artificial intelligence'
+tags:
+- gccommon
 relatedTerm:
-- "[[1735 Automation]]"
-- "[[17931 Robotics]]"
-- "[[11249 Intelligent systems]]"
-- "[[11048 Information technology]]"
+- "[[Automation Robotics Intelligent systems Informatio]]"
 use:
-- "[[3795 Computational intelligence]]"
-- "[[12676 Machine intelligence]]"
+- "[[Computational intelligence Machine intelligence]]"
 ---
-# Artificial intelligence

@@ -1,13 +1,10 @@
 ---
 title: Accountability
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Accountability
+longTitle: 'Accountability'
+tags:
+- gccommon
 broaderTerm:
-- "[[15043 Open government]]"
+- "[[Open government]]"
 relatedTerm:
-- "[[5060 Delegation of authority]]"
-- "[[5204 Devolution]]"
+- "[[Delegation of authority Devolution]]"
 ---
-# Accountability

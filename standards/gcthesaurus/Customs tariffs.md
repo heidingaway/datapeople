@@ -1,10 +1,8 @@
 ---
 title: Customs tariffs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Customs tariffs
+longTitle: 'Customs tariffs'
+tags:
+- gccommon
 usedFor:
-- "[[19704 Tariffs]]"
+- "[[Tariffs]]"
 ---
-# Customs tariffs

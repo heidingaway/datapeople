@@ -1,10 +1,8 @@
 ---
 title: Sales outlets
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sales outlets
+longTitle: 'Sales outlets'
+tags:
+- gccommon
 usedFor:
-- "[[17773 Retail trade]]"
+- "[[Retail trade]]"
 ---
-# Sales outlets

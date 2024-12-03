@@ -1,10 +1,8 @@
 ---
 title: Gerontologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gérontologie
+longTitle: 'Gérontologie'
+tags:
+- gccommon
 french:
-- "[[9050 Gerontology]]"
+- "[[Gerontology]]"
 ---
-# Gerontologie

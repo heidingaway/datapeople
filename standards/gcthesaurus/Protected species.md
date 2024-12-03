@@ -1,16 +1,10 @@
 ---
 title: Protected species
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Protected species
+longTitle: 'Protected species'
+tags:
+- gccommon
 relatedTerm:
-- "[[1251 Aquariums]]"
-- "[[22127 Zoological gardens]]"
-- "[[6613 Endangered species]]"
-- "[[14354 Nature conservation]]"
+- "[[Aquariums Zoological gardens Endangered species Na]]"
 use:
-- "[[16659 Protected fauna]]"
-- "[[16661 Protected flora]]"
+- "[[Protected fauna Protected flora]]"
 ---
-# Protected species

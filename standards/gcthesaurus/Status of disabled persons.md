@@ -1,10 +1,8 @@
 ---
 title: Status of disabled persons
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Status of disabled persons
+longTitle: 'Status of disabled persons'
+tags:
+- gccommon
 relatedTerm:
-- "[[15599 Persons with disabilities]]"
+- "[[Persons with disabilities]]"
 ---
-# Status of disabled persons

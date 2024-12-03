@@ -1,10 +1,8 @@
 ---
 title: Food hygiene
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Food hygiene
+longTitle: 'Food hygiene'
+tags:
+- gccommon
 usedFor:
-- "[[8167 Food safety]]"
+- "[[Food safety]]"
 ---
-# Food hygiene

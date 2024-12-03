@@ -1,20 +1,14 @@
 ---
 title: National security
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: National security
+longTitle: 'National security'
+tags:
+- gccommon
 broaderTerm:
-- "[[8232 Foreign interference]]"
+- "[[Foreign interference]]"
 narrowerTerm:
-- "[[18444 Security]]"
+- "[[Security]]"
 relatedTerm:
-- "[[11425 International security]]"
-- "[[18459 Security investigations]]"
-- "[[5034 Defence policy]]"
-- "[[18455 Security intelligence]]"
-- "[[4607 Cryptography]]"
+- "[[International security Security investigations Def]]"
 use:
-- "[[5515 Domestic security]]"
+- "[[Domestic security]]"
 ---
-# National security

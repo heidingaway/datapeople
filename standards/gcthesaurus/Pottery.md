@@ -1,12 +1,10 @@
 ---
 title: Pottery
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pottery
+longTitle: 'Pottery'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5012 Decorative arts]]"
+- "[[Decorative arts]]"
 relatedTerm:
-- "[[2948 Ceramics]]"
+- "[[Ceramics]]"
 ---
-# Pottery

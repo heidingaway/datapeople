@@ -1,14 +1,10 @@
 ---
 title: Laboratories
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Laboratories
+longTitle: 'Laboratories'
+tags:
+- gccommon
 relatedTerm:
-- "[[17684 Research institutes]]"
-- "[[7267 Experiments]]"
-- "[[17654 Research]]"
+- "[[Research institutes Experiments Research]]"
 use:
-- "[[17688 Research laboratories]]"
+- "[[Research laboratories]]"
 ---
-# Laboratories

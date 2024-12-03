@@ -1,10 +1,8 @@
 ---
 title: Earth energy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Earth energy
+longTitle: 'Earth energy'
+tags:
+- gccommon
 usedFor:
-- "[[9034 Geothermal energy]]"
+- "[[Geothermal energy]]"
 ---
-# Earth energy

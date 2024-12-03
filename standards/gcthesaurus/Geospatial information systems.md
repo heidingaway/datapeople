@@ -1,10 +1,8 @@
 ---
 title: Geospatial information systems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Geospatial information systems
+longTitle: 'Geospatial information systems'
+tags:
+- gccommon
 usedFor:
-- "[[8920 Geographic information systems]]"
+- "[[Geographic information systems]]"
 ---
-# Geospatial information systems

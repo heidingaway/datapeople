@@ -1,16 +1,12 @@
 ---
 title: Ethnic minorities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ethnic minorities
+longTitle: 'Ethnic minorities'
+tags:
+- gccommon
 narrowerTerm:
-- "[[7162 Ethnic groups]]"
-- "[[13771 Minorities]]"
+- "[[Ethnic groups Minorities]]"
 relatedTerm:
-- "[[21085 Visible minorities]]"
+- "[[Visible minorities]]"
 use:
-- "[[17050 Racial minorities]]"
-- "[[7174 Ethnic minority groups]]"
+- "[[Racial minorities Ethnic minority groups]]"
 ---
-# Ethnic minorities

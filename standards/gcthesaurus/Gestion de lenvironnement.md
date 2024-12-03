@@ -1,10 +1,8 @@
 ---
 title: Gestion de lenvironnement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gestion de l'environnement
+longTitle: 'Gestion de l'environnement'
+tags:
+- gccommon
 french:
-- "[[6918 Environmental management]]"
+- "[[Environmental management]]"
 ---
-# Gestion de lenvironnement

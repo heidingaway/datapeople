@@ -1,10 +1,8 @@
 ---
 title: Workload
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Workload
+longTitle: 'Workload'
+tags:
+- gccommon
 usedFor:
-- "[[21953 Working conditions]]"
+- "[[Working conditions]]"
 ---
-# Workload

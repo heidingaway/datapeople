@@ -1,10 +1,8 @@
 ---
 title: Marketing direct
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marketing direct
+longTitle: 'Marketing direct'
+tags:
+- gccommon
 french:
-- "[[5288 Direct marketing]]"
+- "[[Direct marketing]]"
 ---
-# Marketing direct

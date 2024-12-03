@@ -1,10 +1,8 @@
 ---
 title: Certificate of origin
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Certificate of origin
+longTitle: 'Certificate of origin'
+tags:
+- gccommon
 relatedTerm:
-- "[[2972 Certification]]"
+- "[[Certification]]"
 ---
-# Certificate of origin

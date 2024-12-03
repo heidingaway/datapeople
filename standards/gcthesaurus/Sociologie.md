@@ -1,10 +1,8 @@
 ---
 title: Sociologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sociologie
+longTitle: 'Sociologie'
+tags:
+- gccommon
 french:
-- "[[19055 Sociology]]"
+- "[[Sociology]]"
 ---
-# Sociologie

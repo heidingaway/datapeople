@@ -1,10 +1,8 @@
 ---
 title: Skilled workers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Skilled workers
+longTitle: 'Skilled workers'
+tags:
+- gccommon
 usedFor:
-- "[[21926 Workers]]"
+- "[[Workers]]"
 ---
-# Skilled workers

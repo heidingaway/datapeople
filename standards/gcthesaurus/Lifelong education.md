@@ -1,10 +1,8 @@
 ---
 title: Lifelong education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Lifelong education
+longTitle: 'Lifelong education'
+tags:
+- gccommon
 usedFor:
-- "[[4118 Continuing education]]"
+- "[[Continuing education]]"
 ---
-# Lifelong education

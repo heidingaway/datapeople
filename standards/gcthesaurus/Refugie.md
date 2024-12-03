@@ -1,10 +1,8 @@
 ---
 title: Refugie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Réfugié
+longTitle: 'Réfugié'
+tags:
+- gccommon
 french:
-- "[[17420 Refugees]]"
+- "[[Refugees]]"
 ---
-# Refugie

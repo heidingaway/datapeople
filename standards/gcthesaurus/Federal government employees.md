@@ -1,10 +1,8 @@
 ---
 title: Federal government employees
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Federal government employees
+longTitle: 'Federal government employees'
+tags:
+- gccommon
 usedFor:
-- "[[16895 Public service]]"
+- "[[Public service]]"
 ---
-# Federal government employees

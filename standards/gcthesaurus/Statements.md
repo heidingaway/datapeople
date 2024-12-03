@@ -1,13 +1,10 @@
 ---
 title: Statements
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Statements
+longTitle: 'Statements'
+tags:
+- gccommon
 relatedTerm:
-- "[[2411 Briefing papers]]"
+- "[[Briefing papers]]"
 use:
-- "[[218 Addresses]]"
-- "[[19225 Speeches]]"
+- "[[Addresses Speeches]]"
 ---
-# Statements

@@ -1,10 +1,8 @@
 ---
 title: Refers to renewable ocean energy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Refers to renewable ocean energy.
+longTitle: 'Refers to renewable ocean energy.'
+tags:
+- gccommon
 scopeNote:
-- "[[14825 Ocean energy]]"
+- "[[Ocean energy]]"
 ---
-# Refers to renewable ocean energy

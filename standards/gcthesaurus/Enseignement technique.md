@@ -1,10 +1,8 @@
 ---
 title: Enseignement technique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Enseignement technique
+longTitle: 'Enseignement technique'
+tags:
+- gccommon
 french:
-- "[[19810 Technical education]]"
+- "[[Technical education]]"
 ---
-# Enseignement technique

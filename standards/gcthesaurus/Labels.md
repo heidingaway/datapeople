@@ -1,10 +1,8 @@
 ---
 title: Labels
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Labels
+longTitle: 'Labels'
+tags:
+- gccommon
 usedFor:
-- "[[11779 Labelling]]"
+- "[[Labelling]]"
 ---
-# Labels

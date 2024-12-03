@@ -1,10 +1,8 @@
 ---
 title: Orchestre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Orchestre
+longTitle: 'Orchestre'
+tags:
+- gccommon
 french:
-- "[[15081 Orchestras]]"
+- "[[Orchestras]]"
 ---
-# Orchestre

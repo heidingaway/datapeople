@@ -1,16 +1,12 @@
 ---
 title: Forensics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forensics
+longTitle: 'Forensics'
+tags:
+- gccommon
 narrowerTerm:
-- "[[13338 Medicine]]"
+- "[[Medicine]]"
 relatedTerm:
-- "[[4461 Crime]]"
+- "[[Crime]]"
 use:
-- "[[12268 Legal medicine]]"
-- "[[8279 Forensic medicine]]"
-- "[[8291 Forensics technology]]"
+- "[[Legal medicine Forensic medicine Forensics technol]]"
 ---
-# Forensics

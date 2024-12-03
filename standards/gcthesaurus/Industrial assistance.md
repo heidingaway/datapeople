@@ -1,10 +1,8 @@
 ---
 title: Industrial assistance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrial assistance
+longTitle: 'Industrial assistance'
+tags:
+- gccommon
 usedFor:
-- "[[10875 Industry assistance]]"
+- "[[Industry assistance]]"
 ---
-# Industrial assistance

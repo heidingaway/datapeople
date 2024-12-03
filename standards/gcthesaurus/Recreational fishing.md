@@ -1,10 +1,8 @@
 ---
 title: Recreational fishing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Recreational fishing
+longTitle: 'Recreational fishing'
+tags:
+- gccommon
 usedFor:
-- "[[7966 Fishing (Sport)]]"
+- "[[Fishing Sport]]"
 ---
-# Recreational fishing

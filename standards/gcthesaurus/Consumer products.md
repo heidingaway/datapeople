@@ -1,14 +1,10 @@
 ---
 title: Consumer products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Consumer products
+longTitle: 'Consumer products'
+tags:
+- gccommon
 relatedTerm:
-- "[[17776 Retail trade]]"
-- "[[10814 Industrial products]]"
-- "[[4088 Consumerism]]"
+- "[[Retail trade Industrial products Consumerism]]"
 use:
-- "[[4063 Consumer goods]]"
+- "[[Consumer goods]]"
 ---
-# Consumer products

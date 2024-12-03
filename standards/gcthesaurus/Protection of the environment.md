@@ -1,10 +1,8 @@
 ---
 title: Protection of the environment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Protection of the environment
+longTitle: 'Protection of the environment'
+tags:
+- gccommon
 usedFor:
-- "[[6967 Environmental protection]]"
+- "[[Environmental protection]]"
 ---
-# Protection of the environment

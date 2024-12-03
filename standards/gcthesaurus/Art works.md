@@ -1,13 +1,10 @@
 ---
 title: Art works
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Art works
+longTitle: 'Art works'
+tags:
+- gccommon
 relatedTerm:
-- "[[21109 Visual arts]]"
-- "[[1463 Art exhibitions]]"
+- "[[Visual arts Art exhibitions]]"
 use:
-- "[[1472 Art objects]]"
+- "[[Art objects]]"
 ---
-# Art works

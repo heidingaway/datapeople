@@ -1,10 +1,8 @@
 ---
 title: Exposition internationale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Exposition internationale
+longTitle: 'Exposition internationale'
+tags:
+- gccommon
 french:
-- "[[11386 International exhibitions]]"
+- "[[International exhibitions]]"
 ---
-# Exposition internationale

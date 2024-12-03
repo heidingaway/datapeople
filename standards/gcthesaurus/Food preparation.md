@@ -1,11 +1,8 @@
 ---
 title: Food preparation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Food preparation
+longTitle: 'Food preparation'
+tags:
+- gccommon
 usedFor:
-- "[[4176 Cooking]]"
-- "[[8145 Food processing]]"
+- "[[Cooking Food processing]]"
 ---
-# Food preparation

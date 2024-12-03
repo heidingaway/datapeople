@@ -1,10 +1,8 @@
 ---
 title: Structural geology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Structural geology
+longTitle: 'Structural geology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8991 Geology]]"
+- "[[Geology]]"
 ---
-# Structural geology

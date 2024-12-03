@@ -1,10 +1,8 @@
 ---
 title: Senat
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sénat
+longTitle: 'Sénat'
+tags:
+- gccommon
 french:
-- "[[18524 Senate]]"
+- "[[Senate]]"
 ---
-# Senat

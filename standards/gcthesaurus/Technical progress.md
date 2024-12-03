@@ -1,10 +1,8 @@
 ---
 title: Technical progress
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Technical progress
+longTitle: 'Technical progress'
+tags:
+- gccommon
 usedFor:
-- "[[19844 Technological innovation]]"
+- "[[Technological innovation]]"
 ---
-# Technical progress

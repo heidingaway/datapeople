@@ -1,10 +1,8 @@
 ---
 title: Institut de recherche
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Institut de recherche
+longTitle: 'Institut de recherche'
+tags:
+- gccommon
 french:
-- "[[17683 Research institutes]]"
+- "[[Research institutes]]"
 ---
-# Institut de recherche

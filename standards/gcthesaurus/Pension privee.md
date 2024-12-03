@@ -1,10 +1,8 @@
 ---
 title: Pension privee
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pension privée
+longTitle: 'Pension privée'
+tags:
+- gccommon
 french:
-- "[[16408 Private pensions]]"
+- "[[Private pensions]]"
 ---
-# Pension privee

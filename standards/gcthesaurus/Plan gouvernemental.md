@@ -1,10 +1,8 @@
 ---
 title: Plan gouvernemental
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Plan gouvernemental
+longTitle: 'Plan gouvernemental'
+tags:
+- gccommon
 french:
-- "[[9213 Government plans]]"
+- "[[Government plans]]"
 ---
-# Plan gouvernemental

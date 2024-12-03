@@ -1,10 +1,8 @@
 ---
 title: Donor semen
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Donor semen
+longTitle: 'Donor semen'
+tags:
+- gccommon
 usedFor:
-- "[[18514 Semen]]"
+- "[[Semen]]"
 ---
-# Donor semen

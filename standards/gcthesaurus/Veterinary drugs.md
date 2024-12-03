@@ -1,17 +1,12 @@
 ---
 title: Veterinary drugs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Veterinary drugs
+longTitle: 'Veterinary drugs'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5699 Drugs]]"
+- "[[Drugs]]"
 relatedTerm:
-- "[[20975 Veterinary medicine]]"
-- "[[990 Animal diseases]]"
+- "[[Veterinary medicine Animal diseases]]"
 use:
-- "[[20977 Veterinary pharmaceuticals]]"
-- "[[993 Animal drugs]]"
-- "[[20967 Veterinary medications]]"
+- "[[Veterinary pharmaceuticals Animal drugs Veterinary]]"
 ---
-# Veterinary drugs

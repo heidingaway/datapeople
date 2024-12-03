@@ -1,12 +1,10 @@
 ---
 title: Industrial workers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrial workers
+longTitle: 'Industrial workers'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21928 Workers]]"
+- "[[Workers]]"
 relatedTerm:
-- "[[10864 Industry]]"
+- "[[Industry]]"
 ---
-# Industrial workers

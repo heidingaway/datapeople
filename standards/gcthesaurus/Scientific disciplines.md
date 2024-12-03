@@ -1,10 +1,8 @@
 ---
 title: Scientific disciplines
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Scientific disciplines
+longTitle: 'Scientific disciplines'
+tags:
+- gccommon
 usedFor:
-- "[[18238 Sciences]]"
+- "[[Sciences]]"
 ---
-# Scientific disciplines

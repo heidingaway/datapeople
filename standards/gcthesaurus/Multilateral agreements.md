@@ -1,12 +1,10 @@
 ---
 title: Multilateral agreements
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Multilateral agreements
+longTitle: 'Multilateral agreements'
+tags:
+- gccommon
 broaderTerm:
-- "[[14011 Multilateral agreement on investment]]"
+- "[[Multilateral agreement on investment]]"
 narrowerTerm:
-- "[[404 Agreements]]"
+- "[[Agreements]]"
 ---
-# Multilateral agreements

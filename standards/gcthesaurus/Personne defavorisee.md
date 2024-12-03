@@ -1,10 +1,8 @@
 ---
 title: Personne defavorisee
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Personne défavorisée
+longTitle: 'Personne défavorisée'
+tags:
+- gccommon
 french:
-- "[[5324 Disadvantaged persons]]"
+- "[[Disadvantaged persons]]"
 ---
-# Personne defavorisee

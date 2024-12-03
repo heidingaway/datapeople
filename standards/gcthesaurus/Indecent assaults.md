@@ -1,10 +1,8 @@
 ---
 title: Indecent assaults
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indecent assaults
+longTitle: 'Indecent assaults'
+tags:
+- gccommon
 usedFor:
-- "[[18624 Sexual offences]]"
+- "[[Sexual offences]]"
 ---
-# Indecent assaults

@@ -1,13 +1,10 @@
 ---
 title: Child safety
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Child safety
+longTitle: 'Child safety'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17990 Safety]]"
+- "[[Safety]]"
 relatedTerm:
-- "[[3186 Children's health]]"
-- "[[3105 Child care]]"
+- "[[Childrens health Child care]]"
 ---
-# Child safety

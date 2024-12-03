@@ -1,10 +1,8 @@
 ---
 title: Market extension
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Market extension
+longTitle: 'Market extension'
+tags:
+- gccommon
 usedFor:
-- "[[13060 Market development]]"
+- "[[Market development]]"
 ---
-# Market extension

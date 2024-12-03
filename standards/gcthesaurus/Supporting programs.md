@@ -1,10 +1,8 @@
 ---
 title: Supporting programs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Supporting programs
+longTitle: 'Supporting programs'
+tags:
+- gccommon
 usedFor:
-- "[[589 Aid programs]]"
+- "[[Aid programs]]"
 ---
-# Supporting programs

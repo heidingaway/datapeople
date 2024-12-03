@@ -1,10 +1,8 @@
 ---
 title: Business numbers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Business numbers
+longTitle: 'Business numbers'
+tags:
+- gccommon
 relatedTerm:
-- "[[2603 Businesses]]"
+- "[[Businesses]]"
 ---
-# Business numbers

@@ -1,10 +1,8 @@
 ---
 title: Ecologically sound development
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ecologically sound development
+longTitle: 'Ecologically sound development'
+tags:
+- gccommon
 usedFor:
-- "[[19635 Sustainable development]]"
+- "[[Sustainable development]]"
 ---
-# Ecologically sound development

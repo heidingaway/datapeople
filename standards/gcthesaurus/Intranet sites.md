@@ -1,10 +1,8 @@
 ---
 title: Intranet sites
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Intranet sites
+longTitle: 'Intranet sites'
+tags:
+- gccommon
 usedFor:
-- "[[11529 Intranets]]"
+- "[[Intranets]]"
 ---
-# Intranet sites

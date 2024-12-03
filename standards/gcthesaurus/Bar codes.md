@@ -1,10 +1,8 @@
 ---
 title: Bar codes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bar codes
+longTitle: 'Bar codes'
+tags:
+- gccommon
 usedFor:
-- "[[11777 Labelling]]"
+- "[[Labelling]]"
 ---
-# Bar codes

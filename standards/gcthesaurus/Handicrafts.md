@@ -1,10 +1,8 @@
 ---
 title: Handicrafts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Handicrafts
+longTitle: 'Handicrafts'
+tags:
+- gccommon
 usedFor:
-- "[[4411 Crafts]]"
+- "[[Crafts]]"
 ---
-# Handicrafts

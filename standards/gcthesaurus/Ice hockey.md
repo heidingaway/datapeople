@@ -1,10 +1,8 @@
 ---
 title: Ice hockey
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ice hockey
+longTitle: 'Ice hockey'
+tags:
+- gccommon
 usedFor:
-- "[[9994 Hockey]]"
+- "[[Hockey]]"
 ---
-# Ice hockey

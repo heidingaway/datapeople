@@ -1,10 +1,8 @@
 ---
 title: Avalanche
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Avalanche
+longTitle: 'Avalanche'
+tags:
+- gccommon
 french:
-- "[[1775 Avalanches]]"
+- "[[Avalanches]]"
 ---
-# Avalanche

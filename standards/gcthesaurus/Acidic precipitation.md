@@ -1,10 +1,8 @@
 ---
 title: Acidic precipitation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Acidic precipitation
+longTitle: 'Acidic precipitation'
+tags:
+- gccommon
 usedFor:
-- "[[165 Acid rain]]"
+- "[[Acid rain]]"
 ---
-# Acidic precipitation

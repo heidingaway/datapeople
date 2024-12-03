@@ -1,10 +1,8 @@
 ---
 title: Wildlife sanctuaries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wildlife sanctuaries
+longTitle: 'Wildlife sanctuaries'
+tags:
+- gccommon
 usedFor:
-- "[[3975 Conservation areas]]"
+- "[[Conservation areas]]"
 ---
-# Wildlife sanctuaries

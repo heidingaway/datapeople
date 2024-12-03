@@ -1,10 +1,8 @@
 ---
 title: Arrests
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Arrests
+longTitle: 'Arrests'
+tags:
+- gccommon
 relatedTerm:
-- "[[11723 Justice system]]"
+- "[[Justice system]]"
 ---
-# Arrests

@@ -1,10 +1,8 @@
 ---
 title: Organic foods
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Organic foods
+longTitle: 'Organic foods'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8080 Food]]"
+- "[[Food]]"
 ---
-# Organic foods

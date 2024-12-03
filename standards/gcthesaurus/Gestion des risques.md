@@ -1,10 +1,8 @@
 ---
 title: Gestion des risques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gestion des risques
+longTitle: 'Gestion des risques'
+tags:
+- gccommon
 french:
-- "[[17841 Risk management]]"
+- "[[Risk management]]"
 ---
-# Gestion des risques

@@ -1,10 +1,8 @@
 ---
 title: Prevision economique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prévision économique
+longTitle: 'Prévision économique'
+tags:
+- gccommon
 french:
-- "[[5883 Economic forecasting]]"
+- "[[Economic forecasting]]"
 ---
-# Prevision economique

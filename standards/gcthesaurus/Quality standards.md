@@ -1,12 +1,10 @@
 ---
 title: Quality standards
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Quality standards
+longTitle: 'Quality standards'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19294 Standards]]"
+- "[[Standards]]"
 relatedTerm:
-- "[[16991 Quality control]]"
+- "[[Quality control]]"
 ---
-# Quality standards

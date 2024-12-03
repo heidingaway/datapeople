@@ -1,10 +1,8 @@
 ---
 title: Cable services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cable services
+longTitle: 'Cable services'
+tags:
+- gccommon
 usedFor:
-- "[[2651 Cable television]]"
+- "[[Cable television]]"
 ---
-# Cable services

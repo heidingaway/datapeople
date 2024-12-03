@@ -1,10 +1,8 @@
 ---
 title: Section
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Section
+longTitle: 'Section'
+tags:
+- gccommon
 french:
-- "[[18426 Sections]]"
+- "[[Sections]]"
 ---
-# Section

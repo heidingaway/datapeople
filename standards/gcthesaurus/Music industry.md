@@ -1,16 +1,12 @@
 ---
 title: Music industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Music industry
+longTitle: 'Music industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4668 Cultural industry]]"
+- "[[Cultural industry]]"
 relatedTerm:
-- "[[14099 Music]]"
+- "[[Music]]"
 use:
-- "[[17281 Recording industry]]"
-- "[[17273 Record industry]]"
-- "[[19146 Sound recording industry]]"
+- "[[Recording industry Record industry Sound recording]]"
 ---
-# Music industry

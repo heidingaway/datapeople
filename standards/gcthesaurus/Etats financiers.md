@@ -1,10 +1,8 @@
 ---
 title: Etats financiers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: États financiers
+longTitle: 'États financiers'
+tags:
+- gccommon
 french:
-- "[[7763 Financial statements]]"
+- "[[Financial statements]]"
 ---
-# Etats financiers

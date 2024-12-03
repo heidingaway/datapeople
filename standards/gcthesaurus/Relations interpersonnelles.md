@@ -1,10 +1,8 @@
 ---
 title: Relations interpersonnelles
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Relations interpersonnelles
+longTitle: 'Relations interpersonnelles'
+tags:
+- gccommon
 french:
-- "[[11486 Interpersonal relations]]"
+- "[[Interpersonal relations]]"
 ---
-# Relations interpersonnelles

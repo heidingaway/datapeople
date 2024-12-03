@@ -1,10 +1,8 @@
 ---
 title: Systeme de transport intelligent
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Système de transport intelligent
+longTitle: 'Système de transport intelligent'
+tags:
+- gccommon
 french:
-- "[[11256 Intelligent transportation systems]]"
+- "[[Intelligent transportation systems]]"
 ---
-# Systeme de transport intelligent

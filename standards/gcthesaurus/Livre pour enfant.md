@@ -1,10 +1,8 @@
 ---
 title: Livre pour enfant
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Livre pour enfant
+longTitle: 'Livre pour enfant'
+tags:
+- gccommon
 french:
-- "[[3178 Children's books]]"
+- "[[Childrens books]]"
 ---
-# Livre pour enfant

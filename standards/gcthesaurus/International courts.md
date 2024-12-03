@@ -1,12 +1,10 @@
 ---
 title: International courts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: International courts
+longTitle: 'International courts'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4392 Courts]]"
+- "[[Courts]]"
 relatedTerm:
-- "[[11398 International law]]"
+- "[[International law]]"
 ---
-# International courts

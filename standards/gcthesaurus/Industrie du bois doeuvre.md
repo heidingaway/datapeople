@@ -1,10 +1,8 @@
 ---
 title: Industrie du bois doeuvre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie du bois d'oeuvre
+longTitle: 'Industrie du bois d'oeuvre'
+tags:
+- gccommon
 french:
-- "[[12660 Lumber industry]]"
+- "[[Lumber industry]]"
 ---
-# Industrie du bois doeuvre

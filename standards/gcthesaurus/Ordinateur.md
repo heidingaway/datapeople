@@ -1,10 +1,8 @@
 ---
 title: Ordinateur
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ordinateur
+longTitle: 'Ordinateur'
+tags:
+- gccommon
 french:
-- "[[3882 Computers]]"
+- "[[Computers]]"
 ---
-# Ordinateur

@@ -1,10 +1,8 @@
 ---
 title: Batiment commercial
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bâtiment commercial
+longTitle: 'Bâtiment commercial'
+tags:
+- gccommon
 french:
-- "[[3566 Commercial buildings]]"
+- "[[Commercial buildings]]"
 ---
-# Batiment commercial

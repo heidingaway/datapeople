@@ -1,10 +1,8 @@
 ---
 title: Formation syndicale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Formation syndicale
+longTitle: 'Formation syndicale'
+tags:
+- gccommon
 french:
-- "[[11957 Labour union training]]"
+- "[[Labour union training]]"
 ---
-# Formation syndicale

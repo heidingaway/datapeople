@@ -1,10 +1,8 @@
 ---
 title: Monographic series
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Monographic series
+longTitle: 'Monographic series'
+tags:
+- gccommon
 relatedTerm:
-- "[[2337 Books]]"
+- "[[Books]]"
 ---
-# Monographic series

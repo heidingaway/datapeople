@@ -1,15 +1,12 @@
 ---
 title: Newspapers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Newspapers
+longTitle: 'Newspapers'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15492 Periodicals]]"
+- "[[Periodicals]]"
 relatedTerm:
-- "[[13197 Media]]"
-- "[[11695 Journalism]]"
+- "[[Media Journalism]]"
 use:
-- "[[16257 Press]]"
+- "[[Press]]"
 ---
-# Newspapers

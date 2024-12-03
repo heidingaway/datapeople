@@ -1,10 +1,8 @@
 ---
 title: Conjugal violence
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Conjugal violence
+longTitle: 'Conjugal violence'
+tags:
+- gccommon
 usedFor:
-- "[[7401 Family violence]]"
+- "[[Family violence]]"
 ---
-# Conjugal violence

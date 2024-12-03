@@ -1,15 +1,12 @@
 ---
 title: Automobile industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Automobile industry
+longTitle: 'Automobile industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12840 Manufacturing industry]]"
+- "[[Manufacturing industry]]"
 relatedTerm:
-- "[[1766 Automobiles]]"
+- "[[Automobiles]]"
 use:
-- "[[1723 Auto industry]]"
-- "[[1771 Automotive industry]]"
+- "[[Auto industry Automotive industry]]"
 ---
-# Automobile industry

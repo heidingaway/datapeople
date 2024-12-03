@@ -1,10 +1,8 @@
 ---
 title: Wave energy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wave energy
+longTitle: 'Wave energy'
+tags:
+- gccommon
 usedFor:
-- "[[14832 Ocean energy]]"
+- "[[Ocean energy]]"
 ---
-# Wave energy

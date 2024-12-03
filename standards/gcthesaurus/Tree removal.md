@@ -1,10 +1,8 @@
 ---
 title: Tree removal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tree removal
+longTitle: 'Tree removal'
+tags:
+- gccommon
 usedFor:
-- "[[5051 Deforestation]]"
+- "[[Deforestation]]"
 ---
-# Tree removal

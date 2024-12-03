@@ -1,10 +1,8 @@
 ---
 title: Genetique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Génétique
+longTitle: 'Génétique'
+tags:
+- gccommon
 french:
-- "[[8867 Genetics]]"
+- "[[Genetics]]"
 ---
-# Genetique

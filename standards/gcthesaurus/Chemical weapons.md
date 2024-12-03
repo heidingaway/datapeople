@@ -1,17 +1,12 @@
 ---
 title: Chemical weapons
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Chemical weapons
+longTitle: 'Chemical weapons'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21583 Weapons]]"
+- "[[Weapons]]"
 relatedTerm:
-- "[[3056 Chemicals]]"
-- "[[20329 Toxic substances]]"
-- "[[2194 Biological weapons]]"
-- "[[3038 Chemical warfare]]"
+- "[[Chemicals Toxic substances Biological weapons Chem]]"
 use:
-- "[[3040 Chemical warfare agents]]"
+- "[[Chemical warfare agents]]"
 ---
-# Chemical weapons

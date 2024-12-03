@@ -1,11 +1,8 @@
 ---
 title: Beneficiaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bénéficiaire
+longTitle: 'Bénéficiaire'
+tags:
+- gccommon
 french:
-- "[[1957 Beneficiaries]]"
-- "[[17264 Recipients]]"
+- "[[Beneficiaries Recipients]]"
 ---
-# Beneficiaire

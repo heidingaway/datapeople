@@ -1,10 +1,8 @@
 ---
 title: North of Canada
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: North of Canada
+longTitle: 'North of Canada'
+tags:
+- gccommon
 usedFor:
-- "[[14567 Northern Canada]]"
+- "[[Northern Canada]]"
 ---
-# North of Canada

@@ -1,10 +1,8 @@
 ---
 title: Primary schools
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Primary schools
+longTitle: 'Primary schools'
+tags:
+- gccommon
 usedFor:
-- "[[6401 Elementary schools]]"
+- "[[Elementary schools]]"
 ---
-# Primary schools

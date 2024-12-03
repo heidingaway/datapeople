@@ -1,10 +1,8 @@
 ---
 title: Neige
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Neige
+longTitle: 'Neige'
+tags:
+- gccommon
 french:
-- "[[18846 Snow]]"
+- "[[Snow]]"
 ---
-# Neige

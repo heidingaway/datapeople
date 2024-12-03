@@ -1,11 +1,8 @@
 ---
 title: Briefing papers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Briefing papers
+longTitle: 'Briefing papers'
+tags:
+- gccommon
 relatedTerm:
-- "[[19321 Statements]]"
-- "[[3620 Committees]]"
+- "[[Statements Committees]]"
 ---
-# Briefing papers

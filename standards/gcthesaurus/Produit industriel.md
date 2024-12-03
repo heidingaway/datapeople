@@ -1,10 +1,8 @@
 ---
 title: Produit industriel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Produit industriel
+longTitle: 'Produit industriel'
+tags:
+- gccommon
 french:
-- "[[10808 Industrial products]]"
+- "[[Industrial products]]"
 ---
-# Produit industriel

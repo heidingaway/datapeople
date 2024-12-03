@@ -1,10 +1,8 @@
 ---
 title: Refers to the amount of water vapor in the atmosph
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Refers to the amount of water vapor in the atmosphere.
+longTitle: 'Refers to the amount of water vapor in the atmosphere.'
+tags:
+- gccommon
 scopeNote:
-- "[[10286 Humidity]]"
+- "[[Humidity]]"
 ---
-# Refers to the amount of water vapor in the atmosph

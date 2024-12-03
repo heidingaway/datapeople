@@ -1,10 +1,8 @@
 ---
 title: Long term care facilities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Long term care facilities
+longTitle: 'Long term care facilities'
+tags:
+- gccommon
 usedFor:
-- "[[9612 Health care facilities]]"
+- "[[Health care facilities]]"
 ---
-# Long term care facilities

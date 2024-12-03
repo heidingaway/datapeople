@@ -1,10 +1,8 @@
 ---
 title: Genetic screening
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Genetic screening
+longTitle: 'Genetic screening'
+tags:
+- gccommon
 usedFor:
-- "[[18290 Screening (Medicine)]]"
+- "[[Screening Medicine]]"
 ---
-# Genetic screening

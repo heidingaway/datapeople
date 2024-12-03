@@ -1,10 +1,8 @@
 ---
 title: Navigable waterways
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Navigable waterways
+longTitle: 'Navigable waterways'
+tags:
+- gccommon
 usedFor:
-- "[[21562 Waterways]]"
+- "[[Waterways]]"
 ---
-# Navigable waterways

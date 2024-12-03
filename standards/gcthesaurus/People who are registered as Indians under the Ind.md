@@ -1,10 +1,8 @@
 ---
 title: People who are registered as Indians under the Ind
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: People who are registered as Indians under the Indian Act.
+longTitle: 'People who are registered as Indians under the Indian Act.'
+tags:
+- gccommon
 scopeNote:
-- "[[19361 Status Indians]]"
+- "[[Status Indians]]"
 ---
-# People who are registered as Indians under the Ind

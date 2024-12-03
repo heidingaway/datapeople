@@ -1,10 +1,8 @@
 ---
 title: Chasse a la baleine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Chasse à la baleine
+longTitle: 'Chasse à la baleine'
+tags:
+- gccommon
 french:
-- "[[21688 Whaling]]"
+- "[[Whaling]]"
 ---
-# Chasse a la baleine

@@ -1,17 +1,10 @@
 ---
 title: Social assistance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Social assistance
+longTitle: 'Social assistance'
+tags:
+- gccommon
 relatedTerm:
-- "[[18997 Social security]]"
-- "[[18968 Social programs]]"
-- "[[19007 Social services]]"
+- "[[Social security Social programs Social services]]"
 use:
-- "[[19039 Social welfare]]"
-- "[[16927 Public welfare]]"
-- "[[18860 Social aid]]"
-- "[[21664 Welfare]]"
+- "[[Social welfare Public welfare Social aid Welfare]]"
 ---
-# Social assistance

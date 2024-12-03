@@ -1,10 +1,8 @@
 ---
 title: Geological surveys
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Geological surveys
+longTitle: 'Geological surveys'
+tags:
+- gccommon
 usedFor:
-- "[[8979 Geology]]"
+- "[[Geology]]"
 ---
-# Geological surveys

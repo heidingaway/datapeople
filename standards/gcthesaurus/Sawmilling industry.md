@@ -1,10 +1,8 @@
 ---
 title: Sawmilling industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sawmilling industry
+longTitle: 'Sawmilling industry'
+tags:
+- gccommon
 usedFor:
-- "[[12664 Lumber industry]]"
+- "[[Lumber industry]]"
 ---
-# Sawmilling industry

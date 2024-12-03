@@ -1,10 +1,8 @@
 ---
 title: Traditional culture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Traditional culture
+longTitle: 'Traditional culture'
+tags:
+- gccommon
 usedFor:
-- "[[16066 Popular culture]]"
+- "[[Popular culture]]"
 ---
-# Traditional culture

@@ -1,10 +1,8 @@
 ---
 title: Energy sources
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Energy sources
+longTitle: 'Energy sources'
+tags:
+- gccommon
 usedFor:
-- "[[6689 Energy supply]]"
+- "[[Energy supply]]"
 ---
-# Energy sources

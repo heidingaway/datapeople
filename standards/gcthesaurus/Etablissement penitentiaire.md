@@ -1,10 +1,8 @@
 ---
 title: Etablissement penitentiaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Établissement pénitentiaire
+longTitle: 'Établissement pénitentiaire'
+tags:
+- gccommon
 french:
-- "[[4295 Correctional institutions]]"
+- "[[Correctional institutions]]"
 ---
-# Etablissement penitentiaire

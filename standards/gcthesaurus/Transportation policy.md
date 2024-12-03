@@ -1,10 +1,8 @@
 ---
 title: Transportation policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transportation policy
+longTitle: 'Transportation policy'
+tags:
+- gccommon
 usedFor:
-- "[[20633 Transport policy]]"
+- "[[Transport policy]]"
 ---
-# Transportation policy

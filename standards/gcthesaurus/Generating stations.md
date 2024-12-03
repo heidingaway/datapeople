@@ -1,10 +1,8 @@
 ---
 title: Generating stations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Generating stations
+longTitle: 'Generating stations'
+tags:
+- gccommon
 usedFor:
-- "[[6213 Electric power stations]]"
+- "[[Electric power stations]]"
 ---
-# Generating stations

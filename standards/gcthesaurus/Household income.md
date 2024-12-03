@@ -1,14 +1,12 @@
 ---
 title: Household income
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Household income
+longTitle: 'Household income'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10559 Income]]"
+- "[[Income]]"
 relatedTerm:
-- "[[10116 Household finance]]"
+- "[[Household finance]]"
 use:
-- "[[7377 Family income]]"
+- "[[Family income]]"
 ---
-# Household income

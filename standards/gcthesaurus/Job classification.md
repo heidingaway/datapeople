@@ -1,13 +1,10 @@
 ---
 title: Job classification
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Job classification
+longTitle: 'Job classification'
+tags:
+- gccommon
 narrowerTerm:
-- "[[3303 Classification]]"
+- "[[Classification]]"
 relatedTerm:
-- "[[14816 Occupations]]"
-- "[[6498 Employment]]"
+- "[[Occupations Employment]]"
 ---
-# Job classification

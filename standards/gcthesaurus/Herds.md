@@ -1,10 +1,8 @@
 ---
 title: Herds
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Herds
+longTitle: 'Herds'
+tags:
+- gccommon
 usedFor:
-- "[[12537 Livestock]]"
+- "[[Livestock]]"
 ---
-# Herds

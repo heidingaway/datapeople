@@ -1,10 +1,8 @@
 ---
 title: Environmental technology developed to reduce or el
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental technology developed to reduce or eliminate pollution at the source.
+longTitle: 'Environmental technology developed to reduce or eliminate pollution at the source.'
+tags:
+- gccommon
 scopeNote:
-- "[[3311 Clean technology]]"
+- "[[Clean technology]]"
 ---
-# Environmental technology developed to reduce or el

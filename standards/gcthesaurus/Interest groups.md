@@ -1,17 +1,12 @@
 ---
 title: Interest groups
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Interest groups
+longTitle: 'Interest groups'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15109 Organizations]]"
+- "[[Organizations]]"
 relatedTerm:
-- "[[325 Advocacy]]"
-- "[[12592 Lobbying]]"
-- "[[1607 Associations]]"
+- "[[Advocacy Lobbying Associations]]"
 use:
-- "[[16269 Pressure groups]]"
-- "[[16836 Public interest groups]]"
+- "[[Pressure groups Public interest groups]]"
 ---
-# Interest groups

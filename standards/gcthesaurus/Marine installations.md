@@ -1,15 +1,10 @@
 ---
 title: Marine installations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marine installations
+longTitle: 'Marine installations'
+tags:
+- gccommon
 broaderTerm:
-- "[[9484 Harbours]]"
-- "[[21694 Wharfs]]"
-- "[[12451 Lighthouses]]"
-- "[[12624 Locks]]"
+- "[[Harbours Wharfs Lighthouses Locks]]"
 relatedTerm:
-- "[[21495 Water transport]]"
+- "[[Water transport]]"
 ---
-# Marine installations

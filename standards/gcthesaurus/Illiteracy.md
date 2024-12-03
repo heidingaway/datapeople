@@ -1,10 +1,8 @@
 ---
 title: Illiteracy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Illiteracy
+longTitle: 'Illiteracy'
+tags:
+- gccommon
 usedFor:
-- "[[12492 Literacy]]"
+- "[[Literacy]]"
 ---
-# Illiteracy

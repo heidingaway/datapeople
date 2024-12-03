@@ -1,10 +1,8 @@
 ---
 title: Trafficking in human beings
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Trafficking in human beings
+longTitle: 'Trafficking in human beings'
+tags:
+- gccommon
 usedFor:
-- "[[10244 Human trafficking]]"
+- "[[Human trafficking]]"
 ---
-# Trafficking in human beings

@@ -1,10 +1,8 @@
 ---
 title: Industrial sector
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrial sector
+longTitle: 'Industrial sector'
+tags:
+- gccommon
 usedFor:
-- "[[10853 Industry]]"
+- "[[Industry]]"
 ---
-# Industrial sector

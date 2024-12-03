@@ -1,10 +1,8 @@
 ---
 title: Collective negotiations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Collective negotiations
+longTitle: 'Collective negotiations'
+tags:
+- gccommon
 usedFor:
-- "[[3509 Collective bargaining]]"
+- "[[Collective bargaining]]"
 ---
-# Collective negotiations

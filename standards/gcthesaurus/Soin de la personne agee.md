@@ -1,10 +1,8 @@
 ---
 title: Soin de la personne agee
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Soin de la personne âgée
+longTitle: 'Soin de la personne âgée'
+tags:
+- gccommon
 french:
-- "[[6145 Elderly care]]"
+- "[[Elderly care]]"
 ---
-# Soin de la personne agee

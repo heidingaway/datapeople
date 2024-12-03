@@ -1,16 +1,12 @@
 ---
 title: Graphic arts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Graphic arts
+longTitle: 'Graphic arts'
+tags:
+- gccommon
 broaderTerm:
-- "[[5562 Drawings]]"
-- "[[10490 Illustrations]]"
+- "[[Drawings Illustrations]]"
 narrowerTerm:
-- "[[21104 Visual arts]]"
+- "[[Visual arts]]"
 relatedTerm:
-- "[[16369 Printing]]"
-- "[[16377 Prints]]"
+- "[[Printing Prints]]"
 ---
-# Graphic arts

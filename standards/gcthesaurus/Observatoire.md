@@ -1,10 +1,8 @@
 ---
 title: Observatoire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Observatoire
+longTitle: 'Observatoire'
+tags:
+- gccommon
 french:
-- "[[1624 Astronomical observatories]]"
+- "[[Astronomical observatories]]"
 ---
-# Observatoire

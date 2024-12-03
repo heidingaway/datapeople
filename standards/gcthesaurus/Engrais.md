@@ -1,10 +1,8 @@
 ---
 title: Engrais
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Engrais
+longTitle: 'Engrais'
+tags:
+- gccommon
 french:
-- "[[7651 Fertilizers]]"
+- "[[Fertilizers]]"
 ---
-# Engrais

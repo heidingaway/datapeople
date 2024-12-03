@@ -1,14 +1,10 @@
 ---
 title: Learning
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Learning
+longTitle: 'Learning'
+tags:
+- gccommon
 relatedTerm:
-- "[[3399 Coaching]]"
-- "[[20497 Training]]"
-- "[[6055 Education]]"
+- "[[Coaching Training Education]]"
 use:
-- "[[11754 Knowledge acquisition]]"
+- "[[Knowledge acquisition]]"
 ---
-# Learning

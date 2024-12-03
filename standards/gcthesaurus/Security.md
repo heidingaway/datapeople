@@ -1,18 +1,10 @@
 ---
 title: Security
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Security
+longTitle: 'Security'
+tags:
+- gccommon
 broaderTerm:
-- "[[18992 Social security]]"
-- "[[10229 Human security]]"
-- "[[11424 International security]]"
-- "[[3855 Computer security]]"
-- "[[8177 Food security]]"
-- "[[14234 National security]]"
+- "[[Social security Human security International secur]]"
 relatedTerm:
-- "[[18460 Security investigations]]"
-- "[[18001 Safety]]"
+- "[[Security investigations Safety]]"
 ---
-# Security

@@ -1,10 +1,8 @@
 ---
 title: Possibilite demploi
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Possibilité d'emploi
+longTitle: 'Possibilité d'emploi'
+tags:
+- gccommon
 french:
-- "[[6562 Employment opportunities]]"
+- "[[Employment opportunities]]"
 ---
-# Possibilite demploi

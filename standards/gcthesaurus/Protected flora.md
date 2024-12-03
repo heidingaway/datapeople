@@ -1,10 +1,8 @@
 ---
 title: Protected flora
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Protected flora
+longTitle: 'Protected flora'
+tags:
+- gccommon
 usedFor:
-- "[[16665 Protected species]]"
+- "[[Protected species]]"
 ---
-# Protected flora

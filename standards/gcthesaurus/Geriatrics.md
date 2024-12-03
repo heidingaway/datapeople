@@ -1,16 +1,12 @@
 ---
 title: Geriatrics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Geriatrics
+longTitle: 'Geriatrics'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9053 Gerontology]]"
-- "[[13339 Medicine]]"
+- "[[Gerontology Medicine]]"
 relatedTerm:
-- "[[18548 Seniors]]"
-- "[[386 Aging]]"
+- "[[Seniors Aging]]"
 use:
-- "[[9040 Geriatric medicine]]"
+- "[[Geriatric medicine]]"
 ---
-# Geriatrics

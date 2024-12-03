@@ -1,12 +1,8 @@
 ---
 title: Educational guidance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Educational guidance
+longTitle: 'Educational guidance'
+tags:
+- gccommon
 relatedTerm:
-- "[[21164 Vocational guidance]]"
-- "[[4355 Counselling services]]"
-- "[[6051 Education]]"
+- "[[Vocational guidance Counselling services Education]]"
 ---
-# Educational guidance

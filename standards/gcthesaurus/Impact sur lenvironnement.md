@@ -1,10 +1,8 @@
 ---
 title: Impact sur lenvironnement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Impact sur l'environnement
+longTitle: 'Impact sur l'environnement'
+tags:
+- gccommon
 french:
-- "[[6881 Environmental impact]]"
+- "[[Environmental impact]]"
 ---
-# Impact sur lenvironnement

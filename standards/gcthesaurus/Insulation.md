@@ -1,12 +1,10 @@
 ---
 title: Insulation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Insulation
+longTitle: 'Insulation'
+tags:
+- gccommon
 relatedTerm:
-- "[[9820 Heating]]"
+- "[[Heating]]"
 use:
-- "[[20163 Thermal insulation]]"
+- "[[Thermal insulation]]"
 ---
-# Insulation

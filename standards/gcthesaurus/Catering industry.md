@@ -1,10 +1,8 @@
 ---
 title: Catering industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Catering industry
+longTitle: 'Catering industry'
+tags:
+- gccommon
 usedFor:
-- "[[10082 Hospitality industry]]"
+- "[[Hospitality industry]]"
 ---
-# Catering industry

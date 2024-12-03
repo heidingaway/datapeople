@@ -1,10 +1,8 @@
 ---
 title: Societe de financement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Société de financement
+longTitle: 'Société de financement'
+tags:
+- gccommon
 french:
-- "[[7772 Financing companies]]"
+- "[[Financing companies]]"
 ---
-# Societe de financement

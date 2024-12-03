@@ -1,10 +1,8 @@
 ---
 title: Revenu national
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Revenu national
+longTitle: 'Revenu national'
+tags:
+- gccommon
 french:
-- "[[14209 National income]]"
+- "[[National income]]"
 ---
-# Revenu national

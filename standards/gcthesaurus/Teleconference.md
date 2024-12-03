@@ -1,10 +1,8 @@
 ---
 title: Teleconference
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Téléconférence
+longTitle: 'Téléconférence'
+tags:
+- gccommon
 french:
-- "[[19934 Teleconferencing]]"
+- "[[Teleconferencing]]"
 ---
-# Teleconference

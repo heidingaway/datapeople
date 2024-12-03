@@ -1,10 +1,8 @@
 ---
 title: HIV
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: HIV
+longTitle: 'HIV'
+tags:
+- gccommon
 usedFor:
-- "[[595 AIDS (disease)]]"
+- "[[AIDS disease]]"
 ---
-# HIV

@@ -1,13 +1,10 @@
 ---
 title: Medical records
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Medical records
+longTitle: 'Medical records'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17287 Records]]"
+- "[[Records]]"
 relatedTerm:
-- "[[8014 Fitness]]"
-- "[[9585 Health]]"
+- "[[Fitness Health]]"
 ---
-# Medical records

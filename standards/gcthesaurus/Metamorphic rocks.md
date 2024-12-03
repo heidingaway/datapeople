@@ -1,13 +1,10 @@
 ---
 title: Metamorphic rocks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Metamorphic rocks
+longTitle: 'Metamorphic rocks'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8985 Geology]]"
-- "[[5776 Earth sciences]]"
+- "[[Geology Earth sciences]]"
 relatedTerm:
-- "[[13467 Metamorphism]]"
+- "[[Metamorphism]]"
 ---
-# Metamorphic rocks

@@ -1,15 +1,12 @@
 ---
 title: Red tape burdens
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Red tape burdens
+longTitle: 'Red tape burdens'
+tags:
+- gccommon
 broaderTerm:
-- "[[17394 Red tape reduction]]"
+- "[[Red tape reduction]]"
 narrowerTerm:
-- "[[9261 Governments]]"
-- "[[7535 Federal government]]"
+- "[[Governments Federal government]]"
 use:
-- "[[232 Administrative burdens]]"
+- "[[Administrative burdens]]"
 ---
-# Red tape burdens

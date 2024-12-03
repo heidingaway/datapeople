@@ -1,10 +1,8 @@
 ---
 title: Active offer of bilingual services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Active offer of bilingual services
+longTitle: 'Active offer of bilingual services'
+tags:
+- gccommon
 usedFor:
-- "[[2052 Bilingual services]]"
+- "[[Bilingual services]]"
 ---
-# Active offer of bilingual services

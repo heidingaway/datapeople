@@ -1,10 +1,8 @@
 ---
 title: Arms Heraldry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Arms (Heraldry)
+longTitle: 'Arms (Heraldry)'
+tags:
+- gccommon
 usedFor:
-- "[[9840 Heraldry]]"
+- "[[Heraldry]]"
 ---
-# Arms Heraldry

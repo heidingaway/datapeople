@@ -1,10 +1,8 @@
 ---
 title: Plurilingualism
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Plurilingualism
+longTitle: 'Plurilingualism'
+tags:
+- gccommon
 usedFor:
-- "[[14022 Multilingualism]]"
+- "[[Multilingualism]]"
 ---
-# Plurilingualism

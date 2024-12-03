@@ -1,10 +1,8 @@
 ---
 title: Sediment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sédiment
+longTitle: 'Sédiment'
+tags:
+- gccommon
 french:
-- "[[18474 Sediments]]"
+- "[[Sediments]]"
 ---
-# Sediment

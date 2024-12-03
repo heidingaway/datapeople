@@ -1,10 +1,8 @@
 ---
 title: Outillage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Outillage
+longTitle: 'Outillage'
+tags:
+- gccommon
 french:
-- "[[20244 Tooling]]"
+- "[[Tooling]]"
 ---
-# Outillage

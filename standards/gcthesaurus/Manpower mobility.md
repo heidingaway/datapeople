@@ -1,10 +1,8 @@
 ---
 title: Manpower mobility
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Manpower mobility
+longTitle: 'Manpower mobility'
+tags:
+- gccommon
 usedFor:
-- "[[11916 Labour mobility]]"
+- "[[Labour mobility]]"
 ---
-# Manpower mobility

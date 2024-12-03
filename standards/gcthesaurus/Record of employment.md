@@ -1,13 +1,10 @@
 ---
 title: Record of employment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Record of employment
+longTitle: 'Record of employment'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17288 Records]]"
+- "[[Records]]"
 relatedTerm:
-- "[[1211 Applicants]]"
-- "[[6506 Employment]]"
+- "[[Applicants Employment]]"
 ---
-# Record of employment

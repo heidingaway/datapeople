@@ -1,19 +1,12 @@
 ---
 title: Aviation industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aviation industry
+longTitle: 'Aviation industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[354 Aerospace industry]]"
+- "[[Aerospace industry]]"
 relatedTerm:
-- "[[700 Air transport industry]]"
-- "[[722 Aircraft]]"
-- "[[1789 Aviation]]"
+- "[[Air transport industry Aircraft Aviation]]"
 use:
-- "[[9827 Helicopter industry]]"
-- "[[759 Aircraft industry]]"
-- "[[341 Aeronautical industry]]"
-- "[[761 Aircraft manufacturing industry]]"
+- "[[Helicopter industry Aircraft industry Aeronautical]]"
 ---
-# Aviation industry

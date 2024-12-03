@@ -1,18 +1,12 @@
 ---
 title: Fish
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fish
+longTitle: 'Fish'
+tags:
+- gccommon
 broaderTerm:
-- "[[8548 Freshwater fish]]"
-- "[[18128 Salt water fish]]"
+- "[[Freshwater fish Salt water fish]]"
 narrowerTerm:
-- "[[1263 Aquatic animals]]"
+- "[[Aquatic animals]]"
 relatedTerm:
-- "[[7943 Fisheries resources]]"
-- "[[7893 Fish farming]]"
-- "[[7935 Fisheries products]]"
-- "[[10452 Ichthyology]]"
+- "[[Fisheries resources Fish farming Fisheries product]]"
 ---
-# Fish

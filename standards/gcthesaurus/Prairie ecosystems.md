@@ -1,12 +1,10 @@
 ---
 title: Prairie ecosystems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prairie ecosystems
+longTitle: 'Prairie ecosystems'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5995 Ecosystems]]"
+- "[[Ecosystems]]"
 relatedTerm:
-- "[[9327 Grasslands]]"
+- "[[Grasslands]]"
 ---
-# Prairie ecosystems

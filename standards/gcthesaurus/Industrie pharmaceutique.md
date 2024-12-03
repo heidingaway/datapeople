@@ -1,10 +1,8 @@
 ---
 title: Industrie pharmaceutique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie pharmaceutique
+longTitle: 'Industrie pharmaceutique'
+tags:
+- gccommon
 french:
-- "[[15681 Pharmaceutical industry]]"
+- "[[Pharmaceutical industry]]"
 ---
-# Industrie pharmaceutique

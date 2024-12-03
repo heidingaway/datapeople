@@ -1,10 +1,8 @@
 ---
 title: Oil painting
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Oil painting
+longTitle: 'Oil painting'
+tags:
+- gccommon
 usedFor:
-- "[[15217 Painting]]"
+- "[[Painting]]"
 ---
-# Oil painting

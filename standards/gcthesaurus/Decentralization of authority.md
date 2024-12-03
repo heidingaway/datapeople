@@ -1,10 +1,8 @@
 ---
 title: Decentralization of authority
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Decentralization of authority.
+longTitle: 'Decentralization of authority.'
+tags:
+- gccommon
 scopeNote:
-- "[[5203 Devolution]]"
+- "[[Devolution]]"
 ---
-# Decentralization of authority

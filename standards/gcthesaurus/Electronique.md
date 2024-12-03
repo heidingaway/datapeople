@@ -1,10 +1,8 @@
 ---
 title: Electronique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Électronique
+longTitle: 'Électronique'
+tags:
+- gccommon
 french:
-- "[[6384 Electronics]]"
+- "[[Electronics]]"
 ---
-# Electronique

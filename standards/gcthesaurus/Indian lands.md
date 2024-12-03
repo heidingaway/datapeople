@@ -1,10 +1,8 @@
 ---
 title: Indian lands
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indian lands
+longTitle: 'Indian lands'
+tags:
+- gccommon
 usedFor:
-- "[[10656 Indigenous lands]]"
+- "[[Indigenous lands]]"
 ---
-# Indian lands

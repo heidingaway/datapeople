@@ -1,10 +1,8 @@
 ---
 title: Justice penale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Justice pénale
+longTitle: 'Justice pénale'
+tags:
+- gccommon
 french:
-- "[[4491 Criminal justice]]"
+- "[[Criminal justice]]"
 ---
-# Justice penale

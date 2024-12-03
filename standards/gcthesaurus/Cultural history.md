@@ -1,10 +1,8 @@
 ---
 title: Cultural history
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cultural history
+longTitle: 'Cultural history'
+tags:
+- gccommon
 usedFor:
-- "[[4710 Culture]]"
+- "[[Culture]]"
 ---
-# Cultural history

@@ -1,10 +1,8 @@
 ---
 title: Barrage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Barrage
+longTitle: 'Barrage'
+tags:
+- gccommon
 french:
-- "[[4825 Dams]]"
+- "[[Dams]]"
 ---
-# Barrage

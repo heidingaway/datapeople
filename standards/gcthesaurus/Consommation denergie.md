@@ -1,10 +1,8 @@
 ---
 title: Consommation denergie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Consommation d'énergie
+longTitle: 'Consommation d'énergie'
+tags:
+- gccommon
 french:
-- "[[6709 Energy use]]"
+- "[[Energy use]]"
 ---
-# Consommation denergie

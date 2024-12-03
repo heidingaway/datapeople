@@ -1,14 +1,10 @@
 ---
 title: Meteorology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Meteorology
+longTitle: 'Meteorology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5777 Earth sciences]]"
+- "[[Earth sciences]]"
 relatedTerm:
-- "[[13474 Meteorological data]]"
-- "[[3337 Climate]]"
-- "[[21600 Weather]]"
+- "[[Meteorological data Climate Weather]]"
 ---
-# Meteorology

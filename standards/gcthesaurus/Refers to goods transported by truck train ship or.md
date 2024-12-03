@@ -1,10 +1,8 @@
 ---
 title: Refers to goods transported by truck train ship or
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Refers to goods transported by truck, train, ship or airplane.
+longTitle: 'Refers to goods transported by truck, train, ship or airplane.'
+tags:
+- gccommon
 scopeNote:
-- "[[8499 Freight]]"
+- "[[Freight]]"
 ---
-# Refers to goods transported by truck train ship or

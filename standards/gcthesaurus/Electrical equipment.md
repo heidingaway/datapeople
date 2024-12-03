@@ -1,17 +1,14 @@
 ---
 title: Electrical equipment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electrical equipment
+longTitle: 'Electrical equipment'
+tags:
+- gccommon
 broaderTerm:
-- "[[6236 Electrical appliances]]"
+- "[[Electrical appliances]]"
 narrowerTerm:
-- "[[7083 Equipment]]"
+- "[[Equipment]]"
 relatedTerm:
-- "[[6258 Electricity]]"
-- "[[6314 Electronic equipment]]"
+- "[[Electricity Electronic equipment]]"
 use:
-- "[[6200 Electric equipment]]"
+- "[[Electric equipment]]"
 ---
-# Electrical equipment

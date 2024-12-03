@@ -1,10 +1,8 @@
 ---
 title: Liquid waste
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Liquid waste
+longTitle: 'Liquid waste'
+tags:
+- gccommon
 usedFor:
-- "[[21354 Waste water]]"
+- "[[Waste water]]"
 ---
-# Liquid waste

@@ -1,16 +1,12 @@
 ---
 title: Industrial productivity
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrial productivity
+longTitle: 'Industrial productivity'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16487 Productivity]]"
+- "[[Productivity]]"
 relatedTerm:
-- "[[10786 Industrial management]]"
-- "[[10861 Industry]]"
+- "[[Industrial management Industry]]"
 use:
-- "[[10757 Industrial efficiency]]"
-- "[[10789 Industrial performance]]"
+- "[[Industrial efficiency Industrial performance]]"
 ---
-# Industrial productivity

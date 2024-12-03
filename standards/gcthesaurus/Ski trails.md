@@ -1,11 +1,8 @@
 ---
 title: Ski trails
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ski trails
+longTitle: 'Ski trails'
+tags:
+- gccommon
 relatedTerm:
-- "[[17346 Recreational facilities]]"
-- "[[18771 Skiing]]"
+- "[[Recreational facilities Skiing]]"
 ---
-# Ski trails

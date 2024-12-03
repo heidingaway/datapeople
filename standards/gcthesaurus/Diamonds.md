@@ -1,10 +1,8 @@
 ---
 title: Diamonds
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Diamonds
+longTitle: 'Diamonds'
+tags:
+- gccommon
 relatedTerm:
-- "[[11641 Jewellery]]"
+- "[[Jewellery]]"
 ---
-# Diamonds

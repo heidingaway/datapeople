@@ -1,10 +1,8 @@
 ---
 title: Novel coronavirus disease 2019
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Novel coronavirus disease, 2019
+longTitle: 'Novel coronavirus disease, 2019'
+tags:
+- gccommon
 usedFor:
-- "[[4249 Coronavirus diseases]]"
+- "[[Coronavirus diseases]]"
 ---
-# Novel coronavirus disease 2019

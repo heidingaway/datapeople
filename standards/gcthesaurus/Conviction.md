@@ -1,10 +1,8 @@
 ---
 title: Conviction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Conviction
+longTitle: 'Conviction'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4384 Court decisions]]"
+- "[[Court decisions]]"
 ---
-# Conviction

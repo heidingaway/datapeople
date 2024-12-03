@@ -1,10 +1,8 @@
 ---
 title: Trout
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Trout
+longTitle: 'Trout'
+tags:
+- gccommon
 usedFor:
-- "[[8547 Freshwater fish]]"
+- "[[Freshwater fish]]"
 ---
-# Trout

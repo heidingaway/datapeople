@@ -1,10 +1,8 @@
 ---
 title: Bourse detudes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bourse d'études
+longTitle: 'Bourse d'études'
+tags:
+- gccommon
 french:
-- "[[18188 Scholarships]]"
+- "[[Scholarships]]"
 ---
-# Bourse detudes

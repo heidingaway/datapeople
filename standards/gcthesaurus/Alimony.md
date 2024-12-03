@@ -1,10 +1,8 @@
 ---
 title: Alimony
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Alimony
+longTitle: 'Alimony'
+tags:
+- gccommon
 usedFor:
-- "[[3137 Child support]]"
+- "[[Child support]]"
 ---
-# Alimony

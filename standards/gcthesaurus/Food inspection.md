@@ -1,15 +1,10 @@
 ---
 title: Food inspection
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Food inspection
+longTitle: 'Food inspection'
+tags:
+- gccommon
 narrowerTerm:
-- "[[11159 Inspection]]"
+- "[[Inspection]]"
 relatedTerm:
-- "[[1033 Animal inspection]]"
-- "[[8084 Food]]"
-- "[[8170 Food safety]]"
-- "[[8151 Food processing]]"
+- "[[Animal inspection Food Food safety Food processing]]"
 ---
-# Food inspection

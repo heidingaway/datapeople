@@ -1,10 +1,8 @@
 ---
 title: Nursery schools
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nursery schools
+longTitle: 'Nursery schools'
+tags:
+- gccommon
 usedFor:
-- "[[16241 Preschool education]]"
+- "[[Preschool education]]"
 ---
-# Nursery schools

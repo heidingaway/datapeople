@@ -1,16 +1,12 @@
 ---
 title: Natural heritage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Natural heritage
+longTitle: 'Natural heritage'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9879 Heritage]]"
+- "[[Heritage]]"
 relatedTerm:
-- "[[20078 Territorial parks]]"
-- "[[14229 National parks]]"
-- "[[16723 Provincial parks]]"
+- "[[Territorial parks National parks Provincial parks]]"
 use:
-- "[[6878 Environmental heritage]]"
+- "[[Environmental heritage]]"
 ---
-# Natural heritage

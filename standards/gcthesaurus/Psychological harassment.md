@@ -1,10 +1,8 @@
 ---
 title: Psychological harassment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Psychological harassment
+longTitle: 'Psychological harassment'
+tags:
+- gccommon
 usedFor:
-- "[[9466 Harassment]]"
+- "[[Harassment]]"
 ---
-# Psychological harassment

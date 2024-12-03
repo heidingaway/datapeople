@@ -1,10 +1,8 @@
 ---
 title: Oil spillages
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Oil spillages
+longTitle: 'Oil spillages'
+tags:
+- gccommon
 usedFor:
-- "[[15002 Oil spills]]"
+- "[[Oil spills]]"
 ---
-# Oil spillages

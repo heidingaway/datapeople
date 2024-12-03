@@ -1,10 +1,8 @@
 ---
 title: Employment earnings
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Employment earnings
+longTitle: 'Employment earnings'
+tags:
+- gccommon
 usedFor:
-- "[[18078 Salaries]]"
+- "[[Salaries]]"
 ---
-# Employment earnings

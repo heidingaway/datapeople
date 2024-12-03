@@ -1,13 +1,10 @@
 ---
 title: Exchange programs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Exchange programs
+longTitle: 'Exchange programs'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16571 Programs]]"
+- "[[Programs]]"
 relatedTerm:
-- "[[6513 Employment abroad]]"
-- "[[19478 Studies abroad]]"
+- "[[Employment abroad Studies abroad]]"
 ---
-# Exchange programs

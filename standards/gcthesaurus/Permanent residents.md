@@ -1,10 +1,8 @@
 ---
 title: Permanent residents
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Permanent residents
+longTitle: 'Permanent residents'
+tags:
+- gccommon
 usedFor:
-- "[[10502 Immigrants]]"
+- "[[Immigrants]]"
 ---
-# Permanent residents

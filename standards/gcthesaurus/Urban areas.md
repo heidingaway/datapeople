@@ -1,10 +1,8 @@
 ---
 title: Urban areas
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Urban areas
+longTitle: 'Urban areas'
+tags:
+- gccommon
 usedFor:
-- "[[20824 Urban environment]]"
+- "[[Urban environment]]"
 ---
-# Urban areas

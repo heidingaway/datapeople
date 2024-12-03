@@ -1,10 +1,8 @@
 ---
 title: Chemical warfare agents
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Chemical warfare agents
+longTitle: 'Chemical warfare agents'
+tags:
+- gccommon
 usedFor:
-- "[[3043 Chemical weapons]]"
+- "[[Chemical weapons]]"
 ---
-# Chemical warfare agents

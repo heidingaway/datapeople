@@ -1,21 +1,12 @@
 ---
 title: Land management
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Land management
+longTitle: 'Land management'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6927 Environmental management]]"
+- "[[Environmental management]]"
 relatedTerm:
-- "[[4575 Crown lands]]"
-- "[[11624 Irrigation]]"
-- "[[11986 Land cover]]"
-- "[[5550 Drainage]]"
-- "[[19608 Surveying]]"
+- "[[Crown lands Irrigation Land cover Drainage Surveyi]]"
 use:
-- "[[11997 Land inventory]]"
-- "[[12024 Land utilization]]"
-- "[[11975 Land administration]]"
-- "[[12021 Land use]]"
+- "[[Land inventory Land utilization Land administratio]]"
 ---
-# Land management

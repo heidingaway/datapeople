@@ -1,10 +1,8 @@
 ---
 title: Illegal activities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Illegal activities
+longTitle: 'Illegal activities'
+tags:
+- gccommon
 usedFor:
-- "[[4443 Crime]]"
+- "[[Crime]]"
 ---
-# Illegal activities

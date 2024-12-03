@@ -1,18 +1,12 @@
 ---
 title: Environmental accidents
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental accidents
+longTitle: 'Environmental accidents'
+tags:
+- gccommon
 broaderTerm:
-- "[[20314 Toxic spills]]"
+- "[[Toxic spills]]"
 narrowerTerm:
-- "[[5347 Disasters]]"
-- "[[122 Accidents]]"
+- "[[Disasters Accidents]]"
 relatedTerm:
-- "[[6783 Environment]]"
-- "[[6863 Environmental emergencies]]"
-- "[[16030 Pollution]]"
-- "[[6885 Environmental impact]]"
+- "[[Environment Environmental emergencies Pollution En]]"
 ---
-# Environmental accidents

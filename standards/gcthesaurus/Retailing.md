@@ -1,10 +1,8 @@
 ---
 title: Retailing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Retailing
+longTitle: 'Retailing'
+tags:
+- gccommon
 usedFor:
-- "[[17772 Retail trade]]"
+- "[[Retail trade]]"
 ---
-# Retailing

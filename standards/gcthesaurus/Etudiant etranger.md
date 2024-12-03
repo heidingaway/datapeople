@@ -1,10 +1,8 @@
 ---
 title: Etudiant etranger
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Étudiant étranger
+longTitle: 'Étudiant étranger'
+tags:
+- gccommon
 french:
-- "[[8270 Foreign students]]"
+- "[[Foreign students]]"
 ---
-# Etudiant etranger

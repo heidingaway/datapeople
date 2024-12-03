@@ -1,10 +1,8 @@
 ---
 title: Zone humide
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Zone humide
+longTitle: 'Zone humide'
+tags:
+- gccommon
 french:
-- "[[21674 Wetlands]]"
+- "[[Wetlands]]"
 ---
-# Zone humide

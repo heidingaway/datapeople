@@ -1,10 +1,8 @@
 ---
 title: Forest resources
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forest resources
+longTitle: 'Forest resources'
+tags:
+- gccommon
 usedFor:
-- "[[8411 Forests]]"
+- "[[Forests]]"
 ---
-# Forest resources

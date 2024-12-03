@@ -1,11 +1,8 @@
 ---
 title: Infected blood
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Infected blood
+longTitle: 'Infected blood'
+tags:
+- gccommon
 relatedTerm:
-- "[[10930 Infectious diseases]]"
-- "[[2304 Blood supply]]"
+- "[[Infectious diseases Blood supply]]"
 ---
-# Infected blood

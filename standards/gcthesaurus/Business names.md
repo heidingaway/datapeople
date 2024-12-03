@@ -1,11 +1,8 @@
 ---
 title: Business names
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Business names
+longTitle: 'Business names'
+tags:
+- gccommon
 relatedTerm:
-- "[[20453 Trademarks]]"
-- "[[2602 Businesses]]"
+- "[[Trademarks Businesses]]"
 ---
-# Business names

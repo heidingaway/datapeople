@@ -1,10 +1,8 @@
 ---
 title: Traduction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Traduction
+longTitle: 'Traduction'
+tags:
+- gccommon
 french:
-- "[[20573 Translation]]"
+- "[[Translation]]"
 ---
-# Traduction

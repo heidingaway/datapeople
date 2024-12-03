@@ -1,10 +1,8 @@
 ---
 title: Highway safety
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Highway safety
+longTitle: 'Highway safety'
+tags:
+- gccommon
 usedFor:
-- "[[17898 Road safety]]"
+- "[[Road safety]]"
 ---
-# Highway safety

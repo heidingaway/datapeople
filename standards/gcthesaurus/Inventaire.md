@@ -1,10 +1,8 @@
 ---
 title: Inventaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Inventaire
+longTitle: 'Inventaire'
+tags:
+- gccommon
 french:
-- "[[11569 Inventories]]"
+- "[[Inventories]]"
 ---
-# Inventaire

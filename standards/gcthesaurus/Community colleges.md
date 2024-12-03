@@ -1,10 +1,8 @@
 ---
 title: Community colleges
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Community colleges
+longTitle: 'Community colleges'
+tags:
+- gccommon
 usedFor:
-- "[[3531 Colleges]]"
+- "[[Colleges]]"
 ---
-# Community colleges

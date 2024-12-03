@@ -1,10 +1,8 @@
 ---
 title: Camping
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Camping
+longTitle: 'Camping'
+tags:
+- gccommon
 usedFor:
-- "[[15132 Outdoor recreation]]"
+- "[[Outdoor recreation]]"
 ---
-# Camping

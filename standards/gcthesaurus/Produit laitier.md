@@ -1,10 +1,8 @@
 ---
 title: Produit laitier
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Produit laitier
+longTitle: 'Produit laitier'
+tags:
+- gccommon
 french:
-- "[[4814 Dairy products]]"
+- "[[Dairy products]]"
 ---
-# Produit laitier

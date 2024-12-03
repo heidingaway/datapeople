@@ -1,18 +1,12 @@
 ---
 title: Energy conservation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Energy conservation
+longTitle: 'Energy conservation'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17727 Resources conservation]]"
+- "[[Resources conservation]]"
 relatedTerm:
-- "[[6622 Energy]]"
-- "[[6659 Energy management]]"
-- "[[6714 Energy use]]"
-- "[[6648 Energy efficiency]]"
+- "[[Energy Energy management Energy use Energy efficie]]"
 use:
-- "[[6681 Energy saving]]"
-- "[[6718 Energy waste]]"
+- "[[Energy saving Energy waste]]"
 ---
-# Energy conservation

@@ -1,15 +1,12 @@
 ---
 title: Wine industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wine industry
+longTitle: 'Wine industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1987 Beverage industry]]"
+- "[[Beverage industry]]"
 relatedTerm:
-- "[[21795 Wine]]"
-- "[[21140 Viticulture]]"
+- "[[Wine Viticulture]]"
 use:
-- "[[21804 Wine sector]]"
+- "[[Wine sector]]"
 ---
-# Wine industry

@@ -1,10 +1,8 @@
 ---
 title: NGOs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: NGOs
+longTitle: 'NGOs'
+tags:
+- gccommon
 usedFor:
-- "[[14529 Nongovernmental organizations]]"
+- "[[Nongovernmental organizations]]"
 ---
-# NGOs

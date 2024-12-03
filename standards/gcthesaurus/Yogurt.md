@@ -1,10 +1,8 @@
 ---
 title: Yogurt
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Yogurt
+longTitle: 'Yogurt'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4821 Dairy products]]"
+- "[[Dairy products]]"
 ---
-# Yogurt

@@ -1,10 +1,8 @@
 ---
 title: Electronic media
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electronic media
+longTitle: 'Electronic media'
+tags:
+- gccommon
 usedFor:
-- "[[13188 Media]]"
+- "[[Media]]"
 ---
-# Electronic media

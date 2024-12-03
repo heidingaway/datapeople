@@ -1,10 +1,8 @@
 ---
 title: National archives
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: National archives
+longTitle: 'National archives'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1382 Archives]]"
+- "[[Archives]]"
 ---
-# National archives

@@ -1,10 +1,8 @@
 ---
 title: Botanic gardens
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Botanic gardens
+longTitle: 'Botanic gardens'
+tags:
+- gccommon
 usedFor:
-- "[[2368 Botanical gardens]]"
+- "[[Botanical gardens]]"
 ---
-# Botanic gardens

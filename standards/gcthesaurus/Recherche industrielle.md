@@ -1,10 +1,8 @@
 ---
 title: Recherche industrielle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Recherche industrielle
+longTitle: 'Recherche industrielle'
+tags:
+- gccommon
 french:
-- "[[10819 Industrial research]]"
+- "[[Industrial research]]"
 ---
-# Recherche industrielle

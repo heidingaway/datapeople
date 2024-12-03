@@ -1,10 +1,8 @@
 ---
 title: Plebiscites
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Plebiscites
+longTitle: 'Plebiscites'
+tags:
+- gccommon
 usedFor:
-- "[[6188 Electoral system]]"
+- "[[Electoral system]]"
 ---
-# Plebiscites

@@ -1,11 +1,8 @@
 ---
 title: Tariff protection
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tariff protection
+longTitle: 'Tariff protection'
+tags:
+- gccommon
 relatedTerm:
-- "[[20421 Trade policy]]"
-- "[[19707 Tariffs]]"
+- "[[Trade policy Tariffs]]"
 ---
-# Tariff protection

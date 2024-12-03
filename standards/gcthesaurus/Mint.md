@@ -1,10 +1,8 @@
 ---
 title: Mint
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mint
+longTitle: 'Mint'
+tags:
+- gccommon
 usedFor:
-- "[[4731 Currency]]"
+- "[[Currency]]"
 ---
-# Mint

@@ -1,10 +1,8 @@
 ---
 title: Chasse au phoque
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Chasse au phoque
+longTitle: 'Chasse au phoque'
+tags:
+- gccommon
 french:
-- "[[18337 Sealing]]"
+- "[[Sealing]]"
 ---
-# Chasse au phoque

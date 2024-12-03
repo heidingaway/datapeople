@@ -1,15 +1,10 @@
 ---
 title: Handbooks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Handbooks
+longTitle: 'Handbooks'
+tags:
+- gccommon
 relatedTerm:
-- "[[2335 Books]]"
+- "[[Books]]"
 use:
-- "[[9422 Guides]]"
-- "[[12821 Manuals]]"
-- "[[11834 Laboratory manuals]]"
-- "[[20856 User guides]]"
+- "[[Guides Manuals Laboratory manuals User guides]]"
 ---
-# Handbooks

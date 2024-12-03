@@ -1,10 +1,8 @@
 ---
 title: Metal industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Metal industry
+longTitle: 'Metal industry'
+tags:
+- gccommon
 usedFor:
-- "[[13455 Metalworking industry]]"
+- "[[Metalworking industry]]"
 ---
-# Metal industry

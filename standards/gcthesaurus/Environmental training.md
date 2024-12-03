@@ -1,10 +1,8 @@
 ---
 title: Environmental training
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental training
+longTitle: 'Environmental training'
+tags:
+- gccommon
 usedFor:
-- "[[6852 Environmental education]]"
+- "[[Environmental education]]"
 ---
-# Environmental training

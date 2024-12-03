@@ -1,10 +1,8 @@
 ---
 title: Job promotion
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Job promotion
+longTitle: 'Job promotion'
+tags:
+- gccommon
 relatedTerm:
-- "[[21958 Working conditions]]"
+- "[[Working conditions]]"
 ---
-# Job promotion

@@ -1,17 +1,14 @@
 ---
 title: Life sciences
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Life sciences
+longTitle: 'Life sciences'
+tags:
+- gccommon
 broaderTerm:
-- "[[9770 Health sciences]]"
-- "[[2197 Biology]]"
+- "[[Health sciences Biology]]"
 narrowerTerm:
-- "[[14332 Natural sciences]]"
+- "[[Natural sciences]]"
 relatedTerm:
-- "[[18281 Scientists]]"
+- "[[Scientists]]"
 use:
-- "[[2177 Biological sciences]]"
+- "[[Biological sciences]]"
 ---
-# Life sciences

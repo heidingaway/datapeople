@@ -1,15 +1,12 @@
 ---
 title: Rural development
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rural development
+longTitle: 'Rural development'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5192 Development]]"
+- "[[Development]]"
 relatedTerm:
-- "[[17962 Rural communities]]"
-- "[[17440 Regional development]]"
+- "[[Rural communities Regional development]]"
 use:
-- "[[17981 Rural issues]]"
+- "[[Rural issues]]"
 ---
-# Rural development

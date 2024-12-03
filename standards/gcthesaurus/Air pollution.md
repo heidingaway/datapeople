@@ -1,21 +1,14 @@
 ---
 title: Air pollution
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Air pollution
+longTitle: 'Air pollution'
+tags:
+- gccommon
 broaderTerm:
-- "[[18816 Smog]]"
+- "[[Smog]]"
 narrowerTerm:
-- "[[16026 Pollution]]"
+- "[[Pollution]]"
 relatedTerm:
-- "[[169 Acid rain]]"
-- "[[15191 Ozone depletion]]"
-- "[[9365 Greenhouse gases]]"
-- "[[652 Air quality]]"
-- "[[605 Air]]"
-- "[[1657 Atmospheric emissions]]"
+- "[[Acid rain Ozone depletion Greenhouse gases Air qua]]"
 use:
-- "[[1671 Atmospheric pollution]]"
+- "[[Atmospheric pollution]]"
 ---
-# Air pollution

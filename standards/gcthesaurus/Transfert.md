@@ -1,10 +1,8 @@
 ---
 title: Transfert
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transfert
+longTitle: 'Transfert'
+tags:
+- gccommon
 french:
-- "[[20547 Transfers]]"
+- "[[Transfers]]"
 ---
-# Transfert

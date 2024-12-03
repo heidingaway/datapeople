@@ -1,10 +1,8 @@
 ---
 title: University students
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: University students
+longTitle: 'University students'
+tags:
+- gccommon
 usedFor:
-- "[[19469 Students]]"
+- "[[Students]]"
 ---
-# University students

@@ -1,10 +1,8 @@
 ---
 title: Approvisionnement en eau
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Approvisionnement en eau
+longTitle: 'Approvisionnement en eau'
+tags:
+- gccommon
 french:
-- "[[21472 Water supply]]"
+- "[[Water supply]]"
 ---
-# Approvisionnement en eau

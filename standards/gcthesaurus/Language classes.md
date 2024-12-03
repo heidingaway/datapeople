@@ -1,10 +1,8 @@
 ---
 title: Language classes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Language classes
+longTitle: 'Language classes'
+tags:
+- gccommon
 usedFor:
-- "[[12114 Language training]]"
+- "[[Language training]]"
 ---
-# Language classes

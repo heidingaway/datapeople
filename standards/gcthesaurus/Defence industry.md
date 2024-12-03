@@ -1,14 +1,12 @@
 ---
 title: Defence industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Defence industry
+longTitle: 'Defence industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12843 Manufacturing industry]]"
+- "[[Manufacturing industry]]"
 relatedTerm:
-- "[[13676 Military technology]]"
+- "[[Military technology]]"
 use:
-- "[[5037 Defense industry]]"
+- "[[Defense industry]]"
 ---
-# Defence industry

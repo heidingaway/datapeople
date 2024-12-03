@@ -1,10 +1,8 @@
 ---
 title: Numismatique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Numismatique
+longTitle: 'Numismatique'
+tags:
+- gccommon
 french:
-- "[[14680 Numismatics]]"
+- "[[Numismatics]]"
 ---
-# Numismatique

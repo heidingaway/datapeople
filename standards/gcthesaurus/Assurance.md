@@ -1,10 +1,8 @@
 ---
 title: Assurance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Assurance
+longTitle: 'Assurance'
+tags:
+- gccommon
 french:
-- "[[11189 Insurance]]"
+- "[[Insurance]]"
 ---
-# Assurance

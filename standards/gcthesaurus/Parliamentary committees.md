@@ -1,12 +1,10 @@
 ---
 title: Parliamentary committees
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Parliamentary committees
+longTitle: 'Parliamentary committees'
+tags:
+- gccommon
 narrowerTerm:
-- "[[3619 Committees]]"
+- "[[Committees]]"
 relatedTerm:
-- "[[15321 Parliamentary procedure]]"
+- "[[Parliamentary procedure]]"
 ---
-# Parliamentary committees

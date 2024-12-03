@@ -1,10 +1,8 @@
 ---
 title: Annuaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Annuaire
+longTitle: 'Annuaire'
+tags:
+- gccommon
 french:
-- "[[22090 Yearbooks]]"
+- "[[Yearbooks]]"
 ---
-# Annuaire

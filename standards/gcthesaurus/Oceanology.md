@@ -1,10 +1,8 @@
 ---
 title: Oceanology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Oceanology
+longTitle: 'Oceanology'
+tags:
+- gccommon
 usedFor:
-- "[[14861 Oceanography]]"
+- "[[Oceanography]]"
 ---
-# Oceanology

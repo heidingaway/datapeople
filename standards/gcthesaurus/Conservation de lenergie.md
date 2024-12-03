@@ -1,10 +1,8 @@
 ---
 title: Conservation de lenergie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Conservation de l'énergie
+longTitle: 'Conservation de l'énergie'
+tags:
+- gccommon
 french:
-- "[[6632 Energy conservation]]"
+- "[[Energy conservation]]"
 ---
-# Conservation de lenergie

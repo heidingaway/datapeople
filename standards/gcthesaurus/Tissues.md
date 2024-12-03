@@ -1,14 +1,10 @@
 ---
 title: Tissues
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tissues
+longTitle: 'Tissues'
+tags:
+- gccommon
 relatedTerm:
-- "[[2901 Cells]]"
+- "[[Cells]]"
 use:
-- "[[10238 Human tissues]]"
-- "[[1101 Animal tissues]]"
-- "[[15858 Plant tissues]]"
+- "[[Human tissues Animal tissues Plant tissues]]"
 ---
-# Tissues

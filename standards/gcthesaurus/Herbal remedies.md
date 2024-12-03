@@ -1,10 +1,8 @@
 ---
 title: Herbal remedies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Herbal remedies
+longTitle: 'Herbal remedies'
+tags:
+- gccommon
 usedFor:
-- "[[13327 Medicinal plants]]"
+- "[[Medicinal plants]]"
 ---
-# Herbal remedies

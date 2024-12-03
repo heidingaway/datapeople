@@ -1,15 +1,12 @@
 ---
 title: Popular culture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Popular culture
+longTitle: 'Popular culture'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4713 Culture]]"
+- "[[Culture]]"
 relatedTerm:
-- "[[8074 Folklore]]"
+- "[[Folklore]]"
 use:
-- "[[8069 Folk culture]]"
-- "[[20456 Traditional culture]]"
+- "[[Folk culture Traditional culture]]"
 ---
-# Popular culture

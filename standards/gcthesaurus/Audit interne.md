@@ -1,10 +1,8 @@
 ---
 title: Audit interne
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Audit interne
+longTitle: 'Audit interne'
+tags:
+- gccommon
 french:
-- "[[11311 Internal audits]]"
+- "[[Internal audits]]"
 ---
-# Audit interne

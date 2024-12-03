@@ -1,10 +1,8 @@
 ---
 title: Soins perinataux
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Soins périnataux
+longTitle: 'Soins périnataux'
+tags:
+- gccommon
 french:
-- "[[15480 Perinatal care]]"
+- "[[Perinatal care]]"
 ---
-# Soins perinataux

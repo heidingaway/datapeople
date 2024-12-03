@@ -1,10 +1,8 @@
 ---
 title: Cultures maraicheres
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cultures maraîchères
+longTitle: 'Cultures maraîchères'
+tags:
+- gccommon
 french:
-- "[[20893 Vegetable crops]]"
+- "[[Vegetable crops]]"
 ---
-# Cultures maraicheres

@@ -1,10 +1,8 @@
 ---
 title: Sciences de lespace
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sciences de l'espace
+longTitle: 'Sciences de l'espace'
+tags:
+- gccommon
 french:
-- "[[19173 Space sciences]]"
+- "[[Space sciences]]"
 ---
-# Sciences de lespace

@@ -1,10 +1,8 @@
 ---
 title: Sauvetage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sauvetage
+longTitle: 'Sauvetage'
+tags:
+- gccommon
 french:
-- "[[17628 Rescue]]"
+- "[[Rescue]]"
 ---
-# Sauvetage

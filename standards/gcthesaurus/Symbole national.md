@@ -1,10 +1,8 @@
 ---
 title: Symbole national
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Symbole national
+longTitle: 'Symbole national'
+tags:
+- gccommon
 french:
-- "[[14242 National symbols]]"
+- "[[National symbols]]"
 ---
-# Symbole national

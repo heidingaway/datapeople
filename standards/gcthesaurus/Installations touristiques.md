@@ -1,10 +1,8 @@
 ---
 title: Installations touristiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Installations touristiques
+longTitle: 'Installations touristiques'
+tags:
+- gccommon
 french:
-- "[[20285 Tourism facilities]]"
+- "[[Tourism facilities]]"
 ---
-# Installations touristiques

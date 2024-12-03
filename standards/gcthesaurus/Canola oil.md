@@ -1,10 +1,8 @@
 ---
 title: Canola oil
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Canola oil
+longTitle: 'Canola oil'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6018 Edible oils and fats]]"
+- "[[Edible oils and fats]]"
 ---
-# Canola oil

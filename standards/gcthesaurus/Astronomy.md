@@ -1,15 +1,12 @@
 ---
 title: Astronomy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Astronomy
+longTitle: 'Astronomy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19176 Space sciences]]"
+- "[[Space sciences]]"
 relatedTerm:
-- "[[1626 Astronomical observatories]]"
-- "[[15836 Planetariums]]"
+- "[[Astronomical observatories Planetariums]]"
 use:
-- "[[1635 Astrophysics]]"
+- "[[Astrophysics]]"
 ---
-# Astronomy

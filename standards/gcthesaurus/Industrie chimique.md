@@ -1,10 +1,8 @@
 ---
 title: Industrie chimique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie chimique
+longTitle: 'Industrie chimique'
+tags:
+- gccommon
 french:
-- "[[3022 Chemical industry]]"
+- "[[Chemical industry]]"
 ---
-# Industrie chimique

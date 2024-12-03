@@ -1,15 +1,12 @@
 ---
 title: Cultural heritage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cultural heritage
+longTitle: 'Cultural heritage'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9876 Heritage]]"
+- "[[Heritage]]"
 relatedTerm:
-- "[[4720 Culture]]"
-- "[[4753 Customs]]"
+- "[[Culture Customs]]"
 use:
-- "[[4703 Cultural property]]"
+- "[[Cultural property]]"
 ---
-# Cultural heritage

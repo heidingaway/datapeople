@@ -1,10 +1,8 @@
 ---
 title: Microbial diseases
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Microbial diseases
+longTitle: 'Microbial diseases'
+tags:
+- gccommon
 usedFor:
-- "[[10916 Infectious diseases]]"
+- "[[Infectious diseases]]"
 ---
-# Microbial diseases

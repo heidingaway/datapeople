@@ -1,10 +1,8 @@
 ---
 title: Atmospheric moisture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Atmospheric moisture
+longTitle: 'Atmospheric moisture'
+tags:
+- gccommon
 usedFor:
-- "[[10289 Humidity]]"
+- "[[Humidity]]"
 ---
-# Atmospheric moisture

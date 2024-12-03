@@ -1,10 +1,8 @@
 ---
 title: Forestlands
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forestlands
+longTitle: 'Forestlands'
+tags:
+- gccommon
 usedFor:
-- "[[8412 Forests]]"
+- "[[Forests]]"
 ---
-# Forestlands

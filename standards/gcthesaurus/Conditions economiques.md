@@ -1,10 +1,8 @@
 ---
 title: Conditions economiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Conditions économiques
+longTitle: 'Conditions économiques'
+tags:
+- gccommon
 french:
-- "[[5844 Economic conditions]]"
+- "[[Economic conditions]]"
 ---
-# Conditions economiques

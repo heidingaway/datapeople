@@ -1,10 +1,8 @@
 ---
 title: Motor fuels
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Motor fuels
+longTitle: 'Motor fuels'
+tags:
+- gccommon
 usedFor:
-- "[[8575 Fuels]]"
+- "[[Fuels]]"
 ---
-# Motor fuels

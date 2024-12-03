@@ -1,15 +1,12 @@
 ---
 title: Single parent families
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Single parent families
+longTitle: 'Single parent families'
+tags:
+- gccommon
 narrowerTerm:
-- "[[7346 Family]]"
+- "[[Family]]"
 relatedTerm:
-- "[[5478 Divorce]]"
+- "[[Divorce]]"
 use:
-- "[[12648 Lone parent families]]"
-- "[[15033 One parent families]]"
+- "[[Lone parent families One parent families]]"
 ---
-# Single parent families

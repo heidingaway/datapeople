@@ -1,10 +1,8 @@
 ---
 title: Air navigation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Air navigation
+longTitle: 'Air navigation'
+tags:
+- gccommon
 usedFor:
-- "[[1783 Aviation]]"
+- "[[Aviation]]"
 ---
-# Air navigation

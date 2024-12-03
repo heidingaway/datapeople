@@ -1,10 +1,8 @@
 ---
 title: Education  Enseignement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Éducation / Enseignement
+longTitle: 'Éducation / Enseignement'
+tags:
+- gccommon
 french:
-- "[[6020 Education]]"
+- "[[Education]]"
 ---
-# Education  Enseignement

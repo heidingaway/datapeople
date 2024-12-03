@@ -1,10 +1,8 @@
 ---
 title: Joaillerie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Joaillerie
+longTitle: 'Joaillerie'
+tags:
+- gccommon
 french:
-- "[[11638 Jewellery]]"
+- "[[Jewellery]]"
 ---
-# Joaillerie

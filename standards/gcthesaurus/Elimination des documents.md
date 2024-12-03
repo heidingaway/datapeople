@@ -1,10 +1,8 @@
 ---
 title: Elimination des documents
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Élimination des documents
+longTitle: 'Élimination des documents'
+tags:
+- gccommon
 french:
-- "[[17292 Records disposal]]"
+- "[[Records disposal]]"
 ---
-# Elimination des documents

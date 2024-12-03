@@ -1,10 +1,8 @@
 ---
 title: Foire agricole
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Foire agricole
+longTitle: 'Foire agricole'
+tags:
+- gccommon
 french:
-- "[[496 Agricultural fairs]]"
+- "[[Agricultural fairs]]"
 ---
-# Foire agricole

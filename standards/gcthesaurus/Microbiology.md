@@ -1,16 +1,14 @@
 ---
 title: Microbiology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Microbiology
+longTitle: 'Microbiology'
+tags:
+- gccommon
 broaderTerm:
-- "[[1835 Bacteriology]]"
+- "[[Bacteriology]]"
 narrowerTerm:
-- "[[2202 Biology]]"
+- "[[Biology]]"
 relatedTerm:
-- "[[13564 Microorganisms]]"
+- "[[Microorganisms]]"
 use:
-- "[[21061 Virology]]"
+- "[[Virology]]"
 ---
-# Microbiology

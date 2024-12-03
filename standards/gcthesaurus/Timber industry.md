@@ -1,10 +1,8 @@
 ---
 title: Timber industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Timber industry
+longTitle: 'Timber industry'
+tags:
+- gccommon
 usedFor:
-- "[[12665 Lumber industry]]"
+- "[[Lumber industry]]"
 ---
-# Timber industry

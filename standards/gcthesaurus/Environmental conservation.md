@@ -1,10 +1,8 @@
 ---
 title: Environmental conservation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental conservation
+longTitle: 'Environmental conservation'
+tags:
+- gccommon
 usedFor:
-- "[[6964 Environmental protection]]"
+- "[[Environmental protection]]"
 ---
-# Environmental conservation

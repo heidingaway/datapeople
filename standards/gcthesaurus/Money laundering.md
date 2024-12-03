@@ -1,10 +1,8 @@
 ---
 title: Money laundering
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Money laundering
+longTitle: 'Money laundering'
+tags:
+- gccommon
 usedFor:
-- "[[5860 Economic crime]]"
+- "[[Economic crime]]"
 ---
-# Money laundering

@@ -1,10 +1,8 @@
 ---
 title: Information technology security
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Information technology security
+longTitle: 'Information technology security'
+tags:
+- gccommon
 usedFor:
-- "[[3853 Computer security]]"
+- "[[Computer security]]"
 ---
-# Information technology security

@@ -1,10 +1,8 @@
 ---
 title: Sante de lenfant
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Santé de l'enfant
+longTitle: 'Santé de l'enfant'
+tags:
+- gccommon
 french:
-- "[[3182 Children's health]]"
+- "[[Childrens health]]"
 ---
-# Sante de lenfant

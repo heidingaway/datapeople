@@ -1,14 +1,12 @@
 ---
 title: Acculturation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Acculturation
+longTitle: 'Acculturation'
+tags:
+- gccommon
 french:
-- "[[153 Acculturation]]"
+- "[[Acculturation]]"
 relatedTerm:
-- "[[4714 Culture]]"
+- "[[Culture]]"
 use:
-- "[[4620 Cultural assimilation]]"
+- "[[Cultural assimilation]]"
 ---
-# Acculturation

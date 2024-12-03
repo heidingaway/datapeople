@@ -1,10 +1,8 @@
 ---
 title: Direction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Direction
+longTitle: 'Direction'
+tags:
+- gccommon
 french:
-- "[[2394 Branches]]"
+- "[[Branches]]"
 ---
-# Direction

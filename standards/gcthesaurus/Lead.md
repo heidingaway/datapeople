@@ -1,10 +1,8 @@
 ---
 title: Lead
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Lead
+longTitle: 'Lead'
+tags:
+- gccommon
 narrowerTerm:
-- "[[13448 Metals]]"
+- "[[Metals]]"
 ---
-# Lead

@@ -1,10 +1,8 @@
 ---
 title: Ground water
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ground water
+longTitle: 'Ground water'
+tags:
+- gccommon
 usedFor:
-- "[[9394 Groundwater]]"
+- "[[Groundwater]]"
 ---
-# Ground water

@@ -1,16 +1,12 @@
 ---
 title: Health indicators
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Health indicators
+longTitle: 'Health indicators'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10622 Indicators]]"
+- "[[Indicators]]"
 relatedTerm:
-- "[[14707 Nutrition]]"
-- "[[8013 Fitness]]"
-- "[[9577 Health]]"
+- "[[Nutrition Fitness Health]]"
 use:
-- "[[9787 Health status indicators]]"
+- "[[Health status indicators]]"
 ---
-# Health indicators

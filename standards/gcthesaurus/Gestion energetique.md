@@ -1,10 +1,8 @@
 ---
 title: Gestion energetique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gestion énergétique
+longTitle: 'Gestion énergétique'
+tags:
+- gccommon
 french:
-- "[[6655 Energy management]]"
+- "[[Energy management]]"
 ---
-# Gestion energetique

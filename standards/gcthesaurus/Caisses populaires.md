@@ -1,10 +1,8 @@
 ---
 title: Caisses populaires
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Caisses populaires
+longTitle: 'Caisses populaires'
+tags:
+- gccommon
 narrowerTerm:
-- "[[7735 Financial institutions]]"
+- "[[Financial institutions]]"
 ---
-# Caisses populaires

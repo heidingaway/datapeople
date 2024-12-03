@@ -1,10 +1,8 @@
 ---
 title: Geriatric medicine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Geriatric medicine
+longTitle: 'Geriatric medicine'
+tags:
+- gccommon
 usedFor:
-- "[[9044 Geriatrics]]"
+- "[[Geriatrics]]"
 ---
-# Geriatric medicine

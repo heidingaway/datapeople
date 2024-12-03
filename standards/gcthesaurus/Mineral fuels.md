@@ -1,10 +1,8 @@
 ---
 title: Mineral fuels
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mineral fuels
+longTitle: 'Mineral fuels'
+tags:
+- gccommon
 usedFor:
-- "[[8574 Fuels]]"
+- "[[Fuels]]"
 ---
-# Mineral fuels

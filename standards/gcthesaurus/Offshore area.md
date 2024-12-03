@@ -1,13 +1,10 @@
 ---
 title: Offshore area
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Offshore area
+longTitle: 'Offshore area'
+tags:
+- gccommon
 relatedTerm:
-- "[[14965 Offshore drilling]]"
-- "[[3425 Coastal waters]]"
+- "[[Offshore drilling Coastal waters]]"
 use:
-- "[[14968 Offshore zone]]"
+- "[[Offshore zone]]"
 ---
-# Offshore area

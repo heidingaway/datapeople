@@ -1,10 +1,8 @@
 ---
 title: Veterinary research
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Veterinary research
+longTitle: 'Veterinary research'
+tags:
+- gccommon
 usedFor:
-- "[[1074 Animal research]]"
+- "[[Animal research]]"
 ---
-# Veterinary research

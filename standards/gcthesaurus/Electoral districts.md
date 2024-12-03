@@ -1,14 +1,10 @@
 ---
 title: Electoral districts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electoral districts
+longTitle: 'Electoral districts'
+tags:
+- gccommon
 relatedTerm:
-- "[[6165 Elections]]"
+- "[[Elections]]"
 use:
-- "[[17820 Ridings]]"
-- "[[6170 Electoral boundaries]]"
-- "[[3985 Constituencies]]"
+- "[[Ridings Electoral boundaries Constituencies]]"
 ---
-# Electoral districts

@@ -1,10 +1,8 @@
 ---
 title: Dechets domestiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Déchets domestiques
+longTitle: 'Déchets domestiques'
+tags:
+- gccommon
 french:
-- "[[5525 Domestic waste]]"
+- "[[Domestic waste]]"
 ---
-# Dechets domestiques

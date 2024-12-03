@@ -1,10 +1,8 @@
 ---
 title: Social classes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Social classes
+longTitle: 'Social classes'
+tags:
+- gccommon
 usedFor:
-- "[[19018 Social structure]]"
+- "[[Social structure]]"
 ---
-# Social classes

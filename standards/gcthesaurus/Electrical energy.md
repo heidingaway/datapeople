@@ -1,10 +1,8 @@
 ---
 title: Electrical energy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electrical energy
+longTitle: 'Electrical energy'
+tags:
+- gccommon
 usedFor:
-- "[[6253 Electricity]]"
+- "[[Electricity]]"
 ---
-# Electrical energy

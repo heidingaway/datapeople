@@ -1,10 +1,8 @@
 ---
 title: Etat matrimonial
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: État matrimonial
+longTitle: 'État matrimonial'
+tags:
+- gccommon
 french:
-- "[[13022 Marital status]]"
+- "[[Marital status]]"
 ---
-# Etat matrimonial

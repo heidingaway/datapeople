@@ -1,15 +1,10 @@
 ---
 title: Wood
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wood
+longTitle: 'Wood'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8391 Forestry products]]"
+- "[[Forestry products]]"
 relatedTerm:
-- "[[12634 Logging industry]]"
-- "[[8424 Forests]]"
-- "[[12669 Lumber industry]]"
-- "[[21871 Woodworking industry]]"
+- "[[Logging industry Forests Lumber industry Woodworki]]"
 ---
-# Wood

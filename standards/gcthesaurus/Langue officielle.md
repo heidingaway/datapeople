@@ -1,10 +1,8 @@
 ---
 title: Langue officielle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Langue officielle
+longTitle: 'Langue officielle'
+tags:
+- gccommon
 french:
-- "[[14928 Official languages]]"
+- "[[Official languages]]"
 ---
-# Langue officielle

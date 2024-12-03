@@ -1,10 +1,8 @@
 ---
 title: Lecture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Lecture
+longTitle: 'Lecture'
+tags:
+- gccommon
 french:
-- "[[17221 Reading]]"
+- "[[Reading]]"
 ---
-# Lecture

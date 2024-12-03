@@ -1,10 +1,8 @@
 ---
 title: Economic activity dedicated to the commercial expl
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Economic activity dedicated to the commercial exploitation of artistic or intellectual works.
+longTitle: 'Economic activity dedicated to the commercial exploitation of artistic or intellectual works.'
+tags:
+- gccommon
 scopeNote:
-- "[[4665 Cultural industry]]"
+- "[[Cultural industry]]"
 ---
-# Economic activity dedicated to the commercial expl

@@ -1,11 +1,8 @@
 ---
 title: Moulds Fungi
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Moulds (Fungi)
+longTitle: 'Moulds (Fungi)'
+tags:
+- gccommon
 usedFor:
-- "[[13557 Microorganisms]]"
-- "[[8650 Fungi]]"
+- "[[Microorganisms Fungi]]"
 ---
-# Moulds Fungi

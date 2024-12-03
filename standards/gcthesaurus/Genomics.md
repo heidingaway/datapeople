@@ -1,10 +1,8 @@
 ---
 title: Genomics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Genomics
+longTitle: 'Genomics'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8869 Genetics]]"
+- "[[Genetics]]"
 ---
-# Genomics

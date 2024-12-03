@@ -1,10 +1,8 @@
 ---
 title: Acquittal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Acquittal
+longTitle: 'Acquittal'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4383 Court decisions]]"
+- "[[Court decisions]]"
 ---
-# Acquittal

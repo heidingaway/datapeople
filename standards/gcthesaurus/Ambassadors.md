@@ -1,10 +1,8 @@
 ---
 title: Ambassadors
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ambassadors
+longTitle: 'Ambassadors'
+tags:
+- gccommon
 usedFor:
-- "[[8262 Foreign service]]"
+- "[[Foreign service]]"
 ---
-# Ambassadors

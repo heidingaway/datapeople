@@ -1,10 +1,8 @@
 ---
 title: Pomme de terre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pomme de terre
+longTitle: 'Pomme de terre'
+tags:
+- gccommon
 french:
-- "[[16149 Potatoes]]"
+- "[[Potatoes]]"
 ---
-# Pomme de terre

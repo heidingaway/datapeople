@@ -1,10 +1,8 @@
 ---
 title: Pesticide
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pesticide
+longTitle: 'Pesticide'
+tags:
+- gccommon
 french:
-- "[[15614 Pesticides]]"
+- "[[Pesticides]]"
 ---
-# Pesticide

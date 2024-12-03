@@ -1,10 +1,8 @@
 ---
 title: Soil contamination
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Soil contamination
+longTitle: 'Soil contamination'
+tags:
+- gccommon
 usedFor:
-- "[[19096 Soil pollution]]"
+- "[[Soil pollution]]"
 ---
-# Soil contamination

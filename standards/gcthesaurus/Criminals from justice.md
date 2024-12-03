@@ -1,10 +1,8 @@
 ---
 title: Criminals from justice
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Criminals from justice
+longTitle: 'Criminals from justice'
+tags:
+- gccommon
 usedFor:
-- "[[8587 Fugitives from justice]]"
+- "[[Fugitives from justice]]"
 ---
-# Criminals from justice

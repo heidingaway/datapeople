@@ -1,10 +1,8 @@
 ---
 title: Childbirth
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Childbirth
+longTitle: 'Childbirth'
+tags:
+- gccommon
 usedFor:
-- "[[2249 Birth]]"
+- "[[Birth]]"
 ---
-# Childbirth

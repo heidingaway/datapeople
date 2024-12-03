@@ -1,10 +1,8 @@
 ---
 title: Preuve de citoyennete
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Preuve de citoyenneté
+longTitle: 'Preuve de citoyenneté'
+tags:
+- gccommon
 french:
-- "[[3244 Citizenship documents]]"
+- "[[Citizenship documents]]"
 ---
-# Preuve de citoyennete

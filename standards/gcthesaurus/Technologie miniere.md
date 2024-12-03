@@ -1,10 +1,8 @@
 ---
 title: Technologie miniere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Technologie minière
+longTitle: 'Technologie minière'
+tags:
+- gccommon
 french:
-- "[[13754 Mining technology]]"
+- "[[Mining technology]]"
 ---
-# Technologie miniere

@@ -1,10 +1,8 @@
 ---
 title: Multilateral programs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Multilateral programs
+longTitle: 'Multilateral programs'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16575 Programs]]"
+- "[[Programs]]"
 ---
-# Multilateral programs

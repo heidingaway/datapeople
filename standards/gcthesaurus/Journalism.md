@@ -1,11 +1,8 @@
 ---
 title: Journalism
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Journalism
+longTitle: 'Journalism'
+tags:
+- gccommon
 relatedTerm:
-- "[[14447 Newspapers]]"
-- "[[10975 Information]]"
+- "[[Newspapers Information]]"
 ---
-# Journalism

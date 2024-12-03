@@ -1,11 +1,8 @@
 ---
 title: Initial public offering
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Initial public offering
+longTitle: 'Initial public offering'
+tags:
+- gccommon
 relatedTerm:
-- "[[19405 Stock markets]]"
-- "[[11597 Investments]]"
+- "[[Stock markets Investments]]"
 ---
-# Initial public offering

@@ -1,10 +1,8 @@
 ---
 title: Conventional arms
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Conventional arms
+longTitle: 'Conventional arms'
+tags:
+- gccommon
 usedFor:
-- "[[21578 Weapons]]"
+- "[[Weapons]]"
 ---
-# Conventional arms

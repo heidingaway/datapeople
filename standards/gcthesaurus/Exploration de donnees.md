@@ -1,10 +1,8 @@
 ---
 title: Exploration de donnees
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Exploration de données
+longTitle: 'Exploration de données'
+tags:
+- gccommon
 french:
-- "[[4865 Data mining]]"
+- "[[Data mining]]"
 ---
-# Exploration de donnees

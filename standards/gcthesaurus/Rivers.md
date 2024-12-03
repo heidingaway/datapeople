@@ -1,10 +1,8 @@
 ---
 title: Rivers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rivers
+longTitle: 'Rivers'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21541 Watercourses]]"
+- "[[Watercourses]]"
 ---
-# Rivers

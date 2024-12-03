@@ -1,10 +1,8 @@
 ---
 title: Humanitarian demining
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Humanitarian demining
+longTitle: 'Humanitarian demining'
+tags:
+- gccommon
 usedFor:
-- "[[5081 Demining]]"
+- "[[Demining]]"
 ---
-# Humanitarian demining

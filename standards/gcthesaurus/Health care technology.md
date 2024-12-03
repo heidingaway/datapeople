@@ -1,10 +1,8 @@
 ---
 title: Health care technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Health care technology
+longTitle: 'Health care technology'
+tags:
+- gccommon
 usedFor:
-- "[[13300 Medical technology]]"
+- "[[Medical technology]]"
 ---
-# Health care technology

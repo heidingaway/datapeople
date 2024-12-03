@@ -1,14 +1,10 @@
 ---
 title: Fraud
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fraud
+longTitle: 'Fraud'
+tags:
+- gccommon
 broaderTerm:
-- "[[8431 Forgery]]"
-- "[[19737 Tax fraud]]"
+- "[[Forgery Tax fraud]]"
 narrowerTerm:
-- "[[8594 Fugitives from justice]]"
-- "[[4450 Crime]]"
+- "[[Fugitives from justice Crime]]"
 ---
-# Fraud

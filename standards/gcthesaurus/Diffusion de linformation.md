@@ -1,10 +1,8 @@
 ---
 title: Diffusion de linformation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Diffusion de l'information
+longTitle: 'Diffusion de l'information'
+tags:
+- gccommon
 french:
-- "[[10985 Information dissemination]]"
+- "[[Information dissemination]]"
 ---
-# Diffusion de linformation

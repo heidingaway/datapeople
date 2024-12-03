@@ -1,10 +1,8 @@
 ---
 title: Seminars
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Seminars
+longTitle: 'Seminars'
+tags:
+- gccommon
 usedFor:
-- "[[3914 Conferences]]"
+- "[[Conferences]]"
 ---
-# Seminars

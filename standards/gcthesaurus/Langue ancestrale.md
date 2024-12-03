@@ -1,10 +1,8 @@
 ---
 title: Langue ancestrale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Langue ancestrale
+longTitle: 'Langue ancestrale'
+tags:
+- gccommon
 french:
-- "[[9897 Heritage languages]]"
+- "[[Heritage languages]]"
 ---
-# Langue ancestrale

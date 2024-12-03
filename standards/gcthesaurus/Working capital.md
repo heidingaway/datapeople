@@ -1,13 +1,10 @@
 ---
 title: Working capital
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Working capital
+longTitle: 'Working capital'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2734 Capital]]"
+- "[[Capital]]"
 relatedTerm:
-- "[[20930 Venture capital]]"
-- "[[9406 Growth capital]]"
+- "[[Venture capital Growth capital]]"
 ---
-# Working capital

@@ -1,14 +1,10 @@
 ---
 title: Behaviour
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Behaviour
+longTitle: 'Behaviour'
+tags:
+- gccommon
 relatedTerm:
-- "[[16741 Psychology]]"
-- "[[1678 Attitudes]]"
-- "[[11488 Interpersonal relations]]"
+- "[[Psychology Attitudes Interpersonal relations]]"
 use:
-- "[[1929 Behavior]]"
+- "[[Behavior]]"
 ---
-# Behaviour

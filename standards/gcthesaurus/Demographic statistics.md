@@ -1,14 +1,10 @@
 ---
 title: Demographic statistics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Demographic statistics
+longTitle: 'Demographic statistics'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5092 Demographic data]]"
-- "[[19348 Statistics]]"
+- "[[Demographic data Statistics]]"
 relatedTerm:
-- "[[16085 Population distribution]]"
-- "[[5116 Demography]]"
+- "[[Population distribution Demography]]"
 ---
-# Demographic statistics

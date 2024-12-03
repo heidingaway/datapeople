@@ -1,10 +1,8 @@
 ---
 title: Gas pipelines
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gas pipelines
+longTitle: 'Gas pipelines'
+tags:
+- gccommon
 usedFor:
-- "[[15803 Pipelines]]"
+- "[[Pipelines]]"
 ---
-# Gas pipelines

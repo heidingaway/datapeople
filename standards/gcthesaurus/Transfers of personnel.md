@@ -1,10 +1,8 @@
 ---
 title: Transfers of personnel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transfers of personnel
+longTitle: 'Transfers of personnel'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15573 Personnel management]]"
+- "[[Personnel management]]"
 ---
-# Transfers of personnel

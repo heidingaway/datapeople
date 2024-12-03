@@ -1,10 +1,8 @@
 ---
 title: Patrimoine national
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Patrimoine national
+longTitle: 'Patrimoine national'
+tags:
+- gccommon
 french:
-- "[[14203 National heritage]]"
+- "[[National heritage]]"
 ---
-# Patrimoine national

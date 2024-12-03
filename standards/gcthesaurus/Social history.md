@@ -1,12 +1,10 @@
 ---
 title: Social history
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Social history
+longTitle: 'Social history'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9976 History]]"
+- "[[History]]"
 relatedTerm:
-- "[[19057 Sociology]]"
+- "[[Sociology]]"
 ---
-# Social history

@@ -1,10 +1,8 @@
 ---
 title: Sciences de la sante
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sciences de la santé
+longTitle: 'Sciences de la santé'
+tags:
+- gccommon
 french:
-- "[[9769 Health sciences]]"
+- "[[Health sciences]]"
 ---
-# Sciences de la sante

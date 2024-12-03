@@ -1,10 +1,8 @@
 ---
 title: Finance sociale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Finance sociale
+longTitle: 'Finance sociale'
+tags:
+- gccommon
 french:
-- "[[18900 Social finance]]"
+- "[[Social finance]]"
 ---
-# Finance sociale

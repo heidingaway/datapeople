@@ -1,17 +1,14 @@
 ---
 title: Beverage industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Beverage industry
+longTitle: 'Beverage industry'
+tags:
+- gccommon
 broaderTerm:
-- "[[21799 Wine industry]]"
+- "[[Wine industry]]"
 narrowerTerm:
-- "[[420 Agri-food industry]]"
+- "[[Agri-food industry]]"
 relatedTerm:
-- "[[1999 Beverages]]"
+- "[[Beverages]]"
 use:
-- "[[1990 Beverage sector]]"
-- "[[5578 Drink industry]]"
+- "[[Beverage sector Drink industry]]"
 ---
-# Beverage industry

@@ -1,17 +1,12 @@
 ---
 title: Cultural events
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cultural events
+longTitle: 'Cultural events'
+tags:
+- gccommon
 broaderTerm:
-- "[[11387 International exhibitions]]"
-- "[[1461 Art exhibitions]]"
-- "[[7661 Festivals]]"
+- "[[International exhibitions Art exhibitions Festival]]"
 relatedTerm:
-- "[[4700 Cultural programming]]"
-- "[[4718 Culture]]"
+- "[[Cultural programming Culture]]"
 use:
-- "[[4616 Cultural activities]]"
+- "[[Cultural activities]]"
 ---
-# Cultural events

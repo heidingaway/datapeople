@@ -1,13 +1,10 @@
 ---
 title: Military training
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Military training
+longTitle: 'Military training'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20492 Training]]"
+- "[[Training]]"
 relatedTerm:
-- "[[13660 Military personnel]]"
-- "[[13621 Military colleges]]"
+- "[[Military personnel Military colleges]]"
 ---
-# Military training

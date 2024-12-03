@@ -1,19 +1,14 @@
 ---
 title: Social development
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Social development
+longTitle: 'Social development'
+tags:
+- gccommon
 broaderTerm:
-- "[[3688 Community development]]"
+- "[[Community development]]"
 narrowerTerm:
-- "[[5193 Development]]"
+- "[[Development]]"
 relatedTerm:
-- "[[18945 Social movement]]"
-- "[[18911 Social indicators]]"
-- "[[19019 Social structure]]"
-- "[[19034 Social trends]]"
+- "[[Social movement Social indicators Social structure]]"
 use:
-- "[[18874 Social change]]"
+- "[[Social change]]"
 ---
-# Social development

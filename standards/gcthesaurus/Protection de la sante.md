@@ -1,10 +1,8 @@
 ---
 title: Protection de la sante
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Protection de la santé
+longTitle: 'Protection de la santé'
+tags:
+- gccommon
 french:
-- "[[9757 Health protection]]"
+- "[[Health protection]]"
 ---
-# Protection de la sante

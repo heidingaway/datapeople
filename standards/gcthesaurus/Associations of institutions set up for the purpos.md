@@ -1,10 +1,8 @@
 ---
 title: Associations of institutions set up for the purpos
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Associations of institutions set up for the purpose of financing major undertakings.
+longTitle: 'Associations of institutions set up for the purpose of financing major undertakings.'
+tags:
+- gccommon
 scopeNote:
-- "[[3982 Consortia]]"
+- "[[Consortia]]"
 ---
-# Associations of institutions set up for the purpos

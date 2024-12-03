@@ -1,10 +1,8 @@
 ---
 title: Biochemical products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Biochemical products
+longTitle: 'Biochemical products'
+tags:
+- gccommon
 usedFor:
-- "[[2092 Biochemicals]]"
+- "[[Biochemicals]]"
 ---
-# Biochemical products

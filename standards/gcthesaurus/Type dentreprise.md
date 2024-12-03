@@ -1,10 +1,8 @@
 ---
 title: Type dentreprise
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Type d'entreprise
+longTitle: 'Type d'entreprise'
+tags:
+- gccommon
 french:
-- "[[2574 Business types]]"
+- "[[Business types]]"
 ---
-# Type dentreprise

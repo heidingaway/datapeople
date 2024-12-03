@@ -1,10 +1,8 @@
 ---
 title: Silver
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Silver
+longTitle: 'Silver'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16205 Precious metals]]"
+- "[[Precious metals]]"
 ---
-# Silver

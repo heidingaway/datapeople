@@ -1,10 +1,8 @@
 ---
 title: Fourrure
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fourrure
+longTitle: 'Fourrure'
+tags:
+- gccommon
 french:
-- "[[8672 Furs]]"
+- "[[Furs]]"
 ---
-# Fourrure

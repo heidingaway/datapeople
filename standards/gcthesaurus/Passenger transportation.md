@@ -1,10 +1,8 @@
 ---
 title: Passenger transportation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Passenger transportation
+longTitle: 'Passenger transportation'
+tags:
+- gccommon
 usedFor:
-- "[[20598 Transport]]"
+- "[[Transport]]"
 ---
-# Passenger transportation

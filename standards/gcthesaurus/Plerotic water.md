@@ -1,10 +1,8 @@
 ---
 title: Plerotic water
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Plerotic water
+longTitle: 'Plerotic water'
+tags:
+- gccommon
 usedFor:
-- "[[9396 Groundwater]]"
+- "[[Groundwater]]"
 ---
-# Plerotic water

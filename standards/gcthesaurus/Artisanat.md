@@ -1,10 +1,8 @@
 ---
 title: Artisanat
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Artisanat
+longTitle: 'Artisanat'
+tags:
+- gccommon
 french:
-- "[[4410 Crafts]]"
+- "[[Crafts]]"
 ---
-# Artisanat

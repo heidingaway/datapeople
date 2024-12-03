@@ -1,10 +1,8 @@
 ---
 title: Programme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Programme
+longTitle: 'Programme'
+tags:
+- gccommon
 french:
-- "[[16567 Programs]]"
+- "[[Programs]]"
 ---
-# Programme

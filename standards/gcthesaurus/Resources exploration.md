@@ -1,10 +1,8 @@
 ---
 title: Resources exploration
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Resources exploration
+longTitle: 'Resources exploration'
+tags:
+- gccommon
 usedFor:
-- "[[16646 Prospecting]]"
+- "[[Prospecting]]"
 ---
-# Resources exploration

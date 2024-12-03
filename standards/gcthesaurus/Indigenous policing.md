@@ -1,16 +1,12 @@
 ---
 title: Indigenous policing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indigenous policing
+longTitle: 'Indigenous policing'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15932 Policing]]"
+- "[[Policing]]"
 relatedTerm:
-- "[[10670 Indigenous law]]"
-- "[[10683 Indigenous peoples]]"
-- "[[15926 Police services]]"
+- "[[Indigenous law Indigenous peoples Police services]]"
 use:
-- "[[51 Aboriginal policing]]"
+- "[[Aboriginal policing]]"
 ---
-# Indigenous policing

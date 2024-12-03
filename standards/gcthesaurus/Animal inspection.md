@@ -1,14 +1,12 @@
 ---
 title: Animal inspection
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Animal inspection
+longTitle: 'Animal inspection'
+tags:
+- gccommon
 narrowerTerm:
-- "[[11158 Inspection]]"
+- "[[Inspection]]"
 relatedTerm:
-- "[[8113 Food inspection]]"
+- "[[Food inspection]]"
 use:
-- "[[8097 Food animal inspection]]"
+- "[[Food animal inspection]]"
 ---
-# Animal inspection

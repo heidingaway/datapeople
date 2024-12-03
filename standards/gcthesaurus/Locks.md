@@ -1,12 +1,10 @@
 ---
 title: Locks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Locks
+longTitle: 'Locks'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12960 Marine installations]]"
+- "[[Marine installations]]"
 relatedTerm:
-- "[[2712 Canals]]"
+- "[[Canals]]"
 ---
-# Locks

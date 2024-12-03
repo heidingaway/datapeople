@@ -1,10 +1,8 @@
 ---
 title: Discarded materials
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Discarded materials
+longTitle: 'Discarded materials'
+tags:
+- gccommon
 usedFor:
-- "[[21295 Waste]]"
+- "[[Waste]]"
 ---
-# Discarded materials

@@ -1,10 +1,8 @@
 ---
 title: Insolvency
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Insolvency
+longTitle: 'Insolvency'
+tags:
+- gccommon
 usedFor:
-- "[[1854 Bankruptcies]]"
+- "[[Bankruptcies]]"
 ---
-# Insolvency

@@ -1,14 +1,12 @@
 ---
 title: Property tax
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Property tax
+longTitle: 'Property tax'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19775 Taxes]]"
+- "[[Taxes]]"
 relatedTerm:
-- "[[17239 Real estate]]"
+- "[[Real estate]]"
 use:
-- "[[12019 Land tax]]"
+- "[[Land tax]]"
 ---
-# Property tax

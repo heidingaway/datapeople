@@ -1,10 +1,8 @@
 ---
 title: Disease prevention
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Disease prevention
+longTitle: 'Disease prevention'
+tags:
+- gccommon
 usedFor:
-- "[[16284 Preventive medicine]]"
+- "[[Preventive medicine]]"
 ---
-# Disease prevention

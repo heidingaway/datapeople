@@ -1,10 +1,8 @@
 ---
 title: Port
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Port
+longTitle: 'Port'
+tags:
+- gccommon
 french:
-- "[[9481 Harbours]]"
+- "[[Harbours]]"
 ---
-# Port

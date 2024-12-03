@@ -1,10 +1,8 @@
 ---
 title: Questions juridiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Questions juridiques
+longTitle: 'Questions juridiques'
+tags:
+- gccommon
 french:
-- "[[12265 Legal issues]]"
+- "[[Legal issues]]"
 ---
-# Questions juridiques

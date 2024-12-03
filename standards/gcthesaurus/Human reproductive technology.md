@@ -1,10 +1,8 @@
 ---
 title: Human reproductive technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Human reproductive technology
+longTitle: 'Human reproductive technology'
+tags:
+- gccommon
 usedFor:
-- "[[17602 Reproductive technology]]"
+- "[[Reproductive technology]]"
 ---
-# Human reproductive technology

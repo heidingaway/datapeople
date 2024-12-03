@@ -1,10 +1,8 @@
 ---
 title: Sustainable transportation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sustainable transportation
+longTitle: 'Sustainable transportation'
+tags:
+- gccommon
 relatedTerm:
-- "[[20615 Transport]]"
+- "[[Transport]]"
 ---
-# Sustainable transportation

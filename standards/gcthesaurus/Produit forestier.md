@@ -1,10 +1,8 @@
 ---
 title: Produit forestier
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Produit forestier
+longTitle: 'Produit forestier'
+tags:
+- gccommon
 french:
-- "[[8388 Forestry products]]"
+- "[[Forestry products]]"
 ---
-# Produit forestier

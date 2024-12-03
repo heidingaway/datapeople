@@ -1,10 +1,8 @@
 ---
 title: Construction routiere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Construction routière
+longTitle: 'Construction routière'
+tags:
+- gccommon
 french:
-- "[[17872 Road construction]]"
+- "[[Road construction]]"
 ---
-# Construction routiere

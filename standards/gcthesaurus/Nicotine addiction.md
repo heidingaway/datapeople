@@ -1,10 +1,8 @@
 ---
 title: Nicotine addiction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nicotine addiction
+longTitle: 'Nicotine addiction'
+tags:
+- gccommon
 usedFor:
-- "[[18821 Smoking]]"
+- "[[Smoking]]"
 ---
-# Nicotine addiction

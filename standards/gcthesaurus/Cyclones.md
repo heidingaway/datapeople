@@ -1,10 +1,8 @@
 ---
 title: Cyclones
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cyclones
+longTitle: 'Cyclones'
+tags:
+- gccommon
 usedFor:
-- "[[19417 Storms]]"
+- "[[Storms]]"
 ---
-# Cyclones

@@ -1,10 +1,8 @@
 ---
 title: Appareil electrique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Appareil électrique
+longTitle: 'Appareil électrique'
+tags:
+- gccommon
 french:
-- "[[6234 Electrical appliances]]"
+- "[[Electrical appliances]]"
 ---
-# Appareil electrique

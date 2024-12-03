@@ -1,10 +1,8 @@
 ---
 title: Private investments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Private investments
+longTitle: 'Private investments'
+tags:
+- gccommon
 narrowerTerm:
-- "[[11593 Investments]]"
+- "[[Investments]]"
 ---
-# Private investments

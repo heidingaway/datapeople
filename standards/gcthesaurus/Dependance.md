@@ -1,10 +1,8 @@
 ---
 title: Dependance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Dépendance
+longTitle: 'Dépendance'
+tags:
+- gccommon
 french:
-- "[[210 Addiction]]"
+- "[[Addiction]]"
 ---
-# Dependance

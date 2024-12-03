@@ -1,10 +1,8 @@
 ---
 title: Violence en milieu de travail
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Violence en milieu de travail
+longTitle: 'Violence en milieu de travail'
+tags:
+- gccommon
 french:
-- "[[22012 Workplace violence]]"
+- "[[Workplace violence]]"
 ---
-# Violence en milieu de travail

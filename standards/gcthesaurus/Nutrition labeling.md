@@ -1,10 +1,8 @@
 ---
 title: Nutrition labeling
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nutrition labeling
+longTitle: 'Nutrition labeling'
+tags:
+- gccommon
 usedFor:
-- "[[8126 Food labelling]]"
+- "[[Food labelling]]"
 ---
-# Nutrition labeling

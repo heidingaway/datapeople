@@ -1,11 +1,8 @@
 ---
 title: Research institutes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Research institutes
+longTitle: 'Research institutes'
+tags:
+- gccommon
 relatedTerm:
-- "[[11832 Laboratories]]"
-- "[[17659 Research]]"
+- "[[Laboratories Research]]"
 ---
-# Research institutes

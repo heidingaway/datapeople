@@ -1,10 +1,8 @@
 ---
 title: Institution culturelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Institution culturelle
+longTitle: 'Institution culturelle'
+tags:
+- gccommon
 french:
-- "[[4676 Cultural institutions]]"
+- "[[Cultural institutions]]"
 ---
-# Institution culturelle

@@ -1,10 +1,8 @@
 ---
 title: Arrestation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Arrestation
+longTitle: 'Arrestation'
+tags:
+- gccommon
 french:
-- "[[1457 Arrests]]"
+- "[[Arrests]]"
 ---
-# Arrestation

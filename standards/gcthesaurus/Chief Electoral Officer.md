@@ -1,10 +1,8 @@
 ---
 title: Chief Electoral Officer
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Chief Electoral Officer
+longTitle: 'Chief Electoral Officer'
+tags:
+- gccommon
 relatedTerm:
-- "[[6164 Elections]]"
+- "[[Elections]]"
 ---
-# Chief Electoral Officer

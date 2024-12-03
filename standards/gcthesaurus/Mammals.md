@@ -1,22 +1,12 @@
 ---
 title: Mammals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mammals
+longTitle: 'Mammals'
+tags:
+- gccommon
 broaderTerm:
-- "[[21685 Whales]]"
-- "[[18344 Seals]]"
-- "[[2874 Cattle]]"
-- "[[16358 Primates]]"
-- "[[10073 Horses]]"
-- "[[10001 Hogs]]"
-- "[[21237 Walruses]]"
-- "[[17940 Rodents]]"
-- "[[18664 Sheep]]"
+- "[[Whales Seals Cattle Primates Horses Hogs Walruses ]]"
 narrowerTerm:
-- "[[1114 Animals]]"
+- "[[Animals]]"
 use:
-- "[[12728 Mammalians]]"
+- "[[Mammalians]]"
 ---
-# Mammals

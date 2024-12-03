@@ -1,12 +1,10 @@
 ---
 title: Property and casualty insurance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Property and casualty insurance
+longTitle: 'Property and casualty insurance'
+tags:
+- gccommon
 narrowerTerm:
-- "[[11198 Insurance]]"
+- "[[Insurance]]"
 relatedTerm:
-- "[[16620 Property]]"
+- "[[Property]]"
 ---
-# Property and casualty insurance

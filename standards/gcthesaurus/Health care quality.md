@@ -1,12 +1,10 @@
 ---
 title: Health care quality
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Health care quality
+longTitle: 'Health care quality'
+tags:
+- gccommon
 relatedTerm:
-- "[[9602 Health care]]"
+- "[[Health care]]"
 use:
-- "[[16993 Quality of health care]]"
+- "[[Quality of health care]]"
 ---
-# Health care quality

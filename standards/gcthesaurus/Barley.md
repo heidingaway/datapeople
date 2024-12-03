@@ -1,10 +1,8 @@
 ---
 title: Barley
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Barley
+longTitle: 'Barley'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2961 Cereals]]"
+- "[[Cereals]]"
 ---
-# Barley

@@ -1,10 +1,8 @@
 ---
 title: Pret a lentreprise
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prêt à l'entreprise
+longTitle: 'Prêt à l'entreprise'
+tags:
+- gccommon
 french:
-- "[[2535 Business loans]]"
+- "[[Business loans]]"
 ---
-# Pret a lentreprise

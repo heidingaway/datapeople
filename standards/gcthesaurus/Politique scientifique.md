@@ -1,10 +1,8 @@
 ---
 title: Politique scientifique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Politique scientifique
+longTitle: 'Politique scientifique'
+tags:
+- gccommon
 french:
-- "[[18231 Science policy]]"
+- "[[Science policy]]"
 ---
-# Politique scientifique

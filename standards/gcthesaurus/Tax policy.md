@@ -1,10 +1,8 @@
 ---
 title: Tax policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tax policy
+longTitle: 'Tax policy'
+tags:
+- gccommon
 usedFor:
-- "[[7857 Fiscal policy]]"
+- "[[Fiscal policy]]"
 ---
-# Tax policy

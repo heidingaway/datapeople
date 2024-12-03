@@ -1,12 +1,10 @@
 ---
 title: Economic impact
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Economic impact
+longTitle: 'Economic impact'
+tags:
+- gccommon
 relatedTerm:
-- "[[5833 Economic analysis]]"
+- "[[Economic analysis]]"
 use:
-- "[[5904 Economic impact analysis]]"
+- "[[Economic impact analysis]]"
 ---
-# Economic impact

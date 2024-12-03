@@ -1,10 +1,8 @@
 ---
 title: Further training
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Further training
+longTitle: 'Further training'
+tags:
+- gccommon
 usedFor:
-- "[[17796 Retraining]]"
+- "[[Retraining]]"
 ---
-# Further training

@@ -1,12 +1,10 @@
 ---
 title: Vegetable crops
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vegetable crops
+longTitle: 'Vegetable crops'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4544 Crops]]"
+- "[[Crops]]"
 relatedTerm:
-- "[[20904 Vegetables]]"
+- "[[Vegetables]]"
 ---
-# Vegetable crops

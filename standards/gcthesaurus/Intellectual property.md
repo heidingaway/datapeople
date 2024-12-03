@@ -1,11 +1,8 @@
 ---
 title: Intellectual property
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Intellectual property
+longTitle: 'Intellectual property'
+tags:
+- gccommon
 relatedTerm:
-- "[[4215 Copyright]]"
-- "[[15378 Patents]]"
+- "[[Copyright Patents]]"
 ---
-# Intellectual property

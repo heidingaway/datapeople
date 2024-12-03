@@ -1,10 +1,8 @@
 ---
 title: Education communautaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Éducation communautaire
+longTitle: 'Éducation communautaire'
+tags:
+- gccommon
 french:
-- "[[3696 Community education]]"
+- "[[Community education]]"
 ---
-# Education communautaire

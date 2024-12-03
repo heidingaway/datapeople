@@ -1,10 +1,8 @@
 ---
 title: Hydrometric station
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hydrometric station
+longTitle: 'Hydrometric station'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10392 Hydrometry]]"
+- "[[Hydrometry]]"
 ---
-# Hydrometric station

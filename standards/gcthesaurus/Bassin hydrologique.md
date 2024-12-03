@@ -1,10 +1,8 @@
 ---
 title: Bassin hydrologique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bassin hydrologique
+longTitle: 'Bassin hydrologique'
+tags:
+- gccommon
 french:
-- "[[21546 Watersheds]]"
+- "[[Watersheds]]"
 ---
-# Bassin hydrologique

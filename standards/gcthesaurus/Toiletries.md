@@ -1,10 +1,8 @@
 ---
 title: Toiletries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Toiletries
+longTitle: 'Toiletries'
+tags:
+- gccommon
 usedFor:
-- "[[15520 Personal care products]]"
+- "[[Personal care products]]"
 ---
-# Toiletries

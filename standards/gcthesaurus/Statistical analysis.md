@@ -1,15 +1,12 @@
 ---
 title: Statistical analysis
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Statistical analysis
+longTitle: 'Statistical analysis'
+tags:
+- gccommon
 narrowerTerm:
-- "[[948 Analysis]]"
+- "[[Analysis]]"
 relatedTerm:
-- "[[19339 Statistical profile]]"
-- "[[19355 Statistics]]"
+- "[[Statistical profile Statistics]]"
 use:
-- "[[19336 Statistical methods]]"
+- "[[Statistical methods]]"
 ---
-# Statistical analysis

@@ -1,13 +1,10 @@
 ---
 title: Self employment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Self employment
+longTitle: 'Self employment'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6490 Employment]]"
+- "[[Employment]]"
 relatedTerm:
-- "[[6770 Entrepreneurship]]"
-- "[[10011 Home-based businesses]]"
+- "[[Entrepreneurship Home-based businesses]]"
 ---
-# Self employment

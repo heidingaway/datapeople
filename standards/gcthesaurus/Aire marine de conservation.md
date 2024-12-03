@@ -1,10 +1,8 @@
 ---
 title: Aire marine de conservation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aire marine de conservation
+longTitle: 'Aire marine de conservation'
+tags:
+- gccommon
 french:
-- "[[12933 Marine conservation areas]]"
+- "[[Marine conservation areas]]"
 ---
-# Aire marine de conservation

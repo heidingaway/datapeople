@@ -1,16 +1,10 @@
 ---
 title: Aquatic birds
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aquatic birds
+longTitle: 'Aquatic birds'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1261 Aquatic animals]]"
-- "[[2244 Birds]]"
+- "[[Aquatic animals Birds]]"
 use:
-- "[[21394 Water birds]]"
-- "[[18323 Seabirds]]"
-- "[[21536 Waterbirds]]"
-- "[[18305 Sea birds]]"
+- "[[Water birds Seabirds Waterbirds Sea birds]]"
 ---
-# Aquatic birds

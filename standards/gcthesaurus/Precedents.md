@@ -1,10 +1,8 @@
 ---
 title: Precedents
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Precedents
+longTitle: 'Precedents'
+tags:
+- gccommon
 usedFor:
-- "[[4378 Court decisions]]"
+- "[[Court decisions]]"
 ---
-# Precedents

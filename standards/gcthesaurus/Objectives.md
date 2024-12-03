@@ -1,11 +1,8 @@
 ---
 title: Objectives
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Objectives
+longTitle: 'Objectives'
+tags:
+- gccommon
 relatedTerm:
-- "[[13804 Mission statements]]"
-- "[[12804 Mandate]]"
+- "[[Mission statements Mandate]]"
 ---
-# Objectives

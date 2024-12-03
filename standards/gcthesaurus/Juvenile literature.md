@@ -1,10 +1,8 @@
 ---
 title: Juvenile literature
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Juvenile literature
+longTitle: 'Juvenile literature'
+tags:
+- gccommon
 usedFor:
-- "[[3191 Children's literature]]"
+- "[[Childrens literature]]"
 ---
-# Juvenile literature

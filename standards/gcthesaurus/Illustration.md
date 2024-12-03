@@ -1,10 +1,8 @@
 ---
 title: Illustration
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Illustration
+longTitle: 'Illustration'
+tags:
+- gccommon
 french:
-- "[[10489 Illustrations]]"
+- "[[Illustrations]]"
 ---
-# Illustration

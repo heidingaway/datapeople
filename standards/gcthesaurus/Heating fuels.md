@@ -1,10 +1,8 @@
 ---
 title: Heating fuels
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Heating fuels
+longTitle: 'Heating fuels'
+tags:
+- gccommon
 usedFor:
-- "[[8573 Fuels]]"
+- "[[Fuels]]"
 ---
-# Heating fuels

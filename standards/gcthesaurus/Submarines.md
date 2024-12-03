@@ -1,12 +1,10 @@
 ---
 title: Submarines
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Submarines
+longTitle: 'Submarines'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20944 Vessels]]"
+- "[[Vessels]]"
 relatedTerm:
-- "[[13681 Military technology]]"
+- "[[Military technology]]"
 ---
-# Submarines

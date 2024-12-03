@@ -1,10 +1,8 @@
 ---
 title: Medicament
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Médicament
+longTitle: 'Médicament'
+tags:
+- gccommon
 french:
-- "[[5689 Drugs]]"
+- "[[Drugs]]"
 ---
-# Medicament

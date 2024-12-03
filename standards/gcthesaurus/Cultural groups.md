@@ -1,16 +1,10 @@
 ---
 title: Cultural groups
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cultural groups
+longTitle: 'Cultural groups'
+tags:
+- gccommon
 relatedTerm:
-- "[[14005 Multiculturalism]]"
-- "[[12074 Language groups]]"
-- "[[4719 Culture]]"
-- "[[7163 Ethnic groups]]"
+- "[[Multiculturalism Language groups Culture Ethnic gr]]"
 use:
-- "[[4622 Cultural communities]]"
-- "[[4689 Cultural minorities]]"
+- "[[Cultural communities Cultural minorities]]"
 ---
-# Cultural groups

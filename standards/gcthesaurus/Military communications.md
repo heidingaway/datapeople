@@ -1,10 +1,8 @@
 ---
 title: Military communications
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Military communications
+longTitle: 'Military communications'
+tags:
+- gccommon
 narrowerTerm:
-- "[[3656 Communications]]"
+- "[[Communications]]"
 ---
-# Military communications

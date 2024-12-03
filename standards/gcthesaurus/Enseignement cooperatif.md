@@ -1,10 +1,8 @@
 ---
 title: Enseignement cooperatif
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Enseignement coopératif
+longTitle: 'Enseignement coopératif'
+tags:
+- gccommon
 french:
-- "[[4195 Cooperative education]]"
+- "[[Cooperative education]]"
 ---
-# Enseignement cooperatif

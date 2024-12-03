@@ -1,10 +1,8 @@
 ---
 title: Trucking
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Trucking
+longTitle: 'Trucking'
+tags:
+- gccommon
 usedFor:
-- "[[20712 Trucking industry]]"
+- "[[Trucking industry]]"
 ---
-# Trucking

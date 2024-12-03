@@ -1,10 +1,8 @@
 ---
 title: Motor trucks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Motor trucks
+longTitle: 'Motor trucks'
+tags:
+- gccommon
 usedFor:
-- "[[20719 Trucks]]"
+- "[[Trucks]]"
 ---
-# Motor trucks

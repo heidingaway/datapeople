@@ -1,10 +1,8 @@
 ---
 title: Foresterie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Foresterie
+longTitle: 'Foresterie'
+tags:
+- gccommon
 french:
-- "[[8348 Forestry]]"
+- "[[Forestry]]"
 ---
-# Foresterie

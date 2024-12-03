@@ -1,10 +1,8 @@
 ---
 title: Hydroelectric power plants
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hydroelectric power plants
+longTitle: 'Hydroelectric power plants'
+tags:
+- gccommon
 usedFor:
-- "[[10338 Hydroelectric plants]]"
+- "[[Hydroelectric plants]]"
 ---
-# Hydroelectric power plants

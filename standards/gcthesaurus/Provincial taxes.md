@@ -1,10 +1,8 @@
 ---
 title: Provincial taxes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Provincial taxes
+longTitle: 'Provincial taxes'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19776 Taxes]]"
+- "[[Taxes]]"
 ---
-# Provincial taxes

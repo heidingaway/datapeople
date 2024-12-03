@@ -1,10 +1,8 @@
 ---
 title: Gay men
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gay men
+longTitle: 'Gay men'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8756 Gay people]]"
+- "[[Gay people]]"
 ---
-# Gay men

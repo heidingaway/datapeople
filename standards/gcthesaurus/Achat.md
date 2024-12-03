@@ -1,10 +1,8 @@
 ---
 title: Achat
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Achat
+longTitle: 'Achat'
+tags:
+- gccommon
 french:
-- "[[16968 Purchasing]]"
+- "[[Purchasing]]"
 ---
-# Achat

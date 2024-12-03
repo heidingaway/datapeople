@@ -1,10 +1,8 @@
 ---
 title: Catalogue
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Catalogue
+longTitle: 'Catalogue'
+tags:
+- gccommon
 french:
-- "[[2844 Catalogues]]"
+- "[[Catalogues]]"
 ---
-# Catalogue

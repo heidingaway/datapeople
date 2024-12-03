@@ -1,14 +1,12 @@
 ---
 title: Obesity
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Obesity
+longTitle: 'Obesity'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5396 Diseases]]"
+- "[[Diseases]]"
 relatedTerm:
-- "[[14709 Nutrition]]"
+- "[[Nutrition]]"
 use:
-- "[[15171 Overweight]]"
+- "[[Overweight]]"
 ---
-# Obesity

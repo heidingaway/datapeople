@@ -1,10 +1,8 @@
 ---
 title: Natural ecosystems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Natural ecosystems
+longTitle: 'Natural ecosystems'
+tags:
+- gccommon
 usedFor:
-- "[[5991 Ecosystems]]"
+- "[[Ecosystems]]"
 ---
-# Natural ecosystems

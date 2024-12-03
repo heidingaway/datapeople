@@ -1,10 +1,8 @@
 ---
 title: Court appearances
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Court appearances
+longTitle: 'Court appearances'
+tags:
+- gccommon
 relatedTerm:
-- "[[11725 Justice system]]"
+- "[[Justice system]]"
 ---
-# Court appearances

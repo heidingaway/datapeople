@@ -1,10 +1,8 @@
 ---
 title: Seismic sea waves
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Seismic sea waves
+longTitle: 'Seismic sea waves'
+tags:
+- gccommon
 usedFor:
-- "[[20731 Tsunamis]]"
+- "[[Tsunamis]]"
 ---
-# Seismic sea waves

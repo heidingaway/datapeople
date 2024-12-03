@@ -1,10 +1,8 @@
 ---
 title: Distribution of jurisdictions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Distribution of jurisdictions
+longTitle: 'Distribution of jurisdictions'
+tags:
+- gccommon
 usedFor:
-- "[[5462 Division of powers]]"
+- "[[Division of powers]]"
 ---
-# Distribution of jurisdictions

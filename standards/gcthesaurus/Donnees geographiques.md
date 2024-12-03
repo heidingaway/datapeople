@@ -1,10 +1,8 @@
 ---
 title: Donnees geographiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Données géographiques
+longTitle: 'Données géographiques'
+tags:
+- gccommon
 french:
-- "[[8902 Geographic data]]"
+- "[[Geographic data]]"
 ---
-# Donnees geographiques

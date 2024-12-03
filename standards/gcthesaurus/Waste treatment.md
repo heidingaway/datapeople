@@ -1,10 +1,8 @@
 ---
 title: Waste treatment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Waste treatment
+longTitle: 'Waste treatment'
+tags:
+- gccommon
 usedFor:
-- "[[21327 Waste management]]"
+- "[[Waste management]]"
 ---
-# Waste treatment

@@ -1,10 +1,8 @@
 ---
 title: Wheat
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Wheat
+longTitle: 'Wheat'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2964 Cereals]]"
+- "[[Cereals]]"
 ---
-# Wheat

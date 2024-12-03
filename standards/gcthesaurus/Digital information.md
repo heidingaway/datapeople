@@ -1,10 +1,8 @@
 ---
 title: Digital information
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Digital information
+longTitle: 'Digital information'
+tags:
+- gccommon
 usedFor:
-- "[[6339 Electronic information]]"
+- "[[Electronic information]]"
 ---
-# Digital information

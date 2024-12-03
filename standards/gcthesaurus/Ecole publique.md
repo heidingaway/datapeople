@@ -1,10 +1,8 @@
 ---
 title: Ecole publique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: École publique
+longTitle: 'École publique'
+tags:
+- gccommon
 french:
-- "[[16878 Public schools]]"
+- "[[Public schools]]"
 ---
-# Ecole publique

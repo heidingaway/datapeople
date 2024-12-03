@@ -1,10 +1,8 @@
 ---
 title: Homme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Homme
+longTitle: 'Homme'
+tags:
+- gccommon
 french:
-- "[[13387 Men]]"
+- "[[Men]]"
 ---
-# Homme

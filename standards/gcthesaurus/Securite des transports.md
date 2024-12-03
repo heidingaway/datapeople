@@ -1,10 +1,8 @@
 ---
 title: Securite des transports
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sécurité des transports
+longTitle: 'Sécurité des transports'
+tags:
+- gccommon
 french:
-- "[[20648 Transportation safety]]"
+- "[[Transportation safety]]"
 ---
-# Securite des transports

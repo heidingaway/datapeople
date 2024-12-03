@@ -1,11 +1,8 @@
 ---
 title: Surveying
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Surveying
+longTitle: 'Surveying'
+tags:
+- gccommon
 relatedTerm:
-- "[[12010 Land management]]"
-- "[[8893 Geodesy]]"
+- "[[Land management Geodesy]]"
 ---
-# Surveying

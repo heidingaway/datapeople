@@ -1,11 +1,8 @@
 ---
 title: Community relations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Community relations
+longTitle: 'Community relations'
+tags:
+- gccommon
 relatedTerm:
-- "[[3694 Community development]]"
-- "[[3714 Community partnerships]]"
+- "[[Community development Community partnerships]]"
 ---
-# Community relations

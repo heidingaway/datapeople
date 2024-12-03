@@ -1,10 +1,8 @@
 ---
 title: Accord multilateral
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Accord multilatéral
+longTitle: 'Accord multilatéral'
+tags:
+- gccommon
 french:
-- "[[14014 Multilateral agreements]]"
+- "[[Multilateral agreements]]"
 ---
-# Accord multilateral

@@ -1,10 +1,8 @@
 ---
 title: Electronic networks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electronic networks
+longTitle: 'Electronic networks'
+tags:
+- gccommon
 usedFor:
-- "[[3812 Computer networks]]"
+- "[[Computer networks]]"
 ---
-# Electronic networks

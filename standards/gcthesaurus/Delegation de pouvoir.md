@@ -1,10 +1,8 @@
 ---
 title: Delegation de pouvoir
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Délégation de pouvoir
+longTitle: 'Délégation de pouvoir'
+tags:
+- gccommon
 french:
-- "[[5059 Delegation of authority]]"
+- "[[Delegation of authority]]"
 ---
-# Delegation de pouvoir

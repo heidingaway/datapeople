@@ -1,10 +1,8 @@
 ---
 title: Industrie du verre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie du verre
+longTitle: 'Industrie du verre'
+tags:
+- gccommon
 french:
-- "[[9075 Glass industry]]"
+- "[[Glass industry]]"
 ---
-# Industrie du verre

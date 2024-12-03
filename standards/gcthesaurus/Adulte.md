@@ -1,10 +1,8 @@
 ---
 title: Adulte
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Adulte
+longTitle: 'Adulte'
+tags:
+- gccommon
 french:
-- "[[285 Adults]]"
+- "[[Adults]]"
 ---
-# Adulte

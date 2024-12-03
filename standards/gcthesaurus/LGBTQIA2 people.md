@@ -1,10 +1,8 @@
 ---
 title: LGBTQIA2 people
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: LGBTQIA2 people
+longTitle: 'LGBTQIA2 people'
+tags:
+- gccommon
 usedFor:
-- "[[10 2SLGBTQI+ people]]"
+- "[[2SLGBTQI people]]"
 ---
-# LGBTQIA2 people

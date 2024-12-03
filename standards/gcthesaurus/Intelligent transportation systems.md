@@ -1,15 +1,12 @@
 ---
 title: Intelligent transportation systems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Intelligent transportation systems
+longTitle: 'Intelligent transportation systems'
+tags:
+- gccommon
 narrowerTerm:
-- "[[11248 Intelligent systems]]"
+- "[[Intelligent systems]]"
 relatedTerm:
-- "[[20613 Transport]]"
+- "[[Transport]]"
 use:
-- "[[11253 Intelligent transport systems]]"
-- "[[11263 Intelligent vehicle highway systems]]"
+- "[[Intelligent transport systems Intelligent vehicle ]]"
 ---
-# Intelligent transportation systems

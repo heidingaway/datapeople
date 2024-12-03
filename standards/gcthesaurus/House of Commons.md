@@ -1,13 +1,10 @@
 ---
 title: House of Commons
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: House of Commons
+longTitle: 'House of Commons'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15289 Parliament]]"
+- "[[Parliament]]"
 relatedTerm:
-- "[[12191 Leader of the Official Opposition]]"
-- "[[13370 Members of the House of Commons]]"
+- "[[Leader of the Official Opposition Members of the H]]"
 ---
-# House of Commons

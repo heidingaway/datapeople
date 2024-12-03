@@ -1,15 +1,12 @@
 ---
 title: Vocational rehabilitation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vocational rehabilitation
+longTitle: 'Vocational rehabilitation'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17484 Rehabilitation]]"
+- "[[Rehabilitation]]"
 relatedTerm:
-- "[[17799 Retraining]]"
+- "[[Retraining]]"
 use:
-- "[[14790 Occupational rehabilitation]]"
-- "[[6587 Employment rehabilitation]]"
+- "[[Occupational rehabilitation Employment rehabilitat]]"
 ---
-# Vocational rehabilitation

@@ -1,10 +1,8 @@
 ---
 title: Nouvelle maladie a coronavirus 2019
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nouvelle maladie à coronavirus, 2019
+longTitle: 'Nouvelle maladie à coronavirus, 2019'
+tags:
+- gccommon
 french:
-- "[[14607 Novel coronavirus disease, 2019]]"
+- "[[Novel coronavirus disease 2019]]"
 ---
-# Nouvelle maladie a coronavirus 2019

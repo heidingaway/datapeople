@@ -1,10 +1,8 @@
 ---
 title: Rapes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rapes
+longTitle: 'Rapes'
+tags:
+- gccommon
 usedFor:
-- "[[18625 Sexual offences]]"
+- "[[Sexual offences]]"
 ---
-# Rapes

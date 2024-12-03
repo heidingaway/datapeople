@@ -1,13 +1,10 @@
 ---
 title: Composting
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Composting
+longTitle: 'Composting'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21329 Waste management]]"
+- "[[Waste management]]"
 relatedTerm:
-- "[[2118 Biodegradation]]"
-- "[[7656 Fertilizers]]"
+- "[[Biodegradation Fertilizers]]"
 ---
-# Composting

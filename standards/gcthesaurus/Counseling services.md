@@ -1,10 +1,8 @@
 ---
 title: Counseling services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Counseling services
+longTitle: 'Counseling services'
+tags:
+- gccommon
 usedFor:
-- "[[4353 Counselling services]]"
+- "[[Counselling services]]"
 ---
-# Counseling services

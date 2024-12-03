@@ -1,13 +1,10 @@
 ---
 title: Corporate names
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Corporate names
+longTitle: 'Corporate names'
+tags:
+- gccommon
 relatedTerm:
-- "[[4289 Corporations]]"
-- "[[4266 Corporate image]]"
+- "[[Corporations Corporate image]]"
 use:
-- "[[4263 Corporate identity]]"
+- "[[Corporate identity]]"
 ---
-# Corporate names

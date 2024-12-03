@@ -1,16 +1,12 @@
 ---
 title: Public expenditures
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public expenditures
+longTitle: 'Public expenditures'
+tags:
+- gccommon
 narrowerTerm:
-- "[[7260 Expenditures]]"
+- "[[Expenditures]]"
 relatedTerm:
-- "[[7131 Estimates]]"
-- "[[14213 National income]]"
+- "[[Estimates National income]]"
 use:
-- "[[16911 Public spending]]"
-- "[[9164 Government expenditures]]"
+- "[[Public spending Government expenditures]]"
 ---
-# Public expenditures

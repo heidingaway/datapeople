@@ -1,10 +1,8 @@
 ---
 title: Roche metamorphique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Roche métamorphique
+longTitle: 'Roche métamorphique'
+tags:
+- gccommon
 french:
-- "[[13460 Metamorphic rocks]]"
+- "[[Metamorphic rocks]]"
 ---
-# Roche metamorphique

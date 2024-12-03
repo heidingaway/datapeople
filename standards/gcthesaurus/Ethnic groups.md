@@ -1,19 +1,12 @@
 ---
 title: Ethnic groups
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ethnic groups
+longTitle: 'Ethnic groups'
+tags:
+- gccommon
 broaderTerm:
-- "[[7170 Ethnic minorities]]"
+- "[[Ethnic minorities]]"
 relatedTerm:
-- "[[9900 Heritage languages]]"
-- "[[4650 Cultural groups]]"
-- "[[7191 Ethnology]]"
+- "[[Heritage languages Cultural groups Ethnology]]"
 use:
-- "[[7178 Ethnicity]]"
-- "[[7155 Ethnic communities]]"
-- "[[7176 Ethnic origin]]"
-- "[[17048 Racial groups]]"
+- "[[Ethnicity Ethnic communities Ethnic origin Racial ]]"
 ---
-# Ethnic groups

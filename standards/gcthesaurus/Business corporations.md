@@ -1,10 +1,8 @@
 ---
 title: Business corporations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Business corporations
+longTitle: 'Business corporations'
+tags:
+- gccommon
 usedFor:
-- "[[2582 Businesses]]"
+- "[[Businesses]]"
 ---
-# Business corporations

@@ -1,10 +1,8 @@
 ---
 title: Prescription medications
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prescription medications
+longTitle: 'Prescription medications'
+tags:
+- gccommon
 usedFor:
-- "[[16245 Prescription drugs]]"
+- "[[Prescription drugs]]"
 ---
-# Prescription medications

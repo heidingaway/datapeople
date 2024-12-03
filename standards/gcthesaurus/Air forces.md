@@ -1,10 +1,8 @@
 ---
 title: Air forces
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Air forces
+longTitle: 'Air forces'
+tags:
+- gccommon
 usedFor:
-- "[[1410 Armed forces]]"
+- "[[Armed forces]]"
 ---
-# Air forces

@@ -1,10 +1,8 @@
 ---
 title: Service conseil
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Service conseil
+longTitle: 'Service conseil'
+tags:
+- gccommon
 french:
-- "[[4055 Consulting]]"
+- "[[Consulting]]"
 ---
-# Service conseil

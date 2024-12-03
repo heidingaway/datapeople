@@ -1,10 +1,8 @@
 ---
 title: Anatomie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Anatomie
+longTitle: 'Anatomie'
+tags:
+- gccommon
 french:
-- "[[961 Anatomy]]"
+- "[[Anatomy]]"
 ---
-# Anatomie

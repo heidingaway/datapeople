@@ -1,10 +1,8 @@
 ---
 title: Mines
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mines
+longTitle: 'Mines'
+tags:
+- gccommon
 usedFor:
-- "[[13742 Mining industry]]"
+- "[[Mining industry]]"
 ---
-# Mines

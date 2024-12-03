@@ -1,16 +1,12 @@
 ---
 title: Occupational diseases
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Occupational diseases
+longTitle: 'Occupational diseases'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5397 Diseases]]"
+- "[[Diseases]]"
 relatedTerm:
-- "[[14769 Occupational health]]"
+- "[[Occupational health]]"
 use:
-- "[[14779 Occupational illness]]"
-- "[[10754 Industrial diseases]]"
-- "[[10778 Industrial illness]]"
+- "[[Occupational illness Industrial diseases Industria]]"
 ---
-# Occupational diseases

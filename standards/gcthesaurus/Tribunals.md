@@ -1,10 +1,8 @@
 ---
 title: Tribunals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tribunals
+longTitle: 'Tribunals'
+tags:
+- gccommon
 usedFor:
-- "[[4391 Courts]]"
+- "[[Courts]]"
 ---
-# Tribunals

@@ -1,10 +1,8 @@
 ---
 title: Food insecurity
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Food insecurity
+longTitle: 'Food insecurity'
+tags:
+- gccommon
 usedFor:
-- "[[8176 Food security]]"
+- "[[Food security]]"
 ---
-# Food insecurity

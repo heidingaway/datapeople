@@ -1,10 +1,8 @@
 ---
 title: Debiteur
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Débiteur
+longTitle: 'Débiteur'
+tags:
+- gccommon
 french:
-- "[[4980 Debtors]]"
+- "[[Debtors]]"
 ---
-# Debiteur

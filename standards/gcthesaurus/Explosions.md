@@ -1,10 +1,8 @@
 ---
 title: Explosions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Explosions
+longTitle: 'Explosions'
+tags:
+- gccommon
 relatedTerm:
-- "[[7301 Explosives]]"
+- "[[Explosives]]"
 ---
-# Explosions

@@ -1,12 +1,10 @@
 ---
 title: Childrens rights
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Children's rights
+longTitle: 'Children's rights'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10212 Human rights]]"
+- "[[Human rights]]"
 use:
-- "[[17826 Rights of the child]]"
+- "[[Rights of the child]]"
 ---
-# Childrens rights

@@ -1,10 +1,8 @@
 ---
 title: Art culinaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Art culinaire
+longTitle: 'Art culinaire'
+tags:
+- gccommon
 french:
-- "[[4174 Cooking]]"
+- "[[Cooking]]"
 ---
-# Art culinaire

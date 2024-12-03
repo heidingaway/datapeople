@@ -1,11 +1,8 @@
 ---
 title: Business services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Business services
+longTitle: 'Business services'
+tags:
+- gccommon
 broaderTerm:
-- "[[306 Advertising]]"
-- "[[140 Accounting]]"
+- "[[Advertising Accounting]]"
 ---
-# Business services

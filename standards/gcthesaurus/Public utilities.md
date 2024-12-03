@@ -1,10 +1,8 @@
 ---
 title: Public utilities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public utilities
+longTitle: 'Public utilities'
+tags:
+- gccommon
 usedFor:
-- "[[20865 Utilities]]"
+- "[[Utilities]]"
 ---
-# Public utilities

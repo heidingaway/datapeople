@@ -1,21 +1,12 @@
 ---
 title: Family violence
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Family violence
+longTitle: 'Family violence'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21027 Violence]]"
+- "[[Violence]]"
 relatedTerm:
-- "[[21052 Violence against women]]"
-- "[[8786 Gender-based violence]]"
-- "[[21044 Violence against children]]"
-- "[[6138 Elder abuse]]"
+- "[[Violence against women Gender-based violence Viole]]"
 use:
-- "[[21735 Wife battering]]"
-- "[[21733 Wife abuse]]"
-- "[[19258 Spousal abuse]]"
-- "[[5523 Domestic violence]]"
-- "[[3957 Conjugal violence]]"
+- "[[Wife battering Wife abuse Spousal abuse Domestic v]]"
 ---
-# Family violence

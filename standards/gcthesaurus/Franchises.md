@@ -1,12 +1,10 @@
 ---
 title: Franchises
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Franchises
+longTitle: 'Franchises'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2593 Businesses]]"
+- "[[Businesses]]"
 relatedTerm:
-- "[[2577 Business types]]"
+- "[[Business types]]"
 ---
-# Franchises

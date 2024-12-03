@@ -1,10 +1,8 @@
 ---
 title: Politique dinvestissement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Politique d'investissement
+longTitle: 'Politique d'investissement'
+tags:
+- gccommon
 french:
-- "[[11583 Investment policy]]"
+- "[[Investment policy]]"
 ---
-# Politique dinvestissement

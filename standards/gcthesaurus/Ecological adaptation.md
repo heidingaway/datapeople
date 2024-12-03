@@ -1,10 +1,8 @@
 ---
 title: Ecological adaptation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ecological adaptation
+longTitle: 'Ecological adaptation'
+tags:
+- gccommon
 usedFor:
-- "[[6816 Environmental adaptation]]"
+- "[[Environmental adaptation]]"
 ---
-# Ecological adaptation

@@ -1,10 +1,8 @@
 ---
 title: Ornithologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ornithologie
+longTitle: 'Ornithologie'
+tags:
+- gccommon
 french:
-- "[[15125 Ornithology]]"
+- "[[Ornithology]]"
 ---
-# Ornithologie

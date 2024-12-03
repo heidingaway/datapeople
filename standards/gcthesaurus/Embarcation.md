@@ -1,10 +1,8 @@
 ---
 title: Embarcation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Embarcation
+longTitle: 'Embarcation'
+tags:
+- gccommon
 french:
-- "[[20939 Vessels]]"
+- "[[Vessels]]"
 ---
-# Embarcation

@@ -1,10 +1,8 @@
 ---
 title: Marque de commerce
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marque de commerce
+longTitle: 'Marque de commerce'
+tags:
+- gccommon
 french:
-- "[[20450 Trademarks]]"
+- "[[Trademarks]]"
 ---
-# Marque de commerce

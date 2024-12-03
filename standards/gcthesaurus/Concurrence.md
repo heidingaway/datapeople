@@ -1,10 +1,8 @@
 ---
 title: Concurrence
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Concurrence
+longTitle: 'Concurrence'
+tags:
+- gccommon
 french:
-- "[[3764 Competition]]"
+- "[[Competition]]"
 ---
-# Concurrence

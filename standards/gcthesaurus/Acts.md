@@ -1,10 +1,8 @@
 ---
 title: Acts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Acts
+longTitle: 'Acts'
+tags:
+- gccommon
 usedFor:
-- "[[12298 Legislation]]"
+- "[[Legislation]]"
 ---
-# Acts

@@ -1,10 +1,8 @@
 ---
 title: Biochemical compounds
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Biochemical compounds
+longTitle: 'Biochemical compounds'
+tags:
+- gccommon
 usedFor:
-- "[[2091 Biochemicals]]"
+- "[[Biochemicals]]"
 ---
-# Biochemical compounds

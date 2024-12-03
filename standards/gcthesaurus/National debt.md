@@ -1,17 +1,12 @@
 ---
 title: National debt
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: National debt
+longTitle: 'National debt'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4962 Debt]]"
+- "[[Debt]]"
 relatedTerm:
-- "[[4972 Debt management]]"
-- "[[16817 Public finance]]"
-- "[[4977 Debt redemption]]"
+- "[[Debt management Public finance Debt redemption]]"
 use:
-- "[[16791 Public debt]]"
-- "[[5502 Domestic debt]]"
+- "[[Public debt Domestic debt]]"
 ---
-# National debt

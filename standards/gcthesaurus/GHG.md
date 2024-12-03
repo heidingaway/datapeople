@@ -1,10 +1,8 @@
 ---
 title: GHG
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: GHG
+longTitle: 'GHG'
+tags:
+- gccommon
 usedFor:
-- "[[9360 Greenhouse gases]]"
+- "[[Greenhouse gases]]"
 ---
-# GHG

@@ -1,10 +1,8 @@
 ---
 title: Manutention
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Manutention
+longTitle: 'Manutention'
+tags:
+- gccommon
 french:
-- "[[9457 Handling]]"
+- "[[Handling]]"
 ---
-# Manutention

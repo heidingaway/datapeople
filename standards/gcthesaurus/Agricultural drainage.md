@@ -1,10 +1,8 @@
 ---
 title: Agricultural drainage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Agricultural drainage
+longTitle: 'Agricultural drainage'
+tags:
+- gccommon
 usedFor:
-- "[[5545 Drainage]]"
+- "[[Drainage]]"
 ---
-# Agricultural drainage

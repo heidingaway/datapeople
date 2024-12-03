@@ -1,10 +1,8 @@
 ---
 title: Produit chimique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Produit chimique
+longTitle: 'Produit chimique'
+tags:
+- gccommon
 french:
-- "[[3050 Chemicals]]"
+- "[[Chemicals]]"
 ---
-# Produit chimique

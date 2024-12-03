@@ -1,11 +1,8 @@
 ---
 title: Moratorium
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Moratorium
+longTitle: 'Moratorium'
+tags:
+- gccommon
 relatedTerm:
-- "[[11087 Injunctions]]"
-- "[[16588 Prohibition]]"
+- "[[Injunctions Prohibition]]"
 ---
-# Moratorium

@@ -1,10 +1,8 @@
 ---
 title: Meal preparation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Meal preparation
+longTitle: 'Meal preparation'
+tags:
+- gccommon
 usedFor:
-- "[[4177 Cooking]]"
+- "[[Cooking]]"
 ---
-# Meal preparation

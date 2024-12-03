@@ -1,10 +1,8 @@
 ---
 title: Urgence environnementale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Urgence environnementale
+longTitle: 'Urgence environnementale'
+tags:
+- gccommon
 french:
-- "[[6859 Environmental emergencies]]"
+- "[[Environmental emergencies]]"
 ---
-# Urgence environnementale

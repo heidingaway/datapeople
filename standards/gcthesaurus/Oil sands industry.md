@@ -1,10 +1,8 @@
 ---
 title: Oil sands industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Oil sands industry
+longTitle: 'Oil sands industry'
+tags:
+- gccommon
 usedFor:
-- "[[15656 Petroleum industry]]"
+- "[[Petroleum industry]]"
 ---
-# Oil sands industry

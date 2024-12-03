@@ -1,10 +1,8 @@
 ---
 title: Redaction administrative
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rédaction administrative
+longTitle: 'Rédaction administrative'
+tags:
+- gccommon
 french:
-- "[[247 Administrative writing]]"
+- "[[Administrative writing]]"
 ---
-# Redaction administrative

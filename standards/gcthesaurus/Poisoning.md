@@ -1,13 +1,10 @@
 ---
 title: Poisoning
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Poisoning
+longTitle: 'Poisoning'
+tags:
+- gccommon
 relatedTerm:
-- "[[20333 Toxic substances]]"
-- "[[20345 Toxicology]]"
+- "[[Toxic substances Toxicology]]"
 use:
-- "[[11523 Intoxication]]"
+- "[[Intoxication]]"
 ---
-# Poisoning

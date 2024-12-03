@@ -1,10 +1,8 @@
 ---
 title: Geodetic surveys
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Geodetic surveys
+longTitle: 'Geodetic surveys'
+tags:
+- gccommon
 usedFor:
-- "[[8889 Geodesy]]"
+- "[[Geodesy]]"
 ---
-# Geodetic surveys

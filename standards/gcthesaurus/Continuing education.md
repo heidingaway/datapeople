@@ -1,16 +1,12 @@
 ---
 title: Continuing education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Continuing education
+longTitle: 'Continuing education'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6026 Education]]"
+- "[[Education]]"
 relatedTerm:
-- "[[17798 Retraining]]"
-- "[[16517 Professional development]]"
+- "[[Retraining Professional development]]"
 use:
-- "[[276 Adult education]]"
-- "[[12441 Lifelong education]]"
+- "[[Adult education Lifelong education]]"
 ---
-# Continuing education

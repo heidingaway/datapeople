@@ -1,10 +1,8 @@
 ---
 title: Matiere dangereuse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Matière dangereuse
+longTitle: 'Matière dangereuse'
+tags:
+- gccommon
 french:
-- "[[9516 Hazardous materials]]"
+- "[[Hazardous materials]]"
 ---
-# Matiere dangereuse

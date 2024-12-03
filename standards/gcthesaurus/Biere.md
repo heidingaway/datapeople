@@ -1,10 +1,8 @@
 ---
 title: Biere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Bière
+longTitle: 'Bière'
+tags:
+- gccommon
 french:
-- "[[1926 Beer]]"
+- "[[Beer]]"
 ---
-# Biere

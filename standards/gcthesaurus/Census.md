@@ -1,15 +1,10 @@
 ---
 title: Census
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Census
+longTitle: 'Census'
+tags:
+- gccommon
 relatedTerm:
-- "[[2928 Census data]]"
-- "[[16074 Population]]"
-- "[[5113 Demography]]"
+- "[[Census data Population Demography]]"
 use:
-- "[[2932 Census of population]]"
-- "[[16080 Population census]]"
+- "[[Census of population Population census]]"
 ---
-# Census

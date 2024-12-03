@@ -1,10 +1,8 @@
 ---
 title: Produit de la peche
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Produit de la pêche
+longTitle: 'Produit de la pêche'
+tags:
+- gccommon
 french:
-- "[[7932 Fisheries products]]"
+- "[[Fisheries products]]"
 ---
-# Produit de la peche

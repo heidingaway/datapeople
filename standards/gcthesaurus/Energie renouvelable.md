@@ -1,10 +1,8 @@
 ---
 title: Energie renouvelable
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Énergie renouvelable
+longTitle: 'Énergie renouvelable'
+tags:
+- gccommon
 french:
-- "[[17532 Renewable energy]]"
+- "[[Renewable energy]]"
 ---
-# Energie renouvelable

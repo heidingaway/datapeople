@@ -1,10 +1,8 @@
 ---
 title: Education technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Education technology
+longTitle: 'Education technology'
+tags:
+- gccommon
 usedFor:
-- "[[6113 Educational technology]]"
+- "[[Educational technology]]"
 ---
-# Education technology

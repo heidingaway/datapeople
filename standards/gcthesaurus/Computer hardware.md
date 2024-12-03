@@ -1,10 +1,8 @@
 ---
 title: Computer hardware
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Computer hardware
+longTitle: 'Computer hardware'
+tags:
+- gccommon
 usedFor:
-- "[[3883 Computers]]"
+- "[[Computers]]"
 ---
-# Computer hardware

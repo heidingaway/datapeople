@@ -1,12 +1,8 @@
 ---
 title: Disadvantaged persons
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Disadvantaged persons
+longTitle: 'Disadvantaged persons'
+tags:
+- gccommon
 relatedTerm:
-- "[[18879 Social conditions]]"
-- "[[10044 Homelessness]]"
-- "[[16168 Poverty]]"
+- "[[Social conditions Homelessness Poverty]]"
 ---
-# Disadvantaged persons

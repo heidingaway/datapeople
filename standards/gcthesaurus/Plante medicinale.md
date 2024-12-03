@@ -1,10 +1,8 @@
 ---
 title: Plante medicinale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Plante médicinale
+longTitle: 'Plante médicinale'
+tags:
+- gccommon
 french:
-- "[[13325 Medicinal plants]]"
+- "[[Medicinal plants]]"
 ---
-# Plante medicinale

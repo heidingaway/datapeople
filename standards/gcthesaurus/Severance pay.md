@@ -1,12 +1,10 @@
 ---
 title: Severance pay
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Severance pay
+longTitle: 'Severance pay'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18088 Salaries]]"
+- "[[Salaries]]"
 relatedTerm:
-- "[[16903 Public service]]"
+- "[[Public service]]"
 ---
-# Severance pay

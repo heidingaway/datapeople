@@ -1,10 +1,8 @@
 ---
 title: Plant tissues
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Plant tissues
+longTitle: 'Plant tissues'
+tags:
+- gccommon
 usedFor:
-- "[[20206 Tissues]]"
+- "[[Tissues]]"
 ---
-# Plant tissues

@@ -1,10 +1,8 @@
 ---
 title: Animal oils and fats
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Animal oils and fats
+longTitle: 'Animal oils and fats'
+tags:
+- gccommon
 usedFor:
-- "[[6013 Edible oils and fats]]"
+- "[[Edible oils and fats]]"
 ---
-# Animal oils and fats

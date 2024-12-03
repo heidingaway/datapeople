@@ -1,10 +1,8 @@
 ---
 title: Economie domestique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Économie domestique
+longTitle: 'Économie domestique'
+tags:
+- gccommon
 french:
-- "[[10015 Home economics]]"
+- "[[Home economics]]"
 ---
-# Economie domestique

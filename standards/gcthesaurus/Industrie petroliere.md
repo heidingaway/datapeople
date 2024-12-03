@@ -1,10 +1,8 @@
 ---
 title: Industrie petroliere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie pétrolière
+longTitle: 'Industrie pétrolière'
+tags:
+- gccommon
 french:
-- "[[15653 Petroleum industry]]"
+- "[[Petroleum industry]]"
 ---
-# Industrie petroliere

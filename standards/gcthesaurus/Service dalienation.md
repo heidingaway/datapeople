@@ -1,10 +1,8 @@
 ---
 title: Service dalienation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Service d'aliénation
+longTitle: 'Service d'aliénation'
+tags:
+- gccommon
 french:
-- "[[5410 Disposal services]]"
+- "[[Disposal services]]"
 ---
-# Service dalienation

@@ -1,10 +1,8 @@
 ---
 title: Gouvernement provincial
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gouvernement provincial
+longTitle: 'Gouvernement provincial'
+tags:
+- gccommon
 french:
-- "[[16703 Provincial governments]]"
+- "[[Provincial governments]]"
 ---
-# Gouvernement provincial

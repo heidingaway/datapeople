@@ -1,10 +1,8 @@
 ---
 title: Jeunesse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Jeunesse
+longTitle: 'Jeunesse'
+tags:
+- gccommon
 french:
-- "[[22117 Youth]]"
+- "[[Youth]]"
 ---
-# Jeunesse

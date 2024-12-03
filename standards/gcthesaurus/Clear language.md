@@ -1,10 +1,8 @@
 ---
 title: Clear language
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Clear language
+longTitle: 'Clear language'
+tags:
+- gccommon
 usedFor:
-- "[[15822 Plain language]]"
+- "[[Plain language]]"
 ---
-# Clear language

@@ -1,10 +1,8 @@
 ---
 title: Numero dassurance sociale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Numéro d'assurance sociale
+longTitle: 'Numéro d'assurance sociale'
+tags:
+- gccommon
 french:
-- "[[18921 Social insurance number]]"
+- "[[Social insurance number]]"
 ---
-# Numero dassurance sociale

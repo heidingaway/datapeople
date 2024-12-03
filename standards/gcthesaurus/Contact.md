@@ -1,10 +1,8 @@
 ---
 title: Contact
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Contact
+longTitle: 'Contact'
+tags:
+- gccommon
 relatedTerm:
-- "[[10967 Information]]"
+- "[[Information]]"
 ---
-# Contact

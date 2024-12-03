@@ -1,10 +1,8 @@
 ---
 title: Species at risk
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Species at risk
+longTitle: 'Species at risk'
+tags:
+- gccommon
 usedFor:
-- "[[6611 Endangered species]]"
+- "[[Endangered species]]"
 ---
-# Species at risk

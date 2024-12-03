@@ -1,10 +1,8 @@
 ---
 title: Personal loans
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Personal loans
+longTitle: 'Personal loans'
+tags:
+- gccommon
 usedFor:
-- "[[4068 Consumer loans]]"
+- "[[Consumer loans]]"
 ---
-# Personal loans

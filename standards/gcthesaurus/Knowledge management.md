@@ -1,14 +1,10 @@
 ---
 title: Knowledge management
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Knowledge management
+longTitle: 'Knowledge management'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12761 Management]]"
+- "[[Management]]"
 relatedTerm:
-- "[[11002 Information management]]"
-- "[[11772 Knowledge transfer]]"
-- "[[11225 Intellectual capital]]"
+- "[[Information management Knowledge transfer Intellec]]"
 ---
-# Knowledge management

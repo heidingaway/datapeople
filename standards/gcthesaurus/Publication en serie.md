@@ -1,10 +1,8 @@
 ---
 title: Publication en serie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Publication en série
+longTitle: 'Publication en série'
+tags:
+- gccommon
 french:
-- "[[15487 Periodicals]]"
+- "[[Periodicals]]"
 ---
-# Publication en serie

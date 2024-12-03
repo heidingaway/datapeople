@@ -1,10 +1,8 @@
 ---
 title: Exposition virtuelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Exposition virtuelle
+longTitle: 'Exposition virtuelle'
+tags:
+- gccommon
 french:
-- "[[21063 Virtual exhibitions]]"
+- "[[Virtual exhibitions]]"
 ---
-# Exposition virtuelle

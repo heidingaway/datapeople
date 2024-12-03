@@ -1,10 +1,8 @@
 ---
 title: Soldiers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Soldiers
+longTitle: 'Soldiers'
+tags:
+- gccommon
 usedFor:
-- "[[13658 Military personnel]]"
+- "[[Military personnel]]"
 ---
-# Soldiers

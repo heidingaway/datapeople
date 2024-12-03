@@ -1,18 +1,12 @@
 ---
 title: Animal research
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Animal research
+longTitle: 'Animal research'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18265 Scientific research]]"
+- "[[Scientific research]]"
 relatedTerm:
-- "[[20974 Veterinary medicine]]"
-- "[[22138 Zoology]]"
-- "[[1124 Animals]]"
-- "[[1096 Animal testing]]"
+- "[[Veterinary medicine Zoology Animals Animal testing]]"
 use:
-- "[[22129 Zoological research]]"
-- "[[20979 Veterinary research]]"
+- "[[Zoological research Veterinary research]]"
 ---
-# Animal research

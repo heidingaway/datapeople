@@ -1,10 +1,8 @@
 ---
 title: Sea bottom
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sea bottom
+longTitle: 'Sea bottom'
+tags:
+- gccommon
 usedFor:
-- "[[14841 Ocean floor]]"
+- "[[Ocean floor]]"
 ---
-# Sea bottom

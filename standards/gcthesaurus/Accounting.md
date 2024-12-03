@@ -1,18 +1,14 @@
 ---
 title: Accounting
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Accounting
+longTitle: 'Accounting'
+tags:
+- gccommon
 broaderTerm:
-- "[[147 Accounting standards]]"
+- "[[Accounting standards]]"
 narrowerTerm:
-- "[[2561 Business services]]"
+- "[[Business services]]"
 relatedTerm:
-- "[[7726 Financial audit]]"
-- "[[3792 Comptrollership]]"
-- "[[19540 Supplementary estimates]]"
+- "[[Financial audit Comptrollership Supplementary esti]]"
 use:
-- "[[2325 Bookkeeping]]"
+- "[[Bookkeeping]]"
 ---
-# Accounting

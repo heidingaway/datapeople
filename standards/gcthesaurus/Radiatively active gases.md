@@ -1,10 +1,8 @@
 ---
 title: Radiatively active gases
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Radiatively active gases
+longTitle: 'Radiatively active gases'
+tags:
+- gccommon
 usedFor:
-- "[[9362 Greenhouse gases]]"
+- "[[Greenhouse gases]]"
 ---
-# Radiatively active gases

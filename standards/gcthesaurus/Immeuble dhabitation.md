@@ -1,10 +1,8 @@
 ---
 title: Immeuble dhabitation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Immeuble d'habitation
+longTitle: 'Immeuble d'habitation'
+tags:
+- gccommon
 french:
-- "[[1185 Apartment buildings]]"
+- "[[Apartment buildings]]"
 ---
-# Immeuble dhabitation

@@ -1,10 +1,8 @@
 ---
 title: Old age benefits
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Old age benefits
+longTitle: 'Old age benefits'
+tags:
+- gccommon
 usedFor:
-- "[[15435 Pensions]]"
+- "[[Pensions]]"
 ---
-# Old age benefits

@@ -1,10 +1,8 @@
 ---
 title: Peacemaking
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Peacemaking
+longTitle: 'Peacemaking'
+tags:
+- gccommon
 usedFor:
-- "[[15408 Peacekeeping]]"
+- "[[Peacekeeping]]"
 ---
-# Peacemaking

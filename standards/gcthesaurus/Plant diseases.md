@@ -1,12 +1,10 @@
 ---
 title: Plant diseases
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Plant diseases
+longTitle: 'Plant diseases'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5398 Diseases]]"
+- "[[Diseases]]"
 relatedTerm:
-- "[[15874 Plants]]"
+- "[[Plants]]"
 ---
-# Plant diseases

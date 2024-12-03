@@ -1,10 +1,8 @@
 ---
 title: Dechets industriels
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Déchets industriels
+longTitle: 'Déchets industriels'
+tags:
+- gccommon
 french:
-- "[[10838 Industrial waste]]"
+- "[[Industrial waste]]"
 ---
-# Dechets industriels

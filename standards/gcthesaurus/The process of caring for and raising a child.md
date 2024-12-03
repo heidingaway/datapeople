@@ -1,10 +1,8 @@
 ---
 title: The process of caring for and raising a child
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: The process of caring for and raising a child.
+longTitle: 'The process of caring for and raising a child.'
+tags:
+- gccommon
 scopeNote:
-- "[[15256 Parenting]]"
+- "[[Parenting]]"
 ---
-# The process of caring for and raising a child

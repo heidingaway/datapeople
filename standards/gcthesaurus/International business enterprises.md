@@ -1,10 +1,8 @@
 ---
 title: International business enterprises
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: International business enterprises
+longTitle: 'International business enterprises'
+tags:
+- gccommon
 usedFor:
-- "[[14054 Multinational corporations]]"
+- "[[Multinational corporations]]"
 ---
-# International business enterprises

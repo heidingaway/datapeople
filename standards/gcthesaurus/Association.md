@@ -1,10 +1,8 @@
 ---
 title: Association
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Association
+longTitle: 'Association'
+tags:
+- gccommon
 french:
-- "[[1602 Associations]]"
+- "[[Associations]]"
 ---
-# Association

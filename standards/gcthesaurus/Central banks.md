@@ -1,10 +1,8 @@
 ---
 title: Central banks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Central banks
+longTitle: 'Central banks'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1864 Banks]]"
+- "[[Banks]]"
 ---
-# Central banks

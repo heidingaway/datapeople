@@ -1,10 +1,8 @@
 ---
 title: Career counselling
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Career counselling
+longTitle: 'Career counselling'
+tags:
+- gccommon
 usedFor:
-- "[[21155 Vocational guidance]]"
+- "[[Vocational guidance]]"
 ---
-# Career counselling

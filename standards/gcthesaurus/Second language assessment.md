@@ -1,14 +1,12 @@
 ---
 title: Second language assessment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Second language assessment
+longTitle: 'Second language assessment'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1539 Assessment]]"
+- "[[Assessment]]"
 relatedTerm:
-- "[[18399 Second languages]]"
+- "[[Second languages]]"
 use:
-- "[[18389 Second language evaluation]]"
+- "[[Second language evaluation]]"
 ---
-# Second language assessment

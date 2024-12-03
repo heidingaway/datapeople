@@ -1,10 +1,8 @@
 ---
 title: Jouet
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Jouet
+longTitle: 'Jouet'
+tags:
+- gccommon
 french:
-- "[[20355 Toys]]"
+- "[[Toys]]"
 ---
-# Jouet

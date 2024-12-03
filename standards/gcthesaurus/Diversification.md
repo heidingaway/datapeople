@@ -1,12 +1,10 @@
 ---
 title: Diversification
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Diversification
+longTitle: 'Diversification'
+tags:
+- gccommon
 french:
-- "[[5449 Diversification]]"
+- "[[Diversification]]"
 relatedTerm:
-- "[[17414 Reform]]"
+- "[[Reform]]"
 ---
-# Diversification

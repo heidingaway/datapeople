@@ -1,31 +1,14 @@
 ---
 title: Culture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Culture
+longTitle: 'Culture'
+tags:
+- gccommon
 broaderTerm:
-- "[[16067 Popular culture]]"
-- "[[10643 Indigenous culture]]"
+- "[[Popular culture Indigenous culture]]"
 french:
-- "[[4708 Culture]]"
+- "[[Culture]]"
 relatedTerm:
-- "[[4657 Cultural heritage]]"
-- "[[4641 Cultural events]]"
-- "[[4694 Cultural policy]]"
-- "[[10279 Humanities]]"
-- "[[4684 Cultural institutions]]"
-- "[[1522 Arts]]"
-- "[[4701 Cultural programming]]"
-- "[[4672 Cultural industry]]"
-- "[[4628 Cultural development]]"
-- "[[4706 Cultural studies]]"
-- "[[4649 Cultural groups]]"
-- "[[14007 Multiculturalism]]"
-- "[[4631 Cultural diversity]]"
-- "[[155 Acculturation]]"
+- "[[Cultural heritage Cultural events Cultural policy ]]"
 use:
-- "[[4661 Cultural history]]"
-- "[[4686 Cultural life]]"
+- "[[Cultural history Cultural life]]"
 ---
-# Culture

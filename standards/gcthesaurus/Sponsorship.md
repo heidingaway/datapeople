@@ -1,10 +1,8 @@
 ---
 title: Sponsorship
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sponsorship
+longTitle: 'Sponsorship'
+tags:
+- gccommon
 relatedTerm:
-- "[[7721 Financial assistance]]"
+- "[[Financial assistance]]"
 ---
-# Sponsorship

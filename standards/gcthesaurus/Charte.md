@@ -1,10 +1,8 @@
 ---
 title: Charte
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Charte
+longTitle: 'Charte'
+tags:
+- gccommon
 french:
-- "[[3010 Charters]]"
+- "[[Charters]]"
 ---
-# Charte

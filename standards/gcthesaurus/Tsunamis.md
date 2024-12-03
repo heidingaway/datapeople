@@ -1,12 +1,10 @@
 ---
 title: Tsunamis
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tsunamis
+longTitle: 'Tsunamis'
+tags:
+- gccommon
 narrowerTerm:
-- "[[14285 Natural disasters]]"
+- "[[Natural disasters]]"
 use:
-- "[[18477 Seismic sea waves]]"
+- "[[Seismic sea waves]]"
 ---
-# Tsunamis

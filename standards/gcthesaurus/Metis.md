@@ -1,12 +1,10 @@
 ---
 title: Metis
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Métis
+longTitle: 'Métis'
+tags:
+- gccommon
 french:
-- "[[13498 Métis]]"
+- "[[Metis]]"
 narrowerTerm:
-- "[[10681 Indigenous peoples]]"
+- "[[Indigenous peoples]]"
 ---
-# Metis

@@ -1,20 +1,14 @@
 ---
 title: Transport industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transport industry
+longTitle: 'Transport industry'
+tags:
+- gccommon
 broaderTerm:
-- "[[17147 Rail transport industry]]"
-- "[[21510 Water transport industry]]"
-- "[[697 Air transport industry]]"
-- "[[20713 Trucking industry]]"
+- "[[Rail transport industry Water transport industry A]]"
 narrowerTerm:
-- "[[18582 Service industry]]"
+- "[[Service industry]]"
 relatedTerm:
-- "[[20616 Transport]]"
+- "[[Transport]]"
 use:
-- "[[20640 Transportation industry]]"
-- "[[18684 Shipping industry]]"
+- "[[Transportation industry Shipping industry]]"
 ---
-# Transport industry

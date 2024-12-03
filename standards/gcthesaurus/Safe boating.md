@@ -1,10 +1,8 @@
 ---
 title: Safe boating
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Safe boating
+longTitle: 'Safe boating'
+tags:
+- gccommon
 usedFor:
-- "[[12983 Marine safety]]"
+- "[[Marine safety]]"
 ---
-# Safe boating

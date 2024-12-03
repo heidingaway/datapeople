@@ -1,10 +1,8 @@
 ---
 title: Crise humanitaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Crise humanitaire
+longTitle: 'Crise humanitaire'
+tags:
+- gccommon
 french:
-- "[[10262 Humanitarian crisis]]"
+- "[[Humanitarian crisis]]"
 ---
-# Crise humanitaire

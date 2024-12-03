@@ -1,10 +1,8 @@
 ---
 title: Pari mutuel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pari mutuel
+longTitle: 'Pari mutuel'
+tags:
+- gccommon
 french:
-- "[[15272 Pari-mutuel betting]]"
+- "[[Pari-mutuel betting]]"
 ---
-# Pari mutuel

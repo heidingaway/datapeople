@@ -1,10 +1,8 @@
 ---
 title: Foret modele
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Forêt modèle
+longTitle: 'Forêt modèle'
+tags:
+- gccommon
 french:
-- "[[13822 Model forests]]"
+- "[[Model forests]]"
 ---
-# Foret modele

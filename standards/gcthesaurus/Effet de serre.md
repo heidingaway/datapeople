@@ -1,10 +1,8 @@
 ---
 title: Effet de serre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Effet de serre
+longTitle: 'Effet de serre'
+tags:
+- gccommon
 french:
-- "[[9350 Greenhouse effect]]"
+- "[[Greenhouse effect]]"
 ---
-# Effet de serre

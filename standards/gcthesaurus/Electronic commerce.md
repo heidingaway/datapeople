@@ -1,19 +1,12 @@
 ---
 title: Electronic commerce
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electronic commerce
+longTitle: 'Electronic commerce'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20363 Trade]]"
+- "[[Trade]]"
 relatedTerm:
-- "[[6330 Electronic government]]"
-- "[[17777 Retail trade]]"
-- "[[11472 Internet]]"
-- "[[6288 Electronic data interchange]]"
+- "[[Electronic government Retail trade Internet Electr]]"
 use:
-- "[[5735 E-business]]"
-- "[[6268 Electronic business]]"
-- "[[5738 E-commerce]]"
+- "[[E-business Electronic business E-commerce]]"
 ---
-# Electronic commerce

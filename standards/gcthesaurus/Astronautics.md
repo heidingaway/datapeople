@@ -1,10 +1,8 @@
 ---
 title: Astronautics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Astronautics
+longTitle: 'Astronautics'
+tags:
+- gccommon
 usedFor:
-- "[[19174 Space sciences]]"
+- "[[Space sciences]]"
 ---
-# Astronautics

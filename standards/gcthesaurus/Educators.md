@@ -1,10 +1,8 @@
 ---
 title: Educators
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Educators
+longTitle: 'Educators'
+tags:
+- gccommon
 usedFor:
-- "[[19798 Teachers]]"
+- "[[Teachers]]"
 ---
-# Educators

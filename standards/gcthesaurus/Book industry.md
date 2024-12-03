@@ -1,10 +1,8 @@
 ---
 title: Book industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Book industry
+longTitle: 'Book industry'
+tags:
+- gccommon
 usedFor:
-- "[[16937 Publishing]]"
+- "[[Publishing]]"
 ---
-# Book industry

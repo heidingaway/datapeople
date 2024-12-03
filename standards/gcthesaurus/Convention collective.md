@@ -1,10 +1,8 @@
 ---
 title: Convention collective
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Convention collective
+longTitle: 'Convention collective'
+tags:
+- gccommon
 french:
-- "[[3501 Collective agreements]]"
+- "[[Collective agreements]]"
 ---
-# Convention collective

@@ -1,10 +1,8 @@
 ---
 title: Soft medicine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Soft medicine
+longTitle: 'Soft medicine'
+tags:
+- gccommon
 usedFor:
-- "[[907 Alternative medicine]]"
+- "[[Alternative medicine]]"
 ---
-# Soft medicine

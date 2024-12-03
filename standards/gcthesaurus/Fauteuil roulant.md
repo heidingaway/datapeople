@@ -1,10 +1,8 @@
 ---
 title: Fauteuil roulant
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fauteuil roulant
+longTitle: 'Fauteuil roulant'
+tags:
+- gccommon
 french:
-- "[[21706 Wheelchairs]]"
+- "[[Wheelchairs]]"
 ---
-# Fauteuil roulant

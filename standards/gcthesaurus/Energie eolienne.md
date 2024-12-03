@@ -1,10 +1,8 @@
 ---
 title: Energie eolienne
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Énergie éolienne
+longTitle: 'Énergie éolienne'
+tags:
+- gccommon
 french:
-- "[[21778 Wind energy]]"
+- "[[Wind energy]]"
 ---
-# Energie eolienne

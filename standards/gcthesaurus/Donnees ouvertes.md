@@ -1,10 +1,8 @@
 ---
 title: Donnees ouvertes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Données ouvertes
+longTitle: 'Données ouvertes'
+tags:
+- gccommon
 french:
-- "[[15037 Open data]]"
+- "[[Open data]]"
 ---
-# Donnees ouvertes

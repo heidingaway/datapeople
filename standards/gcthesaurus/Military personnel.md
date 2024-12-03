@@ -1,14 +1,10 @@
 ---
 title: Military personnel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Military personnel
+longTitle: 'Military personnel'
+tags:
+- gccommon
 relatedTerm:
-- "[[13688 Military training]]"
-- "[[1426 Armed forces]]"
-- "[[20955 Veterans]]"
+- "[[Military training Armed forces Veterans]]"
 use:
-- "[[19122 Soldiers]]"
+- "[[Soldiers]]"
 ---
-# Military personnel

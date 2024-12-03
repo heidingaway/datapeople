@@ -1,10 +1,8 @@
 ---
 title: Federal provincial cooperation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Federal provincial cooperation
+longTitle: 'Federal provincial cooperation'
+tags:
+- gccommon
 usedFor:
-- "[[7588 Federal provincial relations]]"
+- "[[Federal provincial relations]]"
 ---
-# Federal provincial cooperation

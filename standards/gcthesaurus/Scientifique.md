@@ -1,10 +1,8 @@
 ---
 title: Scientifique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Scientifique
+longTitle: 'Scientifique'
+tags:
+- gccommon
 french:
-- "[[18274 Scientists]]"
+- "[[Scientists]]"
 ---
-# Scientifique

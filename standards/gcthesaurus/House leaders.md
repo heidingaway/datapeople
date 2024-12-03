@@ -1,10 +1,8 @@
 ---
 title: House leaders
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: House leaders
+longTitle: 'House leaders'
+tags:
+- gccommon
 usedFor:
-- "[[15309 Parliamentary leaders]]"
+- "[[Parliamentary leaders]]"
 ---
-# House leaders

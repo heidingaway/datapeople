@@ -1,10 +1,8 @@
 ---
 title: Mapping data
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mapping data
+longTitle: 'Mapping data'
+tags:
+- gccommon
 usedFor:
-- "[[8908 Geographic data]]"
+- "[[Geographic data]]"
 ---
-# Mapping data

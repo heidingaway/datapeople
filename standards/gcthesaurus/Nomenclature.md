@@ -1,13 +1,10 @@
 ---
 title: Nomenclature
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nomenclature
+longTitle: 'Nomenclature'
+tags:
+- gccommon
 french:
-- "[[14457 Nomenclature]]"
+- "[[Nomenclature]]"
 relatedTerm:
-- "[[10606 Indexes]]"
-- "[[19792 Taxonomy]]"
+- "[[Indexes Taxonomy]]"
 ---
-# Nomenclature

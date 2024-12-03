@@ -1,13 +1,10 @@
 ---
 title: Disclosure of wrongdoing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Disclosure of wrongdoing
+longTitle: 'Disclosure of wrongdoing'
+tags:
+- gccommon
 relatedTerm:
-- "[[21721 Whistleblower protection]]"
+- "[[Whistleblower protection]]"
 use:
-- "[[21716 Whistle blowing]]"
-- "[[21724 Whistleblowing]]"
+- "[[Whistle blowing Whistleblowing]]"
 ---
-# Disclosure of wrongdoing

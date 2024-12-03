@@ -1,10 +1,8 @@
 ---
 title: Waste reduction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Waste reduction
+longTitle: 'Waste reduction'
+tags:
+- gccommon
 usedFor:
-- "[[21326 Waste management]]"
+- "[[Waste management]]"
 ---
-# Waste reduction

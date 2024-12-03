@@ -1,10 +1,8 @@
 ---
 title: Particle accelerators
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Particle accelerators
+longTitle: 'Particle accelerators'
+tags:
+- gccommon
 usedFor:
-- "[[14664 Nuclear technology]]"
+- "[[Nuclear technology]]"
 ---
-# Particle accelerators

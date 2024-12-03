@@ -1,13 +1,10 @@
 ---
 title: Veterans
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Veterans
+longTitle: 'Veterans'
+tags:
+- gccommon
 relatedTerm:
-- "[[13661 Military personnel]]"
-- "[[20950 Veteran pensions]]"
+- "[[Military personnel Veteran pensions]]"
 use:
-- "[[21280 War veterans]]"
+- "[[War veterans]]"
 ---
-# Veterans

@@ -1,21 +1,12 @@
 ---
 title: Construction industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Construction industry
+longTitle: 'Construction industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18411 Secondary industry]]"
+- "[[Secondary industry]]"
 relatedTerm:
-- "[[4010 Construction]]"
-- "[[4033 Construction materials]]"
-- "[[12668 Lumber industry]]"
+- "[[Construction Construction materials Lumber industr]]"
 use:
-- "[[4037 Construction standards]]"
-- "[[2457 Building code]]"
-- "[[4014 Construction code]]"
-- "[[4035 Construction permits]]"
-- "[[2459 Building industry]]"
-- "[[2463 Building permits]]"
+- "[[Construction standards Building code Construction ]]"
 ---
-# Construction industry

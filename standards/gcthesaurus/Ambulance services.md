@@ -1,10 +1,8 @@
 ---
 title: Ambulance services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ambulance services
+longTitle: 'Ambulance services'
+tags:
+- gccommon
 usedFor:
-- "[[6445 Emergency services]]"
+- "[[Emergency services]]"
 ---
-# Ambulance services

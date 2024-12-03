@@ -1,10 +1,8 @@
 ---
 title: Yogourt
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Yogourt
+longTitle: 'Yogourt'
+tags:
+- gccommon
 french:
-- "[[22098 Yogurt]]"
+- "[[Yogurt]]"
 ---
-# Yogourt

@@ -1,17 +1,12 @@
 ---
 title: Infants
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Infants
+longTitle: 'Infants'
+tags:
+- gccommon
 narrowerTerm:
-- "[[3166 Children]]"
+- "[[Children]]"
 relatedTerm:
-- "[[10889 Infant care]]"
-- "[[10895 Infant nutrition]]"
-- "[[2254 Birth]]"
+- "[[Infant care Infant nutrition Birth]]"
 use:
-- "[[1821 Babies]]"
-- "[[14432 Newborns]]"
+- "[[Babies Newborns]]"
 ---
-# Infants

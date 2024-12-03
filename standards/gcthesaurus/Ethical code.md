@@ -1,10 +1,8 @@
 ---
 title: Ethical code
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ethical code
+longTitle: 'Ethical code'
+tags:
+- gccommon
 usedFor:
-- "[[7147 Ethics]]"
+- "[[Ethics]]"
 ---
-# Ethical code

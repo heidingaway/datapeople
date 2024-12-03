@@ -1,10 +1,8 @@
 ---
 title: Protection du consommateur
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Protection du consommateur
+longTitle: 'Protection du consommateur'
+tags:
+- gccommon
 french:
-- "[[4081 Consumer protection]]"
+- "[[Consumer protection]]"
 ---
-# Protection du consommateur

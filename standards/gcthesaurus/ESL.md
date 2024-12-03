@@ -1,10 +1,8 @@
 ---
 title: ESL
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: ESL
+longTitle: 'ESL'
+tags:
+- gccommon
 usedFor:
-- "[[6742 English second language]]"
+- "[[English second language]]"
 ---
-# ESL

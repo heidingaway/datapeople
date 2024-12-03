@@ -1,15 +1,12 @@
 ---
 title: Horticulture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Horticulture
+longTitle: 'Horticulture'
+tags:
+- gccommon
 french:
-- "[[10075 Horticulture]]"
+- "[[Horticulture]]"
 narrowerTerm:
-- "[[557 Agriculture]]"
+- "[[Agriculture]]"
 relatedTerm:
-- "[[9371 Greenhouses]]"
-- "[[8716 Gardening]]"
+- "[[Greenhouses Gardening]]"
 ---
-# Horticulture

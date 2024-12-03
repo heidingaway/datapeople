@@ -1,10 +1,8 @@
 ---
 title: Insect pests
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Insect pests
+longTitle: 'Insect pests'
+tags:
+- gccommon
 usedFor:
-- "[[15634 Pests]]"
+- "[[Pests]]"
 ---
-# Insect pests

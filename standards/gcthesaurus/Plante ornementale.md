@@ -1,10 +1,8 @@
 ---
 title: Plante ornementale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Plante ornementale
+longTitle: 'Plante ornementale'
+tags:
+- gccommon
 french:
-- "[[15118 Ornamental plants]]"
+- "[[Ornamental plants]]"
 ---
-# Plante ornementale

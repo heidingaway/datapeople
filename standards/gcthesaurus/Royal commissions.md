@@ -1,10 +1,8 @@
 ---
 title: Royal commissions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Royal commissions
+longTitle: 'Royal commissions'
+tags:
+- gccommon
 usedFor:
-- "[[3614 Commissions of inquiry]]"
+- "[[Commissions of inquiry]]"
 ---
-# Royal commissions

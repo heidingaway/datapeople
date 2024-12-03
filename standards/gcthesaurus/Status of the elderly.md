@@ -1,10 +1,8 @@
 ---
 title: Status of the elderly
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Status of the elderly
+longTitle: 'Status of the elderly'
+tags:
+- gccommon
 relatedTerm:
-- "[[18552 Seniors]]"
+- "[[Seniors]]"
 ---
-# Status of the elderly

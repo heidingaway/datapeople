@@ -1,10 +1,8 @@
 ---
 title: Mining exploration
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mining exploration
+longTitle: 'Mining exploration'
+tags:
+- gccommon
 usedFor:
-- "[[13744 Mining industry]]"
+- "[[Mining industry]]"
 ---
-# Mining exploration

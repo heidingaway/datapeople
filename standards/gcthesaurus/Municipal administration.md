@@ -1,10 +1,8 @@
 ---
 title: Municipal administration
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Municipal administration
+longTitle: 'Municipal administration'
+tags:
+- gccommon
 usedFor:
-- "[[12601 Local governments]]"
+- "[[Local governments]]"
 ---
-# Municipal administration

@@ -1,10 +1,8 @@
 ---
 title: Employees
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Employees
+longTitle: 'Employees'
+tags:
+- gccommon
 usedFor:
-- "[[21925 Workers]]"
+- "[[Workers]]"
 ---
-# Employees

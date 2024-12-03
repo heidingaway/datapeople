@@ -1,16 +1,12 @@
 ---
 title: Fire prevention
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fire prevention
+longTitle: 'Fire prevention'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16275 Prevention]]"
+- "[[Prevention]]"
 relatedTerm:
-- "[[18043 Safety measures]]"
-- "[[7787 Fire]]"
-- "[[17996 Safety]]"
+- "[[Safety measures Fire Safety]]"
 use:
-- "[[7800 Fire safety]]"
+- "[[Fire safety]]"
 ---
-# Fire prevention

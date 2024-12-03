@@ -1,10 +1,8 @@
 ---
 title: Catalogage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Catalogage
+longTitle: 'Catalogage'
+tags:
+- gccommon
 french:
-- "[[2850 Cataloguing]]"
+- "[[Cataloguing]]"
 ---
-# Catalogage

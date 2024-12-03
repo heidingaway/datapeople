@@ -1,12 +1,10 @@
 ---
 title: Exclusion
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Exclusion
+longTitle: 'Exclusion'
+tags:
+- gccommon
 french:
-- "[[7236 Exclusion]]"
+- "[[Exclusion]]"
 relatedTerm:
-- "[[7244 Exemption]]"
+- "[[Exemption]]"
 ---
-# Exclusion

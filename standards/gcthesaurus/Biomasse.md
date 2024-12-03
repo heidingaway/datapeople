@@ -1,10 +1,8 @@
 ---
 title: Biomasse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Biomasse
+longTitle: 'Biomasse'
+tags:
+- gccommon
 french:
-- "[[2212 Biomass]]"
+- "[[Biomass]]"
 ---
-# Biomasse

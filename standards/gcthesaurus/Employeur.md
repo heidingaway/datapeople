@@ -1,10 +1,8 @@
 ---
 title: Employeur
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Employeur
+longTitle: 'Employeur'
+tags:
+- gccommon
 french:
-- "[[6481 Employers]]"
+- "[[Employers]]"
 ---
-# Employeur

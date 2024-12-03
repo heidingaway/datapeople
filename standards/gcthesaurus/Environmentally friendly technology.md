@@ -1,10 +1,8 @@
 ---
 title: Environmentally friendly technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmentally friendly technology
+longTitle: 'Environmentally friendly technology'
+tags:
+- gccommon
 usedFor:
-- "[[7018 Environmental technology]]"
+- "[[Environmental technology]]"
 ---
-# Environmentally friendly technology

@@ -1,10 +1,8 @@
 ---
 title: Registre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Registre
+longTitle: 'Registre'
+tags:
+- gccommon
 french:
-- "[[17453 Registers]]"
+- "[[Registers]]"
 ---
-# Registre

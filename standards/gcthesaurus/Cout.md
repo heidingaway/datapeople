@@ -1,10 +1,8 @@
 ---
 title: Cout
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Coût
+longTitle: 'Coût'
+tags:
+- gccommon
 french:
-- "[[4334 Costs]]"
+- "[[Costs]]"
 ---
-# Cout

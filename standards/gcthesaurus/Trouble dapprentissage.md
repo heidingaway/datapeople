@@ -1,10 +1,8 @@
 ---
 title: Trouble dapprentissage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Trouble d'apprentissage
+longTitle: 'Trouble d'apprentissage'
+tags:
+- gccommon
 french:
-- "[[12222 Learning disabilities]]"
+- "[[Learning disabilities]]"
 ---
-# Trouble dapprentissage

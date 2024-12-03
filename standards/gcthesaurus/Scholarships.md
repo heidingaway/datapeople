@@ -1,18 +1,10 @@
 ---
 title: Scholarships
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Scholarships
+longTitle: 'Scholarships'
+tags:
+- gccommon
 relatedTerm:
-- "[[1813 Awards]]"
-- "[[7720 Financial assistance]]"
-- "[[6057 Education]]"
-- "[[9301 Grants]]"
-- "[[19464 Student loans]]"
+- "[[Awards Financial assistance Education Grants Stude]]"
 use:
-- "[[18185 Scholarship programs]]"
-- "[[13700 Millennium scholarships]]"
-- "[[2486 Bursaries]]"
+- "[[Scholarship programs Millennium scholarships Bursa]]"
 ---
-# Scholarships

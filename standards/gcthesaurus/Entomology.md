@@ -1,12 +1,10 @@
 ---
 title: Entomology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Entomology
+longTitle: 'Entomology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[22135 Zoology]]"
+- "[[Zoology]]"
 relatedTerm:
-- "[[11150 Insects]]"
+- "[[Insects]]"
 ---
-# Entomology

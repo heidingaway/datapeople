@@ -1,10 +1,8 @@
 ---
 title: Audience
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Audience
+longTitle: 'Audience'
+tags:
+- gccommon
 french:
-- "[[9807 Hearings]]"
+- "[[Hearings]]"
 ---
-# Audience

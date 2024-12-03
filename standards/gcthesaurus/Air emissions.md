@@ -1,10 +1,8 @@
 ---
 title: Air emissions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Air emissions
+longTitle: 'Air emissions'
+tags:
+- gccommon
 usedFor:
-- "[[1655 Atmospheric emissions]]"
+- "[[Atmospheric emissions]]"
 ---
-# Air emissions

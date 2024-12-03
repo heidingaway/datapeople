@@ -1,10 +1,8 @@
 ---
 title: Foire aux questions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Foire aux questions
+longTitle: 'Foire aux questions'
+tags:
+- gccommon
 french:
-- "[[8527 Frequently asked questions]]"
+- "[[Frequently asked questions]]"
 ---
-# Foire aux questions

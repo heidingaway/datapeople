@@ -1,10 +1,8 @@
 ---
 title: Garment industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Garment industry
+longTitle: 'Garment industry'
+tags:
+- gccommon
 usedFor:
-- "[[3389 Clothing industry]]"
+- "[[Clothing industry]]"
 ---
-# Garment industry

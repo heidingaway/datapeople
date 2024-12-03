@@ -1,12 +1,10 @@
 ---
 title: Food irradiation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Food irradiation
+longTitle: 'Food irradiation'
+tags:
+- gccommon
 narrowerTerm:
-- "[[11606 Irradiation]]"
+- "[[Irradiation]]"
 relatedTerm:
-- "[[8152 Food processing]]"
+- "[[Food processing]]"
 ---
-# Food irradiation

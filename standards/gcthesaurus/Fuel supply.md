@@ -1,12 +1,10 @@
 ---
 title: Fuel supply
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fuel supply
+longTitle: 'Fuel supply'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6692 Energy supply]]"
+- "[[Energy supply]]"
 relatedTerm:
-- "[[8584 Fuels]]"
+- "[[Fuels]]"
 ---
-# Fuel supply

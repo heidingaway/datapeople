@@ -1,10 +1,8 @@
 ---
 title: Mode de vie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mode de vie
+longTitle: 'Mode de vie'
+tags:
+- gccommon
 french:
-- "[[12443 Lifestyle]]"
+- "[[Lifestyle]]"
 ---
-# Mode de vie

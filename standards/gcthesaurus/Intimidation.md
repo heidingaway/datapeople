@@ -1,14 +1,12 @@
 ---
 title: Intimidation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Intimidation
+longTitle: 'Intimidation'
+tags:
+- gccommon
 french:
-- "[[11519 Intimidation]]"
+- "[[Intimidation]]"
 narrowerTerm:
-- "[[21030 Violence]]"
+- "[[Violence]]"
 use:
-- "[[2478 Bullying]]"
+- "[[Bullying]]"
 ---
-# Intimidation

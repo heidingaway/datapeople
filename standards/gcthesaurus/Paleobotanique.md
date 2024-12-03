@@ -1,10 +1,8 @@
 ---
 title: Paleobotanique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Paléobotanique
+longTitle: 'Paléobotanique'
+tags:
+- gccommon
 french:
-- "[[15227 Paleobotany]]"
+- "[[Paleobotany]]"
 ---
-# Paleobotanique

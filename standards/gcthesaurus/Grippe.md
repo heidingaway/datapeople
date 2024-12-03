@@ -1,10 +1,8 @@
 ---
 title: Grippe
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Grippe
+longTitle: 'Grippe'
+tags:
+- gccommon
 french:
-- "[[10943 Influenza]]"
+- "[[Influenza]]"
 ---
-# Grippe

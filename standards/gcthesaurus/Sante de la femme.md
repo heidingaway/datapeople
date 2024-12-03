@@ -1,10 +1,8 @@
 ---
 title: Sante de la femme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Santé de la femme
+longTitle: 'Santé de la femme'
+tags:
+- gccommon
 french:
-- "[[21830 Women's health]]"
+- "[[Womens health]]"
 ---
-# Sante de la femme

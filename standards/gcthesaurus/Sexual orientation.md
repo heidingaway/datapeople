@@ -1,13 +1,10 @@
 ---
 title: Sexual orientation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sexual orientation
+longTitle: 'Sexual orientation'
+tags:
+- gccommon
 relatedTerm:
-- "[[18142 Same-sex couples]]"
-- "[[8805 Gender discrimination]]"
+- "[[Same-sex couples Gender discrimination]]"
 use:
-- "[[10065 Homosexuality]]"
+- "[[Homosexuality]]"
 ---
-# Sexual orientation

@@ -1,10 +1,8 @@
 ---
 title: Tropospheric ozone
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tropospheric ozone
+longTitle: 'Tropospheric ozone'
+tags:
+- gccommon
 usedFor:
-- "[[15180 Ozone]]"
+- "[[Ozone]]"
 ---
-# Tropospheric ozone

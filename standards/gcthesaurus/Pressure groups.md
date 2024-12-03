@@ -1,10 +1,8 @@
 ---
 title: Pressure groups
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pressure groups
+longTitle: 'Pressure groups'
+tags:
+- gccommon
 usedFor:
-- "[[11281 Interest groups]]"
+- "[[Interest groups]]"
 ---
-# Pressure groups

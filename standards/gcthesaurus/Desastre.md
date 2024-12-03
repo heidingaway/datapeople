@@ -1,10 +1,8 @@
 ---
 title: Desastre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Désastre
+longTitle: 'Désastre'
+tags:
+- gccommon
 french:
-- "[[5341 Disasters]]"
+- "[[Disasters]]"
 ---
-# Desastre

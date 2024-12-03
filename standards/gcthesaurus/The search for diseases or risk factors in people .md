@@ -1,10 +1,8 @@
 ---
-title: "The search for diseases or risk factors in people "
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: The search for diseases or risk factors in people without symptoms.
+title: The search for diseases or risk factors in people 
+longTitle: 'The search for diseases or risk factors in people without symptoms.'
+tags:
+- gccommon
 scopeNote:
-- "[[18289 Screening (Medicine)]]"
+- "[[Screening Medicine]]"
 ---
-# The search for diseases or risk factors in people

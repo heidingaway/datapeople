@@ -1,19 +1,12 @@
 ---
 title: Waste water
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Waste water
+longTitle: 'Waste water'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21379 Water]]"
+- "[[Water]]"
 relatedTerm:
-- "[[21309 Waste]]"
+- "[[Waste]]"
 use:
-- "[[17702 Residual water]]"
-- "[[21366 Wastewater]]"
-- "[[18600 Sewage]]"
-- "[[4577 Crude effluents]]"
-- "[[21313 Waste effluents]]"
-- "[[12487 Liquid waste]]"
+- "[[Residual water Wastewater Sewage Crude effluents W]]"
 ---
-# Waste water

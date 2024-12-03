@@ -1,10 +1,8 @@
 ---
 title: Fishing industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fishing industry
+longTitle: 'Fishing industry'
+tags:
+- gccommon
 usedFor:
-- "[[7907 Fisheries]]"
+- "[[Fisheries]]"
 ---
-# Fishing industry

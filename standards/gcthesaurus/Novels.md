@@ -1,10 +1,8 @@
 ---
 title: Novels
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Novels
+longTitle: 'Novels'
+tags:
+- gccommon
 usedFor:
-- "[[12512 Literature]]"
+- "[[Literature]]"
 ---
-# Novels

@@ -1,10 +1,8 @@
 ---
 title: Investissement etranger
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Investissement étranger
+longTitle: 'Investissement étranger'
+tags:
+- gccommon
 french:
-- "[[8237 Foreign investments]]"
+- "[[Foreign investments]]"
 ---
-# Investissement etranger

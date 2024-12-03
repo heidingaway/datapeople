@@ -1,10 +1,8 @@
 ---
 title: Plane crashes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Plane crashes
+longTitle: 'Plane crashes'
+tags:
+- gccommon
 usedFor:
-- "[[730 Aircraft accidents]]"
+- "[[Aircraft accidents]]"
 ---
-# Plane crashes

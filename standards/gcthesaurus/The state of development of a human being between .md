@@ -1,10 +1,8 @@
 ---
-title: "The state of development of a human being between "
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: The state of development of a human being, between the onset of puberty and adulthood.
+title: The state of development of a human being between 
+longTitle: 'The state of development of a human being, between the onset of puberty and adulthood.'
+tags:
+- gccommon
 scopeNote:
-- "[[253 Adolescence]]"
+- "[[Adolescence]]"
 ---
-# The state of development of a human being between

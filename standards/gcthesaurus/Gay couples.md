@@ -1,10 +1,8 @@
 ---
 title: Gay couples
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gay couples
+longTitle: 'Gay couples'
+tags:
+- gccommon
 usedFor:
-- "[[18138 Same-sex couples]]"
+- "[[Same-sex couples]]"
 ---
-# Gay couples

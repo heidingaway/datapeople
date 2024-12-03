@@ -1,10 +1,8 @@
 ---
 title: Peage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Péage
+longTitle: 'Péage'
+tags:
+- gccommon
 french:
-- "[[20238 Tolls]]"
+- "[[Tolls]]"
 ---
-# Peage

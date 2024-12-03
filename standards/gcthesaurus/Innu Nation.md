@@ -1,10 +1,8 @@
 ---
 title: Innu Nation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Innu Nation
+longTitle: 'Innu Nation'
+tags:
+- gccommon
 usedFor:
-- "[[11121 Innu]]"
+- "[[Innu]]"
 ---
-# Innu Nation

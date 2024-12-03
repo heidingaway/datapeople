@@ -1,10 +1,8 @@
 ---
 title: Territorial sea
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Territorial sea
+longTitle: 'Territorial sea'
+tags:
+- gccommon
 usedFor:
-- "[[3420 Coastal waters]]"
+- "[[Coastal waters]]"
 ---
-# Territorial sea

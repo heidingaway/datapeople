@@ -1,10 +1,8 @@
 ---
 title: Client
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Client
+longTitle: 'Client'
+tags:
+- gccommon
 french:
-- "[[3325 Clients]]"
+- "[[Clients]]"
 ---
-# Client

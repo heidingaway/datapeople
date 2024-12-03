@@ -1,10 +1,8 @@
 ---
 title: Automatisation du travail
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Automatisation du travail
+longTitle: 'Automatisation du travail'
+tags:
+- gccommon
 french:
-- "[[21989 Workplace automation]]"
+- "[[Workplace automation]]"
 ---
-# Automatisation du travail

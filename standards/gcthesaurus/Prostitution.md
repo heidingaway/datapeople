@@ -1,13 +1,10 @@
 ---
 title: Prostitution
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prostitution
+longTitle: 'Prostitution'
+tags:
+- gccommon
 french:
-- "[[16653 Prostitution]]"
+- "[[Prostitution]]"
 relatedTerm:
-- "[[10251 Human trafficking]]"
-- "[[18636 Sexual offences]]"
+- "[[Human trafficking Sexual offences]]"
 ---
-# Prostitution

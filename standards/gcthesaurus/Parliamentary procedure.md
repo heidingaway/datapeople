@@ -1,13 +1,10 @@
 ---
 title: Parliamentary procedure
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Parliamentary procedure
+longTitle: 'Parliamentary procedure'
+tags:
+- gccommon
 relatedTerm:
-- "[[15302 Parliamentary committees]]"
-- "[[15295 Parliament]]"
+- "[[Parliamentary committees Parliament]]"
 use:
-- "[[15304 Parliamentary debates]]"
+- "[[Parliamentary debates]]"
 ---
-# Parliamentary procedure

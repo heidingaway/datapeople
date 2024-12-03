@@ -1,10 +1,8 @@
 ---
 title: Institution financiere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Institution financière
+longTitle: 'Institution financière'
+tags:
+- gccommon
 french:
-- "[[7732 Financial institutions]]"
+- "[[Financial institutions]]"
 ---
-# Institution financiere

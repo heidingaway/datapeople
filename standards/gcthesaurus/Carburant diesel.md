@@ -1,10 +1,8 @@
 ---
 title: Carburant diesel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Carburant diesel
+longTitle: 'Carburant diesel'
+tags:
+- gccommon
 french:
-- "[[5227 Diesel fuel]]"
+- "[[Diesel fuel]]"
 ---
-# Carburant diesel

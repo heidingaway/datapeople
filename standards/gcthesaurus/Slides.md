@@ -1,10 +1,8 @@
 ---
 title: Slides
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Slides
+longTitle: 'Slides'
+tags:
+- gccommon
 relatedTerm:
-- "[[15728 Photographs]]"
+- "[[Photographs]]"
 ---
-# Slides

@@ -1,10 +1,8 @@
 ---
 title: Gestion du personnel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gestion du personnel
+longTitle: 'Gestion du personnel'
+tags:
+- gccommon
 french:
-- "[[15568 Personnel management]]"
+- "[[Personnel management]]"
 ---
-# Gestion du personnel

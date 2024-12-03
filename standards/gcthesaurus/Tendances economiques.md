@@ -1,10 +1,8 @@
 ---
 title: Tendances economiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tendances économiques
+longTitle: 'Tendances économiques'
+tags:
+- gccommon
 french:
-- "[[5964 Economic trends]]"
+- "[[Economic trends]]"
 ---
-# Tendances economiques

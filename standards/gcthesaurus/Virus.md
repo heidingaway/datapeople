@@ -1,10 +1,8 @@
 ---
 title: Virus
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Virus
+longTitle: 'Virus'
+tags:
+- gccommon
 french:
-- "[[21070 Viruses]]"
+- "[[Viruses]]"
 ---
-# Virus

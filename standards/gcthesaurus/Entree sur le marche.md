@@ -1,10 +1,8 @@
 ---
 title: Entree sur le marche
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Entrée sur le marché
+longTitle: 'Entrée sur le marché'
+tags:
+- gccommon
 french:
-- "[[13066 Market entry]]"
+- "[[Market entry]]"
 ---
-# Entree sur le marche

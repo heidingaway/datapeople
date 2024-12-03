@@ -1,10 +1,8 @@
 ---
 title: Prejudice
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Prejudice
+longTitle: 'Prejudice'
+tags:
+- gccommon
 usedFor:
-- "[[5374 Discrimination]]"
+- "[[Discrimination]]"
 ---
-# Prejudice

@@ -1,10 +1,8 @@
 ---
 title: Textile products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Textile products
+longTitle: 'Textile products'
+tags:
+- gccommon
 usedFor:
-- "[[20136 Textiles]]"
+- "[[Textiles]]"
 ---
-# Textile products

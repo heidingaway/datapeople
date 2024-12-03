@@ -1,15 +1,12 @@
 ---
 title: Igneous rocks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Igneous rocks
+longTitle: 'Igneous rocks'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5775 Earth sciences]]"
-- "[[8984 Geology]]"
+- "[[Earth sciences Geology]]"
 relatedTerm:
-- "[[9493 Hard rocks]]"
+- "[[Hard rocks]]"
 use:
-- "[[12700 Magmatic rocks]]"
+- "[[Magmatic rocks]]"
 ---
-# Igneous rocks

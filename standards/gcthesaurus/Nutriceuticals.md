@@ -1,10 +1,8 @@
 ---
 title: Nutriceuticals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nutriceuticals
+longTitle: 'Nutriceuticals'
+tags:
+- gccommon
 usedFor:
-- "[[8609 Functional foods]]"
+- "[[Functional foods]]"
 ---
-# Nutriceuticals

@@ -1,17 +1,10 @@
 ---
 title: Work organization
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Work organization
+longTitle: 'Work organization'
+tags:
+- gccommon
 relatedTerm:
-- "[[21993 Workplace automation]]"
-- "[[19999 Telework]]"
-- "[[7101 Ergonomics]]"
-- "[[21963 Working conditions]]"
-- "[[21905 Work permits]]"
+- "[[Workplace automation Telework Ergonomics Working c]]"
 use:
-- "[[21879 Work arrangements]]"
-- "[[5447 Distribution of work]]"
+- "[[Work arrangements Distribution of work]]"
 ---
-# Work organization

@@ -1,10 +1,8 @@
 ---
 title: Health products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Health products
+longTitle: 'Health products'
+tags:
+- gccommon
 usedFor:
-- "[[9642 Health care products]]"
+- "[[Health care products]]"
 ---
-# Health products

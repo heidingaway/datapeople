@@ -1,10 +1,8 @@
 ---
 title: Division
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Division
+longTitle: 'Division'
+tags:
+- gccommon
 french:
-- "[[5469 Divisions]]"
+- "[[Divisions]]"
 ---
-# Division

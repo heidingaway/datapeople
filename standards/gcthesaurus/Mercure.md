@@ -1,10 +1,8 @@
 ---
 title: Mercure
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mercure
+longTitle: 'Mercure'
+tags:
+- gccommon
 french:
-- "[[13417 Mercury]]"
+- "[[Mercury]]"
 ---
-# Mercure

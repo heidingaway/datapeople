@@ -1,10 +1,8 @@
 ---
 title: Commercial solid waste
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Commercial solid waste
+longTitle: 'Commercial solid waste'
+tags:
+- gccommon
 usedFor:
-- "[[10840 Industrial waste]]"
+- "[[Industrial waste]]"
 ---
-# Commercial solid waste

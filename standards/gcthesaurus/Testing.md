@@ -1,16 +1,10 @@
 ---
 title: Testing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Testing
+longTitle: 'Testing'
+tags:
+- gccommon
 relatedTerm:
-- "[[18146 Samples]]"
-- "[[1955 Benchmarks]]"
-- "[[1234 Approval processes]]"
-- "[[1546 Assessment]]"
+- "[[Samples Benchmarks Approval processes Assessment]]"
 use:
-- "[[15469 Performance testing]]"
-- "[[20121 Tests]]"
+- "[[Performance testing Tests]]"
 ---
-# Testing

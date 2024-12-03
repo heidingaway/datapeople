@@ -1,11 +1,8 @@
 ---
 title: Art objects
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Art objects
+longTitle: 'Art objects'
+tags:
+- gccommon
 usedFor:
-- "[[1476 Art works]]"
-- "[[1483 Artefacts]]"
+- "[[Art works Artefacts]]"
 ---
-# Art objects

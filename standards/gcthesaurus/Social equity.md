@@ -1,11 +1,8 @@
 ---
 title: Social equity
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Social equity
+longTitle: 'Social equity'
+tags:
+- gccommon
 relatedTerm:
-- "[[7068 Equal opportunities]]"
-- "[[19020 Social structure]]"
+- "[[Equal opportunities Social structure]]"
 ---
-# Social equity

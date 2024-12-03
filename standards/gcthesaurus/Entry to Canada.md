@@ -1,12 +1,8 @@
 ---
 title: Entry to Canada
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Entry to Canada
+longTitle: 'Entry to Canada'
+tags:
+- gccommon
 relatedTerm:
-- "[[10510 Immigration]]"
-- "[[2344 Border crossing]]"
-- "[[20277 Tourism]]"
+- "[[Immigration Border crossing Tourism]]"
 ---
-# Entry to Canada

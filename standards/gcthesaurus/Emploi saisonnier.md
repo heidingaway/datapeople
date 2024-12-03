@@ -1,10 +1,8 @@
 ---
 title: Emploi saisonnier
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Emploi saisonnier
+longTitle: 'Emploi saisonnier'
+tags:
+- gccommon
 french:
-- "[[18362 Seasonal employment]]"
+- "[[Seasonal employment]]"
 ---
-# Emploi saisonnier

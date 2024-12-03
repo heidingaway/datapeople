@@ -1,12 +1,10 @@
 ---
 title: Surface water
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Surface water
+longTitle: 'Surface water'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21378 Water]]"
+- "[[Water]]"
 relatedTerm:
-- "[[9401 Groundwater]]"
+- "[[Groundwater]]"
 ---
-# Surface water

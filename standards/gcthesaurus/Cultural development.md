@@ -1,14 +1,10 @@
 ---
 title: Cultural development
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cultural development
+longTitle: 'Cultural development'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5183 Development]]"
+- "[[Development]]"
 relatedTerm:
-- "[[4716 Culture]]"
-- "[[4693 Cultural policy]]"
-- "[[4670 Cultural industry]]"
+- "[[Culture Cultural policy Cultural industry]]"
 ---
-# Cultural development

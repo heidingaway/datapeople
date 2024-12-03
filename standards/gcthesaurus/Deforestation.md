@@ -1,15 +1,10 @@
 ---
 title: Deforestation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Deforestation
+longTitle: 'Deforestation'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8322 Forest management]]"
+- "[[Forest management]]"
 use:
-- "[[8300 Forest clearing]]"
-- "[[20688 Tree cutting]]"
-- "[[20690 Tree removal]]"
-- "[[8302 Forest cover destruction]]"
+- "[[Forest clearing Tree cutting Tree removal Forest c]]"
 ---
-# Deforestation

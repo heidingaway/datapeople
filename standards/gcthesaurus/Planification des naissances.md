@@ -1,10 +1,8 @@
 ---
 title: Planification des naissances
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Planification des naissances
+longTitle: 'Planification des naissances'
+tags:
+- gccommon
 french:
-- "[[7393 Family planning]]"
+- "[[Family planning]]"
 ---
-# Planification des naissances

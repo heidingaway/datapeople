@@ -1,10 +1,8 @@
 ---
 title: Basic research
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Basic research
+longTitle: 'Basic research'
+tags:
+- gccommon
 usedFor:
-- "[[17643 Research]]"
+- "[[Research]]"
 ---
-# Basic research

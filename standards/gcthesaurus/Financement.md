@@ -1,10 +1,8 @@
 ---
 title: Financement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Financement
+longTitle: 'Financement'
+tags:
+- gccommon
 french:
-- "[[8630 Funding]]"
+- "[[Funding]]"
 ---
-# Financement

@@ -1,10 +1,8 @@
 ---
 title: Groupe linguistique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Groupe linguistique
+longTitle: 'Groupe linguistique'
+tags:
+- gccommon
 french:
-- "[[12070 Language groups]]"
+- "[[Language groups]]"
 ---
-# Groupe linguistique

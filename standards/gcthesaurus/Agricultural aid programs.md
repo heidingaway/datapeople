@@ -1,11 +1,8 @@
 ---
 title: Agricultural aid programs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Agricultural aid programs
+longTitle: 'Agricultural aid programs'
+tags:
+- gccommon
 usedFor:
-- "[[466 Agricultural assistance]]"
-- "[[586 Aid programs]]"
+- "[[Agricultural assistance Aid programs]]"
 ---
-# Agricultural aid programs

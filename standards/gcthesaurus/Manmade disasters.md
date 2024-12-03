@@ -1,10 +1,8 @@
 ---
 title: Manmade disasters
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Manmade disasters
+longTitle: 'Manmade disasters'
+tags:
+- gccommon
 usedFor:
-- "[[5345 Disasters]]"
+- "[[Disasters]]"
 ---
-# Manmade disasters

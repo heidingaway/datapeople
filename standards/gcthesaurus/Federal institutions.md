@@ -1,16 +1,10 @@
 ---
 title: Federal institutions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Federal institutions
+longTitle: 'Federal institutions'
+tags:
+- gccommon
 relatedTerm:
-- "[[7540 Federal government]]"
-- "[[16103 Portfolio]]"
-- "[[4566 Crown corporations]]"
-- "[[7522 Federal departments]]"
+- "[[Federal government Portfolio Crown corporations Fe]]"
 use:
-- "[[7512 Federal bodies]]"
-- "[[7510 Federal agencies]]"
+- "[[Federal bodies Federal agencies]]"
 ---
-# Federal institutions

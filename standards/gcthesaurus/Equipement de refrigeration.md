@@ -1,10 +1,8 @@
 ---
 title: Equipement de refrigeration
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Équipement de réfrigération
+longTitle: 'Équipement de réfrigération'
+tags:
+- gccommon
 french:
-- "[[17417 Refrigeration equipment]]"
+- "[[Refrigeration equipment]]"
 ---
-# Equipement de refrigeration

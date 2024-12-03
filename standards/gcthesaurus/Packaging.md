@@ -1,13 +1,10 @@
 ---
 title: Packaging
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Packaging
+longTitle: 'Packaging'
+tags:
+- gccommon
 relatedTerm:
-- "[[11786 Labelling]]"
+- "[[Labelling]]"
 use:
-- "[[15205 Packages]]"
-- "[[4108 Containers]]"
+- "[[Packages Containers]]"
 ---
-# Packaging

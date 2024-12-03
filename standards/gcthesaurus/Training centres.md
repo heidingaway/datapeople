@@ -1,15 +1,10 @@
 ---
 title: Training centres
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Training centres
+longTitle: 'Training centres'
+tags:
+- gccommon
 relatedTerm:
-- "[[20499 Training]]"
+- "[[Training]]"
 use:
-- "[[20511 Training facilities]]"
-- "[[12218 Learning centers]]"
-- "[[20502 Training centers]]"
-- "[[12220 Learning centres]]"
+- "[[Training facilities Learning centers Training cent]]"
 ---
-# Training centres

@@ -1,10 +1,8 @@
 ---
 title: Gales
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gales
+longTitle: 'Gales'
+tags:
+- gccommon
 usedFor:
-- "[[19418 Storms]]"
+- "[[Storms]]"
 ---
-# Gales

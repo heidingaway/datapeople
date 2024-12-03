@@ -1,10 +1,8 @@
 ---
 title: Telecommunications
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Télécommunications
+longTitle: 'Télécommunications'
+tags:
+- gccommon
 french:
-- "[[19905 Telecommunications]]"
+- "[[Telecommunications]]"
 ---
-# Telecommunications

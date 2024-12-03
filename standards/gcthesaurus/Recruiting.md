@@ -1,12 +1,10 @@
 ---
 title: Recruiting
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Recruiting
+longTitle: 'Recruiting'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15570 Personnel management]]"
+- "[[Personnel management]]"
 relatedTerm:
-- "[[19270 Staffing]]"
+- "[[Staffing]]"
 ---
-# Recruiting

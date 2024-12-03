@@ -1,10 +1,8 @@
 ---
 title: Ecological products
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ecological products
+longTitle: 'Ecological products'
+tags:
+- gccommon
 usedFor:
-- "[[9338 Green products]]"
+- "[[Green products]]"
 ---
-# Ecological products

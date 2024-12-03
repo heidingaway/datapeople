@@ -1,10 +1,8 @@
 ---
 title: Protection des denonciateurs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Protection des dénonciateurs
+longTitle: 'Protection des dénonciateurs'
+tags:
+- gccommon
 french:
-- "[[21719 Whistleblower protection]]"
+- "[[Whistleblower protection]]"
 ---
-# Protection des denonciateurs

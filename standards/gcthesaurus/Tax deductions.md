@@ -1,10 +1,8 @@
 ---
 title: Tax deductions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tax deductions
+longTitle: 'Tax deductions'
+tags:
+- gccommon
 usedFor:
-- "[[19723 Tax credits]]"
+- "[[Tax credits]]"
 ---
-# Tax deductions

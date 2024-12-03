@@ -1,10 +1,8 @@
 ---
 title: Aide a lindustrie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aide à l'industrie
+longTitle: 'Aide à l'industrie'
+tags:
+- gccommon
 french:
-- "[[10872 Industry assistance]]"
+- "[[Industry assistance]]"
 ---
-# Aide a lindustrie

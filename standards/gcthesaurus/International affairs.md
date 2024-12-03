@@ -1,10 +1,8 @@
 ---
 title: International affairs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: International affairs
+longTitle: 'International affairs'
+tags:
+- gccommon
 usedFor:
-- "[[8217 Foreign affairs]]"
+- "[[Foreign affairs]]"
 ---
-# International affairs

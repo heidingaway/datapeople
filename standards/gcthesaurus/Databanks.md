@@ -1,10 +1,8 @@
 ---
 title: Databanks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Databanks
+longTitle: 'Databanks'
+tags:
+- gccommon
 usedFor:
-- "[[4900 Databases]]"
+- "[[Databases]]"
 ---
-# Databanks

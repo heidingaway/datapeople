@@ -1,12 +1,10 @@
 ---
 title: Temporary employment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Temporary employment
+longTitle: 'Temporary employment'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6491 Employment]]"
+- "[[Employment]]"
 relatedTerm:
-- "[[18366 Seasonal employment]]"
+- "[[Seasonal employment]]"
 ---
-# Temporary employment

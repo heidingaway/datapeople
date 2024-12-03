@@ -1,10 +1,8 @@
 ---
 title: Mer
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mer
+longTitle: 'Mer'
+tags:
+- gccommon
 french:
-- "[[18352 Seas]]"
+- "[[Seas]]"
 ---
-# Mer

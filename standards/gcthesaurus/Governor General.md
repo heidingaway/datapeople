@@ -1,11 +1,8 @@
 ---
 title: Governor General
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Governor General
+longTitle: 'Governor General'
+tags:
+- gccommon
 relatedTerm:
-- "[[12408 Lieutenant Governor]]"
-- "[[13868 Monarchy]]"
+- "[[Lieutenant Governor Monarchy]]"
 ---
-# Governor General

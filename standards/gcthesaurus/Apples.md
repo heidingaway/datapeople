@@ -1,12 +1,10 @@
 ---
 title: Apples
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Apples
+longTitle: 'Apples'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8560 Fruits]]"
+- "[[Fruits]]"
 use:
-- "[[1201 Apple products]]"
+- "[[Apple products]]"
 ---
-# Apples

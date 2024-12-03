@@ -1,10 +1,8 @@
 ---
 title: Nearshore waters
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nearshore waters
+longTitle: 'Nearshore waters'
+tags:
+- gccommon
 usedFor:
-- "[[3419 Coastal waters]]"
+- "[[Coastal waters]]"
 ---
-# Nearshore waters

@@ -1,10 +1,8 @@
 ---
 title: Deversement de substances toxiques
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Déversement de substances toxiques
+longTitle: 'Déversement de substances toxiques'
+tags:
+- gccommon
 french:
-- "[[20313 Toxic spills]]"
+- "[[Toxic spills]]"
 ---
-# Deversement de substances toxiques

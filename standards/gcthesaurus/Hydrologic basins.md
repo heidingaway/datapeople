@@ -1,10 +1,8 @@
 ---
 title: Hydrologic basins
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hydrologic basins
+longTitle: 'Hydrologic basins'
+tags:
+- gccommon
 usedFor:
-- "[[21553 Watersheds]]"
+- "[[Watersheds]]"
 ---
-# Hydrologic basins

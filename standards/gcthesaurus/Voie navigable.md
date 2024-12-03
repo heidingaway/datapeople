@@ -1,10 +1,8 @@
 ---
 title: Voie navigable
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Voie navigable
+longTitle: 'Voie navigable'
+tags:
+- gccommon
 french:
-- "[[21558 Waterways]]"
+- "[[Waterways]]"
 ---
-# Voie navigable

@@ -1,15 +1,12 @@
 ---
 title: Financing companies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Financing companies
+longTitle: 'Financing companies'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2592 Businesses]]"
+- "[[Businesses]]"
 relatedTerm:
-- "[[8634 Funding]]"
-- "[[4437 Credit unions]]"
+- "[[Funding Credit unions]]"
 use:
-- "[[7703 Finance companies]]"
+- "[[Finance companies]]"
 ---
-# Financing companies

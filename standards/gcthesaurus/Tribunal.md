@@ -1,10 +1,8 @@
 ---
 title: Tribunal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tribunal
+longTitle: 'Tribunal'
+tags:
+- gccommon
 french:
-- "[[4389 Courts]]"
+- "[[Courts]]"
 ---
-# Tribunal

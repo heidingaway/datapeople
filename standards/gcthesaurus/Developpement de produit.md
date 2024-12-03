@@ -1,10 +1,8 @@
 ---
 title: Developpement de produit
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Développement de produit
+longTitle: 'Développement de produit'
+tags:
+- gccommon
 french:
-- "[[16465 Product development]]"
+- "[[Product development]]"
 ---
-# Developpement de produit

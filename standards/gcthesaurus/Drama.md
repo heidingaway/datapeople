@@ -1,10 +1,8 @@
 ---
 title: Drama
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Drama
+longTitle: 'Drama'
+tags:
+- gccommon
 usedFor:
-- "[[20145 Theatre]]"
+- "[[Theatre]]"
 ---
-# Drama

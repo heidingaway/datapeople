@@ -1,10 +1,8 @@
 ---
 title: Capital investments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Capital investments
+longTitle: 'Capital investments'
+tags:
+- gccommon
 usedFor:
-- "[[11589 Investments]]"
+- "[[Investments]]"
 ---
-# Capital investments

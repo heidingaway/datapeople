@@ -1,10 +1,8 @@
 ---
 title: Acts of terrorism
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Acts of terrorism
+longTitle: 'Acts of terrorism'
+tags:
+- gccommon
 usedFor:
-- "[[20092 Terrorism]]"
+- "[[Terrorism]]"
 ---
-# Acts of terrorism

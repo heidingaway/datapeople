@@ -1,10 +1,8 @@
 ---
 title: Service postal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Service postal
+longTitle: 'Service postal'
+tags:
+- gccommon
 french:
-- "[[16125 Postal services]]"
+- "[[Postal services]]"
 ---
-# Service postal

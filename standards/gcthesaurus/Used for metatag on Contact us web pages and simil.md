@@ -1,10 +1,8 @@
 ---
 title: Used for metatag on Contact us web pages and simil
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Used for metatag on "Contact us" web pages and similar types.
+longTitle: 'Used for metatag on "Contact us" web pages and similar types.'
+tags:
+- gccommon
 scopeNote:
-- "[[4102 Contact]]"
+- "[[Contact]]"
 ---
-# Used for metatag on Contact us web pages and simil

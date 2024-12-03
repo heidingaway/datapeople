@@ -1,13 +1,10 @@
 ---
 title: Textile industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Textile industry
+longTitle: 'Textile industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12854 Manufacturing industry]]"
+- "[[Manufacturing industry]]"
 relatedTerm:
-- "[[20140 Textiles]]"
-- "[[3393 Clothing industry]]"
+- "[[Textiles Clothing industry]]"
 ---
-# Textile industry

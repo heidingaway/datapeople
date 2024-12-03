@@ -1,10 +1,8 @@
 ---
 title: Profession
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Profession
+longTitle: 'Profession'
+tags:
+- gccommon
 french:
-- "[[14810 Occupations]]"
+- "[[Occupations]]"
 ---
-# Profession

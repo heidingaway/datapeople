@@ -1,10 +1,8 @@
 ---
 title: Technologie propre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Technologie propre
+longTitle: 'Technologie propre'
+tags:
+- gccommon
 french:
-- "[[3310 Clean technology]]"
+- "[[Clean technology]]"
 ---
-# Technologie propre

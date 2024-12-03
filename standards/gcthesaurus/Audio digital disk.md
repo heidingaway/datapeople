@@ -1,10 +1,8 @@
 ---
 title: Audio digital disk
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Audio digital disk
+longTitle: 'Audio digital disk'
+tags:
+- gccommon
 usedFor:
-- "[[3740 Compact discs]]"
+- "[[Compact discs]]"
 ---
-# Audio digital disk

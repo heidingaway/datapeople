@@ -1,10 +1,8 @@
 ---
 title: The
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Thé
+longTitle: 'Thé'
+tags:
+- gccommon
 french:
-- "[[19794 Tea]]"
+- "[[Tea]]"
 ---
-# The

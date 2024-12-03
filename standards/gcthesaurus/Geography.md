@@ -1,24 +1,12 @@
 ---
 title: Geography
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Geography
+longTitle: 'Geography'
+tags:
+- gccommon
 broaderTerm:
-- "[[9003 Geomatics]]"
-- "[[9008 Geomorphology]]"
+- "[[Geomatics Geomorphology]]"
 narrowerTerm:
-- "[[5769 Earth sciences]]"
+- "[[Earth sciences]]"
 relatedTerm:
-- "[[9086 Global navigation satellite systems]]"
-- "[[10366 Hydrography]]"
-- "[[8940 Geographical maps]]"
-- "[[20259 Topography]]"
-- "[[2826 Cartography]]"
-- "[[18986 Social sciences]]"
-- "[[20268 Toponymy]]"
-- "[[8766 Gazetteers]]"
-- "[[9094 Global positioning systems]]"
-- "[[1647 Atlases]]"
+- "[[Global navigation satellite systems Hydrography Ge]]"
 ---
-# Geography

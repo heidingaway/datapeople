@@ -1,13 +1,10 @@
 ---
 title: Developing countries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Developing countries
+longTitle: 'Developing countries'
+tags:
+- gccommon
 relatedTerm:
-- "[[11376 International development]]"
-- "[[5875 Economic development]]"
+- "[[International development Economic development]]"
 use:
-- "[[20173 Third world]]"
+- "[[Third world]]"
 ---
-# Developing countries

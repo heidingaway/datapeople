@@ -1,10 +1,8 @@
 ---
 title: Describes people with mixed First Nations and Euro
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Describes people with mixed First Nations and European ancestry who identify themselves as Métis, distinct from First Nations, Inuit, or non-Indigenous people.
+longTitle: 'Describes people with mixed First Nations and European ancestry who identify themselves as Métis, distinct from First Nations, Inuit, or non-Indigenous people.'
+tags:
+- gccommon
 scopeNote:
-- "[[13499 Métis]]"
+- "[[Metis]]"
 ---
-# Describes people with mixed First Nations and Euro

@@ -1,19 +1,12 @@
 ---
 title: Agricultural technology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Agricultural technology
+longTitle: 'Agricultural technology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19863 Technology]]"
+- "[[Technology]]"
 relatedTerm:
-- "[[565 Agriculture]]"
+- "[[Agriculture]]"
 use:
-- "[[7452 Farm machinery]]"
-- "[[512 Agricultural machinery]]"
-- "[[501 Agricultural implements]]"
-- "[[487 Agricultural engineering]]"
-- "[[493 Agricultural equipment]]"
-- "[[7447 Farm equipment]]"
+- "[[Farm machinery Agricultural machinery Agricultural]]"
 ---
-# Agricultural technology

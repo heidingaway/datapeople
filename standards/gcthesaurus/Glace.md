@@ -1,10 +1,8 @@
 ---
 title: Glace
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Glace
+longTitle: 'Glace'
+tags:
+- gccommon
 french:
-- "[[10423 Ice]]"
+- "[[Ice]]"
 ---
-# Glace

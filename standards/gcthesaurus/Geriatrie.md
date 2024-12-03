@@ -1,10 +1,8 @@
 ---
 title: Geriatrie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gériatrie
+longTitle: 'Gériatrie'
+tags:
+- gccommon
 french:
-- "[[9042 Geriatrics]]"
+- "[[Geriatrics]]"
 ---
-# Geriatrie

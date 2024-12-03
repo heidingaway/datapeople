@@ -1,18 +1,12 @@
 ---
 title: Assistive technologies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Assistive technologies
+longTitle: 'Assistive technologies'
+tags:
+- gccommon
 broaderTerm:
-- "[[21708 Wheelchairs]]"
+- "[[Wheelchairs]]"
 relatedTerm:
-- "[[104 Accessibility for persons with disabilities]]"
-- "[[10602 Independent living]]"
-- "[[15597 Persons with disabilities]]"
+- "[[Accessibility for persons with disabilities Indepe]]"
 use:
-- "[[1588 Assistive devices]]"
-- "[[13814 Mobility aids]]"
-- "[[207 Adaptive aids (for persons with disabilities)]]"
+- "[[Assistive devices Mobility aids Adaptive aids for ]]"
 ---
-# Assistive technologies

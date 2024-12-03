@@ -1,12 +1,10 @@
 ---
 title: Special libraries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Special libraries
+longTitle: 'Special libraries'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12387 Libraries]]"
+- "[[Libraries]]"
 relatedTerm:
-- "[[9205 Government libraries]]"
+- "[[Government libraries]]"
 ---
-# Special libraries

@@ -1,10 +1,8 @@
 ---
 title: Employee relations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Employee relations
+longTitle: 'Employee relations'
+tags:
+- gccommon
 usedFor:
-- "[[11933 Labour relations]]"
+- "[[Labour relations]]"
 ---
-# Employee relations

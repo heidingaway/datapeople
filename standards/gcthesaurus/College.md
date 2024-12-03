@@ -1,10 +1,8 @@
 ---
 title: College
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Collège
+longTitle: 'Collège'
+tags:
+- gccommon
 french:
-- "[[3527 Colleges]]"
+- "[[Colleges]]"
 ---
-# College

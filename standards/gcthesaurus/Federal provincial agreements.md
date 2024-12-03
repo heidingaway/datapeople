@@ -1,13 +1,10 @@
 ---
 title: Federal provincial agreements
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Federal provincial agreements
+longTitle: 'Federal provincial agreements'
+tags:
+- gccommon
 narrowerTerm:
-- "[[400 Agreements]]"
+- "[[Agreements]]"
 relatedTerm:
-- "[[7542 Federal government]]"
-- "[[7593 Federal provincial relations]]"
+- "[[Federal government Federal provincial relations]]"
 ---
-# Federal provincial agreements

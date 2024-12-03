@@ -1,10 +1,8 @@
 ---
 title: Recherche sur les animaux
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Recherche sur les animaux
+longTitle: 'Recherche sur les animaux'
+tags:
+- gccommon
 french:
-- "[[1072 Animal research]]"
+- "[[Animal research]]"
 ---
-# Recherche sur les animaux

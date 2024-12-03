@@ -1,14 +1,10 @@
 ---
 title: Indigenous reserves
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Indigenous reserves
+longTitle: 'Indigenous reserves'
+tags:
+- gccommon
 relatedTerm:
-- "[[10657 Indigenous lands]]"
+- "[[Indigenous lands]]"
 use:
-- "[[10613 Indian reserves]]"
-- "[[55 Aboriginal reserves]]"
-- "[[17692 Reserves]]"
+- "[[Indian reserves Aboriginal reserves Reserves]]"
 ---
-# Indigenous reserves

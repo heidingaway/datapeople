@@ -1,10 +1,8 @@
 ---
 title: Programme daide
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Programme d'aide
+longTitle: 'Programme d'aide'
+tags:
+- gccommon
 french:
-- "[[585 Aid programs]]"
+- "[[Aid programs]]"
 ---
-# Programme daide

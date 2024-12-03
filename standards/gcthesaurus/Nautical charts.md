@@ -1,14 +1,12 @@
 ---
 title: Nautical charts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nautical charts
+longTitle: 'Nautical charts'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12894 Maps]]"
+- "[[Maps]]"
 relatedTerm:
-- "[[14380 Navigation]]"
+- "[[Navigation]]"
 use:
-- "[[14389 Navigation charts]]"
+- "[[Navigation charts]]"
 ---
-# Nautical charts

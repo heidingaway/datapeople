@@ -1,10 +1,8 @@
 ---
 title: Destroyer
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Destroyer
+longTitle: 'Destroyer'
+tags:
+- gccommon
 french:
-- "[[5166 Destroyers]]"
+- "[[Destroyers]]"
 ---
-# Destroyer

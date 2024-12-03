@@ -1,10 +1,8 @@
 ---
 title: Maladie professionnelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maladie professionnelle
+longTitle: 'Maladie professionnelle'
+tags:
+- gccommon
 french:
-- "[[14751 Occupational diseases]]"
+- "[[Occupational diseases]]"
 ---
-# Maladie professionnelle

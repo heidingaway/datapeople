@@ -1,10 +1,8 @@
 ---
 title: Radioactive debris
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Radioactive debris
+longTitle: 'Radioactive debris'
+tags:
+- gccommon
 usedFor:
-- "[[17106 Radioactive waste]]"
+- "[[Radioactive waste]]"
 ---
-# Radioactive debris

@@ -1,13 +1,10 @@
 ---
 title: Geomorphology
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Geomorphology
+longTitle: 'Geomorphology'
+tags:
+- gccommon
 narrowerTerm:
-- "[[8981 Geology]]"
-- "[[8948 Geography]]"
+- "[[Geology Geography]]"
 relatedTerm:
-- "[[19586 Surficial geology]]"
+- "[[Surficial geology]]"
 ---
-# Geomorphology

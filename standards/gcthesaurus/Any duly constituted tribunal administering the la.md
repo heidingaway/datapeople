@@ -1,10 +1,8 @@
 ---
 title: Any duly constituted tribunal administering the la
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Any duly constituted tribunal administering the laws of the state or nation.
+longTitle: 'Any duly constituted tribunal administering the laws of the state or nation.'
+tags:
+- gccommon
 scopeNote:
-- "[[4390 Courts]]"
+- "[[Courts]]"
 ---
-# Any duly constituted tribunal administering the la

@@ -1,10 +1,8 @@
 ---
 title: Refers to the interface between sea and land
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Refers to the interface between sea and land.
+longTitle: 'Refers to the interface between sea and land.'
+tags:
+- gccommon
 scopeNote:
-- "[[3437 Coasts]]"
+- "[[Coasts]]"
 ---
-# Refers to the interface between sea and land

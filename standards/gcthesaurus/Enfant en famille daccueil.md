@@ -1,10 +1,8 @@
 ---
 title: Enfant en famille daccueil
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Enfant en famille d'accueil
+longTitle: 'Enfant en famille d'accueil'
+tags:
+- gccommon
 french:
-- "[[8453 Foster children]]"
+- "[[Foster children]]"
 ---
-# Enfant en famille daccueil

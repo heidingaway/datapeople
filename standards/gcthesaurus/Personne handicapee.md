@@ -1,10 +1,8 @@
 ---
 title: Personne handicapee
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Personne handicapée
+longTitle: 'Personne handicapée'
+tags:
+- gccommon
 french:
-- "[[15579 Persons with disabilities]]"
+- "[[Persons with disabilities]]"
 ---
-# Personne handicapee

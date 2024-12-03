@@ -1,10 +1,8 @@
 ---
 title: Herbicide
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Herbicide
+longTitle: 'Herbicide'
+tags:
+- gccommon
 french:
-- "[[9858 Herbicides]]"
+- "[[Herbicides]]"
 ---
-# Herbicide

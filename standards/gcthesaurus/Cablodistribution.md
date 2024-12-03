@@ -1,10 +1,8 @@
 ---
 title: Cablodistribution
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Câblodistribution
+longTitle: 'Câblodistribution'
+tags:
+- gccommon
 french:
-- "[[2648 Cable television]]"
+- "[[Cable television]]"
 ---
-# Cablodistribution

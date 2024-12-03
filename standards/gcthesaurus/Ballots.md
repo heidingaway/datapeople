@@ -1,10 +1,8 @@
 ---
 title: Ballots
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ballots
+longTitle: 'Ballots'
+tags:
+- gccommon
 usedFor:
-- "[[6158 Elections]]"
+- "[[Elections]]"
 ---
-# Ballots

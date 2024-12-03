@@ -1,10 +1,8 @@
 ---
 title: Assisted reproduction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Assisted reproduction
+longTitle: 'Assisted reproduction'
+tags:
+- gccommon
 usedFor:
-- "[[17596 Reproductive technology]]"
+- "[[Reproductive technology]]"
 ---
-# Assisted reproduction

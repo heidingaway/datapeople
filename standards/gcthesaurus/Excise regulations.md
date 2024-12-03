@@ -1,10 +1,8 @@
 ---
 title: Excise regulations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Excise regulations
+longTitle: 'Excise regulations'
+tags:
+- gccommon
 usedFor:
-- "[[4758 Customs and excise]]"
+- "[[Customs and excise]]"
 ---
-# Excise regulations

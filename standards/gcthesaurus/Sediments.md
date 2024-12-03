@@ -1,10 +1,8 @@
 ---
 title: Sediments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sediments
+longTitle: 'Sediments'
+tags:
+- gccommon
 relatedTerm:
-- "[[18472 Sedimentology]]"
+- "[[Sedimentology]]"
 ---
-# Sediments

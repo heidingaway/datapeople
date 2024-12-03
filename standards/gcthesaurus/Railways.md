@@ -1,10 +1,8 @@
 ---
 title: Railways
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Railways
+longTitle: 'Railways'
+tags:
+- gccommon
 usedFor:
-- "[[17182 Railway networks]]"
+- "[[Railway networks]]"
 ---
-# Railways

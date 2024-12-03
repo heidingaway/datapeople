@@ -1,10 +1,8 @@
 ---
 title: Deficience intellectuelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Déficience intellectuelle
+longTitle: 'Déficience intellectuelle'
+tags:
+- gccommon
 french:
-- "[[11228 Intellectual disabilities]]"
+- "[[Intellectual disabilities]]"
 ---
-# Deficience intellectuelle

@@ -1,10 +1,8 @@
 ---
 title: Transport of goods and passengers by air
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Transport of goods and passengers by air.
+longTitle: 'Transport of goods and passengers by air.'
+tags:
+- gccommon
 scopeNote:
-- "[[681 Air transport]]"
+- "[[Air transport]]"
 ---
-# Transport of goods and passengers by air

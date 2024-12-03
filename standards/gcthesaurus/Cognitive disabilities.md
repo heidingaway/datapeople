@@ -1,10 +1,8 @@
 ---
 title: Cognitive disabilities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cognitive disabilities
+longTitle: 'Cognitive disabilities'
+tags:
+- gccommon
 usedFor:
-- "[[11230 Intellectual disabilities]]"
+- "[[Intellectual disabilities]]"
 ---
-# Cognitive disabilities

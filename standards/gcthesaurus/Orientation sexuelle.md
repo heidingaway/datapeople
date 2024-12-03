@@ -1,10 +1,8 @@
 ---
 title: Orientation sexuelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Orientation sexuelle
+longTitle: 'Orientation sexuelle'
+tags:
+- gccommon
 french:
-- "[[18642 Sexual orientation]]"
+- "[[Sexual orientation]]"
 ---
-# Orientation sexuelle

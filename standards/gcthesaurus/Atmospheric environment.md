@@ -1,10 +1,8 @@
 ---
 title: Atmospheric environment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Atmospheric environment
+longTitle: 'Atmospheric environment'
+tags:
+- gccommon
 usedFor:
-- "[[603 Air]]"
+- "[[Air]]"
 ---
-# Atmospheric environment

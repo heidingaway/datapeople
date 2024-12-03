@@ -1,10 +1,8 @@
 ---
 title: Refuse disposal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Refuse disposal
+longTitle: 'Refuse disposal'
+tags:
+- gccommon
 usedFor:
-- "[[21321 Waste management]]"
+- "[[Waste management]]"
 ---
-# Refuse disposal

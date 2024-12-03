@@ -1,10 +1,8 @@
 ---
 title: Ocean drilling
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ocean drilling
+longTitle: 'Ocean drilling'
+tags:
+- gccommon
 usedFor:
-- "[[14963 Offshore drilling]]"
+- "[[Offshore drilling]]"
 ---
-# Ocean drilling

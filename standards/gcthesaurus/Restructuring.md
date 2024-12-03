@@ -1,12 +1,10 @@
 ---
 title: Restructuring
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Restructuring
+longTitle: 'Restructuring'
+tags:
+- gccommon
 relatedTerm:
-- "[[20560 Transformation]]"
+- "[[Transformation]]"
 use:
-- "[[17396 Redeployment]]"
+- "[[Redeployment]]"
 ---
-# Restructuring

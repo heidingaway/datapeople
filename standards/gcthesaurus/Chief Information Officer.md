@@ -1,12 +1,10 @@
 ---
 title: Chief Information Officer
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Chief Information Officer
+longTitle: 'Chief Information Officer'
+tags:
+- gccommon
 relatedTerm:
-- "[[11049 Information technology]]"
+- "[[Information technology]]"
 use:
-- "[[3225 CIO]]"
+- "[[CIO]]"
 ---
-# Chief Information Officer

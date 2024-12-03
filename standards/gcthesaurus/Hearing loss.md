@@ -1,10 +1,8 @@
 ---
 title: Hearing loss
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hearing loss
+longTitle: 'Hearing loss'
+tags:
+- gccommon
 usedFor:
-- "[[9796 Hearing disabilities]]"
+- "[[Hearing disabilities]]"
 ---
-# Hearing loss

@@ -1,11 +1,8 @@
 ---
 title: Standing offers
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Standing offers
+longTitle: 'Standing offers'
+tags:
+- gccommon
 relatedTerm:
-- "[[16977 Purchasing]]"
-- "[[4138 Contracts]]"
+- "[[Purchasing Contracts]]"
 ---
-# Standing offers

@@ -1,14 +1,12 @@
 ---
 title: Electronic waste
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electronic waste
+longTitle: 'Electronic waste'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21304 Waste]]"
+- "[[Waste]]"
 relatedTerm:
-- "[[6315 Electronic equipment]]"
+- "[[Electronic equipment]]"
 use:
-- "[[5750 E-waste]]"
+- "[[E-waste]]"
 ---
-# Electronic waste

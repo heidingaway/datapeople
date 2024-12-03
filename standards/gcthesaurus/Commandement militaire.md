@@ -1,10 +1,8 @@
 ---
 title: Commandement militaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Commandement militaire
+longTitle: 'Commandement militaire'
+tags:
+- gccommon
 french:
-- "[[13624 Military command]]"
+- "[[Military command]]"
 ---
-# Commandement militaire

@@ -1,10 +1,8 @@
 ---
 title: Programme dechanges
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Programme d'échanges
+longTitle: 'Programme d'échanges'
+tags:
+- gccommon
 french:
-- "[[7210 Exchange programs]]"
+- "[[Exchange programs]]"
 ---
-# Programme dechanges

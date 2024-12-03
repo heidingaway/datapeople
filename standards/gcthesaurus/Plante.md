@@ -1,10 +1,8 @@
 ---
 title: Plante
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Plante
+longTitle: 'Plante'
+tags:
+- gccommon
 french:
-- "[[15862 Plants]]"
+- "[[Plants]]"
 ---
-# Plante

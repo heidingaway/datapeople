@@ -1,15 +1,12 @@
 ---
 title: Domestic trade
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Domestic trade
+longTitle: 'Domestic trade'
+tags:
+- gccommon
 narrowerTerm:
-- "[[20362 Trade]]"
+- "[[Trade]]"
 relatedTerm:
-- "[[5511 Domestic markets]]"
+- "[[Domestic markets]]"
 use:
-- "[[11325 Internal trade]]"
-- "[[10036 Home trade]]"
+- "[[Internal trade Home trade]]"
 ---
-# Domestic trade

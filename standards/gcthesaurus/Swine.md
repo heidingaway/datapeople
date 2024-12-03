@@ -1,10 +1,8 @@
 ---
 title: Swine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Swine
+longTitle: 'Swine'
+tags:
+- gccommon
 usedFor:
-- "[[9999 Hogs]]"
+- "[[Hogs]]"
 ---
-# Swine

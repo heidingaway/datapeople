@@ -1,10 +1,8 @@
 ---
 title: Carte topographique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Carte topographique
+longTitle: 'Carte topographique'
+tags:
+- gccommon
 french:
-- "[[20253 Topographical maps]]"
+- "[[Topographical maps]]"
 ---
-# Carte topographique

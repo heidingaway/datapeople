@@ -1,10 +1,8 @@
 ---
 title: Personal information banks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Personal information banks
+longTitle: 'Personal information banks'
+tags:
+- gccommon
 relatedTerm:
-- "[[15557 Personal information]]"
+- "[[Personal information]]"
 ---
-# Personal information banks

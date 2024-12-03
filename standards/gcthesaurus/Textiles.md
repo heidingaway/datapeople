@@ -1,19 +1,10 @@
 ---
 title: Textiles
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Textiles
+longTitle: 'Textiles'
+tags:
+- gccommon
 relatedTerm:
-- "[[21622 Weaving]]"
-- "[[20128 Textile industry]]"
-- "[[18604 Sewing]]"
-- "[[3383 Clothing]]"
-- "[[17033 Quilting]]"
+- "[[Weaving Textile industry Sewing Clothing Quilting]]"
 use:
-- "[[7337 Fabrics]]"
-- "[[20130 Textile products]]"
-- "[[3373 Cloth]]"
-- "[[20123 Textile fabrics]]"
+- "[[Fabrics Textile products Cloth Textile fabrics]]"
 ---
-# Textiles

@@ -1,10 +1,8 @@
 ---
 title: Injonction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Injonction
+longTitle: 'Injonction'
+tags:
+- gccommon
 french:
-- "[[11085 Injunctions]]"
+- "[[Injunctions]]"
 ---
-# Injonction

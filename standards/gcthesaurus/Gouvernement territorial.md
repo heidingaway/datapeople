@@ -1,10 +1,8 @@
 ---
 title: Gouvernement territorial
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gouvernement territorial
+longTitle: 'Gouvernement territorial'
+tags:
+- gccommon
 french:
-- "[[20068 Territorial governments]]"
+- "[[Territorial governments]]"
 ---
-# Gouvernement territorial

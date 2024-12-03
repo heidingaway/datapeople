@@ -1,20 +1,14 @@
 ---
 title: Migration
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Migration
+longTitle: 'Migration'
+tags:
+- gccommon
 broaderTerm:
-- "[[6453 Emigration]]"
-- "[[11620 Irregular migration]]"
-- "[[11323 Internal migration]]"
-- "[[10509 Immigration]]"
+- "[[Emigration Irregular migration Internal migration ]]"
 french:
-- "[[13580 Migration]]"
+- "[[Migration]]"
 relatedTerm:
-- "[[5153 Deportation]]"
+- "[[Deportation]]"
 use:
-- "[[11407 International migration]]"
-- "[[16089 Population movements]]"
+- "[[International migration Population movements]]"
 ---
-# Migration

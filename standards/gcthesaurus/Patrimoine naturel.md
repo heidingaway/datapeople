@@ -1,10 +1,8 @@
 ---
 title: Patrimoine naturel
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Patrimoine naturel
+longTitle: 'Patrimoine naturel'
+tags:
+- gccommon
 french:
-- "[[14302 Natural heritage]]"
+- "[[Natural heritage]]"
 ---
-# Patrimoine naturel

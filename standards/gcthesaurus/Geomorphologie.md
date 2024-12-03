@@ -1,10 +1,8 @@
 ---
 title: Geomorphologie
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Géomorphologie
+longTitle: 'Géomorphologie'
+tags:
+- gccommon
 french:
-- "[[9006 Geomorphology]]"
+- "[[Geomorphology]]"
 ---
-# Geomorphologie

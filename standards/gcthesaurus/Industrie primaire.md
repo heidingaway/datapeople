@@ -1,10 +1,8 @@
 ---
 title: Industrie primaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrie primaire
+longTitle: 'Industrie primaire'
+tags:
+- gccommon
 french:
-- "[[16336 Primary industry]]"
+- "[[Primary industry]]"
 ---
-# Industrie primaire

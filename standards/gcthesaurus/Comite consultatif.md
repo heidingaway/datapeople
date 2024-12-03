@@ -1,10 +1,8 @@
 ---
 title: Comite consultatif
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Comité consultatif
+longTitle: 'Comité consultatif'
+tags:
+- gccommon
 french:
-- "[[317 Advisory committees]]"
+- "[[Advisory committees]]"
 ---
-# Comite consultatif

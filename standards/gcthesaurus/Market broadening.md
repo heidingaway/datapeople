@@ -1,10 +1,8 @@
 ---
 title: Market broadening
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Market broadening
+longTitle: 'Market broadening'
+tags:
+- gccommon
 usedFor:
-- "[[13058 Market development]]"
+- "[[Market development]]"
 ---
-# Market broadening

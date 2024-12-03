@@ -1,13 +1,10 @@
 ---
 title: Alcohol education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Alcohol education
+longTitle: 'Alcohol education'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6024 Education]]"
+- "[[Education]]"
 relatedTerm:
-- "[[852 Alcoholism]]"
-- "[[818 Alcohol consumption]]"
+- "[[Alcoholism Alcohol consumption]]"
 ---
-# Alcohol education

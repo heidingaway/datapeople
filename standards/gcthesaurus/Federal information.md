@@ -1,10 +1,8 @@
 ---
 title: Federal information
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Federal information
+longTitle: 'Federal information'
+tags:
+- gccommon
 usedFor:
-- "[[9174 Government information]]"
+- "[[Government information]]"
 ---
-# Federal information

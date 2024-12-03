@@ -1,10 +1,8 @@
 ---
 title: Secours durgence
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Secours d'urgence
+longTitle: 'Secours d'urgence'
+tags:
+- gccommon
 french:
-- "[[6439 Emergency relief]]"
+- "[[Emergency relief]]"
 ---
-# Secours durgence

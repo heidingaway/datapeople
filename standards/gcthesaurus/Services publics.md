@@ -1,10 +1,8 @@
 ---
 title: Services publics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Services publics
+longTitle: 'Services publics'
+tags:
+- gccommon
 french:
-- "[[20863 Utilities]]"
+- "[[Utilities]]"
 ---
-# Services publics

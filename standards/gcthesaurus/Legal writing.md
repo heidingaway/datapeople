@@ -1,10 +1,8 @@
 ---
 title: Legal writing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Legal writing
+longTitle: 'Legal writing'
+tags:
+- gccommon
 usedFor:
-- "[[12332 Legislative writing]]"
+- "[[Legislative writing]]"
 ---
-# Legal writing

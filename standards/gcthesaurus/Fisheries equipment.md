@@ -1,10 +1,8 @@
 ---
 title: Fisheries equipment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fisheries equipment
+longTitle: 'Fisheries equipment'
+tags:
+- gccommon
 usedFor:
-- "[[7949 Fisheries technology]]"
+- "[[Fisheries technology]]"
 ---
-# Fisheries equipment

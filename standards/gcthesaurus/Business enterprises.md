@@ -1,10 +1,8 @@
 ---
 title: Business enterprises
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Business enterprises
+longTitle: 'Business enterprises'
+tags:
+- gccommon
 usedFor:
-- "[[2583 Businesses]]"
+- "[[Businesses]]"
 ---
-# Business enterprises

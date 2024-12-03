@@ -1,10 +1,8 @@
 ---
 title: Renewable ocean energy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Renewable ocean energy
+longTitle: 'Renewable ocean energy'
+tags:
+- gccommon
 usedFor:
-- "[[14829 Ocean energy]]"
+- "[[Ocean energy]]"
 ---
-# Renewable ocean energy

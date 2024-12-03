@@ -1,12 +1,10 @@
 ---
 title: Meat
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Meat
+longTitle: 'Meat'
+tags:
+- gccommon
 narrowerTerm:
-- "[[448 Agri-food products]]"
+- "[[Agri-food products]]"
 relatedTerm:
-- "[[12547 Livestock]]"
+- "[[Livestock]]"
 ---
-# Meat

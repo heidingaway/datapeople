@@ -1,15 +1,10 @@
 ---
 title: International economics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: International economics
+longTitle: 'International economics'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5976 Economics]]"
+- "[[Economics]]"
 relatedTerm:
-- "[[14059 Multinational corporations]]"
-- "[[9110 Globalization]]"
-- "[[11391 International finance]]"
-- "[[11404 International markets]]"
+- "[[Multinational corporations Globalization Internati]]"
 ---
-# International economics

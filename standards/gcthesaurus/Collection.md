@@ -1,10 +1,8 @@
 ---
 title: Collection
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Collection
+longTitle: 'Collection'
+tags:
+- gccommon
 french:
-- "[[3495 Collections]]"
+- "[[Collections]]"
 ---
-# Collection

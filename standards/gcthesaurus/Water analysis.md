@@ -1,10 +1,8 @@
 ---
 title: Water analysis
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Water analysis
+longTitle: 'Water analysis'
+tags:
+- gccommon
 usedFor:
-- "[[21432 Water management]]"
+- "[[Water management]]"
 ---
-# Water analysis

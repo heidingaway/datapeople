@@ -1,10 +1,8 @@
 ---
 title: Tobacco smoking
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Tobacco smoking
+longTitle: 'Tobacco smoking'
+tags:
+- gccommon
 usedFor:
-- "[[18826 Smoking]]"
+- "[[Smoking]]"
 ---
-# Tobacco smoking

@@ -1,10 +1,8 @@
 ---
 title: Inuvialuit
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Inuvialuit
+longTitle: 'Inuvialuit'
+tags:
+- gccommon
 narrowerTerm:
-- "[[11540 Inuit]]"
+- "[[Inuit]]"
 ---
-# Inuvialuit

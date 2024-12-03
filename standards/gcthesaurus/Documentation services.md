@@ -1,10 +1,8 @@
 ---
 title: Documentation services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Documentation services
+longTitle: 'Documentation services'
+tags:
+- gccommon
 usedFor:
-- "[[12380 Libraries]]"
+- "[[Libraries]]"
 ---
-# Documentation services

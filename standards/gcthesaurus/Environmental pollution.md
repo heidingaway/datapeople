@@ -1,10 +1,8 @@
 ---
 title: Environmental pollution
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental pollution
+longTitle: 'Environmental pollution'
+tags:
+- gccommon
 usedFor:
-- "[[16025 Pollution]]"
+- "[[Pollution]]"
 ---
-# Environmental pollution

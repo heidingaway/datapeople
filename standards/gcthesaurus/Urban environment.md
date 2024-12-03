@@ -1,19 +1,12 @@
 ---
 title: Urban environment
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Urban environment
+longTitle: 'Urban environment'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6780 Environment]]"
+- "[[Environment]]"
 relatedTerm:
-- "[[20846 Urban transit]]"
-- "[[20815 Urban communities]]"
-- "[[20835 Urban planning]]"
-- "[[17976 Rural environment]]"
+- "[[Urban transit Urban communities Urban planning Rur]]"
 use:
-- "[[20808 Urban areas]]"
-- "[[11110 Inner-city]]"
-- "[[13512 Metropolitan areas]]"
+- "[[Urban areas Inner-city Metropolitan areas]]"
 ---
-# Urban environment

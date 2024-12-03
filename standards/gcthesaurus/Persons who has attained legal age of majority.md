@@ -1,10 +1,8 @@
 ---
 title: Persons who has attained legal age of majority
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Persons who has attained legal age of majority.
+longTitle: 'Persons who has attained legal age of majority.'
+tags:
+- gccommon
 scopeNote:
-- "[[286 Adults]]"
+- "[[Adults]]"
 ---
-# Persons who has attained legal age of majority

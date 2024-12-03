@@ -1,10 +1,8 @@
 ---
 title: Speaking skills
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Speaking skills
+longTitle: 'Speaking skills'
+tags:
+- gccommon
 usedFor:
-- "[[15068 Oral communication]]"
+- "[[Oral communication]]"
 ---
-# Speaking skills

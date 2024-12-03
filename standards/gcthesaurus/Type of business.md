@@ -1,10 +1,8 @@
 ---
 title: Type of business
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Type of business
+longTitle: 'Type of business'
+tags:
+- gccommon
 usedFor:
-- "[[2575 Business types]]"
+- "[[Business types]]"
 ---
-# Type of business

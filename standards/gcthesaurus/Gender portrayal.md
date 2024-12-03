@@ -1,10 +1,8 @@
 ---
 title: Gender portrayal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Gender portrayal
+longTitle: 'Gender portrayal'
+tags:
+- gccommon
 usedFor:
-- "[[8799 Gender discrimination]]"
+- "[[Gender discrimination]]"
 ---
-# Gender portrayal

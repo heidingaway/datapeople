@@ -1,10 +1,8 @@
 ---
 title: Vitamins
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Vitamins
+longTitle: 'Vitamins'
+tags:
+- gccommon
 relatedTerm:
-- "[[14710 Nutrition]]"
+- "[[Nutrition]]"
 ---
-# Vitamins

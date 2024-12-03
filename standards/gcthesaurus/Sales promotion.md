@@ -1,10 +1,8 @@
 ---
 title: Sales promotion
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sales promotion
+longTitle: 'Sales promotion'
+tags:
+- gccommon
 usedFor:
-- "[[13088 Marketing]]"
+- "[[Marketing]]"
 ---
-# Sales promotion

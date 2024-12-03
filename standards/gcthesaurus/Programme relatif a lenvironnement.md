@@ -1,10 +1,8 @@
 ---
 title: Programme relatif a lenvironnement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Programme relatif à l'environnement
+longTitle: 'Programme relatif à l'environnement'
+tags:
+- gccommon
 french:
-- "[[6956 Environmental programs]]"
+- "[[Environmental programs]]"
 ---
-# Programme relatif a lenvironnement

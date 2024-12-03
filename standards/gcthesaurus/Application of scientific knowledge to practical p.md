@@ -1,10 +1,8 @@
 ---
 title: Application of scientific knowledge to practical p
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Application of scientific knowledge to practical purposes. Includes techniques, methods and equipment.
+longTitle: 'Application of scientific knowledge to practical purposes. Includes techniques, methods and equipment.'
+tags:
+- gccommon
 scopeNote:
-- "[[19861 Technology]]"
+- "[[Technology]]"
 ---
-# Application of scientific knowledge to practical p

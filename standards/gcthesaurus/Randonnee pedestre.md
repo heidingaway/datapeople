@@ -1,10 +1,8 @@
 ---
 title: Randonnee pedestre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Randonnée pédestre
+longTitle: 'Randonnée pédestre'
+tags:
+- gccommon
 french:
-- "[[9934 Hiking]]"
+- "[[Hiking]]"
 ---
-# Randonnee pedestre

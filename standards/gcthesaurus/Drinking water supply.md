@@ -1,10 +1,8 @@
 ---
 title: Drinking water supply
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Drinking water supply
+longTitle: 'Drinking water supply'
+tags:
+- gccommon
 usedFor:
-- "[[21473 Water supply]]"
+- "[[Water supply]]"
 ---
-# Drinking water supply

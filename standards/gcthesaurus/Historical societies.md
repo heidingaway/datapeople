@@ -1,13 +1,10 @@
 ---
 title: Historical societies
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Historical societies
+longTitle: 'Historical societies'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4679 Cultural institutions]]"
+- "[[Cultural institutions]]"
 relatedTerm:
-- "[[9985 History]]"
-- "[[9961 Historical research]]"
+- "[[History Historical research]]"
 ---
-# Historical societies

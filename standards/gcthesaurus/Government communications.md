@@ -1,15 +1,12 @@
 ---
 title: Government communications
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Government communications
+longTitle: 'Government communications'
+tags:
+- gccommon
 broaderTerm:
-- "[[10981 Information bulletin]]"
+- "[[Information bulletin]]"
 narrowerTerm:
-- "[[3655 Communications]]"
+- "[[Communications]]"
 relatedTerm:
-- "[[9178 Government information]]"
-- "[[16262 Press releases]]"
+- "[[Government information Press releases]]"
 ---
-# Government communications

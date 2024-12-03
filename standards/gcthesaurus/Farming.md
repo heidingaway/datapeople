@@ -1,10 +1,8 @@
 ---
 title: Farming
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Farming
+longTitle: 'Farming'
+tags:
+- gccommon
 usedFor:
-- "[[555 Agriculture]]"
+- "[[Agriculture]]"
 ---
-# Farming

@@ -1,15 +1,12 @@
 ---
 title: Cooperatives
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cooperatives
+longTitle: 'Cooperatives'
+tags:
+- gccommon
 narrowerTerm:
-- "[[2589 Businesses]]"
+- "[[Businesses]]"
 relatedTerm:
-- "[[4436 Credit unions]]"
-- "[[1866 Banks]]"
+- "[[Credit unions Banks]]"
 use:
-- "[[3395 Co-ops]]"
+- "[[Co-ops]]"
 ---
-# Cooperatives

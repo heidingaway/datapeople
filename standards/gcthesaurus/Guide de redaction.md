@@ -1,10 +1,8 @@
 ---
 title: Guide de redaction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Guide de rédaction
+longTitle: 'Guide de rédaction'
+tags:
+- gccommon
 french:
-- "[[19484 Style manuals]]"
+- "[[Style manuals]]"
 ---
-# Guide de redaction

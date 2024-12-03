@@ -1,10 +1,8 @@
 ---
 title: Nuclear weapons
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nuclear weapons
+longTitle: 'Nuclear weapons'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21586 Weapons]]"
+- "[[Weapons]]"
 ---
-# Nuclear weapons

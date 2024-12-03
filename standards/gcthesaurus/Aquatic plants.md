@@ -1,20 +1,12 @@
 ---
 title: Aquatic plants
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aquatic plants
+longTitle: 'Aquatic plants'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15865 Plants]]"
+- "[[Plants]]"
 relatedTerm:
-- "[[1287 Aquatic ecosystems]]"
-- "[[1245 Aquaculture]]"
+- "[[Aquatic ecosystems Aquaculture]]"
 use:
-- "[[854 Algae]]"
-- "[[21448 Water plants]]"
-- "[[12971 Marine plants]]"
-- "[[1292 Aquatic flora]]"
-- "[[18376 Seaweed]]"
-- "[[10395 Hydrophytes]]"
+- "[[Algae Water plants Marine plants Aquatic flora Sea]]"
 ---
-# Aquatic plants

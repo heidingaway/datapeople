@@ -1,13 +1,10 @@
 ---
 title: Agricultural policy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Agricultural policy
+longTitle: 'Agricultural policy'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15936 Policy]]"
+- "[[Policy]]"
 relatedTerm:
-- "[[8136 Food policy]]"
-- "[[564 Agriculture]]"
+- "[[Food policy Agriculture]]"
 ---
-# Agricultural policy

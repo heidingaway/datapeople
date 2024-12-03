@@ -1,16 +1,12 @@
 ---
 title: Heating
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Heating
+longTitle: 'Heating'
+tags:
+- gccommon
 broaderTerm:
-- "[[19118 Solar heating]]"
+- "[[Solar heating]]"
 relatedTerm:
-- "[[620 Air conditioning]]"
-- "[[20004 Temperature]]"
-- "[[11182 Insulation]]"
+- "[[Air conditioning Temperature Insulation]]"
 use:
-- "[[9825 Heating systems]]"
+- "[[Heating systems]]"
 ---
-# Heating

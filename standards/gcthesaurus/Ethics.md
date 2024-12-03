@@ -1,21 +1,12 @@
 ---
 title: Ethics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ethics
+longTitle: 'Ethics'
+tags:
+- gccommon
 broaderTerm:
-- "[[2134 Bioethics]]"
+- "[[Bioethics]]"
 relatedTerm:
-- "[[20886 Values]]"
+- "[[Values]]"
 use:
-- "[[13908 Moral values]]"
-- "[[7139 Ethical issues]]"
-- "[[5135 Deontology]]"
-- "[[3454 Code of ethics]]"
-- "[[3451 Code of conduct]]"
-- "[[7141 Ethical values]]"
-- "[[16521 Professional ethics]]"
-- "[[7137 Ethical code]]"
+- "[[Moral values Ethical issues Deontology Code of eth]]"
 ---
-# Ethics

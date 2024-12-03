@@ -1,10 +1,8 @@
 ---
 title: Safety kits
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Safety kits
+longTitle: 'Safety kits'
+tags:
+- gccommon
 usedFor:
-- "[[18019 Safety equipment]]"
+- "[[Safety equipment]]"
 ---
-# Safety kits

@@ -1,17 +1,12 @@
 ---
 title: Departments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Departments
+longTitle: 'Departments'
+tags:
+- gccommon
 broaderTerm:
-- "[[5470 Divisions]]"
-- "[[18427 Sections]]"
-- "[[18589 Services]]"
-- "[[2395 Branches]]"
+- "[[Divisions Sections Services Branches]]"
 narrowerTerm:
-- "[[16768 Public administration]]"
+- "[[Public administration]]"
 relatedTerm:
-- "[[9159 Government departments]]"
+- "[[Government departments]]"
 ---
-# Departments

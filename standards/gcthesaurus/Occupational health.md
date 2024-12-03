@@ -1,22 +1,12 @@
 ---
 title: Occupational health
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Occupational health
+longTitle: 'Occupational health'
+tags:
+- gccommon
 narrowerTerm:
-- "[[9570 Health]]"
+- "[[Health]]"
 relatedTerm:
-- "[[21960 Working conditions]]"
-- "[[14802 Occupational safety]]"
-- "[[22005 Workplace pollution]]"
-- "[[14756 Occupational diseases]]"
-- "[[21979 Workplace]]"
+- "[[Working conditions Occupational safety Workplace p]]"
 use:
-- "[[10775 Industrial hygiene]]"
-- "[[21997 Workplace health]]"
-- "[[10772 Industrial health]]"
-- "[[14776 Occupational hygiene]]"
-- "[[21916 Worker health]]"
+- "[[Industrial hygiene Workplace health Industrial hea]]"
 ---
-# Occupational health

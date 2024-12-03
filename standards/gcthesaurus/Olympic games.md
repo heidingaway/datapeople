@@ -1,12 +1,10 @@
 ---
 title: Olympic games
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Olympic games
+longTitle: 'Olympic games'
+tags:
+- gccommon
 narrowerTerm:
-- "[[19252 Sports events]]"
+- "[[Sports events]]"
 relatedTerm:
-- "[[922 Amateur sports]]"
+- "[[Amateur sports]]"
 ---
-# Olympic games

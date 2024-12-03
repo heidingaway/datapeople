@@ -1,10 +1,8 @@
 ---
 title: Freshwater ecosystems
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Freshwater ecosystems
+longTitle: 'Freshwater ecosystems'
+tags:
+- gccommon
 usedFor:
-- "[[1284 Aquatic ecosystems]]"
+- "[[Aquatic ecosystems]]"
 ---
-# Freshwater ecosystems

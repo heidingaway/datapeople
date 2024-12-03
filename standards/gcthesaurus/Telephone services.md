@@ -1,10 +1,8 @@
 ---
 title: Telephone services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Telephone services
+longTitle: 'Telephone services'
+tags:
+- gccommon
 usedFor:
-- "[[19978 Telephones]]"
+- "[[Telephones]]"
 ---
-# Telephone services

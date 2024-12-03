@@ -1,15 +1,12 @@
 ---
 title: Air quality
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Air quality
+longTitle: 'Air quality'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6981 Environmental quality]]"
+- "[[Environmental quality]]"
 relatedTerm:
-- "[[643 Air pollution]]"
-- "[[606 Air]]"
+- "[[Air pollution Air]]"
 use:
-- "[[654 Air quality monitoring]]"
+- "[[Air quality monitoring]]"
 ---
-# Air quality

@@ -1,10 +1,8 @@
 ---
 title: Human population
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Human population
+longTitle: 'Human population'
+tags:
+- gccommon
 usedFor:
-- "[[16071 Population]]"
+- "[[Population]]"
 ---
-# Human population

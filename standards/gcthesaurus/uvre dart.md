@@ -1,10 +1,8 @@
 ---
 title: uvre dart
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Œuvre d'art
+longTitle: 'Œuvre d'art'
+tags:
+- gccommon
 french:
-- "[[1475 Art works]]"
+- "[[Art works]]"
 ---
-# uvre dart

@@ -1,19 +1,12 @@
 ---
 title: Funding
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Funding
+longTitle: 'Funding'
+tags:
+- gccommon
 broaderTerm:
-- "[[16826 Public funding]]"
-- "[[6082 Educational funding]]"
+- "[[Public funding Educational funding]]"
 relatedTerm:
-- "[[9300 Grants]]"
-- "[[17266 Recipients]]"
-- "[[7777 Financing companies]]"
-- "[[20543 Transfer payments]]"
-- "[[8644 Fundraising]]"
+- "[[Grants Recipients Financing companies Transfer pay]]"
 use:
-- "[[7770 Financing]]"
+- "[[Financing]]"
 ---
-# Funding

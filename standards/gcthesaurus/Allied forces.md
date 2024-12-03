@@ -1,11 +1,8 @@
 ---
 title: Allied forces
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Allied forces
+longTitle: 'Allied forces'
+tags:
+- gccommon
 relatedTerm:
-- "[[1422 Armed forces]]"
-- "[[21247 War]]"
+- "[[Armed forces War]]"
 ---
-# Allied forces

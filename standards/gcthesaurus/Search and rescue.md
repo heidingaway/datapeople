@@ -1,10 +1,8 @@
 ---
 title: Search and rescue
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Search and rescue
+longTitle: 'Search and rescue'
+tags:
+- gccommon
 usedFor:
-- "[[17630 Rescue]]"
+- "[[Rescue]]"
 ---
-# Search and rescue

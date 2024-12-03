@@ -1,10 +1,8 @@
 ---
 title: Maree
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marée
+longTitle: 'Marée'
+tags:
+- gccommon
 french:
-- "[[20183 Tides]]"
+- "[[Tides]]"
 ---
-# Maree

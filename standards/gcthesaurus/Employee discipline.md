@@ -1,10 +1,8 @@
 ---
 title: Employee discipline
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Employee discipline
+longTitle: 'Employee discipline'
+tags:
+- gccommon
 relatedTerm:
-- "[[15574 Personnel management]]"
+- "[[Personnel management]]"
 ---
-# Employee discipline

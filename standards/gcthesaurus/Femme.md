@@ -1,10 +1,8 @@
 ---
 title: Femme
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Femme
+longTitle: 'Femme'
+tags:
+- gccommon
 french:
-- "[[21821 Women]]"
+- "[[Women]]"
 ---
-# Femme

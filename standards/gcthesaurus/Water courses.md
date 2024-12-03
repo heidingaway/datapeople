@@ -1,10 +1,8 @@
 ---
 title: Water courses
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Water courses
+longTitle: 'Water courses'
+tags:
+- gccommon
 usedFor:
-- "[[21539 Watercourses]]"
+- "[[Watercourses]]"
 ---
-# Water courses

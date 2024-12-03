@@ -1,13 +1,10 @@
 ---
 title: Degenerative diseases
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Degenerative diseases
+longTitle: 'Degenerative diseases'
+tags:
+- gccommon
 broaderTerm:
-- "[[1488 Arthritis]]"
-- "[[915 Alzheimer's disease]]"
+- "[[Arthritis Alzheimers disease]]"
 narrowerTerm:
-- "[[5394 Diseases]]"
+- "[[Diseases]]"
 ---
-# Degenerative diseases

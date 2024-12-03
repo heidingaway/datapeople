@@ -1,10 +1,8 @@
 ---
 title: Histoire economique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Histoire économique
+longTitle: 'Histoire économique'
+tags:
+- gccommon
 french:
-- "[[5893 Economic history]]"
+- "[[Economic history]]"
 ---
-# Histoire economique

@@ -1,10 +1,8 @@
 ---
 title: Evaluations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Evaluations
+longTitle: 'Evaluations'
+tags:
+- gccommon
 usedFor:
-- "[[1534 Assessment]]"
+- "[[Assessment]]"
 ---
-# Evaluations

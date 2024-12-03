@@ -1,10 +1,8 @@
 ---
 title: Etiquetage des aliments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Étiquetage des aliments
+longTitle: 'Étiquetage des aliments'
+tags:
+- gccommon
 french:
-- "[[8124 Food labelling]]"
+- "[[Food labelling]]"
 ---
-# Etiquetage des aliments

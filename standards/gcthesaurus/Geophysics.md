@@ -1,17 +1,14 @@
 ---
 title: Geophysics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Geophysics
+longTitle: 'Geophysics'
+tags:
+- gccommon
 broaderTerm:
-- "[[18480 Seismology]]"
+- "[[Seismology]]"
 narrowerTerm:
-- "[[5771 Earth sciences]]"
-- "[[15779 Physics]]"
+- "[[Earth sciences Physics]]"
 relatedTerm:
-- "[[8996 Geology]]"
+- "[[Geology]]"
 use:
-- "[[5759 Earth physics]]"
+- "[[Earth physics]]"
 ---
-# Geophysics

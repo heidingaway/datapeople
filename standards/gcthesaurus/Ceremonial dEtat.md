@@ -1,10 +1,8 @@
 ---
 title: Ceremonial dEtat
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cérémonial d'État
+longTitle: 'Cérémonial d'État'
+tags:
+- gccommon
 french:
-- "[[19306 State ceremonial]]"
+- "[[State ceremonial]]"
 ---
-# Ceremonial dEtat

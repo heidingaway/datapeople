@@ -1,10 +1,8 @@
 ---
 title: Mortality
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mortality
+longTitle: 'Mortality'
+tags:
+- gccommon
 usedFor:
-- "[[4939 Death]]"
+- "[[Death]]"
 ---
-# Mortality

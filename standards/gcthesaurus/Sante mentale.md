@@ -1,10 +1,8 @@
 ---
 title: Sante mentale
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Santé mentale
+longTitle: 'Santé mentale'
+tags:
+- gccommon
 french:
-- "[[13397 Mental health]]"
+- "[[Mental health]]"
 ---
-# Sante mentale

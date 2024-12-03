@@ -1,13 +1,10 @@
 ---
 title: Comparison
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Comparison
+longTitle: 'Comparison'
+tags:
+- gccommon
 relatedTerm:
-- "[[1951 Benchmarks]]"
-- "[[1541 Assessment]]"
+- "[[Benchmarks Assessment]]"
 use:
-- "[[3753 Comparative analysis]]"
+- "[[Comparative analysis]]"
 ---
-# Comparison

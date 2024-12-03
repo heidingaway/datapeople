@@ -1,10 +1,8 @@
 ---
 title: Data breach
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Data breach
+longTitle: 'Data breach'
+tags:
+- gccommon
 usedFor:
-- "[[16387 Privacy]]"
+- "[[Privacy]]"
 ---
-# Data breach

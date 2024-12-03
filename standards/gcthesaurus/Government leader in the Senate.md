@@ -1,10 +1,8 @@
 ---
 title: Government leader in the Senate
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Government leader in the Senate
+longTitle: 'Government leader in the Senate'
+tags:
+- gccommon
 usedFor:
-- "[[9192 Government leader]]"
+- "[[Government leader]]"
 ---
-# Government leader in the Senate

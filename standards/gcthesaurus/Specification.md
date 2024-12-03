@@ -1,10 +1,8 @@
 ---
 title: Specification
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Spécification
+longTitle: 'Spécification'
+tags:
+- gccommon
 french:
-- "[[19213 Specifications]]"
+- "[[Specifications]]"
 ---
-# Specification

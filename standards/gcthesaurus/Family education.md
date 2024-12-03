@@ -1,12 +1,10 @@
 ---
 title: Family education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Family education
+longTitle: 'Family education'
+tags:
+- gccommon
 narrowerTerm:
-- "[[6033 Education]]"
+- "[[Education]]"
 relatedTerm:
-- "[[15260 Parenting]]"
+- "[[Parenting]]"
 ---
-# Family education

@@ -1,10 +1,8 @@
 ---
 title: Francophone communities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Francophone communities
+longTitle: 'Francophone communities'
+tags:
+- gccommon
 usedFor:
-- "[[8473 Francophonie]]"
+- "[[Francophonie]]"
 ---
-# Francophone communities

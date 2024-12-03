@@ -1,12 +1,8 @@
 ---
 title: Cultural diversity
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cultural diversity
+longTitle: 'Cultural diversity'
+tags:
+- gccommon
 relatedTerm:
-- "[[14004 Multiculturalism]]"
-- "[[4717 Culture]]"
-- "[[12461 Linguistic diversity]]"
+- "[[Multiculturalism Culture Linguistic diversity]]"
 ---
-# Cultural diversity

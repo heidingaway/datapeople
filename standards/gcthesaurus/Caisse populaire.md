@@ -1,10 +1,8 @@
 ---
 title: Caisse populaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Caisse populaire
+longTitle: 'Caisse populaire'
+tags:
+- gccommon
 french:
-- "[[2661 Caisses populaires]]"
+- "[[Caisses populaires]]"
 ---
-# Caisse populaire

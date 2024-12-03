@@ -1,10 +1,8 @@
 ---
 title: Aide hypothecaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aide hypothécaire
+longTitle: 'Aide hypothécaire'
+tags:
+- gccommon
 french:
-- "[[13917 Mortgage assistance]]"
+- "[[Mortgage assistance]]"
 ---
-# Aide hypothecaire

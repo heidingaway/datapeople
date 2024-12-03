@@ -1,10 +1,8 @@
 ---
 title: Space shuttles
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Space shuttles
+longTitle: 'Space shuttles'
+tags:
+- gccommon
 usedFor:
-- "[[19190 Space technology]]"
+- "[[Space technology]]"
 ---
-# Space shuttles

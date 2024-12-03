@@ -1,10 +1,8 @@
 ---
 title: Navigation charts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Navigation charts
+longTitle: 'Navigation charts'
+tags:
+- gccommon
 usedFor:
-- "[[14361 Nautical charts]]"
+- "[[Nautical charts]]"
 ---
-# Navigation charts

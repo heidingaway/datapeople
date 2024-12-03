@@ -1,11 +1,8 @@
 ---
 title: Litigation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Litigation
+longTitle: 'Litigation'
+tags:
+- gccommon
 relatedTerm:
-- "[[3940 Conflicts]]"
-- "[[1328 Arbitration]]"
+- "[[Conflicts Arbitration]]"
 ---
-# Litigation

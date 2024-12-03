@@ -1,10 +1,8 @@
 ---
 title: Histoire naturelle
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Histoire naturelle
+longTitle: 'Histoire naturelle'
+tags:
+- gccommon
 french:
-- "[[14310 Natural history]]"
+- "[[Natural history]]"
 ---
-# Histoire naturelle

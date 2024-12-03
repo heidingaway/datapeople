@@ -1,10 +1,8 @@
 ---
 title: Nature protection
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Nature protection
+longTitle: 'Nature protection'
+tags:
+- gccommon
 usedFor:
-- "[[14347 Nature conservation]]"
+- "[[Nature conservation]]"
 ---
-# Nature protection

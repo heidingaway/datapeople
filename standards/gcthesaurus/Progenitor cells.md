@@ -1,10 +1,8 @@
 ---
 title: Progenitor cells
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Progenitor cells
+longTitle: 'Progenitor cells'
+tags:
+- gccommon
 usedFor:
-- "[[19387 Stem cells]]"
+- "[[Stem cells]]"
 ---
-# Progenitor cells

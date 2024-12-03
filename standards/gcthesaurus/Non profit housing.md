@@ -1,10 +1,8 @@
 ---
 title: Non profit housing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Non profit housing
+longTitle: 'Non profit housing'
+tags:
+- gccommon
 usedFor:
-- "[[19512 Subsidized housing]]"
+- "[[Subsidized housing]]"
 ---
-# Non profit housing

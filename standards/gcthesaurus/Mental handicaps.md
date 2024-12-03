@@ -1,10 +1,8 @@
 ---
 title: Mental handicaps
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mental handicaps
+longTitle: 'Mental handicaps'
+tags:
+- gccommon
 usedFor:
-- "[[11233 Intellectual disabilities]]"
+- "[[Intellectual disabilities]]"
 ---
-# Mental handicaps

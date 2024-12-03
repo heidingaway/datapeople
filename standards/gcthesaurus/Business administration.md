@@ -1,10 +1,8 @@
 ---
 title: Business administration
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Business administration
+longTitle: 'Business administration'
+tags:
+- gccommon
 usedFor:
-- "[[12748 Management]]"
+- "[[Management]]"
 ---
-# Business administration

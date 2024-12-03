@@ -1,10 +1,8 @@
 ---
 title: Telephone directories
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Telephone directories
+longTitle: 'Telephone directories'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5296 Directories]]"
+- "[[Directories]]"
 ---
-# Telephone directories

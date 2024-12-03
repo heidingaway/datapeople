@@ -1,10 +1,8 @@
 ---
-title: "The laboratory use of animals for testing product "
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: The laboratory use of animals for testing product safety and efficiency of drugs and treatments. For research about animals and their biology, habitat, behaviour, health, etc., use "Animal research".
+title: The laboratory use of animals for testing product 
+longTitle: 'The laboratory use of animals for testing product safety and efficiency of drugs and treatments. For research about animals and their biology, habitat, behaviour, health, etc., use "Animal research".'
+tags:
+- gccommon
 scopeNote:
-- "[[1093 Animal testing]]"
+- "[[Animal testing]]"
 ---
-# The laboratory use of animals for testing product

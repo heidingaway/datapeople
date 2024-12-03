@@ -1,10 +1,8 @@
 ---
 title: Crude oil
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Crude oil
+longTitle: 'Crude oil'
+tags:
+- gccommon
 usedFor:
-- "[[15645 Petroleum]]"
+- "[[Petroleum]]"
 ---
-# Crude oil

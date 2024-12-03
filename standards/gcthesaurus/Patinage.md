@@ -1,10 +1,8 @@
 ---
 title: Patinage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Patinage
+longTitle: 'Patinage'
+tags:
+- gccommon
 french:
-- "[[18762 Skating]]"
+- "[[Skating]]"
 ---
-# Patinage

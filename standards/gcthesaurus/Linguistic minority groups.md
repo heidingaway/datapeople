@@ -1,10 +1,8 @@
 ---
 title: Linguistic minority groups
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Linguistic minority groups
+longTitle: 'Linguistic minority groups'
+tags:
+- gccommon
 usedFor:
-- "[[12086 Language minorities]]"
+- "[[Language minorities]]"
 ---
-# Linguistic minority groups

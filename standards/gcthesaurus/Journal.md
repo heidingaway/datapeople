@@ -1,10 +1,8 @@
 ---
 title: Journal
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Journal
+longTitle: 'Journal'
+tags:
+- gccommon
 french:
-- "[[14443 Newspapers]]"
+- "[[Newspapers]]"
 ---
-# Journal

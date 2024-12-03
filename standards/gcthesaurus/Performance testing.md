@@ -1,10 +1,8 @@
 ---
 title: Performance testing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Performance testing
+longTitle: 'Performance testing'
+tags:
+- gccommon
 usedFor:
-- "[[20114 Testing]]"
+- "[[Testing]]"
 ---
-# Performance testing

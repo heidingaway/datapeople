@@ -1,10 +1,8 @@
 ---
 title: Spacecraft
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Spacecraft
+longTitle: 'Spacecraft'
+tags:
+- gccommon
 usedFor:
-- "[[19162 Space exploration]]"
+- "[[Space exploration]]"
 ---
-# Spacecraft

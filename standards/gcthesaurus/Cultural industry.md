@@ -1,19 +1,12 @@
 ---
 title: Cultural industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cultural industry
+longTitle: 'Cultural industry'
+tags:
+- gccommon
 broaderTerm:
-- "[[7677 Film industry]]"
-- "[[14109 Music industry]]"
+- "[[Film industry Music industry]]"
 narrowerTerm:
-- "[[18578 Service industry]]"
+- "[[Service industry]]"
 relatedTerm:
-- "[[2435 Broadcasting industry]]"
-- "[[4683 Cultural institutions]]"
-- "[[4626 Cultural development]]"
-- "[[4721 Culture]]"
-- "[[16943 Publishing]]"
+- "[[Broadcasting industry Cultural institutions Cultur]]"
 ---
-# Cultural industry

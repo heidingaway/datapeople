@@ -1,10 +1,8 @@
 ---
 title: Dechets dangereux
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Déchets dangereux
+longTitle: 'Déchets dangereux'
+tags:
+- gccommon
 french:
-- "[[9551 Hazardous waste]]"
+- "[[Hazardous waste]]"
 ---
-# Dechets dangereux

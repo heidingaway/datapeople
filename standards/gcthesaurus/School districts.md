@@ -1,10 +1,8 @@
 ---
 title: School districts
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: School districts
+longTitle: 'School districts'
+tags:
+- gccommon
 usedFor:
-- "[[18203 School boards]]"
+- "[[School boards]]"
 ---
-# School districts

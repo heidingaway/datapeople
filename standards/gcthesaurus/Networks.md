@@ -1,15 +1,10 @@
 ---
 title: Networks
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Networks
+longTitle: 'Networks'
+tags:
+- gccommon
 broaderTerm:
-- "[[17889 Road networks]]"
-- "[[19926 Telecommunications networks]]"
-- "[[17183 Railway networks]]"
-- "[[3817 Computer networks]]"
+- "[[Road networks Telecommunications networks Railway ]]"
 use:
-- "[[14414 Networking]]"
+- "[[Networking]]"
 ---
-# Networks

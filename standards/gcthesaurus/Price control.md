@@ -1,10 +1,8 @@
 ---
 title: Price control
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Price control
+longTitle: 'Price control'
+tags:
+- gccommon
 usedFor:
-- "[[16307 Price regulation]]"
+- "[[Price regulation]]"
 ---
-# Price control

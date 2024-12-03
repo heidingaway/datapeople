@@ -1,10 +1,8 @@
 ---
 title: Commission parlementaire
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Commission parlementaire
+longTitle: 'Commission parlementaire'
+tags:
+- gccommon
 french:
-- "[[15300 Parliamentary committees]]"
+- "[[Parliamentary committees]]"
 ---
-# Commission parlementaire

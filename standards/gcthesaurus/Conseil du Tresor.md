@@ -1,10 +1,8 @@
 ---
 title: Conseil du Tresor
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Conseil du Trésor
+longTitle: 'Conseil du Trésor'
+tags:
+- gccommon
 french:
-- "[[20674 Treasury board]]"
+- "[[Treasury board]]"
 ---
-# Conseil du Tresor

@@ -1,11 +1,8 @@
 ---
 title: Entrepreneurs
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Entrepreneurs
+longTitle: 'Entrepreneurs'
+tags:
+- gccommon
 relatedTerm:
-- "[[6769 Entrepreneurship]]"
-- "[[2570 Business start-ups]]"
+- "[[Entrepreneurship Business start-ups]]"
 ---
-# Entrepreneurs

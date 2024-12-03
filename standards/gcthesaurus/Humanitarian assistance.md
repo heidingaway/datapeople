@@ -1,10 +1,8 @@
 ---
 title: Humanitarian assistance
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Humanitarian assistance
+longTitle: 'Humanitarian assistance'
+tags:
+- gccommon
 usedFor:
-- "[[10254 Humanitarian aid]]"
+- "[[Humanitarian aid]]"
 ---
-# Humanitarian assistance

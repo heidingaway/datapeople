@@ -1,10 +1,8 @@
 ---
 title: Astrophysics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Astrophysics
+longTitle: 'Astrophysics'
+tags:
+- gccommon
 usedFor:
-- "[[1630 Astronomy]]"
+- "[[Astronomy]]"
 ---
-# Astrophysics

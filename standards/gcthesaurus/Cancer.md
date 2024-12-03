@@ -1,18 +1,14 @@
 ---
 title: Cancer
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Cancer
+longTitle: 'Cancer'
+tags:
+- gccommon
 broaderTerm:
-- "[[2398 Breast cancer]]"
+- "[[Breast cancer]]"
 french:
-- "[[2715 Cancer]]"
+- "[[Cancer]]"
 narrowerTerm:
-- "[[5390 Diseases]]"
+- "[[Diseases]]"
 use:
-- "[[2753 Carcinoma]]"
-- "[[12720 Malignant tumors]]"
-- "[[12722 Malignant tumours]]"
+- "[[Carcinoma Malignant tumors Malignant tumours]]"
 ---
-# Cancer

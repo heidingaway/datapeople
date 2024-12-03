@@ -1,10 +1,8 @@
 ---
 title: Geographical data
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Geographical data
+longTitle: 'Geographical data'
+tags:
+- gccommon
 usedFor:
-- "[[8904 Geographic data]]"
+- "[[Geographic data]]"
 ---
-# Geographical data

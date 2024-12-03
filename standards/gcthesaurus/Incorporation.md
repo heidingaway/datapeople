@@ -1,13 +1,10 @@
 ---
 title: Incorporation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Incorporation
+longTitle: 'Incorporation'
+tags:
+- gccommon
 french:
-- "[[10589 Incorporation]]"
+- "[[Incorporation]]"
 relatedTerm:
-- "[[2609 Businesses]]"
-- "[[4291 Corporations]]"
+- "[[Businesses Corporations]]"
 ---
-# Incorporation

@@ -1,10 +1,8 @@
 ---
 title: Ship piloting
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ship piloting
+longTitle: 'Ship piloting'
+tags:
+- gccommon
 usedFor:
-- "[[15794 Pilotage]]"
+- "[[Pilotage]]"
 ---
-# Ship piloting

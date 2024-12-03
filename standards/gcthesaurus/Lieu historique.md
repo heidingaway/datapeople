@@ -1,10 +1,8 @@
 ---
 title: Lieu historique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Lieu historique
+longTitle: 'Lieu historique'
+tags:
+- gccommon
 french:
-- "[[9946 Historic sites]]"
+- "[[Historic sites]]"
 ---
-# Lieu historique

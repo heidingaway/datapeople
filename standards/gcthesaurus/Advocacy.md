@@ -1,14 +1,10 @@
 ---
 title: Advocacy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Advocacy
+longTitle: 'Advocacy'
+tags:
+- gccommon
 relatedTerm:
-- "[[18944 Social movement]]"
-- "[[11284 Interest groups]]"
-- "[[12590 Lobbying]]"
+- "[[Social movement Interest groups Lobbying]]"
 use:
-- "[[18858 Social action]]"
+- "[[Social action]]"
 ---
-# Advocacy

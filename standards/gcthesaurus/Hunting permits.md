@@ -1,12 +1,10 @@
 ---
 title: Hunting permits
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hunting permits
+longTitle: 'Hunting permits'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15506 Permits]]"
+- "[[Permits]]"
 relatedTerm:
-- "[[10310 Hunting (Sport)]]"
+- "[[Hunting Sport]]"
 ---
-# Hunting permits

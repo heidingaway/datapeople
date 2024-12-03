@@ -1,10 +1,8 @@
 ---
 title: Pansexual people
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pansexual people
+longTitle: 'Pansexual people'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17 2SLGBTQI+ people]]"
+- "[[2SLGBTQI people]]"
 ---
-# Pansexual people

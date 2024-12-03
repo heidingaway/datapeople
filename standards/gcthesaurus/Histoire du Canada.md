@@ -1,10 +1,8 @@
 ---
 title: Histoire du Canada
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Histoire du Canada
+longTitle: 'Histoire du Canada'
+tags:
+- gccommon
 french:
-- "[[2691 Canadian history]]"
+- "[[Canadian history]]"
 ---
-# Histoire du Canada

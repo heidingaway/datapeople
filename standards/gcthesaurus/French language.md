@@ -1,17 +1,12 @@
 ---
 title: French language
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: French language
+longTitle: 'French language'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12126 Languages]]"
+- "[[Languages]]"
 relatedTerm:
-- "[[8475 Francophonie]]"
-- "[[8522 French second language]]"
-- "[[14931 Official languages]]"
-- "[[8508 French in the workplace]]"
+- "[[Francophonie French second language Official langu]]"
 use:
-- "[[8505 French]]"
+- "[[French]]"
 ---
-# French language

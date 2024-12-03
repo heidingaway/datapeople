@@ -1,10 +1,8 @@
 ---
 title: Fonction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fonction
+longTitle: 'Fonction'
+tags:
+- gccommon
 french:
-- "[[8616 Functions]]"
+- "[[Functions]]"
 ---
-# Fonction

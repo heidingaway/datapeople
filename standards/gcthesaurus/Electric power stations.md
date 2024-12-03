@@ -1,26 +1,14 @@
 ---
 title: Electric power stations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electric power stations
+longTitle: 'Electric power stations'
+tags:
+- gccommon
 broaderTerm:
-- "[[10341 Hydroelectric plants]]"
-- "[[14648 Nuclear power plants]]"
+- "[[Hydroelectric plants Nuclear power plants]]"
 narrowerTerm:
-- "[[6701 Energy technology]]"
+- "[[Energy technology]]"
 relatedTerm:
-- "[[6256 Electricity]]"
+- "[[Electricity]]"
 use:
-- "[[6224 Electric stations]]"
-- "[[21789 Wind power plants]]"
-- "[[8821 Generating plants]]"
-- "[[16181 Power stations]]"
-- "[[16177 Power plants]]"
-- "[[6206 Electric power plants]]"
-- "[[16175 Power generating stations]]"
-- "[[8823 Generating stations]]"
-- "[[6204 Electric power generating stations]]"
-- "[[20165 Thermal power plants]]"
+- "[[Electric stations Wind power plants Generating pla]]"
 ---
-# Electric power stations

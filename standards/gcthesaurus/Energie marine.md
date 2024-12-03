@@ -1,10 +1,8 @@
 ---
 title: Energie marine
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Énergie marine
+longTitle: 'Énergie marine'
+tags:
+- gccommon
 french:
-- "[[14824 Ocean energy]]"
+- "[[Ocean energy]]"
 ---
-# Energie marine

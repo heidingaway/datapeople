@@ -1,14 +1,10 @@
 ---
 title: Broadcasting industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Broadcasting industry
+longTitle: 'Broadcasting industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18576 Service industry]]"
+- "[[Service industry]]"
 relatedTerm:
-- "[[4669 Cultural industry]]"
-- "[[2423 Broadcasting]]"
-- "[[3673 Communications industry]]"
+- "[[Cultural industry Broadcasting Communications indu]]"
 ---
-# Broadcasting industry

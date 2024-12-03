@@ -1,23 +1,12 @@
 ---
 title: Mining industry
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Mining industry
+longTitle: 'Mining industry'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16344 Primary industry]]"
+- "[[Primary industry]]"
 relatedTerm:
-- "[[13756 Mining technology]]"
-- "[[16649 Prospecting]]"
-- "[[3408 Coal]]"
-- "[[13732 Mining accidents]]"
-- "[[13720 Minerals]]"
-- "[[13452 Metals]]"
-- "[[5571 Drilling]]"
+- "[[Mining technology Prospecting Coal Mining accident]]"
 use:
-- "[[13722 Mines]]"
-- "[[13738 Mining exploration]]"
-- "[[13728 Mining]]"
-- "[[13710 Mineral industry]]"
+- "[[Mines Mining exploration Mining Mineral industry]]"
 ---
-# Mining industry

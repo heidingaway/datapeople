@@ -1,10 +1,8 @@
 ---
 title: Ethical issues
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Ethical issues
+longTitle: 'Ethical issues'
+tags:
+- gccommon
 usedFor:
-- "[[7148 Ethics]]"
+- "[[Ethics]]"
 ---
-# Ethical issues

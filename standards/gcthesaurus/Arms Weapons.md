@@ -1,10 +1,8 @@
 ---
 title: Arms Weapons
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Arms (Weapons)
+longTitle: 'Arms (Weapons)'
+tags:
+- gccommon
 usedFor:
-- "[[21576 Weapons]]"
+- "[[Weapons]]"
 ---
-# Arms Weapons

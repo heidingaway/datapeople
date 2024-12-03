@@ -1,10 +1,8 @@
 ---
 title: Eau salee
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Eau salée
+longTitle: 'Eau salée'
+tags:
+- gccommon
 french:
-- "[[18115 Salt water]]"
+- "[[Salt water]]"
 ---
-# Eau salee

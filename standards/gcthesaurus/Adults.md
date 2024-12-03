@@ -1,13 +1,10 @@
 ---
 title: Adults
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Adults
+longTitle: 'Adults'
+tags:
+- gccommon
 broaderTerm:
-- "[[22103 Young adults]]"
-- "[[18544 Seniors]]"
+- "[[Young adults Seniors]]"
 relatedTerm:
-- "[[282 Adulthood]]"
+- "[[Adulthood]]"
 ---
-# Adults

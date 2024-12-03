@@ -1,10 +1,8 @@
 ---
 title: Silo a grains
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Silo à grains
+longTitle: 'Silo à grains'
+tags:
+- gccommon
 french:
-- "[[9286 Grain elevators]]"
+- "[[Grain elevators]]"
 ---
-# Silo a grains

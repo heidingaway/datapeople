@@ -1,10 +1,8 @@
 ---
 title: Public services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Public services
+longTitle: 'Public services'
+tags:
+- gccommon
 usedFor:
-- "[[20864 Utilities]]"
+- "[[Utilities]]"
 ---
-# Public services

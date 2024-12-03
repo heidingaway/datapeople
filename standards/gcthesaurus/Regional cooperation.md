@@ -1,12 +1,10 @@
 ---
 title: Regional cooperation
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Regional cooperation
+longTitle: 'Regional cooperation'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4185 Cooperation]]"
+- "[[Cooperation]]"
 relatedTerm:
-- "[[17439 Regional development]]"
+- "[[Regional development]]"
 ---
-# Regional cooperation

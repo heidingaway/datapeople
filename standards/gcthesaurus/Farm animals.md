@@ -1,10 +1,8 @@
 ---
 title: Farm animals
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Farm animals
+longTitle: 'Farm animals'
+tags:
+- gccommon
 usedFor:
-- "[[12536 Livestock]]"
+- "[[Livestock]]"
 ---
-# Farm animals

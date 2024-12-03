@@ -1,11 +1,8 @@
 ---
 title: Atlases
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Atlases
+longTitle: 'Atlases'
+tags:
+- gccommon
 relatedTerm:
-- "[[8949 Geography]]"
-- "[[12897 Maps]]"
+- "[[Geography Maps]]"
 ---
-# Atlases

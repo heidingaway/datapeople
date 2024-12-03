@@ -1,10 +1,8 @@
 ---
 title: Electric power plants
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electric power plants
+longTitle: 'Electric power plants'
+tags:
+- gccommon
 usedFor:
-- "[[6210 Electric power stations]]"
+- "[[Electric power stations]]"
 ---
-# Electric power plants

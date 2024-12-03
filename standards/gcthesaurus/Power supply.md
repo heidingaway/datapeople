@@ -1,10 +1,8 @@
 ---
 title: Power supply
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Power supply
+longTitle: 'Power supply'
+tags:
+- gccommon
 usedFor:
-- "[[6691 Energy supply]]"
+- "[[Energy supply]]"
 ---
-# Power supply

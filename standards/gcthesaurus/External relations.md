@@ -1,19 +1,12 @@
 ---
 title: External relations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: External relations
+longTitle: 'External relations'
+tags:
+- gccommon
 broaderTerm:
-- "[[2686 Canadian-American relations]]"
+- "[[Canadian-American relations]]"
 relatedTerm:
-- "[[8268 Foreign service]]"
-- "[[5949 Economic sanctions]]"
-- "[[8218 Foreign affairs]]"
-- "[[11338 International agreements]]"
-- "[[8255 Foreign policy]]"
+- "[[Foreign service Economic sanctions Foreign affairs]]"
 use:
-- "[[8258 Foreign relations]]"
-- "[[11419 International relations]]"
+- "[[Foreign relations International relations]]"
 ---
-# External relations

@@ -1,10 +1,8 @@
 ---
 title: Coin collecting
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Coin collecting
+longTitle: 'Coin collecting'
+tags:
+- gccommon
 usedFor:
-- "[[14681 Numismatics]]"
+- "[[Numismatics]]"
 ---
-# Coin collecting

@@ -1,10 +1,8 @@
 ---
 title: Derailments
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Derailments
+longTitle: 'Derailments'
+tags:
+- gccommon
 usedFor:
-- "[[17162 Railway accidents]]"
+- "[[Railway accidents]]"
 ---
-# Derailments

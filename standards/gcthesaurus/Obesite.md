@@ -1,10 +1,8 @@
 ---
 title: Obesite
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Obésité
+longTitle: 'Obésité'
+tags:
+- gccommon
 french:
-- "[[14723 Obesity]]"
+- "[[Obesity]]"
 ---
-# Obesite

@@ -1,15 +1,10 @@
 ---
 title: Securities
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Securities
+longTitle: 'Securities'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1556 Assets]]"
+- "[[Assets]]"
 relatedTerm:
-- "[[2320 Bonds]]"
-- "[[18660 Shares]]"
-- "[[11600 Investments]]"
-- "[[19407 Stock markets]]"
+- "[[Bonds Shares Investments Stock markets]]"
 ---
-# Securities

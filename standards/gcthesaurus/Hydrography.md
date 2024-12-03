@@ -1,15 +1,10 @@
 ---
 title: Hydrography
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hydrography
+longTitle: 'Hydrography'
+tags:
+- gccommon
 narrowerTerm:
-- "[[10376 Hydrology]]"
+- "[[Hydrology]]"
 relatedTerm:
-- "[[20260 Topography]]"
-- "[[14863 Oceanography]]"
-- "[[8955 Geography]]"
-- "[[2827 Cartography]]"
+- "[[Topography Oceanography Geography Cartography]]"
 ---
-# Hydrography

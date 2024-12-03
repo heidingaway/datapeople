@@ -1,10 +1,8 @@
 ---
 title: Comportement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Comportement
+longTitle: 'Comportement'
+tags:
+- gccommon
 french:
-- "[[1931 Behaviour]]"
+- "[[Behaviour]]"
 ---
-# Comportement

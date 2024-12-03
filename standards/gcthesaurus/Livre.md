@@ -1,10 +1,8 @@
 ---
 title: Livre
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Livre
+longTitle: 'Livre'
+tags:
+- gccommon
 french:
-- "[[2331 Books]]"
+- "[[Books]]"
 ---
-# Livre

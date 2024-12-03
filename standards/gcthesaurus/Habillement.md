@@ -1,10 +1,8 @@
 ---
 title: Habillement
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Habillement
+longTitle: 'Habillement'
+tags:
+- gccommon
 french:
-- "[[3377 Clothing]]"
+- "[[Clothing]]"
 ---
-# Habillement

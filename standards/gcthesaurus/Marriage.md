@@ -1,16 +1,10 @@
 ---
 title: Marriage
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Marriage
+longTitle: 'Marriage'
+tags:
+- gccommon
 relatedTerm:
-- "[[5477 Divorce]]"
-- "[[13029 Marital status]]"
-- "[[4368 Couples]]"
-- "[[7388 Family law]]"
-- "[[3645 Common-law unions]]"
+- "[[Divorce Marital status Couples Family law Common-l]]"
 use:
-- "[[21648 Weddings]]"
+- "[[Weddings]]"
 ---
-# Marriage

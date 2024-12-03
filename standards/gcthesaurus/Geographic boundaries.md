@@ -1,10 +1,8 @@
 ---
 title: Geographic boundaries
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Geographic boundaries
+longTitle: 'Geographic boundaries'
+tags:
+- gccommon
 usedFor:
-- "[[2381 Boundaries]]"
+- "[[Boundaries]]"
 ---
-# Geographic boundaries

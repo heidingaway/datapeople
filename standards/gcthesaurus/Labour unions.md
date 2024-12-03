@@ -1,19 +1,12 @@
 ---
 title: Labour unions
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Labour unions
+longTitle: 'Labour unions'
+tags:
+- gccommon
 narrowerTerm:
-- "[[1605 Associations]]"
+- "[[Associations]]"
 relatedTerm:
-- "[[11948 Labour relations]]"
-- "[[11960 Labour union training]]"
+- "[[Labour relations Labour union training]]"
 use:
-- "[[20787 Unions]]"
-- "[[11818 Labor organizations]]"
-- "[[20446 Trade unions]]"
-- "[[11826 Labor unions]]"
-- "[[11929 Labour organizations]]"
+- "[[Unions Labor organizations Trade unions Labor unio]]"
 ---
-# Labour unions

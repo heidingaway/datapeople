@@ -1,10 +1,8 @@
 ---
 title: Minorite linguistique
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Minorité linguistique
+longTitle: 'Minorité linguistique'
+tags:
+- gccommon
 french:
-- "[[12083 Language minorities]]"
+- "[[Language minorities]]"
 ---
-# Minorite linguistique

@@ -1,10 +1,8 @@
 ---
 title: Welfare state
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Welfare state
+longTitle: 'Welfare state'
+tags:
+- gccommon
 usedFor:
-- "[[18949 Social policy]]"
+- "[[Social policy]]"
 ---
-# Welfare state

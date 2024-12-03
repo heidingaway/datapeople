@@ -1,10 +1,8 @@
 ---
 title: Langue etrangere
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Langue étrangère
+longTitle: 'Langue étrangère'
+tags:
+- gccommon
 french:
-- "[[8241 Foreign languages]]"
+- "[[Foreign languages]]"
 ---
-# Langue etrangere

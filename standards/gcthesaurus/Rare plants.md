@@ -1,10 +1,8 @@
 ---
 title: Rare plants
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Rare plants
+longTitle: 'Rare plants'
+tags:
+- gccommon
 usedFor:
-- "[[6609 Endangered species]]"
+- "[[Endangered species]]"
 ---
-# Rare plants

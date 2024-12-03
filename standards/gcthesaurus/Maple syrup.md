@@ -1,10 +1,8 @@
 ---
 title: Maple syrup
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Maple syrup
+longTitle: 'Maple syrup'
+tags:
+- gccommon
 usedFor:
-- "[[12876 Maple products]]"
+- "[[Maple products]]"
 ---
-# Maple syrup

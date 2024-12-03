@@ -1,20 +1,12 @@
 ---
 title: Food processing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Food processing
+longTitle: 'Food processing'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16450 Processing]]"
+- "[[Processing]]"
 relatedTerm:
-- "[[8115 Food inspection]]"
-- "[[8120 Food irradiation]]"
-- "[[8086 Food]]"
-- "[[426 Agri-food industry]]"
+- "[[Food inspection Food irradiation Food Agri-food in]]"
 use:
-- "[[8141 Food preparation]]"
-- "[[16445 Processed food products]]"
-- "[[8095 Food additives]]"
-- "[[8190 Food technology]]"
+- "[[Food preparation Processed food products Food addi]]"
 ---
-# Food processing

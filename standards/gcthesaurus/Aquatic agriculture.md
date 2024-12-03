@@ -1,10 +1,8 @@
 ---
 title: Aquatic agriculture
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Aquatic agriculture
+longTitle: 'Aquatic agriculture'
+tags:
+- gccommon
 usedFor:
-- "[[1240 Aquaculture]]"
+- "[[Aquaculture]]"
 ---
-# Aquatic agriculture

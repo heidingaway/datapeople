@@ -1,10 +1,8 @@
 ---
 title: Local markets
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Local markets
+longTitle: 'Local markets'
+tags:
+- gccommon
 usedFor:
-- "[[5508 Domestic markets]]"
+- "[[Domestic markets]]"
 ---
-# Local markets

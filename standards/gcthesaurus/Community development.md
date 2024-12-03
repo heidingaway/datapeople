@@ -1,17 +1,10 @@
 ---
 title: Community development
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Community development
+longTitle: 'Community development'
+tags:
+- gccommon
 narrowerTerm:
-- "[[18890 Social development]]"
+- "[[Social development]]"
 relatedTerm:
-- "[[3699 Community education]]"
-- "[[3712 Community partnerships]]"
-- "[[3724 Community radio]]"
-- "[[3728 Community relations]]"
-- "[[3703 Community infrastructures]]"
-- "[[3718 Community programs]]"
+- "[[Community education Community partnerships Communi]]"
 ---
-# Community development

@@ -1,13 +1,10 @@
 ---
 title: Taxation regulations
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Taxation regulations
+longTitle: 'Taxation regulations'
+tags:
+- gccommon
 narrowerTerm:
-- "[[17471 Regulations]]"
+- "[[Regulations]]"
 relatedTerm:
-- "[[19785 Taxes]]"
-- "[[7866 Fiscal policy]]"
+- "[[Taxes Fiscal policy]]"
 ---
-# Taxation regulations

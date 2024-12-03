@@ -1,10 +1,8 @@
 ---
 title: Broadband communications
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Broadband communications
+longTitle: 'Broadband communications'
+tags:
+- gccommon
 usedFor:
-- "[[19906 Telecommunications]]"
+- "[[Telecommunications]]"
 ---
-# Broadband communications

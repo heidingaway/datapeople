@@ -1,21 +1,12 @@
 ---
 title: Drug addiction
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Drug addiction
+longTitle: 'Drug addiction'
+tags:
+- gccommon
 narrowerTerm:
-- "[[214 Addiction]]"
+- "[[Addiction]]"
 relatedTerm:
-- "[[13486 Methadone]]"
-- "[[5634 Drug education]]"
-- "[[5684 Drug use]]"
-- "[[14160 Narcotics]]"
-- "[[5702 Drugs]]"
+- "[[Methadone Drug education Drug use Narcotics Drugs]]"
 use:
-- "[[14140 Narcotic addiction]]"
-- "[[5608 Drug abuse]]"
-- "[[5628 Drug dependency]]"
-- "[[19518 Substance abuse]]"
+- "[[Narcotic addiction Drug abuse Drug dependency Subs]]"
 ---
-# Drug addiction

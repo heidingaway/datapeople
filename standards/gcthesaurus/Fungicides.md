@@ -1,12 +1,10 @@
 ---
 title: Fungicides
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Fungicides
+longTitle: 'Fungicides'
+tags:
+- gccommon
 narrowerTerm:
-- "[[15622 Pesticides]]"
+- "[[Pesticides]]"
 relatedTerm:
-- "[[8655 Fungi]]"
+- "[[Fungi]]"
 ---
-# Fungicides

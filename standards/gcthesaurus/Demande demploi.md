@@ -1,10 +1,8 @@
 ---
 title: Demande demploi
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Demande d'emploi
+longTitle: 'Demande d'emploi'
+tags:
+- gccommon
 french:
-- "[[11649 Job applications]]"
+- "[[Job applications]]"
 ---
-# Demande demploi

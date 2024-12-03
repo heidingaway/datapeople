@@ -1,10 +1,8 @@
 ---
 title: The formal certificate given by a court that decla
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: The formal certificate given by a court that declares that a will has been proven, validated and registered and which, from that point on, gives the executor the legal authority to execute the will.
+longTitle: 'The formal certificate given by a court that declares that a will has been proven, validated and registered and which, from that point on, gives the executor the legal authority to execute the will.'
+tags:
+- gccommon
 scopeNote:
-- "[[16433 Probate]]"
+- "[[Probate]]"
 ---
-# The formal certificate given by a court that decla

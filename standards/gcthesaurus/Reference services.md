@@ -1,11 +1,8 @@
 ---
 title: Reference services
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Reference services
+longTitle: 'Reference services'
+tags:
+- gccommon
 relatedTerm:
-- "[[11018 Information requests]]"
-- "[[12391 Libraries]]"
+- "[[Information requests Libraries]]"
 ---
-# Reference services

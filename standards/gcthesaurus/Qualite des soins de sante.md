@@ -1,10 +1,8 @@
 ---
 title: Qualite des soins de sante
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Qualité des soins de santé
+longTitle: 'Qualité des soins de santé'
+tags:
+- gccommon
 french:
-- "[[9653 Health care quality]]"
+- "[[Health care quality]]"
 ---
-# Qualite des soins de sante

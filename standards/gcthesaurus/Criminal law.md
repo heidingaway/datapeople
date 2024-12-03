@@ -1,14 +1,10 @@
 ---
 title: Criminal law
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Criminal law
+longTitle: 'Criminal law'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12152 Law]]"
+- "[[Law]]"
 relatedTerm:
-- "[[4497 Criminal justice]]"
-- "[[4459 Crime]]"
-- "[[4483 Criminal code]]"
+- "[[Criminal justice Crime Criminal code]]"
 ---
-# Criminal law

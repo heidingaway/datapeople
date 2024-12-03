@@ -1,10 +1,8 @@
 ---
 title: Pergelisol
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Pergélisol
+longTitle: 'Pergélisol'
+tags:
+- gccommon
 french:
-- "[[15494 Permafrost]]"
+- "[[Permafrost]]"
 ---
-# Pergelisol

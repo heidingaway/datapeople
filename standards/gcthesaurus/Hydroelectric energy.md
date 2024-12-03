@@ -1,10 +1,8 @@
 ---
 title: Hydroelectric energy
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Hydroelectric energy
+longTitle: 'Hydroelectric energy'
+tags:
+- gccommon
 usedFor:
-- "[[10412 Hydropower]]"
+- "[[Hydropower]]"
 ---
-# Hydroelectric energy

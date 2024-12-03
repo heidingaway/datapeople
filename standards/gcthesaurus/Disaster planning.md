@@ -1,10 +1,8 @@
 ---
 title: Disaster planning
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Disaster planning
+longTitle: 'Disaster planning'
+tags:
+- gccommon
 usedFor:
-- "[[6424 Emergency preparedness]]"
+- "[[Emergency preparedness]]"
 ---
-# Disaster planning

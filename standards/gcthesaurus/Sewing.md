@@ -1,12 +1,10 @@
 ---
 title: Sewing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Sewing
+longTitle: 'Sewing'
+tags:
+- gccommon
 narrowerTerm:
-- "[[4413 Crafts]]"
+- "[[Crafts]]"
 relatedTerm:
-- "[[20139 Textiles]]"
+- "[[Textiles]]"
 ---
-# Sewing

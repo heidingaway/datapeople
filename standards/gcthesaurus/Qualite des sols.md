@@ -1,10 +1,8 @@
 ---
 title: Qualite des sols
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Qualité des sols
+longTitle: 'Qualité des sols'
+tags:
+- gccommon
 french:
-- "[[19101 Soil quality]]"
+- "[[Soil quality]]"
 ---
-# Qualite des sols

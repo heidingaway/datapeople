@@ -1,15 +1,12 @@
 ---
 title: Physical sciences
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Physical sciences
+longTitle: 'Physical sciences'
+tags:
+- gccommon
 broaderTerm:
-- "[[3071 Chemistry]]"
-- "[[15778 Physics]]"
+- "[[Chemistry Physics]]"
 narrowerTerm:
-- "[[14333 Natural sciences]]"
+- "[[Natural sciences]]"
 relatedTerm:
-- "[[18283 Scientists]]"
+- "[[Scientists]]"
 ---
-# Physical sciences

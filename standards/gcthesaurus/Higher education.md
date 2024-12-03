@@ -1,10 +1,8 @@
 ---
 title: Higher education
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Higher education
+longTitle: 'Higher education'
+tags:
+- gccommon
 usedFor:
-- "[[16141 Postsecondary education]]"
+- "[[Postsecondary education]]"
 ---
-# Higher education

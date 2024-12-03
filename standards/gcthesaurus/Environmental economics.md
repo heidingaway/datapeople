@@ -1,15 +1,12 @@
 ---
 title: Environmental economics
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Environmental economics
+longTitle: 'Environmental economics'
+tags:
+- gccommon
 narrowerTerm:
-- "[[5975 Economics]]"
+- "[[Economics]]"
 relatedTerm:
-- "[[6786 Environment]]"
-- "[[7001 Environmental services]]"
+- "[[Environment Environmental services]]"
 use:
-- "[[6847 Environmental economy]]"
+- "[[Environmental economy]]"
 ---
-# Environmental economics

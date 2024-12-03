@@ -1,15 +1,12 @@
 ---
 title: Electronic publishing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Electronic publishing
+longTitle: 'Electronic publishing'
+tags:
+- gccommon
 narrowerTerm:
-- "[[16939 Publishing]]"
+- "[[Publishing]]"
 relatedTerm:
-- "[[6342 Electronic information]]"
-- "[[6302 Electronic documents]]"
+- "[[Electronic information Electronic documents]]"
 use:
-- "[[5164 Desktop publishing]]"
+- "[[Desktop publishing]]"
 ---
-# Electronic publishing

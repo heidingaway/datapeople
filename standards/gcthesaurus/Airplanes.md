@@ -1,12 +1,10 @@
 ---
 title: Airplanes
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Airplanes
+longTitle: 'Airplanes'
+tags:
+- gccommon
 narrowerTerm:
-- "[[713 Aircraft]]"
+- "[[Aircraft]]"
 use:
-- "[[15832 Planes]]"
+- "[[Planes]]"
 ---
-# Airplanes

@@ -1,10 +1,8 @@
 ---
 title: Chicken
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Chicken
+longTitle: 'Chicken'
+tags:
+- gccommon
 usedFor:
-- "[[16157 Poultry]]"
+- "[[Poultry]]"
 ---
-# Chicken

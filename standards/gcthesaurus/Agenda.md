@@ -1,10 +1,8 @@
 ---
 title: Agenda
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Agenda
+longTitle: 'Agenda'
+tags:
+- gccommon
 relatedTerm:
-- "[[13359 Meetings]]"
+- "[[Meetings]]"
 ---
-# Agenda

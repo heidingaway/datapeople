@@ -1,10 +1,8 @@
 ---
 title: Litterature de jeunesse
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Littérature de jeunesse
+longTitle: 'Littérature de jeunesse'
+tags:
+- gccommon
 french:
-- "[[3190 Children's literature]]"
+- "[[Childrens literature]]"
 ---
-# Litterature de jeunesse

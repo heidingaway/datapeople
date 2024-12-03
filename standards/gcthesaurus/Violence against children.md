@@ -1,18 +1,12 @@
 ---
 title: Violence against children
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Violence against children
+longTitle: 'Violence against children'
+tags:
+- gccommon
 narrowerTerm:
-- "[[21031 Violence]]"
+- "[[Violence]]"
 relatedTerm:
-- "[[7409 Family violence]]"
-- "[[3175 Children]]"
+- "[[Family violence Children]]"
 use:
-- "[[1889 Battered children]]"
-- "[[3124 Child neglect]]"
-- "[[71 Abused children]]"
-- "[[3099 Child abuse]]"
+- "[[Battered children Child neglect Abused children Ch]]"
 ---
-# Violence against children

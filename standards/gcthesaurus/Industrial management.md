@@ -1,13 +1,10 @@
 ---
 title: Industrial management
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Industrial management
+longTitle: 'Industrial management'
+tags:
+- gccommon
 narrowerTerm:
-- "[[12758 Management]]"
+- "[[Management]]"
 relatedTerm:
-- "[[10805 Industrial productivity]]"
-- "[[10860 Industry]]"
+- "[[Industrial productivity Industry]]"
 ---
-# Industrial management

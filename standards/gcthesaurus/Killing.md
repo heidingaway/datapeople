@@ -1,10 +1,8 @@
 ---
 title: Killing
-created: 2024-12-02
-modified: 2024-12-02
-tags: TBSMetadata
-alias: Killing
+longTitle: 'Killing'
+tags:
+- gccommon
 usedFor:
-- "[[10052 Homicide]]"
+- "[[Homicide]]"
 ---
-# Killing
