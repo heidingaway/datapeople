@@ -9,5 +9,6 @@ class:
 - "[[Leadership Competencies (Data)]]"
 - "[[Data Talent]]"
 - "[[Upskilling and reskilling]]"
+type: "[[101 Topic]]"
 ---
 # 101.2 Having the right data skills and knowledge

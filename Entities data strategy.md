@@ -1,7 +1,4 @@
----
-tags:
-  - project/dma
----
+
 entities:
 - "[[GC Policy Suite - Digital]]"
 - "[[Executive]]"

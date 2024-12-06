@@ -28,7 +28,7 @@ tags:
 - class [[Course]]
 - class [[CreativeWorkSeason]]
 - class [[402.02 CreativeWorkSeries]]
-- class [[DataCatalog]]
+- class [[402.04 DataCatalog]]
 - class [[402.01 Dataset]]
 - class [[DefinedTermSet]]
 - class [[Diet]]

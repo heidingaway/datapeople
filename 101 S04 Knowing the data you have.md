@@ -13,5 +13,6 @@ signOrSymptom:
 subject: "[[Knowing the data you have]]"
 class:
 - "[[101 R33 Ensuring findability of data]]"
+type: "[[101 Topic]]"
 ---
 # 101 S04 Knowing the data you have

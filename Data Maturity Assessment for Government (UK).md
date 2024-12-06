@@ -6,7 +6,7 @@ tags:
 - project/dma
 author: "[[406.01 Government of the United Kingdom]]"
 url: https://www.gov.uk/government/publications/data-maturity-assessment-for-government-framework/data-maturity-assessment-for-government-framework-html
-component:
+class:
 - "[[101 Row]]"
 - "[[101 Topic]]"
 - "[[101 Theme]]"
