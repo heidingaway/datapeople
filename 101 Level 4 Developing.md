@@ -12,6 +12,7 @@ rating: "[[]]"
 ## Properties
 - type [[101 Data Maturity Level]]
 ## Description
+- [[Line of sight on most data holdings and how they may be used]]
 - Beginning to embed policies and practices across organisation.
 - Non-expert data users have little or no reliance on specialist support.
 - Some external outreach and engagement.

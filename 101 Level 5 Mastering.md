@@ -6,12 +6,12 @@ tags:
   - intangible
   - project/dma
 type: "[[101 Data Maturity Level.md]]"
-rating: "[[]]"
 ---
 # Level 5 Master
 ## Properties
 - type [[101 Data Maturity Level]]
 ## Description
+- [[Proactive curation of current data holdings to identify future needs]]
 - Seen as an exemplar.
 - Consistently proactive.
 - Organisation-wide implementation.

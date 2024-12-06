@@ -7,7 +7,7 @@ tags:
 type: "[[101 Theme.md]]"
 properties:
   - "[[Attitudes toward data]]"
-  - "[[101 S04 Knowing the data you have]]"
+  - "[[Knowing the data you have]]"
   - "[[Data Security]]"
   - "[[Data responsibilities]]"
   - "[[Government Transparency]]"

@@ -14,6 +14,7 @@ rating: "[[]]"
 - Data and analytical literacy valued in leadership roles.
 - Legal and policy requirements are firmly embedded and widely understood.
 - Senior strategic leaders appreciate the importance of data.
+- [[Awareness of critical data holdings]]
 - Staff engagement with data extends beyond IT or administrative roles.
 - Non-expert staff require support from specialist users to work with data.
 - Broad drive and desire to improve data capability.

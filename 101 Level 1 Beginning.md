@@ -17,6 +17,6 @@ rating: "[[]]"
 - Insular approach and siloed working.
 - Organisation does not see data as valuable for its outcomes.
 - Lack of defined responsibility and oversight for data.
-- Very limited knowledge of what data the organisation holds.
+- [[very limited knowledge of data holdings]]
 - Very limited data literacy.
 - Limitations and restrictions by default rather than by design.

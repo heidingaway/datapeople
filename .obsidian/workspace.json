@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Maturity Assessment for Government (UK).md",
+                "file": "Knowing the data you have.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Maturity Assessment for Government (UK)"
+              "title": "Knowing the data you have"
             }
           }
         ]
@@ -227,8 +227,21 @@
   },
   "active": "7d21695bfe06513c",
   "lastOpenFiles": [
-    "101 Data Maturity Level.md",
+    "101 R36 Keeping good metadata.md",
+    "101 R35 Recording the data you hold, and ensuring people can access it.md",
+    "101 R34 Managing disposal of data in the right way.md",
+    "Knowing the data you have.md",
+    "101 S04 Knowing the data you have.md",
+    "101 R33 Ensuring findability of data.md",
     "Data Maturity Assessment for Government (UK).md",
+    "101 T04 Culture.md",
+    "101 Data Maturity Level.md",
+    "101 Level 5 Mastering.md",
+    "101 Level 4 Developing.md",
+    "Line of sight on most data holdings and how they may be used.md",
+    "101 Level 3 Learning.md",
+    "101 Level 2 Emerging.md",
+    "101 Level 1 Beginning.md",
     "standards/gcthesaurus/Information systems.md",
     "404.06 Data and Information.md",
     "402.04 DataCatalog.md",
@@ -239,20 +252,7 @@
     "Index/400 Thing.md",
     "Index/502 Schema Org.md",
     "Index/401.01 FindAction.md",
-    "101 S04 Knowing the data you have.md",
     "101 Topic.md",
-    "101 Theme.md",
-    "101 Row.md",
-    "101 R33 Ensuring findability of data.md",
-    "101 UK Maturity Model Review.md",
-    "Finding Data.md",
-    "101 S01 Engaging with Others.md",
-    "Knowing the data you have.md",
-    "101 R01 Making data available to those who need it.md",
-    "101 S06 Managing and Using Data Ethically.md",
-    "401.04 AchieveAction.md",
-    "101 S02 Having the right data skills and knowledge.md",
-    "101 S03 Having the right systems.md",
     "standards/gcthesaurus/markdown_files",
     "standards/pt",
     "standards/person",

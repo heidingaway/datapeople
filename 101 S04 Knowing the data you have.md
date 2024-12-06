@@ -4,15 +4,13 @@ created: 2024-12-05
 modified: 2024-12-05
 tags:
 - project/dma
-signOrSymptom:
-- "[[very limited knowledge of data holdings]]"
-- "[[limited knowledge of value of data holdings]]"
-- "[[Awareness of critical data holdings]]"
-- "[[Line of sight on most data holdings and how they may be used]]"
-- "[[Proactive curation of current data holdings to identify future needs]]"
 subject: "[[Knowing the data you have]]"
 class:
 - "[[101 R33 Ensuring findability of data]]"
+- "[[101 R34 Managing disposal of data in the right way]]"
+- "[[101 R35 Recording the data you hold, and ensuring people can access it]]"
+- "[[101 R36 Keeping good metadata]]"
 type: "[[101 Topic]]"
 ---
 # 101 S04 Knowing the data you have
+- 

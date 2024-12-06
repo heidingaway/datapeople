@@ -13,7 +13,7 @@ rating: "[[]]"
 
 - Data seen as an IT or administrative responsibility.
 - Use of or access to data is limited to specialist staff.
-- Lack of awareness about the value of data held in the organisation.
+- [[limited knowledge of value of data holdings]]
 - Ownership of and responsibility for data is not well communicated.
 - Disconnect between business leadership and data leadership.
 - Focus is on highest profile processes and outputs only.
