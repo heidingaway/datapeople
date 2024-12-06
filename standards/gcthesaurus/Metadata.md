@@ -1,8 +1,10 @@
 ---
 title: Metadata
-longTitle: 'Metadata'
+longTitle: Metadata
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Metadonnees]]"
+  - "[[Metadonnees]]"
+source: "[[Government of Canada Core Subject Thesaurus]]"
+property: "[[metadata quality]]"
 ---

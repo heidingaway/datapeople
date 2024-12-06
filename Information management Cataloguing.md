@@ -5,4 +5,5 @@ tags:
 - gccommon
 relatedTerm:
 - "[[Metadata]]"
+source: "[[Government of Canada Core Subject Thesaurus]]"
 ---

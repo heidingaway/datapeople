@@ -6,9 +6,9 @@
   "debug": false,
   "globalStyleGroups": [
     {
-      "filter": "class:dangling",
-      "color": "rgb(171, 171, 171)",
-      "shape": "ellipse",
+      "filter": "tags: gcpolicy",
+      "color": "#e60000",
+      "shape": "rectangle",
       "icon": {
         "name": "No icon",
         "path": "",
@@ -16,12 +16,12 @@
       },
       "showInPane": true,
       "show": true,
-      "size": 1
+      "size": 1.675
     },
     {
-      "filter": "class:file -class:image",
-      "color": "rgb(92, 92, 92)",
-      "shape": "ellipse",
+      "filter": "type: \"[[101 Topic]]\"",
+      "color": "#2bab51",
+      "shape": "star",
       "icon": {
         "name": "No icon",
         "path": "",
@@ -29,7 +29,7 @@
       },
       "showInPane": true,
       "show": true,
-      "size": 1
+      "size": 1.99987804878049
     }
   ],
   "globalGraphRibbon": false,
@@ -44,7 +44,16 @@
     "filter": "",
     "height": "100%",
     "hoverEdges": false,
-    "layout": "force-directed",
+    "layout": {
+      "name": "dagre",
+      "animate": true,
+      "animationDuration": 500,
+      "spacingFactor": 0.5,
+      "fit": false,
+      "padding": 30,
+      "nodeDimensionsIncludeLabels": true,
+      "avoidOverlap": true
+    },
     "limit": 10000,
     "mergeEdges": true,
     "mode": "workspace",

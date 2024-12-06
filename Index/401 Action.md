@@ -10,7 +10,7 @@ tags:
 - [[400 Thing]]
 ## Additional Type
 - class [[401.04 AchieveAction]]
-- class [[401 AssessAction]]
+- class [[401.06 AssessAction]]
 - class [[401 ConsumeAction]]
 - class [[401 ControlAction]]
 - class [[401 CreateAction]]
