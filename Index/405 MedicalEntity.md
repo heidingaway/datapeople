@@ -16,7 +16,7 @@ tags:
 - class [[DrugCost]]
 - class [[LifestyleModification]]
 - class [[MedicalCause]]
-- class [[MedicalCondition]]
+- class [[405.01 MedicalCondition]]
 - class [[MedicalContraindication]]
 - class [[MedicalDevice]]
 - class [[MedicalGuideline]]

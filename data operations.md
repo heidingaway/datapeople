@@ -9,7 +9,7 @@ tags:
 [[Organizational Mandate]]
 [[data and analytics platform]]
 [[Central data repository]]
-[[101 T04 DataCatalog]]
+[[DataCatalog]]
 [[data and information sharing]]
 [[Data stewardship]]
 [[Data Acquisition]]

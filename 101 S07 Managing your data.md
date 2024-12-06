@@ -1,7 +1,7 @@
 ---
-title: 101 Managing your data
+title: 101 S07 Managing your data
 created: 2024-11-08
-modified: 2024-11-28
+modified: 2024-12-05
 tags:
   - project/dma
 ---
@@ -12,4 +12,4 @@ tags:
 - [[Data Collection]]
 - [[Information and Data Governance]]
 - [[Data pipelines]]
-- [[101 T04 Disposing of Data]]
+- [[Disposing of Data]]

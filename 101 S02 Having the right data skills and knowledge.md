@@ -1,7 +1,7 @@
 ---
-title: 101 Having the right data skills and knowledge
+title: 101 S02 Having the right data skills and knowledge
 created: 2024-11-08
-modified: 2024-11-28
+modified: 2024-12-05
 tags:
   - project/dma
 class:

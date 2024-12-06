@@ -6,11 +6,11 @@ tags:
   - project/dma
 type: "[[101 Theme.md]]"
 properties:
-- "[[Attitudes toward data]]"
-- "[[Data Awareness]]"
-- "[[Data Security]]"
-- "[[Data responsibilities]]"
-- "[[Government Transparency]]"
+  - "[[Attitudes toward data]]"
+  - "[[101 S04 Knowing the data you have]]"
+  - "[[Data Security]]"
+  - "[[Data responsibilities]]"
+  - "[[Government Transparency]]"
 ---
 # 101 T04 Culture
 

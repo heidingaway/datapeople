@@ -1,11 +1,11 @@
 ---
-title: 101.3 Having the right systems
+title: 101 S03 Having the right systems
 created: 2024-11-08
-modified: 2024-11-08
-tags: 
+modified: 2024-12-05
+tags:
 - project/dma
 ---
-# 101.3 Having the right systems
+# Having the right systems
 
 - [[Data storage]]
 - [[Enterprise Architecture]]

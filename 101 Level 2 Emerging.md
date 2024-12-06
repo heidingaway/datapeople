@@ -4,7 +4,7 @@ created: 2024-11-08
 modified: 2024-11-08
 tags:
   - project/dma
-type: "[[101 Data Maturity Level.md]]"
+type: "[[101 Data Maturity Level]]"
 rating: "[[]]"
 ---
 # Level 2 Emerging

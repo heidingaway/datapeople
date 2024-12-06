@@ -9,7 +9,7 @@ tags:
 ## Properties
 - [[400 Thing]]
 ## Additional Type
-- class [[401 AchieveAction]]
+- class [[401.04 AchieveAction]]
 - class [[401 AssessAction]]
 - class [[401 ConsumeAction]]
 - class [[401 ControlAction]]
@@ -17,9 +17,9 @@ tags:
 - class [[401.01 FindAction]]
 - class [[401 InteractAction]]
 - class [[401 MoveAction]]
-- class [[401 OrganizeAction]]
+- class [[401.05 OrganizeAction]]
 - class [[401 PlayAction]]
-- class [[401 SearchAction]]
+- class [[401.03 SearchAction]]
 - class [[401 SeekToAction]]
 - class [[401 SolveMathAction]]
 - class [[401 TradeAction]]

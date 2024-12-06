@@ -4,7 +4,7 @@ created: 2024-11-17
 modified: 2024-11-17
 tags:
   - project/dma
-type: "[[101 Key Concepts]]"
+type: "[[101 Key Concepts and Entities]]"
 related: "[[Data stewardship]]"
 ---
 # Data Ownership

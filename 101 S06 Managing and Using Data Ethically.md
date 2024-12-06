@@ -1,7 +1,7 @@
 ---
-title: 101 Managing and Using Data Ethically
+title: 101 S05 Managing and Using Data Ethically
 created: 2024-11-08
-modified: 2024-11-28
+modified: 2024-12-05
 tags:
   - project/dma
 type: "[[101 Topic]]"

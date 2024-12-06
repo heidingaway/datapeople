@@ -5,7 +5,7 @@ modified: 2024-11-19
 tags:
   - action
   - project/dma
-type: "[[101 Key Concepts]]"
+type: "[[101 Key Concepts and Entities]]"
 rating: "[[]]"
 governedBy:
   - "[[FAIR principles]]"

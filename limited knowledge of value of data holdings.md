@@ -2,9 +2,9 @@
 title: limited knowledge of value of data holdings
 created: 2024-11-28
 modified: 2024-11-28
-type: "[[Data Awareness]]"
 isRated: "[[101 Level 2 Emerging]]"
-tags: 
-- project/dma
+type: "[[405.01 signOrSymptom]]"
+tags:
+  - project/dma
 ---
 # limited knowledge of value of data holdings

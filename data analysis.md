@@ -6,7 +6,7 @@ tags:
   - action
   - project/dma
 rating: "[[]]"
-type: "[[101 Key Concepts.md]]"
+type: "[[101 Key Concepts and Entities]]"
 ---
 # data analysis
 
