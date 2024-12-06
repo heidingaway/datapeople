@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ad4a3e1fa613cd07",
+        "id": "c647684ae15123de",
         "type": "tabs",
         "children": [
           {
-            "id": "e57bdd22a1257919",
+            "id": "0aa96023c785a99f",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
+              "type": "markdown",
+              "state": {
+                "file": "data assets.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Juggl"
+              "title": "data assets"
             }
           }
         ]
@@ -101,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101 Topic.md",
+                "file": "data assets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 101 Topic"
+              "title": "Backlinks for data assets"
             }
           },
           {
@@ -183,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -206,34 +209,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e57bdd22a1257919",
+  "active": "0aa96023c785a99f",
   "lastOpenFiles": [
-    "Index/406.01 GovernmentOrganization.md",
-    "Index/101 GC Data Maturity Assessment.md",
-    "Data Maturity Assessment for Government (UK).md",
-    "406.01 Government of the United Kingdom.md",
-    "101 Topic.md",
-    "101 R36 Keeping good metadata.md",
+    "storage.md",
+    "CDO Work Description Template.md",
+    "404.06 Data.md",
+    "data assets.md",
     "101 S04 Knowing the data you have.md",
+    "Do you have metadata in your data assets.md",
+    "101 R36 Keeping good metadata.md",
+    "101 Level 5 Mastering.md",
+    "101 Level 1 Beginning.md",
+    "Knowing the data you have.md",
+    "Index/406.01 GovernmentOrganization.md",
+    "101 Data Maturity Level.md",
+    "Index/101 GC Data Maturity Assessment.md",
+    "404.06 Data and Information.md",
+    "404.06 Asset.md",
+    "Knowledge.md",
+    "407.02 public servant.md",
+    "Public servants.md",
     "101 R35 Recording the data you hold, and ensuring people can access it.md",
     "101 R34 Managing disposal of data in the right way.md",
     "101 R33 Ensuring findability of data.md",
+    "101 Topic.md",
+    "Data Maturity Assessment for Government (UK).md",
+    "101 UK Maturity Model Review.md",
+    "406.01 Government of the United Kingdom.md",
     "101 S05 Making Decisions with Data.md",
-    "101 S03 Having the right systems.md",
-    "101 S02 Having the right data skills and knowledge.md",
-    "101 S01 Engaging with Others.md",
-    "GC Enterprise Data Reference Standards.md",
-    "Appendix J Standard on Systems that Manage Information and Data.md",
-    "Guidance on Metadata Life Cycle Management.md",
-    "Policy on Service and Digital.md",
-    "Library and Archives of Canada Act.md",
-    "Departmental official.md",
-    "Guidance on Assessing Metadata Needs.md",
-    "Managing Metadata.md",
-    "GC Policy Suite - Digital.md",
-    "standards/gcthesaurus/Metadata.md",
-    "Standard on Metadata (2010 rescinded 2024).md",
-    "404.06 Data and Information.md",
     "standards/gcthesaurus/markdown_files",
     "standards/pt",
     "standards/person",

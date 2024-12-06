@@ -8,7 +8,8 @@ type: "[[100 Project]]"
 reference: "[[Data Maturity Assessment for Government (UK)]]"
 component:
   - "[[101 Key Concepts and Entities]]"
-assess: "[[406.01 GovernmentOrganization]]"
+assess: 
+- "[[101 Data Maturity Level]]"
 ---
 
 # 101 GC Data Maturity Assessment
