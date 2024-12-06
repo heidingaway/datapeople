@@ -3,6 +3,6 @@ title: Breastfeeding
 longTitle: 'Breastfeeding'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Infant nutrition]]"
 ---

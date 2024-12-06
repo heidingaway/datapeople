@@ -3,8 +3,9 @@ title: Refugees
 longTitle: 'Refugees'
 tags:
 - gccommon
-relatedTerm:
-- "[[Immigrants]]"
-use:
-- "[[Political refugees War refugees]]"
+french:
+- "[[Refugie]]"
+usedFor:
+- "[[Political refugees]]"
+- "[[War refugees]]"
 ---

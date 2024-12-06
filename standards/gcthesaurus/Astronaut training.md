@@ -3,8 +3,8 @@ title: Astronaut training
 longTitle: 'Astronaut training'
 tags:
 - gccommon
-relatedTerm:
-- "[[Space exploration Astronauts]]"
-use:
+french:
+- "[[Entrainement des astronautes]]"
+usedFor:
 - "[[Astronaut training program]]"
 ---

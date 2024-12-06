@@ -3,6 +3,6 @@ title: Rural fairs
 longTitle: 'Rural fairs'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Agricultural fairs]]"
 ---

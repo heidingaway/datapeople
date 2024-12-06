@@ -3,10 +3,14 @@ title: Occupational health
 longTitle: 'Occupational health'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Health]]"
+french:
+- "[[Sante au travail]]"
 relatedTerm:
-- "[[Working conditions Occupational safety Workplace p]]"
-use:
-- "[[Industrial hygiene Workplace health Industrial hea]]"
+- "[[Occupational diseases]]"
+usedFor:
+- "[[Industrial health]]"
+- "[[Industrial hygiene]]"
+- "[[Occupational hygiene]]"
+- "[[Worker health]]"
+- "[[Workplace health]]"
 ---

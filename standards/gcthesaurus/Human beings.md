@@ -4,11 +4,15 @@ longTitle: 'Human beings'
 tags:
 - gccommon
 broaderTerm:
-- "[[Women Men]]"
-narrowerTerm:
 - "[[Primates]]"
-relatedTerm:
-- "[[Anthropology Human trafficking]]"
-use:
-- "[[Human species Humans]]"
+french:
+- "[[Etre humain]]"
+narrowerTerm:
+- "[[Men]]"
+- "[[Women]]"
+scopeNote:
+- "Refers to humans as a species"
+usedFor:
+- "[[Human species]]"
+- "[[Humans]]"
 ---

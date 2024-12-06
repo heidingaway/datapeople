@@ -3,10 +3,16 @@ title: Housing
 longTitle: 'Housing'
 tags:
 - gccommon
-broaderTerm:
-- "[[Subsidized housing]]"
+french:
+- "[[Logement]]"
 relatedTerm:
-- "[[Apartment buildings Housing assistance Home renova]]"
-use:
-- "[[Houses Apartments Accommodations Dwellings]]"
+- "[[Apartment buildings]]"
+- "[[Housing assistance]]"
+scopeNote:
+- "Accommodations occupied as a permanent residence l"
+usedFor:
+- "[[Accommodations]]"
+- "[[Apartments]]"
+- "[[Dwellings]]"
+- "[[Houses]]"
 ---

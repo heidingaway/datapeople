@@ -3,6 +3,8 @@ title: Rehabilitation
 longTitle: 'Rehabilitation'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Readaptation]]"
+narrowerTerm:
 - "[[Vocational rehabilitation]]"
 ---

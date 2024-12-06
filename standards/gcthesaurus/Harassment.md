@@ -3,10 +3,12 @@ title: Harassment
 longTitle: 'Harassment'
 tags:
 - gccommon
-broaderTerm:
-- "[[Sexual harassment]]"
+french:
+- "[[Harcelement]]"
 narrowerTerm:
-- "[[Violence]]"
-use:
-- "[[Moral harassment Psychological harassment Criminal]]"
+- "[[Sexual harassment]]"
+usedFor:
+- "[[Criminal harassment]]"
+- "[[Moral harassment]]"
+- "[[Psychological harassment]]"
 ---

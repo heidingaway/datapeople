@@ -5,10 +5,10 @@ tags:
 - gccommon
 french:
 - "[[Ozone]]"
-narrowerTerm:
-- "[[Gases]]"
-relatedTerm:
-- "[[Ozone depletion]]"
-use:
-- "[[Tropospheric ozone Stratospheric ozone Ozone layer]]"
+usedFor:
+- "[[Atmospheric ozone]]"
+- "[[Ground level ozone]]"
+- "[[Ozone layer]]"
+- "[[Stratospheric ozone]]"
+- "[[Tropospheric ozone]]"
 ---

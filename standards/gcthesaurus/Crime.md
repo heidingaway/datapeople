@@ -3,14 +3,19 @@ title: Crime
 longTitle: 'Crime'
 tags:
 - gccommon
-broaderTerm:
-- "[[Human trafficking Fraud Computer crime Economic cr]]"
 french:
 - "[[Crime]]"
 narrowerTerm:
-- "[[Social problems]]"
+- "[[Fugitives from justice]]"
 relatedTerm:
-- "[[Criminal records Inmates Gangs Criminal law Crime ]]"
-use:
-- "[[Burglaries Theft Illegal activities Criminal activ]]"
+- "[[Forensics]]"
+- "[[Proceeds of crime]]"
+- "[[Vandalism]]"
+scopeNote:
+- "Social harm acts or commissions of acts that are f"
+usedFor:
+- "[[Burglaries]]"
+- "[[Criminal activities]]"
+- "[[Illegal activities]]"
+- "[[Theft]]"
 ---

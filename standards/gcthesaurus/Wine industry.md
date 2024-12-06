@@ -3,10 +3,10 @@ title: Wine industry
 longTitle: 'Wine industry'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Beverage industry]]"
-relatedTerm:
-- "[[Wine Viticulture]]"
-use:
+french:
+- "[[Industrie vinicole]]"
+usedFor:
 - "[[Wine sector]]"
 ---

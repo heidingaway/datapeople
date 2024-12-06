@@ -3,8 +3,9 @@ title: Water demand
 longTitle: 'Water demand'
 tags:
 - gccommon
-relatedTerm:
-- "[[Water supply Demand Water Water use]]"
-use:
-- "[[Water needs Water requirements]]"
+french:
+- "[[Besoins en eau]]"
+usedFor:
+- "[[Water needs]]"
+- "[[Water requirements]]"
 ---

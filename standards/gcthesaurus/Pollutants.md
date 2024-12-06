@@ -3,8 +3,12 @@ title: Pollutants
 longTitle: 'Pollutants'
 tags:
 - gccommon
+french:
+- "[[Polluant]]"
 relatedTerm:
-- "[[Contaminated sites Atmospheric emissions Hazardous]]"
-use:
-- "[[Polluting substances Contaminants Air pollutants]]"
+- "[[Contaminated sites]]"
+usedFor:
+- "[[Air pollutants]]"
+- "[[Contaminants]]"
+- "[[Polluting substances]]"
 ---

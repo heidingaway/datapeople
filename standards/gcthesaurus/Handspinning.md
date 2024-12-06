@@ -3,6 +3,6 @@ title: Handspinning
 longTitle: 'Handspinning'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Weaving]]"
 ---

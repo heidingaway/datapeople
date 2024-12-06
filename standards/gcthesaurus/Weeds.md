@@ -3,8 +3,8 @@ title: Weeds
 longTitle: 'Weeds'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Pests Plants]]"
+french:
+- "[[Plante nuisible]]"
 relatedTerm:
 - "[[Herbicides]]"
 ---

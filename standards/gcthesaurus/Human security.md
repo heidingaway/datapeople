@@ -3,10 +3,10 @@ title: Human security
 longTitle: 'Human security'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Security]]"
-relatedTerm:
-- "[[Human rights Humanitarian crisis]]"
-use:
+french:
+- "[[Securite humaine]]"
+scopeNote:
+- "Freedom from pervasive threats to peoples rights s"
+usedFor:
 - "[[Human safety]]"
 ---

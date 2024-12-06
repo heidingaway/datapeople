@@ -3,6 +3,6 @@ title: Metal industry
 longTitle: 'Metal industry'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Metalworking industry]]"
 ---

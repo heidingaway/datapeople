@@ -3,6 +3,6 @@ title: Assets management
 longTitle: 'Assets management'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Property management]]"
 ---

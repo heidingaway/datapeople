@@ -6,5 +6,5 @@ tags:
 french:
 - "[[Qualifications]]"
 relatedTerm:
-- "[[Specifications Eligibility Skills]]"
+- "[[Specifications]]"
 ---

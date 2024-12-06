@@ -3,6 +3,6 @@ title: Language duality
 longTitle: 'Language duality'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Linguistic duality]]"
 ---

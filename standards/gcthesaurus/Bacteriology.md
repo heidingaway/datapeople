@@ -3,8 +3,10 @@ title: Bacteriology
 longTitle: 'Bacteriology'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Microbiology]]"
+french:
+- "[[Bacteriologie]]"
 relatedTerm:
 - "[[Bacteria]]"
 ---

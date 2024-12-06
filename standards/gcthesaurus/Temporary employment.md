@@ -3,8 +3,8 @@ title: Temporary employment
 longTitle: 'Temporary employment'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Employment]]"
+french:
+- "[[Emploi temporaire]]"
 relatedTerm:
 - "[[Seasonal employment]]"
 ---

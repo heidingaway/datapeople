@@ -3,6 +3,6 @@ title: Signage
 longTitle: 'Signage'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Signs]]"
 ---

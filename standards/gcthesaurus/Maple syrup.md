@@ -3,6 +3,6 @@ title: Maple syrup
 longTitle: 'Maple syrup'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Maple products]]"
 ---

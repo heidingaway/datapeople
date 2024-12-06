@@ -3,10 +3,13 @@ title: Herbicides
 longTitle: 'Herbicides'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Pesticides]]"
+french:
+- "[[Herbicide]]"
 relatedTerm:
 - "[[Weeds]]"
-use:
-- "[[Weed killers Phytocides Weedicides Weedkillers]]"
+usedFor:
+- "[[Phytocides]]"
+- "[[Weed killers]]"
+- "[[Weedicides]]"
+- "[[Weedkillers]]"
 ---

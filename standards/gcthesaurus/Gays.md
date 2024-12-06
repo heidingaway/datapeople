@@ -3,6 +3,6 @@ title: Gays
 longTitle: 'Gays'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Gay people]]"
 ---

@@ -3,10 +3,11 @@ title: Gay people
 longTitle: 'Gay people'
 tags:
 - gccommon
-broaderTerm:
-- "[[Gay men Lesbians]]"
+french:
+- "[[Personne gaie]]"
 narrowerTerm:
-- "[[2SLGBTQI people]]"
-use:
+- "[[Gay men]]"
+- "[[Lesbians]]"
+usedFor:
 - "[[Gays]]"
 ---

@@ -3,8 +3,8 @@ title: Aerial photography
 longTitle: 'Aerial photography'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Photography]]"
-relatedTerm:
-- "[[Remote sensing]]"
+french:
+- "[[Photographie aerienne]]"
 ---

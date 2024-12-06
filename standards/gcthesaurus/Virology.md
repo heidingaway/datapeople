@@ -3,6 +3,6 @@ title: Virology
 longTitle: 'Virology'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Microbiology]]"
 ---

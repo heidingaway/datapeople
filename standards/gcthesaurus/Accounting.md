@@ -3,12 +3,12 @@ title: Accounting
 longTitle: 'Accounting'
 tags:
 - gccommon
-broaderTerm:
-- "[[Accounting standards]]"
+french:
+- "[[Comptabilite]]"
 narrowerTerm:
-- "[[Business services]]"
+- "[[Accounting standards]]"
 relatedTerm:
-- "[[Financial audit Comptrollership Supplementary esti]]"
-use:
+- "[[Financial audit]]"
+usedFor:
 - "[[Bookkeeping]]"
 ---

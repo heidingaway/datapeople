@@ -3,8 +3,8 @@ title: Satellite imagery
 longTitle: 'Satellite imagery'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Remote sensing]]"
+french:
+- "[[Imagerie satellite]]"
 relatedTerm:
 - "[[Satellite images]]"
 ---

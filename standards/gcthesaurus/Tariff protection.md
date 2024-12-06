@@ -3,6 +3,6 @@ title: Tariff protection
 longTitle: 'Tariff protection'
 tags:
 - gccommon
-relatedTerm:
-- "[[Trade policy Tariffs]]"
+french:
+- "[[Protection des tarifs douaniers]]"
 ---

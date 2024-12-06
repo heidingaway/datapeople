@@ -6,5 +6,3 @@ tags:
 - thing
 ---
 # 400 Thing
-## Properties
-- type [[000 Index]]

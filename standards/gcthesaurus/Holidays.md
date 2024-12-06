@@ -3,6 +3,8 @@ title: Holidays
 longTitle: 'Holidays'
 tags:
 - gccommon
+french:
+- "[[Jour ferie]]"
 relatedTerm:
-- "[[Leave of absence Working conditions Commemoration ]]"
+- "[[Commemoration]]"
 ---

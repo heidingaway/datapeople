@@ -3,12 +3,10 @@ title: Trade agreements
 longTitle: 'Trade agreements'
 tags:
 - gccommon
-broaderTerm:
-- "[[Free trade agreements]]"
+french:
+- "[[Accord commercial]]"
 narrowerTerm:
-- "[[Agreements]]"
-relatedTerm:
-- "[[Trade policy Trade Trade negotiations Commercial l]]"
-use:
+- "[[Free trade agreements]]"
+usedFor:
 - "[[Commercial treaties]]"
 ---

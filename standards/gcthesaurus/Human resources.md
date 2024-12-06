@@ -3,8 +3,11 @@ title: Human resources
 longTitle: 'Human resources'
 tags:
 - gccommon
+french:
+- "[[Ressources humaines]]"
 relatedTerm:
-- "[[Personnel management Intellectual capital Chief Hu]]"
-use:
-- "[[Personnel Staff]]"
+- "[[Chief Human Resources Officer]]"
+usedFor:
+- "[[Personnel]]"
+- "[[Staff]]"
 ---

@@ -3,8 +3,8 @@ title: Railway safety
 longTitle: 'Railway safety'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Transportation safety]]"
+french:
+- "[[Securite ferroviaire]]"
 relatedTerm:
-- "[[Rail transport Railway accidents]]"
+- "[[Railway accidents]]"
 ---

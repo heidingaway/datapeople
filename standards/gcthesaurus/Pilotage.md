@@ -5,8 +5,9 @@ tags:
 - gccommon
 french:
 - "[[Pilotage]]"
-relatedTerm:
-- "[[Navigation]]"
-use:
-- "[[Ship piloting Marine pilotage]]"
+scopeNote:
+- "Conducting and handling a ship"
+usedFor:
+- "[[Marine pilotage]]"
+- "[[Ship piloting]]"
 ---

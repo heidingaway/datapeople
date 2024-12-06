@@ -3,8 +3,9 @@ title: Prescription drugs
 longTitle: 'Prescription drugs'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Drugs]]"
-use:
-- "[[Prescription medications Prescription medicines]]"
+french:
+- "[[Medicament dordonnance]]"
+usedFor:
+- "[[Prescription medications]]"
+- "[[Prescription medicines]]"
 ---

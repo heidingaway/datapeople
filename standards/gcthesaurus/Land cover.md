@@ -3,6 +3,6 @@ title: Land cover
 longTitle: 'Land cover'
 tags:
 - gccommon
-relatedTerm:
-- "[[Land management]]"
+french:
+- "[[Couverture du sol]]"
 ---

@@ -3,10 +3,13 @@ title: Geographic information systems
 longTitle: 'Geographic information systems'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Information systems]]"
+french:
+- "[[Systeme dinformation geographique]]"
 relatedTerm:
-- "[[Geomatics Geographic data Cartography]]"
-use:
-- "[[Spatial information systems Geospatial information]]"
+- "[[Geomatics]]"
+usedFor:
+- "[[GIS]]"
+- "[[Geographical information systems]]"
+- "[[Geospatial information systems]]"
+- "[[Spatial information systems]]"
 ---

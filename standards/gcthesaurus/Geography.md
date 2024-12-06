@@ -3,10 +3,12 @@ title: Geography
 longTitle: 'Geography'
 tags:
 - gccommon
-broaderTerm:
-- "[[Geomatics Geomorphology]]"
+french:
+- "[[Geographie]]"
 narrowerTerm:
-- "[[Earth sciences]]"
+- "[[Geomatics]]"
 relatedTerm:
-- "[[Global navigation satellite systems Hydrography Ge]]"
+- "[[Geographical maps]]"
+scopeNote:
+- "The study of geography"
 ---

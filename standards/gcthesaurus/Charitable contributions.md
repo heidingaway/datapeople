@@ -3,6 +3,6 @@ title: Charitable contributions
 longTitle: 'Charitable contributions'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Charitable donations]]"
 ---

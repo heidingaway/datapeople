@@ -3,6 +3,6 @@ title: Airport administrations
 longTitle: 'Airport administrations'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Airport authorities]]"
 ---

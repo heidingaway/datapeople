@@ -3,10 +3,12 @@ title: Storms
 longTitle: 'Storms'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Natural disasters]]"
-relatedTerm:
-- "[[Wind Weather]]"
-use:
-- "[[Gales Tornadoes Hurricanes Cyclones Tempests]]"
+french:
+- "[[Tempete]]"
+usedFor:
+- "[[Cyclones]]"
+- "[[Gales]]"
+- "[[Hurricanes]]"
+- "[[Tempests]]"
+- "[[Tornadoes]]"
 ---

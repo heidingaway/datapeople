@@ -3,10 +3,20 @@ title: Equipment
 longTitle: 'Equipment'
 tags:
 - gccommon
-broaderTerm:
-- "[[Household equipment Safety equipment Office equipm]]"
+french:
+- "[[Equipement]]"
+narrowerTerm:
+- "[[Audiovisual equipment]]"
+- "[[Electrical equipment]]"
+- "[[Electronic equipment]]"
+- "[[Household equipment]]"
+- "[[Office equipment]]"
+- "[[Refrigeration equipment]]"
+- "[[Safety equipment]]"
+- "[[Scientific equipment]]"
 relatedTerm:
-- "[[Technology Tooling Equipment industry]]"
-use:
+- "[[Equipment industry]]"
+- "[[Tooling]]"
+usedFor:
 - "[[Machinery]]"
 ---

@@ -3,6 +3,6 @@ title: Handicrafts
 longTitle: 'Handicrafts'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Crafts]]"
 ---

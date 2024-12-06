@@ -3,8 +3,8 @@ title: Freshwater fish
 longTitle: 'Freshwater fish'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Fish]]"
-use:
+french:
+- "[[Poisson deau douce]]"
+usedFor:
 - "[[Trout]]"
 ---

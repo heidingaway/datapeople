@@ -3,8 +3,9 @@ title: Committees
 longTitle: 'Committees'
 tags:
 - gccommon
-broaderTerm:
-- "[[Parliamentary committees Advisory committees]]"
-relatedTerm:
-- "[[Terms of reference Briefing papers]]"
+french:
+- "[[Comite]]"
+narrowerTerm:
+- "[[Advisory committees]]"
+- "[[Parliamentary committees]]"
 ---

@@ -3,10 +3,13 @@ title: Business development
 longTitle: 'Business development'
 tags:
 - gccommon
-broaderTerm:
-- "[[International business development Acquisitions Bu]]"
+french:
+- "[[Developpement de lentreprise]]"
+narrowerTerm:
+- "[[Acquisitions Businesses]]"
+- "[[International business development]]"
 relatedTerm:
-- "[[Business accelerators Economic development Busines]]"
-use:
+- "[[Business accelerators]]"
+usedFor:
 - "[[Business growth]]"
 ---

@@ -3,6 +3,6 @@ title: Cigarettes
 longTitle: 'Cigarettes'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Tobacco industry]]"
 ---

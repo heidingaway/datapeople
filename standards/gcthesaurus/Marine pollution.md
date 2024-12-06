@@ -3,6 +3,6 @@ title: Marine pollution
 longTitle: 'Marine pollution'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Water pollution]]"
 ---

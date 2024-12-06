@@ -3,8 +3,13 @@ title: Health care
 longTitle: 'Health care'
 tags:
 - gccommon
+french:
+- "[[Soins de sante]]"
 relatedTerm:
-- "[[Telehealth Medicine Health care quality Caregivers]]"
-use:
-- "[[Psychiatric care Nursing Medical care Home care]]"
+- "[[Health care quality]]"
+usedFor:
+- "[[Home care]]"
+- "[[Medical care]]"
+- "[[Nursing]]"
+- "[[Psychiatric care]]"
 ---

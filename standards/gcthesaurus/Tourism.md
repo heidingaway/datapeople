@@ -3,8 +3,12 @@ title: Tourism
 longTitle: 'Tourism'
 tags:
 - gccommon
+french:
+- "[[Tourisme]]"
 relatedTerm:
-- "[[Tourism facilities Cruise ships International trav]]"
-use:
-- "[[Tourism industry Tourist trade Ecotourism]]"
+- "[[Cruise ships]]"
+usedFor:
+- "[[Ecotourism]]"
+- "[[Tourism industry]]"
+- "[[Tourist trade]]"
 ---

@@ -3,10 +3,10 @@ title: Regional development
 longTitle: 'Regional development'
 tags:
 - gccommon
-broaderTerm:
-- "[[Northern development]]"
+french:
+- "[[Developpement regional]]"
 narrowerTerm:
-- "[[Development]]"
+- "[[Northern development]]"
 relatedTerm:
-- "[[Regional cooperation Rural development]]"
+- "[[Regional cooperation]]"
 ---

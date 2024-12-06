@@ -3,6 +3,6 @@ title: Bargaining
 longTitle: 'Bargaining'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Negotiations]]"
 ---

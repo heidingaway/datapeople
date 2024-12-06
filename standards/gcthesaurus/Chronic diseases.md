@@ -3,12 +3,13 @@ title: Chronic diseases
 longTitle: 'Chronic diseases'
 tags:
 - gccommon
-broaderTerm:
-- "[[Diabetes]]"
+french:
+- "[[Maladie chronique]]"
 narrowerTerm:
-- "[[Diseases]]"
+- "[[Diabetes]]"
 relatedTerm:
 - "[[Allergies]]"
-use:
-- "[[Chronic health problems Chronic illness]]"
+usedFor:
+- "[[Chronic health problems]]"
+- "[[Chronic illness]]"
 ---

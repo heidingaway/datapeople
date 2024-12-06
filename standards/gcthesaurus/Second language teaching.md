@@ -3,6 +3,6 @@ title: Second language teaching
 longTitle: 'Second language teaching'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Second language education]]"
 ---

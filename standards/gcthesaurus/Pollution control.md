@@ -3,8 +3,11 @@ title: Pollution control
 longTitle: 'Pollution control'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Control]]"
+french:
+- "[[Lutte contre la pollution]]"
 relatedTerm:
-- "[[Emission control technology Environmental protecti]]"
+- "[[Decontamination]]"
+- "[[Emission control technology]]"
+scopeNote:
+- "Refers to measures aiming to reduce the risks pose"
 ---

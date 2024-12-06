@@ -3,6 +3,6 @@ title: Mining equipment
 longTitle: 'Mining equipment'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Mining technology]]"
 ---

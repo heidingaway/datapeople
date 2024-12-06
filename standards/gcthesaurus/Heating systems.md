@@ -3,6 +3,6 @@ title: Heating systems
 longTitle: 'Heating systems'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Heating]]"
 ---

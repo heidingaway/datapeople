@@ -3,8 +3,10 @@ title: Death
 longTitle: 'Death'
 tags:
 - gccommon
+french:
+- "[[Mort]]"
 relatedTerm:
-- "[[Birth Euthanasia Death certificates Suicide Death ]]"
-use:
+- "[[Death certificates]]"
+usedFor:
 - "[[Mortality]]"
 ---

@@ -3,6 +3,6 @@ title: Museology
 longTitle: 'Museology'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Museums]]"
 ---

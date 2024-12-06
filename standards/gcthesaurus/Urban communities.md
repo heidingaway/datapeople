@@ -3,8 +3,11 @@ title: Urban communities
 longTitle: 'Urban communities'
 tags:
 - gccommon
+french:
+- "[[Communaute urbaine]]"
 relatedTerm:
-- "[[Rural communities Urban development Urban environm]]"
-use:
-- "[[Towns Cities]]"
+- "[[Urban development]]"
+usedFor:
+- "[[Cities]]"
+- "[[Towns]]"
 ---

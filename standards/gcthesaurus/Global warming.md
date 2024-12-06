@@ -3,8 +3,10 @@ title: Global warming
 longTitle: 'Global warming'
 tags:
 - gccommon
-relatedTerm:
-- "[[Environmental impact Air temperature Greenhouse ef]]"
-use:
-- "[[Climatic warming Global temperature change Climate]]"
+french:
+- "[[Rechauffement de la planete]]"
+usedFor:
+- "[[Climate warming]]"
+- "[[Climatic warming]]"
+- "[[Global temperature change]]"
 ---

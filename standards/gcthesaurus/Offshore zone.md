@@ -3,6 +3,6 @@ title: Offshore zone
 longTitle: 'Offshore zone'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Offshore area]]"
 ---

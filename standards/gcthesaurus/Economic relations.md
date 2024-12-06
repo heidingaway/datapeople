@@ -3,6 +3,6 @@ title: Economic relations
 longTitle: 'Economic relations'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Trade relations]]"
 ---

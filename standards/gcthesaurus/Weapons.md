@@ -3,10 +3,22 @@ title: Weapons
 longTitle: 'Weapons'
 tags:
 - gccommon
-broaderTerm:
-- "[[Chemical weapons Firearms Biological weapons Nucle]]"
+french:
+- "[[Arme]]"
+narrowerTerm:
+- "[[Biological weapons]]"
+- "[[Chemical weapons]]"
+- "[[Firearms]]"
+- "[[Landmines]]"
+- "[[Nuclear weapons]]"
 relatedTerm:
-- "[[Arms control Explosives Military technology Armour]]"
-use:
-- "[[Bladed weapons Offensive weapons Conventional weap]]"
+- "[[Armouries]]"
+usedFor:
+- "[[Armaments]]"
+- "[[Arms Weapons]]"
+- "[[Bladed weapons]]"
+- "[[Conventional arms]]"
+- "[[Conventional weapons]]"
+- "[[Offensive weapons]]"
+- "[[Weaponry]]"
 ---

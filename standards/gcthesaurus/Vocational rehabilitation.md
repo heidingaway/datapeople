@@ -3,10 +3,11 @@ title: Vocational rehabilitation
 longTitle: 'Vocational rehabilitation'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Rehabilitation]]"
-relatedTerm:
-- "[[Retraining]]"
-use:
-- "[[Occupational rehabilitation Employment rehabilitat]]"
+french:
+- "[[Readaptation professionnelle]]"
+usedFor:
+- "[[Employment rehabilitation]]"
+- "[[Occupational rehabilitation]]"
 ---

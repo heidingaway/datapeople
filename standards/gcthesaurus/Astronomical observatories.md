@@ -3,8 +3,8 @@ title: Astronomical observatories
 longTitle: 'Astronomical observatories'
 tags:
 - gccommon
-relatedTerm:
-- "[[Planetariums Astronomy]]"
-use:
+french:
+- "[[Observatoire]]"
+usedFor:
 - "[[Observatories]]"
 ---

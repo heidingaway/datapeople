@@ -3,10 +3,12 @@ title: Food labelling
 longTitle: 'Food labelling'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Labelling]]"
-relatedTerm:
-- "[[Food safety Food]]"
-use:
-- "[[Nutritional labelling Food labeling Nutrition labe]]"
+french:
+- "[[Etiquetage des aliments]]"
+usedFor:
+- "[[Food labeling]]"
+- "[[Nutrition labeling]]"
+- "[[Nutrition labelling]]"
+- "[[Nutritional labeling]]"
+- "[[Nutritional labelling]]"
 ---

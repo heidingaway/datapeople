@@ -3,10 +3,20 @@ title: Water transport
 longTitle: 'Water transport'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Transport]]"
+french:
+- "[[Transport maritime]]"
 relatedTerm:
-- "[[Maritime law Ships Water transport industry Naviga]]"
-use:
-- "[[Maritime traffic Ocean transport Ocean transportat]]"
+- "[[Marine installations]]"
+usedFor:
+- "[[Marine shipping]]"
+- "[[Marine traffic]]"
+- "[[Marine transport]]"
+- "[[Marine transportation]]"
+- "[[Maritime traffic]]"
+- "[[Ocean transport]]"
+- "[[Ocean transportation]]"
+- "[[Sea traffic]]"
+- "[[Sea transport]]"
+- "[[Sea transportation]]"
+- "[[Water transportation]]"
 ---

@@ -3,10 +3,8 @@ title: Petrology
 longTitle: 'Petrology'
 tags:
 - gccommon
-broaderTerm:
-- "[[Sedimentology]]"
-narrowerTerm:
-- "[[Geology]]"
-use:
+french:
+- "[[Petrologie]]"
+usedFor:
 - "[[Petrography]]"
 ---

@@ -3,8 +3,8 @@ title: Bridges
 longTitle: 'Bridges'
 tags:
 - gccommon
-relatedTerm:
-- "[[Road transport Road networks]]"
-use:
+french:
+- "[[Pont]]"
+usedFor:
 - "[[Covered bridges]]"
 ---

@@ -3,6 +3,6 @@ title: Docks
 longTitle: 'Docks'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Wharfs]]"
 ---

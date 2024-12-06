@@ -3,6 +3,6 @@ title: Labor code
 longTitle: 'Labor code'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Labour code]]"
 ---

@@ -3,6 +3,6 @@ title: Jobs
 longTitle: 'Jobs'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Employment]]"
 ---

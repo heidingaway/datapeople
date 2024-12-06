@@ -3,8 +3,8 @@ title: Coast guard
 longTitle: 'Coast guard'
 tags:
 - gccommon
-relatedTerm:
-- "[[Coastal waters]]"
-use:
+french:
+- "[[Garde cotiere]]"
+usedFor:
 - "[[Coastguard]]"
 ---

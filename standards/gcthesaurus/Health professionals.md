@@ -3,8 +3,12 @@ title: Health professionals
 longTitle: 'Health professionals'
 tags:
 - gccommon
-relatedTerm:
-- "[[Caregivers Health care system Health Health scienc]]"
-use:
-- "[[Health personnel Health care personnel Medical per]]"
+french:
+- "[[Professionnel de la sante]]"
+usedFor:
+- "[[Health care personnel]]"
+- "[[Health care professionals]]"
+- "[[Health personnel]]"
+- "[[Medical personnel]]"
+- "[[Medical professionals]]"
 ---

@@ -3,8 +3,12 @@ title: Aircraft anti-icing
 longTitle: 'Aircraft anti-icing'
 tags:
 - gccommon
-relatedTerm:
-- "[[Ice Aircraft de-icing Safety measures Aircraft]]"
-use:
-- "[[Anti-icing of aircraft Wing anti-icing Airplane an]]"
+french:
+- "[[Antigivrage des aeronefs]]"
+scopeNote:
+- "Procedure to prevent the formation of frost or ice"
+usedFor:
+- "[[Airplane anti-icing]]"
+- "[[Anti-icing of aircraft]]"
+- "[[Wing anti-icing]]"
 ---

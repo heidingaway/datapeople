@@ -3,8 +3,13 @@ title: Humidity
 longTitle: 'Humidity'
 tags:
 - gccommon
-relatedTerm:
-- "[[Weather]]"
-use:
-- "[[Atmospheric humidity Relative humidity Air humidit]]"
+french:
+- "[[Humidite]]"
+scopeNote:
+- "Refers to the amount of water vapor in the atmosph"
+usedFor:
+- "[[Air humidity]]"
+- "[[Atmospheric humidity]]"
+- "[[Atmospheric moisture]]"
+- "[[Relative humidity]]"
 ---

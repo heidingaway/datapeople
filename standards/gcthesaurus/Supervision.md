@@ -5,6 +5,4 @@ tags:
 - gccommon
 french:
 - "[[Supervision]]"
-relatedTerm:
-- "[[Personnel management Coordination]]"
 ---

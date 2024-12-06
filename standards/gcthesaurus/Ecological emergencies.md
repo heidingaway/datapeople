@@ -3,6 +3,6 @@ title: Ecological emergencies
 longTitle: 'Ecological emergencies'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Environmental emergencies]]"
 ---

@@ -3,6 +3,6 @@ title: Forms
 longTitle: 'Forms'
 tags:
 - gccommon
-relatedTerm:
-- "[[Questionnaires]]"
+french:
+- "[[Formulaire]]"
 ---

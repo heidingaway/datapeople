@@ -3,10 +3,16 @@ title: Water management
 longTitle: 'Water management'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Environmental management]]"
-relatedTerm:
-- "[[Water quality Irrigation Water conservation Water ]]"
-use:
-- "[[Water analysis Water resource management Waste wat]]"
+french:
+- "[[Gestion de leau]]"
+usedFor:
+- "[[Waste water purification]]"
+- "[[Waste water treatment]]"
+- "[[Wastewater purification]]"
+- "[[Wastewater treatment]]"
+- "[[Water analysis]]"
+- "[[Water level control]]"
+- "[[Water purification]]"
+- "[[Water resource management]]"
+- "[[Water treatment]]"
 ---

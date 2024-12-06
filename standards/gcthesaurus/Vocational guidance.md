@@ -3,8 +3,16 @@ title: Vocational guidance
 longTitle: 'Vocational guidance'
 tags:
 - gccommon
-relatedTerm:
-- "[[Educational guidance Counselling services Occupati]]"
-use:
-- "[[Occupational guidance Career counseling Career cou]]"
+french:
+- "[[Orientation professionnelle]]"
+usedFor:
+- "[[Career counseling]]"
+- "[[Career counselling]]"
+- "[[Career guidance]]"
+- "[[Career information]]"
+- "[[Occupational guidance]]"
+- "[[Occupational information]]"
+- "[[Vocational counseling]]"
+- "[[Vocational counselling]]"
+- "[[Vocational information]]"
 ---

@@ -3,6 +3,8 @@ title: Auctions
 longTitle: 'Auctions'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Sales]]"
+french:
+- "[[Vente aux encheres]]"
 ---

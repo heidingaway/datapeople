@@ -3,10 +3,11 @@ title: Research grants
 longTitle: 'Research grants'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Grants]]"
-relatedTerm:
-- "[[Research]]"
-use:
-- "[[Research funding Fellowships]]"
+french:
+- "[[Subvention de recherche]]"
+usedFor:
+- "[[Fellowships]]"
+- "[[Research funding]]"
 ---

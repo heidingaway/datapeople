@@ -3,6 +3,6 @@ title: Historical hydrometric data
 longTitle: 'Historical hydrometric data'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Hydrometry]]"
+french:
+- "[[Donnees hydrometriques historiques]]"
 ---

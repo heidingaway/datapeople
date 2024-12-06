@@ -3,6 +3,6 @@ title: Drama
 longTitle: 'Drama'
 tags:
 - gccommon
-usedFor:
-- "[[Theatre]]"
+historyNote:
+- "Theatre replaces Drama  as preferred term in May 2"
 ---

@@ -3,10 +3,13 @@ title: Heating
 longTitle: 'Heating'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Chauffage]]"
+narrowerTerm:
 - "[[Solar heating]]"
 relatedTerm:
-- "[[Air conditioning Temperature Insulation]]"
-use:
+- "[[Insulation]]"
+- "[[Temperature]]"
+usedFor:
 - "[[Heating systems]]"
 ---

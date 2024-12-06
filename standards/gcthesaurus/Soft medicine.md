@@ -3,6 +3,6 @@ title: Soft medicine
 longTitle: 'Soft medicine'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Alternative medicine]]"
 ---

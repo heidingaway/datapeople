@@ -3,6 +3,6 @@ title: Educational materials
 longTitle: 'Educational materials'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Educational resources]]"
 ---

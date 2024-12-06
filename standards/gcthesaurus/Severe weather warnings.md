@@ -3,6 +3,6 @@ title: Severe weather warnings
 longTitle: 'Severe weather warnings'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Weather warnings]]"
 ---

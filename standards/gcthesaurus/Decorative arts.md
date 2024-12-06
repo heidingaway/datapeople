@@ -3,10 +3,9 @@ title: Decorative arts
 longTitle: 'Decorative arts'
 tags:
 - gccommon
-broaderTerm:
-- "[[Pottery Ceramics]]"
+french:
+- "[[Arts decoratifs]]"
 narrowerTerm:
-- "[[Visual arts]]"
-relatedTerm:
-- "[[Crafts]]"
+- "[[Ceramics]]"
+- "[[Pottery]]"
 ---

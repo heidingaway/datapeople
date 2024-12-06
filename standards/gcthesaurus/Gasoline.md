@@ -3,10 +3,11 @@ title: Gasoline
 longTitle: 'Gasoline'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Fuels]]"
-relatedTerm:
-- "[[Petroleum industry]]"
-use:
-- "[[Gas Gasoline Motor gasoline Automotive gasoline Au]]"
+french:
+- "[[Essence]]"
+usedFor:
+- "[[Automobile gasoline]]"
+- "[[Automotive gasoline]]"
+- "[[Gas Gasoline]]"
+- "[[Motor gasoline]]"
 ---

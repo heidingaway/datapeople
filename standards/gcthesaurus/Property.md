@@ -3,8 +3,9 @@ title: Property
 longTitle: 'Property'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Assets]]"
+french:
+- "[[Biens]]"
 relatedTerm:
-- "[[Capital Real property services Seizure of property]]"
+- "[[Property and casualty insurance]]"
+- "[[Property management]]"
 ---

@@ -3,8 +3,10 @@ title: Scholarships
 longTitle: 'Scholarships'
 tags:
 - gccommon
-relatedTerm:
-- "[[Awards Financial assistance Education Grants Stude]]"
-use:
-- "[[Scholarship programs Millennium scholarships Bursa]]"
+french:
+- "[[Bourse detudes]]"
+usedFor:
+- "[[Bursaries]]"
+- "[[Millennium scholarships]]"
+- "[[Scholarship programs]]"
 ---

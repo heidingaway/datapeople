@@ -3,8 +3,10 @@ title: Reports
 longTitle: 'Reports'
 tags:
 - gccommon
-broaderTerm:
-- "[[Annual reports Quarterly financial reports Technic]]"
+french:
+- "[[Rapport]]"
 narrowerTerm:
-- "[[Submissions]]"
+- "[[Annual reports]]"
+- "[[Progress reports]]"
+- "[[Technical reports]]"
 ---

@@ -3,6 +3,6 @@ title: Corporate identity
 longTitle: 'Corporate identity'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Corporate names]]"
 ---

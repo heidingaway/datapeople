@@ -5,10 +5,9 @@ tags:
 - gccommon
 french:
 - "[[Innu]]"
-narrowerTerm:
-- "[[First Nations]]"
-relatedTerm:
-- "[[Northerners]]"
-use:
-- "[[Innu First Nation Innu Nation]]"
+scopeNote:
+- "Indigenous people inhabiting Labrador and northeas"
+usedFor:
+- "[[Innu First Nation]]"
+- "[[Innu Nation]]"
 ---

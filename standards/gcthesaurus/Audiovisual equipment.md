@@ -3,10 +3,8 @@ title: Audiovisual equipment
 longTitle: 'Audiovisual equipment'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Equipment]]"
-relatedTerm:
-- "[[Multimedia]]"
-use:
+french:
+- "[[Equipement audiovisuel]]"
+usedFor:
 - "[[Audio-visual equipment]]"
 ---

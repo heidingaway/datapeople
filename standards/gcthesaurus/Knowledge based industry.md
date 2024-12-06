@@ -3,6 +3,6 @@ title: Knowledge based industry
 longTitle: 'Knowledge based industry'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Knowledge based economy]]"
 ---

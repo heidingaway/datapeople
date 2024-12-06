@@ -3,10 +3,10 @@ title: Public-private partnerships
 longTitle: 'Public-private partnerships'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Partnerships]]"
-relatedTerm:
-- "[[Public sector Private sector]]"
-use:
-- "[[PPP Government-industry partnerships Private-publi]]"
+french:
+- "[[Partenariat public-prive]]"
+usedFor:
+- "[[Government-industry partnerships]]"
+- "[[PPP]]"
+- "[[Private-public partnerships]]"
 ---

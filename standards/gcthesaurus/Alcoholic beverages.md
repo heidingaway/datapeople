@@ -3,12 +3,14 @@ title: Alcoholic beverages
 longTitle: 'Alcoholic beverages'
 tags:
 - gccommon
-broaderTerm:
-- "[[Wine Beer]]"
+french:
+- "[[Boisson alcoolisee]]"
 narrowerTerm:
-- "[[Beverages]]"
-relatedTerm:
-- "[[Alcohol consumption]]"
-use:
-- "[[Alcohol beverages Spirituous beverages Fermented b]]"
+- "[[Beer]]"
+- "[[Wine]]"
+usedFor:
+- "[[Alcohol beverages]]"
+- "[[Alcoholic drinks]]"
+- "[[Fermented beverages]]"
+- "[[Spirituous beverages]]"
 ---

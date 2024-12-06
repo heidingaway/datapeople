@@ -3,8 +3,8 @@ title: Experiments
 longTitle: 'Experiments'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Experimentation]]"
+narrowerTerm:
 - "[[Biomedical experiments]]"
-relatedTerm:
-- "[[Animal testing Research Scientific equipment Labor]]"
 ---

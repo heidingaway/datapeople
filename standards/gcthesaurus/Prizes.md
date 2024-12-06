@@ -3,6 +3,6 @@ title: Prizes
 longTitle: 'Prizes'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Awards]]"
 ---

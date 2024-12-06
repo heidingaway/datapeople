@@ -3,8 +3,11 @@ title: Food supply
 longTitle: 'Food supply'
 tags:
 - gccommon
+french:
+- "[[Disponibilites alimentaires]]"
 relatedTerm:
-- "[[Supply Food security Food Agri-food industry Famin]]"
-use:
-- "[[Food reserves Food resources]]"
+- "[[Food security]]"
+usedFor:
+- "[[Food reserves]]"
+- "[[Food resources]]"
 ---

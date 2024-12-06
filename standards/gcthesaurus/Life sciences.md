@@ -3,12 +3,11 @@ title: Life sciences
 longTitle: 'Life sciences'
 tags:
 - gccommon
-broaderTerm:
-- "[[Health sciences Biology]]"
+french:
+- "[[Sciences de la vie]]"
 narrowerTerm:
-- "[[Natural sciences]]"
-relatedTerm:
-- "[[Scientists]]"
-use:
+- "[[Biology]]"
+- "[[Health sciences]]"
+usedFor:
 - "[[Biological sciences]]"
 ---

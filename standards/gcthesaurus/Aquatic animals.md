@@ -3,12 +3,14 @@ title: Aquatic animals
 longTitle: 'Aquatic animals'
 tags:
 - gccommon
-broaderTerm:
-- "[[Crustaceans Aquatic birds Walruses Fish Seals Whal]]"
+french:
+- "[[Animal aquatique]]"
 narrowerTerm:
-- "[[Animals]]"
+- "[[Fish]]"
 relatedTerm:
-- "[[Aquatic wildlife Molluscs Aquariums Amphibians Aqu]]"
-use:
-- "[[Freshwater animals Marine animals Water animals]]"
+- "[[Amphibians]]"
+usedFor:
+- "[[Freshwater animals]]"
+- "[[Marine animals]]"
+- "[[Water animals]]"
 ---

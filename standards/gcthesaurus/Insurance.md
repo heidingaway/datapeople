@@ -3,10 +3,21 @@ title: Insurance
 longTitle: 'Insurance'
 tags:
 - gccommon
-broaderTerm:
-- "[[Drug insurance Life insurance Health insurance Mor]]"
+french:
+- "[[Assurance]]"
+narrowerTerm:
+- "[[Crop insurance]]"
+- "[[Dental insurance]]"
+- "[[Drug insurance]]"
+- "[[Employment insurance]]"
+- "[[Health insurance]]"
+- "[[Life insurance]]"
+- "[[Mortgage insurance]]"
+- "[[Property and casualty insurance]]"
 relatedTerm:
-- "[[Insurance companies Insurable earnings Indemnities]]"
-use:
+- "[[Indemnities]]"
+- "[[Insurable earnings]]"
+- "[[Insurance companies]]"
+usedFor:
 - "[[Insurance policies]]"
 ---

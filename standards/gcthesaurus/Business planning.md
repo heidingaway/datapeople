@@ -3,6 +3,6 @@ title: Business planning
 longTitle: 'Business planning'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Business plans]]"
 ---

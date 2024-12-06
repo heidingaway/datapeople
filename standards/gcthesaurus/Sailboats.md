@@ -3,8 +3,8 @@ title: Sailboats
 longTitle: 'Sailboats'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Pleasure craft]]"
-relatedTerm:
-- "[[Ships]]"
+french:
+- "[[Voilier]]"
 ---

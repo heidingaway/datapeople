@@ -3,10 +3,13 @@ title: Publishing
 longTitle: 'Publishing'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Edition]]"
+narrowerTerm:
 - "[[Electronic publishing]]"
-relatedTerm:
-- "[[Books Authors Printing Cultural industry Copyright]]"
-use:
-- "[[Book industry Publishing industry]]"
+scopeNote:
+- "Activities relating to the publication distributio"
+usedFor:
+- "[[Book industry]]"
+- "[[Publishing industry]]"
 ---

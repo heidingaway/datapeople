@@ -3,8 +3,8 @@ title: Whales
 longTitle: 'Whales'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Aquatic animals Mammals]]"
+french:
+- "[[Baleine]]"
 relatedTerm:
 - "[[Whaling]]"
 ---

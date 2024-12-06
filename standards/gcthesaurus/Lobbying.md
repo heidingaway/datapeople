@@ -5,6 +5,4 @@ tags:
 - gccommon
 french:
 - "[[Lobbying]]"
-relatedTerm:
-- "[[Interest groups Advocacy Awareness]]"
 ---

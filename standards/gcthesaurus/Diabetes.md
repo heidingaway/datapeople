@@ -3,6 +3,8 @@ title: Diabetes
 longTitle: 'Diabetes'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Chronic diseases]]"
+french:
+- "[[Diabete]]"
 ---

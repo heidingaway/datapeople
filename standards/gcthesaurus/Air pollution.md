@@ -3,12 +3,12 @@ title: Air pollution
 longTitle: 'Air pollution'
 tags:
 - gccommon
-broaderTerm:
-- "[[Smog]]"
+french:
+- "[[Pollution atmospherique]]"
 narrowerTerm:
-- "[[Pollution]]"
+- "[[Smog]]"
 relatedTerm:
-- "[[Acid rain Ozone depletion Greenhouse gases Air qua]]"
-use:
+- "[[Acid rain]]"
+usedFor:
 - "[[Atmospheric pollution]]"
 ---

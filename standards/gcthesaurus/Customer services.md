@@ -3,6 +3,6 @@ title: Customer services
 longTitle: 'Customer services'
 tags:
 - gccommon
-relatedTerm:
-- "[[Clients Client satisfaction]]"
+french:
+- "[[Service a la clientele]]"
 ---

@@ -3,8 +3,8 @@ title: Passports
 longTitle: 'Passports'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Travel documents]]"
+french:
+- "[[Passeport]]"
 relatedTerm:
-- "[[Visas Citizenship documents]]"
+- "[[Visas]]"
 ---

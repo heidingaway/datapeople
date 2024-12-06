@@ -3,8 +3,10 @@ title: Harmonized sales tax
 longTitle: 'Harmonized sales tax'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Sales taxes]]"
-use:
-- "[[Harmonized tax HST Blended sales tax]]"
+french:
+- "[[Taxe de vente harmonisee]]"
+usedFor:
+- "[[Blended sales tax]]"
+- "[[HST]]"
+- "[[Harmonized tax]]"
 ---

@@ -3,6 +3,6 @@ title: Electronic data
 longTitle: 'Electronic data'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Machine readable data]]"
 ---

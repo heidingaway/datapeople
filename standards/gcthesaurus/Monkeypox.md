@@ -3,8 +3,10 @@ title: Monkeypox
 longTitle: 'Monkeypox'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Poxvirus diseases]]"
-use:
+french:
+- "[[Variole simienne]]"
+usedFor:
 - "[[Monkey pox]]"
 ---

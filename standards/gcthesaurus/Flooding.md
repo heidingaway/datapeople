@@ -3,6 +3,6 @@ title: Flooding
 longTitle: 'Flooding'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Floods]]"
 ---

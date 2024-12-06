@@ -3,10 +3,9 @@ title: Logging industry
 longTitle: 'Logging industry'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Forestry industry]]"
-relatedTerm:
-- "[[Wood]]"
-use:
-- "[[Logging Logging sector]]"
+french:
+- "[[Industrie de lexploitation forestiere]]"
+usedFor:
+- "[[Logging]]"
+- "[[Logging sector]]"
 ---

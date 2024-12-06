@@ -3,6 +3,10 @@ title: Disbursements
 longTitle: 'Disbursements'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Decaissement]]"
+narrowerTerm:
 - "[[Expenditures]]"
+scopeNote:
+- "Any outlay of cash such as an expenditure investme"
 ---

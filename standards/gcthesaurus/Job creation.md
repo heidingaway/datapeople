@@ -3,8 +3,8 @@ title: Job creation
 longTitle: 'Job creation'
 tags:
 - gccommon
-relatedTerm:
-- "[[Labour market Employment Employment opportunities]]"
-use:
+french:
+- "[[Creation demploi]]"
+usedFor:
 - "[[New jobs]]"
 ---

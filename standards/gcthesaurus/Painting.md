@@ -3,8 +3,8 @@ title: Painting
 longTitle: 'Painting'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Visual arts]]"
-use:
+french:
+- "[[Peinture]]"
+usedFor:
 - "[[Oil painting]]"
 ---

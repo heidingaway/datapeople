@@ -3,10 +3,18 @@ title: Loans
 longTitle: 'Loans'
 tags:
 - gccommon
-broaderTerm:
-- "[[Interlibrary loans Term loans Consumer loans Busin]]"
+french:
+- "[[Pret]]"
+narrowerTerm:
+- "[[Business loans]]"
+- "[[Consumer loans]]"
+- "[[Defaulted loans]]"
+- "[[Interlibrary loans]]"
+- "[[Student loans]]"
+- "[[Term loans]]"
 relatedTerm:
-- "[[Debt Credit Borrowers Interest rates]]"
-use:
-- "[[Borrowing Lending]]"
+- "[[Interest rates]]"
+usedFor:
+- "[[Borrowing]]"
+- "[[Lending]]"
 ---

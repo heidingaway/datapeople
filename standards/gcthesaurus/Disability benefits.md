@@ -3,6 +3,6 @@ title: Disability benefits
 longTitle: 'Disability benefits'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Disability pensions]]"
 ---

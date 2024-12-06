@@ -3,8 +3,8 @@ title: Bilingual services
 longTitle: 'Bilingual services'
 tags:
 - gccommon
-relatedTerm:
-- "[[Language policy Bilingualism Government services]]"
-use:
+french:
+- "[[Services bilingues]]"
+usedFor:
 - "[[Active offer of bilingual services]]"
 ---

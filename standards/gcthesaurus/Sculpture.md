@@ -5,8 +5,6 @@ tags:
 - gccommon
 french:
 - "[[Sculpture]]"
-narrowerTerm:
-- "[[Visual arts]]"
-use:
+usedFor:
 - "[[Carving]]"
 ---

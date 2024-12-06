@@ -3,8 +3,8 @@ title: Air conditioning
 longTitle: 'Air conditioning'
 tags:
 - gccommon
-relatedTerm:
-- "[[Air Heating]]"
-use:
+french:
+- "[[Climatisation]]"
+usedFor:
 - "[[Air-conditioning]]"
 ---

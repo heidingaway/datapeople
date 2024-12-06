@@ -3,6 +3,6 @@ title: Outreach
 longTitle: 'Outreach'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Outreach services]]"
 ---

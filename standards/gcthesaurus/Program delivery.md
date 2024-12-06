@@ -3,6 +3,6 @@ title: Program delivery
 longTitle: 'Program delivery'
 tags:
 - gccommon
-relatedTerm:
-- "[[Programs]]"
+french:
+- "[[Realisation de programme]]"
 ---

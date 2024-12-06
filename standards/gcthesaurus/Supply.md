@@ -3,6 +3,9 @@ title: Supply
 longTitle: 'Supply'
 tags:
 - gccommon
+french:
+- "[[Offre]]"
 relatedTerm:
-- "[[Food supply Energy supply Demand Production Prices]]"
+- "[[Shortage]]"
+- "[[Surplus]]"
 ---

@@ -3,8 +3,9 @@ title: Recyclable materials
 longTitle: 'Recyclable materials'
 tags:
 - gccommon
-relatedTerm:
-- "[[Recycling]]"
-use:
-- "[[Recyclable products Recyclable waste]]"
+french:
+- "[[Matiere recyclable]]"
+usedFor:
+- "[[Recyclable products]]"
+- "[[Recyclable waste]]"
 ---

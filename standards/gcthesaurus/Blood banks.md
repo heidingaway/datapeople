@@ -3,6 +3,6 @@ title: Blood banks
 longTitle: 'Blood banks'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Blood supply]]"
 ---

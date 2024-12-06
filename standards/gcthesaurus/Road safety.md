@@ -3,10 +3,9 @@ title: Road safety
 longTitle: 'Road safety'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Transportation safety]]"
-relatedTerm:
-- "[[Driver education Automobile safety equipment Road ]]"
-use:
-- "[[Highway safety Traffic safety]]"
+french:
+- "[[Securite routiere]]"
+usedFor:
+- "[[Highway safety]]"
+- "[[Traffic safety]]"
 ---

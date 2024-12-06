@@ -3,8 +3,12 @@ title: Volunteer work
 longTitle: 'Volunteer work'
 tags:
 - gccommon
+french:
+- "[[Benevolat]]"
 relatedTerm:
-- "[[Non-profit organizations Pro bono legal services U]]"
-use:
-- "[[Volunteers Volunteerism Voluntary sector]]"
+- "[[Non-profit organizations]]"
+usedFor:
+- "[[Voluntary sector]]"
+- "[[Volunteerism]]"
+- "[[Volunteers]]"
 ---

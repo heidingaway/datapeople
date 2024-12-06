@@ -3,12 +3,13 @@ title: Conservation
 longTitle: 'Conservation'
 tags:
 - gccommon
-broaderTerm:
-- "[[Resources conservation Heritage conservation Natur]]"
 french:
 - "[[Conservation]]"
+narrowerTerm:
+- "[[Heritage conservation]]"
 relatedTerm:
-- "[[Recycling Restoration Digitization]]"
-use:
+- "[[Digitization]]"
+- "[[Restoration]]"
+usedFor:
 - "[[Preservation]]"
 ---

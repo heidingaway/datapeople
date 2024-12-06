@@ -3,10 +3,14 @@ title: Air safety
 longTitle: 'Air safety'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Transportation safety]]"
-relatedTerm:
-- "[[Aircraft accidents Air transport]]"
-use:
-- "[[Airport safety Cabin safety Airworthiness Flight s]]"
+french:
+- "[[Securite aerienne]]"
+scopeNote:
+- "The ability of an aircraft or component parts to p"
+usedFor:
+- "[[Airport safety]]"
+- "[[Airworthiness]]"
+- "[[Aviation safety]]"
+- "[[Cabin safety]]"
+- "[[Flight safety]]"
 ---

@@ -3,6 +3,6 @@ title: Financing
 longTitle: 'Financing'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Funding]]"
 ---

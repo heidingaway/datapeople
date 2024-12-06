@@ -1,8 +1,10 @@
 ---
 title: Deportation
-longTitle: 'Déportation'
+longTitle: 'Deportation'
 tags:
 - gccommon
 french:
 - "[[Deportation]]"
+relatedTerm:
+- "[[Migration]]"
 ---

@@ -3,8 +3,12 @@ title: Purchasing
 longTitle: 'Purchasing'
 tags:
 - gccommon
-relatedTerm:
-- "[[Consumerism Costs Supplies Standing offers Buyers]]"
-use:
-- "[[Public purchasing Ordering Acquisition Government ]]"
+french:
+- "[[Achat]]"
+usedFor:
+- "[[Acquisition]]"
+- "[[Government purchasing]]"
+- "[[Ordering]]"
+- "[[Procurement]]"
+- "[[Public purchasing]]"
 ---

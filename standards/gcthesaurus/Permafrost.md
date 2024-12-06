@@ -3,8 +3,12 @@ title: Permafrost
 longTitle: 'Permafrost'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Soil]]"
-use:
+french:
+- "[[Pergelisol]]"
+scopeNote:
+- "Layer of soil permanently frozen"
+usedFor:
 - "[[Perennially frozen ground]]"
 ---

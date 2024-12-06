@@ -3,10 +3,12 @@ title: Economic crime
 longTitle: 'Economic crime'
 tags:
 - gccommon
-broaderTerm:
-- "[[Misappropriation of funds Tax fraud]]"
+french:
+- "[[Crime economique]]"
 narrowerTerm:
-- "[[Fugitives from justice Crime]]"
-use:
-- "[[Business crime Money laundering Smuggling]]"
+- "[[Misappropriation of funds]]"
+usedFor:
+- "[[Business crime]]"
+- "[[Money laundering]]"
+- "[[Smuggling]]"
 ---

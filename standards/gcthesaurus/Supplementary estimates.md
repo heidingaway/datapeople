@@ -3,6 +3,6 @@ title: Supplementary estimates
 longTitle: 'Supplementary estimates'
 tags:
 - gccommon
-relatedTerm:
-- "[[Public administration Public accounts Budgets Acco]]"
+french:
+- "[[Budget supplementaire des depenses]]"
 ---

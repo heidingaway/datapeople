@@ -5,6 +5,4 @@ tags:
 - gccommon
 french:
 - "[[Surplus]]"
-relatedTerm:
-- "[[Supply]]"
 ---

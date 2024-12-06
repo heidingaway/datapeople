@@ -3,8 +3,11 @@ title: Sound recordings
 longTitle: 'Sound recordings'
 tags:
 - gccommon
+french:
+- "[[Enregistrement sonore]]"
 relatedTerm:
 - "[[Sound archives]]"
-use:
-- "[[Audiocassettes Discs]]"
+usedFor:
+- "[[Audiocassettes]]"
+- "[[Discs]]"
 ---

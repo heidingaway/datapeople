@@ -3,6 +3,6 @@ title: High schools
 longTitle: 'High schools'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Secondary schools]]"
 ---

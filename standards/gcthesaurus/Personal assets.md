@@ -3,8 +3,9 @@ title: Personal assets
 longTitle: 'Personal assets'
 tags:
 - gccommon
-broaderTerm:
-- "[[Estates Inheritance]]"
+french:
+- "[[Biens mobiliers]]"
 narrowerTerm:
-- "[[Assets]]"
+- "[[Estates]]"
+- "[[Inheritance]]"
 ---

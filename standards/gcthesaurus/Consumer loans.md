@@ -3,10 +3,10 @@ title: Consumer loans
 longTitle: 'Consumer loans'
 tags:
 - gccommon
-broaderTerm:
-- "[[Mortgage loans]]"
+french:
+- "[[Pret a la consommation]]"
 narrowerTerm:
-- "[[Loans]]"
-use:
+- "[[Mortgage loans]]"
+usedFor:
 - "[[Personal loans]]"
 ---

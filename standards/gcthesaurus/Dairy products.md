@@ -3,12 +3,14 @@ title: Dairy products
 longTitle: 'Dairy products'
 tags:
 - gccommon
-broaderTerm:
-- "[[Cream Milk Yogurt Cheese Butter]]"
+french:
+- "[[Produit laitier]]"
 narrowerTerm:
-- "[[Agri-food products]]"
-relatedTerm:
-- "[[Dairy industry]]"
-use:
+- "[[Butter]]"
+- "[[Cheese]]"
+- "[[Cream]]"
+- "[[Milk]]"
+- "[[Yogurt]]"
+usedFor:
 - "[[Milk products]]"
 ---

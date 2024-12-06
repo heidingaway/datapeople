@@ -3,8 +3,10 @@ title: Financial assistance
 longTitle: 'Financial assistance'
 tags:
 - gccommon
+french:
+- "[[Aide financiere]]"
 relatedTerm:
-- "[[Grants Student loans Scholarships Sponsorship Fisc]]"
-use:
+- "[[Sponsorship]]"
+usedFor:
 - "[[Financial aid]]"
 ---

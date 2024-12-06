@@ -3,6 +3,6 @@ title: Common shares
 longTitle: 'Common shares'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Shares]]"
 ---

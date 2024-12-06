@@ -3,10 +3,11 @@ title: Hunting Sport
 longTitle: 'Hunting (Sport)'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Sports]]"
+french:
+- "[[Chasse sportive]]"
 relatedTerm:
-- "[[Hunting permits Outfitters Outdoor recreation]]"
-use:
-- "[[Recreational hunting Sport hunting]]"
+- "[[Hunting permits]]"
+usedFor:
+- "[[Recreational hunting]]"
+- "[[Sport hunting]]"
 ---

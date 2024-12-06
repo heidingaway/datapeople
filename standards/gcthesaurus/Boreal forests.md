@@ -3,6 +3,6 @@ title: Boreal forests
 longTitle: 'Boreal forests'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Boreal ecosystems]]"
 ---

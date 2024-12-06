@@ -3,6 +3,6 @@ title: Authentication
 longTitle: 'Authentication'
 tags:
 - gccommon
-relatedTerm:
-- "[[Identification]]"
+french:
+- "[[Authentification]]"
 ---

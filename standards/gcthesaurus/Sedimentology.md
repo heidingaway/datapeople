@@ -4,9 +4,9 @@ longTitle: 'Sedimentology'
 tags:
 - gccommon
 broaderTerm:
-- "[[Sedimentary rocks]]"
-narrowerTerm:
-- "[[Petrology Geology]]"
+- "[[Petrology]]"
+french:
+- "[[Sedimentologie]]"
 relatedTerm:
 - "[[Sediments]]"
 ---

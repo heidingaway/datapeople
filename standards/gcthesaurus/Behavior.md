@@ -3,6 +3,6 @@ title: Behavior
 longTitle: 'Behavior'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Behaviour]]"
 ---

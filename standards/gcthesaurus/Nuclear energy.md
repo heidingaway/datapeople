@@ -3,10 +3,11 @@ title: Nuclear energy
 longTitle: 'Nuclear energy'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Energy]]"
+french:
+- "[[Energie nucleaire]]"
 relatedTerm:
-- "[[Nuclear power plants Nuclear facilities Nuclear te]]"
-use:
-- "[[Nuclear power Atomic energy]]"
+- "[[Nuclear power plants]]"
+usedFor:
+- "[[Atomic energy]]"
+- "[[Nuclear power]]"
 ---

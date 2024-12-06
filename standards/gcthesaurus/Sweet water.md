@@ -3,6 +3,6 @@ title: Sweet water
 longTitle: 'Sweet water'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Fresh water]]"
 ---

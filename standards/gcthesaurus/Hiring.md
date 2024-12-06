@@ -3,6 +3,6 @@ title: Hiring
 longTitle: 'Hiring'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Staffing]]"
 ---

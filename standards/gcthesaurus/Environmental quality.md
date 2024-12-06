@@ -3,8 +3,10 @@ title: Environmental quality
 longTitle: 'Environmental quality'
 tags:
 - gccommon
-broaderTerm:
-- "[[Air quality Water quality Soil quality]]"
-relatedTerm:
-- "[[Environmental standards Environmental protection E]]"
+french:
+- "[[Qualite de lenvironnement]]"
+narrowerTerm:
+- "[[Air quality]]"
+- "[[Soil quality]]"
+- "[[Water quality]]"
 ---

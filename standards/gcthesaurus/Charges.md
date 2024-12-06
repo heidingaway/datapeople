@@ -3,6 +3,6 @@ title: Charges
 longTitle: 'Charges'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Costs]]"
 ---

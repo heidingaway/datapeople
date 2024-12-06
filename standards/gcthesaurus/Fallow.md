@@ -3,6 +3,6 @@ title: Fallow
 longTitle: 'Fallow'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Crop rotation]]"
 ---

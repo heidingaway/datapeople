@@ -3,6 +3,6 @@ title: Project management
 longTitle: 'Project management'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Management]]"
+french:
+- "[[Gestion de projet]]"
 ---

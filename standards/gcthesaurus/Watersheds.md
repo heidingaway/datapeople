@@ -3,8 +3,16 @@ title: Watersheds
 longTitle: 'Watersheds'
 tags:
 - gccommon
-relatedTerm:
-- "[[Hydrology]]"
-use:
-- "[[Drainage basins Hydrologic basins Hydrographic bas]]"
+french:
+- "[[Bassin hydrologique]]"
+usedFor:
+- "[[Catch basins]]"
+- "[[Catchment basins]]"
+- "[[Catchments]]"
+- "[[Drainage areas]]"
+- "[[Drainage basins]]"
+- "[[Hydrographic basins]]"
+- "[[Hydrologic basins]]"
+- "[[River basins]]"
+- "[[Water catchments]]"
 ---

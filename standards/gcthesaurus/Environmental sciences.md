@@ -3,10 +3,8 @@ title: Environmental sciences
 longTitle: 'Environmental sciences'
 tags:
 - gccommon
-broaderTerm:
-- "[[Ecology]]"
+french:
+- "[[Sciences de lenvironnement]]"
 narrowerTerm:
-- "[[Natural sciences]]"
-relatedTerm:
-- "[[Scientists Environment]]"
+- "[[Ecology]]"
 ---

@@ -3,12 +3,10 @@ title: Forestry products
 longTitle: 'Forestry products'
 tags:
 - gccommon
-broaderTerm:
-- "[[Wood]]"
+french:
+- "[[Produit forestier]]"
 narrowerTerm:
-- "[[Products]]"
-relatedTerm:
-- "[[Forestry industry Forests]]"
-use:
+- "[[Wood]]"
+usedFor:
 - "[[Forest products]]"
 ---

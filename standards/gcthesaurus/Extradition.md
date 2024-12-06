@@ -5,6 +5,6 @@ tags:
 - gccommon
 french:
 - "[[Extradition]]"
-relatedTerm:
-- "[[International law Justice system]]"
+scopeNote:
+- "The surrender of an alleged criminal usually under"
 ---

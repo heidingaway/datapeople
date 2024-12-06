@@ -3,10 +3,16 @@ title: Cells
 longTitle: 'Cells'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Cellule]]"
+narrowerTerm:
 - "[[Stem cells]]"
 relatedTerm:
-- "[[Microorganisms Tissues]]"
-use:
-- "[[Human cells Plant cells Animal cells]]"
+- "[[Tissues]]"
+scopeNote:
+- "Basic structural units of living organisms Some mi"
+usedFor:
+- "[[Animal cells]]"
+- "[[Human cells]]"
+- "[[Plant cells]]"
 ---

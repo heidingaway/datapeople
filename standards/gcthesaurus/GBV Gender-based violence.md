@@ -3,6 +3,6 @@ title: GBV Gender-based violence
 longTitle: 'GBV (Gender-based violence)'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Gender-based violence]]"
 ---

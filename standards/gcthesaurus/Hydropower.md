@@ -3,10 +3,14 @@ title: Hydropower
 longTitle: 'Hydropower'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Electricity]]"
-relatedTerm:
-- "[[Renewable energy Hydroelectric plants]]"
-use:
-- "[[Hydro power Hydroelectricity Hydroelectric energy ]]"
+french:
+- "[[Hydroelectricite]]"
+usedFor:
+- "[[Hydro power]]"
+- "[[Hydro-electricity]]"
+- "[[Hydroelectric energy]]"
+- "[[Hydroelectric power]]"
+- "[[Hydroelectricity]]"
 ---

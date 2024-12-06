@@ -3,6 +3,8 @@ title: Concrete
 longTitle: 'Concrete'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Construction materials]]"
+french:
+- "[[Beton]]"
 ---

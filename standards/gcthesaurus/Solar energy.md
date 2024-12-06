@@ -3,8 +3,8 @@ title: Solar energy
 longTitle: 'Solar energy'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Renewable energy]]"
-use:
+french:
+- "[[Energie solaire]]"
+usedFor:
 - "[[Solar power]]"
 ---

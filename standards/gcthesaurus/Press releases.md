@@ -3,8 +3,8 @@ title: Press releases
 longTitle: 'Press releases'
 tags:
 - gccommon
-relatedTerm:
-- "[[Government information Government communications G]]"
-use:
+french:
+- "[[Communique de presse]]"
+usedFor:
 - "[[Communiques]]"
 ---

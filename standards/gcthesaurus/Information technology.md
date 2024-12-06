@@ -3,8 +3,8 @@ title: Information technology
 longTitle: 'Information technology'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Technology]]"
+french:
+- "[[Technologie de linformation]]"
 relatedTerm:
-- "[[Telecommunications Information Social media Multim]]"
+- "[[Chief Information Officer]]"
 ---

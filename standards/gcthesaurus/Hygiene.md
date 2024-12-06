@@ -1,6 +1,6 @@
 ---
 title: Hygiene
-longTitle: 'Hygiène'
+longTitle: 'Hygiene'
 tags:
 - gccommon
 french:

@@ -3,6 +3,6 @@ title: Aboriginal youth
 longTitle: 'Aboriginal youth'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Indigenous youth]]"
 ---

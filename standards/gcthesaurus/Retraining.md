@@ -3,10 +3,10 @@ title: Retraining
 longTitle: 'Retraining'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Training]]"
+french:
+- "[[Formation de reconversion]]"
 relatedTerm:
-- "[[Vocational rehabilitation Continuing education]]"
-use:
+- "[[Vocational rehabilitation]]"
+usedFor:
 - "[[Further training]]"
 ---

@@ -3,10 +3,13 @@ title: Government leader
 longTitle: 'Government leader'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Parliamentary leaders]]"
-relatedTerm:
-- "[[Federal government]]"
-use:
-- "[[Government leader in the Senate Leader of the gove]]"
+french:
+- "[[Leader du gouvernement]]"
+usedFor:
+- "[[Government House leader]]"
+- "[[Government leader in the Senate]]"
+- "[[Leader of the government in the House of Commons]]"
+- "[[Leader of the government in the Senate]]"
 ---

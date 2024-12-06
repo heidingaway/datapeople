@@ -1,8 +1,13 @@
 ---
 title: Cooperation
-longTitle: 'Coopération'
+longTitle: 'Cooperation'
 tags:
 - gccommon
 french:
 - "[[Cooperation]]"
+narrowerTerm:
+- "[[International cooperation]]"
+- "[[Regional cooperation]]"
+relatedTerm:
+- "[[Cooperation agreements]]"
 ---

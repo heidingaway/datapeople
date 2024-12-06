@@ -5,6 +5,6 @@ tags:
 - gccommon
 french:
 - "[[Adolescence]]"
-relatedTerm:
-- "[[Youth Adolescents]]"
+scopeNote:
+- "The state of development of a human being between "
 ---

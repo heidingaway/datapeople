@@ -3,6 +3,8 @@ title: Bibliographies
 longTitle: 'Bibliographies'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Bibliographie]]"
+narrowerTerm:
 - "[[National bibliographies]]"
 ---

@@ -3,8 +3,10 @@ title: Public hearings
 longTitle: 'Public hearings'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Hearings]]"
+french:
+- "[[Audience publique]]"
 relatedTerm:
 - "[[Public notices]]"
 ---

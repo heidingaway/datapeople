@@ -3,8 +3,8 @@ title: Lifestyle
 longTitle: 'Lifestyle'
 tags:
 - gccommon
-relatedTerm:
-- "[[Daily life Quality of life Standard of living]]"
-use:
+french:
+- "[[Mode de vie]]"
+usedFor:
 - "[[Living arrangement]]"
 ---

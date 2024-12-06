@@ -3,8 +3,10 @@ title: Home renovations
 longTitle: 'Home renovations'
 tags:
 - gccommon
+french:
+- "[[Renovation domiciliaire]]"
 relatedTerm:
-- "[[Household equipment Maintenance Housing]]"
-use:
+- "[[Maintenance]]"
+usedFor:
 - "[[Home improvements]]"
 ---

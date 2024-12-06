@@ -3,6 +3,6 @@ title: Meteorological data
 longTitle: 'Meteorological data'
 tags:
 - gccommon
-relatedTerm:
-- "[[Climate Meteorology]]"
+french:
+- "[[Donnees meteorologiques]]"
 ---

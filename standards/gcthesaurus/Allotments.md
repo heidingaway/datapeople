@@ -3,6 +3,8 @@ title: Allotments
 longTitle: 'Allotments'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Credit]]"
+french:
+- "[[Allocation de credits]]"
 ---

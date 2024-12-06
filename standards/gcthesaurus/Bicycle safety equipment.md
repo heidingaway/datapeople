@@ -3,10 +3,8 @@ title: Bicycle safety equipment
 longTitle: 'Bicycle safety equipment'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Safety equipment]]"
-relatedTerm:
-- "[[Cycling]]"
-use:
+french:
+- "[[Equipement de securite cycliste]]"
+usedFor:
 - "[[Bicycle helmets]]"
 ---

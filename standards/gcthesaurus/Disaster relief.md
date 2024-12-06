@@ -3,8 +3,11 @@ title: Disaster relief
 longTitle: 'Disaster relief'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Humanitarian aid Emergency relief]]"
+broaderTerm:
+- "[[Emergency relief]]"
+- "[[Humanitarian aid]]"
+french:
+- "[[Secours en cas de desastre]]"
 relatedTerm:
 - "[[Disasters]]"
 ---

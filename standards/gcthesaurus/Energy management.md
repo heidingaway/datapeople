@@ -3,10 +3,10 @@ title: Energy management
 longTitle: 'Energy management'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Resources management]]"
-relatedTerm:
-- "[[Energy production Energy efficiency Energy conserv]]"
-use:
+french:
+- "[[Gestion energetique]]"
+usedFor:
 - "[[Energy sector]]"
 ---

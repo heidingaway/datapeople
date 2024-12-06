@@ -3,6 +3,6 @@ title: Lithographs
 longTitle: 'Lithographs'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Prints]]"
 ---

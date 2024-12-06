@@ -3,12 +3,12 @@ title: Farm buildings
 longTitle: 'Farm buildings'
 tags:
 - gccommon
-broaderTerm:
-- "[[Greenhouses]]"
+french:
+- "[[Batiment agricole]]"
 narrowerTerm:
-- "[[Buildings]]"
+- "[[Greenhouses]]"
 relatedTerm:
-- "[[Farms Domestic architecture]]"
-use:
+- "[[Domestic architecture]]"
+usedFor:
 - "[[Agricultural buildings]]"
 ---

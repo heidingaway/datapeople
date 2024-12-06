@@ -3,10 +3,10 @@ title: Earthquakes
 longTitle: 'Earthquakes'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Natural disasters]]"
+french:
+- "[[Tremblement de terre]]"
 relatedTerm:
-- "[[Geology Seismology]]"
-use:
+- "[[Seismology]]"
+usedFor:
 - "[[Seisms]]"
 ---

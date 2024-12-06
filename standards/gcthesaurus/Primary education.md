@@ -3,6 +3,6 @@ title: Primary education
 longTitle: 'Primary education'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Elementary education]]"
 ---

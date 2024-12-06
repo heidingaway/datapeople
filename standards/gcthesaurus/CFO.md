@@ -3,6 +3,6 @@ title: CFO
 longTitle: 'CFO'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Chief Financial Officer]]"
 ---

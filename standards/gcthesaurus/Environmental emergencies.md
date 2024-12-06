@@ -3,8 +3,10 @@ title: Environmental emergencies
 longTitle: 'Environmental emergencies'
 tags:
 - gccommon
-relatedTerm:
-- "[[Environmental accidents Environment]]"
-use:
+french:
+- "[[Urgence environnementale]]"
+scopeNote:
+- "Emergency situations representing an immediate dan"
+usedFor:
 - "[[Ecological emergencies]]"
 ---

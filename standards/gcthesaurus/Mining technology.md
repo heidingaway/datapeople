@@ -3,8 +3,8 @@ title: Mining technology
 longTitle: 'Mining technology'
 tags:
 - gccommon
-relatedTerm:
-- "[[Mining industry]]"
-use:
+french:
+- "[[Technologie miniere]]"
+usedFor:
 - "[[Mining equipment]]"
 ---

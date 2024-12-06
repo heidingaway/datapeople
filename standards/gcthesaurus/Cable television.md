@@ -3,8 +3,12 @@ title: Cable television
 longTitle: 'Cable television'
 tags:
 - gccommon
-relatedTerm:
-- "[[Broadcasting Radio Television]]"
-use:
-- "[[Television distribution Cable broadcasting Cable d]]"
+french:
+- "[[Cablodistribution]]"
+usedFor:
+- "[[Cable broadcasting]]"
+- "[[Cable distribution]]"
+- "[[Cable services]]"
+- "[[TV distribution]]"
+- "[[Television distribution]]"
 ---

@@ -3,6 +3,6 @@ title: Repertories
 longTitle: 'Repertories'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Directories]]"
 ---

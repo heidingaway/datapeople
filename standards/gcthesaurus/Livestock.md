@@ -3,12 +3,13 @@ title: Livestock
 longTitle: 'Livestock'
 tags:
 - gccommon
-broaderTerm:
-- "[[Hogs Cattle Sheep Horses]]"
-narrowerTerm:
-- "[[Animals]]"
+french:
+- "[[Betail]]"
 relatedTerm:
-- "[[Poultry Manure Domestic animals Meat Grasslands Sl]]"
-use:
-- "[[Farm animals Herds]]"
+- "[[Meat]]"
+scopeNote:
+- "Animals kept or raised for use food or other produ"
+usedFor:
+- "[[Farm animals]]"
+- "[[Herds]]"
 ---

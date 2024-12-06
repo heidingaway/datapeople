@@ -3,10 +3,14 @@ title: Cultural institutions
 longTitle: 'Cultural institutions'
 tags:
 - gccommon
-broaderTerm:
-- "[[Museums Orchestras Art galleries Libraries Histori]]"
-relatedTerm:
-- "[[Culture Cultural industry]]"
-use:
+french:
+- "[[Institution culturelle]]"
+narrowerTerm:
+- "[[Art galleries]]"
+- "[[Historical societies]]"
+- "[[Libraries]]"
+- "[[Museums]]"
+- "[[Orchestras]]"
+usedFor:
 - "[[Cultural facilities]]"
 ---

@@ -3,8 +3,8 @@ title: Geochemistry
 longTitle: 'Geochemistry'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Earth sciences Chemistry]]"
-relatedTerm:
-- "[[Geology]]"
+french:
+- "[[Geochimie]]"
+scopeNote:
+- "The study of the chemical composition of the earth"
 ---

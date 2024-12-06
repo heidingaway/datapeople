@@ -3,8 +3,13 @@ title: Benefits
 longTitle: 'Benefits'
 tags:
 - gccommon
-broaderTerm:
-- "[[Paternity benefits Maternity benefits Survivor ben]]"
+french:
+- "[[Avantages sociaux]]"
+narrowerTerm:
+- "[[Maternity benefits]]"
+- "[[Paternity benefits]]"
+- "[[Survivor benefits]]"
 relatedTerm:
-- "[[Pensions Allowances Beneficiaries Employment insur]]"
+- "[[Beneficiaries]]"
+- "[[Entitlement]]"
 ---

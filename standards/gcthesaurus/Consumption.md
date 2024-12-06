@@ -3,6 +3,6 @@ title: Consumption
 longTitle: 'Consumption'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Consumerism]]"
 ---

@@ -3,8 +3,9 @@ title: International economics
 longTitle: 'International economics'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Economics]]"
+french:
+- "[[Economie internationale]]"
 relatedTerm:
-- "[[Multinational corporations Globalization Internati]]"
+- "[[Globalization]]"
+- "[[International finance]]"
 ---

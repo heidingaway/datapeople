@@ -3,12 +3,13 @@ title: Aerospace industry
 longTitle: 'Aerospace industry'
 tags:
 - gccommon
-broaderTerm:
-- "[[Aviation industry]]"
+french:
+- "[[Industrie de laerospatiale]]"
 narrowerTerm:
-- "[[Manufacturing industry]]"
-relatedTerm:
-- "[[Space exploration]]"
-use:
-- "[[Avionics Space industry]]"
+- "[[Aviation industry]]"
+scopeNote:
+- "Economic activity dedicated to the design and manu"
+usedFor:
+- "[[Avionics]]"
+- "[[Space industry]]"
 ---

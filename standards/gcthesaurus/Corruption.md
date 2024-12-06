@@ -5,8 +5,6 @@ tags:
 - gccommon
 french:
 - "[[Corruption]]"
-narrowerTerm:
-- "[[Crime Fugitives from justice]]"
-use:
+usedFor:
 - "[[Bribery]]"
 ---

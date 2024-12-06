@@ -3,6 +3,8 @@ title: Tables
 longTitle: 'Tables'
 tags:
 - gccommon
-relatedTerm:
-- "[[Statistics]]"
+french:
+- "[[Tableau]]"
+scopeNote:
+- "Data sets arranged in rows and columns NOT to be u"
 ---

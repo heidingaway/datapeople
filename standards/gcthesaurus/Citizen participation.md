@@ -3,10 +3,12 @@ title: Citizen participation
 longTitle: 'Citizen participation'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Participation]]"
+french:
+- "[[Participation du citoyen]]"
 relatedTerm:
-- "[[Open government Civil rights]]"
-use:
+- "[[Civil rights]]"
+usedFor:
 - "[[Public participation]]"
 ---

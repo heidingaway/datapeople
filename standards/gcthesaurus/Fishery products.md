@@ -3,6 +3,6 @@ title: Fishery products
 longTitle: 'Fishery products'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Fisheries products]]"
 ---

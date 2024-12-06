@@ -3,10 +3,8 @@ title: Environmental economics
 longTitle: 'Environmental economics'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Economics]]"
-relatedTerm:
-- "[[Environment Environmental services]]"
-use:
+french:
+- "[[Economie de lenvironnement]]"
+usedFor:
 - "[[Environmental economy]]"
 ---

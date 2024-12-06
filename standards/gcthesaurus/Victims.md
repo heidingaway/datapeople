@@ -3,6 +3,10 @@ title: Victims
 longTitle: 'Victims'
 tags:
 - gccommon
-use:
+french:
+- "[[Victime]]"
+scopeNote:
+- "Persons to who have suffered physical emotional or"
+usedFor:
 - "[[Victimization]]"
 ---

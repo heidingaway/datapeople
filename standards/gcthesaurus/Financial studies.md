@@ -3,6 +3,6 @@ title: Financial studies
 longTitle: 'Financial studies'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Financial analysis]]"
 ---

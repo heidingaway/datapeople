@@ -3,8 +3,12 @@ title: Income security
 longTitle: 'Income security'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Social security]]"
-use:
-- "[[Income maintenance Income support Guaranteed incom]]"
+french:
+- "[[Securite du revenu]]"
+usedFor:
+- "[[Guaranteed income]]"
+- "[[Income maintenance]]"
+- "[[Income support]]"
 ---

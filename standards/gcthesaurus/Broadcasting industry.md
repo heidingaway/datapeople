@@ -3,8 +3,8 @@ title: Broadcasting industry
 longTitle: 'Broadcasting industry'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Service industry]]"
-relatedTerm:
-- "[[Cultural industry Broadcasting Communications indu]]"
+french:
+- "[[Industrie de la radiodiffusion]]"
+scopeNote:
+- "Economic activity dedicated to the making and broa"
 ---

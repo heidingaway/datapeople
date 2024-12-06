@@ -3,6 +3,6 @@ title: Drug prevention
 longTitle: 'Drug prevention'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Drug education]]"
 ---

@@ -3,12 +3,17 @@ title: Agri-food industry
 longTitle: 'Agri-food industry'
 tags:
 - gccommon
-broaderTerm:
-- "[[Dairy industry Beverage industry]]"
+french:
+- "[[Industrie agro-alimentaire]]"
 narrowerTerm:
-- "[[Manufacturing industry]]"
-relatedTerm:
-- "[[Food Agriculture Food supply Food processing Farms]]"
-use:
-- "[[Agricultural industry Agrifood industry Agro-indus]]"
+- "[[Beverage industry]]"
+- "[[Dairy industry]]"
+usedFor:
+- "[[Agricultural industry]]"
+- "[[Agricultural production]]"
+- "[[Agricultural sector]]"
+- "[[Agrifood industry]]"
+- "[[Agro-industry]]"
+- "[[Food industry]]"
+- "[[Food production]]"
 ---

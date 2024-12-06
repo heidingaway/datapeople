@@ -3,8 +3,6 @@ title: Cruise ships
 longTitle: 'Cruise ships'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Ships]]"
-relatedTerm:
-- "[[Tourism]]"
+french:
+- "[[Navire de croisiere]]"
 ---

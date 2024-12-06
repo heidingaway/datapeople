@@ -3,8 +3,12 @@ title: Labour market
 longTitle: 'Labour market'
 tags:
 - gccommon
+french:
+- "[[Marche du travail]]"
 relatedTerm:
-- "[[Labour mobility Unemployment Employers Labour Job ]]"
-use:
-- "[[Labor market Employment market Job market]]"
+- "[[Employers]]"
+usedFor:
+- "[[Employment market]]"
+- "[[Job market]]"
+- "[[Labor market]]"
 ---

@@ -3,6 +3,6 @@ title: Athletics
 longTitle: 'Athletics'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Sports]]"
 ---

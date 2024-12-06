@@ -3,6 +3,9 @@ title: Gases
 longTitle: 'Gases'
 tags:
 - gccommon
-broaderTerm:
-- "[[Greenhouse gases Propane Natural gas Ozone]]"
+french:
+- "[[Gaz]]"
+narrowerTerm:
+- "[[Greenhouse gases]]"
+- "[[Ozone]]"
 ---

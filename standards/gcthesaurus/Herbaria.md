@@ -3,10 +3,10 @@ title: Herbaria
 longTitle: 'Herbaria'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Collections]]"
-relatedTerm:
-- "[[Botany Plants]]"
-use:
+french:
+- "[[Herbier]]"
+scopeNote:
+- "Collections of dried plants used for botanical ref"
+usedFor:
 - "[[Herbariums]]"
 ---

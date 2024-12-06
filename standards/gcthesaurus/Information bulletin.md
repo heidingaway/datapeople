@@ -3,6 +3,8 @@ title: Information bulletin
 longTitle: 'Information bulletin'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Government information Government communications]]"
+broaderTerm:
+- "[[Government communications]]"
+french:
+- "[[Bulletin dinformation]]"
 ---

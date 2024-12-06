@@ -3,12 +3,10 @@ title: Social development
 longTitle: 'Social development'
 tags:
 - gccommon
-broaderTerm:
-- "[[Community development]]"
+french:
+- "[[Developpement social]]"
 narrowerTerm:
-- "[[Development]]"
-relatedTerm:
-- "[[Social movement Social indicators Social structure]]"
-use:
+- "[[Community development]]"
+usedFor:
 - "[[Social change]]"
 ---

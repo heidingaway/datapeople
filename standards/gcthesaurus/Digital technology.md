@@ -3,8 +3,8 @@ title: Digital technology
 longTitle: 'Digital technology'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Technology]]"
-use:
+french:
+- "[[Technologie numerique]]"
+usedFor:
 - "[[Digital transmission]]"
 ---

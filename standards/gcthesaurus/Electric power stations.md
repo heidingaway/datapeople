@@ -4,11 +4,20 @@ longTitle: 'Electric power stations'
 tags:
 - gccommon
 broaderTerm:
-- "[[Hydroelectric plants Nuclear power plants]]"
-narrowerTerm:
 - "[[Energy technology]]"
-relatedTerm:
-- "[[Electricity]]"
-use:
-- "[[Electric stations Wind power plants Generating pla]]"
+french:
+- "[[Centrale electrique]]"
+narrowerTerm:
+- "[[Hydroelectric plants]]"
+usedFor:
+- "[[Electric power generating stations]]"
+- "[[Electric power plants]]"
+- "[[Electric stations]]"
+- "[[Generating plants]]"
+- "[[Generating stations]]"
+- "[[Power generating stations]]"
+- "[[Power plants]]"
+- "[[Power stations]]"
+- "[[Thermal power plants]]"
+- "[[Wind power plants]]"
 ---

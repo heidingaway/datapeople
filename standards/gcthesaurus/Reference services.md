@@ -3,6 +3,8 @@ title: Reference services
 longTitle: 'Reference services'
 tags:
 - gccommon
-relatedTerm:
-- "[[Information requests Libraries]]"
+french:
+- "[[Service de reference]]"
+scopeNote:
+- "The processes of conducting an appropriate referen"
 ---

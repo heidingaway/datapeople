@@ -3,10 +3,11 @@ title: Animal research
 longTitle: 'Animal research'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Scientific research]]"
-relatedTerm:
-- "[[Veterinary medicine Zoology Animals Animal testing]]"
-use:
-- "[[Zoological research Veterinary research]]"
+french:
+- "[[Recherche sur les animaux]]"
+scopeNote:
+- "Research about animals and their biology habitat b"
+usedFor:
+- "[[Veterinary research]]"
+- "[[Zoological research]]"
 ---

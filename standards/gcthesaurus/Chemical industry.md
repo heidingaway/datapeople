@@ -3,10 +3,11 @@ title: Chemical industry
 longTitle: 'Chemical industry'
 tags:
 - gccommon
-broaderTerm:
-- "[[Pharmaceutical industry Plastics industry]]"
+french:
+- "[[Industrie chimique]]"
 narrowerTerm:
-- "[[Manufacturing industry]]"
-relatedTerm:
-- "[[Chemistry Chemicals]]"
+- "[[Pharmaceutical industry]]"
+- "[[Plastics industry]]"
+scopeNote:
+- "An economic activity dedicated to the manufacturin"
 ---

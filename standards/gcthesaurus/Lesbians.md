@@ -3,8 +3,8 @@ title: Lesbians
 longTitle: 'Lesbians'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Gay people]]"
-use:
+french:
+- "[[Lesbienne]]"
+usedFor:
 - "[[Gay women]]"
 ---

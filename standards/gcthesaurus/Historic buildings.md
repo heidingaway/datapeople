@@ -3,6 +3,6 @@ title: Historic buildings
 longTitle: 'Historic buildings'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Heritage buildings]]"
 ---

@@ -3,8 +3,8 @@ title: Volcanoes
 longTitle: 'Volcanoes'
 tags:
 - gccommon
-relatedTerm:
-- "[[Natural disasters]]"
-use:
+french:
+- "[[Volcan]]"
+usedFor:
 - "[[Volcanic eruptions]]"
 ---

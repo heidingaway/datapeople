@@ -3,8 +3,8 @@ title: Job classification
 longTitle: 'Job classification'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Classification]]"
-relatedTerm:
-- "[[Occupations Employment]]"
+french:
+- "[[Classification des emplois]]"
 ---

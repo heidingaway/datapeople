@@ -6,5 +6,5 @@ tags:
 french:
 - "[[Divorce]]"
 relatedTerm:
-- "[[Marriage Single parent families Child support Chil]]"
+- "[[Single parent families]]"
 ---

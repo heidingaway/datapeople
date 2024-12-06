@@ -3,10 +3,22 @@ title: Waste
 longTitle: 'Waste'
 tags:
 - gccommon
-broaderTerm:
-- "[[Electronic waste Industrial waste Domestic waste H]]"
+french:
+- "[[Dechets]]"
+narrowerTerm:
+- "[[Domestic waste]]"
+- "[[Electronic waste]]"
+- "[[Industrial waste]]"
 relatedTerm:
-- "[[Waste water Manure Waste management]]"
-use:
-- "[[Rubbish Solid waste Refuse Trash Garbage Discarded]]"
+- "[[Waste management]]"
+- "[[Waste water]]"
+usedFor:
+- "[[Discarded materials]]"
+- "[[Garbage]]"
+- "[[Refuse]]"
+- "[[Rubbish]]"
+- "[[Solid waste]]"
+- "[[Trash]]"
+- "[[Waste materials]]"
+- "[[Waste products]]"
 ---

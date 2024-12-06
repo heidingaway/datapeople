@@ -3,10 +3,13 @@ title: Foster families
 longTitle: 'Foster families'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Famille daccueil]]"
+narrowerTerm:
 - "[[Foster children]]"
 relatedTerm:
 - "[[Foster care placement]]"
-use:
-- "[[Family care home Foster home]]"
+usedFor:
+- "[[Family care home]]"
+- "[[Foster home]]"
 ---

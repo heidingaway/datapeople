@@ -3,6 +3,6 @@ title: Material disposal services
 longTitle: 'Material disposal services'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Disposal services]]"
 ---

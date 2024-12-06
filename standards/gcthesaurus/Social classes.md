@@ -3,6 +3,6 @@ title: Social classes
 longTitle: 'Social classes'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Social structure]]"
 ---

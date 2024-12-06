@@ -5,6 +5,4 @@ tags:
 - gccommon
 french:
 - "[[Costume]]"
-relatedTerm:
-- "[[Clothing]]"
 ---

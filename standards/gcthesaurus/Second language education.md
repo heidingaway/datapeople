@@ -3,10 +3,10 @@ title: Second language education
 longTitle: 'Second language education'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Language education]]"
-relatedTerm:
-- "[[Second languages]]"
-use:
+french:
+- "[[Enseignement de la langue seconde]]"
+usedFor:
 - "[[Second language teaching]]"
 ---

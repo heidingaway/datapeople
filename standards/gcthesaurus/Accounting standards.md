@@ -3,8 +3,8 @@ title: Accounting standards
 longTitle: 'Accounting standards'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Accounting]]"
-relatedTerm:
-- "[[Finance]]"
+french:
+- "[[Normes comptables]]"
 ---

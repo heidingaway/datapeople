@@ -3,8 +3,9 @@ title: Decorations
 longTitle: 'Decorations'
 tags:
 - gccommon
-relatedTerm:
-- "[[Awards]]"
-use:
-- "[[Medals Distinctions]]"
+french:
+- "[[Decoration]]"
+usedFor:
+- "[[Distinctions]]"
+- "[[Medals]]"
 ---

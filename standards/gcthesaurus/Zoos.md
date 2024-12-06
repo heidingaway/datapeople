@@ -3,6 +3,6 @@ title: Zoos
 longTitle: 'Zoos'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Zoological gardens]]"
 ---

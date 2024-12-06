@@ -3,8 +3,8 @@ title: Logistical support
 longTitle: 'Logistical support'
 tags:
 - gccommon
-relatedTerm:
-- "[[Logistics]]"
-use:
+french:
+- "[[Soutien logistique]]"
+usedFor:
 - "[[Logistic support]]"
 ---

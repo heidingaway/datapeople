@@ -3,8 +3,8 @@ title: Soil conservation
 longTitle: 'Soil conservation'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Resources conservation]]"
+french:
+- "[[Preservation des sols]]"
 relatedTerm:
-- "[[Soil Erosion]]"
+- "[[Erosion]]"
 ---

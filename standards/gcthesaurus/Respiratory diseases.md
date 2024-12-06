@@ -3,12 +3,11 @@ title: Respiratory diseases
 longTitle: 'Respiratory diseases'
 tags:
 - gccommon
-broaderTerm:
-- "[[Coronavirus diseases]]"
-narrowerTerm:
-- "[[Diseases]]"
-relatedTerm:
-- "[[Smoking]]"
-use:
-- "[[Cardiorespiratory diseases Pulmonary diseases Resp]]"
+french:
+- "[[Maladie respiratoire]]"
+usedFor:
+- "[[Lung diseases]]"
+- "[[Pulmonary diseases]]"
+- "[[Respiratory disorders]]"
+- "[[Respiratory illness]]"
 ---

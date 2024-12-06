@@ -3,12 +3,12 @@ title: Economic development
 longTitle: 'Economic development'
 tags:
 - gccommon
-broaderTerm:
-- "[[Sustainable development]]"
+french:
+- "[[Developpement economique]]"
 narrowerTerm:
-- "[[Development]]"
-relatedTerm:
-- "[[Economic policy Economic indicators Developing cou]]"
-use:
-- "[[Economic growth Commercial development Economic di]]"
+- "[[Sustainable development]]"
+usedFor:
+- "[[Commercial development]]"
+- "[[Economic diversification]]"
+- "[[Economic growth]]"
 ---

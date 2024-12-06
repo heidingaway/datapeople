@@ -3,10 +3,9 @@ title: Records management
 longTitle: 'Records management'
 tags:
 - gccommon
-broaderTerm:
-- "[[Records disposal Records retention]]"
+french:
+- "[[Gestion des documents]]"
 narrowerTerm:
-- "[[Management]]"
-relatedTerm:
-- "[[Office management Cataloguing Records Information ]]"
+- "[[Records disposal]]"
+- "[[Records retention]]"
 ---

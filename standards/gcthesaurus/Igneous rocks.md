@@ -3,10 +3,10 @@ title: Igneous rocks
 longTitle: 'Igneous rocks'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Earth sciences Geology]]"
+french:
+- "[[Roche ignee]]"
 relatedTerm:
 - "[[Hard rocks]]"
-use:
+usedFor:
 - "[[Magmatic rocks]]"
 ---

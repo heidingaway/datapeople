@@ -3,6 +3,6 @@ title: Economic penalties
 longTitle: 'Economic penalties'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Economic sanctions]]"
 ---

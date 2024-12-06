@@ -3,10 +3,10 @@ title: Birds
 longTitle: 'Birds'
 tags:
 - gccommon
-broaderTerm:
-- "[[Aquatic birds Migratory birds]]"
+french:
+- "[[Oiseau]]"
 narrowerTerm:
-- "[[Animals]]"
+- "[[Migratory birds]]"
 relatedTerm:
 - "[[Ornithology]]"
 ---

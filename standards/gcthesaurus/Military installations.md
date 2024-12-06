@@ -3,8 +3,12 @@ title: Military installations
 longTitle: 'Military installations'
 tags:
 - gccommon
+french:
+- "[[Installations militaires]]"
 relatedTerm:
 - "[[Military architecture]]"
-use:
-- "[[Naval bases Military bases Bases]]"
+usedFor:
+- "[[Bases]]"
+- "[[Military bases]]"
+- "[[Naval bases]]"
 ---

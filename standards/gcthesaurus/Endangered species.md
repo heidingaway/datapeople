@@ -3,8 +3,15 @@ title: Endangered species
 longTitle: 'Endangered species'
 tags:
 - gccommon
-relatedTerm:
-- "[[Protected species]]"
-use:
-- "[[Endangered wildlife Threatened species Species at ]]"
+french:
+- "[[Espece menacee]]"
+usedFor:
+- "[[Endangered animals]]"
+- "[[Endangered plants]]"
+- "[[Endangered wildlife]]"
+- "[[Rare animals]]"
+- "[[Rare plants]]"
+- "[[Rare species]]"
+- "[[Species at risk]]"
+- "[[Threatened species]]"
 ---

@@ -3,10 +3,13 @@ title: Crustaceans
 longTitle: 'Crustaceans'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Aquatic animals Arthropods]]"
-relatedTerm:
-- "[[Fisheries resources Seafood]]"
-use:
-- "[[Lobsters Shrimps Crustacea Crabs Shellfish]]"
+french:
+- "[[Crustace]]"
+scopeNote:
+- "Aquatic animals with an exoskeleton For aquatic an"
+usedFor:
+- "[[Crabs]]"
+- "[[Crustacea]]"
+- "[[Lobsters]]"
+- "[[Shrimps]]"
 ---

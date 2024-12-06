@@ -3,8 +3,10 @@ title: Marriage
 longTitle: 'Marriage'
 tags:
 - gccommon
-relatedTerm:
-- "[[Divorce Marital status Couples Family law Common-l]]"
-use:
+french:
+- "[[Mariage]]"
+scopeNote:
+- "Refers to civil marriage as well as religious marr"
+usedFor:
 - "[[Weddings]]"
 ---

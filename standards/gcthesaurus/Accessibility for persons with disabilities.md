@@ -3,10 +3,17 @@ title: Accessibility for persons with disabilities
 longTitle: 'Accessibility for persons with disabilities'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Accessibility]]"
+french:
+- "[[Accessibilite aux personnes handicapees]]"
 relatedTerm:
-- "[[Accessible transport Duty to accommodate Persons w]]"
-use:
-- "[[Wheelchair access Access for persons with disabili]]"
+- "[[Duty to accommodate]]"
+scopeNote:
+- "Easy access to a place a service or information fo"
+usedFor:
+- "[[Access for persons with disabilities]]"
+- "[[Barrier free access]]"
+- "[[Disabled access]]"
+- "[[Wheelchair access]]"
 ---

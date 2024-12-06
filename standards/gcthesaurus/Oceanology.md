@@ -3,6 +3,6 @@ title: Oceanology
 longTitle: 'Oceanology'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Oceanography]]"
 ---

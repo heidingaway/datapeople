@@ -3,8 +3,8 @@ title: Treasury board
 longTitle: 'Treasury board'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Governments]]"
+french:
+- "[[Conseil du Tresor]]"
 relatedTerm:
-- "[[Board of directors Treasury Board Secretariat]]"
+- "[[Treasury Board Secretariat]]"
 ---

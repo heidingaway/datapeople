@@ -3,8 +3,8 @@ title: Primates
 longTitle: 'Primates'
 tags:
 - gccommon
-broaderTerm:
-- "[[Human beings]]"
+french:
+- "[[Primate]]"
 narrowerTerm:
-- "[[Mammals]]"
+- "[[Human beings]]"
 ---

@@ -3,10 +3,18 @@ title: Fuels
 longTitle: 'Fuels'
 tags:
 - gccommon
-broaderTerm:
-- "[[Propane Alternative fuels Gasoline Natural gas Coa]]"
+french:
+- "[[Combustible]]"
+narrowerTerm:
+- "[[Diesel fuel]]"
+- "[[Gasoline]]"
+- "[[Petroleum]]"
 relatedTerm:
-- "[[Energy Fuel supply]]"
-use:
-- "[[Motor fuels Engine fuels Mineral fuels Fossil fuel]]"
+- "[[Fuel supply]]"
+usedFor:
+- "[[Engine fuels]]"
+- "[[Fossil fuels]]"
+- "[[Heating fuels]]"
+- "[[Mineral fuels]]"
+- "[[Motor fuels]]"
 ---

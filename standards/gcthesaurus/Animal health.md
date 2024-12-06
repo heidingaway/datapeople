@@ -3,10 +3,8 @@ title: Animal health
 longTitle: 'Animal health'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Health]]"
-relatedTerm:
-- "[[Animals Animal diseases Veterinary medicine]]"
-use:
+french:
+- "[[Sante animale]]"
+usedFor:
 - "[[Health of animals]]"
 ---

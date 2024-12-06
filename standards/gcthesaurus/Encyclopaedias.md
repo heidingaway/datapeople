@@ -3,6 +3,8 @@ title: Encyclopaedias
 longTitle: 'Encyclopaedias'
 tags:
 - gccommon
-use:
+french:
+- "[[Encyclopedie]]"
+usedFor:
 - "[[Encyclopedias]]"
 ---

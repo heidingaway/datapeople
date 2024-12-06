@@ -3,10 +3,10 @@ title: Grants
 longTitle: 'Grants'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Subvention]]"
+narrowerTerm:
 - "[[Research grants]]"
-relatedTerm:
-- "[[Allowances Scholarships Financial assistance Fundi]]"
-use:
+usedFor:
 - "[[Subsidies]]"
 ---

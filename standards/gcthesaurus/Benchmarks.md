@@ -3,10 +3,11 @@ title: Benchmarks
 longTitle: 'Benchmarks'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Standards]]"
-relatedTerm:
-- "[[Best practices Approval processes Testing Assessme]]"
-use:
-- "[[Benchmarking Bench marks]]"
+french:
+- "[[Repere]]"
+scopeNote:
+- "Value which is used to carry out comparisons or to"
+usedFor:
+- "[[Bench marks]]"
+- "[[Benchmarking]]"
 ---

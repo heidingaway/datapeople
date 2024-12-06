@@ -3,8 +3,13 @@ title: Telehealth
 longTitle: 'Telehealth'
 tags:
 - gccommon
+french:
+- "[[Telesante]]"
 relatedTerm:
-- "[[Medical technology Telemedicine Health care]]"
-use:
-- "[[E-health Telecare]]"
+- "[[Telemedicine]]"
+scopeNote:
+- "The use of information and communications technolo"
+usedFor:
+- "[[E-health]]"
+- "[[Telecare]]"
 ---

@@ -3,8 +3,8 @@ title: Supplies
 longTitle: 'Supplies'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Approvisionnements]]"
+narrowerTerm:
 - "[[Office supplies]]"
-relatedTerm:
-- "[[Purchasing Material management Suppliers]]"
 ---

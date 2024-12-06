@@ -3,10 +3,10 @@ title: Allowances
 longTitle: 'Allowances'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Allocation]]"
+narrowerTerm:
 - "[[Family allowances]]"
-relatedTerm:
-- "[[Benefits Salaries Grants Pensions]]"
-use:
-- "[[Compensation Annuities]]"
+usedFor:
+- "[[Compensation]]"
 ---

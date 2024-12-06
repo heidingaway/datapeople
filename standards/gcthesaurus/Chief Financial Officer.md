@@ -3,8 +3,8 @@ title: Chief Financial Officer
 longTitle: 'Chief Financial Officer'
 tags:
 - gccommon
-relatedTerm:
-- "[[Finance Financial management]]"
-use:
+french:
+- "[[Directeur des finances]]"
+usedFor:
 - "[[CFO]]"
 ---

@@ -3,6 +3,6 @@ title: Amphibia
 longTitle: 'Amphibia'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Amphibians]]"
 ---

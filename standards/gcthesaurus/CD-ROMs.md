@@ -3,6 +3,8 @@ title: CD-ROMs
 longTitle: 'CD-ROMs'
 tags:
 - gccommon
-relatedTerm:
-- "[[Compact discs Digital recordings]]"
+french:
+- "[[Cederom]]"
+scopeNote:
+- "Optical data storage medium using the same physica"
 ---

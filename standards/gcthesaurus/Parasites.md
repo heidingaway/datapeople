@@ -3,6 +3,6 @@ title: Parasites
 longTitle: 'Parasites'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Pests]]"
+french:
+- "[[Parasite]]"
 ---

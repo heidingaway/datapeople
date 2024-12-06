@@ -3,6 +3,6 @@ title: Climatic change
 longTitle: 'Climatic change'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Climate change]]"
 ---

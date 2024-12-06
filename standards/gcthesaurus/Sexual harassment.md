@@ -3,8 +3,8 @@ title: Sexual harassment
 longTitle: 'Sexual harassment'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Harassment]]"
-relatedTerm:
-- "[[Sexual offences Gender discrimination]]"
+french:
+- "[[Harcelement sexuel]]"
 ---

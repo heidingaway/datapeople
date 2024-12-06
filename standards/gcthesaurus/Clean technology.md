@@ -3,8 +3,8 @@ title: Clean technology
 longTitle: 'Clean technology'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Environmental technology]]"
-relatedTerm:
-- "[[Pollution prevention]]"
+french:
+- "[[Technologie propre]]"
+scopeNote:
+- "Environmental technology developed to reduce or el"
 ---

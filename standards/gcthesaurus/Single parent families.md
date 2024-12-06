@@ -3,10 +3,11 @@ title: Single parent families
 longTitle: 'Single parent families'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Family]]"
-relatedTerm:
-- "[[Divorce]]"
-use:
-- "[[Lone parent families One parent families]]"
+french:
+- "[[Famille monoparentale]]"
+usedFor:
+- "[[Lone parent families]]"
+- "[[One parent families]]"
 ---

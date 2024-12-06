@@ -3,10 +3,15 @@ title: Life skills
 longTitle: 'Life skills'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Skills]]"
-relatedTerm:
-- "[[Independent living Numeracy Literacy]]"
-use:
-- "[[Basic competencies Basic skills Living skills Esse]]"
+french:
+- "[[Habiletes fondamentales]]"
+scopeNote:
+- "Refers to the skills needed for work learning and "
+usedFor:
+- "[[Basic competencies]]"
+- "[[Basic skills]]"
+- "[[Essential skills]]"
+- "[[Living skills]]"
 ---

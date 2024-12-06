@@ -3,6 +3,6 @@ title: Marine protected areas
 longTitle: 'Marine protected areas'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Marine conservation areas]]"
 ---

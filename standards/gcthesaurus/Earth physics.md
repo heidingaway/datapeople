@@ -3,6 +3,6 @@ title: Earth physics
 longTitle: 'Earth physics'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Geophysics]]"
 ---

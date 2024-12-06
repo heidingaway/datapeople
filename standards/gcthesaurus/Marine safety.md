@@ -3,10 +3,13 @@ title: Marine safety
 longTitle: 'Marine safety'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Transportation safety]]"
+french:
+- "[[Securite maritime]]"
 relatedTerm:
-- "[[Marine accidents Navigation systems Lighthouses Ma]]"
-use:
-- "[[Marine navigation safety Safe boating Vessel safet]]"
+- "[[Marine accidents]]"
+- "[[Marine safety equipment]]"
+usedFor:
+- "[[Marine navigation safety]]"
+- "[[Safe boating]]"
+- "[[Vessel safety]]"
 ---

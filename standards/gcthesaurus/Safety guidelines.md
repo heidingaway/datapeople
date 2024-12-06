@@ -3,6 +3,6 @@ title: Safety guidelines
 longTitle: 'Safety guidelines'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Safety standards]]"
 ---

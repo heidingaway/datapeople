@@ -3,8 +3,19 @@ title: Programs
 longTitle: 'Programs'
 tags:
 - gccommon
-broaderTerm:
-- "[[Environmental programs Exchange programs Multilate]]"
+french:
+- "[[Programme]]"
+narrowerTerm:
+- "[[Aid programs]]"
+- "[[Community programs]]"
+- "[[Environmental programs]]"
+- "[[Exchange programs]]"
+- "[[Federal programs]]"
+- "[[Indigenous programs]]"
+- "[[International programs]]"
+- "[[Multilateral programs]]"
+- "[[Social programs]]"
 relatedTerm:
-- "[[Program development Program review Program assessm]]"
+- "[[Program delivery]]"
+- "[[Program development]]"
 ---

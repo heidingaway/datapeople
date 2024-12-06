@@ -3,10 +3,8 @@ title: Photography
 longTitle: 'Photography'
 tags:
 - gccommon
-broaderTerm:
-- "[[Aerial photography]]"
+french:
+- "[[Photographie Art]]"
 narrowerTerm:
-- "[[Visual arts]]"
-relatedTerm:
-- "[[Photographs]]"
+- "[[Aerial photography]]"
 ---

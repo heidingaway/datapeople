@@ -3,6 +3,8 @@ title: Operations
 longTitle: 'Operations'
 tags:
 - gccommon
-relatedTerm:
-- "[[Management Processing Planning]]"
+french:
+- "[[Fonctionnement]]"
+scopeNote:
+- "Planning management and operating functions of org"
 ---

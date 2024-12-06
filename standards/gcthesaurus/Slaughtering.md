@@ -3,8 +3,9 @@ title: Slaughtering
 longTitle: 'Slaughtering'
 tags:
 - gccommon
-relatedTerm:
-- "[[Animal husbandry Livestock]]"
-use:
-- "[[Slaughter of animals Animal slaughtering]]"
+french:
+- "[[Abattage danimaux]]"
+usedFor:
+- "[[Animal slaughtering]]"
+- "[[Slaughter of animals]]"
 ---

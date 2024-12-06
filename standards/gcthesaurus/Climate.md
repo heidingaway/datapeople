@@ -3,8 +3,12 @@ title: Climate
 longTitle: 'Climate'
 tags:
 - gccommon
+french:
+- "[[Climat]]"
 relatedTerm:
-- "[[Weather Meteorology Climate archives Climate chang]]"
-use:
+- "[[Climate archives]]"
+scopeNote:
+- "Meteorological elements that characterize the aver"
+usedFor:
 - "[[Climatology]]"
 ---

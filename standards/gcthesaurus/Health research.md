@@ -3,6 +3,6 @@ title: Health research
 longTitle: 'Health research'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Medical research]]"
 ---

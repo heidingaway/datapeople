@@ -3,10 +3,18 @@ title: Hazardous materials
 longTitle: 'Hazardous materials'
 tags:
 - gccommon
-broaderTerm:
-- "[[Hazardous waste Explosives]]"
+french:
+- "[[Matiere dangereuse]]"
+narrowerTerm:
+- "[[Explosives]]"
 relatedTerm:
-- "[[Hazardous materials transport Radioactive material]]"
-use:
-- "[[Hazardous substances Hazardous goods Hazardous pro]]"
+- "[[Hazardous materials transport]]"
+usedFor:
+- "[[Dangerous goods]]"
+- "[[Dangerous materials]]"
+- "[[Dangerous products]]"
+- "[[Dangerous substances]]"
+- "[[Hazardous goods]]"
+- "[[Hazardous products]]"
+- "[[Hazardous substances]]"
 ---

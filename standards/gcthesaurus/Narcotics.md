@@ -3,10 +3,14 @@ title: Narcotics
 longTitle: 'Narcotics'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Drogue]]"
+narrowerTerm:
 - "[[Marijuana]]"
-relatedTerm:
-- "[[Narcotic control Drug addiction Methadone Drug use]]"
-use:
-- "[[Addictive drugs Illicit drugs Illegal drugs]]"
+scopeNote:
+- "Any substances medicated or not taken for non-medi"
+usedFor:
+- "[[Addictive drugs]]"
+- "[[Illegal drugs]]"
+- "[[Illicit drugs]]"
 ---

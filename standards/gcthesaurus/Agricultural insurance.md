@@ -3,6 +3,6 @@ title: Agricultural insurance
 longTitle: 'Agricultural insurance'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Crop insurance]]"
 ---

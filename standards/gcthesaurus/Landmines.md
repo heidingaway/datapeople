@@ -3,10 +3,12 @@ title: Landmines
 longTitle: 'Landmines'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Weapons]]"
-relatedTerm:
-- "[[Demining]]"
-use:
-- "[[Land mines Anti-tank mines Antitank mines Antipers]]"
+french:
+- "[[Mine terrestre]]"
+usedFor:
+- "[[Anti-personnel mines]]"
+- "[[Anti-tank mines]]"
+- "[[Antipersonnel mines]]"
+- "[[Antitank mines]]"
+- "[[Land mines]]"
 ---

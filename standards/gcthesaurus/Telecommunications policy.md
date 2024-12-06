@@ -3,8 +3,6 @@ title: Telecommunications policy
 longTitle: 'Telecommunications policy'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Policy]]"
-relatedTerm:
-- "[[Telecommunications]]"
+french:
+- "[[Politique en matiere de telecommunications]]"
 ---

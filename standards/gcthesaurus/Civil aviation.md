@@ -3,10 +3,13 @@ title: Civil aviation
 longTitle: 'Civil aviation'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Aviation]]"
+french:
+- "[[Aviation civile]]"
 relatedTerm:
 - "[[Civilian aircraft]]"
-use:
-- "[[Recreational aviation Business aviation Commercial]]"
+usedFor:
+- "[[Business aviation]]"
+- "[[Civil aeronautics]]"
+- "[[Commercial aviation]]"
+- "[[Recreational aviation]]"
 ---

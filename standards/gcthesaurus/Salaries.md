@@ -3,12 +3,21 @@ title: Salaries
 longTitle: 'Salaries'
 tags:
 - gccommon
-broaderTerm:
-- "[[Severance pay Insurable earnings Minimum wage]]"
+french:
+- "[[Salaire]]"
 narrowerTerm:
-- "[[Income]]"
+- "[[Minimum wage]]"
+- "[[Severance pay]]"
 relatedTerm:
-- "[[Personal income Risk premiums Pay equity Allowance]]"
-use:
-- "[[Labour income Pay Employment income Labor income R]]"
+- "[[Risk premiums]]"
+scopeNote:
+- "The amount an employer pays an employee for work d"
+usedFor:
+- "[[Employment earnings]]"
+- "[[Employment income]]"
+- "[[Labor income]]"
+- "[[Labour income]]"
+- "[[Pay]]"
+- "[[Remuneration]]"
+- "[[Wages]]"
 ---

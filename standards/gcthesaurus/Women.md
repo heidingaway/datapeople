@@ -3,8 +3,8 @@ title: Women
 longTitle: 'Women'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Human beings]]"
+french:
+- "[[Femme]]"
 relatedTerm:
-- "[[Womens health Violence against women Status of wom]]"
+- "[[Womens health]]"
 ---

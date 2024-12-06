@@ -3,8 +3,8 @@ title: Family businesses
 longTitle: 'Family businesses'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Businesses]]"
-use:
+french:
+- "[[Entreprise familiale]]"
+usedFor:
 - "[[Family owned businesses]]"
 ---

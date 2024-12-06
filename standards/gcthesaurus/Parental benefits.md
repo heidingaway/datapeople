@@ -3,6 +3,6 @@ title: Parental benefits
 longTitle: 'Parental benefits'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Family allowances]]"
 ---

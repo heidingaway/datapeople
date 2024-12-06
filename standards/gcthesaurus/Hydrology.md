@@ -3,10 +3,12 @@ title: Hydrology
 longTitle: 'Hydrology'
 tags:
 - gccommon
-broaderTerm:
-- "[[Hydrography Hydrometry Hydrogeology]]"
+french:
+- "[[Hydrologie]]"
 narrowerTerm:
-- "[[Earth sciences]]"
+- "[[Hydrography]]"
 relatedTerm:
-- "[[Water Watersheds]]"
+- "[[Watersheds]]"
+scopeNote:
+- "The science that studies the properties circulatio"
 ---

@@ -3,6 +3,8 @@ title: Childhood
 longTitle: 'Childhood'
 tags:
 - gccommon
-relatedTerm:
-- "[[Children]]"
+french:
+- "[[Enfance]]"
+scopeNote:
+- "The period or stage in the development or existenc"
 ---

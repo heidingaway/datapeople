@@ -3,8 +3,11 @@ title: Postal services
 longTitle: 'Postal services'
 tags:
 - gccommon
-relatedTerm:
-- "[[Stamps Philately Electronic mail]]"
-use:
-- "[[Post offices Mail services Postage Postal codes]]"
+french:
+- "[[Service postal]]"
+usedFor:
+- "[[Mail services]]"
+- "[[Post offices]]"
+- "[[Postage]]"
+- "[[Postal codes]]"
 ---

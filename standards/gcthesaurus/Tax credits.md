@@ -3,8 +3,10 @@ title: Tax credits
 longTitle: 'Tax credits'
 tags:
 - gccommon
-relatedTerm:
-- "[[Fiscal assistance Income tax]]"
-use:
-- "[[Tax deductions Income tax deductions Tax rebates]]"
+french:
+- "[[Credit dimpot]]"
+usedFor:
+- "[[Income tax deductions]]"
+- "[[Tax deductions]]"
+- "[[Tax rebates]]"
 ---

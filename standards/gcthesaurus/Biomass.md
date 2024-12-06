@@ -3,8 +3,12 @@ title: Biomass
 longTitle: 'Biomass'
 tags:
 - gccommon
+french:
+- "[[Biomasse]]"
 relatedTerm:
-- "[[Ecosystems Bioenergy]]"
-use:
+- "[[Bioenergy]]"
+scopeNote:
+- "The total mass of living matter in a given unit ar"
+usedFor:
 - "[[Forest biomass]]"
 ---

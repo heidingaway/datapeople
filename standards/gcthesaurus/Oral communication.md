@@ -3,8 +3,11 @@ title: Oral communication
 longTitle: 'Oral communication'
 tags:
 - gccommon
+french:
+- "[[Communication orale]]"
 relatedTerm:
 - "[[Pronunciation]]"
-use:
-- "[[Speaking skills Public speaking]]"
+usedFor:
+- "[[Public speaking]]"
+- "[[Speaking skills]]"
 ---

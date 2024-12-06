@@ -3,10 +3,18 @@ title: Ethics
 longTitle: 'Ethics'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Ethique]]"
+narrowerTerm:
 - "[[Bioethics]]"
 relatedTerm:
 - "[[Values]]"
-use:
-- "[[Moral values Ethical issues Deontology Code of eth]]"
+usedFor:
+- "[[Code of ethics]]"
+- "[[Deontology]]"
+- "[[Ethical code]]"
+- "[[Ethical issues]]"
+- "[[Ethical values]]"
+- "[[Moral values]]"
+- "[[Professional ethics]]"
 ---

@@ -3,8 +3,10 @@ title: National anthems
 longTitle: 'National anthems'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[National symbols]]"
-relatedTerm:
-- "[[State ceremonial]]"
+french:
+- "[[Hymne national]]"
+scopeNote:
+- "Patriotic songs or hymns adopted officially and pl"
 ---

@@ -3,8 +3,10 @@ title: Demographic statistics
 longTitle: 'Demographic statistics'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Demographic data Statistics]]"
-relatedTerm:
-- "[[Population distribution Demography]]"
+broaderTerm:
+- "[[Demographic data]]"
+french:
+- "[[Statistiques demographiques]]"
+scopeNote:
+- "The numeric data that describes human populations "
 ---

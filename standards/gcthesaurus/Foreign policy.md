@@ -3,8 +3,8 @@ title: Foreign policy
 longTitle: 'Foreign policy'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Policy]]"
+french:
+- "[[Politique etrangere]]"
 relatedTerm:
-- "[[External relations Public diplomacy]]"
+- "[[Public diplomacy]]"
 ---

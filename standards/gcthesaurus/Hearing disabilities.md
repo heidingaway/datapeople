@@ -3,10 +3,11 @@ title: Hearing disabilities
 longTitle: 'Hearing disabilities'
 tags:
 - gccommon
-broaderTerm:
-- "[[Deafness]]"
+french:
+- "[[Deficience auditive]]"
 narrowerTerm:
-- "[[Disabilities]]"
-use:
-- "[[Hearing loss Hearing impairments]]"
+- "[[Deafness]]"
+usedFor:
+- "[[Hearing impairments]]"
+- "[[Hearing loss]]"
 ---

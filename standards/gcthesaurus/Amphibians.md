@@ -3,10 +3,8 @@ title: Amphibians
 longTitle: 'Amphibians'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Animals]]"
-relatedTerm:
-- "[[Aquatic animals]]"
-use:
+french:
+- "[[Amphibien]]"
+usedFor:
 - "[[Amphibia]]"
 ---

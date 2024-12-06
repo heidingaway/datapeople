@@ -3,8 +3,8 @@ title: Secondary education
 longTitle: 'Secondary education'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Education]]"
+french:
+- "[[Enseignement secondaire]]"
 relatedTerm:
 - "[[Secondary schools]]"
 ---

@@ -3,10 +3,18 @@ title: Assessment
 longTitle: 'Assessment'
 tags:
 - gccommon
-broaderTerm:
-- "[[Performance assessment Second language assessment ]]"
+french:
+- "[[Evaluation]]"
+narrowerTerm:
+- "[[Environmental impact assessment]]"
+- "[[Performance assessment]]"
+- "[[Program assessment]]"
+- "[[Second language assessment]]"
 relatedTerm:
-- "[[Merit Control Revision Testing Benchmarks Measurem]]"
-use:
-- "[[Appraisal Evaluations Grading]]"
+- "[[Merit]]"
+- "[[Revision]]"
+usedFor:
+- "[[Appraisal]]"
+- "[[Evaluations]]"
+- "[[Grading]]"
 ---

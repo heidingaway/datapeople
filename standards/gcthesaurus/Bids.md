@@ -3,6 +3,6 @@ title: Bids
 longTitle: 'Bids'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Tenders]]"
 ---

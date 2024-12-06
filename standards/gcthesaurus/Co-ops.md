@@ -3,6 +3,6 @@ title: Co-ops
 longTitle: 'Co-ops'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Cooperatives]]"
 ---

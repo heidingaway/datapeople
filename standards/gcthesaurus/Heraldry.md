@@ -3,8 +3,9 @@ title: Heraldry
 longTitle: 'Heraldry'
 tags:
 - gccommon
-relatedTerm:
-- "[[Symbols History]]"
-use:
-- "[[Coats of arms Arms Heraldry]]"
+french:
+- "[[Heraldique]]"
+usedFor:
+- "[[Arms Heraldry]]"
+- "[[Coats of arms]]"
 ---

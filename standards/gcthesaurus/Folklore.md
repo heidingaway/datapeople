@@ -6,5 +6,5 @@ tags:
 french:
 - "[[Folklore]]"
 relatedTerm:
-- "[[Folk art Popular culture Customs]]"
+- "[[Popular culture]]"
 ---

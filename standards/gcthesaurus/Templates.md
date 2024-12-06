@@ -3,6 +3,8 @@ title: Templates
 longTitle: 'Templates'
 tags:
 - gccommon
+french:
+- "[[Modeles]]"
 relatedTerm:
-- "[[Information technology Websites Data processing]]"
+- "[[Websites]]"
 ---

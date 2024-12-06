@@ -3,12 +3,17 @@ title: Ships
 longTitle: 'Ships'
 tags:
 - gccommon
-broaderTerm:
-- "[[Frigates Icebreakers Fishing ships Commercial ship]]"
+french:
+- "[[Navire]]"
 narrowerTerm:
-- "[[Vessels]]"
+- "[[Commercial ships]]"
+- "[[Cruise ships]]"
+- "[[Destroyers]]"
+- "[[Fishing ships]]"
+- "[[Frigates]]"
+- "[[Icebreakers]]"
 relatedTerm:
-- "[[Sailboats Shipbuilding Water transport]]"
-use:
+- "[[Sailboats]]"
+usedFor:
 - "[[Boats]]"
 ---

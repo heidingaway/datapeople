@@ -3,10 +3,17 @@ title: Ecosystems
 longTitle: 'Ecosystems'
 tags:
 - gccommon
-broaderTerm:
-- "[[Arctic ecosystems Aquatic ecosystems Prairie ecosy]]"
-relatedTerm:
-- "[[Biomass Environment Ecology]]"
-use:
-- "[[Ecozones Natural ecosystems]]"
+french:
+- "[[Ecosysteme]]"
+narrowerTerm:
+- "[[Aquatic ecosystems]]"
+- "[[Arctic ecosystems]]"
+- "[[Boreal ecosystems]]"
+- "[[Prairie ecosystems]]"
+- "[[Terrestrial ecosystems]]"
+scopeNote:
+- "A community living organisms together with the env"
+usedFor:
+- "[[Ecozones]]"
+- "[[Natural ecosystems]]"
 ---

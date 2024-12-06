@@ -3,8 +3,8 @@ title: Economic forecasting
 longTitle: 'Economic forecasting'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Forecasting]]"
-relatedTerm:
-- "[[Actuarial science Economic conditions Economic ana]]"
+french:
+- "[[Prevision economique]]"
 ---

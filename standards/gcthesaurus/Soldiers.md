@@ -3,6 +3,6 @@ title: Soldiers
 longTitle: 'Soldiers'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Military personnel]]"
 ---

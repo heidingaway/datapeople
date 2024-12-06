@@ -3,6 +3,6 @@ title: Womens equality
 longTitle: 'Women's equality'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Gender equality]]"
 ---

@@ -3,10 +3,8 @@ title: Environmental standards
 longTitle: 'Environmental standards'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Standards]]"
-relatedTerm:
-- "[[Environment Environmental quality]]"
-use:
+french:
+- "[[Norme relative a lenvironnement]]"
+usedFor:
 - "[[Pollution standards]]"
 ---

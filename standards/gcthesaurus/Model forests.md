@@ -3,6 +3,8 @@ title: Model forests
 longTitle: 'Model forests'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Forests]]"
+french:
+- "[[Foret modele]]"
 ---

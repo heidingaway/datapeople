@@ -3,10 +3,10 @@ title: Fresh water
 longTitle: 'Fresh water'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Water]]"
+french:
+- "[[Eau douce]]"
 relatedTerm:
-- "[[Drinking water Salt water]]"
-use:
+- "[[Drinking water]]"
+usedFor:
 - "[[Sweet water]]"
 ---

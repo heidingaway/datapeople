@@ -3,8 +3,8 @@ title: Laboratories
 longTitle: 'Laboratories'
 tags:
 - gccommon
-relatedTerm:
-- "[[Research institutes Experiments Research]]"
-use:
+french:
+- "[[Laboratoire]]"
+usedFor:
 - "[[Research laboratories]]"
 ---

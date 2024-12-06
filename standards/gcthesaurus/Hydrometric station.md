@@ -3,6 +3,6 @@ title: Hydrometric station
 longTitle: 'Hydrometric station'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Hydrometry]]"
+french:
+- "[[Station hydrometrique]]"
 ---

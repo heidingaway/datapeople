@@ -1,6 +1,6 @@
 ---
 title: Mediation
-longTitle: 'Médiation'
+longTitle: 'Mediation'
 tags:
 - gccommon
 french:

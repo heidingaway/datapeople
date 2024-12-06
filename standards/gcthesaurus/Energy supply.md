@@ -3,10 +3,13 @@ title: Energy supply
 longTitle: 'Energy supply'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Disponibilites energetiques]]"
+narrowerTerm:
 - "[[Fuel supply]]"
-relatedTerm:
-- "[[Energy Renewable energy Energy production Energy u]]"
-use:
-- "[[Energy resources Power supply Power resources Ener]]"
+usedFor:
+- "[[Energy resources]]"
+- "[[Energy sources]]"
+- "[[Power resources]]"
+- "[[Power supply]]"
 ---

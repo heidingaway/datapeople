@@ -3,10 +3,13 @@ title: Public administration
 longTitle: 'Public administration'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Administration publique]]"
+narrowerTerm:
 - "[[Departments]]"
-relatedTerm:
-- "[[Public service Supplementary estimates Portfolio F]]"
-use:
-- "[[Machinery of government Government administration]]"
+scopeNote:
+- "All organizations responsible for the implementati"
+usedFor:
+- "[[Government administration]]"
+- "[[Machinery of government]]"
 ---

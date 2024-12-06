@@ -3,8 +3,10 @@ title: Call for tenders
 longTitle: 'Call for tenders'
 tags:
 - gccommon
-relatedTerm:
-- "[[Contracting Tenders]]"
-use:
-- "[[Invitation to bid Tender call Request for tenders]]"
+french:
+- "[[Appel doffres]]"
+usedFor:
+- "[[Invitation to bid]]"
+- "[[Request for tenders]]"
+- "[[Tender call]]"
 ---

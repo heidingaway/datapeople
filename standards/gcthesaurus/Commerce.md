@@ -3,8 +3,6 @@ title: Commerce
 longTitle: 'Commerce'
 tags:
 - gccommon
-french:
-- "[[Trade]]"
-usedFor:
+use:
 - "[[Trade]]"
 ---

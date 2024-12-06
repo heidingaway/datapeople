@@ -3,8 +3,8 @@ title: Surface water
 longTitle: 'Surface water'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Water]]"
+french:
+- "[[Eau de surface]]"
 relatedTerm:
 - "[[Groundwater]]"
 ---

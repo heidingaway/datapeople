@@ -3,8 +3,12 @@ title: Children
 longTitle: 'Children'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Enfant]]"
+narrowerTerm:
 - "[[Infants]]"
 relatedTerm:
-- "[[Child custody Child development Violence against c]]"
+- "[[Childhood]]"
+scopeNote:
+- "Any human offspring between 0 and 14 years of age"
 ---

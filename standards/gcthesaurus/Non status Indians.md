@@ -3,6 +3,6 @@ title: Non status Indians
 longTitle: 'Non status Indians'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Non-Status Indians]]"
 ---

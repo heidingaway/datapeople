@@ -3,6 +3,6 @@ title: Migratory workers
 longTitle: 'Migratory workers'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Migrant workers]]"
 ---

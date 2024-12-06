@@ -3,12 +3,22 @@ title: Infectious diseases
 longTitle: 'Infectious diseases'
 tags:
 - gccommon
-broaderTerm:
-- "[[Coronavirus diseases Sexually transmitted diseases]]"
+french:
+- "[[Maladie infectieuse]]"
 narrowerTerm:
-- "[[Diseases]]"
+- "[[AIDS disease]]"
+- "[[Hepatitis]]"
+- "[[Influenza]]"
+- "[[Poxvirus diseases]]"
+- "[[Sexually transmitted diseases]]"
 relatedTerm:
-- "[[Immunization Quarantine Epidemiology Infected bloo]]"
-use:
-- "[[Virus diseases Microbial diseases Parasitic diseas]]"
+- "[[Quarantine]]"
+usedFor:
+- "[[Bacterial diseases]]"
+- "[[Communicable diseases]]"
+- "[[Contagious diseases]]"
+- "[[Microbial diseases]]"
+- "[[Parasitic diseases]]"
+- "[[Viral diseases]]"
+- "[[Virus diseases]]"
 ---

@@ -3,10 +3,19 @@ title: Industry
 longTitle: 'Industry'
 tags:
 - gccommon
-broaderTerm:
-- "[[Secondary industry Primary industry Service indust]]"
+french:
+- "[[Industrie]]"
+narrowerTerm:
+- "[[Primary industry]]"
+- "[[Secondary industry]]"
+- "[[Service industry]]"
 relatedTerm:
-- "[[Industrial management Industrial workers Industria]]"
-use:
+- "[[Industrial design]]"
+- "[[Industrial technology]]"
+- "[[Industrial workers]]"
+- "[[Industry classification]]"
+scopeNote:
+- "Economic activity related to natural resource deve"
+usedFor:
 - "[[Industrial sector]]"
 ---

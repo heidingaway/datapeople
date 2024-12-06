@@ -3,6 +3,6 @@ title: Patented medicines
 longTitle: 'Patented medicines'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Drugs]]"
+french:
+- "[[Medicament brevete]]"
 ---

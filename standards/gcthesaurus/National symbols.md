@@ -3,10 +3,8 @@ title: National symbols
 longTitle: 'National symbols'
 tags:
 - gccommon
-broaderTerm:
-- "[[National anthems]]"
+french:
+- "[[Symbole national]]"
 narrowerTerm:
-- "[[Symbols]]"
-relatedTerm:
-- "[[Flags Nationalism]]"
+- "[[National anthems]]"
 ---

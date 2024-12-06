@@ -3,10 +3,11 @@ title: Income tax
 longTitle: 'Income tax'
 tags:
 - gccommon
-broaderTerm:
-- "[[Corporate income tax Personal income tax]]"
+french:
+- "[[Impot sur le revenu]]"
 narrowerTerm:
-- "[[Taxes]]"
+- "[[Corporate income tax]]"
+- "[[Personal income tax]]"
 relatedTerm:
-- "[[Tax credits Fiscal law]]"
+- "[[Fiscal law]]"
 ---

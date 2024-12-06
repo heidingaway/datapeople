@@ -3,10 +3,13 @@ title: Performing arts
 longTitle: 'Performing arts'
 tags:
 - gccommon
-broaderTerm:
-- "[[Dance Theatre Humour Cinema]]"
+french:
+- "[[Arts dinterpretation]]"
 narrowerTerm:
-- "[[Arts]]"
+- "[[Cinema]]"
+- "[[Dance]]"
+- "[[Humour]]"
+- "[[Theatre]]"
 relatedTerm:
-- "[[Music Festivals]]"
+- "[[Festivals]]"
 ---

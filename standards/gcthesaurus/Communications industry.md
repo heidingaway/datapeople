@@ -3,8 +3,8 @@ title: Communications industry
 longTitle: 'Communications industry'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Service industry]]"
-relatedTerm:
-- "[[Communications Communications equipment Broadcasti]]"
+french:
+- "[[Industrie des communications]]"
+scopeNote:
+- "Economic activity dedicated to the offer of commun"
 ---

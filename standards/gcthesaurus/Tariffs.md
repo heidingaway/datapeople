@@ -3,8 +3,11 @@ title: Tariffs
 longTitle: 'Tariffs'
 tags:
 - gccommon
+french:
+- "[[Tarif douanier]]"
 relatedTerm:
-- "[[Tariff protection Customs and excise Tariff barrie]]"
-use:
+- "[[Tariff barriers]]"
+- "[[Tariff relief]]"
+usedFor:
 - "[[Customs tariffs]]"
 ---

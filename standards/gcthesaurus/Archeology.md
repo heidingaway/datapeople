@@ -3,6 +3,6 @@ title: Archeology
 longTitle: 'Archeology'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Archaeology]]"
 ---

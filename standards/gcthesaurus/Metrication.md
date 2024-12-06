@@ -3,6 +3,6 @@ title: Metrication
 longTitle: 'Metrication'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Metric system]]"
 ---

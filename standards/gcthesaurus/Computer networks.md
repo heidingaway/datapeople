@@ -3,12 +3,17 @@ title: Computer networks
 longTitle: 'Computer networks'
 tags:
 - gccommon
-broaderTerm:
-- "[[Internet Intranets]]"
+french:
+- "[[Reseau informatique]]"
 narrowerTerm:
-- "[[Networks]]"
+- "[[Internet]]"
+- "[[Intranets]]"
 relatedTerm:
-- "[[Computers Telecommunications Computer crime Inform]]"
-use:
-- "[[Wide area networks Electronic networks WANs Local ]]"
+- "[[Computer crime]]"
+usedFor:
+- "[[Electronic networks]]"
+- "[[LANs]]"
+- "[[Local area networks]]"
+- "[[WANs]]"
+- "[[Wide area networks]]"
 ---

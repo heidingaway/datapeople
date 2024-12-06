@@ -3,6 +3,6 @@ title: Foreign assistance
 longTitle: 'Foreign assistance'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Foreign aid]]"
 ---

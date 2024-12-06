@@ -3,6 +3,6 @@ title: Government finance
 longTitle: 'Government finance'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Public finance]]"
 ---

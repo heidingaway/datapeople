@@ -3,8 +3,8 @@ title: Employment equity
 longTitle: 'Employment equity'
 tags:
 - gccommon
-relatedTerm:
-- "[[Employment opportunities Pay equity Affirmative ac]]"
-use:
+french:
+- "[[Equite en matiere demploi]]"
+usedFor:
 - "[[Equality in employment]]"
 ---

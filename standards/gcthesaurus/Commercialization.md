@@ -3,6 +3,8 @@ title: Commercialization
 longTitle: 'Commercialization'
 tags:
 - gccommon
-relatedTerm:
-- "[[Marketing]]"
+french:
+- "[[Commercialisation]]"
+scopeNote:
+- "The adoption of a business-like approach to the de"
 ---

@@ -3,6 +3,6 @@ title: Electronic publications
 longTitle: 'Electronic publications'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Electronic documents]]"
 ---

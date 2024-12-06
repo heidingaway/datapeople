@@ -3,8 +3,8 @@ title: Ferries
 longTitle: 'Ferries'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Vessels]]"
+french:
+- "[[Traversier]]"
 relatedTerm:
-- "[[Hovercraft Road transport Tolls]]"
+- "[[Hovercraft]]"
 ---

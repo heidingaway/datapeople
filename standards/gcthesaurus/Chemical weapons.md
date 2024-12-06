@@ -3,10 +3,8 @@ title: Chemical weapons
 longTitle: 'Chemical weapons'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Weapons]]"
-relatedTerm:
-- "[[Chemicals Toxic substances Biological weapons Chem]]"
-use:
+french:
+- "[[Arme chimique]]"
+usedFor:
 - "[[Chemical warfare agents]]"
 ---

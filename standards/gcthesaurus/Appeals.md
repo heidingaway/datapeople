@@ -3,6 +3,8 @@ title: Appeals
 longTitle: 'Appeals'
 tags:
 - gccommon
+french:
+- "[[Appel]]"
 relatedTerm:
-- "[[Court decisions Complaints Recourse]]"
+- "[[Recourse]]"
 ---

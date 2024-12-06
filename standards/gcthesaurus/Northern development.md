@@ -3,10 +3,10 @@ title: Northern development
 longTitle: 'Northern development'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Regional development]]"
-relatedTerm:
-- "[[Northern studies Northern Canada Polar sciences]]"
-use:
+french:
+- "[[Developpement du Nord]]"
+usedFor:
 - "[[Northern economics]]"
 ---

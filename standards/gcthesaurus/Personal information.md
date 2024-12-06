@@ -3,6 +3,9 @@ title: Personal information
 longTitle: 'Personal information'
 tags:
 - gccommon
+french:
+- "[[Renseignements personnels]]"
 relatedTerm:
-- "[[Confidentiality Change of address Privacy Personal]]"
+- "[[Change of address]]"
+- "[[Personal information banks]]"
 ---

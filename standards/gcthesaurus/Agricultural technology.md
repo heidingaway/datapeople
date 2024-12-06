@@ -3,10 +3,13 @@ title: Agricultural technology
 longTitle: 'Agricultural technology'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Technology]]"
-relatedTerm:
-- "[[Agriculture]]"
-use:
-- "[[Farm machinery Agricultural machinery Agricultural]]"
+french:
+- "[[Technologie agricole]]"
+usedFor:
+- "[[Agricultural engineering]]"
+- "[[Agricultural equipment]]"
+- "[[Agricultural implements]]"
+- "[[Agricultural machinery]]"
+- "[[Farm equipment]]"
+- "[[Farm machinery]]"
 ---

@@ -3,10 +3,19 @@ title: Technological innovation
 longTitle: 'Technological innovation'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Innovation]]"
+french:
+- "[[Innovation technologique]]"
 relatedTerm:
 - "[[High technology]]"
-use:
-- "[[Technological change Technological breakthrough Te]]"
+usedFor:
+- "[[Technical innovation]]"
+- "[[Technical progress]]"
+- "[[Technological breakthrough]]"
+- "[[Technological change]]"
+- "[[Technological evolution]]"
+- "[[Technological progress]]"
+- "[[Technological revolution]]"
+- "[[Technology development]]"
 ---

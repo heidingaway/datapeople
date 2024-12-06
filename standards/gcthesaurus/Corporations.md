@@ -3,12 +3,17 @@ title: Corporations
 longTitle: 'Corporations'
 tags:
 - gccommon
-broaderTerm:
-- "[[Crown corporations Multinational corporations]]"
+french:
+- "[[Societes]]"
 narrowerTerm:
-- "[[Organizations]]"
+- "[[Crown corporations]]"
+- "[[Multinational corporations]]"
 relatedTerm:
-- "[[Mergers Incorporation Corporate income tax Partner]]"
-use:
-- "[[Incorporated companies Companies]]"
+- "[[Corporate income tax]]"
+- "[[Headquarters]]"
+scopeNote:
+- "A form of business authorized by federal provincia"
+usedFor:
+- "[[Companies]]"
+- "[[Incorporated companies]]"
 ---

@@ -3,8 +3,8 @@ title: Indigenous youth
 longTitle: 'Indigenous youth'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Indigenous peoples]]"
-use:
+french:
+- "[[Jeune autochtone]]"
+usedFor:
 - "[[Aboriginal youth]]"
 ---

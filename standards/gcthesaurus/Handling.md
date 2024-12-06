@@ -3,8 +3,8 @@ title: Handling
 longTitle: 'Handling'
 tags:
 - gccommon
-relatedTerm:
-- "[[Transport]]"
-use:
+french:
+- "[[Manutention]]"
+usedFor:
 - "[[Safe handling]]"
 ---

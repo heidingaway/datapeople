@@ -3,6 +3,8 @@ title: Devolution
 longTitle: 'Devolution'
 tags:
 - gccommon
-relatedTerm:
-- "[[Delegation of authority Accountability]]"
+french:
+- "[[Transfert de responsabilites]]"
+scopeNote:
+- "Decentralization of authority"
 ---

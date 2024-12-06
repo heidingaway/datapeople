@@ -3,10 +3,15 @@ title: Mining industry
 longTitle: 'Mining industry'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Primary industry]]"
+french:
+- "[[Industrie miniere]]"
 relatedTerm:
-- "[[Mining technology Prospecting Coal Mining accident]]"
-use:
-- "[[Mines Mining exploration Mining Mineral industry]]"
+- "[[Coal]]"
+- "[[Mining accidents]]"
+- "[[Mining technology]]"
+usedFor:
+- "[[Mineral industry]]"
+- "[[Mines]]"
+- "[[Mining]]"
+- "[[Mining exploration]]"
 ---

@@ -3,8 +3,12 @@ title: Market analysis
 longTitle: 'Market analysis'
 tags:
 - gccommon
-relatedTerm:
-- "[[Marketing Economic analysis Industry analysis Mark]]"
-use:
-- "[[Market studies Market research Market surveys]]"
+french:
+- "[[Analyse de marche]]"
+scopeNote:
+- "The research undertaken to predict the movement of"
+usedFor:
+- "[[Market research]]"
+- "[[Market studies]]"
+- "[[Market surveys]]"
 ---

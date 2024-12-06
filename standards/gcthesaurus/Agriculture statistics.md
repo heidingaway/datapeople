@@ -3,10 +3,8 @@ title: Agriculture statistics
 longTitle: 'Agriculture statistics'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Statistics]]"
-relatedTerm:
-- "[[Agriculture]]"
-use:
+french:
+- "[[Statistiques de lagriculture]]"
+usedFor:
 - "[[Agricultural statistics]]"
 ---

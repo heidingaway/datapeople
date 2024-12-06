@@ -3,10 +3,13 @@ title: Stem cells
 longTitle: 'Stem cells'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Cells]]"
-relatedTerm:
-- "[[Genetic engineering Cloning]]"
-use:
-- "[[Embryonic stem cells Mother cells Undifferentiated]]"
+french:
+- "[[Cellule souche]]"
+usedFor:
+- "[[Embryonic stem cells]]"
+- "[[Mother cells]]"
+- "[[Progenitor cells]]"
+- "[[Undifferentiated cells]]"
 ---

@@ -5,6 +5,4 @@ tags:
 - gccommon
 french:
 - "[[Hibernation]]"
-relatedTerm:
-- "[[Animals]]"
 ---

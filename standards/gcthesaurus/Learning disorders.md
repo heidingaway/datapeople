@@ -3,6 +3,6 @@ title: Learning disorders
 longTitle: 'Learning disorders'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Learning disabilities]]"
 ---

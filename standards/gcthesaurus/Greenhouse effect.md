@@ -3,8 +3,8 @@ title: Greenhouse effect
 longTitle: 'Greenhouse effect'
 tags:
 - gccommon
-relatedTerm:
-- "[[Greenhouse gases Environmental impact Global warmi]]"
-use:
+french:
+- "[[Effet de serre]]"
+usedFor:
 - "[[Atmospheric greenhouse effect]]"
 ---

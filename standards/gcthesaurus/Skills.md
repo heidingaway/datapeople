@@ -3,10 +3,14 @@ title: Skills
 longTitle: 'Skills'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Habiletes]]"
+narrowerTerm:
 - "[[Life skills]]"
 relatedTerm:
-- "[[Skills transfer Expertise Qualifications]]"
-use:
-- "[[Competencies Abilities]]"
+- "[[Expertise]]"
+- "[[Skills transfer]]"
+usedFor:
+- "[[Abilities]]"
+- "[[Competencies]]"
 ---

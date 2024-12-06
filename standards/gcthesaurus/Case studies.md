@@ -3,6 +3,6 @@ title: Case studies
 longTitle: 'Case studies'
 tags:
 - gccommon
-relatedTerm:
-- "[[Analysis]]"
+french:
+- "[[Etude de cas]]"
 ---

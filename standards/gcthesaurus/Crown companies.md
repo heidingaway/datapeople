@@ -3,6 +3,6 @@ title: Crown companies
 longTitle: 'Crown companies'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Crown corporations]]"
 ---

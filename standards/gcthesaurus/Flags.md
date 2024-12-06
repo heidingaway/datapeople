@@ -3,10 +3,10 @@ title: Flags
 longTitle: 'Flags'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Symbols]]"
+french:
+- "[[Drapeau]]"
 relatedTerm:
-- "[[National symbols Emblems]]"
-use:
+- "[[Emblems]]"
+usedFor:
 - "[[National flags]]"
 ---

@@ -3,6 +3,8 @@ title: Youth
 longTitle: 'Youth'
 tags:
 - gccommon
-relatedTerm:
-- "[[Adolescents Young adults Adolescence]]"
+french:
+- "[[Jeunesse]]"
+scopeNote:
+- "Young people aged 15 to 24"
 ---

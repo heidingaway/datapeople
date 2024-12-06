@@ -3,10 +3,14 @@ title: Rail transport
 longTitle: 'Rail transport'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Transport]]"
+french:
+- "[[Transport ferroviaire]]"
 relatedTerm:
-- "[[Railway installations Trains Railway safety Rail c]]"
-use:
-- "[[Rail transportation Rail traffic Railway transport]]"
+- "[[Railway installations]]"
+- "[[Railway networks]]"
+- "[[Trains]]"
+usedFor:
+- "[[Rail traffic]]"
+- "[[Rail transportation]]"
+- "[[Railway transport]]"
 ---

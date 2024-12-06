@@ -3,6 +3,6 @@ title: FSL
 longTitle: 'FSL'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[French second language]]"
 ---

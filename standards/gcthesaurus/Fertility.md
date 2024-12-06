@@ -3,8 +3,10 @@ title: Fertility
 longTitle: 'Fertility'
 tags:
 - gccommon
-relatedTerm:
-- "[[Semen Reproductive technology Animal reproduction ]]"
-use:
+french:
+- "[[Fecondite]]"
+scopeNote:
+- "The ability of animals to conceive or induce conce"
+usedFor:
 - "[[Infertility]]"
 ---

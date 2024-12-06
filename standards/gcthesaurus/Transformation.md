@@ -6,7 +6,9 @@ tags:
 french:
 - "[[Transformation]]"
 relatedTerm:
-- "[[Restructuring Reform Adjustment Processing]]"
-use:
-- "[[Transition Modification]]"
+- "[[Adjustment]]"
+- "[[Restructuring]]"
+usedFor:
+- "[[Modification]]"
+- "[[Transition]]"
 ---

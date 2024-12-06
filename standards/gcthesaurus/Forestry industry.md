@@ -3,12 +3,16 @@ title: Forestry industry
 longTitle: 'Forestry industry'
 tags:
 - gccommon
-broaderTerm:
-- "[[Lumber industry Pulp and paper industry Logging in]]"
+french:
+- "[[Industrie forestiere]]"
 narrowerTerm:
-- "[[Primary industry]]"
-relatedTerm:
-- "[[Forestry Forestry technology Forests Forestry prod]]"
-use:
-- "[[Forest products industry Forestry services industr]]"
+- "[[Logging industry]]"
+scopeNote:
+- "Set of economic activities related to the forestry"
+usedFor:
+- "[[Forest industry]]"
+- "[[Forest products industry]]"
+- "[[Forest sector]]"
+- "[[Forestry sector]]"
+- "[[Forestry services industry]]"
 ---

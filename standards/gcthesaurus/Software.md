@@ -3,8 +3,10 @@ title: Software
 longTitle: 'Software'
 tags:
 - gccommon
-relatedTerm:
-- "[[Computer programming Computers]]"
-use:
-- "[[Computer programs Computer programmes Computer sof]]"
+french:
+- "[[Logiciel]]"
+usedFor:
+- "[[Computer programmes]]"
+- "[[Computer programs]]"
+- "[[Computer software]]"
 ---

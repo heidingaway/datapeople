@@ -3,10 +3,10 @@ title: Foreign interference
 longTitle: 'Foreign interference'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[National security]]"
-relatedTerm:
-- "[[Computer security]]"
-use:
+french:
+- "[[Ingerence etrangere]]"
+usedFor:
 - "[[Foreign intervention]]"
 ---

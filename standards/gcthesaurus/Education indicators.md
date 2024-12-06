@@ -3,10 +3,8 @@ title: Education indicators
 longTitle: 'Education indicators'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Indicators]]"
-relatedTerm:
-- "[[Education]]"
-use:
+french:
+- "[[Indicateur de leducation]]"
+usedFor:
 - "[[Educational indicators]]"
 ---

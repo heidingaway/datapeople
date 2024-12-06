@@ -3,10 +3,14 @@ title: Conservation areas
 longTitle: 'Conservation areas'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Aire de conservation]]"
+narrowerTerm:
 - "[[Marine conservation areas]]"
-relatedTerm:
-- "[[Nature conservation Parks Resources conservation]]"
-use:
-- "[[Wildlife refugies Wildlife preserves Wildlife sanc]]"
+usedFor:
+- "[[Nature reserves]]"
+- "[[Protected areas]]"
+- "[[Wildlife preserves]]"
+- "[[Wildlife refugies]]"
+- "[[Wildlife sanctuaries]]"
 ---

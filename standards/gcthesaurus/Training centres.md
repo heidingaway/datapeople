@@ -3,8 +3,11 @@ title: Training centres
 longTitle: 'Training centres'
 tags:
 - gccommon
-relatedTerm:
-- "[[Training]]"
-use:
-- "[[Training facilities Learning centers Training cent]]"
+french:
+- "[[Centre de formation]]"
+usedFor:
+- "[[Learning centers]]"
+- "[[Learning centres]]"
+- "[[Training centers]]"
+- "[[Training facilities]]"
 ---

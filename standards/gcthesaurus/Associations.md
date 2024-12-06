@@ -3,10 +3,11 @@ title: Associations
 longTitle: 'Associations'
 tags:
 - gccommon
-broaderTerm:
-- "[[Labour unions Professional associations]]"
+french:
+- "[[Association]]"
 narrowerTerm:
-- "[[Organizations]]"
-relatedTerm:
-- "[[Interest groups]]"
+- "[[Labour unions]]"
+- "[[Professional associations]]"
+scopeNote:
+- "A gathering of people for a common purpose"
 ---

@@ -3,8 +3,8 @@ title: Sound archives
 longTitle: 'Sound archives'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Archives]]"
+french:
+- "[[Archives sonores]]"
 relatedTerm:
 - "[[Sound recordings]]"
 ---

@@ -3,8 +3,8 @@ title: Time zones
 longTitle: 'Time zones'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Time]]"
+french:
+- "[[Fuseau horaire]]"
 relatedTerm:
 - "[[Daylight saving time]]"
 ---

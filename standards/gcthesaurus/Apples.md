@@ -3,8 +3,8 @@ title: Apples
 longTitle: 'Apples'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Fruits]]"
-use:
+french:
+- "[[Pomme]]"
+usedFor:
 - "[[Apple products]]"
 ---

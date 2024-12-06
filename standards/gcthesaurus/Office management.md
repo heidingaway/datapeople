@@ -3,8 +3,8 @@ title: Office management
 longTitle: 'Office management'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Management]]"
+french:
+- "[[Gestion administrative]]"
 relatedTerm:
-- "[[Administrative data Records management Office auto]]"
+- "[[Administrative data]]"
 ---

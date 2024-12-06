@@ -3,6 +3,6 @@ title: Religious life
 longTitle: 'Religious life'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Religion]]"
 ---

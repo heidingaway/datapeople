@@ -3,6 +3,6 @@ title: Boarding schools
 longTitle: 'Boarding schools'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Residential schools]]"
 ---

@@ -3,6 +3,6 @@ title: Drinks
 longTitle: 'Drinks'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Beverages]]"
 ---

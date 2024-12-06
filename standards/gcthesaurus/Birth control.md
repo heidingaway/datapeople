@@ -3,6 +3,6 @@ title: Birth control
 longTitle: 'Birth control'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Family planning]]"
 ---

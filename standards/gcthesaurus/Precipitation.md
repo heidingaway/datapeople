@@ -1,8 +1,14 @@
 ---
 title: Precipitation
-longTitle: 'Précipitation'
+longTitle: 'Precipitation'
 tags:
 - gccommon
 french:
 - "[[Precipitation]]"
+narrowerTerm:
+- "[[Acid rain]]"
+- "[[Snow]]"
+usedFor:
+- "[[Rain]]"
+- "[[Rainfall]]"
 ---

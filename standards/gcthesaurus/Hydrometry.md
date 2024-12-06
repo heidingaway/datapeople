@@ -3,8 +3,11 @@ title: Hydrometry
 longTitle: 'Hydrometry'
 tags:
 - gccommon
-broaderTerm:
-- "[[Historical hydrometric data Hydrometric station Hy]]"
+french:
+- "[[Hydrometrie]]"
 narrowerTerm:
-- "[[Earth sciences Hydrology]]"
+- "[[Historical hydrometric data]]"
+- "[[Hydrometric network]]"
+- "[[Hydrometric station]]"
+- "[[Real-time hydrometric data]]"
 ---

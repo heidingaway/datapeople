@@ -3,8 +3,19 @@ title: Toxic substances
 longTitle: 'Toxic substances'
 tags:
 - gccommon
+french:
+- "[[Substance toxique]]"
 relatedTerm:
-- "[[Pesticides Chemicals Pollutants Poisoning Chemical]]"
-use:
-- "[[Poisons Poisonous substances Toxic waste Toxicants]]"
+- "[[Toxic spills]]"
+usedFor:
+- "[[Poisonous substances]]"
+- "[[Poisons]]"
+- "[[Toxic agents]]"
+- "[[Toxic compounds]]"
+- "[[Toxic materials]]"
+- "[[Toxic products]]"
+- "[[Toxic waste]]"
+- "[[Toxicants]]"
+- "[[Toxics]]"
+- "[[Toxins]]"
 ---

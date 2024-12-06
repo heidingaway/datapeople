@@ -3,8 +3,9 @@ title: Crisis
 longTitle: 'Crisis'
 tags:
 - gccommon
-broaderTerm:
-- "[[Humanitarian crisis Financial crisis]]"
-relatedTerm:
-- "[[Conflicts]]"
+french:
+- "[[Crise]]"
+narrowerTerm:
+- "[[Financial crisis]]"
+- "[[Humanitarian crisis]]"
 ---

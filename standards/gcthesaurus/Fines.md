@@ -3,6 +3,8 @@ title: Fines
 longTitle: 'Fines'
 tags:
 - gccommon
-relatedTerm:
-- "[[Economic sanctions]]"
+french:
+- "[[Amende]]"
+scopeNote:
+- "A monetary penalty incurred or imposed as a result"
 ---

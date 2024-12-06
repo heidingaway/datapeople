@@ -3,12 +3,10 @@ title: Poverty
 longTitle: 'Poverty'
 tags:
 - gccommon
-broaderTerm:
-- "[[Child poverty]]"
+french:
+- "[[Pauvrete]]"
 narrowerTerm:
-- "[[Social problems]]"
-relatedTerm:
-- "[[Homelessness Economic conditions Disadvantaged per]]"
-use:
+- "[[Child poverty]]"
+usedFor:
 - "[[Impoverishment]]"
 ---

@@ -3,8 +3,10 @@ title: Radiation
 longTitle: 'Radiation'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Rayonnement]]"
+narrowerTerm:
 - "[[Ultraviolet radiation]]"
 relatedTerm:
-- "[[Radioactive materials Radioactivity Magnetism Irra]]"
+- "[[Irradiation]]"
 ---

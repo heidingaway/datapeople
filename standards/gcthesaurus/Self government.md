@@ -3,8 +3,11 @@ title: Self government
 longTitle: 'Self government'
 tags:
 - gccommon
+french:
+- "[[Autonomie gouvernementale]]"
 relatedTerm:
-- "[[Governments Sovereignty]]"
-use:
-- "[[Political autonomy Aboriginal self government Self]]"
+- "[[Sovereignty]]"
+usedFor:
+- "[[Political autonomy]]"
+- "[[Self governance]]"
 ---

@@ -3,6 +3,6 @@ title: Second language evaluation
 longTitle: 'Second language evaluation'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Second language assessment]]"
 ---

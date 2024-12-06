@@ -3,8 +3,8 @@ title: Bacteria
 longTitle: 'Bacteria'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Microorganisms]]"
+french:
+- "[[Bacterie]]"
 relatedTerm:
 - "[[Bacteriology]]"
 ---

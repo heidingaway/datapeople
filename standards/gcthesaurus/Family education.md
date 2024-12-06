@@ -3,8 +3,8 @@ title: Family education
 longTitle: 'Family education'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Education]]"
-relatedTerm:
-- "[[Parenting]]"
+french:
+- "[[Education familiale]]"
+scopeNote:
+- "An educational program concerned with the improvem"
 ---

@@ -3,10 +3,12 @@ title: Geriatrics
 longTitle: 'Geriatrics'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Gerontology Medicine]]"
-relatedTerm:
-- "[[Seniors Aging]]"
-use:
+broaderTerm:
+- "[[Gerontology]]"
+french:
+- "[[Geriatrie]]"
+scopeNote:
+- "The branch of medicine concerned with the diagnosi"
+usedFor:
 - "[[Geriatric medicine]]"
 ---

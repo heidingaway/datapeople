@@ -3,8 +3,8 @@ title: Mining accidents
 longTitle: 'Mining accidents'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Occupational accidents]]"
-relatedTerm:
-- "[[Mining industry]]"
+french:
+- "[[Accident minier]]"
 ---

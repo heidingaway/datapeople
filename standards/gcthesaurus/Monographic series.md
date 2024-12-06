@@ -3,6 +3,8 @@ title: Monographic series
 longTitle: 'Monographic series'
 tags:
 - gccommon
-relatedTerm:
-- "[[Books]]"
+french:
+- "[[Collection de monographies]]"
+scopeNote:
+- "Series of monographs with a collective title that "
 ---

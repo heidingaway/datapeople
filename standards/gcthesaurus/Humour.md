@@ -5,8 +5,9 @@ tags:
 - gccommon
 french:
 - "[[Humour]]"
-narrowerTerm:
-- "[[Performing arts]]"
-use:
-- "[[Caricatures Humor]]"
+scopeNote:
+- "Oral visual or textual presentations that have the"
+usedFor:
+- "[[Caricatures]]"
+- "[[Humor]]"
 ---

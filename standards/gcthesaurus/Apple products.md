@@ -3,6 +3,6 @@ title: Apple products
 longTitle: 'Apple products'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Apples]]"
 ---

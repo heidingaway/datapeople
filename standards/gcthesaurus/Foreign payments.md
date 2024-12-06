@@ -3,8 +3,8 @@ title: Foreign payments
 longTitle: 'Foreign payments'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Monetary policy]]"
-relatedTerm:
-- "[[Currency Exchange rates]]"
+french:
+- "[[Paiement etranger]]"
 ---

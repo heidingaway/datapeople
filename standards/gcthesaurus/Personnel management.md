@@ -3,10 +3,14 @@ title: Personnel management
 longTitle: 'Personnel management'
 tags:
 - gccommon
-broaderTerm:
-- "[[Staffing Transfers of personnel Retention of staff]]"
+french:
+- "[[Gestion du personnel]]"
 narrowerTerm:
-- "[[Management]]"
+- "[[Recruiting]]"
+- "[[Retention of staff]]"
+- "[[Staffing]]"
+- "[[Transfers of personnel]]"
 relatedTerm:
-- "[[Employee discipline Leadership Human resources Sup]]"
+- "[[Employee discipline]]"
+- "[[Leadership]]"
 ---

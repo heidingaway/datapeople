@@ -3,8 +3,10 @@ title: Awards
 longTitle: 'Awards'
 tags:
 - gccommon
+french:
+- "[[Recompense]]"
 relatedTerm:
-- "[[Scholarships Decorations]]"
-use:
+- "[[Decorations]]"
+usedFor:
 - "[[Prizes]]"
 ---

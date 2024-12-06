@@ -3,10 +3,11 @@ title: Public transit
 longTitle: 'Public transit'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Transport]]"
+french:
+- "[[Transport en commun]]"
 relatedTerm:
-- "[[Buses Urban transit]]"
-use:
-- "[[Public transport Public transportation]]"
+- "[[Buses]]"
+usedFor:
+- "[[Public transport]]"
+- "[[Public transportation]]"
 ---

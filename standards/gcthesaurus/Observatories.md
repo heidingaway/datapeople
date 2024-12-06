@@ -3,6 +3,6 @@ title: Observatories
 longTitle: 'Observatories'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Astronomical observatories]]"
 ---

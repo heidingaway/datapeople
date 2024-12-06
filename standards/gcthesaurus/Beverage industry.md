@@ -3,12 +3,15 @@ title: Beverage industry
 longTitle: 'Beverage industry'
 tags:
 - gccommon
-broaderTerm:
-- "[[Wine industry]]"
+french:
+- "[[Industrie des boissons]]"
 narrowerTerm:
-- "[[Agri-food industry]]"
+- "[[Wine industry]]"
 relatedTerm:
 - "[[Beverages]]"
-use:
-- "[[Beverage sector Drink industry]]"
+scopeNote:
+- "Economic activity dedicated to the manufacturing a"
+usedFor:
+- "[[Beverage sector]]"
+- "[[Drink industry]]"
 ---

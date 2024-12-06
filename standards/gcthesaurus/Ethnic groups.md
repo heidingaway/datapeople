@@ -3,10 +3,13 @@ title: Ethnic groups
 longTitle: 'Ethnic groups'
 tags:
 - gccommon
-broaderTerm:
-- "[[Ethnic minorities]]"
+french:
+- "[[Groupe ethnique]]"
 relatedTerm:
-- "[[Heritage languages Cultural groups Ethnology]]"
-use:
-- "[[Ethnicity Ethnic communities Ethnic origin Racial ]]"
+- "[[Ethnology]]"
+usedFor:
+- "[[Ethnic communities]]"
+- "[[Ethnic origin]]"
+- "[[Ethnicity]]"
+- "[[Racial groups]]"
 ---

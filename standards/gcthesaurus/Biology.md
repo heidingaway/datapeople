@@ -3,10 +3,17 @@ title: Biology
 longTitle: 'Biology'
 tags:
 - gccommon
-broaderTerm:
-- "[[Physiology Zoology Marine biology Anatomy Microbio]]"
+french:
+- "[[Biologie]]"
 narrowerTerm:
-- "[[Life sciences]]"
+- "[[Anatomy]]"
+- "[[Botany]]"
+- "[[Genetics]]"
+- "[[Marine biology]]"
+- "[[Microbiology]]"
+- "[[Physiology]]"
+- "[[Zoology]]"
 relatedTerm:
-- "[[Ecology Palaeontology Biological products Biochemi]]"
+- "[[Biological diversity]]"
+- "[[Living organisms]]"
 ---

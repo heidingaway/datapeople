@@ -3,8 +3,8 @@ title: Foreign affairs
 longTitle: 'Foreign affairs'
 tags:
 - gccommon
-relatedTerm:
-- "[[External relations Visits of state]]"
-use:
+french:
+- "[[Affaires etrangeres]]"
+usedFor:
 - "[[International affairs]]"
 ---

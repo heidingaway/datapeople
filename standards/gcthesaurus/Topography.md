@@ -3,6 +3,9 @@ title: Topography
 longTitle: 'Topography'
 tags:
 - gccommon
+french:
+- "[[Topographie]]"
 relatedTerm:
-- "[[Geography Topographical maps Hydrography Mountains]]"
+- "[[Mountains]]"
+- "[[Topographical maps]]"
 ---

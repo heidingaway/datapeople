@@ -3,10 +3,11 @@ title: National debt
 longTitle: 'National debt'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Debt]]"
-relatedTerm:
-- "[[Debt management Public finance Debt redemption]]"
-use:
-- "[[Public debt Domestic debt]]"
+french:
+- "[[Dette nationale]]"
+usedFor:
+- "[[Domestic debt]]"
+- "[[Public debt]]"
 ---

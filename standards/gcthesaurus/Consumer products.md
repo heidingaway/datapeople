@@ -3,8 +3,8 @@ title: Consumer products
 longTitle: 'Consumer products'
 tags:
 - gccommon
-relatedTerm:
-- "[[Retail trade Industrial products Consumerism]]"
-use:
+french:
+- "[[Produit de consommation]]"
+usedFor:
 - "[[Consumer goods]]"
 ---

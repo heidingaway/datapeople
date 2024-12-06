@@ -3,10 +3,10 @@ title: Construction materials
 longTitle: 'Construction materials'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Materiau de construction]]"
+narrowerTerm:
 - "[[Concrete]]"
-relatedTerm:
-- "[[Construction industry Construction]]"
-use:
+usedFor:
 - "[[Building materials]]"
 ---

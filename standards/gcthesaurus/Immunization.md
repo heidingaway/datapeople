@@ -3,8 +3,8 @@ title: Immunization
 longTitle: 'Immunization'
 tags:
 - gccommon
-relatedTerm:
-- "[[Preventive medicine Health protection Epidemiology]]"
-use:
+french:
+- "[[Immunisation]]"
+usedFor:
 - "[[Vaccines]]"
 ---

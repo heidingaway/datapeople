@@ -3,10 +3,13 @@ title: History
 longTitle: 'History'
 tags:
 - gccommon
-broaderTerm:
-- "[[Military history Economic history Natural history ]]"
+french:
+- "[[Histoire]]"
 narrowerTerm:
-- "[[Social sciences]]"
-relatedTerm:
-- "[[Genealogy Archaeology Archives Historic sites Heri]]"
+- "[[Canadian history]]"
+- "[[Economic history]]"
+- "[[Military history]]"
+- "[[Natural history]]"
+- "[[Religious history]]"
+- "[[Social history]]"
 ---

@@ -3,8 +3,10 @@ title: Child poverty
 longTitle: 'Child poverty'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Poverty]]"
-use:
+french:
+- "[[Pauvrete dans lenfance]]"
+usedFor:
 - "[[Childhood poverty]]"
 ---

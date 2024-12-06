@@ -3,8 +3,8 @@ title: Tsunamis
 longTitle: 'Tsunamis'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Natural disasters]]"
-use:
+french:
+- "[[Tsunami]]"
+usedFor:
 - "[[Seismic sea waves]]"
 ---

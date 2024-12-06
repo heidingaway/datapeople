@@ -3,8 +3,10 @@ title: Regulation
 longTitle: 'Regulation'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Reglementation]]"
+narrowerTerm:
 - "[[Price regulation]]"
-relatedTerm:
-- "[[Policy Regulations Legislation Licensing]]"
+scopeNote:
+- "The act of creating implementing or dealing with d"
 ---

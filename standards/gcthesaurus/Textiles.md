@@ -3,8 +3,15 @@ title: Textiles
 longTitle: 'Textiles'
 tags:
 - gccommon
+french:
+- "[[Textile]]"
 relatedTerm:
-- "[[Weaving Textile industry Sewing Clothing Quilting]]"
-use:
-- "[[Fabrics Textile products Cloth Textile fabrics]]"
+- "[[Quilting]]"
+- "[[Sewing]]"
+- "[[Weaving]]"
+usedFor:
+- "[[Cloth]]"
+- "[[Fabrics]]"
+- "[[Textile fabrics]]"
+- "[[Textile products]]"
 ---

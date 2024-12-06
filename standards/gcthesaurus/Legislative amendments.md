@@ -3,6 +3,6 @@ title: Legislative amendments
 longTitle: 'Legislative amendments'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Amendments]]"
 ---

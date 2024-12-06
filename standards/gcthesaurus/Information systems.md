@@ -3,12 +3,14 @@ title: Information systems
 longTitle: 'Information systems'
 tags:
 - gccommon
-broaderTerm:
-- "[[Geographic information systems Management informat]]"
+french:
+- "[[Systeme dinformation]]"
 narrowerTerm:
-- "[[Systems]]"
-relatedTerm:
-- "[[Information technology Intelligent systems Databas]]"
-use:
-- "[[Computerized information systems Electronic inform]]"
+- "[[Geographic information systems]]"
+- "[[Management information systems]]"
+usedFor:
+- "[[Automated information systems]]"
+- "[[Computerized information systems]]"
+- "[[Electronic information systems]]"
+- "[[Information storage and retrieval systems]]"
 ---

@@ -3,6 +3,6 @@ title: Desktop publishing
 longTitle: 'Desktop publishing'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Electronic publishing]]"
 ---

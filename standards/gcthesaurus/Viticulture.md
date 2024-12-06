@@ -5,10 +5,8 @@ tags:
 - gccommon
 french:
 - "[[Viticulture]]"
-narrowerTerm:
-- "[[Agriculture]]"
-relatedTerm:
-- "[[Wine Wine industry Grapes]]"
-use:
-- "[[Grape growing Grape culture Viniculture]]"
+usedFor:
+- "[[Grape culture]]"
+- "[[Grape growing]]"
+- "[[Viniculture]]"
 ---

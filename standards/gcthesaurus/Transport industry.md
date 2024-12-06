@@ -3,12 +3,14 @@ title: Transport industry
 longTitle: 'Transport industry'
 tags:
 - gccommon
-broaderTerm:
-- "[[Rail transport industry Water transport industry A]]"
+french:
+- "[[Industrie du transport]]"
 narrowerTerm:
-- "[[Service industry]]"
-relatedTerm:
-- "[[Transport]]"
-use:
-- "[[Transportation industry Shipping industry]]"
+- "[[Air transport industry]]"
+- "[[Rail transport industry]]"
+- "[[Trucking industry]]"
+- "[[Water transport industry]]"
+usedFor:
+- "[[Shipping industry]]"
+- "[[Transportation industry]]"
 ---

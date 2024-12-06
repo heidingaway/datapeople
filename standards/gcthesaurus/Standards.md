@@ -3,8 +3,14 @@ title: Standards
 longTitle: 'Standards'
 tags:
 - gccommon
-broaderTerm:
-- "[[Quality standards Environmental standards Labour s]]"
+french:
+- "[[Norme]]"
+narrowerTerm:
+- "[[Benchmarks]]"
+- "[[Environmental standards]]"
+- "[[Labour standards]]"
+- "[[Quality standards]]"
+- "[[Safety standards]]"
 relatedTerm:
-- "[[Quality of service Standardization Codes of practi]]"
+- "[[Standardization]]"
 ---

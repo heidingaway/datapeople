@@ -3,8 +3,9 @@ title: Banking
 longTitle: 'Banking'
 tags:
 - gccommon
-relatedTerm:
-- "[[Banks]]"
-use:
-- "[[Automatic bank tellers Banking services]]"
+french:
+- "[[Operation bancaire]]"
+usedFor:
+- "[[Automatic bank tellers]]"
+- "[[Banking services]]"
 ---

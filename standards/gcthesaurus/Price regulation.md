@@ -3,10 +3,14 @@ title: Price regulation
 longTitle: 'Price regulation'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Regulation]]"
+french:
+- "[[Reglementation des prix]]"
 relatedTerm:
-- "[[Prices Pricing Economic regulations]]"
-use:
-- "[[Price freeze Price control Price stabilization]]"
+- "[[Economic regulations]]"
+usedFor:
+- "[[Price control]]"
+- "[[Price freeze]]"
+- "[[Price stabilization]]"
 ---

@@ -3,8 +3,8 @@ title: Lockers
 longTitle: 'Lockers'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Storage]]"
-relatedTerm:
-- "[[Labour mobility Workplace Office equipment]]"
+french:
+- "[[Casier]]"
 ---

@@ -3,10 +3,11 @@ title: Databases
 longTitle: 'Databases'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Base de donnees]]"
+narrowerTerm:
 - "[[Data mining]]"
-relatedTerm:
-- "[[Data processing Machine readable data Information ]]"
-use:
-- "[[Databanks Data registries]]"
+usedFor:
+- "[[Data registries]]"
+- "[[Databanks]]"
 ---

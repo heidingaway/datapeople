@@ -3,8 +3,8 @@ title: Contaminated sites
 longTitle: 'Contaminated sites'
 tags:
 - gccommon
-relatedTerm:
-- "[[Pollutants]]"
-use:
+french:
+- "[[Site contamine]]"
+usedFor:
 - "[[Hazardous waste sites]]"
 ---

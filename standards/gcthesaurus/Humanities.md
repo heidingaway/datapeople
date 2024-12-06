@@ -3,8 +3,8 @@ title: Humanities
 longTitle: 'Humanities'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Sciences humaines]]"
+narrowerTerm:
 - "[[Philosophy]]"
-relatedTerm:
-- "[[Social sciences Arts Culture]]"
 ---

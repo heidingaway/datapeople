@@ -3,8 +3,12 @@ title: Testimony
 longTitle: 'Testimony'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Evidence]]"
-relatedTerm:
-- "[[Hearings]]"
+french:
+- "[[Temoignage]]"
+historyNote:
+- "Changed from Testimonies to Testimony July 23 2003"
+scopeNote:
+- "A declaration made to establish a fact especially "
 ---

@@ -3,10 +3,14 @@ title: Foreign service
 longTitle: 'Foreign service'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Service diplomatique]]"
+narrowerTerm:
 - "[[Diplomatic missions]]"
-relatedTerm:
-- "[[External relations Delegations]]"
-use:
-- "[[Ambassadors Consuls Diplomacy Diplomats]]"
+scopeNote:
+- "The field force of a foreign office comprising dip"
+usedFor:
+- "[[Ambassadors]]"
+- "[[Diplomacy]]"
+- "[[Diplomats]]"
 ---

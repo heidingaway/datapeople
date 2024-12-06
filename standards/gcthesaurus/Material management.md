@@ -3,10 +3,11 @@ title: Material management
 longTitle: 'Material management'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Management]]"
-relatedTerm:
-- "[[Inventories Supplies Logistics]]"
-use:
-- "[[Materiel management Supply chain management]]"
+french:
+- "[[Gestion du materiel]]"
+scopeNote:
+- "All activities related to material life-cycle from"
+usedFor:
+- "[[Materiel management]]"
+- "[[Supply chain management]]"
 ---

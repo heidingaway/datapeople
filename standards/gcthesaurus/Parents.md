@@ -3,8 +3,8 @@ title: Parents
 longTitle: 'Parents'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Parent]]"
+narrowerTerm:
 - "[[Adoptive parents]]"
-relatedTerm:
-- "[[Family Children Parenting]]"
 ---

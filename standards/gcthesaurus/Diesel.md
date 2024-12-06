@@ -3,6 +3,6 @@ title: Diesel
 longTitle: 'Diesel'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Diesel fuel]]"
 ---

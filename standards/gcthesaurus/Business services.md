@@ -3,6 +3,11 @@ title: Business services
 longTitle: 'Business services'
 tags:
 - gccommon
-broaderTerm:
-- "[[Advertising Accounting]]"
+french:
+- "[[Services aux entreprises]]"
+narrowerTerm:
+- "[[Accounting]]"
+- "[[Advertising]]"
+scopeNote:
+- "Services and resources for managing and operating "
 ---

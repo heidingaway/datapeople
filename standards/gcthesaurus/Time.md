@@ -3,6 +3,9 @@ title: Time
 longTitle: 'Time'
 tags:
 - gccommon
-broaderTerm:
-- "[[Time zones Daylight saving time]]"
+french:
+- "[[Temps]]"
+narrowerTerm:
+- "[[Daylight saving time]]"
+- "[[Time zones]]"
 ---

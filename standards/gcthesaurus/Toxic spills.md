@@ -4,9 +4,9 @@ longTitle: 'Toxic spills'
 tags:
 - gccommon
 broaderTerm:
-- "[[Oil spills]]"
-narrowerTerm:
 - "[[Environmental accidents]]"
-relatedTerm:
-- "[[Toxic substances]]"
+french:
+- "[[Deversement de substances toxiques]]"
+narrowerTerm:
+- "[[Oil spills]]"
 ---

@@ -3,6 +3,6 @@ title: Monitoring
 longTitle: 'Monitoring'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Control]]"
 ---

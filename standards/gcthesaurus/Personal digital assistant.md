@@ -3,10 +3,10 @@ title: Personal digital assistant
 longTitle: 'Personal digital assistant'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Computers]]"
-relatedTerm:
-- "[[Telecommunications]]"
-use:
+french:
+- "[[Assistant numerique personnel]]"
+usedFor:
 - "[[PDA]]"
 ---

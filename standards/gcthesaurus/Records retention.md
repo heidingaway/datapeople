@@ -3,6 +3,6 @@ title: Records retention
 longTitle: 'Records retention'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Records management]]"
+french:
+- "[[Conservation des documents]]"
 ---

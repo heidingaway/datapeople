@@ -3,10 +3,18 @@ title: Products
 longTitle: 'Products'
 tags:
 - gccommon
-broaderTerm:
-- "[[Biological products Industrial products Agri-food ]]"
-relatedTerm:
-- "[[Product development Production Product recalls Pro]]"
-use:
+french:
+- "[[Produit]]"
+narrowerTerm:
+- "[[Agri-food products]]"
+- "[[Biological products]]"
+- "[[Commodities]]"
+- "[[Fisheries products]]"
+- "[[Forestry products]]"
+- "[[Green products]]"
+- "[[Health care products]]"
+- "[[Industrial products]]"
+- "[[Personal care products]]"
+usedFor:
 - "[[Commercial products]]"
 ---

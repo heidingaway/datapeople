@@ -3,6 +3,6 @@ title: Fine arts
 longTitle: 'Fine arts'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Visual arts]]"
 ---

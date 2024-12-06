@@ -3,6 +3,6 @@ title: Marketing campaigns
 longTitle: 'Marketing campaigns'
 tags:
 - gccommon
-relatedTerm:
-- "[[Marketing]]"
+french:
+- "[[Campagne de marketing]]"
 ---

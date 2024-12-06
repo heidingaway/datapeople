@@ -3,10 +3,8 @@ title: Equipment industry
 longTitle: 'Equipment industry'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Manufacturing industry]]"
-relatedTerm:
-- "[[Equipment]]"
-use:
+french:
+- "[[Industrie de lequipement]]"
+usedFor:
 - "[[Machinery industry]]"
 ---

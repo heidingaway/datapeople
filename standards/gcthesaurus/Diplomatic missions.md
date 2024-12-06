@@ -3,10 +3,12 @@ title: Diplomatic missions
 longTitle: 'Diplomatic missions'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Foreign service]]"
+french:
+- "[[Mission diplomatique]]"
 relatedTerm:
-- "[[Consular services Delegations]]"
-use:
-- "[[Consulates Embassies]]"
+- "[[Consular services]]"
+usedFor:
+- "[[Embassies]]"
 ---

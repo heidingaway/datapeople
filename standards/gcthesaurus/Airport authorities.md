@@ -3,8 +3,10 @@ title: Airport authorities
 longTitle: 'Airport authorities'
 tags:
 - gccommon
-relatedTerm:
-- "[[Airports]]"
-use:
+french:
+- "[[Administration aeroportuaire]]"
+scopeNote:
+- "Organizations responsible for managing an airport"
+usedFor:
 - "[[Airport administrations]]"
 ---

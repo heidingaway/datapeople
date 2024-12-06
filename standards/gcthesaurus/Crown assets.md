@@ -3,8 +3,9 @@ title: Crown assets
 longTitle: 'Crown assets'
 tags:
 - gccommon
-broaderTerm:
-- "[[Crown lands Official residences]]"
+french:
+- "[[Biens de la Couronne]]"
 narrowerTerm:
-- "[[Assets]]"
+- "[[Crown lands]]"
+- "[[Official residences]]"
 ---

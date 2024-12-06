@@ -3,6 +3,8 @@ title: Mandate
 longTitle: 'Mandate'
 tags:
 - gccommon
+french:
+- "[[Mandat]]"
 relatedTerm:
-- "[[Terms of reference Objectives Roles]]"
+- "[[Roles]]"
 ---

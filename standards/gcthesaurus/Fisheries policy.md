@@ -3,8 +3,6 @@ title: Fisheries policy
 longTitle: 'Fisheries policy'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Policy]]"
-relatedTerm:
-- "[[Fisheries]]"
+french:
+- "[[Politique des peches]]"
 ---

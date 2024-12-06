@@ -3,8 +3,10 @@ title: Young offenders
 longTitle: 'Young offenders'
 tags:
 - gccommon
+french:
+- "[[Jeune contrevenant]]"
 relatedTerm:
-- "[[Juvenile court Crime Correctional institutions Ado]]"
-use:
+- "[[Juvenile court]]"
+usedFor:
 - "[[Juvenile offenders]]"
 ---

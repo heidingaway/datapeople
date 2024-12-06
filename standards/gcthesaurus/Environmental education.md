@@ -3,10 +3,9 @@ title: Environmental education
 longTitle: 'Environmental education'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Education]]"
-relatedTerm:
-- "[[Environment]]"
-use:
-- "[[Environmental training Environmental awareness]]"
+french:
+- "[[Education a lenvironnement]]"
+usedFor:
+- "[[Environmental awareness]]"
+- "[[Environmental training]]"
 ---

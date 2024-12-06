@@ -3,8 +3,8 @@ title: Forest fires
 longTitle: 'Forest fires'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Fire]]"
-relatedTerm:
-- "[[Natural disasters Forests]]"
+french:
+- "[[Incendie de foret]]"
 ---

@@ -5,6 +5,4 @@ tags:
 - gccommon
 french:
 - "[[Extraction]]"
-relatedTerm:
-- "[[Primary industry]]"
 ---

@@ -3,10 +3,16 @@ title: Seniors
 longTitle: 'Seniors'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Adults]]"
+french:
+- "[[Aine]]"
 relatedTerm:
-- "[[Aging Old age Geriatrics Elder abuse Gerontology E]]"
-use:
-- "[[Elders Older adults Aged Senior citizens Elderly p]]"
+- "[[Status of the elderly]]"
+scopeNote:
+- "Persons aged 65 and older"
+usedFor:
+- "[[Aged]]"
+- "[[Elderly persons]]"
+- "[[Elders]]"
+- "[[Older adults]]"
+- "[[Senior citizens]]"
 ---

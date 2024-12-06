@@ -3,8 +3,10 @@ title: Behaviour
 longTitle: 'Behaviour'
 tags:
 - gccommon
+french:
+- "[[Comportement]]"
 relatedTerm:
-- "[[Psychology Attitudes Interpersonal relations]]"
-use:
+- "[[Interpersonal relations]]"
+usedFor:
 - "[[Behavior]]"
 ---

@@ -3,10 +3,8 @@ title: Resources management
 longTitle: 'Resources management'
 tags:
 - gccommon
-broaderTerm:
-- "[[Energy management]]"
+french:
+- "[[Gestion des ressources]]"
 narrowerTerm:
-- "[[Environmental management]]"
-relatedTerm:
-- "[[Natural resources Resources conservation]]"
+- "[[Energy management]]"
 ---

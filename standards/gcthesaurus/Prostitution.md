@@ -5,6 +5,4 @@ tags:
 - gccommon
 french:
 - "[[Prostitution]]"
-relatedTerm:
-- "[[Human trafficking Sexual offences]]"
 ---

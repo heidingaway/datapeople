@@ -3,10 +3,13 @@ title: Infants
 longTitle: 'Infants'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Children]]"
-relatedTerm:
-- "[[Infant care Infant nutrition Birth]]"
-use:
-- "[[Babies Newborns]]"
+french:
+- "[[Nouveau-ne]]"
+scopeNote:
+- "Recently born persons birth to one year"
+usedFor:
+- "[[Babies]]"
+- "[[Newborns]]"
 ---

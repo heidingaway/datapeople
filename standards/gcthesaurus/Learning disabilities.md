@@ -3,8 +3,8 @@ title: Learning disabilities
 longTitle: 'Learning disabilities'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Disabilities]]"
-use:
+french:
+- "[[Trouble dapprentissage]]"
+usedFor:
 - "[[Learning disorders]]"
 ---

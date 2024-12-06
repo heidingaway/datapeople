@@ -3,8 +3,8 @@ title: Road construction
 longTitle: 'Road construction'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Construction]]"
-relatedTerm:
-- "[[Road networks]]"
+french:
+- "[[Construction routiere]]"
 ---

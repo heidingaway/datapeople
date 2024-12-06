@@ -3,6 +3,6 @@ title: Air carriers
 longTitle: 'Air carriers'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Airlines]]"
 ---

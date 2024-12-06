@@ -3,10 +3,8 @@ title: Second language assessment
 longTitle: 'Second language assessment'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Assessment]]"
-relatedTerm:
-- "[[Second languages]]"
-use:
+french:
+- "[[Evaluation de la langue seconde]]"
+usedFor:
 - "[[Second language evaluation]]"
 ---

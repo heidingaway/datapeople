@@ -3,8 +3,8 @@ title: Functions
 longTitle: 'Functions'
 tags:
 - gccommon
-relatedTerm:
-- "[[Management]]"
-use:
+french:
+- "[[Fonction]]"
+usedFor:
 - "[[Tasks]]"
 ---

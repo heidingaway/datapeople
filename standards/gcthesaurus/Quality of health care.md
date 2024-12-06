@@ -3,6 +3,6 @@ title: Quality of health care
 longTitle: 'Quality of health care'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Health care quality]]"
 ---

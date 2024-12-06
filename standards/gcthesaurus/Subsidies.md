@@ -3,6 +3,6 @@ title: Subsidies
 longTitle: 'Subsidies'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Grants]]"
 ---

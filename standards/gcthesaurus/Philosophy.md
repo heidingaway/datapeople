@@ -3,6 +3,8 @@ title: Philosophy
 longTitle: 'Philosophy'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Humanities]]"
+french:
+- "[[Philosophie]]"
 ---

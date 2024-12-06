@@ -3,6 +3,6 @@ title: Pay equity
 longTitle: 'Pay equity'
 tags:
 - gccommon
-relatedTerm:
-- "[[Employment equity Salaries]]"
+french:
+- "[[Equite salariale]]"
 ---

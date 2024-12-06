@@ -3,6 +3,6 @@ title: Racism
 longTitle: 'Racism'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Racial discrimination]]"
 ---

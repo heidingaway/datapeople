@@ -3,10 +3,10 @@ title: Electronic publishing
 longTitle: 'Electronic publishing'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Publishing]]"
-relatedTerm:
-- "[[Electronic information Electronic documents]]"
-use:
+french:
+- "[[Edition electronique]]"
+usedFor:
 - "[[Desktop publishing]]"
 ---

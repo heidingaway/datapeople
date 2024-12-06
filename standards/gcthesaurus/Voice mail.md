@@ -3,8 +3,8 @@ title: Voice mail
 longTitle: 'Voice mail'
 tags:
 - gccommon
-relatedTerm:
-- "[[Telephones]]"
-use:
+french:
+- "[[Messagerie vocale]]"
+usedFor:
 - "[[Voice messaging]]"
 ---

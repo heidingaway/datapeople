@@ -3,8 +3,15 @@ title: Labour mobility
 longTitle: 'Labour mobility'
 tags:
 - gccommon
-relatedTerm:
-- "[[Labour force Lockers Labour Employment Labour mark]]"
-use:
-- "[[Job mobility Labor mobility Workforce mobility Man]]"
+french:
+- "[[Mobilite de la main-doeuvre]]"
+usedFor:
+- "[[Job mobility]]"
+- "[[Labor mobility]]"
+- "[[Labour force mobility]]"
+- "[[Manpower mobility]]"
+- "[[Occupational mobility]]"
+- "[[Work force mobility]]"
+- "[[Worker mobility]]"
+- "[[Workforce mobility]]"
 ---

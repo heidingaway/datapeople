@@ -3,12 +3,12 @@ title: Navigation systems
 longTitle: 'Navigation systems'
 tags:
 - gccommon
-broaderTerm:
-- "[[Global navigation satellite systems]]"
+french:
+- "[[Systeme daide a la navigation]]"
 narrowerTerm:
-- "[[Systems]]"
+- "[[Global navigation satellite systems]]"
 relatedTerm:
-- "[[Marine safety Radar Navigation]]"
-use:
+- "[[Radar]]"
+usedFor:
 - "[[Navigation aids]]"
 ---

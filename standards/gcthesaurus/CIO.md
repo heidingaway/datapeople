@@ -3,6 +3,6 @@ title: CIO
 longTitle: 'CIO'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Chief Information Officer]]"
 ---

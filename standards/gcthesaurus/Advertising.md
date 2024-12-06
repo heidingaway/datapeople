@@ -3,10 +3,12 @@ title: Advertising
 longTitle: 'Advertising'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Business services]]"
+french:
+- "[[Publicite]]"
 relatedTerm:
-- "[[Propaganda Posters Marketing Signs Awareness Trade]]"
-use:
-- "[[Advertising materials Advertisements Publicity]]"
+- "[[Propaganda]]"
+usedFor:
+- "[[Advertisements]]"
+- "[[Advertising materials]]"
+- "[[Publicity]]"
 ---

@@ -3,10 +3,11 @@ title: Botanical gardens
 longTitle: 'Botanical gardens'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Gardens]]"
-relatedTerm:
-- "[[Botany Recreational facilities]]"
-use:
-- "[[Arboretums Botanic gardens]]"
+french:
+- "[[Jardin botanique]]"
+usedFor:
+- "[[Arboretums]]"
+- "[[Botanic gardens]]"
 ---

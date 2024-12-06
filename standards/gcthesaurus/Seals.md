@@ -3,8 +3,8 @@ title: Seals
 longTitle: 'Seals'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Mammals Aquatic animals]]"
+french:
+- "[[Phoque]]"
 relatedTerm:
-- "[[Sealing Furs]]"
+- "[[Sealing]]"
 ---

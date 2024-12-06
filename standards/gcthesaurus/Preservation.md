@@ -3,6 +3,6 @@ title: Preservation
 longTitle: 'Preservation'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Conservation]]"
 ---

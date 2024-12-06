@@ -5,8 +5,6 @@ tags:
 - gccommon
 french:
 - "[[Hockey]]"
-narrowerTerm:
-- "[[Winter sports]]"
-use:
+usedFor:
 - "[[Ice hockey]]"
 ---

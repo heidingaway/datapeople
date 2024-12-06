@@ -3,8 +3,8 @@ title: Fuel supply
 longTitle: 'Fuel supply'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Energy supply]]"
-relatedTerm:
-- "[[Fuels]]"
+french:
+- "[[Disponibilites en combustible]]"
 ---

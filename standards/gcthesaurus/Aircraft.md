@@ -3,12 +3,13 @@ title: Aircraft
 longTitle: 'Aircraft'
 tags:
 - gccommon
-broaderTerm:
-- "[[Civilian aircraft Helicopters Military aircraft Ai]]"
+french:
+- "[[Aeronef]]"
 narrowerTerm:
-- "[[Vehicles]]"
-relatedTerm:
-- "[[Aviation industry Aircraft anti-icing Aircraft acc]]"
-use:
+- "[[Airplanes]]"
+- "[[Civilian aircraft]]"
+- "[[Helicopters]]"
+- "[[Military aircraft]]"
+usedFor:
 - "[[Wings Aircraft]]"
 ---

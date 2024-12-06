@@ -3,6 +3,8 @@ title: Injunctions
 longTitle: 'Injunctions'
 tags:
 - gccommon
-relatedTerm:
-- "[[Moratorium Prohibition]]"
+french:
+- "[[Injonction]]"
+scopeNote:
+- "Writs granted by a court whereby a person or organ"
 ---

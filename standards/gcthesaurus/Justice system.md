@@ -3,10 +3,17 @@ title: Justice system
 longTitle: 'Justice system'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Systems]]"
+french:
+- "[[Systeme judiciaire]]"
 relatedTerm:
-- "[[Courts Court decisions Judicial appointments Heari]]"
-use:
-- "[[Justice Judicial system Legal system Administratio]]"
+- "[[Arrests]]"
+- "[[Community justice]]"
+- "[[Court appearances]]"
+scopeNote:
+- "Legal provisions and institutions which control th"
+usedFor:
+- "[[Administration of justice]]"
+- "[[Judicial system]]"
+- "[[Justice]]"
+- "[[Legal system]]"
 ---

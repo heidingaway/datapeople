@@ -3,6 +3,8 @@ title: Web usability
 longTitle: 'Web usability'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Websites]]"
+french:
+- "[[Facilite demploi du Web]]"
 ---

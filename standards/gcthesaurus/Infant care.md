@@ -3,10 +3,10 @@ title: Infant care
 longTitle: 'Infant care'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Child care]]"
-relatedTerm:
-- "[[Infants Perinatal care]]"
-use:
+french:
+- "[[Soin du nouveau-ne]]"
+usedFor:
 - "[[Newborn care]]"
 ---

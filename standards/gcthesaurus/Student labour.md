@@ -3,10 +3,10 @@ title: Student labour
 longTitle: 'Student labour'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Labour]]"
-relatedTerm:
-- "[[Students]]"
-use:
+french:
+- "[[Travail etudiant]]"
+usedFor:
 - "[[Student labor]]"
 ---

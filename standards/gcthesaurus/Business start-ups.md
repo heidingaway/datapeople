@@ -3,8 +3,10 @@ title: Business start-ups
 longTitle: 'Business start-ups'
 tags:
 - gccommon
+french:
+- "[[Demarrage dune entreprise]]"
 relatedTerm:
-- "[[Acquisitions Businesses Business incubators Busine]]"
-use:
+- "[[Business incubators]]"
+usedFor:
 - "[[Business startups]]"
 ---

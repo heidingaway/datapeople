@@ -1,8 +1,10 @@
 ---
 title: Temperature
-longTitle: 'Température'
+longTitle: 'Temperature'
 tags:
 - gccommon
 french:
 - "[[Temperature]]"
+narrowerTerm:
+- "[[Air temperature]]"
 ---

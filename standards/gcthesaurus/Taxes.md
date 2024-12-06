@@ -3,10 +3,17 @@ title: Taxes
 longTitle: 'Taxes'
 tags:
 - gccommon
-broaderTerm:
-- "[[Income tax Provincial taxes Sales taxes Excise tax]]"
+french:
+- "[[Impot]]"
+narrowerTerm:
+- "[[Excise taxes]]"
+- "[[Federal taxes]]"
+- "[[Income tax]]"
+- "[[Property tax]]"
+- "[[Provincial taxes]]"
+- "[[Sales taxes]]"
 relatedTerm:
-- "[[Tax incentives Fiscal issues Tax avoidance Fiscal ]]"
-use:
+- "[[Tax refunds]]"
+usedFor:
 - "[[Taxation]]"
 ---

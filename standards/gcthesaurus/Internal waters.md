@@ -3,6 +3,6 @@ title: Internal waters
 longTitle: 'Internal waters'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Inland waters]]"
 ---

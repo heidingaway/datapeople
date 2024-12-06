@@ -3,6 +3,6 @@ title: War veterans
 longTitle: 'War veterans'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Veterans]]"
 ---

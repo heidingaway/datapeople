@@ -3,8 +3,8 @@ title: Military personnel
 longTitle: 'Military personnel'
 tags:
 - gccommon
-relatedTerm:
-- "[[Military training Armed forces Veterans]]"
-use:
+french:
+- "[[Personnel militaire]]"
+usedFor:
 - "[[Soldiers]]"
 ---

@@ -3,8 +3,9 @@ title: Packaging
 longTitle: 'Packaging'
 tags:
 - gccommon
-relatedTerm:
-- "[[Labelling]]"
-use:
-- "[[Packages Containers]]"
+french:
+- "[[Emballage]]"
+usedFor:
+- "[[Containers]]"
+- "[[Packages]]"
 ---

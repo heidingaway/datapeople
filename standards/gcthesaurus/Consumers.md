@@ -3,6 +3,8 @@ title: Consumers
 longTitle: 'Consumers'
 tags:
 - gccommon
+french:
+- "[[Consommateur]]"
 relatedTerm:
-- "[[Buyers Consumer protection Consumerism]]"
+- "[[Consumer protection]]"
 ---

@@ -3,6 +3,6 @@ title: Bullying
 longTitle: 'Bullying'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Intimidation]]"
 ---

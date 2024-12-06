@@ -3,8 +3,9 @@ title: Landslides
 longTitle: 'Landslides'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Natural disasters]]"
-use:
-- "[[Landslips Land slips]]"
+french:
+- "[[Glissement de terrain]]"
+usedFor:
+- "[[Land slips]]"
+- "[[Landslips]]"
 ---

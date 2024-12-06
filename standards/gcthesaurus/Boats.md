@@ -3,6 +3,6 @@ title: Boats
 longTitle: 'Boats'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Ships]]"
 ---

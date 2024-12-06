@@ -3,10 +3,8 @@ title: Disability pensions
 longTitle: 'Disability pensions'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Pensions]]"
-relatedTerm:
-- "[[Disabilities]]"
-use:
+french:
+- "[[Pension dinvalidite]]"
+usedFor:
 - "[[Disability benefits]]"
 ---

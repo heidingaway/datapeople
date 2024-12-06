@@ -3,6 +3,6 @@ title: Consumer goods
 longTitle: 'Consumer goods'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Consumer products]]"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Methadone
-longTitle: 'Méthadone'
+longTitle: 'Methadone'
 tags:
 - gccommon
 french:

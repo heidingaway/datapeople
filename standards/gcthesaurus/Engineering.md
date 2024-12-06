@@ -3,8 +3,10 @@ title: Engineering
 longTitle: 'Engineering'
 tags:
 - gccommon
-broaderTerm:
-- "[[Genetic engineering Military engineering Mechanica]]"
+french:
+- "[[Ingenierie]]"
 narrowerTerm:
-- "[[Technology]]"
+- "[[Genetic engineering]]"
+- "[[Mechanical engineering]]"
+- "[[Military engineering]]"
 ---

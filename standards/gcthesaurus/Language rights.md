@@ -3,8 +3,8 @@ title: Language rights
 longTitle: 'Language rights'
 tags:
 - gccommon
-relatedTerm:
-- "[[Minority language education Language minorities Hu]]"
-use:
+french:
+- "[[Droits linguistiques]]"
+usedFor:
 - "[[Minority language rights]]"
 ---

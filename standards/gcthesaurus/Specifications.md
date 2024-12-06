@@ -3,8 +3,9 @@ title: Specifications
 longTitle: 'Specifications'
 tags:
 - gccommon
-relatedTerm:
-- "[[Qualifications]]"
-use:
-- "[[Parameters Requirements]]"
+french:
+- "[[Specification]]"
+usedFor:
+- "[[Parameters]]"
+- "[[Requirements]]"
 ---

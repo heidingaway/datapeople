@@ -3,8 +3,8 @@ title: Reptiles
 longTitle: 'Reptiles'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Animals]]"
-use:
+french:
+- "[[Reptile]]"
+usedFor:
 - "[[Snakes]]"
 ---

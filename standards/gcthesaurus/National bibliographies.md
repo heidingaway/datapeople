@@ -3,8 +3,12 @@ title: National bibliographies
 longTitle: 'National bibliographies'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Bibliographies]]"
+french:
+- "[[Bibliographie nationale]]"
 relatedTerm:
 - "[[National libraries]]"
+scopeNote:
+- "Bibliographies of documents published or distribut"
 ---

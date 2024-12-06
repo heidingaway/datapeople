@@ -3,8 +3,8 @@ title: Tourism facilities
 longTitle: 'Tourism facilities'
 tags:
 - gccommon
-relatedTerm:
-- "[[Hospitality industry Tourism]]"
-use:
+french:
+- "[[Installations touristiques]]"
+usedFor:
 - "[[Tourism infrastructure]]"
 ---

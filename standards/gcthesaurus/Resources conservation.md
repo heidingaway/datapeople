@@ -3,10 +3,10 @@ title: Resources conservation
 longTitle: 'Resources conservation'
 tags:
 - gccommon
-broaderTerm:
-- "[[Soil conservation Water conservation Energy conser]]"
+french:
+- "[[Conservation des ressources]]"
 narrowerTerm:
-- "[[Conservation Environmental protection]]"
-relatedTerm:
-- "[[Resources management Natural resources Conservatio]]"
+- "[[Energy conservation]]"
+- "[[Soil conservation]]"
+- "[[Water conservation]]"
 ---

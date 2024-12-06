@@ -3,8 +3,11 @@ title: Conflicts
 longTitle: 'Conflicts'
 tags:
 - gccommon
-broaderTerm:
-- "[[Labour disputes Conflicts of interest]]"
+french:
+- "[[Conflit]]"
+narrowerTerm:
+- "[[Conflicts of interest]]"
+- "[[Labour disputes]]"
 relatedTerm:
-- "[[Arbitration Crisis Litigation Conflict resolution]]"
+- "[[Crisis]]"
 ---

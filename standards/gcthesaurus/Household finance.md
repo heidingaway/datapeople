@@ -3,8 +3,8 @@ title: Household finance
 longTitle: 'Household finance'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Finance]]"
+french:
+- "[[Credit menager]]"
 relatedTerm:
 - "[[Household income]]"
 ---

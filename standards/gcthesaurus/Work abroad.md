@@ -3,6 +3,6 @@ title: Work abroad
 longTitle: 'Work abroad'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Employment abroad]]"
 ---

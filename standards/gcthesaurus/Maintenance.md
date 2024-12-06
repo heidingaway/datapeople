@@ -3,8 +3,10 @@ title: Maintenance
 longTitle: 'Maintenance'
 tags:
 - gccommon
-relatedTerm:
-- "[[Home renovations]]"
-use:
-- "[[Repair Maintenance and repair Cleaning]]"
+french:
+- "[[Entretien]]"
+usedFor:
+- "[[Cleaning]]"
+- "[[Maintenance and repair]]"
+- "[[Repair]]"
 ---

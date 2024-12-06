@@ -3,6 +3,6 @@ title: Cows
 longTitle: 'Cows'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Cattle]]"
 ---

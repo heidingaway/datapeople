@@ -3,8 +3,14 @@ title: Coasts
 longTitle: 'Coasts'
 tags:
 - gccommon
-relatedTerm:
-- "[[Seas Oceans Coastal waters]]"
-use:
-- "[[Coastline Shoreline Coastlands Littoral zone Litto]]"
+french:
+- "[[Littoral]]"
+scopeNote:
+- "Refers to the interface between sea and land"
+usedFor:
+- "[[Coastlands]]"
+- "[[Coastline]]"
+- "[[Littoral]]"
+- "[[Littoral zone]]"
+- "[[Shoreline]]"
 ---

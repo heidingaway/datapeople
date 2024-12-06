@@ -3,10 +3,14 @@ title: Forecasting
 longTitle: 'Forecasting'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Prevision]]"
+narrowerTerm:
 - "[[Economic forecasting]]"
 relatedTerm:
-- "[[Future Expectations Trends]]"
-use:
-- "[[Projections Predictions Forecasts]]"
+- "[[Trends]]"
+usedFor:
+- "[[Forecasts]]"
+- "[[Predictions]]"
+- "[[Projections]]"
 ---

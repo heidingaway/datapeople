@@ -3,6 +3,6 @@ title: Badges
 longTitle: 'Badges'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Emblems]]"
 ---

@@ -3,6 +3,8 @@ title: Premiums
 longTitle: 'Premiums'
 tags:
 - gccommon
-relatedTerm:
-- "[[Fees Insurance Costs]]"
+french:
+- "[[Prime]]"
+scopeNote:
+- "The amount of money which a policyholder agrees to"
 ---

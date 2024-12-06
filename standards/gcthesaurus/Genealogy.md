@@ -3,6 +3,8 @@ title: Genealogy
 longTitle: 'Genealogy'
 tags:
 - gccommon
-relatedTerm:
-- "[[History Family Biographies]]"
+french:
+- "[[Genealogie]]"
+scopeNote:
+- "The study of the history of the descent of a perso"
 ---

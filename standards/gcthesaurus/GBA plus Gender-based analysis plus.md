@@ -3,6 +3,6 @@ title: GBA plus Gender-based analysis plus
 longTitle: 'GBA plus (Gender-based analysis plus)'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Gender-based analysis plus]]"
 ---

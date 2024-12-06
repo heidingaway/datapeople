@@ -3,6 +3,6 @@ title: Biological organisms
 longTitle: 'Biological organisms'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Living organisms]]"
 ---

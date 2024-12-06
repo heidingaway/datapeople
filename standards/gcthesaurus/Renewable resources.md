@@ -3,12 +3,12 @@ title: Renewable resources
 longTitle: 'Renewable resources'
 tags:
 - gccommon
-broaderTerm:
-- "[[Renewable energy Forests]]"
+french:
+- "[[Ressources renouvelables]]"
 narrowerTerm:
-- "[[Natural resources]]"
+- "[[Forests]]"
 relatedTerm:
 - "[[Non-renewable resources]]"
-use:
+usedFor:
 - "[[Renewable natural resources]]"
 ---

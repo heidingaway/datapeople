@@ -3,8 +3,8 @@ title: Working capital
 longTitle: 'Working capital'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Capital]]"
+french:
+- "[[Fonds de roulement]]"
 relatedTerm:
-- "[[Venture capital Growth capital]]"
+- "[[Venture capital]]"
 ---

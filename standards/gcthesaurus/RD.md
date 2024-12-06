@@ -3,6 +3,6 @@ title: RD
 longTitle: 'R&D'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Research and development]]"
 ---

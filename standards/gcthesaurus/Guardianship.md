@@ -3,6 +3,6 @@ title: Guardianship
 longTitle: 'Guardianship'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Stewardship]]"
 ---

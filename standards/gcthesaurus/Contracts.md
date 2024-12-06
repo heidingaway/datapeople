@@ -3,8 +3,12 @@ title: Contracts
 longTitle: 'Contracts'
 tags:
 - gccommon
-broaderTerm:
-- "[[Lease Service contracts Federal contracts]]"
+french:
+- "[[Contrat]]"
+narrowerTerm:
+- "[[Federal contracts]]"
+- "[[Lease]]"
+- "[[Service contracts]]"
 relatedTerm:
-- "[[Standing offers Terms of reference Contracting Agr]]"
+- "[[Warranties]]"
 ---

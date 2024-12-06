@@ -3,8 +3,8 @@ title: Constitutional law
 longTitle: 'Constitutional law'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Law]]"
+french:
+- "[[Droit constitutionnel]]"
 relatedTerm:
 - "[[Constitution]]"
 ---

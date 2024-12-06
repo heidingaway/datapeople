@@ -3,6 +3,6 @@ title: Climatology
 longTitle: 'Climatology'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Climate]]"
 ---

@@ -3,6 +3,8 @@ title: Cryptography
 longTitle: 'Cryptography'
 tags:
 - gccommon
-relatedTerm:
-- "[[National security Computer security Symbols]]"
+french:
+- "[[Cryptographie]]"
+scopeNote:
+- "The discipline that embodies the principles means "
 ---

@@ -3,6 +3,6 @@ title: Tax law
 longTitle: 'Tax law'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Fiscal law]]"
 ---

@@ -3,6 +3,6 @@ title: Computerization
 longTitle: 'Computerization'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Automation]]"
 ---

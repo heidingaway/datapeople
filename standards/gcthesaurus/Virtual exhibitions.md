@@ -3,6 +3,8 @@ title: Virtual exhibitions
 longTitle: 'Virtual exhibitions'
 tags:
 - gccommon
-relatedTerm:
-- "[[Museum collections Art exhibitions]]"
+french:
+- "[[Exposition virtuelle]]"
+scopeNote:
+- "A display in electronic format of works of art or "
 ---

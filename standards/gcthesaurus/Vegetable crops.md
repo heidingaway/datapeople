@@ -3,8 +3,8 @@ title: Vegetable crops
 longTitle: 'Vegetable crops'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Crops]]"
+french:
+- "[[Cultures maraicheres]]"
 relatedTerm:
 - "[[Vegetables]]"
 ---

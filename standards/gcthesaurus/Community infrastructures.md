@@ -3,8 +3,8 @@ title: Community infrastructures
 longTitle: 'Community infrastructures'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Infrastructures]]"
-relatedTerm:
-- "[[Community development]]"
+french:
+- "[[Infrastructure communautaire]]"
 ---

@@ -3,8 +3,6 @@ title: Workplace pollution
 longTitle: 'Workplace pollution'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Pollution]]"
-relatedTerm:
-- "[[Workplace Occupational health]]"
+french:
+- "[[Pollution en milieu de travail]]"
 ---

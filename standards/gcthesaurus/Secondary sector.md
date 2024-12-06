@@ -3,6 +3,6 @@ title: Secondary sector
 longTitle: 'Secondary sector'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Secondary industry]]"
 ---

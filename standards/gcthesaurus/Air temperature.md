@@ -3,10 +3,10 @@ title: Air temperature
 longTitle: 'Air temperature'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Temperature]]"
-relatedTerm:
-- "[[Greenhouse effect Global warming Weather]]"
-use:
+french:
+- "[[Temperature de lair]]"
+usedFor:
 - "[[Atmospheric temperature]]"
 ---

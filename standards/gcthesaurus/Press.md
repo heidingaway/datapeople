@@ -3,6 +3,6 @@ title: Press
 longTitle: 'Press'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Newspapers]]"
 ---

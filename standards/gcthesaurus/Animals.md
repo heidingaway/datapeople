@@ -3,10 +3,21 @@ title: Animals
 longTitle: 'Animals'
 tags:
 - gccommon
-broaderTerm:
-- "[[Reptiles Mammals Amphibians Domestic animals Aquat]]"
+french:
+- "[[Animal]]"
 narrowerTerm:
-- "[[Living organisms]]"
+- "[[Amphibians]]"
+- "[[Aquatic animals]]"
+- "[[Arthropods]]"
+- "[[Birds]]"
+- "[[Domestic animals]]"
+- "[[Game Wildlife]]"
+- "[[Livestock]]"
+- "[[Mammals]]"
+- "[[Molluscs]]"
+- "[[Reptiles]]"
 relatedTerm:
-- "[[Animal nutrition Animal health Animal husbandry An]]"
+- "[[Animal migrations]]"
+- "[[Animal rights]]"
+- "[[Hibernation]]"
 ---

@@ -3,6 +3,8 @@ title: Judges
 longTitle: 'Judges'
 tags:
 - gccommon
-relatedTerm:
-- "[[Justice system Judicial appointments]]"
+french:
+- "[[Juge]]"
+scopeNote:
+- "Public officials authorized to decide questions br"
 ---

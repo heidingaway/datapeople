@@ -3,6 +3,9 @@ title: Rates
 longTitle: 'Rates'
 tags:
 - gccommon
-broaderTerm:
-- "[[Exchange rates Interest rates]]"
+french:
+- "[[Taux]]"
+narrowerTerm:
+- "[[Exchange rates]]"
+- "[[Interest rates]]"
 ---

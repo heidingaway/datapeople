@@ -3,8 +3,8 @@ title: Community education
 longTitle: 'Community education'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Education]]"
-relatedTerm:
-- "[[Community development]]"
+french:
+- "[[Education communautaire]]"
+scopeNote:
+- "A process whereby learning resources and research "
 ---

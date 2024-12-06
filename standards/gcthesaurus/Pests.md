@@ -3,12 +3,15 @@ title: Pests
 longTitle: 'Pests'
 tags:
 - gccommon
-broaderTerm:
-- "[[Weeds Parasites]]"
+french:
+- "[[Organisme nuisible]]"
 narrowerTerm:
-- "[[Living organisms]]"
+- "[[Parasites]]"
 relatedTerm:
-- "[[Invasive species Pesticides]]"
-use:
-- "[[Agricultural pests Vermin Insect pests Animal pest]]"
+- "[[Invasive species]]"
+usedFor:
+- "[[Agricultural pests]]"
+- "[[Animal pests]]"
+- "[[Insect pests]]"
+- "[[Vermin]]"
 ---

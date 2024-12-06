@@ -3,6 +3,6 @@ title: Communiques
 longTitle: 'Communiqués'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Press releases]]"
 ---

@@ -3,6 +3,8 @@ title: Surgeons
 longTitle: 'Surgeons'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Surgery]]"
+french:
+- "[[Chirurgien]]"
 ---

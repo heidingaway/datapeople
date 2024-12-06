@@ -3,6 +3,6 @@ title: Planes
 longTitle: 'Planes'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Airplanes]]"
 ---

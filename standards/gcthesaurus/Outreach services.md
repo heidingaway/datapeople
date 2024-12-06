@@ -3,8 +3,10 @@ title: Outreach services
 longTitle: 'Outreach services'
 tags:
 - gccommon
-relatedTerm:
-- "[[Counselling services Community services]]"
-use:
+french:
+- "[[Depistage]]"
+scopeNote:
+- "Services that reach out beyond the usual boundarie"
+usedFor:
 - "[[Outreach]]"
 ---

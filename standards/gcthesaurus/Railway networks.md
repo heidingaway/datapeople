@@ -3,10 +3,15 @@ title: Railway networks
 longTitle: 'Railway networks'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Networks]]"
-relatedTerm:
-- "[[Rail transport]]"
-use:
-- "[[Railroad tracks Railways Railway tracks Rail netwo]]"
+french:
+- "[[Reseau ferroviaire]]"
+usedFor:
+- "[[Rail lines]]"
+- "[[Rail networks]]"
+- "[[Railroad tracks]]"
+- "[[Railroads]]"
+- "[[Railway lines]]"
+- "[[Railway systems]]"
+- "[[Railway tracks]]"
+- "[[Railways]]"
 ---

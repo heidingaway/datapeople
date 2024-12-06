@@ -3,8 +3,8 @@ title: Wild plants
 longTitle: 'Wild plants'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Plants]]"
-use:
+french:
+- "[[Plante sauvage]]"
+usedFor:
 - "[[Wild flora]]"
 ---

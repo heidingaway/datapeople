@@ -3,10 +3,18 @@ title: Sports
 longTitle: 'Sports'
 tags:
 - gccommon
-broaderTerm:
-- "[[Hiking Hunting Sport Fishing Sport Winter sports A]]"
+french:
+- "[[Sport]]"
+narrowerTerm:
+- "[[Amateur sports]]"
+- "[[Cycling]]"
+- "[[Fishing Sport]]"
+- "[[Hiking]]"
+- "[[Hunting Sport]]"
+- "[[Winter sports]]"
 relatedTerm:
-- "[[Fitness Sports events Recreation Athletes]]"
-use:
+- "[[Athletes]]"
+- "[[Sports events]]"
+usedFor:
 - "[[Athletics]]"
 ---

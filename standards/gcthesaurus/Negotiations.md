@@ -3,10 +3,11 @@ title: Negotiations
 longTitle: 'Negotiations'
 tags:
 - gccommon
-broaderTerm:
-- "[[Collective bargaining Trade negotiations]]"
-relatedTerm:
-- "[[Conciliation Conflict resolution Arbitration Agree]]"
-use:
+french:
+- "[[Negociation]]"
+narrowerTerm:
+- "[[Collective bargaining]]"
+- "[[Trade negotiations]]"
+usedFor:
 - "[[Bargaining]]"
 ---

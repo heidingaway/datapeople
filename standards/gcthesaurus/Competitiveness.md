@@ -3,6 +3,8 @@ title: Competitiveness
 longTitle: 'Competitiveness'
 tags:
 - gccommon
+french:
+- "[[Competitivite]]"
 relatedTerm:
-- "[[Economic development Competition]]"
+- "[[Competition]]"
 ---

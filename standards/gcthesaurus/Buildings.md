@@ -3,8 +3,14 @@ title: Buildings
 longTitle: 'Buildings'
 tags:
 - gccommon
-broaderTerm:
-- "[[Commercial buildings Farm buildings Industrial bui]]"
+french:
+- "[[Batiment]]"
+narrowerTerm:
+- "[[Commercial buildings]]"
+- "[[Farm buildings]]"
+- "[[Heritage buildings]]"
+- "[[Industrial buildings]]"
+- "[[Religious buildings]]"
 relatedTerm:
-- "[[Floors Construction Architecture]]"
+- "[[Floors]]"
 ---

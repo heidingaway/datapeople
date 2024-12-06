@@ -3,6 +3,6 @@ title: Sustainable transportation
 longTitle: 'Sustainable transportation'
 tags:
 - gccommon
-relatedTerm:
-- "[[Transport]]"
+french:
+- "[[Transport durable]]"
 ---

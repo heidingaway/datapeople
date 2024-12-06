@@ -3,6 +3,6 @@ title: Prohibition
 longTitle: 'Prohibition'
 tags:
 - gccommon
-relatedTerm:
-- "[[Injunctions Moratorium]]"
+french:
+- "[[Interdiction]]"
 ---

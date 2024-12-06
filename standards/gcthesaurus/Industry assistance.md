@@ -3,8 +3,9 @@ title: Industry assistance
 longTitle: 'Industry assistance'
 tags:
 - gccommon
-relatedTerm:
-- "[[Industrial development]]"
-use:
-- "[[Industrial aid Industrial assistance]]"
+french:
+- "[[Aide a lindustrie]]"
+usedFor:
+- "[[Industrial aid]]"
+- "[[Industrial assistance]]"
 ---

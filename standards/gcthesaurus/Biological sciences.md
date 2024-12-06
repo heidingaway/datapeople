@@ -3,6 +3,6 @@ title: Biological sciences
 longTitle: 'Biological sciences'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Life sciences]]"
 ---

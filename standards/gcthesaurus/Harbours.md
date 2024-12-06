@@ -3,12 +3,14 @@ title: Harbours
 longTitle: 'Harbours'
 tags:
 - gccommon
-broaderTerm:
-- "[[Marinas]]"
+french:
+- "[[Port]]"
 narrowerTerm:
-- "[[Marine installations]]"
+- "[[Marinas]]"
 relatedTerm:
-- "[[Water transport Harbour authorities Wharfs]]"
-use:
-- "[[Harbors Ports]]"
+- "[[Harbour authorities]]"
+- "[[Wharfs]]"
+usedFor:
+- "[[Harbors]]"
+- "[[Ports]]"
 ---

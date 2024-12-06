@@ -3,6 +3,6 @@ title: Armories
 longTitle: 'Armories'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Armouries]]"
 ---

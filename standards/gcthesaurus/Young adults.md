@@ -3,8 +3,8 @@ title: Young adults
 longTitle: 'Young adults'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Adults]]"
-relatedTerm:
-- "[[Youth Adulthood]]"
+french:
+- "[[Jeune adulte]]"
+scopeNote:
+- "Young people aged 20-34"
 ---

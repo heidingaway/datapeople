@@ -3,6 +3,6 @@ title: Sector analysis
 longTitle: 'Sector analysis'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Analysis]]"
+french:
+- "[[Analyse sectorielle]]"
 ---

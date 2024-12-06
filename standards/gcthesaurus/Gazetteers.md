@@ -3,8 +3,8 @@ title: Gazetteers
 longTitle: 'Gazetteers'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Directories]]"
-relatedTerm:
-- "[[Toponymy Geography]]"
+french:
+- "[[Repertoire geographique]]"
+scopeNote:
+- "Geographical dictionaries of names and description"
 ---

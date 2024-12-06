@@ -3,8 +3,12 @@ title: Industrial waste
 longTitle: 'Industrial waste'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Waste]]"
-use:
-- "[[Commercial solid waste Commercial waste Trade wast]]"
+french:
+- "[[Dechets industriels]]"
+usedFor:
+- "[[Commercial refuse]]"
+- "[[Commercial solid waste]]"
+- "[[Commercial waste]]"
+- "[[Industrial solid waste]]"
+- "[[Trade waste]]"
 ---

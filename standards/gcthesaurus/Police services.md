@@ -3,8 +3,10 @@ title: Police services
 longTitle: 'Police services'
 tags:
 - gccommon
+french:
+- "[[Service de police]]"
 relatedTerm:
-- "[[Crime prevention Emergency preparedness Indigenous]]"
-use:
+- "[[Policing]]"
+usedFor:
 - "[[Law enforcement]]"
 ---

@@ -3,6 +3,6 @@ title: Office furnitures
 longTitle: 'Office furnitures'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Office equipment]]"
 ---

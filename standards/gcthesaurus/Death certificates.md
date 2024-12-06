@@ -3,6 +3,6 @@ title: Death certificates
 longTitle: 'Death certificates'
 tags:
 - gccommon
-relatedTerm:
-- "[[Death]]"
+french:
+- "[[Certificat de deces]]"
 ---

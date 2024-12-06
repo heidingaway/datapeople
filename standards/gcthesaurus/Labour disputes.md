@@ -3,10 +3,14 @@ title: Labour disputes
 longTitle: 'Labour disputes'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Conflicts]]"
-relatedTerm:
-- "[[Labour relations]]"
-use:
-- "[[Labor disputes Labour conflicts Lockouts Work to r]]"
+french:
+- "[[Conflit de travail]]"
+usedFor:
+- "[[Labor conflicts]]"
+- "[[Labor disputes]]"
+- "[[Labour conflicts]]"
+- "[[Lock-outs]]"
+- "[[Lockouts]]"
+- "[[Strikes]]"
+- "[[Work to rules]]"
 ---

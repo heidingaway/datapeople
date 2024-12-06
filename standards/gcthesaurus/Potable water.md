@@ -3,6 +3,6 @@ title: Potable water
 longTitle: 'Potable water'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Drinking water]]"
 ---

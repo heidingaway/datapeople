@@ -3,8 +3,8 @@ title: Conglomerates
 longTitle: 'Conglomerates'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Businesses]]"
-relatedTerm:
-- "[[Corporations Mergers]]"
+french:
+- "[[Conglomerat]]"
+scopeNote:
+- "Corporations formed by many mergers and acquisitio"
 ---

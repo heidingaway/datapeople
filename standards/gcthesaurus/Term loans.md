@@ -3,8 +3,6 @@ title: Term loans
 longTitle: 'Term loans'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Loans]]"
-relatedTerm:
-- "[[Debtors Borrowers]]"
+french:
+- "[[Pret a terme]]"
 ---

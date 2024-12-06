@@ -3,6 +3,6 @@ title: Health industry
 longTitle: 'Health industry'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Health care industry]]"
 ---

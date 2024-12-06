@@ -3,6 +3,6 @@ title: Geosciences
 longTitle: 'Geosciences'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Earth sciences]]"
 ---

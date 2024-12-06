@@ -3,8 +3,8 @@ title: Digital collections
 longTitle: 'Digital collections'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Collections]]"
+french:
+- "[[Collection numerique]]"
 relatedTerm:
 - "[[Digital libraries]]"
 ---

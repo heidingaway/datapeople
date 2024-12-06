@@ -3,12 +3,12 @@ title: Palaeontology
 longTitle: 'Palaeontology'
 tags:
 - gccommon
-broaderTerm:
-- "[[Paleobotany]]"
+french:
+- "[[Paleontologie]]"
 narrowerTerm:
-- "[[Geology]]"
+- "[[Paleobotany]]"
 relatedTerm:
-- "[[Fossils Biology]]"
-use:
+- "[[Fossils]]"
+usedFor:
 - "[[Paleontology]]"
 ---

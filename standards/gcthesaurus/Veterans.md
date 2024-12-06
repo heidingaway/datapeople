@@ -3,8 +3,10 @@ title: Veterans
 longTitle: 'Veterans'
 tags:
 - gccommon
+french:
+- "[[Ancien combattant]]"
 relatedTerm:
-- "[[Military personnel Veteran pensions]]"
-use:
+- "[[Veteran pensions]]"
+usedFor:
 - "[[War veterans]]"
 ---

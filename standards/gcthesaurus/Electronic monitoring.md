@@ -3,8 +3,8 @@ title: Electronic monitoring
 longTitle: 'Electronic monitoring'
 tags:
 - gccommon
-relatedTerm:
-- "[[Security intelligence]]"
-use:
+french:
+- "[[Surveillance electronique]]"
+usedFor:
 - "[[Electronic surveillance]]"
 ---

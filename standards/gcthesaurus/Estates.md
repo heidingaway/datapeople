@@ -3,8 +3,8 @@ title: Estates
 longTitle: 'Estates'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Personal assets]]"
-relatedTerm:
-- "[[Property Inheritance Probate]]"
+french:
+- "[[Succession]]"
+scopeNote:
+- "Investments money property or other valuables belo"
 ---

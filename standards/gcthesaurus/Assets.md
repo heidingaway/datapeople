@@ -3,8 +3,17 @@ title: Assets
 longTitle: 'Assets'
 tags:
 - gccommon
-broaderTerm:
-- "[[Crown assets Property Investments Securities Capit]]"
-relatedTerm:
-- "[[Divestiture]]"
+french:
+- "[[Actif]]"
+narrowerTerm:
+- "[[Bonds]]"
+- "[[Capital]]"
+- "[[Crown assets]]"
+- "[[Investments]]"
+- "[[Personal assets]]"
+- "[[Property]]"
+- "[[Securities]]"
+- "[[Shares]]"
+scopeNote:
+- "Any property owned by a person or a business Asset"
 ---

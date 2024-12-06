@@ -3,6 +3,6 @@ title: Political organizations
 longTitle: 'Political organizations'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Political parties]]"
 ---

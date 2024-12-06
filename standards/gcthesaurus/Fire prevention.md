@@ -3,10 +3,10 @@ title: Fire prevention
 longTitle: 'Fire prevention'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Prevention]]"
+french:
+- "[[Prevention des incendies]]"
 relatedTerm:
-- "[[Safety measures Fire Safety]]"
-use:
+- "[[Fire]]"
+usedFor:
 - "[[Fire safety]]"
 ---

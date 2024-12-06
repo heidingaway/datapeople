@@ -3,8 +3,10 @@ title: Freight
 longTitle: 'Freight'
 tags:
 - gccommon
-relatedTerm:
-- "[[Shipping Transport]]"
-use:
+french:
+- "[[Fret]]"
+scopeNote:
+- "Refers to goods transported by truck train ship or"
+usedFor:
 - "[[Cargo]]"
 ---

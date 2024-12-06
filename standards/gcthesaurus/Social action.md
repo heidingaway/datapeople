@@ -3,6 +3,6 @@ title: Social action
 longTitle: 'Social action'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Advocacy]]"
 ---

@@ -3,6 +3,8 @@ title: Human capital
 longTitle: 'Human capital'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Capital]]"
+french:
+- "[[Capital humain]]"
+scopeNote:
+- "Attributes education seniority skills of a person "
 ---

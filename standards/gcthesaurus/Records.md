@@ -3,8 +3,12 @@ title: Records
 longTitle: 'Records'
 tags:
 - gccommon
-broaderTerm:
-- "[[Medical records Cartographic records Record of emp]]"
-relatedTerm:
-- "[[Records management Archives]]"
+french:
+- "[[Dossier]]"
+narrowerTerm:
+- "[[Cartographic records]]"
+- "[[Medical records]]"
+- "[[Record of employment]]"
+scopeNote:
+- "Documents stating results achieved or providing ev"
 ---

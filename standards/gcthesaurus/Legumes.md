@@ -3,10 +3,12 @@ title: Legumes
 longTitle: 'Legumes'
 tags:
 - gccommon
-broaderTerm:
-- "[[Beans Peas Lentils]]"
+french:
+- "[[Legumineuse]]"
 narrowerTerm:
-- "[[Agri-food products]]"
-use:
+- "[[Beans]]"
+- "[[Lentils]]"
+- "[[Peas]]"
+usedFor:
 - "[[Dried legumes]]"
 ---

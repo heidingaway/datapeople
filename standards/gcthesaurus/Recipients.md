@@ -3,6 +3,6 @@ title: Recipients
 longTitle: 'Recipients'
 tags:
 - gccommon
-relatedTerm:
-- "[[Public finance Transfer payments Funding]]"
+scopeNote:
+- "An individual or entity that either has been autho"
 ---

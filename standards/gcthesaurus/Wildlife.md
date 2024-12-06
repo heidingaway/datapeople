@@ -3,10 +3,16 @@ title: Wildlife
 longTitle: 'Wildlife'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Faune]]"
+narrowerTerm:
 - "[[Aquatic wildlife]]"
 relatedTerm:
-- "[[Wildlife management Animals]]"
-use:
-- "[[Fauna Wild fauna Wild animals]]"
+- "[[Wildlife management]]"
+scopeNote:
+- "All animals living in a wild and undomesticated st"
+usedFor:
+- "[[Fauna]]"
+- "[[Wild animals]]"
+- "[[Wild fauna]]"
 ---

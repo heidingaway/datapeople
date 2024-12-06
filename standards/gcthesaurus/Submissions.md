@@ -3,10 +3,12 @@ title: Submissions
 longTitle: 'Submissions'
 tags:
 - gccommon
-broaderTerm:
-- "[[Reports Style manuals Writing]]"
+french:
+- "[[Presentation]]"
 narrowerTerm:
-- "[[Federal government]]"
-relatedTerm:
-- "[[Government information]]"
+- "[[Reports]]"
+- "[[Style manuals]]"
+- "[[Writing]]"
+scopeNote:
+- "Reports or other documents etc submitted for other"
 ---

@@ -3,6 +3,8 @@ title: Design
 longTitle: 'Design'
 tags:
 - gccommon
+french:
+- "[[Conception]]"
 relatedTerm:
-- "[[Implementation Product development Prototyping Dev]]"
+- "[[Implementation]]"
 ---

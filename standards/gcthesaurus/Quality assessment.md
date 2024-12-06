@@ -3,6 +3,6 @@ title: Quality assessment
 longTitle: 'Quality assessment'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Quality control]]"
 ---

@@ -3,8 +3,8 @@ title: Animal rights
 longTitle: 'Animal rights'
 tags:
 - gccommon
-relatedTerm:
-- "[[Animals]]"
-use:
+french:
+- "[[Droits des animaux]]"
+usedFor:
 - "[[Animal protection]]"
 ---

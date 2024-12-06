@@ -3,12 +3,12 @@ title: Banks
 longTitle: 'Banks'
 tags:
 - gccommon
-broaderTerm:
-- "[[Central banks]]"
+french:
+- "[[Banque]]"
 narrowerTerm:
-- "[[Financial institutions]]"
+- "[[Central banks]]"
 relatedTerm:
-- "[[Banking Cooperatives]]"
-use:
+- "[[Banking]]"
+usedFor:
 - "[[Chartered banks]]"
 ---

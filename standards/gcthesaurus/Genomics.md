@@ -3,6 +3,8 @@ title: Genomics
 longTitle: 'Genomics'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Genetics]]"
+french:
+- "[[Genomique]]"
 ---

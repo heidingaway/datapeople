@@ -3,10 +3,12 @@ title: Space exploration
 longTitle: 'Space exploration'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Explorations]]"
+french:
+- "[[Exploration spatiale]]"
 relatedTerm:
-- "[[Astronauts Space technology Astronaut training Aer]]"
-use:
+- "[[Aerospace industry]]"
+usedFor:
 - "[[Spacecraft]]"
 ---

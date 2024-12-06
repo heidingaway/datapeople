@@ -4,11 +4,11 @@ longTitle: 'Geophysics'
 tags:
 - gccommon
 broaderTerm:
-- "[[Seismology]]"
+- "[[Physics]]"
+french:
+- "[[Geophysique]]"
 narrowerTerm:
-- "[[Earth sciences Physics]]"
-relatedTerm:
-- "[[Geology]]"
-use:
+- "[[Seismology]]"
+usedFor:
 - "[[Earth physics]]"
 ---

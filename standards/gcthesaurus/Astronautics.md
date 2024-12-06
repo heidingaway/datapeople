@@ -3,6 +3,6 @@ title: Astronautics
 longTitle: 'Astronautics'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Space sciences]]"
 ---

@@ -3,6 +3,6 @@ title: Style guides
 longTitle: 'Style guides'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Style manuals]]"
 ---

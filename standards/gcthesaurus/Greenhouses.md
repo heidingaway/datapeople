@@ -3,8 +3,8 @@ title: Greenhouses
 longTitle: 'Greenhouses'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Farm buildings]]"
-relatedTerm:
-- "[[Horticulture]]"
+french:
+- "[[Serre]]"
 ---

@@ -3,8 +3,11 @@ title: Sales
 longTitle: 'Sales'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Vente]]"
+narrowerTerm:
 - "[[Auctions]]"
 relatedTerm:
-- "[[Vendors Trade Bills of sale Marketing]]"
+- "[[Bills of sale]]"
+- "[[Vendors]]"
 ---

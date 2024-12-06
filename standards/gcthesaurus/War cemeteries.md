@@ -3,6 +3,6 @@ title: War cemeteries
 longTitle: 'War cemeteries'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[War memorials]]"
 ---

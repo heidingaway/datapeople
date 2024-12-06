@@ -3,10 +3,11 @@ title: Health sciences
 longTitle: 'Health sciences'
 tags:
 - gccommon
-broaderTerm:
-- "[[Epidemiology Pharmacology Toxicology Medicine]]"
+french:
+- "[[Sciences de la sante]]"
 narrowerTerm:
-- "[[Life sciences]]"
-relatedTerm:
-- "[[Health Scientists Health professionals]]"
+- "[[Epidemiology]]"
+- "[[Medicine]]"
+- "[[Pharmacology]]"
+- "[[Toxicology]]"
 ---

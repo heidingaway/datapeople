@@ -3,8 +3,8 @@ title: Meteorology
 longTitle: 'Meteorology'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Earth sciences]]"
-relatedTerm:
-- "[[Meteorological data Climate Weather]]"
+french:
+- "[[Meteorologie]]"
+scopeNote:
+- "The science concerned with the atmosphere and its "
 ---

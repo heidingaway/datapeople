@@ -3,10 +3,8 @@ title: Monetary policy
 longTitle: 'Monetary policy'
 tags:
 - gccommon
-broaderTerm:
-- "[[Foreign payments]]"
+french:
+- "[[Politique monetaire]]"
 narrowerTerm:
-- "[[Policy]]"
-relatedTerm:
-- "[[Currency Economic policy]]"
+- "[[Foreign payments]]"
 ---

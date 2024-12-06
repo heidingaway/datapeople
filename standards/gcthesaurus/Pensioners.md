@@ -3,6 +3,6 @@ title: Pensioners
 longTitle: 'Pensioners'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Beneficiaries]]"
 ---

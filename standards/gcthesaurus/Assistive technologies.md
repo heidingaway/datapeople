@@ -3,10 +3,14 @@ title: Assistive technologies
 longTitle: 'Assistive technologies'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Technologie daide]]"
+narrowerTerm:
 - "[[Wheelchairs]]"
-relatedTerm:
-- "[[Accessibility for persons with disabilities Indepe]]"
-use:
-- "[[Assistive devices Mobility aids Adaptive aids for ]]"
+scopeNote:
+- "Refers to all technical aids for persons with perm"
+usedFor:
+- "[[Adaptive aids for persons with disabilities]]"
+- "[[Assistive devices]]"
+- "[[Mobility aids]]"
 ---

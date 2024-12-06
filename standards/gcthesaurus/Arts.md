@@ -3,10 +3,12 @@ title: Arts
 longTitle: 'Arts'
 tags:
 - gccommon
-broaderTerm:
-- "[[Visual arts Folk art Performing arts]]"
 french:
 - "[[Arts]]"
+narrowerTerm:
+- "[[Folk art]]"
+- "[[Performing arts]]"
+- "[[Visual arts]]"
 relatedTerm:
-- "[[Literature Music Humanities Artists Culture]]"
+- "[[Artists]]"
 ---

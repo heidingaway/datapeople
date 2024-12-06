@@ -3,10 +3,8 @@ title: Interlibrary loans
 longTitle: 'Interlibrary loans'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Loans]]"
-relatedTerm:
-- "[[Libraries]]"
-use:
+french:
+- "[[Pret entre bibliotheques]]"
+usedFor:
 - "[[Document delivery]]"
 ---

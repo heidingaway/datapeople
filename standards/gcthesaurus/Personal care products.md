@@ -3,10 +3,11 @@ title: Personal care products
 longTitle: 'Personal care products'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Products]]"
-relatedTerm:
-- "[[Health care products]]"
-use:
-- "[[Cosmetics Beauty products Toiletries Cosmetic prod]]"
+french:
+- "[[Produit de soins personnels]]"
+usedFor:
+- "[[Beauty products]]"
+- "[[Cosmetic products]]"
+- "[[Cosmetics]]"
+- "[[Toiletries]]"
 ---

@@ -3,6 +3,6 @@ title: GDP
 longTitle: 'GDP'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Gross domestic product]]"
 ---

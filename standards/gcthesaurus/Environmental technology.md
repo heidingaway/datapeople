@@ -3,12 +3,19 @@ title: Environmental technology
 longTitle: 'Environmental technology'
 tags:
 - gccommon
-broaderTerm:
-- "[[Clean technology Emission control technology]]"
+french:
+- "[[Technologie environnementale]]"
 narrowerTerm:
-- "[[Technology]]"
-relatedTerm:
-- "[[Environmental protection]]"
-use:
-- "[[Green technology Environmentally sound technology ]]"
+- "[[Clean technology]]"
+- "[[Emission control technology]]"
+scopeNote:
+- "Technology aiming to protect the environment"
+usedFor:
+- "[[Ecologically sound technology]]"
+- "[[Ecotechnology]]"
+- "[[Environmental engineering]]"
+- "[[Environmental equipment]]"
+- "[[Environmentally friendly technology]]"
+- "[[Environmentally sound technology]]"
+- "[[Green technology]]"
 ---

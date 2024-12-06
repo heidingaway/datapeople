@@ -3,6 +3,6 @@ title: Encyclopedias
 longTitle: 'Encyclopedias'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Encyclopaedias]]"
 ---

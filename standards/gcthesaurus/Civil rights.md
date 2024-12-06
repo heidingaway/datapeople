@@ -3,10 +3,11 @@ title: Civil rights
 longTitle: 'Civil rights'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Human rights]]"
-relatedTerm:
-- "[[Citizen participation]]"
-use:
-- "[[Political rights Civil liberties Electoral rights ]]"
+french:
+- "[[Droits civils]]"
+usedFor:
+- "[[Civil liberties]]"
+- "[[Electoral rights]]"
+- "[[Mobility rights]]"
+- "[[Political rights]]"
 ---

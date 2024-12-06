@@ -3,6 +3,6 @@ title: Aboriginal businesses
 longTitle: 'Aboriginal businesses'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Indigenous businesses]]"
 ---

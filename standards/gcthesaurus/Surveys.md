@@ -3,10 +3,11 @@ title: Surveys
 longTitle: 'Surveys'
 tags:
 - gccommon
-broaderTerm:
-- "[[Social surveys Public opinion polls]]"
-relatedTerm:
-- "[[Statistics Interviews Inquiry Questionnaires]]"
-use:
+french:
+- "[[Sondage]]"
+narrowerTerm:
+- "[[Public opinion polls]]"
+- "[[Social surveys]]"
+usedFor:
 - "[[Statistical surveys]]"
 ---

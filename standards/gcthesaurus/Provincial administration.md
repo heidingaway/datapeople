@@ -3,6 +3,6 @@ title: Provincial administration
 longTitle: 'Provincial administration'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Provincial governments]]"
 ---

@@ -3,8 +3,15 @@ title: Emergency preparedness
 longTitle: 'Emergency preparedness'
 tags:
 - gccommon
+french:
+- "[[Protection civile]]"
 relatedTerm:
-- "[[Police services Emergency services Evacuations Hum]]"
-use:
-- "[[Disaster planning Emergency procedures Emergency p]]"
+- "[[Emergency relief]]"
+- "[[Evacuations]]"
+- "[[Public safety]]"
+usedFor:
+- "[[Civil preparedness]]"
+- "[[Disaster planning]]"
+- "[[Emergency planning]]"
+- "[[Emergency procedures]]"
 ---

@@ -5,6 +5,4 @@ tags:
 - gccommon
 french:
 - "[[Production]]"
-relatedTerm:
-- "[[Supply Products Productivity Manufacturing industr]]"
 ---

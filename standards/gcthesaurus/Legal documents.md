@@ -3,8 +3,8 @@ title: Legal documents
 longTitle: 'Legal documents'
 tags:
 - gccommon
-relatedTerm:
-- "[[Law]]"
-use:
+french:
+- "[[Document juridique]]"
+usedFor:
 - "[[Legal records]]"
 ---

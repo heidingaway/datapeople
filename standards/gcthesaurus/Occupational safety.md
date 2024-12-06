@@ -3,10 +3,14 @@ title: Occupational safety
 longTitle: 'Occupational safety'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Safety]]"
+french:
+- "[[Securite au travail]]"
 relatedTerm:
-- "[[Occupational health Occupational accidents Working]]"
-use:
-- "[[Workplace safety Work safety Industrial safety Wor]]"
+- "[[Occupational accidents]]"
+usedFor:
+- "[[Employment safety]]"
+- "[[Industrial safety]]"
+- "[[Work safety]]"
+- "[[Worker safety]]"
+- "[[Workplace safety]]"
 ---

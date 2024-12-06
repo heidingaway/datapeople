@@ -3,6 +3,6 @@ title: Aboriginal law
 longTitle: 'Aboriginal law'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Indigenous law]]"
 ---

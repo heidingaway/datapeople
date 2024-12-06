@@ -3,6 +3,8 @@ title: Assignments
 longTitle: 'Assignments'
 tags:
 - gccommon
-relatedTerm:
-- "[[Staffing]]"
+french:
+- "[[Affectation]]"
+scopeNote:
+- "Temporary allocation of a person usually within an"
 ---

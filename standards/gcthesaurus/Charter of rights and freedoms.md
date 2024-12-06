@@ -3,8 +3,8 @@ title: Charter of rights and freedoms
 longTitle: 'Charter of rights and freedoms'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Charters]]"
-relatedTerm:
-- "[[Legal rights Human rights]]"
+french:
+- "[[Charte des droits et libertes]]"
 ---

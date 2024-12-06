@@ -3,8 +3,10 @@ title: Crop rotation
 longTitle: 'Crop rotation'
 tags:
 - gccommon
-relatedTerm:
-- "[[Crops]]"
-use:
+french:
+- "[[Rotation des cultures]]"
+scopeNote:
+- "Planting different crops in a given field every ye"
+usedFor:
 - "[[Fallow]]"
 ---

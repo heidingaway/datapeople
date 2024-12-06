@@ -3,10 +3,10 @@ title: Storage
 longTitle: 'Storage'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Entreposage]]"
+narrowerTerm:
 - "[[Lockers]]"
-relatedTerm:
-- "[[Inventories]]"
-use:
+usedFor:
 - "[[Warehousing]]"
 ---

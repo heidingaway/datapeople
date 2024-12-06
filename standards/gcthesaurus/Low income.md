@@ -3,6 +3,8 @@ title: Low income
 longTitle: 'Low income'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Personal income]]"
+french:
+- "[[Faible revenu]]"
 ---

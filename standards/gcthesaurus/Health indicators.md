@@ -3,10 +3,8 @@ title: Health indicators
 longTitle: 'Health indicators'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Indicators]]"
-relatedTerm:
-- "[[Nutrition Fitness Health]]"
-use:
+french:
+- "[[Indicateur de sante]]"
+usedFor:
 - "[[Health status indicators]]"
 ---

@@ -3,10 +3,11 @@ title: Household equipment
 longTitle: 'Household equipment'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Equipment]]"
+french:
+- "[[Equipement menager]]"
 relatedTerm:
-- "[[Electrical appliances Home renovations Home econom]]"
-use:
-- "[[Household appliances Domestic appliances]]"
+- "[[Electrical appliances]]"
+usedFor:
+- "[[Domestic appliances]]"
+- "[[Household appliances]]"
 ---

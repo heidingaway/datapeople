@@ -3,12 +3,13 @@ title: Colleges
 longTitle: 'Colleges'
 tags:
 - gccommon
-broaderTerm:
-- "[[Military colleges]]"
+french:
+- "[[College]]"
 narrowerTerm:
-- "[[Educational institutions]]"
-relatedTerm:
-- "[[Universities Postsecondary education]]"
-use:
-- "[[Community colleges Colleges of Applied Arts and Te]]"
+- "[[Military colleges]]"
+usedFor:
+- "[[CAAT]]"
+- "[[CEGEPs]]"
+- "[[Colleges of Applied Arts and Technology]]"
+- "[[Community colleges]]"
 ---

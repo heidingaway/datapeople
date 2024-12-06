@@ -3,6 +3,6 @@ title: Ecological adaptation
 longTitle: 'Ecological adaptation'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Environmental adaptation]]"
 ---

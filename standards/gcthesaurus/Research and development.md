@@ -3,8 +3,10 @@ title: Research and development
 longTitle: 'Research and development'
 tags:
 - gccommon
+french:
+- "[[Recherche et developpement]]"
 relatedTerm:
-- "[[Development Research Industrial research Patents A]]"
-use:
+- "[[Applied research]]"
+usedFor:
 - "[[RD]]"
 ---

@@ -5,6 +5,4 @@ tags:
 - gccommon
 french:
 - "[[Famine]]"
-relatedTerm:
-- "[[Hunger Food supply]]"
 ---

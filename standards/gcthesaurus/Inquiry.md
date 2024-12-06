@@ -3,6 +3,9 @@ title: Inquiry
 longTitle: 'Inquiry'
 tags:
 - gccommon
+french:
+- "[[Enquete publique]]"
 relatedTerm:
-- "[[Interviews Warrants Investigative bodies Investiga]]"
+- "[[Investigations]]"
+- "[[Investigative bodies]]"
 ---

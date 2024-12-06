@@ -3,10 +3,10 @@ title: Elementary education
 longTitle: 'Elementary education'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Education]]"
+french:
+- "[[Enseignement primaire]]"
 relatedTerm:
 - "[[Elementary schools]]"
-use:
+usedFor:
 - "[[Primary education]]"
 ---

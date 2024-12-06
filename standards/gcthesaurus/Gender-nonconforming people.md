@@ -3,8 +3,9 @@ title: Gender-nonconforming people
 longTitle: 'Gender-nonconforming people'
 tags:
 - gccommon
-narrowerTerm:
-- "[[2SLGBTQI people]]"
-use:
-- "[[Androgynous people Gender-nonbinary people]]"
+french:
+- "[[Personne non binaire]]"
+usedFor:
+- "[[Androgynous people]]"
+- "[[Gender-nonbinary people]]"
 ---

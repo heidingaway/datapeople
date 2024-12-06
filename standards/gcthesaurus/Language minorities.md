@@ -3,10 +3,14 @@ title: Language minorities
 longTitle: 'Language minorities'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Minorities Language groups]]"
-relatedTerm:
-- "[[Minority language education Language rights]]"
-use:
-- "[[Minority language groups Minority language communi]]"
+broaderTerm:
+- "[[Language groups]]"
+french:
+- "[[Minorite linguistique]]"
+usedFor:
+- "[[Linguistic minorities]]"
+- "[[Linguistic minority communities]]"
+- "[[Linguistic minority groups]]"
+- "[[Minority language communities]]"
+- "[[Minority language groups]]"
 ---

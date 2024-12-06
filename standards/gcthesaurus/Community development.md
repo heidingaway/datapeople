@@ -3,8 +3,12 @@ title: Community development
 longTitle: 'Community development'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Social development]]"
+french:
+- "[[Developpement communautaire]]"
 relatedTerm:
-- "[[Community education Community partnerships Communi]]"
+- "[[Community education]]"
+- "[[Community infrastructures]]"
+- "[[Community radio]]"
 ---

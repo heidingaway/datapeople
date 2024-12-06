@@ -3,8 +3,10 @@ title: Wood
 longTitle: 'Wood'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Forestry products]]"
+french:
+- "[[Bois]]"
 relatedTerm:
-- "[[Logging industry Forests Lumber industry Woodworki]]"
+- "[[Logging industry]]"
 ---

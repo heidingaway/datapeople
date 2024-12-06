@@ -3,8 +3,8 @@ title: Veterinary medicine
 longTitle: 'Veterinary medicine'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Medicine]]"
-relatedTerm:
-- "[[Animal health Animal research Veterinary drugs Ani]]"
+french:
+- "[[Medecine veterinaire]]"
+scopeNote:
+- "Discipline dedicated to the prevention and treatme"
 ---

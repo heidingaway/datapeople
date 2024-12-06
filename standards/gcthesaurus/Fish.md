@@ -3,10 +3,12 @@ title: Fish
 longTitle: 'Fish'
 tags:
 - gccommon
-broaderTerm:
-- "[[Freshwater fish Salt water fish]]"
+french:
+- "[[Poisson]]"
 narrowerTerm:
-- "[[Aquatic animals]]"
+- "[[Freshwater fish]]"
+- "[[Salt water fish]]"
 relatedTerm:
-- "[[Fisheries resources Fish farming Fisheries product]]"
+- "[[Fish farming]]"
+- "[[Ichthyology]]"
 ---

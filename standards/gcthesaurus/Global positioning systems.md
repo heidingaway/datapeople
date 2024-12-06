@@ -3,10 +3,12 @@ title: Global positioning systems
 longTitle: 'Global positioning systems'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Global navigation satellite systems]]"
-relatedTerm:
-- "[[Satellites Geography]]"
-use:
-- "[[GPS systems GPS GPS satellite systems]]"
+french:
+- "[[Systeme de positionnement global]]"
+usedFor:
+- "[[GPS]]"
+- "[[GPS satellite systems]]"
+- "[[GPS systems]]"
 ---

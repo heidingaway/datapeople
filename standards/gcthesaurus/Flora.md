@@ -3,6 +3,8 @@ title: Flora
 longTitle: 'Flora'
 tags:
 - gccommon
-relatedTerm:
-- "[[Plants]]"
+french:
+- "[[Flore]]"
+scopeNote:
+- "All plants occuring in a particular region"
 ---

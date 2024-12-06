@@ -3,10 +3,18 @@ title: Sexual offences
 longTitle: 'Sexual offences'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Offences]]"
-relatedTerm:
-- "[[Prostitution Violence against women Gender-based v]]"
-use:
-- "[[Sexual offenses Sexual violence Sexual assaults Se]]"
+french:
+- "[[Infraction sexuelle]]"
+usedFor:
+- "[[Indecent assaults]]"
+- "[[Rapes]]"
+- "[[Sex crimes]]"
+- "[[Sexual abuse]]"
+- "[[Sexual assaults]]"
+- "[[Sexual crimes]]"
+- "[[Sexual exploitation]]"
+- "[[Sexual offenses]]"
+- "[[Sexual violence]]"
 ---

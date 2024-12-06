@@ -3,6 +3,6 @@ title: Trust companies
 longTitle: 'Trust companies'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Financial institutions]]"
+french:
+- "[[Societe de fiducie]]"
 ---

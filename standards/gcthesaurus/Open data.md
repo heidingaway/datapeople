@@ -3,6 +3,6 @@ title: Open data
 longTitle: 'Open data'
 tags:
 - gccommon
-relatedTerm:
-- "[[Open government]]"
+french:
+- "[[Donnees ouvertes]]"
 ---

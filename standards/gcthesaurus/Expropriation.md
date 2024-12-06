@@ -5,6 +5,4 @@ tags:
 - gccommon
 french:
 - "[[Expropriation]]"
-relatedTerm:
-- "[[Real estate]]"
 ---

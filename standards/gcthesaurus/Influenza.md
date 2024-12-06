@@ -3,10 +3,10 @@ title: Influenza
 longTitle: 'Influenza'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Infectious diseases]]"
-relatedTerm:
-- "[[Viruses]]"
-use:
+french:
+- "[[Grippe]]"
+scopeNote:
+- "A contagious viral infection characterized by infl"
+usedFor:
 - "[[Flu]]"
 ---

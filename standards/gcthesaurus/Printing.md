@@ -3,8 +3,8 @@ title: Printing
 longTitle: 'Printing'
 tags:
 - gccommon
-relatedTerm:
-- "[[Graphic arts Micrographics Prints Publishing]]"
-use:
+french:
+- "[[Imprimerie]]"
+usedFor:
 - "[[Commercial printing]]"
 ---

@@ -3,10 +3,10 @@ title: Intercity transport
 longTitle: 'Intercity transport'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Transport]]"
-relatedTerm:
-- "[[Urban transit]]"
-use:
-- "[[Interurban transportation Intercity transportation]]"
+french:
+- "[[Transport interurbain]]"
+usedFor:
+- "[[Inter-city transportation]]"
+- "[[Intercity transportation]]"
+- "[[Interurban transportation]]"
 ---

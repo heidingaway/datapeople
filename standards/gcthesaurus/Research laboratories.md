@@ -1,8 +1,8 @@
 ---
-title: Research laboratories
-longTitle: 'Research laboratories'
+title: Research Laboratories
+longTitle: 'Research, Laboratories'
 tags:
 - gccommon
-usedFor:
-- "[[Laboratories]]"
+relatedTerm:
+- "[[Research institutes]]"
 ---

@@ -3,10 +3,9 @@ title: Economic policy
 longTitle: 'Economic policy'
 tags:
 - gccommon
-broaderTerm:
-- "[[Microeconomic policy Trade policy]]"
+french:
+- "[[Politique economique]]"
 narrowerTerm:
-- "[[Policy]]"
-relatedTerm:
-- "[[Fiscal policy Economic development Industrial poli]]"
+- "[[Microeconomic policy]]"
+- "[[Trade policy]]"
 ---

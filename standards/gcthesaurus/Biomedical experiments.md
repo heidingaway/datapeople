@@ -3,8 +3,8 @@ title: Biomedical experiments
 longTitle: 'Biomedical experiments'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Experiments]]"
-relatedTerm:
-- "[[Bioethics]]"
+french:
+- "[[Experimentation biomedicale]]"
 ---

@@ -3,8 +3,14 @@ title: Coastal waters
 longTitle: 'Coastal waters'
 tags:
 - gccommon
+french:
+- "[[Eaux cotieres]]"
 relatedTerm:
-- "[[Seas Offshore area Coast guard Coasts Oceans]]"
-use:
-- "[[Territorial sea Territorial waters Nearshore water]]"
+- "[[Coast guard]]"
+usedFor:
+- "[[Inshore waters]]"
+- "[[Littoral waters]]"
+- "[[Nearshore waters]]"
+- "[[Territorial sea]]"
+- "[[Territorial waters]]"
 ---

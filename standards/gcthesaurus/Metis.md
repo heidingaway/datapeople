@@ -5,6 +5,6 @@ tags:
 - gccommon
 french:
 - "[[Metis]]"
-narrowerTerm:
-- "[[Indigenous peoples]]"
+scopeNote:
+- "Describes people with mixed First Nations and Euro"
 ---

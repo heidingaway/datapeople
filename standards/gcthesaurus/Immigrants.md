@@ -3,8 +3,12 @@ title: Immigrants
 longTitle: 'Immigrants'
 tags:
 - gccommon
+french:
+- "[[Immigrant]]"
 relatedTerm:
-- "[[Refugees Immigration]]"
-use:
-- "[[Landed immigrants Permanent residents Newcomers]]"
+- "[[Refugees]]"
+usedFor:
+- "[[Landed immigrants]]"
+- "[[Newcomers]]"
+- "[[Permanent residents]]"
 ---

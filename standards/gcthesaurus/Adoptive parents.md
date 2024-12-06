@@ -3,8 +3,8 @@ title: Adoptive parents
 longTitle: 'Adoptive parents'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Parents]]"
-relatedTerm:
-- "[[Adoption]]"
+french:
+- "[[Parent adoptif]]"
 ---

@@ -3,10 +3,13 @@ title: Funding
 longTitle: 'Funding'
 tags:
 - gccommon
-broaderTerm:
-- "[[Public funding Educational funding]]"
+french:
+- "[[Financement]]"
+narrowerTerm:
+- "[[Educational funding]]"
+- "[[Public funding]]"
 relatedTerm:
-- "[[Grants Recipients Financing companies Transfer pay]]"
-use:
+- "[[Fundraising]]"
+usedFor:
 - "[[Financing]]"
 ---

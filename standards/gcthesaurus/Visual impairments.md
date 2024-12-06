@@ -3,6 +3,6 @@ title: Visual impairments
 longTitle: 'Visual impairments'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Visual disabilities]]"
 ---

@@ -3,6 +3,6 @@ title: FAQ
 longTitle: 'FAQ'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Frequently asked questions]]"
 ---

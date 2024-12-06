@@ -3,10 +3,16 @@ title: Military technology
 longTitle: 'Military technology'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Technology]]"
+french:
+- "[[Technologie militaire]]"
 relatedTerm:
-- "[[Defence policy Defence industry Destroyers Frigate]]"
-use:
-- "[[Military equipment War materials War equipment]]"
+- "[[Defence industry]]"
+- "[[Destroyers]]"
+- "[[Frigates]]"
+- "[[Military engineering]]"
+- "[[Submarines]]"
+usedFor:
+- "[[Military equipment]]"
+- "[[War equipment]]"
+- "[[War materials]]"
 ---

@@ -3,10 +3,11 @@ title: Trucking industry
 longTitle: 'Trucking industry'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Transport industry]]"
+french:
+- "[[Industrie du camionnage]]"
 relatedTerm:
-- "[[Road transport Trucks]]"
-use:
-- "[[Trucking Road transport industry]]"
+- "[[Trucks]]"
+usedFor:
+- "[[Road transport industry]]"
+- "[[Trucking]]"
 ---

@@ -3,8 +3,8 @@ title: Fruit crops
 longTitle: 'Fruit crops'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Crops]]"
+french:
+- "[[Cultures fruitieres]]"
 relatedTerm:
 - "[[Fruits]]"
 ---

@@ -3,6 +3,6 @@ title: Cultural property
 longTitle: 'Cultural property'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Cultural heritage]]"
 ---

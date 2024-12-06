@@ -3,10 +3,15 @@ title: Aviation industry
 longTitle: 'Aviation industry'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Aerospace industry]]"
-relatedTerm:
-- "[[Air transport industry Aircraft Aviation]]"
-use:
-- "[[Helicopter industry Aircraft industry Aeronautical]]"
+french:
+- "[[Industrie de laeronautique]]"
+scopeNote:
+- "Economic activity dedicated to the design and manu"
+usedFor:
+- "[[Aeronautical industry]]"
+- "[[Aircraft industry]]"
+- "[[Aircraft manufacturing industry]]"
+- "[[Helicopter industry]]"
 ---

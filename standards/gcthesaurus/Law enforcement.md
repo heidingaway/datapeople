@@ -3,6 +3,6 @@ title: Law enforcement
 longTitle: 'Law enforcement'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Police services]]"
 ---

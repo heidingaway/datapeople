@@ -3,10 +3,10 @@ title: Indigenous businesses
 longTitle: 'Indigenous businesses'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Businesses]]"
+french:
+- "[[Entreprise autochtone]]"
 relatedTerm:
 - "[[Indigenous programs]]"
-use:
+usedFor:
 - "[[Aboriginal businesses]]"
 ---

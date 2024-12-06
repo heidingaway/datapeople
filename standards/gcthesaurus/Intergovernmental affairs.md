@@ -3,6 +3,6 @@ title: Intergovernmental affairs
 longTitle: 'Intergovernmental affairs'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Intergovernmental relations]]"
 ---

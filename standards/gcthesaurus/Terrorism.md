@@ -3,8 +3,10 @@ title: Terrorism
 longTitle: 'Terrorism'
 tags:
 - gccommon
-relatedTerm:
-- "[[Violence War]]"
-use:
-- "[[Acts of terrorism Terrorist attacks Terrorist acts]]"
+french:
+- "[[Terrorisme]]"
+usedFor:
+- "[[Acts of terrorism]]"
+- "[[Terrorist acts]]"
+- "[[Terrorist attacks]]"
 ---

@@ -3,8 +3,10 @@ title: Newsletters
 longTitle: 'Newsletters'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Periodicals]]"
-use:
+french:
+- "[[Bulletin]]"
+scopeNote:
+- "A serial publication consisting of one or a few pa"
+usedFor:
 - "[[Bulletins]]"
 ---

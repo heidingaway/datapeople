@@ -3,8 +3,12 @@ title: Subsidized housing
 longTitle: 'Subsidized housing'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Social services Housing]]"
-use:
-- "[[Non profit housing Nonprofit housing Low-cost hous]]"
+broaderTerm:
+- "[[Housing]]"
+french:
+- "[[Logement subventionne]]"
+usedFor:
+- "[[Low-cost housing]]"
+- "[[Non profit housing]]"
+- "[[Nonprofit housing]]"
 ---

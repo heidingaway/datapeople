@@ -3,6 +3,6 @@ title: Coastguard
 longTitle: 'Coastguard'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Coast guard]]"
 ---

@@ -3,6 +3,6 @@ title: Bicycle helmets
 longTitle: 'Bicycle helmets'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Bicycle safety equipment]]"
 ---

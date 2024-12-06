@@ -3,6 +3,6 @@ title: Redeployment
 longTitle: 'Redeployment'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Restructuring]]"
 ---

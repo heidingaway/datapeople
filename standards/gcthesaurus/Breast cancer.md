@@ -3,6 +3,8 @@ title: Breast cancer
 longTitle: 'Breast cancer'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Cancer]]"
+french:
+- "[[Cancer du sein]]"
 ---

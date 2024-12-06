@@ -3,10 +3,10 @@ title: Coal
 longTitle: 'Coal'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Fuels Minerals]]"
-relatedTerm:
-- "[[Mining industry]]"
-use:
+broaderTerm:
+- "[[Minerals]]"
+french:
+- "[[Charbon]]"
+usedFor:
 - "[[Bituminous coal]]"
 ---

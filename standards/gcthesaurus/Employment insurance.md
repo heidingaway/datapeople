@@ -3,10 +3,12 @@ title: Employment insurance
 longTitle: 'Employment insurance'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Insurance]]"
+french:
+- "[[Assurance-emploi]]"
 relatedTerm:
-- "[[Paternity benefits Unemployment Maternity benefits]]"
-use:
-- "[[Unemployment benefits Unemployment insurance]]"
+- "[[Maternity benefits]]"
+- "[[Paternity benefits]]"
+usedFor:
+- "[[Unemployment benefits]]"
+- "[[Unemployment insurance]]"
 ---

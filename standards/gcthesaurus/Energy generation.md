@@ -3,6 +3,6 @@ title: Energy generation
 longTitle: 'Energy generation'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Energy production]]"
 ---

@@ -3,8 +3,9 @@ title: Citizenship
 longTitle: 'Citizenship'
 tags:
 - gccommon
-relatedTerm:
-- "[[Citizenship documents]]"
-use:
-- "[[Nationality Naturalization]]"
+french:
+- "[[Citoyennete]]"
+usedFor:
+- "[[Nationality]]"
+- "[[Naturalization]]"
 ---

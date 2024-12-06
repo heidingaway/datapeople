@@ -3,6 +3,6 @@ title: ESL
 longTitle: 'ESL'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[English second language]]"
 ---

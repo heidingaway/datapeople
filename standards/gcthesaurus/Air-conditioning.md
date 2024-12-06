@@ -3,6 +3,6 @@ title: Air-conditioning
 longTitle: 'Air-conditioning'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Air conditioning]]"
 ---

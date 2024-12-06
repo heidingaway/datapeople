@@ -3,12 +3,19 @@ title: Agriculture
 longTitle: 'Agriculture'
 tags:
 - gccommon
-broaderTerm:
-- "[[Viticulture Aquaculture Horticulture]]"
 french:
 - "[[Agriculture]]"
+narrowerTerm:
+- "[[Aquaculture]]"
+- "[[Horticulture]]"
+- "[[Viticulture]]"
 relatedTerm:
-- "[[Agricultural workers Agricultural fairs Crops Agri]]"
-use:
+- "[[Agricultural assistance]]"
+- "[[Agricultural economics]]"
+- "[[Agricultural fairs]]"
+- "[[Agricultural technology]]"
+- "[[Agricultural workers]]"
+- "[[Agriculture statistics]]"
+usedFor:
 - "[[Farming]]"
 ---

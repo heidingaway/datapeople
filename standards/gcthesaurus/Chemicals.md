@@ -3,10 +3,15 @@ title: Chemicals
 longTitle: 'Chemicals'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Produit chimique]]"
+narrowerTerm:
 - "[[Biochemicals]]"
 relatedTerm:
-- "[[Chemistry Drugs Chemical weapons Chemical industry]]"
-use:
-- "[[Chemical products Chemical substances Chemical com]]"
+- "[[Fluorides]]"
+- "[[Solvents]]"
+usedFor:
+- "[[Chemical compounds]]"
+- "[[Chemical products]]"
+- "[[Chemical substances]]"
 ---

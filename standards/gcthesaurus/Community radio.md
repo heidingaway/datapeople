@@ -3,8 +3,8 @@ title: Community radio
 longTitle: 'Community radio'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Radio]]"
-relatedTerm:
-- "[[Community development]]"
+french:
+- "[[Radio communautaire]]"
 ---

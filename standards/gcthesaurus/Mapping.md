@@ -3,6 +3,6 @@ title: Mapping
 longTitle: 'Mapping'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Cartography]]"
 ---

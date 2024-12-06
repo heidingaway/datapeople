@@ -1,6 +1,6 @@
 ---
 title: Deficit
-longTitle: 'Déficit'
+longTitle: 'Deficit'
 tags:
 - gccommon
 french:

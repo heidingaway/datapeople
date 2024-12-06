@@ -3,8 +3,11 @@ title: Ice
 longTitle: 'Ice'
 tags:
 - gccommon
+french:
+- "[[Glace]]"
 relatedTerm:
-- "[[Water Ice caps Aircraft anti-icing Snow Aircraft d]]"
-use:
-- "[[Sea ice Ice thickness]]"
+- "[[Icebreakers]]"
+usedFor:
+- "[[Ice thickness]]"
+- "[[Sea ice]]"
 ---

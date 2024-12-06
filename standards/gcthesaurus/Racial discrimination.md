@@ -3,10 +3,10 @@ title: Racial discrimination
 longTitle: 'Racial discrimination'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Discrimination]]"
+french:
+- "[[Discrimination raciale]]"
 relatedTerm:
-- "[[Visible minorities Race relations]]"
-use:
+- "[[Race relations]]"
+usedFor:
 - "[[Racism]]"
 ---

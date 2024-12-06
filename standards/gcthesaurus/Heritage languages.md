@@ -3,10 +3,11 @@ title: Heritage languages
 longTitle: 'Heritage languages'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Languages]]"
+french:
+- "[[Langue ancestrale]]"
 relatedTerm:
-- "[[Mother tongue Foreign languages Heritage Ethnic gr]]"
-use:
+- "[[Foreign languages]]"
+- "[[Mother tongue]]"
+usedFor:
 - "[[Ancestral languages]]"
 ---

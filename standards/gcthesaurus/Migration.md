@@ -3,12 +3,18 @@ title: Migration
 longTitle: 'Migration'
 tags:
 - gccommon
-broaderTerm:
-- "[[Emigration Irregular migration Internal migration ]]"
 french:
 - "[[Migration]]"
+narrowerTerm:
+- "[[Emigration]]"
+- "[[Immigration]]"
+- "[[Internal migration]]"
+- "[[Irregular migration]]"
 relatedTerm:
 - "[[Deportation]]"
-use:
-- "[[International migration Population movements]]"
+scopeNote:
+- "Movement of people or populations from one country"
+usedFor:
+- "[[International migration]]"
+- "[[Population movements]]"
 ---

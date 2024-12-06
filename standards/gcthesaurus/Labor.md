@@ -3,6 +3,6 @@ title: Labor
 longTitle: 'Labor'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Labour]]"
 ---

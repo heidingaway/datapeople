@@ -3,8 +3,11 @@ title: Coins
 longTitle: 'Coins'
 tags:
 - gccommon
+french:
+- "[[Piece de monnaie]]"
 relatedTerm:
-- "[[Currency Numismatics]]"
-use:
-- "[[Commemorative coins Collector coins]]"
+- "[[Numismatics]]"
+usedFor:
+- "[[Collector coins]]"
+- "[[Commemorative coins]]"
 ---

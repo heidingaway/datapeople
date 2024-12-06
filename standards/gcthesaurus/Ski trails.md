@@ -3,6 +3,8 @@ title: Ski trails
 longTitle: 'Ski trails'
 tags:
 - gccommon
+french:
+- "[[Piste de ski]]"
 relatedTerm:
-- "[[Recreational facilities Skiing]]"
+- "[[Skiing]]"
 ---

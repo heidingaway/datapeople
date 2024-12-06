@@ -3,10 +3,12 @@ title: French language
 longTitle: 'French language'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Languages]]"
+french:
+- "[[Francais]]"
 relatedTerm:
-- "[[Francophonie French second language Official langu]]"
-use:
+- "[[Francophonie]]"
+- "[[French in the workplace]]"
+- "[[French second language]]"
+usedFor:
 - "[[French]]"
 ---

@@ -3,10 +3,9 @@ title: Physical sciences
 longTitle: 'Physical sciences'
 tags:
 - gccommon
-broaderTerm:
-- "[[Chemistry Physics]]"
+french:
+- "[[Sciences physiques]]"
 narrowerTerm:
-- "[[Natural sciences]]"
-relatedTerm:
-- "[[Scientists]]"
+- "[[Chemistry]]"
+- "[[Physics]]"
 ---

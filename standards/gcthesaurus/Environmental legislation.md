@@ -3,6 +3,6 @@ title: Environmental legislation
 longTitle: 'Environmental legislation'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Environmental law]]"
 ---

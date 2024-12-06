@@ -3,6 +3,6 @@ title: Interpersonal communication
 longTitle: 'Interpersonal communication'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Interpersonal relations]]"
 ---

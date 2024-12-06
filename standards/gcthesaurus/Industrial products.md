@@ -3,10 +3,11 @@ title: Industrial products
 longTitle: 'Industrial products'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Products]]"
-relatedTerm:
-- "[[Consumer products Manufacturing industry]]"
-use:
-- "[[Industrial goods Manufactured goods Manufactured p]]"
+french:
+- "[[Produit industriel]]"
+usedFor:
+- "[[Industrial goods]]"
+- "[[Industrial production]]"
+- "[[Manufactured goods]]"
+- "[[Manufactured products]]"
 ---

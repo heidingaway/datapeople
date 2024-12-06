@@ -3,8 +3,8 @@ title: Quality of life
 longTitle: 'Quality of life'
 tags:
 - gccommon
-relatedTerm:
-- "[[Life expectancy Standard of living Lifestyle]]"
-use:
+french:
+- "[[Qualite de vie]]"
+usedFor:
 - "[[Living conditions]]"
 ---

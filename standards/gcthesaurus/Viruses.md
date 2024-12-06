@@ -3,10 +3,10 @@ title: Viruses
 longTitle: 'Viruses'
 tags:
 - gccommon
-broaderTerm:
-- "[[Coronaviruses]]"
+french:
+- "[[Virus]]"
 narrowerTerm:
-- "[[Microorganisms]]"
+- "[[Coronaviruses]]"
 relatedTerm:
-- "[[AIDS disease Influenza]]"
+- "[[Influenza]]"
 ---

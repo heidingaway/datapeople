@@ -3,10 +3,8 @@ title: Gender-based violence
 longTitle: 'Gender-based violence'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Violence]]"
-relatedTerm:
-- "[[Family violence Gender discrimination Sexual offen]]"
-use:
+french:
+- "[[Violence fondee sur le sexe]]"
+usedFor:
 - "[[GBV Gender-based violence]]"
 ---

@@ -3,10 +3,10 @@ title: Labour
 longTitle: 'Labour'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Travail]]"
+narrowerTerm:
 - "[[Student labour]]"
-relatedTerm:
-- "[[Labour mobility Employment Labour market Unpaid wo]]"
-use:
+usedFor:
 - "[[Labor]]"
 ---

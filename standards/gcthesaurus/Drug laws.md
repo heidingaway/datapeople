@@ -3,6 +3,6 @@ title: Drug laws
 longTitle: 'Drug laws'
 tags:
 - gccommon
-relatedTerm:
-- "[[Drugs]]"
+french:
+- "[[Loi sur les medicaments]]"
 ---

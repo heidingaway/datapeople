@@ -3,12 +3,15 @@ title: Writing
 longTitle: 'Writing'
 tags:
 - gccommon
-broaderTerm:
-- "[[Technical writing Legislative writing Administrati]]"
+french:
+- "[[Redaction]]"
 narrowerTerm:
-- "[[Submissions]]"
+- "[[Administrative writing]]"
+- "[[Legislative writing]]"
+- "[[Technical writing]]"
 relatedTerm:
-- "[[Plain language Style manuals Literature Authors Li]]"
-use:
-- "[[Written communication Writing skills]]"
+- "[[Style manuals]]"
+usedFor:
+- "[[Writing skills]]"
+- "[[Written communication]]"
 ---

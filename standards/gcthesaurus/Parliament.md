@@ -3,10 +3,14 @@ title: Parliament
 longTitle: 'Parliament'
 tags:
 - gccommon
-broaderTerm:
-- "[[House of Commons Senate]]"
-relatedTerm:
-- "[[Prime Minister Members of the House of Commons Cab]]"
-use:
-- "[[Parliament of Canada Canadian Parliament]]"
+french:
+- "[[Parlement]]"
+narrowerTerm:
+- "[[House of Commons]]"
+- "[[Senate]]"
+scopeNote:
+- "Refers to the legislative branch of the Government"
+usedFor:
+- "[[Canadian Parliament]]"
+- "[[Parliament of Canada]]"
 ---

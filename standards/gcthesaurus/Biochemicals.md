@@ -3,10 +3,13 @@ title: Biochemicals
 longTitle: 'Biochemicals'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Chemicals]]"
-relatedTerm:
-- "[[Biochemistry Biological products]]"
-use:
-- "[[Biochemical compounds Biochemical substances Bioch]]"
+french:
+- "[[Produit biochimique]]"
+usedFor:
+- "[[Biochemical compounds]]"
+- "[[Biochemical products]]"
+- "[[Biochemical substances]]"
+- "[[Green chemicals]]"
 ---

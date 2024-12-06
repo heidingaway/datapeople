@@ -5,6 +5,4 @@ tags:
 - gccommon
 french:
 - "[[Expertise]]"
-relatedTerm:
-- "[[Skills]]"
 ---

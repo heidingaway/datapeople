@@ -3,6 +3,6 @@ title: Beef cattle
 longTitle: 'Beef cattle'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Cattle]]"
+french:
+- "[[Bovins de boucherie]]"
 ---

@@ -3,8 +3,9 @@ title: Trends
 longTitle: 'Trends'
 tags:
 - gccommon
-broaderTerm:
-- "[[Social trends Economic trends]]"
-relatedTerm:
-- "[[Forecasting]]"
+french:
+- "[[Tendances]]"
+narrowerTerm:
+- "[[Economic trends]]"
+- "[[Social trends]]"
 ---

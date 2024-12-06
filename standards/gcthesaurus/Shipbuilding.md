@@ -3,6 +3,8 @@ title: Shipbuilding
 longTitle: 'Shipbuilding'
 tags:
 - gccommon
-relatedTerm:
-- "[[Ships Construction]]"
+french:
+- "[[Construction navale]]"
+scopeNote:
+- "The art or business of designing and constructing "
 ---

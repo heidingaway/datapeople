@@ -3,6 +3,6 @@ title: Tourism infrastructure
 longTitle: 'Tourism infrastructure'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Tourism facilities]]"
 ---

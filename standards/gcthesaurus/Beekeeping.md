@@ -3,10 +3,12 @@ title: Beekeeping
 longTitle: 'Beekeeping'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Animal husbandry]]"
+french:
+- "[[Apiculture]]"
 relatedTerm:
 - "[[Honey]]"
-use:
-- "[[Apiculture Bee keeping Bee culture]]"
+usedFor:
+- "[[Apiculture]]"
+- "[[Bee culture]]"
+- "[[Bee keeping]]"
 ---

@@ -3,6 +3,6 @@ title: Electric equipment
 longTitle: 'Electric equipment'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Electrical equipment]]"
 ---

@@ -3,8 +3,10 @@ title: Claims
 longTitle: 'Claims'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Revendication]]"
+narrowerTerm:
 - "[[Land claims]]"
 relatedTerm:
-- "[[Claims processing Complaints]]"
+- "[[Claims processing]]"
 ---

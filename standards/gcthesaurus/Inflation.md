@@ -5,8 +5,6 @@ tags:
 - gccommon
 french:
 - "[[Inflation]]"
-relatedTerm:
-- "[[Prices Economic conditions Economic indicators]]"
-use:
+usedFor:
 - "[[Inflation rates]]"
 ---

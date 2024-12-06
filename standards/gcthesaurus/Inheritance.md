@@ -3,8 +3,8 @@ title: Inheritance
 longTitle: 'Inheritance'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Personal assets]]"
-relatedTerm:
-- "[[Probate Estates]]"
+french:
+- "[[Heritage]]"
+scopeNote:
+- "Investments money property or other valuables rece"
 ---

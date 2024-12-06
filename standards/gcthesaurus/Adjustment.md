@@ -3,8 +3,9 @@ title: Adjustment
 longTitle: 'Adjustment'
 tags:
 - gccommon
-relatedTerm:
-- "[[Transformation]]"
-use:
-- "[[Maladjustment Adaptation]]"
+french:
+- "[[Adaptation]]"
+usedFor:
+- "[[Adaptation]]"
+- "[[Maladjustment]]"
 ---

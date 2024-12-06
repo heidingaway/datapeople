@@ -3,10 +3,13 @@ title: Edible oils and fats
 longTitle: 'Edible oils and fats'
 tags:
 - gccommon
-broaderTerm:
-- "[[Canola oil]]"
+french:
+- "[[Huiles et gras comestibles]]"
 narrowerTerm:
-- "[[Agri-food products]]"
-use:
-- "[[Vegetable oils Animal oils and fats Oils and fats ]]"
+- "[[Canola oil]]"
+usedFor:
+- "[[Animal oils and fats]]"
+- "[[Oils and fats]]"
+- "[[Oilseeds]]"
+- "[[Vegetable oils]]"
 ---

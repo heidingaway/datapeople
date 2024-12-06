@@ -3,8 +3,11 @@ title: Directories
 longTitle: 'Directories'
 tags:
 - gccommon
-broaderTerm:
-- "[[Telephone directories Gazetteers]]"
-use:
+french:
+- "[[Repertoire]]"
+narrowerTerm:
+- "[[Gazetteers]]"
+- "[[Telephone directories]]"
+usedFor:
 - "[[Repertories]]"
 ---

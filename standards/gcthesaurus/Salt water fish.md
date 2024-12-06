@@ -3,8 +3,10 @@ title: Salt water fish
 longTitle: 'Salt water fish'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Fish]]"
-use:
-- "[[Saltwater fish Salmon Cod]]"
+french:
+- "[[Poisson de mer]]"
+usedFor:
+- "[[Cod]]"
+- "[[Salmon]]"
+- "[[Saltwater fish]]"
 ---

@@ -3,10 +3,12 @@ title: Green products
 longTitle: 'Green products'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Products]]"
-relatedTerm:
-- "[[Environmental protection]]"
-use:
-- "[[Environmentally sound products Environment friendl]]"
+french:
+- "[[Produit ecologique]]"
+usedFor:
+- "[[Ecological products]]"
+- "[[Environment friendly products]]"
+- "[[Environmentally friendly products]]"
+- "[[Environmentally safe products]]"
+- "[[Environmentally sound products]]"
 ---

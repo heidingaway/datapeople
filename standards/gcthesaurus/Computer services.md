@@ -3,8 +3,8 @@ title: Computer services
 longTitle: 'Computer services'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Technical services]]"
-relatedTerm:
-- "[[Data processing]]"
+french:
+- "[[Services informatiques]]"
 ---

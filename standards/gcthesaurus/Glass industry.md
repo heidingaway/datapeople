@@ -3,8 +3,10 @@ title: Glass industry
 longTitle: 'Glass industry'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Manufacturing industry]]"
+french:
+- "[[Industrie du verre]]"
 relatedTerm:
 - "[[Glass]]"
+scopeNote:
+- "An economic activity dedicated to the production m"
 ---

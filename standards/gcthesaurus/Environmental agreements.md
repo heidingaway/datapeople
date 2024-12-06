@@ -3,8 +3,6 @@ title: Environmental agreements
 longTitle: 'Environmental agreements'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Agreements]]"
-relatedTerm:
-- "[[Environment Environmental policy]]"
+french:
+- "[[Accord en matiere denvironnement]]"
 ---

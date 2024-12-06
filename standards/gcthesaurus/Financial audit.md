@@ -3,8 +3,8 @@ title: Financial audit
 longTitle: 'Financial audit'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Audit]]"
-relatedTerm:
-- "[[Accounting]]"
+french:
+- "[[Verification comptable]]"
 ---

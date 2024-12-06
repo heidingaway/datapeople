@@ -3,12 +3,20 @@ title: Libraries
 longTitle: 'Libraries'
 tags:
 - gccommon
-broaderTerm:
-- "[[Special libraries Digital libraries National libra]]"
+french:
+- "[[Bibliotheque]]"
 narrowerTerm:
-- "[[Cultural institutions]]"
+- "[[Digital libraries]]"
+- "[[Government libraries]]"
+- "[[National libraries]]"
+- "[[Public libraries]]"
+- "[[Special libraries]]"
 relatedTerm:
-- "[[Cataloguing Interlibrary loans Bibliographic data ]]"
-use:
-- "[[Documentation centres Documentation services Libra]]"
+- "[[Bibliographic data interchange]]"
+- "[[Interlibrary loans]]"
+usedFor:
+- "[[Documentation centers]]"
+- "[[Documentation centres]]"
+- "[[Documentation services]]"
+- "[[Library collections]]"
 ---

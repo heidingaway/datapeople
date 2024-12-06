@@ -3,10 +3,14 @@ title: Crafts
 longTitle: 'Crafts'
 tags:
 - gccommon
-broaderTerm:
-- "[[Weaving Quilting Sewing]]"
+french:
+- "[[Artisanat]]"
+narrowerTerm:
+- "[[Quilting]]"
+- "[[Sewing]]"
+- "[[Weaving]]"
 relatedTerm:
-- "[[Decorative arts Folk art]]"
-use:
+- "[[Decorative arts]]"
+usedFor:
 - "[[Handicrafts]]"
 ---

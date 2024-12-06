@@ -3,10 +3,15 @@ title: Recreation
 longTitle: 'Recreation'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Loisir]]"
+narrowerTerm:
 - "[[Outdoor recreation]]"
-relatedTerm:
-- "[[Sports Games Recreational facilities Tourism Toys]]"
-use:
-- "[[Hobbies Recreational activities Leisure Entertainm]]"
+scopeNote:
+- "An activity that diverts amuses or stimulates usua"
+usedFor:
+- "[[Entertainment]]"
+- "[[Hobbies]]"
+- "[[Leisure]]"
+- "[[Recreational activities]]"
 ---

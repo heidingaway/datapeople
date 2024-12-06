@@ -3,8 +3,8 @@ title: Amendments
 longTitle: 'Amendments'
 tags:
 - gccommon
-relatedTerm:
-- "[[Legislation]]"
-use:
+french:
+- "[[Amendement]]"
+usedFor:
 - "[[Legislative amendments]]"
 ---

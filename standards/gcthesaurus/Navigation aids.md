@@ -3,6 +3,6 @@ title: Navigation aids
 longTitle: 'Navigation aids'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Navigation systems]]"
 ---

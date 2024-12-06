@@ -3,8 +3,12 @@ title: Contracting
 longTitle: 'Contracting'
 tags:
 - gccommon
+french:
+- "[[Passation des marches]]"
 relatedTerm:
-- "[[Contracts Call for tenders Consulting Tenders]]"
-use:
-- "[[Sub-contracting Subcontracting Outsourcing]]"
+- "[[Consulting]]"
+usedFor:
+- "[[Outsourcing]]"
+- "[[Sub-contracting]]"
+- "[[Subcontracting]]"
 ---

@@ -3,6 +3,6 @@ title: Federal information
 longTitle: 'Federal information'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Government information]]"
 ---

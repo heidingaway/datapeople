@@ -3,10 +3,10 @@ title: Metalworking industry
 longTitle: 'Metalworking industry'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Manufacturing industry]]"
+french:
+- "[[Industrie metallurgique]]"
 relatedTerm:
-- "[[Metals Steel]]"
-use:
+- "[[Steel]]"
+usedFor:
 - "[[Metal industry]]"
 ---

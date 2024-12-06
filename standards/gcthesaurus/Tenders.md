@@ -3,8 +3,8 @@ title: Tenders
 longTitle: 'Tenders'
 tags:
 - gccommon
-relatedTerm:
-- "[[Call for tenders Contracting]]"
-use:
+french:
+- "[[Soumission]]"
+usedFor:
 - "[[Bids]]"
 ---

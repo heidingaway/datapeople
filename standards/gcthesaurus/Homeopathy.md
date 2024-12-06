@@ -3,6 +3,8 @@ title: Homeopathy
 longTitle: 'Homeopathy'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Alternative medicine]]"
+french:
+- "[[Homeopathie]]"
 ---

@@ -3,10 +3,10 @@ title: Elder abuse
 longTitle: 'Elder abuse'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Violence]]"
-relatedTerm:
-- "[[Seniors Family violence]]"
-use:
-- "[[Violence against older adults Seniors abuse Elder ]]"
+french:
+- "[[Violence faite aux personnes agees]]"
+usedFor:
+- "[[Elder neglect]]"
+- "[[Seniors abuse]]"
+- "[[Violence against older adults]]"
 ---

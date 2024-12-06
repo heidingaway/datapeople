@@ -3,6 +3,6 @@ title: Business growth
 longTitle: 'Business growth'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Business development]]"
 ---

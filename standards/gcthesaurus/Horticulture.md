@@ -5,8 +5,8 @@ tags:
 - gccommon
 french:
 - "[[Horticulture]]"
-narrowerTerm:
-- "[[Agriculture]]"
 relatedTerm:
-- "[[Greenhouses Gardening]]"
+- "[[Greenhouses]]"
+scopeNote:
+- "Cultivation of fruits vegetables flowers and ornam"
 ---

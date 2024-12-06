@@ -3,10 +3,13 @@ title: Child care
 longTitle: 'Child care'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Soin de lenfant]]"
+narrowerTerm:
 - "[[Infant care]]"
 relatedTerm:
-- "[[Parenting Children Daycare Childrens health Child ]]"
-use:
-- "[[Care of the children Childcare]]"
+- "[[Daycare]]"
+usedFor:
+- "[[Care of the children]]"
+- "[[Childcare]]"
 ---

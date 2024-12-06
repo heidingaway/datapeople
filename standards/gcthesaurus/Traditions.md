@@ -3,6 +3,6 @@ title: Traditions
 longTitle: 'Traditions'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Customs]]"
 ---

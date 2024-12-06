@@ -3,6 +3,6 @@ title: Pollution standards
 longTitle: 'Pollution standards'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Environmental standards]]"
 ---

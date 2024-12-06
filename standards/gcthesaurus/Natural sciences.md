@@ -3,10 +3,17 @@ title: Natural sciences
 longTitle: 'Natural sciences'
 tags:
 - gccommon
-broaderTerm:
-- "[[Polar sciences Environmental sciences Life science]]"
+french:
+- "[[Sciences naturelles]]"
 narrowerTerm:
-- "[[Sciences]]"
+- "[[Earth sciences]]"
+- "[[Environmental sciences]]"
+- "[[Life sciences]]"
+- "[[Physical sciences]]"
+- "[[Polar sciences]]"
+- "[[Space sciences]]"
 relatedTerm:
-- "[[Computer science Mathematics Scientists Natural hi]]"
+- "[[Natural history]]"
+scopeNote:
+- "Refers to all sciences that study the natural worl"
 ---

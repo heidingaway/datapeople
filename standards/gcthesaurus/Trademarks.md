@@ -3,8 +3,9 @@ title: Trademarks
 longTitle: 'Trademarks'
 tags:
 - gccommon
-relatedTerm:
-- "[[Patents Business names]]"
-use:
-- "[[Registered trademarks Trade-marks]]"
+french:
+- "[[Marque de commerce]]"
+usedFor:
+- "[[Registered trademarks]]"
+- "[[Trade-marks]]"
 ---

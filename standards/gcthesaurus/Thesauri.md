@@ -3,6 +3,8 @@ title: Thesauri
 longTitle: 'Thesauri'
 tags:
 - gccommon
-relatedTerm:
-- "[[Terminology Dictionaries]]"
+french:
+- "[[Thesaurus]]"
+scopeNote:
+- "Controlled vocabularies in which hierarchical and "
 ---

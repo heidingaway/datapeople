@@ -3,6 +3,6 @@ title: Implementation
 longTitle: 'Implementation'
 tags:
 - gccommon
-relatedTerm:
-- "[[Design]]"
+french:
+- "[[Implantation]]"
 ---

@@ -3,8 +3,8 @@ title: Self employment
 longTitle: 'Self employment'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Employment]]"
+french:
+- "[[Emploi autonome]]"
 relatedTerm:
-- "[[Entrepreneurship Home-based businesses]]"
+- "[[Home-based businesses]]"
 ---

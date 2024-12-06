@@ -3,8 +3,9 @@ title: Population distribution
 longTitle: 'Population distribution'
 tags:
 - gccommon
-relatedTerm:
-- "[[Demographic statistics Population Demography]]"
-use:
-- "[[Distribution of population Composition of the popu]]"
+french:
+- "[[Repartition de la population]]"
+usedFor:
+- "[[Composition of the population]]"
+- "[[Distribution of population]]"
 ---

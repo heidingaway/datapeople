@@ -3,6 +3,6 @@ title: Domestic security
 longTitle: 'Domestic security'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[National security]]"
 ---

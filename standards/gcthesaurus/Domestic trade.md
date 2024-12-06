@@ -3,10 +3,11 @@ title: Domestic trade
 longTitle: 'Domestic trade'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Trade]]"
+french:
+- "[[Commerce interieur]]"
 relatedTerm:
 - "[[Domestic markets]]"
-use:
-- "[[Internal trade Home trade]]"
+usedFor:
+- "[[Home trade]]"
+- "[[Internal trade]]"
 ---

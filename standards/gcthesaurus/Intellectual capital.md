@@ -3,6 +3,8 @@ title: Intellectual capital
 longTitle: 'Intellectual capital'
 tags:
 - gccommon
-relatedTerm:
-- "[[Knowledge management Human resources]]"
+french:
+- "[[Capital intellectuel]]"
+scopeNote:
+- "Knowledge that can be exploited for gain by an org"
 ---

@@ -3,8 +3,10 @@ title: Catalogues
 longTitle: 'Catalogues'
 tags:
 - gccommon
+french:
+- "[[Catalogue]]"
 relatedTerm:
-- "[[Cataloguing Registers Inventories]]"
-use:
+- "[[Registers]]"
+usedFor:
 - "[[Catalogs]]"
 ---

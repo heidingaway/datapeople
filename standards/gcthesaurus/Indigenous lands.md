@@ -3,8 +3,11 @@ title: Indigenous lands
 longTitle: 'Indigenous lands'
 tags:
 - gccommon
+french:
+- "[[Terres autochtones]]"
 relatedTerm:
-- "[[Indigenous reserves Land claims]]"
-use:
-- "[[Indian lands Aboriginal lands]]"
+- "[[Indigenous reserves]]"
+usedFor:
+- "[[Aboriginal lands]]"
+- "[[Indian lands]]"
 ---

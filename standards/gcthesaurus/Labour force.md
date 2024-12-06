@@ -3,8 +3,15 @@ title: Labour force
 longTitle: 'Labour force'
 tags:
 - gccommon
-relatedTerm:
-- "[[Labour mobility Employment Human resources Selecti]]"
-use:
-- "[[Working population Manpower Work force Active popu]]"
+french:
+- "[[Main-doeuvre]]"
+scopeNote:
+- "All persons 15 years of age and over who are eithe"
+usedFor:
+- "[[Active population]]"
+- "[[Labor force]]"
+- "[[Manpower]]"
+- "[[Work force]]"
+- "[[Workforce]]"
+- "[[Working population]]"
 ---

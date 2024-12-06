@@ -3,6 +3,6 @@ title: Public policy
 longTitle: 'Public policy'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Government policy]]"
 ---

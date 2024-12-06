@@ -3,8 +3,8 @@ title: Lease
 longTitle: 'Lease'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Contracts]]"
+french:
+- "[[Bail]]"
 relatedTerm:
 - "[[Leasing]]"
 ---

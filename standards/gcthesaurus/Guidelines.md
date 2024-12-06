@@ -3,6 +3,8 @@ title: Guidelines
 longTitle: 'Guidelines'
 tags:
 - gccommon
-relatedTerm:
-- "[[Benchmarks Standards Codes of practice]]"
+french:
+- "[[Lignes directrices]]"
+scopeNote:
+- "General directions within which all personnel in a"
 ---

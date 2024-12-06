@@ -3,12 +3,29 @@ title: Transport
 longTitle: 'Transport'
 tags:
 - gccommon
-broaderTerm:
-- "[[International transport Accessible transport Hazar]]"
 french:
 - "[[Transport]]"
+narrowerTerm:
+- "[[Accessible transport]]"
+- "[[Air transport]]"
+- "[[Hazardous materials transport]]"
+- "[[Intercity transport]]"
+- "[[International transport]]"
+- "[[Interprovincial transport]]"
+- "[[Public transit]]"
+- "[[Rail transport]]"
+- "[[Road transport]]"
+- "[[Urban transit]]"
+- "[[Water transport]]"
 relatedTerm:
-- "[[Shipping Freight Sustainable transportation Handli]]"
-use:
-- "[[Passenger transportation Transportation]]"
+- "[[Handling]]"
+- "[[Intelligent transportation systems]]"
+- "[[Sustainable transportation]]"
+- "[[Transport industry]]"
+- "[[Transport policy]]"
+- "[[Transportation safety]]"
+- "[[Vehicles]]"
+usedFor:
+- "[[Passenger transportation]]"
+- "[[Transportation]]"
 ---

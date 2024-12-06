@@ -3,10 +3,13 @@ title: AIDS disease
 longTitle: 'AIDS (disease)'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Infectious diseases]]"
+french:
+- "[[Sida]]"
 relatedTerm:
-- "[[Sexually transmitted diseases Viruses]]"
-use:
-- "[[Acquired immunodeficiency syndrome HIV Acquired im]]"
+- "[[Sexually transmitted diseases]]"
+usedFor:
+- "[[Acquired immune deficiency syndrome]]"
+- "[[Acquired immunodeficiency syndrome]]"
+- "[[HIV]]"
+- "[[Human immunodeficiency virus]]"
 ---

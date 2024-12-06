@@ -3,6 +3,8 @@ title: Probate
 longTitle: 'Probate'
 tags:
 - gccommon
-relatedTerm:
-- "[[Inheritance Estates]]"
+french:
+- "[[Homologation]]"
+scopeNote:
+- "The formal certificate given by a court that decla"
 ---

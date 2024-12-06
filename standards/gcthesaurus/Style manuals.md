@@ -3,10 +3,10 @@ title: Style manuals
 longTitle: 'Style manuals'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Submissions]]"
-relatedTerm:
-- "[[Writing]]"
-use:
+french:
+- "[[Guide de redaction]]"
+scopeNote:
+- "Guides that define a prescribed format for documen"
+usedFor:
 - "[[Style guides]]"
 ---

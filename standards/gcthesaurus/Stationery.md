@@ -3,6 +3,8 @@ title: Stationery
 longTitle: 'Stationery'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Office supplies]]"
+french:
+- "[[Papeterie]]"
 ---

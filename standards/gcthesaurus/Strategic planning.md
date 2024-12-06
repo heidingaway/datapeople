@@ -3,6 +3,6 @@ title: Strategic planning
 longTitle: 'Strategic planning'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Strategic management]]"
 ---

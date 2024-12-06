@@ -3,6 +3,8 @@ title: Survival
 longTitle: 'Survival'
 tags:
 - gccommon
-use:
+french:
+- "[[Survie]]"
+usedFor:
 - "[[Survival training]]"
 ---

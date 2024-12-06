@@ -3,10 +3,17 @@ title: Environmental protection
 longTitle: 'Environmental protection'
 tags:
 - gccommon
-broaderTerm:
-- "[[Resources conservation Nature conservation]]"
+french:
+- "[[Protection de lenvironnement]]"
 relatedTerm:
-- "[[Pollution control Environmental technology Environ]]"
-use:
-- "[[Protection of the environment Environmental preser]]"
+- "[[Environmental technology]]"
+- "[[Green products]]"
+scopeNote:
+- "Protection conservation and preservation of the en"
+usedFor:
+- "[[Environment protection]]"
+- "[[Environmental conservation]]"
+- "[[Environmental preservation]]"
+- "[[Preservation of the environment]]"
+- "[[Protection of the environment]]"
 ---

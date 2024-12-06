@@ -3,8 +3,8 @@ title: Birth certificates
 longTitle: 'Birth certificates'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Citizenship documents]]"
-relatedTerm:
-- "[[Birth]]"
+french:
+- "[[Certificat de naissance]]"
 ---

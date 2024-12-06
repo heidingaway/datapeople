@@ -3,8 +3,13 @@ title: Farmlands
 longTitle: 'Farmlands'
 tags:
 - gccommon
-relatedTerm:
-- "[[Crops Agriculture Soil]]"
-use:
-- "[[Cultivated lands Agricultural lands Farming lands ]]"
+french:
+- "[[Terre agricole]]"
+usedFor:
+- "[[Agricultural lands]]"
+- "[[Crop lands]]"
+- "[[Croplands]]"
+- "[[Cultivated lands]]"
+- "[[Farm lands]]"
+- "[[Farming lands]]"
 ---

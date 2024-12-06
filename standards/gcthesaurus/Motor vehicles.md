@@ -3,12 +3,21 @@ title: Motor vehicles
 longTitle: 'Motor vehicles'
 tags:
 - gccommon
-broaderTerm:
-- "[[Electric vehicles Trucks Buses Automobiles]]"
+french:
+- "[[Vehicule automobile]]"
 narrowerTerm:
-- "[[Vehicles]]"
+- "[[Automobiles]]"
+- "[[Buses]]"
+- "[[Electric vehicles]]"
+- "[[Trucks]]"
 relatedTerm:
-- "[[Parking Driving Road transport Fleet management]]"
-use:
-- "[[Motor vehicle fleets Vehicle fleets Automotive veh]]"
+- "[[Fleet management]]"
+- "[[Parking]]"
+scopeNote:
+- "Refers to motor vehicles for road transportation"
+usedFor:
+- "[[Automotive vehicles]]"
+- "[[Motor vehicle fleets]]"
+- "[[Road motor vehicles]]"
+- "[[Vehicle fleets]]"
 ---

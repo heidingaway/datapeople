@@ -4,11 +4,13 @@ longTitle: 'Global navigation satellite systems'
 tags:
 - gccommon
 broaderTerm:
-- "[[Global positioning systems]]"
-narrowerTerm:
 - "[[Navigation systems]]"
-relatedTerm:
-- "[[Satellites Geography]]"
-use:
-- "[[GNSS Mobile geographic information systems Satelli]]"
+french:
+- "[[Systeme mondial de navigation par satellite]]"
+narrowerTerm:
+- "[[Global positioning systems]]"
+usedFor:
+- "[[GNSS]]"
+- "[[Mobile geographic information systems]]"
+- "[[Satellite navigation]]"
 ---

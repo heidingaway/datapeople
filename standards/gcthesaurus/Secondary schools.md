@@ -3,10 +3,10 @@ title: Secondary schools
 longTitle: 'Secondary schools'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Schools]]"
+french:
+- "[[Ecole secondaire]]"
 relatedTerm:
 - "[[Secondary education]]"
-use:
+usedFor:
 - "[[High schools]]"
 ---

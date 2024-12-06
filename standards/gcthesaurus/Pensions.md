@@ -3,10 +3,16 @@ title: Pensions
 longTitle: 'Pensions'
 tags:
 - gccommon
-broaderTerm:
-- "[[Public pensions Disability pensions Private pensio]]"
-relatedTerm:
-- "[[Allowances Personal income Social security Benefit]]"
-use:
-- "[[Pension plans Annuities Retirement benefits Old ag]]"
+french:
+- "[[Pension]]"
+narrowerTerm:
+- "[[Disability pensions]]"
+- "[[Private pensions]]"
+- "[[Public pensions]]"
+- "[[Veteran pensions]]"
+usedFor:
+- "[[Old age benefits]]"
+- "[[Old age security]]"
+- "[[Pension plans]]"
+- "[[Retirement benefits]]"
 ---

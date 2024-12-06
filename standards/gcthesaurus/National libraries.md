@@ -3,8 +3,10 @@ title: National libraries
 longTitle: 'National libraries'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Libraries]]"
+french:
+- "[[Bibliotheque nationale]]"
 relatedTerm:
 - "[[National bibliographies]]"
+scopeNote:
+- "Libraries designated and funded by national govern"
 ---

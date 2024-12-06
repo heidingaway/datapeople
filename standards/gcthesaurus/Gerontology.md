@@ -3,10 +3,8 @@ title: Gerontology
 longTitle: 'Gerontology'
 tags:
 - gccommon
-broaderTerm:
-- "[[Geriatrics]]"
-narrowerTerm:
-- "[[Social sciences]]"
-relatedTerm:
-- "[[Seniors Aging]]"
+french:
+- "[[Gerontologie]]"
+scopeNote:
+- "The multidisciplinary study of aging as a biologic"
 ---

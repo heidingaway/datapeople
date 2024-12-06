@@ -3,8 +3,8 @@ title: Private pensions
 longTitle: 'Private pensions'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Pensions]]"
+french:
+- "[[Pension privee]]"
 relatedTerm:
 - "[[Public pensions]]"
 ---

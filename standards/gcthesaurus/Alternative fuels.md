@@ -3,10 +3,12 @@ title: Alternative fuels
 longTitle: 'Alternative fuels'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Alternative energy Fuels]]"
-relatedTerm:
-- "[[Electric vehicles]]"
-use:
+broaderTerm:
+- "[[Alternative energy]]"
+french:
+- "[[Carburant de remplacement]]"
+scopeNote:
+- "Refers to alternative transportation fuels"
+usedFor:
 - "[[Alternative transportation fuels]]"
 ---

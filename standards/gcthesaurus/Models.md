@@ -3,6 +3,6 @@ title: Models
 longTitle: 'Models'
 tags:
 - gccommon
-relatedTerm:
-- "[[Prototyping Samples]]"
+french:
+- "[[Modele]]"
 ---

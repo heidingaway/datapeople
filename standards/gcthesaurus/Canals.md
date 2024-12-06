@@ -3,6 +3,8 @@ title: Canals
 longTitle: 'Canals'
 tags:
 - gccommon
+french:
+- "[[Canal]]"
 relatedTerm:
-- "[[Waterways Locks]]"
+- "[[Locks]]"
 ---

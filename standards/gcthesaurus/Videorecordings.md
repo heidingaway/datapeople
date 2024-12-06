@@ -3,6 +3,14 @@ title: Videorecordings
 longTitle: 'Videorecordings'
 tags:
 - gccommon
-use:
-- "[[Video recordings Videos Videocassettes Video discs]]"
+french:
+- "[[Enregistrement video]]"
+usedFor:
+- "[[Video discs]]"
+- "[[Video disks]]"
+- "[[Video recordings]]"
+- "[[Videocassettes]]"
+- "[[Videodiscs]]"
+- "[[Videodisks]]"
+- "[[Videos]]"
 ---

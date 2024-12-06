@@ -3,12 +3,14 @@ title: Visual arts
 longTitle: 'Visual arts'
 tags:
 - gccommon
-broaderTerm:
-- "[[Sculpture Photography Painting Graphic arts Decora]]"
+french:
+- "[[Arts visuels]]"
 narrowerTerm:
-- "[[Arts]]"
-relatedTerm:
-- "[[Art works Art galleries]]"
-use:
+- "[[Decorative arts]]"
+- "[[Graphic arts]]"
+- "[[Painting]]"
+- "[[Photography]]"
+- "[[Sculpture]]"
+usedFor:
 - "[[Fine arts]]"
 ---

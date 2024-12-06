@@ -3,8 +3,8 @@ title: Bibliographic data interchange
 longTitle: 'Bibliographic data interchange'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Electronic data interchange]]"
-relatedTerm:
-- "[[Libraries]]"
+french:
+- "[[Echange de donnees bibliographiques]]"
 ---

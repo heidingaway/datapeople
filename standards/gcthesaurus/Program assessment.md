@@ -3,8 +3,8 @@ title: Program assessment
 longTitle: 'Program assessment'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Assessment]]"
+french:
+- "[[Evaluation de programme]]"
 relatedTerm:
-- "[[Program management Program review Programs]]"
+- "[[Program management]]"
 ---

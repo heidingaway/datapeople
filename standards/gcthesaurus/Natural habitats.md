@@ -3,6 +3,6 @@ title: Natural habitats
 longTitle: 'Natural habitats'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Habitats]]"
 ---

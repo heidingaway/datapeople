@@ -3,6 +3,8 @@ title: Bioassay
 longTitle: 'Bioassay'
 tags:
 - gccommon
-relatedTerm:
-- "[[Scientific research Benchmarks]]"
+french:
+- "[[Epreuve biologique]]"
+scopeNote:
+- "Analysis of the strength concentration potency or "
 ---

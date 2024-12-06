@@ -3,10 +3,14 @@ title: Land management
 longTitle: 'Land management'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Environmental management]]"
+french:
+- "[[Gestion des terres]]"
 relatedTerm:
-- "[[Crown lands Irrigation Land cover Drainage Surveyi]]"
-use:
-- "[[Land inventory Land utilization Land administratio]]"
+- "[[Crown lands]]"
+- "[[Land cover]]"
+usedFor:
+- "[[Land administration]]"
+- "[[Land inventory]]"
+- "[[Land use]]"
+- "[[Land utilization]]"
 ---

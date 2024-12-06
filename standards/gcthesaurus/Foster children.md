@@ -3,6 +3,8 @@ title: Foster children
 longTitle: 'Foster children'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Foster families]]"
+french:
+- "[[Enfant en famille daccueil]]"
 ---

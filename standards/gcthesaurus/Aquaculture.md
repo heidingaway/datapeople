@@ -3,14 +3,11 @@ title: Aquaculture
 longTitle: 'Aquaculture'
 tags:
 - gccommon
-broaderTerm:
-- "[[Fish farming]]"
 french:
 - "[[Aquaculture]]"
-narrowerTerm:
-- "[[Agriculture]]"
-relatedTerm:
-- "[[Aquatic plants Aquatic animals]]"
-use:
-- "[[Aquiculture Aquatic agriculture]]"
+scopeNote:
+- "Culture of aquatic animals or plants"
+usedFor:
+- "[[Aquatic agriculture]]"
+- "[[Aquiculture]]"
 ---

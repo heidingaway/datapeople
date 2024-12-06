@@ -3,6 +3,6 @@ title: Fire safety
 longTitle: 'Fire safety'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Fire prevention]]"
 ---

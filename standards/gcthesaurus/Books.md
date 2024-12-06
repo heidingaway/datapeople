@@ -3,8 +3,12 @@ title: Books
 longTitle: 'Books'
 tags:
 - gccommon
-broaderTerm:
-- "[[Gift books Childrens books]]"
+french:
+- "[[Livre]]"
+narrowerTerm:
+- "[[Childrens books]]"
+- "[[Gift books]]"
 relatedTerm:
-- "[[Reading Monographic series Publishing Manuscripts ]]"
+- "[[Handbooks]]"
+- "[[Monographic series]]"
 ---

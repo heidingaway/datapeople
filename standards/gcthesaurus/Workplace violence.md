@@ -3,10 +3,8 @@ title: Workplace violence
 longTitle: 'Workplace violence'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Violence]]"
-relatedTerm:
-- "[[Workplace]]"
-use:
+french:
+- "[[Violence en milieu de travail]]"
+usedFor:
 - "[[Violence in the workplace]]"
 ---

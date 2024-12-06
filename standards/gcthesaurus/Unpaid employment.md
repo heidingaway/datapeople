@@ -3,6 +3,6 @@ title: Unpaid employment
 longTitle: 'Unpaid employment'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Unpaid work]]"
 ---

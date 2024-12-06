@@ -3,12 +3,14 @@ title: Beverages
 longTitle: 'Beverages'
 tags:
 - gccommon
-broaderTerm:
-- "[[Alcoholic beverages Tea Drinking water Coffee]]"
+french:
+- "[[Boisson]]"
 narrowerTerm:
-- "[[Agri-food products]]"
+- "[[Alcoholic beverages]]"
+- "[[Coffee]]"
+- "[[Tea]]"
 relatedTerm:
 - "[[Beverage industry]]"
-use:
+usedFor:
 - "[[Drinks]]"
 ---

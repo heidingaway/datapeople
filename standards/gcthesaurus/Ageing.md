@@ -3,6 +3,6 @@ title: Ageing
 longTitle: 'Ageing'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Aging]]"
 ---

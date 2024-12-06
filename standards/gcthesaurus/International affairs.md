@@ -3,6 +3,6 @@ title: International affairs
 longTitle: 'International affairs'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Foreign affairs]]"
 ---

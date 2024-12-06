@@ -3,8 +3,8 @@ title: Travel
 longTitle: 'Travel'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Voyage]]"
+narrowerTerm:
 - "[[International travel]]"
-relatedTerm:
-- "[[Border crossing Tourism Travel documents]]"
 ---

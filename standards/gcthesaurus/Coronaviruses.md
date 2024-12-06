@@ -3,8 +3,10 @@ title: Coronaviruses
 longTitle: 'Coronaviruses'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Viruses]]"
+french:
+- "[[Coronavirus]]"
 relatedTerm:
 - "[[Coronavirus diseases]]"
 ---

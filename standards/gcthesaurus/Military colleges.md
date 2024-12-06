@@ -3,8 +3,8 @@ title: Military colleges
 longTitle: 'Military colleges'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Colleges]]"
-relatedTerm:
-- "[[Military training]]"
+french:
+- "[[College militaire]]"
 ---

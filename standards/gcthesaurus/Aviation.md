@@ -3,12 +3,16 @@ title: Aviation
 longTitle: 'Aviation'
 tags:
 - gccommon
-broaderTerm:
-- "[[Civil aviation Military aviation]]"
 french:
 - "[[Aviation]]"
+narrowerTerm:
+- "[[Civil aviation]]"
+- "[[Military aviation]]"
 relatedTerm:
-- "[[Aircraft Aviation industry Air transport Aeronauti]]"
-use:
-- "[[Aeronautics Air navigation]]"
+- "[[Aeronautical maps]]"
+scopeNote:
+- "Science and practice of air navigation"
+usedFor:
+- "[[Aeronautics]]"
+- "[[Air navigation]]"
 ---

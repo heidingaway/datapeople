@@ -3,8 +3,12 @@ title: Poultry
 longTitle: 'Poultry'
 tags:
 - gccommon
+french:
+- "[[Volaille]]"
 relatedTerm:
-- "[[Hatcheries Domestic animals Livestock Eggs]]"
-use:
-- "[[Turkey Chicken]]"
+- "[[Eggs]]"
+- "[[Hatcheries]]"
+usedFor:
+- "[[Chicken]]"
+- "[[Turkey]]"
 ---

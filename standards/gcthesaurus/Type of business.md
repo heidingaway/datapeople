@@ -3,6 +3,6 @@ title: Type of business
 longTitle: 'Type of business'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Business types]]"
 ---

@@ -3,8 +3,9 @@ title: Health promotion
 longTitle: 'Health promotion'
 tags:
 - gccommon
-relatedTerm:
-- "[[Health protection Preventive medicine Health]]"
-use:
-- "[[Health education Health information]]"
+french:
+- "[[Promotion de la sante]]"
+usedFor:
+- "[[Health education]]"
+- "[[Health information]]"
 ---

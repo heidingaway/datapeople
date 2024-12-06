@@ -3,6 +3,8 @@ title: Confidentiality
 longTitle: 'Confidentiality'
 tags:
 - gccommon
-relatedTerm:
-- "[[Privacy Access to information Personal information]]"
+french:
+- "[[Confidentialite]]"
+scopeNote:
+- "Maintenance of information against unauthorized di"
 ---

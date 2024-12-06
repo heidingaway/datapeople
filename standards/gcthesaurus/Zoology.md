@@ -3,12 +3,12 @@ title: Zoology
 longTitle: 'Zoology'
 tags:
 - gccommon
-broaderTerm:
-- "[[Ichthyology Ornithology Entomology]]"
+french:
+- "[[Zoologie]]"
 narrowerTerm:
-- "[[Biology]]"
-relatedTerm:
-- "[[Animal research Animals]]"
-use:
+- "[[Entomology]]"
+- "[[Ichthyology]]"
+- "[[Ornithology]]"
+usedFor:
 - "[[Animal sciences]]"
 ---

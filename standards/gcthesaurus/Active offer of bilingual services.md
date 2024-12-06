@@ -3,6 +3,6 @@ title: Active offer of bilingual services
 longTitle: 'Active offer of bilingual services'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Bilingual services]]"
 ---

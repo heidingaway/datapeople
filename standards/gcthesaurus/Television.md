@@ -1,8 +1,11 @@
 ---
 title: Television
-longTitle: 'Télévision'
+longTitle: 'Television'
 tags:
 - gccommon
 french:
 - "[[Television]]"
+usedFor:
+- "[[Pay television]]"
+- "[[TV]]"
 ---

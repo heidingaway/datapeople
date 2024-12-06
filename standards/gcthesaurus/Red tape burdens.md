@@ -3,10 +3,10 @@ title: Red tape burdens
 longTitle: 'Red tape burdens'
 tags:
 - gccommon
-broaderTerm:
-- "[[Red tape reduction]]"
+french:
+- "[[Fardeau administratif]]"
 narrowerTerm:
-- "[[Governments Federal government]]"
-use:
+- "[[Red tape reduction]]"
+usedFor:
 - "[[Administrative burdens]]"
 ---

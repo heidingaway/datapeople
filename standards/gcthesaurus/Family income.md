@@ -3,6 +3,6 @@ title: Family income
 longTitle: 'Family income'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Household income]]"
 ---

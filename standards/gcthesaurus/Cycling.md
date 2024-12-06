@@ -3,8 +3,8 @@ title: Cycling
 longTitle: 'Cycling'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Sports]]"
+french:
+- "[[Cyclisme]]"
 relatedTerm:
-- "[[Bicycle safety equipment Bicycle paths Outdoor rec]]"
+- "[[Bicycle safety equipment]]"
 ---

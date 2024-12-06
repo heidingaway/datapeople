@@ -3,12 +3,18 @@ title: Social sciences
 longTitle: 'Social sciences'
 tags:
 - gccommon
-broaderTerm:
-- "[[Gerontology Economics Sociology Anthropology Archa]]"
+french:
+- "[[Sciences sociales]]"
 narrowerTerm:
-- "[[Sciences]]"
-relatedTerm:
-- "[[Geography Social issues Humanities]]"
-use:
+- "[[Anthropology]]"
+- "[[Archaeology]]"
+- "[[Demography]]"
+- "[[Economics]]"
+- "[[Gerontology]]"
+- "[[History]]"
+- "[[Political science]]"
+- "[[Psychology]]"
+- "[[Sociology]]"
+usedFor:
 - "[[Social studies]]"
 ---

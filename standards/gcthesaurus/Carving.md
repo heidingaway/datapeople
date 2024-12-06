@@ -3,6 +3,6 @@ title: Carving
 longTitle: 'Carving'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Sculpture]]"
 ---

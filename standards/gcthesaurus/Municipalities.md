@@ -3,6 +3,8 @@ title: Municipalities
 longTitle: 'Municipalities'
 tags:
 - gccommon
-relatedTerm:
-- "[[Municipal buildings Local governments]]"
+french:
+- "[[Municipalite]]"
+scopeNote:
+- "Legally incorporated or duly authorized associatio"
 ---

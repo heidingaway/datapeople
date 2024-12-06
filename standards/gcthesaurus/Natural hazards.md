@@ -3,6 +3,6 @@ title: Natural hazards
 longTitle: 'Natural hazards'
 tags:
 - gccommon
-usedFor:
-- "[[Natural disasters]]"
+historyNote:
+- "The preferred term Natural hazards becomes non-pre"
 ---

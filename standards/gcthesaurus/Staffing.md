@@ -3,10 +3,11 @@ title: Staffing
 longTitle: 'Staffing'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Personnel management]]"
+french:
+- "[[Dotation]]"
 relatedTerm:
-- "[[Recruiting Assignments Human resources Selection A]]"
-use:
+- "[[Assignments]]"
+- "[[Recruiting]]"
+usedFor:
 - "[[Hiring]]"
 ---

@@ -3,12 +3,16 @@ title: Microorganisms
 longTitle: 'Microorganisms'
 tags:
 - gccommon
-broaderTerm:
-- "[[Bacteria Viruses]]"
+french:
+- "[[Microorganisme]]"
 narrowerTerm:
-- "[[Living organisms]]"
+- "[[Bacteria]]"
+- "[[Viruses]]"
 relatedTerm:
-- "[[Cells Biodegradation Microbiology]]"
-use:
-- "[[Microscopic organisms Molds Fungi Moulds Fungi Yea]]"
+- "[[Microbiology]]"
+scopeNote:
+- "Refers to any plant or animal of microscopical siz"
+usedFor:
+- "[[Micro-organisms]]"
+- "[[Microscopic organisms]]"
 ---

@@ -3,10 +3,11 @@ title: Domestic markets
 longTitle: 'Domestic markets'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Markets]]"
+french:
+- "[[Marche interieur]]"
 relatedTerm:
 - "[[Domestic trade]]"
-use:
-- "[[Local markets National markets]]"
+usedFor:
+- "[[Local markets]]"
+- "[[National markets]]"
 ---

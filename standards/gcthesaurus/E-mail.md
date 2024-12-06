@@ -3,6 +3,6 @@ title: E-mail
 longTitle: 'E-mail'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Electronic mail]]"
 ---

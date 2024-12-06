@@ -3,8 +3,8 @@ title: Corporate names
 longTitle: 'Corporate names'
 tags:
 - gccommon
-relatedTerm:
-- "[[Corporations Corporate image]]"
-use:
+french:
+- "[[Raison sociale]]"
+usedFor:
 - "[[Corporate identity]]"
 ---

@@ -3,12 +3,18 @@ title: Service industry
 longTitle: 'Service industry'
 tags:
 - gccommon
-broaderTerm:
-- "[[Health care industry Hospitality industry Broadcas]]"
+french:
+- "[[Industrie des services]]"
 narrowerTerm:
-- "[[Industry]]"
-relatedTerm:
-- "[[Quality of service Marketplace services]]"
-use:
-- "[[Service sector Tertiary sector Tertiary industry]]"
+- "[[Broadcasting industry]]"
+- "[[Communications industry]]"
+- "[[Cultural industry]]"
+- "[[Health care industry]]"
+- "[[Hospitality industry]]"
+- "[[Real estate industry]]"
+- "[[Transport industry]]"
+usedFor:
+- "[[Service sector]]"
+- "[[Tertiary industry]]"
+- "[[Tertiary sector]]"
 ---

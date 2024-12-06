@@ -3,8 +3,20 @@ title: Governments
 longTitle: 'Governments'
 tags:
 - gccommon
-broaderTerm:
-- "[[Provincial governments Government priorities Indig]]"
+french:
+- "[[Gouvernement]]"
+narrowerTerm:
+- "[[Federal government]]"
+- "[[Government plans]]"
+- "[[Government priorities]]"
+- "[[Indigenous governments]]"
+- "[[Local governments]]"
+- "[[Portfolio]]"
+- "[[Provincial governments]]"
+- "[[Territorial governments]]"
+- "[[Treasury board]]"
 relatedTerm:
-- "[[Government policy Self government Public administr]]"
+- "[[Intergovernmental relations]]"
+scopeNote:
+- "The system according to which a nation or communit"
 ---

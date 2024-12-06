@@ -3,8 +3,8 @@ title: Plain language
 longTitle: 'Plain language'
 tags:
 - gccommon
-relatedTerm:
-- "[[Languages Writing]]"
-use:
+french:
+- "[[Langage simple]]"
+usedFor:
 - "[[Clear language]]"
 ---

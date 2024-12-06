@@ -6,7 +6,9 @@ tags:
 french:
 - "[[Identification]]"
 relatedTerm:
-- "[[Labelling Authentication Detection Coding Registra]]"
-use:
+- "[[Authentication]]"
+- "[[Detection]]"
+- "[[Registration]]"
+usedFor:
 - "[[Identification cards]]"
 ---

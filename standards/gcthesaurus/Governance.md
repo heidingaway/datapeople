@@ -3,6 +3,8 @@ title: Governance
 longTitle: 'Governance'
 tags:
 - gccommon
-relatedTerm:
-- "[[Public administration Governments Internal audits]]"
+french:
+- "[[Gouvernance]]"
+scopeNote:
+- "Way to exercise power and manage the affairs of a "
 ---

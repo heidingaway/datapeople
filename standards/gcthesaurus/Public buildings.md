@@ -3,8 +3,10 @@ title: Public buildings
 longTitle: 'Public buildings'
 tags:
 - gccommon
-broaderTerm:
-- "[[Municipal buildings]]"
+french:
+- "[[Edifice public]]"
 relatedTerm:
 - "[[Public architecture]]"
+scopeNote:
+- "Relatively important buildings used for government"
 ---

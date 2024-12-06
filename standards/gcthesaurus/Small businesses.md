@@ -3,10 +3,11 @@ title: Small businesses
 longTitle: 'Small businesses'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Businesses]]"
+french:
+- "[[Petite entreprise]]"
 relatedTerm:
 - "[[Small business loans]]"
-use:
-- "[[Small and medium-sized enterprises Small and mediu]]"
+usedFor:
+- "[[Small and medium-sized businesses]]"
+- "[[Small and medium-sized enterprises]]"
 ---

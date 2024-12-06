@@ -3,8 +3,8 @@ title: Intranets
 longTitle: 'Intranets'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Computer networks]]"
-use:
+french:
+- "[[Intranet]]"
+usedFor:
 - "[[Intranet sites]]"
 ---

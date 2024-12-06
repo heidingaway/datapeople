@@ -3,8 +3,11 @@ title: Commissions of inquiry
 longTitle: 'Commissions of inquiry'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Investigative bodies]]"
-use:
-- "[[Royal commissions Government inquiries]]"
+french:
+- "[[Commission denquete]]"
+usedFor:
+- "[[Government inquiries]]"
+- "[[Royal commissions]]"
 ---

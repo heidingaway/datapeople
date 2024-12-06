@@ -3,8 +3,8 @@ title: Restructuring
 longTitle: 'Restructuring'
 tags:
 - gccommon
-relatedTerm:
-- "[[Transformation]]"
-use:
+french:
+- "[[Restructuration]]"
+usedFor:
 - "[[Redeployment]]"
 ---

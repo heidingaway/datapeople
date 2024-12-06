@@ -3,12 +3,12 @@ title: Social security
 longTitle: 'Social security'
 tags:
 - gccommon
-broaderTerm:
-- "[[Income security]]"
+french:
+- "[[Securite sociale]]"
 narrowerTerm:
-- "[[Security]]"
+- "[[Income security]]"
 relatedTerm:
-- "[[Social assistance Pensions Social conditions Socia]]"
-use:
+- "[[Social insurance number]]"
+usedFor:
 - "[[Social insurance]]"
 ---

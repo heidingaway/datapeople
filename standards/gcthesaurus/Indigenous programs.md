@@ -3,10 +3,10 @@ title: Indigenous programs
 longTitle: 'Indigenous programs'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Programs]]"
+french:
+- "[[Programme pour autochtones]]"
 relatedTerm:
 - "[[Indigenous businesses]]"
-use:
+usedFor:
 - "[[Aboriginal programs]]"
 ---

@@ -3,10 +3,11 @@ title: Charitable organizations
 longTitle: 'Charitable organizations'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Non-profit organizations]]"
+french:
+- "[[Organisme de bienfaisance]]"
 relatedTerm:
 - "[[Charitable donations]]"
-use:
-- "[[Philanthropic organizations Charities]]"
+usedFor:
+- "[[Charities]]"
+- "[[Philanthropic organizations]]"
 ---

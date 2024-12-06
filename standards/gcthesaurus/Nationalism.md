@@ -3,6 +3,8 @@ title: Nationalism
 longTitle: 'Nationalism'
 tags:
 - gccommon
+french:
+- "[[Nationalisme]]"
 relatedTerm:
-- "[[National symbols Canadian identity]]"
+- "[[Canadian identity]]"
 ---

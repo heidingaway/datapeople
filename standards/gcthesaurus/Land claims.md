@@ -3,8 +3,10 @@ title: Land claims
 longTitle: 'Land claims'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Claims]]"
-relatedTerm:
-- "[[Indigenous rights Indigenous affairs Indigenous la]]"
+french:
+- "[[Revendication territoriale]]"
+scopeNote:
+- "Indigenous rights proposed or established to lands"
 ---

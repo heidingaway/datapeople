@@ -3,10 +3,12 @@ title: Urban environment
 longTitle: 'Urban environment'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Environment]]"
+french:
+- "[[Milieu urbain]]"
 relatedTerm:
-- "[[Urban transit Urban communities Urban planning Rur]]"
-use:
-- "[[Urban areas Inner-city Metropolitan areas]]"
+- "[[Urban planning]]"
+usedFor:
+- "[[Inner-city]]"
+- "[[Metropolitan areas]]"
+- "[[Urban areas]]"
 ---

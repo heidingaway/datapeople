@@ -3,8 +3,9 @@ title: Conflict resolution
 longTitle: 'Conflict resolution'
 tags:
 - gccommon
-relatedTerm:
-- "[[Mediation Negotiations Conciliation Conflicts]]"
-use:
-- "[[Dispute settlements Dispute resolution]]"
+french:
+- "[[Resolution de conflit]]"
+usedFor:
+- "[[Dispute resolution]]"
+- "[[Dispute settlements]]"
 ---

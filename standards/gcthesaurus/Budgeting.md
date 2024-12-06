@@ -3,6 +3,6 @@ title: Budgeting
 longTitle: 'Budgeting'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Budget planning]]"
 ---

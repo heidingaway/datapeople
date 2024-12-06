@@ -3,6 +3,6 @@ title: Solar power
 longTitle: 'Solar power'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Solar energy]]"
 ---

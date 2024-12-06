@@ -3,12 +3,20 @@ title: Drugs
 longTitle: 'Drugs'
 tags:
 - gccommon
-broaderTerm:
-- "[[Prescription drugs Veterinary drugs Patented medic]]"
+french:
+- "[[Medicament]]"
 narrowerTerm:
-- "[[Health care products]]"
+- "[[Nonprescription drugs]]"
+- "[[Patented medicines]]"
+- "[[Prescription drugs]]"
+- "[[Veterinary drugs]]"
 relatedTerm:
-- "[[Drug labelling Medicinal plants Methadone Side eff]]"
-use:
-- "[[Pharmaceuticals Medicinal drugs Medications Medica]]"
+- "[[Drug laws]]"
+scopeNote:
+- "Any substance intended for the prevention or treat"
+usedFor:
+- "[[Medicaments]]"
+- "[[Medications]]"
+- "[[Medicinal drugs]]"
+- "[[Pharmaceuticals]]"
 ---

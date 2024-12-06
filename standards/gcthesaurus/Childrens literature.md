@@ -3,10 +3,10 @@ title: Childrens literature
 longTitle: 'Children's literature'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Literature]]"
+french:
+- "[[Litterature de jeunesse]]"
 relatedTerm:
 - "[[Childrens books]]"
-use:
+usedFor:
 - "[[Juvenile literature]]"
 ---

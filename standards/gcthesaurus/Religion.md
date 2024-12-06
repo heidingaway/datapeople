@@ -5,8 +5,6 @@ tags:
 - gccommon
 french:
 - "[[Religion]]"
-relatedTerm:
-- "[[Religious buildings Religious history]]"
-use:
+usedFor:
 - "[[Religious life]]"
 ---

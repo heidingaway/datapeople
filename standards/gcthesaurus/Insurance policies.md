@@ -3,6 +3,6 @@ title: Insurance policies
 longTitle: 'Insurance policies'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Insurance]]"
 ---

@@ -3,10 +3,15 @@ title: High technology
 longTitle: 'High technology'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Technology]]"
+french:
+- "[[Technologie de pointe]]"
 relatedTerm:
 - "[[Technological innovation]]"
-use:
-- "[[High tech Emerging technology New technology Advan]]"
+usedFor:
+- "[[Advanced technology]]"
+- "[[Emerging technology]]"
+- "[[High tech]]"
+- "[[Leading edge technology]]"
+- "[[New technology]]"
+- "[[State of the art technology]]"
 ---

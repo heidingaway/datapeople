@@ -3,6 +3,6 @@ title: Data extraction
 longTitle: 'Data extraction'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Data mining]]"
 ---

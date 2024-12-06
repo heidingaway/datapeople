@@ -3,6 +3,6 @@ title: Finance companies
 longTitle: 'Finance companies'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Financing companies]]"
 ---

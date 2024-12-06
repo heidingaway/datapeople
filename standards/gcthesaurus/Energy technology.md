@@ -3,10 +3,8 @@ title: Energy technology
 longTitle: 'Energy technology'
 tags:
 - gccommon
-broaderTerm:
-- "[[Electric power stations]]"
+french:
+- "[[Technologie energetique]]"
 narrowerTerm:
-- "[[Technology]]"
-relatedTerm:
-- "[[Energy production Energy Energy efficiency Alterna]]"
+- "[[Electric power stations]]"
 ---

@@ -3,6 +3,6 @@ title: Document delivery
 longTitle: 'Document delivery'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Interlibrary loans]]"
 ---

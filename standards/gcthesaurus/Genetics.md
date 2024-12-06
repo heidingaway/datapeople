@@ -3,10 +3,10 @@ title: Genetics
 longTitle: 'Genetics'
 tags:
 - gccommon
-broaderTerm:
-- "[[Genomics]]"
+french:
+- "[[Genetique]]"
 narrowerTerm:
-- "[[Biology]]"
+- "[[Genomics]]"
 relatedTerm:
-- "[[Genetic engineering Heredity]]"
+- "[[Heredity]]"
 ---

@@ -3,10 +3,11 @@ title: Medicinal plants
 longTitle: 'Medicinal plants'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Plants]]"
+french:
+- "[[Plante medicinale]]"
 relatedTerm:
-- "[[Drugs Marijuana Alternative medicine]]"
-use:
-- "[[Drug plants Herbal remedies]]"
+- "[[Alternative medicine]]"
+usedFor:
+- "[[Drug plants]]"
+- "[[Herbal remedies]]"
 ---

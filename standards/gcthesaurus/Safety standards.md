@@ -3,10 +3,8 @@ title: Safety standards
 longTitle: 'Safety standards'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Standards]]"
-relatedTerm:
-- "[[Safety regulations Safety measures Safety equipmen]]"
-use:
+french:
+- "[[Norme de securite]]"
+usedFor:
 - "[[Safety guidelines]]"
 ---

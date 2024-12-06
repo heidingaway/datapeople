@@ -3,6 +3,6 @@ title: Animal breeding
 longTitle: 'Animal breeding'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Animal reproduction]]"
 ---

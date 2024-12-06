@@ -3,10 +3,8 @@ title: Environmental law
 longTitle: 'Environmental law'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Law]]"
-relatedTerm:
-- "[[Environmental policy]]"
-use:
+french:
+- "[[Droit de lenvironnement]]"
+usedFor:
 - "[[Environmental legislation]]"
 ---

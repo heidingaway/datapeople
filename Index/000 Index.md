@@ -1,17 +1,16 @@
 ---
 title: 000 Index
 created: 2024-10-25
-modified: 2024-10-26
+modified: 2024-12-05
 tags:
 - meta
 ---
 # 000 Index
-- area [[000 Index]]
 - area [[100 Project]]
 - area [[200 Area]]
 - area [[300 Resource]]
 - area [[400 Thing]]
-- area [[500]]
+- area [[500 Standards]]
 - area [[600]]
 - area [[700]]
 - area [[800]]

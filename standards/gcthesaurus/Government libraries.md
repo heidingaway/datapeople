@@ -3,8 +3,8 @@ title: Government libraries
 longTitle: 'Government libraries'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Libraries]]"
+french:
+- "[[Bibliotheque gouvernementale]]"
 relatedTerm:
-- "[[Special libraries Government information]]"
+- "[[Special libraries]]"
 ---

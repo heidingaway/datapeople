@@ -3,8 +3,8 @@ title: Business intelligence
 longTitle: 'Business intelligence'
 tags:
 - gccommon
-relatedTerm:
-- "[[Business development Business opportunities Inform]]"
-use:
+french:
+- "[[Renseignements daffaires]]"
+usedFor:
 - "[[Competitive intelligence]]"
 ---

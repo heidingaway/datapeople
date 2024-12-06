@@ -3,10 +3,13 @@ title: Outdoor recreation
 longTitle: 'Outdoor recreation'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Recreation]]"
+french:
+- "[[Loisir de plein air]]"
 relatedTerm:
-- "[[Hiking Hunting Sport Fishing Sport Cycling]]"
-use:
-- "[[Camping Outdoor activities]]"
+- "[[Hiking]]"
+usedFor:
+- "[[Camping]]"
+- "[[Outdoor activities]]"
 ---

@@ -3,10 +3,10 @@ title: Astronomy
 longTitle: 'Astronomy'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Space sciences]]"
-relatedTerm:
-- "[[Astronomical observatories Planetariums]]"
-use:
+french:
+- "[[Astronomie]]"
+usedFor:
 - "[[Astrophysics]]"
 ---

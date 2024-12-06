@@ -3,6 +3,6 @@ title: Soil classification
 longTitle: 'Soil classification'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Soil taxonomy]]"
 ---

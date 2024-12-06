@@ -3,8 +3,8 @@ title: Globalization
 longTitle: 'Globalization'
 tags:
 - gccommon
-relatedTerm:
-- "[[International economics]]"
-use:
+french:
+- "[[Mondialisation]]"
+usedFor:
 - "[[Internationalization]]"
 ---

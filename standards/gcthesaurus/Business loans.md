@@ -3,8 +3,8 @@ title: Business loans
 longTitle: 'Business loans'
 tags:
 - gccommon
-broaderTerm:
-- "[[Small business loans]]"
+french:
+- "[[Pret a lentreprise]]"
 narrowerTerm:
-- "[[Loans]]"
+- "[[Small business loans]]"
 ---

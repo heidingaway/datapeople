@@ -3,8 +3,8 @@ title: Food inspection
 longTitle: 'Food inspection'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Inspection]]"
+french:
+- "[[Inspection des aliments]]"
 relatedTerm:
-- "[[Animal inspection Food Food safety Food processing]]"
+- "[[Animal inspection]]"
 ---

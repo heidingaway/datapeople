@@ -3,6 +3,6 @@ title: Human population
 longTitle: 'Human population'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Population]]"
 ---

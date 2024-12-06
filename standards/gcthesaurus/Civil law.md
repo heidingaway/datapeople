@@ -3,8 +3,8 @@ title: Civil law
 longTitle: 'Civil law'
 tags:
 - gccommon
-broaderTerm:
-- "[[Family law]]"
+french:
+- "[[Droit civil]]"
 narrowerTerm:
-- "[[Law]]"
+- "[[Family law]]"
 ---

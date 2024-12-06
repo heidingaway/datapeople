@@ -3,8 +3,8 @@ title: Economy
 longTitle: 'Economy'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Economie]]"
+narrowerTerm:
 - "[[Knowledge based economy]]"
-relatedTerm:
-- "[[Economic history Economic analysis Economic condit]]"
 ---

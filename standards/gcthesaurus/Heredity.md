@@ -3,8 +3,8 @@ title: Heredity
 longTitle: 'Heredity'
 tags:
 - gccommon
-relatedTerm:
-- "[[Genetics]]"
-use:
+french:
+- "[[Heredite]]"
+usedFor:
 - "[[Genetic heritage]]"
 ---

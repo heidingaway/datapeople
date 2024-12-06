@@ -3,12 +3,18 @@ title: Primary industry
 longTitle: 'Primary industry'
 tags:
 - gccommon
-broaderTerm:
-- "[[Forestry industry Gas industry Petroleum industry ]]"
+french:
+- "[[Industrie primaire]]"
 narrowerTerm:
-- "[[Industry]]"
+- "[[Forestry industry]]"
+- "[[Gas industry]]"
+- "[[Mining industry]]"
+- "[[Petroleum industry]]"
 relatedTerm:
-- "[[Drilling Natural resources Extraction Prospecting]]"
-use:
-- "[[Resource industry Resource-based industry Extracti]]"
+- "[[Extraction]]"
+usedFor:
+- "[[Extractive industry]]"
+- "[[Primary sector]]"
+- "[[Resource industry]]"
+- "[[Resource-based industry]]"
 ---

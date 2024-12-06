@@ -3,10 +3,14 @@ title: Water
 longTitle: 'Water'
 tags:
 - gccommon
-broaderTerm:
-- "[[Salt water Surface water Waste water Groundwater D]]"
-relatedTerm:
-- "[[Water management Water pollution Hydrology Ice Wat]]"
-use:
+french:
+- "[[Eau]]"
+narrowerTerm:
+- "[[Fresh water]]"
+- "[[Groundwater]]"
+- "[[Salt water]]"
+- "[[Surface water]]"
+- "[[Waste water]]"
+usedFor:
 - "[[Water resources]]"
 ---

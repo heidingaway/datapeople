@@ -3,6 +3,10 @@ title: Adulthood
 longTitle: 'Adulthood'
 tags:
 - gccommon
+french:
+- "[[Age adulte]]"
 relatedTerm:
-- "[[Young adults Adults]]"
+- "[[Adults]]"
+scopeNote:
+- "The state of legal age of majority"
 ---

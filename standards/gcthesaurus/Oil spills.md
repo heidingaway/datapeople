@@ -3,10 +3,14 @@ title: Oil spills
 longTitle: 'Oil spills'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Toxic spills]]"
-relatedTerm:
-- "[[Petroleum]]"
-use:
-- "[[Black tides Oil discharge Oil releases Oil spillag]]"
+french:
+- "[[Deversement de petrole]]"
+usedFor:
+- "[[Black tides]]"
+- "[[Oil discharge]]"
+- "[[Oil leaks]]"
+- "[[Oil releases]]"
+- "[[Oil spillages]]"
 ---

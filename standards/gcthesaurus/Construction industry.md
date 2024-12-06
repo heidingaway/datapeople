@@ -3,10 +3,15 @@ title: Construction industry
 longTitle: 'Construction industry'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Secondary industry]]"
-relatedTerm:
-- "[[Construction Construction materials Lumber industr]]"
-use:
-- "[[Construction standards Building code Construction ]]"
+french:
+- "[[Industrie de la construction]]"
+scopeNote:
+- "An economic activity dedicated to the production m"
+usedFor:
+- "[[Building code]]"
+- "[[Building industry]]"
+- "[[Building permits]]"
+- "[[Construction code]]"
+- "[[Construction permits]]"
+- "[[Construction standards]]"
 ---

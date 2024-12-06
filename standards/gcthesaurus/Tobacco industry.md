@@ -3,10 +3,10 @@ title: Tobacco industry
 longTitle: 'Tobacco industry'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Manufacturing industry]]"
-relatedTerm:
-- "[[Smoking]]"
-use:
+french:
+- "[[Industrie du tabac]]"
+scopeNote:
+- "An organized economic activity dedicated to the pr"
+usedFor:
 - "[[Cigarettes]]"
 ---

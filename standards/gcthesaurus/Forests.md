@@ -3,12 +3,17 @@ title: Forests
 longTitle: 'Forests'
 tags:
 - gccommon
-broaderTerm:
-- "[[Model forests]]"
+french:
+- "[[Foret]]"
 narrowerTerm:
-- "[[Renewable resources]]"
+- "[[Model forests]]"
 relatedTerm:
-- "[[Forestry products Wood Forest fires Trees Forest m]]"
-use:
-- "[[Old growth forests Forest resources Forestlands Fo]]"
+- "[[Trees]]"
+usedFor:
+- "[[Forest areas]]"
+- "[[Forest lands]]"
+- "[[Forest resources]]"
+- "[[Forestlands]]"
+- "[[Old growth forests]]"
+- "[[Woodlands]]"
 ---

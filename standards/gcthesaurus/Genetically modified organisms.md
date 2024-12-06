@@ -3,10 +3,14 @@ title: Genetically modified organisms
 longTitle: 'Genetically modified organisms'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Living organisms]]"
+french:
+- "[[Organisme genetiquement modifie]]"
 relatedTerm:
-- "[[Genetic engineering Genetically modified foods]]"
-use:
-- "[[Genetically altered organisms Genetically engineer]]"
+- "[[Genetically modified foods]]"
+usedFor:
+- "[[GMO]]"
+- "[[Genetically altered organisms]]"
+- "[[Genetically engineered organisms]]"
+- "[[Living modified organisms]]"
+- "[[Transgenic organisms]]"
 ---

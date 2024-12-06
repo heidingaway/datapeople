@@ -3,10 +3,13 @@ title: Interest groups
 longTitle: 'Interest groups'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Organizations]]"
+french:
+- "[[Groupe dinteret]]"
 relatedTerm:
-- "[[Advocacy Lobbying Associations]]"
-use:
-- "[[Pressure groups Public interest groups]]"
+- "[[Associations]]"
+scopeNote:
+- "Any aggregate of individuals that on the basis of "
+usedFor:
+- "[[Pressure groups]]"
+- "[[Public interest groups]]"
 ---

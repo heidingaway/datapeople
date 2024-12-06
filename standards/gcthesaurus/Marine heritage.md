@@ -3,8 +3,8 @@ title: Marine heritage
 longTitle: 'Marine heritage'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Heritage]]"
+french:
+- "[[Patrimoine maritime]]"
 relatedTerm:
 - "[[Marine conservation areas]]"
 ---

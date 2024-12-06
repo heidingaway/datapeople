@@ -3,6 +3,8 @@ title: Demand
 longTitle: 'Demand'
 tags:
 - gccommon
+french:
+- "[[Demande]]"
 relatedTerm:
-- "[[Water demand Consumerism Needs Prices Supply]]"
+- "[[Needs]]"
 ---

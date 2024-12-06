@@ -3,6 +3,6 @@ title: Linguistics
 longTitle: 'Linguistics'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Languages]]"
 ---

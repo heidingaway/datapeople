@@ -3,8 +3,15 @@ title: Analysis
 longTitle: 'Analysis'
 tags:
 - gccommon
-broaderTerm:
-- "[[Sector analysis Economic analysis Financial analys]]"
+french:
+- "[[Analyse]]"
+narrowerTerm:
+- "[[Economic analysis]]"
+- "[[Financial analysis]]"
+- "[[Sector analysis]]"
+- "[[Statistical analysis]]"
 relatedTerm:
-- "[[Modelling Case studies Feasibility studies Diagnos]]"
+- "[[Case studies]]"
+- "[[Diagnosis]]"
+- "[[Feasibility studies]]"
 ---

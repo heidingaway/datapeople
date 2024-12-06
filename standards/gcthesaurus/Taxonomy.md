@@ -3,8 +3,8 @@ title: Taxonomy
 longTitle: 'Taxonomy'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Taxonomie]]"
+narrowerTerm:
 - "[[Soil taxonomy]]"
-relatedTerm:
-- "[[Classification Coding Nomenclature]]"
 ---

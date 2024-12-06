@@ -3,6 +3,6 @@ title: PDA
 longTitle: 'PDA'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Personal digital assistant]]"
 ---

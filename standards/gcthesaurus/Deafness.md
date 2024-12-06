@@ -3,6 +3,8 @@ title: Deafness
 longTitle: 'Deafness'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Hearing disabilities]]"
+french:
+- "[[Surdite]]"
 ---

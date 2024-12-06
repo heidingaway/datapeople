@@ -3,12 +3,10 @@ title: Alternative medicine
 longTitle: 'Alternative medicine'
 tags:
 - gccommon
-broaderTerm:
-- "[[Homeopathy]]"
+french:
+- "[[Medecine douce]]"
 narrowerTerm:
-- "[[Medicine]]"
-relatedTerm:
-- "[[Medicinal plants]]"
-use:
+- "[[Homeopathy]]"
+usedFor:
 - "[[Soft medicine]]"
 ---

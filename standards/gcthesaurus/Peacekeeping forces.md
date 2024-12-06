@@ -3,8 +3,8 @@ title: Peacekeeping forces
 longTitle: 'Peacekeeping forces'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Armed forces]]"
-relatedTerm:
-- "[[Peacekeeping]]"
+french:
+- "[[Forces de maintien de la paix]]"
 ---

@@ -3,10 +3,13 @@ title: Distance education
 longTitle: 'Distance education'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Education]]"
-relatedTerm:
-- "[[Educational technology]]"
-use:
-- "[[Distance training Web-based learning E-learning Ou]]"
+french:
+- "[[Formation a distance]]"
+scopeNote:
+- "Education using different media correspondence rad"
+usedFor:
+- "[[Distance training]]"
+- "[[E-learning]]"
+- "[[Outreach education]]"
+- "[[Web-based learning]]"
 ---

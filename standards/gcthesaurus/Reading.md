@@ -3,8 +3,8 @@ title: Reading
 longTitle: 'Reading'
 tags:
 - gccommon
-relatedTerm:
-- "[[Literacy Books]]"
-use:
+french:
+- "[[Lecture]]"
+usedFor:
 - "[[Reading skills]]"
 ---

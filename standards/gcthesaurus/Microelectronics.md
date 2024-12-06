@@ -3,6 +3,8 @@ title: Microelectronics
 longTitle: 'Microelectronics'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Electronics]]"
+french:
+- "[[Microelectronique]]"
 ---

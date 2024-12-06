@@ -3,6 +3,6 @@ title: English
 longTitle: 'English'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[English language]]"
 ---

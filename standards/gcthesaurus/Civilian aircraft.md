@@ -3,10 +3,11 @@ title: Civilian aircraft
 longTitle: 'Civilian aircraft'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Aircraft]]"
+french:
+- "[[Aeronef civil]]"
 relatedTerm:
 - "[[Civil aviation]]"
-use:
-- "[[Commercial aircraft Private aircraft]]"
+usedFor:
+- "[[Commercial aircraft]]"
+- "[[Private aircraft]]"
 ---

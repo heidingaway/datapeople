@@ -3,12 +3,21 @@ title: Geology
 longTitle: 'Geology'
 tags:
 - gccommon
-broaderTerm:
-- "[[Hydrogeology Geomorphology Surficial geology Metam]]"
+french:
+- "[[Geologie]]"
 narrowerTerm:
-- "[[Earth sciences]]"
+- "[[Palaeontology]]"
+- "[[Petrology]]"
+- "[[Stratigraphy]]"
+- "[[Structural geology]]"
 relatedTerm:
-- "[[Geophysics Geological maps Geochemistry Prospectin]]"
-use:
-- "[[Geological investigations Geological surveys Geolo]]"
+- "[[Geochemistry]]"
+- "[[Geological maps]]"
+- "[[Geophysics]]"
+scopeNote:
+- "The study of the Earth its origins and evolution t"
+usedFor:
+- "[[Geological investigations]]"
+- "[[Geological studies]]"
+- "[[Geological surveys]]"
 ---

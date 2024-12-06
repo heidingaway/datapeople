@@ -3,8 +3,8 @@ title: Tooling
 longTitle: 'Tooling'
 tags:
 - gccommon
-relatedTerm:
-- "[[Equipment]]"
-use:
+french:
+- "[[Outillage]]"
+usedFor:
 - "[[Instruments]]"
 ---

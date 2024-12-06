@@ -3,8 +3,8 @@ title: Sociology
 longTitle: 'Sociology'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Social sciences]]"
+french:
+- "[[Sociologie]]"
 relatedTerm:
-- "[[Social history Social issues]]"
+- "[[Social history]]"
 ---

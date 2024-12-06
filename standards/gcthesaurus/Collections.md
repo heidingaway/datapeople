@@ -3,8 +3,10 @@ title: Collections
 longTitle: 'Collections'
 tags:
 - gccommon
-broaderTerm:
-- "[[Herbaria Museum collections Digital collections]]"
-relatedTerm:
-- "[[Artefacts]]"
+french:
+- "[[Collection]]"
+narrowerTerm:
+- "[[Digital collections]]"
+- "[[Herbaria]]"
+- "[[Museum collections]]"
 ---

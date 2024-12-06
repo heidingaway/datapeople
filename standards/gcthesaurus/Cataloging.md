@@ -3,6 +3,6 @@ title: Cataloging
 longTitle: 'Cataloging'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Cataloguing]]"
 ---

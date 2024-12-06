@@ -3,8 +3,8 @@ title: Strategic management
 longTitle: 'Strategic management'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Management]]"
-use:
+french:
+- "[[Gestion strategique]]"
+usedFor:
 - "[[Strategic planning]]"
 ---

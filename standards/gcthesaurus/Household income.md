@@ -3,10 +3,10 @@ title: Household income
 longTitle: 'Household income'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Income]]"
+french:
+- "[[Revenu familial]]"
 relatedTerm:
 - "[[Household finance]]"
-use:
+usedFor:
 - "[[Family income]]"
 ---

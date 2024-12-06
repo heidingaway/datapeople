@@ -3,10 +3,10 @@ title: Drawings
 longTitle: 'Drawings'
 tags:
 - gccommon
-broaderTerm:
-- "[[Architectural drawings]]"
+french:
+- "[[Dessin]]"
 narrowerTerm:
-- "[[Graphic arts]]"
+- "[[Architectural drawings]]"
 relatedTerm:
 - "[[Illustrations]]"
 ---

@@ -3,6 +3,6 @@ title: Streams
 longTitle: 'Streams'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Watercourses]]"
+french:
+- "[[Ruisseau]]"
 ---

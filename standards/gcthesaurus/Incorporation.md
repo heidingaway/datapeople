@@ -5,6 +5,6 @@ tags:
 - gccommon
 french:
 - "[[Incorporation]]"
-relatedTerm:
-- "[[Businesses Corporations]]"
+scopeNote:
+- "The formation in law of an organization giving it "
 ---

@@ -3,8 +3,8 @@ title: Furniture industry
 longTitle: 'Furniture industry'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Manufacturing industry]]"
+french:
+- "[[Industrie du meuble]]"
 relatedTerm:
 - "[[Furniture]]"
 ---

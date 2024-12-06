@@ -3,8 +3,8 @@ title: Buyers
 longTitle: 'Buyers'
 tags:
 - gccommon
-relatedTerm:
-- "[[Purchasing Consumers]]"
-use:
+french:
+- "[[Acheteur]]"
+usedFor:
 - "[[Purchasers]]"
 ---

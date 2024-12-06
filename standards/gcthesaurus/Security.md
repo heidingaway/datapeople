@@ -3,8 +3,11 @@ title: Security
 longTitle: 'Security'
 tags:
 - gccommon
-broaderTerm:
-- "[[Social security Human security International secur]]"
-relatedTerm:
-- "[[Security investigations Safety]]"
+narrowerTerm:
+- "[[Computer security]]"
+- "[[Food security]]"
+- "[[Human security]]"
+- "[[International security]]"
+- "[[National security]]"
+- "[[Social security]]"
 ---

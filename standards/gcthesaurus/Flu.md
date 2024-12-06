@@ -3,6 +3,6 @@ title: Flu
 longTitle: 'Flu'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Influenza]]"
 ---

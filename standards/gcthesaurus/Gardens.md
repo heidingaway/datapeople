@@ -3,8 +3,8 @@ title: Gardens
 longTitle: 'Gardens'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Jardin]]"
+narrowerTerm:
 - "[[Botanical gardens]]"
-relatedTerm:
-- "[[Gardening]]"
 ---

@@ -3,6 +3,6 @@ title: Foreign intervention
 longTitle: 'Foreign intervention'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Foreign interference]]"
 ---

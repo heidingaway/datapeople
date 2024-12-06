@@ -3,8 +3,8 @@ title: Demographic data
 longTitle: 'Demographic data'
 tags:
 - gccommon
-broaderTerm:
-- "[[Demographic statistics]]"
-relatedTerm:
-- "[[Census data Demography]]"
+french:
+- "[[Donnees demographiques]]"
+scopeNote:
+- "Factual information used as a basis for reasoning "
 ---

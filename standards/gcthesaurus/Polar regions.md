@@ -4,9 +4,10 @@ longTitle: 'Polar regions'
 tags:
 - gccommon
 broaderTerm:
-- "[[Antarctic Arctic]]"
-narrowerTerm:
 - "[[Regions]]"
-relatedTerm:
-- "[[Polar sciences Northern studies]]"
+french:
+- "[[Region polaire]]"
+narrowerTerm:
+- "[[Antarctic]]"
+- "[[Arctic]]"
 ---

@@ -3,10 +3,11 @@ title: Seasonal employment
 longTitle: 'Seasonal employment'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Employment]]"
+french:
+- "[[Emploi saisonnier]]"
 relatedTerm:
 - "[[Temporary employment]]"
-use:
-- "[[Seasonal work Summer employment]]"
+usedFor:
+- "[[Seasonal work]]"
+- "[[Summer employment]]"
 ---

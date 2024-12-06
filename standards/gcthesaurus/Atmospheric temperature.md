@@ -3,6 +3,6 @@ title: Atmospheric temperature
 longTitle: 'Atmospheric temperature'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Air temperature]]"
 ---

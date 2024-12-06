@@ -3,6 +3,6 @@ title: Geohydrology
 longTitle: 'Geohydrology'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Hydrogeology]]"
 ---

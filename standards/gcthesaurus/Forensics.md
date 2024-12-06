@@ -3,10 +3,12 @@ title: Forensics
 longTitle: 'Forensics'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Medicine]]"
-relatedTerm:
-- "[[Crime]]"
-use:
-- "[[Legal medicine Forensic medicine Forensics technol]]"
+french:
+- "[[Medecine legale]]"
+scopeNote:
+- "The branch of medicine that deals with the applica"
+usedFor:
+- "[[Forensic medicine]]"
+- "[[Forensics technology]]"
+- "[[Legal medicine]]"
 ---

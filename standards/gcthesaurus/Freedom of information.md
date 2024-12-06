@@ -3,8 +3,8 @@ title: Freedom of information
 longTitle: 'Freedom of information'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Open government]]"
-relatedTerm:
-- "[[Access to information]]"
+french:
+- "[[Liberte dinformation]]"
 ---

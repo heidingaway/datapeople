@@ -3,6 +3,6 @@ title: Food insecurity
 longTitle: 'Food insecurity'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Food security]]"
 ---

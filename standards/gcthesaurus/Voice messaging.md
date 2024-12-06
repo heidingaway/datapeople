@@ -3,6 +3,6 @@ title: Voice messaging
 longTitle: 'Voice messaging'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Voice mail]]"
 ---

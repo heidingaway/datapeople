@@ -3,6 +3,6 @@ title: Atmospheric greenhouse effect
 longTitle: 'Atmospheric greenhouse effect'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Greenhouse effect]]"
 ---

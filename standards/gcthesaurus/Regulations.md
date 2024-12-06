@@ -3,8 +3,14 @@ title: Regulations
 longTitle: 'Regulations'
 tags:
 - gccommon
-broaderTerm:
-- "[[Taxation regulations Safety regulations Economic r]]"
+french:
+- "[[Reglements]]"
+narrowerTerm:
+- "[[Economic regulations]]"
+- "[[Safety regulations]]"
+- "[[Taxation regulations]]"
 relatedTerm:
-- "[[Regulatory agencies Regulation Legislative writing]]"
+- "[[Regulatory agencies]]"
+scopeNote:
+- "Rules and administrative codes created by an admin"
 ---

@@ -3,6 +3,8 @@ title: Blindness
 longTitle: 'Blindness'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Visual disabilities]]"
+french:
+- "[[Cecite]]"
 ---

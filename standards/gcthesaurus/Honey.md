@@ -3,8 +3,8 @@ title: Honey
 longTitle: 'Honey'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Agri-food products]]"
+french:
+- "[[Miel]]"
 relatedTerm:
 - "[[Beekeeping]]"
 ---

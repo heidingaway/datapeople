@@ -3,8 +3,8 @@ title: National parks
 longTitle: 'National parks'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Parks]]"
+french:
+- "[[Parc national]]"
 relatedTerm:
-- "[[Natural heritage National heritage]]"
+- "[[National heritage]]"
 ---

@@ -3,8 +3,8 @@ title: Environmental policy
 longTitle: 'Environmental policy'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Policy]]"
+french:
+- "[[Politique environnementale]]"
 relatedTerm:
-- "[[Environment Environmental law Environmental manage]]"
+- "[[Environmental law]]"
 ---

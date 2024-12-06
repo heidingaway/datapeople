@@ -3,8 +3,10 @@ title: Knowledge management
 longTitle: 'Knowledge management'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Management]]"
+french:
+- "[[Gestion du savoir]]"
 relatedTerm:
-- "[[Information management Knowledge transfer Intellec]]"
+- "[[Knowledge transfer]]"
+scopeNote:
+- "An integrated systematic approach to identifying m"
 ---

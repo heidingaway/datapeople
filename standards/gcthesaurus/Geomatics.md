@@ -3,8 +3,8 @@ title: Geomatics
 longTitle: 'Geomatics'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Geography]]"
-relatedTerm:
-- "[[Geographic information systems]]"
+french:
+- "[[Geomatique]]"
+scopeNote:
+- "Refers to the group of techniques for automatic pr"
 ---

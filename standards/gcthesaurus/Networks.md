@@ -3,8 +3,13 @@ title: Networks
 longTitle: 'Networks'
 tags:
 - gccommon
-broaderTerm:
-- "[[Road networks Telecommunications networks Railway ]]"
-use:
+french:
+- "[[Reseau]]"
+narrowerTerm:
+- "[[Computer networks]]"
+- "[[Railway networks]]"
+- "[[Road networks]]"
+- "[[Telecommunications networks]]"
+usedFor:
 - "[[Networking]]"
 ---

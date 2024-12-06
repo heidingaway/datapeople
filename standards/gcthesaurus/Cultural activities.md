@@ -3,6 +3,6 @@ title: Cultural activities
 longTitle: 'Cultural activities'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Cultural events]]"
 ---

@@ -3,8 +3,10 @@ title: Aid programs
 longTitle: 'Aid programs'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Programs]]"
-use:
-- "[[Agricultural aid programs Assistance programs Supp]]"
+french:
+- "[[Programme daide]]"
+usedFor:
+- "[[Assistance programs]]"
+- "[[Support programs]]"
+- "[[Supporting programs]]"
 ---

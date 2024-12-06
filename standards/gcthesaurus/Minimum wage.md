@@ -3,6 +3,6 @@ title: Minimum wage
 longTitle: 'Minimum wage'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Salaries]]"
+french:
+- "[[Salaire minimum]]"
 ---

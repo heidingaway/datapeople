@@ -3,10 +3,12 @@ title: Oceanography
 longTitle: 'Oceanography'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Earth sciences]]"
+french:
+- "[[Oceanographie]]"
 relatedTerm:
-- "[[Hydrography Seas Oceans Marine biology]]"
-use:
+- "[[Marine biology]]"
+scopeNote:
+- "The study of oceans and seas in all their aspects "
+usedFor:
 - "[[Oceanology]]"
 ---

@@ -3,6 +3,6 @@ title: Taxation
 longTitle: 'Taxation'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Taxes]]"
 ---

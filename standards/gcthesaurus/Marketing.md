@@ -3,12 +3,17 @@ title: Marketing
 longTitle: 'Marketing'
 tags:
 - gccommon
-broaderTerm:
-- "[[Direct marketing]]"
 french:
 - "[[Marketing]]"
+narrowerTerm:
+- "[[Direct marketing]]"
 relatedTerm:
-- "[[Marketing campaigns Advertising Awareness Public r]]"
-use:
-- "[[Marketing practices Merchandising Sales promotion]]"
+- "[[Commercialization]]"
+- "[[Marketing campaigns]]"
+scopeNote:
+- "Broadly the functions of sales distribution advert"
+usedFor:
+- "[[Marketing practices]]"
+- "[[Merchandising]]"
+- "[[Sales promotion]]"
 ---

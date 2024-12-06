@@ -3,8 +3,8 @@ title: Fire
 longTitle: 'Fire'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Incendie]]"
+narrowerTerm:
 - "[[Forest fires]]"
-relatedTerm:
-- "[[Fire prevention]]"
 ---

@@ -3,8 +3,13 @@ title: Domestic waste
 longTitle: 'Domestic waste'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Waste]]"
-use:
-- "[[Residential waste Domestic refuse Household refuse]]"
+french:
+- "[[Dechets domestiques]]"
+usedFor:
+- "[[Domestic refuse]]"
+- "[[Household garbage]]"
+- "[[Household refuse]]"
+- "[[Household waste]]"
+- "[[Kitchen waste]]"
+- "[[Residential waste]]"
 ---

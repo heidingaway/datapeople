@@ -3,10 +3,10 @@ title: Financing companies
 longTitle: 'Financing companies'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Businesses]]"
-relatedTerm:
-- "[[Funding Credit unions]]"
-use:
+french:
+- "[[Societe de financement]]"
+scopeNote:
+- "Financial intermediary often affiliated with a hol"
+usedFor:
 - "[[Finance companies]]"
 ---

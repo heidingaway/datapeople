@@ -5,8 +5,6 @@ tags:
 - gccommon
 french:
 - "[[Gangs]]"
-relatedTerm:
-- "[[Young offenders Crime]]"
-use:
+usedFor:
 - "[[Street gangs]]"
 ---

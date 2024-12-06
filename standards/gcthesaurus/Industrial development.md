@@ -3,8 +3,11 @@ title: Industrial development
 longTitle: 'Industrial development'
 tags:
 - gccommon
+french:
+- "[[Developpement industriel]]"
 relatedTerm:
-- "[[Industry assistance Industrial policy Business dev]]"
-use:
-- "[[Industrial expansion Industrial growth]]"
+- "[[Industry assistance]]"
+usedFor:
+- "[[Industrial expansion]]"
+- "[[Industrial growth]]"
 ---

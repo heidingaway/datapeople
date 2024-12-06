@@ -3,8 +3,10 @@ title: Values
 longTitle: 'Values'
 tags:
 - gccommon
+french:
+- "[[Valeurs]]"
 relatedTerm:
 - "[[Ethics]]"
-use:
-- "[[Code of conduct Code of values]]"
+usedFor:
+- "[[Code of values]]"
 ---

@@ -3,8 +3,8 @@ title: Modelling
 longTitle: 'Modelling'
 tags:
 - gccommon
-relatedTerm:
-- "[[Prototyping Analysis]]"
-use:
+french:
+- "[[Modelisation]]"
+usedFor:
 - "[[Modeling]]"
 ---

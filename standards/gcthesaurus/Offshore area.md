@@ -3,8 +3,10 @@ title: Offshore area
 longTitle: 'Offshore area'
 tags:
 - gccommon
-relatedTerm:
-- "[[Offshore drilling Coastal waters]]"
-use:
+french:
+- "[[Zone extracotiere]]"
+scopeNote:
+- "Geographic area that lies seaward of the coastline"
+usedFor:
 - "[[Offshore zone]]"
 ---

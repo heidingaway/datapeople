@@ -3,6 +3,6 @@ title: History of Canada
 longTitle: 'History of Canada'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Canadian history]]"
 ---

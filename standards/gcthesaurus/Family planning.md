@@ -3,10 +3,8 @@ title: Family planning
 longTitle: 'Family planning'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Planning]]"
-relatedTerm:
-- "[[Pregnancy Birth Birth rate]]"
-use:
+french:
+- "[[Planification des naissances]]"
+usedFor:
 - "[[Birth control]]"
 ---

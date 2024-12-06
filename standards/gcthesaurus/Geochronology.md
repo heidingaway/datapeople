@@ -3,8 +3,8 @@ title: Geochronology
 longTitle: 'Geochronology'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Earth sciences]]"
-use:
+french:
+- "[[Geochronologie]]"
+usedFor:
 - "[[Age of rocks]]"
 ---

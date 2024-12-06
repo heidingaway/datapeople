@@ -3,10 +3,10 @@ title: Snow
 longTitle: 'Snow'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Precipitation]]"
+french:
+- "[[Neige]]"
 relatedTerm:
-- "[[Ice caps Avalanches Ice Glaciers]]"
-use:
+- "[[Avalanches]]"
+usedFor:
 - "[[Snowfall]]"
 ---

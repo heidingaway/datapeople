@@ -3,10 +3,11 @@ title: Communications equipment
 longTitle: 'Communications equipment'
 tags:
 - gccommon
-broaderTerm:
-- "[[Telephones Radar]]"
-relatedTerm:
-- "[[Communications industry Communications]]"
-use:
+french:
+- "[[Equipement de communications]]"
+narrowerTerm:
+- "[[Radar]]"
+- "[[Telephones]]"
+usedFor:
 - "[[Telecommunications equipment]]"
 ---

@@ -3,8 +3,9 @@ title: Precious metals
 longTitle: 'Precious metals'
 tags:
 - gccommon
-broaderTerm:
-- "[[Gold Silver]]"
+french:
+- "[[Metal precieux]]"
 narrowerTerm:
-- "[[Metals]]"
+- "[[Gold]]"
+- "[[Silver]]"
 ---

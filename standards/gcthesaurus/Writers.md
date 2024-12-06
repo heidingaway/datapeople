@@ -3,6 +3,6 @@ title: Writers
 longTitle: 'Writers'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Authors]]"
 ---

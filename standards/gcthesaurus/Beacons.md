@@ -3,6 +3,6 @@ title: Beacons
 longTitle: 'Beacons'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Lighthouses]]"
 ---

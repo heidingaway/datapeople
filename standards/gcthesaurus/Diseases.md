@@ -3,10 +3,21 @@ title: Diseases
 longTitle: 'Diseases'
 tags:
 - gccommon
-broaderTerm:
-- "[[Obesity Animal diseases Chronic diseases Cardiovas]]"
-relatedTerm:
-- "[[Health Drugs Screening Medicine Therapy Pain Medic]]"
-use:
-- "[[Illness Pathology]]"
+french:
+- "[[Maladie]]"
+narrowerTerm:
+- "[[Animal diseases]]"
+- "[[Cancer]]"
+- "[[Cardiovascular diseases]]"
+- "[[Childhood diseases]]"
+- "[[Chronic diseases]]"
+- "[[Degenerative diseases]]"
+- "[[Infectious diseases]]"
+- "[[Obesity]]"
+- "[[Occupational diseases]]"
+- "[[Plant diseases]]"
+- "[[Respiratory diseases]]"
+usedFor:
+- "[[Illness]]"
+- "[[Pathology]]"
 ---

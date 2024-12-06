@@ -3,10 +3,11 @@ title: Petroleum
 longTitle: 'Petroleum'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Fuels]]"
+french:
+- "[[Petrole]]"
 relatedTerm:
-- "[[Pipelines Oil spills Petroleum industry Oil sands]]"
-use:
-- "[[Crude petroleum Crude oil]]"
+- "[[Oil spills]]"
+usedFor:
+- "[[Crude oil]]"
+- "[[Crude petroleum]]"
 ---

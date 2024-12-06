@@ -3,10 +3,11 @@ title: Secondary industry
 longTitle: 'Secondary industry'
 tags:
 - gccommon
-broaderTerm:
-- "[[Manufacturing industry Construction industry]]"
+french:
+- "[[Industrie secondaire]]"
 narrowerTerm:
-- "[[Industry]]"
-use:
+- "[[Construction industry]]"
+- "[[Manufacturing industry]]"
+usedFor:
 - "[[Secondary sector]]"
 ---

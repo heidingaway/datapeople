@@ -3,6 +3,8 @@ title: Artists
 longTitle: 'Artists'
 tags:
 - gccommon
-relatedTerm:
-- "[[Arts]]"
+french:
+- "[[Artiste]]"
+scopeNote:
+- "Writers producers directors choreographers conduct"
 ---

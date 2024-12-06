@@ -3,6 +3,6 @@ title: Hatcheries
 longTitle: 'Hatcheries'
 tags:
 - gccommon
-relatedTerm:
-- "[[Poultry]]"
+french:
+- "[[Couveuse]]"
 ---

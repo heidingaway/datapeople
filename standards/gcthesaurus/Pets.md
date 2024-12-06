@@ -3,6 +3,6 @@ title: Pets
 longTitle: 'Pets'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Domestic animals]]"
 ---

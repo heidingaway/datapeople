@@ -3,12 +3,13 @@ title: Health care products
 longTitle: 'Health care products'
 tags:
 - gccommon
-broaderTerm:
-- "[[Medical products Drugs]]"
+french:
+- "[[Produit de soins de sante]]"
 narrowerTerm:
-- "[[Products]]"
+- "[[Drugs]]"
+- "[[Medical products]]"
 relatedTerm:
-- "[[Health care Personal care products]]"
-use:
+- "[[Personal care products]]"
+usedFor:
 - "[[Health products]]"
 ---

@@ -3,6 +3,8 @@ title: Central banks
 longTitle: 'Central banks'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Banks]]"
+french:
+- "[[Banque centrale]]"
 ---

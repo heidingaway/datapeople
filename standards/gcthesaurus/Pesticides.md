@@ -3,10 +3,19 @@ title: Pesticides
 longTitle: 'Pesticides'
 tags:
 - gccommon
-broaderTerm:
-- "[[Fungicides Rodenticides Herbicides Insecticides]]"
-relatedTerm:
-- "[[Pests Chemicals Toxic substances]]"
-use:
-- "[[Agricultural chemicals Pest control products Pest ]]"
+french:
+- "[[Pesticide]]"
+narrowerTerm:
+- "[[Fungicides]]"
+- "[[Herbicides]]"
+- "[[Insecticides]]"
+- "[[Rodenticides]]"
+usedFor:
+- "[[Agricultural chemicals]]"
+- "[[Biocides]]"
+- "[[Biopesticides]]"
+- "[[Pest control]]"
+- "[[Pest control chemicals]]"
+- "[[Pest control products]]"
+- "[[Pest management]]"
 ---

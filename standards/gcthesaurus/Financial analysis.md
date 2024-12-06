@@ -3,10 +3,8 @@ title: Financial analysis
 longTitle: 'Financial analysis'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Analysis]]"
-relatedTerm:
-- "[[Economic analysis Financial management Finance]]"
-use:
+french:
+- "[[Analyse financiere]]"
+usedFor:
 - "[[Financial studies]]"
 ---

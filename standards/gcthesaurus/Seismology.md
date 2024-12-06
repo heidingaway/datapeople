@@ -3,8 +3,8 @@ title: Seismology
 longTitle: 'Seismology'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Geophysics]]"
-relatedTerm:
-- "[[Earthquakes]]"
+french:
+- "[[Sismologie]]"
 ---

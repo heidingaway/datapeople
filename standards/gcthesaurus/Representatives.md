@@ -3,6 +3,8 @@ title: Representatives
 longTitle: 'Representatives'
 tags:
 - gccommon
-relatedTerm:
-- "[[Members of the Senate Delegations Lieutenant Gover]]"
+french:
+- "[[Representant]]"
+scopeNote:
+- "Someone who serves as a delegate or agent who spea"
 ---

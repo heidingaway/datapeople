@@ -3,8 +3,11 @@ title: Arthropods
 longTitle: 'Arthropods'
 tags:
 - gccommon
-broaderTerm:
-- "[[Crustaceans Insects Arachnids]]"
+french:
+- "[[Arthropode]]"
 narrowerTerm:
-- "[[Animals]]"
+- "[[Arachnids]]"
+- "[[Insects]]"
+scopeNote:
+- "Division of the animal kingdom including insects a"
 ---

@@ -3,10 +3,8 @@ title: Social policy
 longTitle: 'Social policy'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Policy]]"
-relatedTerm:
-- "[[Social security Social issues]]"
-use:
+french:
+- "[[Politique sociale]]"
+usedFor:
 - "[[Welfare state]]"
 ---

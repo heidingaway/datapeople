@@ -3,6 +3,6 @@ title: GNP
 longTitle: 'GNP'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Gross national product]]"
 ---

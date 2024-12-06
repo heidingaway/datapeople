@@ -6,5 +6,5 @@ tags:
 french:
 - "[[Nomenclature]]"
 relatedTerm:
-- "[[Indexes Taxonomy]]"
+- "[[Indexes]]"
 ---

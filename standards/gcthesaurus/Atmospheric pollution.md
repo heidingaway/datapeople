@@ -3,6 +3,6 @@ title: Atmospheric pollution
 longTitle: 'Atmospheric pollution'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Air pollution]]"
 ---

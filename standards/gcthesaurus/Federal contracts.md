@@ -3,8 +3,6 @@ title: Federal contracts
 longTitle: 'Federal contracts'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Contracts]]"
-relatedTerm:
-- "[[Federal government]]"
+french:
+- "[[Contrat du gouvernement federal]]"
 ---

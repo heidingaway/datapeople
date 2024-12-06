@@ -3,8 +3,10 @@ title: Trade relations
 longTitle: 'Trade relations'
 tags:
 - gccommon
+french:
+- "[[Relations commerciales]]"
 relatedTerm:
-- "[[Trade negotiations Trade missions Trade agreements]]"
-use:
+- "[[Trade missions]]"
+usedFor:
 - "[[Economic relations]]"
 ---

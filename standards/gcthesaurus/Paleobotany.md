@@ -3,6 +3,8 @@ title: Paleobotany
 longTitle: 'Paleobotany'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Palaeontology]]"
+french:
+- "[[Paleobotanique]]"
 ---

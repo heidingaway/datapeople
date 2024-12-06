@@ -3,8 +3,8 @@ title: Sealing
 longTitle: 'Sealing'
 tags:
 - gccommon
-relatedTerm:
-- "[[Seals]]"
-use:
+french:
+- "[[Chasse au phoque]]"
+usedFor:
 - "[[Seal hunt]]"
 ---

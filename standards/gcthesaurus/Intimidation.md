@@ -5,8 +5,6 @@ tags:
 - gccommon
 french:
 - "[[Intimidation]]"
-narrowerTerm:
-- "[[Violence]]"
-use:
+usedFor:
 - "[[Bullying]]"
 ---

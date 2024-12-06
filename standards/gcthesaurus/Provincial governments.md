@@ -3,10 +3,10 @@ title: Provincial governments
 longTitle: 'Provincial governments'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Governments]]"
+french:
+- "[[Gouvernement provincial]]"
 relatedTerm:
-- "[[Legislative assemblies Federal provincial relation]]"
-use:
+- "[[Provincial institutions]]"
+usedFor:
 - "[[Provincial administration]]"
 ---

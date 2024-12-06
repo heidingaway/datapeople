@@ -3,10 +3,14 @@ title: Sustainable development
 longTitle: 'Sustainable development'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Economic development]]"
-relatedTerm:
-- "[[Environmental protection Renewable energy Stewards]]"
-use:
-- "[[Environmentally sound development Ecodevelopment E]]"
+french:
+- "[[Developpement durable]]"
+scopeNote:
+- "Development that meets the needs of the present wi"
+usedFor:
+- "[[Ecodevelopment]]"
+- "[[Ecologically sound development]]"
+- "[[Environmentally sound development]]"
 ---

@@ -3,6 +3,8 @@ title: Afforestation
 longTitle: 'Afforestation'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Forest management]]"
+french:
+- "[[Boisement]]"
+scopeNote:
+- "Refers to the establishment of a forest on a land "
 ---

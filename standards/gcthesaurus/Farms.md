@@ -3,8 +3,14 @@ title: Farms
 longTitle: 'Farms'
 tags:
 - gccommon
-relatedTerm:
-- "[[Agriculture Agri-food industry Farm buildings Agri]]"
-use:
-- "[[Farm businesses Agricultural enterprises Farming b]]"
+french:
+- "[[Exploitation agricole]]"
+scopeNote:
+- "Designates farms or farming enterprises For farms "
+usedFor:
+- "[[Agricultural enterprises]]"
+- "[[Farm businesses]]"
+- "[[Farm enterprises]]"
+- "[[Farming businesses]]"
+- "[[Farming enterprises]]"
 ---

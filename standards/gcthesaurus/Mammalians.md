@@ -3,6 +3,6 @@ title: Mammalians
 longTitle: 'Mammalians'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Mammals]]"
 ---

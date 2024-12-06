@@ -3,10 +3,8 @@ title: Collective agreements
 longTitle: 'Collective agreements'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Agreements]]"
-relatedTerm:
-- "[[Labour relations Collective bargaining Working con]]"
-use:
+french:
+- "[[Convention collective]]"
+usedFor:
 - "[[Collective bargaining agreements]]"
 ---

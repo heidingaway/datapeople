@@ -3,8 +3,8 @@ title: Food irradiation
 longTitle: 'Food irradiation'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Irradiation]]"
-relatedTerm:
-- "[[Food processing]]"
+french:
+- "[[Irradiation des aliments]]"
 ---

@@ -3,6 +3,6 @@ title: Utilization
 longTitle: 'Utilization'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Uses]]"
 ---

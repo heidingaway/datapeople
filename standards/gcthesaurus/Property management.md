@@ -3,10 +3,10 @@ title: Property management
 longTitle: 'Property management'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Management]]"
-relatedTerm:
-- "[[Property]]"
-use:
+french:
+- "[[Gestion des biens]]"
+scopeNote:
+- "Management of real property assets as a business i"
+usedFor:
 - "[[Assets management]]"
 ---

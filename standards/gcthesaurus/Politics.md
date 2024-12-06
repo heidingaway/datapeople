@@ -3,8 +3,11 @@ title: Politics
 longTitle: 'Politics'
 tags:
 - gccommon
+french:
+- "[[Vie politique]]"
 relatedTerm:
-- "[[Elections Political parties Political science]]"
-use:
-- "[[Political life Political activities]]"
+- "[[Political science]]"
+usedFor:
+- "[[Political activities]]"
+- "[[Political life]]"
 ---

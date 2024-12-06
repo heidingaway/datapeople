@@ -3,12 +3,11 @@ title: Anthropology
 longTitle: 'Anthropology'
 tags:
 - gccommon
-broaderTerm:
-- "[[Ethnology]]"
+french:
+- "[[Anthropologie]]"
 narrowerTerm:
-- "[[Social sciences]]"
-relatedTerm:
-- "[[Archaeology Human beings]]"
-use:
-- "[[Biological anthropology Physical anthropology]]"
+- "[[Ethnology]]"
+usedFor:
+- "[[Biological anthropology]]"
+- "[[Physical anthropology]]"
 ---

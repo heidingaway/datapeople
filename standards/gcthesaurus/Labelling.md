@@ -3,10 +3,18 @@ title: Labelling
 longTitle: 'Labelling'
 tags:
 - gccommon
-broaderTerm:
-- "[[Food labelling Drug labelling]]"
+french:
+- "[[Etiquetage]]"
+narrowerTerm:
+- "[[Drug labelling]]"
+- "[[Food labelling]]"
 relatedTerm:
-- "[[Product codes Packaging Identification]]"
-use:
-- "[[Bar codes Product labeling Labels Product labellin]]"
+- "[[Packaging]]"
+usedFor:
+- "[[Bar codes]]"
+- "[[Labeling]]"
+- "[[Labels]]"
+- "[[Product labeling]]"
+- "[[Product labelling]]"
+- "[[Tagging]]"
 ---

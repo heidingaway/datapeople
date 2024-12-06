@@ -3,6 +3,6 @@ title: Decorative plants
 longTitle: 'Decorative plants'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Ornamental plants]]"
 ---

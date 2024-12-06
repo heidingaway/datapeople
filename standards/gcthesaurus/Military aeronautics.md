@@ -3,6 +3,6 @@ title: Military aeronautics
 longTitle: 'Military aeronautics'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Military aviation]]"
 ---

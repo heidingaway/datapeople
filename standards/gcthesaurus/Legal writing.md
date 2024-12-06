@@ -3,6 +3,6 @@ title: Legal writing
 longTitle: 'Legal writing'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Legislative writing]]"
 ---

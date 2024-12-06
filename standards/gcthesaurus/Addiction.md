@@ -3,8 +3,11 @@ title: Addiction
 longTitle: 'Addiction'
 tags:
 - gccommon
-broaderTerm:
-- "[[Alcoholism Drug addiction]]"
+french:
+- "[[Dependance]]"
 narrowerTerm:
-- "[[Social problems]]"
+- "[[Alcoholism]]"
+- "[[Drug addiction]]"
+scopeNote:
+- "Habitual psychological and physiological dependenc"
 ---

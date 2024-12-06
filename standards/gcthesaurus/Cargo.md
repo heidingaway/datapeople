@@ -3,6 +3,6 @@ title: Cargo
 longTitle: 'Cargo'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Freight]]"
 ---

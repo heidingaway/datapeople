@@ -3,8 +3,8 @@ title: Numismatics
 longTitle: 'Numismatics'
 tags:
 - gccommon
-relatedTerm:
-- "[[Coins]]"
-use:
+french:
+- "[[Numismatique]]"
+usedFor:
 - "[[Coin collecting]]"
 ---

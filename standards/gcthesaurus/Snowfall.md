@@ -3,6 +3,6 @@ title: Snowfall
 longTitle: 'Snowfall'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Snow]]"
 ---

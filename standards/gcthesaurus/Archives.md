@@ -3,12 +3,15 @@ title: Archives
 longTitle: 'Archives'
 tags:
 - gccommon
-broaderTerm:
-- "[[National archives Sound archives Climate archives ]]"
 french:
 - "[[Archives]]"
-relatedTerm:
-- "[[Records Cartographic records History]]"
-use:
+narrowerTerm:
+- "[[Climate archives]]"
+- "[[National archives]]"
+- "[[Sound archives]]"
+- "[[Visual archives]]"
+scopeNote:
+- "Organized collections of the non-current records o"
+usedFor:
 - "[[Historical documents]]"
 ---

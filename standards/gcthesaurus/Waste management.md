@@ -3,12 +3,20 @@ title: Waste management
 longTitle: 'Waste management'
 tags:
 - gccommon
-broaderTerm:
-- "[[Recycling Composting]]"
+french:
+- "[[Gestion des dechets]]"
 narrowerTerm:
-- "[[Environmental management]]"
-relatedTerm:
-- "[[Waste]]"
-use:
-- "[[Refuse disposal Land fill Waste disposal Waste red]]"
+- "[[Composting]]"
+- "[[Recycling]]"
+usedFor:
+- "[[Garbage disposal]]"
+- "[[Land fill]]"
+- "[[Landfill]]"
+- "[[Refuse disposal]]"
+- "[[Solid waste treatment]]"
+- "[[Waste disposal]]"
+- "[[Waste incineration]]"
+- "[[Waste processing]]"
+- "[[Waste reduction]]"
+- "[[Waste treatment]]"
 ---

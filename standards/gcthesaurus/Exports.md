@@ -3,8 +3,8 @@ title: Exports
 longTitle: 'Exports'
 tags:
 - gccommon
-relatedTerm:
-- "[[Anti-dumping International trade Dumping Imports]]"
-use:
+french:
+- "[[Exportation]]"
+usedFor:
 - "[[Cross-border sales]]"
 ---

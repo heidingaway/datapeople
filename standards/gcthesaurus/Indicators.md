@@ -3,8 +3,13 @@ title: Indicators
 longTitle: 'Indicators'
 tags:
 - gccommon
-broaderTerm:
-- "[[Education indicators Environmental indicators Heal]]"
-relatedTerm:
-- "[[Statistics]]"
+french:
+- "[[Indicateur]]"
+narrowerTerm:
+- "[[Economic indicators]]"
+- "[[Education indicators]]"
+- "[[Environmental indicators]]"
+- "[[Health indicators]]"
+- "[[Performance indicators]]"
+- "[[Social indicators]]"
 ---

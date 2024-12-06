@@ -3,12 +3,16 @@ title: Sciences
 longTitle: 'Sciences'
 tags:
 - gccommon
-broaderTerm:
-- "[[Natural sciences Social sciences]]"
 french:
 - "[[Sciences]]"
+narrowerTerm:
+- "[[Natural sciences]]"
+- "[[Social sciences]]"
 relatedTerm:
-- "[[Scientific research Scientific equipment Scientifi]]"
-use:
-- "[[Scientific disciplines Science disciplines]]"
+- "[[Science education]]"
+- "[[Science policy]]"
+- "[[Scientific information]]"
+usedFor:
+- "[[Science disciplines]]"
+- "[[Scientific disciplines]]"
 ---

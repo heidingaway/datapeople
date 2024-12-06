@@ -3,10 +3,9 @@ title: Industrial technology
 longTitle: 'Industrial technology'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Technology]]"
-relatedTerm:
-- "[[Industry]]"
-use:
-- "[[Industrial equipment Manufacturing technology]]"
+french:
+- "[[Technologie industrielle]]"
+usedFor:
+- "[[Industrial equipment]]"
+- "[[Manufacturing technology]]"
 ---

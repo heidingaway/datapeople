@@ -3,6 +3,6 @@ title: Ballet
 longTitle: 'Ballet'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Dance]]"
 ---

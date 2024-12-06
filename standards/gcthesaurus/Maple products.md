@@ -3,8 +3,8 @@ title: Maple products
 longTitle: 'Maple products'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Agri-food products]]"
-use:
+french:
+- "[[Produit de lerable]]"
+usedFor:
 - "[[Maple syrup]]"
 ---

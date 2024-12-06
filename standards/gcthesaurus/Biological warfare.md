@@ -3,10 +3,8 @@ title: Biological warfare
 longTitle: 'Biological warfare'
 tags:
 - gccommon
-narrowerTerm:
-- "[[War]]"
-relatedTerm:
-- "[[Chemical warfare Biological weapons]]"
-use:
+french:
+- "[[Guerre biologique]]"
+usedFor:
 - "[[Bacteriological warfare]]"
 ---

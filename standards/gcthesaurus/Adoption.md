@@ -3,10 +3,10 @@ title: Adoption
 longTitle: 'Adoption'
 tags:
 - gccommon
-broaderTerm:
-- "[[International adoption]]"
 french:
 - "[[Adoption]]"
+narrowerTerm:
+- "[[International adoption]]"
 relatedTerm:
-- "[[Family law Adoptive parents]]"
+- "[[Adoptive parents]]"
 ---

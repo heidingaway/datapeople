@@ -3,6 +3,6 @@ title: National Capital
 longTitle: 'National Capital'
 tags:
 - gccommon
-relatedTerm:
-- "[[Federal government]]"
+french:
+- "[[Capitale nationale]]"
 ---

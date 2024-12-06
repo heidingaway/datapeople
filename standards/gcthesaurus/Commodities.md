@@ -3,8 +3,11 @@ title: Commodities
 longTitle: 'Commodities'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Products]]"
-use:
-- "[[Primary commodities Raw materials Crude materials ]]"
+french:
+- "[[Produit de base]]"
+usedFor:
+- "[[Crude materials]]"
+- "[[Primary commodities]]"
+- "[[Primary products]]"
+- "[[Raw materials]]"
 ---

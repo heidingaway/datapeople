@@ -5,8 +5,6 @@ tags:
 - gccommon
 french:
 - "[[Acculturation]]"
-relatedTerm:
-- "[[Culture]]"
-use:
+usedFor:
 - "[[Cultural assimilation]]"
 ---

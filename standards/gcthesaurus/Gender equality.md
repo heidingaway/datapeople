@@ -3,8 +3,8 @@ title: Gender equality
 longTitle: 'Gender equality'
 tags:
 - gccommon
-relatedTerm:
-- "[[Status of women Gender discrimination]]"
-use:
+french:
+- "[[Egalite des sexes]]"
+usedFor:
 - "[[Womens equality]]"
 ---

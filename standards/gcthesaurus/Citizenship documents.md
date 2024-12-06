@@ -3,8 +3,10 @@ title: Citizenship documents
 longTitle: 'Citizenship documents'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Preuve de citoyennete]]"
+narrowerTerm:
 - "[[Birth certificates]]"
 relatedTerm:
-- "[[Passports Citizenship Travel documents]]"
+- "[[Citizenship]]"
 ---

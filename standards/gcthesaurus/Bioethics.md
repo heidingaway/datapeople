@@ -3,10 +3,13 @@ title: Bioethics
 longTitle: 'Bioethics'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Ethics]]"
+french:
+- "[[Bioethique]]"
 relatedTerm:
-- "[[Abortion Euthanasia Transplantation Medicine Biome]]"
-use:
-- "[[Medical ethics Biomedical ethics]]"
+- "[[Biomedical experiments]]"
+usedFor:
+- "[[Biomedical ethics]]"
+- "[[Medical ethics]]"
 ---

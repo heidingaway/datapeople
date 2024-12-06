@@ -3,8 +3,8 @@ title: Electronic documents
 longTitle: 'Electronic documents'
 tags:
 - gccommon
-relatedTerm:
-- "[[Electronic publishing Electronic information]]"
-use:
+french:
+- "[[Document electronique]]"
+usedFor:
 - "[[Electronic publications]]"
 ---

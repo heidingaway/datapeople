@@ -3,10 +3,8 @@ title: Infant nutrition
 longTitle: 'Infant nutrition'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Nutrition]]"
-relatedTerm:
-- "[[Infants Perinatal care]]"
-use:
+french:
+- "[[Alimentation du nouveau-ne]]"
+usedFor:
 - "[[Breastfeeding]]"
 ---

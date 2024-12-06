@@ -3,10 +3,12 @@ title: Offences
 longTitle: 'Offences'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Infraction]]"
+narrowerTerm:
 - "[[Sexual offences]]"
 relatedTerm:
-- "[[Crime Contravention]]"
-use:
+- "[[Contravention]]"
+usedFor:
 - "[[Offenses]]"
 ---

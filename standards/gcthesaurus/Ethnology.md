@@ -3,10 +3,14 @@ title: Ethnology
 longTitle: 'Ethnology'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Anthropology]]"
-relatedTerm:
-- "[[Ethnic groups]]"
-use:
-- "[[Ethnography Cultural anthropology Sociocultural an]]"
+french:
+- "[[Ethnologie]]"
+usedFor:
+- "[[Cultural anthropology]]"
+- "[[Ethnography]]"
+- "[[Ethnohistory]]"
+- "[[Social anthropology]]"
+- "[[Sociocultural anthropology]]"
 ---

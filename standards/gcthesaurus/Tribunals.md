@@ -3,6 +3,6 @@ title: Tribunals
 longTitle: 'Tribunals'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Courts]]"
 ---

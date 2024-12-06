@@ -3,12 +3,10 @@ title: Government information
 longTitle: 'Government information'
 tags:
 - gccommon
-broaderTerm:
-- "[[Open government Information bulletin]]"
-narrowerTerm:
-- "[[Information]]"
+french:
+- "[[Information gouvernementale]]"
 relatedTerm:
-- "[[Government communications Government libraries Pre]]"
-use:
+- "[[Submissions]]"
+usedFor:
 - "[[Federal information]]"
 ---

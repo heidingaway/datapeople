@@ -3,8 +3,12 @@ title: Pulp and paper industry
 longTitle: 'Pulp and paper industry'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Manufacturing industry Forestry industry]]"
-use:
-- "[[Paper industry Pulp and paper sector Wood-pulp ind]]"
+french:
+- "[[Industrie des pates et papiers]]"
+usedFor:
+- "[[Paper industry]]"
+- "[[Pulp and paper sector]]"
+- "[[Pulp industry]]"
+- "[[Wood pulp industry]]"
+- "[[Wood-pulp industry]]"
 ---

@@ -3,10 +3,11 @@ title: Vessels
 longTitle: 'Vessels'
 tags:
 - gccommon
-broaderTerm:
-- "[[Ships Ferries Submarines Pleasure craft]]"
+french:
+- "[[Embarcation]]"
 narrowerTerm:
-- "[[Vehicles]]"
-relatedTerm:
-- "[[Navigation Marine equipment]]"
+- "[[Ferries]]"
+- "[[Pleasure craft]]"
+- "[[Ships]]"
+- "[[Submarines]]"
 ---

@@ -3,8 +3,12 @@ title: Meetings
 longTitle: 'Meetings'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Reunion]]"
+narrowerTerm:
 - "[[Teleconferencing]]"
 relatedTerm:
-- "[[Agenda Minutes Conferences Consultations]]"
+- "[[Agenda]]"
+- "[[Consultations]]"
+- "[[Minutes]]"
 ---

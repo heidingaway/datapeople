@@ -3,6 +3,6 @@ title: Overweight
 longTitle: 'Overweight'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Obesity]]"
 ---

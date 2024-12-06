@@ -3,10 +3,8 @@ title: English second language
 longTitle: 'English second language'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Second languages]]"
-relatedTerm:
-- "[[English language]]"
-use:
+french:
+- "[[Anglais langue seconde]]"
+usedFor:
 - "[[ESL]]"
 ---

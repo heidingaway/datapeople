@@ -3,10 +3,17 @@ title: Employment
 longTitle: 'Employment'
 tags:
 - gccommon
-broaderTerm:
-- "[[Part-time employment Self employment Temporary emp]]"
+french:
+- "[[Emploi]]"
+narrowerTerm:
+- "[[Full-time employment]]"
+- "[[Part-time employment]]"
+- "[[Seasonal employment]]"
+- "[[Self employment]]"
+- "[[Temporary employment]]"
 relatedTerm:
-- "[[Employment abroad Unemployment Job description Job]]"
-use:
+- "[[Employment act]]"
+- "[[Job description]]"
+usedFor:
 - "[[Jobs]]"
 ---

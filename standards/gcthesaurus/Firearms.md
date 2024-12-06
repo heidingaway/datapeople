@@ -3,8 +3,13 @@ title: Firearms
 longTitle: 'Firearms'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Weapons]]"
-use:
-- "[[Replica firearms Guns Handguns Revolvers Pistols F]]"
+french:
+- "[[Arme a feu]]"
+usedFor:
+- "[[Fire arms]]"
+- "[[Guns]]"
+- "[[Handguns]]"
+- "[[Pistols]]"
+- "[[Replica firearms]]"
+- "[[Revolvers]]"
 ---

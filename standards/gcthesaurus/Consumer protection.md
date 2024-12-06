@@ -3,8 +3,9 @@ title: Consumer protection
 longTitle: 'Consumer protection'
 tags:
 - gccommon
-relatedTerm:
-- "[[Consumers]]"
-use:
-- "[[Consumer education Consumer groups]]"
+french:
+- "[[Protection du consommateur]]"
+usedFor:
+- "[[Consumer education]]"
+- "[[Consumer groups]]"
 ---

@@ -3,10 +3,13 @@ title: Professional development
 longTitle: 'Professional development'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Development]]"
+french:
+- "[[Developpement professionnel]]"
 relatedTerm:
-- "[[Continuing education Vocational training]]"
-use:
-- "[[Career development Occupational development]]"
+- "[[Vocational training]]"
+scopeNote:
+- "Actions reinforcing and improving the professional"
+usedFor:
+- "[[Career development]]"
+- "[[Occupational development]]"
 ---

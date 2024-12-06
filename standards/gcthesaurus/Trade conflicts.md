@@ -3,6 +3,6 @@ title: Trade conflicts
 longTitle: 'Trade conflicts'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Trade disputes]]"
 ---

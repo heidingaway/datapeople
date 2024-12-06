@@ -3,6 +3,6 @@ title: Enquiries
 longTitle: 'Enquiries'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Information requests]]"
 ---

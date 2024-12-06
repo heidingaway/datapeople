@@ -3,12 +3,25 @@ title: Agri-food products
 longTitle: 'Agri-food products'
 tags:
 - gccommon
-broaderTerm:
-- "[[Dairy products Eggs Meat Edible oils and fats Vege]]"
+french:
+- "[[Produit agro-alimentaire]]"
 narrowerTerm:
-- "[[Products]]"
-relatedTerm:
-- "[[Crops Agriculture Farms Food Agri-food industry]]"
-use:
-- "[[Agrifood products Livestock products Farm products]]"
+- "[[Beverages]]"
+- "[[Cereals]]"
+- "[[Dairy products]]"
+- "[[Edible oils and fats]]"
+- "[[Eggs]]"
+- "[[Fruits]]"
+- "[[Grains]]"
+- "[[Honey]]"
+- "[[Legumes]]"
+- "[[Maple products]]"
+- "[[Meat]]"
+- "[[Vegetables]]"
+usedFor:
+- "[[Agricultural products]]"
+- "[[Agrifood products]]"
+- "[[Farm products]]"
+- "[[Farming products]]"
+- "[[Livestock products]]"
 ---

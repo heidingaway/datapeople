@@ -3,12 +3,17 @@ title: Plants
 longTitle: 'Plants'
 tags:
 - gccommon
-broaderTerm:
-- "[[Aquatic plants Medicinal plants Ornamental plants ]]"
+french:
+- "[[Plante]]"
 narrowerTerm:
-- "[[Living organisms]]"
+- "[[Aquatic plants]]"
+- "[[Medicinal plants]]"
+- "[[Ornamental plants]]"
+- "[[Trees]]"
+- "[[Wild plants]]"
 relatedTerm:
-- "[[Flora Plant diseases Botany Herbaria]]"
-use:
+- "[[Flora]]"
+- "[[Plant diseases]]"
+usedFor:
 - "[[Vegetation]]"
 ---

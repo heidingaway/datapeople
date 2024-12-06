@@ -3,12 +3,10 @@ title: Marijuana
 longTitle: 'Marijuana'
 tags:
 - gccommon
+broaderTerm:
+- "[[Narcotics]]"
 french:
 - "[[Marijuana]]"
-narrowerTerm:
-- "[[Narcotics]]"
-relatedTerm:
-- "[[Drugs Medicinal plants]]"
-use:
+usedFor:
 - "[[Marihuana]]"
 ---

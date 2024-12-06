@@ -3,6 +3,6 @@ title: Spacecraft
 longTitle: 'Spacecraft'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Space exploration]]"
 ---

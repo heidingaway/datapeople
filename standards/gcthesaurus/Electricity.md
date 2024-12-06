@@ -3,10 +3,15 @@ title: Electricity
 longTitle: 'Electricity'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Electricite]]"
+narrowerTerm:
 - "[[Hydropower]]"
 relatedTerm:
-- "[[Magnetism Electric power stations Electrical equip]]"
-use:
-- "[[Electrical power Electric power Electrical energy ]]"
+- "[[Electric power stations]]"
+usedFor:
+- "[[Electric energy]]"
+- "[[Electric power]]"
+- "[[Electrical energy]]"
+- "[[Electrical power]]"
 ---

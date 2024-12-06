@@ -3,6 +3,6 @@ title: Photocopy
 longTitle: 'Photocopy'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Reprography]]"
 ---

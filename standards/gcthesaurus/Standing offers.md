@@ -3,6 +3,8 @@ title: Standing offers
 longTitle: 'Standing offers'
 tags:
 - gccommon
-relatedTerm:
-- "[[Purchasing Contracts]]"
+french:
+- "[[Offre permanente]]"
+scopeNote:
+- "A method of supply used to provide direct access b"
 ---

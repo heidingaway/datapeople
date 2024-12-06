@@ -3,6 +3,6 @@ title: Human safety
 longTitle: 'Human safety'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Human security]]"
 ---

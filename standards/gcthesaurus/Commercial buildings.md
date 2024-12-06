@@ -3,8 +3,8 @@ title: Commercial buildings
 longTitle: 'Commercial buildings'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Buildings]]"
+french:
+- "[[Batiment commercial]]"
 relatedTerm:
-- "[[Industrial buildings Commercial architecture]]"
+- "[[Commercial architecture]]"
 ---

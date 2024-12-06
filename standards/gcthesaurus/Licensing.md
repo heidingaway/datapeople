@@ -3,8 +3,8 @@ title: Licensing
 longTitle: 'Licensing'
 tags:
 - gccommon
-relatedTerm:
-- "[[Permits Certification Regulation]]"
-use:
+french:
+- "[[Attribution de permis]]"
+usedFor:
 - "[[Licencing]]"
 ---

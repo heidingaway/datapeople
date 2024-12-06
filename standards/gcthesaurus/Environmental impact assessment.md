@@ -3,10 +3,15 @@ title: Environmental impact assessment
 longTitle: 'Environmental impact assessment'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Assessment]]"
+french:
+- "[[Evaluation environnementale]]"
 relatedTerm:
-- "[[Environmental indicators Impact studies Environmen]]"
-use:
-- "[[Environmental review Environmental assessment EIA ]]"
+- "[[Impact studies]]"
+scopeNote:
+- "A process or set of activities designed to predict"
+usedFor:
+- "[[EIA]]"
+- "[[Environmental assessment]]"
+- "[[Environmental evaluation]]"
+- "[[Environmental review]]"
 ---

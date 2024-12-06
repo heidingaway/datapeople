@@ -3,8 +3,12 @@ title: Broadcasting
 longTitle: 'Broadcasting'
 tags:
 - gccommon
-relatedTerm:
-- "[[Cable television Television Radio Spectrum managem]]"
-use:
-- "[[Public broadcasting Radio broadcasting Television ]]"
+french:
+- "[[Radiodiffusion]]"
+scopeNote:
+- "The transmission of television or radio programs u"
+usedFor:
+- "[[Public broadcasting]]"
+- "[[Radio broadcasting]]"
+- "[[Television broadcasting]]"
 ---

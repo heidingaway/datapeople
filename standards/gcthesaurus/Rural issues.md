@@ -3,6 +3,6 @@ title: Rural issues
 longTitle: 'Rural issues'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Rural development]]"
 ---

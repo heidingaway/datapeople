@@ -3,6 +3,6 @@ title: Farming
 longTitle: 'Farming'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Agriculture]]"
 ---

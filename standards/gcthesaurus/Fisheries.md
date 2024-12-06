@@ -3,8 +3,16 @@ title: Fisheries
 longTitle: 'Fisheries'
 tags:
 - gccommon
+french:
+- "[[Pecheries]]"
 relatedTerm:
-- "[[Fishing area Fisheries management Fisheries policy]]"
-use:
-- "[[Industrial fishing Fishing industry Commercial fis]]"
+- "[[Fisheries management]]"
+- "[[Fisheries policy]]"
+usedFor:
+- "[[Commercial fishing]]"
+- "[[Fishing Commercial]]"
+- "[[Fishing industry]]"
+- "[[Industrial fishing]]"
+- "[[Marine fisheries]]"
+- "[[Overfishing]]"
 ---

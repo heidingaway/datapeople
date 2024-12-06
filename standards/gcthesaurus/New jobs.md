@@ -3,6 +3,6 @@ title: New jobs
 longTitle: 'New jobs'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Job creation]]"
 ---

@@ -3,10 +3,8 @@ title: Canadian history
 longTitle: 'Canadian history'
 tags:
 - gccommon
-narrowerTerm:
-- "[[History]]"
-relatedTerm:
-- "[[Canadian studies]]"
-use:
+french:
+- "[[Histoire du Canada]]"
+usedFor:
 - "[[History of Canada]]"
 ---

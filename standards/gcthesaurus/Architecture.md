@@ -3,10 +3,12 @@ title: Architecture
 longTitle: 'Architecture'
 tags:
 - gccommon
-broaderTerm:
-- "[[Religious architecture Military architecture Comme]]"
 french:
 - "[[Architecture]]"
-relatedTerm:
-- "[[Architectural services Architectural drawings Buil]]"
+narrowerTerm:
+- "[[Commercial architecture]]"
+- "[[Domestic architecture]]"
+- "[[Military architecture]]"
+- "[[Public architecture]]"
+- "[[Religious architecture]]"
 ---

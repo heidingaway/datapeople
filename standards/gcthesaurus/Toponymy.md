@@ -3,8 +3,9 @@ title: Toponymy
 longTitle: 'Toponymy'
 tags:
 - gccommon
-relatedTerm:
-- "[[Gazetteers Geography]]"
-use:
-- "[[Geographical names Place names]]"
+french:
+- "[[Toponymie]]"
+usedFor:
+- "[[Geographical names]]"
+- "[[Place names]]"
 ---

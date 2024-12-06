@@ -3,8 +3,9 @@ title: Provincial institutions
 longTitle: 'Provincial institutions'
 tags:
 - gccommon
-relatedTerm:
-- "[[Provincial governments]]"
-use:
-- "[[Provincial bodies Provincial agencies]]"
+french:
+- "[[Institution provinciale]]"
+usedFor:
+- "[[Provincial agencies]]"
+- "[[Provincial bodies]]"
 ---

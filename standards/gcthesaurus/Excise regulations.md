@@ -3,6 +3,6 @@ title: Excise regulations
 longTitle: 'Excise regulations'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Customs and excise]]"
 ---

@@ -3,10 +3,11 @@ title: Fiscal policy
 longTitle: 'Fiscal policy'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Policy]]"
+french:
+- "[[Politique fiscale]]"
 relatedTerm:
-- "[[Tax fraud Fiscal assistance Taxation regulations T]]"
-use:
-- "[[Tax system Tax policy]]"
+- "[[Fiscal agreements]]"
+usedFor:
+- "[[Tax policy]]"
+- "[[Tax system]]"
 ---

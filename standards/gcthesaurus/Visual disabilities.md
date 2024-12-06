@@ -3,12 +3,12 @@ title: Visual disabilities
 longTitle: 'Visual disabilities'
 tags:
 - gccommon
-broaderTerm:
-- "[[Blindness]]"
+french:
+- "[[Deficience visuelle]]"
 narrowerTerm:
-- "[[Disabilities]]"
+- "[[Blindness]]"
 relatedTerm:
 - "[[Braille]]"
-use:
+usedFor:
 - "[[Visual impairments]]"
 ---

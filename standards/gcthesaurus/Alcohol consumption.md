@@ -3,8 +3,12 @@ title: Alcohol consumption
 longTitle: 'Alcohol consumption'
 tags:
 - gccommon
+french:
+- "[[Consommation dalcool]]"
 relatedTerm:
-- "[[Alcoholism Alcoholic beverages Alcohol education]]"
-use:
-- "[[Alcohol drinking Alcohol use Alcoholic beverage co]]"
+- "[[Alcoholic beverages]]"
+usedFor:
+- "[[Alcohol drinking]]"
+- "[[Alcohol use]]"
+- "[[Alcoholic beverage consumption]]"
 ---

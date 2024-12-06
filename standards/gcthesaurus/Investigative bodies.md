@@ -3,8 +3,8 @@ title: Investigative bodies
 longTitle: 'Investigative bodies'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Organisme denquete]]"
+narrowerTerm:
 - "[[Commissions of inquiry]]"
-relatedTerm:
-- "[[Inquiry]]"
 ---

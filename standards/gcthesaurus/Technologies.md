@@ -3,6 +3,6 @@ title: Technologies
 longTitle: 'Technologies'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Technology]]"
 ---

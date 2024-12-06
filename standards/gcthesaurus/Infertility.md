@@ -3,6 +3,6 @@ title: Infertility
 longTitle: 'Infertility'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Fertility]]"
 ---

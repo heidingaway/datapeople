@@ -3,8 +3,10 @@ title: Customs
 longTitle: 'Customs'
 tags:
 - gccommon
-relatedTerm:
-- "[[Folklore Cultural heritage]]"
-use:
+french:
+- "[[Coutume]]"
+scopeNote:
+- "Long-established habitual or traditional practices"
+usedFor:
 - "[[Traditions]]"
 ---

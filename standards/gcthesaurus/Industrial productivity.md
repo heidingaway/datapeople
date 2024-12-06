@@ -3,10 +3,11 @@ title: Industrial productivity
 longTitle: 'Industrial productivity'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Productivity]]"
-relatedTerm:
-- "[[Industrial management Industry]]"
-use:
-- "[[Industrial efficiency Industrial performance]]"
+french:
+- "[[Productivite industrielle]]"
+usedFor:
+- "[[Industrial efficiency]]"
+- "[[Industrial performance]]"
 ---

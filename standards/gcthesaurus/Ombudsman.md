@@ -3,6 +3,8 @@ title: Ombudsman
 longTitle: 'Ombudsman'
 tags:
 - gccommon
-relatedTerm:
-- "[[Legal rights Administrative law]]"
+french:
+- "[[Protecteur du citoyen]]"
+scopeNote:
+- "A public official appointed to investigate complai"
 ---

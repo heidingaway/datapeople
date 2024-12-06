@@ -3,8 +3,12 @@ title: Gambling
 longTitle: 'Gambling'
 tags:
 - gccommon
+french:
+- "[[Jeu de hasard]]"
 relatedTerm:
-- "[[Pari-mutuel betting Lotteries Games Casinos]]"
-use:
+- "[[Casinos]]"
+- "[[Lotteries]]"
+- "[[Pari-mutuel betting]]"
+usedFor:
 - "[[Betting]]"
 ---

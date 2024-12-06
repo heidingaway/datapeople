@@ -3,10 +3,10 @@ title: Non-renewable resources
 longTitle: 'Non-renewable resources'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Natural resources]]"
+french:
+- "[[Ressources non renouvelables]]"
 relatedTerm:
 - "[[Renewable resources]]"
-use:
+usedFor:
 - "[[Nonrenewable resources]]"
 ---

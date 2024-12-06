@@ -3,8 +3,9 @@ title: Securities
 longTitle: 'Securities'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Assets]]"
+french:
+- "[[Valeurs mobilieres]]"
 relatedTerm:
-- "[[Bonds Shares Investments Stock markets]]"
+- "[[Bonds]]"
+- "[[Shares]]"
 ---

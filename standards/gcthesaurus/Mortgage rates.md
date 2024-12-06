@@ -3,6 +3,6 @@ title: Mortgage rates
 longTitle: 'Mortgage rates'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Mortgage loans]]"
 ---

@@ -3,10 +3,13 @@ title: Radioactive materials
 longTitle: 'Radioactive materials'
 tags:
 - gccommon
-broaderTerm:
-- "[[Radioactive waste]]"
-relatedTerm:
-- "[[Radiation Radioactivity Hazardous materials]]"
-use:
-- "[[Nuclear materials Radioactive substances Radioelem]]"
+french:
+- "[[Matiere radioactive]]"
+usedFor:
+- "[[Nuclear materials]]"
+- "[[Nuclear substances]]"
+- "[[Radioactive elements]]"
+- "[[Radioactive products]]"
+- "[[Radioactive substances]]"
+- "[[Radioelements]]"
 ---

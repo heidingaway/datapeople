@@ -3,8 +3,8 @@ title: Poxvirus diseases
 longTitle: 'Poxvirus diseases'
 tags:
 - gccommon
-broaderTerm:
-- "[[Monkeypox]]"
+french:
+- "[[Maladies a poxvirus]]"
 narrowerTerm:
-- "[[Infectious diseases]]"
+- "[[Monkeypox]]"
 ---

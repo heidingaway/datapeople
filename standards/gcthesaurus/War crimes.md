@@ -3,8 +3,8 @@ title: War crimes
 longTitle: 'War crimes'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Crime Fugitives from justice]]"
+french:
+- "[[Crime de guerre]]"
 relatedTerm:
-- "[[War Crime against humanity]]"
+- "[[Crime against humanity]]"
 ---

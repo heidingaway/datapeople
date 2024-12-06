@@ -7,6 +7,9 @@ french:
 - "[[Constitution]]"
 relatedTerm:
 - "[[Constitutional law]]"
-use:
-- "[[Constitutional negotiations Constitutional accord ]]"
+usedFor:
+- "[[Constitution act]]"
+- "[[Constitutional accord]]"
+- "[[Constitutional negotiations]]"
+- "[[Constitutional reform]]"
 ---

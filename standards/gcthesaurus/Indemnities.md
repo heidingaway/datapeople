@@ -3,6 +3,8 @@ title: Indemnities
 longTitle: 'Indemnities'
 tags:
 - gccommon
-relatedTerm:
-- "[[Insurance]]"
+french:
+- "[[Indemnite]]"
+scopeNote:
+- "Promise of payment against possible damage or loss"
 ---

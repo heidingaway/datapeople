@@ -3,10 +3,10 @@ title: Indigenous policing
 longTitle: 'Indigenous policing'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Policing]]"
-relatedTerm:
-- "[[Indigenous law Indigenous peoples Police services]]"
-use:
+french:
+- "[[Police des autochtones]]"
+usedFor:
 - "[[Aboriginal policing]]"
 ---

@@ -3,10 +3,10 @@ title: Automobiles
 longTitle: 'Automobiles'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Motor vehicles]]"
+french:
+- "[[Automobile]]"
 relatedTerm:
-- "[[Automobile industry Automobile safety equipment]]"
-use:
+- "[[Automobile industry]]"
+usedFor:
 - "[[Cars]]"
 ---

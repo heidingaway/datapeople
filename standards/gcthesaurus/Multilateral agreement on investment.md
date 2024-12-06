@@ -3,8 +3,8 @@ title: Multilateral agreement on investment
 longTitle: 'Multilateral agreement on investment'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Multilateral agreements]]"
-relatedTerm:
-- "[[Investments]]"
+french:
+- "[[Accord multilateral sur linvestissement]]"
 ---

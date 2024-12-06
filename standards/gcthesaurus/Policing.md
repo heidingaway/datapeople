@@ -3,8 +3,8 @@ title: Policing
 longTitle: 'Policing'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Maintien de lordre public]]"
+narrowerTerm:
 - "[[Indigenous policing]]"
-relatedTerm:
-- "[[Police services]]"
 ---

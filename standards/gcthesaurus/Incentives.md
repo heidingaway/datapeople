@@ -3,6 +3,8 @@ title: Incentives
 longTitle: 'Incentives'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Incitatif]]"
+narrowerTerm:
 - "[[Tax incentives]]"
 ---

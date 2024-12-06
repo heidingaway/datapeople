@@ -3,8 +3,12 @@ title: Division of powers
 longTitle: 'Division of powers'
 tags:
 - gccommon
-relatedTerm:
-- "[[Federal provincial relations Federal territorial r]]"
-use:
-- "[[Distribution of jurisdictions Distribution of powe]]"
+french:
+- "[[Repartition des pouvoirs]]"
+usedFor:
+- "[[Allocation of powers]]"
+- "[[Distribution of jurisdictions]]"
+- "[[Distribution of powers]]"
+- "[[Division of jurisdiction]]"
+- "[[Division of power]]"
 ---

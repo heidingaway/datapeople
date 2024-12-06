@@ -3,10 +3,12 @@ title: Offshore drilling
 longTitle: 'Offshore drilling'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Drilling]]"
-relatedTerm:
-- "[[Offshore area Petroleum industry]]"
-use:
-- "[[Ocean drilling Drilling platforms Marine drilling]]"
+french:
+- "[[Forage en mer]]"
+usedFor:
+- "[[Drilling platforms]]"
+- "[[Marine drilling]]"
+- "[[Ocean drilling]]"
 ---

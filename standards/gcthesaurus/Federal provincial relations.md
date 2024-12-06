@@ -3,10 +3,10 @@ title: Federal provincial relations
 longTitle: 'Federal provincial relations'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Intergovernmental relations]]"
-relatedTerm:
-- "[[Transfer payments Federal provincial agreements Pr]]"
-use:
-- "[[Federal provincial cooperation Federal provincial ]]"
+french:
+- "[[Relations federales-provinciales]]"
+usedFor:
+- "[[Federal provincial conferences]]"
+- "[[Federal provincial cooperation]]"
+- "[[Provincial federal relations]]"
 ---

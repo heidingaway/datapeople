@@ -3,10 +3,12 @@ title: Medical technology
 longTitle: 'Medical technology'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Technology]]"
-relatedTerm:
-- "[[Telehealth Medicine Medical research Transplantati]]"
-use:
-- "[[Health technology Health care technology Medical t]]"
+french:
+- "[[Technologie medicale]]"
+scopeNote:
+- "Use for medical and health care techniques For med"
+usedFor:
+- "[[Health care technology]]"
+- "[[Health technology]]"
+- "[[Medical techniques]]"
 ---

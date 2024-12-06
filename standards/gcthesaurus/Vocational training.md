@@ -3,10 +3,10 @@ title: Vocational training
 longTitle: 'Vocational training'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Training]]"
-relatedTerm:
-- "[[Professional development]]"
-use:
-- "[[Apprenticeships Occupational training Vocational e]]"
+french:
+- "[[Formation professionnelle]]"
+usedFor:
+- "[[Apprenticeships]]"
+- "[[Occupational training]]"
+- "[[Vocational education]]"
 ---

@@ -3,8 +3,14 @@ title: Finance
 longTitle: 'Finance'
 tags:
 - gccommon
-broaderTerm:
-- "[[Quarterly financial reports International finance ]]"
+french:
+- "[[Finances]]"
+narrowerTerm:
+- "[[Household finance]]"
+- "[[International finance]]"
+- "[[Personal finance]]"
+- "[[Public finance]]"
 relatedTerm:
-- "[[Chief Financial Officer Financial crisis Financial]]"
+- "[[Accounting standards]]"
+- "[[Financial crisis]]"
 ---

@@ -3,6 +3,6 @@ title: Territorial administration
 longTitle: 'Territorial administration'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Territorial governments]]"
 ---

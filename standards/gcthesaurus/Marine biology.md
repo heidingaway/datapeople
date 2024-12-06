@@ -3,10 +3,8 @@ title: Marine biology
 longTitle: 'Marine biology'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Biology]]"
-relatedTerm:
-- "[[Oceanography]]"
-use:
+french:
+- "[[Biologie marine]]"
+usedFor:
 - "[[Aquatic biology]]"
 ---

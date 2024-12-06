@@ -3,8 +3,10 @@ title: Security intelligence
 longTitle: 'Security intelligence'
 tags:
 - gccommon
+french:
+- "[[Renseignement de securite]]"
 relatedTerm:
-- "[[National security International security Electroni]]"
-use:
+- "[[Electronic monitoring]]"
+usedFor:
 - "[[Espionage]]"
 ---

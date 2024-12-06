@@ -3,8 +3,8 @@ title: Migrant workers
 longTitle: 'Migrant workers'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Workers]]"
-use:
+french:
+- "[[Travailleur migrant]]"
+usedFor:
 - "[[Migratory workers]]"
 ---

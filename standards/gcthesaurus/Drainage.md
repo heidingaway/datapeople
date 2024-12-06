@@ -6,7 +6,11 @@ tags:
 french:
 - "[[Drainage]]"
 relatedTerm:
-- "[[Water management Land management Wetlands]]"
-use:
-- "[[Agricultural drainage Soil drainage Field drainage]]"
+- "[[Wetlands]]"
+usedFor:
+- "[[Agricultural drainage]]"
+- "[[Farm drainage]]"
+- "[[Field drainage]]"
+- "[[Land drainage]]"
+- "[[Soil drainage]]"
 ---

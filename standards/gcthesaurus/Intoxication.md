@@ -3,6 +3,6 @@ title: Intoxication
 longTitle: 'Intoxication'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Poisoning]]"
 ---

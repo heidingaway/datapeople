@@ -3,10 +3,18 @@ title: Income
 longTitle: 'Income'
 tags:
 - gccommon
-broaderTerm:
-- "[[Salaries Personal income Household income Royaltie]]"
-relatedTerm:
-- "[[Standard of living Economic conditions]]"
-use:
-- "[[Revenues Earnings Capital gains]]"
+french:
+- "[[Revenu]]"
+narrowerTerm:
+- "[[Household income]]"
+- "[[National income]]"
+- "[[Personal income]]"
+- "[[Royalties]]"
+- "[[Salaries]]"
+scopeNote:
+- "The sum of revenues earned in a specific period of"
+usedFor:
+- "[[Capital gains]]"
+- "[[Earnings]]"
+- "[[Revenues]]"
 ---

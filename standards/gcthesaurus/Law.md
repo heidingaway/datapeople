@@ -3,8 +3,27 @@ title: Law
 longTitle: 'Law'
 tags:
 - gccommon
-broaderTerm:
-- "[[Medical law Maritime law Military law Criminal law]]"
+french:
+- "[[Droit]]"
+narrowerTerm:
+- "[[Administrative law]]"
+- "[[Civil law]]"
+- "[[Commercial law]]"
+- "[[Constitutional law]]"
+- "[[Criminal law]]"
+- "[[Environmental law]]"
+- "[[Fiscal law]]"
+- "[[Indigenous law]]"
+- "[[International law]]"
+- "[[Labour law]]"
+- "[[Maritime law]]"
+- "[[Medical law]]"
+- "[[Military law]]"
+- "[[Pro bono legal services]]"
 relatedTerm:
-- "[[Legal documents Legislation Legal aid Jurisprudenc]]"
+- "[[Jurisprudence]]"
+- "[[Legal documents]]"
+- "[[Legal issues]]"
+scopeNote:
+- "Branches of law refer to legislation for collectio"
 ---

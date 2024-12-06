@@ -3,10 +3,12 @@ title: Vegetables
 longTitle: 'Vegetables'
 tags:
 - gccommon
-broaderTerm:
-- "[[Lettuce Carrots Potatoes]]"
+french:
+- "[[Legume]]"
 narrowerTerm:
-- "[[Agri-food products]]"
+- "[[Carrots]]"
+- "[[Lettuce]]"
+- "[[Potatoes]]"
 relatedTerm:
 - "[[Vegetable crops]]"
 ---

@@ -3,8 +3,10 @@ title: Social media
 longTitle: 'Social media'
 tags:
 - gccommon
-relatedTerm:
-- "[[Media Information technology]]"
-use:
+french:
+- "[[Media social]]"
+scopeNote:
+- "Refers to tools and technologies such as blogs wik"
+usedFor:
 - "[[Participatory media]]"
 ---

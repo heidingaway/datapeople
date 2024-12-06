@@ -3,10 +3,13 @@ title: Retail trade
 longTitle: 'Retail trade'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Trade]]"
+french:
+- "[[Commerce de detail]]"
 relatedTerm:
-- "[[Consumer products Marketing Electronic commerce Wh]]"
-use:
-- "[[Retailing Sales outlets Stores Retail industry]]"
+- "[[Wholesale trade]]"
+usedFor:
+- "[[Retail industry]]"
+- "[[Retailing]]"
+- "[[Sales outlets]]"
+- "[[Stores]]"
 ---

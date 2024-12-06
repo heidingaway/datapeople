@@ -3,10 +3,8 @@ title: Fiscal law
 longTitle: 'Fiscal law'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Law]]"
-relatedTerm:
-- "[[Income tax]]"
-use:
+french:
+- "[[Droit fiscal]]"
+usedFor:
 - "[[Tax law]]"
 ---

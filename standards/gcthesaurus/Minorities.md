@@ -3,8 +3,11 @@ title: Minorities
 longTitle: 'Minorities'
 tags:
 - gccommon
-broaderTerm:
-- "[[Visible minorities Ethnic minorities Language mino]]"
-use:
+french:
+- "[[Minorite]]"
+narrowerTerm:
+- "[[2SLGBTQI people]]"
+- "[[Visible minorities]]"
+usedFor:
 - "[[Minority groups]]"
 ---

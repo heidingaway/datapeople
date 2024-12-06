@@ -3,8 +3,8 @@ title: Comparison
 longTitle: 'Comparison'
 tags:
 - gccommon
-relatedTerm:
-- "[[Benchmarks Assessment]]"
-use:
+french:
+- "[[Comparaison]]"
+usedFor:
 - "[[Comparative analysis]]"
 ---

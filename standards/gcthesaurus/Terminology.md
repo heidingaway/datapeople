@@ -3,8 +3,10 @@ title: Terminology
 longTitle: 'Terminology'
 tags:
 - gccommon
+french:
+- "[[Terminologie]]"
 relatedTerm:
-- "[[Languages Thesauri Dictionaries Abbreviations]]"
-use:
+- "[[Abbreviations]]"
+usedFor:
 - "[[Vocabulary]]"
 ---

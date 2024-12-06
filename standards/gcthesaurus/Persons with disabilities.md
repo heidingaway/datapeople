@@ -3,10 +3,23 @@ title: Persons with disabilities
 longTitle: 'Persons with disabilities'
 tags:
 - gccommon
-broaderTerm:
-- "[[Duty to accommodate]]"
+french:
+- "[[Personne handicapee]]"
 relatedTerm:
-- "[[Status of disabled persons Accessible transport Ac]]"
-use:
-- "[[Mobility impaired Handicapped persons Visually imp]]"
+- "[[Status of disabled persons]]"
+usedFor:
+- "[[Blind persons]]"
+- "[[Deaf persons]]"
+- "[[Disabled people]]"
+- "[[Disabled persons]]"
+- "[[Handicapped people]]"
+- "[[Handicapped persons]]"
+- "[[Hearing impaired]]"
+- "[[Mentally handicapped]]"
+- "[[Mobility impaired]]"
+- "[[People with disabilities]]"
+- "[[Physically challenged]]"
+- "[[Physically handicapped]]"
+- "[[Sight impaired]]"
+- "[[Visually impaired]]"
 ---

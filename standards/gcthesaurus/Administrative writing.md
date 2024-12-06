@@ -3,8 +3,8 @@ title: Administrative writing
 longTitle: 'Administrative writing'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Writing]]"
+french:
+- "[[Redaction administrative]]"
 relatedTerm:
-- "[[Technical writing Annual reports]]"
+- "[[Annual reports]]"
 ---

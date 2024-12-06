@@ -3,6 +3,8 @@ title: Copyright
 longTitle: 'Copyright'
 tags:
 - gccommon
-relatedTerm:
-- "[[Intellectual property Reprography Copyright cleara]]"
+french:
+- "[[Droit dauteur]]"
+scopeNote:
+- "The exclusive right granted by law to artists and "
 ---

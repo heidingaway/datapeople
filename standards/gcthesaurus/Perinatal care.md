@@ -3,8 +3,9 @@ title: Perinatal care
 longTitle: 'Perinatal care'
 tags:
 - gccommon
-relatedTerm:
-- "[[Birth Infant care Infant nutrition]]"
-use:
-- "[[Prenatal care Postnatal care]]"
+french:
+- "[[Soins perinataux]]"
+usedFor:
+- "[[Postnatal care]]"
+- "[[Prenatal care]]"
 ---

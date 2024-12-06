@@ -3,6 +3,6 @@ title: Hazardous waste sites
 longTitle: 'Hazardous waste sites'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Contaminated sites]]"
 ---

@@ -3,8 +3,10 @@ title: Semen
 longTitle: 'Semen'
 tags:
 - gccommon
+french:
+- "[[Sperme]]"
 relatedTerm:
-- "[[Pregnancy Reproductive technology Fertility Artifi]]"
-use:
+- "[[Artificial insemination]]"
+usedFor:
 - "[[Donor semen]]"
 ---

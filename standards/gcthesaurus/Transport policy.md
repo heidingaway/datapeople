@@ -3,10 +3,8 @@ title: Transport policy
 longTitle: 'Transport policy'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Policy]]"
-relatedTerm:
-- "[[Transport]]"
-use:
+french:
+- "[[Politique des transports]]"
+usedFor:
 - "[[Transportation policy]]"
 ---

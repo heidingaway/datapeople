@@ -3,6 +3,6 @@ title: Student labor
 longTitle: 'Student labor'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Student labour]]"
 ---

@@ -3,6 +3,6 @@ title: Logistic support
 longTitle: 'Logistic support'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Logistical support]]"
 ---

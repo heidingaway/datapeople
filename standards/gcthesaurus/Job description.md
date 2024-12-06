@@ -3,8 +3,8 @@ title: Job description
 longTitle: 'Job description'
 tags:
 - gccommon
-relatedTerm:
-- "[[Employment]]"
-use:
+french:
+- "[[Description de poste]]"
+usedFor:
 - "[[Position description]]"
 ---

@@ -3,10 +3,14 @@ title: Nuclear power plants
 longTitle: 'Nuclear power plants'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Nuclear facilities Electric power stations]]"
-relatedTerm:
-- "[[Nuclear energy]]"
-use:
-- "[[Nuclear power stations Nuclear stations Nuclear po]]"
+broaderTerm:
+- "[[Nuclear facilities]]"
+french:
+- "[[Centrale nucleaire]]"
+usedFor:
+- "[[Nuclear generating stations]]"
+- "[[Nuclear plants]]"
+- "[[Nuclear power generating stations]]"
+- "[[Nuclear power stations]]"
+- "[[Nuclear stations]]"
 ---

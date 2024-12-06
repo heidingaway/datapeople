@@ -3,8 +3,12 @@ title: Measurement
 longTitle: 'Measurement'
 tags:
 - gccommon
+french:
+- "[[Mesure]]"
 relatedTerm:
-- "[[Benchmarks Assessment Metric system]]"
-use:
-- "[[Calibration Weighing Metrology]]"
+- "[[Metric system]]"
+usedFor:
+- "[[Calibration]]"
+- "[[Metrology]]"
+- "[[Weighing]]"
 ---

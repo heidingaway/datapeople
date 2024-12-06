@@ -3,6 +3,6 @@ title: Vocabulary
 longTitle: 'Vocabulary'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Terminology]]"
 ---

@@ -3,6 +3,6 @@ title: Peacemaking
 longTitle: 'Peacemaking'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Peacekeeping]]"
 ---

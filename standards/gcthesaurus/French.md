@@ -3,6 +3,6 @@ title: French
 longTitle: 'French'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[French language]]"
 ---

@@ -3,12 +3,10 @@ title: Space sciences
 longTitle: 'Space sciences'
 tags:
 - gccommon
-broaderTerm:
-- "[[Astronomy]]"
+french:
+- "[[Sciences de lespace]]"
 narrowerTerm:
-- "[[Natural sciences]]"
-relatedTerm:
-- "[[Space technology Space exploration Scientists]]"
-use:
+- "[[Astronomy]]"
+usedFor:
 - "[[Astronautics]]"
 ---

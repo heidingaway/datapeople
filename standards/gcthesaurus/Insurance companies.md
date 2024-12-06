@@ -3,10 +3,8 @@ title: Insurance companies
 longTitle: 'Insurance companies'
 tags:
 - gccommon
-broaderTerm:
-- "[[Mutual insurance companies]]"
+french:
+- "[[Compagnie dassurances]]"
 narrowerTerm:
-- "[[Financial institutions]]"
-relatedTerm:
-- "[[Insurance]]"
+- "[[Mutual insurance companies]]"
 ---

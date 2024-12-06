@@ -3,8 +3,10 @@ title: Debt
 longTitle: 'Debt'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Dette]]"
+narrowerTerm:
 - "[[National debt]]"
 relatedTerm:
-- "[[Credit Debtors Bankruptcies Deficit Loans Liabilit]]"
+- "[[Liability]]"
 ---

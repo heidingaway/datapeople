@@ -3,6 +3,6 @@ title: Environmental heritage
 longTitle: 'Environmental heritage'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Natural heritage]]"
 ---

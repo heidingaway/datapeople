@@ -3,6 +3,6 @@ title: Client satisfaction
 longTitle: 'Client satisfaction'
 tags:
 - gccommon
-relatedTerm:
-- "[[Clients Customer services]]"
+french:
+- "[[Satisfaction du client]]"
 ---

@@ -3,8 +3,8 @@ title: Tax incentives
 longTitle: 'Tax incentives'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Incentives]]"
-relatedTerm:
-- "[[Taxes Tax benefits]]"
+french:
+- "[[Incitatif fiscal]]"
 ---

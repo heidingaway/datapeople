@@ -3,6 +3,6 @@ title: Clothes
 longTitle: 'Clothes'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Clothing]]"
 ---

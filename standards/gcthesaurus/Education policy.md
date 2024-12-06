@@ -3,10 +3,8 @@ title: Education policy
 longTitle: 'Education policy'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Policy]]"
-relatedTerm:
-- "[[Education]]"
-use:
+french:
+- "[[Politique educative]]"
+usedFor:
 - "[[Educational policy]]"
 ---

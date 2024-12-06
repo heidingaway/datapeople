@@ -3,8 +3,8 @@ title: Fungicides
 longTitle: 'Fungicides'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Pesticides]]"
+french:
+- "[[Fongicide]]"
 relatedTerm:
 - "[[Fungi]]"
 ---

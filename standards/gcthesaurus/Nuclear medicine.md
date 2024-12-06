@@ -3,6 +3,6 @@ title: Nuclear medicine
 longTitle: 'Nuclear medicine'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Medicine]]"
+french:
+- "[[Medecine nucleaire]]"
 ---

@@ -3,8 +3,8 @@ title: Telegraph
 longTitle: 'Telegraph'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Telecommunications]]"
-use:
+french:
+- "[[Telegraphe]]"
+usedFor:
 - "[[Telegrams]]"
 ---

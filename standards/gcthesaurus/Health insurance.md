@@ -3,10 +3,17 @@ title: Health insurance
 longTitle: 'Health insurance'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Insurance]]"
-relatedTerm:
-- "[[Drug insurance Health Dental insurance Health care]]"
-use:
-- "[[Sickness insurance Medical insurance Health servic]]"
+french:
+- "[[Assurance maladie]]"
+scopeNote:
+- "Public or private insurance covering all or part o"
+usedFor:
+- "[[Health care insurance]]"
+- "[[Health care plan]]"
+- "[[Health insurance plan]]"
+- "[[Health services insurance]]"
+- "[[Medical care insurance]]"
+- "[[Medical insurance]]"
+- "[[Medicare]]"
+- "[[Sickness insurance]]"
 ---

@@ -3,12 +3,11 @@ title: Watercourses
 longTitle: 'Watercourses'
 tags:
 - gccommon
-broaderTerm:
-- "[[Rivers Streams]]"
+french:
+- "[[Cours deau]]"
 narrowerTerm:
-- "[[Inland waters]]"
-relatedTerm:
-- "[[Waterways Estuaries]]"
-use:
+- "[[Rivers]]"
+- "[[Streams]]"
+usedFor:
 - "[[Water courses]]"
 ---

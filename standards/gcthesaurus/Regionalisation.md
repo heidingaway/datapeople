@@ -3,6 +3,6 @@ title: Regionalisation
 longTitle: 'Regionalisation'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Decentralization]]"
 ---

@@ -3,10 +3,11 @@ title: Transportation safety
 longTitle: 'Transportation safety'
 tags:
 - gccommon
-broaderTerm:
-- "[[Road safety Marine safety Railway safety Air safet]]"
+french:
+- "[[Securite des transports]]"
 narrowerTerm:
-- "[[Safety]]"
-relatedTerm:
-- "[[Transport]]"
+- "[[Air safety]]"
+- "[[Marine safety]]"
+- "[[Railway safety]]"
+- "[[Road safety]]"
 ---

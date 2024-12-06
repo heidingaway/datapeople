@@ -3,8 +3,12 @@ title: Mergers
 longTitle: 'Mergers'
 tags:
 - gccommon
+french:
+- "[[Fusion]]"
 relatedTerm:
-- "[[Conglomerates Acquisitions Businesses Integration ]]"
-use:
-- "[[Takeovers Amalgamation Mergers and acquisitions]]"
+- "[[Integration]]"
+usedFor:
+- "[[Amalgamation]]"
+- "[[Mergers and acquisitions]]"
+- "[[Takeovers]]"
 ---

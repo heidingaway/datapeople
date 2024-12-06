@@ -3,6 +3,6 @@ title: Health protection
 longTitle: 'Health protection'
 tags:
 - gccommon
-relatedTerm:
-- "[[Preventive medicine Health promotion Health hazard]]"
+french:
+- "[[Protection de la sante]]"
 ---

@@ -3,12 +3,17 @@ title: Forest management
 longTitle: 'Forest management'
 tags:
 - gccommon
-broaderTerm:
-- "[[Reforestation Afforestation Deforestation]]"
+french:
+- "[[Gestion forestiere]]"
 narrowerTerm:
-- "[[Environmental management]]"
-relatedTerm:
-- "[[Forestry policy Forestry technology Forests Forest]]"
-use:
-- "[[Forest resource management Forestry development Fo]]"
+- "[[Afforestation]]"
+- "[[Deforestation]]"
+- "[[Reforestation]]"
+usedFor:
+- "[[Forest administration]]"
+- "[[Forest resource management]]"
+- "[[Forest use]]"
+- "[[Forestry administration]]"
+- "[[Forestry development]]"
+- "[[Forestry management]]"
 ---

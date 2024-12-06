@@ -3,8 +3,8 @@ title: Teleconferencing
 longTitle: 'Teleconferencing'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Meetings]]"
-relatedTerm:
-- "[[Telecommunications]]"
+french:
+- "[[Teleconference]]"
 ---

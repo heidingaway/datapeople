@@ -3,6 +3,6 @@ title: Reafforestation
 longTitle: 'Reafforestation'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Reforestation]]"
 ---

@@ -3,8 +3,8 @@ title: Developing countries
 longTitle: 'Developing countries'
 tags:
 - gccommon
-relatedTerm:
-- "[[International development Economic development]]"
-use:
+french:
+- "[[Pays en developpement]]"
+usedFor:
 - "[[Third world]]"
 ---

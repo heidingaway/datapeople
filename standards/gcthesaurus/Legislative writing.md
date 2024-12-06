@@ -3,10 +3,8 @@ title: Legislative writing
 longTitle: 'Legislative writing'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Writing]]"
-relatedTerm:
-- "[[Legislation By-laws Regulations]]"
-use:
+french:
+- "[[Redaction des lois]]"
+usedFor:
 - "[[Legal writing]]"
 ---

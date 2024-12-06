@@ -3,6 +3,8 @@ title: By-elections
 longTitle: 'By-elections'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Elections]]"
+french:
+- "[[Election partielle]]"
 ---

@@ -3,6 +3,8 @@ title: By-laws
 longTitle: 'By-laws'
 tags:
 - gccommon
-relatedTerm:
-- "[[Local governments Regulations Legislative writing]]"
+french:
+- "[[Reglement administratif]]"
+scopeNote:
+- "Laws dealing with matters of local or internal reg"
 ---

@@ -3,12 +3,17 @@ title: Electronic equipment
 longTitle: 'Electronic equipment'
 tags:
 - gccommon
-broaderTerm:
-- "[[Computers]]"
+french:
+- "[[Equipement electronique]]"
 narrowerTerm:
-- "[[Equipment]]"
+- "[[Computers]]"
 relatedTerm:
-- "[[Electronics Electronics industry Electrical equipm]]"
-use:
-- "[[Electronic devices Electronic apparatus Electronic]]"
+- "[[Electronic waste]]"
+usedFor:
+- "[[Electronic apparatus]]"
+- "[[Electronic appliances]]"
+- "[[Electronic devices]]"
+- "[[Electronic instruments]]"
+- "[[Electronic materials]]"
+- "[[Electronic products]]"
 ---

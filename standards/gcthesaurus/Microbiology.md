@@ -3,12 +3,10 @@ title: Microbiology
 longTitle: 'Microbiology'
 tags:
 - gccommon
-broaderTerm:
-- "[[Bacteriology]]"
+french:
+- "[[Microbiologie]]"
 narrowerTerm:
-- "[[Biology]]"
-relatedTerm:
-- "[[Microorganisms]]"
-use:
+- "[[Bacteriology]]"
+usedFor:
 - "[[Virology]]"
 ---

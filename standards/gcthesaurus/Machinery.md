@@ -3,6 +3,6 @@ title: Machinery
 longTitle: 'Machinery'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Equipment]]"
 ---

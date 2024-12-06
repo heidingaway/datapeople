@@ -3,6 +3,6 @@ title: Executives
 longTitle: 'Executives'
 tags:
 - gccommon
-relatedTerm:
-- "[[Management]]"
+french:
+- "[[Personnel de direction]]"
 ---

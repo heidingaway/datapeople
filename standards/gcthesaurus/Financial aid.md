@@ -3,6 +3,6 @@ title: Financial aid
 longTitle: 'Financial aid'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Financial assistance]]"
 ---

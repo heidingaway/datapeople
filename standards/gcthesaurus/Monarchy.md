@@ -3,6 +3,8 @@ title: Monarchy
 longTitle: 'Monarchy'
 tags:
 - gccommon
-relatedTerm:
-- "[[Lieutenant Governor Governor General]]"
+french:
+- "[[Monarchie]]"
+scopeNote:
+- "Form of government in which the ultimate authority"
 ---

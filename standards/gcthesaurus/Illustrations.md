@@ -3,8 +3,8 @@ title: Illustrations
 longTitle: 'Illustrations'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Graphic arts]]"
+french:
+- "[[Illustration]]"
 relatedTerm:
 - "[[Drawings]]"
 ---

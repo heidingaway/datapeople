@@ -3,8 +3,8 @@ title: Materials technology
 longTitle: 'Materials technology'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Technology]]"
-use:
+french:
+- "[[Technologie des materiaux]]"
+usedFor:
 - "[[Materials engineering]]"
 ---

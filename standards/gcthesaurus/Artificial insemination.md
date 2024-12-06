@@ -3,8 +3,8 @@ title: Artificial insemination
 longTitle: 'Artificial insemination'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Reproductive technology]]"
-relatedTerm:
-- "[[Semen]]"
+french:
+- "[[Insemination artificielle]]"
 ---

@@ -3,8 +3,8 @@ title: Foreign languages
 longTitle: 'Foreign languages'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Languages]]"
-relatedTerm:
-- "[[Heritage languages]]"
+french:
+- "[[Langue etrangere]]"
+scopeNote:
+- "In Canada any language other than English French a"
 ---

@@ -3,8 +3,8 @@ title: Satellites
 longTitle: 'Satellites'
 tags:
 - gccommon
-relatedTerm:
-- "[[Remote sensing Telecommunications Global positioni]]"
-use:
+french:
+- "[[Satellite]]"
+usedFor:
 - "[[Communications satellites]]"
 ---

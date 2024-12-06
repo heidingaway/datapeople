@@ -3,8 +3,10 @@ title: Soil
 longTitle: 'Soil'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Sol]]"
+narrowerTerm:
 - "[[Permafrost]]"
 relatedTerm:
-- "[[Soil taxonomy Farmlands Soil conservation Soil qua]]"
+- "[[Soil taxonomy]]"
 ---

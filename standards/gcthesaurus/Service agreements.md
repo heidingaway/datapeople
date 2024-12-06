@@ -3,8 +3,8 @@ title: Service agreements
 longTitle: 'Service agreements'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Agreements]]"
+french:
+- "[[Accord de service]]"
 relatedTerm:
 - "[[Service contracts]]"
 ---

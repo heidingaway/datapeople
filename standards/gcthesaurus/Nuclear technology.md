@@ -3,10 +3,11 @@ title: Nuclear technology
 longTitle: 'Nuclear technology'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Technology]]"
-relatedTerm:
-- "[[Nuclear facilities Nuclear energy]]"
-use:
-- "[[Particle accelerators Nuclear reactors Nuclear equ]]"
+french:
+- "[[Technologie nucleaire]]"
+usedFor:
+- "[[Nuclear engineering]]"
+- "[[Nuclear equipment]]"
+- "[[Nuclear reactors]]"
+- "[[Particle accelerators]]"
 ---

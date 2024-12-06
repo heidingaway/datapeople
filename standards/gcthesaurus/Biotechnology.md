@@ -3,12 +3,11 @@ title: Biotechnology
 longTitle: 'Biotechnology'
 tags:
 - gccommon
-broaderTerm:
-- "[[Reproductive technology]]"
+french:
+- "[[Biotechnologie]]"
 narrowerTerm:
-- "[[Technology]]"
-relatedTerm:
-- "[[Genetic engineering Bioethics]]"
-use:
-- "[[Biological engineering Bioengineering]]"
+- "[[Reproductive technology]]"
+usedFor:
+- "[[Bioengineering]]"
+- "[[Biological engineering]]"
 ---

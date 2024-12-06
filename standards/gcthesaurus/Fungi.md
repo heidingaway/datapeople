@@ -3,10 +3,11 @@ title: Fungi
 longTitle: 'Fungi'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Living organisms]]"
+french:
+- "[[Champignon]]"
 relatedTerm:
 - "[[Fungicides]]"
-use:
-- "[[Mushrooms Molds Fungi Toadstools Moulds Fungi Yeas]]"
+usedFor:
+- "[[Mushrooms]]"
+- "[[Toadstools]]"
 ---

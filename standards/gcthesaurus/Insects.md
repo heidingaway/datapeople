@@ -3,10 +3,11 @@ title: Insects
 longTitle: 'Insects'
 tags:
 - gccommon
-broaderTerm:
-- "[[Butterflies]]"
+french:
+- "[[Insecte]]"
 narrowerTerm:
-- "[[Arthropods]]"
+- "[[Butterflies]]"
 relatedTerm:
-- "[[Entomology Insecticides]]"
+- "[[Entomology]]"
+- "[[Insecticides]]"
 ---

@@ -3,10 +3,17 @@ title: Computer security
 longTitle: 'Computer security'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Security]]"
+french:
+- "[[Securite informatique]]"
 relatedTerm:
-- "[[Cryptography Foreign interference Computers]]"
-use:
-- "[[Informatics security Computer system security Info]]"
+- "[[Foreign interference]]"
+usedFor:
+- "[[Computer system security]]"
+- "[[Cyber security]]"
+- "[[Cybersecurity]]"
+- "[[Data security]]"
+- "[[IT security]]"
+- "[[Informatics security]]"
+- "[[Information system security]]"
+- "[[Information technology security]]"
 ---

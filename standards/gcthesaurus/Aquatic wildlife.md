@@ -3,10 +3,13 @@ title: Aquatic wildlife
 longTitle: 'Aquatic wildlife'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Wildlife]]"
-relatedTerm:
-- "[[Aquatic animals Aquatic ecosystems]]"
-use:
-- "[[Marine wildlife Freshwater fauna Marine fauna Aqua]]"
+french:
+- "[[Faune aquatique]]"
+usedFor:
+- "[[Aquatic fauna]]"
+- "[[Freshwater fauna]]"
+- "[[Marine fauna]]"
+- "[[Marine wildlife]]"
 ---

@@ -3,6 +3,6 @@ title: Audio-visual equipment
 longTitle: 'Audio-visual equipment'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Audiovisual equipment]]"
 ---

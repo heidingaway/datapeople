@@ -3,10 +3,13 @@ title: Risk management
 longTitle: 'Risk management'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Management]]"
-relatedTerm:
-- "[[Internal audits]]"
-use:
-- "[[Risk analysis Risk assessment Risk protection Risk]]"
+french:
+- "[[Gestion des risques]]"
+scopeNote:
+- "The process of identifying controlling and minimiz"
+usedFor:
+- "[[Risk analysis]]"
+- "[[Risk assessment]]"
+- "[[Risk communication]]"
+- "[[Risk protection]]"
 ---

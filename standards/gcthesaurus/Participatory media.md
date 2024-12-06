@@ -3,6 +3,6 @@ title: Participatory media
 longTitle: 'Participatory media'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Social media]]"
 ---

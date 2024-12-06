@@ -3,10 +3,11 @@ title: Drug insurance
 longTitle: 'Drug insurance'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Insurance]]"
-relatedTerm:
-- "[[Health insurance Drugs Health care system]]"
-use:
-- "[[Pharmacare Pharmaceutical insurance Pharmacare pla]]"
+french:
+- "[[Assurance medicaments]]"
+usedFor:
+- "[[Drug insurance plan]]"
+- "[[Pharmacare]]"
+- "[[Pharmacare plan]]"
+- "[[Pharmaceutical insurance]]"
 ---

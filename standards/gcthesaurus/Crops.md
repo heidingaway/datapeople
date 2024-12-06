@@ -3,10 +3,18 @@ title: Crops
 longTitle: 'Crops'
 tags:
 - gccommon
-broaderTerm:
-- "[[Forage crops Fruit crops Vegetable crops]]"
+french:
+- "[[Cultures]]"
+narrowerTerm:
+- "[[Forage crops]]"
+- "[[Fruit crops]]"
+- "[[Vegetable crops]]"
 relatedTerm:
-- "[[Hydroponics Agri-food products Farmlands Harvest C]]"
-use:
-- "[[Farm crops Cultivated crops Field crops Agricultur]]"
+- "[[Crop rotation]]"
+- "[[Hydroponics]]"
+usedFor:
+- "[[Agricultural crops]]"
+- "[[Cultivated crops]]"
+- "[[Farm crops]]"
+- "[[Field crops]]"
 ---

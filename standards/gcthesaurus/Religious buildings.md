@@ -3,8 +3,8 @@ title: Religious buildings
 longTitle: 'Religious buildings'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Buildings]]"
+french:
+- "[[Edifice religieux]]"
 relatedTerm:
-- "[[Religious architecture Religion Religious heritage]]"
+- "[[Religious architecture]]"
 ---

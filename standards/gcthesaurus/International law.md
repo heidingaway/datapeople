@@ -3,8 +3,8 @@ title: International law
 longTitle: 'International law'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Law]]"
+french:
+- "[[Droit international]]"
 relatedTerm:
-- "[[International courts Extradition]]"
+- "[[International courts]]"
 ---

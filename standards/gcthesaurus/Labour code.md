@@ -3,8 +3,8 @@ title: Labour code
 longTitle: 'Labour code'
 tags:
 - gccommon
-relatedTerm:
-- "[[Labour law Labour standards]]"
-use:
+french:
+- "[[Code du travail]]"
+usedFor:
 - "[[Labor code]]"
 ---

@@ -4,11 +4,12 @@ longTitle: 'Digitization'
 tags:
 - gccommon
 broaderTerm:
-- "[[Digitized information]]"
-narrowerTerm:
 - "[[Data processing]]"
-relatedTerm:
-- "[[Conservation]]"
-use:
-- "[[Scanning Imaging]]"
+french:
+- "[[Numerisation]]"
+scopeNote:
+- "Recording information in digital format"
+usedFor:
+- "[[Imaging]]"
+- "[[Scanning]]"
 ---

@@ -3,8 +3,10 @@ title: Furs
 longTitle: 'Furs'
 tags:
 - gccommon
-relatedTerm:
-- "[[Animal husbandry Clothing Seals]]"
-use:
+french:
+- "[[Fourrure]]"
+scopeNote:
+- "The hair or hair-covered skins that covers the bod"
+usedFor:
 - "[[Fur industry]]"
 ---

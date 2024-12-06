@@ -3,10 +3,10 @@ title: Collaborative research
 longTitle: 'Collaborative research'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Research]]"
-relatedTerm:
-- "[[Partnerships Cooperation]]"
-use:
-- "[[Partnership research Cooperative research Joint re]]"
+french:
+- "[[Recherche cooperative]]"
+usedFor:
+- "[[Cooperative research]]"
+- "[[Joint research]]"
+- "[[Partnership research]]"
 ---

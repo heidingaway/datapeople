@@ -3,6 +3,6 @@ title: Agricultural buildings
 longTitle: 'Agricultural buildings'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Farm buildings]]"
 ---

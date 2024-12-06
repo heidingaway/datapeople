@@ -3,8 +3,8 @@ title: Terrestrial ecosystems
 longTitle: 'Terrestrial ecosystems'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Ecosystems]]"
-use:
+french:
+- "[[Ecosysteme terrestre]]"
+usedFor:
 - "[[Land ecosystems]]"
 ---

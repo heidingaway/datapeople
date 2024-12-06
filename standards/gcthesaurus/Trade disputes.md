@@ -3,8 +3,8 @@ title: Trade disputes
 longTitle: 'Trade disputes'
 tags:
 - gccommon
-relatedTerm:
-- "[[Trade negotiations Trade agreements]]"
-use:
+french:
+- "[[Differend commercial]]"
+usedFor:
 - "[[Trade conflicts]]"
 ---

@@ -4,7 +4,9 @@ longTitle: 'Office supplies'
 tags:
 - gccommon
 broaderTerm:
-- "[[Stationery]]"
-narrowerTerm:
 - "[[Supplies]]"
+french:
+- "[[Fournitures de bureau]]"
+narrowerTerm:
+- "[[Stationery]]"
 ---

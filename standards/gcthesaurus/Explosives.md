@@ -3,10 +3,13 @@ title: Explosives
 longTitle: 'Explosives'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Hazardous materials]]"
+french:
+- "[[Explosif]]"
 relatedTerm:
-- "[[Weapons Chemicals Explosions]]"
-use:
-- "[[Explosive devices Explosive products Explosive mat]]"
+- "[[Explosions]]"
+usedFor:
+- "[[Explosive devices]]"
+- "[[Explosive materials]]"
+- "[[Explosive products]]"
+- "[[Explosive substances]]"
 ---

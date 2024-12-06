@@ -3,10 +3,11 @@ title: Intelligent transportation systems
 longTitle: 'Intelligent transportation systems'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Intelligent systems]]"
-relatedTerm:
-- "[[Transport]]"
-use:
-- "[[Intelligent transport systems Intelligent vehicle ]]"
+french:
+- "[[Systeme de transport intelligent]]"
+usedFor:
+- "[[Intelligent transport systems]]"
+- "[[Intelligent vehicle highway systems]]"
 ---

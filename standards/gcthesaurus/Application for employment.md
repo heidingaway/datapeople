@@ -3,6 +3,6 @@ title: Application for employment
 longTitle: 'Application for employment'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Job applications]]"
 ---

@@ -3,6 +3,6 @@ title: Drug labeling
 longTitle: 'Drug labeling'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Drug labelling]]"
 ---

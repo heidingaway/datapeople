@@ -3,6 +3,6 @@ title: Renting
 longTitle: 'Renting'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Leasing]]"
 ---

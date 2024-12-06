@@ -3,6 +3,6 @@ title: Modeling
 longTitle: 'Modeling'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Modelling]]"
 ---

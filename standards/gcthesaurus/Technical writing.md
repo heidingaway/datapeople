@@ -3,8 +3,8 @@ title: Technical writing
 longTitle: 'Technical writing'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Writing]]"
+french:
+- "[[Redaction technique]]"
 relatedTerm:
-- "[[Technical reports Administrative writing]]"
+- "[[Technical reports]]"
 ---

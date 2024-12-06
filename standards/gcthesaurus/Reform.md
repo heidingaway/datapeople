@@ -3,8 +3,10 @@ title: Reform
 longTitle: 'Reform'
 tags:
 - gccommon
+french:
+- "[[Reforme]]"
 relatedTerm:
-- "[[Transformation Diversification]]"
-use:
-- "[[Renewal Change]]"
+- "[[Diversification]]"
+usedFor:
+- "[[Renewal]]"
 ---

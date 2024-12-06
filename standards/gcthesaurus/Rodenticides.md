@@ -3,8 +3,8 @@ title: Rodenticides
 longTitle: 'Rodenticides'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Pesticides]]"
+french:
+- "[[Rodenticide]]"
 relatedTerm:
 - "[[Rodents]]"
 ---

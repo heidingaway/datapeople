@@ -3,12 +3,12 @@ title: Intelligent systems
 longTitle: 'Intelligent systems'
 tags:
 - gccommon
-broaderTerm:
-- "[[Intelligent transportation systems]]"
+french:
+- "[[Systeme intelligent]]"
 narrowerTerm:
-- "[[Systems]]"
-relatedTerm:
-- "[[Artificial intelligence Information systems Inform]]"
-use:
-- "[[Artificial intelligence systems Knowledge-based sy]]"
+- "[[Intelligent transportation systems]]"
+usedFor:
+- "[[Artificial intelligence systems]]"
+- "[[Expert systems]]"
+- "[[Knowledge-based systems]]"
 ---

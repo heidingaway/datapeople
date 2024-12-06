@@ -3,8 +3,11 @@ title: Grains
 longTitle: 'Grains'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Agri-food products]]"
+french:
+- "[[Grain]]"
 relatedTerm:
-- "[[Grain elevators Cereals]]"
+- "[[Cereals]]"
+- "[[Grain elevators]]"
+scopeNote:
+- "Includes seed grain and edible grains like cereals"
 ---

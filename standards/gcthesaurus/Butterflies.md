@@ -3,8 +3,10 @@ title: Butterflies
 longTitle: 'Butterflies'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Insects]]"
-use:
+french:
+- "[[Papillon]]"
+usedFor:
 - "[[Moths]]"
 ---

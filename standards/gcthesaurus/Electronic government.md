@@ -3,8 +3,16 @@ title: Electronic government
 longTitle: 'Electronic government'
 tags:
 - gccommon
-relatedTerm:
-- "[[Electronic commerce Internet Government services P]]"
-use:
-- "[[Government On-Line Online government Electronic ad]]"
+french:
+- "[[Gouvernement en ligne]]"
+usedFor:
+- "[[Cybergovernment]]"
+- "[[Digital government]]"
+- "[[E-administration]]"
+- "[[E-government]]"
+- "[[Electronic administration]]"
+- "[[GOL]]"
+- "[[Government On-Line]]"
+- "[[Government Online]]"
+- "[[Online government]]"
 ---

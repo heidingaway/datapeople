@@ -3,6 +3,8 @@ title: Solar heating
 longTitle: 'Solar heating'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Heating]]"
+french:
+- "[[Chauffage solaire]]"
 ---

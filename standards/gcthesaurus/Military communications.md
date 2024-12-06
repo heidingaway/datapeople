@@ -3,6 +3,6 @@ title: Military communications
 longTitle: 'Military communications'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Communications]]"
+french:
+- "[[Communications militaires]]"
 ---

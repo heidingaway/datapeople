@@ -3,8 +3,8 @@ title: Foreign investments
 longTitle: 'Foreign investments'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Investments]]"
-use:
+french:
+- "[[Investissement etranger]]"
+usedFor:
 - "[[International investments]]"
 ---

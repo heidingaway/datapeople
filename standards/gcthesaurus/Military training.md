@@ -3,8 +3,8 @@ title: Military training
 longTitle: 'Military training'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Training]]"
+french:
+- "[[Formation militaire]]"
 relatedTerm:
-- "[[Military personnel Military colleges]]"
+- "[[Military colleges]]"
 ---

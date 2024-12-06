@@ -3,6 +3,6 @@ title: Bacteriological warfare
 longTitle: 'Bacteriological warfare'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Biological warfare]]"
 ---

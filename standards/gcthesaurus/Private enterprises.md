@@ -3,6 +3,6 @@ title: Private enterprises
 longTitle: 'Private enterprises'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Private sector]]"
 ---

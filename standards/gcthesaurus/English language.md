@@ -3,10 +3,10 @@ title: English language
 longTitle: 'English language'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Languages]]"
+french:
+- "[[Anglais]]"
 relatedTerm:
-- "[[English second language Official languages]]"
-use:
+- "[[English second language]]"
+usedFor:
 - "[[English]]"
 ---

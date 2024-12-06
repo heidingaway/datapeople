@@ -3,8 +3,10 @@ title: Learning
 longTitle: 'Learning'
 tags:
 - gccommon
-relatedTerm:
-- "[[Coaching Training Education]]"
-use:
+french:
+- "[[Apprentissage]]"
+scopeNote:
+- "Process of acquiring knowledge or the actual posse"
+usedFor:
 - "[[Knowledge acquisition]]"
 ---

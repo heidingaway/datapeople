@@ -3,6 +3,6 @@ title: Census data
 longTitle: 'Census data'
 tags:
 - gccommon
-relatedTerm:
-- "[[Census Demographic data]]"
+french:
+- "[[Donnees du recensement]]"
 ---

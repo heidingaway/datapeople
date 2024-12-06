@@ -3,8 +3,8 @@ title: Ornithology
 longTitle: 'Ornithology'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Zoology]]"
+french:
+- "[[Ornithologie]]"
 relatedTerm:
 - "[[Birds]]"
 ---

@@ -3,6 +3,6 @@ title: Motion picture industry
 longTitle: 'Motion picture industry'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Film industry]]"
 ---

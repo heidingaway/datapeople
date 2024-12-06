@@ -3,10 +3,18 @@ title: Medicine
 longTitle: 'Medicine'
 tags:
 - gccommon
-broaderTerm:
-- "[[Alternative medicine Nuclear medicine Preventive m]]"
+french:
+- "[[Medecine]]"
 narrowerTerm:
-- "[[Health sciences]]"
+- "[[Alternative medicine]]"
+- "[[Forensics]]"
+- "[[Nuclear medicine]]"
+- "[[Preventive medicine]]"
+- "[[Surgery]]"
+- "[[Telemedicine]]"
+- "[[Veterinary medicine]]"
 relatedTerm:
-- "[[Anatomy Medical research Therapy Medical technolog]]"
+- "[[Medical law]]"
+scopeNote:
+- "Discipline dedicated to the prevention and treatme"
 ---

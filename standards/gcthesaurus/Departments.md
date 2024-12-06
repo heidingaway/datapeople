@@ -4,9 +4,14 @@ longTitle: 'Departments'
 tags:
 - gccommon
 broaderTerm:
-- "[[Divisions Sections Services Branches]]"
-narrowerTerm:
 - "[[Public administration]]"
+french:
+- "[[Ministere]]"
+narrowerTerm:
+- "[[Branches]]"
+- "[[Divisions]]"
+- "[[Sections]]"
+- "[[Services]]"
 relatedTerm:
 - "[[Government departments]]"
 ---

@@ -3,8 +3,8 @@ title: Armouries
 longTitle: 'Armouries'
 tags:
 - gccommon
-relatedTerm:
-- "[[Weapons]]"
-use:
+french:
+- "[[Arsenal]]"
+usedFor:
 - "[[Armories]]"
 ---

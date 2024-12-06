@@ -3,6 +3,6 @@ title: Fiduciary duty
 longTitle: 'Fiduciary duty'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Fiduciary obligations]]"
 ---

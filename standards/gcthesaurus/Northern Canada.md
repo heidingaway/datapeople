@@ -3,8 +3,14 @@ title: Northern Canada
 longTitle: 'Northern Canada'
 tags:
 - gccommon
-relatedTerm:
-- "[[Northerners Northern development Northern studies ]]"
-use:
-- "[[Northern regions of Canada Arctic regions of Canad]]"
+french:
+- "[[Nord canadien]]"
+usedFor:
+- "[[Arctic regions of Canada]]"
+- "[[Canadas Arctic]]"
+- "[[Canadas North]]"
+- "[[Canadian Arctic]]"
+- "[[Canadian North]]"
+- "[[North of Canada]]"
+- "[[Northern regions of Canada]]"
 ---

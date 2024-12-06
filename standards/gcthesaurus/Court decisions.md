@@ -4,11 +4,19 @@ longTitle: 'Court decisions'
 tags:
 - gccommon
 broaderTerm:
-- "[[Conviction Acquittal]]"
-narrowerTerm:
 - "[[Decisions]]"
-relatedTerm:
-- "[[Appeals Courts Justice system]]"
-use:
-- "[[Precedents Verdicts Sentencing Sentences Legal dec]]"
+french:
+- "[[Decision du tribunal]]"
+narrowerTerm:
+- "[[Acquittal]]"
+- "[[Conviction]]"
+scopeNote:
+- "A decision of a court or judge"
+usedFor:
+- "[[Adjudication]]"
+- "[[Legal decisions]]"
+- "[[Precedents]]"
+- "[[Sentences]]"
+- "[[Sentencing]]"
+- "[[Verdicts]]"
 ---

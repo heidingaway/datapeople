@@ -3,10 +3,15 @@ title: Scientists
 longTitle: 'Scientists'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Occupations]]"
+french:
+- "[[Scientifique]]"
 relatedTerm:
-- "[[Natural sciences Environmental sciences Life scien]]"
-use:
-- "[[Scientific researchers Scientific community]]"
+- "[[Earth sciences]]"
+- "[[Life sciences]]"
+- "[[Physical sciences]]"
+usedFor:
+- "[[Scientific community]]"
+- "[[Scientific researchers]]"
 ---

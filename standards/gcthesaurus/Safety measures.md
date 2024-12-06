@@ -3,8 +3,10 @@ title: Safety measures
 longTitle: 'Safety measures'
 tags:
 - gccommon
-relatedTerm:
-- "[[Fire prevention Safety Aircraft anti-icing Aircraf]]"
-use:
-- "[[Safety procedures Protective measures Safety preca]]"
+french:
+- "[[Mesure de securite]]"
+usedFor:
+- "[[Protective measures]]"
+- "[[Safety precautions]]"
+- "[[Safety procedures]]"
 ---

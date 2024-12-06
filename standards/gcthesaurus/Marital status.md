@@ -3,8 +3,11 @@ title: Marital status
 longTitle: 'Marital status'
 tags:
 - gccommon
-relatedTerm:
-- "[[Common-law unions Family law Divorce Marriage]]"
-use:
-- "[[Marital situation Conjugal status]]"
+french:
+- "[[Etat matrimonial]]"
+scopeNote:
+- "Legal status of a person regarding marriage single"
+usedFor:
+- "[[Conjugal status]]"
+- "[[Marital situation]]"
 ---

@@ -3,6 +3,6 @@ title: Domestic life
 longTitle: 'Domestic life'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Daily life]]"
 ---

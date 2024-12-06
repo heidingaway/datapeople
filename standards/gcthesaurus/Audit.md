@@ -3,8 +3,8 @@ title: Audit
 longTitle: 'Audit'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Verification]]"
+narrowerTerm:
 - "[[Financial audit]]"
-relatedTerm:
-- "[[Control Review]]"
 ---

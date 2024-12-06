@@ -3,8 +3,8 @@ title: Hard rocks
 longTitle: 'Hard rocks'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Geology Earth sciences]]"
+french:
+- "[[Roche dure]]"
 relatedTerm:
 - "[[Igneous rocks]]"
 ---

@@ -3,8 +3,10 @@ title: Pollution prevention
 longTitle: 'Pollution prevention'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Prevention]]"
+french:
+- "[[Prevention de la pollution]]"
 relatedTerm:
-- "[[Pollution Alternative energy Environmental protect]]"
+- "[[Clean technology]]"
+scopeNote:
+- "Reduction or elimination of pollution at the sourc"
 ---

@@ -3,6 +3,6 @@ title: Womens status
 longTitle: 'Women's status'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Status of women]]"
 ---

@@ -5,8 +5,7 @@ tags:
 - gccommon
 french:
 - "[[Propane]]"
-narrowerTerm:
-- "[[Gases Fuels]]"
-use:
-- "[[Dimethylmethane Propane gas]]"
+usedFor:
+- "[[Dimethylmethane]]"
+- "[[Propane gas]]"
 ---

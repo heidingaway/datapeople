@@ -3,6 +3,6 @@ title: Transnational data flow
 longTitle: 'Transnational data flow'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Transborder data flow]]"
 ---

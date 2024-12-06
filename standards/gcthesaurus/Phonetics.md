@@ -3,6 +3,6 @@ title: Phonetics
 longTitle: 'Phonetics'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Pronunciation]]"
 ---

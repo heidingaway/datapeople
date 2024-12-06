@@ -3,6 +3,6 @@ title: Telegrams
 longTitle: 'Telegrams'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Telegraph]]"
 ---

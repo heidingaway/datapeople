@@ -3,10 +3,9 @@ title: Scientific research
 longTitle: 'Scientific research'
 tags:
 - gccommon
-broaderTerm:
-- "[[Medical research Animal research]]"
+french:
+- "[[Recherche scientifique]]"
 narrowerTerm:
-- "[[Research]]"
-relatedTerm:
-- "[[Bioassay Sciences Scientific equipment]]"
+- "[[Animal research]]"
+- "[[Medical research]]"
 ---

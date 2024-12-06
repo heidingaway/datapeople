@@ -3,12 +3,13 @@ title: Alternative energy
 longTitle: 'Alternative energy'
 tags:
 - gccommon
-broaderTerm:
-- "[[Alternative fuels]]"
-narrowerTerm:
-- "[[Energy]]"
-relatedTerm:
-- "[[Pollution prevention Energy technology Renewable e]]"
-use:
-- "[[Soft energy Pollution-free energy Non-conventional]]"
+french:
+- "[[Energie de remplacement]]"
+scopeNote:
+- "Energy renewable or not less polluting than energy"
+usedFor:
+- "[[Clean energy]]"
+- "[[Non-conventional energy]]"
+- "[[Pollution-free energy]]"
+- "[[Soft energy]]"
 ---

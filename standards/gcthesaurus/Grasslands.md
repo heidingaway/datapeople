@@ -3,8 +3,13 @@ title: Grasslands
 longTitle: 'Grasslands'
 tags:
 - gccommon
+french:
+- "[[Paturage]]"
 relatedTerm:
-- "[[Animal husbandry Livestock Forage crops Prairie ec]]"
-use:
-- "[[Grazing lands Pasture lands Pasturelands Pastures]]"
+- "[[Prairie ecosystems]]"
+usedFor:
+- "[[Grazing lands]]"
+- "[[Pasture lands]]"
+- "[[Pasturelands]]"
+- "[[Pastures]]"
 ---

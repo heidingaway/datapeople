@@ -3,10 +3,10 @@ title: Military aviation
 longTitle: 'Military aviation'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Aviation]]"
+french:
+- "[[Aviation militaire]]"
 relatedTerm:
 - "[[Military aircraft]]"
-use:
+usedFor:
 - "[[Military aeronautics]]"
 ---

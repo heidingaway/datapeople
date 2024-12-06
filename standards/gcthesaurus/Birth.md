@@ -3,8 +3,10 @@ title: Birth
 longTitle: 'Birth'
 tags:
 - gccommon
+french:
+- "[[Naissance]]"
 relatedTerm:
-- "[[Perinatal care Infants Pregnancy Family planning B]]"
-use:
+- "[[Birth certificates]]"
+usedFor:
 - "[[Childbirth]]"
 ---

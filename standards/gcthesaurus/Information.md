@@ -3,12 +3,16 @@ title: Information
 longTitle: 'Information'
 tags:
 - gccommon
-broaderTerm:
-- "[[Government information Scientific information Digi]]"
 french:
 - "[[Information]]"
+narrowerTerm:
+- "[[Electronic information]]"
+- "[[Government information]]"
+- "[[Scientific information]]"
 relatedTerm:
-- "[[Signs Knowledge based economy Information policy I]]"
-use:
-- "[[Information science Information sources]]"
+- "[[Contact]]"
+- "[[Knowledge based economy]]"
+usedFor:
+- "[[Information science]]"
+- "[[Information sources]]"
 ---

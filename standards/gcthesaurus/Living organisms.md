@@ -3,10 +3,15 @@ title: Living organisms
 longTitle: 'Living organisms'
 tags:
 - gccommon
-broaderTerm:
-- "[[Genetically modified organisms Microorganisms Plan]]"
-relatedTerm:
-- "[[Biology]]"
-use:
+french:
+- "[[Organisme vivant]]"
+narrowerTerm:
+- "[[Animals]]"
+- "[[Fungi]]"
+- "[[Genetically modified organisms]]"
+- "[[Microorganisms]]"
+- "[[Pests]]"
+- "[[Plants]]"
+usedFor:
 - "[[Biological organisms]]"
 ---

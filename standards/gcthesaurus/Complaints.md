@@ -3,8 +3,8 @@ title: Complaints
 longTitle: 'Complaints'
 tags:
 - gccommon
-relatedTerm:
-- "[[Claims Appeals]]"
-use:
+french:
+- "[[Plainte]]"
+usedFor:
 - "[[Grievances]]"
 ---

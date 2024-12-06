@@ -3,10 +3,10 @@ title: Pleasure craft
 longTitle: 'Pleasure craft'
 tags:
 - gccommon
-broaderTerm:
-- "[[Sailboats]]"
+french:
+- "[[Bateau de plaisance]]"
 narrowerTerm:
-- "[[Vessels]]"
+- "[[Sailboats]]"
 relatedTerm:
 - "[[Marinas]]"
 ---

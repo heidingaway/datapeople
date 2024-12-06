@@ -3,6 +3,6 @@ title: Building materials
 longTitle: 'Building materials'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Construction materials]]"
 ---

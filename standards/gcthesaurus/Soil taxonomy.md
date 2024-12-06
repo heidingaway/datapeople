@@ -3,10 +3,10 @@ title: Soil taxonomy
 longTitle: 'Soil taxonomy'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Taxonomy]]"
-relatedTerm:
-- "[[Soil]]"
-use:
+french:
+- "[[Classification des sols]]"
+usedFor:
 - "[[Soil classification]]"
 ---

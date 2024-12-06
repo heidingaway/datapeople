@@ -3,8 +3,10 @@ title: Winter sports
 longTitle: 'Winter sports'
 tags:
 - gccommon
-broaderTerm:
-- "[[Skiing Skating Hockey]]"
+french:
+- "[[Sport dhiver]]"
 narrowerTerm:
-- "[[Sports]]"
+- "[[Hockey]]"
+- "[[Skating]]"
+- "[[Skiing]]"
 ---

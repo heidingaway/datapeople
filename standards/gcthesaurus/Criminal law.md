@@ -3,8 +3,8 @@ title: Criminal law
 longTitle: 'Criminal law'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Law]]"
+french:
+- "[[Droit criminel]]"
 relatedTerm:
-- "[[Criminal justice Crime Criminal code]]"
+- "[[Criminal code]]"
 ---

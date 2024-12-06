@@ -3,12 +3,14 @@ title: International cooperation
 longTitle: 'International cooperation'
 tags:
 - gccommon
-broaderTerm:
-- "[[Foreign aid]]"
+french:
+- "[[Cooperation internationale]]"
 narrowerTerm:
-- "[[Cooperation]]"
+- "[[Foreign aid]]"
 relatedTerm:
-- "[[International organizations East-West relations In]]"
-use:
-- "[[International assistance International aid]]"
+- "[[East-West relations]]"
+- "[[North-South relations]]"
+usedFor:
+- "[[International aid]]"
+- "[[International assistance]]"
 ---

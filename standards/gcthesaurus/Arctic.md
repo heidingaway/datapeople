@@ -3,10 +3,11 @@ title: Arctic
 longTitle: 'Arctic'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Polar regions]]"
+french:
+- "[[Arctique]]"
 relatedTerm:
-- "[[Arctic ecosystems Northern Canada]]"
-use:
-- "[[North Pole Arctic regions]]"
+- "[[Arctic ecosystems]]"
+usedFor:
+- "[[Arctic regions]]"
+- "[[North Pole]]"
 ---

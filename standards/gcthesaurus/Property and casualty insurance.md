@@ -3,8 +3,6 @@ title: Property and casualty insurance
 longTitle: 'Property and casualty insurance'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Insurance]]"
-relatedTerm:
-- "[[Property]]"
+french:
+- "[[Assurance sur les biens et risques]]"
 ---

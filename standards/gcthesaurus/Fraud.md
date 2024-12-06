@@ -3,8 +3,8 @@ title: Fraud
 longTitle: 'Fraud'
 tags:
 - gccommon
-broaderTerm:
-- "[[Forgery Tax fraud]]"
+french:
+- "[[Fraude]]"
 narrowerTerm:
-- "[[Fugitives from justice Crime]]"
+- "[[Forgery]]"
 ---

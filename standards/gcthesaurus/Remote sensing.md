@@ -3,8 +3,14 @@ title: Remote sensing
 longTitle: 'Remote sensing'
 tags:
 - gccommon
-broaderTerm:
-- "[[Digital elevation data Satellite imagery Satellite]]"
+french:
+- "[[Teledetection]]"
+narrowerTerm:
+- "[[Digital elevation data]]"
+- "[[Satellite imagery]]"
+- "[[Satellite images]]"
 relatedTerm:
-- "[[Satellites Aerial photography]]"
+- "[[Aerial photography]]"
+scopeNote:
+- "Refers to the group of techniques and processes us"
 ---

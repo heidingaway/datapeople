@@ -3,6 +3,6 @@ title: Nominations
 longTitle: 'Nominations'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Appointments]]"
 ---

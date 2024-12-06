@@ -3,6 +3,6 @@ title: Catalogs
 longTitle: 'Catalogs'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Catalogues]]"
 ---

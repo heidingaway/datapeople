@@ -3,8 +3,9 @@ title: Shortage
 longTitle: 'Shortage'
 tags:
 - gccommon
-relatedTerm:
-- "[[Supply]]"
-use:
-- "[[Scarcity Short supply]]"
+french:
+- "[[Penurie]]"
+usedFor:
+- "[[Scarcity]]"
+- "[[Short supply]]"
 ---

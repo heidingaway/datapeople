@@ -4,9 +4,12 @@ longTitle: 'Open government'
 tags:
 - gccommon
 broaderTerm:
-- "[[Freedom of information]]"
+- "[[Accountability]]"
+- "[[Government policy]]"
+french:
+- "[[Gouvernement ouvert]]"
 narrowerTerm:
-- "[[Accountability Government information Government p]]"
+- "[[Freedom of information]]"
 relatedTerm:
-- "[[Access to information Open data Citizen participat]]"
+- "[[Open data]]"
 ---

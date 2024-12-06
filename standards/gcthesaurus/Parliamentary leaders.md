@@ -3,10 +3,15 @@ title: Parliamentary leaders
 longTitle: 'Parliamentary leaders'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Leader parlementaire]]"
+narrowerTerm:
 - "[[Government leader]]"
-relatedTerm:
-- "[[Parliament Political parties]]"
-use:
-- "[[House leaders Opposition House leader Leader of th]]"
+scopeNote:
+- "A parliamentary leader is a member of a political "
+usedFor:
+- "[[House leaders]]"
+- "[[Leader of the opposition in the House of Commons]]"
+- "[[Leader of the opposition in the Senate]]"
+- "[[Opposition House leader]]"
 ---

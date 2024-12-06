@@ -3,6 +3,8 @@ title: Inuvialuit
 longTitle: 'Inuvialuit'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Inuit]]"
+scopeNote:
+- "The Inuvialuit are Inuit who live in the Arctic re"
 ---

@@ -3,6 +3,6 @@ title: Bulletins
 longTitle: 'Bulletins'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Newsletters]]"
 ---

@@ -3,10 +3,10 @@ title: Electrical appliances
 longTitle: 'Electrical appliances'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Electrical equipment]]"
-relatedTerm:
-- "[[Household equipment]]"
-use:
+french:
+- "[[Appareil electrique]]"
+usedFor:
 - "[[Electric appliances]]"
 ---

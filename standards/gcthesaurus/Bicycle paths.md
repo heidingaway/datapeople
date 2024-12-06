@@ -3,8 +3,15 @@ title: Bicycle paths
 longTitle: 'Bicycle paths'
 tags:
 - gccommon
-relatedTerm:
-- "[[Cycling Recreational facilities]]"
-use:
-- "[[Bike paths Bike lanes Bicycle trails Bike trails B]]"
+french:
+- "[[Piste cyclable]]"
+usedFor:
+- "[[Bicycle lanes]]"
+- "[[Bicycle trails]]"
+- "[[Bike lanes]]"
+- "[[Bike paths]]"
+- "[[Bike trails]]"
+- "[[Biking trails]]"
+- "[[Cycling paths]]"
+- "[[Cycling trails]]"
 ---

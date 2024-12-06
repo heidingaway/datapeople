@@ -3,6 +3,6 @@ title: Health products
 longTitle: 'Health products'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Health care products]]"
 ---

@@ -3,8 +3,8 @@ title: Antarctic
 longTitle: 'Antarctic'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Polar regions]]"
-use:
+french:
+- "[[Antarctique]]"
+usedFor:
 - "[[South Pole]]"
 ---

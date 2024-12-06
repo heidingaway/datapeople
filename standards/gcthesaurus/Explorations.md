@@ -3,8 +3,8 @@ title: Explorations
 longTitle: 'Explorations'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Exploration]]"
+narrowerTerm:
 - "[[Space exploration]]"
-relatedTerm:
-- "[[Pioneers Colonization]]"
 ---

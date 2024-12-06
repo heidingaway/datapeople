@@ -3,6 +3,6 @@ title: Rural areas
 longTitle: 'Rural areas'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Rural environment]]"
 ---

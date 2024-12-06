@@ -3,10 +3,10 @@ title: Quality control
 longTitle: 'Quality control'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Control]]"
+french:
+- "[[Controle de la qualite]]"
 relatedTerm:
-- "[[Quality standards Best practices]]"
-use:
+- "[[Quality standards]]"
+usedFor:
 - "[[Quality assessment]]"
 ---

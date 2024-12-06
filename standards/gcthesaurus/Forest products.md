@@ -3,6 +3,6 @@ title: Forest products
 longTitle: 'Forest products'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Forestry products]]"
 ---

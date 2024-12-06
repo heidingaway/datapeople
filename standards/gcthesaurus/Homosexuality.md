@@ -3,6 +3,6 @@ title: Homosexuality
 longTitle: 'Homosexuality'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Sexual orientation]]"
 ---

@@ -3,8 +3,8 @@ title: Family law
 longTitle: 'Family law'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Civil law]]"
-relatedTerm:
-- "[[Marital status Adoption Child custody Divorce Marr]]"
+french:
+- "[[Droit de la famille]]"
 ---

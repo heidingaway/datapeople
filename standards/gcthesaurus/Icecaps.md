@@ -3,6 +3,6 @@ title: Icecaps
 longTitle: 'Icecaps'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Ice caps]]"
 ---

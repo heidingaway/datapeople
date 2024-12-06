@@ -3,6 +3,6 @@ title: Layoffs
 longTitle: 'Layoffs'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Termination of employment]]"
 ---

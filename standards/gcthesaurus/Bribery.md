@@ -3,6 +3,6 @@ title: Bribery
 longTitle: 'Bribery'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Corruption]]"
 ---

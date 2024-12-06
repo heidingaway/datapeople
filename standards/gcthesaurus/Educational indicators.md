@@ -3,6 +3,6 @@ title: Educational indicators
 longTitle: 'Educational indicators'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Education indicators]]"
 ---

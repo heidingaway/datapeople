@@ -3,6 +3,6 @@ title: Competitive intelligence
 longTitle: 'Competitive intelligence'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Business intelligence]]"
 ---

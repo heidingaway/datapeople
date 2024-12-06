@@ -3,8 +3,8 @@ title: Railway installations
 longTitle: 'Railway installations'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Installations ferroviaires]]"
+narrowerTerm:
 - "[[Train stations]]"
-relatedTerm:
-- "[[Rail transport]]"
 ---

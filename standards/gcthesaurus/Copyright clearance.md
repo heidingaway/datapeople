@@ -3,6 +3,8 @@ title: Copyright clearance
 longTitle: 'Copyright clearance'
 tags:
 - gccommon
-relatedTerm:
-- "[[Publishing Copyright]]"
+french:
+- "[[Affranchissement des droits]]"
+scopeNote:
+- "The process of identifying if a literary musical o"
 ---

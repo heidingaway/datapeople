@@ -3,8 +3,8 @@ title: Vital statistics
 longTitle: 'Vital statistics'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Statistics]]"
-relatedTerm:
-- "[[Birth rate Death rate]]"
+french:
+- "[[Statistiques de letat civil]]"
+scopeNote:
+- "Statistics of vital events births deaths marriages"
 ---

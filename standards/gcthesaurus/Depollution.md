@@ -3,6 +3,6 @@ title: Depollution
 longTitle: 'Depollution'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Decontamination]]"
 ---

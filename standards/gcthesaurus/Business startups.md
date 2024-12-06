@@ -3,6 +3,6 @@ title: Business startups
 longTitle: 'Business startups'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Business start-ups]]"
 ---

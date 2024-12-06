@@ -3,6 +3,6 @@ title: Welfare state
 longTitle: 'Welfare state'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Social policy]]"
 ---

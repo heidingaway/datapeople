@@ -3,10 +3,13 @@ title: Public expenditures
 longTitle: 'Public expenditures'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Expenditures]]"
-relatedTerm:
-- "[[Estimates National income]]"
-use:
-- "[[Public spending Government expenditures]]"
+french:
+- "[[Depenses publiques]]"
+scopeNote:
+- "Total public sector expenses of a country It inclu"
+usedFor:
+- "[[Government expenditures]]"
+- "[[Public spending]]"
 ---

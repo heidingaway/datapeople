@@ -3,6 +3,6 @@ title: Trout
 longTitle: 'Trout'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Freshwater fish]]"
 ---

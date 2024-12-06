@@ -3,8 +3,14 @@ title: Vehicles
 longTitle: 'Vehicles'
 tags:
 - gccommon
-broaderTerm:
-- "[[Motor vehicles Hovercraft Trains Vessels Aircraft]]"
-relatedTerm:
-- "[[Transport]]"
+french:
+- "[[Vehicule]]"
+narrowerTerm:
+- "[[Aircraft]]"
+- "[[Hovercraft]]"
+- "[[Motor vehicles]]"
+- "[[Trains]]"
+- "[[Vessels]]"
+scopeNote:
+- "Devices used for transportation of people other li"
 ---

@@ -3,12 +3,21 @@ title: Natural disasters
 longTitle: 'Natural disasters'
 tags:
 - gccommon
-broaderTerm:
-- "[[Landslides Storms Drought Avalanches Floods Tsunam]]"
+french:
+- "[[Catastrophe naturelle]]"
 narrowerTerm:
-- "[[Disasters]]"
+- "[[Avalanches]]"
+- "[[Drought]]"
+- "[[Earthquakes]]"
+- "[[Floods]]"
+- "[[Landslides]]"
+- "[[Storms]]"
+- "[[Tsunamis]]"
 relatedTerm:
-- "[[Forest fires Volcanoes]]"
-use:
-- "[[Climate disasters Weather disasters Natural hazard]]"
+- "[[Volcanoes]]"
+usedFor:
+- "[[Climate disasters]]"
+- "[[Natural catastrophes]]"
+- "[[Natural hazards]]"
+- "[[Weather disasters]]"
 ---

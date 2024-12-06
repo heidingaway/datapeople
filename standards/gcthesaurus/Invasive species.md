@@ -3,8 +3,10 @@ title: Invasive species
 longTitle: 'Invasive species'
 tags:
 - gccommon
-relatedTerm:
-- "[[Pests]]"
-use:
-- "[[Invasive alien species Alien invasive species Inva]]"
+french:
+- "[[Espece envahissante]]"
+usedFor:
+- "[[Alien invasive species]]"
+- "[[Invasive alien species]]"
+- "[[Invasive exotic species]]"
 ---

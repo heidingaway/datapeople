@@ -3,6 +3,8 @@ title: International adoption
 longTitle: 'International adoption'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Adoption]]"
+french:
+- "[[Adoption internationale]]"
 ---

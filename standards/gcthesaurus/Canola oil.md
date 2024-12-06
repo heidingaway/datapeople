@@ -3,6 +3,8 @@ title: Canola oil
 longTitle: 'Canola oil'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Edible oils and fats]]"
+french:
+- "[[Huile de canola]]"
 ---

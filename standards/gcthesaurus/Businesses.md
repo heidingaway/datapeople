@@ -3,12 +3,28 @@ title: Businesses
 longTitle: 'Businesses'
 tags:
 - gccommon
-broaderTerm:
-- "[[Home-based businesses Franchises Financial institu]]"
+french:
+- "[[Entreprise]]"
 narrowerTerm:
-- "[[Organizations]]"
+- "[[Conglomerates]]"
+- "[[Consortia]]"
+- "[[Cooperatives]]"
+- "[[Family businesses]]"
+- "[[Financial institutions]]"
+- "[[Financing companies]]"
+- "[[Franchises]]"
+- "[[Home-based businesses]]"
+- "[[Indigenous businesses]]"
+- "[[Small businesses]]"
+- "[[Sole proprietorships]]"
+- "[[Support businesses]]"
 relatedTerm:
-- "[[Suppliers Entrepreneurship Business development Bu]]"
-use:
-- "[[Business enterprises Enterprises Commercial enterp]]"
+- "[[Business numbers]]"
+scopeNote:
+- "Any establishments for the conduct of trade or com"
+usedFor:
+- "[[Business corporations]]"
+- "[[Business enterprises]]"
+- "[[Commercial enterprises]]"
+- "[[Enterprises]]"
 ---

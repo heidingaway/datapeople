@@ -3,6 +3,8 @@ title: Questionnaires
 longTitle: 'Questionnaires'
 tags:
 - gccommon
+french:
+- "[[Questionnaire]]"
 relatedTerm:
-- "[[Surveys Forms Interviews]]"
+- "[[Forms]]"
 ---

@@ -3,12 +3,14 @@ title: Partnerships
 longTitle: 'Partnerships'
 tags:
 - gccommon
-broaderTerm:
-- "[[Community partnerships Public-private partnerships]]"
+french:
+- "[[Partenariat]]"
 narrowerTerm:
-- "[[Organizations]]"
-relatedTerm:
-- "[[Dissolution Collaborative research Corporations Co]]"
-use:
-- "[[Joint ventures Collaborations]]"
+- "[[Community partnerships]]"
+- "[[Public-private partnerships]]"
+scopeNote:
+- "An arrangement between two or more parties who hav"
+usedFor:
+- "[[Collaborations]]"
+- "[[Joint ventures]]"
 ---

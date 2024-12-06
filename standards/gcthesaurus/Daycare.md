@@ -3,8 +3,11 @@ title: Daycare
 longTitle: 'Daycare'
 tags:
 - gccommon
-relatedTerm:
-- "[[Child care]]"
-use:
-- "[[Day care centres Day care centers Daycare centers ]]"
+french:
+- "[[Garderie]]"
+usedFor:
+- "[[Day care centers]]"
+- "[[Day care centres]]"
+- "[[Daycare centers]]"
+- "[[Daycare centres]]"
 ---

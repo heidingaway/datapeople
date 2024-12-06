@@ -3,10 +3,14 @@ title: Petroleum industry
 longTitle: 'Petroleum industry'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Primary industry]]"
+french:
+- "[[Industrie petroliere]]"
 relatedTerm:
-- "[[Petroleum Offshore drilling Oil sands Gasoline Pip]]"
-use:
-- "[[Oil refining Petroleum refining Tar sands industry]]"
+- "[[Gasoline]]"
+usedFor:
+- "[[Oil industry]]"
+- "[[Oil refining]]"
+- "[[Oil sands industry]]"
+- "[[Petroleum refining]]"
+- "[[Tar sands industry]]"
 ---

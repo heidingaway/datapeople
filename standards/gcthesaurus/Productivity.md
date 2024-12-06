@@ -3,10 +3,13 @@ title: Productivity
 longTitle: 'Productivity'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Productivite]]"
+narrowerTerm:
 - "[[Industrial productivity]]"
 relatedTerm:
-- "[[Performance indicators Production Profitability]]"
-use:
+- "[[Performance indicators]]"
+- "[[Profitability]]"
+usedFor:
 - "[[Efficiency]]"
 ---

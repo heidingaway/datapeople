@@ -3,6 +3,6 @@ title: Clear language
 longTitle: 'Clear language'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Plain language]]"
 ---

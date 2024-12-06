@@ -3,6 +3,6 @@ title: Silver
 longTitle: 'Silver'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Precious metals]]"
+french:
+- "[[Argent Minerai]]"
 ---

@@ -3,6 +3,6 @@ title: Footwear industry
 longTitle: 'Footwear industry'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Shoe industry]]"
 ---

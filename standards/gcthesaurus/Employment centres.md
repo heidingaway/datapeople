@@ -3,8 +3,10 @@ title: Employment centres
 longTitle: 'Employment centres'
 tags:
 - gccommon
-relatedTerm:
-- "[[Employment Employment programs]]"
-use:
-- "[[Employment centers Manpower centers Manpower centr]]"
+french:
+- "[[Centre demploi]]"
+usedFor:
+- "[[Employment centers]]"
+- "[[Manpower centers]]"
+- "[[Manpower centres]]"
 ---

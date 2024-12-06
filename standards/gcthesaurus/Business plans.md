@@ -3,8 +3,8 @@ title: Business plans
 longTitle: 'Business plans'
 tags:
 - gccommon
-relatedTerm:
-- "[[Business start-ups Planning]]"
-use:
+french:
+- "[[Plan daffaires]]"
+usedFor:
 - "[[Business planning]]"
 ---

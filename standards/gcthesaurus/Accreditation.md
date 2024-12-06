@@ -1,8 +1,8 @@
 ---
 title: Accreditation
-longTitle: 'Accréditation'
+longTitle: 'Accreditation'
 tags:
 - gccommon
-french:
+use:
 - "[[Certification]]"
 ---

@@ -3,8 +3,8 @@ title: Outfitters
 longTitle: 'Outfitters'
 tags:
 - gccommon
-relatedTerm:
-- "[[Fishing Sport Hunting Sport]]"
-use:
+french:
+- "[[Pourvoirie]]"
+usedFor:
 - "[[Outfitting operations]]"
 ---

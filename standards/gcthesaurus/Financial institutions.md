@@ -3,8 +3,12 @@ title: Financial institutions
 longTitle: 'Financial institutions'
 tags:
 - gccommon
-broaderTerm:
-- "[[Banks Insurance companies Caisses populaires Credi]]"
+french:
+- "[[Institution financiere]]"
 narrowerTerm:
-- "[[Businesses]]"
+- "[[Banks]]"
+- "[[Caisses populaires]]"
+- "[[Credit unions]]"
+- "[[Insurance companies]]"
+- "[[Trust companies]]"
 ---

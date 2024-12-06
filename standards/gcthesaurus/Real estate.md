@@ -3,8 +3,15 @@ title: Real estate
 longTitle: 'Real estate'
 tags:
 - gccommon
+french:
+- "[[Immobilier]]"
 relatedTerm:
-- "[[Property tax Property Real estate industry Real pr]]"
-use:
-- "[[Realty Real property]]"
+- "[[Expropriation]]"
+- "[[Property tax]]"
+- "[[Real estate industry]]"
+scopeNote:
+- "Land including all the property on it that cannot "
+usedFor:
+- "[[Real property]]"
+- "[[Realty]]"
 ---

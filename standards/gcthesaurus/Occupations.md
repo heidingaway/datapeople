@@ -3,10 +3,15 @@ title: Occupations
 longTitle: 'Occupations'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Profession]]"
+narrowerTerm:
 - "[[Scientists]]"
 relatedTerm:
-- "[[Employment Vocational guidance Job classification ]]"
-use:
-- "[[Careers Professions]]"
+- "[[Professional associations]]"
+scopeNote:
+- "An activity that chiefly engages ones time or serv"
+usedFor:
+- "[[Careers]]"
+- "[[Professions]]"
 ---

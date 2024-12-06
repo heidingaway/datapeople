@@ -3,6 +3,6 @@ title: Genetic heritage
 longTitle: 'Genetic heritage'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Heredity]]"
 ---

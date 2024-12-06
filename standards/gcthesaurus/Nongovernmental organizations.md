@@ -3,10 +3,12 @@ title: Nongovernmental organizations
 longTitle: 'Nongovernmental organizations'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Non-profit organizations]]"
-relatedTerm:
-- "[[International organizations]]"
-use:
-- "[[NGOs Non-governmental organizations Non government]]"
+french:
+- "[[Organisation non gouvernementale]]"
+scopeNote:
+- "Non-profit organizations that are not affiliated w"
+usedFor:
+- "[[NGOs]]"
+- "[[Non governmental organizations]]"
+- "[[Non-governmental organizations]]"
 ---

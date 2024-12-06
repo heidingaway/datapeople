@@ -3,6 +3,6 @@ title: Consulting
 longTitle: 'Consulting'
 tags:
 - gccommon
-relatedTerm:
-- "[[Contracting]]"
+french:
+- "[[Service conseil]]"
 ---

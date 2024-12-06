@@ -3,8 +3,8 @@ title: Agricultural fairs
 longTitle: 'Agricultural fairs'
 tags:
 - gccommon
-relatedTerm:
-- "[[Agriculture]]"
-use:
+french:
+- "[[Foire agricole]]"
+usedFor:
 - "[[Rural fairs]]"
 ---

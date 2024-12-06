@@ -3,8 +3,14 @@ title: Employment opportunities
 longTitle: 'Employment opportunities'
 tags:
 - gccommon
-relatedTerm:
-- "[[Employment Employment programs Job creation Labour]]"
-use:
-- "[[Employment prospects Employment outlook Job opport]]"
+french:
+- "[[Possibilite demploi]]"
+usedFor:
+- "[[Employment outlook]]"
+- "[[Employment possibilities]]"
+- "[[Employment prospects]]"
+- "[[Job openings]]"
+- "[[Job opportunities]]"
+- "[[Job prospects]]"
+- "[[Work opportunities]]"
 ---

@@ -3,8 +3,12 @@ title: Fitness
 longTitle: 'Fitness'
 tags:
 - gccommon
-relatedTerm:
-- "[[Sports Health indicators Medical records]]"
-use:
-- "[[Aerobic fitness Physical fitness Physical exercise]]"
+french:
+- "[[Condition physique]]"
+usedFor:
+- "[[Aerobic fitness]]"
+- "[[Physical activity]]"
+- "[[Physical condition]]"
+- "[[Physical exercise]]"
+- "[[Physical fitness]]"
 ---

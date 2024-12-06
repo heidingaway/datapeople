@@ -3,8 +3,8 @@ title: Electronics
 longTitle: 'Electronics'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Electronique]]"
+narrowerTerm:
 - "[[Microelectronics]]"
-relatedTerm:
-- "[[Electronics industry Electronic equipment]]"
 ---

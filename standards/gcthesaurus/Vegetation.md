@@ -3,6 +3,6 @@ title: Vegetation
 longTitle: 'Vegetation'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Plants]]"
 ---

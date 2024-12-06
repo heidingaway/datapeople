@@ -3,10 +3,8 @@ title: Chemistry
 longTitle: 'Chemistry'
 tags:
 - gccommon
-broaderTerm:
-- "[[Geochemistry Biochemistry]]"
+french:
+- "[[Chimie]]"
 narrowerTerm:
-- "[[Physical sciences]]"
-relatedTerm:
-- "[[Chemical industry Chemicals]]"
+- "[[Biochemistry]]"
 ---

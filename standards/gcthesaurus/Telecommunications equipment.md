@@ -3,6 +3,6 @@ title: Telecommunications equipment
 longTitle: 'Telecommunications equipment'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Communications equipment]]"
 ---

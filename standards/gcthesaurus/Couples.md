@@ -3,8 +3,8 @@ title: Couples
 longTitle: 'Couples'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Couple]]"
+narrowerTerm:
 - "[[Same-sex couples]]"
-relatedTerm:
-- "[[Common-law unions Family Marriage]]"
 ---

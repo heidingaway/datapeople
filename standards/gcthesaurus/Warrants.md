@@ -3,8 +3,8 @@ title: Warrants
 longTitle: 'Warrants'
 tags:
 - gccommon
-relatedTerm:
-- "[[Authorization Inquiry]]"
-use:
+french:
+- "[[Mandat de perquisition]]"
+usedFor:
 - "[[Search warrants]]"
 ---

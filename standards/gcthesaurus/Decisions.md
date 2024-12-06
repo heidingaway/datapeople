@@ -3,8 +3,8 @@ title: Decisions
 longTitle: 'Decisions'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Decision]]"
+narrowerTerm:
 - "[[Court decisions]]"
-relatedTerm:
-- "[[Decision making]]"
 ---

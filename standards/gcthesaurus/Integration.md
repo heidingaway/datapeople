@@ -1,6 +1,6 @@
 ---
 title: Integration
-longTitle: 'Intégration'
+longTitle: 'Integration'
 tags:
 - gccommon
 french:

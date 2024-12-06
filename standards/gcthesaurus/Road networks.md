@@ -3,10 +3,16 @@ title: Road networks
 longTitle: 'Road networks'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Networks]]"
+french:
+- "[[Reseau routier]]"
 relatedTerm:
-- "[[Tunnels Tolls Road maps Road transport Road constr]]"
-use:
-- "[[Highway systems Highway networks Highways Roads Ro]]"
+- "[[Road construction]]"
+- "[[Road maps]]"
+- "[[Tunnels]]"
+usedFor:
+- "[[Highway networks]]"
+- "[[Highway systems]]"
+- "[[Highways]]"
+- "[[Road systems]]"
+- "[[Roads]]"
 ---

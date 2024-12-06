@@ -3,6 +3,6 @@ title: Magmatic rocks
 longTitle: 'Magmatic rocks'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Igneous rocks]]"
 ---

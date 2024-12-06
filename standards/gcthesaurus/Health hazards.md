@@ -3,8 +3,8 @@ title: Health hazards
 longTitle: 'Health hazards'
 tags:
 - gccommon
-relatedTerm:
-- "[[Health protection Health impact Health]]"
-use:
+french:
+- "[[Risque pour la sante]]"
+usedFor:
 - "[[Health risks]]"
 ---

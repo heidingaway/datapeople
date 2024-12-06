@@ -3,6 +3,8 @@ title: Jurisprudence
 longTitle: 'Jurisprudence'
 tags:
 - gccommon
-relatedTerm:
-- "[[Law]]"
+french:
+- "[[Philosophie du droit]]"
+scopeNote:
+- "The science of law that ascertains the principles "
 ---

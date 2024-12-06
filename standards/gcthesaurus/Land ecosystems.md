@@ -3,6 +3,6 @@ title: Land ecosystems
 longTitle: 'Land ecosystems'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Terrestrial ecosystems]]"
 ---

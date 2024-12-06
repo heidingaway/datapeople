@@ -3,8 +3,11 @@ title: Direct marketing
 longTitle: 'Direct marketing'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Marketing]]"
-use:
-- "[[Telemarketing Phone marketing]]"
+french:
+- "[[Marketing direct]]"
+usedFor:
+- "[[Phone marketing]]"
+- "[[Telemarketing]]"
 ---

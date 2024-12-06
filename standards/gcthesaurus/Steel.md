@@ -3,6 +3,6 @@ title: Steel
 longTitle: 'Steel'
 tags:
 - gccommon
-relatedTerm:
-- "[[Metalworking industry]]"
+french:
+- "[[Acier]]"
 ---

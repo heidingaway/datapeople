@@ -3,6 +3,6 @@ title: Secretariat
 longTitle: 'Secretariat'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Administrative services]]"
 ---

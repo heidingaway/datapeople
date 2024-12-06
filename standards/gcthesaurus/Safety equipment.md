@@ -3,12 +3,13 @@ title: Safety equipment
 longTitle: 'Safety equipment'
 tags:
 - gccommon
-broaderTerm:
-- "[[Automobile safety equipment Marine safety equipmen]]"
+french:
+- "[[Equipement de securite]]"
 narrowerTerm:
-- "[[Equipment]]"
-relatedTerm:
-- "[[Safety Rescue equipment Safety measures Safety sta]]"
-use:
-- "[[Safety devices Safety kits]]"
+- "[[Automobile safety equipment]]"
+- "[[Bicycle safety equipment]]"
+- "[[Marine safety equipment]]"
+usedFor:
+- "[[Safety devices]]"
+- "[[Safety kits]]"
 ---

@@ -3,8 +3,8 @@ title: Mental health
 longTitle: 'Mental health'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Health]]"
+french:
+- "[[Sante mentale]]"
 relatedTerm:
 - "[[Intellectual disabilities]]"
 ---

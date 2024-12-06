@@ -3,6 +3,6 @@ title: Milk products
 longTitle: 'Milk products'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Dairy products]]"
 ---

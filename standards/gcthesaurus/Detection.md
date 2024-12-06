@@ -1,6 +1,6 @@
 ---
 title: Detection
-longTitle: 'Détection'
+longTitle: 'Detection'
 tags:
 - gccommon
 french:

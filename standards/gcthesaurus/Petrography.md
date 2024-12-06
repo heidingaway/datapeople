@@ -3,6 +3,6 @@ title: Petrography
 longTitle: 'Petrography'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Petrology]]"
 ---

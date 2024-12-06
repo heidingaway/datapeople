@@ -3,6 +3,8 @@ title: Access to information
 longTitle: 'Access to information'
 tags:
 - gccommon
+french:
+- "[[Acces a linformation]]"
 relatedTerm:
-- "[[Confidentiality Open government Freedom of informa]]"
+- "[[Freedom of information]]"
 ---

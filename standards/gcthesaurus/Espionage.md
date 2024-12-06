@@ -3,6 +3,6 @@ title: Espionage
 longTitle: 'Espionage'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Security intelligence]]"
 ---

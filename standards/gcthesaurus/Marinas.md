@@ -3,8 +3,10 @@ title: Marinas
 longTitle: 'Marinas'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Harbours]]"
+french:
+- "[[Port de plaisance]]"
 relatedTerm:
 - "[[Pleasure craft]]"
 ---

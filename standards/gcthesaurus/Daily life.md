@@ -3,8 +3,8 @@ title: Daily life
 longTitle: 'Daily life'
 tags:
 - gccommon
-relatedTerm:
-- "[[Lifestyle Social life]]"
-use:
+french:
+- "[[Vie quotidienne]]"
+usedFor:
 - "[[Domestic life]]"
 ---

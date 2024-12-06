@@ -3,8 +3,8 @@ title: Metamorphic rocks
 longTitle: 'Metamorphic rocks'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Geology Earth sciences]]"
+french:
+- "[[Roche metamorphique]]"
 relatedTerm:
 - "[[Metamorphism]]"
 ---

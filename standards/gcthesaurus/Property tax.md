@@ -3,10 +3,10 @@ title: Property tax
 longTitle: 'Property tax'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Taxes]]"
-relatedTerm:
-- "[[Real estate]]"
-use:
+french:
+- "[[Impot foncier]]"
+scopeNote:
+- "A direct tax levied on the assessed value of land "
+usedFor:
 - "[[Land tax]]"
 ---

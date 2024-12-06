@@ -3,8 +3,8 @@ title: Residential schools
 longTitle: 'Residential schools'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Schools]]"
-use:
+french:
+- "[[Ecole residentielle]]"
+usedFor:
 - "[[Boarding schools]]"
 ---

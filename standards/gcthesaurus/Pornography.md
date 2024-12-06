@@ -5,6 +5,4 @@ tags:
 - gccommon
 french:
 - "[[Pornography]]"
-relatedTerm:
-- "[[Censorship Sexual offences]]"
 ---

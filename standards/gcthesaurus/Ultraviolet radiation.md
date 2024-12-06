@@ -3,8 +3,14 @@ title: Ultraviolet radiation
 longTitle: 'Ultraviolet radiation'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Radiation]]"
-use:
-- "[[Ultraviolet rays UV irradiation Ultraviolet light ]]"
+french:
+- "[[Rayonnement ultraviolet]]"
+usedFor:
+- "[[UV]]"
+- "[[UV irradiation]]"
+- "[[UV radiation]]"
+- "[[Ultraviolet light]]"
+- "[[Ultraviolet rays]]"
 ---

@@ -3,8 +3,8 @@ title: Daylight saving time
 longTitle: 'Daylight saving time'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Time]]"
+french:
+- "[[Heure avancee]]"
 relatedTerm:
 - "[[Time zones]]"
 ---

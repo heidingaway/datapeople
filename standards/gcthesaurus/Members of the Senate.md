@@ -3,8 +3,11 @@ title: Members of the Senate
 longTitle: 'Members of the Senate'
 tags:
 - gccommon
+french:
+- "[[Senateur]]"
 relatedTerm:
-- "[[Representatives Senate]]"
-use:
-- "[[Senators Senate members]]"
+- "[[Senate]]"
+usedFor:
+- "[[Senate members]]"
+- "[[Senators]]"
 ---

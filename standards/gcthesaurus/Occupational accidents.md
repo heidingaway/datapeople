@@ -3,12 +3,17 @@ title: Occupational accidents
 longTitle: 'Occupational accidents'
 tags:
 - gccommon
-broaderTerm:
-- "[[Mining accidents]]"
+french:
+- "[[Accident de travail]]"
 narrowerTerm:
-- "[[Accidents]]"
-relatedTerm:
-- "[[Occupational safety]]"
-use:
-- "[[Workplace injuries Industrial injuries Industrial ]]"
+- "[[Mining accidents]]"
+usedFor:
+- "[[Employment injuries]]"
+- "[[Industrial accidents]]"
+- "[[Industrial injuries]]"
+- "[[Occupational injuries]]"
+- "[[Work accidents]]"
+- "[[Work injuries]]"
+- "[[Workplace accidents]]"
+- "[[Workplace injuries]]"
 ---

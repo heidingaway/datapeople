@@ -3,6 +3,6 @@ title: Communications satellites
 longTitle: 'Communications satellites'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Satellites]]"
 ---

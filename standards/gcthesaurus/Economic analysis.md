@@ -3,12 +3,16 @@ title: Economic analysis
 longTitle: 'Economic analysis'
 tags:
 - gccommon
-broaderTerm:
-- "[[Cost benefit analysis Microeconomic analysis Macro]]"
+french:
+- "[[Analyse economique]]"
 narrowerTerm:
-- "[[Analysis]]"
+- "[[Cost benefit analysis]]"
+- "[[Macroeconomic analysis]]"
+- "[[Microeconomic analysis]]"
+- "[[Socioeconomic analysis]]"
 relatedTerm:
-- "[[Economic trends Economic issues Economic indicator]]"
-use:
-- "[[Economic studies Economic impact analysis Economic]]"
+- "[[Economic impact]]"
+usedFor:
+- "[[Economic studies]]"
+- "[[Economic surveys]]"
 ---

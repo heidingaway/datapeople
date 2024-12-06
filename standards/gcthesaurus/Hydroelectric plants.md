@@ -3,10 +3,13 @@ title: Hydroelectric plants
 longTitle: 'Hydroelectric plants'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Electric power stations]]"
-relatedTerm:
-- "[[Hydropower Dams]]"
-use:
-- "[[Hydro-electric plants Hydroelectric stations Hydro]]"
+french:
+- "[[Centrale hydroelectrique]]"
+usedFor:
+- "[[Hydro-electric plants]]"
+- "[[Hydro-electric power plants]]"
+- "[[Hydroelectric generating stations]]"
+- "[[Hydroelectric power plants]]"
+- "[[Hydroelectric power stations]]"
+- "[[Hydroelectric stations]]"
 ---

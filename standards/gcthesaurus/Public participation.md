@@ -3,6 +3,6 @@ title: Public participation
 longTitle: 'Public participation'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Citizen participation]]"
 ---

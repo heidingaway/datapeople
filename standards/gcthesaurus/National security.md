@@ -3,12 +3,10 @@ title: National security
 longTitle: 'National security'
 tags:
 - gccommon
-broaderTerm:
-- "[[Foreign interference]]"
+french:
+- "[[Securite nationale]]"
 narrowerTerm:
-- "[[Security]]"
-relatedTerm:
-- "[[International security Security investigations Def]]"
-use:
+- "[[Foreign interference]]"
+usedFor:
 - "[[Domestic security]]"
 ---

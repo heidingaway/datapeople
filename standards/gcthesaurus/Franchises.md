@@ -3,8 +3,8 @@ title: Franchises
 longTitle: 'Franchises'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Businesses]]"
-relatedTerm:
-- "[[Business types]]"
+french:
+- "[[Franchise]]"
+scopeNote:
+- "Persons or companies that buy licenses to do busin"
 ---

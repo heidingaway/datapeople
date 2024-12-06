@@ -3,6 +3,6 @@ title: Labor union training
 longTitle: 'Labor union training'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Labour union training]]"
 ---

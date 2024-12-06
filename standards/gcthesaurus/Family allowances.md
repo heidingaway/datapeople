@@ -3,10 +3,10 @@ title: Family allowances
 longTitle: 'Family allowances'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Allowances]]"
-relatedTerm:
-- "[[Family Social security Personal income]]"
-use:
+french:
+- "[[Allocations familiales]]"
+usedFor:
 - "[[Parental benefits]]"
 ---

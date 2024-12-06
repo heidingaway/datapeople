@@ -3,12 +3,15 @@ title: Telephones
 longTitle: 'Telephones'
 tags:
 - gccommon
-broaderTerm:
-- "[[Cellular telephones]]"
+french:
+- "[[Telephone]]"
 narrowerTerm:
-- "[[Communications equipment]]"
+- "[[Cellular telephones]]"
 relatedTerm:
-- "[[Telecommunications Voice mail]]"
-use:
-- "[[Telephone equipment Telephone companies Telephone ]]"
+- "[[Voice mail]]"
+usedFor:
+- "[[Telephone companies]]"
+- "[[Telephone equipment]]"
+- "[[Telephone services]]"
+- "[[Telephone sets]]"
 ---

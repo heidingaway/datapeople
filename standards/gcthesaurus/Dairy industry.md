@@ -3,8 +3,10 @@ title: Dairy industry
 longTitle: 'Dairy industry'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Agri-food industry]]"
+french:
+- "[[Industrie laitiere]]"
 relatedTerm:
-- "[[Dairy products Dairy cattle]]"
+- "[[Dairy products]]"
+scopeNote:
+- "An economic activity relating to the production ma"
 ---

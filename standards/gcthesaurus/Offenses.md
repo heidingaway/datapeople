@@ -3,6 +3,6 @@ title: Offenses
 longTitle: 'Offenses'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Offences]]"
 ---

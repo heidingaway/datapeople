@@ -3,6 +3,6 @@ title: Plastics industry
 longTitle: 'Plastics industry'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Chemical industry]]"
+french:
+- "[[Industrie des matieres plastiques]]"
 ---

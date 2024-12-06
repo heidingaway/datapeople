@@ -3,8 +3,8 @@ title: Architectural drawings
 longTitle: 'Architectural drawings'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Drawings]]"
-relatedTerm:
-- "[[Architecture Architectural services]]"
+french:
+- "[[Dessin darchitecture]]"
 ---

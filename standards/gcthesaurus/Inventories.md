@@ -3,6 +3,8 @@ title: Inventories
 longTitle: 'Inventories'
 tags:
 - gccommon
+french:
+- "[[Inventaire]]"
 relatedTerm:
-- "[[Catalogues Material management Storage]]"
+- "[[Storage]]"
 ---

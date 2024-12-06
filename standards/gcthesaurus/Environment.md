@@ -3,8 +3,15 @@ title: Environment
 longTitle: 'Environment'
 tags:
 - gccommon
-broaderTerm:
-- "[[Rural environment Urban environment]]"
+french:
+- "[[Environnement]]"
+narrowerTerm:
+- "[[Rural environment]]"
+- "[[Urban environment]]"
 relatedTerm:
-- "[[Environmental accidents Environmental impact Envir]]"
+- "[[Environmental adaptation]]"
+- "[[Environmental education]]"
+- "[[Habitats]]"
+scopeNote:
+- "All the natural and cultural conditions affecting "
 ---

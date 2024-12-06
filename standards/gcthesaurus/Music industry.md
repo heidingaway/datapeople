@@ -3,10 +3,12 @@ title: Music industry
 longTitle: 'Music industry'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Cultural industry]]"
-relatedTerm:
-- "[[Music]]"
-use:
-- "[[Recording industry Record industry Sound recording]]"
+french:
+- "[[Industrie de la musique]]"
+scopeNote:
+- "Economic activity dedicated to the creation perfor"
+usedFor:
+- "[[Record industry]]"
+- "[[Recording industry]]"
+- "[[Sound recording industry]]"
 ---

@@ -3,8 +3,8 @@ title: Visible minorities
 longTitle: 'Visible minorities'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Minorities]]"
+french:
+- "[[Minorite visible]]"
 relatedTerm:
-- "[[Ethnic minorities Racial discrimination]]"
+- "[[Ethnic minorities]]"
 ---

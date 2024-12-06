@@ -3,8 +3,12 @@ title: Tissues
 longTitle: 'Tissues'
 tags:
 - gccommon
-relatedTerm:
-- "[[Cells]]"
-use:
-- "[[Human tissues Animal tissues Plant tissues]]"
+french:
+- "[[Tissu Biologie]]"
+scopeNote:
+- "Group of cells with similar structure that are per"
+usedFor:
+- "[[Animal tissues]]"
+- "[[Human tissues]]"
+- "[[Plant tissues]]"
 ---

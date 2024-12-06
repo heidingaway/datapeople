@@ -3,6 +3,10 @@ title: Gardening
 longTitle: 'Gardening'
 tags:
 - gccommon
+french:
+- "[[Jardinage]]"
 relatedTerm:
-- "[[Gardens Horticulture]]"
+- "[[Gardens]]"
+scopeNote:
+- "All activities related to the cultivation of ornam"
 ---

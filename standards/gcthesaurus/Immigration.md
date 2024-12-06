@@ -5,8 +5,8 @@ tags:
 - gccommon
 french:
 - "[[Immigration]]"
-narrowerTerm:
-- "[[Migration]]"
 relatedTerm:
-- "[[Entry to Canada Immigration policy Immigrants]]"
+- "[[Immigration policy]]"
+scopeNote:
+- "The act of entering a country of which one is not "
 ---

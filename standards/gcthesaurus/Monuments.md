@@ -3,10 +3,11 @@ title: Monuments
 longTitle: 'Monuments'
 tags:
 - gccommon
-broaderTerm:
+french:
+- "[[Monument]]"
+narrowerTerm:
 - "[[War memorials]]"
-relatedTerm:
-- "[[Historic sites]]"
-use:
-- "[[Historic monuments Memorials]]"
+usedFor:
+- "[[Historic monuments]]"
+- "[[Memorials]]"
 ---

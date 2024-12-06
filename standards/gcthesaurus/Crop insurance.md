@@ -3,10 +3,8 @@ title: Crop insurance
 longTitle: 'Crop insurance'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Insurance]]"
-relatedTerm:
-- "[[Harvest Crops]]"
-use:
+french:
+- "[[Assurance-recolte]]"
+usedFor:
 - "[[Agricultural insurance]]"
 ---

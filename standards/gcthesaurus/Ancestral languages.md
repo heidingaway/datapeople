@@ -3,6 +3,6 @@ title: Ancestral languages
 longTitle: 'Ancestral languages'
 tags:
 - gccommon
-usedFor:
+use:
 - "[[Heritage languages]]"
 ---

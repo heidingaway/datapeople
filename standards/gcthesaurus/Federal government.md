@@ -3,12 +3,19 @@ title: Federal government
 longTitle: 'Federal government'
 tags:
 - gccommon
-broaderTerm:
-- "[[Treasury Board Secretariat Red tape burdens Submis]]"
+french:
+- "[[Gouvernement federal]]"
 narrowerTerm:
-- "[[Governments]]"
+- "[[Submissions]]"
+- "[[Treasury Board Secretariat]]"
 relatedTerm:
-- "[[National Capital Government leader Supplementary e]]"
-use:
-- "[[Federal administration Central government Federali]]"
+- "[[Federal contracts]]"
+- "[[Government leader]]"
+- "[[Government plans]]"
+- "[[Government priorities]]"
+- "[[National Capital]]"
+usedFor:
+- "[[Central government]]"
+- "[[Federal administration]]"
+- "[[Federalism]]"
 ---

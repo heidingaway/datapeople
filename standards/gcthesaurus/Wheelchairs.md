@@ -3,10 +3,12 @@ title: Wheelchairs
 longTitle: 'Wheelchairs'
 tags:
 - gccommon
-narrowerTerm:
+broaderTerm:
 - "[[Assistive technologies]]"
+french:
+- "[[Fauteuil roulant]]"
 relatedTerm:
 - "[[Physical disabilities]]"
-use:
+usedFor:
 - "[[Wheel chairs]]"
 ---

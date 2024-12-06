@@ -3,10 +3,11 @@ title: Fruits
 longTitle: 'Fruits'
 tags:
 - gccommon
-broaderTerm:
-- "[[Apples Grapes]]"
+french:
+- "[[Fruit]]"
 narrowerTerm:
-- "[[Agri-food products]]"
+- "[[Apples]]"
+- "[[Grapes]]"
 relatedTerm:
 - "[[Fruit crops]]"
 ---

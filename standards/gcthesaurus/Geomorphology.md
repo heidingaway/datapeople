@@ -3,8 +3,10 @@ title: Geomorphology
 longTitle: 'Geomorphology'
 tags:
 - gccommon
-narrowerTerm:
-- "[[Geology Geography]]"
+french:
+- "[[Geomorphologie]]"
 relatedTerm:
 - "[[Surficial geology]]"
+scopeNote:
+- "The study of landforms"
 ---
