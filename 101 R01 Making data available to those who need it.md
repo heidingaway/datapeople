@@ -6,8 +6,9 @@ tags:
   - project/dma
 theme: "[[101 T04 Culture]]"
 type: "[[101 Row]]"
-topic: "[[101 S01 Engaging with Others]]"
 actionProcess: "[[402.03 HowTo]]"
-subject: "[[Making data available]]"
+subject: 
+- "[[Making data available]]"
+- "[[Business Integration]]"
 ---
 # 101 R01 Making data available to those who need it

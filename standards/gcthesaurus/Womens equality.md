@@ -1,6 +1,6 @@
 ---
 title: Womens equality
-longTitle: 'Women's equality'
+longTitle: "Women's equality"
 tags:
 - gccommon
 use:

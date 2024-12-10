@@ -13,4 +13,3 @@ class:
 type: "[[101 Topic]]"
 ---
 # 101 S04 Knowing the data you have
-- 

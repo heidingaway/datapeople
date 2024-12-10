@@ -8,5 +8,7 @@ stage:
   - "[[designing operations and services]]"
   - "[[delivering operations and services]]"
   - "[[continuously improving operations and services]]"
+tags: 
+- project/dma
 ---
 # operations and services lifecycle

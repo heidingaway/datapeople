@@ -8,4 +8,9 @@ french:
 usedFor:
 - "[[Atmosphere]]"
 - "[[Atmospheric environment]]"
+relatedTerm:
+- "[[Air quality]]"
+- "[[Air pollution]]"
+- "[[Air conditioning]]"
+- "[[Air-conditioning]]"
 ---

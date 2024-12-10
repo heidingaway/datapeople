@@ -15,5 +15,7 @@ support:
   - "[[reusing data and information]]"
 comply:
   - "[[Appendix J Standard on Systems that Manage Information and Data]]"
+tags: 
+- project/dma
 ---
 # Managing Metadata

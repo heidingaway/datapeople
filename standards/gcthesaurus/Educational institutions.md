@@ -9,4 +9,8 @@ narrowerTerm:
 - "[[Colleges]]"
 - "[[Schools]]"
 - "[[Universities]]"
+relatedTerm:
+- "[[Education]]"
+- "[[Students]]"
+- "[[Teachers]]"
 ---

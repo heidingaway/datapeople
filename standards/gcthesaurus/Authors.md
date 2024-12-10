@@ -7,4 +7,9 @@ french:
 - "[[Auteur]]"
 usedFor:
 - "[[Writers]]"
+relatedTerm:
+- "[[Books]]"
+- "[[Manuscripts]]"
+- "[[Publishing]]"
+- "[[Writing]]"
 ---

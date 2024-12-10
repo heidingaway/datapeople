@@ -1,6 +1,6 @@
 ---
 title: Childrens literature
-longTitle: 'Children's literature'
+longTitle: "Children's literature"
 tags:
 - gccommon
 french:

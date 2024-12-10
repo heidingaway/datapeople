@@ -1,6 +1,6 @@
 ---
 title: Arthritis Alzheimers disease
-longTitle: 'Arthritis, Alzheimer's disease'
+longTitle: "'Arthritis, Alzheimer's disease'"
 tags:
 - gccommon
 broaderTerm:

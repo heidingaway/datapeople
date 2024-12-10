@@ -1,6 +1,6 @@
 ---
 title: Childrens rights
-longTitle: 'Children's rights'
+longTitle: "Children's rights"
 tags:
 - gccommon
 french:
