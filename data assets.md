@@ -1,7 +1,7 @@
 ---
 title: data assets
 created: 2024-11-15
-modified: 2024-12-06
+modified: 2024-12-05
 tags:
   - definedTerm
   - project/dma

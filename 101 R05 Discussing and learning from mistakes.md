@@ -9,5 +9,7 @@ subject:
 - "[[Business Integration]]"
 - "[[Knowledge sharing]]"
 theme: "[[101 T04 Culture]]"
+tags:
+- project/d
 ---
 # 101 R05 Discussing and learning from mistakes

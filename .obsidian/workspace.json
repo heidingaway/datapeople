@@ -13,46 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "standards/gcthesaurus/Air.md",
+                "file": "Making data available.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Air"
-            }
-          },
-          {
-            "id": "9c15adb41576847e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "standards/gcthesaurus/Social issues.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Social issues"
-            }
-          }
-        ]
-      },
-      {
-        "id": "97e0aec1e7ae9fb7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0c2bb26e0bf82c55",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Juggl"
+              "title": "Making data available"
             }
           }
         ]
@@ -116,12 +83,22 @@
               "icon": "stacked-levels",
               "title": "Tag Folder"
             }
+          },
+          {
+            "id": "d44f57d5e555f782",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 257.5
   },
   "right": {
     "id": "687072620662b2cb",
@@ -194,12 +171,32 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "c010eb482e4228f5",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b30b01441613a624",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "27960afad07b4c10",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -209,7 +206,7 @@
             }
           },
           {
-            "id": "b30b01441613a624",
+            "id": "3ecc3964c6fb31e6",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -242,10 +239,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0aa96023c785a99f",
+  "active": "e8351de45c116702",
   "lastOpenFiles": [
-    "standards/gcthesaurus/Atmospheric environment Atmosphere.md",
+    "standards/gcthesaurus/HE Health and Safety.md",
+    "Collaborations.md",
+    "101 R05 Discussing and learning from mistakes.md",
+    "2024-12-11.md",
     "standards/gcthesaurus/Air.md",
+    "standards/gcthesaurus/Social issues.md",
+    "standards/gcthesaurus/Atmospheric environment Atmosphere.md",
     "standards/gcthesaurus/Air quality Air pollution Air conditioning.md",
     "standards/gcthesaurus/Health professionals.md",
     "standards/gcthesaurus/Medical professionals Medical personnel Health per.md",
@@ -264,13 +266,8 @@
     "standards/gcthesaurus/Home renovations.md",
     "standards/gcthesaurus/Contracting.md",
     "standards/gcthesaurus/Sociology Social surveys Social sciences Social pr.md",
-    "standards/gcthesaurus/Social issues.md",
     "standards/gcthesaurus/Peace.md",
     "standards/gcthesaurus/Maintenance Housing Household equipment.md",
-    "standards/gcthesaurus/Subcontracting Sub-contracting Outsourcing.md",
-    "standards/gcthesaurus/PDA.md",
-    "standards/gcthesaurus/Outsourcing.md",
-    "standards/gcthesaurus/Working capital Venture capital Human capital Grow.md",
     "Reference Photos/create links.xlsx",
     "Reading/The Synthesis Gap.pdf",
     "Reading/Government as a Brain.pdf",
