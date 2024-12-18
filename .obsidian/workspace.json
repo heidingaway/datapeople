@@ -36,7 +36,11 @@
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "Making data available"
+=======
+              "title": "Air"
+>>>>>>> Stashed changes
             }
           },
           {
@@ -266,6 +270,7 @@
   },
   "active": "769ac523d26b94aa",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "101 R09 Recognising the importance of data in individual staff’s work.md",
     "101 R33 Ensuring findability of data.md",
     "101 R34 Managing disposal of data in the right way.md",
@@ -297,6 +302,23 @@
     "Templates/Scripts/%.txt",
     "Templates/Scripts/New Text Document.txt",
     "Templates/Scripts",
+=======
+<<<<<<< Updated upstream
+    "standards/gcthesaurus/HE Health and Safety.md",
+    "Collaborations.md",
+    "101 R05 Discussing and learning from mistakes.md",
+    "2024-12-11.md",
+    "standards/gcthesaurus/Air.md",
+    "standards/gcthesaurus/Social issues.md",
+=======
+    "standards/gcthesaurus/Social issues.md",
+    "standards/gcthesaurus/Air.md",
+>>>>>>> Stashed changes
+    "standards/gcthesaurus/Atmospheric environment Atmosphere.md",
+    "standards/gcthesaurus/Air quality Air pollution Air conditioning.md",
+    "standards/gcthesaurus/Health professionals.md",
+    "standards/gcthesaurus/Medical professionals Medical personnel Health per.md",
+>>>>>>> aaa5f8c37e64630868e56bbce8b6d432936b29ed
     "Reference Photos/~$create links.tmp",
     "Reference Photos/create links.xlsx",
     "Reading/The Synthesis Gap.pdf",
