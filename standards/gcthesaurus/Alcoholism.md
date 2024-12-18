@@ -8,4 +8,5 @@ french:
 usedFor:
 - "[[Alcohol abuse]]"
 - "[[Alcohol addiction]]"
+- "[[Substance abuse]]"
 ---

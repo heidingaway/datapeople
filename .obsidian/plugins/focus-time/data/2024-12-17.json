@@ -1,0 +1,886 @@
+{
+  "dailyReadData": {
+    "1734379458460": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734379458460",
+      "duration": 24000
+    },
+    "1734379560479": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734379560479",
+      "duration": 84000
+    },
+    "1734442158140": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734442158140",
+      "duration": 744000
+    },
+    "1734442218145": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734442218145",
+      "duration": 324000
+    },
+    "1734442446144": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734442446144",
+      "duration": 6000
+    },
+    "1734442769021": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734442769021",
+      "duration": 54000
+    },
+    "1734453848060": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734453848060",
+      "duration": 96000
+    },
+    "1734453878122": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734453878122",
+      "duration": 6000
+    },
+    "1734453884060": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734453884060",
+      "duration": 18000
+    },
+    "1734453902060": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734453902060",
+      "duration": 6000
+    },
+    "1734453992060": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734453992060",
+      "duration": 36000
+    },
+    "1734454022059": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734454022059",
+      "duration": 6000
+    },
+    "1734454028064": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734454028064",
+      "duration": 18000
+    },
+    "1734454076059": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734454076059",
+      "duration": 102000
+    },
+    "1734454166060": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734454166060",
+      "duration": 42000
+    },
+    "1734454178059": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734454178059",
+      "duration": 6000
+    },
+    "1734454184059": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734454184059",
+      "duration": 6000
+    },
+    "1734454190067": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734454190067",
+      "duration": 6000
+    },
+    "1734454196063": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734454196063",
+      "duration": 6000
+    },
+    "1734454202059": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734454202059",
+      "duration": 6000
+    },
+    "1734454220065": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734454220065",
+      "duration": 18000
+    },
+    "1734454262059": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734454262059",
+      "duration": 198000
+    },
+    "1734454171458": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734454171458",
+      "duration": 264000
+    },
+    "1734456488065": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734456488065",
+      "duration": 174000
+    },
+    "1734456584065": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734456584065",
+      "duration": 66000
+    },
+    "1734456662059": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734456662059",
+      "duration": 120000
+    },
+    "1734456692061": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734456692061",
+      "duration": 54000
+    },
+    "1734456740417": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734456740417",
+      "duration": 6000
+    },
+    "1734456770063": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734456770063",
+      "duration": 144000
+    },
+    "1734456902059": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734456902059",
+      "duration": 96000
+    },
+    "1734456920059": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734456920059",
+      "duration": 54000
+    },
+    "1734456956059": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734456956059",
+      "duration": 210000
+    },
+    "1734456980063": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734456980063",
+      "duration": 12000
+    },
+    "1734457082059": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734457082059",
+      "duration": 54000
+    },
+    "1734457112063": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734457112063",
+      "duration": 24000
+    },
+    "1734457160058": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734457160058",
+      "duration": 60000
+    },
+    "1734457244069": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734457244069",
+      "duration": 12000
+    },
+    "1734457268058": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734457268058",
+      "duration": 6000
+    },
+    "1734457526028": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734457526028",
+      "duration": 12000
+    },
+    "1734457652020": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734457652020",
+      "duration": 24000
+    },
+    "1734457706020": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734457706020",
+      "duration": 474000
+    },
+    "1734458216009": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734458216009",
+      "duration": 54000
+    },
+    "1734458282011": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734458282011",
+      "duration": 84000
+    },
+    "1734458294009": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734458294009",
+      "duration": 18000
+    },
+    "1734458444006": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734458444006",
+      "duration": 24000
+    },
+    "1734458456030": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734458456030",
+      "duration": 12000
+    },
+    "1734458512138": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734458512138",
+      "duration": 78000
+    },
+    "1734460076192": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734460076192",
+      "duration": 114000
+    },
+    "1734460202053": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734460202053",
+      "duration": 36000
+    },
+    "1734460304300": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734460304300",
+      "duration": 24000
+    },
+    "1734460346039": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734460346039",
+      "duration": 54000
+    },
+    "1734460370048": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734460370048",
+      "duration": 6000
+    },
+    "1734460376037": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734460376037",
+      "duration": 36000
+    },
+    "1734460412052": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734460412052",
+      "duration": 264000
+    },
+    "1734460784062": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734460784062",
+      "duration": 6000
+    },
+    "1734460792066": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734460792066",
+      "duration": 36000
+    },
+    "1734460862062": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734460862062",
+      "duration": 12000
+    },
+    "1734460874062": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734460874062",
+      "duration": 36000
+    },
+    "1734460958062": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734460958062",
+      "duration": 30000
+    },
+    "1734460372521": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734460372521",
+      "duration": 6000
+    },
+    "1734463933964": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734463933964",
+      "duration": 12000
+    },
+    "1734463939963": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734463939963",
+      "duration": 6000
+    },
+    "1734463951964": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734463951964",
+      "duration": 36000
+    },
+    "1734463960121": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734463960121",
+      "duration": 66000
+    },
+    "1734464029954": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464029954",
+      "duration": 12000
+    },
+    "1734464035953": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464035953",
+      "duration": 12000
+    },
+    "1734464047574": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464047574",
+      "duration": 18000
+    },
+    "1734464053208": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464053208",
+      "duration": 72000
+    },
+    "1734464143945": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464143945",
+      "duration": 6000
+    },
+    "1734464149937": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464149937",
+      "duration": 6000
+    },
+    "1734464155938": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464155938",
+      "duration": 18000
+    },
+    "1734464161145": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464161145",
+      "duration": 66000
+    },
+    "1734464241553": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464241553",
+      "duration": 24000
+    },
+    "1734464268538": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464268538",
+      "duration": 12000
+    },
+    "1734464273120": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464273120",
+      "duration": 84000
+    },
+    "1734464377917": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464377917",
+      "duration": 60000
+    },
+    "1734464373931": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464373931",
+      "duration": 12000
+    },
+    "1734464431916": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464431916",
+      "duration": 6000
+    },
+    "1734464443922": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464443922",
+      "duration": 12000
+    },
+    "1734464448724": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464448724",
+      "duration": 6000
+    },
+    "1734464497920": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464497920",
+      "duration": 18000
+    },
+    "1734464509907": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464509907",
+      "duration": 18000
+    },
+    "1734464521395": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464521395",
+      "duration": 18000
+    },
+    "1734464563908": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464563908",
+      "duration": 18000
+    },
+    "1734464593929": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464593929",
+      "duration": 24000
+    },
+    "1734464629701": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464629701",
+      "duration": 12000
+    },
+    "1734464633321": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464633321",
+      "duration": 12000
+    },
+    "1734464659939": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464659939",
+      "duration": 48000
+    },
+    "1734464665941": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464665941",
+      "duration": 60000
+    },
+    "1734464664769": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464664769",
+      "duration": 6000
+    },
+    "1734464737964": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464737964",
+      "duration": 12000
+    },
+    "1734464741727": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464741727",
+      "duration": 24000
+    },
+    "1734464779991": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464779991",
+      "duration": 12000
+    },
+    "1734464782250": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464782250",
+      "duration": 42000
+    },
+    "1734464840001": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464840001",
+      "duration": 24000
+    },
+    "1734464838689": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464838689",
+      "duration": 12000
+    },
+    "1734464876014": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464876014",
+      "duration": 18000
+    },
+    "1734464882013": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464882013",
+      "duration": 12000
+    },
+    "1734464906019": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464906019",
+      "duration": 18000
+    },
+    "1734464930018": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464930018",
+      "duration": 18000
+    },
+    "1734464734722": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464734722",
+      "duration": 12000
+    },
+    "1734464954018": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464954018",
+      "duration": 6000
+    },
+    "1734464960018": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734464960018",
+      "duration": 30000
+    },
+    "1734465008030": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465008030",
+      "duration": 12000
+    },
+    "1734465020032": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465020032",
+      "duration": 12000
+    },
+    "1734465026031": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465026031",
+      "duration": 6000
+    },
+    "1734465044031": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465044031",
+      "duration": 24000
+    },
+    "1734465062040": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465062040",
+      "duration": 6000
+    },
+    "1734465074040": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465074040",
+      "duration": 12000
+    },
+    "1734465078826": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465078826",
+      "duration": 24000
+    },
+    "1734465107394": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465107394",
+      "duration": 6000
+    },
+    "1734465122043": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465122043",
+      "duration": 12000
+    },
+    "1734465121492": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465121492",
+      "duration": 12000
+    },
+    "1734465127786": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465127786",
+      "duration": 6000
+    },
+    "1734465137623": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465137623",
+      "duration": 12000
+    },
+    "1734465141967": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465141967",
+      "duration": 60000
+    },
+    "1734465218040": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465218040",
+      "duration": 12000
+    },
+    "1734465222018": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465222018",
+      "duration": 54000
+    },
+    "1734465214993": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465214993",
+      "duration": 12000
+    },
+    "1734465344103": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465344103",
+      "duration": 12000
+    },
+    "1734465356078": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465356078",
+      "duration": 6000
+    },
+    "1734465368015": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465368015",
+      "duration": 24000
+    },
+    "1734465373443": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465373443",
+      "duration": 30000
+    },
+    "1734465422004": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465422004",
+      "duration": 6000
+    },
+    "1734465428012": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465428012",
+      "duration": 18000
+    },
+    "1734465446004": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465446004",
+      "duration": 12000
+    },
+    "1734465452007": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465452007",
+      "duration": 6000
+    },
+    "1734465454363": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465454363",
+      "duration": 12000
+    },
+    "1734465459914": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465459914",
+      "duration": 24000
+    },
+    "1734465487996": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465487996",
+      "duration": 84000
+    },
+    "1734465493996": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465493996",
+      "duration": 12000
+    },
+    "1734465497477": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465497477",
+      "duration": 30000
+    },
+    "1734465547987": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465547987",
+      "duration": 42000
+    },
+    "1734465672354": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465672354",
+      "duration": 132000
+    },
+    "1734465902009": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465902009",
+      "duration": 6000
+    },
+    "1734465898086": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465898086",
+      "duration": 6000
+    },
+    "1734465907654": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465907654",
+      "duration": 36000
+    },
+    "1734465953198": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465953198",
+      "duration": 24000
+    },
+    "1734465949735": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465949735",
+      "duration": 6000
+    },
+    "1734465983791": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465983791",
+      "duration": 12000
+    },
+    "1734465991984": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465991984",
+      "duration": 12000
+    },
+    "1734466010028": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734466010028",
+      "duration": 18000
+    },
+    "1734466015926": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734466015926",
+      "duration": 24000
+    },
+    "1734465996114": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734465996114",
+      "duration": 12000
+    },
+    "1734466094036": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734466094036",
+      "duration": 18000
+    },
+    "1734466114748": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734466114748",
+      "duration": 54000
+    },
+    "1734466368028": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1734466368028",
+      "duration": 6000
+    }
+  }
+}

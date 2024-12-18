@@ -5,4 +5,7 @@ tags:
 - gccommon
 french:
 - "[[Institut de recherche]]"
+relatedTerm:
+- "[[Research]]"
+- "[[Laboratories]]"
 ---

@@ -1,8 +1,10 @@
 ---
 title: Capital
-longTitle: 'Capital'
+created: 2024-12-13
+modified: 2024-12-17
 tags:
 - gccommon
+longTitle: 'Capital'
 french:
 - "[[Capital]]"
 narrowerTerm:
@@ -10,4 +12,8 @@ narrowerTerm:
 - "[[Human capital]]"
 - "[[Venture capital]]"
 - "[[Working capital]]"
+relatedTerm:
+- "[[Property]]"
+- "[[Currency]]"
 ---
+# Capital

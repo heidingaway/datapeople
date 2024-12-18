@@ -4,6 +4,7 @@ created: 2024-10-26
 modified: 2024-12-05
 tags:
   - project/dma
+  - favourites
 type: "[[100 Project]]"
 reference: "[[Data Maturity Assessment for Government (UK)]]"
 component:
@@ -15,4 +16,4 @@ assess:
 # 101 GC Data Maturity Assessment
 
 ## Reference Documents
-- kanban [[101 UK Maturity Model Review]]
+- [[101 UK Maturity Model Review]]

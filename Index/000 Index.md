@@ -1,9 +1,10 @@
 ---
 title: 000 Index
 created: 2024-10-25
-modified: 2024-12-05
+modified: 2024-12-17
 tags:
 - meta
+- favourites
 ---
 # 000 Index
 - area [[100 Project]]

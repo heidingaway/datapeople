@@ -1,8 +1,12 @@
 ---
 title: Economic impact analysis
-longTitle: 'Economic impact analysis'
+created: 2024-12-13
+modified: 2024-12-17
 tags:
 - gccommon
+longTitle: 'Economic impact analysis'
 use:
 - "[[Economic impact]]"
+- "[[Economic analysis]]"
 ---
+# Economic impact analysis

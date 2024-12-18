@@ -7,6 +7,7 @@ french:
 - "[[Syndicat]]"
 relatedTerm:
 - "[[Labour union training]]"
+- "[[Labour relations]]"
 usedFor:
 - "[[Labor organizations]]"
 - "[[Labor unions]]"

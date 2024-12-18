@@ -9,10 +9,12 @@
   "emoji-shortcodes",
   "juggl",
   "calendar",
-  "obsidian-kanban",
   "note-refactor-obsidian",
   "periodic-notes",
   "global-search-and-replace",
   "quick-tagger",
-  "obsidian-outliner"
+  "task-list-kanban",
+  "focus-time",
+  "homepage",
+  "widgets"
 ]

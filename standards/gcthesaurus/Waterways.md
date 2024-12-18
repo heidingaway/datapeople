@@ -1,8 +1,10 @@
 ---
 title: Waterways
-longTitle: 'Waterways'
+created: 2024-12-13
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Waterways'
 french:
 - "[[Voie navigable]]"
 scopeNote:
@@ -13,4 +15,10 @@ usedFor:
 - "[[Navigable waterways]]"
 - "[[Seaway]]"
 - "[[Water routes]]"
+relatedTerm:
+- "[[Watercourses]]"
+- "[[Water transport]]"
+- "[[Navigation]]"
+- "[[Canals]]"
 ---
+# Waterways

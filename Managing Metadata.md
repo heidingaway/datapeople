@@ -2,7 +2,7 @@
 title: Managing Metadata
 created: 2024-12-06
 modified: 2024-12-06
-object: "[[Metadata]]"
+object: "[[404.06 Metadata]]"
 type: "[[401.05 OrganizeAction]]"
 apply:
   - "[[GC Enterprise Data Reference Standards]]"
@@ -15,7 +15,7 @@ support:
   - "[[reusing data and information]]"
 comply:
   - "[[Appendix J Standard on Systems that Manage Information and Data]]"
-tags: 
-- project/dma
+tags:
+  - project/dma
 ---
 # Managing Metadata

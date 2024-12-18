@@ -9,4 +9,8 @@ usedFor:
 - "[[Cookery]]"
 - "[[Meal preparation]]"
 - "[[Recipes]]"
+relatedTerm:
+- "[[Nutrition]]"
+- "[[Home economics]]"
+- "[[Food]]"
 ---

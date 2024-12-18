@@ -1,15 +1,21 @@
 ---
 title: Energy supply
-longTitle: 'Energy supply'
+created: 2024-12-13
+modified: 2024-12-17
 tags:
 - gccommon
-french:
-- "[[Disponibilites energetiques]]"
-narrowerTerm:
-- "[[Fuel supply]]"
+relatedTerm:
+- "[[Energy]]"
+- "[[Energy production]]"
+- "[[Energy use]]"
+- "[[Renewable energy]]"
+- "[[Supply]]"
 usedFor:
 - "[[Energy resources]]"
 - "[[Energy sources]]"
 - "[[Power resources]]"
 - "[[Power supply]]"
+narrowerTerm:
+- "[[Fuel supply]]"
 ---
+# Energy supply

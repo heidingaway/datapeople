@@ -1,12 +1,16 @@
 ---
 title: Computer security
-longTitle: 'Computer security'
+created: 2024-12-13
+modified: 2024-12-17
 tags:
 - gccommon
+longTitle: 'Computer security'
 french:
 - "[[Securite informatique]]"
 relatedTerm:
 - "[[Foreign interference]]"
+- "[[Cryptography]]"
+- "[[Computers]]"
 usedFor:
 - "[[Computer system security]]"
 - "[[Cyber security]]"
@@ -17,3 +21,4 @@ usedFor:
 - "[[Information system security]]"
 - "[[Information technology security]]"
 ---
+# Computer security

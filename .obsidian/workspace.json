@@ -4,11 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c647684ae15123de",
+        "id": "e6ee9a6dd9b931e5",
         "type": "tabs",
         "children": [
           {
-            "id": "0aa96023c785a99f",
+            "id": "1deaf285ba954fd1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "9440c9ef0b7cb363",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,8 +38,24 @@
               "icon": "lucide-file",
               "title": "Making data available"
             }
+          },
+          {
+            "id": "769ac523d26b94aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101 R34 Managing disposal of data in the right way.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "101 R34 Managing disposal of data in the right way"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -41,7 +74,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -76,16 +109,6 @@
           },
           {
             "id": "3261214403441120",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
-            }
-          },
-          {
-            "id": "d44f57d5e555f782",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -191,8 +214,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           },
           {
@@ -225,6 +248,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -233,49 +257,50 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-kanban:Create new board": false,
       "quick-tagger:Add tag to current note": false,
       "quick-tagger:Remove tag from current note": false,
+      "focus-time:View total focus time data": false,
+      "widgets:Add widget": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "e8351de45c116702",
+  "active": "769ac523d26b94aa",
   "lastOpenFiles": [
-    "standards/gcthesaurus/HE Health and Safety.md",
-    "Collaborations.md",
+    "101 R09 Recognising the importance of data in individual staff’s work.md",
+    "101 R33 Ensuring findability of data.md",
+    "101 R34 Managing disposal of data in the right way.md",
+    "101 R08 Engaging with support teams and networks to develop data skills.md",
+    "101 R07 Working with external data users and meeting their needs.md",
+    "101 R06 Working with internal data users and meeting their needs.md",
     "101 R05 Discussing and learning from mistakes.md",
-    "2024-12-11.md",
-    "standards/gcthesaurus/Air.md",
-    "standards/gcthesaurus/Social issues.md",
-    "standards/gcthesaurus/Atmospheric environment Atmosphere.md",
-    "standards/gcthesaurus/Air quality Air pollution Air conditioning.md",
-    "standards/gcthesaurus/Health professionals.md",
-    "standards/gcthesaurus/Medical professionals Medical personnel Health per.md",
+    "101 R04 Sharing data as part of strategy.md",
+    "101 R03 Considering the needs of the users when making changes to data.md",
+    "101 R02 Sharing data with stakeholders and customers.md",
+    "101 R01 Making data available to those who need it.md",
+    "standards/gcthesaurus/Fugitives from justice Crime.md",
+    "standards/gcthesaurus/Homelessness Economic conditions Disadvantaged per.md",
+    "standards/gcthesaurus/Poverty.md",
+    "Making data available.md",
+    "standards/gcdepts/406.01.255 Public Safety Canada.md",
+    "standards/gcdepts/406.01.316 Statistics Canada.md",
+    "standards/gcdepts/406.01.308 Privy Council Office.md",
+    "standards/gcdepts/Statistics Canada (StatCan).md",
+    "standards/gcdepts/406.01.315 Shared Services Canada.md",
+    "standards/gcdepts/406.01.309 Public Health Agency of Canada.md",
+    "standards/gcdepts/Privy Council Office (PCO).md",
+    "standards/gcdepts/406.01.254 Natural Resources Canada.md",
+    "standards/gcdepts/406.01.333 National Research Council Canada.md",
+    "standards/gcdepts/406.01.285 Library and Archives Canada.md",
+    "standards/gcdepts/406.01.251 Innovation, Science and Economic Development Canada.md",
+    "Templates/Scripts/quote.js",
+    "Templates/Scripts/random_quote.js.txt",
+    "Templates/Scripts/%.txt",
+    "Templates/Scripts/New Text Document.txt",
+    "Templates/Scripts",
     "Reference Photos/~$create links.tmp",
-    "standards/gcthesaurus/Cultural development.md",
-    "standards/gcthesaurus/Culture Cultural policy Cultural industry.md",
-    "standards/gcthesaurus/Educational institutions.md",
-    "standards/gcthesaurus/Universities Schools Colleges.md",
-    "standards/gcthesaurus/Teachers Students Education.md",
-    "standards/gcthesaurus/Authors.md",
-    "standards/gcthesaurus/Sports Medical records Health indicators.md",
-    "standards/gcthesaurus/Fitness.md",
-    "standards/gcthesaurus/Wholesale trade Retail trade International trade F.md",
-    "standards/gcthesaurus/Trade.md",
-    "standards/gcthesaurus/Writing Publishing Manuscripts Books.md",
-    "standards/gcthesaurus/Home renovations.md",
-    "standards/gcthesaurus/Contracting.md",
-    "standards/gcthesaurus/Sociology Social surveys Social sciences Social pr.md",
-    "standards/gcthesaurus/Peace.md",
-    "standards/gcthesaurus/Maintenance Housing Household equipment.md",
     "Reference Photos/create links.xlsx",
     "Reading/The Synthesis Gap.pdf",
     "Reading/Government as a Brain.pdf",
-    "Reading",
-    "New folder",
-    "standards/gcthesaurus/markdown_files",
-    "standards/pt",
-    "standards/person",
-    "standards/gcthesaurus"
+    "Reading"
   ]
 }

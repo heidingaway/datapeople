@@ -1,8 +1,10 @@
 ---
 title: Biochemicals
-longTitle: 'Biochemicals'
+created: 2024-12-13
+modified: 2024-12-17
 tags:
 - gccommon
+longTitle: 'Biochemicals'
 broaderTerm:
 - "[[Chemicals]]"
 french:
@@ -12,4 +14,8 @@ usedFor:
 - "[[Biochemical products]]"
 - "[[Biochemical substances]]"
 - "[[Green chemicals]]"
+relatedTerm:
+- "[[Biochemistry]]"
+- "[[Biological products]]"
 ---
+# Biochemicals

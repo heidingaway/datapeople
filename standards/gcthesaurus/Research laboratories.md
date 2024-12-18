@@ -1,8 +1,11 @@
 ---
-title: Research Laboratories
-longTitle: 'Research, Laboratories'
+title: Research laboratories
+created: 2024-12-13
+modified: 2024-12-17
 tags:
 - gccommon
-relatedTerm:
-- "[[Research institutes]]"
+longTitle: 'Research laboratories'
+use:
+- "[[Laboratories]]"
 ---
+# Research laboratories

@@ -9,6 +9,8 @@ narrowerTerm:
 - "[[Global navigation satellite systems]]"
 relatedTerm:
 - "[[Radar]]"
+- "[[Navigation]]"
+- "[[Marine safety]]"
 usedFor:
 - "[[Navigation aids]]"
 ---

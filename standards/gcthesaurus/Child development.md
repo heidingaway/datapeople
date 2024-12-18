@@ -5,4 +5,7 @@ tags:
 - gccommon
 french:
 - "[[Developpement de lenfant]]"
+related:
+- "[[Childrens health]]"
+- "[[Children]]"
 ---

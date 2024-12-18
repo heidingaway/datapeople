@@ -1,8 +1,10 @@
 ---
 title: Benchmarks
-longTitle: 'Benchmarks'
+created: 2024-12-13
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Benchmarks'
 french:
 - "[[Repere]]"
 scopeNote:
@@ -10,4 +12,16 @@ scopeNote:
 usedFor:
 - "[[Bench marks]]"
 - "[[Benchmarking]]"
+relatedTerm:
+- "[[Testing]]"
+- "[[Measurement]]"
+- "[[Guidelines]]"
+- "[[Control]]"
+- "[[Comparison]]"
+- "[[Codes of practice]]"
+- "[[Bioassay]]"
+- "[[Best practices]]"
+- "[[Assessment]]"
+- "[[Approval processes]]"
 ---
+# Benchmarks

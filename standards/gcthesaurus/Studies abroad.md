@@ -7,4 +7,5 @@ french:
 - "[[Etudes a letranger]]"
 relatedTerm:
 - "[[Foreign students]]"
+- "[[Exchange programs]]"
 ---

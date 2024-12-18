@@ -7,4 +7,5 @@ french:
 - "[[Redaction administrative]]"
 relatedTerm:
 - "[[Annual reports]]"
+- "[[Technical writing]]"
 ---

@@ -10,6 +10,5 @@ class:
 - "[[101 R34 Managing disposal of data in the right way]]"
 - "[[101 R35 Recording the data you hold, and ensuring people can access it]]"
 - "[[101 R36 Keeping good metadata]]"
-type: "[[101 Topic]]"
 ---
 # 101 S04 Knowing the data you have
