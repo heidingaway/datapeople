@@ -5,8 +5,6 @@ modified: 2024-12-18
 tags:
 - gccommon
 longTitle: 'Architectural drawings'
-broaderTerm:
-- "[[Drawings]]"
 french:
 - "[[Dessin darchitecture]]"
 relatedTerm:

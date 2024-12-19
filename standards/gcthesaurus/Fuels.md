@@ -9,6 +9,7 @@ narrowerTerm:
 - "[[Diesel fuel]]"
 - "[[Gasoline]]"
 - "[[Petroleum]]"
+- "[[Alternative fuels]]"
 relatedTerm:
 - "[[Fuel supply]]"
 usedFor:

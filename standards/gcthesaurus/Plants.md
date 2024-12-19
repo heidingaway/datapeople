@@ -11,6 +11,7 @@ narrowerTerm:
 - "[[Ornamental plants]]"
 - "[[Trees]]"
 - "[[Wild plants]]"
+- "[[Weeds]]"
 relatedTerm:
 - "[[Flora]]"
 - "[[Plant diseases]]"

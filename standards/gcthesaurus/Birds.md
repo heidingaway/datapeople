@@ -7,6 +7,7 @@ french:
 - "[[Oiseau]]"
 narrowerTerm:
 - "[[Migratory birds]]"
+- "[[Aquatic birds]]"
 relatedTerm:
 - "[[Ornithology]]"
 ---

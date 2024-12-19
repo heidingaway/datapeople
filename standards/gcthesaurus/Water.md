@@ -11,6 +11,7 @@ narrowerTerm:
 - "[[Salt water]]"
 - "[[Surface water]]"
 - "[[Waste water]]"
+- "[[Drinking water]]"
 usedFor:
 - "[[Water resources]]"
 ---

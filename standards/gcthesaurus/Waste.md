@@ -1,14 +1,17 @@
 ---
 title: Waste
-longTitle: 'Waste'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Waste'
 french:
 - "[[Dechets]]"
 narrowerTerm:
 - "[[Domestic waste]]"
 - "[[Electronic waste]]"
 - "[[Industrial waste]]"
+- "[[Hazardous waste]]"
 relatedTerm:
 - "[[Waste management]]"
 - "[[Waste water]]"
@@ -22,3 +25,4 @@ usedFor:
 - "[[Waste materials]]"
 - "[[Waste products]]"
 ---
+# Waste

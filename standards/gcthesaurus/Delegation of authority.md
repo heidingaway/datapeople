@@ -5,4 +5,7 @@ tags:
 - gccommon
 french:
 - "[[Delegation de pouvoir]]"
+relatedTerm:
+- "[[Devolution]]"
+- "[[Accountability]]"
 ---

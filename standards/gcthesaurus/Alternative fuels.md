@@ -1,14 +1,13 @@
 ---
 title: Alternative fuels
-longTitle: 'Alternative fuels'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
-broaderTerm:
-- "[[Alternative energy]]"
+longTitle: 'Alternative fuels'
 french:
 - "[[Carburant de remplacement]]"
 scopeNote:
 - "Refers to alternative transportation fuels"
-usedFor:
-- "[[Alternative transportation fuels]]"
 ---
+# Alternative fuels

@@ -9,6 +9,7 @@ french:
 - "[[Chimie]]"
 narrowerTerm:
 - "[[Biochemistry]]"
+- "[[Geochemistry]]"
 relatedTerm:
 - "[[Chemicals]]"
 - "[[Chemical industry]]"

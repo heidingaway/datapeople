@@ -10,6 +10,7 @@ narrowerTerm:
 - "[[Economic statistics]]"
 - "[[Social statistics]]"
 - "[[Vital statistics]]"
+- "[[Demographic statistics]]"
 relatedTerm:
 - "[[Indicators]]"
 - "[[Tables]]"

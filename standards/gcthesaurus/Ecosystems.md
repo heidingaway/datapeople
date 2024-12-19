@@ -1,8 +1,10 @@
 ---
 title: Ecosystems
-longTitle: 'Ecosystems'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Ecosystems'
 french:
 - "[[Ecosysteme]]"
 narrowerTerm:
@@ -16,4 +18,9 @@ scopeNote:
 usedFor:
 - "[[Ecozones]]"
 - "[[Natural ecosystems]]"
+relatedTerm:
+- "[[Environment]]"
+- "[[Ecology]]"
+- "[[Biomass]]"
 ---
+# Ecosystems

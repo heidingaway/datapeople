@@ -9,4 +9,7 @@ french:
 - "[[Exploration de donnees]]"
 usedFor:
 - "[[Data extraction]]"
+relatedTerm:
+- "[[Data processing]]"
+- "[[Analytics]]"
 ---

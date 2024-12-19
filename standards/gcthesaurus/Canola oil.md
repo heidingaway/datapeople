@@ -1,10 +1,11 @@
 ---
 title: Canola oil
-longTitle: 'Canola oil'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
-broaderTerm:
-- "[[Edible oils and fats]]"
+longTitle: 'Canola oil'
 french:
 - "[[Huile de canola]]"
 ---
+# Canola oil

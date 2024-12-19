@@ -15,6 +15,8 @@ relatedTerm:
 - "[[Electronics]]"
 - "[[Electronic waste]]"
 - "[[Electrical equipment]]"
+- "[[Electronic equipment]]"
+- "[[Electricity]]"
 usedFor:
 - "[[Electronic apparatus]]"
 - "[[Electronic appliances]]"

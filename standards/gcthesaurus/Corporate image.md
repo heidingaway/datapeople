@@ -5,4 +5,7 @@ tags:
 - gccommon
 french:
 - "[[Image de marque]]"
+relatedTerm:
+- "[[Corporations]]"
+- "[[Corporate names]]"
 ---

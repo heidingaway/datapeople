@@ -1,10 +1,10 @@
 ---
 title: Accessibility for persons with disabilities
-longTitle: 'Accessibility for persons with disabilities'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
-broaderTerm:
-- "[[Accessibility]]"
+longTitle: 'Accessibility for persons with disabilities'
 french:
 - "[[Accessibilite aux personnes handicapees]]"
 relatedTerm:
@@ -17,3 +17,4 @@ usedFor:
 - "[[Disabled access]]"
 - "[[Wheelchair access]]"
 ---
+# Accessibility for persons with disabilities

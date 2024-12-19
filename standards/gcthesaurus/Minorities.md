@@ -8,6 +8,8 @@ french:
 narrowerTerm:
 - "[[2SLGBTQI people]]"
 - "[[Visible minorities]]"
+- "[[Language minorities]]"
+- "[[Ethnic minorities]]"
 usedFor:
 - "[[Minority groups]]"
 ---

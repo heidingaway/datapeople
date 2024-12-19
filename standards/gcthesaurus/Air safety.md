@@ -13,4 +13,7 @@ usedFor:
 - "[[Aviation safety]]"
 - "[[Cabin safety]]"
 - "[[Flight safety]]"
+relatedTerm:
+- "[[Aircraft accidents]]"
+- "[[Air transport]]"
 ---

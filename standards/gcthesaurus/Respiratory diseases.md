@@ -1,8 +1,10 @@
 ---
 title: Respiratory diseases
-longTitle: 'Respiratory diseases'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Respiratory diseases'
 french:
 - "[[Maladie respiratoire]]"
 usedFor:
@@ -10,4 +12,7 @@ usedFor:
 - "[[Pulmonary diseases]]"
 - "[[Respiratory disorders]]"
 - "[[Respiratory illness]]"
+narrowerTerm:
+- "[[Coronavirus diseases]]"
 ---
+# Respiratory diseases

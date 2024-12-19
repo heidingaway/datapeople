@@ -1,12 +1,23 @@
 ---
 title: Crime
-longTitle: 'Crime'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Crime'
 french:
 - "[[Crime]]"
 narrowerTerm:
 - "[[Fugitives from justice]]"
+- "[[War crimes]]"
+- "[[Organized crime]]"
+- "[[Human trafficking]]"
+- "[[Homicide]]"
+- "[[Fraud]]"
+- "[[Economic crime]]"
+- "[[Crime against humanity]]"
+- "[[Corruption]]"
+- "[[Computer crime]]"
 relatedTerm:
 - "[[Forensics]]"
 - "[[Proceeds of crime]]"
@@ -19,3 +30,4 @@ usedFor:
 - "[[Illegal activities]]"
 - "[[Theft]]"
 ---
+# Crime

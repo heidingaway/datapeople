@@ -1,8 +1,10 @@
 ---
 title: Partnerships
-longTitle: 'Partnerships'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Partnerships'
 french:
 - "[[Partenariat]]"
 narrowerTerm:
@@ -13,4 +15,10 @@ scopeNote:
 usedFor:
 - "[[Collaborations]]"
 - "[[Joint ventures]]"
+relatedTerm:
+- "[[Dissolution]]"
+- "[[Corporations]]"
+- "[[Cooperation]]"
+- "[[Collaborative research]]"
 ---
+# Partnerships

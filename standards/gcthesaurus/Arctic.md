@@ -10,4 +10,6 @@ relatedTerm:
 usedFor:
 - "[[Arctic regions]]"
 - "[[North Pole]]"
+narrowerTerm:
+- "[[Polar regions]]"
 ---

@@ -1,8 +1,10 @@
 ---
 title: Compact discs
-longTitle: 'Compact discs'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Compact discs'
 french:
 - "[[Disque compact]]"
 scopeNote:
@@ -13,4 +15,8 @@ usedFor:
 - "[[Compact digital audio discs]]"
 - "[[Compact discs digital audio]]"
 - "[[Compact disks]]"
+relatedTerm:
+- "[[Digital recordings]]"
+- "[[CD-ROMs]]"
 ---
+# Compact discs

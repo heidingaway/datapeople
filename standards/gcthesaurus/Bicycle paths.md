@@ -1,7 +1,7 @@
 ---
 title: Bicycle paths
 created: 2024-12-13
-modified: 2024-12-17
+modified: 2024-12-18
 tags:
 - gccommon
 longTitle: 'Bicycle paths'
@@ -16,5 +16,7 @@ usedFor:
 - "[[Biking trails]]"
 - "[[Cycling paths]]"
 - "[[Cycling trails]]"
+historyNote:
+- "Bicycle paths replaces Cycling trails as preferred"
 ---
 # Bicycle paths

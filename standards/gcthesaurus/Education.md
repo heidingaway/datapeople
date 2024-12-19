@@ -1,8 +1,10 @@
 ---
 title: Education
-longTitle: 'Education'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Education'
 french:
 - "[[Education  Enseignement]]"
 narrowerTerm:
@@ -26,12 +28,6 @@ narrowerTerm:
 - "[[Secondary education]]"
 - "[[Technical education]]"
 - "[[User education]]"
-relatedTerm:
-- "[[Access to education]]"
-- "[[Curriculum]]"
-- "[[Education indicators]]"
-- "[[Education policy]]"
-- "[[Educational funding]]"
 usedFor:
 - "[[Education system]]"
 - "[[Instructions]]"
@@ -58,3 +54,4 @@ relatedTerm:
 - "[[Teachers]]"
 - "[[Training]]"
 ---
+# Education

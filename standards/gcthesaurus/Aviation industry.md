@@ -1,10 +1,10 @@
 ---
 title: Aviation industry
-longTitle: 'Aviation industry'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
-broaderTerm:
-- "[[Aerospace industry]]"
+longTitle: 'Aviation industry'
 french:
 - "[[Industrie de laeronautique]]"
 scopeNote:
@@ -15,3 +15,4 @@ usedFor:
 - "[[Aircraft manufacturing industry]]"
 - "[[Helicopter industry]]"
 ---
+# Aviation industry

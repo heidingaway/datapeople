@@ -1,12 +1,13 @@
 ---
 title: Butterflies
-longTitle: 'Butterflies'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
-broaderTerm:
-- "[[Insects]]"
+longTitle: 'Butterflies'
 french:
 - "[[Papillon]]"
 usedFor:
 - "[[Moths]]"
 ---
+# Butterflies

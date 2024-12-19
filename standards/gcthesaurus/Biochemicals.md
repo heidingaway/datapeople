@@ -1,12 +1,10 @@
 ---
 title: Biochemicals
 created: 2024-12-13
-modified: 2024-12-17
+modified: 2024-12-18
 tags:
 - gccommon
 longTitle: 'Biochemicals'
-broaderTerm:
-- "[[Chemicals]]"
 french:
 - "[[Produit biochimique]]"
 usedFor:

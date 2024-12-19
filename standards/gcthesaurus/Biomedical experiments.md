@@ -1,10 +1,11 @@
 ---
 title: Biomedical experiments
-longTitle: 'Biomedical experiments'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
-broaderTerm:
-- "[[Experiments]]"
+longTitle: 'Biomedical experiments'
 french:
 - "[[Experimentation biomedicale]]"
 ---
+# Biomedical experiments

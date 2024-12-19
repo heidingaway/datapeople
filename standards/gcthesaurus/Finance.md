@@ -1,8 +1,10 @@
 ---
 title: Finance
-longTitle: 'Finance'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Finance'
 french:
 - "[[Finances]]"
 narrowerTerm:
@@ -13,4 +15,7 @@ narrowerTerm:
 relatedTerm:
 - "[[Accounting standards]]"
 - "[[Financial crisis]]"
+- "[[Chief Financial Officer]]"
+- "[[Financial services]]"
 ---
+# Finance

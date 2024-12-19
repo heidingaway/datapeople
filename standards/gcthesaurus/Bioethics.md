@@ -1,10 +1,10 @@
 ---
 title: Bioethics
-longTitle: 'Bioethics'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
-broaderTerm:
-- "[[Ethics]]"
+longTitle: 'Bioethics'
 french:
 - "[[Bioethique]]"
 relatedTerm:
@@ -13,3 +13,4 @@ usedFor:
 - "[[Biomedical ethics]]"
 - "[[Medical ethics]]"
 ---
+# Bioethics

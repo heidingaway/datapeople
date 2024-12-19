@@ -9,6 +9,7 @@ narrowerTerm:
 - "[[Sexual offences]]"
 relatedTerm:
 - "[[Contravention]]"
+- "[[Crime]]"
 usedFor:
 - "[[Offenses]]"
 ---

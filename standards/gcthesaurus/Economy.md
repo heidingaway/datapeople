@@ -1,10 +1,17 @@
 ---
 title: Economy
-longTitle: 'Economy'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Economy'
 french:
 - "[[Economie]]"
 narrowerTerm:
 - "[[Knowledge based economy]]"
+relatedTerm: 
+- "[[Economic history]]"
+- "[[Economic conditions]]"
+- "[[Economic analysis]]"
 ---
+# Economy

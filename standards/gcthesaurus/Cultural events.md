@@ -11,4 +11,7 @@ narrowerTerm:
 - "[[International exhibitions]]"
 usedFor:
 - "[[Cultural activities]]"
+relatedTerm:
+- "[[Culture]]"
+- "[[Cultural programming]]"
 ---

@@ -1,8 +1,10 @@
 ---
 title: Infectious diseases
-longTitle: 'Infectious diseases'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Infectious diseases'
 french:
 - "[[Maladie infectieuse]]"
 narrowerTerm:
@@ -11,6 +13,7 @@ narrowerTerm:
 - "[[Influenza]]"
 - "[[Poxvirus diseases]]"
 - "[[Sexually transmitted diseases]]"
+- "[[Coronavirus diseases]]"
 relatedTerm:
 - "[[Quarantine]]"
 usedFor:
@@ -22,3 +25,4 @@ usedFor:
 - "[[Viral diseases]]"
 - "[[Virus diseases]]"
 ---
+# Infectious diseases

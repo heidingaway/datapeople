@@ -1,8 +1,10 @@
 ---
 title: Internet
-longTitle: 'Internet'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Internet'
 french:
 - "[[Internet]]"
 narrowerTerm:
@@ -13,4 +15,8 @@ usedFor:
 - "[[WWW]]"
 - "[[Web]]"
 - "[[World Wide Web]]"
+relatedTerm:
+- "[[Electronic government]]"
+- "[[Electronic commerce]]"
 ---
+# Internet

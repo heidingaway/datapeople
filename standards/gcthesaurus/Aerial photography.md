@@ -1,10 +1,11 @@
 ---
 title: Aerial photography
-longTitle: 'Aerial photography'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
-broaderTerm:
-- "[[Photography]]"
+longTitle: 'Aerial photography'
 french:
 - "[[Photographie aerienne]]"
 ---
+# Aerial photography

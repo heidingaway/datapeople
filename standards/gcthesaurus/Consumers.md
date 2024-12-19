@@ -7,4 +7,6 @@ french:
 - "[[Consommateur]]"
 relatedTerm:
 - "[[Consumer protection]]"
+- "[[Consumerism]]"
+- "[[Buyers]]"
 ---

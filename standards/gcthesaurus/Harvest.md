@@ -1,8 +1,14 @@
 ---
 title: Harvest
-longTitle: 'Harvest'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Harvest'
 french:
 - "[[Recolte]]"
+relatedTerm:
+- "[[Crops]]"
+- "[[Crop insurance]]"
 ---
+# Harvest

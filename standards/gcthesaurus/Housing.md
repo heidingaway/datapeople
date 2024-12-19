@@ -1,8 +1,10 @@
 ---
 title: Housing
-longTitle: 'Housing'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Housing'
 french:
 - "[[Logement]]"
 relatedTerm:
@@ -15,4 +17,7 @@ usedFor:
 - "[[Apartments]]"
 - "[[Dwellings]]"
 - "[[Houses]]"
+narrowerTerm:
+- "[[Subsidized housing]]"
 ---
+# Housing

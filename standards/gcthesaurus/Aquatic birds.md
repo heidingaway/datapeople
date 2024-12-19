@@ -1,8 +1,10 @@
 ---
 title: Aquatic birds
-longTitle: 'Aquatic birds'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Aquatic birds'
 french:
 - "[[Oiseau aquatique]]"
 usedFor:
@@ -10,7 +12,5 @@ usedFor:
 - "[[Seabirds]]"
 - "[[Water birds]]"
 - "[[Waterbirds]]"
-broaderTerm:
-- "[[Birds]]"
-- "[[Aquatic animals]]"
 ---
+# Aquatic birds

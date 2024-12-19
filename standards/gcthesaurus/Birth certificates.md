@@ -1,10 +1,11 @@
 ---
 title: Birth certificates
-longTitle: 'Birth certificates'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
-broaderTerm:
-- "[[Citizenship documents]]"
+longTitle: 'Birth certificates'
 french:
 - "[[Certificat de naissance]]"
 ---
+# Birth certificates

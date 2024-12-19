@@ -12,4 +12,6 @@ usedFor:
 - "[[Non-conventional energy]]"
 - "[[Pollution-free energy]]"
 - "[[Soft energy]]"
+narrowerTerm:
+- "[[Alternative fuels]]"
 ---

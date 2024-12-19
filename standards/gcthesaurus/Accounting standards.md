@@ -1,10 +1,11 @@
 ---
 title: Accounting standards
-longTitle: 'Accounting standards'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
-broaderTerm:
-- "[[Accounting]]"
+longTitle: 'Accounting standards'
 french:
 - "[[Normes comptables]]"
 ---
+# Accounting standards

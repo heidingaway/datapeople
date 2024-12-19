@@ -5,8 +5,6 @@ modified: 2024-12-18
 tags:
 - gccommon
 longTitle: 'Aquatic wildlife'
-broaderTerm:
-- "[[Wildlife]]"
 french:
 - "[[Faune aquatique]]"
 usedFor:

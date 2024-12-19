@@ -5,4 +5,7 @@ tags:
 - gccommon
 french:
 - "[[Programme relatif a lenvironnement]]"
+relatedTerm:
+- "[[Environmental policy]]"
+- "[[Environment]]"
 ---

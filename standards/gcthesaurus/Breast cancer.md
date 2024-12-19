@@ -1,10 +1,11 @@
 ---
 title: Breast cancer
-longTitle: 'Breast cancer'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
-broaderTerm:
-- "[[Cancer]]"
+longTitle: 'Breast cancer'
 french:
 - "[[Cancer du sein]]"
 ---
+# Breast cancer

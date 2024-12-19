@@ -1,8 +1,14 @@
 ---
 title: Deficit
-longTitle: 'Deficit'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Deficit'
 french:
 - "[[Deficit]]"
+relatedTerm:
+- "[[Debt]]"
+- "[[Bankruptcies]]"
 ---
+# Deficit

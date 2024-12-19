@@ -1,8 +1,10 @@
 ---
 title: Manufacturing industry
-longTitle: 'Manufacturing industry'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Manufacturing industry'
 french:
 - "[[Industrie de la fabrication]]"
 narrowerTerm:
@@ -22,6 +24,9 @@ narrowerTerm:
 - "[[Shoe industry]]"
 - "[[Textile industry]]"
 - "[[Tobacco industry]]"
+- "[[Woodworking industry]]"
+- "[[Pulp and paper industry]]"
+- "[[Lumber industry]]"
 usedFor:
 - "[[Manufacturing]]"
 - "[[Manufacturing sector]]"
@@ -29,3 +34,4 @@ usedFor:
 - "[[Processing industry]]"
 - "[[Processing sector]]"
 ---
+# Manufacturing industry

@@ -1,10 +1,11 @@
 ---
 title: Artificial insemination
-longTitle: 'Artificial insemination'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
-broaderTerm:
-- "[[Reproductive technology]]"
+longTitle: 'Artificial insemination'
 french:
 - "[[Insemination artificielle]]"
 ---
+# Artificial insemination
