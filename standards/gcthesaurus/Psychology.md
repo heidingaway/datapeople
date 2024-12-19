@@ -5,4 +5,7 @@ tags:
 - gccommon
 french:
 - "[[Psychologie]]"
+relatedTerm:
+- "[[Behaviour]]"
+- "[[Attitudes]]"
 ---

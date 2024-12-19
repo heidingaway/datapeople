@@ -7,4 +7,7 @@ french:
 - "[[Systeme informatique]]"
 usedFor:
 - "[[Computer operating systems]]"
+relatedTerm:
+- "[[Computers]]"
+- "[[Computer networks]]"
 ---

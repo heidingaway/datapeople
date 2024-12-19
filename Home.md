@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] Always tell the truth. That way, you don't have to remember what you said.
-> — Mark Twain  
+> [!quote] The more you know yourself, the more you forgive yourself.
+> — Confucius  
   
 ---  
   
@@ -33,3 +33,5 @@ date: 2024-10-27 21:00
 to:placeholder
 ``` 
 
+## Obsidian
+delete page: "shift + alt + /"

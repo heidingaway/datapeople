@@ -1,8 +1,10 @@
 ---
 title: Aquatic wildlife
-longTitle: 'Aquatic wildlife'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Aquatic wildlife'
 broaderTerm:
 - "[[Wildlife]]"
 french:
@@ -12,4 +14,8 @@ usedFor:
 - "[[Freshwater fauna]]"
 - "[[Marine fauna]]"
 - "[[Marine wildlife]]"
+relatedTerm:
+- "[[Aquatic ecosystems]]"
+- "[[Aquatic animals]]"
 ---
+# Aquatic wildlife

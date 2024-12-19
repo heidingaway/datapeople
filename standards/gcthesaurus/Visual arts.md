@@ -13,4 +13,7 @@ narrowerTerm:
 - "[[Sculpture]]"
 usedFor:
 - "[[Fine arts]]"
+relatedTerm:
+- "[[Art works]]"
+- "[[Art galleries]]"
 ---

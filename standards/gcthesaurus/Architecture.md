@@ -1,8 +1,10 @@
 ---
 title: Architecture
-longTitle: 'Architecture'
+created: 2024-12-18
+modified: 2024-*12*-18
 tags:
 - gccommon
+longTitle: 'Architecture'
 french:
 - "[[Architecture]]"
 narrowerTerm:
@@ -11,4 +13,10 @@ narrowerTerm:
 - "[[Military architecture]]"
 - "[[Public architecture]]"
 - "[[Religious architecture]]"
+relatedTerm:
+- "[[Buildings]]"
+- "[[Architectural services]]"
+- "[[Architectural heritage]]"
+- "[[Architectural drawings]]"
 ---
+# Architecture

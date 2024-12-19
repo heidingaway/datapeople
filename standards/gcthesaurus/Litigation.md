@@ -5,4 +5,7 @@ tags:
 - gccommon
 french:
 - "[[Litige]]"
+relatedTerm:
+- "[[Conflicts]]"
+- "[[Arbitration]]"
 ---

@@ -1,10 +1,16 @@
 ---
 title: Chemistry
-longTitle: 'Chemistry'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Chemistry'
 french:
 - "[[Chimie]]"
 narrowerTerm:
 - "[[Biochemistry]]"
+relatedTerm:
+- "[[Chemicals]]"
+- "[[Chemical industry]]"
 ---
+# Chemistry

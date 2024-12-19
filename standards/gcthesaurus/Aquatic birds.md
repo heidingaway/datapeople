@@ -10,4 +10,7 @@ usedFor:
 - "[[Seabirds]]"
 - "[[Water birds]]"
 - "[[Waterbirds]]"
+broaderTerm:
+- "[[Birds]]"
+- "[[Aquatic animals]]"
 ---

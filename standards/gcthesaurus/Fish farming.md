@@ -5,6 +5,7 @@ tags:
 - gccommon
 broaderTerm:
 - "[[Aquaculture]]"
+- "[[Animal husbandry]]"
 french:
 - "[[Pisciculture]]"
 usedFor:

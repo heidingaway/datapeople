@@ -9,4 +9,5 @@ narrowerTerm:
 - "[[Land claims]]"
 relatedTerm:
 - "[[Claims processing]]"
+- "[[Complaints]]"
 ---

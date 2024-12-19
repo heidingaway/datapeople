@@ -5,4 +5,7 @@ tags:
 - gccommon
 french:
 - "[[Possibilite daffaires]]"
+relatedTerm:
+- "[[Businesses]]"
+- "[[Business intelligence]]"
 ---

@@ -12,4 +12,7 @@ usedFor:
 - "[[Marine plants]]"
 - "[[Seaweed]]"
 - "[[Water plants]]"
+relatedTerm:
+- "[[Aquaculture]]"
+- "[[Aquatic ecosystems]]"
 ---

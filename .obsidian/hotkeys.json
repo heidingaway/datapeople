@@ -14,5 +14,14 @@
       ],
       "key": "="
     }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "/"
+    }
   ]
 }

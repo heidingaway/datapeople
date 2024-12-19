@@ -5,4 +5,7 @@ tags:
 - gccommon
 french:
 - "[[Produit biologique]]"
+relatedTerm:
+- "[[Biology]]"
+- "[[Biochemicals]]"
 ---

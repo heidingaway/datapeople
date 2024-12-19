@@ -1,8 +1,10 @@
 ---
 title: Biological weapons
-longTitle: 'Biological weapons'
+created: 2024-12-18
+modified: 2024-12-18
 tags:
 - gccommon
+longTitle: 'Biological weapons'
 french:
 - "[[Arme biologique]]"
 usedFor:
@@ -10,4 +12,9 @@ usedFor:
 - "[[Biological warfare agents]]"
 - "[[Bioweapons]]"
 - "[[Toxin weapons]]"
+relatedTerm:
+- "[[Biological weapons]]"
+- "[[Chemical weapons]]"
+- "[[Chemical warfare]]"
 ---
+# Biological weapons

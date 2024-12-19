@@ -7,4 +7,7 @@ french:
 - "[[Plainte]]"
 usedFor:
 - "[[Grievances]]"
+relatedTerm:
+- "[[Appeals]]"
+- "[[Claims]]"
 ---
