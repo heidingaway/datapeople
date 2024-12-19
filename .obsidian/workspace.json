@@ -54,8 +54,7 @@
               "title": "Financial management"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -245,13 +244,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "504c5520b5787735",
+  "active": "227a3e1d94d81599",
   "lastOpenFiles": [
+    "standards/gcthesaurus/Financial management.md",
     "standards/gcthesaurus/Fishing rights Fisheries.md",
     "standards/gcthesaurus/Fishing area.md",
     "standards/gcthesaurus/Fishing ships Fishing rights Fishing area Fisherie.md",
     "standards/gcthesaurus/Fishing rights.md",
-    "standards/gcthesaurus/Financial management.md",
     "standards/gcthesaurus/Fishing permits Fishing area Fisheries.md",
     "standards/gcthesaurus/Fishing ships.md",
     "standards/gcthesaurus/Fisheries technology Fisheries.md",

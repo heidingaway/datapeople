@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] The more you know yourself, the more you forgive yourself.
-> — Confucius  
+> [!quote] Each misfortune you encounter will carry in it the seed of tomorrows good luck.
+> — Og Mandino  
   
 ---  
   
@@ -33,5 +33,3 @@ date: 2024-10-27 21:00
 to:placeholder
 ``` 
 
-## Obsidian
-delete page: "shift + alt + /"
