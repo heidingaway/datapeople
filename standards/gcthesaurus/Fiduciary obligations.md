@@ -1,8 +1,10 @@
 ---
 title: Fiduciary obligations
-longTitle: 'Fiduciary obligations'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Fiduciary obligations'
 french:
 - "[[Obligation fiduciaire]]"
 relatedTerm:
@@ -12,3 +14,4 @@ scopeNote:
 usedFor:
 - "[[Fiduciary duty]]"
 ---
+# Fiduciary obligations

@@ -1,8 +1,10 @@
 ---
 title: Libraries
-longTitle: 'Libraries'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Libraries'
 french:
 - "[[Bibliotheque]]"
 narrowerTerm:
@@ -20,3 +22,4 @@ usedFor:
 - "[[Documentation services]]"
 - "[[Library collections]]"
 ---
+# Libraries

@@ -1,8 +1,11 @@
 ---
 title: Policy instruments
-longTitle: 'Policy instruments'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Policy instruments'
 french:
 - "[[Instrument de politique]]"
 ---
+# Policy instruments

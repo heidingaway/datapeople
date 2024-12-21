@@ -1,12 +1,13 @@
 ---
 title: Monkeypox
-longTitle: 'Monkeypox'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
-broaderTerm:
-- "[[Poxvirus diseases]]"
+longTitle: 'Monkeypox'
 french:
 - "[[Variole simienne]]"
 usedFor:
 - "[[Monkey pox]]"
 ---
+# Monkeypox

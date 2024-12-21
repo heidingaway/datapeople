@@ -1,8 +1,10 @@
 ---
 title: Governments
-longTitle: 'Governments'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Governments'
 french:
 - "[[Gouvernement]]"
 narrowerTerm:
@@ -17,6 +19,12 @@ narrowerTerm:
 - "[[Treasury board]]"
 relatedTerm:
 - "[[Intergovernmental relations]]"
+- "[[Self government]]"
+- "[[Public administration]]"
+- "[[Government policy]]"
+- "[[Government information]]"
+- "[[Governance]]"
 scopeNote:
 - "The system according to which a nation or communit"
 ---
+# Governments

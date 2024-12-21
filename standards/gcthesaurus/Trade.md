@@ -1,8 +1,10 @@
 ---
 title: Trade
-longTitle: 'Trade'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Trade'
 french:
 - "[[Commerce]]"
 narrowerTerm:
@@ -21,4 +23,11 @@ relatedTerm:
 - "[[International trade]]"
 - "[[Retail trade]]"
 - "[[Wholesale trade]]"
+- "[[Trade shows]]"
+- "[[Trade policy]]"
+- "[[Trade office]]"
+- "[[Trade agreements]]"
+- "[[Sales]]"
+- "[[Markets]]"
 ---
+# Trade

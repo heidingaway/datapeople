@@ -1,10 +1,11 @@
 ---
 title: Low income
-longTitle: 'Low income'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
-broaderTerm:
-- "[[Personal income]]"
+longTitle: 'Low income'
 french:
 - "[[Faible revenu]]"
 ---
+# Low income

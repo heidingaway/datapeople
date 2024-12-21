@@ -1,8 +1,10 @@
 ---
 title: Performing arts
-longTitle: 'Performing arts'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Performing arts'
 french:
 - "[[Arts dinterpretation]]"
 narrowerTerm:
@@ -12,4 +14,6 @@ narrowerTerm:
 - "[[Theatre]]"
 relatedTerm:
 - "[[Festivals]]"
+- "[[Music]]"
 ---
+# Performing arts

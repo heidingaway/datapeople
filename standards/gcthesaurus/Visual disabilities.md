@@ -1,8 +1,10 @@
 ---
 title: Visual disabilities
-longTitle: 'Visual disabilities'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Visual disabilities'
 french:
 - "[[Deficience visuelle]]"
 narrowerTerm:
@@ -12,3 +14,4 @@ relatedTerm:
 usedFor:
 - "[[Visual impairments]]"
 ---
+# Visual disabilities

@@ -1,8 +1,11 @@
 ---
 title: Professional associations
-longTitle: 'Professional associations'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Professional associations'
 french:
 - "[[Association professionnelle]]"
 ---
+# Professional associations

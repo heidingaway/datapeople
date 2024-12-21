@@ -1,8 +1,10 @@
 ---
 title: Marinas
-longTitle: 'Marinas'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Marinas'
 broaderTerm:
 - "[[Harbours]]"
 french:
@@ -10,3 +12,4 @@ french:
 relatedTerm:
 - "[[Pleasure craft]]"
 ---
+# Marinas

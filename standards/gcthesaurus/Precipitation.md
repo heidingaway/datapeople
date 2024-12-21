@@ -1,8 +1,10 @@
 ---
 title: Precipitation
-longTitle: 'Precipitation'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Precipitation'
 french:
 - "[[Precipitation]]"
 narrowerTerm:
@@ -11,4 +13,9 @@ narrowerTerm:
 usedFor:
 - "[[Rain]]"
 - "[[Rainfall]]"
+relatedTerm:
+- "[[Weather]]"
+- "[[Floods]]"
+- "[[Drought]]"
 ---
+# Precipitation

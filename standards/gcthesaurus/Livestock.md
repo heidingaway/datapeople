@@ -9,6 +9,12 @@ french:
 - "[[Betail]]"
 relatedTerm:
 - "[[Meat]]"
+- "[[Slaughtering]]"
+- "[[Poultry]]"
+- "[[Manure]]"
+- "[[Grasslands]]"
+- "[[Domestic animals]]"
+- "[[Animal husbandry]]"
 scopeNote:
 - "Animals kept or raised for use food or other produ"
 usedFor:

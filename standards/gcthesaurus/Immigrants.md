@@ -9,6 +9,7 @@ french:
 - "[[Immigrant]]"
 relatedTerm:
 - "[[Refugees]]"
+- "[[Immigration]]"
 usedFor:
 - "[[Landed immigrants]]"
 - "[[Newcomers]]"

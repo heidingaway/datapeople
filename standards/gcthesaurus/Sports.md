@@ -1,8 +1,10 @@
 ---
 title: Sports
-longTitle: 'Sports'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Sports'
 french:
 - "[[Sport]]"
 narrowerTerm:
@@ -15,6 +17,9 @@ narrowerTerm:
 relatedTerm:
 - "[[Athletes]]"
 - "[[Sports events]]"
+- "[[Recreation]]"
+- "[[Fitness]]"
 usedFor:
 - "[[Athletics]]"
 ---
+# Sports

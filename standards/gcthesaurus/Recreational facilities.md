@@ -1,8 +1,10 @@
 ---
 title: Recreational facilities
-longTitle: 'Recreational facilities'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Recreational facilities'
 french:
 - "[[Installations recreatives]]"
 narrowerTerm:
@@ -11,4 +13,11 @@ narrowerTerm:
 usedFor:
 - "[[Recreation facilities]]"
 - "[[Sports facilities]]"
+relatedTerm:
+- "[[Ski trails]]"
+- "[[Recreation]]"
+- "[[Parks]]"
+- "[[Botanical gardens]]"
+- "[[Bicycle paths]]"
 ---
+# Recreational facilities

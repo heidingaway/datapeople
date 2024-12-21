@@ -12,6 +12,10 @@ relatedTerm:
 - "[[Fiscal issues]]"
 - "[[Taxes]]"
 - "[[Taxation regulations]]"
+- "[[Tax fraud]]"
+- "[[Tax avoidance]]"
+- "[[Fiscal assistance]]"
+- "[[Economic policy]]"
 usedFor:
 - "[[Tax policy]]"
 - "[[Tax system]]"

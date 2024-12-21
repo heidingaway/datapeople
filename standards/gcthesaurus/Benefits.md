@@ -1,8 +1,10 @@
 ---
 title: Benefits
-longTitle: 'Benefits'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Benefits'
 french:
 - "[[Avantages sociaux]]"
 narrowerTerm:
@@ -12,4 +14,9 @@ narrowerTerm:
 relatedTerm:
 - "[[Beneficiaries]]"
 - "[[Entitlement]]"
+- "[[Working conditions]]"
+- "[[Pensions]]"
+- "[[Employment insurance]]"
+- "[[Allowances]]"
 ---
+# Benefits

@@ -1,8 +1,11 @@
 ---
 title: Program delivery
-longTitle: 'Program delivery'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Program delivery'
 french:
 - "[[Realisation de programme]]"
 ---
+# Program delivery

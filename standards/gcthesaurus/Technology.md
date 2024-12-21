@@ -1,8 +1,10 @@
 ---
 title: Technology
-longTitle: 'Technology'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Technology'
 french:
 - "[[Technologie]]"
 narrowerTerm:
@@ -25,8 +27,14 @@ narrowerTerm:
 - "[[Nuclear technology]]"
 relatedTerm:
 - "[[Technical education]]"
+- "[[Technology transfer]]"
+- "[[Technology policy]]"
+- "[[Technical education]]"
+- "[[Equipment]]"
+- "[[Automation]]"
 scopeNote:
 - "Application of scientific knowledge to practical p"
 usedFor:
 - "[[Technologies]]"
 ---
+# Technology

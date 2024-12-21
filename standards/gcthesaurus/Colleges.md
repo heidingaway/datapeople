@@ -1,8 +1,10 @@
 ---
 title: Colleges
-longTitle: 'Colleges'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Colleges'
 french:
 - "[[College]]"
 narrowerTerm:
@@ -12,4 +14,8 @@ usedFor:
 - "[[CEGEPs]]"
 - "[[Colleges of Applied Arts and Technology]]"
 - "[[Community colleges]]"
+relatedTerm:
+- "[[Universities]]"
+- "[[Postsecondary education]]"
 ---
+# Colleges

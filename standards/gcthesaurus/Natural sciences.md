@@ -1,8 +1,10 @@
 ---
 title: Natural sciences
-longTitle: 'Natural sciences'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Natural sciences'
 french:
 - "[[Sciences naturelles]]"
 narrowerTerm:
@@ -14,6 +16,10 @@ narrowerTerm:
 - "[[Space sciences]]"
 relatedTerm:
 - "[[Natural history]]"
+- "[[Scientists]]]"
+- "[[Mathematics]]"
+- "[[Computer science]]"
 scopeNote:
 - "Refers to all sciences that study the natural worl"
 ---
+# Natural sciences

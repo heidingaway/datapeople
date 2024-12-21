@@ -1,8 +1,10 @@
 ---
 title: Food labelling
-longTitle: 'Food labelling'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Food labelling'
 french:
 - "[[Etiquetage des aliments]]"
 usedFor:
@@ -11,4 +13,8 @@ usedFor:
 - "[[Nutrition labelling]]"
 - "[[Nutritional labeling]]"
 - "[[Nutritional labelling]]"
+relatedTerm:
+- "[[Food safety]]"
+- "[[Food]]"
 ---
+# Food labelling

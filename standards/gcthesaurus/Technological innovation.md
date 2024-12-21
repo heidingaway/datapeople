@@ -1,8 +1,10 @@
 ---
 title: Technological innovation
-longTitle: 'Technological innovation'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Technological innovation'
 broaderTerm:
 - "[[Innovation]]"
 french:
@@ -19,3 +21,4 @@ usedFor:
 - "[[Technological revolution]]"
 - "[[Technology development]]"
 ---
+# Technological innovation

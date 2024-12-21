@@ -1,8 +1,10 @@
 ---
 title: Income
-longTitle: 'Income'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Income'
 french:
 - "[[Revenu]]"
 narrowerTerm:
@@ -17,4 +19,8 @@ usedFor:
 - "[[Capital gains]]"
 - "[[Earnings]]"
 - "[[Revenues]]"
+relatedTerm:
+- "[[Standard of living]]"
+- "[[Economic conditions]]"
 ---
+# Income

@@ -1,8 +1,10 @@
 ---
 title: Innu
-longTitle: 'Innu'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Innu'
 french:
 - "[[Innu]]"
 scopeNote:
@@ -11,3 +13,4 @@ usedFor:
 - "[[Innu First Nation]]"
 - "[[Innu Nation]]"
 ---
+# Innu

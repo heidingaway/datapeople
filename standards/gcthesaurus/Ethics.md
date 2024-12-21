@@ -1,8 +1,10 @@
 ---
 title: Ethics
-longTitle: 'Ethics'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Ethics'
 french:
 - "[[Ethique]]"
 narrowerTerm:
@@ -18,3 +20,4 @@ usedFor:
 - "[[Moral values]]"
 - "[[Professional ethics]]"
 ---
+# Ethics

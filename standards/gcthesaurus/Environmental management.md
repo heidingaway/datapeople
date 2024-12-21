@@ -1,8 +1,10 @@
 ---
 title: Environmental management
-longTitle: 'Environmental management'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Environmental management'
 french:
 - "[[Gestion de lenvironnement]]"
 narrowerTerm:
@@ -20,4 +22,11 @@ usedFor:
 - "[[Environmental planning]]"
 - "[[Environmental surveillance]]"
 - "[[Recovery plans Environment]]"
+relatedTerm:
+- "[[Sustainable development]]"
+- "[[Environmental services]]"
+- "[[Environmental protection]]"
+- "[[Environmental policy]]"
+- "[[Environmental indicators]]"
 ---
+# Environmental management

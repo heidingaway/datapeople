@@ -1,8 +1,10 @@
 ---
 title: Social sciences
-longTitle: 'Social sciences'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Social sciences'
 french:
 - "[[Sciences sociales]]"
 narrowerTerm:
@@ -17,4 +19,9 @@ narrowerTerm:
 - "[[Sociology]]"
 usedFor:
 - "[[Social studies]]"
+relatedTerm:
+- "[[Social issues]]"
+- "[[Humanities]]"
+- "[[Geography]]"
 ---
+# Social sciences

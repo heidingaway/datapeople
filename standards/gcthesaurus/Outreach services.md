@@ -14,5 +14,7 @@ usedFor:
 relatedTerm:
 - "[[Counselling services]]"
 - "[[Community services]]"
+historyNote:
+- "Outreach services replaces Outreach as preferred t"
 ---
 # Outreach services

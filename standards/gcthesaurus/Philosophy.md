@@ -1,10 +1,11 @@
 ---
 title: Philosophy
-longTitle: 'Philosophy'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
-broaderTerm:
-- "[[Humanities]]"
+longTitle: 'Philosophy'
 french:
 - "[[Philosophie]]"
 ---
+# Philosophy

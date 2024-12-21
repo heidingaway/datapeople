@@ -1,8 +1,10 @@
 ---
 title: Handbooks
-longTitle: 'Handbooks'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Handbooks'
 french:
 - "[[Manuel]]"
 scopeNote:
@@ -13,3 +15,4 @@ usedFor:
 - "[[Manuals]]"
 - "[[User guides]]"
 ---
+# Handbooks

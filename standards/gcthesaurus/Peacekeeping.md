@@ -7,6 +7,8 @@ french:
 - "[[Maintien de la paix]]"
 relatedTerm:
 - "[[Peacekeeping forces]]"
+- "[[War]]"
+- "[[Peace]]"
 usedFor:
 - "[[Peacemaking]]"
 ---

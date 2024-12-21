@@ -1,8 +1,10 @@
 ---
 title: Buildings
-longTitle: 'Buildings'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Buildings'
 french:
 - "[[Batiment]]"
 narrowerTerm:
@@ -13,4 +15,7 @@ narrowerTerm:
 - "[[Religious buildings]]"
 relatedTerm:
 - "[[Floors]]"
+- "[[Construction]]"
+- "[[Architecture]]"
 ---
+# Buildings

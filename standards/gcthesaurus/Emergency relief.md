@@ -5,4 +5,6 @@ tags:
 - gccommon
 french:
 - "[[Secours durgence]]"
+narrowerTerm:
+- "[[Disaster relief]]"
 ---

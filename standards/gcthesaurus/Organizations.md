@@ -11,6 +11,7 @@ narrowerTerm:
 - "[[Corporations]]"
 - "[[Interest groups]]"
 - "[[Partnerships]]"
+- "[[Profiles]]"
 scopeNote:
 - "Company corporation firm enterprise authority or i"
 ---

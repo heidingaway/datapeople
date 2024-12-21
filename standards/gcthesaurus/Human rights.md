@@ -1,7 +1,7 @@
 ---
 title: Human rights
 created: 2024-12-13
-modified: 2024-12-17
+modified: 2024-12-21
 tags:
 - gccommon
 longTitle: 'Human rights'
@@ -20,5 +20,11 @@ usedFor:
 - "[[Fundamental freedoms]]"
 - "[[Fundamental rights]]"
 - "[[Rights and freedoms]]"
+relatedTerm:
+- "[[Legal rights]]"
+- "[[Language rights]]"
+- "[[Indigenous rights]]"
+- "[[Human security]]"
+- "[[Charter of rights and freedoms]]"
 ---
 # Human rights

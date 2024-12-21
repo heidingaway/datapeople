@@ -1,8 +1,10 @@
 ---
 title: Civil aviation
-longTitle: 'Civil aviation'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Civil aviation'
 french:
 - "[[Aviation civile]]"
 relatedTerm:
@@ -13,3 +15,4 @@ usedFor:
 - "[[Commercial aviation]]"
 - "[[Recreational aviation]]"
 ---
+# Civil aviation

@@ -1,8 +1,10 @@
 ---
 title: Privacy
-longTitle: 'Privacy'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Privacy'
 french:
 - "[[Vie privee]]"
 usedFor:
@@ -11,3 +13,4 @@ usedFor:
 - "[[Right to privacy]]"
 - "[[Security breach]]"
 ---
+# Privacy

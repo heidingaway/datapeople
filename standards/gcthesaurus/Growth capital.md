@@ -1,8 +1,14 @@
 ---
 title: Growth capital
-longTitle: 'Growth capital'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Growth capital'
 french:
 - "[[Capital de croissance]]"
+relatedTerm:
+- "[[Working capital]]"
+- "[[Investments]]"
 ---
+# Growth capital

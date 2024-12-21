@@ -1,8 +1,10 @@
 ---
 title: Businesses
-longTitle: 'Businesses'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Businesses'
 french:
 - "[[Entreprise]]"
 narrowerTerm:
@@ -18,6 +20,7 @@ narrowerTerm:
 - "[[Small businesses]]"
 - "[[Sole proprietorships]]"
 - "[[Support businesses]]"
+- "[[Profiles]]"
 relatedTerm:
 - "[[Business numbers]]"
 scopeNote:
@@ -28,3 +31,4 @@ usedFor:
 - "[[Commercial enterprises]]"
 - "[[Enterprises]]"
 ---
+# Businesses

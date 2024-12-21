@@ -1,8 +1,10 @@
 ---
 title: High technology
-longTitle: 'High technology'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'High technology'
 french:
 - "[[Technologie de pointe]]"
 relatedTerm:
@@ -15,3 +17,4 @@ usedFor:
 - "[[New technology]]"
 - "[[State of the art technology]]"
 ---
+# High technology

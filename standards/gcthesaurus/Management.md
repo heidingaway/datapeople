@@ -1,8 +1,10 @@
 ---
 title: Management
-longTitle: 'Management'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Management'
 french:
 - "[[Gestion]]"
 narrowerTerm:
@@ -32,6 +34,12 @@ relatedTerm:
 - "[[Executives]]"
 - "[[Functions]]"
 - "[[Management information systems]]"
+- "[[Stewardship]]"
+- "[[Planning]]"
+- "[[Operations]]"
+- "[[Coordination]]"
+- "[[Codes of practice]]"
+- "[[Board of directors]]"
 usedFor:
 - "[[Administration]]"
 - "[[Business administration]]"
@@ -39,3 +47,4 @@ usedFor:
 - "[[Management practices]]"
 - "[[Management techniques]]"
 ---
+# Management

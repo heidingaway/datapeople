@@ -1,8 +1,10 @@
 ---
 title: Research
-longTitle: 'Research'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Research'
 french:
 - "[[Recherche]]"
 narrowerTerm:
@@ -15,6 +17,11 @@ narrowerTerm:
 relatedTerm:
 - "[[Nanotechnology]]"
 - "[[Research grants]]"
+- "[[Research institutes]]"
+- "[[Research chairs]]"
+- "[[Research and development]]"
+- "[[Laboratories]]"
+- "[[Experiments]]"
 scopeNote:
 - "Systematic study in a subject area often employing"
 usedFor:
@@ -23,3 +30,4 @@ usedFor:
 - "[[Research activities]]"
 - "[[Research projects]]"
 ---
+# Research

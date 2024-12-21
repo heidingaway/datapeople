@@ -1,10 +1,11 @@
 ---
 title: Financial audit
-longTitle: 'Financial audit'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
-broaderTerm:
-- "[[Audit]]"
+longTitle: 'Financial audit'
 french:
 - "[[Verification comptable]]"
 ---
+# Financial audit

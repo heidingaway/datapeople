@@ -1,10 +1,11 @@
 ---
 title: Military colleges
-longTitle: 'Military colleges'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
-broaderTerm:
-- "[[Colleges]]"
+longTitle: 'Military colleges'
 french:
 - "[[College militaire]]"
 ---
+# Military colleges
