@@ -1,8 +1,10 @@
 ---
 title: Life sciences
-longTitle: 'Life sciences'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Life sciences'
 french:
 - "[[Sciences de la vie]]"
 narrowerTerm:
@@ -11,3 +13,4 @@ narrowerTerm:
 usedFor:
 - "[[Biological sciences]]"
 ---
+# Life sciences

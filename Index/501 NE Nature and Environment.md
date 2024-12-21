@@ -1,9 +1,10 @@
 ---
-title: NE Nature and Environment
+title: 501 NE Nature and Environment
 created: 2024-12-17
-modified: 2024-12-17
-tags: 
+modified: 2024-12-21
+tags:
 - gccommon
+type: "[[501 Government of Canada Core Subject Thesaurus]]"
 subject:
 - "[[Acid deposition]]"
 - "[[Acid precipitation]]"

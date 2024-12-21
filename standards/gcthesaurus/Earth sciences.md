@@ -16,6 +16,10 @@ narrowerTerm:
 - "[[Meteorology]]"
 - "[[Oceanography]]"
 - "[[Geochemistry]]"
+- "[[Hard rocks]]"
+- "[[Igneous rocks]]"
+- "[[Metamorphic rocks]]"
+- "[[Surficial geology]]"
 scopeNote:
 - "The sciences that deal with the earth or any part "
 usedFor:

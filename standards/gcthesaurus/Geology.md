@@ -1,8 +1,10 @@
 ---
 title: Geology
-longTitle: 'Geology'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Geology'
 french:
 - "[[Geologie]]"
 narrowerTerm:
@@ -10,6 +12,10 @@ narrowerTerm:
 - "[[Petrology]]"
 - "[[Stratigraphy]]"
 - "[[Structural geology]]"
+- "[[Hard rocks]]"
+- "[[Igneous rocks]]"
+- "[[Metamorphic rocks]]"
+- "[[Surficial geology]]"
 relatedTerm:
 - "[[Geochemistry]]"
 - "[[Geological maps]]"
@@ -21,3 +27,4 @@ usedFor:
 - "[[Geological studies]]"
 - "[[Geological surveys]]"
 ---
+# Geology

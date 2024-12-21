@@ -1,8 +1,10 @@
 ---
 title: Aerospace industry
-longTitle: 'Aerospace industry'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Aerospace industry'
 french:
 - "[[Industrie de laerospatiale]]"
 narrowerTerm:
@@ -13,3 +15,4 @@ usedFor:
 - "[[Avionics]]"
 - "[[Space industry]]"
 ---
+# Aerospace industry

@@ -1,8 +1,10 @@
 ---
 title: Sciences
-longTitle: 'Sciences'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Sciences'
 french:
 - "[[Sciences]]"
 narrowerTerm:
@@ -16,3 +18,4 @@ usedFor:
 - "[[Science disciplines]]"
 - "[[Scientific disciplines]]"
 ---
+# Sciences

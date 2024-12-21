@@ -1,8 +1,10 @@
 ---
 title: Livestock
-longTitle: 'Livestock'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Livestock'
 french:
 - "[[Betail]]"
 relatedTerm:
@@ -12,4 +14,10 @@ scopeNote:
 usedFor:
 - "[[Farm animals]]"
 - "[[Herds]]"
+narrowerTerm:
+- "[[Sheep]]"
+- "[[Horses]]"
+- "[[Hogs]]"
+- "[[Cattle]]"
 ---
+# Livestock

@@ -1,8 +1,18 @@
 ---
 title: Trade policy
-longTitle: 'Trade policy'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Trade policy'
 french:
 - "[[Politique commerciale]]"
+relatedTerm:
+- "[[Trade agreements]]"
+- "[[Trade]]"
+- "[[Tariff protection]]"
+- "[[Economic sanctions]]"
+- "[[Dumping]]"
+- "[[Anti-dumping]]"
 ---
+# Trade policy

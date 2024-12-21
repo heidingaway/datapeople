@@ -1,8 +1,10 @@
 ---
 title: Motor vehicles
-longTitle: 'Motor vehicles'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Motor vehicles'
 french:
 - "[[Vehicule automobile]]"
 narrowerTerm:
@@ -13,6 +15,8 @@ narrowerTerm:
 relatedTerm:
 - "[[Fleet management]]"
 - "[[Parking]]"
+- "[[Road transport]]"
+- "[[Driving]]"
 scopeNote:
 - "Refers to motor vehicles for road transportation"
 usedFor:
@@ -21,3 +25,4 @@ usedFor:
 - "[[Road motor vehicles]]"
 - "[[Vehicle fleets]]"
 ---
+# Motor vehicles

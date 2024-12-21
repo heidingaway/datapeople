@@ -1,8 +1,10 @@
 ---
 title: Safety equipment
-longTitle: 'Safety equipment'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Safety equipment'
 french:
 - "[[Equipement de securite]]"
 narrowerTerm:
@@ -12,4 +14,10 @@ narrowerTerm:
 usedFor:
 - "[[Safety devices]]"
 - "[[Safety kits]]"
+relatedTerm:
+- "[[Safety standards]]"
+- "[[Safety measures]]"
+- "[[Safety]]"
+- "[[Rescue equipment]]"
 ---
+# Safety equipment

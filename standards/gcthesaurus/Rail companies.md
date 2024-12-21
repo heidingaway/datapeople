@@ -5,4 +5,6 @@ tags:
 - gccommon
 french:
 - "[[Compagnie ferroviaire]]"
+usedFor:
+- "[[Rail carriers]]"
 ---

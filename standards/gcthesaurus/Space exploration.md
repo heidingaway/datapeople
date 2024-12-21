@@ -1,8 +1,10 @@
 ---
 title: Space exploration
-longTitle: 'Space exploration'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Space exploration'
 broaderTerm:
 - "[[Explorations]]"
 french:
@@ -12,3 +14,4 @@ relatedTerm:
 usedFor:
 - "[[Spacecraft]]"
 ---
+# Space exploration

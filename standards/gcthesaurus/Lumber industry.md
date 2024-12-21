@@ -1,8 +1,10 @@
 ---
 title: Lumber industry
-longTitle: 'Lumber industry'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Lumber industry'
 french:
 - "[[Industrie du bois doeuvre]]"
 scopeNote:
@@ -13,3 +15,4 @@ usedFor:
 - "[[Sawmilling industry]]"
 - "[[Timber industry]]"
 ---
+# Lumber industry

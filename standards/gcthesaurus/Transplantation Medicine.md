@@ -1,14 +1,16 @@
 ---
 title: Transplantation Medicine
-longTitle: 'Transplantation (Medicine)'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Transplantation (Medicine)'
 french:
 - "[[Transplantation Medecine]]"
 narrowerTerm:
 - "[[Organ transplantation]]"
 - "[[Xenotransplantation]]"
-scopeNote:
+scopeNote:**
 - "Transfer of cells organs or tissues within an indi"
 usedFor:
 - "[[Cell grafting]]"
@@ -18,3 +20,4 @@ usedFor:
 - "[[Tissue transplantation]]"
 - "[[Transplants]]"
 ---
+# Transplantation Medicine

@@ -1,8 +1,10 @@
 ---
 title: Labelling
-longTitle: 'Labelling'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Labelling'
 french:
 - "[[Etiquetage]]"
 narrowerTerm:
@@ -10,6 +12,8 @@ narrowerTerm:
 - "[[Food labelling]]"
 relatedTerm:
 - "[[Packaging]]"
+- "[[Product codes]]"
+- "[[Identification]]"
 usedFor:
 - "[[Bar codes]]"
 - "[[Labeling]]"
@@ -18,3 +22,4 @@ usedFor:
 - "[[Product labelling]]"
 - "[[Tagging]]"
 ---
+# Labelling

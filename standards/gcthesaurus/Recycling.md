@@ -8,6 +8,8 @@ french:
 relatedTerm:
 - "[[Disposal services]]"
 - "[[Recyclable materials]]"
+- "[[Pollution control]]"
+- "[[Conservation]]"
 usedFor:
 - "[[Resource recovery]]"
 - "[[Reuse]]"

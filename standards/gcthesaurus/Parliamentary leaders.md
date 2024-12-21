@@ -14,4 +14,6 @@ usedFor:
 - "[[Leader of the opposition in the House of Commons]]"
 - "[[Leader of the opposition in the Senate]]"
 - "[[Opposition House leader]]"
+historyNote:
+- "Parliamentary leaders replaces House leaders as pr"
 ---

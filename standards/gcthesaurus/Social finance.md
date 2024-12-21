@@ -1,8 +1,11 @@
 ---
 title: Social finance
-longTitle: 'Social finance'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Social finance'
 french:
 - "[[Finance sociale]]"
 ---
+# Social finance

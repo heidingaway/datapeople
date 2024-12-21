@@ -1,8 +1,11 @@
 ---
 title: Crime against humanity
-longTitle: 'Crime against humanity'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Crime against humanity'
 french:
 - "[[Crime contre lhumanite]]"
 ---
+# Crime against humanity
