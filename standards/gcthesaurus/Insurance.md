@@ -1,8 +1,10 @@
 ---
 title: Insurance
-longTitle: 'Insurance'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Insurance'
 french:
 - "[[Assurance]]"
 narrowerTerm:
@@ -18,6 +20,9 @@ relatedTerm:
 - "[[Indemnities]]"
 - "[[Insurable earnings]]"
 - "[[Insurance companies]]"
+- "[[Premiums]]"
+- "[[Actuarial science]]"
 usedFor:
 - "[[Insurance policies]]"
 ---
+# Insurance

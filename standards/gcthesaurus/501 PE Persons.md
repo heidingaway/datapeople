@@ -1,9 +1,10 @@
 ---
-title: PE Persons
+title: 501 PE Persons
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+type: "[[501 Government of Canada Core Subject Thesaurus]]"
 class:
 - "[[Aboriginal people]]"
 - "[[Aboriginal youth]]"

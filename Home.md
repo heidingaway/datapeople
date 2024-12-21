@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] Each misfortune you encounter will carry in it the seed of tomorrows good luck.
-> — Og Mandino  
+> [!quote] Things that were hard to bear are sweet to remember.
+> — Seneca  
   
 ---  
   

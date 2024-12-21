@@ -1,9 +1,10 @@
 ---
-title: EC Economics and Industry
+title: 501 EC Economics and Industry
 created: 2024-12-17
-modified: 2024-12-17
-tags: 
+modified: 2024-12-21
+tags:
 - gccommon
+type: "[[501 Government of Canada Core Subject Thesaurus]]"
 class:
 - "[[Aboriginal businesses]]"
 - "[[Accounting standards]]"

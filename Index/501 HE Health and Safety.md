@@ -1,9 +1,10 @@
 ---
-title: HE Health and Safety
+title: 501 HE Health and Safety
 created: 2024-12-10
-modified: 2024-12-10
-tags: 
-- gcco
+modified: 2024-12-21
+tags:
+- gccommon
+type: "[[501 Government of Canada Core Subject Thesaurus]]"
 class:
 - "[[Abortion]]"
 - "[[Accident prevention]]"

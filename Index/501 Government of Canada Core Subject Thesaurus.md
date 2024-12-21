@@ -7,3 +7,5 @@ tags:
 - gccommon
 ---
 # 501 Government of Canada Core Subject Thesaurus
+- [[501 AA Arts Music Literature]]
+- 

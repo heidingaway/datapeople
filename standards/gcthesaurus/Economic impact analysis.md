@@ -5,7 +5,7 @@ modified: 2024-12-17
 tags:
 - gccommon
 longTitle: 'Economic impact analysis'
-use:
+usedFor:
 - "[[Economic impact]]"
 - "[[Economic analysis]]"
 ---

@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "standards/gcthesaurus/Fishing area.md",
+                "file": "standards/gcthesaurus/Water transport industry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fishing area"
+              "title": "Water transport industry"
             }
           },
           {
@@ -45,13 +45,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "standards/gcthesaurus/Financial management.md",
+                "file": "standards/gcthesaurus/Research institutes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Financial management"
+              "title": "Research institutes"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4c56026558a4a711",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "933bdff7c1d2f5ab",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
             }
           }
         ]
@@ -68,25 +87,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04ee801cf9ecef09",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "d92a1d2cf0389e08",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "relatedTerm",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -107,7 +114,19 @@
             }
           },
           {
-            "id": "aec969697ec9cdb8",
+            "id": "04ee801cf9ecef09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e61594dd0562e450",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -117,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -137,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "standards/gcthesaurus/Financial management.md",
+                "file": "2024-12-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Financial management"
+              "title": "Backlinks for 2024-12-21"
             }
           },
           {
@@ -218,8 +237,23 @@
               "icon": "ag-style",
               "title": "Juggl style"
             }
+          },
+          {
+            "id": "7487f510646e7049",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -228,49 +262,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "quick-tagger:Add tag to current note": false,
-      "quick-tagger:Remove tag from current note": false,
-      "focus-time:View total focus time data": false,
-      "homepage:Open homepage": false,
-      "widgets:Add widget": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "templater-obsidian:Templater": true,
+      "obsidian-book-search-plugin:Create new book note": true,
+      "quick-tagger:Add tag to current note": true,
+      "quick-tagger:Remove tag from current note": true,
+      "focus-time:View total focus time data": true,
+      "homepage:Open homepage": true,
+      "widgets:Add widget": true,
       "periodic-notes:Open today": false
     }
   },
-  "active": "227a3e1d94d81599",
+  "active": "504c5520b5787735",
   "lastOpenFiles": [
-    "standards/gcthesaurus/Financial management.md",
-    "standards/gcthesaurus/Fishing rights Fisheries.md",
-    "standards/gcthesaurus/Fishing area.md",
-    "standards/gcthesaurus/Fishing ships Fishing rights Fishing area Fisherie.md",
-    "standards/gcthesaurus/Fishing rights.md",
-    "standards/gcthesaurus/Fishing permits Fishing area Fisheries.md",
-    "standards/gcthesaurus/Fishing ships.md",
-    "standards/gcthesaurus/Fisheries technology Fisheries.md",
-    "standards/gcthesaurus/Financial analysis.md",
-    "standards/gcthesaurus/Financial management Finance Economic analysis.md",
-    "standards/gcthesaurus/Credit unions.md",
-    "standards/gcthesaurus/Financing companies Cooperatives.md",
-    "standards/gcthesaurus/Financial services Financial analysis Finance Expe.md",
-    "standards/gcthesaurus/Budget planning.md",
-    "standards/gcthesaurus/Financial management Finance.md",
-    "standards/gcthesaurus/Finance.md",
-    "standards/gcthesaurus/Expenditure management.md",
-    "standards/gcthesaurus/Financial management Expenditures Estimates Budget.md",
-    "standards/gcthesaurus/Comptrollership.md",
-    "standards/gcthesaurus/Financial management Budgets.md",
-    "standards/gcthesaurus/Employment centres.md",
-    "standards/gcthesaurus/Financial management Accounting.md",
-    "standards/gcthesaurus/Economic forecasting.md",
-    "standards/gcthesaurus/Economic trends Economic development Economic cond.md",
-    "standards/gcthesaurus/Monetary policy.md",
-    "standards/gcthesaurus/Economic policy Currency.md"
+    "standards/gcthesaurus/Water transportation industry Ocean transport indu.md",
+    "standards/gcthesaurus/Water transport industry.md",
+    "standards/gcthesaurus/Human rights.md",
+    "standards/gcthesaurus/Research institutes.md",
+    "standards/gcthesaurus/Social rights Duty to accommodate Civil rights Chi.md",
+    "standards/gcthesaurus/Benchmarks.md",
+    "standards/gcthesaurus/Testing Measurement Guidelines Control Comparison .md",
+    "standards/gcthesaurus/Aging.md",
+    "standards/gcthesaurus/Seniors Retirement Old age Gerontology Geriatrics .md",
+    "standards/gcthesaurus/Eligibility.md",
+    "standards/gcthesaurus/Laboratories.md",
+    "standards/gcthesaurus/Research laboratories.md",
+    "standards/gcthesaurus/Research laboratories.md",
+    "standards/gcthesaurus/Child care.md",
+    "standards/gcthesaurus/Road transportation Road traffic.md",
+    "standards/gcthesaurus/Road transport.md",
+    "standards/gcthesaurus/Qualifications Enrolment applications.md",
+    "standards/gcthesaurus/Navigation systems.md",
+    "standards/gcthesaurus/Radar Navigation Marine safety.md",
+    "standards/gcthesaurus/Hydrometry.md",
+    "standards/gcthesaurus/Real-time hydrometric data Hydrometric station Hyd.md",
+    "standards/gcthesaurus/Drilling.md",
+    "standards/gcthesaurus/Prospecting Primary industry Mining industry.md",
+    "standards/gcthesaurus/Parks.md",
+    "standards/gcthesaurus/Recreational facilities Conservation areas.md",
+    "standards/gcthesaurus/Radioactivity.md"
   ]
 }

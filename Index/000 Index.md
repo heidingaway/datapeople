@@ -12,7 +12,7 @@ tags:
 - area [[300 Resource]]
 - area [[400 Thing]]
 - area [[500 Standards]]
-- area [[600]]
+- area [[600 GC Common]]
 - area [[700]]
 - area [[800]]
 - area [[900 Archive]]

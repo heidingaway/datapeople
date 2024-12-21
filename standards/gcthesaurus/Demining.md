@@ -1,8 +1,10 @@
 ---
 title: Demining
-longTitle: 'Demining'
+created: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+longTitle: 'Demining'
 french:
 - "[[Deminage]]"
 relatedTerm:
@@ -15,4 +17,7 @@ usedFor:
 - "[[Landmine clearing]]"
 - "[[Mine clearance]]"
 - "[[Mine clearing]]"
+historyNote:
+- "Demining replaces Mine clearing as preferred term "
 ---
+# Demining

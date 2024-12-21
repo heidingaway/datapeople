@@ -1,9 +1,10 @@
 ---
-title: FM Form descriptors
+title: 501 FM Form descriptors
 created: 2024-12-17
-modified: 2024-12-17
+modified: 2024-12-21
 tags:
 - gccommon
+type: "[[501 Government of Canada Core Subject Thesaurus]]"
 class:
 - "[[Addresses]]"
 - "[[Administrative data]]"

@@ -2,6 +2,7 @@
 title: AA Arts Music Literature
 created: 2024-12-17
 modified: 2024-12-17
+type: "[[501 Government of Canada Core Subject Thesaurus]]"
 tags: 
 - gccommon
 class: 

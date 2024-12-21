@@ -1,9 +1,10 @@
 ---
-title: SO Society and Culture
+title: 501 SO Society and Culture
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-21
 tags:
 - gccommon
+type: "[[501 Government of Canada Core Subject Thesaurus]]"
 class:
 - "[[Youth]]"
 - "[[Young adults]]"

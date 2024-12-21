@@ -1,9 +1,10 @@
 ---
-title: LB Labour
+title: 501 LB Labour
 created: 2024-12-17
-modified: 2024-12-17
+modified: 2024-12-21
 tags:
 - gccommon
+type: "[[501 Government of Canada Core Subject Thesaurus]]"
 class:
 - "[[Active population]]"
 - "[[Application for employment]]"
