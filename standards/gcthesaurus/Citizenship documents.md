@@ -1,12 +1,17 @@
 ---
 title: Citizenship documents
-longTitle: 'Citizenship documents'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Citizenship documents'
 french:
 - "[[Preuve de citoyennete]]"
 narrowerTerm:
 - "[[Birth certificates]]"
 relatedTerm:
 - "[[Citizenship]]"
+- "[[Travel documents]]"
+- "[[Passports]]"
 ---
+# Citizenship documents

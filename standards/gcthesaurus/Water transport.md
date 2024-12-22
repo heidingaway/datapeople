@@ -1,12 +1,21 @@
 ---
 title: Water transport
-longTitle: 'Water transport'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Water transport'
 french:
 - "[[Transport maritime]]"
 relatedTerm:
 - "[[Marine installations]]"
+- "[[Waterways]]"
+- "[[Water transport industry]]"
+- "[[Ships]]"
+- "[[Navigation]]"
+- "[[Maritime law]]"
+- "[[Marine installations]]"
+- "[[Harbours]]"
 usedFor:
 - "[[Marine shipping]]"
 - "[[Marine traffic]]"
@@ -20,3 +29,4 @@ usedFor:
 - "[[Sea transportation]]"
 - "[[Water transportation]]"
 ---
+# Water transport

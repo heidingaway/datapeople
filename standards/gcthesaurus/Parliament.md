@@ -1,8 +1,10 @@
 ---
 title: Parliament
-longTitle: 'Parliament'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Parliament'
 french:
 - "[[Parlement]]"
 narrowerTerm:
@@ -13,4 +15,12 @@ scopeNote:
 usedFor:
 - "[[Canadian Parliament]]"
 - "[[Parliament of Canada]]"
+relatedTerm:
+- "[[Prime Minister]]"
+- "[[Parliamentary procedure]]"
+- "[[Parliamentary leaders]]"
+- "[[Members of the House of Commons]]"
+- "[[Legislative assemblies]]"
+- "[[Cabinet]]"
 ---
+# Parliament

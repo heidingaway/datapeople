@@ -27,7 +27,8 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Reference Photos",
   "userIgnoreFilters": [
-    "Templates/"
+    "Templates/",
+    "Index/"
   ],
   "promptDelete": false,
   "showInlineTitle": false,

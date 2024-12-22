@@ -920,7 +920,7 @@ class:
 - "[[Secondary sector]]"
 - "[[Secretariat]]"
 - "[[Securities]]"
-- "[[Seizure (of property)]]"
+- "[[Seizure of property]]"
 - "[[Self employment]]"
 - "[[Service agreements]]"
 - "[[Service contracts]]"

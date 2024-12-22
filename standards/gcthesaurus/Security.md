@@ -1,8 +1,10 @@
 ---
 title: Security
-longTitle: 'Security'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Security'
 narrowerTerm:
 - "[[Computer security]]"
 - "[[Food security]]"
@@ -10,4 +12,8 @@ narrowerTerm:
 - "[[International security]]"
 - "[[National security]]"
 - "[[Social security]]"
+relatedTerm:
+- "[[Security investigations]]"
+- "[[Safety]]"
 ---
+# Security

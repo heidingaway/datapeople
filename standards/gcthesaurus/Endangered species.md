@@ -1,8 +1,10 @@
 ---
 title: Endangered species
-longTitle: 'Endangered species'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Endangered species'
 french:
 - "[[Espece menacee]]"
 usedFor:
@@ -15,3 +17,4 @@ usedFor:
 - "[[Species at risk]]"
 - "[[Threatened species]]"
 ---
+# Endangered species

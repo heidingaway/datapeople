@@ -14,7 +14,7 @@ tags:
 - class [[Drug]]
 - class [[IndividualProduct]]
 - class [[ProductCollection]]
-- class [[ProductGroup]]
+- class [[409.01 ProductGroup]]
 - class [[ProductModel]]
 - class [[SomeProducts]]
 - class [[Vehicle]]

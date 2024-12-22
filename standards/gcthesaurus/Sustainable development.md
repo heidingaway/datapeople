@@ -1,8 +1,10 @@
 ---
 title: Sustainable development
-longTitle: 'Sustainable development'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Sustainable development'
 broaderTerm:
 - "[[Economic development]]"
 french:
@@ -13,4 +15,13 @@ usedFor:
 - "[[Ecodevelopment]]"
 - "[[Ecologically sound development]]"
 - "[[Environmentally sound development]]"
+relatedTerm:
+- "[[Stewardship]]"
+- "[[Renewable energy]]"
+- "[[Environmental protection]]"
+- "[[Environmental management]]"
+narrowerTerm:
+- "[[Renewable energy]]"
+- "[[Forests]]"
 ---
+# Sustainable development

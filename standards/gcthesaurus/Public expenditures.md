@@ -1,8 +1,10 @@
 ---
 title: Public expenditures
-longTitle: 'Public expenditures'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Public expenditures'
 broaderTerm:
 - "[[Expenditures]]"
 french:
@@ -12,4 +14,8 @@ scopeNote:
 usedFor:
 - "[[Government expenditures]]"
 - "[[Public spending]]"
+relatedTerm:
+- "[[National income]]"
+- "[[Estimates]]"
 ---
+# Public expenditures

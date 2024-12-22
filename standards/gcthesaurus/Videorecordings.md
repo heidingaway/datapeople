@@ -1,8 +1,10 @@
 ---
 title: Videorecordings
-longTitle: 'Videorecordings'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Videorecordings'
 french:
 - "[[Enregistrement video]]"
 usedFor:
@@ -14,3 +16,4 @@ usedFor:
 - "[[Videodisks]]"
 - "[[Videos]]"
 ---
+# Videorecordings

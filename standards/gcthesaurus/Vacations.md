@@ -1,8 +1,15 @@
 ---
 title: Vacations
-longTitle: 'Vacations'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Vacations'
 french:
 - "[[Vacances]]"
+relatedTerm:
+- "[[Working conditions]]"
+- "[[Leave of absence]]"
+- "[[Holidays]]"
 ---
+# Vacations

@@ -1,13 +1,16 @@
 ---
 title: Salaries
-longTitle: 'Salaries'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Salaries'
 french:
 - "[[Salaire]]"
 narrowerTerm:
 - "[[Minimum wage]]"
 - "[[Severance pay]]"
+- "[[Insurable earnings]]"
 relatedTerm:
 - "[[Risk premiums]]"
 scopeNote:
@@ -21,3 +24,4 @@ usedFor:
 - "[[Remuneration]]"
 - "[[Wages]]"
 ---
+# Salaries

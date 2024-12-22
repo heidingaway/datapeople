@@ -1,7 +1,7 @@
 ---
 title: Biology
 created: 2024-12-13
-modified: 2024-12-17
+modified: 2024-12-22
 tags:
 - gccommon
 longTitle: 'Biology'
@@ -20,5 +20,7 @@ relatedTerm:
 - "[[Living organisms]]"
 - "[[Biochemistry]]"
 - "[[Biological products]]"
+- "[[Palaeontology]]"
+- "[[Ecology]]"
 ---
 # Biology

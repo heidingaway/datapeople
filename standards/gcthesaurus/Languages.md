@@ -1,8 +1,10 @@
 ---
 title: Languages
-longTitle: 'Languages'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Languages'
 french:
 - "[[Langue]]"
 narrowerTerm:
@@ -16,6 +18,18 @@ narrowerTerm:
 - "[[Second languages]]"
 relatedTerm:
 - "[[Idioms]]"
+- "[[Translation]]"
+- "[[Terminology]]"
+- "[[Plain language]]"
+- "[[Multilingualism]]"
+- "[[Linguistic diversity]]"
+- "[[Language training]]"
+- "[[Language groups]]"
+- "[[Language education]]"
+- "[[Interpretation]]"
+- "[[Idioms]]"
+- "[[Bilingualism]]"
 usedFor:
 - "[[Linguistics]]"
 ---
+# Languages

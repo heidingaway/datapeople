@@ -1,8 +1,10 @@
 ---
 title: Insects
-longTitle: 'Insects'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Insects'
 french:
 - "[[Insecte]]"
 narrowerTerm:
@@ -11,3 +13,4 @@ relatedTerm:
 - "[[Entomology]]"
 - "[[Insecticides]]"
 ---
+# Insects

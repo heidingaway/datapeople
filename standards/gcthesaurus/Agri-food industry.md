@@ -1,8 +1,10 @@
 ---
 title: Agri-food industry
-longTitle: 'Agri-food industry'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Agri-food industry'
 french:
 - "[[Industrie agro-alimentaire]]"
 narrowerTerm:
@@ -16,4 +18,12 @@ usedFor:
 - "[[Agro-industry]]"
 - "[[Food industry]]"
 - "[[Food production]]"
+relatedTerm:
+- "[[Food supply]]"
+- "[[Food processing]]"
+- "[[Food]]"
+- "[[Farms]]"
+- "[[Agriculture]]"
+- "[[Agri-food products]]"
 ---
+# Agri-food industry

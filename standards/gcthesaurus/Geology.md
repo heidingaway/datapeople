@@ -1,7 +1,7 @@
 ---
 title: Geology
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-22
 tags:
 - gccommon
 longTitle: 'Geology'
@@ -20,6 +20,7 @@ relatedTerm:
 - "[[Geochemistry]]"
 - "[[Geological maps]]"
 - "[[Geophysics]]"
+- "[[Geomorphology]]"
 scopeNote:
 - "The study of the Earth its origins and evolution t"
 usedFor:

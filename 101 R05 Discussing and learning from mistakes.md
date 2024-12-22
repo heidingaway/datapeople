@@ -10,6 +10,6 @@ subject:
 - "[[Knowledge sharing]]"
 theme: "[[101 T04 Culture]]"
 tags:
-- project/d
+- project/dma
 ---
 # 101 R05 Discussing and learning from mistakes

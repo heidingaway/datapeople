@@ -13,6 +13,7 @@ narrowerTerm:
 - "[[Personal income]]"
 - "[[Royalties]]"
 - "[[Salaries]]"
+- "[[Insurable earnings]]"
 scopeNote:
 - "The sum of revenues earned in a specific period of"
 usedFor:

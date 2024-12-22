@@ -4,10 +4,16 @@
 type: clock  
 ```  
   
-> [!quote] Things that were hard to bear are sweet to remember.
-> — Seneca  
+> [!quote] If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+> — Barack Obama  
   
----  
+------  
+```widgets  
+type: countdown  
+date: 2024-12-25 00:00  
+to: ✨🎄❄ Christmas ❄🎄✨
+```
+---
   
 >[!multi-column]  
 >> [!example]+ Quick Access  
@@ -25,11 +31,5 @@ type: clock
 >> SORT file.mtime DESC  
 >> LIMIT 15  
 >> ```  
-  
----  
-```widgets  
-type: countdown  
-date: 2024-10-27 21:00  
-to:placeholder
-``` 
+
 

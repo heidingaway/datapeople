@@ -1,8 +1,10 @@
 ---
 title: Minorities
-longTitle: 'Minorities'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Minorities'
 french:
 - "[[Minorite]]"
 narrowerTerm:
@@ -13,3 +15,4 @@ narrowerTerm:
 usedFor:
 - "[[Minority groups]]"
 ---
+# Minorities

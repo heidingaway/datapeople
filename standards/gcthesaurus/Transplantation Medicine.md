@@ -10,7 +10,7 @@ french:
 narrowerTerm:
 - "[[Organ transplantation]]"
 - "[[Xenotransplantation]]"
-scopeNote:**
+scopeNote:
 - "Transfer of cells organs or tissues within an indi"
 usedFor:
 - "[[Cell grafting]]"

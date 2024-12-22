@@ -1,8 +1,10 @@
 ---
 title: Loans
-longTitle: 'Loans'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Loans'
 french:
 - "[[Pret]]"
 narrowerTerm:
@@ -14,7 +16,11 @@ narrowerTerm:
 - "[[Term loans]]"
 relatedTerm:
 - "[[Interest rates]]"
+- "[[Debt]"
+- "[[Credit]]"
+- "[[Borrowers]]"
 usedFor:
 - "[[Borrowing]]"
 - "[[Lending]]"
 ---
+# Loans

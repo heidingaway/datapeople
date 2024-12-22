@@ -1,12 +1,12 @@
 ---
 title: Chief Data Officer
 created: 2024-11-18
-modified: 2024-11-18
+modified: 2024-12-22
 tags:
   - project/dma
 type:
   - "[[data role]]"
-  - "[[Executive]]"
+  - "[[Executives]]"
 area:
   - "[[Information and Data Governance]]"
   - "[[Data Analytics and Operations]]"
@@ -24,4 +24,3 @@ accountableFor:
   - "[[Innovation]]"
 ---
 # Chief Data Officer
-

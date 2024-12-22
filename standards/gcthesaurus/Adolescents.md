@@ -1,8 +1,10 @@
 ---
 title: Adolescents
-longTitle: 'Adolescents'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Adolescents'
 french:
 - "[[Adolescent]]"
 scopeNote:
@@ -10,4 +12,9 @@ scopeNote:
 usedFor:
 - "[[Preadolescents]]"
 - "[[Teenagers]]"
+relatedTerm:
+- "[[Youth]]"
+- "[[Young offenders]]"
+- "[[Adolescence]]"
 ---
+# Adolescents

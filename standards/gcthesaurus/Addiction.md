@@ -1,8 +1,10 @@
 ---
 title: Addiction
-longTitle: 'Addiction'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Addiction'
 french:
 - "[[Dependance]]"
 narrowerTerm:
@@ -11,3 +13,4 @@ narrowerTerm:
 scopeNote:
 - "Habitual psychological and physiological dependenc"
 ---
+# Addiction

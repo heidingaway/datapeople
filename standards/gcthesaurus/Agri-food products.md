@@ -1,8 +1,10 @@
 ---
 title: Agri-food products
-longTitle: 'Agri-food products'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Agri-food products'
 french:
 - "[[Produit agro-alimentaire]]"
 narrowerTerm:
@@ -24,4 +26,12 @@ usedFor:
 - "[[Farm products]]"
 - "[[Farming products]]"
 - "[[Livestock products]]"
+- "[[Food products]]"
+relatedTerm:
+- "[[Food]]"
+- "[[Farms]]"
+- "[[Crops]]"
+- "[[Agriculture]]"
+- "[[Agri-food industry]]"
 ---
+# Agri-food products

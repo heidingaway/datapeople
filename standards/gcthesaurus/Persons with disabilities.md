@@ -1,8 +1,10 @@
 ---
 title: Persons with disabilities
-longTitle: 'Persons with disabilities'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Persons with disabilities'
 french:
 - "[[Personne handicapee]]"
 relatedTerm:
@@ -22,4 +24,7 @@ usedFor:
 - "[[Physically handicapped]]"
 - "[[Sight impaired]]"
 - "[[Visually impaired]]"
+narrowerTerm:
+- "[[Duty to accommodate]]"
 ---
+# Persons with disabilities

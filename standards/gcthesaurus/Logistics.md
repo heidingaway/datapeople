@@ -1,10 +1,14 @@
 ---
 title: Logistics
-longTitle: 'Logistics'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Logistics'
 french:
 - "[[Logistique]]"
 relatedTerm:
 - "[[Logistical support]]"
+- "[[Material management]]"
 ---
+# Logistics

@@ -1,4 +1,8 @@
 {
-  "cssTheme": "Obsidian Nord",
-  "theme": "moonstone"
+  "cssTheme": "Primary",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "MCL Multi Column"
+  ],
+  "showViewHeader": true
 }
