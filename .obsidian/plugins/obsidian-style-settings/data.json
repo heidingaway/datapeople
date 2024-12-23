@@ -1,0 +1,11 @@
+{
+  "primary-theme@@font-thin": 100,
+  "primary-theme@@font-extralight": 200,
+  "primary-theme@@font-light": 300,
+  "primary-theme@@font-normal": 400,
+  "primary-theme@@font-medium": 500,
+  "primary-theme@@font-semibold": 600,
+  "primary-theme@@font-bold": 700,
+  "primary-theme@@font-extrabold": 800,
+  "primary-theme@@interface_editor-bg": "editor-bg-default"
+}

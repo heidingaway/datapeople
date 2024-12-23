@@ -4,5 +4,7 @@
   "enabledCssSnippets": [
     "MCL Multi Column"
   ],
-  "showViewHeader": true
+  "showViewHeader": true,
+  "interfaceFontFamily": "Karla",
+  "textFontFamily": "Karla"
 }

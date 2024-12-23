@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
-> — Barack Obama  
+> [!quote] Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.
+> — Henry Van Dyke  
   
 ------  
 ```widgets  
