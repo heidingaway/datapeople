@@ -1,8 +1,10 @@
 ---
 title: Agreements
-longTitle: 'Agreements'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Agreements'
 french:
 - "[[Accord]]"
 narrowerTerm:
@@ -21,4 +23,8 @@ usedFor:
 - "[[Alliances]]"
 - "[[Conventions Agreements]]"
 - "[[Treaties]]"
+relatedTerm:
+- "[[Negotiations]]"
+- "[Contracts]"
 ---
+# Agreements

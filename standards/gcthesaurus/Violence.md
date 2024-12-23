@@ -1,8 +1,10 @@
 ---
 title: Violence
-longTitle: 'Violence'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Violence'
 french:
 - "[[Violence]]"
 narrowerTerm:
@@ -26,4 +28,8 @@ usedFor:
 - "[[Physical violence]]"
 - "[[Psychological abuse]]"
 - "[[Psychological violence]]"
+relatedTerm:
+- "[[Terrorism]]"
+- "[[Homicide]]"
 ---
+# Violence

@@ -1,8 +1,10 @@
 ---
 title: Elementary education
-longTitle: 'Elementary education'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Elementary education'
 french:
 - "[[Enseignement primaire]]"
 relatedTerm:
@@ -10,3 +12,4 @@ relatedTerm:
 usedFor:
 - "[[Primary education]]"
 ---
+# Elementary education

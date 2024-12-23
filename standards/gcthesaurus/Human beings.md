@@ -1,8 +1,10 @@
 ---
 title: Human beings
-longTitle: 'Human beings'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Human beings'
 broaderTerm:
 - "[[Primates]]"
 french:
@@ -15,4 +17,8 @@ scopeNote:
 usedFor:
 - "[[Human species]]"
 - "[[Humans]]"
+relatedTerm:
+- "[[Human trafficking]]"
+- "[[Anthropology]]"
 ---
+# Human beings

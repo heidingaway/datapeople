@@ -10,5 +10,6 @@ french:
 relatedTerm:
 - "[[Technology transfer]]"
 - "[[Technology]]"
+- "[[Information policy]]"
 ---
 # Technology policy

@@ -1,8 +1,10 @@
 ---
 title: Construction industry
-longTitle: 'Construction industry'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Construction industry'
 french:
 - "[[Industrie de la construction]]"
 scopeNote:
@@ -14,4 +16,9 @@ usedFor:
 - "[[Construction code]]"
 - "[[Construction permits]]"
 - "[[Construction standards]]"
+relatedTerm:
+- "[[Lumber industry]]"
+- "[[Construction materials]]"
+- "[[Construction]]"
 ---
+# Construction industry

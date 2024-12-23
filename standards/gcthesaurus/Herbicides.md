@@ -1,8 +1,10 @@
 ---
 title: Herbicides
-longTitle: 'Herbicides'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Herbicides'
 french:
 - "[[Herbicide]]"
 relatedTerm:
@@ -13,3 +15,4 @@ usedFor:
 - "[[Weedicides]]"
 - "[[Weedkillers]]"
 ---
+# Herbicides

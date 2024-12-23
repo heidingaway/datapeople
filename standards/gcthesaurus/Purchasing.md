@@ -1,8 +1,10 @@
 ---
 title: Purchasing
-longTitle: 'Purchasing'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Purchasing'
 french:
 - "[[Achat]]"
 usedFor:
@@ -11,4 +13,11 @@ usedFor:
 - "[[Ordering]]"
 - "[[Procurement]]"
 - "[[Public purchasing]]"
+relatedTerm:
+- "[[Supplies]]"
+- "[[Standing offers]]"
+- "[[Costs]]"
+- "[[Consumerism]]"
+- "[[Buyers]]"
 ---
+# Purchasing

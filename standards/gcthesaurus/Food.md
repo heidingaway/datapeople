@@ -1,7 +1,7 @@
 ---
 title: Food
 created: 2024-12-13
-modified: 2024-12-17
+modified: 2024-12-22
 tags:
 - gccommon
 longTitle: 'Food'
@@ -24,5 +24,7 @@ relatedTerm:
 - "[[Nutrition]]"
 - "[[Restaurants]]"
 - "[[Seafood]]"
+usedFor:
+- "[[Food products]]"
 ---
 # Food

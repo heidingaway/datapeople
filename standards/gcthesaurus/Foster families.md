@@ -1,8 +1,10 @@
 ---
 title: Foster families
-longTitle: 'Foster families'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Foster families'
 french:
 - "[[Famille daccueil]]"
 narrowerTerm:
@@ -13,3 +15,4 @@ usedFor:
 - "[[Family care home]]"
 - "[[Foster home]]"
 ---
+# Foster families

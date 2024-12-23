@@ -1,8 +1,10 @@
 ---
 title: Language minorities
-longTitle: 'Language minorities'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Language minorities'
 broaderTerm:
 - "[[Language groups]]"
 french:
@@ -13,4 +15,8 @@ usedFor:
 - "[[Linguistic minority groups]]"
 - "[[Minority language communities]]"
 - "[[Minority language groups]]"
+relatedTerm:
+- "[[Minority language education]]"
+- "[[Language rights]]"
 ---
+# Language minorities

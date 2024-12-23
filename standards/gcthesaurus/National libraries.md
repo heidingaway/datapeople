@@ -1,8 +1,10 @@
 ---
 title: National libraries
-longTitle: 'National libraries'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'National libraries'
 french:
 - "[[Bibliotheque nationale]]"
 relatedTerm:
@@ -10,3 +12,4 @@ relatedTerm:
 scopeNote:
 - "Libraries designated and funded by national govern"
 ---
+# National libraries

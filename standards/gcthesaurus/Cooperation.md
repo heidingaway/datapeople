@@ -1,8 +1,10 @@
 ---
 title: Cooperation
-longTitle: 'Cooperation'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Cooperation'
 french:
 - "[[Cooperation]]"
 narrowerTerm:
@@ -10,4 +12,9 @@ narrowerTerm:
 - "[[Regional cooperation]]"
 relatedTerm:
 - "[[Cooperation agreements]]"
+- "[[Partnerships]]"
+- "[[Cooperative education]]"
+- "[[Cooperation agreements]]"
+- "[Collaborative research]]"
 ---
+# Cooperation

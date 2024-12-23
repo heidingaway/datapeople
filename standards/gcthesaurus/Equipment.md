@@ -1,8 +1,10 @@
 ---
 title: Equipment
-longTitle: 'Equipment'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Equipment'
 french:
 - "[[Equipement]]"
 narrowerTerm:
@@ -17,6 +19,8 @@ narrowerTerm:
 relatedTerm:
 - "[[Equipment industry]]"
 - "[[Tooling]]"
+- "[[Technology]]"
 usedFor:
 - "[[Machinery]]"
 ---
+# Equipment

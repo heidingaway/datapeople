@@ -1,8 +1,10 @@
 ---
 title: Policy
-longTitle: 'Policy'
+created: 2024-12-18
+modified: 2024-12-22
 tags:
 - gccommon
+longTitle: 'Policy'
 french:
 - "[[Politique]]"
 narrowerTerm:
@@ -34,4 +36,7 @@ relatedTerm:
 - "[[Policy development]]"
 - "[[Policy instruments]]"
 - "[[Policy review]]"
+- "[[Regulations]]"
+- "[[Regulation]]"
 ---
+# Policy
