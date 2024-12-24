@@ -1,8 +1,10 @@
 ---
 title: Discrimination
-longTitle: 'Discrimination'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Discrimination'
 french:
 - "[[Discrimination]]"
 narrowerTerm:
@@ -11,4 +13,9 @@ narrowerTerm:
 usedFor:
 - "[[Bias]]"
 - "[[Prejudice]]"
+relatedTerm:
+- "[[Inequality]]"
+- "[[Equal opportunities]]"
+- "[[Affirmative action]]"
 ---
+# Discrimination

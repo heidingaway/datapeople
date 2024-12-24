@@ -1,8 +1,10 @@
 ---
 title: Toxic spills
-longTitle: 'Toxic spills'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Toxic spills'
 broaderTerm:
 - "[[Environmental accidents]]"
 french:
@@ -10,3 +12,4 @@ french:
 narrowerTerm:
 - "[[Oil spills]]"
 ---
+# Toxic spills

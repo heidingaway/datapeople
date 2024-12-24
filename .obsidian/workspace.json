@@ -25,37 +25,22 @@
             }
           },
           {
-            "id": "e49c69b26963a10f",
+            "id": "37feacdb2cd36017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "standards/gcthesaurus/Public-private partnerships.md",
+                "file": "standards/gcthesaurus/Continuing education.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Public-private partnerships"
-            }
-          },
-          {
-            "id": "ec2d5268d713c32c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "standards/gcthesaurus/Public sector Private sector.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Public sector Private sector"
+              "title": "Continuing education"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -259,34 +244,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ec2d5268d713c32c",
+  "active": "37feacdb2cd36017",
   "lastOpenFiles": [
-    "standards/gcthesaurus/Public-private partnerships.md",
+    "standards/gcthesaurus/Lifelong education Adult education.md",
+    "standards/gcthesaurus/Continuing education.md",
     "Home.md",
-    "standards/gcthesaurus/Public sector Private sector.md",
-    "standards/gcthesaurus/Public sector, Private sector.md",
-    "standards/gcthesaurus/Private-public partnerships PPP Government-industr.md",
-    "standards/gcthesaurus/Public-private partnerships Government-industry pa.md",
-    "standards/gcthesaurus/Markets.md",
-    "standards/gcthesaurus/Side effects.md",
-    "standards/gcthesaurus/Side effects Adverse effects.md",
-    "standards/gcthesaurus/Tourism infrastructure.md",
-    "standards/gcthesaurus/Stock markets Regional markets International marke.md",
-    "standards/gcthesaurus/Trade Marketplace services Market place Market ent.md",
-    "standards/gcthesaurus/Trade-marks Registered trademarks.md",
-    "standards/gcthesaurus/Trademarks.md",
-    "Index/402.03 HowTo.md",
-    "402.04 DataCatalog.md",
-    "standards/gcthesaurus/501 TR Transport.md",
-    "standards/gcthesaurus/Trends.md",
-    "standards/gcthesaurus/Social trends Economic trends.md",
-    "standards/gcthesaurus/Affirmative action.md",
-    "standards/gcthesaurus/Wings Aircraft Wing de-icing Wing anti-icing Wheel.md",
-    "standards/gcthesaurus/Reverse discrimination Positive discrimination.md",
-    "standards/gcthesaurus/Status of women Equal opportunities Employment equ.md",
-    "standards/gcthesaurus/Architectural heritage.md",
-    "standards/gcthesaurus/Heritage buildings Architecture.md",
-    "standards/gcthesaurus/Blood supply.md",
+    "standards/gcthesaurus/Fisheries products.md",
+    "standards/gcthesaurus/Retraining Professional development.md",
+    "standards/gcthesaurus/Socioeconomic data.md",
+    "standards/gcthesaurus/Seafood Fisheries Fish.md",
+    "standards/gcthesaurus/Scholarships.md",
+    "standards/gcthesaurus/Socioeconomic analysis Social statistics.md",
+    "standards/gcthesaurus/Scholarship programs Millennium scholarships Bursa.md",
+    "Index/501 HI History and Archaeology.md",
+    "standards/gcthesaurus/Student loans Grants Financial assistance Educatio.md",
+    "standards/gcthesaurus/History.md",
+    "standards/gcthesaurus/Symbols.md",
+    "standards/gcthesaurus/World heritage War memorials War cemeteries Visual.md",
+    "standards/gcthesaurus/National symbols Flags Emblems.md",
+    "standards/gcthesaurus/Signs Heraldry Cryptography.md",
+    "standards/gcthesaurus/Social history Religious history Natural history M.md",
+    "standards/gcthesaurus/Heraldry.md",
+    "standards/gcthesaurus/Historical societies Historical research Historic .md",
+    "standards/gcthesaurus/Testimony.md",
+    "standards/gcthesaurus/Symbols History.md",
+    "standards/gcthesaurus/Toxic spills.md",
+    "standards/gcthesaurus/Hazardous materials transport.md",
+    "standards/gcthesaurus/Energy.md",
+    "standards/gcthesaurus/Transportation of dangerous goods Hazardous materi.md",
     "Templates/Scripts/joke.js",
     "Templates/Scripts/quote (Copy).js",
     "canvas/Canvas.canvas",

@@ -1,8 +1,11 @@
 ---
 title: Heritage conservation
-longTitle: 'Heritage conservation'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Heritage conservation'
 french:
 - "[[Protection du patrimoine]]"
 ---
+# Heritage conservation

@@ -1,8 +1,10 @@
 ---
 title: Fungi
-longTitle: 'Fungi'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Fungi'
 french:
 - "[[Champignon]]"
 relatedTerm:
@@ -10,4 +12,8 @@ relatedTerm:
 usedFor:
 - "[[Mushrooms]]"
 - "[[Toadstools]]"
+- "[[Molds Fungi]]"
+- "[[Moulds Fungi]]"
+- "[[Yeasts]]"
 ---
+# Fungi

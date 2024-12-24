@@ -1,8 +1,10 @@
 ---
 title: Hazardous materials transport
-longTitle: 'Hazardous materials transport'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Hazardous materials transport'
 french:
 - "[[Transport des matieres dangereuses]]"
 usedFor:
@@ -12,3 +14,4 @@ usedFor:
 - "[[Hazardous materials transportation]]"
 - "[[Transportation of dangerous goods]]"
 ---
+# Hazardous materials transport

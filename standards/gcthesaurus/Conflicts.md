@@ -1,8 +1,10 @@
 ---
 title: Conflicts
-longTitle: 'Conflicts'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Conflicts'
 french:
 - "[[Conflit]]"
 narrowerTerm:
@@ -10,4 +12,8 @@ narrowerTerm:
 - "[[Labour disputes]]"
 relatedTerm:
 - "[[Crisis]]"
+- "[[Litigation]]"
+- "[[Conflict resolution]]"
+- "[[Arbitration]]"
 ---
+# Conflicts

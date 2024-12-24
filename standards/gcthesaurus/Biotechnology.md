@@ -1,8 +1,10 @@
 ---
 title: Biotechnology
-longTitle: 'Biotechnology'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Biotechnology'
 french:
 - "[[Biotechnologie]]"
 narrowerTerm:
@@ -10,4 +12,8 @@ narrowerTerm:
 usedFor:
 - "[[Bioengineering]]"
 - "[[Biological engineering]]"
+relatedTerm:
+- "[[Genetic engineering]]"
+- "[[Bioethics]]"
 ---
+# Biotechnology

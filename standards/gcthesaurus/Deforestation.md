@@ -1,8 +1,10 @@
 ---
 title: Deforestation
-longTitle: 'Deforestation'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Deforestation'
 french:
 - "[[Deboisement]]"
 usedFor:
@@ -11,3 +13,4 @@ usedFor:
 - "[[Tree cutting]]"
 - "[[Tree removal]]"
 ---
+# Deforestation

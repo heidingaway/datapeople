@@ -1,7 +1,7 @@
 ---
 title: Microorganisms
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-23
 tags:
 - gccommon
 longTitle: 'Microorganisms'
@@ -19,5 +19,8 @@ scopeNote:
 usedFor:
 - "[[Micro-organisms]]"
 - "[[Microscopic organisms]]"
+- "[[Molds Fungi]]"
+- "[[Moulds Fungi]]"
+- "[[Yeasts]]"
 ---
 # Microorganisms

@@ -12,5 +12,7 @@ usedFor:
 relatedTerm:
 - "[[Mining industry]]"
 - "[[Geology]]"
+narrowerTerm:
+- "[[Coal]]"
 ---
 # Minerals

@@ -1,12 +1,21 @@
 ---
 title: Police services
-longTitle: 'Police services'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Police services'
 french:
 - "[[Service de police]]"
 relatedTerm:
 - "[[Policing]]"
+- "[[Policing]]"
+- "[[Military police]]"
+- "[[Indigenous policing]]"
+- "[[Emergency preparedness]]"
+- "[[Criminal investigations]]"
+- "[[Crime prevention]]"
 usedFor:
 - "[[Law enforcement]]"
 ---
+# Police services
