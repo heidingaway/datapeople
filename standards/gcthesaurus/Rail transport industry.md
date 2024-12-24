@@ -1,10 +1,9 @@
 ---
 title: Rail transport industry
-longTitle: 'Rail transport industry'
-tags:
-- gccommon
-french:
-- "[[Industrie du transport ferroviaire]]"
+created: 2024-12-24
+modified: 2024-12-24
+tags: 
 usedFor:
 - "[[Rail transportation industry]]"
 ---
+# Rail transport industry

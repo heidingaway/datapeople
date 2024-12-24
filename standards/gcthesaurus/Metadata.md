@@ -1,10 +1,17 @@
 ---
 title: Metadata
-longTitle: Metadata
+created: 2024-12-13
+modified: 2024-12-24
+source: "[[501 Government of Canada Core Subject Thesaurus]]"
 tags:
   - gccommon
+longTitle: Metadata
 french:
   - "[[Metadonnees]]"
-source: "[[Government of Canada Core Subject Thesaurus]]"
-property: "[[metadata quality]]"
+relatedTerm: 
+- "[[Information management]]"
+- "[[Cataloguing]]"
+narrowerTerm:
+- "[[metadata quality]]"
 ---
+# Metadata

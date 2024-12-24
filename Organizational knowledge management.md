@@ -7,7 +7,7 @@ tags:
 - area
 type: "[[406 Organization]]"
 subject: "[[Knowledge management]]"
-related: 
+relatedTerm: 
 - "[[301 Government Knowledge Management (GKM)]]"
 - "[[Team Knowledge Management]]"
 includes: 

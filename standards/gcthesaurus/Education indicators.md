@@ -1,10 +1,8 @@
 ---
 title: Education indicators
-longTitle: 'Education indicators'
-tags:
-- gccommon
-french:
-- "[[Indicateur de leducation]]"
-usedFor:
-- "[[Educational indicators]]"
+created: 2024-12-24
+modified: 2024-12-24
+tags: 
+usedFor: "[[Educational indicators]]"
 ---
+# Education indicators

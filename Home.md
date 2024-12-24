@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.
-> — Henry Van Dyke  
+> [!quote] Knowing your own darkness is the best method for dealing with the darknesses of other people.
+> — Carl Jung  
   
 ------  
 ```widgets  

@@ -2,7 +2,7 @@
 title: Managing Metadata
 created: 2024-12-06
 modified: 2024-12-06
-object: "[[404.06 Metadata]]"
+object: "[[Metadata]]"
 type: "[[401.05 OrganizeAction]]"
 apply:
   - "[[GC Enterprise Data Reference Standards]]"

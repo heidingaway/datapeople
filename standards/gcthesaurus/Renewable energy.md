@@ -1,17 +1,11 @@
 ---
 title: Renewable energy
-longTitle: 'Renewable energy'
+created: 2024-12-24
+modified: 2024-12-24
 tags:
 - gccommon
-french:
-- "[[Energie renouvelable]]"
-narrowerTerm:
-- "[[Bioenergy]]"
-- "[[Geothermal energy]]"
-- "[[Ocean energy]]"
-- "[[Solar energy]]"
-- "[[Wind energy]]"
 usedFor:
-- "[[Renewable energy resources]]"
 - "[[Renewable energy sources]]"
+- "[[Renewable energy resources]]"
 ---
+# Renewable energy
