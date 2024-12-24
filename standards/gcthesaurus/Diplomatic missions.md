@@ -1,7 +1,7 @@
 ---
 title: Diplomatic missions
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
 longTitle: 'Diplomatic missions'
@@ -14,5 +14,6 @@ relatedTerm:
 - "[[Delegations]]"
 usedFor:
 - "[[Embassies]]"
+- "[[Consulates]]"
 ---
 # Diplomatic missions

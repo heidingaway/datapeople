@@ -1,10 +1,12 @@
 ---
 title: Digitization
-longTitle: 'Digitization'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
-broaderTerm:
-- "[[Data processing]]"
+longTitle: 'Digitization'
+narrowerTerm:
+- "[[Digitized information]]"
 french:
 - "[[Numerisation]]"
 scopeNote:
@@ -13,3 +15,4 @@ usedFor:
 - "[[Imaging]]"
 - "[[Scanning]]"
 ---
+# Digitization

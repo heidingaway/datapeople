@@ -6,7 +6,7 @@ tags:
   - intangible
   - project/dma
 type: "[[101 Data Maturity Level.md]]"
-rating: "[[]]"
+
 ---
 # Level 4 Developing
 ## Properties
@@ -30,7 +30,7 @@ rating: "[[]]"
 - [[Data initiatives are supported and understood]]
 - [[Open Government]]
 - [[Transparency and Accountability]]
-- 
+
 - Organisation **provides support** Non-expert data users
 - Organisation **conducts** External Outreach and Engagement
 - Organisation **regularly reviews** Policies and Practices

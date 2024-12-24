@@ -1,8 +1,10 @@
 ---
 title: Forensics
-longTitle: 'Forensics'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Forensics'
 french:
 - "[[Medecine legale]]"
 scopeNote:
@@ -12,3 +14,4 @@ usedFor:
 - "[[Forensics technology]]"
 - "[[Legal medicine]]"
 ---
+# Forensics

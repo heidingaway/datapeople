@@ -1,8 +1,10 @@
 ---
 title: Pensions
-longTitle: 'Pensions'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Pensions'
 french:
 - "[[Pension]]"
 narrowerTerm:
@@ -15,4 +17,6 @@ usedFor:
 - "[[Old age security]]"
 - "[[Pension plans]]"
 - "[[Retirement benefits]]"
+- "[[Annuities]]"
 ---
+# Pensions

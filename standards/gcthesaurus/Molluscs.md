@@ -1,8 +1,10 @@
 ---
 title: Molluscs
-longTitle: 'Molluscs'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Molluscs'
 french:
 - "[[Mollusque]]"
 scopeNote:
@@ -15,4 +17,9 @@ usedFor:
 - "[[Oysters]]"
 - "[[Slugs]]"
 - "[[Snails]]"
+relatedTerm:
+- "[[Seafood]]"
+- "[[Fisheries resources]]"
+- "[[Aquatic animals]]"
 ---
+# Molluscs

@@ -1,8 +1,10 @@
 ---
 title: Scientists
-longTitle: 'Scientists'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Scientists'
 broaderTerm:
 - "[[Occupations]]"
 french:
@@ -11,7 +13,16 @@ relatedTerm:
 - "[[Earth sciences]]"
 - "[[Life sciences]]"
 - "[[Physical sciences]]"
+- "[[Space sciences]]"
+- "[[Polar sciences]]"
+- "[[Physical sciences]]"
+- "[[Natural sciences]]"
+- "[[Life sciences]]"
+- "[[Health sciences]]"
+- "[[Environmental sciences]]"
+- "[[Earth sciences]]"
 usedFor:
 - "[[Scientific community]]"
 - "[[Scientific researchers]]"
 ---
+# Scientists

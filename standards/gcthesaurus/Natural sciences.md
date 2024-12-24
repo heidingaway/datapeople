@@ -16,7 +16,7 @@ narrowerTerm:
 - "[[Space sciences]]"
 relatedTerm:
 - "[[Natural history]]"
-- "[[Scientists]]]"
+- "[[Scientists]]"
 - "[[Mathematics]]"
 - "[[Computer science]]"
 scopeNote:

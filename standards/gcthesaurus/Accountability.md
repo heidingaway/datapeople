@@ -10,5 +10,7 @@ french:
 relatedTerm:
 - "[[Devolution]]"
 - "[[Delegation of authority]]"
+narrowerTerm:
+- "[[Open government]]"
 ---
 # Accountability

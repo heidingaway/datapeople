@@ -1,8 +1,10 @@
 ---
 title: Indigenous programs
-longTitle: 'Indigenous programs'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Indigenous programs'
 french:
 - "[[Programme pour autochtones]]"
 relatedTerm:
@@ -10,3 +12,4 @@ relatedTerm:
 usedFor:
 - "[[Aboriginal programs]]"
 ---
+# Indigenous programs

@@ -1,8 +1,10 @@
 ---
 title: Geographic data
-longTitle: 'Geographic data'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Geographic data'
 french:
 - "[[Donnees geographiques]]"
 usedFor:
@@ -13,4 +15,9 @@ usedFor:
 - "[[Geospatial information]]"
 - "[[Mapping data]]"
 - "[[Spatial data]]"
+relatedTerm:
+- "[[Maps]]"
+- "[[Geographic information systems]]"
+- "[[Cartography]]"
 ---
+# Geographic data

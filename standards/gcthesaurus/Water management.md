@@ -1,8 +1,10 @@
 ---
 title: Water management
-longTitle: 'Water management'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Water management'
 french:
 - "[[Gestion de leau]]"
 usedFor:
@@ -15,4 +17,13 @@ usedFor:
 - "[[Water purification]]"
 - "[[Water resource management]]"
 - "[[Water treatment]]"
+relatedTerm:
+- "[[Water supply]]"
+- "[[Water quality]]"
+- "[[Water conservation]]"
+- "[[Water]]"
+- "[[Irrigation]]"
+- "[[Drainage]]"
+- "[[Dams]]"
 ---
+# Water management

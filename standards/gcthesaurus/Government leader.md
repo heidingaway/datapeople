@@ -1,8 +1,10 @@
 ---
 title: Government leader
-longTitle: 'Government leader'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Government leader'
 broaderTerm:
 - "[[Parliamentary leaders]]"
 french:
@@ -13,3 +15,4 @@ usedFor:
 - "[[Leader of the government in the House of Commons]]"
 - "[[Leader of the government in the Senate]]"
 ---
+# Government leader

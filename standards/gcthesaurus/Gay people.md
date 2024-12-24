@@ -1,8 +1,10 @@
 ---
 title: Gay people
-longTitle: 'Gay people'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Gay people'
 french:
 - "[[Personne gaie]]"
 narrowerTerm:
@@ -11,3 +13,4 @@ narrowerTerm:
 usedFor:
 - "[[Gays]]"
 ---
+# Gay people

@@ -1,8 +1,10 @@
 ---
 title: Erosion
-longTitle: 'Erosion'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Erosion'
 french:
 - "[[Erosion]]"
 usedFor:
@@ -12,3 +14,4 @@ usedFor:
 - "[[Soil erosion]]"
 - "[[Wind erosion]]"
 ---
+# Erosion

@@ -1,8 +1,10 @@
 ---
 title: Fish
-longTitle: 'Fish'
+created: 2024-12-18
+modified: 2024-12-23
 tags:
 - gccommon
+longTitle: 'Fish'
 french:
 - "[[Poisson]]"
 narrowerTerm:
@@ -11,4 +13,7 @@ narrowerTerm:
 relatedTerm:
 - "[[Fish farming]]"
 - "[[Ichthyology]]"
+- "[[Fisheries resources]]"
+- "[[Fisheries products]]"
 ---
+# Fish
