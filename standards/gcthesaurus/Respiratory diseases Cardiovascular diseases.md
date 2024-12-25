@@ -1,8 +1,6 @@
 ---
 title: Respiratory diseases Cardiovascular diseases
-longTitle: 'Respiratory diseases, Cardiovascular diseases'
 tags:
-- gccommon
-usedFor:
-- "[[Cardiorespiratory diseases]]"
+  - gccommon
+aliases: Respiratory diseases, Cardiovascular diseases
 ---

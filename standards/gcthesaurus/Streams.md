@@ -1,8 +1,8 @@
 ---
 title: Streams
-longTitle: 'Streams'
+aliases: Streams
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ruisseau]]"
+  - "[[Ruisseau]]"
 ---

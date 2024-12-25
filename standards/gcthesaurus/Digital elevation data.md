@@ -1,8 +1,8 @@
 ---
 title: Digital elevation data
-longTitle: 'Digital elevation data'
+aliases: Digital elevation data
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Donnees numeriques delevation]]"
+  - "[[Donnees numeriques delevation]]"
 ---

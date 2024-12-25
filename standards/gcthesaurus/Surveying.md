@@ -1,8 +1,8 @@
 ---
 title: Surveying
-longTitle: 'Surveying'
+aliases: Surveying
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Arpentage]]"
+  - "[[Arpentage]]"
 ---

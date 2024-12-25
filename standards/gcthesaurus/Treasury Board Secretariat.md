@@ -1,8 +1,8 @@
 ---
 title: Treasury Board Secretariat
-longTitle: 'Treasury Board Secretariat'
+aliases: Treasury Board Secretariat
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Secretariat du Conseil du Tresor]]"
+  - "[[Secretariat du Conseil du Tresor]]"
 ---

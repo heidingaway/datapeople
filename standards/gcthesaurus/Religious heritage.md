@@ -1,8 +1,8 @@
 ---
 title: Religious heritage
-longTitle: 'Religious heritage'
+aliases: Religious heritage
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Patrimoine religieux]]"
+  - "[[Patrimoine religieux]]"
 ---

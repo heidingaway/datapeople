@@ -1,8 +1,8 @@
 ---
 title: Indigenous rights Indigenous policing
-longTitle: 'Indigenous rights, Indigenous policing'
+aliases: Indigenous rights, Indigenous policing
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Indigenous law]]"
+  - "[[Indigenous law]]"
 ---

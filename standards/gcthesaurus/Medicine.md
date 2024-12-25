@@ -1,20 +1,20 @@
 ---
 title: Medicine
-longTitle: 'Medicine'
+aliases: Medicine
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Medecine]]"
+  - "[[Medecine]]"
 narrowerTerm:
-- "[[Alternative medicine]]"
-- "[[Forensics]]"
-- "[[Nuclear medicine]]"
-- "[[Preventive medicine]]"
-- "[[Surgery]]"
-- "[[Telemedicine]]"
-- "[[Veterinary medicine]]"
+  - "[[Alternative medicine]]"
+  - "[[Forensics]]"
+  - "[[Nuclear medicine]]"
+  - "[[Preventive medicine]]"
+  - "[[Surgery]]"
+  - "[[Telemedicine]]"
+  - "[[Veterinary medicine]]"
 relatedTerm:
-- "[[Medical law]]"
+  - "[[Medical law]]"
 scopeNote:
-- "Discipline dedicated to the prevention and treatme"
+  - Discipline dedicated to the prevention and treatme
 ---

@@ -3,21 +3,16 @@ title: Housing
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Housing'
+  - gccommon
 french:
-- "[[Logement]]"
+  - "[[Logement]]"
 relatedTerm:
-- "[[Apartment buildings]]"
-- "[[Housing assistance]]"
+  - "[[Apartment buildings]]"
+  - "[[Housing assistance]]"
 scopeNote:
-- "Accommodations occupied as a permanent residence l"
-usedFor:
-- "[[Accommodations]]"
-- "[[Apartments]]"
-- "[[Dwellings]]"
-- "[[Houses]]"
+  - Accommodations occupied as a permanent residence l
+aliases: Housing
 narrowerTerm:
-- "[[Subsidized housing]]"
+  - "[[Subsidized housing]]"
 ---
 # Housing

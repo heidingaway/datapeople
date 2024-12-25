@@ -1,8 +1,8 @@
 ---
 title: Plants Herbaria Botanical gardens
-longTitle: 'Plants, Herbaria, Botanical gardens'
+aliases: Plants, Herbaria, Botanical gardens
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Botany]]"
+  - "[[Botany]]"
 ---

@@ -1,10 +1,10 @@
 ---
 title: Rehabilitation
-longTitle: 'Rehabilitation'
+aliases: Rehabilitation
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Readaptation]]"
+  - "[[Readaptation]]"
 narrowerTerm:
-- "[[Vocational rehabilitation]]"
+  - "[[Vocational rehabilitation]]"
 ---

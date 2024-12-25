@@ -1,10 +1,10 @@
 ---
 title: Nomenclature
-longTitle: 'Nomenclature'
+aliases: Nomenclature
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Nomenclature]]"
+  - "[[Nomenclature]]"
 relatedTerm:
-- "[[Indexes]]"
+  - "[[Indexes]]"
 ---

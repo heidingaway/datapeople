@@ -1,8 +1,8 @@
 ---
 title: Roles
-longTitle: 'Roles'
+aliases: Roles
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Role]]"
+  - "[[Role]]"
 ---

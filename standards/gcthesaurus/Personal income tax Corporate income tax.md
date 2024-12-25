@@ -1,8 +1,8 @@
 ---
 title: Personal income tax Corporate income tax
-longTitle: 'Personal income tax, Corporate income tax'
+aliases: Personal income tax, Corporate income tax
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Income tax]]"
+  - "[[Income tax]]"
 ---

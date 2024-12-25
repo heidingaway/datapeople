@@ -1,10 +1,8 @@
 ---
 title: Sealing
-longTitle: 'Sealing'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Chasse au phoque]]"
-usedFor:
-- "[[Seal hunt]]"
+  - "[[Chasse au phoque]]"
+aliases: Sealing
 ---

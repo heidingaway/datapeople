@@ -1,16 +1,12 @@
 ---
 title: Websites
-longTitle: 'Websites'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Internet]]"
+  - "[[Internet]]"
 french:
-- "[[Site Web]]"
+  - "[[Site Web]]"
 narrowerTerm:
-- "[[Web usability]]"
-usedFor:
-- "[[Internet sites]]"
-- "[[Web pages]]"
-- "[[Web sites]]"
+  - "[[Web usability]]"
+aliases: Websites
 ---

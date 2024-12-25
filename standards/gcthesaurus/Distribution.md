@@ -1,10 +1,10 @@
 ---
 title: Distribution
-longTitle: 'Distribution'
+aliases: Distribution
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Distribution]]"
+  - "[[Distribution]]"
 relatedTerm:
-- "[[Deliveries]]"
+  - "[[Deliveries]]"
 ---

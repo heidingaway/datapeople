@@ -3,12 +3,12 @@ title: Economic history
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Economic history'
+  - gccommon
+aliases: Economic history
 french:
-- "[[Histoire economique]]"
+  - "[[Histoire economique]]"
 relatedTerm:
-- "[[Economy]]"
-- "[[Economics]]"
+  - "[[Economy]]"
+  - "[[Economics]]"
 ---
 # Economic history

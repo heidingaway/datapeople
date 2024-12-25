@@ -1,12 +1,12 @@
 ---
 title: Horticulture
-longTitle: 'Horticulture'
+aliases: Horticulture
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Horticulture]]"
+  - "[[Horticulture]]"
 relatedTerm:
-- "[[Greenhouses]]"
+  - "[[Greenhouses]]"
 scopeNote:
-- "Cultivation of fruits vegetables flowers and ornam"
+  - Cultivation of fruits vegetables flowers and ornam
 ---

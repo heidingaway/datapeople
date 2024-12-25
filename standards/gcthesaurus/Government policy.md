@@ -3,13 +3,11 @@ title: Government policy
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Government policy'
+  - gccommon
 french:
-- "[[Politique gouvernementale]]"
-usedFor:
-- "[[Public policy]]"
+  - "[[Politique gouvernementale]]"
+aliases: Government policy
 narrowerTerm:
-- "[[Open government]]"
+  - "[[Open government]]"
 ---
 # Government policy

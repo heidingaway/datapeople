@@ -1,12 +1,17 @@
 ---
 title: Wood
-longTitle: 'Wood'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-broaderTerm:
-- "[[Forestry products]]"
+  - gccommon
+aliases:
+  - Wood
 french:
-- "[[Bois]]"
+  - Bois
 relatedTerm:
-- "[[Logging industry]]"
+  - "[[Forests]]"
+  - "[[Logging industry]]"
+  - "[[Lumber industry]]"
+  - "[[Woodworking industry]]"
 ---
+# Wood

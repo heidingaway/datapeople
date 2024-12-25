@@ -3,12 +3,9 @@ title: Bisexual people
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Bisexual people'
+  - gccommon
 french:
-- "[[Personne bisexuelle]]"
-usedFor:
-- "[[Bis Bisexuals]]"
-- "[[Bisexuals]]"
+  - "[[Personne bisexuelle]]"
+aliases: Bisexual people
 ---
 # Bisexual people

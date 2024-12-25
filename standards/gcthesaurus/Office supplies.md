@@ -1,12 +1,12 @@
 ---
 title: Office supplies
-longTitle: 'Office supplies'
+aliases: Office supplies
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Supplies]]"
+  - "[[Supplies]]"
 french:
-- "[[Fournitures de bureau]]"
+  - "[[Fournitures de bureau]]"
 narrowerTerm:
-- "[[Stationery]]"
+  - "[[Stationery]]"
 ---

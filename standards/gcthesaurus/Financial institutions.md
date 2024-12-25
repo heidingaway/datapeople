@@ -1,14 +1,14 @@
 ---
 title: Financial institutions
-longTitle: 'Financial institutions'
+aliases: Financial institutions
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Institution financiere]]"
+  - "[[Institution financiere]]"
 narrowerTerm:
-- "[[Banks]]"
-- "[[Caisses populaires]]"
-- "[[Credit unions]]"
-- "[[Insurance companies]]"
-- "[[Trust companies]]"
+  - "[[Banks]]"
+  - "[[Caisses populaires]]"
+  - "[[Credit unions]]"
+  - "[[Insurance companies]]"
+  - "[[Trust companies]]"
 ---

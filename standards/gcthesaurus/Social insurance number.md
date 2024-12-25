@@ -1,8 +1,8 @@
 ---
 title: Social insurance number
-longTitle: 'Social insurance number'
+aliases: Social insurance number
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Numero dassurance sociale]]"
+  - "[[Numero dassurance sociale]]"
 ---

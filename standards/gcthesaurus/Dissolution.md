@@ -1,8 +1,8 @@
 ---
 title: Dissolution
-longTitle: 'Dissolution'
+aliases: Dissolution
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Dissolution]]"
+  - "[[Dissolution]]"
 ---

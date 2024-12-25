@@ -3,17 +3,12 @@ title: Violence against children
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Violence against children'
+  - gccommon
 french:
-- "[[Violence faite aux enfants]]"
-usedFor:
-- "[[Abused children]]"
-- "[[Battered children]]"
-- "[[Child abuse]]"
-- "[[Child neglect]]"
+  - "[[Violence faite aux enfants]]"
+aliases: Violence against children
 relatedTerm:
-- "[[Family violence]]"
-- "[[Children]]"
+  - "[[Family violence]]"
+  - "[[Children]]"
 ---
 # Violence against children

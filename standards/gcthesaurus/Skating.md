@@ -1,8 +1,8 @@
 ---
 title: Skating
-longTitle: 'Skating'
+aliases: Skating
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Patinage]]"
+  - "[[Patinage]]"
 ---

@@ -1,13 +1,10 @@
 ---
 title: Medical products industry
-longTitle: 'Medical products industry'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie des produits medicaux]]"
+  - "[[Industrie des produits medicaux]]"
 relatedTerm:
-- "[[Medical products]]"
-usedFor:
-- "[[Medical device industry]]"
-- "[[Medical equipment industry]]"
+  - "[[Medical products]]"
+aliases: Medical products industry
 ---

@@ -1,8 +1,8 @@
 ---
 title: Resources management Resources conservation Resour
-longTitle: 'Resources management, Resources conservation, Resource development, Primary industry'
+aliases: Resources management, Resources conservation, Resource development, Primary industry
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Natural resources]]"
+  - "[[Natural resources]]"
 ---

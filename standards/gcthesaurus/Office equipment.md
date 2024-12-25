@@ -1,10 +1,8 @@
 ---
 title: Office equipment
-longTitle: 'Office equipment'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Equipement de bureau]]"
-usedFor:
-- "[[Office furnitures]]"
+  - "[[Equipement de bureau]]"
+aliases: Office equipment
 ---

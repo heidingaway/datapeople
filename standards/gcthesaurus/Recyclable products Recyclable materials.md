@@ -1,8 +1,8 @@
 ---
 title: Recyclable products Recyclable materials
-longTitle: 'Recyclable products, Recyclable materials'
+aliases: Recyclable products, Recyclable materials
 tags:
-- gccommon
+  - gccommon
 historyNote:
-- "Recyclable materials replaces Recyclable products "
+  - "Recyclable materials replaces Recyclable products "
 ---

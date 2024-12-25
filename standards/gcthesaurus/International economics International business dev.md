@@ -1,8 +1,8 @@
 ---
 title: International economics International business dev
-longTitle: 'International economics, International business development'
+aliases: International economics, International business development
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Multinational corporations]]"
+  - "[[Multinational corporations]]"
 ---

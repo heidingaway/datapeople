@@ -1,8 +1,8 @@
 ---
 title: Novel coronavirus disease 2019
-longTitle: 'Novel coronavirus disease, 2019'
+aliases: Novel coronavirus disease, 2019
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Nouvelle maladie a coronavirus 2019]]"
+  - "[[Nouvelle maladie a coronavirus 2019]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Dumping
-longTitle: 'Dumping'
+aliases: Dumping
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Dumping]]"
+  - "[[Dumping]]"
 ---

@@ -1,10 +1,10 @@
 ---
 title: Allergies
-longTitle: 'Allergies'
+aliases: Allergies
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Allergie]]"
+  - "[[Allergie]]"
 relatedTerm:
-- "[[Chronic diseases]]"
+  - "[[Chronic diseases]]"
 ---

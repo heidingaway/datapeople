@@ -3,14 +3,14 @@ title: Audit
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Audit'
+  - gccommon
+aliases: Audit
 french:
-- "[[Verification]]"
+  - "[[Verification]]"
 narrowerTerm:
-- "[[Financial audit]]"
+  - "[[Financial audit]]"
 relatedTerm:
-- "[[Review]]"
-- "[[Control]]"
+  - "[[Review]]"
+  - "[[Control]]"
 ---
 # Audit

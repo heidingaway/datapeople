@@ -1,10 +1,8 @@
 ---
 title: Policy review
-longTitle: 'Policy review'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Examen des politiques]]"
-usedFor:
-- "[[Policy evaluation]]"
+  - "[[Examen des politiques]]"
+aliases: Policy review
 ---

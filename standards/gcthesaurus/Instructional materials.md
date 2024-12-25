@@ -1,13 +1,10 @@
 ---
 title: Instructional materials
-longTitle: 'Instructional materials'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Educational resources]]"
+  - "[[Educational resources]]"
 french:
-- "[[Materiel didactique]]"
-usedFor:
-- "[[Learning kits]]"
-- "[[Learning materials]]"
+  - "[[Materiel didactique]]"
+aliases: Instructional materials
 ---

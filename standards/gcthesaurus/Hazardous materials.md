@@ -1,24 +1,29 @@
 ---
 title: Hazardous materials
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Hazardous materials'
+  - gccommon
 french:
-- "[[Matiere dangereuse]]"
+  - Matiere dangereuse
 narrowerTerm:
-- "[[Explosives]]"
-- "[[Hazardous waste]]"
+  - "[[Explosives]]"
+  - "[[Hazardous waste]]"
 relatedTerm:
-- "[[Hazardous materials transport]]"
-usedFor:
-- "[[Dangerous goods]]"
-- "[[Dangerous materials]]"
-- "[[Dangerous products]]"
-- "[[Dangerous substances]]"
-- "[[Hazardous goods]]"
-- "[[Hazardous products]]"
-- "[[Hazardous substances]]"
+  - "[[Chemicals]]"
+  - "[[Environmental hazards]]"
+  - "[[Hazardous materials transport]]"
+  - "[[Pollutants]]"
+  - "[[Radioactive materials]]"
+  - "[[Toxic substances]]"
+aliases:
+  - Dangerous goods
+  - Dangerous materials
+  - Dangerous products
+  - Dangerous substances
+  - Hazardous goods
+  - Hazardous materials
+  - Hazardous products
+  - Hazardous substances
 ---
 # Hazardous materials

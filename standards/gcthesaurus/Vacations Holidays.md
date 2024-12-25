@@ -1,8 +1,8 @@
 ---
 title: Vacations Holidays
-longTitle: 'Vacations, Holidays'
+aliases: Vacations, Holidays
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Leave of absence]]"
+  - "[[Leave of absence]]"
 ---

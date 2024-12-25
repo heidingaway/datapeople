@@ -1,8 +1,8 @@
 ---
 title: Planning Decisions
-longTitle: 'Planning, Decisions'
+aliases: Planning, Decisions
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Decision making]]"
+  - "[[Decision making]]"
 ---

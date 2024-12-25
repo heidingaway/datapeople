@@ -1,8 +1,8 @@
 ---
 title: North-South relations
-longTitle: 'North-South relations'
+aliases: North-South relations
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Relations nord-sud]]"
+  - "[[Relations nord-sud]]"
 ---

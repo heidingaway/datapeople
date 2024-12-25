@@ -1,10 +1,10 @@
 ---
 title: By-laws
-longTitle: 'By-laws'
+aliases: By-laws
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Reglement administratif]]"
+  - "[[Reglement administratif]]"
 scopeNote:
-- "Laws dealing with matters of local or internal reg"
+  - Laws dealing with matters of local or internal reg
 ---

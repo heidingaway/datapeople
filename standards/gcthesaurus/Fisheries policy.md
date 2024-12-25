@@ -1,8 +1,8 @@
 ---
 title: Fisheries policy
-longTitle: 'Fisheries policy'
+aliases: Fisheries policy
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Politique des peches]]"
+  - "[[Politique des peches]]"
 ---

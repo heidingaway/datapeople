@@ -1,8 +1,8 @@
 ---
 title: Marketing campaigns
-longTitle: 'Marketing campaigns'
+aliases: Marketing campaigns
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Campagne de marketing]]"
+  - "[[Campagne de marketing]]"
 ---

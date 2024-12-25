@@ -1,10 +1,12 @@
 ---
 title: International adoption
-longTitle: 'International adoption'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-broaderTerm:
-- "[[Adoption]]"
+  - gccommon
+aliases:
+  - International adoption
 french:
-- "[[Adoption internationale]]"
+  - Adoption internationale
 ---
+# International adoption

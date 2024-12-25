@@ -3,15 +3,13 @@ title: Catalogues
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Catalogues'
+  - gccommon
 french:
-- "[[Catalogue]]"
+  - "[[Catalogue]]"
 relatedTerm:
-- "[[Registers]]"
-- "[[Inventories]]"
-- "[[Cataloguing]]"
-usedFor:
-- "[[Catalogs]]"
+  - "[[Registers]]"
+  - "[[Inventories]]"
+  - "[[Cataloguing]]"
+aliases: Catalogues
 ---
 # Catalogues

@@ -1,10 +1,8 @@
 ---
 title: Statistical analysis
-longTitle: 'Statistical analysis'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Analyse statistique]]"
-usedFor:
-- "[[Statistical methods]]"
+  - "[[Analyse statistique]]"
+aliases: Statistical analysis
 ---

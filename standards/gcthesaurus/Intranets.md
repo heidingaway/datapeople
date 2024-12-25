@@ -1,10 +1,8 @@
 ---
 title: Intranets
-longTitle: 'Intranets'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Intranet]]"
-usedFor:
-- "[[Intranet sites]]"
+  - "[[Intranet]]"
+aliases: Intranets
 ---

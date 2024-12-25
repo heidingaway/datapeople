@@ -1,15 +1,15 @@
 ---
 title: Planning
-longTitle: 'Planning'
+aliases: Planning
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Planification]]"
+  - "[[Planification]]"
 narrowerTerm:
-- "[[Budget planning]]"
-- "[[Family planning]]"
-- "[[Urban planning]]"
+  - "[[Budget planning]]"
+  - "[[Family planning]]"
+  - "[[Urban planning]]"
 relatedTerm:
-- "[[Resource allocation]]"
-- "[[Strategies]]"
+  - "[[Resource allocation]]"
+  - "[[Strategies]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Milk Dairy industry
-longTitle: 'Milk, Dairy industry'
+aliases: Milk, Dairy industry
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Dairy cattle]]"
+  - "[[Dairy cattle]]"
 ---

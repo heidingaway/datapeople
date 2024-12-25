@@ -1,8 +1,8 @@
 ---
 title: National security International security Electroni
-longTitle: 'National security, International security, Electronic monitoring'
+aliases: National security, International security, Electronic monitoring
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Security intelligence]]"
+  - "[[Security intelligence]]"
 ---

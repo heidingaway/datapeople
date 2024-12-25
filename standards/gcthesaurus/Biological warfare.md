@@ -3,15 +3,13 @@ title: Biological warfare
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Biological warfare'
+  - gccommon
 french:
-- "[[Guerre biologique]]"
-usedFor:
-- "[[Bacteriological warfare]]"
+  - "[[Guerre biologique]]"
+aliases: Biological warfare
 relatedTerm:
-- "[[Chemical warfare]]"
-- "[[Chemical weapons]]"
-- "[[Biological weapons]]"
+  - "[[Chemical warfare]]"
+  - "[[Chemical weapons]]"
+  - "[[Biological weapons]]"
 ---
 # Biological warfare

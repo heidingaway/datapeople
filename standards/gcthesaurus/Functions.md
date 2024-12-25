@@ -1,10 +1,8 @@
 ---
 title: Functions
-longTitle: 'Functions'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Fonction]]"
-usedFor:
-- "[[Tasks]]"
+  - "[[Fonction]]"
+aliases: Functions
 ---

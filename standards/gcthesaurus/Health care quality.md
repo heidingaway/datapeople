@@ -1,10 +1,8 @@
 ---
 title: Health care quality
-longTitle: 'Health care quality'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Qualite des soins de sante]]"
-usedFor:
-- "[[Quality of health care]]"
+  - "[[Qualite des soins de sante]]"
+aliases: Health care quality
 ---

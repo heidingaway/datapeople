@@ -1,14 +1,11 @@
 ---
 title: Boundaries
-longTitle: 'Boundaries'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Frontiere]]"
+  - "[[Frontiere]]"
 relatedTerm:
-- "[[Boundary waters]]"
-- "[[Border crossing]]"
-usedFor:
-- "[[Borders]]"
-- "[[Geographic boundaries]]"
+  - "[[Boundary waters]]"
+  - "[[Border crossing]]"
+aliases: Boundaries
 ---

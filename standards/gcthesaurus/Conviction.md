@@ -1,8 +1,8 @@
 ---
 title: Conviction
-longTitle: 'Conviction'
+aliases: Conviction
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Condamnation]]"
+  - "[[Condamnation]]"
 ---

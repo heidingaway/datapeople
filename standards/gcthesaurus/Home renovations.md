@@ -3,15 +3,13 @@ title: Home renovations
 created: 2024-12-05
 modified: 2024-12-10
 tags:
-- gccommon
-longTitle: 'Home renovations'
+  - gccommon
 french:
-- "[[Renovation domiciliaire]]"
+  - "[[Renovation domiciliaire]]"
 relatedTerm:
-- "[[Maintenance]]"
-- "[[Household equipment]]"
-- "[[Housing]]"
-usedFor:
-- "[[Home improvements]]"
+  - "[[Maintenance]]"
+  - "[[Household equipment]]"
+  - "[[Housing]]"
+aliases: Home renovations
 ---
 # Home renovations

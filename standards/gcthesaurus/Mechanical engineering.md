@@ -1,8 +1,8 @@
 ---
 title: Mechanical engineering
-longTitle: 'Mechanical engineering'
+aliases: Mechanical engineering
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Genie mecanique]]"
+  - "[[Genie mecanique]]"
 ---

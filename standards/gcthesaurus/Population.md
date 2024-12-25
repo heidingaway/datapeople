@@ -1,10 +1,8 @@
 ---
 title: Population
-longTitle: 'Population'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Population]]"
-usedFor:
-- "[[Human population]]"
+  - "[[Population]]"
+aliases: Population
 ---

@@ -1,13 +1,11 @@
 ---
 title: Tariffs
-longTitle: 'Tariffs'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Tarif douanier]]"
+  - "[[Tarif douanier]]"
 relatedTerm:
-- "[[Tariff barriers]]"
-- "[[Tariff relief]]"
-usedFor:
-- "[[Customs tariffs]]"
+  - "[[Tariff barriers]]"
+  - "[[Tariff relief]]"
+aliases: Tariffs
 ---

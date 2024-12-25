@@ -1,12 +1,18 @@
 ---
 title: Terminology
-longTitle: 'Terminology'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Terminologie]]"
+  - Terminologie
 relatedTerm:
-- "[[Abbreviations]]"
-usedFor:
-- "[[Vocabulary]]"
+  - "[[Abbreviations]]"
+  - "[[Dictionaries]]"
+  - "[[Languages]]"
+  - "[[Thesauri]]"
+aliases:
+  - Terminology
+  - Vocabulary
 ---
+# Terminology

@@ -1,8 +1,8 @@
 ---
 title: Fossils
-longTitle: 'Fossils'
+aliases: Fossils
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Fossile]]"
+  - "[[Fossile]]"
 ---

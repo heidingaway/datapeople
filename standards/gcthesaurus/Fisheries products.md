@@ -3,15 +3,13 @@ title: Fisheries products
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Fisheries products'
+  - gccommon
 french:
-- "[[Produit de la peche]]"
-usedFor:
-- "[[Fishery products]]"
+  - "[[Produit de la peche]]"
+aliases: Fisheries products
 relatedTerm:
-- "[[Seafood]]"
-- "[[Fisheries]]"
-- "[[Fish]]"
+  - "[[Seafood]]"
+  - "[[Fisheries]]"
+  - "[[Fish]]"
 ---
 # Fisheries products

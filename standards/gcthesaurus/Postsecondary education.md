@@ -1,11 +1,8 @@
 ---
 title: Postsecondary education
-longTitle: 'Postsecondary education'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Enseignement postsecondaire]]"
-usedFor:
-- "[[Higher education]]"
-- "[[Post secondary education]]"
+  - "[[Enseignement postsecondaire]]"
+aliases: Postsecondary education
 ---

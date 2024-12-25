@@ -1,22 +1,15 @@
 ---
 title: Court decisions
-longTitle: 'Court decisions'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Decisions]]"
+  - "[[Decisions]]"
 french:
-- "[[Decision du tribunal]]"
+  - "[[Decision du tribunal]]"
 narrowerTerm:
-- "[[Acquittal]]"
-- "[[Conviction]]"
+  - "[[Acquittal]]"
+  - "[[Conviction]]"
 scopeNote:
-- "A decision of a court or judge"
-usedFor:
-- "[[Adjudication]]"
-- "[[Legal decisions]]"
-- "[[Precedents]]"
-- "[[Sentences]]"
-- "[[Sentencing]]"
-- "[[Verdicts]]"
+  - A decision of a court or judge
+aliases: Court decisions
 ---

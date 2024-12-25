@@ -3,18 +3,16 @@ title: Grants
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Grants'
+  - gccommon
 french:
-- "[[Subvention]]"
+  - "[[Subvention]]"
 narrowerTerm:
-- "[[Research grants]]"
-usedFor:
-- "[[Subsidies]]"
+  - "[[Research grants]]"
+aliases: Grants
 relatedTerm:
-- "[[Scholarships]]"
-- "[[Funding]]"
-- "[[Financial assistance]]"
-- "[[Allowances]]"
+  - "[[Scholarships]]"
+  - "[[Funding]]"
+  - "[[Financial assistance]]"
+  - "[[Allowances]]"
 ---
 # Grants

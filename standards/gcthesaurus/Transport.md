@@ -1,31 +1,37 @@
 ---
 title: Transport
-longTitle: 'Transport'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Transport]]"
+  - "[[Transport]]"
 narrowerTerm:
-- "[[Accessible transport]]"
-- "[[Air transport]]"
-- "[[Hazardous materials transport]]"
-- "[[Intercity transport]]"
-- "[[International transport]]"
-- "[[Interprovincial transport]]"
-- "[[Public transit]]"
-- "[[Rail transport]]"
-- "[[Road transport]]"
-- "[[Urban transit]]"
-- "[[Water transport]]"
+  - "[[Accessible transport]]"
+  - "[[Air transport]]"
+  - "[[Hazardous materials transport]]"
+  - "[[Intercity transport]]"
+  - "[[International transport]]"
+  - "[[Interprovincial transport]]"
+  - "[[Public transit]]"
+  - "[[Rail transport]]"
+  - "[[Road transport]]"
+  - "[[Urban transit]]"
+  - "[[Water transport]]"
 relatedTerm:
-- "[[Handling]]"
-- "[[Intelligent transportation systems]]"
-- "[[Sustainable transportation]]"
-- "[[Transport industry]]"
-- "[[Transport policy]]"
-- "[[Transportation safety]]"
-- "[[Vehicles]]"
-usedFor:
-- "[[Passenger transportation]]"
-- "[[Transportation]]"
+  - "[[Freight]]"
+  - "[[Handling]]"
+  - "[[Intelligent transportation systems]]"
+  - "[[Shipping]]"
+  - "[[Sustainable transportation]]"
+  - "[[Transport industry]]"
+  - "[[Transport policy]]"
+  - "[[Transportation safety]]"
+  - "[[Vehicles]]"
+aliases:
+  - Passenger transport
+  - Transport
+  - transportation
+id: 80
 ---
+# Transport

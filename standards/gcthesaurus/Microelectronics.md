@@ -1,10 +1,10 @@
 ---
 title: Microelectronics
-longTitle: 'Microelectronics'
+aliases: Microelectronics
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Electronics]]"
+  - "[[Electronics]]"
 french:
-- "[[Microelectronique]]"
+  - "[[Microelectronique]]"
 ---

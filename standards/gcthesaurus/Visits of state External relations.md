@@ -1,8 +1,8 @@
 ---
 title: Visits of state External relations
-longTitle: 'Visits of state, External relations'
+aliases: Visits of state, External relations
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Foreign affairs]]"
+  - "[[Foreign affairs]]"
 ---

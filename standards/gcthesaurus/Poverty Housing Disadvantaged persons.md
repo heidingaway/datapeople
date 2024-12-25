@@ -1,8 +1,8 @@
 ---
 title: Poverty Housing Disadvantaged persons
-longTitle: 'Poverty, Housing, Disadvantaged persons'
+aliases: Poverty, Housing, Disadvantaged persons
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Homelessness]]"
+  - "[[Homelessness]]"
 ---

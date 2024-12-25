@@ -1,8 +1,8 @@
 ---
 title: Lobbying
-longTitle: 'Lobbying'
+aliases: Lobbying
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Lobbying]]"
+  - "[[Lobbying]]"
 ---

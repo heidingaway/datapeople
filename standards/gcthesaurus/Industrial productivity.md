@@ -1,13 +1,10 @@
 ---
 title: Industrial productivity
-longTitle: 'Industrial productivity'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Productivity]]"
+  - "[[Productivity]]"
 french:
-- "[[Productivite industrielle]]"
-usedFor:
-- "[[Industrial efficiency]]"
-- "[[Industrial performance]]"
+  - "[[Productivite industrielle]]"
+aliases: Industrial productivity
 ---

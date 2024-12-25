@@ -1,8 +1,8 @@
 ---
 title: Training Mentoring Learning Education
-longTitle: 'Training, Mentoring, Learning, Education'
+aliases: Training, Mentoring, Learning, Education
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Coaching]]"
+  - "[[Coaching]]"
 ---

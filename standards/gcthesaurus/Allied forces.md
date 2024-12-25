@@ -1,8 +1,8 @@
 ---
 title: Allied forces
-longTitle: 'Allied forces'
+aliases: Allied forces
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Forces alliees]]"
+  - "[[Forces alliees]]"
 ---

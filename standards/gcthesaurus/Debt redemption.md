@@ -1,8 +1,8 @@
 ---
 title: Debt redemption
-longTitle: 'Debt redemption'
+aliases: Debt redemption
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Remboursement de la dette]]"
+  - "[[Remboursement de la dette]]"
 ---

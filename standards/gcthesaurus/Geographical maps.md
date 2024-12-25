@@ -1,8 +1,8 @@
 ---
 title: Geographical maps
-longTitle: 'Geographical maps'
+aliases: Geographical maps
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Carte geographique]]"
+  - "[[Carte geographique]]"
 ---

@@ -1,10 +1,10 @@
 ---
 title: Sailboats
-longTitle: 'Sailboats'
+aliases: Sailboats
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Pleasure craft]]"
+  - "[[Pleasure craft]]"
 french:
-- "[[Voilier]]"
+  - "[[Voilier]]"
 ---

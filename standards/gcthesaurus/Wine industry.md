@@ -1,12 +1,15 @@
 ---
 title: Wine industry
-longTitle: 'Wine industry'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-broaderTerm:
-- "[[Beverage industry]]"
+  - gccommon
 french:
-- "[[Industrie vinicole]]"
-usedFor:
-- "[[Wine sector]]"
+  - Industrie vinicole
+aliases:
+  - Wine industry
+relatedTerm:
+  - "[[Viticulture]]"
+  - "[[Wine]]"
 ---
+# Wine industry

@@ -1,12 +1,10 @@
 ---
 title: Ecology
-longTitle: 'Ecology'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Environmental sciences]]"
+  - "[[Environmental sciences]]"
 french:
-- "[[Ecologie]]"
-usedFor:
-- "[[Environmental biology]]"
+  - "[[Ecologie]]"
+aliases: Ecology
 ---

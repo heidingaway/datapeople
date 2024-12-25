@@ -1,8 +1,8 @@
 ---
 title: Official residences
-longTitle: 'Official residences'
+aliases: Official residences
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Residence officielle]]"
+  - "[[Residence officielle]]"
 ---

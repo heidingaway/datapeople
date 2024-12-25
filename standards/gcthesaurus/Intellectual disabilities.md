@@ -1,17 +1,12 @@
 ---
 title: Intellectual disabilities
-longTitle: 'Intellectual disabilities'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Deficience intellectuelle]]"
+  - "[[Deficience intellectuelle]]"
 relatedTerm:
-- "[[Mental health]]"
+  - "[[Mental health]]"
 scopeNote:
-- "Significantly below-average general intellectual f"
-usedFor:
-- "[[Cognitive disabilities]]"
-- "[[Intellectual handicaps]]"
-- "[[Mental disabilities]]"
-- "[[Mental handicaps]]"
+  - Significantly below-average general intellectual f
+aliases: Intellectual disabilities
 ---

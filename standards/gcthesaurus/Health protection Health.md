@@ -1,8 +1,8 @@
 ---
 title: Health protection Health
-longTitle: 'Health protection, Health'
+aliases: Health protection, Health
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Hygiene]]"
+  - "[[Hygiene]]"
 ---

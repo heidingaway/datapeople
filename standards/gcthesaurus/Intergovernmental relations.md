@@ -1,14 +1,12 @@
 ---
 title: Intergovernmental relations
-longTitle: 'Intergovernmental relations'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Relations intergouvernementales]]"
+  - "[[Relations intergouvernementales]]"
 narrowerTerm:
-- "[[Federal provincial relations]]"
-- "[[Federal territorial relations]]"
-- "[[Interprovincial relations]]"
-usedFor:
-- "[[Intergovernmental affairs]]"
+  - "[[Federal provincial relations]]"
+  - "[[Federal territorial relations]]"
+  - "[[Interprovincial relations]]"
+aliases: Intergovernmental relations
 ---

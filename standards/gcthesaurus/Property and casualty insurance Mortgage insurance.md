@@ -1,8 +1,8 @@
 ---
 title: Property and casualty insurance Mortgage insurance
-longTitle: 'Property and casualty insurance, Mortgage insurance, Life insurance, Health insurance, Employment insurance, Drug insurance, Dental insurance, Crop insurance'
+aliases: Property and casualty insurance, Mortgage insurance, Life insurance, Health insurance, Employment insurance, Drug insurance, Dental insurance, Crop insurance
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Insurance]]"
+  - "[[Insurance]]"
 ---

@@ -1,10 +1,17 @@
 ---
 title: Collective agreements
-longTitle: 'Collective agreements'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+id: 251
 french:
-- "[[Convention collective]]"
-usedFor:
-- "[[Collective bargaining agreements]]"
+  - Convention collective
+aliases:
+  - Collective bargaining agreements
+relatedTerm:
+  - "[[Collective bargaining]]"
+  - "[[Labour relations]]"
+  - "[[Working conditions]]"
 ---
+# Collective agreements

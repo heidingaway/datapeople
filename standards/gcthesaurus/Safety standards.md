@@ -1,10 +1,8 @@
 ---
 title: Safety standards
-longTitle: 'Safety standards'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Norme de securite]]"
-usedFor:
-- "[[Safety guidelines]]"
+  - "[[Norme de securite]]"
+aliases: Safety standards
 ---

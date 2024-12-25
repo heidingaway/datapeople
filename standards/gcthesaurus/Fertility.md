@@ -1,12 +1,10 @@
 ---
 title: Fertility
-longTitle: 'Fertility'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Fecondite]]"
+  - "[[Fecondite]]"
 scopeNote:
-- "The ability of animals to conceive or induce conce"
-usedFor:
-- "[[Infertility]]"
+  - The ability of animals to conceive or induce conce
+aliases: Fertility
 ---

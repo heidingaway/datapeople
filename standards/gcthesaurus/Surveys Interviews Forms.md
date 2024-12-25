@@ -1,8 +1,8 @@
 ---
 title: Surveys Interviews Forms
-longTitle: 'Surveys, Interviews, Forms'
+aliases: Surveys, Interviews, Forms
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Questionnaires]]"
+  - "[[Questionnaires]]"
 ---

@@ -1,12 +1,8 @@
 ---
 title: Arachnids
-longTitle: 'Arachnids'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Arachnide]]"
-usedFor:
-- "[[Mites]]"
-- "[[Spiders]]"
-- "[[Ticks]]"
+  - "[[Arachnide]]"
+aliases: Arachnids
 ---

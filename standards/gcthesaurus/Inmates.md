@@ -3,16 +3,13 @@ title: Inmates
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Inmates'
+  - gccommon
 french:
-- "[[Detenu]]"
-usedFor:
-- "[[Convicts]]"
-- "[[Prisoners]]"
+  - "[[Detenu]]"
+aliases: Inmates
 relatedTerm:
-- "[[Imprisonment]]"
-- "[[Crime]]"
-- "[[Correctional institutions]]"
+  - "[[Imprisonment]]"
+  - "[[Crime]]"
+  - "[[Correctional institutions]]"
 ---
 # Inmates

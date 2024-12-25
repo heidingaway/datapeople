@@ -1,8 +1,8 @@
 ---
 title: Urban planning Family planning Budget planning
-longTitle: 'Urban planning, Family planning, Budget planning'
+aliases: Urban planning, Family planning, Budget planning
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Planning]]"
+  - "[[Planning]]"
 ---

@@ -3,18 +3,18 @@ title: Family
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Family'
+  - gccommon
+aliases: Family
 french:
-- "[[Famille]]"
+  - "[[Famille]]"
 narrowerTerm:
-- "[[Single parent families]]"
+  - "[[Single parent families]]"
 relatedTerm:
-- "[[Parents]]"
-- "[[Genealogy]]"
-- "[[Family law]]"
-- "[[Family allowances]]"
-- "[[Couples]]"
-- "[[Children]]"
+  - "[[Parents]]"
+  - "[[Genealogy]]"
+  - "[[Family law]]"
+  - "[[Family allowances]]"
+  - "[[Couples]]"
+  - "[[Children]]"
 ---
 # Family

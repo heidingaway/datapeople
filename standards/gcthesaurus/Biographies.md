@@ -1,8 +1,8 @@
 ---
 title: Biographies
-longTitle: 'Biographies'
+aliases: Biographies
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Biographie]]"
+  - "[[Biographie]]"
 ---

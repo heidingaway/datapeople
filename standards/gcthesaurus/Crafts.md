@@ -3,18 +3,16 @@ title: Crafts
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Crafts'
+  - gccommon
 french:
-- "[[Artisanat]]"
+  - "[[Artisanat]]"
 narrowerTerm:
-- "[[Quilting]]"
-- "[[Sewing]]"
-- "[[Weaving]]"
+  - "[[Quilting]]"
+  - "[[Sewing]]"
+  - "[[Weaving]]"
 relatedTerm:
-- "[[Decorative arts]]"
-- "[[Folk art]]"
-usedFor:
-- "[[Handicrafts]]"
+  - "[[Decorative arts]]"
+  - "[[Folk art]]"
+aliases: Crafts
 ---
 # Crafts

@@ -1,8 +1,8 @@
 ---
 title: Television Social media Radio Press releases Newsp
-longTitle: 'Television, Social media, Radio, Press releases, Newspapers, Multimedia, Media relations, Media monitoring, Information, Communications'
+aliases: Television, Social media, Radio, Press releases, Newspapers, Multimedia, Media relations, Media monitoring, Information, Communications
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Media]]"
+  - "[[Media]]"
 ---

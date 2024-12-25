@@ -1,8 +1,18 @@
 ---
 title: Bilingualism
-longTitle: 'Bilingualism'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Bilingualism
 french:
-- "[[Bilinguisme]]"
+  - Bilinguisme
+relatedTerm:
+  - "[[Bilingual services]]"
+  - "[[Languages]]"
+  - "[[Linguistic duality]]"
+  - "[[Multilingualism]]"
+  - "[[Second languages]]"
 ---
+# Bilingualism

@@ -1,10 +1,10 @@
 ---
 title: Emigration
-longTitle: 'Emigration'
+aliases: Emigration
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Emigration]]"
+  - "[[Emigration]]"
 scopeNote:
-- "To leave ones place of residence or country to liv"
+  - To leave ones place of residence or country to liv
 ---

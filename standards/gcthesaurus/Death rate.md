@@ -1,8 +1,8 @@
 ---
 title: Death rate
-longTitle: 'Death rate'
+aliases: Death rate
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Taux de mortalite]]"
+  - "[[Taux de mortalite]]"
 ---

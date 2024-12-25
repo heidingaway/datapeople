@@ -1,12 +1,8 @@
 ---
 title: Animal migrations
-longTitle: 'Animal migrations'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Migration animale]]"
-usedFor:
-- "[[Bird migrations]]"
-- "[[Fish migrations]]"
-- "[[Insect migrations]]"
+  - "[[Migration animale]]"
+aliases: Animal migrations
 ---

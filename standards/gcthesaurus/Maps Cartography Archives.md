@@ -1,8 +1,8 @@
 ---
 title: Maps Cartography Archives
-longTitle: 'Maps, Cartography, Archives'
+aliases: Maps, Cartography, Archives
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Cartographic records]]"
+  - "[[Cartographic records]]"
 ---

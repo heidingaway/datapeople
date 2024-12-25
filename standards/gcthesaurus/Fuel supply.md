@@ -1,10 +1,10 @@
 ---
 title: Fuel supply
-longTitle: 'Fuel supply'
+aliases: Fuel supply
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Energy supply]]"
+  - "[[Energy supply]]"
 french:
-- "[[Disponibilites en combustible]]"
+  - "[[Disponibilites en combustible]]"
 ---

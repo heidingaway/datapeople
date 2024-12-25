@@ -1,18 +1,18 @@
 ---
 title: Civil aviation
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Civil aviation'
+  - gccommon
 french:
-- "[[Aviation civile]]"
+  - Aviation civile
 relatedTerm:
-- "[[Civilian aircraft]]"
-usedFor:
-- "[[Business aviation]]"
-- "[[Civil aeronautics]]"
-- "[[Commercial aviation]]"
-- "[[Recreational aviation]]"
+  - "[[Civilian aircraft]]"
+aliases:
+  - Business aviation
+  - Civil aeronautics
+  - Commercial aviation
+  - Recreational aviation
+id: 914
 ---
 # Civil aviation

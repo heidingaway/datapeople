@@ -1,12 +1,10 @@
 ---
 title: Dental insurance
-longTitle: 'Dental insurance'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Assurance dentaire]]"
+  - "[[Assurance dentaire]]"
 relatedTerm:
-- "[[Oral health]]"
-usedFor:
-- "[[Dental care plan]]"
+  - "[[Oral health]]"
+aliases: Dental insurance
 ---

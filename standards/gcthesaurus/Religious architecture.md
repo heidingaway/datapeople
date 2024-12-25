@@ -3,9 +3,9 @@ title: Religious architecture
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Religious architecture'
+  - gccommon
+aliases: Religious architecture
 french:
-- "[[Architecture religieuse]]"
+  - "[[Architecture religieuse]]"
 ---
 # Religious architecture

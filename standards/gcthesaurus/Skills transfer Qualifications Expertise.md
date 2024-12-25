@@ -1,8 +1,8 @@
 ---
 title: Skills transfer Qualifications Expertise
-longTitle: 'Skills transfer, Qualifications, Expertise'
+aliases: Skills transfer, Qualifications, Expertise
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Skills]]"
+  - "[[Skills]]"
 ---

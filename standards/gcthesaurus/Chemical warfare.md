@@ -3,12 +3,12 @@ title: Chemical warfare
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Chemical warfare'
+  - gccommon
+aliases: Chemical warfare
 french:
-- "[[Guerre chimique]]"
+  - "[[Guerre chimique]]"
 relatedTerm:
-- "[[Biological weapons]]"
-- "[[Chemical weapons]]"
+  - "[[Biological weapons]]"
+  - "[[Chemical weapons]]"
 ---
 # Chemical warfare

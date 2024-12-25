@@ -3,12 +3,12 @@ title: Robotics
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Robotics'
+  - gccommon
+aliases: Robotics
 french:
-- "[[Robotique]]"
+  - "[[Robotique]]"
 relatedTerm:
-- "[[Automation]]"
-- "[[Artificial intelligence]]"
+  - "[[Automation]]"
+  - "[[Artificial intelligence]]"
 ---
 # Robotics

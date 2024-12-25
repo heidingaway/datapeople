@@ -1,8 +1,15 @@
 ---
 title: Grapes
-longTitle: 'Grapes'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Grapes
 french:
-- "[[Raisin]]"
+  - Raisin
+relatedTerm:
+  - "[[Viticulture]]"
+  - "[[Wine]]"
 ---
+# Grapes

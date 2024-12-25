@@ -1,8 +1,8 @@
 ---
 title: Safety Driver education
-longTitle: 'Safety, Driver education'
+aliases: Safety, Driver education
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Safety education]]"
+  - "[[Safety education]]"
 ---

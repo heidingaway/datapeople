@@ -1,8 +1,8 @@
 ---
 title: Seniors Pensions Aging
-longTitle: 'Seniors, Pensions, Aging'
+aliases: Seniors, Pensions, Aging
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Retirement]]"
+  - "[[Retirement]]"
 ---

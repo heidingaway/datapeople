@@ -1,11 +1,8 @@
 ---
 title: Hazardous waste
-longTitle: 'Hazardous waste'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Dechets dangereux]]"
-usedFor:
-- "[[Dangerous waste]]"
-- "[[Residual hazardous materials]]"
+  - "[[Dechets dangereux]]"
+aliases: Hazardous waste
 ---

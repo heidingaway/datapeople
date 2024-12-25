@@ -1,8 +1,8 @@
 ---
 title: Oral health Dental health
-longTitle: 'Oral health, Dental health'
+aliases: Oral health, Dental health
 tags:
-- gccommon
+  - gccommon
 historyNote:
-- "Oral health replaces Dental health as preferred te"
+  - Oral health replaces Dental health as preferred te
 ---

@@ -3,14 +3,12 @@ title: Directories
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Directories'
+  - gccommon
 french:
-- "[[Repertoire]]"
+  - "[[Repertoire]]"
 narrowerTerm:
-- "[[Gazetteers]]"
-- "[[Telephone directories]]"
-usedFor:
-- "[[Repertories]]"
+  - "[[Gazetteers]]"
+  - "[[Telephone directories]]"
+aliases: Directories
 ---
 # Directories

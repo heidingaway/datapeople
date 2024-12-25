@@ -1,10 +1,10 @@
 ---
 title: Participation
-longTitle: 'Participation'
+aliases: Participation
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Participation]]"
+  - "[[Participation]]"
 narrowerTerm:
-- "[[Citizen participation]]"
+  - "[[Citizen participation]]"
 ---

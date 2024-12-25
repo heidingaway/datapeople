@@ -3,11 +3,11 @@ title: Secondary education
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Secondary education'
+  - gccommon
+aliases: Secondary education
 french:
-- "[[Enseignement secondaire]]"
+  - "[[Enseignement secondaire]]"
 relatedTerm:
-- "[[Secondary schools]]"
+  - "[[Secondary schools]]"
 ---
 # Secondary education

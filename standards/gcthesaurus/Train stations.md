@@ -1,10 +1,10 @@
 ---
 title: Train stations
-longTitle: 'Train stations'
+aliases: Train stations
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Railway installations]]"
+  - "[[Railway installations]]"
 french:
-- "[[Gare ferroviaire]]"
+  - "[[Gare ferroviaire]]"
 ---

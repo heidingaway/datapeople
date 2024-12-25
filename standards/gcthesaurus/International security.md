@@ -1,8 +1,8 @@
 ---
 title: International security
-longTitle: 'International security'
+aliases: International security
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Securite internationale]]"
+  - "[[Securite internationale]]"
 ---

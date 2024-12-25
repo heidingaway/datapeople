@@ -1,12 +1,12 @@
 ---
 title: Almanacs
-longTitle: 'Almanacs'
+aliases: Almanacs
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Almanach]]"
+  - Almanach
 relatedTerm:
-- "[[Yearbooks]]"
+  - "[[Yearbooks]]"
 scopeNote:
-- "An annual publication containing current and retro"
+  - An annual publication containing current and retro
 ---

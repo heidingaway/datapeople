@@ -1,8 +1,8 @@
 ---
 title: Interprovincial transport
-longTitle: 'Interprovincial transport'
+aliases: Interprovincial transport
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Transport interprovincial]]"
+  - "[[Transport interprovincial]]"
 ---

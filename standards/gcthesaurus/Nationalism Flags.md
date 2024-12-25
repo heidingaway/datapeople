@@ -1,8 +1,8 @@
 ---
 title: Nationalism Flags
-longTitle: 'Nationalism, Flags'
+aliases: Nationalism, Flags
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[National symbols]]"
+  - "[[National symbols]]"
 ---

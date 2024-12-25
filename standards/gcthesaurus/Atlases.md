@@ -3,12 +3,12 @@ title: Atlases
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Atlases'
+  - gccommon
+aliases: Atlases
 french:
-- "[[Atlas]]"
+  - "[[Atlas]]"
 relatedTerm:
-- "[[Maps]]"
-- "[[Geography]]"
+  - "[[Maps]]"
+  - "[[Geography]]"
 ---
 # Atlases

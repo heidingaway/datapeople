@@ -1,8 +1,8 @@
 ---
 title: Marriage Family Common-law unions
-longTitle: 'Marriage, Family, Common-law unions'
+aliases: Marriage, Family, Common-law unions
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Couples]]"
+  - "[[Couples]]"
 ---

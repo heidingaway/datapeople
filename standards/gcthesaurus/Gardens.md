@@ -1,10 +1,10 @@
 ---
 title: Gardens
-longTitle: 'Gardens'
+aliases: Gardens
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Jardin]]"
+  - "[[Jardin]]"
 narrowerTerm:
-- "[[Botanical gardens]]"
+  - "[[Botanical gardens]]"
 ---

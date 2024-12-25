@@ -3,18 +3,18 @@ title: Departments
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Departments'
+  - gccommon
+aliases: Departments
 broaderTerm:
-- "[[Public administration]]"
+  - "[[Public administration]]"
 french:
-- "[[Ministere]]"
+  - "[[Ministere]]"
 narrowerTerm:
-- "[[Branches]]"
-- "[[Divisions]]"
-- "[[Sections]]"
-- "[[Services]]"
+  - "[[Branches]]"
+  - "[[Divisions]]"
+  - "[[Sections]]"
+  - "[[Services]]"
 relatedTerm:
-- "[[Government departments]]"
+  - "[[Government departments]]"
 ---
 # Departments

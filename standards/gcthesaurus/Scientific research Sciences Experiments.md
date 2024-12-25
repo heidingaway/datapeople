@@ -1,8 +1,8 @@
 ---
 title: Scientific research Sciences Experiments
-longTitle: 'Scientific research, Sciences, Experiments'
+aliases: Scientific research, Sciences, Experiments
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Scientific equipment]]"
+  - "[[Scientific equipment]]"
 ---

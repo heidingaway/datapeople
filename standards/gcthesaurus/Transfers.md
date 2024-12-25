@@ -1,11 +1,11 @@
 ---
 title: Transfers
-longTitle: 'Transfers'
+aliases: Transfers
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Transfert]]"
+  - "[[Transfert]]"
 narrowerTerm:
-- "[[Skills transfer]]"
-- "[[Technology transfer]]"
+  - "[[Skills transfer]]"
+  - "[[Technology transfer]]"
 ---

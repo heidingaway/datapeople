@@ -1,8 +1,8 @@
 ---
 title: Drought
-longTitle: 'Drought'
+aliases: Drought
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Secheresse]]"
+  - "[[Secheresse]]"
 ---

@@ -3,15 +3,15 @@ title: Estates
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Estates'
+  - gccommon
+aliases: Estates
 french:
-- "[[Succession]]"
+  - "[[Succession]]"
 scopeNote:
-- "Investments money property or other valuables belo"
+  - Investments money property or other valuables belo
 relatedTerm:
-- "[[Property]]"
-- "[[Probate]]"
-- "[[Inheritance]]"
+  - "[[Property]]"
+  - "[[Probate]]"
+  - "[[Inheritance]]"
 ---
 # Estates

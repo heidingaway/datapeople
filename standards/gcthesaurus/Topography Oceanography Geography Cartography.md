@@ -1,8 +1,8 @@
 ---
 title: Topography Oceanography Geography Cartography
-longTitle: 'Topography, Oceanography, Geography, Cartography'
+aliases: Topography, Oceanography, Geography, Cartography
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Hydrography]]"
+  - "[[Hydrography]]"
 ---

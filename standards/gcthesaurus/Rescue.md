@@ -1,11 +1,8 @@
 ---
 title: Rescue
-longTitle: 'Rescue'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Sauvetage]]"
-usedFor:
-- "[[Rescue operations]]"
-- "[[Search and rescue]]"
+  - "[[Sauvetage]]"
+aliases: Rescue
 ---

@@ -1,8 +1,8 @@
 ---
 title: Topographical maps Mountains Hydrography Geography
-longTitle: 'Topographical maps, Mountains, Hydrography, Geography, Geodesy'
+aliases: Topographical maps, Mountains, Hydrography, Geography, Geodesy
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Topography]]"
+  - "[[Topography]]"
 ---

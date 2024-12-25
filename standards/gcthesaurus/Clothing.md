@@ -1,14 +1,12 @@
 ---
 title: Clothing
-longTitle: 'Clothing'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Habillement]]"
+  - "[[Habillement]]"
 relatedTerm:
-- "[[Costume]]"
+  - "[[Costume]]"
 scopeNote:
-- "Garments worn on the human body for warmth adornme"
-usedFor:
-- "[[Clothes]]"
+  - Garments worn on the human body for warmth adornme
+aliases: Clothing
 ---

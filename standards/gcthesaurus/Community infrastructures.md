@@ -1,10 +1,10 @@
 ---
 title: Community infrastructures
-longTitle: 'Community infrastructures'
+aliases: Community infrastructures
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Infrastructures]]"
+  - "[[Infrastructures]]"
 french:
-- "[[Infrastructure communautaire]]"
+  - "[[Infrastructure communautaire]]"
 ---

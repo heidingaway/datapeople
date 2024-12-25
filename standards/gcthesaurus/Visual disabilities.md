@@ -3,15 +3,13 @@ title: Visual disabilities
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Visual disabilities'
+  - gccommon
 french:
-- "[[Deficience visuelle]]"
+  - "[[Deficience visuelle]]"
 narrowerTerm:
-- "[[Blindness]]"
+  - "[[Blindness]]"
 relatedTerm:
-- "[[Braille]]"
-usedFor:
-- "[[Visual impairments]]"
+  - "[[Braille]]"
+aliases: Visual disabilities
 ---
 # Visual disabilities

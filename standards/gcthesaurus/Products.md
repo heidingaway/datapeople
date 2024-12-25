@@ -1,20 +1,18 @@
 ---
 title: Products
-longTitle: 'Products'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Produit]]"
+  - "[[Produit]]"
 narrowerTerm:
-- "[[Agri-food products]]"
-- "[[Biological products]]"
-- "[[Commodities]]"
-- "[[Fisheries products]]"
-- "[[Forestry products]]"
-- "[[Green products]]"
-- "[[Health care products]]"
-- "[[Industrial products]]"
-- "[[Personal care products]]"
-usedFor:
-- "[[Commercial products]]"
+  - "[[Agri-food products]]"
+  - "[[Biological products]]"
+  - "[[Commodities]]"
+  - "[[Fisheries products]]"
+  - "[[Forestry products]]"
+  - "[[Green products]]"
+  - "[[Health care products]]"
+  - "[[Industrial products]]"
+  - "[[Personal care products]]"
+aliases: Products
 ---

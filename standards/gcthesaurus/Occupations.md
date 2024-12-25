@@ -1,23 +1,22 @@
 ---
 title: Occupations
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Occupations'
+  - gccommon
 french:
-- "[[Profession]]"
+  - Profession
 narrowerTerm:
-- "[[Scientists]]"
+  - "[[Scientists]]"
 relatedTerm:
-- "[[Professional associations]]"
-- "[[Vocational guidance]]"
-- "[[Job classification]]"
-- "[[Employment]]"
+  - "[[Employment]]"
+  - "[[Job classification]]"
+  - "[[Professional associations]]"
+  - "[[Vocational guidance]]"
 scopeNote:
-- "An activity that chiefly engages ones time or serv"
-usedFor:
-- "[[Careers]]"
-- "[[Professions]]"
+  - An activity that chiefly engages one's time, or serves as one's livelihood.
+aliases:
+  - Careers
+  - Professions
 ---
 # Occupations

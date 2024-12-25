@@ -1,11 +1,8 @@
 ---
 title: Site management
-longTitle: 'Site management'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gestion de site]]"
-usedFor:
-- "[[Landscape management]]"
-- "[[Site development]]"
+  - "[[Gestion de site]]"
+aliases: Site management
 ---

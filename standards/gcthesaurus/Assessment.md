@@ -3,28 +3,24 @@ title: Assessment
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Assessment'
+  - gccommon
 french:
-- "[[Evaluation]]"
+  - "[[Evaluation]]"
 narrowerTerm:
-- "[[Environmental impact assessment]]"
-- "[[Performance assessment]]"
-- "[[Program assessment]]"
-- "[[Second language assessment]]"
+  - "[[Environmental impact assessment]]"
+  - "[[Performance assessment]]"
+  - "[[Program assessment]]"
+  - "[[Second language assessment]]"
 relatedTerm:
-- "[[Merit]]"
-- "[[Revision]]"
-- "[[Testing]]"
-- "[[Revision]]"
-- "[[Merit]]"
-- "[[Measurement]]"
-- "[[Control]]"
-- "[[Comparison]]"
-- "[[Benchmarks]]"
-usedFor:
-- "[[Appraisal]]"
-- "[[Evaluations]]"
-- "[[Grading]]"
+  - "[[Merit]]"
+  - "[[Revision]]"
+  - "[[Testing]]"
+  - "[[Revision]]"
+  - "[[Merit]]"
+  - "[[Measurement]]"
+  - "[[Control]]"
+  - "[[Comparison]]"
+  - "[[Benchmarks]]"
+aliases: Assessment
 ---
 # Assessment

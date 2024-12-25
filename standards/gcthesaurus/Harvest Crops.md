@@ -1,8 +1,8 @@
 ---
 title: Harvest Crops
-longTitle: 'Harvest, Crops'
+aliases: Harvest, Crops
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Crop insurance]]"
+  - "[[Crop insurance]]"
 ---

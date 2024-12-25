@@ -3,16 +3,13 @@ title: Household equipment
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Household equipment'
+  - gccommon
 french:
-- "[[Equipement menager]]"
+  - "[[Equipement menager]]"
 relatedTerm:
-- "[[Electrical appliances]]"
-- "[[Home renovations]]"
-- "[[Home economics]]"
-usedFor:
-- "[[Domestic appliances]]"
-- "[[Household appliances]]"
+  - "[[Electrical appliances]]"
+  - "[[Home renovations]]"
+  - "[[Home economics]]"
+aliases: Household equipment
 ---
 # Household equipment

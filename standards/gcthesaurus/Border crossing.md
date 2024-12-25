@@ -1,8 +1,8 @@
 ---
 title: Border crossing
-longTitle: 'Border crossing'
+aliases: Border crossing
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Passage des frontieres]]"
+  - "[[Passage des frontieres]]"
 ---

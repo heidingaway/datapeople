@@ -1,14 +1,16 @@
 ---
 title: Discharge
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Discharge'
+  - gccommon
+id: 2185
+aliases:
+  - Discharge
 french:
-- "[[Congediement]]"
+  - Congediement
 relatedTerm:
-- "[[Unemployment]]"
-- "[[Termination of employment]]"
+  - "[[Termination of employment]]"
+  - "[[Unemployment]]"
 ---
 # Discharge

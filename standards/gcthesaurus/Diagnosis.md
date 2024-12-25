@@ -1,8 +1,8 @@
 ---
 title: Diagnosis
-longTitle: 'Diagnosis'
+aliases: Diagnosis
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Diagnostic]]"
+  - "[[Diagnostic]]"
 ---

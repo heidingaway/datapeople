@@ -3,16 +3,14 @@ title: Pharmaceutical industry
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Pharmaceutical industry'
+  - gccommon
 french:
-- "[[Industrie pharmaceutique]]"
-usedFor:
-- "[[Drug industry]]"
+  - "[[Industrie pharmaceutique]]"
+aliases: Pharmaceutical industry
 relatedTerm:
-- "[[Pharmacology]]"
-- "[[Health care industry]]"
-- "[[Drugs]]"
-- "[[Drug labelling]]"
+  - "[[Pharmacology]]"
+  - "[[Health care industry]]"
+  - "[[Drugs]]"
+  - "[[Drug labelling]]"
 ---
 # Pharmaceutical industry

@@ -1,8 +1,8 @@
 ---
 title: Lentils
-longTitle: 'Lentils'
+aliases: Lentils
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Lentille]]"
+  - "[[Lentille]]"
 ---

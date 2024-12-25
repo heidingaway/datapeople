@@ -1,8 +1,8 @@
 ---
 title: Personal income Family law Divorce Child custody
-longTitle: 'Personal income, Family law, Divorce, Child custody'
+aliases: Personal income, Family law, Divorce, Child custody
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Child support]]"
+  - "[[Child support]]"
 ---

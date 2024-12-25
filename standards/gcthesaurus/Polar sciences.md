@@ -1,10 +1,10 @@
 ---
 title: Polar sciences
-longTitle: 'Polar sciences'
+aliases: Polar sciences
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Science polaire]]"
+  - "[[Science polaire]]"
 scopeNote:
-- "Refers to a collection of natural sciences devoted"
+  - Refers to a collection of natural sciences devoted
 ---

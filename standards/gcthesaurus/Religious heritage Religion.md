@@ -1,8 +1,8 @@
 ---
 title: Religious heritage Religion
-longTitle: 'Religious heritage, Religion'
+aliases: Religious heritage, Religion
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Religious history]]"
+  - "[[Religious history]]"
 ---

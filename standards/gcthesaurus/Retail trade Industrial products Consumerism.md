@@ -1,8 +1,8 @@
 ---
 title: Retail trade Industrial products Consumerism
-longTitle: 'Retail trade, Industrial products, Consumerism'
+aliases: Retail trade, Industrial products, Consumerism
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Consumer products]]"
+  - "[[Consumer products]]"
 ---

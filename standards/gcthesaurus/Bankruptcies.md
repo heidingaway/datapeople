@@ -1,11 +1,8 @@
 ---
 title: Bankruptcies
-longTitle: 'Bankruptcies'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Faillite]]"
-usedFor:
-- "[[Insolvency]]"
-- "[[Receivership]]"
+  - "[[Faillite]]"
+aliases: Bankruptcies
 ---

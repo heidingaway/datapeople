@@ -1,8 +1,8 @@
 ---
 title: Provincial parks
-longTitle: 'Provincial parks'
+aliases: Provincial parks
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Parc provincial]]"
+  - "[[Parc provincial]]"
 ---

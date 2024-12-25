@@ -1,8 +1,8 @@
 ---
 title: Panamerican games
-longTitle: 'Panamerican games'
+aliases: Panamerican games
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Jeux panamericains]]"
+  - "[[Jeux panamericains]]"
 ---

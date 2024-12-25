@@ -3,14 +3,12 @@ title: Tenders
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Tenders'
+  - gccommon
 french:
-- "[[Soumission]]"
-usedFor:
-- "[[Bids]]"
+  - "[[Soumission]]"
+aliases: Tenders
 relatedTerm:
-- "[[Contracting]]"
-- "[[Call for tenders]]"
+  - "[[Contracting]]"
+  - "[[Call for tenders]]"
 ---
 # Tenders

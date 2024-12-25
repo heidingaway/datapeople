@@ -3,17 +3,15 @@ title: Semen
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Semen'
+  - gccommon
 french:
-- "[[Sperme]]"
+  - "[[Sperme]]"
 relatedTerm:
-- "[[Artificial insemination]]"
-- "[[Reproductive technology]]"
-- "[[Pregnancy]]"
-- "[[Fertility]]"
-- "[[Animal reproduction]]"
-usedFor:
-- "[[Donor semen]]"
+  - "[[Artificial insemination]]"
+  - "[[Reproductive technology]]"
+  - "[[Pregnancy]]"
+  - "[[Fertility]]"
+  - "[[Animal reproduction]]"
+aliases: Semen
 ---
 # Semen

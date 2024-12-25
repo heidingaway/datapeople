@@ -3,14 +3,14 @@ title: Forest fires
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Forest fires'
+  - gccommon
+aliases: Forest fires
 broaderTerm:
-- "[[Fire]]"
+  - "[[Fire]]"
 french:
-- "[[Incendie de foret]]"
+  - "[[Incendie de foret]]"
 relatedTerm:
-- "[[Natural disasters]]"
-- "[[Forests]]"
+  - "[[Natural disasters]]"
+  - "[[Forests]]"
 ---
 # Forest fires

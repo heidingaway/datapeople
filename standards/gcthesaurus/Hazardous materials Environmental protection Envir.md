@@ -1,8 +1,8 @@
 ---
 title: Hazardous materials Environmental protection Envir
-longTitle: 'Hazardous materials, Environmental protection, Environmental impact'
+aliases: Hazardous materials, Environmental protection, Environmental impact
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Environmental hazards]]"
+  - "[[Environmental hazards]]"
 ---

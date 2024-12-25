@@ -1,8 +1,8 @@
 ---
 title: Territorial governments Provincial governments Par
-longTitle: 'Territorial governments, Provincial governments, Parliament'
+aliases: Territorial governments, Provincial governments, Parliament
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Legislative assemblies]]"
+  - "[[Legislative assemblies]]"
 ---

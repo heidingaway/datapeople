@@ -1,13 +1,11 @@
 ---
 title: Government services
-longTitle: 'Government services'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Services gouvernementaux]]"
+  - "[[Services gouvernementaux]]"
 relatedTerm:
-- "[[Public works]]"
-- "[[Utilities]]"
-usedFor:
-- "[[Federal services]]"
+  - "[[Public works]]"
+  - "[[Utilities]]"
+aliases: Government services
 ---

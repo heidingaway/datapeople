@@ -1,10 +1,8 @@
 ---
 title: Intimidation
-longTitle: 'Intimidation'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Intimidation]]"
-usedFor:
-- "[[Bullying]]"
+  - "[[Intimidation]]"
+aliases: Intimidation
 ---

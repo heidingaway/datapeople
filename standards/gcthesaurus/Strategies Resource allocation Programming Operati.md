@@ -1,8 +1,8 @@
 ---
 title: Strategies Resource allocation Programming Operati
-longTitle: 'Strategies, Resource allocation, Programming, Operations, Management, Decision making, Business plans'
+aliases: Strategies, Resource allocation, Programming, Operations, Management, Decision making, Business plans
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Planning]]"
+  - "[[Planning]]"
 ---

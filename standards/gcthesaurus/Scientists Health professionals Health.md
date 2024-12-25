@@ -1,8 +1,8 @@
 ---
 title: Scientists Health professionals Health
-longTitle: 'Scientists, Health professionals, Health'
+aliases: Scientists, Health professionals, Health
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Health sciences]]"
+  - "[[Health sciences]]"
 ---

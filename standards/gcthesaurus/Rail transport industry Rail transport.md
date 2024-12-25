@@ -1,8 +1,8 @@
 ---
 title: Rail transport industry Rail transport
-longTitle: 'Rail transport industry, Rail transport'
+aliases: Rail transport industry, Rail transport
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Rail companies]]"
+  - "[[Rail companies]]"
 ---

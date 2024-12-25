@@ -1,12 +1,12 @@
 ---
 title: Radiation
-longTitle: 'Radiation'
+aliases: Radiation
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Rayonnement]]"
+  - "[[Rayonnement]]"
 narrowerTerm:
-- "[[Ultraviolet radiation]]"
+  - "[[Ultraviolet radiation]]"
 relatedTerm:
-- "[[Irradiation]]"
+  - "[[Irradiation]]"
 ---

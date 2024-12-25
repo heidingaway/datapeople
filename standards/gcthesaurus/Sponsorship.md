@@ -1,8 +1,8 @@
 ---
 title: Sponsorship
-longTitle: 'Sponsorship'
+aliases: Sponsorship
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Commandite]]"
+  - "[[Commandite]]"
 ---

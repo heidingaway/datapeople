@@ -1,13 +1,13 @@
 ---
 title: Claims
-longTitle: 'Claims'
+aliases: Claims
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Revendication]]"
+  - "[[Revendication]]"
 narrowerTerm:
-- "[[Land claims]]"
+  - "[[Land claims]]"
 relatedTerm:
-- "[[Claims processing]]"
-- "[[Complaints]]"
+  - "[[Claims processing]]"
+  - "[[Complaints]]"
 ---

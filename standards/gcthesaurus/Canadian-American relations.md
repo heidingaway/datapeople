@@ -3,12 +3,9 @@ title: Canadian-American relations
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Canadian-American relations'
+  - gccommon
 french:
-- "[[Relations canado-americaines]]"
-usedFor:
-- "[[Canada-US relations]]"
-- "[[US-Canada relations]]"
+  - "[[Relations canado-americaines]]"
+aliases: Canadian-American relations
 ---
 # Canadian-American relations

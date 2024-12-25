@@ -1,12 +1,12 @@
 ---
 title: Demographic statistics
-longTitle: 'Demographic statistics'
+aliases: Demographic statistics
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Demographic data]]"
+  - "[[Demographic data]]"
 french:
-- "[[Statistiques demographiques]]"
+  - "[[Statistiques demographiques]]"
 scopeNote:
-- "The numeric data that describes human populations "
+  - "The numeric data that describes human populations "
 ---

@@ -1,8 +1,8 @@
 ---
 title: Licensing Certificate of origin
-longTitle: 'Licensing, Certificate of origin'
+aliases: Licensing, Certificate of origin
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Certification]]"
+  - "[[Certification]]"
 ---

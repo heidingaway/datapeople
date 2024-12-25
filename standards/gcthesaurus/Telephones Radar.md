@@ -1,8 +1,8 @@
 ---
 title: Telephones Radar
-longTitle: 'Telephones, Radar'
+aliases: Telephones, Radar
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Communications equipment]]"
+  - "[[Communications equipment]]"
 ---

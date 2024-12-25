@@ -1,8 +1,8 @@
 ---
 title: East-West relations
-longTitle: 'East-West relations'
+aliases: East-West relations
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Relations est-ouest]]"
+  - "[[Relations est-ouest]]"
 ---

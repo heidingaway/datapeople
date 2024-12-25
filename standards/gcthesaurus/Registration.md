@@ -1,8 +1,8 @@
 ---
 title: Registration
-longTitle: 'Registration'
+aliases: Registration
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Enregistrement]]"
+  - "[[Enregistrement]]"
 ---

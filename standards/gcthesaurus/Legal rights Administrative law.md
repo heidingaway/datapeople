@@ -1,8 +1,8 @@
 ---
 title: Legal rights Administrative law
-longTitle: 'Legal rights, Administrative law'
+aliases: Legal rights, Administrative law
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Ombudsman]]"
+  - "[[Ombudsman]]"
 ---

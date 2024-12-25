@@ -3,15 +3,15 @@ title: Lockers
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Lockers'
+  - gccommon
+aliases: Lockers
 broaderTerm:
-- "[[Storage]]"
+  - "[[Storage]]"
 french:
-- "[[Casier]]"
+  - "[[Casier]]"
 relatedTerm:
-- "[[Workplace]]"
-- "[[Office equipment]]"
-- "[[Labour mobility]]"
+  - "[[Workplace]]"
+  - "[[Office equipment]]"
+  - "[[Labour mobility]]"
 ---
 # Lockers

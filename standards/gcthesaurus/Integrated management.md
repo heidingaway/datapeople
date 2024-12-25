@@ -1,8 +1,8 @@
 ---
 title: Integrated management
-longTitle: 'Integrated management'
+aliases: Integrated management
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gestion integree]]"
+  - "[[Gestion integree]]"
 ---

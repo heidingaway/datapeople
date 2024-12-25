@@ -3,17 +3,13 @@ title: Market development
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Market development'
+  - gccommon
 french:
-- "[[Developpement des marches]]"
-usedFor:
-- "[[Market broadening]]"
-- "[[Market expansion]]"
-- "[[Market extension]]"
+  - "[[Developpement des marches]]"
+aliases: Market development
 relatedTerm:
-- "[[Trade promotion]]"
-- "[[Marketing]]"
-- "[[Business development]]"
+  - "[[Trade promotion]]"
+  - "[[Marketing]]"
+  - "[[Business development]]"
 ---
 # Market development

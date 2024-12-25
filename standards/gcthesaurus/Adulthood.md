@@ -1,12 +1,17 @@
 ---
 title: Adulthood
-longTitle: 'Adulthood'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Adulthood
 french:
-- "[[Age adulte]]"
+  - Age adulte
 relatedTerm:
-- "[[Adults]]"
+  - "[[Adults]]"
+  - "[[Young adults]]"
 scopeNote:
-- "The state of legal age of majority"
+  - The state of legal age of majority
 ---
+# Adulthood

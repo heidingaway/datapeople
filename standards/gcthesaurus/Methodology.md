@@ -1,11 +1,8 @@
 ---
 title: Methodology
-longTitle: 'Methodology'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Methodologie]]"
-usedFor:
-- "[[Methods]]"
-- "[[Procedures]]"
+  - "[[Methodologie]]"
+aliases: Methodology
 ---

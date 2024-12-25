@@ -1,8 +1,8 @@
 ---
 title: Unpaid work Pro bono legal services Non-profit org
-longTitle: 'Unpaid work, Pro bono legal services, Non-profit organizations'
+aliases: Unpaid work, Pro bono legal services, Non-profit organizations
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Volunteer work]]"
+  - "[[Volunteer work]]"
 ---

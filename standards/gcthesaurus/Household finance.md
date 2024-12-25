@@ -3,11 +3,11 @@ title: Household finance
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Household finance'
+  - gccommon
+aliases: Household finance
 french:
-- "[[Credit menager]]"
+  - "[[Credit menager]]"
 relatedTerm:
-- "[[Household income]]"
+  - "[[Household income]]"
 ---
 # Household finance

@@ -1,13 +1,13 @@
 ---
 title: Income tax
-longTitle: 'Income tax'
+aliases: Income tax
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Impot sur le revenu]]"
+  - "[[Impot sur le revenu]]"
 narrowerTerm:
-- "[[Corporate income tax]]"
-- "[[Personal income tax]]"
+  - "[[Corporate income tax]]"
+  - "[[Personal income tax]]"
 relatedTerm:
-- "[[Fiscal law]]"
+  - "[[Fiscal law]]"
 ---

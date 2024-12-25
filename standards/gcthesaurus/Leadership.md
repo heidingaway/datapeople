@@ -1,8 +1,8 @@
 ---
 title: Leadership
-longTitle: 'Leadership'
+aliases: Leadership
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Leadership]]"
+  - "[[Leadership]]"
 ---

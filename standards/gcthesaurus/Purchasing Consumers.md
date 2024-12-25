@@ -1,8 +1,8 @@
 ---
 title: Purchasing Consumers
-longTitle: 'Purchasing, Consumers'
+aliases: Purchasing, Consumers
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Buyers]]"
+  - "[[Buyers]]"
 ---

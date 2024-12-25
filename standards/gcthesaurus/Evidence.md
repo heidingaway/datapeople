@@ -1,12 +1,12 @@
 ---
 title: Evidence
-longTitle: 'Evidence'
+aliases: Evidence
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Preuve]]"
+  - "[[Preuve]]"
 narrowerTerm:
-- "[[Testimony]]"
+  - "[[Testimony]]"
 scopeNote:
-- "Any species of proof or probative matter legally p"
+  - Any species of proof or probative matter legally p
 ---

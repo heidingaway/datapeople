@@ -1,8 +1,8 @@
 ---
 title: Parliamentary committees Parliament
-longTitle: 'Parliamentary committees, Parliament'
+aliases: Parliamentary committees, Parliament
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Parliamentary procedure]]"
+  - "[[Parliamentary procedure]]"
 ---

@@ -3,17 +3,14 @@ title: Diplomatic missions
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Diplomatic missions'
+  - gccommon
 broaderTerm:
-- "[[Foreign service]]"
+  - "[[Foreign service]]"
 french:
-- "[[Mission diplomatique]]"
+  - "[[Mission diplomatique]]"
 relatedTerm:
-- "[[Consular services]]"
-- "[[Delegations]]"
-usedFor:
-- "[[Embassies]]"
-- "[[Consulates]]"
+  - "[[Consular services]]"
+  - "[[Delegations]]"
+aliases: Diplomatic missions
 ---
 # Diplomatic missions

@@ -1,8 +1,8 @@
 ---
 title: Aquariums
-longTitle: 'Aquariums'
+aliases: Aquariums
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Aquarium]]"
+  - "[[Aquarium]]"
 ---

@@ -1,10 +1,10 @@
 ---
 title: Food irradiation
-longTitle: 'Food irradiation'
+aliases: Food irradiation
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Irradiation]]"
+  - "[[Irradiation]]"
 french:
-- "[[Irradiation des aliments]]"
+  - "[[Irradiation des aliments]]"
 ---

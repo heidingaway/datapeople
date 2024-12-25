@@ -1,8 +1,8 @@
 ---
 title: Consulting
-longTitle: 'Consulting'
+aliases: Consulting
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Service conseil]]"
+  - "[[Service conseil]]"
 ---

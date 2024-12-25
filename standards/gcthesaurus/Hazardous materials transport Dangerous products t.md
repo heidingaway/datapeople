@@ -1,8 +1,8 @@
 ---
 title: Hazardous materials transport Dangerous products t
-longTitle: 'Hazardous materials transport, Dangerous products transport'
+aliases: Hazardous materials transport, Dangerous products transport
 tags:
-- gccommon
+  - gccommon
 historyNote:
-- "Hazardous materials transport replaces Dangerous p"
+  - Hazardous materials transport replaces Dangerous p
 ---

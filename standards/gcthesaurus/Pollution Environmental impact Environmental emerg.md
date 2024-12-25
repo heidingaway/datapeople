@@ -1,8 +1,8 @@
 ---
 title: Pollution Environmental impact Environmental emerg
-longTitle: 'Pollution, Environmental impact, Environmental emergencies, Environment'
+aliases: Pollution, Environmental impact, Environmental emergencies, Environment
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Environmental accidents]]"
+  - "[[Environmental accidents]]"
 ---

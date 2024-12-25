@@ -1,12 +1,10 @@
 ---
 title: Quality control
-longTitle: 'Quality control'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Controle de la qualite]]"
+  - "[[Controle de la qualite]]"
 relatedTerm:
-- "[[Quality standards]]"
-usedFor:
-- "[[Quality assessment]]"
+  - "[[Quality standards]]"
+aliases: Quality control
 ---

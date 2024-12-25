@@ -1,15 +1,10 @@
 ---
 title: Constitution
-longTitle: 'Constitution'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Constitution]]"
+  - "[[Constitution]]"
 relatedTerm:
-- "[[Constitutional law]]"
-usedFor:
-- "[[Constitution act]]"
-- "[[Constitutional accord]]"
-- "[[Constitutional negotiations]]"
-- "[[Constitutional reform]]"
+  - "[[Constitutional law]]"
+aliases: Constitution
 ---

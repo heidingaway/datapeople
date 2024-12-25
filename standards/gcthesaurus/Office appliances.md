@@ -1,8 +1,8 @@
 ---
 title: Office appliances
-longTitle: 'Office appliances'
+aliases: Office appliances
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Accessoire de bureau]]"
+  - "[[Accessoire de bureau]]"
 ---

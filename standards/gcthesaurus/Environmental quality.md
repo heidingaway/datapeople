@@ -1,19 +1,20 @@
 ---
 title: Environmental quality
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Environmental quality'
+  - gccommon
+aliases:
+  - Environmental quality
 french:
-- "[[Qualite de lenvironnement]]"
+  - Qualite de lenvironnement
 narrowerTerm:
-- "[[Air quality]]"
-- "[[Soil quality]]"
-- "[[Water quality]]"
+  - "[[Air quality]]"
+  - "[[Soil quality]]"
+  - "[[Water quality]]"
 relatedTerm:
-- "[[Environmental standards]]"
-- "[[Environmental protection]]"
-- "[[Environment]]"
+  - "[[Environment]]"
+  - "[[Environmental protection]]"
+  - "[[Environmental standards]]"
 ---
 # Environmental quality

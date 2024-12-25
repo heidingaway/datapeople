@@ -1,10 +1,10 @@
 ---
 title: Seals
-longTitle: 'Seals'
+aliases: Seals
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Phoque]]"
+  - "[[Phoque]]"
 relatedTerm:
-- "[[Sealing]]"
+  - "[[Sealing]]"
 ---

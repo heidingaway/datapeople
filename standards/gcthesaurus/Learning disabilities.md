@@ -1,10 +1,8 @@
 ---
 title: Learning disabilities
-longTitle: 'Learning disabilities'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Trouble dapprentissage]]"
-usedFor:
-- "[[Learning disorders]]"
+  - "[[Trouble dapprentissage]]"
+aliases: Learning disabilities
 ---

@@ -3,20 +3,14 @@ title: Internet
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Internet'
+  - gccommon
 french:
-- "[[Internet]]"
+  - "[[Internet]]"
 narrowerTerm:
-- "[[Websites]]"
-usedFor:
-- "[[Electronic highway]]"
-- "[[Information highway]]"
-- "[[WWW]]"
-- "[[Web]]"
-- "[[World Wide Web]]"
+  - "[[Websites]]"
+aliases: Internet
 relatedTerm:
-- "[[Electronic government]]"
-- "[[Electronic commerce]]"
+  - "[[Electronic government]]"
+  - "[[Electronic commerce]]"
 ---
 # Internet

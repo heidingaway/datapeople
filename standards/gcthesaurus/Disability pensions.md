@@ -1,10 +1,8 @@
 ---
 title: Disability pensions
-longTitle: 'Disability pensions'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Pension dinvalidite]]"
-usedFor:
-- "[[Disability benefits]]"
+  - "[[Pension dinvalidite]]"
+aliases: Disability pensions
 ---

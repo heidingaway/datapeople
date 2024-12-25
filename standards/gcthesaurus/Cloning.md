@@ -1,13 +1,8 @@
 ---
 title: Cloning
-longTitle: 'Cloning'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Clonage]]"
-usedFor:
-- "[[Animal cloning]]"
-- "[[Human cloning]]"
-- "[[Reproductive cloning]]"
-- "[[Therapeutic cloning]]"
+  - "[[Clonage]]"
+aliases: Cloning
 ---

@@ -1,11 +1,8 @@
 ---
 title: Public opinion polls
-longTitle: 'Public opinion polls'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Sondage dopinion]]"
-usedFor:
-- "[[Opinion polls]]"
-- "[[Opinion surveys]]"
+  - "[[Sondage dopinion]]"
+aliases: Public opinion polls
 ---

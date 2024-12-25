@@ -1,8 +1,8 @@
 ---
 title: Records retention
-longTitle: 'Records retention'
+aliases: Records retention
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Conservation des documents]]"
+  - "[[Conservation des documents]]"
 ---

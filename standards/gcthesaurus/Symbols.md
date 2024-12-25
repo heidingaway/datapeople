@@ -3,17 +3,17 @@ title: Symbols
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Symbols'
+  - gccommon
+aliases: Symbols
 french:
-- "[[Symbole]]"
+  - "[[Symbole]]"
 narrowerTerm:
-- "[[Emblems]]"
-- "[[Flags]]"
-- "[[National symbols]]"
+  - "[[Emblems]]"
+  - "[[Flags]]"
+  - "[[National symbols]]"
 relatedTerm:
-- "[[Signs]]"
-- "[[Heraldry]]"
-- "[[Cryptography]]"
+  - "[[Signs]]"
+  - "[[Heraldry]]"
+  - "[[Cryptography]]"
 ---
 # Symbols

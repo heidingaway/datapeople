@@ -1,8 +1,8 @@
 ---
 title: International trade Imports Dumping Anti-dumping
-longTitle: 'International trade, Imports, Dumping, Anti-dumping'
+aliases: International trade, Imports, Dumping, Anti-dumping
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Exports]]"
+  - "[[Exports]]"
 ---

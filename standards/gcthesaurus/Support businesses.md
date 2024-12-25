@@ -1,8 +1,8 @@
 ---
 title: Support businesses
-longTitle: 'Support businesses'
+aliases: Support businesses
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Entreprise de soutien]]"
+  - "[[Entreprise de soutien]]"
 ---

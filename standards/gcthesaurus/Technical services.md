@@ -1,10 +1,10 @@
 ---
 title: Technical services
-longTitle: 'Technical services'
+aliases: Technical services
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Services techniques]]"
+  - "[[Services techniques]]"
 narrowerTerm:
-- "[[Computer services]]"
+  - "[[Computer services]]"
 ---

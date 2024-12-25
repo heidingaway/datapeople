@@ -3,12 +3,9 @@ title: Citizenship
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Citizenship'
+  - gccommon
 french:
-- "[[Citoyennete]]"
-usedFor:
-- "[[Nationality]]"
-- "[[Naturalization]]"
+  - "[[Citoyennete]]"
+aliases: Citizenship
 ---
 # Citizenship

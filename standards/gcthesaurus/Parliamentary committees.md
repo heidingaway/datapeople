@@ -1,8 +1,8 @@
 ---
 title: Parliamentary committees
-longTitle: 'Parliamentary committees'
+aliases: Parliamentary committees
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Commission parlementaire]]"
+  - "[[Commission parlementaire]]"
 ---

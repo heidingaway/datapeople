@@ -1,8 +1,8 @@
 ---
 title: Nongovernmental organizations International cooper
-longTitle: 'Nongovernmental organizations, International cooperation, Intergovernmental organizations'
+aliases: Nongovernmental organizations, International cooperation, Intergovernmental organizations
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[International organizations]]"
+  - "[[International organizations]]"
 ---

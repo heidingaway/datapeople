@@ -1,8 +1,8 @@
 ---
 title: Foreign payments Currency
-longTitle: 'Foreign payments, Currency'
+aliases: Foreign payments, Currency
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Exchange rates]]"
+  - "[[Exchange rates]]"
 ---

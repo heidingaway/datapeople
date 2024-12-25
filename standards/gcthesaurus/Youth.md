@@ -3,15 +3,15 @@ title: Youth
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Youth'
+  - gccommon
+aliases: Youth
 french:
-- "[[Jeunesse]]"
+  - "[[Jeunesse]]"
 scopeNote:
-- "Young people aged 15 to 24"
+  - Young people aged 15 to 24
 relatedTerm:
-- "[[Young adults]]"
-- "[[Adolescents]]"
-- "[[Adolescence]]"
+  - "[[Young adults]]"
+  - "[[Adolescents]]"
+  - "[[Adolescence]]"
 ---
 # Youth

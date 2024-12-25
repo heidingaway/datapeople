@@ -1,8 +1,8 @@
 ---
 title: Program review
-longTitle: 'Program review'
+aliases: Program review
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Revision de programme]]"
+  - "[[Revision de programme]]"
 ---

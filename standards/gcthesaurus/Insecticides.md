@@ -1,8 +1,8 @@
 ---
 title: Insecticides
-longTitle: 'Insecticides'
+aliases: Insecticides
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Insecticide]]"
+  - "[[Insecticide]]"
 ---

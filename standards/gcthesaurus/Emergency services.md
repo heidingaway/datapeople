@@ -3,14 +3,12 @@ title: Emergency services
 created: 2024-12-13
 modified: 2024-12-17
 tags:
-- gccommon
-longTitle: 'Emergency services'
+  - gccommon
 french:
-- "[[Services durgence]]"
-usedFor:
-- "[[Ambulance services]]"
+  - "[[Services durgence]]"
+aliases: Emergency services
 relatedTerm:
-- "[[Emergency preparedness]]"
-- "[[Blood supply]]"
+  - "[[Emergency preparedness]]"
+  - "[[Blood supply]]"
 ---
 # Emergency services

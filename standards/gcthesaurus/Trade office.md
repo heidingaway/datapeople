@@ -1,8 +1,8 @@
 ---
 title: Trade office
-longTitle: 'Trade office'
+aliases: Trade office
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Bureau commercial]]"
+  - "[[Bureau commercial]]"
 ---

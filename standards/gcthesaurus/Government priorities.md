@@ -1,8 +1,8 @@
 ---
 title: Government priorities
-longTitle: 'Government priorities'
+aliases: Government priorities
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Priorite gouvernementale]]"
+  - "[[Priorite gouvernementale]]"
 ---

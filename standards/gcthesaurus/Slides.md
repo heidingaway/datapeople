@@ -1,8 +1,8 @@
 ---
 title: Slides
-longTitle: 'Slides'
+aliases: Slides
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Diapositive]]"
+  - "[[Diapositive]]"
 ---

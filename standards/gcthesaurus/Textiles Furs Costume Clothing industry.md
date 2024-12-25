@@ -1,8 +1,8 @@
 ---
 title: Textiles Furs Costume Clothing industry
-longTitle: 'Textiles, Furs, Costume, Clothing industry'
+aliases: Textiles, Furs, Costume, Clothing industry
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Clothing]]"
+  - "[[Clothing]]"
 ---

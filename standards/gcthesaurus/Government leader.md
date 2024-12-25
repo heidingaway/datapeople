@@ -3,16 +3,11 @@ title: Government leader
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Government leader'
+  - gccommon
 broaderTerm:
-- "[[Parliamentary leaders]]"
+  - "[[Parliamentary leaders]]"
 french:
-- "[[Leader du gouvernement]]"
-usedFor:
-- "[[Government House leader]]"
-- "[[Government leader in the Senate]]"
-- "[[Leader of the government in the House of Commons]]"
-- "[[Leader of the government in the Senate]]"
+  - "[[Leader du gouvernement]]"
+aliases: Government leader
 ---
 # Government leader

@@ -1,8 +1,8 @@
 ---
 title: Languages Cultural groups
-longTitle: 'Languages, Cultural groups'
+aliases: Languages, Cultural groups
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Language groups]]"
+  - "[[Language groups]]"
 ---

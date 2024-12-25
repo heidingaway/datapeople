@@ -1,8 +1,8 @@
 ---
 title: Scientific research Benchmarks
-longTitle: 'Scientific research, Benchmarks'
+aliases: Scientific research, Benchmarks
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Bioassay]]"
+  - "[[Bioassay]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Gift books
-longTitle: 'Gift books'
+aliases: Gift books
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Livre cadeau]]"
+  - "[[Livre cadeau]]"
 ---

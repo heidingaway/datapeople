@@ -3,15 +3,15 @@ title: Travel
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Travel'
+  - gccommon
+aliases: Travel
 french:
-- "[[Voyage]]"
+  - "[[Voyage]]"
 narrowerTerm:
-- "[[International travel]]"
+  - "[[International travel]]"
 relatedTerm:
-- "[[Travel documents]]"
-- "[[Tourism]]"
-- "[[Border crossing]]"
+  - "[[Travel documents]]"
+  - "[[Tourism]]"
+  - "[[Border crossing]]"
 ---
 # Travel

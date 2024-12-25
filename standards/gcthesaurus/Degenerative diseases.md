@@ -1,11 +1,11 @@
 ---
 title: Degenerative diseases
-longTitle: 'Degenerative diseases'
+aliases: Degenerative diseases
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Maladie degenerative]]"
+  - "[[Maladie degenerative]]"
 narrowerTerm:
-- "[[Alzheimers disease]]"
-- "[[Arthritis]]"
+  - "[[Alzheimers disease]]"
+  - "[[Arthritis]]"
 ---

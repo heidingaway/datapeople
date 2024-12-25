@@ -1,13 +1,11 @@
 ---
 title: Business types
-longTitle: 'Business types'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Type dentreprise]]"
+  - "[[Type dentreprise]]"
 relatedTerm:
-- "[[Franchises]]"
-- "[[Sole proprietorships]]"
-usedFor:
-- "[[Type of business]]"
+  - "[[Franchises]]"
+  - "[[Sole proprietorships]]"
+aliases: Business types
 ---

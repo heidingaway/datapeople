@@ -1,14 +1,10 @@
 ---
 title: Military architecture
-longTitle: 'Military architecture'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Architecture militaire]]"
+  - "[[Architecture militaire]]"
 relatedTerm:
-- "[[Military installations]]"
-usedFor:
-- "[[Fortifications]]"
-- "[[Fortress]]"
-- "[[Forts]]"
+  - "[[Military installations]]"
+aliases: Military architecture
 ---

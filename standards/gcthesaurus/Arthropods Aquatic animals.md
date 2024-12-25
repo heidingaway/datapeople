@@ -1,8 +1,8 @@
 ---
 title: Arthropods Aquatic animals
-longTitle: 'Arthropods, Aquatic animals'
+aliases: Arthropods, Aquatic animals
 tags:
-- gccommon
+  - gccommon
 narrowerTerm:
-- "[[Crustaceans]]"
+  - "[[Crustaceans]]"
 ---

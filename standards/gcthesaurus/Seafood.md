@@ -1,10 +1,10 @@
 ---
 title: Seafood
-longTitle: 'Seafood'
+aliases: Seafood
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Fruits de mer]]"
+  - "[[Fruits de mer]]"
 scopeNote:
-- "Edible shellfish molluscs and crustaceans Does not"
+  - Edible shellfish molluscs and crustaceans Does not
 ---

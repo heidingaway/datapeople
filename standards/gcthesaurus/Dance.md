@@ -1,10 +1,8 @@
 ---
 title: Dance
-longTitle: 'Dance'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Danse]]"
-usedFor:
-- "[[Ballet]]"
+  - "[[Danse]]"
+aliases: Dance
 ---

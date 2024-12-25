@@ -1,10 +1,10 @@
 ---
 title: Passports
-longTitle: 'Passports'
+aliases: Passports
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Passeport]]"
+  - "[[Passeport]]"
 relatedTerm:
-- "[[Visas]]"
+  - "[[Visas]]"
 ---

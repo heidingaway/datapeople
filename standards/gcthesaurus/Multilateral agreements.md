@@ -3,11 +3,11 @@ title: Multilateral agreements
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Multilateral agreements'
+  - gccommon
+aliases: Multilateral agreements
 french:
-- "[[Accord multilateral]]"
+  - "[[Accord multilateral]]"
 narrowerTerm:
-- "[[Multilateral agreement on investment]]"
+  - "[[Multilateral agreement on investment]]"
 ---
 # Multilateral agreements

@@ -1,8 +1,15 @@
 ---
 title: Trade shows
-longTitle: 'Trade shows'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases: Trade shows
 french:
-- "[[Salon professionnel]]"
+  - Salon professionnel
+relatedTerm:
+  - "[[Conferences]]"
+  - "[[Trade promotion]]"
+  - "[[Trade]]"
 ---
+# Trade shows

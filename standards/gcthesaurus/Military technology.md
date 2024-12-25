@@ -1,18 +1,23 @@
 ---
 title: Military technology
-longTitle: 'Military technology'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+id: 2084
 french:
-- "[[Technologie militaire]]"
+  - Technologie militaire
 relatedTerm:
-- "[[Defence industry]]"
-- "[[Destroyers]]"
-- "[[Frigates]]"
-- "[[Military engineering]]"
-- "[[Submarines]]"
-usedFor:
-- "[[Military equipment]]"
-- "[[War equipment]]"
-- "[[War materials]]"
+  - "[[Defence industry]]"
+  - "[[Defence policy]]"
+  - "[[Destroyers]]"
+  - "[[Frigates]]"
+  - "[[Military engineering]]"
+  - "[[Submarines]]"
+  - "[[Weapons]]"
+aliases:
+  - Military equipment
+  - War equipment
+  - War materials
 ---
+# Military technology

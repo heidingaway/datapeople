@@ -1,8 +1,8 @@
 ---
 title: Governments Federal government
-longTitle: 'Governments, Federal government'
+aliases: Governments, Federal government
 tags:
-- gccommon
+  - gccommon
 narrowerTerm:
-- "[[Red tape burdens]]"
+  - "[[Red tape burdens]]"
 ---

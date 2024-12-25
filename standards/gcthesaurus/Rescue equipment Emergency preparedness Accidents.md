@@ -1,8 +1,8 @@
 ---
 title: Rescue equipment Emergency preparedness Accidents
-longTitle: 'Rescue equipment, Emergency preparedness, Accidents'
+aliases: Rescue equipment, Emergency preparedness, Accidents
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Rescue]]"
+  - "[[Rescue]]"
 ---

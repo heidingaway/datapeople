@@ -1,14 +1,14 @@
 ---
 title: Vegetables
-longTitle: 'Vegetables'
+aliases: Vegetables
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Legume]]"
+  - "[[Legume]]"
 narrowerTerm:
-- "[[Carrots]]"
-- "[[Lettuce]]"
-- "[[Potatoes]]"
+  - "[[Carrots]]"
+  - "[[Lettuce]]"
+  - "[[Potatoes]]"
 relatedTerm:
-- "[[Vegetable crops]]"
+  - "[[Vegetable crops]]"
 ---

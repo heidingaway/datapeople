@@ -1,11 +1,8 @@
 ---
 title: Health promotion
-longTitle: 'Health promotion'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Promotion de la sante]]"
-usedFor:
-- "[[Health education]]"
-- "[[Health information]]"
+  - "[[Promotion de la sante]]"
+aliases: Health promotion
 ---

@@ -1,10 +1,10 @@
 ---
 title: Soil conservation
-longTitle: 'Soil conservation'
+aliases: Soil conservation
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Preservation des sols]]"
+  - "[[Preservation des sols]]"
 relatedTerm:
-- "[[Erosion]]"
+  - "[[Erosion]]"
 ---

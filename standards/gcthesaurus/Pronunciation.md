@@ -1,12 +1,10 @@
 ---
 title: Pronunciation
-longTitle: 'Pronunciation'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Prononciation]]"
+  - "[[Prononciation]]"
 relatedTerm:
-- "[[Oral communication]]"
-usedFor:
-- "[[Phonetics]]"
+  - "[[Oral communication]]"
+aliases: Pronunciation
 ---

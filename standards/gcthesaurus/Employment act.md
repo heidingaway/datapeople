@@ -1,8 +1,8 @@
 ---
 title: Employment act
-longTitle: 'Employment act'
+aliases: Employment act
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Loi sur lemploi]]"
+  - "[[Loi sur lemploi]]"
 ---

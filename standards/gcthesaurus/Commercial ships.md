@@ -1,8 +1,15 @@
 ---
 title: Commercial ships
-longTitle: 'Commercial ships'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Commercial ships
 french:
-- "[[Navire commercial]]"
+  - Navire commercial
+id: 1631
+relatedTerm:
+  - "[[Water transport industry]]"
 ---
+# Commercial ships

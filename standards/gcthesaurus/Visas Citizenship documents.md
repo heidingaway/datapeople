@@ -1,8 +1,8 @@
 ---
 title: Visas Citizenship documents
-longTitle: 'Visas, Citizenship documents'
+aliases: Visas, Citizenship documents
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Passports]]"
+  - "[[Passports]]"
 ---

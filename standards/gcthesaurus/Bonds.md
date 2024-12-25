@@ -1,11 +1,8 @@
 ---
 title: Bonds
-longTitle: 'Bonds'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Obligations]]"
-usedFor:
-- "[[Government securities]]"
-- "[[Saving bonds]]"
+  - "[[Obligations]]"
+aliases: Bonds
 ---

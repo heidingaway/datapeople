@@ -1,8 +1,8 @@
 ---
 title: Population Demography
-longTitle: 'Population, Demography'
+aliases: Population, Demography
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Demographic maps]]"
+  - "[[Demographic maps]]"
 ---

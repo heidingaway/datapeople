@@ -1,12 +1,8 @@
 ---
 title: Call for tenders
-longTitle: 'Call for tenders'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Appel doffres]]"
-usedFor:
-- "[[Invitation to bid]]"
-- "[[Request for tenders]]"
-- "[[Tender call]]"
+  - "[[Appel doffres]]"
+aliases: Call for tenders
 ---

@@ -1,10 +1,8 @@
 ---
 title: Tsunamis
-longTitle: 'Tsunamis'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Tsunami]]"
-usedFor:
-- "[[Seismic sea waves]]"
+  - "[[Tsunami]]"
+aliases: Tsunamis
 ---

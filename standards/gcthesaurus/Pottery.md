@@ -1,10 +1,10 @@
 ---
 title: Pottery
-longTitle: 'Pottery'
+aliases: Pottery
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Poterie]]"
+  - "[[Poterie]]"
 relatedTerm:
-- "[[Ceramics]]"
+  - "[[Ceramics]]"
 ---

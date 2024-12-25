@@ -1,10 +1,10 @@
 ---
 title: Injunctions
-longTitle: 'Injunctions'
+aliases: Injunctions
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Injonction]]"
+  - "[[Injonction]]"
 scopeNote:
-- "Writs granted by a court whereby a person or organ"
+  - Writs granted by a court whereby a person or organ
 ---

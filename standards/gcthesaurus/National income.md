@@ -1,10 +1,8 @@
 ---
 title: National income
-longTitle: 'National income'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Revenu national]]"
-usedFor:
-- "[[Federal revenues]]"
+  - "[[Revenu national]]"
+aliases: National income
 ---

@@ -1,15 +1,10 @@
 ---
 title: Distance education
-longTitle: 'Distance education'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Formation a distance]]"
+  - "[[Formation a distance]]"
 scopeNote:
-- "Education using different media correspondence rad"
-usedFor:
-- "[[Distance training]]"
-- "[[E-learning]]"
-- "[[Outreach education]]"
-- "[[Web-based learning]]"
+  - Education using different media correspondence rad
+aliases: Distance education
 ---

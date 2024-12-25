@@ -1,8 +1,8 @@
 ---
 title: Hibernation
-longTitle: 'Hibernation'
+aliases: Hibernation
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Hibernation]]"
+  - "[[Hibernation]]"
 ---

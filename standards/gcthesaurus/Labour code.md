@@ -1,10 +1,8 @@
 ---
 title: Labour code
-longTitle: 'Labour code'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Code du travail]]"
-usedFor:
-- "[[Labor code]]"
+  - "[[Code du travail]]"
+aliases: Labour code
 ---

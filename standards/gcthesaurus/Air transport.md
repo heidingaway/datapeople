@@ -1,27 +1,28 @@
 ---
 title: Air transport
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Air transport'
+  - gccommon
 french:
-- "[[Transport aerien]]"
+  - Transport aerien
 historyNote:
-- "Before May 2007 Air transport is not used for tran"
+  - Before May 2007, "Air transport" is not used for transportation of passengers.
 scopeNote:
-- "Transport of goods and passengers by air"
-usedFor:
-- "[[Air taxi]]"
-- "[[Air traffic]]"
-- "[[Air transportation]]"
-- "[[Helicopter transportation]]"
+  - Transport of goods and passengers by air
+aliases:
+  - Air taxi
+  - Air traffic
+  - Air transport
+  - Air Transportation safety
+  - Helicopter transportation
 relatedTerm:
-- "[[Aviation]]"
-- "[[Airports]]"
-- "[[Airlines]]"
-- "[[Aircraft]]"
-- "[[Air transport industry]]"
-- "[[Air safety]]"
+  - "[[Air safety]]"
+  - "[[Air transport industry]]"
+  - "[[Aircraft]]"
+  - "[[Airlines]]"
+  - "[[Airports]]"
+  - "[[Aviation]]"
+id: 388
 ---
 # Air transport

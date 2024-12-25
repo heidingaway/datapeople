@@ -1,13 +1,11 @@
 ---
 title: Complaints
-longTitle: 'Complaints'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Plainte]]"
-usedFor:
-- "[[Grievances]]"
+  - "[[Plainte]]"
+aliases: Complaints
 relatedTerm:
-- "[[Appeals]]"
-- "[[Claims]]"
+  - "[[Appeals]]"
+  - "[[Claims]]"
 ---

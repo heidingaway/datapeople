@@ -1,8 +1,8 @@
 ---
 title: Attitudes
-longTitle: 'Attitudes'
+aliases: Attitudes
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Attitude]]"
+  - "[[Attitude]]"
 ---

@@ -3,19 +3,14 @@ title: Pests
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Pests'
+  - gccommon
 french:
-- "[[Organisme nuisible]]"
+  - "[[Organisme nuisible]]"
 narrowerTerm:
-- "[[Parasites]]"
-- "[[Weeds]]"
+  - "[[Parasites]]"
+  - "[[Weeds]]"
 relatedTerm:
-- "[[Invasive species]]"
-usedFor:
-- "[[Agricultural pests]]"
-- "[[Animal pests]]"
-- "[[Insect pests]]"
-- "[[Vermin]]"
+  - "[[Invasive species]]"
+aliases: Pests
 ---
 # Pests

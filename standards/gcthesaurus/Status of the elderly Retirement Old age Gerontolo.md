@@ -1,8 +1,8 @@
 ---
 title: Status of the elderly Retirement Old age Gerontolo
-longTitle: 'Status of the elderly, Retirement, Old age, Gerontology, Geriatrics, Elderly care, Elder abuse, Aging'
+aliases: Status of the elderly, Retirement, Old age, Gerontology, Geriatrics, Elderly care, Elder abuse, Aging
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Seniors]]"
+  - "[[Seniors]]"
 ---

@@ -3,15 +3,13 @@ title: Natural heritage
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Natural heritage'
+  - gccommon
 french:
-- "[[Patrimoine naturel]]"
-usedFor:
-- "[[Environmental heritage]]"
+  - "[[Patrimoine naturel]]"
+aliases: Natural heritage
 relatedTerm:
-- "[[Territorial parks]]"
-- "[[Provincial parks]]"
-- "[[National parks]]"
+  - "[[Territorial parks]]"
+  - "[[Provincial parks]]"
+  - "[[National parks]]"
 ---
 # Natural heritage

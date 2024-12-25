@@ -1,8 +1,6 @@
 ---
 title: Artefacts Art works
-longTitle: 'Artefacts, Art works'
 tags:
-- gccommon
-usedFor:
-- "[[Art objects]]"
+  - gccommon
+aliases: Artefacts, Art works
 ---

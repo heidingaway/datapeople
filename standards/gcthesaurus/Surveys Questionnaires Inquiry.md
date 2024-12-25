@@ -1,8 +1,8 @@
 ---
 title: Surveys Questionnaires Inquiry
-longTitle: 'Surveys, Questionnaires, Inquiry'
+aliases: Surveys, Questionnaires, Inquiry
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Interviews]]"
+  - "[[Interviews]]"
 ---

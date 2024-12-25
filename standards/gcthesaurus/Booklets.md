@@ -1,11 +1,8 @@
 ---
 title: Booklets
-longTitle: 'Booklets'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Brochure]]"
-usedFor:
-- "[[Brochures]]"
-- "[[Pamphlets]]"
+  - "[[Brochure]]"
+aliases: Booklets
 ---

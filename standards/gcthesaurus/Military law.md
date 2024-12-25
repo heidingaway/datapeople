@@ -1,8 +1,8 @@
 ---
 title: Military law
-longTitle: 'Military law'
+aliases: Military law
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Droit militaire]]"
+  - "[[Droit militaire]]"
 ---

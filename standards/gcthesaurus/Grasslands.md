@@ -1,15 +1,10 @@
 ---
 title: Grasslands
-longTitle: 'Grasslands'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Paturage]]"
+  - "[[Paturage]]"
 relatedTerm:
-- "[[Prairie ecosystems]]"
-usedFor:
-- "[[Grazing lands]]"
-- "[[Pasture lands]]"
-- "[[Pasturelands]]"
-- "[[Pastures]]"
+  - "[[Prairie ecosystems]]"
+aliases: Grasslands
 ---

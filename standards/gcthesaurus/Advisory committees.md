@@ -1,8 +1,12 @@
 ---
 title: Advisory committees
-longTitle: 'Advisory committees'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Advisory committees
 french:
-- "[[Comite consultatif]]"
+  - Comite consultatif
 ---
+# Advisory committees

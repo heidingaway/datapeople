@@ -1,17 +1,15 @@
 ---
 title: Living organisms
-longTitle: 'Living organisms'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Organisme vivant]]"
+  - "[[Organisme vivant]]"
 narrowerTerm:
-- "[[Animals]]"
-- "[[Fungi]]"
-- "[[Genetically modified organisms]]"
-- "[[Microorganisms]]"
-- "[[Pests]]"
-- "[[Plants]]"
-usedFor:
-- "[[Biological organisms]]"
+  - "[[Animals]]"
+  - "[[Fungi]]"
+  - "[[Genetically modified organisms]]"
+  - "[[Microorganisms]]"
+  - "[[Pests]]"
+  - "[[Plants]]"
+aliases: Living organisms
 ---

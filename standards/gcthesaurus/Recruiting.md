@@ -1,8 +1,8 @@
 ---
 title: Recruiting
-longTitle: 'Recruiting'
+aliases: Recruiting
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Recrutement]]"
+  - "[[Recrutement]]"
 ---

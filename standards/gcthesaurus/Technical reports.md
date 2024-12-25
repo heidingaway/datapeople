@@ -1,8 +1,8 @@
 ---
 title: Technical reports
-longTitle: 'Technical reports'
+aliases: Technical reports
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Rapport technique]]"
+  - "[[Rapport technique]]"
 ---

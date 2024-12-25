@@ -1,8 +1,8 @@
 ---
 title: Mortgage insurance
-longTitle: 'Mortgage insurance'
+aliases: Mortgage insurance
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Assurance hypothecaire]]"
+  - "[[Assurance hypothecaire]]"
 ---

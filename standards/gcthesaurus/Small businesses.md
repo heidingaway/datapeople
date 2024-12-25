@@ -1,13 +1,10 @@
 ---
 title: Small businesses
-longTitle: 'Small businesses'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Petite entreprise]]"
+  - "[[Petite entreprise]]"
 relatedTerm:
-- "[[Small business loans]]"
-usedFor:
-- "[[Small and medium-sized businesses]]"
-- "[[Small and medium-sized enterprises]]"
+  - "[[Small business loans]]"
+aliases: Small businesses
 ---

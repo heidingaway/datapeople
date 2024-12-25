@@ -1,8 +1,8 @@
 ---
 title: Livestock Hatcheries Eggs Domestic animals
-longTitle: 'Livestock, Hatcheries, Eggs, Domestic animals'
+aliases: Livestock, Hatcheries, Eggs, Domestic animals
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Poultry]]"
+  - "[[Poultry]]"
 ---

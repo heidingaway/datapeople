@@ -1,10 +1,8 @@
 ---
 title: Health indicators
-longTitle: 'Health indicators'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Indicateur de sante]]"
-usedFor:
-- "[[Health status indicators]]"
+  - "[[Indicateur de sante]]"
+aliases: Health indicators
 ---

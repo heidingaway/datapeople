@@ -1,8 +1,8 @@
 ---
 title: Justice system Hearings Court decisions
-longTitle: 'Justice system, Hearings, Court decisions'
+aliases: Justice system, Hearings, Court decisions
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Courts]]"
+  - "[[Courts]]"
 ---

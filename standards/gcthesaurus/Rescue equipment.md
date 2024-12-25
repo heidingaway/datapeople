@@ -1,8 +1,8 @@
 ---
 title: Rescue equipment
-longTitle: 'Rescue equipment'
+aliases: Rescue equipment
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Equipement de sauvetage]]"
+  - "[[Equipement de sauvetage]]"
 ---

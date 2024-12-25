@@ -1,8 +1,8 @@
 ---
 title: Data dictionaries
-longTitle: 'Data dictionaries'
+aliases: Data dictionaries
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Dictionnaire de donnees]]"
+  - "[[Dictionnaire de donnees]]"
 ---

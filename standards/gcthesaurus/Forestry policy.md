@@ -1,8 +1,8 @@
 ---
 title: Forestry policy
-longTitle: 'Forestry policy'
+aliases: Forestry policy
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Politique forestiere]]"
+  - "[[Politique forestiere]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Symbols Posters Information Advertising
-longTitle: 'Symbols, Posters, Information, Advertising'
+aliases: Symbols, Posters, Information, Advertising
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Signs]]"
+  - "[[Signs]]"
 ---

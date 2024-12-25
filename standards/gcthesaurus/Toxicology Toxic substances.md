@@ -1,8 +1,8 @@
 ---
 title: Toxicology Toxic substances
-longTitle: 'Toxicology, Toxic substances'
+aliases: Toxicology, Toxic substances
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Poisoning]]"
+  - "[[Poisoning]]"
 ---

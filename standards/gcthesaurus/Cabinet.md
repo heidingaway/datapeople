@@ -1,8 +1,8 @@
 ---
 title: Cabinet
-longTitle: 'Cabinet'
+aliases: Cabinet
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Conseil des ministres]]"
+  - "[[Conseil des ministres]]"
 ---

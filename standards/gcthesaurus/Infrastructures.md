@@ -1,14 +1,14 @@
 ---
 title: Infrastructures
-longTitle: 'Infrastructures'
+aliases: Infrastructures
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Infrastructure]]"
+  - "[[Infrastructure]]"
 narrowerTerm:
-- "[[Community infrastructures]]"
+  - "[[Community infrastructures]]"
 relatedTerm:
-- "[[Systems]]"
+  - "[[Systems]]"
 scopeNote:
-- "Facilities equipment and services needed for the o"
+  - Facilities equipment and services needed for the o
 ---

@@ -1,8 +1,8 @@
 ---
 title: Natural hazards
-longTitle: 'Natural hazards'
+aliases: Natural hazards
 tags:
-- gccommon
+  - gccommon
 historyNote:
-- "The preferred term Natural hazards becomes non-pre"
+  - The preferred term Natural hazards becomes non-pre
 ---

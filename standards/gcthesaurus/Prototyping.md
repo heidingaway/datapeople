@@ -1,8 +1,8 @@
 ---
 title: Prototyping
-longTitle: 'Prototyping'
+aliases: Prototyping
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Prototypage]]"
+  - "[[Prototypage]]"
 ---

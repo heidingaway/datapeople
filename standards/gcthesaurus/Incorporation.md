@@ -3,14 +3,14 @@ title: Incorporation
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Incorporation'
+  - gccommon
+aliases: Incorporation
 french:
-- "[[Incorporation]]"
+  - "[[Incorporation]]"
 scopeNote:
-- "The formation in law of an organization giving it "
+  - "The formation in law of an organization giving it "
 relatedTerm:
-- "[[Corporations]]"
-- "[[Businesses]]"
+  - "[[Corporations]]"
+  - "[[Businesses]]"
 ---
 # Incorporation

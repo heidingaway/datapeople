@@ -1,10 +1,8 @@
 ---
 title: Cataloguing
-longTitle: 'Cataloguing'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Catalogage]]"
-usedFor:
-- "[[Cataloging]]"
+  - "[[Catalogage]]"
+aliases: Cataloguing
 ---

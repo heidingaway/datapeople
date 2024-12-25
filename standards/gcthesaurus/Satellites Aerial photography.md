@@ -1,8 +1,8 @@
 ---
 title: Satellites Aerial photography
-longTitle: 'Satellites, Aerial photography'
+aliases: Satellites, Aerial photography
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Remote sensing]]"
+  - "[[Remote sensing]]"
 ---

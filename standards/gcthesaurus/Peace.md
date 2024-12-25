@@ -1,13 +1,13 @@
 ---
 title: Peace
-longTitle: 'Peace'
+aliases: Peace
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Paix]]"
+  - "[[Paix]]"
 relatedTerm:
-- "[[War]]"
-- "[[Peacekeeping]]"
-- "[[International security]]"
-- "[[Arms control]]"
+  - "[[War]]"
+  - "[[Peacekeeping]]"
+  - "[[International security]]"
+  - "[[Arms control]]"
 ---

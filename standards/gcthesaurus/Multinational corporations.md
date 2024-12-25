@@ -1,14 +1,10 @@
 ---
 title: Multinational corporations
-longTitle: 'Multinational corporations'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Multinationale]]"
+  - "[[Multinationale]]"
 relatedTerm:
-- "[[International business development]]"
-usedFor:
-- "[[International business enterprises]]"
-- "[[International businesses]]"
-- "[[Transnational corporations]]"
+  - "[[International business development]]"
+aliases: Multinational corporations
 ---

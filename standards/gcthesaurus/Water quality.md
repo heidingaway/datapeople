@@ -1,8 +1,15 @@
 ---
 title: Water quality
-longTitle: 'Water quality'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+id: 2678
 french:
-- "[[Qualite de leau]]"
+  - Qualite de l'eau
+relatedTerm:
+  - "[[Water management]]"
+  - "[[Water pollution]]"
+  - "[[Water]]"
 ---
+# Water quality

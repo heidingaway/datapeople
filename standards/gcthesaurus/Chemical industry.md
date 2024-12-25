@@ -3,17 +3,17 @@ title: Chemical industry
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Chemical industry'
+  - gccommon
+aliases: Chemical industry
 french:
-- "[[Industrie chimique]]"
+  - "[[Industrie chimique]]"
 narrowerTerm:
-- "[[Pharmaceutical industry]]"
-- "[[Plastics industry]]"
+  - "[[Pharmaceutical industry]]"
+  - "[[Plastics industry]]"
 scopeNote:
-- "An economic activity dedicated to the manufacturin"
+  - An economic activity dedicated to the manufacturin
 relatedTerm:
-- "[[Chemistry]]"
-- "[[Chemicals]]"
+  - "[[Chemistry]]"
+  - "[[Chemicals]]"
 ---
 # Chemical industry

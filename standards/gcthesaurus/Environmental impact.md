@@ -1,11 +1,8 @@
 ---
 title: Environmental impact
-longTitle: 'Environmental impact'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Impact sur lenvironnement]]"
-usedFor:
-- "[[Environmental damages]]"
-- "[[Environmental effects]]"
+  - "[[Impact sur lenvironnement]]"
+aliases: Environmental impact
 ---

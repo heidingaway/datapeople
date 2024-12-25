@@ -1,8 +1,8 @@
 ---
 title: National symbols Emblems
-longTitle: 'National symbols, Emblems'
+aliases: National symbols, Emblems
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Flags]]"
+  - "[[Flags]]"
 ---

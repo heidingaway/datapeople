@@ -1,8 +1,8 @@
 ---
 title: Men
-longTitle: 'Men'
+aliases: Men
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Homme]]"
+  - "[[Homme]]"
 ---

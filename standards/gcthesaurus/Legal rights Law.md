@@ -1,8 +1,8 @@
 ---
 title: Legal rights Law
-longTitle: 'Legal rights, Law'
+aliases: Legal rights, Law
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Legal obligations]]"
+  - "[[Legal obligations]]"
 ---

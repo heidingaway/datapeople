@@ -1,10 +1,10 @@
 ---
 title: Warranties
-longTitle: 'Warranties'
+aliases: Warranties
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Garantie]]"
+  - "[[Garantie]]"
 scopeNote:
-- "Implied or written statements of assurance guarant"
+  - Implied or written statements of assurance guarant
 ---

@@ -1,10 +1,10 @@
 ---
 title: Questionnaires
-longTitle: 'Questionnaires'
+aliases: Questionnaires
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Questionnaire]]"
+  - "[[Questionnaire]]"
 relatedTerm:
-- "[[Forms]]"
+  - "[[Forms]]"
 ---

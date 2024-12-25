@@ -1,10 +1,10 @@
 ---
 title: Whaling
-longTitle: 'Whaling'
+aliases: Whaling
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Chasse a la baleine]]"
+  - "[[Chasse a la baleine]]"
 relatedTerm:
-- "[[Whales]]"
+  - "[[Whales]]"
 ---

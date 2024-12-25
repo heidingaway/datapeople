@@ -3,15 +3,12 @@ title: Continuing education
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Continuing education'
+  - gccommon
 french:
-- "[[Education permanente]]"
-usedFor:
-- "[[Adult education]]"
-- "[[Lifelong education]]"
+  - "[[Education permanente]]"
+aliases: Continuing education
 relatedTerm:
-- "[[Retraining]]"
-- "[[Professional development]]"
+  - "[[Retraining]]"
+  - "[[Professional development]]"
 ---
 # Continuing education

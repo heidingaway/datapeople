@@ -1,8 +1,8 @@
 ---
 title: Mother tongue Heritage Foreign languages Ethnic gr
-longTitle: 'Mother tongue, Heritage, Foreign languages, Ethnic groups'
+aliases: Mother tongue, Heritage, Foreign languages, Ethnic groups
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Heritage languages]]"
+  - "[[Heritage languages]]"
 ---

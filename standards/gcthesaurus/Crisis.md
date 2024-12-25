@@ -1,11 +1,11 @@
 ---
 title: Crisis
-longTitle: 'Crisis'
+aliases: Crisis
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Crise]]"
+  - "[[Crise]]"
 narrowerTerm:
-- "[[Financial crisis]]"
-- "[[Humanitarian crisis]]"
+  - "[[Financial crisis]]"
+  - "[[Humanitarian crisis]]"
 ---

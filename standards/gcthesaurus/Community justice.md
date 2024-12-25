@@ -1,8 +1,8 @@
 ---
 title: Community justice
-longTitle: 'Community justice'
+aliases: Community justice
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Justice communautaire]]"
+  - "[[Justice communautaire]]"
 ---

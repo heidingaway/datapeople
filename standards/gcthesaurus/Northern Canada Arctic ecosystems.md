@@ -1,8 +1,8 @@
 ---
 title: Northern Canada Arctic ecosystems
-longTitle: 'Northern Canada, Arctic ecosystems'
+aliases: Northern Canada, Arctic ecosystems
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Arctic]]"
+  - "[[Arctic]]"
 ---

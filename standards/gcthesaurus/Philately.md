@@ -1,10 +1,8 @@
 ---
 title: Philately
-longTitle: 'Philately'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Philatelie]]"
-usedFor:
-- "[[Stamp collecting]]"
+  - "[[Philatelie]]"
+aliases: Philately
 ---

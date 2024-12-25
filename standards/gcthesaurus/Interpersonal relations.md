@@ -1,10 +1,8 @@
 ---
 title: Interpersonal relations
-longTitle: 'Interpersonal relations'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Relations interpersonnelles]]"
-usedFor:
-- "[[Interpersonal communication]]"
+  - "[[Relations interpersonnelles]]"
+aliases: Interpersonal relations
 ---

@@ -1,15 +1,13 @@
 ---
 title: Courts
-longTitle: 'Courts'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Tribunal]]"
+  - "[[Tribunal]]"
 narrowerTerm:
-- "[[International courts]]"
-- "[[Juvenile court]]"
+  - "[[International courts]]"
+  - "[[Juvenile court]]"
 scopeNote:
-- "Any duly constituted tribunal administering the la"
-usedFor:
-- "[[Tribunals]]"
+  - Any duly constituted tribunal administering the la
+aliases: Courts
 ---

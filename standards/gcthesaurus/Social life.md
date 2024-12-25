@@ -3,12 +3,12 @@ title: Social life
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Social life'
+  - gccommon
+aliases: Social life
 french:
-- "[[Vie sociale]]"
+  - "[[Vie sociale]]"
 relatedTerm:
-- "[[Social conditions]]"
-- "[[Daily life]]"
+  - "[[Social conditions]]"
+  - "[[Daily life]]"
 ---
 # Social life

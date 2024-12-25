@@ -1,12 +1,8 @@
 ---
 title: Marine accidents
-longTitle: 'Marine accidents'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Accident maritime]]"
-usedFor:
-- "[[Maritime disasters]]"
-- "[[Ship sinking]]"
-- "[[Shipwrecks]]"
+  - "[[Accident maritime]]"
+aliases: Marine accidents
 ---

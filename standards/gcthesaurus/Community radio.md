@@ -1,10 +1,10 @@
 ---
 title: Community radio
-longTitle: 'Community radio'
+aliases: Community radio
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Radio]]"
+  - "[[Radio]]"
 french:
-- "[[Radio communautaire]]"
+  - "[[Radio communautaire]]"
 ---

@@ -1,11 +1,8 @@
 ---
 title: Public sector
-longTitle: 'Public sector'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Secteur public]]"
-usedFor:
-- "[[Nationalized enterprises]]"
-- "[[Public enterprises]]"
+  - "[[Secteur public]]"
+aliases: Public sector
 ---

@@ -1,10 +1,10 @@
 ---
 title: Nationalism
-longTitle: 'Nationalism'
+aliases: Nationalism
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Nationalisme]]"
+  - "[[Nationalisme]]"
 relatedTerm:
-- "[[Canadian identity]]"
+  - "[[Canadian identity]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Food policy
-longTitle: 'Food policy'
+aliases: Food policy
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Politique alimentaire]]"
+  - "[[Politique alimentaire]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Genetic engineering Cloning
-longTitle: 'Genetic engineering, Cloning'
+aliases: Genetic engineering, Cloning
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Stem cells]]"
+  - "[[Stem cells]]"
 ---

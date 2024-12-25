@@ -3,18 +3,13 @@ title: Ethnic groups
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Ethnic groups'
+  - gccommon
 french:
-- "[[Groupe ethnique]]"
+  - "[[Groupe ethnique]]"
 relatedTerm:
-- "[[Ethnology]]"
-- "[[Heritage languages]]"
-- "[[Cultural groups]]"
-usedFor:
-- "[[Ethnic communities]]"
-- "[[Ethnic origin]]"
-- "[[Ethnicity]]"
-- "[[Racial groups]]"
+  - "[[Ethnology]]"
+  - "[[Heritage languages]]"
+  - "[[Cultural groups]]"
+aliases: Ethnic groups
 ---
 # Ethnic groups

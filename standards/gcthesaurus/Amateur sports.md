@@ -1,11 +1,11 @@
 ---
 title: Amateur sports
-longTitle: 'Amateur sports'
+aliases: Amateur sports
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Sport amateur]]"
+  - "[[Sport amateur]]"
 relatedTerm:
-- "[[Olympic games]]"
-- "[[Panamerican games]]"
+  - "[[Olympic games]]"
+  - "[[Panamerican games]]"
 ---

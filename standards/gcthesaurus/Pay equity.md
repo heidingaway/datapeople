@@ -3,12 +3,12 @@ title: Pay equity
 created: 2024-12-13
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Pay equity'
+  - gccommon
+aliases: Pay equity
 french:
-- "[[Equite salariale]]"
+  - "[[Equite salariale]]"
 relatedTerm:
-- "[[Salaries]]"
-- "[[Employment equity]]"
+  - "[[Salaries]]"
+  - "[[Employment equity]]"
 ---
 # Pay equity

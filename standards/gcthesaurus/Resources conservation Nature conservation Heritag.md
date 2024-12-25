@@ -1,8 +1,8 @@
 ---
 title: Resources conservation Nature conservation Heritag
-longTitle: 'Resources conservation, Nature conservation, Heritage conservation'
+aliases: Resources conservation, Nature conservation, Heritage conservation
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Conservation]]"
+  - "[[Conservation]]"
 ---

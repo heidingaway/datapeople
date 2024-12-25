@@ -1,10 +1,10 @@
 ---
 title: Flora
-longTitle: 'Flora'
+aliases: Flora
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Flore]]"
+  - "[[Flore]]"
 scopeNote:
-- "All plants occuring in a particular region"
+  - All plants occuring in a particular region
 ---

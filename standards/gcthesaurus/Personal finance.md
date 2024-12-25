@@ -3,12 +3,12 @@ title: Personal finance
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Personal finance'
+  - gccommon
+aliases: Personal finance
 french:
-- "[[Finances personnelles]]"
+  - "[[Finances personnelles]]"
 relatedTerm:
-- "[[Savings]]"
-- "[[Personal income]]"
+  - "[[Savings]]"
+  - "[[Personal income]]"
 ---
 # Personal finance

@@ -1,8 +1,8 @@
 ---
 title: Industry Industrial management
-longTitle: 'Industry, Industrial management'
+aliases: Industry, Industrial management
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Industrial productivity]]"
+  - "[[Industrial productivity]]"
 ---

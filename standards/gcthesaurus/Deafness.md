@@ -1,10 +1,11 @@
 ---
 title: Deafness
-longTitle: 'Deafness'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-broaderTerm:
-- "[[Hearing disabilities]]"
+  - gccommon
+aliases: Deafness
 french:
-- "[[Surdite]]"
+  - Surdite
 ---
+# Deafness

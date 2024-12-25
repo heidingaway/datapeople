@@ -1,8 +1,8 @@
 ---
-title: Territories Northerners Northern studies Northern 
-longTitle: 'Territories, Northerners, Northern studies, Northern development, Arctic'
+title: Territories Northerners Northern studies Northern
+aliases: Territories, Northerners, Northern studies, Northern development, Arctic
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Northern Canada]]"
+  - "[[Northern Canada]]"
 ---

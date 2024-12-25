@@ -1,8 +1,8 @@
 ---
 title: Machine readable data Information systems Data pro
-longTitle: 'Machine readable data, Information systems, Data processing, Data dictionaries'
+aliases: Machine readable data, Information systems, Data processing, Data dictionaries
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Databases]]"
+  - "[[Databases]]"
 ---

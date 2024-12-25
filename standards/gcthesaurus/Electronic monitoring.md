@@ -1,10 +1,8 @@
 ---
 title: Electronic monitoring
-longTitle: 'Electronic monitoring'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Surveillance electronique]]"
-usedFor:
-- "[[Electronic surveillance]]"
+  - "[[Surveillance electronique]]"
+aliases: Electronic monitoring
 ---

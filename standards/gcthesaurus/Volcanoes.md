@@ -1,10 +1,8 @@
 ---
 title: Volcanoes
-longTitle: 'Volcanoes'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Volcan]]"
-usedFor:
-- "[[Volcanic eruptions]]"
+  - "[[Volcan]]"
+aliases: Volcanoes
 ---

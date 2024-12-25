@@ -1,8 +1,8 @@
 ---
 title: Vandalism
-longTitle: 'Vandalism'
+aliases: Vandalism
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Vandalisme]]"
+  - "[[Vandalisme]]"
 ---

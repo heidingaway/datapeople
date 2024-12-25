@@ -1,8 +1,8 @@
 ---
 title: Development tools
-longTitle: 'Development tools'
+aliases: Development tools
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Outil de developpement]]"
+  - "[[Outil de developpement]]"
 ---

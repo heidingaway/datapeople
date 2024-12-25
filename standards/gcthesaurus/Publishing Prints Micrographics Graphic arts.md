@@ -1,8 +1,8 @@
 ---
 title: Publishing Prints Micrographics Graphic arts
-longTitle: 'Publishing, Prints, Micrographics, Graphic arts'
+aliases: Publishing, Prints, Micrographics, Graphic arts
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Printing]]"
+  - "[[Printing]]"
 ---

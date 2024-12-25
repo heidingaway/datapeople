@@ -1,8 +1,8 @@
 ---
 title: Global warming Climate
-longTitle: 'Global warming, Climate'
+aliases: Global warming, Climate
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Climate change]]"
+  - "[[Climate change]]"
 ---

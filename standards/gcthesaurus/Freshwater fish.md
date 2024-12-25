@@ -1,10 +1,8 @@
 ---
 title: Freshwater fish
-longTitle: 'Freshwater fish'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Poisson deau douce]]"
-usedFor:
-- "[[Trout]]"
+  - "[[Poisson deau douce]]"
+aliases: Freshwater fish
 ---

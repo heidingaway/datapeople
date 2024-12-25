@@ -1,8 +1,8 @@
 ---
 title: Scholarships Financial assistance Education
-longTitle: 'Scholarships, Financial assistance, Education'
+aliases: Scholarships, Financial assistance, Education
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Student loans]]"
+  - "[[Student loans]]"
 ---

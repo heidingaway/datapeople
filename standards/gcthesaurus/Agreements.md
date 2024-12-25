@@ -1,30 +1,27 @@
 ---
 title: Agreements
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Agreements'
+  - gccommon
 french:
-- "[[Accord]]"
+  - Accord
 narrowerTerm:
-- "[[Collective agreements]]"
-- "[[Cooperation agreements]]"
-- "[[Environmental agreements]]"
-- "[[Federal provincial agreements]]"
-- "[[Federal territorial agreements]]"
-- "[[Fiscal agreements]]"
-- "[[International agreements]]"
-- "[[Multilateral agreements]]"
-- "[[Reciprocal agreements]]"
-- "[[Service agreements]]"
-- "[[Trade agreements]]"
-usedFor:
-- "[[Alliances]]"
-- "[[Conventions Agreements]]"
-- "[[Treaties]]"
+  - "[[Collective agreements]]"
+  - "[[Cooperation agreements]]"
+  - "[[Environmental agreements]]"
+  - "[[Federal provincial agreements]]"
+  - "[[Federal territorial agreements]]"
+  - "[[Fiscal agreements]]"
+  - "[[International agreements]]"
+  - "[[Multilateral agreements]]"
+  - "[[Reciprocal agreements]]"
+  - "[[Service agreements]]"
+  - "[[Trade agreements]]"
+aliases:
+  - Agreements
 relatedTerm:
-- "[[Negotiations]]"
-- "[Contracts]"
+  - "[[Negotiations]]"
+  - "[Contracts]"
 ---
 # Agreements

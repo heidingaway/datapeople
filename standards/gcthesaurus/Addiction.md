@@ -1,16 +1,17 @@
 ---
 title: Addiction
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Addiction'
+  - gccommon
+aliases:
+  - Addiction
 french:
-- "[[Dependance]]"
+  - Dependance
 narrowerTerm:
-- "[[Alcoholism]]"
-- "[[Drug addiction]]"
+  - "[[Alcoholism]]"
+  - "[[Drug addiction]]"
 scopeNote:
-- "Habitual psychological and physiological dependenc"
+  - Habitual psychological and physiological dependence on a substance or practice that is beyond voluntary control.
 ---
 # Addiction

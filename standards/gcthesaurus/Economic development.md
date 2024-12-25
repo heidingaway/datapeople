@@ -3,23 +3,19 @@ title: Economic development
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Economic development'
+  - gccommon
 french:
-- "[[Developpement economique]]"
+  - "[[Developpement economique]]"
 narrowerTerm:
-- "[[Sustainable development]]"
-usedFor:
-- "[[Commercial development]]"
-- "[[Economic diversification]]"
-- "[[Economic growth]]"
+  - "[[Sustainable development]]"
+aliases: Economic development
 relatedTerm:
-- "[[Economic trends]]"
-- "[[Economic policy]]"
-- "[[Economic indicators]]"
-- "[[Economic forecasting]]"
-- "[[Developing countries]]"
-- "[[Competitiveness]]"
-- "[[Business development]]"
+  - "[[Economic trends]]"
+  - "[[Economic policy]]"
+  - "[[Economic indicators]]"
+  - "[[Economic forecasting]]"
+  - "[[Developing countries]]"
+  - "[[Competitiveness]]"
+  - "[[Business development]]"
 ---
 # Economic development

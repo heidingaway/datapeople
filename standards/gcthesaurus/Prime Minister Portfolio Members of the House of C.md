@@ -1,8 +1,8 @@
 ---
 title: Prime Minister Portfolio Members of the House of C
-longTitle: 'Prime Minister, Portfolio, Members of the House of Commons, Federal departments, Cabinet'
+aliases: Prime Minister, Portfolio, Members of the House of Commons, Federal departments, Cabinet
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Ministers]]"
+  - "[[Ministers]]"
 ---

@@ -3,17 +3,14 @@ title: Energy use
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Energy use'
+  - gccommon
 french:
-- "[[Consommation denergie]]"
-usedFor:
-- "[[Energy consumption]]"
-- "[[Energy usage]]"
+  - "[[Consommation denergie]]"
+aliases: Energy use
 relatedTerm:
-- "[[Energy supply]]"
-- "[[Energy efficiency]]"
-- "[[Energy conservation]]"
-- "[[Energy]]"
+  - "[[Energy supply]]"
+  - "[[Energy efficiency]]"
+  - "[[Energy conservation]]"
+  - "[[Energy]]"
 ---
 # Energy use

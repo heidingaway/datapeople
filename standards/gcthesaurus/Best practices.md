@@ -1,8 +1,8 @@
 ---
 title: Best practices
-longTitle: 'Best practices'
+aliases: Best practices
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Meilleures pratiques]]"
+  - "[[Meilleures pratiques]]"
 ---

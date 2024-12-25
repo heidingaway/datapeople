@@ -1,10 +1,10 @@
 ---
 title: Community education
-longTitle: 'Community education'
+aliases: Community education
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Education communautaire]]"
+  - "[[Education communautaire]]"
 scopeNote:
-- "A process whereby learning resources and research "
+  - "A process whereby learning resources and research "
 ---

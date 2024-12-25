@@ -1,8 +1,8 @@
 ---
 title: World heritage
-longTitle: 'World heritage'
+aliases: World heritage
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Patrimoine mondial]]"
+  - "[[Patrimoine mondial]]"
 ---

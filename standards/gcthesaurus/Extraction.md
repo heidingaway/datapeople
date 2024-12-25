@@ -1,8 +1,8 @@
 ---
 title: Extraction
-longTitle: 'Extraction'
+aliases: Extraction
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Extraction]]"
+  - "[[Extraction]]"
 ---

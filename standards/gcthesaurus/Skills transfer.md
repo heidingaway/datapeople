@@ -1,8 +1,8 @@
 ---
 title: Skills transfer
-longTitle: 'Skills transfer'
+aliases: Skills transfer
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Transfert dhabiletes]]"
+  - "[[Transfert dhabiletes]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Expertise
-longTitle: 'Expertise'
+aliases: Expertise
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Expertise]]"
+  - "[[Expertise]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Prairie ecosystems
-longTitle: 'Prairie ecosystems'
+aliases: Prairie ecosystems
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ecosysteme prairial]]"
+  - "[[Ecosysteme prairial]]"
 ---

@@ -3,14 +3,11 @@ title: Domestic markets
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Domestic markets'
+  - gccommon
 french:
-- "[[Marche interieur]]"
+  - "[[Marche interieur]]"
 relatedTerm:
-- "[[Domestic trade]]"
-usedFor:
-- "[[Local markets]]"
-- "[[National markets]]"
+  - "[[Domestic trade]]"
+aliases: Domestic markets
 ---
 # Domestic markets

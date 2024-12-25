@@ -1,8 +1,8 @@
 ---
 title: Pollution control Pollution Environmental protecti
-longTitle: 'Pollution control, Pollution, Environmental protection, Clean technology, Alternative energy'
+aliases: Pollution control, Pollution, Environmental protection, Clean technology, Alternative energy
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Pollution prevention]]"
+  - "[[Pollution prevention]]"
 ---

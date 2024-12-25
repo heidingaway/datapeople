@@ -1,8 +1,8 @@
 ---
 title: International agreements
-longTitle: 'International agreements'
+aliases: International agreements
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Accord international]]"
+  - "[[Accord international]]"
 ---

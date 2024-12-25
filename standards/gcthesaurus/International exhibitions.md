@@ -1,8 +1,8 @@
 ---
 title: International exhibitions
-longTitle: 'International exhibitions'
+aliases: International exhibitions
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Exposition internationale]]"
+  - "[[Exposition internationale]]"
 ---

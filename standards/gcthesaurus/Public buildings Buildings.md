@@ -1,8 +1,8 @@
 ---
 title: Public buildings Buildings
-longTitle: 'Public buildings, Buildings'
+aliases: Public buildings, Buildings
 tags:
-- gccommon
+  - gccommon
 narrowerTerm:
-- "[[Municipal buildings]]"
+  - "[[Municipal buildings]]"
 ---

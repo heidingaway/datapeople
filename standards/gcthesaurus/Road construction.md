@@ -1,10 +1,10 @@
 ---
 title: Road construction
-longTitle: 'Road construction'
+aliases: Road construction
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Construction]]"
+  - "[[Construction]]"
 french:
-- "[[Construction routiere]]"
+  - "[[Construction routiere]]"
 ---

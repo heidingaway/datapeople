@@ -1,8 +1,8 @@
 ---
 title: Cartographic records
-longTitle: 'Cartographic records'
+aliases: Cartographic records
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Archives cartographiques]]"
+  - "[[Archives cartographiques]]"
 ---

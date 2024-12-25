@@ -1,15 +1,18 @@
 ---
 title: Marine safety
-longTitle: 'Marine safety'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Securite maritime]]"
+  - "[[Securite maritime]]"
 relatedTerm:
-- "[[Marine accidents]]"
-- "[[Marine safety equipment]]"
-usedFor:
-- "[[Marine navigation safety]]"
-- "[[Safe boating]]"
-- "[[Vessel safety]]"
+  - "[[Lighthouses]]"
+  - "[[Marine accidents]]"
+  - "[[Marine safety equipment]]"
+  - "[[Navigation systems]]"
+  - "[[Navigation]]"
+aliases:
+  - Marine safety
 ---
+# Marine safety

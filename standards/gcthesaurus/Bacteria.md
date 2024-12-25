@@ -1,10 +1,10 @@
 ---
 title: Bacteria
-longTitle: 'Bacteria'
+aliases: Bacteria
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Bacterie]]"
+  - "[[Bacterie]]"
 relatedTerm:
-- "[[Bacteriology]]"
+  - "[[Bacteriology]]"
 ---

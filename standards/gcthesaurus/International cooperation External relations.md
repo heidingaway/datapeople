@@ -1,8 +1,8 @@
 ---
 title: International cooperation External relations
-longTitle: 'International cooperation, External relations'
+aliases: International cooperation, External relations
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[International agreements]]"
+  - "[[International agreements]]"
 ---

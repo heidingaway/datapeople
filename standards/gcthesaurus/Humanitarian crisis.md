@@ -1,8 +1,8 @@
 ---
 title: Humanitarian crisis
-longTitle: 'Humanitarian crisis'
+aliases: Humanitarian crisis
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Crise humanitaire]]"
+  - "[[Crise humanitaire]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Hydrology Earth sciences
-longTitle: 'Hydrology, Earth sciences'
+aliases: Hydrology, Earth sciences
 tags:
-- gccommon
+  - gccommon
 narrowerTerm:
-- "[[Hydrometry]]"
+  - "[[Hydrometry]]"
 ---

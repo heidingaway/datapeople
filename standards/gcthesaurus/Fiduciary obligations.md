@@ -3,15 +3,13 @@ title: Fiduciary obligations
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Fiduciary obligations'
+  - gccommon
 french:
-- "[[Obligation fiduciaire]]"
+  - "[[Obligation fiduciaire]]"
 relatedTerm:
-- "[[Trustees]]"
+  - "[[Trustees]]"
 scopeNote:
-- "The obligation of a trustee or personal representa"
-usedFor:
-- "[[Fiduciary duty]]"
+  - The obligation of a trustee or personal representa
+aliases: Fiduciary obligations
 ---
 # Fiduciary obligations

@@ -1,8 +1,8 @@
 ---
 title: Job search
-longTitle: 'Job search'
+aliases: Job search
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Recherche demploi]]"
+  - "[[Recherche demploi]]"
 ---

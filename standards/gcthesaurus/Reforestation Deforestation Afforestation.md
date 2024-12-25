@@ -1,8 +1,8 @@
 ---
 title: Reforestation Deforestation Afforestation
-longTitle: 'Reforestation, Deforestation, Afforestation'
+aliases: Reforestation, Deforestation, Afforestation
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Forest management]]"
+  - "[[Forest management]]"
 ---

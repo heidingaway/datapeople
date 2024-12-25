@@ -3,12 +3,9 @@ title: Goods and services tax
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Goods and services tax'
+  - gccommon
 french:
-- "[[Taxe sur les produits et services]]"
-usedFor:
-- "[[GST]]"
-- "[[Tax on goods and services]]"
+  - "[[Taxe sur les produits et services]]"
+aliases: Goods and services tax
 ---
 # Goods and services tax

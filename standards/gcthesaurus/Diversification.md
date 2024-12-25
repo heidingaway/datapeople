@@ -1,8 +1,8 @@
 ---
 title: Diversification
-longTitle: 'Diversification'
+aliases: Diversification
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Diversification]]"
+  - "[[Diversification]]"
 ---

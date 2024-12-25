@@ -1,8 +1,8 @@
 ---
 title: Propaganda
-longTitle: 'Propaganda'
+aliases: Propaganda
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Propagande]]"
+  - "[[Propagande]]"
 ---

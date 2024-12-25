@@ -1,8 +1,8 @@
 ---
 title: Social surveys Public opinion polls
-longTitle: 'Social surveys, Public opinion polls'
+aliases: Social surveys, Public opinion polls
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Surveys]]"
+  - "[[Surveys]]"
 ---

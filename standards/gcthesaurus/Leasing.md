@@ -1,12 +1,10 @@
 ---
 title: Leasing
-longTitle: 'Leasing'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Location]]"
+  - "[[Location]]"
 relatedTerm:
-- "[[Lease]]"
-usedFor:
-- "[[Renting]]"
+  - "[[Lease]]"
+aliases: Leasing
 ---

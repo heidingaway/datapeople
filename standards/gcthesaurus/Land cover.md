@@ -1,8 +1,8 @@
 ---
 title: Land cover
-longTitle: 'Land cover'
+aliases: Land cover
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Couverture du sol]]"
+  - "[[Couverture du sol]]"
 ---

@@ -3,12 +3,9 @@ title: Environmental education
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Environmental education'
+  - gccommon
 french:
-- "[[Education a lenvironnement]]"
-usedFor:
-- "[[Environmental awareness]]"
-- "[[Environmental training]]"
+  - "[[Education a lenvironnement]]"
+aliases: Environmental education
 ---
 # Environmental education

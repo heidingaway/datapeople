@@ -3,13 +3,13 @@ title: Tax avoidance
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Tax avoidance'
+  - gccommon
+aliases: Tax avoidance
 french:
-- "[[Evitement fiscal]]"
+  - "[[Evitement fiscal]]"
 relatedTerm:
-- "[[Taxes]]"
-- "[[Tax fraud]]"
-- "[[Fiscal policy]]"
+  - "[[Taxes]]"
+  - "[[Tax fraud]]"
+  - "[[Fiscal policy]]"
 ---
 # Tax avoidance

@@ -1,8 +1,8 @@
 ---
 title: Information Business opportunities Business develo
-longTitle: 'Information, Business opportunities, Business development'
+aliases: Information, Business opportunities, Business development
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Business intelligence]]"
+  - "[[Business intelligence]]"
 ---

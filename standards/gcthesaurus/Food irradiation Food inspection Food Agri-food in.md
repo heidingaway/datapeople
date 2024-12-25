@@ -1,8 +1,8 @@
 ---
 title: Food irradiation Food inspection Food Agri-food in
-longTitle: 'Food irradiation, Food inspection, Food, Agri-food industry'
+aliases: Food irradiation, Food inspection, Food, Agri-food industry
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Food processing]]"
+  - "[[Food processing]]"
 ---

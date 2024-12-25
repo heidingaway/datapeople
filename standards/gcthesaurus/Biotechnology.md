@@ -3,17 +3,14 @@ title: Biotechnology
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Biotechnology'
+  - gccommon
 french:
-- "[[Biotechnologie]]"
+  - "[[Biotechnologie]]"
 narrowerTerm:
-- "[[Reproductive technology]]"
-usedFor:
-- "[[Bioengineering]]"
-- "[[Biological engineering]]"
+  - "[[Reproductive technology]]"
+aliases: Biotechnology
 relatedTerm:
-- "[[Genetic engineering]]"
-- "[[Bioethics]]"
+  - "[[Genetic engineering]]"
+  - "[[Bioethics]]"
 ---
 # Biotechnology

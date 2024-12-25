@@ -1,12 +1,8 @@
 ---
 title: Crown lands
-longTitle: 'Crown lands'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Terres de la Couronne]]"
-usedFor:
-- "[[Federal lands]]"
-- "[[Government lands]]"
-- "[[Public lands]]"
+  - "[[Terres de la Couronne]]"
+aliases: Crown lands
 ---

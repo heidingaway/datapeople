@@ -3,14 +3,14 @@ title: Regional development
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Regional development'
+  - gccommon
+aliases: Regional development
 french:
-- "[[Developpement regional]]"
+  - "[[Developpement regional]]"
 narrowerTerm:
-- "[[Northern development]]"
+  - "[[Northern development]]"
 relatedTerm:
-- "[[Regional cooperation]]"
-- "[[Rural development]]"
+  - "[[Regional cooperation]]"
+  - "[[Rural development]]"
 ---
 # Regional development

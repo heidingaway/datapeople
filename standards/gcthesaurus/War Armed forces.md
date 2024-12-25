@@ -1,8 +1,8 @@
 ---
 title: War Armed forces
-longTitle: 'War, Armed forces'
+aliases: War, Armed forces
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Allied forces]]"
+  - "[[Allied forces]]"
 ---

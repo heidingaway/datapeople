@@ -1,8 +1,8 @@
 ---
 title: Ornaments Gold Diamonds
-longTitle: 'Ornaments, Gold, Diamonds'
+aliases: Ornaments, Gold, Diamonds
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Jewellery]]"
+  - "[[Jewellery]]"
 ---

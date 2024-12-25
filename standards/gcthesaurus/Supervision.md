@@ -3,12 +3,12 @@ title: Supervision
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Supervision'
+  - gccommon
+aliases: Supervision
 french:
-- "[[Supervision]]"
+  - "[[Supervision]]"
 relatedTerm:
-- "[[Personnel management]]"
-- "[[Coordination]]"
+  - "[[Personnel management]]"
+  - "[[Coordination]]"
 ---
 # Supervision

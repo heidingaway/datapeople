@@ -1,12 +1,18 @@
 ---
 title: Airport authorities
-longTitle: 'Airport authorities'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Administration aeroportuaire]]"
+  - Administration aeroportuaire
 scopeNote:
-- "Organizations responsible for managing an airport"
-usedFor:
-- "[[Airport administrations]]"
+  - Organizations responsible for managing an airport
+aliases:
+  - Airport administration
+  - Airport authorities
+id: 425
+relatedTerm:
+  - "[[Airports]]"
 ---
+# Airport authorities

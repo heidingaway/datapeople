@@ -1,8 +1,8 @@
 ---
 title: Seismology Geology
-longTitle: 'Seismology, Geology'
+aliases: Seismology, Geology
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Earthquakes]]"
+  - "[[Earthquakes]]"
 ---

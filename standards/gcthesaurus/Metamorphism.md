@@ -1,10 +1,10 @@
 ---
 title: Metamorphism
-longTitle: 'Metamorphism'
+aliases: Metamorphism
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Metamorphisme]]"
+  - "[[Metamorphisme]]"
 relatedTerm:
-- "[[Metamorphic rocks]]"
+  - "[[Metamorphic rocks]]"
 ---

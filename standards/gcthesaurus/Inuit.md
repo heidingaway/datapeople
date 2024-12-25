@@ -1,17 +1,12 @@
 ---
 title: Inuit
-longTitle: 'Inuit'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Inuit]]"
+  - "[[Inuit]]"
 narrowerTerm:
-- "[[Inuvialuit]]"
+  - "[[Inuvialuit]]"
 scopeNote:
-- "Indigenous peoples living in the Canadian Arctic"
-usedFor:
-- "[[Eskimos]]"
-- "[[Inuit people]]"
-- "[[Inuit population]]"
-- "[[Inuk]]"
+  - Indigenous peoples living in the Canadian Arctic
+aliases: Inuit
 ---

@@ -1,10 +1,10 @@
 ---
 title: Premiums
-longTitle: 'Premiums'
+aliases: Premiums
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Prime]]"
+  - "[[Prime]]"
 scopeNote:
-- "The amount of money which a policyholder agrees to"
+  - The amount of money which a policyholder agrees to
 ---

@@ -1,8 +1,8 @@
 ---
 title: Supplies Businesses
-longTitle: 'Supplies, Businesses'
+aliases: Supplies, Businesses
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Suppliers]]"
+  - "[[Suppliers]]"
 ---

@@ -3,11 +3,9 @@ title: Encyclopaedias
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Encyclopaedias'
+  - gccommon
 french:
-- "[[Encyclopedie]]"
-usedFor:
-- "[[Encyclopedias]]"
+  - "[[Encyclopedie]]"
+aliases: Encyclopaedias
 ---
 # Encyclopaedias

@@ -1,10 +1,10 @@
 ---
 title: Web usability
-longTitle: 'Web usability'
+aliases: Web usability
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Websites]]"
+  - "[[Websites]]"
 french:
-- "[[Facilite demploi du Web]]"
+  - "[[Facilite demploi du Web]]"
 ---

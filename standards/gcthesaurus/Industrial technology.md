@@ -1,11 +1,8 @@
 ---
 title: Industrial technology
-longTitle: 'Industrial technology'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Technologie industrielle]]"
-usedFor:
-- "[[Industrial equipment]]"
-- "[[Manufacturing technology]]"
+  - "[[Technologie industrielle]]"
+aliases: Industrial technology
 ---

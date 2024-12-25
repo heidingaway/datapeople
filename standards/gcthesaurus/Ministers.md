@@ -1,10 +1,10 @@
 ---
 title: Ministers
-longTitle: 'Ministers'
+aliases: Ministers
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ministre]]"
+  - "[[Ministre]]"
 scopeNote:
-- "Senior politicians in a government department or m"
+  - Senior politicians in a government department or m
 ---

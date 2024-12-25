@@ -1,10 +1,10 @@
 ---
 title: Supplies
-longTitle: 'Supplies'
+aliases: Supplies
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Approvisionnements]]"
+  - "[[Approvisionnements]]"
 narrowerTerm:
-- "[[Office supplies]]"
+  - "[[Office supplies]]"
 ---

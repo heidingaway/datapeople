@@ -3,13 +3,13 @@ title: Tolls
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Tolls'
+  - gccommon
+aliases: Tolls
 french:
-- "[[Peage]]"
+  - "[[Peage]]"
 relatedTerm:
-- "[[Taxes]]"
-- "[[Road networks]]"
-- "[[Ferries]]"
+  - "[[Taxes]]"
+  - "[[Road networks]]"
+  - "[[Ferries]]"
 ---
 # Tolls

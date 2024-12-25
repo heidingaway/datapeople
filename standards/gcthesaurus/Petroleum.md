@@ -1,13 +1,10 @@
 ---
 title: Petroleum
-longTitle: 'Petroleum'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Petrole]]"
+  - "[[Petrole]]"
 relatedTerm:
-- "[[Oil spills]]"
-usedFor:
-- "[[Crude oil]]"
-- "[[Crude petroleum]]"
+  - "[[Oil spills]]"
+aliases: Petroleum
 ---

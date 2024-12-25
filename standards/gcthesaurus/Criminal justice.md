@@ -1,13 +1,10 @@
 ---
 title: Criminal justice
-longTitle: 'Criminal justice'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Justice penale]]"
+  - "[[Justice penale]]"
 scopeNote:
-- "The courts procedures and systems that address cri"
-usedFor:
-- "[[Criminal procedure]]"
-- "[[Prosecution]]"
+  - The courts procedures and systems that address cri
+aliases: Criminal justice
 ---

@@ -1,8 +1,8 @@
 ---
 title: Medical law
-longTitle: 'Medical law'
+aliases: Medical law
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Droit medical]]"
+  - "[[Droit medical]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Nutrition Health Fitness
-longTitle: 'Nutrition, Health, Fitness'
+aliases: Nutrition, Health, Fitness
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Health indicators]]"
+  - "[[Health indicators]]"
 ---

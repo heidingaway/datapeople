@@ -1,10 +1,8 @@
 ---
 title: Military personnel
-longTitle: 'Military personnel'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Personnel militaire]]"
-usedFor:
-- "[[Soldiers]]"
+  - "[[Personnel militaire]]"
+aliases: Military personnel
 ---

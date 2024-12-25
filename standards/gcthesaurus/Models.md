@@ -1,8 +1,8 @@
 ---
 title: Models
-longTitle: 'Models'
+aliases: Models
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Modele]]"
+  - "[[Modele]]"
 ---

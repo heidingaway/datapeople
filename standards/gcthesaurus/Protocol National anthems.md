@@ -1,8 +1,8 @@
 ---
 title: Protocol National anthems
-longTitle: 'Protocol, National anthems'
+aliases: Protocol, National anthems
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[State ceremonial]]"
+  - "[[State ceremonial]]"
 ---

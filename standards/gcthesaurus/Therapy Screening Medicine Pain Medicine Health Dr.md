@@ -1,8 +1,8 @@
 ---
 title: Therapy Screening Medicine Pain Medicine Health Dr
-longTitle: 'Therapy, Screening (Medicine), Pain, Medicine, Health, Drugs'
+aliases: Therapy, Screening (Medicine), Pain, Medicine, Health, Drugs
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Diseases]]"
+  - "[[Diseases]]"
 ---

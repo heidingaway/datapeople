@@ -1,8 +1,8 @@
 ---
 title: Women workers
-longTitle: 'Women workers'
+aliases: Women workers
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Travailleuse]]"
+  - "[[Travailleuse]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Stock markets Investments
-longTitle: 'Stock markets, Investments'
+aliases: Stock markets, Investments
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Initial public offering]]"
+  - "[[Initial public offering]]"
 ---

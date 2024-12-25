@@ -3,16 +3,14 @@ title: Biomass
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Biomass'
+  - gccommon
 french:
-- "[[Biomasse]]"
+  - "[[Biomasse]]"
 relatedTerm:
-- "[[Bioenergy]]"
-- "[[Ecosystems]]"
+  - "[[Bioenergy]]"
+  - "[[Ecosystems]]"
 scopeNote:
-- "The total mass of living matter in a given unit ar"
-usedFor:
-- "[[Forest biomass]]"
+  - The total mass of living matter in a given unit ar
+aliases: Biomass
 ---
 # Biomass

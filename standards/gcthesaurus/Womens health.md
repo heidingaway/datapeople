@@ -1,8 +1,8 @@
 ---
 title: Womens health
-longTitle: "Women's health"
+aliases: Women's health
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Sante de la femme]]"
+  - "[[Sante de la femme]]"
 ---

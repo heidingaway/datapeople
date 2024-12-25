@@ -1,8 +1,8 @@
 ---
 title: Part-time students
-longTitle: 'Part-time students'
+aliases: Part-time students
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Etudiant a temps partiel]]"
+  - "[[Etudiant a temps partiel]]"
 ---

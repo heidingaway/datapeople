@@ -1,8 +1,8 @@
 ---
 title: Territories Natural heritage
-longTitle: 'Territories, Natural heritage'
+aliases: Territories, Natural heritage
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Territorial parks]]"
+  - "[[Territorial parks]]"
 ---

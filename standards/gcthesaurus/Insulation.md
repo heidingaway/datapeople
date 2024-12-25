@@ -1,10 +1,8 @@
 ---
 title: Insulation
-longTitle: 'Insulation'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Isolation thermique]]"
-usedFor:
-- "[[Thermal insulation]]"
+  - "[[Isolation thermique]]"
+aliases: Insulation
 ---

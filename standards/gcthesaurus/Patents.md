@@ -1,8 +1,8 @@
 ---
 title: Patents
-longTitle: 'Patents'
+aliases: Patents
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Brevet]]"
+  - "[[Brevet]]"
 ---

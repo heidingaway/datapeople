@@ -3,11 +3,11 @@ title: Primates
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Primates'
+  - gccommon
+aliases: Primates
 french:
-- "[[Primate]]"
+  - "[[Primate]]"
 narrowerTerm:
-- "[[Human beings]]"
+  - "[[Human beings]]"
 ---
 # Primates

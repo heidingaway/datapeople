@@ -1,8 +1,8 @@
 ---
 title: Full-time employment
-longTitle: 'Full-time employment'
+aliases: Full-time employment
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Emploi a temps plein]]"
+  - "[[Emploi a temps plein]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Retirement
-longTitle: 'Retirement'
+aliases: Retirement
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Retraite]]"
+  - "[[Retraite]]"
 ---

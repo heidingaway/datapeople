@@ -1,8 +1,8 @@
 ---
 title: Prototyping Product development Implementation Dev
-longTitle: 'Prototyping, Product development, Implementation, Development'
+aliases: Prototyping, Product development, Implementation, Development
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Design]]"
+  - "[[Design]]"
 ---

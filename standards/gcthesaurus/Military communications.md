@@ -1,8 +1,8 @@
 ---
 title: Military communications
-longTitle: 'Military communications'
+aliases: Military communications
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Communications militaires]]"
+  - "[[Communications militaires]]"
 ---

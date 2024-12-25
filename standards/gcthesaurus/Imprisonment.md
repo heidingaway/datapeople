@@ -1,8 +1,8 @@
 ---
 title: Imprisonment
-longTitle: 'Imprisonment'
+aliases: Imprisonment
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Emprisonnement]]"
+  - "[[Emprisonnement]]"
 ---

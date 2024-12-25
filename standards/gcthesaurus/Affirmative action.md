@@ -1,19 +1,19 @@
 ---
 title: Affirmative action
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Affirmative action'
+  - gccommon
 french:
-- "[[Action positive]]"
-usedFor:
-- "[[Positive discrimination]]"
-- "[[Reverse discrimination]]"
+  - Action positive
+aliases:
+  - Affirmative action
+  - Positive Discrimination
+  - Reverse Discrimination
 relatedTerm:
-- "[[Status of women]]"
-- "[[Equal opportunities]]"
-- "[[Employment equity]]"
-- "[[Discrimination]]"
+  - "[[Discrimination]]"
+  - "[[Employment equity]]"
+  - "[[Equal opportunities]]"
+  - "[[Status of women]]"
 ---
 # Affirmative action

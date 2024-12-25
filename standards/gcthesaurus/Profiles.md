@@ -1,8 +1,8 @@
 ---
 title: Profiles
-longTitle: 'Profiles'
+aliases: Profiles
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Profil]]"
+  - "[[Profil]]"
 ---

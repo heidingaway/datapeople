@@ -1,8 +1,8 @@
 ---
 title: Government On-Line Electronic government
-longTitle: 'Government On-Line, Electronic government'
+aliases: Government On-Line, Electronic government
 tags:
-- gccommon
+  - gccommon
 historyNote:
-- "Electronic government replaces Government On-Line "
+  - "Electronic government replaces Government On-Line "
 ---

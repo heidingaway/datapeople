@@ -1,8 +1,8 @@
 ---
 title: Urban development
-longTitle: 'Urban development'
+aliases: Urban development
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Developpement urbain]]"
+  - "[[Developpement urbain]]"
 ---

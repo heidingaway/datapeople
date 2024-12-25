@@ -1,11 +1,12 @@
 ---
 title: Agricultural economics
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Agricultural economics'
+  - gccommon
+aliases:
+  - Agricultural economics
 french:
-- "[[Economie agricole]]"
+  - Economie agricole
 ---
 # Agricultural economics

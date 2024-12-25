@@ -1,13 +1,10 @@
 ---
 title: Research grants
-longTitle: 'Research grants'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Grants]]"
+  - "[[Grants]]"
 french:
-- "[[Subvention de recherche]]"
-usedFor:
-- "[[Fellowships]]"
-- "[[Research funding]]"
+  - "[[Subvention de recherche]]"
+aliases: Research grants
 ---

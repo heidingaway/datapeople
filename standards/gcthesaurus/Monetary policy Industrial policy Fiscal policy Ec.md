@@ -1,8 +1,8 @@
 ---
 title: Monetary policy Industrial policy Fiscal policy Ec
-longTitle: 'Monetary policy, Industrial policy, Fiscal policy, Economic development'
+aliases: Monetary policy, Industrial policy, Fiscal policy, Economic development
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Economic policy]]"
+  - "[[Economic policy]]"
 ---

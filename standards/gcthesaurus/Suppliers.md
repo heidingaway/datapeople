@@ -1,8 +1,8 @@
 ---
 title: Suppliers
-longTitle: 'Suppliers'
+aliases: Suppliers
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Fournisseur]]"
+  - "[[Fournisseur]]"
 ---

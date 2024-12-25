@@ -1,8 +1,8 @@
 ---
 title: Museum collections
-longTitle: 'Museum collections'
+aliases: Museum collections
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Collection museale]]"
+  - "[[Collection museale]]"
 ---

@@ -1,11 +1,15 @@
 ---
 title: Abortion
-longTitle: 'Abortion'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Avortement]]"
-usedFor:
-- "[[Pregnancy termination]]"
-- "[[Therapeutic abortion]]"
+  - Avortement
+aliases:
+  - Abortion
+relatedTerm:
+  - "[[Bioethics]]"
+  - "[[Pregnancy]]"
 ---
+# Abortion

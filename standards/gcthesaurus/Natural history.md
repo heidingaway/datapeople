@@ -1,8 +1,8 @@
 ---
 title: Natural history
-longTitle: 'Natural history'
+aliases: Natural history
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Histoire naturelle]]"
+  - "[[Histoire naturelle]]"
 ---

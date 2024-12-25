@@ -1,11 +1,8 @@
 ---
 title: Pricing
-longTitle: 'Pricing'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Etablissement des prix]]"
-usedFor:
-- "[[Price determination]]"
-- "[[Price fixing]]"
+  - "[[Etablissement des prix]]"
+aliases: Pricing
 ---

@@ -1,8 +1,8 @@
 ---
 title: Analytics
-longTitle: 'Analytics'
+aliases: Analytics
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Analytique]]"
+  - "[[Analytique]]"
 ---

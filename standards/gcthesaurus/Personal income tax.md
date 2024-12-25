@@ -3,11 +3,9 @@ title: Personal income tax
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Personal income tax'
+  - gccommon
 french:
-- "[[Impot sur le revenu des particuliers]]"
-usedFor:
-- "[[Individual income tax]]"
+  - "[[Impot sur le revenu des particuliers]]"
+aliases: Personal income tax
 ---
 # Personal income tax

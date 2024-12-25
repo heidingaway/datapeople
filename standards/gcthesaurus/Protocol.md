@@ -3,12 +3,12 @@ title: Protocol
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Protocol'
+  - gccommon
+aliases: Protocol
 french:
-- "[[Protocole]]"
+  - "[[Protocole]]"
 relatedTerm:
-- "[[Visits of state]]"
-- "[[State ceremonial]]"
+  - "[[Visits of state]]"
+  - "[[State ceremonial]]"
 ---
 # Protocol

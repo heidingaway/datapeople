@@ -1,8 +1,8 @@
 ---
 title: Sovereignty
-longTitle: 'Sovereignty'
+aliases: Sovereignty
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Souverainete]]"
+  - "[[Souverainete]]"
 ---

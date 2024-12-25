@@ -1,8 +1,8 @@
 ---
 title: Quality of service
-longTitle: 'Quality of service'
+aliases: Quality of service
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Qualite de service]]"
+  - "[[Qualite de service]]"
 ---

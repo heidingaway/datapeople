@@ -1,15 +1,13 @@
 ---
 title: Cattle
-longTitle: 'Cattle'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Bovins]]"
+  - "[[Bovins]]"
 narrowerTerm:
-- "[[Beef cattle]]"
-- "[[Dairy cattle]]"
+  - "[[Beef cattle]]"
+  - "[[Dairy cattle]]"
 scopeNote:
-- "A group of domesticated bovine animals regardless "
-usedFor:
-- "[[Cows]]"
+  - "A group of domesticated bovine animals regardless "
+aliases: Cattle
 ---

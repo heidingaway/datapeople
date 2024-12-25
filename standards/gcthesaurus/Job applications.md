@@ -1,16 +1,15 @@
 ---
 title: Job applications
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Job applications'
+  - gccommon
 french:
-- "[[Demande demploi]]"
-usedFor:
-- "[[Application for employment]]"
+  - Demande demploi
+aliases:
+  - Application for employment
 relatedTerm:
-- "[[Job search]]"
-- "[[Applicants]]"
+  - "[[Applicants]]"
+  - "[[Job search]]"
 ---
 # Job applications

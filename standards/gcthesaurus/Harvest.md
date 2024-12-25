@@ -3,12 +3,12 @@ title: Harvest
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Harvest'
+  - gccommon
+aliases: Harvest
 french:
-- "[[Recolte]]"
+  - "[[Recolte]]"
 relatedTerm:
-- "[[Crops]]"
-- "[[Crop insurance]]"
+  - "[[Crops]]"
+  - "[[Crop insurance]]"
 ---
 # Harvest

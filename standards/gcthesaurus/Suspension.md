@@ -3,11 +3,11 @@ title: Suspension
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Suspension'
+  - gccommon
+aliases: Suspension
 french:
-- "[[Suspension]]"
+  - "[[Suspension]]"
 relatedTerm:
-- "[[Dismissal]]"
+  - "[[Dismissal]]"
 ---
 # Suspension

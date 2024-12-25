@@ -3,13 +3,13 @@ title: Disadvantaged persons
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Disadvantaged persons'
+  - gccommon
+aliases: Disadvantaged persons
 french:
-- "[[Personne defavorisee]]"
+  - "[[Personne defavorisee]]"
 relatedTerm:
-- "[[Social conditions]]"
-- "[[Poverty]]"
-- "[[Homelessness]]"
+  - "[[Social conditions]]"
+  - "[[Poverty]]"
+  - "[[Homelessness]]"
 ---
 # Disadvantaged persons

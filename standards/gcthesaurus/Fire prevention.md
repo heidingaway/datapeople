@@ -3,15 +3,13 @@ title: Fire prevention
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Fire prevention'
+  - gccommon
 french:
-- "[[Prevention des incendies]]"
+  - "[[Prevention des incendies]]"
 relatedTerm:
-- "[[Fire]]"
-- "[[Safety measures]]"
-- "[[Safety]]"
-usedFor:
-- "[[Fire safety]]"
+  - "[[Fire]]"
+  - "[[Safety measures]]"
+  - "[[Safety]]"
+aliases: Fire prevention
 ---
 # Fire prevention

@@ -3,13 +3,11 @@ title: Household income
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Household income'
+  - gccommon
 french:
-- "[[Revenu familial]]"
+  - "[[Revenu familial]]"
 relatedTerm:
-- "[[Household finance]]"
-usedFor:
-- "[[Family income]]"
+  - "[[Household finance]]"
+aliases: Household income
 ---
 # Household income

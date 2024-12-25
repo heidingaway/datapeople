@@ -3,11 +3,11 @@ title: Military aircraft
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Military aircraft'
+  - gccommon
+aliases: Military aircraft
 french:
-- "[[Aeronef militaire]]"
+  - "[[Aeronef militaire]]"
 relatedTerm:
-- "[[Military aviation]]"
+  - "[[Military aviation]]"
 ---
 # Military aircraft

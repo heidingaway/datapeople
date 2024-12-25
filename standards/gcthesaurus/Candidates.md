@@ -1,8 +1,8 @@
 ---
 title: Candidates
-longTitle: 'Candidates'
+aliases: Candidates
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Candidat]]"
+  - "[[Candidat]]"
 ---

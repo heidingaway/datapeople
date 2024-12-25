@@ -1,10 +1,10 @@
 ---
 title: Internal audits
-longTitle: 'Internal audits'
+aliases: Internal audits
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Audit interne]]"
+  - "[[Audit interne]]"
 relatedTerm:
-- "[[Risk management]]"
+  - "[[Risk management]]"
 ---

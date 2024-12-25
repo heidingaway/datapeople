@@ -3,12 +3,9 @@ title: Landslides
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Landslides'
+  - gccommon
 french:
-- "[[Glissement de terrain]]"
-usedFor:
-- "[[Land slips]]"
-- "[[Landslips]]"
+  - "[[Glissement de terrain]]"
+aliases: Landslides
 ---
 # Landslides

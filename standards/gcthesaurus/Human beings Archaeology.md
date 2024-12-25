@@ -1,8 +1,8 @@
 ---
 title: Human beings Archaeology
-longTitle: 'Human beings, Archaeology'
+aliases: Human beings, Archaeology
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Anthropology]]"
+  - "[[Anthropology]]"
 ---

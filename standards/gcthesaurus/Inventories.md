@@ -3,13 +3,13 @@ title: Inventories
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Inventories'
+  - gccommon
+aliases: Inventories
 french:
-- "[[Inventaire]]"
+  - "[[Inventaire]]"
 relatedTerm:
-- "[[Storage]]"
-- "[[Material management]]"
-- "[[Catalogues]]"
+  - "[[Storage]]"
+  - "[[Material management]]"
+  - "[[Catalogues]]"
 ---
 # Inventories

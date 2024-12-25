@@ -1,8 +1,8 @@
 ---
 title: Travel Tourism facilities Recreation International
-longTitle: 'Travel, Tourism facilities, Recreation, International travel, Hospitality industry, Entry to Canada, Cruise ships'
+aliases: Travel, Tourism facilities, Recreation, International travel, Hospitality industry, Entry to Canada, Cruise ships
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Tourism]]"
+  - "[[Tourism]]"
 ---

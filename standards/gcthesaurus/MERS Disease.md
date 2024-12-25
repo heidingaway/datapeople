@@ -1,8 +1,8 @@
 ---
 title: MERS Disease
-longTitle: 'MERS (Disease)'
+aliases: MERS (Disease)
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[MERS-CoV virus]]"
+  - "[[MERS-CoV virus]]"
 ---

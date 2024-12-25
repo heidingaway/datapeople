@@ -1,8 +1,8 @@
 ---
 title: Meteorological data
-longTitle: 'Meteorological data'
+aliases: Meteorological data
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Donnees meteorologiques]]"
+  - "[[Donnees meteorologiques]]"
 ---

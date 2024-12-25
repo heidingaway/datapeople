@@ -1,10 +1,10 @@
 ---
 title: Revision
-longTitle: 'Revision'
+aliases: Revision
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Revision]]"
+  - "[[Revision]]"
 scopeNote:
-- "A critical discussion and evaluation of recent or "
+  - "A critical discussion and evaluation of recent or "
 ---

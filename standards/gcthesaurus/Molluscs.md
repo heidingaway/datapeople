@@ -3,23 +3,15 @@ title: Molluscs
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Molluscs'
+  - gccommon
 french:
-- "[[Mollusque]]"
+  - "[[Mollusque]]"
 scopeNote:
-- "Animals mostly aquatic with a soft body usually en"
-usedFor:
-- "[[Clams]]"
-- "[[Mollusca]]"
-- "[[Mollusks]]"
-- "[[Mussels]]"
-- "[[Oysters]]"
-- "[[Slugs]]"
-- "[[Snails]]"
+  - Animals mostly aquatic with a soft body usually en
+aliases: Molluscs
 relatedTerm:
-- "[[Seafood]]"
-- "[[Fisheries resources]]"
-- "[[Aquatic animals]]"
+  - "[[Seafood]]"
+  - "[[Fisheries resources]]"
+  - "[[Aquatic animals]]"
 ---
 # Molluscs

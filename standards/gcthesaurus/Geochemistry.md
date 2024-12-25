@@ -1,10 +1,10 @@
 ---
 title: Geochemistry
-longTitle: 'Geochemistry'
+aliases: Geochemistry
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Geochimie]]"
+  - "[[Geochimie]]"
 scopeNote:
-- "The study of the chemical composition of the earth"
+  - The study of the chemical composition of the earth
 ---

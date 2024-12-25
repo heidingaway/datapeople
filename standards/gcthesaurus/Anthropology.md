@@ -1,13 +1,10 @@
 ---
 title: Anthropology
-longTitle: 'Anthropology'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Anthropologie]]"
+  - "[[Anthropologie]]"
 narrowerTerm:
-- "[[Ethnology]]"
-usedFor:
-- "[[Biological anthropology]]"
-- "[[Physical anthropology]]"
+  - "[[Ethnology]]"
+aliases: Anthropology
 ---

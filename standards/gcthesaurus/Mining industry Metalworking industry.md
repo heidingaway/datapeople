@@ -1,8 +1,8 @@
 ---
 title: Mining industry Metalworking industry
-longTitle: 'Mining industry, Metalworking industry'
+aliases: Mining industry, Metalworking industry
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Metals]]"
+  - "[[Metals]]"
 ---

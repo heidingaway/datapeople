@@ -1,10 +1,8 @@
 ---
 title: Defence industry
-longTitle: 'Defence industry'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie de la defense]]"
-usedFor:
-- "[[Defense industry]]"
+  - "[[Industrie de la defense]]"
+aliases: Defence industry
 ---

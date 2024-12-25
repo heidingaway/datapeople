@@ -1,8 +1,8 @@
 ---
 title: Probate Estates
-longTitle: 'Probate, Estates'
+aliases: Probate, Estates
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Inheritance]]"
+  - "[[Inheritance]]"
 ---

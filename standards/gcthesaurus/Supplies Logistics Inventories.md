@@ -1,8 +1,8 @@
 ---
 title: Supplies Logistics Inventories
-longTitle: 'Supplies, Logistics, Inventories'
+aliases: Supplies, Logistics, Inventories
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Material management]]"
+  - "[[Material management]]"
 ---

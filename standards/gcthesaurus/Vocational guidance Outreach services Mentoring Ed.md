@@ -1,8 +1,8 @@
 ---
 title: Vocational guidance Outreach services Mentoring Ed
-longTitle: 'Vocational guidance, Outreach services, Mentoring, Educational guidance'
+aliases: Vocational guidance, Outreach services, Mentoring, Educational guidance
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Counselling services]]"
+  - "[[Counselling services]]"
 ---

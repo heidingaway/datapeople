@@ -1,9 +1,9 @@
 ---
 title: Public finance National debt
-longTitle: 'Public finance, National debt'
+aliases: Public finance, National debt
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Debt management]]"
-- "[[Debt redemption]]"
+  - "[[Debt management]]"
+  - "[[Debt redemption]]"
 ---

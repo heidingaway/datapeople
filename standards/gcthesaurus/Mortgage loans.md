@@ -1,15 +1,13 @@
 ---
 title: Mortgage loans
-longTitle: 'Mortgage loans'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Consumer loans]]"
+  - "[[Consumer loans]]"
 french:
-- "[[Pret hypothecaire]]"
+  - "[[Pret hypothecaire]]"
 relatedTerm:
-- "[[Mortgage assistance]]"
-- "[[Mortgage insurance]]"
-usedFor:
-- "[[Mortgage rates]]"
+  - "[[Mortgage assistance]]"
+  - "[[Mortgage insurance]]"
+aliases: Mortgage loans
 ---

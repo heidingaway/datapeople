@@ -1,10 +1,10 @@
 ---
 title: Teleconferencing
-longTitle: 'Teleconferencing'
+aliases: Teleconferencing
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Meetings]]"
+  - "[[Meetings]]"
 french:
-- "[[Teleconference]]"
+  - "[[Teleconference]]"
 ---

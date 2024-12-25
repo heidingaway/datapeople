@@ -1,8 +1,8 @@
 ---
 title: Statistics Mathematics Data mining Computer scienc
-longTitle: 'Statistics, Mathematics, Data mining, Computer science, Computer programming'
+aliases: Statistics, Mathematics, Data mining, Computer science, Computer programming
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Analytics]]"
+  - "[[Analytics]]"
 ---

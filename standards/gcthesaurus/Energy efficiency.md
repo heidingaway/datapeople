@@ -3,19 +3,15 @@ title: Energy efficiency
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Energy efficiency'
+  - gccommon
 french:
-- "[[Rendement energetique]]"
-usedFor:
-- "[[Energy performance]]"
-- "[[Energy yield]]"
-- "[[Power efficiency]]"
+  - "[[Rendement energetique]]"
+aliases: Energy efficiency
 relatedTerm:
-- "[[Energy use]]"
-- "[[Energy technology]]"
-- "[[Energy management]]"
-- "[[Energy conservation]]"
-- "[[Energy]]"
+  - "[[Energy use]]"
+  - "[[Energy technology]]"
+  - "[[Energy management]]"
+  - "[[Energy conservation]]"
+  - "[[Energy]]"
 ---
 # Energy efficiency

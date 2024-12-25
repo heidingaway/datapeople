@@ -1,8 +1,8 @@
 ---
 title: Authentication
-longTitle: 'Authentication'
+aliases: Authentication
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Authentification]]"
+  - "[[Authentification]]"
 ---

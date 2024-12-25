@@ -1,8 +1,8 @@
 ---
 title: Telecommunications networks
-longTitle: 'Telecommunications networks'
+aliases: Telecommunications networks
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Reseau de telecommunications]]"
+  - "[[Reseau de telecommunications]]"
 ---

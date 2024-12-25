@@ -1,8 +1,8 @@
 ---
 title: Folk art
-longTitle: 'Folk art'
+aliases: Folk art
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Art populaire]]"
+  - "[[Art populaire]]"
 ---

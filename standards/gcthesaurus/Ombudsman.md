@@ -1,10 +1,10 @@
 ---
 title: Ombudsman
-longTitle: 'Ombudsman'
+aliases: Ombudsman
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Protecteur du citoyen]]"
+  - "[[Protecteur du citoyen]]"
 scopeNote:
-- "A public official appointed to investigate complai"
+  - A public official appointed to investigate complai
 ---

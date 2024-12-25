@@ -1,10 +1,10 @@
 ---
 title: Monographic series
-longTitle: 'Monographic series'
+aliases: Monographic series
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Collection de monographies]]"
+  - "[[Collection de monographies]]"
 scopeNote:
-- "Series of monographs with a collective title that "
+  - "Series of monographs with a collective title that "
 ---

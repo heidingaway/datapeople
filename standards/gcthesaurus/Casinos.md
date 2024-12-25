@@ -1,8 +1,8 @@
 ---
 title: Casinos
-longTitle: 'Casinos'
+aliases: Casinos
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Casino]]"
+  - "[[Casino]]"
 ---

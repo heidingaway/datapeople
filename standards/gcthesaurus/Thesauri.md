@@ -1,10 +1,10 @@
 ---
 title: Thesauri
-longTitle: 'Thesauri'
+aliases: Thesauri
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Thesaurus]]"
+  - "[[Thesaurus]]"
 scopeNote:
-- "Controlled vocabularies in which hierarchical and "
+  - "Controlled vocabularies in which hierarchical and "
 ---

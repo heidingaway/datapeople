@@ -1,12 +1,10 @@
 ---
 title: Young offenders
-longTitle: 'Young offenders'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Jeune contrevenant]]"
+  - "[[Jeune contrevenant]]"
 relatedTerm:
-- "[[Juvenile court]]"
-usedFor:
-- "[[Juvenile offenders]]"
+  - "[[Juvenile court]]"
+aliases: Young offenders
 ---

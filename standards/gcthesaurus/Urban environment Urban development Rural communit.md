@@ -1,8 +1,8 @@
 ---
 title: Urban environment Urban development Rural communit
-longTitle: 'Urban environment, Urban development, Rural communities'
+aliases: Urban environment, Urban development, Rural communities
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Urban communities]]"
+  - "[[Urban communities]]"
 ---

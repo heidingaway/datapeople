@@ -1,12 +1,10 @@
 ---
 title: Alternative medicine
-longTitle: 'Alternative medicine'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Medecine douce]]"
+  - Medecine douce
 narrowerTerm:
-- "[[Homeopathy]]"
-usedFor:
-- "[[Soft medicine]]"
+  - "[[Homeopathy]]"
+aliases: Alternative medicine
 ---

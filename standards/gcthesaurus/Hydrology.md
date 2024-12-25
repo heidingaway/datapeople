@@ -3,16 +3,16 @@ title: Hydrology
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Hydrology'
+  - gccommon
+aliases: Hydrology
 french:
-- "[[Hydrologie]]"
+  - "[[Hydrologie]]"
 narrowerTerm:
-- "[[Hydrography]]"
+  - "[[Hydrography]]"
 relatedTerm:
-- "[[Watersheds]]"
-- "[[Water]]"
+  - "[[Watersheds]]"
+  - "[[Water]]"
 scopeNote:
-- "The science that studies the properties circulatio"
+  - The science that studies the properties circulatio
 ---
 # Hydrology

@@ -1,15 +1,12 @@
 ---
 title: Permits
-longTitle: 'Permits'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Permis]]"
+  - "[[Permis]]"
 narrowerTerm:
-- "[[Fishing permits]]"
-- "[[Hunting permits]]"
-- "[[Work permits]]"
-usedFor:
-- "[[Licences]]"
-- "[[Licenses]]"
+  - "[[Fishing permits]]"
+  - "[[Hunting permits]]"
+  - "[[Work permits]]"
+aliases: Permits
 ---

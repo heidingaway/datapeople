@@ -1,10 +1,8 @@
 ---
 title: Electronic waste
-longTitle: 'Electronic waste'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Dechets electroniques]]"
-usedFor:
-- "[[E-waste]]"
+  - "[[Dechets electroniques]]"
+aliases: Electronic waste
 ---

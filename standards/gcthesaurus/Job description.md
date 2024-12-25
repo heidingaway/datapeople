@@ -1,10 +1,8 @@
 ---
 title: Job description
-longTitle: 'Job description'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Description de poste]]"
-usedFor:
-- "[[Position description]]"
+  - "[[Description de poste]]"
+aliases: Job description
 ---

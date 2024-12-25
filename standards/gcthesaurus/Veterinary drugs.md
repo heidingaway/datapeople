@@ -1,12 +1,8 @@
 ---
 title: Veterinary drugs
-longTitle: 'Veterinary drugs'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Medicament veterinaire]]"
-usedFor:
-- "[[Animal drugs]]"
-- "[[Veterinary medications]]"
-- "[[Veterinary pharmaceuticals]]"
+  - "[[Medicament veterinaire]]"
+aliases: Veterinary drugs
 ---

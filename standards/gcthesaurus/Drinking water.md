@@ -1,10 +1,8 @@
 ---
 title: Drinking water
-longTitle: 'Drinking water'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Eau potable]]"
-usedFor:
-- "[[Potable water]]"
+  - "[[Eau potable]]"
+aliases: Drinking water
 ---

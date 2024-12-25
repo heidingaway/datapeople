@@ -1,8 +1,8 @@
 ---
 title: Treasury board Management
-longTitle: 'Treasury board, Management'
+aliases: Treasury board, Management
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Board of directors]]"
+  - "[[Board of directors]]"
 ---

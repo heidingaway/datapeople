@@ -1,8 +1,8 @@
 ---
 title: Destroyers
-longTitle: 'Destroyers'
+aliases: Destroyers
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Destroyer]]"
+  - "[[Destroyer]]"
 ---

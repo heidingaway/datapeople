@@ -1,10 +1,10 @@
 ---
 title: Time zones
-longTitle: 'Time zones'
+aliases: Time zones
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Fuseau horaire]]"
+  - "[[Fuseau horaire]]"
 relatedTerm:
-- "[[Daylight saving time]]"
+  - "[[Daylight saving time]]"
 ---

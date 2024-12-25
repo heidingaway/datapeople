@@ -1,8 +1,8 @@
 ---
 title: Political science
-longTitle: 'Political science'
+aliases: Political science
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Science politique]]"
+  - "[[Science politique]]"
 ---

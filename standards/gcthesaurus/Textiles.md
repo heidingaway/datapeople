@@ -1,17 +1,21 @@
 ---
 title: Textiles
-longTitle: 'Textiles'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Textile]]"
+  - Textile
 relatedTerm:
-- "[[Quilting]]"
-- "[[Sewing]]"
-- "[[Weaving]]"
-usedFor:
-- "[[Cloth]]"
-- "[[Fabrics]]"
-- "[[Textile fabrics]]"
-- "[[Textile products]]"
+  - "[[Clothing]]"
+  - "[[Quilting]]"
+  - "[[Sewing]]"
+  - "[[Textile industry]]"
+  - "[[Weaving]]"
+aliases:
+  - Cloth
+  - Fabrics
+  - Textile fabrics
+  - Textile products
 ---
+# Textiles

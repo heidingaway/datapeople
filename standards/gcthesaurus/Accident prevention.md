@@ -1,15 +1,16 @@
 ---
 title: Accident prevention
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Accident prevention'
+  - gccommon
+aliases:
+  - Accident prevention
 french:
-- "[[Prevention des accidents]]"
+  - Prevention des accidents
 relatedTerm:
-- "[[Safety measures]]"
-- "[[Safety]]"
-- "[[Accidents]]"
+  - "[[Accidents]]"
+  - "[[Safety measures]]"
+  - "[[Safety]]"
 ---
 # Accident prevention

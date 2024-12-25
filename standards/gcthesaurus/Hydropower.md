@@ -3,20 +3,14 @@ title: Hydropower
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Hydropower'
+  - gccommon
 broaderTerm:
-- "[[Electricity]]"
+  - "[[Electricity]]"
 french:
-- "[[Hydroelectricite]]"
-usedFor:
-- "[[Hydro power]]"
-- "[[Hydro-electricity]]"
-- "[[Hydroelectric energy]]"
-- "[[Hydroelectric power]]"
-- "[[Hydroelectricity]]"
+  - "[[Hydroelectricite]]"
+aliases: Hydropower
 relatedTerm:
-- "[[Renewable energy]]"
-- "[[Hydroelectric plants]]"
+  - "[[Renewable energy]]"
+  - "[[Hydroelectric plants]]"
 ---
 # Hydropower

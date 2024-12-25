@@ -1,11 +1,12 @@
 ---
 title: Agricultural workers
-longTitle: 'Agricultural workers'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Travailleur agricole]]"
-usedFor:
-- "[[Farm workers]]"
-- "[[Farmers]]"
+  - Travailleur agricole
+aliases:
+  - Agricultural workers
 ---
+# Agricultural workers

@@ -1,10 +1,10 @@
 ---
 title: Metis
-longTitle: 'Métis'
+aliases: Métis
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Metis]]"
+  - "[[Metis]]"
 scopeNote:
-- "Describes people with mixed First Nations and Euro"
+  - Describes people with mixed First Nations and Euro
 ---

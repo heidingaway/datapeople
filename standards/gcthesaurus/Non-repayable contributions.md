@@ -1,8 +1,8 @@
 ---
 title: Non-repayable contributions
-longTitle: 'Non-repayable contributions'
+aliases: Non-repayable contributions
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Contribution non remboursable]]"
+  - "[[Contribution non remboursable]]"
 ---

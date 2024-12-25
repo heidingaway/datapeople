@@ -3,24 +3,20 @@ title: Animal husbandry
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Animal husbandry'
+  - gccommon
 french:
-- "[[Elevage]]"
+  - "[[Elevage]]"
 narrowerTerm:
-- "[[Beekeeping]]"
-- "[[Fish farming]]"
-usedFor:
-- "[[Animal culture]]"
-- "[[Livestock farming]]"
-- "[[Zootechnics]]"
+  - "[[Beekeeping]]"
+  - "[[Fish farming]]"
+aliases: Animal husbandry
 relatedTerm:
-- "[[Slaughtering]]"
-- "[[Livestock]]"
-- "[[Grasslands]]"
-- "[[Furs]]"
-- "[[Animals]]"
-- "[[Animal reproduction]]"
-- "[[Agriculture]]"
+  - "[[Slaughtering]]"
+  - "[[Livestock]]"
+  - "[[Grasslands]]"
+  - "[[Furs]]"
+  - "[[Animals]]"
+  - "[[Animal reproduction]]"
+  - "[[Agriculture]]"
 ---
 # Animal husbandry

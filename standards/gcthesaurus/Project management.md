@@ -1,8 +1,8 @@
 ---
 title: Project management
-longTitle: 'Project management'
+aliases: Project management
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gestion de projet]]"
+  - "[[Gestion de projet]]"
 ---

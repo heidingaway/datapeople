@@ -3,16 +3,14 @@ title: Palaeontology
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Palaeontology'
+  - gccommon
 french:
-- "[[Paleontologie]]"
+  - "[[Paleontologie]]"
 narrowerTerm:
-- "[[Paleobotany]]"
+  - "[[Paleobotany]]"
 relatedTerm:
-- "[[Fossils]]"
-- "[[Biology]]"
-usedFor:
-- "[[Paleontology]]"
+  - "[[Fossils]]"
+  - "[[Biology]]"
+aliases: Palaeontology
 ---
 # Palaeontology

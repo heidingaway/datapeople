@@ -1,8 +1,8 @@
 ---
 title: Hepatitis
-longTitle: 'Hepatitis'
+aliases: Hepatitis
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Hepatite]]"
+  - "[[Hepatite]]"
 ---

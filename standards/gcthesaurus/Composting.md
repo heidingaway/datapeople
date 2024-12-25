@@ -3,12 +3,12 @@ title: Composting
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Composting'
+  - gccommon
+aliases: Composting
 french:
-- "[[Compostage]]"
+  - "[[Compostage]]"
 relatedTerm:
-- "[[Fertilizers]]"
-- "[[Biodegradation]]"
+  - "[[Fertilizers]]"
+  - "[[Biodegradation]]"
 ---
 # Composting

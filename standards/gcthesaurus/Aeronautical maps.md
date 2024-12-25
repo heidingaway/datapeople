@@ -1,8 +1,12 @@
 ---
 title: Aeronautical maps
-longTitle: 'Aeronautical maps'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Aeronautical maps
 french:
-- "[[Carte aeronautique]]"
+  - Carte aeronautique
 ---
+# Aeronautical maps

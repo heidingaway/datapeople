@@ -1,20 +1,23 @@
 ---
 title: Systems
-longTitle: 'Systems'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases: Systems
 french:
-- "[[Systeme]]"
+  - Systeme
 narrowerTerm:
-- "[[Computer systems]]"
-- "[[Electoral system]]"
-- "[[Information systems]]"
-- "[[Intelligent systems]]"
-- "[[Justice system]]"
-- "[[Metric system]]"
-- "[[Navigation systems]]"
+  - "[[Computer systems]]"
+  - "[[Electoral system]]"
+  - "[[Information systems]]"
+  - "[[Intelligent systems]]"
+  - "[[Justice system]]"
+  - "[[Metric system]]"
+  - "[[Navigation systems]]"
 relatedTerm:
-- "[[Infrastructures]]"
+  - "[[Infrastructures]]"
 scopeNote:
-- "An organized set of procedures doctrines ideas pri"
+  - An organized set of procedures doctrines ideas pri
 ---
+# Systems

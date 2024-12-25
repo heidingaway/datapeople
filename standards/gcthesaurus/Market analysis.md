@@ -1,14 +1,10 @@
 ---
 title: Market analysis
-longTitle: 'Market analysis'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Analyse de marche]]"
+  - "[[Analyse de marche]]"
 scopeNote:
-- "The research undertaken to predict the movement of"
-usedFor:
-- "[[Market research]]"
-- "[[Market studies]]"
-- "[[Market surveys]]"
+  - The research undertaken to predict the movement of
+aliases: Market analysis
 ---

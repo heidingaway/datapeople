@@ -1,8 +1,8 @@
 ---
 title: Securities Investments Initial public offering
-longTitle: 'Securities, Investments, Initial public offering'
+aliases: Securities, Investments, Initial public offering
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Stock markets]]"
+  - "[[Stock markets]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Income tax Fiscal assistance
-longTitle: 'Income tax, Fiscal assistance'
+aliases: Income tax, Fiscal assistance
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Tax credits]]"
+  - "[[Tax credits]]"
 ---

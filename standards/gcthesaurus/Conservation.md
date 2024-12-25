@@ -1,15 +1,13 @@
 ---
 title: Conservation
-longTitle: 'Conservation'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Conservation]]"
+  - "[[Conservation]]"
 narrowerTerm:
-- "[[Heritage conservation]]"
+  - "[[Heritage conservation]]"
 relatedTerm:
-- "[[Digitization]]"
-- "[[Restoration]]"
-usedFor:
-- "[[Preservation]]"
+  - "[[Digitization]]"
+  - "[[Restoration]]"
+aliases: Conservation
 ---

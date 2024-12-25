@@ -1,14 +1,10 @@
 ---
 title: Broadcasting
-longTitle: 'Broadcasting'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Radiodiffusion]]"
+  - "[[Radiodiffusion]]"
 scopeNote:
-- "The transmission of television or radio programs u"
-usedFor:
-- "[[Public broadcasting]]"
-- "[[Radio broadcasting]]"
-- "[[Television broadcasting]]"
+  - The transmission of television or radio programs u
+aliases: Broadcasting
 ---

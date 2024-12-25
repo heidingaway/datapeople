@@ -1,10 +1,8 @@
 ---
 title: Canadian history
-longTitle: 'Canadian history'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Histoire du Canada]]"
-usedFor:
-- "[[History of Canada]]"
+  - "[[Histoire du Canada]]"
+aliases: Canadian history
 ---

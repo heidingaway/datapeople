@@ -1,8 +1,8 @@
 ---
 title: Licensing Authorization
-longTitle: 'Licensing, Authorization'
+aliases: Licensing, Authorization
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Permits]]"
+  - "[[Permits]]"
 ---

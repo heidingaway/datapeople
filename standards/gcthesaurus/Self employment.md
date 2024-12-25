@@ -1,10 +1,10 @@
 ---
 title: Self employment
-longTitle: 'Self employment'
+aliases: Self employment
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Emploi autonome]]"
+  - "[[Emploi autonome]]"
 relatedTerm:
-- "[[Home-based businesses]]"
+  - "[[Home-based businesses]]"
 ---

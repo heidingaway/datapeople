@@ -3,16 +3,14 @@ title: Electronic publishing
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Electronic publishing'
+  - gccommon
 broaderTerm:
-- "[[Publishing]]"
+  - "[[Publishing]]"
 french:
-- "[[Edition electronique]]"
-usedFor:
-- "[[Desktop publishing]]"
+  - "[[Edition electronique]]"
+aliases: Electronic publishing
 relatedTerm:
-- "[[Electronic information]]"
-- "[[Electronic documents]]"
+  - "[[Electronic information]]"
+  - "[[Electronic documents]]"
 ---
 # Electronic publishing

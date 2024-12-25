@@ -1,11 +1,11 @@
 ---
 title: Crown assets
-longTitle: 'Crown assets'
+aliases: Crown assets
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Biens de la Couronne]]"
+  - "[[Biens de la Couronne]]"
 narrowerTerm:
-- "[[Crown lands]]"
-- "[[Official residences]]"
+  - "[[Crown lands]]"
+  - "[[Official residences]]"
 ---

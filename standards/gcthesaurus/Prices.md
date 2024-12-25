@@ -1,8 +1,8 @@
 ---
 title: Prices
-longTitle: 'Prices'
+aliases: Prices
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Prix]]"
+  - "[[Prix]]"
 ---

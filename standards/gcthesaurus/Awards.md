@@ -3,14 +3,12 @@ title: Awards
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Awards'
+  - gccommon
 french:
-- "[[Recompense]]"
+  - "[[Recompense]]"
 relatedTerm:
-- "[[Decorations]]"
-- "[[Scholarships]]"
-usedFor:
-- "[[Prizes]]"
+  - "[[Decorations]]"
+  - "[[Scholarships]]"
+aliases: Awards
 ---
 # Awards

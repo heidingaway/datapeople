@@ -1,8 +1,8 @@
 ---
 title: Restoration Recycling Digitization
-longTitle: 'Restoration, Recycling, Digitization'
+aliases: Restoration, Recycling, Digitization
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Conservation]]"
+  - "[[Conservation]]"
 ---

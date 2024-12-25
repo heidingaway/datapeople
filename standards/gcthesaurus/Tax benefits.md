@@ -1,8 +1,8 @@
 ---
 title: Tax benefits
-longTitle: 'Tax benefits'
+aliases: Tax benefits
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Avantage fiscal]]"
+  - "[[Avantage fiscal]]"
 ---

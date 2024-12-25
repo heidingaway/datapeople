@@ -1,8 +1,8 @@
 ---
 title: Injuries
-longTitle: 'Injuries'
+aliases: Injuries
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Blessure]]"
+  - "[[Blessure]]"
 ---

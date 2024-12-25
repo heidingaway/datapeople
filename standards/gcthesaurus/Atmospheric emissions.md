@@ -1,11 +1,16 @@
 ---
 title: Atmospheric emissions
-longTitle: 'Atmospheric emissions'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Emissions atmospheriques]]"
-usedFor:
-- "[[Air emissions]]"
-- "[[Airborne emissions]]"
+  - "[[Emissions atmospheriques]]"
+aliases:
+  - Atmospheric emissions
+relatedTerm:
+  - "[[Air pollution]]"
+  - "[[Greenhouse gases]]"
+  - "[[Pollutants]]"
 ---
+# Atmospheric emissions

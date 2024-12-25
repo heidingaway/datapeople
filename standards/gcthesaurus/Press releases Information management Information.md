@@ -1,8 +1,8 @@
 ---
 title: Press releases Information management Information
-longTitle: 'Press releases, Information management, Information'
+aliases: Press releases, Information management, Information
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Information dissemination]]"
+  - "[[Information dissemination]]"
 ---

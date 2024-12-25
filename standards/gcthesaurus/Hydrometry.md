@@ -1,13 +1,13 @@
 ---
 title: Hydrometry
-longTitle: 'Hydrometry'
+aliases: Hydrometry
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Hydrometrie]]"
+  - "[[Hydrometrie]]"
 narrowerTerm:
-- "[[Historical hydrometric data]]"
-- "[[Hydrometric network]]"
-- "[[Hydrometric station]]"
-- "[[Real-time hydrometric data]]"
+  - "[[Historical hydrometric data]]"
+  - "[[Hydrometric network]]"
+  - "[[Hydrometric station]]"
+  - "[[Real-time hydrometric data]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Transport Freight
-longTitle: 'Transport, Freight'
+aliases: Transport, Freight
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Shipping]]"
+  - "[[Shipping]]"
 ---

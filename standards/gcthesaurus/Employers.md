@@ -1,8 +1,15 @@
 ---
 title: Employers
-longTitle: 'Employers'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Employers
+id: 2540
 french:
-- "[[Employeur]]"
+  - Employeur
+relatedTerm:
+  - "[[Labour market]]"
 ---
+# Employers

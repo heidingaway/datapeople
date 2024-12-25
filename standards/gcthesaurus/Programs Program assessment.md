@@ -1,8 +1,8 @@
 ---
 title: Programs Program assessment
-longTitle: 'Programs, Program assessment'
+aliases: Programs, Program assessment
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Program review]]"
+  - "[[Program review]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Pansexual people
-longTitle: 'Pansexual people'
+aliases: Pansexual people
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Personne pansexuelle]]"
+  - "[[Personne pansexuelle]]"
 ---

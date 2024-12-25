@@ -1,8 +1,8 @@
 ---
 title: Tourism Hospitality industry
-longTitle: 'Tourism, Hospitality industry'
+aliases: Tourism, Hospitality industry
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Tourism facilities]]"
+  - "[[Tourism facilities]]"
 ---

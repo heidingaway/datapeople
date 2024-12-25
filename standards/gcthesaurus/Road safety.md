@@ -1,11 +1,8 @@
 ---
 title: Road safety
-longTitle: 'Road safety'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Securite routiere]]"
-usedFor:
-- "[[Highway safety]]"
-- "[[Traffic safety]]"
+  - "[[Securite routiere]]"
+aliases: Road safety
 ---

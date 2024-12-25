@@ -1,19 +1,20 @@
 ---
 title: Access to information
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Access to information'
+  - gccommon
+aliases:
+  - Access to information
 french:
-- "[[Acces a linformation]]"
+  - Acces a l'information
 relatedTerm:
-- "[[Freedom of information]]"
-- "[[Privacy]"
-- "[[Open government]]"
-- "[[Information requests]]"
-- "[[Information]]"
-- "[[Confidentiality]]"
-- "[[Censorship]]"
+  - "[[Censorship]]"
+  - "[[Confidentiality]]"
+  - "[[Freedom of information]]"
+  - "[[Information requests]]"
+  - "[[Information]]"
+  - "[[Open government]]"
+  - "[[Privacy]]"
 ---
 # Access to information

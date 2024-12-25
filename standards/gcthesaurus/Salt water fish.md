@@ -1,12 +1,8 @@
 ---
 title: Salt water fish
-longTitle: 'Salt water fish'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Poisson de mer]]"
-usedFor:
-- "[[Cod]]"
-- "[[Salmon]]"
-- "[[Saltwater fish]]"
+  - "[[Poisson de mer]]"
+aliases: Salt water fish
 ---

@@ -1,8 +1,8 @@
 ---
 title: Folklore Crafts
-longTitle: 'Folklore, Crafts'
+aliases: Folklore, Crafts
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Folk art]]"
+  - "[[Folk art]]"
 ---

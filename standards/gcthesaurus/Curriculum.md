@@ -1,8 +1,8 @@
 ---
 title: Curriculum
-longTitle: 'Curriculum'
+aliases: Curriculum
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Curriculum]]"
+  - "[[Curriculum]]"
 ---

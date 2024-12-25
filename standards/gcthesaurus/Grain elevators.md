@@ -1,8 +1,8 @@
 ---
 title: Grain elevators
-longTitle: 'Grain elevators'
+aliases: Grain elevators
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Silo a grains]]"
+  - "[[Silo a grains]]"
 ---

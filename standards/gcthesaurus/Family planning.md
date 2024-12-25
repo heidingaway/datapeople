@@ -1,10 +1,8 @@
 ---
 title: Family planning
-longTitle: 'Family planning'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Planification des naissances]]"
-usedFor:
-- "[[Birth control]]"
+  - "[[Planification des naissances]]"
+aliases: Family planning
 ---

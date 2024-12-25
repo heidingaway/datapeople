@@ -1,8 +1,8 @@
 ---
 title: Private investments Foreign investments
-longTitle: 'Private investments, Foreign investments'
+aliases: Private investments, Foreign investments
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Investments]]"
+  - "[[Investments]]"
 ---

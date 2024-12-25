@@ -1,12 +1,10 @@
 ---
 title: Disposal services
-longTitle: 'Disposal services'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Service dalienation]]"
+  - "[[Service dalienation]]"
 scopeNote:
-- "Disposal of all moveable government surplus items "
-usedFor:
-- "[[Material disposal services]]"
+  - "Disposal of all moveable government surplus items "
+aliases: Disposal services
 ---

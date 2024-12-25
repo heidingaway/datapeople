@@ -1,11 +1,8 @@
 ---
 title: Francophonie
-longTitle: 'Francophonie'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Francophonie]]"
-usedFor:
-- "[[Francophone communities]]"
-- "[[French speaking communities]]"
+  - "[[Francophonie]]"
+aliases: Francophonie
 ---

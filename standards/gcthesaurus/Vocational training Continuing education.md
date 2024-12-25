@@ -1,8 +1,8 @@
 ---
 title: Vocational training Continuing education
-longTitle: 'Vocational training, Continuing education'
+aliases: Vocational training, Continuing education
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Professional development]]"
+  - "[[Professional development]]"
 ---

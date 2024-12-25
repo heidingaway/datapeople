@@ -1,8 +1,8 @@
 ---
 title: Population distribution Demography
-longTitle: 'Population distribution, Demography'
+aliases: Population distribution, Demography
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Demographic statistics]]"
+  - "[[Demographic statistics]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Corporate income tax
-longTitle: 'Corporate income tax'
+aliases: Corporate income tax
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Impot sur le revenu des societes]]"
+  - "[[Impot sur le revenu des societes]]"
 ---

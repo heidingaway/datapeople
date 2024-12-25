@@ -1,8 +1,8 @@
 ---
 title: Toys Recreation Gambling
-longTitle: 'Toys, Recreation, Gambling'
+aliases: Toys, Recreation, Gambling
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Games]]"
+  - "[[Games]]"
 ---

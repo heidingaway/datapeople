@@ -1,22 +1,22 @@
 ---
 title: Space exploration
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Space exploration'
+  - gccommon
 broaderTerm:
-- "[[Explorations]]"
+  - "[[Explorations]]"
 french:
-- "[[Exploration spatiale]]"
+  - "[[Exploration spatiale]]"
 relatedTerm:
-- "[[Aerospace industry]]"
-- "[[Space technology]]"
-- "[[Space station]]"
-- "[[Space sciences]]"
-- "[[Astronauts]]"
-- "[[Astronaut training]]"
-usedFor:
-- "[[Spacecraft]]"
+  - "[[Aerospace industry]]"
+  - "[[Astronaut training]]"
+  - "[[Astronauts]]"
+  - "[[Space sciences]]"
+  - "[[Space station]]"
+  - "[[Space technology]]"
+aliases:
+  - Space exploration
+  - Spacecraft
 ---
 # Space exploration

@@ -1,8 +1,8 @@
 ---
 title: Personal finance Discounts
-longTitle: 'Personal finance, Discounts'
+aliases: Personal finance, Discounts
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Savings]]"
+  - "[[Savings]]"
 ---

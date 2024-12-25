@@ -1,14 +1,11 @@
 ---
 title: Photographs
-longTitle: 'Photographs'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Photographie Image]]"
+  - "[[Photographie Image]]"
 relatedTerm:
-- "[[Photography]]"
-- "[[Slides]]"
-usedFor:
-- "[[Photographic images]]"
-- "[[Photos]]"
+  - "[[Photography]]"
+  - "[[Slides]]"
+aliases: Photographs
 ---

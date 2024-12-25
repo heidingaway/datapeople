@@ -1,8 +1,8 @@
 ---
 title: Television Spectrum management Radio Cable televis
-longTitle: 'Television, Spectrum management, Radio, Cable television, Broadcasting industry'
+aliases: Television, Spectrum management, Radio, Cable television, Broadcasting industry
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Broadcasting]]"
+  - "[[Broadcasting]]"
 ---

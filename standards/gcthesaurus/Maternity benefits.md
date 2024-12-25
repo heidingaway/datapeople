@@ -1,8 +1,8 @@
 ---
 title: Maternity benefits
-longTitle: 'Maternity benefits'
+aliases: Maternity benefits
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Prestation de maternite]]"
+  - "[[Prestation de maternite]]"
 ---

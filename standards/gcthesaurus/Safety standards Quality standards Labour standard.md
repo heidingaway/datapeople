@@ -1,8 +1,8 @@
 ---
 title: Safety standards Quality standards Labour standard
-longTitle: 'Safety standards, Quality standards, Labour standards, Environmental standards, Benchmarks'
+aliases: Safety standards, Quality standards, Labour standards, Environmental standards, Benchmarks
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Standards]]"
+  - "[[Standards]]"
 ---

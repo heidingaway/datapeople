@@ -1,11 +1,8 @@
 ---
 title: Testing
-longTitle: 'Testing'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Test]]"
-usedFor:
-- "[[Performance testing]]"
-- "[[Tests]]"
+  - "[[Test]]"
+aliases: Testing
 ---

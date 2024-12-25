@@ -1,22 +1,13 @@
 ---
 title: Recycling
-longTitle: 'Recycling'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Recyclage]]"
+  - "[[Recyclage]]"
 relatedTerm:
-- "[[Disposal services]]"
-- "[[Recyclable materials]]"
-- "[[Pollution control]]"
-- "[[Conservation]]"
-usedFor:
-- "[[Resource recovery]]"
-- "[[Reuse]]"
-- "[[Salvage]]"
-- "[[Secondary recovery]]"
-- "[[Waste recovery]]"
-- "[[Waste recycling]]"
-- "[[Waste reuse]]"
-- "[[Waste salvage]]"
+  - "[[Disposal services]]"
+  - "[[Recyclable materials]]"
+  - "[[Pollution control]]"
+  - "[[Conservation]]"
+aliases: Recycling
 ---

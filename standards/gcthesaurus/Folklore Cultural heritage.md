@@ -1,8 +1,8 @@
 ---
 title: Folklore Cultural heritage
-longTitle: 'Folklore, Cultural heritage'
+aliases: Folklore, Cultural heritage
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Customs]]"
+  - "[[Customs]]"
 ---

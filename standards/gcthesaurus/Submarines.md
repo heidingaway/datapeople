@@ -1,8 +1,8 @@
 ---
 title: Submarines
-longTitle: 'Submarines'
+aliases: Submarines
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Sous-marin]]"
+  - "[[Sous-marin]]"
 ---

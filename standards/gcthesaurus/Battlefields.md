@@ -1,8 +1,16 @@
 ---
 title: Battlefields
-longTitle: 'Battlefields'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+id: 963
+aliases:
+  - Battle sites
 french:
-- "[[Champ de bataille]]"
+  - Champ de bataille
+relatedTerm:
+  - "[[Demining]]"
+  - "[[War]]"
 ---
+# Battlefields

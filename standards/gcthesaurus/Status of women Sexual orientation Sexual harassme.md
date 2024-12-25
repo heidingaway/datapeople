@@ -1,8 +1,8 @@
 ---
 title: Status of women Sexual orientation Sexual harassme
-longTitle: 'Status of women, Sexual orientation, Sexual harassment, Gender-based violence, Gender equality'
+aliases: Status of women, Sexual orientation, Sexual harassment, Gender-based violence, Gender equality
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Gender discrimination]]"
+  - "[[Gender discrimination]]"
 ---

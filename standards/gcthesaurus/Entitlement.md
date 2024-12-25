@@ -1,8 +1,8 @@
 ---
 title: Entitlement
-longTitle: 'Entitlement'
+aliases: Entitlement
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Transfert de droit]]"
+  - "[[Transfert de droit]]"
 ---

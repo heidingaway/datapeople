@@ -1,8 +1,8 @@
 ---
 title: Metis Inuit Indigenous youth First Nations
-longTitle: 'Métis, Inuit, Indigenous youth, First Nations'
+aliases: Métis, Inuit, Indigenous youth, First Nations
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Indigenous peoples]]"
+  - "[[Indigenous peoples]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Secondary schools Residential schools Public schoo
-longTitle: 'Secondary schools, Residential schools, Public schools, Private schools, Elementary schools'
+aliases: Secondary schools, Residential schools, Public schools, Private schools, Elementary schools
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Schools]]"
+  - "[[Schools]]"
 ---

@@ -1,10 +1,10 @@
 ---
 title: Freedom of information
-longTitle: 'Freedom of information'
+aliases: Freedom of information
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Open government]]"
+  - "[[Open government]]"
 french:
-- "[[Liberte dinformation]]"
+  - "[[Liberte dinformation]]"
 ---

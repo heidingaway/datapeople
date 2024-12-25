@@ -1,12 +1,12 @@
 ---
 title: Glass industry
-longTitle: 'Glass industry'
+aliases: Glass industry
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie du verre]]"
+  - "[[Industrie du verre]]"
 relatedTerm:
-- "[[Glass]]"
+  - "[[Glass]]"
 scopeNote:
-- "An economic activity dedicated to the production m"
+  - An economic activity dedicated to the production m
 ---

@@ -1,8 +1,8 @@
 ---
 title: Thesauri Terminology Data dictionaries
-longTitle: 'Thesauri, Terminology, Data dictionaries'
+aliases: Thesauri, Terminology, Data dictionaries
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Dictionaries]]"
+  - "[[Dictionaries]]"
 ---

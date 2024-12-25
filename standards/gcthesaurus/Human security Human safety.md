@@ -1,8 +1,8 @@
 ---
 title: Human security Human safety
-longTitle: 'Human security, Human safety'
+aliases: Human security, Human safety
 tags:
-- gccommon
+  - gccommon
 historyNote:
-- "Human security replaces Human safety as preferred "
+  - "Human security replaces Human safety as preferred "
 ---

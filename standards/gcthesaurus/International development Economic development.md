@@ -1,8 +1,8 @@
 ---
 title: International development Economic development
-longTitle: 'International development, Economic development'
+aliases: International development, Economic development
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Developing countries]]"
+  - "[[Developing countries]]"
 ---

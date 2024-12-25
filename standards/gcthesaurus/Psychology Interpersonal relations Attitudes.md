@@ -1,8 +1,8 @@
 ---
 title: Psychology Interpersonal relations Attitudes
-longTitle: 'Psychology, Interpersonal relations, Attitudes'
+aliases: Psychology, Interpersonal relations, Attitudes
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Behaviour]]"
+  - "[[Behaviour]]"
 ---

@@ -1,10 +1,8 @@
 ---
 title: Weaving
-longTitle: 'Weaving'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Tissage]]"
-usedFor:
-- "[[Handspinning]]"
+  - "[[Tissage]]"
+aliases: Weaving
 ---

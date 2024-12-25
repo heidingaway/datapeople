@@ -1,10 +1,8 @@
 ---
 title: Microeconomic policy
-longTitle: 'Microeconomic policy'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Politique microeconomique]]"
-usedFor:
-- "[[Micro-economic policy]]"
+  - "[[Politique microeconomique]]"
+aliases: Microeconomic policy
 ---

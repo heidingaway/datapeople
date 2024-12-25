@@ -1,10 +1,8 @@
 ---
 title: Drug labelling
-longTitle: 'Drug labelling'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Etiquetage des medicaments]]"
-usedFor:
-- "[[Drug labeling]]"
+  - "[[Etiquetage des medicaments]]"
+aliases: Drug labelling
 ---

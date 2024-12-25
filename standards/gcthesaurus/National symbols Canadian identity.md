@@ -1,8 +1,8 @@
 ---
 title: National symbols Canadian identity
-longTitle: 'National symbols, Canadian identity'
+aliases: National symbols, Canadian identity
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Nationalism]]"
+  - "[[Nationalism]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Health protection Health impact Health
-longTitle: 'Health protection, Health impact, Health'
+aliases: Health protection, Health impact, Health
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Health hazards]]"
+  - "[[Health hazards]]"
 ---

@@ -1,12 +1,8 @@
 ---
 title: Electoral districts
-longTitle: 'Electoral districts'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Circonscription electorale]]"
-usedFor:
-- "[[Constituencies]]"
-- "[[Electoral boundaries]]"
-- "[[Ridings]]"
+  - "[[Circonscription electorale]]"
+aliases: Electoral districts
 ---

@@ -1,8 +1,8 @@
 ---
 title: Program management
-longTitle: 'Program management'
+aliases: Program management
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gestion de programme]]"
+  - "[[Gestion de programme]]"
 ---

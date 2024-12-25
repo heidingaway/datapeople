@@ -1,10 +1,8 @@
 ---
 title: Quarantine
-longTitle: 'Quarantine'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Quarantaine]]"
-usedFor:
-- "[[Animal quarantine]]"
+  - "[[Quarantaine]]"
+aliases: Quarantine
 ---

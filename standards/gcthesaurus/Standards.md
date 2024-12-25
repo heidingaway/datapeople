@@ -1,16 +1,16 @@
 ---
 title: Standards
-longTitle: 'Standards'
+aliases: Standards
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Norme]]"
+  - "[[Norme]]"
 narrowerTerm:
-- "[[Benchmarks]]"
-- "[[Environmental standards]]"
-- "[[Labour standards]]"
-- "[[Quality standards]]"
-- "[[Safety standards]]"
+  - "[[Benchmarks]]"
+  - "[[Environmental standards]]"
+  - "[[Labour standards]]"
+  - "[[Quality standards]]"
+  - "[[Safety standards]]"
 relatedTerm:
-- "[[Standardization]]"
+  - "[[Standardization]]"
 ---

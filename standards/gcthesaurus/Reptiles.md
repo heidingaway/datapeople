@@ -1,10 +1,8 @@
 ---
 title: Reptiles
-longTitle: 'Reptiles'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Reptile]]"
-usedFor:
-- "[[Snakes]]"
+  - "[[Reptile]]"
+aliases: Reptiles
 ---

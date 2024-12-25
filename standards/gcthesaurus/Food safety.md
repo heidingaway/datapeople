@@ -3,17 +3,14 @@ title: Food safety
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Food safety'
+  - gccommon
 french:
-- "[[Salubrite des aliments]]"
-usedFor:
-- "[[Food contamination]]"
-- "[[Food hygiene]]"
+  - "[[Salubrite des aliments]]"
+aliases: Food safety
 relatedTerm:
-- "[[Health protection]]"
-- "[[Food labelling]]"
-- "[[Food inspection]]"
-- "[[Food]]"
+  - "[[Health protection]]"
+  - "[[Food labelling]]"
+  - "[[Food inspection]]"
+  - "[[Food]]"
 ---
 # Food safety

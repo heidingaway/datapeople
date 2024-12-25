@@ -1,8 +1,8 @@
 ---
 title: Parking
-longTitle: 'Parking'
+aliases: Parking
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Stationnement]]"
+  - "[[Stationnement]]"
 ---

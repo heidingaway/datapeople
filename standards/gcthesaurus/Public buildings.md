@@ -1,12 +1,12 @@
 ---
 title: Public buildings
-longTitle: 'Public buildings'
+aliases: Public buildings
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Edifice public]]"
+  - "[[Edifice public]]"
 relatedTerm:
-- "[[Public architecture]]"
+  - "[[Public architecture]]"
 scopeNote:
-- "Relatively important buildings used for government"
+  - Relatively important buildings used for government
 ---

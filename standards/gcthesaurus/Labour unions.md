@@ -1,17 +1,11 @@
 ---
 title: Labour unions
-longTitle: 'Labour unions'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Syndicat]]"
+  - "[[Syndicat]]"
 relatedTerm:
-- "[[Labour union training]]"
-- "[[Labour relations]]"
-usedFor:
-- "[[Labor organizations]]"
-- "[[Labor unions]]"
-- "[[Labour organizations]]"
-- "[[Trade unions]]"
-- "[[Unions]]"
+  - "[[Labour union training]]"
+  - "[[Labour relations]]"
+aliases: Labour unions
 ---

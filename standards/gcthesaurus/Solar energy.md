@@ -1,10 +1,8 @@
 ---
 title: Solar energy
-longTitle: 'Solar energy'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Energie solaire]]"
-usedFor:
-- "[[Solar power]]"
+  - "[[Energie solaire]]"
+aliases: Solar energy
 ---

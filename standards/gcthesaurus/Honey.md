@@ -1,10 +1,10 @@
 ---
 title: Honey
-longTitle: 'Honey'
+aliases: Honey
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Miel]]"
+  - "[[Miel]]"
 relatedTerm:
-- "[[Beekeeping]]"
+  - "[[Beekeeping]]"
 ---

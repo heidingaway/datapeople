@@ -1,8 +1,8 @@
 ---
 title: Wholesale trade
-longTitle: 'Wholesale trade'
+aliases: Wholesale trade
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Commerce de gros]]"
+  - "[[Commerce de gros]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Narcotics Drugs Drug addiction
-longTitle: 'Narcotics, Drugs, Drug addiction'
+aliases: Narcotics, Drugs, Drug addiction
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Methadone]]"
+  - "[[Methadone]]"
 ---

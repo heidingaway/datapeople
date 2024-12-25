@@ -1,10 +1,10 @@
 ---
 title: Photography
-longTitle: 'Photography'
+aliases: Photography
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Photographie Art]]"
+  - "[[Photographie Art]]"
 narrowerTerm:
-- "[[Aerial photography]]"
+  - "[[Aerial photography]]"
 ---

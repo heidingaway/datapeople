@@ -3,17 +3,13 @@ title: Viticulture
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Viticulture'
+  - gccommon
 french:
-- "[[Viticulture]]"
-usedFor:
-- "[[Grape culture]]"
-- "[[Grape growing]]"
-- "[[Viniculture]]"
+  - "[[Viticulture]]"
+aliases: Viticulture
 relatedTerm:
-- "[[Wine industry]]"
-- "[[Wine]]"
-- "[[Grapes]]"
+  - "[[Wine industry]]"
+  - "[[Wine]]"
+  - "[[Grapes]]"
 ---
 # Viticulture

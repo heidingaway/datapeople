@@ -1,14 +1,10 @@
 ---
 title: Offshore drilling
-longTitle: 'Offshore drilling'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Drilling]]"
+  - "[[Drilling]]"
 french:
-- "[[Forage en mer]]"
-usedFor:
-- "[[Drilling platforms]]"
-- "[[Marine drilling]]"
-- "[[Ocean drilling]]"
+  - "[[Forage en mer]]"
+aliases: Offshore drilling
 ---

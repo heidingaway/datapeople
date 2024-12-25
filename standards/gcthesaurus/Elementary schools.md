@@ -1,12 +1,10 @@
 ---
 title: Elementary schools
-longTitle: 'Elementary schools'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ecole primaire]]"
+  - "[[Ecole primaire]]"
 relatedTerm:
-- "[[Elementary education]]"
-usedFor:
-- "[[Primary schools]]"
+  - "[[Elementary education]]"
+aliases: Elementary schools
 ---

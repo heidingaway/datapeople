@@ -1,8 +1,8 @@
 ---
 title: Vegetable crops Fruit crops Forage crops
-longTitle: 'Vegetable crops, Fruit crops, Forage crops'
+aliases: Vegetable crops, Fruit crops, Forage crops
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Crops]]"
+  - "[[Crops]]"
 ---

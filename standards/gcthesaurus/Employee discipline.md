@@ -1,8 +1,8 @@
 ---
 title: Employee discipline
-longTitle: 'Employee discipline'
+aliases: Employee discipline
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Discipline du travail]]"
+  - "[[Discipline du travail]]"
 ---

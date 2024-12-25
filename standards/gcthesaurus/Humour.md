@@ -1,13 +1,10 @@
 ---
 title: Humour
-longTitle: 'Humour'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Humour]]"
+  - "[[Humour]]"
 scopeNote:
-- "Oral visual or textual presentations that have the"
-usedFor:
-- "[[Caricatures]]"
-- "[[Humor]]"
+  - Oral visual or textual presentations that have the
+aliases: Humour
 ---

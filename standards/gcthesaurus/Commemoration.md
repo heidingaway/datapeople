@@ -1,13 +1,10 @@
 ---
 title: Commemoration
-longTitle: 'Commemoration'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Commemoration]]"
+  - "[[Commemoration]]"
 scopeNote:
-- "Ceremonies honouring the memory of someone or some"
-usedFor:
-- "[[Anniversaries]]"
-- "[[Celebrations]]"
+  - Ceremonies honouring the memory of someone or some
+aliases: Commemoration
 ---

@@ -1,10 +1,10 @@
 ---
 title: Genealogy
-longTitle: 'Genealogy'
+aliases: Genealogy
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Genealogie]]"
+  - "[[Genealogie]]"
 scopeNote:
-- "The study of the history of the descent of a perso"
+  - The study of the history of the descent of a perso
 ---

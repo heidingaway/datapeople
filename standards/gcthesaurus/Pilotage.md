@@ -1,13 +1,10 @@
 ---
 title: Pilotage
-longTitle: 'Pilotage'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Pilotage]]"
+  - "[[Pilotage]]"
 scopeNote:
-- "Conducting and handling a ship"
-usedFor:
-- "[[Marine pilotage]]"
-- "[[Ship piloting]]"
+  - Conducting and handling a ship
+aliases: Pilotage
 ---

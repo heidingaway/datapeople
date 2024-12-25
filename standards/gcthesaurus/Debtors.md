@@ -1,8 +1,8 @@
 ---
 title: Debtors
-longTitle: 'Debtors'
+aliases: Debtors
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Debiteur]]"
+  - "[[Debiteur]]"
 ---

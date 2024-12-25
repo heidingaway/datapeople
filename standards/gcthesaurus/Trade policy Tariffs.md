@@ -1,8 +1,8 @@
 ---
 title: Trade policy Tariffs
-longTitle: 'Trade policy, Tariffs'
+aliases: Trade policy, Tariffs
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Tariff protection]]"
+  - "[[Tariff protection]]"
 ---

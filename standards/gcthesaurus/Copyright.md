@@ -1,10 +1,10 @@
 ---
 title: Copyright
-longTitle: 'Copyright'
+aliases: Copyright
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Droit dauteur]]"
+  - "[[Droit dauteur]]"
 scopeNote:
-- "The exclusive right granted by law to artists and "
+  - "The exclusive right granted by law to artists and "
 ---

@@ -1,13 +1,16 @@
 ---
 title: War crimes
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'War crimes'
+  - gccommon
+id: 1925
+aliases:
+  - War crimes
 french:
-- "[[Crime de guerre]]"
+  - Crime de guerre
 relatedTerm:
-- "[[Crime against humanity]]"
+  - "[[Crime against humanity]]"
+  - "[[War]]"
 ---
 # War crimes

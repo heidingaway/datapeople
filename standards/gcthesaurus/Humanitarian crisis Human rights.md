@@ -1,8 +1,8 @@
 ---
 title: Humanitarian crisis Human rights
-longTitle: 'Humanitarian crisis, Human rights'
+aliases: Humanitarian crisis, Human rights
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Human security]]"
+  - "[[Human security]]"
 ---

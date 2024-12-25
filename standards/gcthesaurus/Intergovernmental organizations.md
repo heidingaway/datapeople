@@ -1,8 +1,8 @@
 ---
 title: Intergovernmental organizations
-longTitle: 'Intergovernmental organizations'
+aliases: Intergovernmental organizations
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Organisme intergouvernemental]]"
+  - "[[Organisme intergouvernemental]]"
 ---

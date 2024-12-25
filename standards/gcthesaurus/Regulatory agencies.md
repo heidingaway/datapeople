@@ -1,8 +1,8 @@
 ---
 title: Regulatory agencies
-longTitle: 'Regulatory agencies'
+aliases: Regulatory agencies
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Organisme de reglementation]]"
+  - "[[Organisme de reglementation]]"
 ---

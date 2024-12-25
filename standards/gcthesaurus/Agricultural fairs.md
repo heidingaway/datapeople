@@ -1,10 +1,12 @@
 ---
 title: Agricultural fairs
-longTitle: 'Agricultural fairs'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Foire agricole]]"
-usedFor:
-- "[[Rural fairs]]"
+  - Foire agricole
+aliases:
+  - Agricultural fairs
 ---
+# Agricultural fairs

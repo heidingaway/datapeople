@@ -1,8 +1,8 @@
 ---
 title: Telemedicine
-longTitle: 'Telemedicine'
+aliases: Telemedicine
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Telemedecine]]"
+  - "[[Telemedecine]]"
 ---

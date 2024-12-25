@@ -1,8 +1,8 @@
 ---
 title: Socioeconomic analysis Microeconomic analysis Macr
-longTitle: 'Socioeconomic analysis, Microeconomic analysis, Macroeconomic analysis, Cost benefit analysis'
+aliases: Socioeconomic analysis, Microeconomic analysis, Macroeconomic analysis, Cost benefit analysis
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Economic analysis]]"
+  - "[[Economic analysis]]"
 ---

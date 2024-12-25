@@ -1,12 +1,12 @@
 ---
 title: Coronaviruses
-longTitle: 'Coronaviruses'
+aliases: Coronaviruses
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Viruses]]"
+  - "[[Viruses]]"
 french:
-- "[[Coronavirus]]"
+  - "[[Coronavirus]]"
 relatedTerm:
-- "[[Coronavirus diseases]]"
+  - "[[Coronavirus diseases]]"
 ---

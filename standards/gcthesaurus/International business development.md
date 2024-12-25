@@ -1,8 +1,8 @@
 ---
 title: International business development
-longTitle: 'International business development'
+aliases: International business development
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Developpement du commerce international]]"
+  - "[[Developpement du commerce international]]"
 ---

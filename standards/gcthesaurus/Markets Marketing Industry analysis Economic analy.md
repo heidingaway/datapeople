@@ -1,8 +1,8 @@
 ---
 title: Markets Marketing Industry analysis Economic analy
-longTitle: 'Markets, Marketing, Industry analysis, Economic analysis'
+aliases: Markets, Marketing, Industry analysis, Economic analysis
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Market analysis]]"
+  - "[[Market analysis]]"
 ---

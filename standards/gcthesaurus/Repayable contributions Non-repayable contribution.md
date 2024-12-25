@@ -1,8 +1,8 @@
 ---
 title: Repayable contributions Non-repayable contribution
-longTitle: 'Repayable contributions, Non-repayable contributions'
+aliases: Repayable contributions, Non-repayable contributions
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Transfer payments]]"
+  - "[[Transfer payments]]"
 ---

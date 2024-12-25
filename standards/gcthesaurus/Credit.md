@@ -1,16 +1,12 @@
 ---
 title: Credit
-longTitle: 'Credit'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Credit]]"
+  - "[[Credit]]"
 narrowerTerm:
-- "[[Allotments]]"
+  - "[[Allotments]]"
 scopeNote:
-- "Contractual agreements by which a buyer can receiv"
-usedFor:
-- "[[Consumer credit]]"
-- "[[Credit cards]]"
-- "[[Credit services]]"
+  - Contractual agreements by which a buyer can receiv
+aliases: Credit
 ---

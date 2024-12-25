@@ -1,19 +1,18 @@
 ---
 title: Accounting
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Accounting'
+  - gccommon
 french:
-- "[[Comptabilite]]"
+  - Comptabilite
 narrowerTerm:
-- "[[Accounting standards]]"
+  - "[[Accounting standards]]"
 relatedTerm:
-- "[[Financial audit]]"
-- "[[Supplementary estimates]]"
-- "[[Comptrollership]]"
-usedFor:
-- "[[Bookkeeping]]"
+  - "[[Comptrollership]]"
+  - "[[Financial audit]]"
+  - "[[Supplementary estimates]]"
+aliases:
+  - Accounting
 ---
 # Accounting

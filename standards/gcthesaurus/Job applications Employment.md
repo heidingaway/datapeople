@@ -1,8 +1,8 @@
 ---
 title: Job applications Employment
-longTitle: 'Job applications, Employment'
+aliases: Job applications, Employment
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Job search]]"
+  - "[[Job search]]"
 ---

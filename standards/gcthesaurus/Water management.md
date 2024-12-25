@@ -1,29 +1,28 @@
 ---
 title: Water management
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Water management'
+  - gccommon
 french:
-- "[[Gestion de leau]]"
-usedFor:
-- "[[Waste water purification]]"
-- "[[Waste water treatment]]"
-- "[[Wastewater purification]]"
-- "[[Wastewater treatment]]"
-- "[[Water analysis]]"
-- "[[Water level control]]"
-- "[[Water purification]]"
-- "[[Water resource management]]"
-- "[[Water treatment]]"
+  - Gestion de leau
+aliases:
+  - Waste water purification
+  - Waste water treatment
+  - Wastewater purification
+  - Wastewater treatment
+  - Water analysis
+  - Water level control
+  - Water purification
+  - Water resource management
+  - Water treatment
 relatedTerm:
-- "[[Water supply]]"
-- "[[Water quality]]"
-- "[[Water conservation]]"
-- "[[Water]]"
-- "[[Irrigation]]"
-- "[[Drainage]]"
-- "[[Dams]]"
+  - "[[Dams]]"
+  - "[[Drainage]]"
+  - "[[Irrigation]]"
+  - "[[Water conservation]]"
+  - "[[Water quality]]"
+  - "[[Water supply]]"
+  - "[[Water]]"
 ---
 # Water management

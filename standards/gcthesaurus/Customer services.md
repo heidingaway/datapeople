@@ -1,11 +1,11 @@
 ---
 title: Customer services
-longTitle: 'Customer services'
+aliases: Customer services
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Service a la clientele]]"
+  - "[[Service a la clientele]]"
 relatedTerm:
-- "[[Clients]]"
-- "[[Client satisfaction]]"
+  - "[[Clients]]"
+  - "[[Client satisfaction]]"
 ---

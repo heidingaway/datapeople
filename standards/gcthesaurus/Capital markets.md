@@ -1,8 +1,8 @@
 ---
 title: Capital markets
-longTitle: 'Capital markets'
+aliases: Capital markets
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Marche de capitaux]]"
+  - "[[Marche de capitaux]]"
 ---

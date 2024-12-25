@@ -1,8 +1,8 @@
 ---
 title: Games
-longTitle: 'Games'
+aliases: Games
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Jeu]]"
+  - "[[Jeu]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Terminology Dictionaries
-longTitle: 'Terminology, Dictionaries'
+aliases: Terminology, Dictionaries
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Thesauri]]"
+  - "[[Thesauri]]"
 ---

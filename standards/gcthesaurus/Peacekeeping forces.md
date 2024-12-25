@@ -1,10 +1,10 @@
 ---
 title: Peacekeeping forces
-longTitle: 'Peacekeeping forces'
+aliases: Peacekeeping forces
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Armed forces]]"
+  - "[[Armed forces]]"
 french:
-- "[[Forces de maintien de la paix]]"
+  - "[[Forces de maintien de la paix]]"
 ---

@@ -1,10 +1,10 @@
 ---
 title: Commonwealth
-longTitle: 'Commonwealth'
+aliases: Commonwealth
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Commonwealth]]"
+  - "[[Commonwealth]]"
 narrowerTerm:
-- "[[International organizations]]"
+  - "[[International organizations]]"
 ---

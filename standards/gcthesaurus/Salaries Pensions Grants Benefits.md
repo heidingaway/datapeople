@@ -1,8 +1,8 @@
 ---
 title: Salaries Pensions Grants Benefits
-longTitle: 'Salaries, Pensions, Grants, Benefits'
+aliases: Salaries, Pensions, Grants, Benefits
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Allowances]]"
+  - "[[Allowances]]"
 ---

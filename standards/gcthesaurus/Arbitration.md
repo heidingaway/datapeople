@@ -1,8 +1,8 @@
 ---
 title: Arbitration
-longTitle: 'Arbitration'
+aliases: Arbitration
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Arbitrage]]"
+  - "[[Arbitrage]]"
 ---

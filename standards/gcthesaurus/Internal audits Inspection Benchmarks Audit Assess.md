@@ -1,8 +1,8 @@
 ---
 title: Internal audits Inspection Benchmarks Audit Assess
-longTitle: 'Internal audits, Inspection, Benchmarks, Audit, Assessment'
+aliases: Internal audits, Inspection, Benchmarks, Audit, Assessment
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Control]]"
+  - "[[Control]]"
 ---

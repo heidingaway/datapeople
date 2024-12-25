@@ -1,11 +1,11 @@
 ---
 title: Sports events
-longTitle: 'Sports events'
+aliases: Sports events
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Evenement sportif]]"
+  - "[[Evenement sportif]]"
 narrowerTerm:
-- "[[Olympic games]]"
-- "[[Panamerican games]]"
+  - "[[Olympic games]]"
+  - "[[Panamerican games]]"
 ---

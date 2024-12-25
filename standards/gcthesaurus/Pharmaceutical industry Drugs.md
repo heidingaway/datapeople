@@ -1,8 +1,8 @@
 ---
 title: Pharmaceutical industry Drugs
-longTitle: 'Pharmaceutical industry, Drugs'
+aliases: Pharmaceutical industry, Drugs
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Drug labelling]]"
+  - "[[Drug labelling]]"
 ---

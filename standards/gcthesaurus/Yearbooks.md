@@ -1,12 +1,12 @@
 ---
 title: Yearbooks
-longTitle: 'Yearbooks'
+aliases: Yearbooks
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Annuaire]]"
+  - "[[Annuaire]]"
 relatedTerm:
-- "[[Almanacs]]"
+  - "[[Almanacs]]"
 scopeNote:
-- "An annual documentary historical or memorial compe"
+  - An annual documentary historical or memorial compe
 ---

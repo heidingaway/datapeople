@@ -1,11 +1,11 @@
 ---
 title: Corporate image
-longTitle: 'Corporate image'
+aliases: Corporate image
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Image de marque]]"
+  - "[[Image de marque]]"
 relatedTerm:
-- "[[Corporations]]"
-- "[[Corporate names]]"
+  - "[[Corporations]]"
+  - "[[Corporate names]]"
 ---

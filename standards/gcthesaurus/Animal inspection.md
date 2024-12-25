@@ -1,10 +1,8 @@
 ---
 title: Animal inspection
-longTitle: 'Animal inspection'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Inspection des animaux]]"
-usedFor:
-- "[[Food animal inspection]]"
+  - "[[Inspection des animaux]]"
+aliases: Animal inspection
 ---

@@ -1,12 +1,12 @@
 ---
 title: Glass
-longTitle: 'Glass'
+aliases: Glass
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Verre]]"
+  - "[[Verre]]"
 relatedTerm:
-- "[[Glass industry]]"
+  - "[[Glass industry]]"
 scopeNote:
-- "A hard amorphous inorganic usually transparent bri"
+  - A hard amorphous inorganic usually transparent bri
 ---

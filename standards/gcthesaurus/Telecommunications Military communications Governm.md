@@ -1,8 +1,8 @@
 ---
 title: Telecommunications Military communications Governm
-longTitle: 'Telecommunications, Military communications, Government communications'
+aliases: Telecommunications, Military communications, Government communications
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Communications]]"
+  - "[[Communications]]"
 ---

@@ -3,26 +3,19 @@ title: Electronic equipment
 created: 2024-12-13
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Electronic equipment'
+  - gccommon
 french:
-- "[[Equipement electronique]]"
+  - "[[Equipement electronique]]"
 narrowerTerm:
-- "[[Computers]]"
+  - "[[Computers]]"
 relatedTerm:
-- "[[Electronic waste]]"
-- "[[Electronics industry]]"
-- "[[Electronics]]"
-- "[[Electronic waste]]"
-- "[[Electrical equipment]]"
-- "[[Electronic equipment]]"
-- "[[Electricity]]"
-usedFor:
-- "[[Electronic apparatus]]"
-- "[[Electronic appliances]]"
-- "[[Electronic devices]]"
-- "[[Electronic instruments]]"
-- "[[Electronic materials]]"
-- "[[Electronic products]]"
+  - "[[Electronic waste]]"
+  - "[[Electronics industry]]"
+  - "[[Electronics]]"
+  - "[[Electronic waste]]"
+  - "[[Electrical equipment]]"
+  - "[[Electronic equipment]]"
+  - "[[Electricity]]"
+aliases: Electronic equipment
 ---
 # Electronic equipment

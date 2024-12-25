@@ -1,15 +1,15 @@
 ---
 title: Social problems
-longTitle: 'Social problems'
+aliases: Social problems
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Probleme social]]"
+  - "[[Probleme social]]"
 narrowerTerm:
-- "[[Addiction]]"
-- "[[Crime]]"
-- "[[Discrimination]]"
-- "[[Homelessness]]"
-- "[[Poverty]]"
-- "[[Violence]]"
+  - "[[Addiction]]"
+  - "[[Crime]]"
+  - "[[Discrimination]]"
+  - "[[Homelessness]]"
+  - "[[Poverty]]"
+  - "[[Violence]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Hydroponics Harvest Farmlands Crop rotation Crop i
-longTitle: 'Hydroponics, Harvest, Farmlands, Crop rotation, Crop insurance, Agriculture, Agri-food products'
+aliases: Hydroponics, Harvest, Farmlands, Crop rotation, Crop insurance, Agriculture, Agri-food products
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Crops]]"
+  - "[[Crops]]"
 ---

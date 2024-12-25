@@ -1,10 +1,10 @@
 ---
 title: Enforcement
-longTitle: 'Enforcement'
+aliases: Enforcement
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Controle dapplication]]"
+  - "[[Controle dapplication]]"
 relatedTerm:
-- "[[Compliance]]"
+  - "[[Compliance]]"
 ---

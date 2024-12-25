@@ -3,12 +3,12 @@ title: Eligibility
 created: 2024-12-13
 modified: 2024-12-17
 tags:
-- gccommon
-longTitle: 'Eligibility'
+  - gccommon
+aliases: Eligibility
 french:
-- "[[Admissibilite]]"
+  - "[[Admissibilite]]"
 relatedTerm:
-- "[[Enrolment applications]]"
-- "[[Qualifications]]"
+  - "[[Enrolment applications]]"
+  - "[[Qualifications]]"
 ---
 # Eligibility

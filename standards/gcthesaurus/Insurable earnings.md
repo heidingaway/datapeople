@@ -1,8 +1,8 @@
 ---
 title: Insurable earnings
-longTitle: 'Insurable earnings'
+aliases: Insurable earnings
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Remuneration assurable]]"
+  - "[[Remuneration assurable]]"
 ---

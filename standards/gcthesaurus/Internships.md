@@ -1,8 +1,8 @@
 ---
 title: Internships
-longTitle: 'Internships'
+aliases: Internships
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Stage]]"
+  - "[[Stage]]"
 ---

@@ -1,22 +1,17 @@
 ---
 title: Drugs
-longTitle: 'Drugs'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Medicament]]"
+  - "[[Medicament]]"
 narrowerTerm:
-- "[[Nonprescription drugs]]"
-- "[[Patented medicines]]"
-- "[[Prescription drugs]]"
-- "[[Veterinary drugs]]"
+  - "[[Nonprescription drugs]]"
+  - "[[Patented medicines]]"
+  - "[[Prescription drugs]]"
+  - "[[Veterinary drugs]]"
 relatedTerm:
-- "[[Drug laws]]"
+  - "[[Drug laws]]"
 scopeNote:
-- "Any substance intended for the prevention or treat"
-usedFor:
-- "[[Medicaments]]"
-- "[[Medications]]"
-- "[[Medicinal drugs]]"
-- "[[Pharmaceuticals]]"
+  - Any substance intended for the prevention or treat
+aliases: Drugs
 ---

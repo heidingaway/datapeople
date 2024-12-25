@@ -1,12 +1,10 @@
 ---
 title: Financial assistance
-longTitle: 'Financial assistance'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Aide financiere]]"
+  - "[[Aide financiere]]"
 relatedTerm:
-- "[[Sponsorship]]"
-usedFor:
-- "[[Financial aid]]"
+  - "[[Sponsorship]]"
+aliases: Financial assistance
 ---

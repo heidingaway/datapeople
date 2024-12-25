@@ -1,8 +1,8 @@
 ---
 title: Home-based businesses Entrepreneurship
-longTitle: 'Home-based businesses, Entrepreneurship'
+aliases: Home-based businesses, Entrepreneurship
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Self employment]]"
+  - "[[Self employment]]"
 ---

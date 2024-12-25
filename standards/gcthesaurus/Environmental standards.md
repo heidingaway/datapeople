@@ -3,14 +3,12 @@ title: Environmental standards
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Environmental standards'
+  - gccommon
 french:
-- "[[Norme relative a lenvironnement]]"
-usedFor:
-- "[[Pollution standards]]"
+  - "[[Norme relative a lenvironnement]]"
+aliases: Environmental standards
 relatedTerm:
-- "[[Environmental quality]]"
-- "[[Environment]]"
+  - "[[Environmental quality]]"
+  - "[[Environment]]"
 ---
 # Environmental standards

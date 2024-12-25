@@ -1,10 +1,10 @@
 ---
 title: Office management
-longTitle: 'Office management'
+aliases: Office management
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gestion administrative]]"
+  - "[[Gestion administrative]]"
 relatedTerm:
-- "[[Administrative data]]"
+  - "[[Administrative data]]"
 ---

@@ -1,10 +1,8 @@
 ---
 title: Exports
-longTitle: 'Exports'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Exportation]]"
-usedFor:
-- "[[Cross-border sales]]"
+  - "[[Exportation]]"
+aliases: Exports
 ---

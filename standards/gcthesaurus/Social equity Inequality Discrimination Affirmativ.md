@@ -1,8 +1,8 @@
 ---
 title: Social equity Inequality Discrimination Affirmativ
-longTitle: 'Social equity, Inequality, Discrimination, Affirmative action'
+aliases: Social equity, Inequality, Discrimination, Affirmative action
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Equal opportunities]]"
+  - "[[Equal opportunities]]"
 ---

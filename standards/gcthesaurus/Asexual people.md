@@ -3,9 +3,9 @@ title: Asexual people
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Asexual people'
+  - gccommon
+aliases: Asexual people
 french:
-- "[[Personne asexuelle]]"
+  - "[[Personne asexuelle]]"
 ---
 # Asexual people

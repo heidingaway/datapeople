@@ -1,10 +1,8 @@
 ---
 title: Decontamination
-longTitle: 'Decontamination'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Decontamination]]"
-usedFor:
-- "[[Depollution]]"
+  - "[[Decontamination]]"
+aliases: Decontamination
 ---

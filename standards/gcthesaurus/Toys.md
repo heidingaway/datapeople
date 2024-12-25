@@ -3,13 +3,13 @@ title: Toys
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Toys'
+  - gccommon
+aliases: Toys
 french:
-- "[[Jouet]]"
+  - "[[Jouet]]"
 relatedTerm:
-- "[[Recreation]]"
-- "[[Games]]"
-- "[[Children]]"
+  - "[[Recreation]]"
+  - "[[Games]]"
+  - "[[Children]]"
 ---
 # Toys

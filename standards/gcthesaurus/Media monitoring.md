@@ -1,8 +1,8 @@
 ---
 title: Media monitoring
-longTitle: 'Media monitoring'
+aliases: Media monitoring
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Surveillance des medias]]"
+  - "[[Surveillance des medias]]"
 ---

@@ -1,10 +1,8 @@
 ---
 title: Animal health
-longTitle: 'Animal health'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Sante animale]]"
-usedFor:
-- "[[Health of animals]]"
+  - "[[Sante animale]]"
+aliases: Animal health
 ---

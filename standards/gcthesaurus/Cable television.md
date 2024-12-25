@@ -3,19 +3,13 @@ title: Cable television
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Cable television'
+  - gccommon
 french:
-- "[[Cablodistribution]]"
-usedFor:
-- "[[Cable broadcasting]]"
-- "[[Cable distribution]]"
-- "[[Cable services]]"
-- "[[TV distribution]]"
-- "[[Television distribution]]"
+  - "[[Cablodistribution]]"
+aliases: Cable television
 relatedTerm:
-- "[[Television]]"
-- "[[Radio]]"
-- "[[Broadcasting]]"
+  - "[[Television]]"
+  - "[[Radio]]"
+  - "[[Broadcasting]]"
 ---
 # Cable television

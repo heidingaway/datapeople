@@ -3,25 +3,14 @@ title: Electric power stations
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Electric power stations'
+  - gccommon
 broaderTerm:
-- "[[Energy technology]]"
+  - "[[Energy technology]]"
 french:
-- "[[Centrale electrique]]"
+  - "[[Centrale electrique]]"
 narrowerTerm:
-- "[[Hydroelectric plants]]"
-- "[[Nuclear power plants]]"
-usedFor:
-- "[[Electric power generating stations]]"
-- "[[Electric power plants]]"
-- "[[Electric stations]]"
-- "[[Generating plants]]"
-- "[[Generating stations]]"
-- "[[Power generating stations]]"
-- "[[Power plants]]"
-- "[[Power stations]]"
-- "[[Thermal power plants]]"
-- "[[Wind power plants]]"
+  - "[[Hydroelectric plants]]"
+  - "[[Nuclear power plants]]"
+aliases: Electric power stations
 ---
 # Electric power stations

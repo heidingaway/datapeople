@@ -3,16 +3,13 @@ title: Digitization
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Digitization'
+  - gccommon
 narrowerTerm:
-- "[[Digitized information]]"
+  - "[[Digitized information]]"
 french:
-- "[[Numerisation]]"
+  - "[[Numerisation]]"
 scopeNote:
-- "Recording information in digital format"
-usedFor:
-- "[[Imaging]]"
-- "[[Scanning]]"
+  - Recording information in digital format
+aliases: Digitization
 ---
 # Digitization

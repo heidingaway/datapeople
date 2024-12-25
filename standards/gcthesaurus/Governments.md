@@ -3,28 +3,28 @@ title: Governments
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Governments'
+  - gccommon
+aliases: Governments
 french:
-- "[[Gouvernement]]"
+  - "[[Gouvernement]]"
 narrowerTerm:
-- "[[Federal government]]"
-- "[[Government plans]]"
-- "[[Government priorities]]"
-- "[[Indigenous governments]]"
-- "[[Local governments]]"
-- "[[Portfolio]]"
-- "[[Provincial governments]]"
-- "[[Territorial governments]]"
-- "[[Treasury board]]"
+  - "[[Federal government]]"
+  - "[[Government plans]]"
+  - "[[Government priorities]]"
+  - "[[Indigenous governments]]"
+  - "[[Local governments]]"
+  - "[[Portfolio]]"
+  - "[[Provincial governments]]"
+  - "[[Territorial governments]]"
+  - "[[Treasury board]]"
 relatedTerm:
-- "[[Intergovernmental relations]]"
-- "[[Self government]]"
-- "[[Public administration]]"
-- "[[Government policy]]"
-- "[[Government information]]"
-- "[[Governance]]"
+  - "[[Intergovernmental relations]]"
+  - "[[Self government]]"
+  - "[[Public administration]]"
+  - "[[Government policy]]"
+  - "[[Government information]]"
+  - "[[Governance]]"
 scopeNote:
-- "The system according to which a nation or communit"
+  - The system according to which a nation or communit
 ---
 # Governments

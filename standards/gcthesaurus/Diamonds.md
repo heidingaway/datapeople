@@ -1,8 +1,8 @@
 ---
 title: Diamonds
-longTitle: 'Diamonds'
+aliases: Diamonds
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Diamant]]"
+  - "[[Diamant]]"
 ---

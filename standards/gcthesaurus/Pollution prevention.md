@@ -1,12 +1,12 @@
 ---
 title: Pollution prevention
-longTitle: 'Pollution prevention'
+aliases: Pollution prevention
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Prevention de la pollution]]"
+  - "[[Prevention de la pollution]]"
 relatedTerm:
-- "[[Clean technology]]"
+  - "[[Clean technology]]"
 scopeNote:
-- "Reduction or elimination of pollution at the sourc"
+  - Reduction or elimination of pollution at the sourc
 ---

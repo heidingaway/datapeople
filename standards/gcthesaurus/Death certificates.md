@@ -1,8 +1,8 @@
 ---
 title: Death certificates
-longTitle: 'Death certificates'
+aliases: Death certificates
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Certificat de deces]]"
+  - "[[Certificat de deces]]"
 ---

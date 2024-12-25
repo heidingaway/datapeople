@@ -1,11 +1,8 @@
 ---
 title: Population distribution
-longTitle: 'Population distribution'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Repartition de la population]]"
-usedFor:
-- "[[Composition of the population]]"
-- "[[Distribution of population]]"
+  - "[[Repartition de la population]]"
+aliases: Population distribution
 ---

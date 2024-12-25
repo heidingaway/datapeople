@@ -3,17 +3,13 @@ title: Tax fraud
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Tax fraud'
+  - gccommon
 french:
-- "[[Fraude fiscale]]"
-usedFor:
-- "[[Fiscal evasion]]"
-- "[[Fiscal fraud]]"
-- "[[Tax evasion]]"
+  - "[[Fraude fiscale]]"
+aliases: Tax fraud
 relatedTerm:
-- "[[Taxes]]"
-- "[[Tax avoidance]]"
-- "[[Fiscal policy]]"
+  - "[[Taxes]]"
+  - "[[Tax avoidance]]"
+  - "[[Fiscal policy]]"
 ---
 # Tax fraud

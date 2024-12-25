@@ -1,10 +1,8 @@
 ---
 title: Social structure
-longTitle: 'Social structure'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Structure sociale]]"
-usedFor:
-- "[[Social classes]]"
+  - "[[Structure sociale]]"
+aliases: Social structure
 ---

@@ -1,8 +1,8 @@
 ---
 title: Progress reports
-longTitle: 'Progress reports'
+aliases: Progress reports
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Rapport detape]]"
+  - "[[Rapport detape]]"
 ---

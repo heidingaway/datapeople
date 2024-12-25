@@ -1,8 +1,8 @@
 ---
 title: Potatoes Lettuce Carrots
-longTitle: 'Potatoes, Lettuce, Carrots'
+aliases: Potatoes, Lettuce, Carrots
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Vegetables]]"
+  - "[[Vegetables]]"
 ---

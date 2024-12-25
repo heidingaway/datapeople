@@ -3,14 +3,14 @@ title: Insects
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Insects'
+  - gccommon
+aliases: Insects
 french:
-- "[[Insecte]]"
+  - "[[Insecte]]"
 narrowerTerm:
-- "[[Butterflies]]"
+  - "[[Butterflies]]"
 relatedTerm:
-- "[[Entomology]]"
-- "[[Insecticides]]"
+  - "[[Entomology]]"
+  - "[[Insecticides]]"
 ---
 # Insects

@@ -1,10 +1,8 @@
 ---
 title: Rail companies
-longTitle: 'Rail companies'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Compagnie ferroviaire]]"
-usedFor:
-- "[[Rail carriers]]"
+  - "[[Compagnie ferroviaire]]"
+aliases: Rail companies
 ---

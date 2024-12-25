@@ -1,10 +1,8 @@
 ---
 title: Petrology
-longTitle: 'Petrology'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Petrologie]]"
-usedFor:
-- "[[Petrography]]"
+  - "[[Petrologie]]"
+aliases: Petrology
 ---

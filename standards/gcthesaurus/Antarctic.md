@@ -3,13 +3,11 @@ title: Antarctic
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Antarctic'
+  - gccommon
 french:
-- "[[Antarctique]]"
-usedFor:
-- "[[South Pole]]"
+  - "[[Antarctique]]"
+aliases: Antarctic
 narrowerTerm:
-- "[[Polar regions]]"
+  - "[[Polar regions]]"
 ---
 # Antarctic

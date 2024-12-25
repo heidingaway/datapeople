@@ -1,8 +1,8 @@
 ---
 title: Ornaments
-longTitle: 'Ornaments'
+aliases: Ornaments
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Parure]]"
+  - "[[Parure]]"
 ---

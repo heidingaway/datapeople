@@ -1,8 +1,12 @@
 ---
 title: Abbreviations
-longTitle: 'Abbreviations'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Abbreviations
 french:
-- "[[Abreviation]]"
+  - Abreviation
 ---
+# Abbreviations

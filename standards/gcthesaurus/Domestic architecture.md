@@ -1,8 +1,8 @@
 ---
 title: Domestic architecture
-longTitle: 'Domestic architecture'
+aliases: Domestic architecture
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Architecture domestique]]"
+  - "[[Architecture domestique]]"
 ---

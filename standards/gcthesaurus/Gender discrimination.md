@@ -1,11 +1,8 @@
 ---
 title: Gender discrimination
-longTitle: 'Gender discrimination'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Discrimination sexuelle]]"
-usedFor:
-- "[[Gender portrayal]]"
-- "[[Sex discrimination]]"
+  - "[[Discrimination sexuelle]]"
+aliases: Gender discrimination
 ---

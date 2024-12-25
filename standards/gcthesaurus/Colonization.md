@@ -1,8 +1,8 @@
 ---
 title: Colonization
-longTitle: 'Colonization'
+aliases: Colonization
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Colonisation]]"
+  - "[[Colonisation]]"
 ---

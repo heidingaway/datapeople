@@ -1,8 +1,8 @@
 ---
 title: Personal information Confidentiality Access to inf
-longTitle: 'Personal information, Confidentiality, Access to information'
+aliases: Personal information, Confidentiality, Access to information
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Privacy]]"
+  - "[[Privacy]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Tenders Contracting
-longTitle: 'Tenders, Contracting'
+aliases: Tenders, Contracting
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Call for tenders]]"
+  - "[[Call for tenders]]"
 ---

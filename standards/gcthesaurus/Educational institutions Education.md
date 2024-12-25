@@ -1,8 +1,8 @@
 ---
 title: Educational institutions Education
-longTitle: 'Educational institutions, Education'
+aliases: Educational institutions, Education
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Teachers]]"
+  - "[[Teachers]]"
 ---

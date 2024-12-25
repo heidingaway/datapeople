@@ -1,8 +1,8 @@
 ---
 title: Prices Economic indicators
-longTitle: 'Prices, Economic indicators'
+aliases: Prices, Economic indicators
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Price indexes]]"
+  - "[[Price indexes]]"
 ---

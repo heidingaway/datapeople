@@ -1,20 +1,10 @@
 ---
 title: Sexual offences
-longTitle: 'Sexual offences'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Offences]]"
+  - "[[Offences]]"
 french:
-- "[[Infraction sexuelle]]"
-usedFor:
-- "[[Indecent assaults]]"
-- "[[Rapes]]"
-- "[[Sex crimes]]"
-- "[[Sexual abuse]]"
-- "[[Sexual assaults]]"
-- "[[Sexual crimes]]"
-- "[[Sexual exploitation]]"
-- "[[Sexual offenses]]"
-- "[[Sexual violence]]"
+  - "[[Infraction sexuelle]]"
+aliases: Sexual offences
 ---

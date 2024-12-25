@@ -1,10 +1,8 @@
 ---
 title: Stock markets
-longTitle: 'Stock markets'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Marche des valeurs]]"
-usedFor:
-- "[[Stock exchanges]]"
+  - "[[Marche des valeurs]]"
+aliases: Stock markets
 ---

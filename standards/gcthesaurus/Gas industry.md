@@ -1,10 +1,10 @@
 ---
 title: Gas industry
-longTitle: 'Gas industry'
+aliases: Gas industry
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie gaziere]]"
+  - "[[Industrie gaziere]]"
 scopeNote:
-- "An economic activity relating to the production ma"
+  - An economic activity relating to the production ma
 ---

@@ -1,8 +1,8 @@
 ---
 title: Animal diseases
-longTitle: 'Animal diseases'
+aliases: Animal diseases
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Maladie animale]]"
+  - "[[Maladie animale]]"
 ---

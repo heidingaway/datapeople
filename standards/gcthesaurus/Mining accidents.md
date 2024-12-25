@@ -1,10 +1,10 @@
 ---
 title: Mining accidents
-longTitle: 'Mining accidents'
+aliases: Mining accidents
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Occupational accidents]]"
+  - "[[Occupational accidents]]"
 french:
-- "[[Accident minier]]"
+  - "[[Accident minier]]"
 ---

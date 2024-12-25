@@ -3,16 +3,13 @@ title: Census
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Census'
+  - gccommon
 french:
-- "[[Recensement]]"
-usedFor:
-- "[[Census of population]]"
-- "[[Population census]]"
+  - "[[Recensement]]"
+aliases: Census
 relatedTerm:
-- "[[Population]]"
-- "[[Demography]]"
-- "[[Census data]]"
+  - "[[Population]]"
+  - "[[Demography]]"
+  - "[[Census data]]"
 ---
 # Census

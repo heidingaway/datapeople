@@ -1,8 +1,8 @@
 ---
 title: Safety measures Products
-longTitle: 'Safety measures, Products'
+aliases: Safety measures, Products
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Product recalls]]"
+  - "[[Product recalls]]"
 ---

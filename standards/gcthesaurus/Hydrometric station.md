@@ -1,8 +1,8 @@
 ---
 title: Hydrometric station
-longTitle: 'Hydrometric station'
+aliases: Hydrometric station
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Station hydrometrique]]"
+  - "[[Station hydrometrique]]"
 ---

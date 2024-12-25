@@ -1,10 +1,8 @@
 ---
 title: Laboratories
-longTitle: 'Laboratories'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Laboratoire]]"
-usedFor:
-- "[[Research laboratories]]"
+  - "[[Laboratoire]]"
+aliases: Laboratories
 ---

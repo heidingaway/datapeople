@@ -1,8 +1,8 @@
 ---
 title: Meteorology Climate
-longTitle: 'Meteorology, Climate'
+aliases: Meteorology, Climate
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Meteorological data]]"
+  - "[[Meteorological data]]"
 ---

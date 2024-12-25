@@ -3,15 +3,13 @@ title: Legislative writing
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Legislative writing'
+  - gccommon
 french:
-- "[[Redaction des lois]]"
-usedFor:
-- "[[Legal writing]]"
+  - "[[Redaction des lois]]"
+aliases: Legislative writing
 relatedTerm:
-- "[[Regulations]]"
-- "[[Legislation]]"
-- "[[By-laws]]"
+  - "[[Regulations]]"
+  - "[[Legislation]]"
+  - "[[By-laws]]"
 ---
 # Legislative writing

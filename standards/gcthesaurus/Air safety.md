@@ -1,19 +1,24 @@
 ---
 title: Air safety
-longTitle: 'Air safety'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Securite aerienne]]"
+  - Securite aerienne
 scopeNote:
-- "The ability of an aircraft or component parts to p"
-usedFor:
-- "[[Airport safety]]"
-- "[[Airworthiness]]"
-- "[[Aviation safety]]"
-- "[[Cabin safety]]"
-- "[[Flight safety]]"
+  - The ability of an aircraft or component parts to perform its function satisfactorily through a range of operations.
+personalNote: SN. Airworthiness - The degree to which aircraft are designated as in working condition and safe to fly.
+aliases:
+  - Air safety
+  - Airport Safety
+  - Airworthiness
+  - Aviation Safety
+  - Cabin Safety
+  - Flight safety
 relatedTerm:
-- "[[Aircraft accidents]]"
-- "[[Air transport]]"
+  - "[[Air transport]]"
+  - "[[Aircraft accidents]]"
+id: 381
 ---
+# Air safety

@@ -1,16 +1,17 @@
 ---
 title: Workplace automation
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Workplace automation'
+  - gccommon
+aliases:
+  - Workplace automation
 french:
-- "[[Automatisation du travail]]"
+  - Automatisation du travail
 relatedTerm:
-- "[[Workplace]]"
-- "[[Work organization]]"
-- "[[Telework]]"
-- "[[Office automation]]"
+  - "[[Office automation]]"
+  - "[[Telework]]"
+  - "[[Work organization]]"
+  - "[[Workplace]]"
 ---
 # Workplace automation

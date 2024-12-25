@@ -1,10 +1,8 @@
 ---
 title: Business plans
-longTitle: 'Business plans'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Plan daffaires]]"
-usedFor:
-- "[[Business planning]]"
+  - "[[Plan daffaires]]"
+aliases: Business plans
 ---

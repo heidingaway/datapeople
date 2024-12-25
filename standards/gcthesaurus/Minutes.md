@@ -1,8 +1,8 @@
 ---
 title: Minutes
-longTitle: 'Minutes'
+aliases: Minutes
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Proces-verbal]]"
+  - "[[Proces-verbal]]"
 ---

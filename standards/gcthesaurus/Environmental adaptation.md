@@ -1,10 +1,8 @@
 ---
 title: Environmental adaptation
-longTitle: 'Environmental adaptation'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Adaptation a lenvironnement]]"
-usedFor:
-- "[[Ecological adaptation]]"
+  - "[[Adaptation a lenvironnement]]"
+aliases: Environmental adaptation
 ---

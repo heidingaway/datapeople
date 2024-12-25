@@ -1,12 +1,10 @@
 ---
 title: Foreign interference
-longTitle: 'Foreign interference'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[National security]]"
+  - "[[National security]]"
 french:
-- "[[Ingerence etrangere]]"
-usedFor:
-- "[[Foreign intervention]]"
+  - "[[Ingerence etrangere]]"
+aliases: Foreign interference
 ---

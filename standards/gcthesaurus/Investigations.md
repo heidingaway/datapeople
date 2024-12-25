@@ -1,8 +1,8 @@
 ---
 title: Investigations
-longTitle: 'Investigations'
+aliases: Investigations
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Enquete]]"
+  - "[[Enquete]]"
 ---

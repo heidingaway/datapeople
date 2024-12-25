@@ -1,8 +1,8 @@
 ---
 title: Peas Lentils Beans
-longTitle: 'Peas, Lentils, Beans'
+aliases: Peas, Lentils, Beans
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Legumes]]"
+  - "[[Legumes]]"
 ---

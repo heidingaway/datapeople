@@ -1,8 +1,8 @@
 ---
 title: Information dissemination
-longTitle: 'Information dissemination'
+aliases: Information dissemination
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Diffusion de linformation]]"
+  - "[[Diffusion de linformation]]"
 ---

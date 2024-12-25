@@ -3,14 +3,14 @@ title: Language policy
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Language policy'
+  - gccommon
+aliases: Language policy
 french:
-- "[[Politique linguistique]]"
+  - "[[Politique linguistique]]"
 relatedTerm:
-- "[[Official languages promotion]]"
-- "[[Official languages]]"
-- "[[Linguistic duality]]"
-- "[[Bilingual services]]"
+  - "[[Official languages promotion]]"
+  - "[[Official languages]]"
+  - "[[Linguistic duality]]"
+  - "[[Bilingual services]]"
 ---
 # Language policy

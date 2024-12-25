@@ -1,8 +1,8 @@
 ---
 title: Pregnancy Birth rate Birth
-longTitle: 'Pregnancy, Birth rate, Birth'
+aliases: Pregnancy, Birth rate, Birth
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Family planning]]"
+  - "[[Family planning]]"
 ---

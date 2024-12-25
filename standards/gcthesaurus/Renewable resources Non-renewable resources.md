@@ -1,8 +1,8 @@
 ---
 title: Renewable resources Non-renewable resources
-longTitle: 'Renewable resources, Non-renewable resources'
+aliases: Renewable resources, Non-renewable resources
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Natural resources]]"
+  - "[[Natural resources]]"
 ---

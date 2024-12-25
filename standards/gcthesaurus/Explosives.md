@@ -3,18 +3,13 @@ title: Explosives
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Explosives'
+  - gccommon
 french:
-- "[[Explosif]]"
+  - "[[Explosif]]"
 relatedTerm:
-- "[[Explosions]]"
-- "[[Weapons]]"
-- "[[Chemicals]]"
-usedFor:
-- "[[Explosive devices]]"
-- "[[Explosive materials]]"
-- "[[Explosive products]]"
-- "[[Explosive substances]]"
+  - "[[Explosions]]"
+  - "[[Weapons]]"
+  - "[[Chemicals]]"
+aliases: Explosives
 ---
 # Explosives

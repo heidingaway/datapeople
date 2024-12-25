@@ -1,8 +1,8 @@
 ---
 title: User education Training centres Mentoring Learning
-longTitle: 'User education, Training centres, Mentoring, Learning, Education, Coaching'
+aliases: User education, Training centres, Mentoring, Learning, Education, Coaching
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Training]]"
+  - "[[Training]]"
 ---

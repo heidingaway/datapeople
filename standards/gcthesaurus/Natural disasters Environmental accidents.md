@@ -1,8 +1,8 @@
 ---
 title: Natural disasters Environmental accidents
-longTitle: 'Natural disasters, Environmental accidents'
+aliases: Natural disasters, Environmental accidents
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Disasters]]"
+  - "[[Disasters]]"
 ---

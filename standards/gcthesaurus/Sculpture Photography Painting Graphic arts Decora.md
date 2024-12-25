@@ -1,8 +1,8 @@
 ---
 title: Sculpture Photography Painting Graphic arts Decora
-longTitle: 'Sculpture, Photography, Painting, Graphic arts, Decorative arts'
+aliases: Sculpture, Photography, Painting, Graphic arts, Decorative arts
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Visual arts]]"
+  - "[[Visual arts]]"
 ---

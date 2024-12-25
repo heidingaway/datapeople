@@ -1,8 +1,8 @@
 ---
 title: Supplementary estimates
-longTitle: 'Supplementary estimates'
+aliases: Supplementary estimates
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Budget supplementaire des depenses]]"
+  - "[[Budget supplementaire des depenses]]"
 ---

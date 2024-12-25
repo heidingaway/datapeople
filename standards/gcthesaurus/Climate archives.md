@@ -1,8 +1,8 @@
 ---
 title: Climate archives
-longTitle: 'Climate archives'
+aliases: Climate archives
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Archives climatologiques]]"
+  - "[[Archives climatologiques]]"
 ---

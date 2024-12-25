@@ -1,8 +1,8 @@
 ---
-title: Records management Metadata Libraries Information 
-longTitle: 'Records management, Metadata, Libraries, Information management, Classification, Catalogues'
+title: Records management Metadata Libraries Information
+aliases: Records management, Metadata, Libraries, Information management, Classification, Catalogues
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Cataloguing]]"
+  - "[[Cataloguing]]"
 ---

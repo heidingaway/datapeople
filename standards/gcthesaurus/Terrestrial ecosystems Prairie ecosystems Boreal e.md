@@ -1,8 +1,8 @@
 ---
 title: Terrestrial ecosystems Prairie ecosystems Boreal e
-longTitle: 'Terrestrial ecosystems, Prairie ecosystems, Boreal ecosystems, Arctic ecosystems, Aquatic ecosystems'
+aliases: Terrestrial ecosystems, Prairie ecosystems, Boreal ecosystems, Arctic ecosystems, Aquatic ecosystems
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Ecosystems]]"
+  - "[[Ecosystems]]"
 ---

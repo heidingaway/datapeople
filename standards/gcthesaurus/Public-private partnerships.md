@@ -3,18 +3,14 @@ title: Public-private partnerships
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Public-private partnerships'
+  - gccommon
 french:
-- "[[Partenariat public-prive]]"
-usedFor:
-- "[[Government-industry partnerships]]"
-- "[[PPP]]"
-- "[[Private-public partnerships]]"
+  - "[[Partenariat public-prive]]"
+aliases: Public-private partnerships
 historyNote:
-- "Public-private partnerships replaces Government-industry partnerships"
+  - Public-private partnerships replaces Government-industry partnerships
 relatedTerm:
-- "[[Public sector]]"
-- "[[Private sector]]"
+  - "[[Public sector]]"
+  - "[[Private sector]]"
 ---
 # Public-private partnerships

@@ -1,8 +1,8 @@
 ---
 title: Pregnancy
-longTitle: 'Pregnancy'
+aliases: Pregnancy
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Grossesse]]"
+  - "[[Grossesse]]"
 ---

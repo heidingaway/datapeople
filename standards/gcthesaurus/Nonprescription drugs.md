@@ -1,14 +1,8 @@
 ---
 title: Nonprescription drugs
-longTitle: 'Nonprescription drugs'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Medicament en vente libre]]"
-usedFor:
-- "[[Non prescription drugs]]"
-- "[[Non prescription medications]]"
-- "[[Non prescription medicines]]"
-- "[[Over-the-counter drugs]]"
-- "[[Over-the-counter medications]]"
+  - "[[Medicament en vente libre]]"
+aliases: Nonprescription drugs
 ---

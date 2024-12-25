@@ -3,12 +3,9 @@ title: Logging industry
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Logging industry'
+  - gccommon
 french:
-- "[[Industrie de lexploitation forestiere]]"
-usedFor:
-- "[[Logging]]"
-- "[[Logging sector]]"
+  - "[[Industrie de lexploitation forestiere]]"
+aliases: Logging industry
 ---
 # Logging industry

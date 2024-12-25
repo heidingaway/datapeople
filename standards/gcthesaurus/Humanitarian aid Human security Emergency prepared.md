@@ -1,8 +1,8 @@
 ---
 title: Humanitarian aid Human security Emergency prepared
-longTitle: 'Humanitarian aid, Human security, Emergency preparedness'
+aliases: Humanitarian aid, Human security, Emergency preparedness
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Humanitarian crisis]]"
+  - "[[Humanitarian crisis]]"
 ---

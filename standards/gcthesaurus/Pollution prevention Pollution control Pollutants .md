@@ -1,8 +1,8 @@
 ---
-title: Pollution prevention Pollution control Pollutants 
-longTitle: 'Pollution prevention, Pollution control, Pollutants, Environmental accidents'
+title: Pollution prevention Pollution control Pollutants
+aliases: Pollution prevention, Pollution control, Pollutants, Environmental accidents
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Pollution]]"
+  - "[[Pollution]]"
 ---

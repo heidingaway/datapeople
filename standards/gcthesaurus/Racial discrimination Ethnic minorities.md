@@ -1,8 +1,8 @@
 ---
 title: Racial discrimination Ethnic minorities
-longTitle: 'Racial discrimination, Ethnic minorities'
+aliases: Racial discrimination, Ethnic minorities
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Visible minorities]]"
+  - "[[Visible minorities]]"
 ---

@@ -1,12 +1,10 @@
 ---
 title: Human security
-longTitle: 'Human security'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Securite humaine]]"
+  - "[[Securite humaine]]"
 scopeNote:
-- "Freedom from pervasive threats to peoples rights s"
-usedFor:
-- "[[Human safety]]"
+  - Freedom from pervasive threats to peoples rights s
+aliases: Human security
 ---

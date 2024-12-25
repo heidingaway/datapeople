@@ -1,8 +1,8 @@
 ---
 title: Representatives Foreign service Diplomatic mission
-longTitle: 'Representatives, Foreign service, Diplomatic missions'
+aliases: Representatives, Foreign service, Diplomatic missions
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Delegations]]"
+  - "[[Delegations]]"
 ---

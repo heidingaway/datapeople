@@ -1,13 +1,17 @@
 ---
 title: Adults
-longTitle: 'Adults'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Adults
 french:
-- "[[Adulte]]"
+  - Adulte
 narrowerTerm:
-- "[[Seniors]]"
-- "[[Young adults]]"
+  - "[[Seniors]]"
+  - "[[Young adults]]"
 scopeNote:
-- "Persons who has attained legal age of majority"
+  - Persons who has attained legal age of majority
 ---
+# Adults

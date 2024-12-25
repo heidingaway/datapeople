@@ -3,16 +3,14 @@ title: Minorities
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Minorities'
+  - gccommon
 french:
-- "[[Minorite]]"
+  - "[[Minorite]]"
 narrowerTerm:
-- "[[2SLGBTQI people]]"
-- "[[Visible minorities]]"
-- "[[Language minorities]]"
-- "[[Ethnic minorities]]"
-usedFor:
-- "[[Minority groups]]"
+  - "[[2SLGBTQI people]]"
+  - "[[Visible minorities]]"
+  - "[[Language minorities]]"
+  - "[[Ethnic minorities]]"
+aliases: Minorities
 ---
 # Minorities

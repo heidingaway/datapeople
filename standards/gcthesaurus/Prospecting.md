@@ -1,11 +1,8 @@
 ---
 title: Prospecting
-longTitle: 'Prospecting'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Prospection]]"
-usedFor:
-- "[[Mineral prospecting]]"
-- "[[Resources exploration]]"
+  - "[[Prospection]]"
+aliases: Prospecting
 ---

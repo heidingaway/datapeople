@@ -1,10 +1,10 @@
 ---
 title: Rodenticides
-longTitle: 'Rodenticides'
+aliases: Rodenticides
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Rodenticide]]"
+  - "[[Rodenticide]]"
 relatedTerm:
-- "[[Rodents]]"
+  - "[[Rodents]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Virtual exhibitions Art works Art galleries
-longTitle: 'Virtual exhibitions, Art works, Art galleries'
+aliases: Virtual exhibitions, Art works, Art galleries
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Art exhibitions]]"
+  - "[[Art exhibitions]]"
 ---

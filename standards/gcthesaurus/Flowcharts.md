@@ -1,10 +1,8 @@
 ---
 title: Flowcharts
-longTitle: 'Flowcharts'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Organigramme]]"
-usedFor:
-- "[[Organizational charts]]"
+  - "[[Organigramme]]"
+aliases: Flowcharts
 ---

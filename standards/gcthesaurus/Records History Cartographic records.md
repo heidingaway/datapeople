@@ -1,8 +1,8 @@
 ---
 title: Records History Cartographic records
-longTitle: 'Records, History, Cartographic records'
+aliases: Records, History, Cartographic records
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Archives]]"
+  - "[[Archives]]"
 ---

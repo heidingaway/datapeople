@@ -3,12 +3,12 @@ title: Rates
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Rates'
+  - gccommon
+aliases: Rates
 french:
-- "[[Taux]]"
+  - "[[Taux]]"
 narrowerTerm:
-- "[[Exchange rates]]"
-- "[[Interest rates]]"
+  - "[[Exchange rates]]"
+  - "[[Interest rates]]"
 ---
 # Rates

@@ -1,14 +1,12 @@
 ---
 title: Music
-longTitle: 'Music'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Musique]]"
+  - "[[Musique]]"
 relatedTerm:
-- "[[Music industry]]"
-- "[[Music scores]]"
-- "[[Orchestras]]"
-usedFor:
-- "[[Musical instruments]]"
+  - "[[Music industry]]"
+  - "[[Music scores]]"
+  - "[[Orchestras]]"
+aliases: Music
 ---

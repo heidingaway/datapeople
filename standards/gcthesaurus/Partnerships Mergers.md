@@ -1,8 +1,8 @@
 ---
 title: Partnerships Mergers
-longTitle: 'Partnerships, Mergers'
+aliases: Partnerships, Mergers
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Dissolution]]"
+  - "[[Dissolution]]"
 ---

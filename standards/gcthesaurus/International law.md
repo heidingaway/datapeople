@@ -3,12 +3,12 @@ title: International law
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'International law'
+  - gccommon
+aliases: International law
 french:
-- "[[Droit international]]"
+  - "[[Droit international]]"
 relatedTerm:
-- "[[International courts]]"
-- "[[Extradition]]"
+  - "[[International courts]]"
+  - "[[Extradition]]"
 ---
 # International law

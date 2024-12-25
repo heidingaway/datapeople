@@ -3,17 +3,14 @@ title: Aquaculture
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Aquaculture'
+  - gccommon
 french:
-- "[[Aquaculture]]"
+  - "[[Aquaculture]]"
 scopeNote:
-- "Culture of aquatic animals or plants"
-usedFor:
-- "[[Aquatic agriculture]]"
-- "[[Aquiculture]]"
+  - Culture of aquatic animals or plants
+aliases: Aquaculture
 relatedTerm:
-- "[[Aquatic animals]]"
-- "[[Aquatic plants]]"
+  - "[[Aquatic animals]]"
+  - "[[Aquatic plants]]"
 ---
 # Aquaculture

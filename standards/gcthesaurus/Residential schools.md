@@ -1,10 +1,8 @@
 ---
 title: Residential schools
-longTitle: 'Residential schools'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ecole residentielle]]"
-usedFor:
-- "[[Boarding schools]]"
+  - "[[Ecole residentielle]]"
+aliases: Residential schools
 ---

@@ -1,21 +1,10 @@
 ---
 title: Public service
-longTitle: 'Public service'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Fonction publique]]"
+  - "[[Fonction publique]]"
 relatedTerm:
-- "[[Severance pay]]"
-usedFor:
-- "[[Civil servants]]"
-- "[[Civil service]]"
-- "[[Federal employees]]"
-- "[[Federal government employees]]"
-- "[[Federal public service]]"
-- "[[Government employees]]"
-- "[[Public employees]]"
-- "[[Public servants]]"
-- "[[Public service employees]]"
-- "[[407.02 public servant]]"
+  - "[[Severance pay]]"
+aliases: Public service
 ---

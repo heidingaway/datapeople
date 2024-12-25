@@ -1,8 +1,8 @@
 ---
 title: Research and development Design
-longTitle: 'Research and development, Design'
+aliases: Research and development, Design
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Development]]"
+  - "[[Development]]"
 ---

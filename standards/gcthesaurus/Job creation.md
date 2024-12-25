@@ -3,15 +3,13 @@ title: Job creation
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Job creation'
+  - gccommon
 french:
-- "[[Creation demploi]]"
-usedFor:
-- "[[New jobs]]"
+  - "[[Creation demploi]]"
+aliases: Job creation
 relatedTerm:
-- "[[Labour market]]"
-- "[[Employment opportunities]]"
-- "[[Employment]]"
+  - "[[Labour market]]"
+  - "[[Employment opportunities]]"
+  - "[[Employment]]"
 ---
 # Job creation

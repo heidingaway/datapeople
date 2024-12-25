@@ -1,10 +1,15 @@
 ---
 title: Templates
-longTitle: 'Templates'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+id: 4871
 french:
-- "[[Modeles]]"
+  - Modeles
 relatedTerm:
-- "[[Websites]]"
+  - "[[Data processing]]"
+  - "[[Information technology]]"
+  - "[[Websites]]"
 ---
+# Templates

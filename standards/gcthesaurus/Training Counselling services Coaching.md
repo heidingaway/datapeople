@@ -1,8 +1,8 @@
 ---
 title: Training Counselling services Coaching
-longTitle: 'Training, Counselling services, Coaching'
+aliases: Training, Counselling services, Coaching
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Mentoring]]"
+  - "[[Mentoring]]"
 ---

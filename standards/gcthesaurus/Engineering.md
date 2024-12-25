@@ -1,12 +1,12 @@
 ---
 title: Engineering
-longTitle: 'Engineering'
+aliases: Engineering
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ingenierie]]"
+  - "[[Ingenierie]]"
 narrowerTerm:
-- "[[Genetic engineering]]"
-- "[[Mechanical engineering]]"
-- "[[Military engineering]]"
+  - "[[Genetic engineering]]"
+  - "[[Mechanical engineering]]"
+  - "[[Military engineering]]"
 ---

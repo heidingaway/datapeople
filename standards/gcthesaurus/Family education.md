@@ -1,10 +1,10 @@
 ---
 title: Family education
-longTitle: 'Family education'
+aliases: Family education
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Education familiale]]"
+  - "[[Education familiale]]"
 scopeNote:
-- "An educational program concerned with the improvem"
+  - An educational program concerned with the improvem
 ---

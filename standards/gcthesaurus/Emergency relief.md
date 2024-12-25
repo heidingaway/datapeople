@@ -1,10 +1,10 @@
 ---
 title: Emergency relief
-longTitle: 'Emergency relief'
+aliases: Emergency relief
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Secours durgence]]"
+  - "[[Secours durgence]]"
 narrowerTerm:
-- "[[Disaster relief]]"
+  - "[[Disaster relief]]"
 ---

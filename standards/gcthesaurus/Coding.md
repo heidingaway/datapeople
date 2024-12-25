@@ -1,8 +1,8 @@
 ---
 title: Coding
-longTitle: 'Coding'
+aliases: Coding
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Codification]]"
+  - "[[Codification]]"
 ---

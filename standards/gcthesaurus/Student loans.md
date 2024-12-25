@@ -1,8 +1,8 @@
 ---
 title: Student loans
-longTitle: 'Student loans'
+aliases: Student loans
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Pret etudiant]]"
+  - "[[Pret etudiant]]"
 ---

@@ -1,28 +1,29 @@
 ---
 title: Waste
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Waste'
+  - gccommon
+id: 2184
 french:
-- "[[Dechets]]"
+  - Dechets
 narrowerTerm:
-- "[[Domestic waste]]"
-- "[[Electronic waste]]"
-- "[[Industrial waste]]"
-- "[[Hazardous waste]]"
+  - "[[Domestic waste]]"
+  - "[[Electronic waste]]"
+  - "[[Hazardous waste]]"
+  - "[[Industrial waste]]"
 relatedTerm:
-- "[[Waste management]]"
-- "[[Waste water]]"
-usedFor:
-- "[[Discarded materials]]"
-- "[[Garbage]]"
-- "[[Refuse]]"
-- "[[Rubbish]]"
-- "[[Solid waste]]"
-- "[[Trash]]"
-- "[[Waste materials]]"
-- "[[Waste products]]"
+  - "[[Manure]]"
+  - "[[Waste management]]"
+  - "[[Waste water]]"
+aliases:
+  - Discarded materials
+  - Garbage
+  - Refuse
+  - Rubbish
+  - Solid waste
+  - Trash
+  - Waste materials
+  - Waste products
 ---
 # Waste

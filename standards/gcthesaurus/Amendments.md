@@ -1,10 +1,8 @@
 ---
 title: Amendments
-longTitle: 'Amendments'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Amendement]]"
-usedFor:
-- "[[Legislative amendments]]"
+  - "[[Amendement]]"
+aliases: Amendments
 ---

@@ -3,29 +3,27 @@ title: Taxes
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Taxes'
+  - gccommon
 french:
-- "[[Impot]]"
+  - "[[Impot]]"
 narrowerTerm:
-- "[[Excise taxes]]"
-- "[[Federal taxes]]"
-- "[[Income tax]]"
-- "[[Property tax]]"
-- "[[Provincial taxes]]"
-- "[[Sales taxes]]"
+  - "[[Excise taxes]]"
+  - "[[Federal taxes]]"
+  - "[[Income tax]]"
+  - "[[Property tax]]"
+  - "[[Provincial taxes]]"
+  - "[[Sales taxes]]"
 relatedTerm:
-- "[[Tax refunds]]"
-- "[[Tolls]]"
-- "[[Taxation regulations]]"
-- "[[Tax refunds]]"
-- "[[Tax incentives]]"
-- "[[Tax fraud]]"
-- "[[Tax benefits]]"
-- "[[Tax avoidance]]"
-- "[[Fiscal policy]]"
-- "[[Fiscal issues]]"
-usedFor:
-- "[[Taxation]]"
+  - "[[Tax refunds]]"
+  - "[[Tolls]]"
+  - "[[Taxation regulations]]"
+  - "[[Tax refunds]]"
+  - "[[Tax incentives]]"
+  - "[[Tax fraud]]"
+  - "[[Tax benefits]]"
+  - "[[Tax avoidance]]"
+  - "[[Fiscal policy]]"
+  - "[[Fiscal issues]]"
+aliases: Taxes
 ---
 # Taxes

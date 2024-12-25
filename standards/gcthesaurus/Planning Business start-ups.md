@@ -1,8 +1,8 @@
 ---
 title: Planning Business start-ups
-longTitle: 'Planning, Business start-ups'
+aliases: Planning, Business start-ups
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Business plans]]"
+  - "[[Business plans]]"
 ---

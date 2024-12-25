@@ -1,8 +1,8 @@
 ---
 title: Impact studies
-longTitle: 'Impact studies'
+aliases: Impact studies
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Etude dimpact]]"
+  - "[[Etude dimpact]]"
 ---

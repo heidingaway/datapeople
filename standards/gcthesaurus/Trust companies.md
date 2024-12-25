@@ -1,8 +1,8 @@
 ---
 title: Trust companies
-longTitle: 'Trust companies'
+aliases: Trust companies
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Societe de fiducie]]"
+  - "[[Societe de fiducie]]"
 ---

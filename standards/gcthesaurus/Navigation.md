@@ -1,15 +1,22 @@
 ---
 title: Navigation
-longTitle: 'Navigation'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Navigation]]"
+  - "[[Navigation]]"
 relatedTerm:
-- "[[Nautical charts]]"
-- "[[Pilotage]]"
-usedFor:
-- "[[Commercial navigation]]"
-- "[[Marine navigation]]"
-- "[[Sailing]]"
+  - "[[Lighthouses]]"
+  - "[[Marine safety]]"
+  - "[[Maritime law]]"
+  - "[[Nautical charts]]"
+  - "[[Navigation systems]]"
+  - "[[Pilotage]]"
+  - "[[Vessels]]"
+  - "[[Water transport]]"
+  - "[[Waterways]]"
+aliases:
+  - Navigation
 ---
+# Navigation

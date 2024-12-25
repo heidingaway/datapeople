@@ -1,8 +1,8 @@
 ---
 title: Insurance Fees Costs
-longTitle: 'Insurance, Fees, Costs'
+aliases: Insurance, Fees, Costs
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Premiums]]"
+  - "[[Premiums]]"
 ---

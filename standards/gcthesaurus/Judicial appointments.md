@@ -3,12 +3,12 @@ title: Judicial appointments
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Judicial appointments'
+  - gccommon
+aliases: Judicial appointments
 french:
-- "[[Nomination judiciaire]]"
+  - "[[Nomination judiciaire]]"
 relatedTerm:
-- "[[Justice system]]"
-- "[[Judges]]"
+  - "[[Justice system]]"
+  - "[[Judges]]"
 ---
 # Judicial appointments

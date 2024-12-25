@@ -1,12 +1,10 @@
 ---
 title: Sexual orientation
-longTitle: 'Sexual orientation'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Orientation sexuelle]]"
+  - "[[Orientation sexuelle]]"
 relatedTerm:
-- "[[Same-sex couples]]"
-usedFor:
-- "[[Homosexuality]]"
+  - "[[Same-sex couples]]"
+aliases: Sexual orientation
 ---

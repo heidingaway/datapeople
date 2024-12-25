@@ -1,8 +1,8 @@
 ---
 title: Topographical maps
-longTitle: 'Topographical maps'
+aliases: Topographical maps
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Carte topographique]]"
+  - "[[Carte topographique]]"
 ---

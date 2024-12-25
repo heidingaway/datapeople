@@ -1,18 +1,14 @@
 ---
 title: First Nations
-longTitle: 'First Nations'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Premieres nations]]"
+  - "[[Premieres nations]]"
 narrowerTerm:
-- "[[Innu]]"
-- "[[Non-Status Indians]]"
-- "[[Status Indians]]"
+  - "[[Innu]]"
+  - "[[Non-Status Indians]]"
+  - "[[Status Indians]]"
 scopeNote:
-- "Collectively all the Indigenous people in Canada w"
-usedFor:
-- "[[Indian bands]]"
-- "[[Indians]]"
-- "[[Treaty Indians]]"
+  - Collectively all the Indigenous people in Canada w
+aliases: First Nations
 ---

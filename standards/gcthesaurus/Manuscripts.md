@@ -3,13 +3,13 @@ title: Manuscripts
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Manuscripts'
+  - gccommon
+aliases: Manuscripts
 french:
-- "[[Manuscrit]]"
+  - "[[Manuscrit]]"
 relatedTerm:
-- "[[Publishing]]"
-- "[[Books]]"
-- "[[Authors]]"
+  - "[[Publishing]]"
+  - "[[Books]]"
+  - "[[Authors]]"
 ---
 # Manuscripts

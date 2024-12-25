@@ -1,14 +1,10 @@
 ---
 title: Local governments
-longTitle: 'Local governments'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Administration locale]]"
+  - "[[Administration locale]]"
 scopeNote:
-- "The delegated authority or the body of persons inv"
-usedFor:
-- "[[Municipal administration]]"
-- "[[Municipal councils]]"
-- "[[Municipal governments]]"
+  - The delegated authority or the body of persons inv
+aliases: Local governments
 ---

@@ -1,8 +1,8 @@
 ---
 title: Media Journalism
-longTitle: 'Media, Journalism'
+aliases: Media, Journalism
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Newspapers]]"
+  - "[[Newspapers]]"
 ---

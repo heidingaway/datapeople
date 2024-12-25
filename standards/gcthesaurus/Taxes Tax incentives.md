@@ -1,8 +1,8 @@
 ---
 title: Taxes Tax incentives
-longTitle: 'Taxes, Tax incentives'
+aliases: Taxes, Tax incentives
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Tax benefits]]"
+  - "[[Tax benefits]]"
 ---

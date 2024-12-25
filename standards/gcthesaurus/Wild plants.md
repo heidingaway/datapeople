@@ -1,10 +1,8 @@
 ---
 title: Wild plants
-longTitle: 'Wild plants'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Plante sauvage]]"
-usedFor:
-- "[[Wild flora]]"
+  - "[[Plante sauvage]]"
+aliases: Wild plants
 ---

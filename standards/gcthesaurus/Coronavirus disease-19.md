@@ -1,8 +1,8 @@
 ---
 title: Coronavirus disease-19
-longTitle: 'Coronavirus disease-19'
+aliases: Coronavirus disease-19
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Coronavirus du Covid-19]]"
+  - "[[Coronavirus du Covid-19]]"
 ---

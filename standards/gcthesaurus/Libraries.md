@@ -3,23 +3,18 @@ title: Libraries
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Libraries'
+  - gccommon
 french:
-- "[[Bibliotheque]]"
+  - "[[Bibliotheque]]"
 narrowerTerm:
-- "[[Digital libraries]]"
-- "[[Government libraries]]"
-- "[[National libraries]]"
-- "[[Public libraries]]"
-- "[[Special libraries]]"
+  - "[[Digital libraries]]"
+  - "[[Government libraries]]"
+  - "[[National libraries]]"
+  - "[[Public libraries]]"
+  - "[[Special libraries]]"
 relatedTerm:
-- "[[Bibliographic data interchange]]"
-- "[[Interlibrary loans]]"
-usedFor:
-- "[[Documentation centers]]"
-- "[[Documentation centres]]"
-- "[[Documentation services]]"
-- "[[Library collections]]"
+  - "[[Bibliographic data interchange]]"
+  - "[[Interlibrary loans]]"
+aliases: Libraries
 ---
 # Libraries

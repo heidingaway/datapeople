@@ -1,10 +1,10 @@
 ---
 title: Government departments
-longTitle: 'Government departments'
+aliases: Government departments
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ministere gouvernemental]]"
+  - "[[Ministere gouvernemental]]"
 relatedTerm:
-- "[[Departments]]"
+  - "[[Departments]]"
 ---

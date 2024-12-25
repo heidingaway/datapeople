@@ -3,13 +3,13 @@ title: Social movement
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Social movement'
+  - gccommon
+aliases: Social movement
 french:
-- "[[Mouvement social]]"
+  - "[[Mouvement social]]"
 relatedTerm:
-- "[[Social trends]]"
-- "[[Social development]]"
-- "[[Advocacy]]"
+  - "[[Social trends]]"
+  - "[[Social development]]"
+  - "[[Advocacy]]"
 ---
 # Social movement

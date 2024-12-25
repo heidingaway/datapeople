@@ -1,12 +1,10 @@
 ---
 title: Climate change
-longTitle: 'Climate change'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Changement climatique]]"
+  - "[[Changement climatique]]"
 scopeNote:
-- "Significant change ie a change having important ec"
-usedFor:
-- "[[Climatic change]]"
+  - Significant change ie a change having important ec
+aliases: Climate change
 ---

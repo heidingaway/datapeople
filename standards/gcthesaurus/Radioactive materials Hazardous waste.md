@@ -1,8 +1,8 @@
 ---
 title: Radioactive materials Hazardous waste
-longTitle: 'Radioactive materials, Hazardous waste'
+aliases: Radioactive materials, Hazardous waste
 tags:
-- gccommon
+  - gccommon
 narrowerTerm:
-- "[[Radioactive waste]]"
+  - "[[Radioactive waste]]"
 ---

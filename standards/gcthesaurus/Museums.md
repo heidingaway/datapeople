@@ -3,14 +3,12 @@ title: Museums
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Museums'
+  - gccommon
 french:
-- "[[Musee]]"
-usedFor:
-- "[[Museology]]"
+  - "[[Musee]]"
+aliases: Museums
 relatedTerm:
-- "[[Museum collections]]"
-- "[[Art galleries]]"
+  - "[[Museum collections]]"
+  - "[[Art galleries]]"
 ---
 # Museums

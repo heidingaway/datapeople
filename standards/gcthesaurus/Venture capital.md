@@ -1,8 +1,8 @@
 ---
 title: Venture capital
-longTitle: 'Venture capital'
+aliases: Venture capital
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Capital de risque]]"
+  - "[[Capital de risque]]"
 ---

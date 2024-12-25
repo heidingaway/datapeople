@@ -1,14 +1,16 @@
 ---
 title: Accessible transport
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Accessible transport'
+  - gccommon
+aliases:
+  - Accessible transport
 french:
-- "[[Transport accessible]]"
+  - Transport accessible
+id: 77
 relatedTerm:
-- "[[Persons with disabilities]]"
-- "[[Accessibility for persons with disabilities]]"
+  - "[[Accessibility for persons with disabilities]]"
+  - "[[Persons with disabilities]]"
 ---
 # Accessible transport

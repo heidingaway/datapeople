@@ -1,8 +1,8 @@
 ---
 title: Ships Construction
-longTitle: 'Ships, Construction'
+aliases: Ships, Construction
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Shipbuilding]]"
+  - "[[Shipbuilding]]"
 ---

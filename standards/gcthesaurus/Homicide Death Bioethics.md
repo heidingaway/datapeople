@@ -1,8 +1,8 @@
 ---
 title: Homicide Death Bioethics
-longTitle: 'Homicide, Death, Bioethics'
+aliases: Homicide, Death, Bioethics
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Euthanasia]]"
+  - "[[Euthanasia]]"
 ---

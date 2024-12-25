@@ -1,8 +1,8 @@
 ---
 title: Standard of living Lifestyle Life expectancy
-longTitle: 'Standard of living, Lifestyle, Life expectancy'
+aliases: Standard of living, Lifestyle, Life expectancy
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Quality of life]]"
+  - "[[Quality of life]]"
 ---

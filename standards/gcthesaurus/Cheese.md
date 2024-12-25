@@ -1,8 +1,8 @@
 ---
 title: Cheese
-longTitle: 'Cheese'
+aliases: Cheese
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Fromage]]"
+  - "[[Fromage]]"
 ---

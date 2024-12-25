@@ -1,10 +1,8 @@
 ---
 title: Wharfs
-longTitle: 'Wharfs'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Quai]]"
-usedFor:
-- "[[Docks]]"
+  - "[[Quai]]"
+aliases: Wharfs
 ---

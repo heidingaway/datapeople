@@ -1,13 +1,13 @@
 ---
 title: Cultural industry
-longTitle: 'Cultural industry'
+aliases: Cultural industry
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie culturelle]]"
+  - "[[Industrie culturelle]]"
 narrowerTerm:
-- "[[Film industry]]"
-- "[[Music industry]]"
+  - "[[Film industry]]"
+  - "[[Music industry]]"
 scopeNote:
-- "Economic activity dedicated to the commercial expl"
+  - Economic activity dedicated to the commercial expl
 ---

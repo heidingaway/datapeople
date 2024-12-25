@@ -1,8 +1,8 @@
 ---
 title: Processing Planning Management
-longTitle: 'Processing, Planning, Management'
+aliases: Processing, Planning, Management
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Operations]]"
+  - "[[Operations]]"
 ---

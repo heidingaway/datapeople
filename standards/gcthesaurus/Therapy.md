@@ -1,8 +1,8 @@
 ---
 title: Therapy
-longTitle: 'Therapy'
+aliases: Therapy
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Therapie]]"
+  - "[[Therapie]]"
 ---

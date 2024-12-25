@@ -1,12 +1,12 @@
 ---
 title: Communications
-longTitle: 'Communications'
+aliases: Communications
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Communications]]"
+  - "[[Communications]]"
 narrowerTerm:
-- "[[Government communications]]"
-- "[[Military communications]]"
-- "[[Telecommunications]]"
+  - "[[Government communications]]"
+  - "[[Military communications]]"
+  - "[[Telecommunications]]"
 ---

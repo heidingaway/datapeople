@@ -1,10 +1,10 @@
 ---
 title: Dismissal
-longTitle: 'Dismissal'
+aliases: Dismissal
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Revocation]]"
+  - "[[Revocation]]"
 relatedTerm:
-- "[[Suspension]]"
+  - "[[Suspension]]"
 ---

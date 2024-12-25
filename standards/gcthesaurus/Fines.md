@@ -1,10 +1,10 @@
 ---
 title: Fines
-longTitle: 'Fines'
+aliases: Fines
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Amende]]"
+  - "[[Amende]]"
 scopeNote:
-- "A monetary penalty incurred or imposed as a result"
+  - A monetary penalty incurred or imposed as a result
 ---

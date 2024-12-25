@@ -1,8 +1,8 @@
 ---
 title: Patents Copyright
-longTitle: 'Patents, Copyright'
+aliases: Patents, Copyright
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Intellectual property]]"
+  - "[[Intellectual property]]"
 ---

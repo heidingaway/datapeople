@@ -1,10 +1,10 @@
 ---
 title: Appeals
-longTitle: 'Appeals'
+aliases: Appeals
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Appel]]"
+  - "[[Appel]]"
 relatedTerm:
-- "[[Recourse]]"
+  - "[[Recourse]]"
 ---

@@ -3,14 +3,12 @@ title: Infant nutrition
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Infant nutrition'
+  - gccommon
 french:
-- "[[Alimentation du nouveau-ne]]"
-usedFor:
-- "[[Breastfeeding]]"
+  - "[[Alimentation du nouveau-ne]]"
+aliases: Infant nutrition
 relatedTerm:
-- "[[Perinatal care]]"
-- "[[Infants]]"
+  - "[[Perinatal care]]"
+  - "[[Infants]]"
 ---
 # Infant nutrition

@@ -1,8 +1,8 @@
 ---
 title: Prototyping Analysis
-longTitle: 'Prototyping, Analysis'
+aliases: Prototyping, Analysis
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Modelling]]"
+  - "[[Modelling]]"
 ---

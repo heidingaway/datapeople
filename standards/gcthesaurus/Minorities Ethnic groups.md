@@ -1,8 +1,8 @@
 ---
 title: Minorities Ethnic groups
-longTitle: 'Minorities, Ethnic groups'
+aliases: Minorities, Ethnic groups
 tags:
-- gccommon
+  - gccommon
 narrowerTerm:
-- "[[Ethnic minorities]]"
+  - "[[Ethnic minorities]]"
 ---

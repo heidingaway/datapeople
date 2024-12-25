@@ -1,11 +1,8 @@
 ---
 title: Solvents
-longTitle: 'Solvents'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Solvant]]"
-usedFor:
-- "[[Dissolving agents]]"
-- "[[Solving agents]]"
+  - "[[Solvant]]"
+aliases: Solvents
 ---

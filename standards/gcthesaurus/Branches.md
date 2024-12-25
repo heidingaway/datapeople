@@ -1,8 +1,8 @@
 ---
 title: Branches
-longTitle: 'Branches'
+aliases: Branches
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Direction]]"
+  - "[[Direction]]"
 ---

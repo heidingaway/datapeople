@@ -1,11 +1,8 @@
 ---
 title: Public accounts
-longTitle: 'Public accounts'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Comptes publics]]"
-usedFor:
-- "[[Government accounts]]"
-- "[[National accounts]]"
+  - "[[Comptes publics]]"
+aliases: Public accounts
 ---

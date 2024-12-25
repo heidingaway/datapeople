@@ -1,10 +1,16 @@
 ---
 title: Weather warnings
-longTitle: 'Weather warnings'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Alerte meteorologique]]"
-usedFor:
-- "[[Severe weather warnings]]"
+  - Alerte meteorologique
+aliases:
+  - Severe weather warnings
+  - Weather warnings
+relatedTerm:
+  - "[[Weather forecasts]]"
+  - "[[Weather]]"
 ---
+# Weather warnings

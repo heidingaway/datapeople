@@ -1,10 +1,10 @@
 ---
 title: Metamorphic rocks
-longTitle: 'Metamorphic rocks'
+aliases: Metamorphic rocks
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Roche metamorphique]]"
+  - "[[Roche metamorphique]]"
 relatedTerm:
-- "[[Metamorphism]]"
+  - "[[Metamorphism]]"
 ---

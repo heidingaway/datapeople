@@ -3,14 +3,14 @@ title: Awareness
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Awareness'
+  - gccommon
+aliases: Awareness
 french:
-- "[[Sensibilisation]]"
+  - "[[Sensibilisation]]"
 relatedTerm:
-- "[[Marketing]]"
-- "[[Lobbying]]"
-- "[[Education]]"
-- "[[Advertising]]"
+  - "[[Marketing]]"
+  - "[[Lobbying]]"
+  - "[[Education]]"
+  - "[[Advertising]]"
 ---
 # Awareness

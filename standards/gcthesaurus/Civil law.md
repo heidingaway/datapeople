@@ -3,11 +3,11 @@ title: Civil law
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Civil law'
+  - gccommon
+aliases: Civil law
 french:
-- "[[Droit civil]]"
+  - "[[Droit civil]]"
 narrowerTerm:
-- "[[Family law]]"
+  - "[[Family law]]"
 ---
 # Civil law

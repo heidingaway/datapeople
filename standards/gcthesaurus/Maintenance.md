@@ -3,13 +3,9 @@ title: Maintenance
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Maintenance'
+  - gccommon
 french:
-- "[[Entretien]]"
-usedFor:
-- "[[Cleaning]]"
-- "[[Maintenance and repair]]"
-- "[[Repair]]"
+  - "[[Entretien]]"
+aliases: Maintenance
 ---
 # Maintenance

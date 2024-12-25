@@ -3,11 +3,11 @@ title: Disaster relief
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Disaster relief'
+  - gccommon
+aliases: Disaster relief
 french:
-- "[[Secours en cas de desastre]]"
+  - "[[Secours en cas de desastre]]"
 relatedTerm:
-- "[[Disasters]]"
+  - "[[Disasters]]"
 ---
 # Disaster relief

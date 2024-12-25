@@ -1,10 +1,10 @@
 ---
 title: Standing offers
-longTitle: 'Standing offers'
+aliases: Standing offers
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Offre permanente]]"
+  - "[[Offre permanente]]"
 scopeNote:
-- "A method of supply used to provide direct access b"
+  - A method of supply used to provide direct access b
 ---

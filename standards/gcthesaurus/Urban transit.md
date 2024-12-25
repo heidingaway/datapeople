@@ -3,17 +3,13 @@ title: Urban transit
 created: 2024-12-13
 modified: 2024-12-17
 tags:
-- gccommon
-longTitle: 'Urban transit'
+  - gccommon
 french:
-- "[[Transport urbain]]"
+  - "[[Transport urbain]]"
 relatedTerm:
-- "[[Intercity transport]]"
-- "[[Urban environment]]"
-- "[[Public transit]]"
-usedFor:
-- "[[Urban traffic]]"
-- "[[Urban transport]]"
-- "[[Urban transportation]]"
+  - "[[Intercity transport]]"
+  - "[[Urban environment]]"
+  - "[[Public transit]]"
+aliases: Urban transit
 ---
 # Urban transit

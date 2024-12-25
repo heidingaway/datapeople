@@ -1,10 +1,8 @@
 ---
 title: Voice mail
-longTitle: 'Voice mail'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Messagerie vocale]]"
-usedFor:
-- "[[Voice messaging]]"
+  - "[[Messagerie vocale]]"
+aliases: Voice mail
 ---

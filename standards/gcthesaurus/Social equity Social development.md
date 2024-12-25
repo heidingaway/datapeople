@@ -1,8 +1,8 @@
 ---
 title: Social equity Social development
-longTitle: 'Social equity, Social development'
+aliases: Social equity, Social development
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Social structure]]"
+  - "[[Social structure]]"
 ---

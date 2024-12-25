@@ -1,8 +1,8 @@
 ---
 title: Hydrometry Hydrography Hydrogeology
-longTitle: 'Hydrometry, Hydrography, Hydrogeology'
+aliases: Hydrometry, Hydrography, Hydrogeology
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Hydrology]]"
+  - "[[Hydrology]]"
 ---

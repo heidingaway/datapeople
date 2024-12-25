@@ -1,8 +1,8 @@
 ---
 title: Caisses populaires
-longTitle: 'Caisses populaires'
+aliases: Caisses populaires
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Caisse populaire]]"
+  - "[[Caisse populaire]]"
 ---

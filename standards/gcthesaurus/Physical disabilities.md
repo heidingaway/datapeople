@@ -1,14 +1,12 @@
 ---
 title: Physical disabilities
-longTitle: 'Physical disabilities'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Deficience physique]]"
+  - "[[Deficience physique]]"
 relatedTerm:
-- "[[Wheelchairs]]"
+  - "[[Wheelchairs]]"
 scopeNote:
-- "Motor or organic disabilities"
-usedFor:
-- "[[Physical handicaps]]"
+  - Motor or organic disabilities
+aliases: Physical disabilities
 ---

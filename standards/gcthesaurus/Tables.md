@@ -1,10 +1,10 @@
 ---
 title: Tables
-longTitle: 'Tables'
+aliases: Tables
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Tableau]]"
+  - "[[Tableau]]"
 scopeNote:
-- "Data sets arranged in rows and columns NOT to be u"
+  - Data sets arranged in rows and columns NOT to be u
 ---

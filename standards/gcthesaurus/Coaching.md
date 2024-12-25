@@ -1,8 +1,8 @@
 ---
 title: Coaching
-longTitle: 'Coaching'
+aliases: Coaching
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Assistance professionnelle]]"
+  - "[[Assistance professionnelle]]"
 ---

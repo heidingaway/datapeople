@@ -1,8 +1,8 @@
 ---
 title: Detection
-longTitle: 'Detection'
+aliases: Detection
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Detection]]"
+  - "[[Detection]]"
 ---

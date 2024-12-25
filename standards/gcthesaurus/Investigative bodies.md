@@ -1,10 +1,10 @@
 ---
 title: Investigative bodies
-longTitle: 'Investigative bodies'
+aliases: Investigative bodies
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Organisme denquete]]"
+  - "[[Organisme denquete]]"
 narrowerTerm:
-- "[[Commissions of inquiry]]"
+  - "[[Commissions of inquiry]]"
 ---

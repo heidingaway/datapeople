@@ -1,8 +1,8 @@
 ---
 title: Veterinary medicine Animals Animal diseases
-longTitle: 'Veterinary medicine, Animals, Animal diseases'
+aliases: Veterinary medicine, Animals, Animal diseases
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Animal health]]"
+  - "[[Animal health]]"
 ---

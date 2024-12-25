@@ -5,13 +5,13 @@ modified: 2024-12-24
 source: "[[501 Government of Canada Core Subject Thesaurus]]"
 tags:
   - gccommon
-longTitle: Metadata
+aliases: Metadata
 french:
   - "[[Metadonnees]]"
-relatedTerm: 
-- "[[Information management]]"
-- "[[Cataloguing]]"
+relatedTerm:
+  - "[[Information management]]"
+  - "[[Cataloguing]]"
 narrowerTerm:
-- "[[metadata quality]]"
+  - "[[metadata quality]]"
 ---
 # Metadata

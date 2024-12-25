@@ -1,8 +1,8 @@
 ---
 title: Market entry
-longTitle: 'Market entry'
+aliases: Market entry
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Entree sur le marche]]"
+  - "[[Entree sur le marche]]"
 ---

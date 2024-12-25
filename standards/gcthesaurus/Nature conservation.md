@@ -1,14 +1,8 @@
 ---
 title: Nature conservation
-longTitle: 'Nature conservation'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Conservation de la nature]]"
-usedFor:
-- "[[Habitat conservation]]"
-- "[[Habitat protection]]"
-- "[[Nature protection]]"
-- "[[Wildlife conservation]]"
-- "[[Wildlife protection]]"
+  - "[[Conservation de la nature]]"
+aliases: Nature conservation
 ---

@@ -1,8 +1,8 @@
 ---
 title: Social equity
-longTitle: 'Social equity'
+aliases: Social equity
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Equite sociale]]"
+  - "[[Equite sociale]]"
 ---

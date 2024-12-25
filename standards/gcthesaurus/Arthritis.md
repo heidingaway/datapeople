@@ -1,8 +1,8 @@
 ---
 title: Arthritis
-longTitle: 'Arthritis'
+aliases: Arthritis
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Arthrite]]"
+  - "[[Arthrite]]"
 ---

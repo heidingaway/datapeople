@@ -3,12 +3,12 @@ title: Planetariums
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Planetariums'
+  - gccommon
+aliases: Planetariums
 french:
-- "[[Planetarium]]"
+  - "[[Planetarium]]"
 relatedTerm:
-- "[[Astronomy]]"
-- "[[Astronomical observatories]]"
+  - "[[Astronomy]]"
+  - "[[Astronomical observatories]]"
 ---
 # Planetariums

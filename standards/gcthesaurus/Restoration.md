@@ -1,8 +1,8 @@
 ---
 title: Restoration
-longTitle: 'Restoration'
+aliases: Restoration
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Restauration]]"
+  - "[[Restauration]]"
 ---

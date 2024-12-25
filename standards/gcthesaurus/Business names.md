@@ -1,8 +1,8 @@
 ---
 title: Business names
-longTitle: 'Business names'
+aliases: Business names
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Nom commercial]]"
+  - "[[Nom commercial]]"
 ---

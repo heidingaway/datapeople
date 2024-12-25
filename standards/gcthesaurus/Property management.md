@@ -1,12 +1,10 @@
 ---
 title: Property management
-longTitle: 'Property management'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gestion des biens]]"
+  - "[[Gestion des biens]]"
 scopeNote:
-- "Management of real property assets as a business i"
-usedFor:
-- "[[Assets management]]"
+  - Management of real property assets as a business i
+aliases: Property management
 ---

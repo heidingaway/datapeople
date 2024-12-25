@@ -3,13 +3,13 @@ title: Qualifications
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Qualifications'
+  - gccommon
+aliases: Qualifications
 french:
-- "[[Qualifications]]"
+  - "[[Qualifications]]"
 relatedTerm:
-- "[[Specifications]]"
-- "[[Skills]"
-- "[[Eligibility]]"
+  - "[[Specifications]]"
+  - "[[Skills]"
+  - "[[Eligibility]]"
 ---
 # Qualifications

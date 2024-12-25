@@ -1,8 +1,8 @@
 ---
 title: Statistics Statistical analysis
-longTitle: 'Statistics, Statistical analysis'
+aliases: Statistics, Statistical analysis
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Statistical profile]]"
+  - "[[Statistical profile]]"
 ---

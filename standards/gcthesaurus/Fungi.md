@@ -3,17 +3,11 @@ title: Fungi
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Fungi'
+  - gccommon
 french:
-- "[[Champignon]]"
+  - "[[Champignon]]"
 relatedTerm:
-- "[[Fungicides]]"
-usedFor:
-- "[[Mushrooms]]"
-- "[[Toadstools]]"
-- "[[Molds Fungi]]"
-- "[[Moulds Fungi]]"
-- "[[Yeasts]]"
+  - "[[Fungicides]]"
+aliases: Fungi
 ---
 # Fungi

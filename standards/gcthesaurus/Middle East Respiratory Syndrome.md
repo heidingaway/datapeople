@@ -1,8 +1,8 @@
 ---
 title: Middle East Respiratory Syndrome
-longTitle: 'Middle East Respiratory Syndrome'
+aliases: Middle East Respiratory Syndrome
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Syndrome respiratoire du Moyen-Orient]]"
+  - "[[Syndrome respiratoire du Moyen-Orient]]"
 ---

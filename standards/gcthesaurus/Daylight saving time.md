@@ -1,10 +1,10 @@
 ---
 title: Daylight saving time
-longTitle: 'Daylight saving time'
+aliases: Daylight saving time
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Heure avancee]]"
+  - "[[Heure avancee]]"
 relatedTerm:
-- "[[Time zones]]"
+  - "[[Time zones]]"
 ---

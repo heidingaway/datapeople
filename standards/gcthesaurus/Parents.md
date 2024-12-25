@@ -3,15 +3,15 @@ title: Parents
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Parents'
+  - gccommon
+aliases: Parents
 french:
-- "[[Parent]]"
+  - "[[Parent]]"
 narrowerTerm:
-- "[[Adoptive parents]]"
+  - "[[Adoptive parents]]"
 relatedTerm:
-- "[[Parenting]]"
-- "[[Family]]"
-- "[[Children]]"
+  - "[[Parenting]]"
+  - "[[Family]]"
+  - "[[Children]]"
 ---
 # Parents

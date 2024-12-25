@@ -1,8 +1,8 @@
 ---
 title: Plants Pests
-longTitle: 'Plants, Pests'
+aliases: Plants, Pests
 tags:
-- gccommon
+  - gccommon
 narrowerTerm:
-- "[[Weeds]]"
+  - "[[Weeds]]"
 ---

@@ -1,29 +1,22 @@
 ---
 title: Agri-food industry
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Agri-food industry'
+  - gccommon
 french:
-- "[[Industrie agro-alimentaire]]"
+  - Industrie agro-alimentaire
 narrowerTerm:
-- "[[Beverage industry]]"
-- "[[Dairy industry]]"
-usedFor:
-- "[[Agricultural industry]]"
-- "[[Agricultural production]]"
-- "[[Agricultural sector]]"
-- "[[Agrifood industry]]"
-- "[[Agro-industry]]"
-- "[[Food industry]]"
-- "[[Food production]]"
+  - "[[Beverage industry]]"
+  - "[[Dairy industry]]"
+aliases:
+  - Agri-food industry
 relatedTerm:
-- "[[Food supply]]"
-- "[[Food processing]]"
-- "[[Food]]"
-- "[[Farms]]"
-- "[[Agriculture]]"
-- "[[Agri-food products]]"
+  - "[[Agri-food products]]"
+  - "[[Agriculture]]"
+  - "[[Farms]]"
+  - "[[Food processing]]"
+  - "[[Food supply]]"
+  - "[[Food]]"
 ---
 # Agri-food industry

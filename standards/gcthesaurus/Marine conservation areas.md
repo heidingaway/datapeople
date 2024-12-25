@@ -1,14 +1,12 @@
 ---
 title: Marine conservation areas
-longTitle: 'Marine conservation areas'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Conservation areas]]"
+  - "[[Conservation areas]]"
 french:
-- "[[Aire marine de conservation]]"
+  - "[[Aire marine de conservation]]"
 relatedTerm:
-- "[[Marine heritage]]"
-usedFor:
-- "[[Marine protected areas]]"
+  - "[[Marine heritage]]"
+aliases: Marine conservation areas
 ---

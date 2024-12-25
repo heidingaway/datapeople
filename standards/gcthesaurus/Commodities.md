@@ -1,13 +1,8 @@
 ---
 title: Commodities
-longTitle: 'Commodities'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Produit de base]]"
-usedFor:
-- "[[Crude materials]]"
-- "[[Primary commodities]]"
-- "[[Primary products]]"
-- "[[Raw materials]]"
+  - "[[Produit de base]]"
+aliases: Commodities
 ---

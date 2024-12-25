@@ -3,11 +3,11 @@ title: Private pensions
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Private pensions'
+  - gccommon
+aliases: Private pensions
 french:
-- "[[Pension privee]]"
+  - "[[Pension privee]]"
 relatedTerm:
-- "[[Public pensions]]"
+  - "[[Public pensions]]"
 ---
 # Private pensions

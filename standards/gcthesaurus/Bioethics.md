@@ -3,14 +3,11 @@ title: Bioethics
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Bioethics'
+  - gccommon
 french:
-- "[[Bioethique]]"
+  - "[[Bioethique]]"
 relatedTerm:
-- "[[Biomedical experiments]]"
-usedFor:
-- "[[Biomedical ethics]]"
-- "[[Medical ethics]]"
+  - "[[Biomedical experiments]]"
+aliases: Bioethics
 ---
 # Bioethics

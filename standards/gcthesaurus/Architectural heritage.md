@@ -3,12 +3,12 @@ title: Architectural heritage
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Architectural heritage'
+  - gccommon
+aliases: Architectural heritage
 french:
-- "[[Patrimoine architectural]]"
+  - "[[Patrimoine architectural]]"
 relatedTerm:
-- "[[Heritage buildings]]"
-- "[[Architecture]]"
+  - "[[Heritage buildings]]"
+  - "[[Architecture]]"
 ---
 # Architectural heritage

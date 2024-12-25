@@ -3,19 +3,13 @@ title: Fitness
 created: 2024-12-05
 modified: 2024-12-10
 tags:
-- gccommon
-longTitle: 'Fitness'
+  - gccommon
 french:
-- "[[Condition physique]]"
-usedFor:
-- "[[Aerobic fitness]]"
-- "[[Physical activity]]"
-- "[[Physical condition]]"
-- "[[Physical exercise]]"
-- "[[Physical fitness]]"
+  - "[[Condition physique]]"
+aliases: Fitness
 relatedTerm:
-- "[[Health indicators]]"
-- "[[Medical records]]"
-- "[[Sports]]"
+  - "[[Health indicators]]"
+  - "[[Medical records]]"
+  - "[[Sports]]"
 ---
 # Fitness

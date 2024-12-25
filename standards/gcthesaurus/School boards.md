@@ -3,16 +3,12 @@ title: School boards
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'School boards'
+  - gccommon
 french:
-- "[[Commission scolaire]]"
-usedFor:
-- "[[School authorities]]"
-- "[[School districts]]"
-- "[[Schoolboards]]"
+  - "[[Commission scolaire]]"
+aliases: School boards
 relatedTerm:
-- "[[Schools]]"
-- "[[Education]]"
+  - "[[Schools]]"
+  - "[[Education]]"
 ---
 # School boards

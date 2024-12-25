@@ -1,8 +1,8 @@
 ---
 title: Part-time students Foreign students
-longTitle: 'Part-time students, Foreign students'
+aliases: Part-time students, Foreign students
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Students]]"
+  - "[[Students]]"
 ---

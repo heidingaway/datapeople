@@ -1,16 +1,8 @@
 ---
 title: Irregular migration
-longTitle: 'Irregular migration'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Migration clandestine]]"
-usedFor:
-- "[[Human smuggling]]"
-- "[[Illegal immigration]]"
-- "[[Illegal migration]]"
-- "[[Immigrant smuggling]]"
-- "[[Irregular immigration]]"
-- "[[Migrant smuggling]]"
-- "[[People smuggling]]"
+  - "[[Migration clandestine]]"
+aliases: Irregular migration
 ---

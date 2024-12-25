@@ -1,8 +1,8 @@
 ---
 title: Management tool Development tools
-longTitle: 'Management tool, Development tools'
+aliases: Management tool, Development tools
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Tools]]"
+  - "[[Tools]]"
 ---

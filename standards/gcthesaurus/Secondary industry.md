@@ -3,14 +3,12 @@ title: Secondary industry
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Secondary industry'
+  - gccommon
 french:
-- "[[Industrie secondaire]]"
+  - "[[Industrie secondaire]]"
 narrowerTerm:
-- "[[Construction industry]]"
-- "[[Manufacturing industry]]"
-usedFor:
-- "[[Secondary sector]]"
+  - "[[Construction industry]]"
+  - "[[Manufacturing industry]]"
+aliases: Secondary industry
 ---
 # Secondary industry

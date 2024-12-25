@@ -1,11 +1,11 @@
 ---
 title: Biological products
-longTitle: 'Biological products'
+aliases: Biological products
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Produit biologique]]"
+  - "[[Produit biologique]]"
 relatedTerm:
-- "[[Biology]]"
-- "[[Biochemicals]]"
+  - "[[Biology]]"
+  - "[[Biochemicals]]"
 ---

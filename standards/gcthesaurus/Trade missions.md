@@ -1,8 +1,8 @@
 ---
 title: Trade missions
-longTitle: 'Trade missions'
+aliases: Trade missions
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Delegation commerciale]]"
+  - "[[Delegation commerciale]]"
 ---

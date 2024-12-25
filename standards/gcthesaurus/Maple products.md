@@ -1,10 +1,8 @@
 ---
 title: Maple products
-longTitle: 'Maple products'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Produit de lerable]]"
-usedFor:
-- "[[Maple syrup]]"
+  - "[[Produit de lerable]]"
+aliases: Maple products
 ---

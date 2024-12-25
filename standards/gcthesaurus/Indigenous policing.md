@@ -1,12 +1,10 @@
 ---
 title: Indigenous policing
-longTitle: 'Indigenous policing'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Policing]]"
+  - "[[Policing]]"
 french:
-- "[[Police des autochtones]]"
-usedFor:
-- "[[Aboriginal policing]]"
+  - "[[Police des autochtones]]"
+aliases: Indigenous policing
 ---

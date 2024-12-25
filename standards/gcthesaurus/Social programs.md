@@ -1,8 +1,8 @@
 ---
 title: Social programs
-longTitle: 'Social programs'
+aliases: Social programs
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Programmes sociaux]]"
+  - "[[Programmes sociaux]]"
 ---

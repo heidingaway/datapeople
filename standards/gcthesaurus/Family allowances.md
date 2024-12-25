@@ -1,12 +1,10 @@
 ---
 title: Family allowances
-longTitle: 'Family allowances'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Allowances]]"
+  - "[[Allowances]]"
 french:
-- "[[Allocations familiales]]"
-usedFor:
-- "[[Parental benefits]]"
+  - "[[Allocations familiales]]"
+aliases: Family allowances
 ---

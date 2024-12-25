@@ -1,11 +1,8 @@
 ---
 title: Hospitality industry
-longTitle: 'Hospitality industry'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie hoteliere]]"
-usedFor:
-- "[[Catering industry]]"
-- "[[Hotels]]"
+  - "[[Industrie hoteliere]]"
+aliases: Hospitality industry
 ---

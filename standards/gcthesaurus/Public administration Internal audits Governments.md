@@ -1,8 +1,8 @@
 ---
 title: Public administration Internal audits Governments
-longTitle: 'Public administration, Internal audits, Governments'
+aliases: Public administration, Internal audits, Governments
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Governance]]"
+  - "[[Governance]]"
 ---

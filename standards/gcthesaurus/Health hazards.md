@@ -1,10 +1,8 @@
 ---
 title: Health hazards
-longTitle: 'Health hazards'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Risque pour la sante]]"
-usedFor:
-- "[[Health risks]]"
+  - "[[Risque pour la sante]]"
+aliases: Health hazards
 ---

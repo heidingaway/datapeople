@@ -3,12 +3,12 @@ title: Radioactivity
 created: 2024-12-13
 modified: 2024-12-17
 tags:
-- gccommon
-longTitle: 'Radioactivity'
+  - gccommon
+aliases: Radioactivity
 french:
-- "[[Radioactivite]]"
+  - "[[Radioactivite]]"
 relatedTerm:
-- "[[Radioactive materials]]"
-- "[[Radiation]]"
+  - "[[Radioactive materials]]"
+  - "[[Radiation]]"
 ---
 # Radioactivity

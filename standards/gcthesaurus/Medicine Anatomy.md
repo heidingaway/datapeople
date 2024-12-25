@@ -1,8 +1,8 @@
 ---
 title: Medicine Anatomy
-longTitle: 'Medicine, Anatomy'
+aliases: Medicine, Anatomy
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Physiology]]"
+  - "[[Physiology]]"
 ---

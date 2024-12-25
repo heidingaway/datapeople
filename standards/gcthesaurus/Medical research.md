@@ -1,10 +1,8 @@
 ---
 title: Medical research
-longTitle: 'Medical research'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Recherche medicale]]"
-usedFor:
-- "[[Health research]]"
+  - "[[Recherche medicale]]"
+aliases: Medical research
 ---

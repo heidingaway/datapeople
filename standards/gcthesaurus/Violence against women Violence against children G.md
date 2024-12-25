@@ -1,8 +1,8 @@
 ---
 title: Violence against women Violence against children G
-longTitle: 'Violence against women, Violence against children, Gender-based violence, Elder abuse'
+aliases: Violence against women, Violence against children, Gender-based violence, Elder abuse
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Family violence]]"
+  - "[[Family violence]]"
 ---

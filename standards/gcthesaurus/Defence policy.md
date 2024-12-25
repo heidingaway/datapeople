@@ -1,13 +1,8 @@
 ---
 title: Defence policy
-longTitle: 'Defence policy'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Politique de defense]]"
-usedFor:
-- "[[Defense policy]]"
-- "[[Military policy]]"
-- "[[National defence]]"
-- "[[National defense]]"
+  - "[[Politique de defense]]"
+aliases: Defence policy
 ---

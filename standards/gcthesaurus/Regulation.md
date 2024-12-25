@@ -1,12 +1,12 @@
 ---
 title: Regulation
-longTitle: 'Regulation'
+aliases: Regulation
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Reglementation]]"
+  - "[[Reglementation]]"
 narrowerTerm:
-- "[[Price regulation]]"
+  - "[[Price regulation]]"
 scopeNote:
-- "The act of creating implementing or dealing with d"
+  - The act of creating implementing or dealing with d
 ---

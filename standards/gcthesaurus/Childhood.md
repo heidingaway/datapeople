@@ -1,10 +1,10 @@
 ---
 title: Childhood
-longTitle: 'Childhood'
+aliases: Childhood
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Enfance]]"
+  - "[[Enfance]]"
 scopeNote:
-- "The period or stage in the development or existenc"
+  - The period or stage in the development or existenc
 ---

@@ -1,8 +1,15 @@
 ---
 title: Irrigation
-longTitle: 'Irrigation'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+id: 2285
 french:
-- "[[Irrigation]]"
+  - Irrigation
+relatedTerm:
+  - "[[Drought]]"
+  - "[[Land management]]"
+  - "[[Water management]]"
 ---
+# Irrigation

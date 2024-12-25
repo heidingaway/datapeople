@@ -1,10 +1,10 @@
 ---
 title: Seismology
-longTitle: 'Seismology'
+aliases: Seismology
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Geophysics]]"
+  - "[[Geophysics]]"
 french:
-- "[[Sismologie]]"
+  - "[[Sismologie]]"
 ---

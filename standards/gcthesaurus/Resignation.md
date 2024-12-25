@@ -1,8 +1,8 @@
 ---
 title: Resignation
-longTitle: 'Resignation'
+aliases: Resignation
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Demission]]"
+  - "[[Demission]]"
 ---

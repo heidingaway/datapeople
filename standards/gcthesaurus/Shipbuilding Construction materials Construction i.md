@@ -1,8 +1,8 @@
 ---
 title: Shipbuilding Construction materials Construction i
-longTitle: 'Shipbuilding, Construction materials, Construction industry, Buildings'
+aliases: Shipbuilding, Construction materials, Construction industry, Buildings
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Construction]]"
+  - "[[Construction]]"
 ---

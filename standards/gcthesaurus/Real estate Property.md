@@ -1,8 +1,8 @@
 ---
 title: Real estate Property
-longTitle: 'Real estate, Property'
+aliases: Real estate, Property
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Real property services]]"
+  - "[[Real property services]]"
 ---

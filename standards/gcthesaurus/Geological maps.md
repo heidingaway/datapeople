@@ -1,8 +1,8 @@
 ---
 title: Geological maps
-longTitle: 'Geological maps'
+aliases: Geological maps
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Carte geologique]]"
+  - "[[Carte geologique]]"
 ---

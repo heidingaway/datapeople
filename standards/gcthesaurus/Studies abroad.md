@@ -1,11 +1,11 @@
 ---
 title: Studies abroad
-longTitle: 'Studies abroad'
+aliases: Studies abroad
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Etudes a letranger]]"
+  - "[[Etudes a letranger]]"
 relatedTerm:
-- "[[Foreign students]]"
-- "[[Exchange programs]]"
+  - "[[Foreign students]]"
+  - "[[Exchange programs]]"
 ---

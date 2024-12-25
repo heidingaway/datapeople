@@ -1,8 +1,8 @@
 ---
 title: Infected blood
-longTitle: 'Infected blood'
+aliases: Infected blood
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Sang contamine]]"
+  - "[[Sang contamine]]"
 ---

@@ -3,12 +3,12 @@ title: Public relations
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Public relations'
+  - gccommon
+aliases: Public relations
 french:
-- "[[Relations publiques]]"
+  - "[[Relations publiques]]"
 relatedTerm:
-- "[[Press releases]]"
-- "[[Marketing]]"
+  - "[[Press releases]]"
+  - "[[Marketing]]"
 ---
 # Public relations

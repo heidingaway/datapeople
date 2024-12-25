@@ -1,8 +1,8 @@
 ---
 title: Barley
-longTitle: 'Barley'
+aliases: Barley
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Orge]]"
+  - "[[Orge]]"
 ---

@@ -1,13 +1,11 @@
 ---
 title: Automation
-longTitle: 'Automation'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Automatisation]]"
+  - "[[Automatisation]]"
 narrowerTerm:
-- "[[Office automation]]"
-- "[[Workplace automation]]"
-usedFor:
-- "[[Computerization]]"
+  - "[[Office automation]]"
+  - "[[Workplace automation]]"
+aliases: Automation
 ---

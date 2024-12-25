@@ -3,18 +3,12 @@ title: Storms
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Storms'
+  - gccommon
 french:
-- "[[Tempete]]"
-usedFor:
-- "[[Cyclones]]"
-- "[[Gales]]"
-- "[[Hurricanes]]"
-- "[[Tempests]]"
-- "[[Tornadoes]]"
+  - "[[Tempete]]"
+aliases: Storms
 relatedTerm:
-- "[[Wind]]"
-- "[[Weather]]"
+  - "[[Wind]]"
+  - "[[Weather]]"
 ---
 # Storms

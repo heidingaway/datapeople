@@ -1,8 +1,8 @@
 ---
 title: User education
-longTitle: 'User education'
+aliases: User education
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Formation des utilisateurs]]"
+  - "[[Formation des utilisateurs]]"
 ---

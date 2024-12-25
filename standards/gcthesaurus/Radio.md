@@ -3,15 +3,15 @@ title: Radio
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Radio'
+  - gccommon
+aliases: Radio
 french:
-- "[[Radio]]"
+  - "[[Radio]]"
 narrowerTerm:
-- "[[Community radio]]"
+  - "[[Community radio]]"
 relatedTerm:
-- "[[Media]]"
-- "[[Cable television]]"
-- "[[Broadcasting]]"
+  - "[[Media]]"
+  - "[[Cable television]]"
+  - "[[Broadcasting]]"
 ---
 # Radio

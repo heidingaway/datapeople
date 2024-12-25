@@ -1,15 +1,8 @@
 ---
 title: Radioactive materials
-longTitle: 'Radioactive materials'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Matiere radioactive]]"
-usedFor:
-- "[[Nuclear materials]]"
-- "[[Nuclear substances]]"
-- "[[Radioactive elements]]"
-- "[[Radioactive products]]"
-- "[[Radioactive substances]]"
-- "[[Radioelements]]"
+  - "[[Matiere radioactive]]"
+aliases: Radioactive materials
 ---

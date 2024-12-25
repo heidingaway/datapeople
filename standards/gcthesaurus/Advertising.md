@@ -1,14 +1,19 @@
 ---
 title: Advertising
-longTitle: 'Advertising'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Publicite]]"
+  - Publicite
 relatedTerm:
-- "[[Propaganda]]"
-usedFor:
-- "[[Advertisements]]"
-- "[[Advertising materials]]"
-- "[[Publicity]]"
+  - "[[Awareness]]"
+  - "[[Marketing]]"
+  - "[[Posters]]"
+  - "[[Propaganda]]"
+  - "[[Signs]]"
+  - "[[Trade promotion]]"
+aliases:
+  - Advertising
 ---
+# Advertising

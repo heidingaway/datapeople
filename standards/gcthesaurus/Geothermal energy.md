@@ -1,11 +1,8 @@
 ---
 title: Geothermal energy
-longTitle: 'Geothermal energy'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Energie geothermique]]"
-usedFor:
-- "[[Earth energy]]"
-- "[[Geothermal power]]"
+  - "[[Energie geothermique]]"
+aliases: Geothermal energy
 ---

@@ -1,8 +1,8 @@
 ---
-title: Trust companies Insurance companies Credit unions 
-longTitle: 'Trust companies, Insurance companies, Credit unions, Caisses populaires, Banks'
+title: Trust companies Insurance companies Credit unions
+aliases: Trust companies, Insurance companies, Credit unions, Caisses populaires, Banks
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Financial institutions]]"
+  - "[[Financial institutions]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Land management Geodesy
-longTitle: 'Land management, Geodesy'
+aliases: Land management, Geodesy
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Surveying]]"
+  - "[[Surveying]]"
 ---

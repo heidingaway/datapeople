@@ -1,8 +1,8 @@
 ---
 title: Implementation
-longTitle: 'Implementation'
+aliases: Implementation
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Implantation]]"
+  - "[[Implantation]]"
 ---

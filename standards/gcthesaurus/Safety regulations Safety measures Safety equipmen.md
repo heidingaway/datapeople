@@ -1,8 +1,8 @@
 ---
 title: Safety regulations Safety measures Safety equipmen
-longTitle: 'Safety regulations, Safety measures, Safety equipment'
+aliases: Safety regulations, Safety measures, Safety equipment
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Safety standards]]"
+  - "[[Safety standards]]"
 ---

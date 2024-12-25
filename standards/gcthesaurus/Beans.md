@@ -1,8 +1,8 @@
 ---
 title: Beans
-longTitle: 'Beans'
+aliases: Beans
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Haricot]]"
+  - "[[Haricot]]"
 ---

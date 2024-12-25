@@ -3,15 +3,15 @@ title: Demand
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Demand'
+  - gccommon
+aliases: Demand
 french:
-- "[[Demande]]"
+  - "[[Demande]]"
 relatedTerm:
-- "[[Needs]]"
-- "[[Water demand]]"
-- "[[Supply]]"
-- "[[Prices]]"
-- "[[Consumerism]]"
+  - "[[Needs]]"
+  - "[[Water demand]]"
+  - "[[Supply]]"
+  - "[[Prices]]"
+  - "[[Consumerism]]"
 ---
 # Demand

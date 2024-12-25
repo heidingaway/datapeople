@@ -1,8 +1,8 @@
 ---
 title: Explosions
-longTitle: 'Explosions'
+aliases: Explosions
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Explosion]]"
+  - "[[Explosion]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Stratigraphy
-longTitle: 'Stratigraphy'
+aliases: Stratigraphy
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Stratigraphie]]"
+  - "[[Stratigraphie]]"
 ---

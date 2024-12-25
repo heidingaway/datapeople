@@ -3,14 +3,12 @@ title: Chemical weapons
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Chemical weapons'
+  - gccommon
 french:
-- "[[Arme chimique]]"
-usedFor:
-- "[[Chemical warfare agents]]"
+  - "[[Arme chimique]]"
+aliases: Chemical weapons
 relatedTerm:
-- "[[Biological weapons]]"
-- "[[Chemical warfare]]"
+  - "[[Biological weapons]]"
+  - "[[Chemical warfare]]"
 ---
 # Chemical weapons

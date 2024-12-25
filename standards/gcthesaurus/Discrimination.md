@@ -3,19 +3,16 @@ title: Discrimination
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Discrimination'
+  - gccommon
 french:
-- "[[Discrimination]]"
+  - "[[Discrimination]]"
 narrowerTerm:
-- "[[Gender discrimination]]"
-- "[[Racial discrimination]]"
-usedFor:
-- "[[Bias]]"
-- "[[Prejudice]]"
+  - "[[Gender discrimination]]"
+  - "[[Racial discrimination]]"
+aliases: Discrimination
 relatedTerm:
-- "[[Inequality]]"
-- "[[Equal opportunities]]"
-- "[[Affirmative action]]"
+  - "[[Inequality]]"
+  - "[[Equal opportunities]]"
+  - "[[Affirmative action]]"
 ---
 # Discrimination

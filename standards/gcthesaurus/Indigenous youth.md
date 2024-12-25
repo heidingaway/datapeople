@@ -1,10 +1,8 @@
 ---
 title: Indigenous youth
-longTitle: 'Indigenous youth'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Jeune autochtone]]"
-usedFor:
-- "[[Aboriginal youth]]"
+  - "[[Jeune autochtone]]"
+aliases: Indigenous youth
 ---

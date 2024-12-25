@@ -1,8 +1,8 @@
 ---
 title: Numismatics Currency
-longTitle: 'Numismatics, Currency'
+aliases: Numismatics, Currency
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Coins]]"
+  - "[[Coins]]"
 ---

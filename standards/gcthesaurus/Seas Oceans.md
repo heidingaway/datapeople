@@ -1,9 +1,9 @@
 ---
 title: Seas Oceans
-longTitle: 'Seas, Oceans'
+aliases: Seas, Oceans
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Ocean energy]]"
-- "[[Ocean floor]]"
+  - "[[Ocean energy]]"
+  - "[[Ocean floor]]"
 ---

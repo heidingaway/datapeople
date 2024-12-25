@@ -1,8 +1,8 @@
 ---
 title: Public diplomacy External relations
-longTitle: 'Public diplomacy, External relations'
+aliases: Public diplomacy, External relations
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Foreign policy]]"
+  - "[[Foreign policy]]"
 ---

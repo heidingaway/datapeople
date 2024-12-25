@@ -1,8 +1,8 @@
 ---
 title: Sexual offences Gender discrimination Family viole
-longTitle: 'Sexual offences, Gender discrimination, Family violence'
+aliases: Sexual offences, Gender discrimination, Family violence
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Gender-based violence]]"
+  - "[[Gender-based violence]]"
 ---

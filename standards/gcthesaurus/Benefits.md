@@ -3,20 +3,20 @@ title: Benefits
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Benefits'
+  - gccommon
+aliases: Benefits
 french:
-- "[[Avantages sociaux]]"
+  - "[[Avantages sociaux]]"
 narrowerTerm:
-- "[[Maternity benefits]]"
-- "[[Paternity benefits]]"
-- "[[Survivor benefits]]"
+  - "[[Maternity benefits]]"
+  - "[[Paternity benefits]]"
+  - "[[Survivor benefits]]"
 relatedTerm:
-- "[[Beneficiaries]]"
-- "[[Entitlement]]"
-- "[[Working conditions]]"
-- "[[Pensions]]"
-- "[[Employment insurance]]"
-- "[[Allowances]]"
+  - "[[Beneficiaries]]"
+  - "[[Entitlement]]"
+  - "[[Working conditions]]"
+  - "[[Pensions]]"
+  - "[[Employment insurance]]"
+  - "[[Allowances]]"
 ---
 # Benefits

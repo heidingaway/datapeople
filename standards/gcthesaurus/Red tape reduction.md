@@ -1,10 +1,10 @@
 ---
 title: Red tape reduction
-longTitle: 'Red tape reduction'
+aliases: Red tape reduction
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Red tape burdens]]"
+  - "[[Red tape burdens]]"
 french:
-- "[[Reduction du fardeau administratif]]"
+  - "[[Reduction du fardeau administratif]]"
 ---

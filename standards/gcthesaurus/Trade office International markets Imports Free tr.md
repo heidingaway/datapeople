@@ -1,8 +1,8 @@
 ---
 title: Trade office International markets Imports Free tr
-longTitle: 'Trade office, International markets, Imports, Free trade, Exports, Dumping, Customs and excise, Anti-dumping'
+aliases: Trade office, International markets, Imports, Free trade, Exports, Dumping, Customs and excise, Anti-dumping
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[International trade]]"
+  - "[[International trade]]"
 ---

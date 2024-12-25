@@ -1,12 +1,8 @@
 ---
 title: Euthanasia
-longTitle: 'Euthanasia'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Euthanasie]]"
-usedFor:
-- "[[Assisted suicide]]"
-- "[[Mercy killing]]"
-- "[[Suicide assistance]]"
+  - "[[Euthanasie]]"
+aliases: Euthanasia
 ---

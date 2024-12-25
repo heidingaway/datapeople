@@ -1,10 +1,10 @@
 ---
 title: Offprints
-longTitle: 'Offprints'
+aliases: Offprints
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Tire a part]]"
+  - "[[Tire a part]]"
 scopeNote:
-- "A copy of an article chapter or other portion of a"
+  - A copy of an article chapter or other portion of a
 ---

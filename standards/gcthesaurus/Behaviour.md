@@ -1,12 +1,10 @@
 ---
 title: Behaviour
-longTitle: 'Behaviour'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Comportement]]"
+  - "[[Comportement]]"
 relatedTerm:
-- "[[Interpersonal relations]]"
-usedFor:
-- "[[Behavior]]"
+  - "[[Interpersonal relations]]"
+aliases: Behaviour
 ---

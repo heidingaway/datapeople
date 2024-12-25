@@ -1,8 +1,8 @@
 ---
 title: Justice system Courts Appeals
-longTitle: 'Justice system, Courts, Appeals'
+aliases: Justice system, Courts, Appeals
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Court decisions]]"
+  - "[[Court decisions]]"
 ---

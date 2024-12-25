@@ -1,10 +1,8 @@
 ---
 title: Environmental law
-longTitle: 'Environmental law'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Droit de lenvironnement]]"
-usedFor:
-- "[[Environmental legislation]]"
+  - "[[Droit de lenvironnement]]"
+aliases: Environmental law
 ---

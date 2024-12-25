@@ -1,8 +1,8 @@
 ---
 title: Mission statements Mandate
-longTitle: 'Mission statements, Mandate'
+aliases: Mission statements, Mandate
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Objectives]]"
+  - "[[Objectives]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Resources conservation Parks Nature conservation
-longTitle: 'Resources conservation, Parks, Nature conservation'
+aliases: Resources conservation, Parks, Nature conservation
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Conservation areas]]"
+  - "[[Conservation areas]]"
 ---

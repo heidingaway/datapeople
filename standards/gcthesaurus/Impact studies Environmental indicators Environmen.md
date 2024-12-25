@@ -1,8 +1,8 @@
 ---
 title: Impact studies Environmental indicators Environmen
-longTitle: 'Impact studies, Environmental indicators, Environmental impact'
+aliases: Impact studies, Environmental indicators, Environmental impact
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Environmental impact assessment]]"
+  - "[[Environmental impact assessment]]"
 ---

@@ -1,15 +1,13 @@
 ---
 title: Control
-longTitle: 'Control'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Controle]]"
+  - "[[Controle]]"
 narrowerTerm:
-- "[[Pollution control]]"
-- "[[Quality control]]"
+  - "[[Pollution control]]"
+  - "[[Quality control]]"
 relatedTerm:
-- "[[Inspection]]"
-usedFor:
-- "[[Monitoring]]"
+  - "[[Inspection]]"
+aliases: Control
 ---

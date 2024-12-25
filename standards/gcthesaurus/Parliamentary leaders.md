@@ -1,19 +1,14 @@
 ---
 title: Parliamentary leaders
-longTitle: 'Parliamentary leaders'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Leader parlementaire]]"
+  - "[[Leader parlementaire]]"
 narrowerTerm:
-- "[[Government leader]]"
+  - "[[Government leader]]"
 scopeNote:
-- "A parliamentary leader is a member of a political "
-usedFor:
-- "[[House leaders]]"
-- "[[Leader of the opposition in the House of Commons]]"
-- "[[Leader of the opposition in the Senate]]"
-- "[[Opposition House leader]]"
+  - "A parliamentary leader is a member of a political "
+aliases: Parliamentary leaders
 historyNote:
-- "Parliamentary leaders replaces House leaders as pr"
+  - Parliamentary leaders replaces House leaders as pr
 ---

@@ -3,16 +3,12 @@ title: Economic crime
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Economic crime'
+  - gccommon
 french:
-- "[[Crime economique]]"
+  - "[[Crime economique]]"
 narrowerTerm:
-- "[[Misappropriation of funds]]"
-- "[[Tax fraud]]"
-usedFor:
-- "[[Business crime]]"
-- "[[Money laundering]]"
-- "[[Smuggling]]"
+  - "[[Misappropriation of funds]]"
+  - "[[Tax fraud]]"
+aliases: Economic crime
 ---
 # Economic crime

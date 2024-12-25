@@ -1,10 +1,16 @@
 ---
 title: Gangs
-longTitle: 'Gangs'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gangs]]"
-usedFor:
-- "[[Street gangs]]"
+  - "[[Gangs]]"
+aliases:
+  - Gangs
+  - Street gangs
+relatedTerm:
+  - "[[Crime]]"
+  - "[[Young offenders]]"
 ---
+# Gangs

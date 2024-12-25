@@ -1,13 +1,10 @@
 ---
 title: Electronic data interchange
-longTitle: 'Electronic data interchange'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Echange electronique dinformation]]"
+  - "[[Echange electronique dinformation]]"
 narrowerTerm:
-- "[[Bibliographic data interchange]]"
-usedFor:
-- "[[EDI]]"
-- "[[Electronic document interchange]]"
+  - "[[Bibliographic data interchange]]"
+aliases: Electronic data interchange
 ---

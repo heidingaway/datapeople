@@ -1,8 +1,8 @@
 ---
 title: Natural heritage National heritage
-longTitle: 'Natural heritage, National heritage'
+aliases: Natural heritage, National heritage
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[National parks]]"
+  - "[[National parks]]"
 ---

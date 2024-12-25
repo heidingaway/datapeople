@@ -1,10 +1,10 @@
 ---
 title: Deliveries
-longTitle: 'Deliveries'
+aliases: Deliveries
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Livraison]]"
+  - "[[Livraison]]"
 relatedTerm:
-- "[[Distribution]]"
+  - "[[Distribution]]"
 ---

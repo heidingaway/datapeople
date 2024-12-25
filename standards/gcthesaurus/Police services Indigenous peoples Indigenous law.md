@@ -1,8 +1,8 @@
 ---
 title: Police services Indigenous peoples Indigenous law
-longTitle: 'Police services, Indigenous peoples, Indigenous law'
+aliases: Police services, Indigenous peoples, Indigenous law
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Indigenous policing]]"
+  - "[[Indigenous policing]]"
 ---

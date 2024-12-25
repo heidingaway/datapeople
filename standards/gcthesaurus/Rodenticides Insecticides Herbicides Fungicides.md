@@ -1,8 +1,8 @@
 ---
 title: Rodenticides Insecticides Herbicides Fungicides
-longTitle: 'Rodenticides, Insecticides, Herbicides, Fungicides'
+aliases: Rodenticides, Insecticides, Herbicides, Fungicides
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Pesticides]]"
+  - "[[Pesticides]]"
 ---

@@ -3,9 +3,9 @@ title: Rogers Centre Ottawa
 created: 2024-10-27
 modified: 2024-11-28
 tags:
-- place
-tag:
-alias: Shaw Centre
+  - place
+tag: 
+aliases: Shaw Centre
 ---
 # Rogers Centre Ottawa
 - type [[408.02.01 EventVenue]]

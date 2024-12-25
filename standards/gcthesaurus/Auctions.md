@@ -3,9 +3,9 @@ title: Auctions
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Auctions'
+  - gccommon
+aliases: Auctions
 french:
-- "[[Vente aux encheres]]"
+  - "[[Vente aux encheres]]"
 ---
 # Auctions

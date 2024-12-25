@@ -1,8 +1,8 @@
 ---
 title: Minority language education
-longTitle: 'Minority language education'
+aliases: Minority language education
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Enseignement dans la langue de la minorite]]"
+  - "[[Enseignement dans la langue de la minorite]]"
 ---

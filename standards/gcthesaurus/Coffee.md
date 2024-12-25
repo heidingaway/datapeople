@@ -1,8 +1,8 @@
 ---
 title: Coffee
-longTitle: 'Coffee'
+aliases: Coffee
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Cafe]]"
+  - "[[Cafe]]"
 ---

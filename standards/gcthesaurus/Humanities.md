@@ -3,15 +3,15 @@ title: Humanities
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Humanities'
+  - gccommon
+aliases: Humanities
 french:
-- "[[Sciences humaines]]"
+  - "[[Sciences humaines]]"
 narrowerTerm:
-- "[[Philosophy]]"
+  - "[[Philosophy]]"
 relatedTerm:
-- "[[Social sciences]]"
-- "[[Culture]]"
-- "[[Arts]]"
+  - "[[Social sciences]]"
+  - "[[Culture]]"
+  - "[[Arts]]"
 ---
 # Humanities

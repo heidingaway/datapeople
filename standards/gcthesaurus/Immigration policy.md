@@ -1,8 +1,8 @@
 ---
 title: Immigration policy
-longTitle: 'Immigration policy'
+aliases: Immigration policy
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Politique dimmigration]]"
+  - "[[Politique dimmigration]]"
 ---

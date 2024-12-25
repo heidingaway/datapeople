@@ -3,12 +3,12 @@ title: Inequality
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Inequality'
+  - gccommon
+aliases: Inequality
 french:
-- "[[Inegalite]]"
+  - "[[Inegalite]]"
 relatedTerm:
-- "[[Equal opportunities]]"
-- "[[Discrimination]]"
+  - "[[Equal opportunities]]"
+  - "[[Discrimination]]"
 ---
 # Inequality

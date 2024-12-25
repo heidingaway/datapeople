@@ -1,11 +1,8 @@
 ---
 title: Home economics
-longTitle: 'Home economics'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Economie domestique]]"
-usedFor:
-- "[[Domestic work]]"
-- "[[Housework]]"
+  - "[[Economie domestique]]"
+aliases: Home economics
 ---

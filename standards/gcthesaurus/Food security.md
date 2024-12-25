@@ -3,13 +3,11 @@ title: Food security
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Food security'
+  - gccommon
 french:
-- "[[Securite alimentaire]]"
+  - "[[Securite alimentaire]]"
 scopeNote:
-- "Refers to sustainable access to sufficient quantit"
-usedFor:
-- "[[Food insecurity]]"
+  - Refers to sustainable access to sufficient quantit
+aliases: Food security
 ---
 # Food security

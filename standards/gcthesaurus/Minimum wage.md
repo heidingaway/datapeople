@@ -1,8 +1,8 @@
 ---
 title: Minimum wage
-longTitle: 'Minimum wage'
+aliases: Minimum wage
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Salaire minimum]]"
+  - "[[Salaire minimum]]"
 ---

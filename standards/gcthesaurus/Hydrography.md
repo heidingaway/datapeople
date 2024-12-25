@@ -1,10 +1,10 @@
 ---
 title: Hydrography
-longTitle: 'Hydrography'
+aliases: Hydrography
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Hydrographie]]"
+  - "[[Hydrographie]]"
 scopeNote:
-- "The science that deals with the measurement and de"
+  - The science that deals with the measurement and de
 ---

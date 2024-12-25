@@ -1,8 +1,8 @@
 ---
 title: Language policy Government services Bilingualism
-longTitle: 'Language policy, Government services, Bilingualism'
+aliases: Language policy, Government services, Bilingualism
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Bilingual services]]"
+  - "[[Bilingual services]]"
 ---

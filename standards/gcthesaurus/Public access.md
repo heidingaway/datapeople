@@ -1,10 +1,10 @@
 ---
 title: Public access
-longTitle: 'Public access'
+aliases: Public access
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Acces public]]"
+  - "[[Acces public]]"
 relatedTerm:
-- "[[Accessibility]]"
+  - "[[Accessibility]]"
 ---

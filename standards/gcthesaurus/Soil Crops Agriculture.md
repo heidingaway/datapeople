@@ -1,8 +1,8 @@
 ---
 title: Soil Crops Agriculture
-longTitle: 'Soil, Crops, Agriculture'
+aliases: Soil, Crops, Agriculture
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Farmlands]]"
+  - "[[Farmlands]]"
 ---

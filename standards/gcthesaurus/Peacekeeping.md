@@ -1,14 +1,12 @@
 ---
 title: Peacekeeping
-longTitle: 'Peacekeeping'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Maintien de la paix]]"
+  - "[[Maintien de la paix]]"
 relatedTerm:
-- "[[Peacekeeping forces]]"
-- "[[War]]"
-- "[[Peace]]"
-usedFor:
-- "[[Peacemaking]]"
+  - "[[Peacekeeping forces]]"
+  - "[[War]]"
+  - "[[Peace]]"
+aliases: Peacekeeping
 ---

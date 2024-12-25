@@ -1,16 +1,11 @@
 ---
 title: Natural resources
-longTitle: 'Natural resources'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ressources naturelles]]"
+  - "[[Ressources naturelles]]"
 narrowerTerm:
-- "[[Non-renewable resources]]"
-- "[[Renewable resources]]"
-usedFor:
-- "[[Coastal resources]]"
-- "[[Environmental resources]]"
-- "[[Marine resources]]"
-- "[[Ocean resources]]"
+  - "[[Non-renewable resources]]"
+  - "[[Renewable resources]]"
+aliases: Natural resources
 ---

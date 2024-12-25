@@ -1,12 +1,12 @@
 ---
 title: Construction
-longTitle: 'Construction'
+aliases: Construction
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Construction]]"
+  - "[[Construction]]"
 narrowerTerm:
-- "[[Road construction]]"
+  - "[[Road construction]]"
 scopeNote:
-- "The act of manipulating parts and material to form"
+  - The act of manipulating parts and material to form
 ---

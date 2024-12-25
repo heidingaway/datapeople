@@ -1,13 +1,10 @@
 ---
 title: Ethnic minorities
-longTitle: 'Ethnic minorities'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Ethnic groups]]"
+  - "[[Ethnic groups]]"
 french:
-- "[[Minorite ethnique]]"
-usedFor:
-- "[[Ethnic minority groups]]"
-- "[[Racial minorities]]"
+  - "[[Minorite ethnique]]"
+aliases: Ethnic minorities
 ---

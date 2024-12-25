@@ -3,17 +3,12 @@ title: Automobile safety equipment
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Automobile safety equipment'
+  - gccommon
 french:
-- "[[Equipement de securite automobile]]"
-usedFor:
-- "[[Air bags]]"
-- "[[Car restraints]]"
-- "[[Car seats]]"
-- "[[Seat belts]]"
+  - "[[Equipement de securite automobile]]"
+aliases: Automobile safety equipment
 relatedTerm:
-- "[[Road safety]]"
-- "[[Automobiles]]"
+  - "[[Road safety]]"
+  - "[[Automobiles]]"
 ---
 # Automobile safety equipment

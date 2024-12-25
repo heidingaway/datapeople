@@ -1,8 +1,8 @@
 ---
 title: Preventive medicine Diseases
-longTitle: 'Preventive medicine, Diseases'
+aliases: Preventive medicine, Diseases
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Screening Medicine]]"
+  - "[[Screening Medicine]]"
 ---

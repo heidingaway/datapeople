@@ -3,14 +3,11 @@ title: Seasonal employment
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Seasonal employment'
+  - gccommon
 french:
-- "[[Emploi saisonnier]]"
+  - "[[Emploi saisonnier]]"
 relatedTerm:
-- "[[Temporary employment]]"
-usedFor:
-- "[[Seasonal work]]"
-- "[[Summer employment]]"
+  - "[[Temporary employment]]"
+aliases: Seasonal employment
 ---
 # Seasonal employment

@@ -1,15 +1,12 @@
 ---
 title: Disclosure of wrongdoing
-longTitle: 'Disclosure of wrongdoing'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Divulgation dactes fautifs]]"
+  - "[[Divulgation dactes fautifs]]"
 relatedTerm:
-- "[[Whistleblower protection]]"
+  - "[[Whistleblower protection]]"
 scopeNote:
-- "Disclosure of serious wrongdoing in the public or "
-usedFor:
-- "[[Whistle blowing]]"
-- "[[Whistleblowing]]"
+  - "Disclosure of serious wrongdoing in the public or "
+aliases: Disclosure of wrongdoing
 ---

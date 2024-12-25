@@ -1,13 +1,10 @@
 ---
 title: Donations
-longTitle: 'Donations'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Don]]"
+  - "[[Don]]"
 narrowerTerm:
-- "[[Charitable donations]]"
-usedFor:
-- "[[Bequests]]"
-- "[[Gifts]]"
+  - "[[Charitable donations]]"
+aliases: Donations
 ---

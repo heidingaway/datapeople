@@ -1,11 +1,8 @@
 ---
 title: Narcotic control
-longTitle: 'Narcotic control'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Lutte anti-drogue]]"
-usedFor:
-- "[[Drug control]]"
-- "[[Drug enforcement]]"
+  - "[[Lutte anti-drogue]]"
+aliases: Narcotic control
 ---

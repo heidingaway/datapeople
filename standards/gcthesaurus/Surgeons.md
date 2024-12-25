@@ -1,10 +1,10 @@
 ---
 title: Surgeons
-longTitle: 'Surgeons'
+aliases: Surgeons
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Surgery]]"
+  - "[[Surgery]]"
 french:
-- "[[Chirurgien]]"
+  - "[[Chirurgien]]"
 ---

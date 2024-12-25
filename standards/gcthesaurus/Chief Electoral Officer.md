@@ -1,8 +1,8 @@
 ---
 title: Chief Electoral Officer
-longTitle: 'Chief Electoral Officer'
+aliases: Chief Electoral Officer
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Directeur general des elections]]"
+  - "[[Directeur general des elections]]"
 ---

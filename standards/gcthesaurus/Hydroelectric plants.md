@@ -3,19 +3,12 @@ title: Hydroelectric plants
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Hydroelectric plants'
+  - gccommon
 french:
-- "[[Centrale hydroelectrique]]"
-usedFor:
-- "[[Hydro-electric plants]]"
-- "[[Hydro-electric power plants]]"
-- "[[Hydroelectric generating stations]]"
-- "[[Hydroelectric power plants]]"
-- "[[Hydroelectric power stations]]"
-- "[[Hydroelectric stations]]"
+  - "[[Centrale hydroelectrique]]"
+aliases: Hydroelectric plants
 relatedTerm:
-- "[[Hydropower]]"
-- "[[Dams]]"
+  - "[[Hydropower]]"
+  - "[[Dams]]"
 ---
 # Hydroelectric plants

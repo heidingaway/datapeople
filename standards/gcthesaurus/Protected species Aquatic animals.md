@@ -1,8 +1,8 @@
 ---
 title: Protected species Aquatic animals
-longTitle: 'Protected species, Aquatic animals'
+aliases: Protected species, Aquatic animals
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Aquariums]]"
+  - "[[Aquariums]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Research chairs Postsecondary education Colleges
-longTitle: 'Research chairs, Postsecondary education, Colleges'
+aliases: Research chairs, Postsecondary education, Colleges
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Universities]]"
+  - "[[Universities]]"
 ---

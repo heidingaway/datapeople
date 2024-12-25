@@ -1,8 +1,8 @@
 ---
 title: Staffing Elections
-longTitle: 'Staffing, Elections'
+aliases: Staffing, Elections
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Appointments]]"
+  - "[[Appointments]]"
 ---

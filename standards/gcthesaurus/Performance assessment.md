@@ -1,8 +1,8 @@
 ---
 title: Performance assessment
-longTitle: 'Performance assessment'
+aliases: Performance assessment
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Evaluation du rendement]]"
+  - "[[Evaluation du rendement]]"
 ---

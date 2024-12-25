@@ -1,10 +1,10 @@
 ---
 title: Foreign languages
-longTitle: 'Foreign languages'
+aliases: Foreign languages
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Langue etrangere]]"
+  - "[[Langue etrangere]]"
 scopeNote:
-- "In Canada any language other than English French a"
+  - In Canada any language other than English French a
 ---

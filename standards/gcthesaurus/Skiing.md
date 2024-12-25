@@ -1,8 +1,8 @@
 ---
 title: Skiing
-longTitle: 'Skiing'
+aliases: Skiing
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ski]]"
+  - "[[Ski]]"
 ---

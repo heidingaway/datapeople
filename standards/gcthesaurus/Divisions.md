@@ -1,8 +1,8 @@
 ---
 title: Divisions
-longTitle: 'Divisions'
+aliases: Divisions
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Division]]"
+  - "[[Division]]"
 ---

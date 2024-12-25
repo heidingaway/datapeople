@@ -1,8 +1,8 @@
 ---
 title: Social conditions
-longTitle: 'Social conditions'
+aliases: Social conditions
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Conditions sociales]]"
+  - "[[Conditions sociales]]"
 ---

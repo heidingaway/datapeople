@@ -3,23 +3,21 @@ title: Plants
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Plants'
+  - gccommon
 french:
-- "[[Plante]]"
+  - "[[Plante]]"
 narrowerTerm:
-- "[[Aquatic plants]]"
-- "[[Medicinal plants]]"
-- "[[Ornamental plants]]"
-- "[[Trees]]"
-- "[[Wild plants]]"
-- "[[Weeds]]"
+  - "[[Aquatic plants]]"
+  - "[[Medicinal plants]]"
+  - "[[Ornamental plants]]"
+  - "[[Trees]]"
+  - "[[Wild plants]]"
+  - "[[Weeds]]"
 relatedTerm:
-- "[[Flora]]"
-- "[[Plant diseases]]"
-- "[[Herbaria]]"
-- "[[Botany]]"
-usedFor:
-- "[[Vegetation]]"
+  - "[[Flora]]"
+  - "[[Plant diseases]]"
+  - "[[Herbaria]]"
+  - "[[Botany]]"
+aliases: Plants
 ---
 # Plants

@@ -3,14 +3,9 @@ title: Privacy
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Privacy'
+  - gccommon
 french:
-- "[[Vie privee]]"
-usedFor:
-- "[[Data breach]]"
-- "[[Privacy breach]]"
-- "[[Right to privacy]]"
-- "[[Security breach]]"
+  - "[[Vie privee]]"
+aliases: Privacy
 ---
 # Privacy

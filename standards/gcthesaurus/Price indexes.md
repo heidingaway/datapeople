@@ -1,12 +1,10 @@
 ---
 title: Price indexes
-longTitle: 'Price indexes'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Indice des prix]]"
+  - "[[Indice des prix]]"
 scopeNote:
-- "An indicator that measures changes in price levels"
-usedFor:
-- "[[Consumer price index]]"
+  - An indicator that measures changes in price levels
+aliases: Price indexes
 ---

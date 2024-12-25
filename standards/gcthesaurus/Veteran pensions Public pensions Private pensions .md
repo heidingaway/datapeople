@@ -1,8 +1,8 @@
 ---
-title: Veteran pensions Public pensions Private pensions 
-longTitle: 'Veteran pensions, Public pensions, Private pensions, Disability pensions'
+title: Veteran pensions Public pensions Private pensions
+aliases: Veteran pensions, Public pensions, Private pensions, Disability pensions
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Pensions]]"
+  - "[[Pensions]]"
 ---

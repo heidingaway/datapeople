@@ -1,12 +1,12 @@
 ---
 title: Braille
-longTitle: 'Braille'
+aliases: Braille
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Braille]]"
+  - "[[Braille]]"
 relatedTerm:
-- "[[Visual disabilities]]"
+  - "[[Visual disabilities]]"
 scopeNote:
-- "A tactile system of embossed print invented for th"
+  - A tactile system of embossed print invented for th
 ---

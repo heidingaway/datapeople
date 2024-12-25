@@ -1,19 +1,14 @@
 ---
 title: Disasters
-longTitle: 'Disasters'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Desastre]]"
+  - "[[Desastre]]"
 narrowerTerm:
-- "[[Natural disasters]]"
+  - "[[Natural disasters]]"
 relatedTerm:
-- "[[Disaster relief]]"
+  - "[[Disaster relief]]"
 scopeNote:
-- "Events whether natural or caused by humans that ge"
-usedFor:
-- "[[Catastrophes]]"
-- "[[Man-made disasters]]"
-- "[[Manmade disasters]]"
-- "[[Technological disasters]]"
+  - Events whether natural or caused by humans that ge
+aliases: Disasters
 ---

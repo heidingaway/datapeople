@@ -1,10 +1,10 @@
 ---
 title: Constitutional law
-longTitle: 'Constitutional law'
+aliases: Constitutional law
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Droit constitutionnel]]"
+  - "[[Droit constitutionnel]]"
 relatedTerm:
-- "[[Constitution]]"
+  - "[[Constitution]]"
 ---

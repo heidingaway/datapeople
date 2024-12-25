@@ -1,13 +1,13 @@
 ---
 title: Health sciences
-longTitle: 'Health sciences'
+aliases: Health sciences
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Sciences de la sante]]"
+  - "[[Sciences de la sante]]"
 narrowerTerm:
-- "[[Epidemiology]]"
-- "[[Medicine]]"
-- "[[Pharmacology]]"
-- "[[Toxicology]]"
+  - "[[Epidemiology]]"
+  - "[[Medicine]]"
+  - "[[Pharmacology]]"
+  - "[[Toxicology]]"
 ---

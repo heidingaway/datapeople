@@ -1,11 +1,8 @@
 ---
 title: Boundary waters
-longTitle: 'Boundary waters'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Eaux limitrophes]]"
-usedFor:
-- "[[International boundary waters]]"
-- "[[Transboundary waters]]"
+  - "[[Eaux limitrophes]]"
+aliases: Boundary waters
 ---

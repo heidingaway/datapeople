@@ -1,8 +1,8 @@
 ---
 title: Social trends
-longTitle: 'Social trends'
+aliases: Social trends
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Tendances sociales]]"
+  - "[[Tendances sociales]]"
 ---

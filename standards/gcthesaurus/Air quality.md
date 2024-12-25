@@ -1,10 +1,15 @@
 ---
 title: Air quality
-longTitle: 'Air quality'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Qualite de lair]]"
-usedFor:
-- "[[Air quality monitoring]]"
+  - Qualite de lair
+aliases:
+  - Air quality
+relatedTerm:
+  - "[[Air pollution]]"
+  - "[[Air]]"
 ---
+# Air quality

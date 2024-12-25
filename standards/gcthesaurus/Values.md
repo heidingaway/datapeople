@@ -3,14 +3,11 @@ title: Values
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Values'
+  - gccommon
 french:
-- "[[Valeurs]]"
+  - "[[Valeurs]]"
 relatedTerm:
-- "[[Ethics]]"
-usedFor:
-- "[[Code of values]]"
-- "[[Code of conduct]]"
+  - "[[Ethics]]"
+aliases: Values
 ---
 # Values

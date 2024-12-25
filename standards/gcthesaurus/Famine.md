@@ -3,12 +3,12 @@ title: Famine
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Famine'
+  - gccommon
+aliases: Famine
 french:
-- "[[Famine]]"
+  - "[[Famine]]"
 relatedTerm:
-- "[[Hunger]]"
-- "[[Food supply]]"
+  - "[[Hunger]]"
+  - "[[Food supply]]"
 ---
 # Famine

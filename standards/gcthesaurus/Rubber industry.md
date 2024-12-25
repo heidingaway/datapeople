@@ -1,8 +1,8 @@
 ---
 title: Rubber industry
-longTitle: 'Rubber industry'
+aliases: Rubber industry
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie du caoutchouc]]"
+  - "[[Industrie du caoutchouc]]"
 ---

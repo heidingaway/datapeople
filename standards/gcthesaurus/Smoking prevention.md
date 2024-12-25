@@ -1,8 +1,8 @@
 ---
 title: Smoking prevention
-longTitle: 'Smoking prevention'
+aliases: Smoking prevention
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Prevention du tabagisme]]"
+  - "[[Prevention du tabagisme]]"
 ---

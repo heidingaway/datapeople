@@ -1,10 +1,10 @@
 ---
 title: Foreign policy
-longTitle: 'Foreign policy'
+aliases: Foreign policy
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Politique etrangere]]"
+  - "[[Politique etrangere]]"
 relatedTerm:
-- "[[Public diplomacy]]"
+  - "[[Public diplomacy]]"
 ---

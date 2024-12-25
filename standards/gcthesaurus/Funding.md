@@ -3,21 +3,19 @@ title: Funding
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Funding'
+  - gccommon
 french:
-- "[[Financement]]"
+  - "[[Financement]]"
 narrowerTerm:
-- "[[Educational funding]]"
-- "[[Public funding]]"
+  - "[[Educational funding]]"
+  - "[[Public funding]]"
 relatedTerm:
-- "[[Fundraising]]"
-- "[[Transfer payments]]"
-- "[[Recipients]]"
-- "[[Grants]]"
-- "[[Fundraising]]"
-- "[[Financing companies]]"
-usedFor:
-- "[[Financing]]"
+  - "[[Fundraising]]"
+  - "[[Transfer payments]]"
+  - "[[Recipients]]"
+  - "[[Grants]]"
+  - "[[Fundraising]]"
+  - "[[Financing companies]]"
+aliases: Funding
 ---
 # Funding

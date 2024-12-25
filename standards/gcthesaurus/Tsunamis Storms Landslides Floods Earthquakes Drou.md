@@ -1,8 +1,8 @@
 ---
 title: Tsunamis Storms Landslides Floods Earthquakes Drou
-longTitle: 'Tsunamis, Storms, Landslides, Floods, Earthquakes, Drought, Avalanches'
+aliases: Tsunamis, Storms, Landslides, Floods, Earthquakes, Drought, Avalanches
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Natural disasters]]"
+  - "[[Natural disasters]]"
 ---

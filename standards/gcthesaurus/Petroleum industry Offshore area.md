@@ -1,8 +1,8 @@
 ---
 title: Petroleum industry Offshore area
-longTitle: 'Petroleum industry, Offshore area'
+aliases: Petroleum industry, Offshore area
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Offshore drilling]]"
+  - "[[Offshore drilling]]"
 ---

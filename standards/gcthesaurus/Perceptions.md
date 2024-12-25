@@ -1,8 +1,8 @@
 ---
 title: Perceptions
-longTitle: 'Perceptions'
+aliases: Perceptions
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Perception]]"
+  - "[[Perception]]"
 ---

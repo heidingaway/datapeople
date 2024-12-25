@@ -1,8 +1,8 @@
 ---
 title: Job promotion
-longTitle: 'Job promotion'
+aliases: Job promotion
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Promotion en emploi]]"
+  - "[[Promotion en emploi]]"
 ---

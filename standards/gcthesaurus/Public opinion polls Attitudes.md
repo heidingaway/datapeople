@@ -1,9 +1,9 @@
 ---
 title: Public opinion polls Attitudes
-longTitle: 'Public opinion polls, Attitudes'
+aliases: Public opinion polls, Attitudes
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Perceptions]]"
-- "[[Public opinion]]"
+  - "[[Perceptions]]"
+  - "[[Public opinion]]"
 ---

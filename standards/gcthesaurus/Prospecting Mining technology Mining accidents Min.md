@@ -1,8 +1,8 @@
 ---
 title: Prospecting Mining technology Mining accidents Min
-longTitle: 'Prospecting, Mining technology, Mining accidents, Minerals, Metals, Drilling, Coal'
+aliases: Prospecting, Mining technology, Mining accidents, Minerals, Metals, Drilling, Coal
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Mining industry]]"
+  - "[[Mining industry]]"
 ---

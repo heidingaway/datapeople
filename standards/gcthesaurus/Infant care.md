@@ -3,16 +3,14 @@ title: Infant care
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Infant care'
+  - gccommon
 broaderTerm:
-- "[[Child care]]"
+  - "[[Child care]]"
 french:
-- "[[Soin du nouveau-ne]]"
-usedFor:
-- "[[Newborn care]]"
+  - "[[Soin du nouveau-ne]]"
+aliases: Infant care
 relatedTerm:
-- "[[Perinatal care]]"
-- "[[Infants]]"
+  - "[[Perinatal care]]"
+  - "[[Infants]]"
 ---
 # Infant care

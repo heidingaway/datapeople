@@ -1,8 +1,8 @@
 ---
 title: Plant diseases
-longTitle: 'Plant diseases'
+aliases: Plant diseases
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Maladie des plantes]]"
+  - "[[Maladie des plantes]]"
 ---

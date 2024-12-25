@@ -1,8 +1,8 @@
 ---
 title: Public-private partnerships Public sector Privatiz
-longTitle: 'Public-private partnerships, Public sector, Privatization'
+aliases: Public-private partnerships, Public sector, Privatization
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Private sector]]"
+  - "[[Private sector]]"
 ---

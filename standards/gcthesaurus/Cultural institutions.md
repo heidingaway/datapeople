@@ -3,20 +3,18 @@ title: Cultural institutions
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Cultural institutions'
+  - gccommon
 french:
-- "[[Institution culturelle]]"
+  - "[[Institution culturelle]]"
 narrowerTerm:
-- "[[Art galleries]]"
-- "[[Historical societies]]"
-- "[[Libraries]]"
-- "[[Museums]]"
-- "[[Orchestras]]"
-usedFor:
-- "[[Cultural facilities]]"
+  - "[[Art galleries]]"
+  - "[[Historical societies]]"
+  - "[[Libraries]]"
+  - "[[Museums]]"
+  - "[[Orchestras]]"
+aliases: Cultural institutions
 relatedTerm:
-- "[[Culture]]"
-- "[[Cultural industry]]"
+  - "[[Culture]]"
+  - "[[Cultural industry]]"
 ---
 # Cultural institutions

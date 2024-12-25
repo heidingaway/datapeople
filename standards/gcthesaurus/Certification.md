@@ -1,12 +1,10 @@
 ---
 title: Certification
-longTitle: 'Certification'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Accreditation]]"
+  - "[[Accreditation]]"
 relatedTerm:
-- "[[Certificate of origin]]"
-usedFor:
-- "[[Accreditation]]"
+  - "[[Certificate of origin]]"
+aliases: Certification
 ---

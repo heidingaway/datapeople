@@ -1,19 +1,13 @@
 ---
 title: Legislation
-longTitle: 'Legislation'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Legislation]]"
+  - "[[Legislation]]"
 relatedTerm:
-- "[[Amendments]]"
-- "[[Office consolidations]]"
+  - "[[Amendments]]"
+  - "[[Office consolidations]]"
 scopeNote:
-- "A collection of written and approved laws that gui"
-usedFor:
-- "[[Acts]]"
-- "[[Bills]]"
-- "[[Laws]]"
-- "[[Legislative process]]"
-- "[[Statutes]]"
+  - A collection of written and approved laws that gui
+aliases: Legislation
 ---

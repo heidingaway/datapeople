@@ -1,8 +1,8 @@
 ---
 title: Stamps Philately Electronic mail
-longTitle: 'Stamps, Philately, Electronic mail'
+aliases: Stamps, Philately, Electronic mail
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Postal services]]"
+  - "[[Postal services]]"
 ---

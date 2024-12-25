@@ -1,8 +1,8 @@
 ---
 title: Religious heritage Religious architecture Religion
-longTitle: 'Religious heritage, Religious architecture, Religion'
+aliases: Religious heritage, Religious architecture, Religion
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Religious buildings]]"
+  - "[[Religious buildings]]"
 ---

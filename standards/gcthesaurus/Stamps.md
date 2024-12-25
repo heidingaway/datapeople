@@ -1,8 +1,8 @@
 ---
 title: Stamps
-longTitle: 'Stamps'
+aliases: Stamps
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Timbre]]"
+  - "[[Timbre]]"
 ---

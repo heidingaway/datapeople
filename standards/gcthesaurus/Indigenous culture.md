@@ -1,14 +1,10 @@
 ---
 title: Indigenous culture
-longTitle: 'Indigenous culture'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Culture autochtone]]"
+  - "[[Culture autochtone]]"
 relatedTerm:
-- "[[Indigenous languages]]"
-usedFor:
-- "[[Aboriginal culture]]"
-- "[[Aboriginal heritage]]"
-- "[[Native culture]]"
+  - "[[Indigenous languages]]"
+aliases: Indigenous culture
 ---

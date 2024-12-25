@@ -1,8 +1,8 @@
 ---
 title: Computer programming
-longTitle: 'Computer programming'
+aliases: Computer programming
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Programmation dordinateur]]"
+  - "[[Programmation dordinateur]]"
 ---

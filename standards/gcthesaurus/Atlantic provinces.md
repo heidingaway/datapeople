@@ -1,8 +1,8 @@
 ---
 title: Atlantic provinces
-longTitle: 'Atlantic provinces'
+aliases: Atlantic provinces
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Provinces atlantiques]]"
+  - "[[Provinces atlantiques]]"
 ---

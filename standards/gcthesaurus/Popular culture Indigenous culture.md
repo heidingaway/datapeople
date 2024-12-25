@@ -1,8 +1,8 @@
 ---
 title: Popular culture Indigenous culture
-longTitle: 'Popular culture, Indigenous culture'
+aliases: Popular culture, Indigenous culture
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Culture]]"
+  - "[[Culture]]"
 ---

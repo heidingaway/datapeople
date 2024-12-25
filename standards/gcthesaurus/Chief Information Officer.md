@@ -1,10 +1,8 @@
 ---
 title: Chief Information Officer
-longTitle: 'Chief Information Officer'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Dirigeant principal de linformation]]"
-usedFor:
-- "[[CIO]]"
+  - "[[Dirigeant principal de linformation]]"
+aliases: Chief Information Officer
 ---

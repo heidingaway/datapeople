@@ -1,10 +1,8 @@
 ---
 title: Archaeology
-longTitle: 'Archaeology'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Archeologie]]"
-usedFor:
-- "[[Archeology]]"
+  - "[[Archeologie]]"
+aliases: Archaeology
 ---

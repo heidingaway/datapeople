@@ -1,8 +1,8 @@
 ---
 title: Federal contracts
-longTitle: 'Federal contracts'
+aliases: Federal contracts
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Contrat du gouvernement federal]]"
+  - "[[Contrat du gouvernement federal]]"
 ---

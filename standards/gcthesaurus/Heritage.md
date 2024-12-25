@@ -1,22 +1,20 @@
 ---
 title: Heritage
-longTitle: 'Heritage'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Patrimoine]]"
+  - "[[Patrimoine]]"
 narrowerTerm:
-- "[[Architectural heritage]]"
-- "[[Cultural heritage]]"
-- "[[Marine heritage]]"
-- "[[National heritage]]"
-- "[[Natural heritage]]"
-- "[[Religious heritage]]"
-- "[[World heritage]]"
+  - "[[Architectural heritage]]"
+  - "[[Cultural heritage]]"
+  - "[[Marine heritage]]"
+  - "[[National heritage]]"
+  - "[[Natural heritage]]"
+  - "[[Religious heritage]]"
+  - "[[World heritage]]"
 relatedTerm:
-- "[[Heritage conservation]]"
+  - "[[Heritage conservation]]"
 scopeNote:
-- "The cultural and natural resources which are passe"
-usedFor:
-- "[[Heritage resources]]"
+  - The cultural and natural resources which are passe
+aliases: Heritage
 ---

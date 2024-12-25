@@ -1,8 +1,8 @@
 ---
 title: Nuclear medicine
-longTitle: 'Nuclear medicine'
+aliases: Nuclear medicine
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Medecine nucleaire]]"
+  - "[[Medecine nucleaire]]"
 ---

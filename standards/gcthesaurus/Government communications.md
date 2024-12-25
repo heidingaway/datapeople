@@ -1,8 +1,8 @@
 ---
 title: Government communications
-longTitle: 'Government communications'
+aliases: Government communications
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Communications gouvernementales]]"
+  - "[[Communications gouvernementales]]"
 ---

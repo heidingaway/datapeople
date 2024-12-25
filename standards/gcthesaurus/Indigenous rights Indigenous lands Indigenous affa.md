@@ -1,8 +1,8 @@
 ---
 title: Indigenous rights Indigenous lands Indigenous affa
-longTitle: 'Indigenous rights, Indigenous lands, Indigenous affairs'
+aliases: Indigenous rights, Indigenous lands, Indigenous affairs
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Land claims]]"
+  - "[[Land claims]]"
 ---

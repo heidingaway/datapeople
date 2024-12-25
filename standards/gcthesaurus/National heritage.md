@@ -1,8 +1,8 @@
 ---
 title: National heritage
-longTitle: 'National heritage'
+aliases: National heritage
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Patrimoine national]]"
+  - "[[Patrimoine national]]"
 ---

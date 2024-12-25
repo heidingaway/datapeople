@@ -1,16 +1,15 @@
 ---
 title: Airplanes
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Airplanes'
+  - gccommon
 french:
-- "[[Avion]]"
-usedFor:
-- "[[Planes]]"
+  - Avion
+aliases:
+  - Airplanes
 relatedTerm:
-- "[[Air transport industry]]"
-- "[[Air transport]]"
+  - "[[Air transport industry]]"
+  - "[[Air transport]]"
 ---
 # Airplanes

@@ -3,14 +3,14 @@ title: Probate
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Probate'
+  - gccommon
+aliases: Probate
 french:
-- "[[Homologation]]"
+  - "[[Homologation]]"
 scopeNote:
-- "The formal certificate given by a court that decla"
+  - The formal certificate given by a court that decla
 relatedTerm:
-- "[[Inheritance]]"
-- "[[Estates]]"
+  - "[[Inheritance]]"
+  - "[[Estates]]"
 ---
 # Probate

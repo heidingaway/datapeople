@@ -1,12 +1,8 @@
 ---
 title: Indigenous reserves
-longTitle: 'Indigenous reserves'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Reserve autochtone]]"
-usedFor:
-- "[[Aboriginal reserves]]"
-- "[[Indian reserves]]"
-- "[[Reserves]]"
+  - "[[Reserve autochtone]]"
+aliases: Indigenous reserves
 ---

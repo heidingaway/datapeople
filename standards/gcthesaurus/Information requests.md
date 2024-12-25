@@ -1,10 +1,8 @@
 ---
 title: Information requests
-longTitle: 'Information requests'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Demande dinformation]]"
-usedFor:
-- "[[Enquiries]]"
+  - "[[Demande dinformation]]"
+aliases: Information requests
 ---

@@ -1,8 +1,8 @@
 ---
 title: Excise
-longTitle: 'Excise'
+aliases: Excise
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Accise]]"
+  - "[[Accise]]"
 ---

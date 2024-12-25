@@ -1,8 +1,8 @@
 ---
 title: Medicine Gerontology
-longTitle: 'Medicine, Gerontology'
+aliases: Medicine, Gerontology
 tags:
-- gccommon
+  - gccommon
 narrowerTerm:
-- "[[Geriatrics]]"
+  - "[[Geriatrics]]"
 ---

@@ -3,9 +3,9 @@ title: Apartment buildings
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Apartment buildings'
+  - gccommon
+aliases: Apartment buildings
 french:
-- "[[Immeuble dhabitation]]"
+  - "[[Immeuble dhabitation]]"
 ---
 # Apartment buildings

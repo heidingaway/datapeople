@@ -1,8 +1,8 @@
 ---
 title: Case studies
-longTitle: 'Case studies'
+aliases: Case studies
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Etude de cas]]"
+  - "[[Etude de cas]]"
 ---

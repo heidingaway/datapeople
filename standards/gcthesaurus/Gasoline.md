@@ -1,13 +1,8 @@
 ---
 title: Gasoline
-longTitle: 'Gasoline'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Essence]]"
-usedFor:
-- "[[Automobile gasoline]]"
-- "[[Automotive gasoline]]"
-- "[[Gas Gasoline]]"
-- "[[Motor gasoline]]"
+  - "[[Essence]]"
+aliases: Gasoline
 ---

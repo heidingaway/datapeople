@@ -1,8 +1,8 @@
 ---
 title: Economic impact
-longTitle: 'Economic impact'
+aliases: Economic impact
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Impact economique]]"
+  - "[[Impact economique]]"
 ---

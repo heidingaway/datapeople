@@ -1,8 +1,8 @@
 ---
 title: Precipitation Dams
-longTitle: 'Precipitation, Dams'
+aliases: Precipitation, Dams
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Floods]]"
+  - "[[Floods]]"
 ---

@@ -1,10 +1,8 @@
 ---
 title: Numismatics
-longTitle: 'Numismatics'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Numismatique]]"
-usedFor:
-- "[[Coin collecting]]"
+  - "[[Numismatique]]"
+aliases: Numismatics
 ---

@@ -1,8 +1,8 @@
 ---
 title: Quality standards
-longTitle: 'Quality standards'
+aliases: Quality standards
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Norme de qualite]]"
+  - "[[Norme de qualite]]"
 ---

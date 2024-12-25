@@ -1,8 +1,8 @@
 ---
 title: Privacy Personal information banks Confidentiality
-longTitle: 'Privacy, Personal information banks, Confidentiality, Change of address'
+aliases: Privacy, Personal information banks, Confidentiality, Change of address
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Personal information]]"
+  - "[[Personal information]]"
 ---

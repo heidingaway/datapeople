@@ -1,13 +1,8 @@
 ---
 title: Electoral system
-longTitle: 'Electoral system'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Systeme electoral]]"
-usedFor:
-- "[[Electoral law]]"
-- "[[Electoral reform]]"
-- "[[Plebiscites]]"
-- "[[Referendums]]"
+  - "[[Systeme electoral]]"
+aliases: Electoral system
 ---

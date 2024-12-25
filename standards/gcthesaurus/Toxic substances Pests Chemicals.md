@@ -1,8 +1,8 @@
 ---
 title: Toxic substances Pests Chemicals
-longTitle: 'Toxic substances, Pests, Chemicals'
+aliases: Toxic substances, Pests, Chemicals
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Pesticides]]"
+  - "[[Pesticides]]"
 ---

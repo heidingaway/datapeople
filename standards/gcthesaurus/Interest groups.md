@@ -1,15 +1,12 @@
 ---
 title: Interest groups
-longTitle: 'Interest groups'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Groupe dinteret]]"
+  - "[[Groupe dinteret]]"
 relatedTerm:
-- "[[Associations]]"
+  - "[[Associations]]"
 scopeNote:
-- "Any aggregate of individuals that on the basis of "
-usedFor:
-- "[[Pressure groups]]"
-- "[[Public interest groups]]"
+  - "Any aggregate of individuals that on the basis of "
+aliases: Interest groups
 ---

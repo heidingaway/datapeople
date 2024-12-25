@@ -1,10 +1,10 @@
 ---
 title: Selection
-longTitle: 'Selection'
+aliases: Selection
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Selection]]"
+  - "[[Selection]]"
 scopeNote:
-- "The choosing of candidates for employment in an or"
+  - The choosing of candidates for employment in an or
 ---

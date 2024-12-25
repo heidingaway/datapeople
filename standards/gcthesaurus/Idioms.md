@@ -1,8 +1,8 @@
 ---
 title: Idioms
-longTitle: 'Idioms'
+aliases: Idioms
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Idiome]]"
+  - "[[Idiome]]"
 ---

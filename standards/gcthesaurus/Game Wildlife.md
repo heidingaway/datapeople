@@ -1,8 +1,8 @@
 ---
 title: Game Wildlife
-longTitle: 'Game (Wildlife)'
+aliases: Game (Wildlife)
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gibier]]"
+  - "[[Gibier]]"
 ---

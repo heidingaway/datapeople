@@ -3,14 +3,12 @@ title: Rural development
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Rural development'
+  - gccommon
 french:
-- "[[Developpement rural]]"
-usedFor:
-- "[[Rural issues]]"
+  - "[[Developpement rural]]"
+aliases: Rural development
 relatedTerm:
-- "[[Rural communities]]"
-- "[[Regional development]]"
+  - "[[Rural communities]]"
+  - "[[Regional development]]"
 ---
 # Rural development

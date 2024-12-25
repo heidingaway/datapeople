@@ -1,11 +1,8 @@
 ---
 title: Federal institutions
-longTitle: 'Federal institutions'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Institution federale]]"
-usedFor:
-- "[[Federal agencies]]"
-- "[[Federal bodies]]"
+  - "[[Institution federale]]"
+aliases: Federal institutions
 ---

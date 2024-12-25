@@ -1,10 +1,10 @@
 ---
 title: Bioassay
-longTitle: 'Bioassay'
+aliases: Bioassay
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Epreuve biologique]]"
+  - "[[Epreuve biologique]]"
 scopeNote:
-- "Analysis of the strength concentration potency or "
+  - "Analysis of the strength concentration potency or "
 ---

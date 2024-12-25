@@ -1,8 +1,8 @@
 ---
 title: Forests Forestry technology Forestry products Fore
-longTitle: 'Forests, Forestry technology, Forestry products, Forestry, Forest management'
+aliases: Forests, Forestry technology, Forestry products, Forestry, Forest management
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Forestry industry]]"
+  - "[[Forestry industry]]"
 ---

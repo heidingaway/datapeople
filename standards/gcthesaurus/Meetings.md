@@ -1,14 +1,14 @@
 ---
 title: Meetings
-longTitle: 'Meetings'
+aliases: Meetings
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Reunion]]"
+  - "[[Reunion]]"
 narrowerTerm:
-- "[[Teleconferencing]]"
+  - "[[Teleconferencing]]"
 relatedTerm:
-- "[[Agenda]]"
-- "[[Consultations]]"
-- "[[Minutes]]"
+  - "[[Agenda]]"
+  - "[[Consultations]]"
+  - "[[Minutes]]"
 ---

@@ -1,11 +1,11 @@
 ---
 title: Economic statistics
-longTitle: 'Economic statistics'
+aliases: Economic statistics
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Statistiques economiques]]"
+  - "[[Statistiques economiques]]"
 relatedTerm:
-- "[[Economic indicators]]"
-- "[[Economic analysis]]"
+  - "[[Economic indicators]]"
+  - "[[Economic analysis]]"
 ---

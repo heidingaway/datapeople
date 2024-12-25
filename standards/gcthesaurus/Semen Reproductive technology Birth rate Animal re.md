@@ -1,8 +1,8 @@
 ---
 title: Semen Reproductive technology Birth rate Animal re
-longTitle: 'Semen, Reproductive technology, Birth rate, Animal reproduction'
+aliases: Semen, Reproductive technology, Birth rate, Animal reproduction
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Fertility]]"
+  - "[[Fertility]]"
 ---

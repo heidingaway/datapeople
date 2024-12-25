@@ -1,8 +1,8 @@
 ---
 title: Public opinion Perceptions
-longTitle: 'Public opinion, Perceptions'
+aliases: Public opinion, Perceptions
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Public opinion polls]]"
+  - "[[Public opinion polls]]"
 ---

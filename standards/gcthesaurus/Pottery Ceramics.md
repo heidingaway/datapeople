@@ -1,8 +1,8 @@
 ---
 title: Pottery Ceramics
-longTitle: 'Pottery, Ceramics'
+aliases: Pottery, Ceramics
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Decorative arts]]"
+  - "[[Decorative arts]]"
 ---

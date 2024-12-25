@@ -3,18 +3,14 @@ title: Global positioning systems
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Global positioning systems'
+  - gccommon
 broaderTerm:
-- "[[Global navigation satellite systems]]"
+  - "[[Global navigation satellite systems]]"
 french:
-- "[[Systeme de positionnement global]]"
-usedFor:
-- "[[GPS]]"
-- "[[GPS satellite systems]]"
-- "[[GPS systems]]"
+  - "[[Systeme de positionnement global]]"
+aliases: Global positioning systems
 relatedTerm:
-- "[[Satellites]]"
-- "[[Geography]]"
+  - "[[Satellites]]"
+  - "[[Geography]]"
 ---
 # Global positioning systems

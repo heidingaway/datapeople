@@ -1,8 +1,8 @@
 ---
 title: Research Patents Industrial research Development A
-longTitle: 'Research, Patents, Industrial research, Development, Applied research'
+aliases: Research, Patents, Industrial research, Development, Applied research
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Research and development]]"
+  - "[[Research and development]]"
 ---

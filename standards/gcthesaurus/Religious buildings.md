@@ -1,10 +1,10 @@
 ---
 title: Religious buildings
-longTitle: 'Religious buildings'
+aliases: Religious buildings
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Edifice religieux]]"
+  - "[[Edifice religieux]]"
 relatedTerm:
-- "[[Religious architecture]]"
+  - "[[Religious architecture]]"
 ---

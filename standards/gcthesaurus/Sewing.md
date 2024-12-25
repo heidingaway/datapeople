@@ -1,8 +1,8 @@
 ---
 title: Sewing
-longTitle: 'Sewing'
+aliases: Sewing
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Couture]]"
+  - "[[Couture]]"
 ---

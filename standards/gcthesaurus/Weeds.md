@@ -1,10 +1,10 @@
 ---
 title: Weeds
-longTitle: 'Weeds'
+aliases: Weeds
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Plante nuisible]]"
+  - "[[Plante nuisible]]"
 relatedTerm:
-- "[[Herbicides]]"
+  - "[[Herbicides]]"
 ---

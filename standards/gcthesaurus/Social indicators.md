@@ -1,8 +1,8 @@
 ---
 title: Social indicators
-longTitle: 'Social indicators'
+aliases: Social indicators
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Indicateur social]]"
+  - "[[Indicateur social]]"
 ---

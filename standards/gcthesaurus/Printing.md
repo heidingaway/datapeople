@@ -1,10 +1,8 @@
 ---
 title: Printing
-longTitle: 'Printing'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Imprimerie]]"
-usedFor:
-- "[[Commercial printing]]"
+  - "[[Imprimerie]]"
+aliases: Printing
 ---

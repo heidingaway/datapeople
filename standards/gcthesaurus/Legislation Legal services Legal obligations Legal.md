@@ -1,8 +1,8 @@
 ---
 title: Legislation Legal services Legal obligations Legal
-longTitle: 'Legislation, Legal services, Legal obligations, Legal issues, Legal documents, Legal aid, Justice system, Jurisprudence'
+aliases: Legislation, Legal services, Legal obligations, Legal issues, Legal documents, Legal aid, Justice system, Jurisprudence
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Law]]"
+  - "[[Law]]"
 ---

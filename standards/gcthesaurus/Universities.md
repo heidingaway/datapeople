@@ -1,8 +1,8 @@
 ---
 title: Universities
-longTitle: 'Universities'
+aliases: Universities
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Universite]]"
+  - "[[Universite]]"
 ---

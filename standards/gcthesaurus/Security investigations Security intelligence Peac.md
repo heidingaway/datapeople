@@ -1,8 +1,8 @@
 ---
 title: Security investigations Security intelligence Peac
-longTitle: 'Security investigations, Security intelligence, Peace, National security'
+aliases: Security investigations, Security intelligence, Peace, National security
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[International security]]"
+  - "[[International security]]"
 ---

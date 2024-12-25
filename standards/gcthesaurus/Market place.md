@@ -3,12 +3,12 @@ title: Market place
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Market place'
+  - gccommon
+aliases: Market place
 french:
-- "[[Lieu du marche]]"
+  - "[[Lieu du marche]]"
 relatedTerm:
-- "[[Markets]]"
-- "[[Marketplace services]]"
+  - "[[Markets]]"
+  - "[[Marketplace services]]"
 ---
 # Market place

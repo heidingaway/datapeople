@@ -1,10 +1,8 @@
 ---
 title: Customs and excise
-longTitle: 'Customs and excise'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Douanes]]"
-usedFor:
-- "[[Excise regulations]]"
+  - "[[Douanes]]"
+aliases: Customs and excise
 ---

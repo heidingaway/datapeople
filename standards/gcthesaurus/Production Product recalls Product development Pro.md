@@ -1,8 +1,8 @@
 ---
 title: Production Product recalls Product development Pro
-longTitle: 'Production, Product recalls, Product development, Product codes'
+aliases: Production, Product recalls, Product development, Product codes
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Products]]"
+  - "[[Products]]"
 ---

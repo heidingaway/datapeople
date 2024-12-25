@@ -1,8 +1,8 @@
 ---
 title: Pipelines Natural gas
-longTitle: 'Pipelines, Natural gas'
+aliases: Pipelines, Natural gas
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Gas industry]]"
+  - "[[Gas industry]]"
 ---

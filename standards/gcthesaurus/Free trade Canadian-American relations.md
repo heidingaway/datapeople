@@ -1,8 +1,8 @@
 ---
 title: Free trade Canadian-American relations
-longTitle: 'Free trade, Canadian-American relations'
+aliases: Free trade, Canadian-American relations
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Free trade agreements]]"
+  - "[[Free trade agreements]]"
 ---

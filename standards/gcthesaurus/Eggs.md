@@ -1,8 +1,8 @@
 ---
 title: Eggs
-longTitle: 'Eggs'
+aliases: Eggs
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Oeuf]]"
+  - "[[Oeuf]]"
 ---

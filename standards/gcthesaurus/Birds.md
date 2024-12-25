@@ -1,13 +1,13 @@
 ---
 title: Birds
-longTitle: 'Birds'
+aliases: Birds
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Oiseau]]"
+  - "[[Oiseau]]"
 narrowerTerm:
-- "[[Migratory birds]]"
-- "[[Aquatic birds]]"
+  - "[[Migratory birds]]"
+  - "[[Aquatic birds]]"
 relatedTerm:
-- "[[Ornithology]]"
+  - "[[Ornithology]]"
 ---

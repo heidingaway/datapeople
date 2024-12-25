@@ -1,8 +1,8 @@
 ---
 title: Military history
-longTitle: 'Military history'
+aliases: Military history
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Histoire militaire]]"
+  - "[[Histoire militaire]]"
 ---

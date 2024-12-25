@@ -1,8 +1,8 @@
 ---
 title: Art exhibitions
-longTitle: 'Art exhibitions'
+aliases: Art exhibitions
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Exposition doeuvres dart]]"
+  - "[[Exposition doeuvres dart]]"
 ---

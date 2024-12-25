@@ -1,11 +1,8 @@
 ---
 title: Specifications
-longTitle: 'Specifications'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Specification]]"
-usedFor:
-- "[[Parameters]]"
-- "[[Requirements]]"
+  - "[[Specification]]"
+aliases: Specifications
 ---

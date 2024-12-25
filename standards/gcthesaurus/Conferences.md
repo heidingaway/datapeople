@@ -3,20 +3,12 @@ title: Conferences
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Conferences'
+  - gccommon
 french:
-- "[[Congres]]"
-usedFor:
-- "[[Colloquiums]]"
-- "[[Conference proceedings]]"
-- "[[Congresses]]"
-- "[[Conventions Conferences]]"
-- "[[Seminars]]"
-- "[[Symposia]]"
-- "[[Symposiums]]"
+  - "[[Congres]]"
+aliases: Conferences
 relatedTerm:
-- "[[Trade shows]]"
-- "[[Meetings]]"
+  - "[[Trade shows]]"
+  - "[[Meetings]]"
 ---
 # Conferences

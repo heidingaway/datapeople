@@ -1,15 +1,13 @@
 ---
 title: Data mining
-longTitle: 'Data mining'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Databases]]"
+  - "[[Databases]]"
 french:
-- "[[Exploration de donnees]]"
-usedFor:
-- "[[Data extraction]]"
+  - "[[Exploration de donnees]]"
+aliases: Data mining
 relatedTerm:
-- "[[Data processing]]"
-- "[[Analytics]]"
+  - "[[Data processing]]"
+  - "[[Analytics]]"
 ---

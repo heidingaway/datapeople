@@ -1,11 +1,11 @@
 ---
 title: Research institutes
-longTitle: 'Research institutes'
+aliases: Research institutes
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Institut de recherche]]"
+  - "[[Institut de recherche]]"
 relatedTerm:
-- "[[Research]]"
-- "[[Laboratories]]"
+  - "[[Research]]"
+  - "[[Laboratories]]"
 ---

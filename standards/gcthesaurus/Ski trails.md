@@ -1,10 +1,10 @@
 ---
 title: Ski trails
-longTitle: 'Ski trails'
+aliases: Ski trails
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Piste de ski]]"
+  - "[[Piste de ski]]"
 relatedTerm:
-- "[[Skiing]]"
+  - "[[Skiing]]"
 ---

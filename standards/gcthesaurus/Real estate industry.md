@@ -1,8 +1,8 @@
 ---
 title: Real estate industry
-longTitle: 'Real estate industry'
+aliases: Real estate industry
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie de limmobilier]]"
+  - "[[Industrie de limmobilier]]"
 ---

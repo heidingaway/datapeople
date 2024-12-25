@@ -3,15 +3,12 @@ title: Soil pollution
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Soil pollution'
+  - gccommon
 french:
-- "[[Pollution des sols]]"
-usedFor:
-- "[[Land pollution]]"
-- "[[Soil contamination]]"
+  - "[[Pollution des sols]]"
+aliases: Soil pollution
 relatedTerm:
-- "[[Soil quality]]"
-- "[[Soil]]"
+  - "[[Soil quality]]"
+  - "[[Soil]]"
 ---
 # Soil pollution

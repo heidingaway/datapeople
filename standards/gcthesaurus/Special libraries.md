@@ -1,8 +1,8 @@
 ---
 title: Special libraries
-longTitle: 'Special libraries'
+aliases: Special libraries
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Bibliotheque specialisee]]"
+  - "[[Bibliotheque specialisee]]"
 ---

@@ -1,11 +1,8 @@
 ---
 title: Propane
-longTitle: 'Propane'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Propane]]"
-usedFor:
-- "[[Dimethylmethane]]"
-- "[[Propane gas]]"
+  - "[[Propane]]"
+aliases: Propane
 ---

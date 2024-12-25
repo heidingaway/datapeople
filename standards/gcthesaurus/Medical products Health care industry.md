@@ -1,8 +1,8 @@
 ---
 title: Medical products Health care industry
-longTitle: 'Medical products, Health care industry'
+aliases: Medical products, Health care industry
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Medical products industry]]"
+  - "[[Medical products industry]]"
 ---

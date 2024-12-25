@@ -1,8 +1,8 @@
 ---
 title: Demographic maps
-longTitle: 'Demographic maps'
+aliases: Demographic maps
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Carte demographique]]"
+  - "[[Carte demographique]]"
 ---

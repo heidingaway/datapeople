@@ -1,10 +1,17 @@
 ---
 title: Multilingualism
-longTitle: 'Multilingualism'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Multilinguisme]]"
-usedFor:
-- "[[Plurilingualism]]"
+  - "[[Multilinguisme]]"
+aliases:
+  - Multilingualism
+relatedTerm:
+  - "[[Bilingualism]]"
+  - "[[Languages]]"
+  - "[[Linguistic diversity]]"
+  - "[[Multiculturalism]]"
 ---
+# Multilingualism

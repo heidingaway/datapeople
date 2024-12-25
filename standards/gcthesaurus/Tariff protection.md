@@ -1,8 +1,8 @@
 ---
 title: Tariff protection
-longTitle: 'Tariff protection'
+aliases: Tariff protection
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Protection des tarifs douaniers]]"
+  - "[[Protection des tarifs douaniers]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Monuments History
-longTitle: 'Monuments, History'
+aliases: Monuments, History
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Historic sites]]"
+  - "[[Historic sites]]"
 ---

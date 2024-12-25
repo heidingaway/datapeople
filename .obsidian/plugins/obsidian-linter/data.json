@@ -4,7 +4,7 @@
       "enabled": false
     },
     "dedupe-yaml-array-values": {
-      "enabled": false,
+      "enabled": true,
       "dedupe-alias-key": true,
       "dedupe-tag-key": true,
       "dedupe-array-keys": true,
@@ -22,10 +22,10 @@
       "enabled": true
     },
     "format-yaml-array": {
-      "enabled": false,
+      "enabled": true,
       "alias-key": true,
       "tag-key": true,
-      "default-array-style": "single-line",
+      "default-array-style": "multi-line",
       "default-array-keys": true,
       "force-single-line-array-style": "",
       "force-multi-line-array-style": ""
@@ -44,7 +44,7 @@
       "yaml-keys-to-remove": ""
     },
     "sort-yaml-array-values": {
-      "enabled": false,
+      "enabled": true,
       "sort-alias-key": true,
       "sort-tag-key": true,
       "sort-array-keys": true,
@@ -155,13 +155,13 @@
       "enabled": false
     },
     "remove-empty-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "remove-hyphenated-line-breaks": {
       "enabled": false
     },
     "remove-multiple-spaces": {
-      "enabled": false
+      "enabled": true
     },
     "strong-style": {
       "enabled": false,

@@ -1,8 +1,8 @@
 ---
 title: Stamps Postal services
-longTitle: 'Stamps, Postal services'
+aliases: Stamps, Postal services
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Philately]]"
+  - "[[Philately]]"
 ---

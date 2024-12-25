@@ -1,14 +1,14 @@
 ---
 title: National bibliographies
-longTitle: 'National bibliographies'
+aliases: National bibliographies
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Bibliographies]]"
+  - "[[Bibliographies]]"
 french:
-- "[[Bibliographie nationale]]"
+  - "[[Bibliographie nationale]]"
 relatedTerm:
-- "[[National libraries]]"
+  - "[[National libraries]]"
 scopeNote:
-- "Bibliographies of documents published or distribut"
+  - Bibliographies of documents published or distribut
 ---

@@ -1,11 +1,8 @@
 ---
 title: Commercial law
-longTitle: 'Commercial law'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Droit commercial]]"
-usedFor:
-- "[[Business law]]"
-- "[[Trade law]]"
+  - "[[Droit commercial]]"
+aliases: Commercial law
 ---

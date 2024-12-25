@@ -1,8 +1,8 @@
 ---
 title: Product recalls
-longTitle: 'Product recalls'
+aliases: Product recalls
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Rappel de produit]]"
+  - "[[Rappel de produit]]"
 ---

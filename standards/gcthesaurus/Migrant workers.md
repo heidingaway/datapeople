@@ -1,10 +1,8 @@
 ---
 title: Migrant workers
-longTitle: 'Migrant workers'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Travailleur migrant]]"
-usedFor:
-- "[[Migratory workers]]"
+  - "[[Travailleur migrant]]"
+aliases: Migrant workers
 ---

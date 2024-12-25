@@ -1,12 +1,10 @@
 ---
 title: Earthquakes
-longTitle: 'Earthquakes'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Tremblement de terre]]"
+  - "[[Tremblement de terre]]"
 relatedTerm:
-- "[[Seismology]]"
-usedFor:
-- "[[Seisms]]"
+  - "[[Seismology]]"
+aliases: Earthquakes
 ---

@@ -1,8 +1,8 @@
 ---
 title: Medical products Drugs
-longTitle: 'Medical products, Drugs'
+aliases: Medical products, Drugs
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Health care products]]"
+  - "[[Health care products]]"
 ---

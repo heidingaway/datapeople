@@ -3,14 +3,14 @@ title: Copyright clearance
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Copyright clearance'
+  - gccommon
+aliases: Copyright clearance
 french:
-- "[[Affranchissement des droits]]"
+  - "[[Affranchissement des droits]]"
 scopeNote:
-- "The process of identifying if a literary musical o"
+  - The process of identifying if a literary musical o
 relatedTerm:
-- "[[Publishing]]"
-- "[[Copyright]]"
+  - "[[Publishing]]"
+  - "[[Copyright]]"
 ---
 # Copyright clearance

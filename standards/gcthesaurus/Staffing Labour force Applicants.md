@@ -1,8 +1,8 @@
 ---
 title: Staffing Labour force Applicants
-longTitle: 'Staffing, Labour force, Applicants'
+aliases: Staffing, Labour force, Applicants
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Selection]]"
+  - "[[Selection]]"
 ---

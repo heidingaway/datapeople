@@ -1,11 +1,8 @@
 ---
 title: Shortage
-longTitle: 'Shortage'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Penurie]]"
-usedFor:
-- "[[Scarcity]]"
-- "[[Short supply]]"
+  - "[[Penurie]]"
+aliases: Shortage
 ---

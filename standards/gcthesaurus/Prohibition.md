@@ -3,12 +3,12 @@ title: Prohibition
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Prohibition'
+  - gccommon
+aliases: Prohibition
 french:
-- "[[Interdiction]]"
+  - "[[Interdiction]]"
 relatedTerm:
-- "[[Moratorium]]"
-- "[[Injunctions]]"
+  - "[[Moratorium]]"
+  - "[[Injunctions]]"
 ---
 # Prohibition

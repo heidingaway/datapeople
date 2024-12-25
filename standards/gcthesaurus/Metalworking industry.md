@@ -1,12 +1,10 @@
 ---
 title: Metalworking industry
-longTitle: 'Metalworking industry'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie metallurgique]]"
+  - "[[Industrie metallurgique]]"
 relatedTerm:
-- "[[Steel]]"
-usedFor:
-- "[[Metal industry]]"
+  - "[[Steel]]"
+aliases: Metalworking industry
 ---

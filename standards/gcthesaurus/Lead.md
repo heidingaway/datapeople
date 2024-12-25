@@ -1,8 +1,8 @@
 ---
 title: Lead
-longTitle: 'Lead'
+aliases: Lead
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Plomb]]"
+  - "[[Plomb]]"
 ---

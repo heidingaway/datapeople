@@ -1,10 +1,10 @@
 ---
 title: Geomatics
-longTitle: 'Geomatics'
+aliases: Geomatics
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Geomatique]]"
+  - "[[Geomatique]]"
 scopeNote:
-- "Refers to the group of techniques for automatic pr"
+  - Refers to the group of techniques for automatic pr
 ---

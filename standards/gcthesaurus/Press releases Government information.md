@@ -1,9 +1,9 @@
 ---
 title: Press releases Government information
-longTitle: 'Press releases, Government information'
+aliases: Press releases, Government information
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Government communications]]"
-- "[[Government publications]]"
+  - "[[Government communications]]"
+  - "[[Government publications]]"
 ---

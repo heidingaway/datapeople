@@ -1,8 +1,8 @@
 ---
 title: Testing Methodology Benchmarks
-longTitle: 'Testing, Methodology, Benchmarks'
+aliases: Testing, Methodology, Benchmarks
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Approval processes]]"
+  - "[[Approval processes]]"
 ---

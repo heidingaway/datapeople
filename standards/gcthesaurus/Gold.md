@@ -1,8 +1,8 @@
 ---
 title: Gold
-longTitle: 'Gold'
+aliases: Gold
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Or]]"
+  - "[[Or]]"
 ---

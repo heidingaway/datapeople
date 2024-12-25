@@ -1,8 +1,8 @@
 ---
 title: Cultural policy
-longTitle: 'Cultural policy'
+aliases: Cultural policy
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Politique culturelle]]"
+  - "[[Politique culturelle]]"
 ---

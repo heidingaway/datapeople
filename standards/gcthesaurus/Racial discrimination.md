@@ -3,14 +3,12 @@ title: Racial discrimination
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Racial discrimination'
+  - gccommon
 french:
-- "[[Discrimination raciale]]"
+  - "[[Discrimination raciale]]"
 relatedTerm:
-- "[[Race relations]]"
-- "[[Visible minorities]]"
-usedFor:
-- "[[Racism]]"
+  - "[[Race relations]]"
+  - "[[Visible minorities]]"
+aliases: Racial discrimination
 ---
 # Racial discrimination

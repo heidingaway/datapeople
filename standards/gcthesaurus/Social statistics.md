@@ -1,8 +1,8 @@
 ---
 title: Social statistics
-longTitle: 'Social statistics'
+aliases: Social statistics
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Statistiques sociales]]"
+  - "[[Statistiques sociales]]"
 ---

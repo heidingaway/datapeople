@@ -3,22 +3,23 @@ title: Aviation
 created: 2024-12-18
 modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Aviation'
+  - gccommon
 french:
-- "[[Aviation]]"
+  - Aviation
 narrowerTerm:
-- "[[Civil aviation]]"
-- "[[Military aviation]]"
+  - "[[Civil aviation]]"
+  - "[[Military aviation]]"
 relatedTerm:
-- "[[Aeronautical maps]]"
-- "[[Aviation industry]]"
-- "[[Aircraft]]"
-- "[[Air transport]]"
+  - "[[Aeronautical maps]]"
+  - "[[Air transport]]"
+  - "[[Aircraft]]"
+  - "[[Aviation industry]]"
 scopeNote:
-- "Science and practice of air navigation"
-usedFor:
-- "[[Aeronautics]]"
-- "[[Air navigation]]"
+  - Science and practice of air navigation
+aliases:
+  - Aeronautics
+  - Air navigation
+  - Aviation
+id: 220
 ---
 # Aviation

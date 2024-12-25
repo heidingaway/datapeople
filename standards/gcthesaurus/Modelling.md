@@ -1,10 +1,8 @@
 ---
 title: Modelling
-longTitle: 'Modelling'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Modelisation]]"
-usedFor:
-- "[[Modeling]]"
+  - "[[Modelisation]]"
+aliases: Modelling
 ---

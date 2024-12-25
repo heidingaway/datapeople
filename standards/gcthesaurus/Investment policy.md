@@ -1,8 +1,8 @@
 ---
 title: Investment policy
-longTitle: 'Investment policy'
+aliases: Investment policy
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Politique dinvestissement]]"
+  - "[[Politique dinvestissement]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Transplantation Medicine Genetic engineering Eutha
-longTitle: 'Transplantation (Medicine), Genetic engineering, Euthanasia, Cloning, Biotechnology, Biomedical experiments, Animal testing, Abortion'
+aliases: Transplantation (Medicine), Genetic engineering, Euthanasia, Cloning, Biotechnology, Biomedical experiments, Animal testing, Abortion
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Bioethics]]"
+  - "[[Bioethics]]"
 ---

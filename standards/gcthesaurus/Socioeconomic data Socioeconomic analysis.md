@@ -1,8 +1,8 @@
 ---
 title: Socioeconomic data Socioeconomic analysis
-longTitle: 'Socioeconomic data, Socioeconomic analysis'
+aliases: Socioeconomic data, Socioeconomic analysis
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Social statistics]]"
+  - "[[Social statistics]]"
 ---

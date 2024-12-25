@@ -1,10 +1,8 @@
 ---
 title: Globalization
-longTitle: 'Globalization'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Mondialisation]]"
-usedFor:
-- "[[Internationalization]]"
+  - "[[Mondialisation]]"
+aliases: Globalization
 ---

@@ -3,17 +3,15 @@ title: Furs
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Furs'
+  - gccommon
 french:
-- "[[Fourrure]]"
+  - "[[Fourrure]]"
 scopeNote:
-- "The hair or hair-covered skins that covers the bod"
-usedFor:
-- "[[Fur industry]]"
+  - The hair or hair-covered skins that covers the bod
+aliases: Furs
 relatedTerm:
-- "[[Seals]]"
-- "[[Clothing]]"
-- "[[Animal husbandry]]"
+  - "[[Seals]]"
+  - "[[Clothing]]"
+  - "[[Animal husbandry]]"
 ---
 # Furs

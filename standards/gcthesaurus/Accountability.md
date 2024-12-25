@@ -1,16 +1,17 @@
 ---
 title: Accountability
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Accountability'
+  - gccommon
+aliases:
+  - Accountability
 french:
-- "[[Imputabilite]]"
+  - Imputabilite
 relatedTerm:
-- "[[Devolution]]"
-- "[[Delegation of authority]]"
+  - "[[Delegation of authority]]"
+  - "[[Devolution]]"
 narrowerTerm:
-- "[[Open government]]"
+  - "[[Open government]]"
 ---
 # Accountability

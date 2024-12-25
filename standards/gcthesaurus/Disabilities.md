@@ -1,19 +1,16 @@
 ---
 title: Disabilities
-longTitle: 'Disabilities'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Deficience]]"
+  - "[[Deficience]]"
 narrowerTerm:
-- "[[Hearing disabilities]]"
-- "[[Intellectual disabilities]]"
-- "[[Learning disabilities]]"
-- "[[Physical disabilities]]"
-- "[[Visual disabilities]]"
+  - "[[Hearing disabilities]]"
+  - "[[Intellectual disabilities]]"
+  - "[[Learning disabilities]]"
+  - "[[Physical disabilities]]"
+  - "[[Visual disabilities]]"
 relatedTerm:
-- "[[Disability pensions]]"
-usedFor:
-- "[[Handicaps]]"
-- "[[Impairments]]"
+  - "[[Disability pensions]]"
+aliases: Disabilities
 ---

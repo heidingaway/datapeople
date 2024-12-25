@@ -1,8 +1,8 @@
 ---
 title: Leave of absence
-longTitle: 'Leave of absence'
+aliases: Leave of absence
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Conge]]"
+  - "[[Conge]]"
 ---

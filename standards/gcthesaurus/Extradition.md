@@ -1,10 +1,10 @@
 ---
 title: Extradition
-longTitle: 'Extradition'
+aliases: Extradition
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Extradition]]"
+  - "[[Extradition]]"
 scopeNote:
-- "The surrender of an alleged criminal usually under"
+  - The surrender of an alleged criminal usually under
 ---

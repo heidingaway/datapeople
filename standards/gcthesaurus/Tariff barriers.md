@@ -1,8 +1,8 @@
 ---
 title: Tariff barriers
-longTitle: 'Tariff barriers'
+aliases: Tariff barriers
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Barriere tarifaire]]"
+  - "[[Barriere tarifaire]]"
 ---

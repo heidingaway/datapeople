@@ -1,8 +1,8 @@
 ---
 title: Seas Offshore area Oceans Coasts Coast guard
-longTitle: 'Seas, Offshore area, Oceans, Coasts, Coast guard'
+aliases: Seas, Offshore area, Oceans, Coasts, Coast guard
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Coastal waters]]"
+  - "[[Coastal waters]]"
 ---

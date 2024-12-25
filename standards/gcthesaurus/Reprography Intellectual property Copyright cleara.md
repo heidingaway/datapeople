@@ -1,8 +1,8 @@
 ---
 title: Reprography Intellectual property Copyright cleara
-longTitle: 'Reprography, Intellectual property, Copyright clearance'
+aliases: Reprography, Intellectual property, Copyright clearance
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Copyright]]"
+  - "[[Copyright]]"
 ---

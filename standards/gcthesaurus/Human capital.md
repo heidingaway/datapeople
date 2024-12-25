@@ -1,10 +1,10 @@
 ---
 title: Human capital
-longTitle: 'Human capital'
+aliases: Human capital
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Capital humain]]"
+  - "[[Capital humain]]"
 scopeNote:
-- "Attributes education seniority skills of a person "
+  - "Attributes education seniority skills of a person "
 ---

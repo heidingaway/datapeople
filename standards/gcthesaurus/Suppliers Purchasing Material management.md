@@ -1,8 +1,8 @@
 ---
 title: Suppliers Purchasing Material management
-longTitle: 'Suppliers, Purchasing, Material management'
+aliases: Suppliers, Purchasing, Material management
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Supplies]]"
+  - "[[Supplies]]"
 ---

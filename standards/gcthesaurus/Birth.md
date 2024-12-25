@@ -1,12 +1,10 @@
 ---
 title: Birth
-longTitle: 'Birth'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Naissance]]"
+  - "[[Naissance]]"
 relatedTerm:
-- "[[Birth certificates]]"
-usedFor:
-- "[[Childbirth]]"
+  - "[[Birth certificates]]"
+aliases: Birth
 ---

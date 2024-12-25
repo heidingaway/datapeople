@@ -1,8 +1,8 @@
 ---
 title: Knowledge transfer
-longTitle: 'Knowledge transfer'
+aliases: Knowledge transfer
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Transmission du savoir]]"
+  - "[[Transmission du savoir]]"
 ---

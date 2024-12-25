@@ -1,14 +1,14 @@
 ---
 title: Submissions
-longTitle: 'Submissions'
+aliases: Submissions
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Presentation]]"
+  - "[[Presentation]]"
 narrowerTerm:
-- "[[Reports]]"
-- "[[Style manuals]]"
-- "[[Writing]]"
+  - "[[Reports]]"
+  - "[[Style manuals]]"
+  - "[[Writing]]"
 scopeNote:
-- "Reports or other documents etc submitted for other"
+  - Reports or other documents etc submitted for other
 ---

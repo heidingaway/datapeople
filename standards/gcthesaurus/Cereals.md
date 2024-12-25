@@ -1,17 +1,13 @@
 ---
 title: Cereals
-longTitle: 'Cereals'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Cereale]]"
+  - "[[Cereale]]"
 narrowerTerm:
-- "[[Barley]]"
-- "[[Corn]]"
-- "[[Oats]]"
-- "[[Wheat]]"
-usedFor:
-- "[[Cereal crops]]"
-- "[[Cereal grains]]"
-- "[[Cereal plants]]"
+  - "[[Barley]]"
+  - "[[Corn]]"
+  - "[[Oats]]"
+  - "[[Wheat]]"
+aliases: Cereals
 ---

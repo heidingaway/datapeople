@@ -1,10 +1,8 @@
 ---
 title: Fiscal law
-longTitle: 'Fiscal law'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Droit fiscal]]"
-usedFor:
-- "[[Tax law]]"
+  - "[[Droit fiscal]]"
+aliases: Fiscal law
 ---

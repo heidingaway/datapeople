@@ -3,16 +3,14 @@ title: Political parties
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Political parties'
+  - gccommon
 french:
-- "[[Parti politique]]"
-usedFor:
-- "[[Political organizations]]"
+  - "[[Parti politique]]"
+aliases: Political parties
 relatedTerm:
-- "[[Politics]]"
-- "[[Parliamentary leaders]]"
-- "[[Leader of the Official Opposition]]"
-- "[[Elections]]"
+  - "[[Politics]]"
+  - "[[Parliamentary leaders]]"
+  - "[[Leader of the Official Opposition]]"
+  - "[[Elections]]"
 ---
 # Political parties

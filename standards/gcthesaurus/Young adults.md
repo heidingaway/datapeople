@@ -3,14 +3,14 @@ title: Young adults
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Young adults'
+  - gccommon
+aliases: Young adults
 french:
-- "[[Jeune adulte]]"
+  - "[[Jeune adulte]]"
 scopeNote:
-- "Young people aged 20-34"
+  - Young people aged 20-34
 relatedTerm:
-- "[[Youth]]"
-- "[[Adulthood]]"
+  - "[[Youth]]"
+  - "[[Adulthood]]"
 ---
 # Young adults

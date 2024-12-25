@@ -3,12 +3,12 @@ title: Product codes
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Product codes'
+  - gccommon
+aliases: Product codes
 french:
-- "[[Code de produit]]"
+  - "[[Code de produit]]"
 relatedTerm:
-- "[[Products]]"
-- "[[Labelling]]"
+  - "[[Products]]"
+  - "[[Labelling]]"
 ---
 # Product codes

@@ -1,8 +1,8 @@
 ---
 title: Lockers Labour market Labour force Labour Employme
-longTitle: 'Lockers, Labour market, Labour force, Labour, Employment'
+aliases: Lockers, Labour market, Labour force, Labour, Employment
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Labour mobility]]"
+  - "[[Labour mobility]]"
 ---

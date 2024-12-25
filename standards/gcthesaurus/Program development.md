@@ -1,8 +1,8 @@
 ---
 title: Program development
-longTitle: 'Program development'
+aliases: Program development
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Elaboration de programme]]"
+  - "[[Elaboration de programme]]"
 ---

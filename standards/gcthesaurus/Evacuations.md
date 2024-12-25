@@ -1,8 +1,8 @@
 ---
 title: Evacuations
-longTitle: 'Evacuations'
+aliases: Evacuations
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Evacuation]]"
+  - "[[Evacuation]]"
 ---

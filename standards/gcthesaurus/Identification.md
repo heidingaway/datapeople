@@ -1,14 +1,12 @@
 ---
 title: Identification
-longTitle: 'Identification'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Identification]]"
+  - "[[Identification]]"
 relatedTerm:
-- "[[Authentication]]"
-- "[[Detection]]"
-- "[[Registration]]"
-usedFor:
-- "[[Identification cards]]"
+  - "[[Authentication]]"
+  - "[[Detection]]"
+  - "[[Registration]]"
+aliases: Identification
 ---

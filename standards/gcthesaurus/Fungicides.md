@@ -1,10 +1,10 @@
 ---
 title: Fungicides
-longTitle: 'Fungicides'
+aliases: Fungicides
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Fongicide]]"
+  - "[[Fongicide]]"
 relatedTerm:
-- "[[Fungi]]"
+  - "[[Fungi]]"
 ---

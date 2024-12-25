@@ -1,8 +1,8 @@
 ---
 title: Strategies
-longTitle: 'Strategies'
+aliases: Strategies
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Strategie]]"
+  - "[[Strategie]]"
 ---

@@ -3,16 +3,16 @@ title: Sales
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Sales'
+  - gccommon
+aliases: Sales
 french:
-- "[[Vente]]"
+  - "[[Vente]]"
 narrowerTerm:
-- "[[Auctions]]"
+  - "[[Auctions]]"
 relatedTerm:
-- "[[Bills of sale]]"
-- "[[Vendors]]"
-- "[[Trade]]"
-- "[[Marketing]]"
+  - "[[Bills of sale]]"
+  - "[[Vendors]]"
+  - "[[Trade]]"
+  - "[[Marketing]]"
 ---
 # Sales

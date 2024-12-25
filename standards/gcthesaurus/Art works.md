@@ -1,8 +1,8 @@
 ---
 title: Art works
-longTitle: 'Art works'
+aliases: Art works
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[uvre dart]]"
+  - "[[uvre dart]]"
 ---

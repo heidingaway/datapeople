@@ -3,12 +3,12 @@ title: Technology transfer
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Technology transfer'
+  - gccommon
+aliases: Technology transfer
 french:
-- "[[Transfert technologique]]"
+  - "[[Transfert technologique]]"
 relatedTerm:
-- "[[Technology policy]]"
-- "[[Technology]]"
+  - "[[Technology policy]]"
+  - "[[Technology]]"
 ---
 # Technology transfer

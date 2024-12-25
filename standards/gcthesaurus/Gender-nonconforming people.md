@@ -3,12 +3,9 @@ title: Gender-nonconforming people
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Gender-nonconforming people'
+  - gccommon
 french:
-- "[[Personne non binaire]]"
-usedFor:
-- "[[Androgynous people]]"
-- "[[Gender-nonbinary people]]"
+  - "[[Personne non binaire]]"
+aliases: Gender-nonconforming people
 ---
 # Gender-nonconforming people

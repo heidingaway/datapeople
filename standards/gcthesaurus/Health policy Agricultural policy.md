@@ -1,8 +1,8 @@
 ---
 title: Health policy Agricultural policy
-longTitle: 'Health policy, Agricultural policy'
+aliases: Health policy, Agricultural policy
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Food policy]]"
+  - "[[Food policy]]"
 ---

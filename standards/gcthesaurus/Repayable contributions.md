@@ -1,8 +1,8 @@
 ---
 title: Repayable contributions
-longTitle: 'Repayable contributions'
+aliases: Repayable contributions
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Contribution remboursable]]"
+  - "[[Contribution remboursable]]"
 ---

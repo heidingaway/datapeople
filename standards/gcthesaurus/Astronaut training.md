@@ -3,14 +3,12 @@ title: Astronaut training
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Astronaut training'
+  - gccommon
 french:
-- "[[Entrainement des astronautes]]"
-usedFor:
-- "[[Astronaut training program]]"
+  - "[[Entrainement des astronautes]]"
+aliases: Astronaut training
 relatedTerm:
-- "[[Space exploration]]"
-- "[[Astronauts]]"
+  - "[[Space exploration]]"
+  - "[[Astronauts]]"
 ---
 # Astronaut training

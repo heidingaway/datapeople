@@ -1,15 +1,13 @@
 ---
 title: Northerners
-longTitle: 'Northerners'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Habitant du Nord]]"
+  - "[[Habitant du Nord]]"
 relatedTerm:
-- "[[Innu]]"
-- "[[Inuit]]"
+  - "[[Innu]]"
+  - "[[Inuit]]"
 scopeNote:
-- "Refers to residents of Northern Canada"
-usedFor:
-- "[[Northern residents]]"
+  - Refers to residents of Northern Canada
+aliases: Northerners
 ---

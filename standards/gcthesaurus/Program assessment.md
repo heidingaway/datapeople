@@ -1,10 +1,10 @@
 ---
 title: Program assessment
-longTitle: 'Program assessment'
+aliases: Program assessment
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Evaluation de programme]]"
+  - "[[Evaluation de programme]]"
 relatedTerm:
-- "[[Program management]]"
+  - "[[Program management]]"
 ---

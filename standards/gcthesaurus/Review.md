@@ -3,12 +3,12 @@ title: Review
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Review'
+  - gccommon
+aliases: Review
 french:
-- "[[Examen]]"
+  - "[[Examen]]"
 relatedTerm:
-- "[[Internal audits]]"
-- "[[Audit]]"
+  - "[[Internal audits]]"
+  - "[[Audit]]"
 ---
 # Review

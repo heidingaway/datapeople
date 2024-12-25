@@ -1,10 +1,10 @@
 ---
 title: Sedimentary rocks
-longTitle: 'Sedimentary rocks'
+aliases: Sedimentary rocks
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Sedimentology]]"
+  - "[[Sedimentology]]"
 french:
-- "[[Roche sedimentaire]]"
+  - "[[Roche sedimentaire]]"
 ---

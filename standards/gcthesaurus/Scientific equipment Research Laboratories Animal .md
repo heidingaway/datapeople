@@ -1,8 +1,8 @@
 ---
-title: Scientific equipment Research Laboratories Animal 
-longTitle: 'Scientific equipment, Research, Laboratories, Animal testing'
+title: Scientific equipment Research Laboratories Animal
+aliases: Scientific equipment, Research, Laboratories, Animal testing
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Experiments]]"
+  - "[[Experiments]]"
 ---

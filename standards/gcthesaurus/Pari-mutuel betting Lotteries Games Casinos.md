@@ -1,8 +1,8 @@
 ---
 title: Pari-mutuel betting Lotteries Games Casinos
-longTitle: 'Pari-mutuel betting, Lotteries, Games, Casinos'
+aliases: Pari-mutuel betting, Lotteries, Games, Casinos
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Gambling]]"
+  - "[[Gambling]]"
 ---

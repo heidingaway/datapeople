@@ -1,12 +1,10 @@
 ---
 title: Habitats
-longTitle: 'Habitats'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Habitat]]"
+  - "[[Habitat]]"
 scopeNote:
-- "Natural environments of plants and animals"
-usedFor:
-- "[[Natural habitats]]"
+  - Natural environments of plants and animals
+aliases: Habitats
 ---

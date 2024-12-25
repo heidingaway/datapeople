@@ -1,8 +1,8 @@
 ---
 title: Markets Marketing
-longTitle: 'Markets, Marketing'
+aliases: Markets, Marketing
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Market entry]]"
+  - "[[Market entry]]"
 ---

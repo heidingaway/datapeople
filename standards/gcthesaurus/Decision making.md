@@ -1,10 +1,10 @@
 ---
 title: Decision making
-longTitle: 'Decision making'
+aliases: Decision making
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Prise de decision]]"
+  - "[[Prise de decision]]"
 relatedTerm:
-- "[[Decisions]]"
+  - "[[Decisions]]"
 ---

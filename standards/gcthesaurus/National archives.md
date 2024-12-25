@@ -1,8 +1,8 @@
 ---
 title: National archives
-longTitle: 'National archives'
+aliases: National archives
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Archives nationales]]"
+  - "[[Archives nationales]]"
 ---

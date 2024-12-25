@@ -1,8 +1,8 @@
 ---
 title: Official languages
-longTitle: 'Official languages'
+aliases: Official languages
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Langue officielle]]"
+  - "[[Langue officielle]]"
 ---

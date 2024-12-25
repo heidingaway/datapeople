@@ -1,8 +1,8 @@
 ---
 title: Nongovernmental organizations Charitable organizat
-longTitle: 'Nongovernmental organizations, Charitable organizations'
+aliases: Nongovernmental organizations, Charitable organizations
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Non-profit organizations]]"
+  - "[[Non-profit organizations]]"
 ---

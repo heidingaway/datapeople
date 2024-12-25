@@ -1,8 +1,8 @@
 ---
 title: Insects Crustaceans Arachnids
-longTitle: 'Insects, Crustaceans, Arachnids'
+aliases: Insects, Crustaceans, Arachnids
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Arthropods]]"
+  - "[[Arthropods]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Hazardous materials Dangerous products
-longTitle: 'Hazardous materials, Dangerous products'
+aliases: Hazardous materials, Dangerous products
 tags:
-- gccommon
+  - gccommon
 historyNote:
-- "Hazardous materials replaces Dangerous products as"
+  - Hazardous materials replaces Dangerous products as
 ---

@@ -1,8 +1,8 @@
 ---
 title: Monarchy Lieutenant Governor
-longTitle: 'Monarchy, Lieutenant Governor'
+aliases: Monarchy, Lieutenant Governor
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Governor General]]"
+  - "[[Governor General]]"
 ---

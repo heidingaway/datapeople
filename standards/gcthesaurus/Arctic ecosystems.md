@@ -1,8 +1,8 @@
 ---
 title: Arctic ecosystems
-longTitle: 'Arctic ecosystems'
+aliases: Arctic ecosystems
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ecosysteme arctique]]"
+  - "[[Ecosysteme arctique]]"
 ---

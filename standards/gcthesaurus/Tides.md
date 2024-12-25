@@ -1,8 +1,8 @@
 ---
 title: Tides
-longTitle: 'Tides'
+aliases: Tides
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Maree]]"
+  - "[[Maree]]"
 ---

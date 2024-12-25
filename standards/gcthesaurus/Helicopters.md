@@ -1,8 +1,8 @@
 ---
 title: Helicopters
-longTitle: 'Helicopters'
+aliases: Helicopters
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Helicoptere]]"
+  - "[[Helicoptere]]"
 ---

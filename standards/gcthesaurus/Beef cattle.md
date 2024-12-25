@@ -1,8 +1,8 @@
 ---
 title: Beef cattle
-longTitle: 'Beef cattle'
+aliases: Beef cattle
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Bovins de boucherie]]"
+  - "[[Bovins de boucherie]]"
 ---

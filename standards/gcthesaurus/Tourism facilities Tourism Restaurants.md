@@ -1,8 +1,8 @@
 ---
 title: Tourism facilities Tourism Restaurants
-longTitle: 'Tourism facilities, Tourism, Restaurants'
+aliases: Tourism facilities, Tourism, Restaurants
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Hospitality industry]]"
+  - "[[Hospitality industry]]"
 ---

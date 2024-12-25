@@ -1,8 +1,8 @@
 ---
 title: Organic foods Genetically modified foods Functiona
-longTitle: 'Organic foods, Genetically modified foods, Functional foods'
+aliases: Organic foods, Genetically modified foods, Functional foods
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Food]]"
+  - "[[Food]]"
 ---

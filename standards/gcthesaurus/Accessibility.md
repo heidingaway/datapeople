@@ -1,14 +1,18 @@
 ---
 title: Accessibility
-longTitle: 'Accessibility'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Accessibility
 french:
-- "[[Accessibilite]]"
+  - Accessibilite
 narrowerTerm:
-- "[[Accessibility for persons with disabilities]]"
+  - "[[Accessibility for persons with disabilities]]"
 relatedTerm:
-- "[[Public access]]"
+  - "[[Public access]]"
 scopeNote:
-- "Ease of access to a place a service or information"
+  - Ease of access to a place a service or information
 ---
+# Accessibility

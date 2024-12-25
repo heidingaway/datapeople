@@ -1,8 +1,8 @@
 ---
 title: Innovation Automation
-longTitle: 'Innovation, Automation'
+aliases: Innovation, Automation
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Modernization]]"
+  - "[[Modernization]]"
 ---

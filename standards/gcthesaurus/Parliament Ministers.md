@@ -1,8 +1,8 @@
 ---
 title: Parliament Ministers
-longTitle: 'Parliament, Ministers'
+aliases: Parliament, Ministers
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Cabinet]]"
+  - "[[Cabinet]]"
 ---

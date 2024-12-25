@@ -1,8 +1,8 @@
 ---
 title: Outdoor recreation Bicycle safety equipment Bicycl
-longTitle: 'Outdoor recreation, Bicycle safety equipment, Bicycle paths'
+aliases: Outdoor recreation, Bicycle safety equipment, Bicycle paths
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Cycling]]"
+  - "[[Cycling]]"
 ---

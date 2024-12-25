@@ -1,10 +1,8 @@
 ---
 title: Forestry technology
-longTitle: 'Forestry technology'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Technologie forestiere]]"
-usedFor:
-- "[[Forestry equipment]]"
+  - "[[Technologie forestiere]]"
+aliases: Forestry technology
 ---

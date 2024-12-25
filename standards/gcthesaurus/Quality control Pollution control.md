@@ -1,8 +1,8 @@
 ---
 title: Quality control Pollution control
-longTitle: 'Quality control, Pollution control'
+aliases: Quality control, Pollution control
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Control]]"
+  - "[[Control]]"
 ---

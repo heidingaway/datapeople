@@ -3,12 +3,12 @@ title: Industrial management
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Industrial management'
+  - gccommon
+aliases: Industrial management
 french:
-- "[[Gestion industrielle]]"
+  - "[[Gestion industrielle]]"
 relatedTerm:
-- "[[Industry]]"
-- "[[Industrial productivity]]"
+  - "[[Industry]]"
+  - "[[Industrial productivity]]"
 ---
 # Industrial management

@@ -1,10 +1,10 @@
 ---
 title: Experiments
-longTitle: 'Experiments'
+aliases: Experiments
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Experimentation]]"
+  - "[[Experimentation]]"
 narrowerTerm:
-- "[[Biomedical experiments]]"
+  - "[[Biomedical experiments]]"
 ---

@@ -3,17 +3,15 @@ title: Space sciences
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Space sciences'
+  - gccommon
 french:
-- "[[Sciences de lespace]]"
+  - "[[Sciences de lespace]]"
 narrowerTerm:
-- "[[Astronomy]]"
-usedFor:
-- "[[Astronautics]]"
+  - "[[Astronomy]]"
+aliases: Space sciences
 relatedTerm:
-- "[[Space technology]]"
-- "[[Space exploration]]"
-- "[[Scientists]]"
+  - "[[Space technology]]"
+  - "[[Space exploration]]"
+  - "[[Scientists]]"
 ---
 # Space sciences

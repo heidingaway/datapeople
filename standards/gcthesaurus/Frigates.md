@@ -1,8 +1,8 @@
 ---
 title: Frigates
-longTitle: 'Frigates'
+aliases: Frigates
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Fregate]]"
+  - "[[Fregate]]"
 ---

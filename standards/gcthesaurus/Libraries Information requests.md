@@ -1,8 +1,8 @@
 ---
 title: Libraries Information requests
-longTitle: 'Libraries, Information requests'
+aliases: Libraries, Information requests
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Reference services]]"
+  - "[[Reference services]]"
 ---

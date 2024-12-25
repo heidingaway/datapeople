@@ -1,11 +1,8 @@
 ---
 title: Statements
-longTitle: 'Statements'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Declaration]]"
-usedFor:
-- "[[Addresses]]"
-- "[[Speeches]]"
+  - "[[Declaration]]"
+aliases: Statements
 ---

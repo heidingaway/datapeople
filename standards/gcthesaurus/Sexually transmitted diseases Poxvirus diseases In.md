@@ -1,8 +1,8 @@
 ---
 title: Sexually transmitted diseases Poxvirus diseases In
-longTitle: 'Sexually transmitted diseases, Poxvirus diseases, Influenza, Hepatitis, Coronavirus diseases, AIDS (disease)'
+aliases: Sexually transmitted diseases, Poxvirus diseases, Influenza, Hepatitis, Coronavirus diseases, AIDS (disease)
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Infectious diseases]]"
+  - "[[Infectious diseases]]"
 ---

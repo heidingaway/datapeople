@@ -1,10 +1,8 @@
 ---
 title: Foreign affairs
-longTitle: 'Foreign affairs'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Affaires etrangeres]]"
-usedFor:
-- "[[International affairs]]"
+  - "[[Affaires etrangeres]]"
+aliases: Foreign affairs
 ---

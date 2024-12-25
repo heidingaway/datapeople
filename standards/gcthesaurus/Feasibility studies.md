@@ -1,8 +1,8 @@
 ---
 title: Feasibility studies
-longTitle: 'Feasibility studies'
+aliases: Feasibility studies
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Etude de faisabilite]]"
+  - "[[Etude de faisabilite]]"
 ---

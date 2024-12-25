@@ -3,12 +3,12 @@ title: Industrial research
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Industrial research'
+  - gccommon
+aliases: Industrial research
 french:
-- "[[Recherche industrielle]]"
+  - "[[Recherche industrielle]]"
 relatedTerm:
-- "[[Research and development]]"
-- "[[Industry]]"
+  - "[[Research and development]]"
+  - "[[Industry]]"
 ---
 # Industrial research

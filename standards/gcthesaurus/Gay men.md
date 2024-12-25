@@ -1,8 +1,8 @@
 ---
 title: Gay men
-longTitle: 'Gay men'
+aliases: Gay men
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gai]]"
+  - "[[Gai]]"
 ---

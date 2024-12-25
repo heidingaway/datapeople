@@ -1,10 +1,10 @@
 ---
 title: Public notices
-longTitle: 'Public notices'
+aliases: Public notices
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Avis public]]"
+  - "[[Avis public]]"
 relatedTerm:
-- "[[Public hearings]]"
+  - "[[Public hearings]]"
 ---

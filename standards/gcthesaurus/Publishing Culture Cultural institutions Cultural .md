@@ -1,8 +1,8 @@
 ---
-title: Publishing Culture Cultural institutions Cultural 
-longTitle: 'Publishing, Culture, Cultural institutions, Cultural development, Broadcasting industry'
+title: Publishing Culture Cultural institutions Cultural
+aliases: Publishing, Culture, Cultural institutions, Cultural development, Broadcasting industry
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Cultural industry]]"
+  - "[[Cultural industry]]"
 ---

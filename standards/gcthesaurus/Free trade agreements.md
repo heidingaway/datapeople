@@ -1,12 +1,12 @@
 ---
 title: Free trade agreements
-longTitle: 'Free trade agreements'
+aliases: Free trade agreements
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Trade agreements]]"
+  - "[[Trade agreements]]"
 french:
-- "[[Accord de libre-echange]]"
+  - "[[Accord de libre-echange]]"
 relatedTerm:
-- "[[Canadian-American relations]]"
+  - "[[Canadian-American relations]]"
 ---

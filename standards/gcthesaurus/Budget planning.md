@@ -3,14 +3,12 @@ title: Budget planning
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Budget planning'
+  - gccommon
 french:
-- "[[Planification budgetaire]]"
-usedFor:
-- "[[Budgeting]]"
+  - "[[Planification budgetaire]]"
+aliases: Budget planning
 relatedTerm:
-- "[[Financial management]]"
-- "[[Budgets]]"
+  - "[[Financial management]]"
+  - "[[Budgets]]"
 ---
 # Budget planning

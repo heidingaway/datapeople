@@ -1,12 +1,10 @@
 ---
 title: Flags
-longTitle: 'Flags'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Drapeau]]"
+  - "[[Drapeau]]"
 relatedTerm:
-- "[[Emblems]]"
-usedFor:
-- "[[National flags]]"
+  - "[[Emblems]]"
+aliases: Flags
 ---

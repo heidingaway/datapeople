@@ -1,8 +1,8 @@
 ---
 title: Queer people
-longTitle: 'Queer people'
+aliases: Queer people
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Personne queer]]"
+  - "[[Personne queer]]"
 ---

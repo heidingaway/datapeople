@@ -3,12 +3,9 @@ title: Botanical gardens
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Botanical gardens'
+  - gccommon
 french:
-- "[[Jardin botanique]]"
-usedFor:
-- "[[Arboretums]]"
-- "[[Botanic gardens]]"
+  - "[[Jardin botanique]]"
+aliases: Botanical gardens
 ---
 # Botanical gardens

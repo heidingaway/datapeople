@@ -1,10 +1,8 @@
 ---
 title: Daily life
-longTitle: 'Daily life'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Vie quotidienne]]"
-usedFor:
-- "[[Domestic life]]"
+  - "[[Vie quotidienne]]"
+aliases: Daily life
 ---

@@ -1,10 +1,10 @@
 ---
 title: Hard rocks
-longTitle: 'Hard rocks'
+aliases: Hard rocks
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Roche dure]]"
+  - "[[Roche dure]]"
 relatedTerm:
-- "[[Igneous rocks]]"
+  - "[[Igneous rocks]]"
 ---

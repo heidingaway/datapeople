@@ -1,8 +1,8 @@
 ---
 title: Social security Retirement Personal income Benefit
-longTitle: 'Social security, Retirement, Personal income, Benefits, Allowances'
+aliases: Social security, Retirement, Personal income, Benefits, Allowances
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Pensions]]"
+  - "[[Pensions]]"
 ---

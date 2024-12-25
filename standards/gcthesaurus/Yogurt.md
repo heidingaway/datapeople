@@ -1,8 +1,8 @@
 ---
 title: Yogurt
-longTitle: 'Yogurt'
+aliases: Yogurt
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Yogourt]]"
+  - "[[Yogourt]]"
 ---

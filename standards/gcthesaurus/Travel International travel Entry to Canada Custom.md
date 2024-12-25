@@ -1,8 +1,8 @@
 ---
 title: Travel International travel Entry to Canada Custom
-longTitle: 'Travel, International travel, Entry to Canada, Customs and excise, Boundaries'
+aliases: Travel, International travel, Entry to Canada, Customs and excise, Boundaries
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Border crossing]]"
+  - "[[Border crossing]]"
 ---

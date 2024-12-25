@@ -1,8 +1,8 @@
 ---
 title: Scientific information
-longTitle: 'Scientific information'
+aliases: Scientific information
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Information scientifique]]"
+  - "[[Information scientifique]]"
 ---

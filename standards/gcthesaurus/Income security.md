@@ -1,14 +1,10 @@
 ---
 title: Income security
-longTitle: 'Income security'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Social security]]"
+  - "[[Social security]]"
 french:
-- "[[Securite du revenu]]"
-usedFor:
-- "[[Guaranteed income]]"
-- "[[Income maintenance]]"
-- "[[Income support]]"
+  - "[[Securite du revenu]]"
+aliases: Income security
 ---

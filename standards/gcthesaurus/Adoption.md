@@ -1,16 +1,17 @@
 ---
 title: Adoption
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Adoption'
+  - gccommon
+aliases:
+  - Adoption
 french:
-- "[[Adoption]]"
+  - Adoption
 narrowerTerm:
-- "[[International adoption]]"
+  - "[[International adoption]]"
 relatedTerm:
-- "[[Adoptive parents]]"
-- "[[Family law]]"
+  - "[[Adoptive parents]]"
+  - "[[Family law]]"
 ---
 # Adoption

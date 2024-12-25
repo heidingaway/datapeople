@@ -3,9 +3,9 @@ title: Juvenile court
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Juvenile court'
+  - gccommon
+aliases: Juvenile court
 french:
-- "[[Tribunal de la jeunesse]]"
+  - "[[Tribunal de la jeunesse]]"
 ---
 # Juvenile court

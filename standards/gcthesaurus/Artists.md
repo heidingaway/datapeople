@@ -1,10 +1,10 @@
 ---
 title: Artists
-longTitle: 'Artists'
+aliases: Artists
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Artiste]]"
+  - "[[Artiste]]"
 scopeNote:
-- "Writers producers directors choreographers conduct"
+  - Writers producers directors choreographers conduct
 ---

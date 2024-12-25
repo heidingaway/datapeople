@@ -1,10 +1,10 @@
 ---
 title: Status Indians
-longTitle: 'Status Indians'
+aliases: Status Indians
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Indien inscrit]]"
+  - "[[Indien inscrit]]"
 scopeNote:
-- "People who are registered as Indians under the Ind"
+  - People who are registered as Indians under the Ind
 ---

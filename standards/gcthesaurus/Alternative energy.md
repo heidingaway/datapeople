@@ -1,17 +1,12 @@
 ---
 title: Alternative energy
-longTitle: 'Alternative energy'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Energie de remplacement]]"
+  - Energie de remplacement
 scopeNote:
-- "Energy renewable or not less polluting than energy"
-usedFor:
-- "[[Clean energy]]"
-- "[[Non-conventional energy]]"
-- "[[Pollution-free energy]]"
-- "[[Soft energy]]"
+  - Energy renewable or not less polluting than energy
+aliases: Alternative energy
 narrowerTerm:
-- "[[Alternative fuels]]"
+  - "[[Alternative fuels]]"
 ---

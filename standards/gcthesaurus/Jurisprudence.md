@@ -1,10 +1,10 @@
 ---
 title: Jurisprudence
-longTitle: 'Jurisprudence'
+aliases: Jurisprudence
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Philosophie du droit]]"
+  - "[[Philosophie du droit]]"
 scopeNote:
-- "The science of law that ascertains the principles "
+  - "The science of law that ascertains the principles "
 ---

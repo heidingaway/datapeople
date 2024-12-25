@@ -1,10 +1,10 @@
 ---
 title: Furniture industry
-longTitle: 'Furniture industry'
+aliases: Furniture industry
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie du meuble]]"
+  - "[[Industrie du meuble]]"
 relatedTerm:
-- "[[Furniture]]"
+  - "[[Furniture]]"
 ---

@@ -3,14 +3,14 @@ title: Monarchy
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Monarchy'
+  - gccommon
+aliases: Monarchy
 french:
-- "[[Monarchie]]"
+  - "[[Monarchie]]"
 scopeNote:
-- "Form of government in which the ultimate authority"
+  - Form of government in which the ultimate authority
 relatedTerm:
-- "[[Lieutenant Governor]]"
-- "[[Governor General]]"
+  - "[[Lieutenant Governor]]"
+  - "[[Governor General]]"
 ---
 # Monarchy

@@ -1,15 +1,12 @@
 ---
 title: Arctic
-longTitle: 'Arctic'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Arctique]]"
+  - "[[Arctique]]"
 relatedTerm:
-- "[[Arctic ecosystems]]"
-usedFor:
-- "[[Arctic regions]]"
-- "[[North Pole]]"
+  - "[[Arctic ecosystems]]"
+aliases: Arctic
 narrowerTerm:
-- "[[Polar regions]]"
+  - "[[Polar regions]]"
 ---

@@ -3,14 +3,12 @@ title: Clients
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Clients'
+  - gccommon
 french:
-- "[[Client]]"
-usedFor:
-- "[[Customers]]"
+  - "[[Client]]"
+aliases: Clients
 relatedTerm:
-- "[[Customer services]]"
-- "[[Client satisfaction]]"
+  - "[[Customer services]]"
+  - "[[Client satisfaction]]"
 ---
 # Clients

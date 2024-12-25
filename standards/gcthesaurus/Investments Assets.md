@@ -1,8 +1,8 @@
 ---
 title: Investments Assets
-longTitle: 'Investments, Assets'
+aliases: Investments, Assets
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Divestiture]]"
+  - "[[Divestiture]]"
 ---

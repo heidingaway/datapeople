@@ -1,8 +1,8 @@
 ---
 title: Precipitation Irrigation
-longTitle: 'Precipitation, Irrigation'
+aliases: Precipitation, Irrigation
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Drought]]"
+  - "[[Drought]]"
 ---

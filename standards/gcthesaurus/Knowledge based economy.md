@@ -1,12 +1,10 @@
 ---
 title: Knowledge based economy
-longTitle: 'Knowledge based economy'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Economy]]"
+  - "[[Economy]]"
 french:
-- "[[Economie du savoir]]"
-usedFor:
-- "[[Knowledge based industry]]"
+  - "[[Economie du savoir]]"
+aliases: Knowledge based economy
 ---

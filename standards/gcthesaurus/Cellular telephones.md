@@ -1,13 +1,8 @@
 ---
 title: Cellular telephones
-longTitle: 'Cellular telephones'
 tags:
-- gccommon
-broaderTerm:
-- "[[Telephones]]"
+  - gccommon
 french:
-- "[[Telephone cellulaire]]"
-usedFor:
-- "[[Cell phones]]"
-- "[[Mobile telephones]]"
+  - "[[Telephone cellulaire]]"
+aliases: Cellular telephones
 ---

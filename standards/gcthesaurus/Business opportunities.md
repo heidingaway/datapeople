@@ -1,11 +1,11 @@
 ---
 title: Business opportunities
-longTitle: 'Business opportunities'
+aliases: Business opportunities
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Possibilite daffaires]]"
+  - "[[Possibilite daffaires]]"
 relatedTerm:
-- "[[Businesses]]"
-- "[[Business intelligence]]"
+  - "[[Businesses]]"
+  - "[[Business intelligence]]"
 ---

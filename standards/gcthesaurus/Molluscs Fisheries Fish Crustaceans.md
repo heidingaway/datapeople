@@ -1,8 +1,8 @@
 ---
 title: Molluscs Fisheries Fish Crustaceans
-longTitle: 'Molluscs, Fisheries, Fish, Crustaceans'
+aliases: Molluscs, Fisheries, Fish, Crustaceans
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Fisheries resources]]"
+  - "[[Fisheries resources]]"
 ---

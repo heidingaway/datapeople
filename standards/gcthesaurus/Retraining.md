@@ -1,12 +1,15 @@
 ---
 title: Retraining
-longTitle: 'Retraining'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Formation de reconversion]]"
+  - Formation de reconversion
 relatedTerm:
-- "[[Vocational rehabilitation]]"
-usedFor:
-- "[[Further training]]"
+  - "[[Continuing education]]"
+  - "[[Vocational rehabilitation]]"
+aliases:
+  - Further training
 ---
+# Retraining

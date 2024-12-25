@@ -1,12 +1,12 @@
 ---
 title: National anthems
-longTitle: 'National anthems'
+aliases: National anthems
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[National symbols]]"
+  - "[[National symbols]]"
 french:
-- "[[Hymne national]]"
+  - "[[Hymne national]]"
 scopeNote:
-- "Patriotic songs or hymns adopted officially and pl"
+  - Patriotic songs or hymns adopted officially and pl
 ---

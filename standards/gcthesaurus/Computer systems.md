@@ -1,13 +1,11 @@
 ---
 title: Computer systems
-longTitle: 'Computer systems'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Systeme informatique]]"
-usedFor:
-- "[[Computer operating systems]]"
+  - "[[Systeme informatique]]"
+aliases: Computer systems
 relatedTerm:
-- "[[Computers]]"
-- "[[Computer networks]]"
+  - "[[Computers]]"
+  - "[[Computer networks]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Poetry
-longTitle: 'Poetry'
+aliases: Poetry
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Poesie]]"
+  - "[[Poesie]]"
 ---

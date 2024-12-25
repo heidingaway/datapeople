@@ -1,25 +1,24 @@
 ---
 title: Aircraft
 created: 2024-12-13
-modified: 2024-12-17
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Aircraft'
+  - gccommon
 french:
-- "[[Aeronef]]"
+  - Aeronef
 narrowerTerm:
-- "[[Airplanes]]"
-- "[[Civilian aircraft]]"
-- "[[Helicopters]]"
-- "[[Military aircraft]]"
-usedFor:
-- "[[Wings Aircraft]]"
+  - "[[Airplanes]]"
+  - "[[Civilian aircraft]]"
+  - "[[Helicopters]]"
+  - "[[Military aircraft]]"
+aliases:
+  - Aircraft
 relatedTerm:
-- "[[Aviation industry]]"
-- "[[Aviation]]"
-- "[[Aircraft de-icing]]"
-- "[[Aircraft anti-icing]]"
-- "[[Aircraft accidents]]"
-- "[[Air transport]]"
+  - "[[Air transport]]"
+  - "[[Aircraft accidents]]"
+  - "[[Aircraft anti-icing]]"
+  - "[[Aircraft de-icing]]"
+  - "[[Aviation industry]]"
+  - "[[Aviation]]"
 ---
 # Aircraft

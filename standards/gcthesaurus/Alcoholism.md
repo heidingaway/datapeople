@@ -3,16 +3,12 @@ title: Alcoholism
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Alcoholism'
+  - gccommon
 french:
-- "[[Alcoolisme]]"
-usedFor:
-- "[[Alcohol abuse]]"
-- "[[Alcohol addiction]]"
-- "[[Substance abuse]]"
+  - "[[Alcoolisme]]"
+aliases: Alcoholism
 relatedTerm:
-- "[[Alcohol education]]"
-- "[[Alcohol consumption]]"
+  - "[[Alcohol education]]"
+  - "[[Alcohol consumption]]"
 ---
 # Alcoholism

@@ -1,12 +1,10 @@
 ---
 title: Diesel fuel
-longTitle: 'Diesel fuel'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Carburant diesel]]"
+  - "[[Carburant diesel]]"
 scopeNote:
-- "A thick oily fuel that is obtained from the distil"
-usedFor:
-- "[[Diesel]]"
+  - A thick oily fuel that is obtained from the distil
+aliases: Diesel fuel
 ---

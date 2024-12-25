@@ -3,15 +3,15 @@ title: Chemistry
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Chemistry'
+  - gccommon
+aliases: Chemistry
 french:
-- "[[Chimie]]"
+  - "[[Chimie]]"
 narrowerTerm:
-- "[[Biochemistry]]"
-- "[[Geochemistry]]"
+  - "[[Biochemistry]]"
+  - "[[Geochemistry]]"
 relatedTerm:
-- "[[Chemicals]]"
-- "[[Chemical industry]]"
+  - "[[Chemicals]]"
+  - "[[Chemical industry]]"
 ---
 # Chemistry

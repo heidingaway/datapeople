@@ -1,8 +1,8 @@
 ---
 title: Medicine Medical technology Health
-longTitle: 'Medicine, Medical technology, Health'
+aliases: Medicine, Medical technology, Health
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Medical research]]"
+  - "[[Medical research]]"
 ---

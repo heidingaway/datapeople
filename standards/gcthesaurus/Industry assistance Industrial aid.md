@@ -1,8 +1,8 @@
 ---
 title: Industry assistance Industrial aid
-longTitle: 'Industry assistance, Industrial aid'
+aliases: Industry assistance, Industrial aid
 tags:
-- gccommon
+  - gccommon
 historyNote:
-- "Industry assistance replaces Industrial aid as pre"
+  - Industry assistance replaces Industrial aid as pre
 ---

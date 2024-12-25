@@ -1,12 +1,12 @@
 ---
 title: Astronauts
-longTitle: 'Astronauts'
+aliases: Astronauts
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Astronaute]]"
+  - "[[Astronaute]]"
 relatedTerm:
-- "[[Astronaut training]]"
-- "[[Space exploration]]"
-- "[[Space station]]"
+  - "[[Astronaut training]]"
+  - "[[Space exploration]]"
+  - "[[Space station]]"
 ---

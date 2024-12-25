@@ -1,8 +1,8 @@
 ---
 title: Steel Metals
-longTitle: 'Steel, Metals'
+aliases: Steel, Metals
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Metalworking industry]]"
+  - "[[Metalworking industry]]"
 ---

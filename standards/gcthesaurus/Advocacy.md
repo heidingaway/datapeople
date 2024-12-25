@@ -1,10 +1,16 @@
 ---
 title: Advocacy
-longTitle: 'Advocacy'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Defense des droits]]"
-usedFor:
-- "[[Social action]]"
+  - Defense des droits
+aliases:
+  - Advocacy
+relatedTerm:
+  - "[[Interest groups]]"
+  - "[[Lobbying]]"
+  - "[[Social movement]]"
 ---
+# Advocacy

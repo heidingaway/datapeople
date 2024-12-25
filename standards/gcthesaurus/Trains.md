@@ -1,8 +1,8 @@
 ---
 title: Trains
-longTitle: 'Trains'
+aliases: Trains
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Train]]"
+  - "[[Train]]"
 ---

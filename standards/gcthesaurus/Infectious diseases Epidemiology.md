@@ -1,8 +1,8 @@
 ---
 title: Infectious diseases Epidemiology
-longTitle: 'Infectious diseases, Epidemiology'
+aliases: Infectious diseases, Epidemiology
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Epidemics]]"
+  - "[[Epidemics]]"
 ---

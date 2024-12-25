@@ -3,16 +3,14 @@ title: Minerals
 created: 2024-12-13
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Minerals'
+  - gccommon
 french:
-- "[[Minerai]]"
-usedFor:
-- "[[Mineral resources]]"
+  - "[[Minerai]]"
+aliases: Minerals
 relatedTerm:
-- "[[Mining industry]]"
-- "[[Geology]]"
+  - "[[Mining industry]]"
+  - "[[Geology]]"
 narrowerTerm:
-- "[[Coal]]"
+  - "[[Coal]]"
 ---
 # Minerals

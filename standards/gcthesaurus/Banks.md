@@ -3,16 +3,14 @@ title: Banks
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Banks'
+  - gccommon
 french:
-- "[[Banque]]"
+  - "[[Banque]]"
 narrowerTerm:
-- "[[Central banks]]"
+  - "[[Central banks]]"
 relatedTerm:
-- "[[Banking]]"
-- "[[Cooperatives]]"
-usedFor:
-- "[[Chartered banks]]"
+  - "[[Banking]]"
+  - "[[Cooperatives]]"
+aliases: Banks
 ---
 # Banks

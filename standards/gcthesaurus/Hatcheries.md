@@ -1,8 +1,8 @@
 ---
 title: Hatcheries
-longTitle: 'Hatcheries'
+aliases: Hatcheries
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Couveuse]]"
+  - "[[Couveuse]]"
 ---

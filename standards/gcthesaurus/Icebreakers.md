@@ -1,8 +1,8 @@
 ---
 title: Icebreakers
-longTitle: 'Icebreakers'
+aliases: Icebreakers
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Brise-glace]]"
+  - "[[Brise-glace]]"
 ---

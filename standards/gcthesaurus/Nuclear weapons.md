@@ -1,8 +1,8 @@
 ---
 title: Nuclear weapons
-longTitle: 'Nuclear weapons'
+aliases: Nuclear weapons
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Arme nucleaire]]"
+  - "[[Arme nucleaire]]"
 ---

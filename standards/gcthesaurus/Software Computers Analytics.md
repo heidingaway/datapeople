@@ -1,8 +1,8 @@
 ---
 title: Software Computers Analytics
-longTitle: 'Software, Computers, Analytics'
+aliases: Software, Computers, Analytics
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Computer programming]]"
+  - "[[Computer programming]]"
 ---

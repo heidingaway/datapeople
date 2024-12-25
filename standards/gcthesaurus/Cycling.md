@@ -1,10 +1,10 @@
 ---
 title: Cycling
-longTitle: 'Cycling'
+aliases: Cycling
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Cyclisme]]"
+  - "[[Cyclisme]]"
 relatedTerm:
-- "[[Bicycle safety equipment]]"
+  - "[[Bicycle safety equipment]]"
 ---

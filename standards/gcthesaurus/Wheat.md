@@ -1,8 +1,8 @@
 ---
 title: Wheat
-longTitle: 'Wheat'
+aliases: Wheat
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ble]]"
+  - "[[Ble]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Samples Prototyping
-longTitle: 'Samples, Prototyping'
+aliases: Samples, Prototyping
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Models]]"
+  - "[[Models]]"
 ---

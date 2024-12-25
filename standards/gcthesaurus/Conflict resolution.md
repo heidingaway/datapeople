@@ -3,17 +3,14 @@ title: Conflict resolution
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Conflict resolution'
+  - gccommon
 french:
-- "[[Resolution de conflit]]"
-usedFor:
-- "[[Dispute resolution]]"
-- "[[Dispute settlements]]"
+  - "[[Resolution de conflit]]"
+aliases: Conflict resolution
 relatedTerm:
-- "[[Negotiations]]"
-- "[[Mediation]]"
-- "[[Conflicts]]"
-- "[[Conciliation]]"
+  - "[[Negotiations]]"
+  - "[[Mediation]]"
+  - "[[Conflicts]]"
+  - "[[Conciliation]]"
 ---
 # Conflict resolution

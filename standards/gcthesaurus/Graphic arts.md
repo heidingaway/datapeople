@@ -3,15 +3,15 @@ title: Graphic arts
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Graphic arts'
+  - gccommon
+aliases: Graphic arts
 french:
-- "[[Arts graphiques]]"
+  - "[[Arts graphiques]]"
 narrowerTerm:
-- "[[Drawings]]"
-- "[[Illustrations]]"
+  - "[[Drawings]]"
+  - "[[Illustrations]]"
 relatedTerm:
-- "[[Prints]]"
-- "[[Printing]]"
+  - "[[Prints]]"
+  - "[[Printing]]"
 ---
 # Graphic arts

@@ -1,8 +1,8 @@
 ---
 title: Sheep
-longTitle: 'Sheep'
+aliases: Sheep
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Mouton]]"
+  - "[[Mouton]]"
 ---

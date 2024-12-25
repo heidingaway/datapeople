@@ -1,14 +1,10 @@
 ---
 title: Same-sex couples
-longTitle: 'Same-sex couples'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Couples]]"
+  - "[[Couples]]"
 french:
-- "[[Couple de meme sexe]]"
-usedFor:
-- "[[Gay couples]]"
-- "[[Homosexual couples]]"
-- "[[Lesbian couples]]"
+  - "[[Couple de meme sexe]]"
+aliases: Same-sex couples
 ---

@@ -1,8 +1,8 @@
 ---
 title: Universities Colleges
-longTitle: 'Universities, Colleges'
+aliases: Universities, Colleges
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Postsecondary education]]"
+  - "[[Postsecondary education]]"
 ---

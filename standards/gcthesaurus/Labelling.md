@@ -3,23 +3,16 @@ title: Labelling
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Labelling'
+  - gccommon
 french:
-- "[[Etiquetage]]"
+  - "[[Etiquetage]]"
 narrowerTerm:
-- "[[Drug labelling]]"
-- "[[Food labelling]]"
+  - "[[Drug labelling]]"
+  - "[[Food labelling]]"
 relatedTerm:
-- "[[Packaging]]"
-- "[[Product codes]]"
-- "[[Identification]]"
-usedFor:
-- "[[Bar codes]]"
-- "[[Labeling]]"
-- "[[Labels]]"
-- "[[Product labeling]]"
-- "[[Product labelling]]"
-- "[[Tagging]]"
+  - "[[Packaging]]"
+  - "[[Product codes]]"
+  - "[[Identification]]"
+aliases: Labelling
 ---
 # Labelling

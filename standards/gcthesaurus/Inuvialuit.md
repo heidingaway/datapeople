@@ -1,10 +1,11 @@
 ---
 title: Inuvialuit
-longTitle: 'Inuvialuit'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-broaderTerm:
-- "[[Inuit]]"
+  - gccommon
+aliases: Inuvialuit
 scopeNote:
-- "The Inuvialuit are Inuit who live in the Arctic re"
+  - The Inuvialuit are Inuit who live in the Arctic re
 ---
+# Inuvialuit

@@ -1,8 +1,8 @@
 ---
 title: Wildlife management
-longTitle: 'Wildlife management'
+aliases: Wildlife management
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gestion de la faune]]"
+  - "[[Gestion de la faune]]"
 ---

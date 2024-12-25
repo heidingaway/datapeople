@@ -1,10 +1,8 @@
 ---
 title: Metric system
-longTitle: 'Metric system'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Systeme metrique]]"
-usedFor:
-- "[[Metrication]]"
+  - "[[Systeme metrique]]"
+aliases: Metric system
 ---

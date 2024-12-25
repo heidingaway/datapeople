@@ -1,23 +1,22 @@
 ---
 title: Aging
 created: 2024-12-13
-modified: 2024-12-17
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Aging'
+  - gccommon
 french:
-- "[[Vieillissement]]"
+  - Vieillissement
 relatedTerm:
-- "[[Alzheimers disease]]"
-- "[[Seniors]]"
-- "[[Retirement]]"
-- "[[Old age]]"
-- "[[Gerontology]]"
-- "[[Geriatrics]]"
-- "[[Elderly care]]"
+  - "[[Alzheimers disease]]"
+  - "[[Elderly care]]"
+  - "[[Geriatrics]]"
+  - "[[Gerontology]]"
+  - "[[Old age]]"
+  - "[[Retirement]]"
+  - "[[Seniors]]"
 scopeNote:
-- "The organic process of growing older and showing t"
-usedFor:
-- "[[Ageing]]"
+  - The organic process of growing older and showing the effects of increasing age.
+aliases:
+  - Aging
 ---
 # Aging

@@ -3,14 +3,11 @@ title: Commissions of inquiry
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Commissions of inquiry'
+  - gccommon
 broaderTerm:
-- "[[Investigative bodies]]"
+  - "[[Investigative bodies]]"
 french:
-- "[[Commission denquete]]"
-usedFor:
-- "[[Government inquiries]]"
-- "[[Royal commissions]]"
+  - "[[Commission denquete]]"
+aliases: Commissions of inquiry
 ---
 # Commissions of inquiry

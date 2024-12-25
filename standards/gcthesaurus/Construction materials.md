@@ -3,16 +3,14 @@ title: Construction materials
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Construction materials'
+  - gccommon
 french:
-- "[[Materiau de construction]]"
+  - "[[Materiau de construction]]"
 narrowerTerm:
-- "[[Concrete]]"
-usedFor:
-- "[[Building materials]]"
+  - "[[Concrete]]"
+aliases: Construction materials
 relatedTerm:
-- "[[Construction industry]]"
-- "[[Construction]]"
+  - "[[Construction industry]]"
+  - "[[Construction]]"
 ---
 # Construction materials

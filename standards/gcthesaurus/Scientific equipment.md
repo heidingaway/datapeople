@@ -1,8 +1,8 @@
 ---
 title: Scientific equipment
-longTitle: 'Scientific equipment'
+aliases: Scientific equipment
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Equipement scientifique]]"
+  - "[[Equipement scientifique]]"
 ---

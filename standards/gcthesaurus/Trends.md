@@ -3,12 +3,12 @@ title: Trends
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Trends'
+  - gccommon
+aliases: Trends
 french:
-- "[[Tendances]]"
+  - "[[Tendances]]"
 narrowerTerm:
-- "[[Economic trends]]"
-- "[[Social trends]]"
+  - "[[Economic trends]]"
+  - "[[Social trends]]"
 ---
 # Trends

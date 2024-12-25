@@ -1,12 +1,12 @@
 ---
 title: Regions
-longTitle: 'Regions'
+aliases: Regions
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Region]]"
+  - "[[Region]]"
 narrowerTerm:
-- "[[Polar regions]]"
+  - "[[Polar regions]]"
 scopeNote:
-- "Refers to territories more or less extensive chara"
+  - Refers to territories more or less extensive chara
 ---

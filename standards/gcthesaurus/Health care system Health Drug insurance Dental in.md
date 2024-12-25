@@ -1,8 +1,8 @@
 ---
 title: Health care system Health Drug insurance Dental in
-longTitle: 'Health care system, Health, Drug insurance, Dental insurance'
+aliases: Health care system, Health, Drug insurance, Dental insurance
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Health insurance]]"
+  - "[[Health insurance]]"
 ---

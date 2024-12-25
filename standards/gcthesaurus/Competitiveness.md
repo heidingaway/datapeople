@@ -3,12 +3,12 @@ title: Competitiveness
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Competitiveness'
+  - gccommon
+aliases: Competitiveness
 french:
-- "[[Competitivite]]"
+  - "[[Competitivite]]"
 relatedTerm:
-- "[[Competition]]"
-- "[[Economic development]]"
+  - "[[Competition]]"
+  - "[[Economic development]]"
 ---
 # Competitiveness

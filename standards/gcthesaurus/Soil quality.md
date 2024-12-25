@@ -3,12 +3,12 @@ title: Soil quality
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Soil quality'
+  - gccommon
+aliases: Soil quality
 french:
-- "[[Qualite des sols]]"
+  - "[[Qualite des sols]]"
 relatedTerm:
-- "[[Soil pollution]]"
-- "[[Soil]]"
+  - "[[Soil pollution]]"
+  - "[[Soil]]"
 ---
 # Soil quality

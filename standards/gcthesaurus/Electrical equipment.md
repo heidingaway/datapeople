@@ -1,12 +1,10 @@
 ---
 title: Electrical equipment
-longTitle: 'Electrical equipment'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Equipement electrique]]"
+  - "[[Equipement electrique]]"
 narrowerTerm:
-- "[[Electrical appliances]]"
-usedFor:
-- "[[Electric equipment]]"
+  - "[[Electrical appliances]]"
+aliases: Electrical equipment
 ---

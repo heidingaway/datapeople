@@ -3,12 +3,9 @@ title: Refugees
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Refugees'
+  - gccommon
 french:
-- "[[Refugie]]"
-usedFor:
-- "[[Political refugees]]"
-- "[[War refugees]]"
+  - "[[Refugie]]"
+aliases: Refugees
 ---
 # Refugees

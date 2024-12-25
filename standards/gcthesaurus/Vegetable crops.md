@@ -1,10 +1,10 @@
 ---
 title: Vegetable crops
-longTitle: 'Vegetable crops'
+aliases: Vegetable crops
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Cultures maraicheres]]"
+  - "[[Cultures maraicheres]]"
 relatedTerm:
-- "[[Vegetables]]"
+  - "[[Vegetables]]"
 ---

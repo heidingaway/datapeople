@@ -1,17 +1,17 @@
 ---
 title: Analysis
-longTitle: 'Analysis'
+aliases: Analysis
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Analyse]]"
+  - "[[Analyse]]"
 narrowerTerm:
-- "[[Economic analysis]]"
-- "[[Financial analysis]]"
-- "[[Sector analysis]]"
-- "[[Statistical analysis]]"
+  - "[[Economic analysis]]"
+  - "[[Financial analysis]]"
+  - "[[Sector analysis]]"
+  - "[[Statistical analysis]]"
 relatedTerm:
-- "[[Case studies]]"
-- "[[Diagnosis]]"
-- "[[Feasibility studies]]"
+  - "[[Case studies]]"
+  - "[[Diagnosis]]"
+  - "[[Feasibility studies]]"
 ---

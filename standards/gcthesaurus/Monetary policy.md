@@ -3,14 +3,14 @@ title: Monetary policy
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Monetary policy'
+  - gccommon
+aliases: Monetary policy
 french:
-- "[[Politique monetaire]]"
+  - "[[Politique monetaire]]"
 narrowerTerm:
-- "[[Foreign payments]]"
+  - "[[Foreign payments]]"
 relatedTerm:
-- "[[Economic policy]]"
-- "[[Currency]]"
+  - "[[Economic policy]]"
+  - "[[Currency]]"
 ---
 # Monetary policy

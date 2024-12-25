@@ -1,17 +1,16 @@
 ---
 title: Ozone depletion
-longTitle: 'Ozone depletion'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Appauvrissement de lozone]]"
+  - Appauvrissement de lozone
 relatedTerm:
-- "[[Ozone]]"
-usedFor:
-- "[[Depletion of the ozone layer]]"
-- "[[Ozone hole]]"
-- "[[Ozone layer depletion]]"
-- "[[Ozone layer destruction]]"
-- "[[Ozone thinning]]"
-- "[[Stratospheric ozone depletion]]"
+  - "[[Air pollution]]"
+  - "[[Environmental impact]]"
+  - "[[Ozone]]"
+aliases:
+  - Ozone depletion
 ---
+# Ozone depletion

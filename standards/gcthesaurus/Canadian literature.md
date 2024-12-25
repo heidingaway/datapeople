@@ -1,8 +1,8 @@
 ---
 title: Canadian literature
-longTitle: 'Canadian literature'
+aliases: Canadian literature
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Litterature canadienne]]"
+  - "[[Litterature canadienne]]"
 ---

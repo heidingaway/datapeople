@@ -1,8 +1,8 @@
 ---
 title: Headquarters
-longTitle: 'Headquarters'
+aliases: Headquarters
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Siege social]]"
+  - "[[Siege social]]"
 ---

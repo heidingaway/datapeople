@@ -3,14 +3,14 @@ title: Foreign payments
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Foreign payments'
+  - gccommon
+aliases: Foreign payments
 broaderTerm:
-- "[[Monetary policy]]"
+  - "[[Monetary policy]]"
 french:
-- "[[Paiement etranger]]"
+  - "[[Paiement etranger]]"
 relatedTerm:
-- "[[Exchange rates]]"
-- "[[Currency]]"
+  - "[[Exchange rates]]"
+  - "[[Currency]]"
 ---
 # Foreign payments

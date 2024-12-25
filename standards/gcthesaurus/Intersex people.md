@@ -1,8 +1,8 @@
 ---
 title: Intersex people
-longTitle: 'Intersex people'
+aliases: Intersex people
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Personne intersexuelle]]"
+  - "[[Personne intersexuelle]]"
 ---

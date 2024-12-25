@@ -3,15 +3,15 @@ title: Hearings
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Hearings'
+  - gccommon
+aliases: Hearings
 french:
-- "[[Audience]]"
+  - "[[Audience]]"
 narrowerTerm:
-- "[[Public hearings]]"
+  - "[[Public hearings]]"
 relatedTerm:
-- "[[Testimony]]"
-- "[[Justice system]]"
-- "[[Courts]]"
+  - "[[Testimony]]"
+  - "[[Justice system]]"
+  - "[[Courts]]"
 ---
 # Hearings

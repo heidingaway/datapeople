@@ -1,12 +1,10 @@
 ---
 title: Electronic mail
-longTitle: 'Electronic mail'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Courrier electronique]]"
+  - "[[Courrier electronique]]"
 relatedTerm:
-- "[[Correspondence]]"
-usedFor:
-- "[[E-mail]]"
+  - "[[Correspondence]]"
+aliases: Electronic mail
 ---

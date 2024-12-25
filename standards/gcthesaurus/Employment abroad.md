@@ -1,16 +1,15 @@
 ---
 title: Employment abroad
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Employment abroad'
+  - gccommon
 french:
-- "[[Emploi a letranger]]"
-usedFor:
-- "[[Work abroad]]"
+  - Emploi a l'etranger
+aliases:
+  - Work abroad
 relatedTerm:
-- "[[Exchange programs]]"
-- "[[Employment]]"
+  - "[[Employment]]"
+  - "[[Exchange programs]]"
 ---
 # Employment abroad

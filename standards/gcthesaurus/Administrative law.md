@@ -1,14 +1,15 @@
 ---
 title: Administrative law
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Administrative law'
+  - gccommon
+aliases:
+  - Administrative law
 french:
-- "[[Droit administratif]]"
+  - Droit administratif
 relatedTerm:
-- "[[Public administration]]"
-- "[[Ombudsman]]"
+  - "[[Ombudsman]]"
+  - "[[Public administration]]"
 ---
 # Administrative law

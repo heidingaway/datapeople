@@ -1,8 +1,8 @@
 ---
 title: Educational funding
-longTitle: 'Educational funding'
+aliases: Educational funding
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Financement de leducation]]"
+  - "[[Financement de leducation]]"
 ---

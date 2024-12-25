@@ -1,8 +1,8 @@
 ---
 title: Museum collections Art exhibitions
-longTitle: 'Museum collections, Art exhibitions'
+aliases: Museum collections, Art exhibitions
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Virtual exhibitions]]"
+  - "[[Virtual exhibitions]]"
 ---

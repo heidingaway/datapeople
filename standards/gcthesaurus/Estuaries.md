@@ -1,8 +1,16 @@
 ---
 title: Estuaries
-longTitle: 'Estuaries'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Estuaries
 french:
-- "[[Estuaire]]"
+  - Estuaire
+id: 2718
+relatedTerm:
+  - "[[Tides]]"
+  - "[[Watercourses]]"
 ---
+# Estuaries

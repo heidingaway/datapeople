@@ -1,13 +1,12 @@
 ---
 title: Agriculture statistics
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Agriculture statistics'
+  - gccommon
 french:
-- "[[Statistiques de lagriculture]]"
-usedFor:
-- "[[Agricultural statistics]]"
+  - Statistiques de lagriculture
+aliases:
+  - Agriculture statistics
 ---
 # Agriculture statistics

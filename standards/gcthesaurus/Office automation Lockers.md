@@ -1,8 +1,8 @@
 ---
 title: Office automation Lockers
-longTitle: 'Office automation, Lockers'
+aliases: Office automation, Lockers
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Office equipment]]"
+  - "[[Office equipment]]"
 ---

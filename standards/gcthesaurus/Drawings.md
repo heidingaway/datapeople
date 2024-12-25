@@ -1,12 +1,12 @@
 ---
 title: Drawings
-longTitle: 'Drawings'
+aliases: Drawings
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Dessin]]"
+  - "[[Dessin]]"
 narrowerTerm:
-- "[[Architectural drawings]]"
+  - "[[Architectural drawings]]"
 relatedTerm:
-- "[[Illustrations]]"
+  - "[[Illustrations]]"
 ---

@@ -1,17 +1,12 @@
 ---
 title: Life skills
-longTitle: 'Life skills'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Skills]]"
+  - "[[Skills]]"
 french:
-- "[[Habiletes fondamentales]]"
+  - "[[Habiletes fondamentales]]"
 scopeNote:
-- "Refers to the skills needed for work learning and "
-usedFor:
-- "[[Basic competencies]]"
-- "[[Basic skills]]"
-- "[[Essential skills]]"
-- "[[Living skills]]"
+  - "Refers to the skills needed for work learning and "
+aliases: Life skills
 ---

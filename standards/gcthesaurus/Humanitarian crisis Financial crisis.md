@@ -1,8 +1,8 @@
 ---
 title: Humanitarian crisis Financial crisis
-longTitle: 'Humanitarian crisis, Financial crisis'
+aliases: Humanitarian crisis, Financial crisis
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Crisis]]"
+  - "[[Crisis]]"
 ---

@@ -3,13 +3,13 @@ title: Women
 created: 2024-12-13
 modified: 2024-12-17
 tags:
-- gccommon
-longTitle: 'Women'
+  - gccommon
+aliases: Women
 french:
-- "[[Femme]]"
+  - "[[Femme]]"
 relatedTerm:
-- "[[Womens health]]"
-- "[[Violence against women]]"
-- "[[Status of women]]"
+  - "[[Womens health]]"
+  - "[[Violence against women]]"
+  - "[[Status of women]]"
 ---
 # Women

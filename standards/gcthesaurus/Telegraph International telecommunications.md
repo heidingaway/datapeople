@@ -1,8 +1,8 @@
 ---
 title: Telegraph International telecommunications
-longTitle: 'Telegraph, International telecommunications'
+aliases: Telegraph, International telecommunications
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Telecommunications]]"
+  - "[[Telecommunications]]"
 ---

@@ -1,10 +1,10 @@
 ---
 title: Home education
-longTitle: 'Home education'
+aliases: Home education
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Enseignement a domicile]]"
+  - "[[Enseignement a domicile]]"
 scopeNote:
-- "Schooling provided either as an alternative to for"
+  - Schooling provided either as an alternative to for
 ---

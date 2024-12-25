@@ -1,19 +1,18 @@
 ---
 title: Transformation
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Transformation'
+  - gccommon
 french:
-- "[[Transformation]]"
+  - "[[Transformation]]"
 relatedTerm:
-- "[[Adjustment]]"
-- "[[Restructuring]]"
-- "[[Reform]]"
-- "[[Processing]]"
-usedFor:
-- "[[Modification]]"
-- "[[Transition]]"
+  - "[[Adjustment]]"
+  - "[[Processing]]"
+  - "[[Reform]]"
+  - "[[Restructuring]]"
+aliases:
+  - Modification
+  - Transition
 ---
 # Transformation

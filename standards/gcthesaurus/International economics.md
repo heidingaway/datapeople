@@ -1,11 +1,11 @@
 ---
 title: International economics
-longTitle: 'International economics'
+aliases: International economics
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Economie internationale]]"
+  - "[[Economie internationale]]"
 relatedTerm:
-- "[[Globalization]]"
-- "[[International finance]]"
+  - "[[Globalization]]"
+  - "[[International finance]]"
 ---

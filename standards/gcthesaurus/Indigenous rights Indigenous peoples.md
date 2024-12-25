@@ -1,8 +1,8 @@
 ---
 title: Indigenous rights Indigenous peoples
-longTitle: 'Indigenous rights, Indigenous peoples'
+aliases: Indigenous rights, Indigenous peoples
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Indigenous governments]]"
+  - "[[Indigenous governments]]"
 ---

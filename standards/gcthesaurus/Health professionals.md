@@ -1,14 +1,8 @@
 ---
 title: Health professionals
-longTitle: 'Health professionals'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Professionnel de la sante]]"
-usedFor:
-- "[[Health care personnel]]"
-- "[[Health care professionals]]"
-- "[[Health personnel]]"
-- "[[Medical personnel]]"
-- "[[Medical professionals]]"
+  - "[[Professionnel de la sante]]"
+aliases: Health professionals
 ---

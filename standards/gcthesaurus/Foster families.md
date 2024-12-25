@@ -3,16 +3,13 @@ title: Foster families
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Foster families'
+  - gccommon
 french:
-- "[[Famille daccueil]]"
+  - "[[Famille daccueil]]"
 narrowerTerm:
-- "[[Foster children]]"
+  - "[[Foster children]]"
 relatedTerm:
-- "[[Foster care placement]]"
-usedFor:
-- "[[Family care home]]"
-- "[[Foster home]]"
+  - "[[Foster care placement]]"
+aliases: Foster families
 ---
 # Foster families

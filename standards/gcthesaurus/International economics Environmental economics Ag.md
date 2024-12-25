@@ -1,8 +1,8 @@
 ---
 title: International economics Environmental economics Ag
-longTitle: 'International economics, Environmental economics, Agricultural economics'
+aliases: International economics, Environmental economics, Agricultural economics
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Economics]]"
+  - "[[Economics]]"
 ---

@@ -1,31 +1,30 @@
 ---
 title: Agriculture
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Agriculture'
+  - gccommon
 french:
-- "[[Agriculture]]"
+  - Agriculture
 narrowerTerm:
-- "[[Aquaculture]]"
-- "[[Horticulture]]"
-- "[[Viticulture]]"
+  - "[[Aquaculture]]"
+  - "[[Horticulture]]"
+  - "[[Viticulture]]"
 relatedTerm:
-- "[[Agricultural assistance]]"
-- "[[Agricultural economics]]"
-- "[[Agricultural fairs]]"
-- "[[Agricultural technology]]"
-- "[[Agricultural workers]]"
-- "[[Agriculture statistics]]"
-- "[[Farms]]"
-- "[[Farmlands]]"
-- "[[Crops]]"
-- "[[Animal husbandry]]"
-- "[[Agricultural policy]]"
-- "[[Agri-food products]]"
-- "[[Agri-food industry]]"
-usedFor:
-- "[[Farming]]"
+  - "[[Agri-food industry]]"
+  - "[[Agri-food products]]"
+  - "[[Agricultural assistance]]"
+  - "[[Agricultural economics]]"
+  - "[[Agricultural fairs]]"
+  - "[[Agricultural policy]]"
+  - "[[Agricultural technology]]"
+  - "[[Agricultural workers]]"
+  - "[[Agriculture statistics]]"
+  - "[[Animal husbandry]]"
+  - "[[Crops]]"
+  - "[[Farmlands]]"
+  - "[[Farms]]"
+aliases:
+  - Agriculture
 ---
 # Agriculture

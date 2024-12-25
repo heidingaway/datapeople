@@ -1,8 +1,8 @@
 ---
 title: Negotiations Litigation Conflicts Conciliation
-longTitle: 'Negotiations, Litigation, Conflicts, Conciliation'
+aliases: Negotiations, Litigation, Conflicts, Conciliation
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Arbitration]]"
+  - "[[Arbitration]]"
 ---

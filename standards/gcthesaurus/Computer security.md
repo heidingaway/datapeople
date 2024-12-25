@@ -3,22 +3,13 @@ title: Computer security
 created: 2024-12-13
 modified: 2024-12-17
 tags:
-- gccommon
-longTitle: 'Computer security'
+  - gccommon
 french:
-- "[[Securite informatique]]"
+  - "[[Securite informatique]]"
 relatedTerm:
-- "[[Foreign interference]]"
-- "[[Cryptography]]"
-- "[[Computers]]"
-usedFor:
-- "[[Computer system security]]"
-- "[[Cyber security]]"
-- "[[Cybersecurity]]"
-- "[[Data security]]"
-- "[[IT security]]"
-- "[[Informatics security]]"
-- "[[Information system security]]"
-- "[[Information technology security]]"
+  - "[[Foreign interference]]"
+  - "[[Cryptography]]"
+  - "[[Computers]]"
+aliases: Computer security
 ---
 # Computer security

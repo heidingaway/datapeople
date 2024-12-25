@@ -3,9 +3,9 @@ title: Private schools
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Private schools'
+  - gccommon
+aliases: Private schools
 french:
-- "[[Ecole privee]]"
+  - "[[Ecole privee]]"
 ---
 # Private schools

@@ -1,8 +1,8 @@
 ---
 title: Prohibition Moratorium
-longTitle: 'Prohibition, Moratorium'
+aliases: Prohibition, Moratorium
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Injunctions]]"
+  - "[[Injunctions]]"
 ---

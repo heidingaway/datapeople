@@ -1,10 +1,8 @@
 ---
 title: Telegraph
-longTitle: 'Telegraph'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Telegraphe]]"
-usedFor:
-- "[[Telegrams]]"
+  - "[[Telegraphe]]"
+aliases: Telegraph
 ---

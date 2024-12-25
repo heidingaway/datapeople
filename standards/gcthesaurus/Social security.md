@@ -1,14 +1,12 @@
 ---
 title: Social security
-longTitle: 'Social security'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Securite sociale]]"
+  - "[[Securite sociale]]"
 narrowerTerm:
-- "[[Income security]]"
+  - "[[Income security]]"
 relatedTerm:
-- "[[Social insurance number]]"
-usedFor:
-- "[[Social insurance]]"
+  - "[[Social insurance number]]"
+aliases: Social security
 ---

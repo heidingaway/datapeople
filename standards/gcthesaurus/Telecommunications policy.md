@@ -1,8 +1,8 @@
 ---
 title: Telecommunications policy
-longTitle: 'Telecommunications policy'
+aliases: Telecommunications policy
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Politique en matiere de telecommunications]]"
+  - "[[Politique en matiere de telecommunications]]"
 ---

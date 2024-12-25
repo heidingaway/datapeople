@@ -3,21 +3,16 @@ title: Foreign service
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Foreign service'
+  - gccommon
 french:
-- "[[Service diplomatique]]"
+  - "[[Service diplomatique]]"
 narrowerTerm:
-- "[[Diplomatic missions]]"
+  - "[[Diplomatic missions]]"
 scopeNote:
-- "The field force of a foreign office comprising dip"
-usedFor:
-- "[[Ambassadors]]"
-- "[[Diplomacy]]"
-- "[[Diplomats]]"
-- "[[Consuls]]"
+  - The field force of a foreign office comprising dip
+aliases: Foreign service
 relatedTerm:
-- "[[External relations]]"
-- "[[Delegations]]"
+  - "[[External relations]]"
+  - "[[Delegations]]"
 ---
 # Foreign service

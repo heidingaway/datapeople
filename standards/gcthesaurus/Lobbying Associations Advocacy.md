@@ -1,8 +1,8 @@
 ---
 title: Lobbying Associations Advocacy
-longTitle: 'Lobbying, Associations, Advocacy'
+aliases: Lobbying, Associations, Advocacy
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Interest groups]]"
+  - "[[Interest groups]]"
 ---

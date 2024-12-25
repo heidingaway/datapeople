@@ -1,10 +1,8 @@
 ---
 title: Buyers
-longTitle: 'Buyers'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Acheteur]]"
-usedFor:
-- "[[Purchasers]]"
+  - "[[Acheteur]]"
+aliases: Buyers
 ---

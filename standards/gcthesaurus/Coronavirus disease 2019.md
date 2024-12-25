@@ -1,8 +1,8 @@
 ---
 title: Coronavirus disease 2019
-longTitle: 'Coronavirus disease 2019'
+aliases: Coronavirus disease 2019
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Maladie a coronavirus 2019]]"
+  - "[[Maladie a coronavirus 2019]]"
 ---

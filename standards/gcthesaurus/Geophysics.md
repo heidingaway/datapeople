@@ -3,13 +3,11 @@ title: Geophysics
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Geophysics'
+  - gccommon
 french:
-- "[[Geophysique]]"
+  - "[[Geophysique]]"
 narrowerTerm:
-- "[[Seismology]]"
-usedFor:
-- "[[Earth physics]]"
+  - "[[Seismology]]"
+aliases: Geophysics
 ---
 # Geophysics

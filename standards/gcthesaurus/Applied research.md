@@ -1,8 +1,8 @@
 ---
 title: Applied research
-longTitle: 'Applied research'
+aliases: Applied research
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Recherche appliquee]]"
+  - "[[Recherche appliquee]]"
 ---

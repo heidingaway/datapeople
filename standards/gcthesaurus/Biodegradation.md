@@ -1,17 +1,10 @@
 ---
 title: Biodegradation
-longTitle: 'Biodegradation'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Biodegradation]]"
+  - "[[Biodegradation]]"
 scopeNote:
-- "The biochemical process of decay or decomposition "
-usedFor:
-- "[[Biodegradability]]"
-- "[[Biological breakdown]]"
-- "[[Biological decay]]"
-- "[[Biological decomposition]]"
-- "[[Biological degradation]]"
-- "[[Biological deterioration]]"
+  - "The biochemical process of decay or decomposition "
+aliases: Biodegradation
 ---

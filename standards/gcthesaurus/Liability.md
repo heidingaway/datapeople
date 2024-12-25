@@ -1,8 +1,8 @@
 ---
 title: Liability
-longTitle: 'Liability'
+aliases: Liability
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Creance]]"
+  - "[[Creance]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Official languages French second language French i
-longTitle: 'Official languages, French second language, French in the workplace, Francophonie'
+aliases: Official languages, French second language, French in the workplace, Francophonie
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[French language]]"
+  - "[[French language]]"
 ---

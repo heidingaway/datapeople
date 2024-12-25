@@ -1,8 +1,8 @@
 ---
-title: Machine readable data Electronic data interchange 
-longTitle: 'Machine readable data, Electronic data interchange, Dictionaries, Databases'
+title: Machine readable data Electronic data interchange
+aliases: Machine readable data, Electronic data interchange, Dictionaries, Databases
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Data dictionaries]]"
+  - "[[Data dictionaries]]"
 ---

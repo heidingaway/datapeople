@@ -1,8 +1,8 @@
 ---
 title: Shipping
-longTitle: 'Shipping'
+aliases: Shipping
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Expedition]]"
+  - "[[Expedition]]"
 ---

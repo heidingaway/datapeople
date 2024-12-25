@@ -1,8 +1,8 @@
 ---
 title: Organized crime
-longTitle: 'Organized crime'
+aliases: Organized crime
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Crime organise]]"
+  - "[[Crime organise]]"
 ---

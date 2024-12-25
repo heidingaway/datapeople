@@ -1,21 +1,31 @@
 ---
 title: Toxic substances
-longTitle: 'Toxic substances'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Substance toxique]]"
+  - Substance toxique
 relatedTerm:
-- "[[Toxic spills]]"
-usedFor:
-- "[[Poisonous substances]]"
-- "[[Poisons]]"
-- "[[Toxic agents]]"
-- "[[Toxic compounds]]"
-- "[[Toxic materials]]"
-- "[[Toxic products]]"
-- "[[Toxic waste]]"
-- "[[Toxicants]]"
-- "[[Toxics]]"
-- "[[Toxins]]"
+  - "[[Chemical weapons]]"
+  - "[[Chemicals]]"
+  - "[[Hazardous materials]]"
+  - "[[Pesticides]]"
+  - "[[Poisoning]]"
+  - "[[Pollutants]]"
+  - "[[Toxic spills]]"
+  - "[[Toxicology]]"
+aliases:
+  - Poisonous substances
+  - Poisons
+  - Toxic agents
+  - Toxic compounds
+  - Toxic materials
+  - Toxic products
+  - Toxic substances
+  - Toxic waste
+  - Toxicants
+  - Toxics
+  - Toxins
 ---
+# Toxic substances

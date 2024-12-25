@@ -1,10 +1,10 @@
 ---
 title: Ornithology
-longTitle: 'Ornithology'
+aliases: Ornithology
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ornithologie]]"
+  - "[[Ornithologie]]"
 relatedTerm:
-- "[[Birds]]"
+  - "[[Birds]]"
 ---

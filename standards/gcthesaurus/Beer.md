@@ -1,8 +1,8 @@
 ---
 title: Beer
-longTitle: 'Beer'
+aliases: Beer
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Biere]]"
+  - "[[Biere]]"
 ---

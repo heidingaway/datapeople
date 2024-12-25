@@ -1,12 +1,16 @@
 ---
 title: Vocational training
-longTitle: 'Vocational training'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Formation professionnelle]]"
-usedFor:
-- "[[Apprenticeships]]"
-- "[[Occupational training]]"
-- "[[Vocational education]]"
+  - Formation professionnelle
+aliases:
+  - Apprenticeships
+  - Occupational training
+  - Vocational education
+relatedTerm:
+  - "[[Professional development]]"
 ---
+# Vocational training

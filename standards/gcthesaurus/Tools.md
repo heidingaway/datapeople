@@ -1,11 +1,11 @@
 ---
 title: Tools
-longTitle: 'Tools'
+aliases: Tools
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Outil]]"
+  - "[[Outil]]"
 relatedTerm:
-- "[[Development tools]]"
-- "[[Management tool]]"
+  - "[[Development tools]]"
+  - "[[Management tool]]"
 ---

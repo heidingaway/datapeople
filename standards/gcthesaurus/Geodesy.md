@@ -1,11 +1,8 @@
 ---
 title: Geodesy
-longTitle: 'Geodesy'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Geodesie]]"
-usedFor:
-- "[[Geodetic surveys]]"
-- "[[Geodetics]]"
+  - "[[Geodesie]]"
+aliases: Geodesy
 ---

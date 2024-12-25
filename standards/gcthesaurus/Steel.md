@@ -1,8 +1,8 @@
 ---
 title: Steel
-longTitle: 'Steel'
+aliases: Steel
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Acier]]"
+  - "[[Acier]]"
 ---

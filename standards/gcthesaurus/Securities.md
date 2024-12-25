@@ -3,14 +3,14 @@ title: Securities
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Securities'
+  - gccommon
+aliases: Securities
 french:
-- "[[Valeurs mobilieres]]"
+  - "[[Valeurs mobilieres]]"
 relatedTerm:
-- "[[Bonds]]"
-- "[[Shares]]"
-- "[[Stock markets]]"
-- "[[Investments]]"
+  - "[[Bonds]]"
+  - "[[Shares]]"
+  - "[[Stock markets]]"
+  - "[[Investments]]"
 ---
 # Securities

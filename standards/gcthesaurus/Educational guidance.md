@@ -3,13 +3,13 @@ title: Educational guidance
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Educational guidance'
+  - gccommon
+aliases: Educational guidance
 french:
-- "[[Orientation scolaire]]"
+  - "[[Orientation scolaire]]"
 relatedTerm:
-- "[[Vocational guidance]]"
-- "[[Education]]"
-- "[[Counselling services]]"
+  - "[[Vocational guidance]]"
+  - "[[Education]]"
+  - "[[Counselling services]]"
 ---
 # Educational guidance

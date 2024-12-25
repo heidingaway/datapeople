@@ -1,8 +1,8 @@
 ---
 title: Certificate of origin
-longTitle: 'Certificate of origin'
+aliases: Certificate of origin
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Certificat dorigine]]"
+  - "[[Certificat dorigine]]"
 ---

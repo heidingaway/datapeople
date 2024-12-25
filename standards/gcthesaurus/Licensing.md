@@ -3,15 +3,13 @@ title: Licensing
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Licensing'
+  - gccommon
 french:
-- "[[Attribution de permis]]"
-usedFor:
-- "[[Licencing]]"
+  - "[[Attribution de permis]]"
+aliases: Licensing
 relatedTerm:
-- "[[Regulation]]"
-- "[[Permits]]"
-- "[[Certification]]"
+  - "[[Regulation]]"
+  - "[[Permits]]"
+  - "[[Certification]]"
 ---
 # Licensing

@@ -1,12 +1,8 @@
 ---
 title: Intercity transport
-longTitle: 'Intercity transport'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Transport interurbain]]"
-usedFor:
-- "[[Inter-city transportation]]"
-- "[[Intercity transportation]]"
-- "[[Interurban transportation]]"
+  - "[[Transport interurbain]]"
+aliases: Intercity transport
 ---

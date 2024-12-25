@@ -1,8 +1,8 @@
 ---
 title: Purchasing Contracts
-longTitle: 'Purchasing, Contracts'
+aliases: Purchasing, Contracts
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Standing offers]]"
+  - "[[Standing offers]]"
 ---

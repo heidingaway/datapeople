@@ -1,8 +1,8 @@
 ---
 title: Music scores
-longTitle: 'Music scores'
+aliases: Music scores
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Partition musicale]]"
+  - "[[Partition musicale]]"
 ---

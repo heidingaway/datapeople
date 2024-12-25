@@ -1,8 +1,8 @@
 ---
 title: Arrests
-longTitle: 'Arrests'
+aliases: Arrests
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Arrestation]]"
+  - "[[Arrestation]]"
 ---

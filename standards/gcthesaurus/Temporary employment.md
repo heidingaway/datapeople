@@ -1,10 +1,10 @@
 ---
 title: Temporary employment
-longTitle: 'Temporary employment'
+aliases: Temporary employment
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Emploi temporaire]]"
+  - "[[Emploi temporaire]]"
 relatedTerm:
-- "[[Seasonal employment]]"
+  - "[[Seasonal employment]]"
 ---

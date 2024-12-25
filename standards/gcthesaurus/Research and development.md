@@ -1,12 +1,10 @@
 ---
 title: Research and development
-longTitle: 'Research and development'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Recherche et developpement]]"
+  - "[[Recherche et developpement]]"
 relatedTerm:
-- "[[Applied research]]"
-usedFor:
-- "[[RD]]"
+  - "[[Applied research]]"
+aliases: Research and development
 ---

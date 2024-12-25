@@ -1,12 +1,10 @@
 ---
 title: Security intelligence
-longTitle: 'Security intelligence'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Renseignement de securite]]"
+  - "[[Renseignement de securite]]"
 relatedTerm:
-- "[[Electronic monitoring]]"
-usedFor:
-- "[[Espionage]]"
+  - "[[Electronic monitoring]]"
+aliases: Security intelligence
 ---

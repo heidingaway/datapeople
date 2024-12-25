@@ -1,8 +1,8 @@
 ---
 title: Gross national product Economic indicators
-longTitle: 'Gross national product, Economic indicators'
+aliases: Gross national product, Economic indicators
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Gross domestic product]]"
+  - "[[Gross domestic product]]"
 ---

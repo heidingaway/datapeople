@@ -1,8 +1,8 @@
 ---
 title: Government plans
-longTitle: 'Government plans'
+aliases: Government plans
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Plan gouvernemental]]"
+  - "[[Plan gouvernemental]]"
 ---

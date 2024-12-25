@@ -1,8 +1,8 @@
 ---
 title: Topography Surveying Cartography
-longTitle: 'Topography, Surveying, Cartography'
+aliases: Topography, Surveying, Cartography
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Geodesy]]"
+  - "[[Geodesy]]"
 ---

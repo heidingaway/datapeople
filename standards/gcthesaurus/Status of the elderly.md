@@ -1,8 +1,8 @@
 ---
 title: Status of the elderly
-longTitle: 'Status of the elderly'
+aliases: Status of the elderly
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Condition de la personne agee]]"
+  - "[[Condition de la personne agee]]"
 ---

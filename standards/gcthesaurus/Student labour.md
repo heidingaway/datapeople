@@ -3,13 +3,11 @@ title: Student labour
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Student labour'
+  - gccommon
 broaderTerm:
-- "[[Labour]]"
+  - "[[Labour]]"
 french:
-- "[[Travail etudiant]]"
-usedFor:
-- "[[Student labor]]"
+  - "[[Travail etudiant]]"
+aliases: Student labour
 ---
 # Student labour

@@ -1,13 +1,13 @@
 ---
 title: Transportation safety
-longTitle: 'Transportation safety'
+aliases: Transportation safety
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Securite des transports]]"
+  - "[[Securite des transports]]"
 narrowerTerm:
-- "[[Air safety]]"
-- "[[Marine safety]]"
-- "[[Railway safety]]"
-- "[[Road safety]]"
+  - "[[Air safety]]"
+  - "[[Marine safety]]"
+  - "[[Railway safety]]"
+  - "[[Road safety]]"
 ---

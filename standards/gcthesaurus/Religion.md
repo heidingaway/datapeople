@@ -1,10 +1,8 @@
 ---
 title: Religion
-longTitle: 'Religion'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Religion]]"
-usedFor:
-- "[[Religious life]]"
+  - "[[Religion]]"
+aliases: Religion
 ---

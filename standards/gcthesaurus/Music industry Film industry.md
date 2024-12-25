@@ -1,8 +1,8 @@
 ---
 title: Music industry Film industry
-longTitle: 'Music industry, Film industry'
+aliases: Music industry, Film industry
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Cultural industry]]"
+  - "[[Cultural industry]]"
 ---

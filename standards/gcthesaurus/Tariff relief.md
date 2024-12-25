@@ -1,8 +1,8 @@
 ---
 title: Tariff relief
-longTitle: 'Tariff relief'
+aliases: Tariff relief
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Allegement tarifaire]]"
+  - "[[Allegement tarifaire]]"
 ---

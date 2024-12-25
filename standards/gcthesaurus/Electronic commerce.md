@@ -1,12 +1,8 @@
 ---
 title: Electronic commerce
-longTitle: 'Electronic commerce'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Commerce electronique]]"
-usedFor:
-- "[[E-business]]"
-- "[[E-commerce]]"
-- "[[Electronic business]]"
+  - "[[Commerce electronique]]"
+aliases: Electronic commerce
 ---

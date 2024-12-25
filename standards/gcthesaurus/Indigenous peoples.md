@@ -3,24 +3,20 @@ title: Indigenous peoples
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Indigenous peoples'
+  - gccommon
 french:
-- "[[Autochtones]]"
+  - "[[Autochtones]]"
 narrowerTerm:
-- "[[First Nations]]"
-- "[[Indigenous youth]]"
-- "[[Inuit]]"
-- "[[Metis]]"
+  - "[[First Nations]]"
+  - "[[Indigenous youth]]"
+  - "[[Inuit]]"
+  - "[[Metis]]"
 scopeNote:
-- "Collective name for the original peoples of Canada"
-usedFor:
-- "[[Aboriginal people]]"
-- "[[First peoples]]"
-- "[[Native peoples]]"
+  - Collective name for the original peoples of Canada
+aliases: Indigenous peoples
 relatedTerm:
-- "[[Indigenous rights]]"
-- "[[Indigenous policing]]"
-- "[[Indigenous governments]]"
+  - "[[Indigenous rights]]"
+  - "[[Indigenous policing]]"
+  - "[[Indigenous governments]]"
 ---
 # Indigenous peoples

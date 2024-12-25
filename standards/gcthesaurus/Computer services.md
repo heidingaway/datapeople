@@ -1,10 +1,10 @@
 ---
 title: Computer services
-longTitle: 'Computer services'
+aliases: Computer services
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Technical services]]"
+  - "[[Technical services]]"
 french:
-- "[[Services informatiques]]"
+  - "[[Services informatiques]]"
 ---

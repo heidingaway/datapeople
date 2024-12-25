@@ -1,10 +1,10 @@
 ---
 title: Bibliographies
-longTitle: 'Bibliographies'
+aliases: Bibliographies
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Bibliographie]]"
+  - "[[Bibliographie]]"
 narrowerTerm:
-- "[[National bibliographies]]"
+  - "[[National bibliographies]]"
 ---

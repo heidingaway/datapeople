@@ -1,10 +1,10 @@
 ---
 title: Irradiation
-longTitle: 'Irradiation'
+aliases: Irradiation
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Irradiation]]"
+  - "[[Irradiation]]"
 narrowerTerm:
-- "[[Food irradiation]]"
+  - "[[Food irradiation]]"
 ---

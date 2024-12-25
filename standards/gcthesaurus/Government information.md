@@ -3,16 +3,14 @@ title: Government information
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Government information'
+  - gccommon
 french:
-- "[[Information gouvernementale]]"
+  - "[[Information gouvernementale]]"
 relatedTerm:
-- "[[Submissions]]"
-usedFor:
-- "[[Federal information]]"
+  - "[[Submissions]]"
+aliases: Government information
 narrowerTerm:
-- "[[Open government]]"
-- "[[Information bulletin]]"
+  - "[[Open government]]"
+  - "[[Information bulletin]]"
 ---
 # Government information

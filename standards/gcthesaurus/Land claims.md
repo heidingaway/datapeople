@@ -1,12 +1,12 @@
 ---
 title: Land claims
-longTitle: 'Land claims'
+aliases: Land claims
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Claims]]"
+  - "[[Claims]]"
 french:
-- "[[Revendication territoriale]]"
+  - "[[Revendication territoriale]]"
 scopeNote:
-- "Indigenous rights proposed or established to lands"
+  - Indigenous rights proposed or established to lands
 ---

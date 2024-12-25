@@ -1,10 +1,10 @@
 ---
 title: Poxvirus diseases
-longTitle: 'Poxvirus diseases'
+aliases: Poxvirus diseases
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Maladies a poxvirus]]"
+  - "[[Maladies a poxvirus]]"
 narrowerTerm:
-- "[[Monkeypox]]"
+  - "[[Monkeypox]]"
 ---

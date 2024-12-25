@@ -1,13 +1,8 @@
 ---
 title: Animal nutrition
-longTitle: 'Animal nutrition'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Alimentation animale]]"
-usedFor:
-- "[[Animal feeding]]"
-- "[[Animal feeds]]"
-- "[[Animal food]]"
-- "[[Foods for animal]]"
+  - "[[Alimentation animale]]"
+aliases: Animal nutrition
 ---

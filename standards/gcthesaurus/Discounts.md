@@ -1,8 +1,8 @@
 ---
 title: Discounts
-longTitle: 'Discounts'
+aliases: Discounts
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Rabais]]"
+  - "[[Rabais]]"
 ---

@@ -1,16 +1,17 @@
 ---
 title: Automobiles
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Automobiles'
+  - gccommon
 french:
-- "[[Automobile]]"
+  - "[[Automobile]]"
 relatedTerm:
-- "[[Automobile industry]]"
-- "[[Automobile safety equipment]]"
-usedFor:
-- "[[Cars]]"
+  - "[[Automobile industry]]"
+  - "[[Automobile safety equipment]]"
+aliases:
+  - Automobiles
+  - Cars
+id: 900
 ---
 # Automobiles

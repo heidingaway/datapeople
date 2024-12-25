@@ -1,8 +1,8 @@
 ---
 title: Public schools
-longTitle: 'Public schools'
+aliases: Public schools
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ecole publique]]"
+  - "[[Ecole publique]]"
 ---

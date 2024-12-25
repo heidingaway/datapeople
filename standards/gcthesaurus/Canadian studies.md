@@ -1,11 +1,11 @@
 ---
 title: Canadian studies
-longTitle: 'Canadian studies'
+aliases: Canadian studies
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Etudes canadiennes]]"
+  - "[[Etudes canadiennes]]"
 relatedTerm:
-- "[[Canadian history]]"
-- "[[Canadian literature]]"
+  - "[[Canadian history]]"
+  - "[[Canadian literature]]"
 ---

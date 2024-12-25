@@ -1,8 +1,8 @@
 ---
 title: Land claims Indigenous rights
-longTitle: 'Land claims, Indigenous rights'
+aliases: Land claims, Indigenous rights
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Indigenous affairs]]"
+  - "[[Indigenous affairs]]"
 ---

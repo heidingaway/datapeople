@@ -1,8 +1,8 @@
 ---
 title: Western provinces
-longTitle: 'Western provinces'
+aliases: Western provinces
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Provinces de lOuest]]"
+  - "[[Provinces de lOuest]]"
 ---

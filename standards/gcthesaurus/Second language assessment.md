@@ -1,10 +1,8 @@
 ---
 title: Second language assessment
-longTitle: 'Second language assessment'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Evaluation de la langue seconde]]"
-usedFor:
-- "[[Second language evaluation]]"
+  - "[[Evaluation de la langue seconde]]"
+aliases: Second language assessment
 ---

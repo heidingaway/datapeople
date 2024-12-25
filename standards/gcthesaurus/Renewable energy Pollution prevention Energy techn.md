@@ -1,8 +1,8 @@
 ---
 title: Renewable energy Pollution prevention Energy techn
-longTitle: 'Renewable energy, Pollution prevention, Energy technology'
+aliases: Renewable energy, Pollution prevention, Energy technology
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Alternative energy]]"
+  - "[[Alternative energy]]"
 ---

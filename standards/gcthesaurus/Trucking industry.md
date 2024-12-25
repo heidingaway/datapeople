@@ -3,15 +3,12 @@ title: Trucking industry
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Trucking industry'
+  - gccommon
 french:
-- "[[Industrie du camionnage]]"
+  - "[[Industrie du camionnage]]"
 relatedTerm:
-- "[[Trucks]]"
-- "[[Road transport]]"
-usedFor:
-- "[[Road transport industry]]"
-- "[[Trucking]]"
+  - "[[Trucks]]"
+  - "[[Road transport]]"
+aliases: Trucking industry
 ---
 # Trucking industry

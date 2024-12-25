@@ -1,11 +1,11 @@
 ---
 title: Child safety
-longTitle: 'Child safety'
+aliases: Child safety
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Securite de lenfant]]"
-relatedTerm: 
-- "[[Childrens health]]"
-- "[[Child care]]"
+  - "[[Securite de lenfant]]"
+relatedTerm:
+  - "[[Childrens health]]"
+  - "[[Child care]]"
 ---

@@ -1,10 +1,8 @@
 ---
 title: Ice caps
-longTitle: 'Ice caps'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Calotte glaciaire]]"
-usedFor:
-- "[[Icecaps]]"
+  - "[[Calotte glaciaire]]"
+aliases: Ice caps
 ---

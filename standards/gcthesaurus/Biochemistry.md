@@ -1,11 +1,11 @@
 ---
 title: Biochemistry
-longTitle: 'Biochemistry'
+aliases: Biochemistry
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Biochimie]]"
+  - "[[Biochimie]]"
 relatedTerm:
-- "[[Biology]]"
-- "[[Biochemicals]]"
+  - "[[Biology]]"
+  - "[[Biochemicals]]"
 ---

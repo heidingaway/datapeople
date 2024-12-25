@@ -1,8 +1,8 @@
 ---
 title: Prairie ecosystems Livestock Forage crops Animal h
-longTitle: 'Prairie ecosystems, Livestock, Forage crops, Animal husbandry'
+aliases: Prairie ecosystems, Livestock, Forage crops, Animal husbandry
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Grasslands]]"
+  - "[[Grasslands]]"
 ---

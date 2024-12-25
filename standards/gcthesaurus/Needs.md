@@ -1,8 +1,8 @@
 ---
 title: Needs
-longTitle: 'Needs'
+aliases: Needs
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Besoins]]"
+  - "[[Besoins]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Nutrition Food Famine
-longTitle: 'Nutrition, Food, Famine'
+aliases: Nutrition, Food, Famine
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Hunger]]"
+  - "[[Hunger]]"
 ---

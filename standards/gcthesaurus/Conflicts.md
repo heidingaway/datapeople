@@ -3,17 +3,17 @@ title: Conflicts
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Conflicts'
+  - gccommon
+aliases: Conflicts
 french:
-- "[[Conflit]]"
+  - "[[Conflit]]"
 narrowerTerm:
-- "[[Conflicts of interest]]"
-- "[[Labour disputes]]"
+  - "[[Conflicts of interest]]"
+  - "[[Labour disputes]]"
 relatedTerm:
-- "[[Crisis]]"
-- "[[Litigation]]"
-- "[[Conflict resolution]]"
-- "[[Arbitration]]"
+  - "[[Crisis]]"
+  - "[[Litigation]]"
+  - "[[Conflict resolution]]"
+  - "[[Arbitration]]"
 ---
 # Conflicts

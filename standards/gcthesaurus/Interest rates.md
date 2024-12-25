@@ -1,8 +1,8 @@
 ---
 title: Interest rates
-longTitle: 'Interest rates'
+aliases: Interest rates
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Taux dinteret]]"
+  - "[[Taux dinteret]]"
 ---

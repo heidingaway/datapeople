@@ -1,8 +1,18 @@
 ---
 title: Multiculturalism
-longTitle: 'Multiculturalism'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Multiculturalism
 french:
-- "[[Multiculturalisme]]"
+  - "[[Multiculturalisme]]"
+relatedTerm:
+  - "[[Cultural diversity]]"
+  - "[[Cultural groups]]"
+  - "[[Cultural policy]]"
+  - "[[Culture]]"
+  - "[[Multilingualism]]"
 ---
+# Multiculturalism

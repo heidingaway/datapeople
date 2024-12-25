@@ -1,11 +1,11 @@
 ---
 title: Inspection
-longTitle: 'Inspection'
+aliases: Inspection
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Inspection]]"
+  - "[[Inspection]]"
 narrowerTerm:
-- "[[Animal inspection]]"
-- "[[Food inspection]]"
+  - "[[Animal inspection]]"
+  - "[[Food inspection]]"
 ---

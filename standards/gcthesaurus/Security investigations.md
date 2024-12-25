@@ -1,8 +1,8 @@
 ---
 title: Security investigations
-longTitle: 'Security investigations'
+aliases: Security investigations
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Enquete de securite]]"
+  - "[[Enquete de securite]]"
 ---

@@ -3,20 +3,16 @@ title: Cells
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Cells'
+  - gccommon
 french:
-- "[[Cellule]]"
+  - "[[Cellule]]"
 narrowerTerm:
-- "[[Stem cells]]"
+  - "[[Stem cells]]"
 relatedTerm:
-- "[[Tissues]]"
-- "[[Microorganisms]]"
+  - "[[Tissues]]"
+  - "[[Microorganisms]]"
 scopeNote:
-- "Basic structural units of living organisms Some mi"
-usedFor:
-- "[[Animal cells]]"
-- "[[Human cells]]"
-- "[[Plant cells]]"
+  - Basic structural units of living organisms Some mi
+aliases: Cells
 ---
 # Cells

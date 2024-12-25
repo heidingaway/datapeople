@@ -1,8 +1,8 @@
 ---
 title: Literature Genealogy
-longTitle: 'Literature, Genealogy'
+aliases: Literature, Genealogy
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Biographies]]"
+  - "[[Biographies]]"
 ---

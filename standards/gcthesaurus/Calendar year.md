@@ -3,9 +3,9 @@ title: Calendar year
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Calendar year'
+  - gccommon
+aliases: Calendar year
 french:
-- "[[Annee civile]]"
+  - "[[Annee civile]]"
 ---
 # Calendar year

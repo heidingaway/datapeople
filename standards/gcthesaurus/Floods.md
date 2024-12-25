@@ -1,10 +1,8 @@
 ---
 title: Floods
-longTitle: 'Floods'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Inondation]]"
-usedFor:
-- "[[Flooding]]"
+  - "[[Inondation]]"
+aliases: Floods
 ---

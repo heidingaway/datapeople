@@ -1,8 +1,8 @@
 ---
-title: Submissions Press releases Governments Government 
-longTitle: 'Submissions, Press releases, Governments, Government publications, Government libraries, Government communications'
+title: Submissions Press releases Governments Government
+aliases: Submissions, Press releases, Governments, Government publications, Government libraries, Government communications
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Government information]]"
+  - "[[Government information]]"
 ---

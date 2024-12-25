@@ -1,10 +1,8 @@
 ---
 title: Gross domestic product
-longTitle: 'Gross domestic product'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Produit interieur brut]]"
-usedFor:
-- "[[GDP]]"
+  - "[[Produit interieur brut]]"
+aliases: Gross domestic product
 ---

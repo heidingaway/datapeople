@@ -1,8 +1,8 @@
 ---
 title: Recreational facilities Botany
-longTitle: 'Recreational facilities, Botany'
+aliases: Recreational facilities, Botany
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Botanical gardens]]"
+  - "[[Botanical gardens]]"
 ---

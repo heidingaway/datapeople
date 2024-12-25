@@ -1,8 +1,8 @@
 ---
 title: Annual reports
-longTitle: 'Annual reports'
+aliases: Annual reports
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Rapport annuel]]"
+  - "[[Rapport annuel]]"
 ---

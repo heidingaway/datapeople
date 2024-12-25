@@ -1,8 +1,8 @@
 ---
 title: Fuel supply Energy
-longTitle: 'Fuel supply, Energy'
+aliases: Fuel supply, Energy
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Fuels]]"
+  - "[[Fuels]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Snow Ice Glaciers
-longTitle: 'Snow, Ice, Glaciers'
+aliases: Snow, Ice, Glaciers
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Ice caps]]"
+  - "[[Ice caps]]"
 ---

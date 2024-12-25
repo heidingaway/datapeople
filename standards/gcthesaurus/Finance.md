@@ -3,19 +3,19 @@ title: Finance
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Finance'
+  - gccommon
+aliases: Finance
 french:
-- "[[Finances]]"
+  - "[[Finances]]"
 narrowerTerm:
-- "[[Household finance]]"
-- "[[International finance]]"
-- "[[Personal finance]]"
-- "[[Public finance]]"
+  - "[[Household finance]]"
+  - "[[International finance]]"
+  - "[[Personal finance]]"
+  - "[[Public finance]]"
 relatedTerm:
-- "[[Accounting standards]]"
-- "[[Financial crisis]]"
-- "[[Chief Financial Officer]]"
-- "[[Financial services]]"
+  - "[[Accounting standards]]"
+  - "[[Financial crisis]]"
+  - "[[Chief Financial Officer]]"
+  - "[[Financial services]]"
 ---
 # Finance

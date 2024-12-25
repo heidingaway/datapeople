@@ -1,10 +1,10 @@
 ---
 title: Shipbuilding
-longTitle: 'Shipbuilding'
+aliases: Shipbuilding
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Construction navale]]"
+  - "[[Construction navale]]"
 scopeNote:
-- "The art or business of designing and constructing "
+  - "The art or business of designing and constructing "
 ---

@@ -1,11 +1,11 @@
 ---
 title: Child development
-longTitle: 'Child development'
+aliases: Child development
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Developpement de lenfant]]"
+  - "[[Developpement de lenfant]]"
 relatedTerm:
-- "[[Childrens health]]"
-- "[[Children]]"
+  - "[[Childrens health]]"
+  - "[[Children]]"
 ---

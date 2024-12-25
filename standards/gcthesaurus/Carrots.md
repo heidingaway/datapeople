@@ -1,8 +1,8 @@
 ---
 title: Carrots
-longTitle: 'Carrots'
+aliases: Carrots
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Carotte]]"
+  - "[[Carotte]]"
 ---

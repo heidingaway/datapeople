@@ -1,8 +1,8 @@
 ---
 title: Recourse Court decisions Complaints
-longTitle: 'Recourse, Court decisions, Complaints'
+aliases: Recourse, Court decisions, Complaints
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Appeals]]"
+  - "[[Appeals]]"
 ---

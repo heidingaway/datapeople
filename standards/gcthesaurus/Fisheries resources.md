@@ -3,16 +3,13 @@ title: Fisheries resources
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Fisheries resources'
+  - gccommon
 french:
-- "[[Ressources halieutiques]]"
-usedFor:
-- "[[Fishery resources]]"
-- "[[Fishing resources]]"
-relatedTerm: 
-- "[[Marine equipment]]"
-- "[[Fishing ships]]"
-- "[[Fisheries]]"
+  - "[[Ressources halieutiques]]"
+aliases: Fisheries resources
+relatedTerm:
+  - "[[Marine equipment]]"
+  - "[[Fishing ships]]"
+  - "[[Fisheries]]"
 ---
 # Fisheries resources

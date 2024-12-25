@@ -1,8 +1,8 @@
 ---
 title: Military aircraft Helicopters Civilian aircraft Ai
-longTitle: 'Military aircraft, Helicopters, Civilian aircraft, Airplanes'
+aliases: Military aircraft, Helicopters, Civilian aircraft, Airplanes
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Aircraft]]"
+  - "[[Aircraft]]"
 ---

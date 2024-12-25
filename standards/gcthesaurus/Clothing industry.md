@@ -1,16 +1,12 @@
 ---
 title: Clothing industry
-longTitle: 'Clothing industry'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie du vetement]]"
+  - "[[Industrie du vetement]]"
 relatedTerm:
-- "[[Shoe industry]]"
+  - "[[Shoe industry]]"
 scopeNote:
-- "An economic activity dedicated to the design const"
-usedFor:
-- "[[Apparel industry]]"
-- "[[Fashion industry]]"
-- "[[Garment industry]]"
+  - An economic activity dedicated to the design const
+aliases: Clothing industry
 ---

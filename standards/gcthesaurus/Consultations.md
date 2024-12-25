@@ -1,8 +1,8 @@
 ---
 title: Consultations
-longTitle: 'Consultations'
+aliases: Consultations
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Consultation]]"
+  - "[[Consultation]]"
 ---

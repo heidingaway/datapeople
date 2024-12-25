@@ -1,10 +1,10 @@
 ---
 title: Financial services
-longTitle: 'Financial services'
+aliases: Financial services
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Services financiers]]"
+  - "[[Services financiers]]"
 scopeNote:
-- "Support in the areas of financial management accou"
+  - Support in the areas of financial management accou
 ---

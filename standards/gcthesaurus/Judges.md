@@ -3,14 +3,14 @@ title: Judges
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Judges'
+  - gccommon
+aliases: Judges
 french:
-- "[[Juge]]"
+  - "[[Juge]]"
 scopeNote:
-- "Public officials authorized to decide questions br"
+  - Public officials authorized to decide questions br
 relatedTerm:
-- "[[Justice system]]"
-- "[[Judicial appointments]]"
+  - "[[Justice system]]"
+  - "[[Judicial appointments]]"
 ---
 # Judges

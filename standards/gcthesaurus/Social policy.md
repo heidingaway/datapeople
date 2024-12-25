@@ -3,14 +3,12 @@ title: Social policy
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Social policy'
+  - gccommon
 french:
-- "[[Politique sociale]]"
-usedFor:
-- "[[Welfare state]]"
+  - "[[Politique sociale]]"
+aliases: Social policy
 relatedTerm:
-- "[[Social security]]"
-- "[[Social issues]]"
+  - "[[Social security]]"
+  - "[[Social issues]]"
 ---
 # Social policy

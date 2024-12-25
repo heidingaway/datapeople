@@ -1,10 +1,10 @@
 ---
 title: National parks
-longTitle: 'National parks'
+aliases: National parks
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Parc national]]"
+  - "[[Parc national]]"
 relatedTerm:
-- "[[National heritage]]"
+  - "[[National heritage]]"
 ---

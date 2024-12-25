@@ -1,8 +1,8 @@
 ---
 title: Performance indicators
-longTitle: 'Performance indicators'
+aliases: Performance indicators
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Indicateur de performance]]"
+  - "[[Indicateur de performance]]"
 ---

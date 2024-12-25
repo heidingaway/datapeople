@@ -1,8 +1,8 @@
 ---
 title: Student loans Sponsorship Scholarships Grants Fisc
-longTitle: 'Student loans, Sponsorship, Scholarships, Grants, Fiscal assistance'
+aliases: Student loans, Sponsorship, Scholarships, Grants, Fiscal assistance
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Financial assistance]]"
+  - "[[Financial assistance]]"
 ---

@@ -1,12 +1,8 @@
 ---
 title: Salt water
-longTitle: 'Salt water'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Eau salee]]"
-usedFor:
-- "[[Saline water]]"
-- "[[Saltwater]]"
-- "[[Sea water]]"
+  - "[[Eau salee]]"
+aliases: Salt water
 ---

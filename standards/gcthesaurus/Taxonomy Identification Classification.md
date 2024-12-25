@@ -1,8 +1,8 @@
 ---
 title: Taxonomy Identification Classification
-longTitle: 'Taxonomy, Identification, Classification'
+aliases: Taxonomy, Identification, Classification
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Coding]]"
+  - "[[Coding]]"
 ---

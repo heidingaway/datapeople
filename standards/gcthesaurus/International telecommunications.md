@@ -1,8 +1,8 @@
 ---
 title: International telecommunications
-longTitle: 'International telecommunications'
+aliases: International telecommunications
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Telecommunications internationales]]"
+  - "[[Telecommunications internationales]]"
 ---

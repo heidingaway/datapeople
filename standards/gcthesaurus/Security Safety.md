@@ -1,8 +1,8 @@
 ---
 title: Security Safety
-longTitle: 'Security, Safety'
+aliases: Security, Safety
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Securite]]"
+  - "[[Securite]]"
 ---

@@ -1,10 +1,8 @@
 ---
 title: Costs
-longTitle: 'Costs'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Cout]]"
-usedFor:
-- "[[Charges]]"
+  - "[[Cout]]"
+aliases: Costs
 ---

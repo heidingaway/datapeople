@@ -1,17 +1,11 @@
 ---
 title: Fish farming
-longTitle: 'Fish farming'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Aquaculture]]"
-- "[[Animal husbandry]]"
+  - "[[Aquaculture]]"
+  - "[[Animal husbandry]]"
 french:
-- "[[Pisciculture]]"
-usedFor:
-- "[[Fish aquaculture]]"
-- "[[Fish culture]]"
-- "[[Fish husbandry]]"
-- "[[Fish rearing]]"
-- "[[Pisciculture]]"
+  - "[[Pisciculture]]"
+aliases: Fish farming
 ---

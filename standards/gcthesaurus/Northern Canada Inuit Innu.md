@@ -1,8 +1,8 @@
 ---
 title: Northern Canada Inuit Innu
-longTitle: 'Northern Canada, Inuit, Innu'
+aliases: Northern Canada, Inuit, Innu
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Northerners]]"
+  - "[[Northerners]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Propane Petroleum Natural gas Gasoline Diesel fuel
-longTitle: 'Propane, Petroleum, Natural gas, Gasoline, Diesel fuel, Coal, Alternative fuels'
+aliases: Propane, Petroleum, Natural gas, Gasoline, Diesel fuel, Coal, Alternative fuels
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Fuels]]"
+  - "[[Fuels]]"
 ---

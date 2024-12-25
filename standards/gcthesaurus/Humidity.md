@@ -3,16 +3,11 @@ title: Humidity
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Humidity'
+  - gccommon
 french:
-- "[[Humidite]]"
+  - "[[Humidite]]"
 scopeNote:
-- "Refers to the amount of water vapor in the atmosph"
-usedFor:
-- "[[Air humidity]]"
-- "[[Atmospheric humidity]]"
-- "[[Atmospheric moisture]]"
-- "[[Relative humidity]]"
+  - Refers to the amount of water vapor in the atmosph
+aliases: Humidity
 ---
 # Humidity

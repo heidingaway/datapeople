@@ -1,8 +1,8 @@
 ---
 title: Exchange programs
-longTitle: 'Exchange programs'
+aliases: Exchange programs
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Programme dechanges]]"
+  - "[[Programme dechanges]]"
 ---

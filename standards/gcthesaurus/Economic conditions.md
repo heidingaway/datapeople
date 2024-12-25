@@ -3,22 +3,20 @@ title: Economic conditions
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Economic conditions'
+  - gccommon
 french:
-- "[[Conditions economiques]]"
-usedFor:
-- "[[Economic situation]]"
+  - "[[Conditions economiques]]"
+aliases: Economic conditions
 relatedTerm:
-- "[[Standard of living]]"
-- "[[Social conditions]]"
-- "[[Poverty]]"
-- "[[Inflation]]"
-- "[[Income]]"
-- "[[Economy]]"
-- "[[Economic trends]]"
-- "[[Economic indicators]]"
-- "[[Economic forecasting]]"
-- "[[Economic analysis]]"
+  - "[[Standard of living]]"
+  - "[[Social conditions]]"
+  - "[[Poverty]]"
+  - "[[Inflation]]"
+  - "[[Income]]"
+  - "[[Economy]]"
+  - "[[Economic trends]]"
+  - "[[Economic indicators]]"
+  - "[[Economic forecasting]]"
+  - "[[Economic analysis]]"
 ---
 # Economic conditions

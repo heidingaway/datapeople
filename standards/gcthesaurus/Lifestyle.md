@@ -1,10 +1,8 @@
 ---
 title: Lifestyle
-longTitle: 'Lifestyle'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Mode de vie]]"
-usedFor:
-- "[[Living arrangement]]"
+  - "[[Mode de vie]]"
+aliases: Lifestyle
 ---

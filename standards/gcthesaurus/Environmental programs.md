@@ -1,11 +1,11 @@
 ---
 title: Environmental programs
-longTitle: 'Environmental programs'
+aliases: Environmental programs
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Programme relatif a lenvironnement]]"
+  - "[[Programme relatif a lenvironnement]]"
 relatedTerm:
-- "[[Environmental policy]]"
-- "[[Environment]]"
+  - "[[Environmental policy]]"
+  - "[[Environment]]"
 ---

@@ -3,14 +3,11 @@ title: Theatre
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Theatre'
+  - gccommon
 french:
-- "[[Theatre]]"
+  - "[[Theatre]]"
 historyNote:
-- "Theatre replaces both Drama and Theatres as a sing"
-usedFor:
-- "[[Drama]]"
-- "[[Plays]]"
+  - Theatre replaces both Drama and Theatres as a sing
+aliases: Theatre
 ---
 # Theatre

@@ -1,12 +1,15 @@
 ---
 title: Trade relations
-longTitle: 'Trade relations'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Relations commerciales]]"
+  - "[[Relations commerciales]]"
 relatedTerm:
-- "[[Trade missions]]"
-usedFor:
-- "[[Economic relations]]"
+  - "[[Trade agreements]]"
+  - "[[Trade missions]]"
+  - "[[Trade negotiations]]"
+aliases: Trade relations
 ---
+# Trade relations

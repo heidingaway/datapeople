@@ -1,8 +1,8 @@
 ---
 title: Olympic games
-longTitle: 'Olympic games'
+aliases: Olympic games
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Jeux olympiques]]"
+  - "[[Jeux olympiques]]"
 ---

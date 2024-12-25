@@ -1,21 +1,17 @@
 ---
 title: Training
-longTitle: 'Training'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Formation]]"
+  - "[[Formation]]"
 narrowerTerm:
-- "[[Labour union training]]"
-- "[[Language training]]"
-- "[[Military training]]"
-- "[[Retraining]]"
-- "[[Vocational training]]"
+  - "[[Labour union training]]"
+  - "[[Language training]]"
+  - "[[Military training]]"
+  - "[[Retraining]]"
+  - "[[Vocational training]]"
 relatedTerm:
-- "[[Training centres]]"
-- "[[User education]]"
-usedFor:
-- "[[Training policy]]"
-- "[[Training programs]]"
-- "[[Training workshops]]"
+  - "[[Training centres]]"
+  - "[[User education]]"
+aliases: Training
 ---

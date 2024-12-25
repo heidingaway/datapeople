@@ -1,8 +1,8 @@
 ---
 title: Management tool
-longTitle: 'Management tool'
+aliases: Management tool
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Outil de gestion]]"
+  - "[[Outil de gestion]]"
 ---

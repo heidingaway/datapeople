@@ -1,8 +1,8 @@
 ---
 title: Juvenile court International courts
-longTitle: 'Juvenile court, International courts'
+aliases: Juvenile court, International courts
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Courts]]"
+  - "[[Courts]]"
 ---

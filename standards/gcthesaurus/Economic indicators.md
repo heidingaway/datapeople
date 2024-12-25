@@ -1,8 +1,8 @@
 ---
 title: Economic indicators
-longTitle: 'Economic indicators'
+aliases: Economic indicators
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Indicateur economique]]"
+  - "[[Indicateur economique]]"
 ---

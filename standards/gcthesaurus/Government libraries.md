@@ -1,10 +1,10 @@
 ---
 title: Government libraries
-longTitle: 'Government libraries'
+aliases: Government libraries
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Bibliotheque gouvernementale]]"
+  - "[[Bibliotheque gouvernementale]]"
 relatedTerm:
-- "[[Special libraries]]"
+  - "[[Special libraries]]"
 ---

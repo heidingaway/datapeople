@@ -1,8 +1,8 @@
 ---
 title: Science policy
-longTitle: 'Science policy'
+aliases: Science policy
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Politique scientifique]]"
+  - "[[Politique scientifique]]"
 ---

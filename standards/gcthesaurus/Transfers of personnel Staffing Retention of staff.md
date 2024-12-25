@@ -1,8 +1,8 @@
 ---
 title: Transfers of personnel Staffing Retention of staff
-longTitle: 'Transfers of personnel, Staffing, Retention of staff, Recruiting'
+aliases: Transfers of personnel, Staffing, Retention of staff, Recruiting
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Personnel management]]"
+  - "[[Personnel management]]"
 ---

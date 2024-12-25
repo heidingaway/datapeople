@@ -1,8 +1,8 @@
 ---
 title: Transformation Operations
-longTitle: 'Transformation, Operations'
+aliases: Transformation, Operations
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Processing]]"
+  - "[[Processing]]"
 ---

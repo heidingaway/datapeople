@@ -1,8 +1,8 @@
 ---
 title: Salaries Employment equity
-longTitle: 'Salaries, Employment equity'
+aliases: Salaries, Employment equity
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Pay equity]]"
+  - "[[Pay equity]]"
 ---

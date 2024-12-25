@@ -1,11 +1,11 @@
 ---
 title: Decorative arts
-longTitle: 'Decorative arts'
+aliases: Decorative arts
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Arts decoratifs]]"
+  - "[[Arts decoratifs]]"
 narrowerTerm:
-- "[[Ceramics]]"
-- "[[Pottery]]"
+  - "[[Ceramics]]"
+  - "[[Pottery]]"
 ---

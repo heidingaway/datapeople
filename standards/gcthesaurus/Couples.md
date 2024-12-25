@@ -1,10 +1,10 @@
 ---
 title: Couples
-longTitle: 'Couples'
+aliases: Couples
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Couple]]"
+  - "[[Couple]]"
 narrowerTerm:
-- "[[Same-sex couples]]"
+  - "[[Same-sex couples]]"
 ---

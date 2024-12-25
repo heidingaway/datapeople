@@ -1,12 +1,12 @@
 ---
 title: Expenditures
-longTitle: 'Expenditures'
+aliases: Expenditures
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Disbursements]]"
+  - "[[Disbursements]]"
 french:
-- "[[Depenses]]"
+  - "[[Depenses]]"
 narrowerTerm:
-- "[[Public expenditures]]"
+  - "[[Public expenditures]]"
 ---

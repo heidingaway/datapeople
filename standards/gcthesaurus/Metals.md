@@ -1,12 +1,12 @@
 ---
 title: Metals
-longTitle: 'Metals'
+aliases: Metals
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Metal]]"
+  - "[[Metal]]"
 narrowerTerm:
-- "[[Lead]]"
-- "[[Mercury]]"
-- "[[Precious metals]]"
+  - "[[Lead]]"
+  - "[[Mercury]]"
+  - "[[Precious metals]]"
 ---

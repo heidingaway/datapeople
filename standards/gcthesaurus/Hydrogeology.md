@@ -1,10 +1,8 @@
 ---
 title: Hydrogeology
-longTitle: 'Hydrogeology'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Hydrogeologie]]"
-usedFor:
-- "[[Geohydrology]]"
+  - "[[Hydrogeologie]]"
+aliases: Hydrogeology
 ---

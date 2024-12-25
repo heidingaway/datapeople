@@ -1,17 +1,16 @@
 ---
 title: Employment equity
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Employment equity'
+  - gccommon
 french:
-- "[[Equite en matiere demploi]]"
-usedFor:
-- "[[Equality in employment]]"
+  - Equite en matiere demploi
+aliases:
+  - Equality in employment
 relatedTerm:
-- "[[Pay equity]]"
-- "[[Employment opportunities]]"
-- "[[Affirmative action]]"
+  - "[[Affirmative action]]"
+  - "[[Employment opportunities]]"
+  - "[[Pay equity]]"
 ---
 # Employment equity

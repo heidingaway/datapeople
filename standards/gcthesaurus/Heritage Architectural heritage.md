@@ -1,8 +1,8 @@
 ---
 title: Heritage Architectural heritage
-longTitle: 'Heritage, Architectural heritage'
+aliases: Heritage, Architectural heritage
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Heritage buildings]]"
+  - "[[Heritage buildings]]"
 ---

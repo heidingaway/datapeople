@@ -1,10 +1,8 @@
 ---
 title: Painting
-longTitle: 'Painting'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Peinture]]"
-usedFor:
-- "[[Oil painting]]"
+  - "[[Peinture]]"
+aliases: Painting
 ---

@@ -1,10 +1,10 @@
 ---
 title: Reference services
-longTitle: 'Reference services'
+aliases: Reference services
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Service de reference]]"
+  - "[[Service de reference]]"
 scopeNote:
-- "The processes of conducting an appropriate referen"
+  - The processes of conducting an appropriate referen
 ---

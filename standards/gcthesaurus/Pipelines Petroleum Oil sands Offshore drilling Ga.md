@@ -1,8 +1,8 @@
 ---
 title: Pipelines Petroleum Oil sands Offshore drilling Ga
-longTitle: 'Pipelines, Petroleum, Oil sands, Offshore drilling, Gasoline'
+aliases: Pipelines, Petroleum, Oil sands, Offshore drilling, Gasoline
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Petroleum industry]]"
+  - "[[Petroleum industry]]"
 ---

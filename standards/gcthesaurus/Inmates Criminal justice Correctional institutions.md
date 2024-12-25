@@ -1,8 +1,8 @@
 ---
 title: Inmates Criminal justice Correctional institutions
-longTitle: 'Inmates, Criminal justice, Correctional institutions'
+aliases: Inmates, Criminal justice, Correctional institutions
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Imprisonment]]"
+  - "[[Imprisonment]]"
 ---

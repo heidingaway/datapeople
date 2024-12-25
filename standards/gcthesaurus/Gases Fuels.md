@@ -1,9 +1,9 @@
 ---
 title: Gases Fuels
-longTitle: 'Gases, Fuels'
+aliases: Gases, Fuels
 tags:
-- gccommon
+  - gccommon
 narrowerTerm:
-- "[[Natural gas]]"
-- "[[Propane]]"
+  - "[[Natural gas]]"
+  - "[[Propane]]"
 ---

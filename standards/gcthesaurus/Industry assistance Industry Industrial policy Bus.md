@@ -1,8 +1,8 @@
 ---
 title: Industry assistance Industry Industrial policy Bus
-longTitle: 'Industry assistance, Industry, Industrial policy, Business development'
+aliases: Industry assistance, Industry, Industrial policy, Business development
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Industrial development]]"
+  - "[[Industrial development]]"
 ---

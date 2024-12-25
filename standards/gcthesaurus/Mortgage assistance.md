@@ -3,9 +3,9 @@ title: Mortgage assistance
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Mortgage assistance'
+  - gccommon
+aliases: Mortgage assistance
 french:
-- "[[Aide hypothecaire]]"
+  - "[[Aide hypothecaire]]"
 ---
 # Mortgage assistance

@@ -3,16 +3,12 @@ title: Micrographics
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Micrographics'
+  - gccommon
 french:
-- "[[Micrographie]]"
-usedFor:
-- "[[Microfiches]]"
-- "[[Microfilms]]"
-- "[[Microforms]]"
+  - "[[Micrographie]]"
+aliases: Micrographics
 relatedTerm:
-- "[[Reprography]]"
-- "[[Printing]]"
+  - "[[Reprography]]"
+  - "[[Printing]]"
 ---
 # Micrographics

@@ -1,10 +1,10 @@
 ---
 title: Lease
-longTitle: 'Lease'
+aliases: Lease
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Bail]]"
+  - "[[Bail]]"
 relatedTerm:
-- "[[Leasing]]"
+  - "[[Leasing]]"
 ---

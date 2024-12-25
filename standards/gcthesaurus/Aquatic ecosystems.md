@@ -3,15 +3,12 @@ title: Aquatic ecosystems
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Aquatic ecosystems'
+  - gccommon
 french:
-- "[[Ecosysteme aquatique]]"
-usedFor:
-- "[[Freshwater ecosystems]]"
-- "[[Marine ecosystems]]"
+  - "[[Ecosysteme aquatique]]"
+aliases: Aquatic ecosystems
 relatedTerm:
-- "[[Aquatic wildlife]]"
-- "[[Aquatic plants]]"
+  - "[[Aquatic wildlife]]"
+  - "[[Aquatic plants]]"
 ---
 # Aquatic ecosystems

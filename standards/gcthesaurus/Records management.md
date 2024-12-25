@@ -1,11 +1,11 @@
 ---
 title: Records management
-longTitle: 'Records management'
+aliases: Records management
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gestion des documents]]"
+  - "[[Gestion des documents]]"
 narrowerTerm:
-- "[[Records disposal]]"
-- "[[Records retention]]"
+  - "[[Records disposal]]"
+  - "[[Records retention]]"
 ---

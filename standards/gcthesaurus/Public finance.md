@@ -3,20 +3,18 @@ title: Public finance
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Public finance'
+  - gccommon
 french:
-- "[[Finances publiques]]"
-usedFor:
-- "[[Government finance]]"
+  - "[[Finances publiques]]"
+aliases: Public finance
 relatedTerm:
-- "[[Transfer payments]]"
-- "[[Recipients]]"
-- "[[Quarterly financial reports]]"
-- "[[Public accounts]]"
-- "[[National income]]"
-- "[[National debt]]"
-- "[[Debt redemption]]"
-- "[[Debt management]]"
+  - "[[Transfer payments]]"
+  - "[[Recipients]]"
+  - "[[Quarterly financial reports]]"
+  - "[[Public accounts]]"
+  - "[[National income]]"
+  - "[[National debt]]"
+  - "[[Debt redemption]]"
+  - "[[Debt management]]"
 ---
 # Public finance

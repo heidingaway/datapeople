@@ -1,8 +1,8 @@
 ---
 title: Social issues Social history
-longTitle: 'Social issues, Social history'
+aliases: Social issues, Social history
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Sociology]]"
+  - "[[Sociology]]"
 ---

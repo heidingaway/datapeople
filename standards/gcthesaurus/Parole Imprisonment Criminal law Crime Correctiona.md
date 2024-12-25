@@ -1,8 +1,8 @@
 ---
 title: Parole Imprisonment Criminal law Crime Correctiona
-longTitle: 'Parole, Imprisonment, Criminal law, Crime, Correctional institutions'
+aliases: Parole, Imprisonment, Criminal law, Crime, Correctional institutions
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Criminal justice]]"
+  - "[[Criminal justice]]"
 ---

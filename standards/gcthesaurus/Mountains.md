@@ -1,8 +1,8 @@
 ---
 title: Mountains
-longTitle: 'Mountains'
+aliases: Mountains
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Montagne]]"
+  - "[[Montagne]]"
 ---

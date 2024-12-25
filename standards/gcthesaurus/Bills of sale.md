@@ -1,8 +1,8 @@
 ---
 title: Bills of sale
-longTitle: 'Bills of sale'
+aliases: Bills of sale
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Acte de vente]]"
+  - "[[Acte de vente]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Molluscs Aquatic wildlife Aquariums Aquaculture Am
-longTitle: 'Molluscs, Aquatic wildlife, Aquariums, Aquaculture, Amphibians'
+aliases: Molluscs, Aquatic wildlife, Aquariums, Aquaculture, Amphibians
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Aquatic animals]]"
+  - "[[Aquatic animals]]"
 ---

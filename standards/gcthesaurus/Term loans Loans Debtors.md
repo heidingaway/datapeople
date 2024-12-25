@@ -1,8 +1,8 @@
 ---
 title: Term loans Loans Debtors
-longTitle: 'Term loans, Loans, Debtors'
+aliases: Term loans, Loans, Debtors
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Borrowers]]"
+  - "[[Borrowers]]"
 ---

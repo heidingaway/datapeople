@@ -1,8 +1,8 @@
 ---
 title: Real property services
-longTitle: 'Real property services'
+aliases: Real property services
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Services immobiliers]]"
+  - "[[Services immobiliers]]"
 ---

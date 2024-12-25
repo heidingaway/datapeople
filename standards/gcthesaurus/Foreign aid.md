@@ -1,14 +1,12 @@
 ---
 title: Foreign aid
-longTitle: 'Foreign aid'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[International cooperation]]"
+  - "[[International cooperation]]"
 french:
-- "[[Aide a letranger]]"
+  - "[[Aide a letranger]]"
 scopeNote:
-- "International aid from the perspective of the dono"
-usedFor:
-- "[[Foreign assistance]]"
+  - International aid from the perspective of the dono
+aliases: Foreign aid
 ---

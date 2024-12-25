@@ -1,8 +1,8 @@
 ---
 title: Greenhouse gases Global warming Environmental impa
-longTitle: 'Greenhouse gases, Global warming, Environmental impact, Air temperature'
+aliases: Greenhouse gases, Global warming, Environmental impact, Air temperature
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Greenhouse effect]]"
+  - "[[Greenhouse effect]]"
 ---

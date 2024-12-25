@@ -3,11 +3,9 @@ title: English second language
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'English second language'
+  - gccommon
 french:
-- "[[Anglais langue seconde]]"
-usedFor:
-- "[[ESL]]"
+  - "[[Anglais langue seconde]]"
+aliases: English second language
 ---
 # English second language

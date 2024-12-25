@@ -1,8 +1,8 @@
 ---
 title: Journalism
-longTitle: 'Journalism'
+aliases: Journalism
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Journalisme]]"
+  - "[[Journalisme]]"
 ---

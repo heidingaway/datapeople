@@ -1,12 +1,10 @@
 ---
 title: Decentralization
-longTitle: 'Decentralization'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Decentralisation]]"
+  - "[[Decentralisation]]"
 relatedTerm:
-- "[[Centralization]]"
-usedFor:
-- "[[Regionalisation]]"
+  - "[[Centralization]]"
+aliases: Decentralization
 ---

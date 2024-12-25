@@ -1,8 +1,8 @@
 ---
 title: Trademarks Businesses
-longTitle: 'Trademarks, Businesses'
+aliases: Trademarks, Businesses
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Business names]]"
+  - "[[Business names]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Hunger
-longTitle: 'Hunger'
+aliases: Hunger
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Faim]]"
+  - "[[Faim]]"
 ---

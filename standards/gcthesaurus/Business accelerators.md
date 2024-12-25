@@ -1,8 +1,8 @@
 ---
 title: Business accelerators
-longTitle: 'Business accelerators'
+aliases: Business accelerators
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Accelerateur dentreprise]]"
+  - "[[Accelerateur dentreprise]]"
 ---

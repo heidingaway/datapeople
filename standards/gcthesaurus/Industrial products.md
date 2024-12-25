@@ -1,13 +1,8 @@
 ---
 title: Industrial products
-longTitle: 'Industrial products'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Produit industriel]]"
-usedFor:
-- "[[Industrial goods]]"
-- "[[Industrial production]]"
-- "[[Manufactured goods]]"
-- "[[Manufactured products]]"
+  - "[[Produit industriel]]"
+aliases: Industrial products
 ---

@@ -3,13 +3,11 @@ title: Soil taxonomy
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Soil taxonomy'
+  - gccommon
 broaderTerm:
-- "[[Taxonomy]]"
+  - "[[Taxonomy]]"
 french:
-- "[[Classification des sols]]"
-usedFor:
-- "[[Soil classification]]"
+  - "[[Classification des sols]]"
+aliases: Soil taxonomy
 ---
 # Soil taxonomy

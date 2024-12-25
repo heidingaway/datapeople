@@ -1,13 +1,13 @@
 ---
 title: Polar regions
-longTitle: 'Polar regions'
+aliases: Polar regions
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Regions]]"
+  - "[[Regions]]"
 french:
-- "[[Region polaire]]"
+  - "[[Region polaire]]"
 narrowerTerm:
-- "[[Antarctic]]"
-- "[[Arctic]]"
+  - "[[Antarctic]]"
+  - "[[Arctic]]"
 ---

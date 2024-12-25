@@ -1,13 +1,11 @@
 ---
 title: Uses
-longTitle: 'Uses'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Utilisation]]"
+  - "[[Utilisation]]"
 narrowerTerm:
-- "[[Energy use]]"
-- "[[Water use]]"
-usedFor:
-- "[[Utilization]]"
+  - "[[Energy use]]"
+  - "[[Water use]]"
+aliases: Uses
 ---

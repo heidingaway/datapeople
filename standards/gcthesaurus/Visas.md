@@ -1,8 +1,8 @@
 ---
 title: Visas
-longTitle: 'Visas'
+aliases: Visas
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Visa]]"
+  - "[[Visa]]"
 ---

@@ -3,17 +3,12 @@ title: Nuclear technology
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Nuclear technology'
+  - gccommon
 french:
-- "[[Technologie nucleaire]]"
-usedFor:
-- "[[Nuclear engineering]]"
-- "[[Nuclear equipment]]"
-- "[[Nuclear reactors]]"
-- "[[Particle accelerators]]"
+  - "[[Technologie nucleaire]]"
+aliases: Nuclear technology
 relatedTerm:
-- "[[Nuclear facilities]]"
-- "[[Nuclear energy]]"
+  - "[[Nuclear facilities]]"
+  - "[[Nuclear energy]]"
 ---
 # Nuclear technology

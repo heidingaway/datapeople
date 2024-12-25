@@ -1,8 +1,8 @@
 ---
 title: Newspapers Newsletters
-longTitle: 'Newspapers, Newsletters'
+aliases: Newspapers, Newsletters
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Periodicals]]"
+  - "[[Periodicals]]"
 ---

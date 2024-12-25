@@ -1,8 +1,8 @@
 ---
 title: Popular culture Folk art Customs
-longTitle: 'Popular culture, Folk art, Customs'
+aliases: Popular culture, Folk art, Customs
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Folklore]]"
+  - "[[Folklore]]"
 ---

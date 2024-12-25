@@ -1,8 +1,8 @@
 ---
 title: Quality of service Marketplace services
-longTitle: 'Quality of service, Marketplace services'
+aliases: Quality of service, Marketplace services
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Service industry]]"
+  - "[[Service industry]]"
 ---

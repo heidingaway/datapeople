@@ -3,17 +3,14 @@ title: Humanitarian aid
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Humanitarian aid'
+  - gccommon
 french:
-- "[[Aide humanitaire]]"
-usedFor:
-- "[[Humanitarian assistance]]"
-- "[[Humanitarian relief]]"
+  - "[[Aide humanitaire]]"
+aliases: Humanitarian aid
 narrowerTerm:
-- "[[Disaster relief]]"
+  - "[[Disaster relief]]"
 relatedTerm:
-- "[[International cooperation]]"
-- "[[Humanitarian crisis]]"
+  - "[[International cooperation]]"
+  - "[[Humanitarian crisis]]"
 ---
 # Humanitarian aid

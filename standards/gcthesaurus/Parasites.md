@@ -3,9 +3,9 @@ title: Parasites
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Parasites'
+  - gccommon
+aliases: Parasites
 french:
-- "[[Parasite]]"
+  - "[[Parasite]]"
 ---
 # Parasites

@@ -1,8 +1,8 @@
 ---
 title: Organic foods
-longTitle: 'Organic foods'
+aliases: Organic foods
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Aliment biologique]]"
+  - "[[Aliment biologique]]"
 ---

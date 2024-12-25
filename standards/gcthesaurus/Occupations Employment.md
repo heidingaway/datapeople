@@ -1,8 +1,8 @@
 ---
 title: Occupations Employment
-longTitle: 'Occupations, Employment'
+aliases: Occupations, Employment
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Job classification]]"
+  - "[[Job classification]]"
 ---

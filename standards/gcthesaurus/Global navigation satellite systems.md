@@ -3,20 +3,16 @@ title: Global navigation satellite systems
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Global navigation satellite systems'
+  - gccommon
 broaderTerm:
-- "[[Navigation systems]]"
+  - "[[Navigation systems]]"
 french:
-- "[[Systeme mondial de navigation par satellite]]"
+  - "[[Systeme mondial de navigation par satellite]]"
 narrowerTerm:
-- "[[Global positioning systems]]"
-usedFor:
-- "[[GNSS]]"
-- "[[Mobile geographic information systems]]"
-- "[[Satellite navigation]]"
+  - "[[Global positioning systems]]"
+aliases: Global navigation satellite systems
 relatedTerm:
-- "[[Satellites]]"
-- "[[Geography]]"
+  - "[[Satellites]]"
+  - "[[Geography]]"
 ---
 # Global navigation satellite systems

@@ -1,8 +1,8 @@
 ---
 title: Sector analysis
-longTitle: 'Sector analysis'
+aliases: Sector analysis
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Analyse sectorielle]]"
+  - "[[Analyse sectorielle]]"
 ---

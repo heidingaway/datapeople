@@ -3,18 +3,16 @@ title: Press releases
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Press releases'
+  - gccommon
 french:
-- "[[Communique de presse]]"
-usedFor:
-- "[[Communiques]]"
+  - "[[Communique de presse]]"
+aliases: Press releases
 relatedTerm:
-- "[[Public relations]]"
-- "[[Media]]"
-- "[[Information dissemination]]"
-- "[[Government publications]]"
-- "[[Government information]]"
-- "[[Government communications]]"
+  - "[[Public relations]]"
+  - "[[Media]]"
+  - "[[Information dissemination]]"
+  - "[[Government publications]]"
+  - "[[Government information]]"
+  - "[[Government communications]]"
 ---
 # Press releases

@@ -1,10 +1,10 @@
 ---
 title: Food inspection
-longTitle: 'Food inspection'
+aliases: Food inspection
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Inspection des aliments]]"
+  - "[[Inspection des aliments]]"
 relatedTerm:
-- "[[Animal inspection]]"
+  - "[[Animal inspection]]"
 ---

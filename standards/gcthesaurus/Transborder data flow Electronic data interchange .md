@@ -1,8 +1,8 @@
 ---
-title: Transborder data flow Electronic data interchange 
-longTitle: 'Transborder data flow, Electronic data interchange, Databases, Data protection, Data processing, Data dictionaries'
+title: Transborder data flow Electronic data interchange
+aliases: Transborder data flow, Electronic data interchange, Databases, Data protection, Data processing, Data dictionaries
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Machine readable data]]"
+  - "[[Machine readable data]]"
 ---

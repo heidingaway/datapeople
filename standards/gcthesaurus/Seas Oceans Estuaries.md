@@ -1,8 +1,8 @@
 ---
 title: Seas Oceans Estuaries
-longTitle: 'Seas, Oceans, Estuaries'
+aliases: Seas, Oceans, Estuaries
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Tides]]"
+  - "[[Tides]]"
 ---

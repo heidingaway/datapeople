@@ -1,8 +1,8 @@
 ---
 title: Production Industrial products
-longTitle: 'Production, Industrial products'
+aliases: Production, Industrial products
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Manufacturing industry]]"
+  - "[[Manufacturing industry]]"
 ---

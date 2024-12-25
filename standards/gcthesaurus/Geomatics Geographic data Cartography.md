@@ -1,8 +1,8 @@
 ---
 title: Geomatics Geographic data Cartography
-longTitle: 'Geomatics, Geographic data, Cartography'
+aliases: Geomatics, Geographic data, Cartography
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Geographic information systems]]"
+  - "[[Geographic information systems]]"
 ---

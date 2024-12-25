@@ -1,8 +1,8 @@
 ---
 title: Proceeds of crime
-longTitle: 'Proceeds of crime'
+aliases: Proceeds of crime
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Produit de la criminalite]]"
+  - "[[Produit de la criminalite]]"
 ---

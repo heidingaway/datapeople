@@ -1,8 +1,8 @@
 ---
 title: Personal information banks
-longTitle: 'Personal information banks'
+aliases: Personal information banks
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Fichier de renseignements personnels]]"
+  - "[[Fichier de renseignements personnels]]"
 ---

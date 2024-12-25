@@ -1,8 +1,8 @@
 ---
 title: Horses
-longTitle: 'Horses'
+aliases: Horses
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Cheval]]"
+  - "[[Cheval]]"
 ---

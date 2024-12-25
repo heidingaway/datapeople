@@ -1,8 +1,8 @@
 ---
 title: Tables Surveys Statistical profile Statistical ana
-longTitle: 'Tables, Surveys, Statistical profile, Statistical analysis, Mathematics, Indicators, Analytics'
+aliases: Tables, Surveys, Statistical profile, Statistical analysis, Mathematics, Indicators, Analytics
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Statistics]]"
+  - "[[Statistics]]"
 ---

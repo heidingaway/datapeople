@@ -1,8 +1,8 @@
 ---
 title: Territories
-longTitle: 'Territories'
+aliases: Territories
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Territoire]]"
+  - "[[Territoire]]"
 ---

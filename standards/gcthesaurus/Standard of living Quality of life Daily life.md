@@ -1,8 +1,8 @@
 ---
 title: Standard of living Quality of life Daily life
-longTitle: 'Standard of living, Quality of life, Daily life'
+aliases: Standard of living, Quality of life, Daily life
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Lifestyle]]"
+  - "[[Lifestyle]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Military engineering
-longTitle: 'Military engineering'
+aliases: Military engineering
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Genie militaire]]"
+  - "[[Genie militaire]]"
 ---

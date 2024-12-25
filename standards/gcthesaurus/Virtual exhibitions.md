@@ -1,10 +1,10 @@
 ---
 title: Virtual exhibitions
-longTitle: 'Virtual exhibitions'
+aliases: Virtual exhibitions
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Exposition virtuelle]]"
+  - "[[Exposition virtuelle]]"
 scopeNote:
-- "A display in electronic format of works of art or "
+  - "A display in electronic format of works of art or "
 ---

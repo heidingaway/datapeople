@@ -1,19 +1,15 @@
 ---
 title: AIDS disease
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'AIDS (disease)'
+  - gccommon
 french:
-- "[[Sida]]"
+  - Sida
 relatedTerm:
-- "[[Sexually transmitted diseases]]"
-- "[[Viruses]]"
-usedFor:
-- "[[Acquired immune deficiency syndrome]]"
-- "[[Acquired immunodeficiency syndrome]]"
-- "[[HIV]]"
-- "[[Human immunodeficiency virus]]"
+  - "[[Sexually transmitted diseases]]"
+  - "[[Viruses]]"
+aliases:
+  - AIDS (disease)
 ---
 # AIDS disease

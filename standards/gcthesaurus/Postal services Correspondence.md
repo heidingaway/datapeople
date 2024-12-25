@@ -1,8 +1,8 @@
 ---
 title: Postal services Correspondence
-longTitle: 'Postal services, Correspondence'
+aliases: Postal services, Correspondence
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Electronic mail]]"
+  - "[[Electronic mail]]"
 ---

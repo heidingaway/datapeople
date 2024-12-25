@@ -1,10 +1,10 @@
 ---
 title: Information bulletin
-longTitle: 'Information bulletin'
+aliases: Information bulletin
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Government communications]]"
+  - "[[Government communications]]"
 french:
-- "[[Bulletin dinformation]]"
+  - "[[Bulletin dinformation]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Unemployment Resignation Discharge
-longTitle: 'Unemployment, Resignation, Discharge'
+aliases: Unemployment, Resignation, Discharge
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Termination of employment]]"
+  - "[[Termination of employment]]"
 ---

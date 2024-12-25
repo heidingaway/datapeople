@@ -3,15 +3,15 @@ title: Taxonomy
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Taxonomy'
+  - gccommon
+aliases: Taxonomy
 french:
-- "[[Taxonomie]]"
+  - "[[Taxonomie]]"
 narrowerTerm:
-- "[[Soil taxonomy]]"
+  - "[[Soil taxonomy]]"
 relatedTerm:
-- "[[Nomenclature]]"
-- "[[Coding]]"
-- "[[Classification]]"
+  - "[[Nomenclature]]"
+  - "[[Coding]]"
+  - "[[Classification]]"
 ---
 # Taxonomy

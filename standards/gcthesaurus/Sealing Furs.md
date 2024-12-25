@@ -1,8 +1,8 @@
 ---
 title: Sealing Furs
-longTitle: 'Sealing, Furs'
+aliases: Sealing, Furs
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Seals]]"
+  - "[[Seals]]"
 ---

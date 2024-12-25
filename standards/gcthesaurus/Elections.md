@@ -1,19 +1,15 @@
 ---
 title: Elections
-longTitle: 'Elections'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Elections]]"
+  - "[[Elections]]"
 narrowerTerm:
-- "[[By-elections]]"
+  - "[[By-elections]]"
 relatedTerm:
-- "[[Candidates]]"
-- "[[Chief Electoral Officer]]"
-- "[[Electoral districts]]"
-- "[[Electoral system]]"
-usedFor:
-- "[[Ballots]]"
-- "[[Vote]]"
-- "[[Voting]]"
+  - "[[Candidates]]"
+  - "[[Chief Electoral Officer]]"
+  - "[[Electoral districts]]"
+  - "[[Electoral system]]"
+aliases: Elections
 ---

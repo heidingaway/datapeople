@@ -1,8 +1,8 @@
 ---
 title: Community services
-longTitle: 'Community services'
+aliases: Community services
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Services communautaires]]"
+  - "[[Services communautaires]]"
 ---

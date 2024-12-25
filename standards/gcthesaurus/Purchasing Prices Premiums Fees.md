@@ -1,8 +1,8 @@
 ---
 title: Purchasing Prices Premiums Fees
-longTitle: 'Purchasing, Prices, Premiums, Fees'
+aliases: Purchasing, Prices, Premiums, Fees
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Costs]]"
+  - "[[Costs]]"
 ---

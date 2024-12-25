@@ -3,15 +3,15 @@ title: International travel
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'International travel'
+  - gccommon
+aliases: International travel
 broaderTerm:
-- "[[Travel]]"
+  - "[[Travel]]"
 french:
-- "[[Voyage international]]"
+  - "[[Voyage international]]"
 relatedTerm:
-- "[[Travel documents]]"
-- "[[Tourism]]"
-- "[[Border crossing]]"
+  - "[[Travel documents]]"
+  - "[[Tourism]]"
+  - "[[Border crossing]]"
 ---
 # International travel

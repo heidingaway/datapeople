@@ -1,10 +1,10 @@
 ---
 title: Trustees
-longTitle: 'Trustees'
+aliases: Trustees
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Fiduciaire]]"
+  - "[[Fiduciaire]]"
 relatedTerm:
-- "[[Fiduciary obligations]]"
+  - "[[Fiduciary obligations]]"
 ---

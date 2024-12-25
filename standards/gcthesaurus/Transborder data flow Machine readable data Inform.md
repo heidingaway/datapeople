@@ -1,8 +1,8 @@
 ---
 title: Transborder data flow Machine readable data Inform
-longTitle: 'Transborder data flow, Machine readable data, Information technology, Electronic commerce, Data dictionaries'
+aliases: Transborder data flow, Machine readable data, Information technology, Electronic commerce, Data dictionaries
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Electronic data interchange]]"
+  - "[[Electronic data interchange]]"
 ---

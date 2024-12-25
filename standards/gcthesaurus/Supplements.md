@@ -1,10 +1,10 @@
 ---
 title: Supplements
-longTitle: 'Supplements'
+aliases: Supplements
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Supplement]]"
+  - "[[Supplement]]"
 scopeNote:
-- "Publications of additional matter usually issued s"
+  - Publications of additional matter usually issued s
 ---

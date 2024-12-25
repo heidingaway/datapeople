@@ -1,8 +1,8 @@
 ---
 title: Transfers of personnel
-longTitle: 'Transfers of personnel'
+aliases: Transfers of personnel
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Mutation de personnel]]"
+  - "[[Mutation de personnel]]"
 ---

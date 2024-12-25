@@ -1,12 +1,10 @@
 ---
 title: Termination of employment
-longTitle: 'Termination of employment'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Cessation demploi]]"
+  - "[[Cessation demploi]]"
 relatedTerm:
-- "[[Resignation]]"
-usedFor:
-- "[[Layoffs]]"
+  - "[[Resignation]]"
+aliases: Termination of employment
 ---

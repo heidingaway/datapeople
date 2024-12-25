@@ -3,17 +3,12 @@ title: Arms control
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Arms control'
+  - gccommon
 french:
-- "[[Controle des armements]]"
-usedFor:
-- "[[Arms limitation]]"
-- "[[Arms reduction]]"
-- "[[Disarmament]]"
-- "[[Non-proliferation]]"
+  - "[[Controle des armements]]"
+aliases: Arms control
 relatedTerm:
-- "[[Weapons]]"
-- "[[Peace]]"
+  - "[[Weapons]]"
+  - "[[Peace]]"
 ---
 # Arms control

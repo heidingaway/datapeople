@@ -1,16 +1,16 @@
 ---
 title: Remote sensing
-longTitle: 'Remote sensing'
+aliases: Remote sensing
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Teledetection]]"
+  - "[[Teledetection]]"
 narrowerTerm:
-- "[[Digital elevation data]]"
-- "[[Satellite imagery]]"
-- "[[Satellite images]]"
+  - "[[Digital elevation data]]"
+  - "[[Satellite imagery]]"
+  - "[[Satellite images]]"
 relatedTerm:
-- "[[Aerial photography]]"
+  - "[[Aerial photography]]"
 scopeNote:
-- "Refers to the group of techniques and processes us"
+  - Refers to the group of techniques and processes us
 ---

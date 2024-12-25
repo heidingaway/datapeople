@@ -1,8 +1,8 @@
 ---
 title: Semen Pregnancy Fertility Cloning Animal reproduct
-longTitle: 'Semen, Pregnancy, Fertility, Cloning, Animal reproduction'
+aliases: Semen, Pregnancy, Fertility, Cloning, Animal reproduction
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Reproductive technology]]"
+  - "[[Reproductive technology]]"
 ---

@@ -1,10 +1,8 @@
 ---
 title: Corruption
-longTitle: 'Corruption'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Corruption]]"
-usedFor:
-- "[[Bribery]]"
+  - "[[Corruption]]"
+aliases: Corruption
 ---

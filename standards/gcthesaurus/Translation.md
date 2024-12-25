@@ -3,12 +3,12 @@ title: Translation
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Translation'
+  - gccommon
+aliases: Translation
 french:
-- "[[Traduction]]"
+  - "[[Traduction]]"
 relatedTerm:
-- "[[Languages]]"
-- "[[Interpretation]]"
+  - "[[Languages]]"
+  - "[[Interpretation]]"
 ---
 # Translation

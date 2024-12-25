@@ -1,10 +1,8 @@
 ---
 title: Audiovisual equipment
-longTitle: 'Audiovisual equipment'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Equipement audiovisuel]]"
-usedFor:
-- "[[Audio-visual equipment]]"
+  - "[[Equipement audiovisuel]]"
+aliases: Audiovisual equipment
 ---

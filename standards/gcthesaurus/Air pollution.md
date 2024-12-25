@@ -1,22 +1,21 @@
 ---
 title: Air pollution
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Air pollution'
+  - gccommon
 french:
-- "[[Pollution atmospherique]]"
+  - Pollution atmospherique
 narrowerTerm:
-- "[[Smog]]"
-usedFor:
-- "[[Atmospheric pollution]]"
+  - "[[Smog]]"
+aliases:
+  - Air pollution
 relatedTerm:
-- "[[Ozone depletion]]"
-- "[[Greenhouse gases]]"
-- "[[Atmospheric emissions]]"
-- "[[Air quality]]"
-- "[[Air]]"
-- "[[Acid rain]]"
+  - "[[Acid rain]]"
+  - "[[Air quality]]"
+  - "[[Air]]"
+  - "[[Atmospheric emissions]]"
+  - "[[Greenhouse gases]]"
+  - "[[Ozone depletion]]"
 ---
 # Air pollution

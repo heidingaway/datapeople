@@ -1,8 +1,8 @@
 ---
 title: Interviews
-longTitle: 'Interviews'
+aliases: Interviews
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Entrevue]]"
+  - "[[Entrevue]]"
 ---

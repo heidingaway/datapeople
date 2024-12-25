@@ -1,10 +1,10 @@
 ---
 title: Contact
-longTitle: 'Contact'
+aliases: Contact
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Personne-ressource]]"
+  - "[[Personne-ressource]]"
 scopeNote:
-- "Used for metatag on Contact us web pages and simil"
+  - Used for metatag on Contact us web pages and simil
 ---

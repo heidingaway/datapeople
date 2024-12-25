@@ -3,12 +3,9 @@ title: Popular culture
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Popular culture'
+  - gccommon
 french:
-- "[[Culture populaire]]"
-usedFor:
-- "[[Folk culture]]"
-- "[[Traditional culture]]"
+  - "[[Culture populaire]]"
+aliases: Popular culture
 ---
 # Popular culture

@@ -1,8 +1,8 @@
 ---
 title: Debt management
-longTitle: 'Debt management'
+aliases: Debt management
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gestion de la dette]]"
+  - "[[Gestion de la dette]]"
 ---

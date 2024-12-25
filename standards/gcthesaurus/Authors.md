@@ -1,15 +1,13 @@
 ---
 title: Authors
-longTitle: 'Authors'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Auteur]]"
-usedFor:
-- "[[Writers]]"
+  - "[[Auteur]]"
+aliases: Authors
 relatedTerm:
-- "[[Books]]"
-- "[[Manuscripts]]"
-- "[[Publishing]]"
-- "[[Writing]]"
+  - "[[Books]]"
+  - "[[Manuscripts]]"
+  - "[[Publishing]]"
+  - "[[Writing]]"
 ---

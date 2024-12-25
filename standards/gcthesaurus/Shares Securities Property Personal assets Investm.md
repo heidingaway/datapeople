@@ -1,8 +1,8 @@
 ---
 title: Shares Securities Property Personal assets Investm
-longTitle: 'Shares, Securities, Property, Personal assets, Investments, Crown assets, Capital, Bonds'
+aliases: Shares, Securities, Property, Personal assets, Investments, Crown assets, Capital, Bonds
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Assets]]"
+  - "[[Assets]]"
 ---

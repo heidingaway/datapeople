@@ -1,8 +1,8 @@
 ---
 title: Petroleum industry Mining industry Gas industry Fo
-longTitle: 'Petroleum industry, Mining industry, Gas industry, Forestry industry'
+aliases: Petroleum industry, Mining industry, Gas industry, Forestry industry
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Primary industry]]"
+  - "[[Primary industry]]"
 ---

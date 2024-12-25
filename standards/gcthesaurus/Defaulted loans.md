@@ -1,8 +1,8 @@
 ---
 title: Defaulted loans
-longTitle: 'Defaulted loans'
+aliases: Defaulted loans
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Pret non rembourse]]"
+  - "[[Pret non rembourse]]"
 ---

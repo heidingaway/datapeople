@@ -3,12 +3,12 @@ title: Mediation
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Mediation'
+  - gccommon
+aliases: Mediation
 french:
-- "[[Mediation]]"
+  - "[[Mediation]]"
 relatedTerm:
-- "[[Conciliation]]"
-- "[[Conflict resolution]]"
+  - "[[Conciliation]]"
+  - "[[Conflict resolution]]"
 ---
 # Mediation

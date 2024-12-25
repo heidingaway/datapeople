@@ -1,11 +1,8 @@
 ---
 title: Pipelines
-longTitle: 'Pipelines'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Pipeline]]"
-usedFor:
-- "[[Gas pipelines]]"
-- "[[Oil pipelines]]"
+  - "[[Pipeline]]"
+aliases: Pipelines
 ---

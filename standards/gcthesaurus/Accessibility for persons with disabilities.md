@@ -1,20 +1,19 @@
 ---
 title: Accessibility for persons with disabilities
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Accessibility for persons with disabilities'
+  - gccommon
 french:
-- "[[Accessibilite aux personnes handicapees]]"
+  - Accessibilite aux personnes handicapees
 relatedTerm:
-- "[[Duty to accommodate]]"
+  - "[[Accessible transport]]"
+  - "[[Assistive technologies]]"
+  - "[[Duty to accommodate]]"
+  - "[[Persons with disabilities]]"
 scopeNote:
-- "Easy access to a place a service or information fo"
-usedFor:
-- "[[Access for persons with disabilities]]"
-- "[[Barrier free access]]"
-- "[[Disabled access]]"
-- "[[Wheelchair access]]"
+  - Easy access to a place a service or information fo
+aliases:
+  - Accessibility for persons with disabilities
 ---
 # Accessibility for persons with disabilities

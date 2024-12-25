@@ -1,8 +1,8 @@
 ---
 title: Ichthyology
-longTitle: 'Ichthyology'
+aliases: Ichthyology
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ichtyologie]]"
+  - "[[Ichtyologie]]"
 ---

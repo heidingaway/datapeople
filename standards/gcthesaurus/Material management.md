@@ -1,13 +1,10 @@
 ---
 title: Material management
-longTitle: 'Material management'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gestion du materiel]]"
+  - "[[Gestion du materiel]]"
 scopeNote:
-- "All activities related to material life-cycle from"
-usedFor:
-- "[[Materiel management]]"
-- "[[Supply chain management]]"
+  - All activities related to material life-cycle from
+aliases: Material management
 ---

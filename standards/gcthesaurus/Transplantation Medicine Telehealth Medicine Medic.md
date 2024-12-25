@@ -1,8 +1,8 @@
 ---
 title: Transplantation Medicine Telehealth Medicine Medic
-longTitle: 'Transplantation (Medicine), Telehealth, Medicine, Medical research'
+aliases: Transplantation (Medicine), Telehealth, Medicine, Medical research
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Medical technology]]"
+  - "[[Medical technology]]"
 ---

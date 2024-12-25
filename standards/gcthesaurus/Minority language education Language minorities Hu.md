@@ -1,8 +1,8 @@
 ---
 title: Minority language education Language minorities Hu
-longTitle: 'Minority language education, Language minorities, Human rights'
+aliases: Minority language education, Language minorities, Human rights
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Language rights]]"
+  - "[[Language rights]]"
 ---

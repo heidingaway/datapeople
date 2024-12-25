@@ -3,20 +3,17 @@ title: Human resources
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Human resources'
+  - gccommon
 french:
-- "[[Ressources humaines]]"
+  - "[[Ressources humaines]]"
 relatedTerm:
-- "[[Chief Human Resources Officer]]"
-- "[[Workers]]"
-- "[[Staffing]]"
-- "[[Personnel management]]"
-- "[[Labour force]]"
-- "[[Intellectual capital]]"
-- "[[Chief Human Resources Officer]]"
-usedFor:
-- "[[Personnel]]"
-- "[[Staff]]"
+  - "[[Chief Human Resources Officer]]"
+  - "[[Workers]]"
+  - "[[Staffing]]"
+  - "[[Personnel management]]"
+  - "[[Labour force]]"
+  - "[[Intellectual capital]]"
+  - "[[Chief Human Resources Officer]]"
+aliases: Human resources
 ---
 # Human resources

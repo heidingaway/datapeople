@@ -1,8 +1,8 @@
 ---
 title: Technical education
-longTitle: 'Technical education'
+aliases: Technical education
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Enseignement technique]]"
+  - "[[Enseignement technique]]"
 ---

@@ -1,8 +1,11 @@
 ---
 title: Canadian identity
-longTitle: 'Canadian identity'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases: Canadian identity
 french:
-- "[[Identite canadienne]]"
+  - Identite canadienne
 ---
+# Canadian identity

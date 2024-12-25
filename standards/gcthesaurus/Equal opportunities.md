@@ -1,11 +1,8 @@
 ---
 title: Equal opportunities
-longTitle: 'Equal opportunities'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Egalite des chances]]"
-usedFor:
-- "[[Equal rights]]"
-- "[[Equality]]"
+  - "[[Egalite des chances]]"
+aliases: Equal opportunities
 ---

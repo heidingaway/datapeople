@@ -1,8 +1,8 @@
 ---
 title: Public sector Federal institutions
-longTitle: 'Public sector, Federal institutions'
+aliases: Public sector, Federal institutions
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Crown corporations]]"
+  - "[[Crown corporations]]"
 ---

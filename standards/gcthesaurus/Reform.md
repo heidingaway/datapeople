@@ -3,15 +3,12 @@ title: Reform
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Reform'
+  - gccommon
 french:
-- "[[Reforme]]"
+  - "[[Reforme]]"
 relatedTerm:
-- "[[Diversification]]"
-- "[[Transformation]]"
-usedFor:
-- "[[Renewal]]"
-- "[[Change]]"
+  - "[[Diversification]]"
+  - "[[Transformation]]"
+aliases: Reform
 ---
 # Reform

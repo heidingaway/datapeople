@@ -1,8 +1,8 @@
 ---
 title: Microeconomic analysis
-longTitle: 'Microeconomic analysis'
+aliases: Microeconomic analysis
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Analyse micro-economique]]"
+  - "[[Analyse micro-economique]]"
 ---

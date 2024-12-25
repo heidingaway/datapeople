@@ -1,17 +1,17 @@
 ---
 title: Organizations
-longTitle: 'Organizations'
+aliases: Organizations
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Organisation]]"
+  - "[[Organisation]]"
 narrowerTerm:
-- "[[Associations]]"
-- "[[Businesses]]"
-- "[[Corporations]]"
-- "[[Interest groups]]"
-- "[[Partnerships]]"
-- "[[Profiles]]"
+  - "[[Associations]]"
+  - "[[Businesses]]"
+  - "[[Corporations]]"
+  - "[[Interest groups]]"
+  - "[[Partnerships]]"
+  - "[[Profiles]]"
 scopeNote:
-- "Company corporation firm enterprise authority or i"
+  - Company corporation firm enterprise authority or i
 ---

@@ -1,8 +1,8 @@
 ---
 title: Scientists Polar regions Northern development
-longTitle: 'Scientists, Polar regions, Northern development'
+aliases: Scientists, Polar regions, Northern development
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Polar sciences]]"
+  - "[[Polar sciences]]"
 ---

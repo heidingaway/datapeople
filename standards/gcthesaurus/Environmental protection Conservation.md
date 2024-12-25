@@ -1,9 +1,9 @@
 ---
 title: Environmental protection Conservation
-longTitle: 'Environmental protection, Conservation'
+aliases: Environmental protection, Conservation
 tags:
-- gccommon
+  - gccommon
 narrowerTerm:
-- "[[Nature conservation]]"
-- "[[Resources conservation]]"
+  - "[[Nature conservation]]"
+  - "[[Resources conservation]]"
 ---

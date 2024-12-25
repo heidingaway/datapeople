@@ -3,17 +3,12 @@ title: Industrial buildings
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Industrial buildings'
+  - gccommon
 french:
-- "[[Batiment industriel]]"
-usedFor:
-- "[[Factories]]"
-- "[[Industrial facilities]]"
-- "[[Industrial plants]]"
-- "[[Manufactures]]"
+  - "[[Batiment industriel]]"
+aliases: Industrial buildings
 relatedTerm:
-- "[[Industry]]"
-- "[[Commercial buildings]]"
+  - "[[Industry]]"
+  - "[[Commercial buildings]]"
 ---
 # Industrial buildings

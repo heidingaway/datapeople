@@ -1,8 +1,8 @@
 ---
 title: Refrigeration equipment
-longTitle: 'Refrigeration equipment'
+aliases: Refrigeration equipment
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Equipement de refrigeration]]"
+  - "[[Equipement de refrigeration]]"
 ---

@@ -1,23 +1,20 @@
 ---
 title: Diseases
-longTitle: 'Diseases'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Maladie]]"
+  - "[[Maladie]]"
 narrowerTerm:
-- "[[Animal diseases]]"
-- "[[Cancer]]"
-- "[[Cardiovascular diseases]]"
-- "[[Childhood diseases]]"
-- "[[Chronic diseases]]"
-- "[[Degenerative diseases]]"
-- "[[Infectious diseases]]"
-- "[[Obesity]]"
-- "[[Occupational diseases]]"
-- "[[Plant diseases]]"
-- "[[Respiratory diseases]]"
-usedFor:
-- "[[Illness]]"
-- "[[Pathology]]"
+  - "[[Animal diseases]]"
+  - "[[Cancer]]"
+  - "[[Cardiovascular diseases]]"
+  - "[[Childhood diseases]]"
+  - "[[Chronic diseases]]"
+  - "[[Degenerative diseases]]"
+  - "[[Infectious diseases]]"
+  - "[[Obesity]]"
+  - "[[Occupational diseases]]"
+  - "[[Plant diseases]]"
+  - "[[Respiratory diseases]]"
+aliases: Diseases
 ---

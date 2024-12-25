@@ -1,10 +1,10 @@
 ---
 title: Conglomerates
-longTitle: 'Conglomerates'
+aliases: Conglomerates
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Conglomerat]]"
+  - "[[Conglomerat]]"
 scopeNote:
-- "Corporations formed by many mergers and acquisitio"
+  - Corporations formed by many mergers and acquisitio
 ---

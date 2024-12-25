@@ -1,11 +1,8 @@
 ---
 title: Fishing Sport
-longTitle: 'Fishing (Sport)'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Peche sportive]]"
-usedFor:
-- "[[Recreational fishing]]"
-- "[[Sport fishing]]"
+  - "[[Peche sportive]]"
+aliases: Fishing (Sport)
 ---

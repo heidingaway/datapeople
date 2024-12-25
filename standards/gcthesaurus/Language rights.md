@@ -1,10 +1,8 @@
 ---
 title: Language rights
-longTitle: 'Language rights'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Droits linguistiques]]"
-usedFor:
-- "[[Minority language rights]]"
+  - "[[Droits linguistiques]]"
+aliases: Language rights
 ---

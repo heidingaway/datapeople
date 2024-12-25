@@ -1,10 +1,10 @@
 ---
 title: Deportation
-longTitle: 'Deportation'
+aliases: Deportation
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Deportation]]"
+  - "[[Deportation]]"
 relatedTerm:
-- "[[Migration]]"
+  - "[[Migration]]"
 ---

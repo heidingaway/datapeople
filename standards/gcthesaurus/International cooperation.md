@@ -1,16 +1,13 @@
 ---
 title: International cooperation
-longTitle: 'International cooperation'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Cooperation internationale]]"
+  - "[[Cooperation internationale]]"
 narrowerTerm:
-- "[[Foreign aid]]"
+  - "[[Foreign aid]]"
 relatedTerm:
-- "[[East-West relations]]"
-- "[[North-South relations]]"
-usedFor:
-- "[[International aid]]"
-- "[[International assistance]]"
+  - "[[East-West relations]]"
+  - "[[North-South relations]]"
+aliases: International cooperation
 ---

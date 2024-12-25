@@ -1,8 +1,8 @@
 ---
-title: Status of disabled persons Disabilities Assistive 
-longTitle: 'Status of disabled persons, Disabilities, Assistive technologies, Accessible transport, Accessibility for persons with disabilities'
+title: Status of disabled persons Disabilities Assistive
+aliases: Status of disabled persons, Disabilities, Assistive technologies, Accessible transport, Accessibility for persons with disabilities
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Persons with disabilities]]"
+  - "[[Persons with disabilities]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Pesticides Invasive species
-longTitle: 'Pesticides, Invasive species'
+aliases: Pesticides, Invasive species
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Pests]]"
+  - "[[Pests]]"
 ---

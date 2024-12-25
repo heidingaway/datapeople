@@ -1,22 +1,21 @@
 ---
 title: Land management
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Land management'
+  - gccommon
 french:
-- "[[Gestion des terres]]"
+  - Gestion des terres
 relatedTerm:
-- "[[Crown lands]]"
-- "[[Land cover]]"
-- "[[Surveying]]"
-- "[[Irrigation]]"
-- "[[Drainage]]"
-usedFor:
-- "[[Land administration]]"
-- "[[Land inventory]]"
-- "[[Land use]]"
-- "[[Land utilization]]"
+  - "[[Crown lands]]"
+  - "[[Drainage]]"
+  - "[[Irrigation]]"
+  - "[[Land cover]]"
+  - "[[Surveying]]"
+aliases:
+  - Land administration
+  - Land inventory
+  - Land use
+  - Land utilization
 ---
 # Land management

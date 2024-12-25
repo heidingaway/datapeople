@@ -3,18 +3,18 @@ title: Records
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Records'
+  - gccommon
+aliases: Records
 french:
-- "[[Dossier]]"
+  - "[[Dossier]]"
 narrowerTerm:
-- "[[Cartographic records]]"
-- "[[Medical records]]"
-- "[[Record of employment]]"
+  - "[[Cartographic records]]"
+  - "[[Medical records]]"
+  - "[[Record of employment]]"
 scopeNote:
-- "Documents stating results achieved or providing ev"
+  - Documents stating results achieved or providing ev
 relatedTerm:
-- "[[Records management]]"
-- "[[Archives]]"
+  - "[[Records management]]"
+  - "[[Archives]]"
 ---
 # Records

@@ -1,21 +1,17 @@
 ---
 title: Federal government
-longTitle: 'Federal government'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gouvernement federal]]"
+  - "[[Gouvernement federal]]"
 narrowerTerm:
-- "[[Submissions]]"
-- "[[Treasury Board Secretariat]]"
+  - "[[Submissions]]"
+  - "[[Treasury Board Secretariat]]"
 relatedTerm:
-- "[[Federal contracts]]"
-- "[[Government leader]]"
-- "[[Government plans]]"
-- "[[Government priorities]]"
-- "[[National Capital]]"
-usedFor:
-- "[[Central government]]"
-- "[[Federal administration]]"
-- "[[Federalism]]"
+  - "[[Federal contracts]]"
+  - "[[Government leader]]"
+  - "[[Government plans]]"
+  - "[[Government priorities]]"
+  - "[[National Capital]]"
+aliases: Federal government
 ---

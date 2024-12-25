@@ -1,8 +1,8 @@
 ---
 title: Social innovation
-longTitle: 'Social innovation'
+aliases: Social innovation
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Innovation sociale]]"
+  - "[[Innovation sociale]]"
 ---

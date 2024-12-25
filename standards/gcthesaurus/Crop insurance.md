@@ -1,10 +1,8 @@
 ---
 title: Crop insurance
-longTitle: 'Crop insurance'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Assurance-recolte]]"
-usedFor:
-- "[[Agricultural insurance]]"
+  - "[[Assurance-recolte]]"
+aliases: Crop insurance
 ---

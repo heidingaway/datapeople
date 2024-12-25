@@ -1,8 +1,8 @@
 ---
 title: Exchange rates
-longTitle: 'Exchange rates'
+aliases: Exchange rates
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Taux de change]]"
+  - "[[Taux de change]]"
 ---

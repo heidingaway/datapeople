@@ -1,8 +1,8 @@
 ---
 title: Physiology
-longTitle: 'Physiology'
+aliases: Physiology
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Physiologie]]"
+  - "[[Physiologie]]"
 ---

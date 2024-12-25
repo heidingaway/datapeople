@@ -1,8 +1,8 @@
 ---
 title: Multinational corporations International markets I
-longTitle: 'Multinational corporations, International markets, International finance, Globalization'
+aliases: Multinational corporations, International markets, International finance, Globalization
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[International economics]]"
+  - "[[International economics]]"
 ---

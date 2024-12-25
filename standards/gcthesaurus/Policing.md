@@ -1,10 +1,10 @@
 ---
 title: Policing
-longTitle: 'Policing'
+aliases: Policing
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Maintien de lordre public]]"
+  - "[[Maintien de lordre public]]"
 narrowerTerm:
-- "[[Indigenous policing]]"
+  - "[[Indigenous policing]]"
 ---

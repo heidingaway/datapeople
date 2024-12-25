@@ -1,17 +1,14 @@
 ---
 title: Writing
-longTitle: 'Writing'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Redaction]]"
+  - "[[Redaction]]"
 narrowerTerm:
-- "[[Administrative writing]]"
-- "[[Legislative writing]]"
-- "[[Technical writing]]"
+  - "[[Administrative writing]]"
+  - "[[Legislative writing]]"
+  - "[[Technical writing]]"
 relatedTerm:
-- "[[Style manuals]]"
-usedFor:
-- "[[Writing skills]]"
-- "[[Written communication]]"
+  - "[[Style manuals]]"
+aliases: Writing
 ---

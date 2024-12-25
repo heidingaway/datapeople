@@ -1,20 +1,16 @@
 ---
 title: Service industry
-longTitle: 'Service industry'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie des services]]"
+  - "[[Industrie des services]]"
 narrowerTerm:
-- "[[Broadcasting industry]]"
-- "[[Communications industry]]"
-- "[[Cultural industry]]"
-- "[[Health care industry]]"
-- "[[Hospitality industry]]"
-- "[[Real estate industry]]"
-- "[[Transport industry]]"
-usedFor:
-- "[[Service sector]]"
-- "[[Tertiary industry]]"
-- "[[Tertiary sector]]"
+  - "[[Broadcasting industry]]"
+  - "[[Communications industry]]"
+  - "[[Cultural industry]]"
+  - "[[Health care industry]]"
+  - "[[Hospitality industry]]"
+  - "[[Real estate industry]]"
+  - "[[Transport industry]]"
+aliases: Service industry
 ---

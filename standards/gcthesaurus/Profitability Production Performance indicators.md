@@ -1,8 +1,8 @@
 ---
 title: Profitability Production Performance indicators
-longTitle: 'Profitability, Production, Performance indicators'
+aliases: Profitability, Production, Performance indicators
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Productivity]]"
+  - "[[Productivity]]"
 ---

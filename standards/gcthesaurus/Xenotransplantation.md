@@ -1,12 +1,10 @@
 ---
 title: Xenotransplantation
-longTitle: 'Xenotransplantation'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Xenotransplantation]]"
+  - "[[Xenotransplantation]]"
 scopeNote:
-- "Transfer of cells organs or tissues between indivi"
-usedFor:
-- "[[Animal-to-human transplantation]]"
+  - Transfer of cells organs or tissues between indivi
+aliases: Xenotransplantation
 ---

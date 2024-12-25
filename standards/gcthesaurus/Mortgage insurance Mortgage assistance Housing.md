@@ -1,8 +1,8 @@
 ---
 title: Mortgage insurance Mortgage assistance Housing
-longTitle: 'Mortgage insurance, Mortgage assistance, Housing'
+aliases: Mortgage insurance, Mortgage assistance, Housing
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Mortgage loans]]"
+  - "[[Mortgage loans]]"
 ---

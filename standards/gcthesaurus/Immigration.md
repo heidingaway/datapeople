@@ -3,15 +3,15 @@ title: Immigration
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Immigration'
+  - gccommon
+aliases: Immigration
 french:
-- "[[Immigration]]"
+  - "[[Immigration]]"
 relatedTerm:
-- "[[Immigration policy]]"
-- "[[Entry to Canada]]"
-- "[[Immigrants]]"
+  - "[[Immigration policy]]"
+  - "[[Entry to Canada]]"
+  - "[[Immigrants]]"
 scopeNote:
-- "The act of entering a country of which one is not "
+  - "The act of entering a country of which one is not "
 ---
 # Immigration

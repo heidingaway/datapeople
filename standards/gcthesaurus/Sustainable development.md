@@ -3,25 +3,21 @@ title: Sustainable development
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Sustainable development'
+  - gccommon
 broaderTerm:
-- "[[Economic development]]"
+  - "[[Economic development]]"
 french:
-- "[[Developpement durable]]"
+  - "[[Developpement durable]]"
 scopeNote:
-- "Development that meets the needs of the present wi"
-usedFor:
-- "[[Ecodevelopment]]"
-- "[[Ecologically sound development]]"
-- "[[Environmentally sound development]]"
+  - Development that meets the needs of the present wi
+aliases: Sustainable development
 relatedTerm:
-- "[[Stewardship]]"
-- "[[Renewable energy]]"
-- "[[Environmental protection]]"
-- "[[Environmental management]]"
+  - "[[Stewardship]]"
+  - "[[Renewable energy]]"
+  - "[[Environmental protection]]"
+  - "[[Environmental management]]"
 narrowerTerm:
-- "[[Renewable energy]]"
-- "[[Forests]]"
+  - "[[Renewable energy]]"
+  - "[[Forests]]"
 ---
 # Sustainable development

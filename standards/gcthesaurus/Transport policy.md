@@ -1,10 +1,8 @@
 ---
 title: Transport policy
-longTitle: 'Transport policy'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Politique des transports]]"
-usedFor:
-- "[[Transportation policy]]"
+  - "[[Politique des transports]]"
+aliases: Transport policy
 ---

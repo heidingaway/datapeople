@@ -1,8 +1,8 @@
 ---
 title: Resources conservation Natural resources
-longTitle: 'Resources conservation, Natural resources'
+aliases: Resources conservation, Natural resources
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Resources management]]"
+  - "[[Resources management]]"
 ---

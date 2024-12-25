@@ -3,17 +3,12 @@ title: Aquatic wildlife
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Aquatic wildlife'
+  - gccommon
 french:
-- "[[Faune aquatique]]"
-usedFor:
-- "[[Aquatic fauna]]"
-- "[[Freshwater fauna]]"
-- "[[Marine fauna]]"
-- "[[Marine wildlife]]"
+  - "[[Faune aquatique]]"
+aliases: Aquatic wildlife
 relatedTerm:
-- "[[Aquatic ecosystems]]"
-- "[[Aquatic animals]]"
+  - "[[Aquatic ecosystems]]"
+  - "[[Aquatic animals]]"
 ---
 # Aquatic wildlife

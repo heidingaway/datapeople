@@ -1,8 +1,8 @@
 ---
 title: Butter
-longTitle: 'Butter'
+aliases: Butter
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Beurre]]"
+  - "[[Beurre]]"
 ---

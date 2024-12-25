@@ -1,8 +1,8 @@
 ---
 title: Vital statistics Population Death
-longTitle: 'Vital statistics, Population, Death'
+aliases: Vital statistics, Population, Death
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Death rate]]"
+  - "[[Death rate]]"
 ---

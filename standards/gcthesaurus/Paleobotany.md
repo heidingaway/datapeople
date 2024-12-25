@@ -1,10 +1,10 @@
 ---
 title: Paleobotany
-longTitle: 'Paleobotany'
+aliases: Paleobotany
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Palaeontology]]"
+  - "[[Palaeontology]]"
 french:
-- "[[Paleobotanique]]"
+  - "[[Paleobotanique]]"
 ---

@@ -1,16 +1,16 @@
 ---
 title: Civilian aircraft
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Civilian aircraft'
+  - gccommon
 french:
-- "[[Aeronef civil]]"
+  - Aeronef civil
 relatedTerm:
-- "[[Civil aviation]]"
-usedFor:
-- "[[Commercial aircraft]]"
-- "[[Private aircraft]]"
+  - "[[Civil aviation]]"
+aliases:
+  - Commercial aircraft
+  - Private aircraft
+id: 403
 ---
 # Civilian aircraft

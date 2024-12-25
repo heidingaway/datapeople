@@ -1,8 +1,8 @@
 ---
 title: Social trends Social problems Social issues Social
-longTitle: 'Social trends, Social problems, Social issues, Social indicators, Social conditions'
+aliases: Social trends, Social problems, Social issues, Social indicators, Social conditions
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Social surveys]]"
+  - "[[Social surveys]]"
 ---

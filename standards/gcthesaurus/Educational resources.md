@@ -1,12 +1,10 @@
 ---
 title: Educational resources
-longTitle: 'Educational resources'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ressources pedagogiques]]"
+  - "[[Ressources pedagogiques]]"
 narrowerTerm:
-- "[[Instructional materials]]"
-usedFor:
-- "[[Educational materials]]"
+  - "[[Instructional materials]]"
+aliases: Educational resources
 ---

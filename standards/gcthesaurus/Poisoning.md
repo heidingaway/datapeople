@@ -1,10 +1,8 @@
 ---
 title: Poisoning
-longTitle: 'Poisoning'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Empoisonnement]]"
-usedFor:
-- "[[Intoxication]]"
+  - "[[Empoisonnement]]"
+aliases: Poisoning
 ---

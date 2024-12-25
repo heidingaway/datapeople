@@ -1,8 +1,8 @@
 ---
 title: Commercial architecture
-longTitle: 'Commercial architecture'
+aliases: Commercial architecture
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Architecture commerciale]]"
+  - "[[Architecture commerciale]]"
 ---

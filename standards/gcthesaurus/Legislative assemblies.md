@@ -1,17 +1,10 @@
 ---
 title: Legislative assemblies
-longTitle: 'Legislative assemblies'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Assemblee legislative]]"
+  - "[[Assemblee legislative]]"
 scopeNote:
-- "Refers to the legislative branch of provinces and "
-usedFor:
-- "[[Legislative bodies]]"
-- "[[Legislatures]]"
-- "[[Provincial legislative assemblies]]"
-- "[[Provincial legislatures]]"
-- "[[Territorial assemblies]]"
-- "[[Territorial councils]]"
+  - "Refers to the legislative branch of provinces and "
+aliases: Legislative assemblies
 ---

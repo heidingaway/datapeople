@@ -1,11 +1,8 @@
 ---
 title: Biological diversity
-longTitle: 'Biological diversity'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Diversite biologique]]"
-usedFor:
-- "[[Biodiversity]]"
-- "[[Species diversity]]"
+  - "[[Diversite biologique]]"
+aliases: Biological diversity
 ---

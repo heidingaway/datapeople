@@ -1,8 +1,8 @@
 ---
 title: Standards Codes of practice Benchmarks
-longTitle: 'Standards, Codes of practice, Benchmarks'
+aliases: Standards, Codes of practice, Benchmarks
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Guidelines]]"
+  - "[[Guidelines]]"
 ---

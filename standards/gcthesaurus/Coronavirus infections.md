@@ -1,8 +1,8 @@
 ---
 title: Coronavirus infections
-longTitle: 'Coronavirus infections'
+aliases: Coronavirus infections
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Infections a coronavirus]]"
+  - "[[Infections a coronavirus]]"
 ---

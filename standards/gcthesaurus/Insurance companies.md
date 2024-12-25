@@ -3,11 +3,11 @@ title: Insurance companies
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Insurance companies'
+  - gccommon
+aliases: Insurance companies
 french:
-- "[[Compagnie dassurances]]"
+  - "[[Compagnie dassurances]]"
 narrowerTerm:
-- "[[Mutual insurance companies]]"
+  - "[[Mutual insurance companies]]"
 ---
 # Insurance companies

@@ -1,8 +1,8 @@
 ---
 title: Public funding
-longTitle: 'Public funding'
+aliases: Public funding
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Financement public]]"
+  - "[[Financement public]]"
 ---

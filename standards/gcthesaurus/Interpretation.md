@@ -1,11 +1,15 @@
 ---
 title: Interpretation
-longTitle: 'Interpretation'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Interpretation]]"
-usedFor:
-- "[[Language interpretation]]"
-- "[[Simultaneous interpretation]]"
+  - "[[Interpretation]]"
+aliases:
+  - Interpretation
+relatedTerm:
+  - "[[Languages]]"
+  - "[[Translation]]"
 ---
+# Interpretation

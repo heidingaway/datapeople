@@ -1,14 +1,10 @@
 ---
 title: Cancer
-longTitle: 'Cancer'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Cancer]]"
+  - "[[Cancer]]"
 narrowerTerm:
-- "[[Breast cancer]]"
-usedFor:
-- "[[Carcinoma]]"
-- "[[Malignant tumors]]"
-- "[[Malignant tumours]]"
+  - "[[Breast cancer]]"
+aliases: Cancer
 ---

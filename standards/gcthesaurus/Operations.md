@@ -1,10 +1,10 @@
 ---
 title: Operations
-longTitle: 'Operations'
+aliases: Operations
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Fonctionnement]]"
+  - "[[Fonctionnement]]"
 scopeNote:
-- "Planning management and operating functions of org"
+  - Planning management and operating functions of org
 ---

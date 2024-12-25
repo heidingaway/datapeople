@@ -1,10 +1,10 @@
 ---
 title: Panamerican games Olympic games
-longTitle: 'Panamerican games, Olympic games'
+aliases: Panamerican games, Olympic games
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Sports events]]"
+  - "[[Sports events]]"
 relatedTerm:
-- "[[Amateur sports]]"
+  - "[[Amateur sports]]"
 ---

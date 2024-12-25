@@ -1,10 +1,8 @@
 ---
 title: Obesity
-longTitle: 'Obesity'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Obesite]]"
-usedFor:
-- "[[Overweight]]"
+  - "[[Obesite]]"
+aliases: Obesity
 ---

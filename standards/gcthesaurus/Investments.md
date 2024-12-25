@@ -1,18 +1,15 @@
 ---
 title: Investments
-longTitle: 'Investments'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Investissement]]"
+  - "[[Investissement]]"
 narrowerTerm:
-- "[[Foreign investments]]"
-- "[[Private investments]]"
+  - "[[Foreign investments]]"
+  - "[[Private investments]]"
 relatedTerm:
-- "[[Capital markets]]"
-- "[[Investment policy]]"
-- "[[Multilateral agreement on investment]]"
-usedFor:
-- "[[Capital investments]]"
-- "[[Investment funds]]"
+  - "[[Capital markets]]"
+  - "[[Investment policy]]"
+  - "[[Multilateral agreement on investment]]"
+aliases: Investments
 ---

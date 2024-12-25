@@ -1,8 +1,8 @@
 ---
 title: Misappropriation of funds
-longTitle: 'Misappropriation of funds'
+aliases: Misappropriation of funds
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Detournement de fonds]]"
+  - "[[Detournement de fonds]]"
 ---

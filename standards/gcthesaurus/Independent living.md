@@ -3,12 +3,12 @@ title: Independent living
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Independent living'
+  - gccommon
+aliases: Independent living
 french:
-- "[[Autonomie personnelle]]"
+  - "[[Autonomie personnelle]]"
 relatedTerm:
-- "[[Life skills]]"
-- "[[Assistive technologies]]"
+  - "[[Life skills]]"
+  - "[[Assistive technologies]]"
 ---
 # Independent living

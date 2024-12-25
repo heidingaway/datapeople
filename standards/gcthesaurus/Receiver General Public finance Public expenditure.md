@@ -1,8 +1,8 @@
 ---
 title: Receiver General Public finance Public expenditure
-longTitle: 'Receiver General, Public finance, Public expenditures, Gross national product'
+aliases: Receiver General, Public finance, Public expenditures, Gross national product
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[National income]]"
+  - "[[National income]]"
 ---

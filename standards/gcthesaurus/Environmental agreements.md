@@ -1,8 +1,8 @@
 ---
 title: Environmental agreements
-longTitle: 'Environmental agreements'
+aliases: Environmental agreements
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Accord en matiere denvironnement]]"
+  - "[[Accord en matiere denvironnement]]"
 ---

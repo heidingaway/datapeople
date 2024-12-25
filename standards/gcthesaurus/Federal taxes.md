@@ -1,8 +1,8 @@
 ---
 title: Federal taxes
-longTitle: 'Federal taxes'
+aliases: Federal taxes
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Impot federal]]"
+  - "[[Impot federal]]"
 ---

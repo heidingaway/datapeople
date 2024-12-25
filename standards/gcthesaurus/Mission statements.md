@@ -1,8 +1,8 @@
 ---
 title: Mission statements
-longTitle: 'Mission statements'
+aliases: Mission statements
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Enonce de mission]]"
+  - "[[Enonce de mission]]"
 ---

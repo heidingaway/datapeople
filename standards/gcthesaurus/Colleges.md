@@ -3,19 +3,14 @@ title: Colleges
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Colleges'
+  - gccommon
 french:
-- "[[College]]"
+  - "[[College]]"
 narrowerTerm:
-- "[[Military colleges]]"
-usedFor:
-- "[[CAAT]]"
-- "[[CEGEPs]]"
-- "[[Colleges of Applied Arts and Technology]]"
-- "[[Community colleges]]"
+  - "[[Military colleges]]"
+aliases: Colleges
 relatedTerm:
-- "[[Universities]]"
-- "[[Postsecondary education]]"
+  - "[[Universities]]"
+  - "[[Postsecondary education]]"
 ---
 # Colleges

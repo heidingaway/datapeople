@@ -1,8 +1,8 @@
 ---
 title: Oral health Health insurance
-longTitle: 'Oral health, Health insurance'
+aliases: Oral health, Health insurance
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Dental insurance]]"
+  - "[[Dental insurance]]"
 ---

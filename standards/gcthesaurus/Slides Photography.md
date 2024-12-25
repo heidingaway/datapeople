@@ -1,8 +1,8 @@
 ---
 title: Slides Photography
-longTitle: 'Slides, Photography'
+aliases: Slides, Photography
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Photographs]]"
+  - "[[Photographs]]"
 ---

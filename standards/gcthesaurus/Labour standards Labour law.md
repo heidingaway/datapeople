@@ -1,8 +1,8 @@
 ---
 title: Labour standards Labour law
-longTitle: 'Labour standards, Labour law'
+aliases: Labour standards, Labour law
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Labour code]]"
+  - "[[Labour code]]"
 ---

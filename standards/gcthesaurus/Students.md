@@ -1,16 +1,13 @@
 ---
 title: Students
-longTitle: 'Students'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Etudiant]]"
+  - "[[Etudiant]]"
 narrowerTerm:
-- "[[Foreign students]]"
-- "[[Part-time students]]"
+  - "[[Foreign students]]"
+  - "[[Part-time students]]"
 relatedTerm:
-- "[[Student labour]]"
-usedFor:
-- "[[College students]]"
-- "[[University students]]"
+  - "[[Student labour]]"
+aliases: Students
 ---

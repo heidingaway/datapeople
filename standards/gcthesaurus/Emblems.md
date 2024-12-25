@@ -1,10 +1,8 @@
 ---
 title: Emblems
-longTitle: 'Emblems'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Embleme]]"
-usedFor:
-- "[[Badges]]"
+  - "[[Embleme]]"
+aliases: Emblems
 ---

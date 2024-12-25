@@ -1,8 +1,8 @@
 ---
 title: Soil Erosion
-longTitle: 'Soil, Erosion'
+aliases: Soil, Erosion
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Soil conservation]]"
+  - "[[Soil conservation]]"
 ---

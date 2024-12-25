@@ -1,8 +1,8 @@
 ---
 title: Mother tongue
-longTitle: 'Mother tongue'
+aliases: Mother tongue
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Langue maternelle]]"
+  - "[[Langue maternelle]]"
 ---

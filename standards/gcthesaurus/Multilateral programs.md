@@ -1,8 +1,8 @@
 ---
 title: Multilateral programs
-longTitle: 'Multilateral programs'
+aliases: Multilateral programs
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Programme multilateral]]"
+  - "[[Programme multilateral]]"
 ---

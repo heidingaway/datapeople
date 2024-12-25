@@ -1,10 +1,10 @@
 ---
 title: Homeopathy
-longTitle: 'Homeopathy'
+aliases: Homeopathy
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Alternative medicine]]"
+  - "[[Alternative medicine]]"
 french:
-- "[[Homeopathie]]"
+  - "[[Homeopathie]]"
 ---

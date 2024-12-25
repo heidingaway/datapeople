@@ -1,8 +1,8 @@
 ---
 title: Social history
-longTitle: 'Social history'
+aliases: Social history
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Histoire sociale]]"
+  - "[[Histoire sociale]]"
 ---

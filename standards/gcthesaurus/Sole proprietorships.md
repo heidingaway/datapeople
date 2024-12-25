@@ -1,10 +1,10 @@
 ---
 title: Sole proprietorships
-longTitle: 'Sole proprietorships'
+aliases: Sole proprietorships
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Entreprise individuelle]]"
+  - "[[Entreprise individuelle]]"
 scopeNote:
-- "A non-incorporated business entirely owned by one "
+  - "A non-incorporated business entirely owned by one "
 ---

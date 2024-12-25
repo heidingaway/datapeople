@@ -1,10 +1,10 @@
 ---
 title: Conflicts of interest
-longTitle: 'Conflicts of interest'
+aliases: Conflicts of interest
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Conflit dinteret]]"
+  - "[[Conflit dinteret]]"
 scopeNote:
-- "Situations in which a person has a duty interest o"
+  - Situations in which a person has a duty interest o
 ---

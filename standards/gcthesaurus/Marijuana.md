@@ -3,16 +3,14 @@ title: Marijuana
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Marijuana'
+  - gccommon
 broaderTerm:
-- "[[Narcotics]]"
+  - "[[Narcotics]]"
 french:
-- "[[Marijuana]]"
-usedFor:
-- "[[Marihuana]]"
+  - "[[Marijuana]]"
+aliases: Marijuana
 relatedTerm:
-- "[[Medicinal plants]]"
-- "[[Drugs]]"
+  - "[[Medicinal plants]]"
+  - "[[Drugs]]"
 ---
 # Marijuana

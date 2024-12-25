@@ -1,10 +1,8 @@
 ---
 title: Restructuring
-longTitle: 'Restructuring'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Restructuration]]"
-usedFor:
-- "[[Redeployment]]"
+  - "[[Restructuration]]"
+aliases: Restructuring
 ---

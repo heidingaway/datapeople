@@ -3,12 +3,12 @@ title: Military police
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Military police'
+  - gccommon
+aliases: Military police
 french:
-- "[[Police militaire]]"
+  - "[[Police militaire]]"
 relatedTerm:
-- "[[Police services]]"
-- "[[Armed forces]]"
+  - "[[Police services]]"
+  - "[[Armed forces]]"
 ---
 # Military police

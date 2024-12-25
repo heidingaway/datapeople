@@ -1,12 +1,8 @@
 ---
 title: Homicide
-longTitle: 'Homicide'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Homicide]]"
-usedFor:
-- "[[Killing]]"
-- "[[Manslaughter]]"
-- "[[Murder]]"
+  - "[[Homicide]]"
+aliases: Homicide
 ---

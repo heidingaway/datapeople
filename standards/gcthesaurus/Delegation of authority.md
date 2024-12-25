@@ -1,11 +1,11 @@
 ---
 title: Delegation of authority
-longTitle: 'Delegation of authority'
+aliases: Delegation of authority
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Delegation de pouvoir]]"
+  - "[[Delegation de pouvoir]]"
 relatedTerm:
-- "[[Devolution]]"
-- "[[Accountability]]"
+  - "[[Devolution]]"
+  - "[[Accountability]]"
 ---

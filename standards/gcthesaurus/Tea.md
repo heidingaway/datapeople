@@ -1,8 +1,8 @@
 ---
 title: Tea
-longTitle: 'Tea'
+aliases: Tea
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[The]]"
+  - "[[The]]"
 ---

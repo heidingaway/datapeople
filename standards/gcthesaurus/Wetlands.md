@@ -1,15 +1,8 @@
 ---
 title: Wetlands
-longTitle: 'Wetlands'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Zone humide]]"
-usedFor:
-- "[[Bogs]]"
-- "[[Peatlands]]"
-- "[[Riparian areas]]"
-- "[[Riparian zones]]"
-- "[[Swamps]]"
-- "[[Wet areas]]"
+  - "[[Zone humide]]"
+aliases: Wetlands
 ---

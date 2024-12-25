@@ -1,12 +1,10 @@
 ---
 title: Snow
-longTitle: 'Snow'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Neige]]"
+  - "[[Neige]]"
 relatedTerm:
-- "[[Avalanches]]"
-usedFor:
-- "[[Snowfall]]"
+  - "[[Avalanches]]"
+aliases: Snow
 ---

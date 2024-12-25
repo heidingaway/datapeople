@@ -1,10 +1,10 @@
 ---
 title: Magnetism
-longTitle: 'Magnetism'
+aliases: Magnetism
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Magnetisme]]"
+  - "[[Magnetisme]]"
 relatedTerm:
-- "[[Physics]]"
+  - "[[Physics]]"
 ---

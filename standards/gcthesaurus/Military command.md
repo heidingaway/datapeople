@@ -1,8 +1,8 @@
 ---
 title: Military command
-longTitle: 'Military command'
+aliases: Military command
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Commandement militaire]]"
+  - "[[Commandement militaire]]"
 ---

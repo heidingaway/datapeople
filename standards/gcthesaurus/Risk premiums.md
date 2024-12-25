@@ -1,10 +1,10 @@
 ---
 title: Risk premiums
-longTitle: 'Risk premiums'
+aliases: Risk premiums
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Prime de risque]]"
+  - "[[Prime de risque]]"
 scopeNote:
-- "Compensation paid for work done under uncomfortabl"
+  - Compensation paid for work done under uncomfortabl
 ---

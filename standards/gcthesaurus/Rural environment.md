@@ -1,10 +1,8 @@
 ---
 title: Rural environment
-longTitle: 'Rural environment'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Milieu rural]]"
-usedFor:
-- "[[Rural areas]]"
+  - "[[Milieu rural]]"
+aliases: Rural environment
 ---

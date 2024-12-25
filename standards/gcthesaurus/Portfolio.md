@@ -3,16 +3,16 @@ title: Portfolio
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Portfolio'
+  - gccommon
+aliases: Portfolio
 french:
-- "[[Portefeuille]]"
+  - "[[Portefeuille]]"
 relatedTerm:
-- "[[Public administration]]"
-- "[[Ministers]]"
-- "[[Finance]]"
-- "[[Federal institutions]]"
-- "[[Federal government]]"
-- "[[Federal departments]]"
+  - "[[Public administration]]"
+  - "[[Ministers]]"
+  - "[[Finance]]"
+  - "[[Federal institutions]]"
+  - "[[Federal government]]"
+  - "[[Federal departments]]"
 ---
 # Portfolio

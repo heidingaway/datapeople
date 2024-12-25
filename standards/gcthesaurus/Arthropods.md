@@ -1,13 +1,13 @@
 ---
 title: Arthropods
-longTitle: 'Arthropods'
+aliases: Arthropods
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Arthropode]]"
+  - "[[Arthropode]]"
 narrowerTerm:
-- "[[Arachnids]]"
-- "[[Insects]]"
+  - "[[Arachnids]]"
+  - "[[Insects]]"
 scopeNote:
-- "Division of the animal kingdom including insects a"
+  - Division of the animal kingdom including insects a
 ---

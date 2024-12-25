@@ -1,8 +1,8 @@
 ---
 title: Narcotics Drug education
-longTitle: 'Narcotics, Drug education'
+aliases: Narcotics, Drug education
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Narcotic control]]"
+  - "[[Narcotic control]]"
 ---

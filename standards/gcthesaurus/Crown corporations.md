@@ -1,10 +1,8 @@
 ---
 title: Crown corporations
-longTitle: 'Crown corporations'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Societe dEtat]]"
-usedFor:
-- "[[Crown companies]]"
+  - "[[Societe dEtat]]"
+aliases: Crown corporations
 ---

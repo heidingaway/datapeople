@@ -1,8 +1,8 @@
 ---
 title: Nuclear technology Nuclear energy
-longTitle: 'Nuclear technology, Nuclear energy'
+aliases: Nuclear technology, Nuclear energy
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Nuclear facilities]]"
+  - "[[Nuclear facilities]]"
 ---

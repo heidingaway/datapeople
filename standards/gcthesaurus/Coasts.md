@@ -3,23 +3,17 @@ title: Coasts
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Coasts'
+  - gccommon
 french:
-- "[[Littoral]]"
+  - "[[Littoral]]"
 scopeNote:
-- "Refers to the interface between sea and land"
-usedFor:
-- "[[Coastlands]]"
-- "[[Coastline]]"
-- "[[Littoral]]"
-- "[[Littoral zone]]"
-- "[[Shoreline]]"
+  - Refers to the interface between sea and land
+aliases: Coasts
 relatedTerm:
-- "[[Seas]]"
-- "[[Oceans]]"
-- "[[Coastal waters]]"
+  - "[[Seas]]"
+  - "[[Oceans]]"
+  - "[[Coastal waters]]"
 historyNote:
-- "Coasts replaces Coastlands as preferred term in Oc"
+  - Coasts replaces Coastlands as preferred term in Oc
 ---
 # Coasts

@@ -1,8 +1,8 @@
 ---
 title: Nuclear facilities
-longTitle: 'Nuclear facilities'
+aliases: Nuclear facilities
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Installations nucleaires]]"
+  - "[[Installations nucleaires]]"
 ---

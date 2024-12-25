@@ -1,17 +1,26 @@
 ---
 title: Correctional institutions
-longTitle: 'Correctional institutions'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Etablissement penitentiaire]]"
+  - Etablissement penitentiaire
 scopeNote:
-- "Encompasses youth correctional facilities detentio"
-usedFor:
-- "[[Correctional services]]"
-- "[[Correctional system]]"
-- "[[Jails]]"
-- "[[Penal institutions]]"
-- "[[Penitentiaries]]"
-- "[[Prisons]]"
+  - Encompasses youth correctional facilities, detention centres, and penitentiaries.
+aliases:
+  - Correctional services
+  - Correctional system
+  - Detention
+  - Jails
+  - Penal institutions
+  - Penitentiaries
+  - Prisons
+relatedTerm:
+  - "[[Criminal justice]]"
+  - "[[Imprisonment]]"
+  - "[[Inmates]]"
+  - "[[Parole]]"
+  - "[[Young offenders]]"
 ---
+# Correctional institutions

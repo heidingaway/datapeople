@@ -1,14 +1,10 @@
 ---
 title: Volunteer work
-longTitle: 'Volunteer work'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Benevolat]]"
+  - "[[Benevolat]]"
 relatedTerm:
-- "[[Non-profit organizations]]"
-usedFor:
-- "[[Voluntary sector]]"
-- "[[Volunteerism]]"
-- "[[Volunteers]]"
+  - "[[Non-profit organizations]]"
+aliases: Volunteer work
 ---

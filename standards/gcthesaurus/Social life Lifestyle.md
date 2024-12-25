@@ -1,8 +1,8 @@
 ---
 title: Social life Lifestyle
-longTitle: 'Social life, Lifestyle'
+aliases: Social life, Lifestyle
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Daily life]]"
+  - "[[Daily life]]"
 ---

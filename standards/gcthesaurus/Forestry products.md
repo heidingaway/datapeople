@@ -3,16 +3,14 @@ title: Forestry products
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Forestry products'
+  - gccommon
 french:
-- "[[Produit forestier]]"
+  - "[[Produit forestier]]"
 narrowerTerm:
-- "[[Wood]]"
-usedFor:
-- "[[Forest products]]"
+  - "[[Wood]]"
+aliases: Forestry products
 relatedTerm:
-- "[[Forests]]"
-- "[[Forestry industry]]"
+  - "[[Forests]]"
+  - "[[Forestry industry]]"
 ---
 # Forestry products

@@ -1,8 +1,8 @@
 ---
 title: Protocol Foreign affairs
-longTitle: 'Protocol, Foreign affairs'
+aliases: Protocol, Foreign affairs
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Visits of state]]"
+  - "[[Visits of state]]"
 ---

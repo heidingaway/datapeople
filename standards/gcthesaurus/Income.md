@@ -1,27 +1,26 @@
 ---
 title: Income
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Income'
+  - gccommon
 french:
-- "[[Revenu]]"
+  - Revenu
 narrowerTerm:
-- "[[Household income]]"
-- "[[National income]]"
-- "[[Personal income]]"
-- "[[Royalties]]"
-- "[[Salaries]]"
-- "[[Insurable earnings]]"
+  - "[[Household income]]"
+  - "[[Insurable earnings]]"
+  - "[[National income]]"
+  - "[[Personal income]]"
+  - "[[Royalties]]"
+  - "[[Salaries]]"
 scopeNote:
-- "The sum of revenues earned in a specific period of"
-usedFor:
-- "[[Capital gains]]"
-- "[[Earnings]]"
-- "[[Revenues]]"
+  - The sum of revenues earned in a specific period of time. It includes revenues from salaries, wages, benefits, tips, and commissions, profits from operating a business or profession, and investments earned.
+aliases:
+  - Capital gains
+  - Earnings
+  - Revenues
 relatedTerm:
-- "[[Standard of living]]"
-- "[[Economic conditions]]"
+  - "[[Economic conditions]]"
+  - "[[Standard of living]]"
 ---
 # Income

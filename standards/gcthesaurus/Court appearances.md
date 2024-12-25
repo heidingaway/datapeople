@@ -1,8 +1,8 @@
 ---
 title: Court appearances
-longTitle: 'Court appearances'
+aliases: Court appearances
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Comparution]]"
+  - "[[Comparution]]"
 ---

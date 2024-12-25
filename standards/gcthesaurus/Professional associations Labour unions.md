@@ -1,8 +1,8 @@
 ---
 title: Professional associations Labour unions
-longTitle: 'Professional associations, Labour unions'
+aliases: Professional associations, Labour unions
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Associations]]"
+  - "[[Associations]]"
 ---

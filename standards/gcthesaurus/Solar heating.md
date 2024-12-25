@@ -1,10 +1,10 @@
 ---
 title: Solar heating
-longTitle: 'Solar heating'
+aliases: Solar heating
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Heating]]"
+  - "[[Heating]]"
 french:
-- "[[Chauffage solaire]]"
+  - "[[Chauffage solaire]]"
 ---

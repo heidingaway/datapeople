@@ -1,8 +1,8 @@
 ---
 title: Seizure of property Debtors Bankruptcies
-longTitle: 'Seizure (of property), Debtors, Bankruptcies'
+aliases: Seizure (of property), Debtors, Bankruptcies
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Recoveries]]"
+  - "[[Recoveries]]"
 ---

@@ -1,10 +1,10 @@
 ---
 title: Suicide
-longTitle: 'Suicide'
+aliases: Suicide
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Suicide]]"
+  - "[[Suicide]]"
 scopeNote:
-- "The act of intentionally killing oneself For suici"
+  - The act of intentionally killing oneself For suici
 ---

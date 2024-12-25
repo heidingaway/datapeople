@@ -1,8 +1,8 @@
 ---
 title: Business numbers
-longTitle: 'Business numbers'
+aliases: Business numbers
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Numero dentreprise]]"
+  - "[[Numero dentreprise]]"
 ---

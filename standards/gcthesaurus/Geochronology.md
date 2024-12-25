@@ -1,10 +1,8 @@
 ---
 title: Geochronology
-longTitle: 'Geochronology'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Geochronologie]]"
-usedFor:
-- "[[Age of rocks]]"
+  - "[[Geochronologie]]"
+aliases: Geochronology
 ---

@@ -1,8 +1,8 @@
 ---
 title: Taxonomy Indexes
-longTitle: 'Taxonomy, Indexes'
+aliases: Taxonomy, Indexes
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Nomenclature]]"
+  - "[[Nomenclature]]"
 ---

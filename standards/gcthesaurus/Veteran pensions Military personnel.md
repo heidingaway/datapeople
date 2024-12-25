@@ -1,8 +1,8 @@
 ---
 title: Veteran pensions Military personnel
-longTitle: 'Veteran pensions, Military personnel'
+aliases: Veteran pensions, Military personnel
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Veterans]]"
+  - "[[Veterans]]"
 ---

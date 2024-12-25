@@ -1,8 +1,8 @@
 ---
 title: Public-private partnerships Private sector Crown c
-longTitle: 'Public-private partnerships, Private sector, Crown corporations'
+aliases: Public-private partnerships, Private sector, Crown corporations
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Public sector]]"
+  - "[[Public sector]]"
 ---

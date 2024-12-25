@@ -1,8 +1,8 @@
 ---
 title: Municipalities Municipal buildings By-laws
-longTitle: 'Municipalities, Municipal buildings, By-laws'
+aliases: Municipalities, Municipal buildings, By-laws
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Local governments]]"
+  - "[[Local governments]]"
 ---

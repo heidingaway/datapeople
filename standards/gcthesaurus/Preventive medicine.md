@@ -3,17 +3,14 @@ title: Preventive medicine
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Preventive medicine'
+  - gccommon
 french:
-- "[[Medecine preventive]]"
-usedFor:
-- "[[Disease prevention]]"
-- "[[Preventive care]]"
+  - "[[Medecine preventive]]"
+aliases: Preventive medicine
 relatedTerm:
-- "[[Screening Medicine]]"
-- "[[Immunization]]"
-- "[[Health protection]]"
-- "[[Health promotion]]"
+  - "[[Screening Medicine]]"
+  - "[[Immunization]]"
+  - "[[Health protection]]"
+  - "[[Health promotion]]"
 ---
 # Preventive medicine

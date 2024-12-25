@@ -1,8 +1,8 @@
 ---
 title: Anatomy
-longTitle: 'Anatomy'
+aliases: Anatomy
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Anatomie]]"
+  - "[[Anatomie]]"
 ---

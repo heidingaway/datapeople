@@ -1,11 +1,8 @@
 ---
 title: Banking
-longTitle: 'Banking'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Operation bancaire]]"
-usedFor:
-- "[[Automatic bank tellers]]"
-- "[[Banking services]]"
+  - "[[Operation bancaire]]"
+aliases: Banking
 ---

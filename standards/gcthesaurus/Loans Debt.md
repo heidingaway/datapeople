@@ -1,8 +1,8 @@
 ---
 title: Loans Debt
-longTitle: 'Loans, Debt'
+aliases: Loans, Debt
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Credit]]"
+  - "[[Credit]]"
 ---

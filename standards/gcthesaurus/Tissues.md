@@ -1,14 +1,10 @@
 ---
 title: Tissues
-longTitle: 'Tissues'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Tissu Biologie]]"
+  - "[[Tissu Biologie]]"
 scopeNote:
-- "Group of cells with similar structure that are per"
-usedFor:
-- "[[Animal tissues]]"
-- "[[Human tissues]]"
-- "[[Plant tissues]]"
+  - Group of cells with similar structure that are per
+aliases: Tissues
 ---

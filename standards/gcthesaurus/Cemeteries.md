@@ -3,13 +3,13 @@ title: Cemeteries
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Cemeteries'
+  - gccommon
+aliases: Cemeteries
 french:
-- "[[Cimetiere]]"
+  - "[[Cimetiere]]"
 relatedTerm:
-- "[[War memorials]]"
-- "[[Death]]"
-- "[[Burials]]"
+  - "[[War memorials]]"
+  - "[[Death]]"
+  - "[[Burials]]"
 ---
 # Cemeteries

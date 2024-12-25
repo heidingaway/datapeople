@@ -3,14 +3,14 @@ title: Genetics
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Genetics'
+  - gccommon
+aliases: Genetics
 french:
-- "[[Genetique]]"
+  - "[[Genetique]]"
 narrowerTerm:
-- "[[Genomics]]"
+  - "[[Genomics]]"
 relatedTerm:
-- "[[Heredity]]"
-- "[[Genetic engineering]]"
+  - "[[Heredity]]"
+  - "[[Genetic engineering]]"
 ---
 # Genetics

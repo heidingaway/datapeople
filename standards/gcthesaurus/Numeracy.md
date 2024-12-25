@@ -1,10 +1,10 @@
 ---
 title: Numeracy
-longTitle: 'Numeracy'
+aliases: Numeracy
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Numeratie]]"
+  - "[[Numeratie]]"
 scopeNote:
-- "Refers to the ability to understand and use mathem"
+  - Refers to the ability to understand and use mathem
 ---

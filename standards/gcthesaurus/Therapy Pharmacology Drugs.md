@@ -1,8 +1,8 @@
 ---
 title: Therapy Pharmacology Drugs
-longTitle: 'Therapy, Pharmacology, Drugs'
+aliases: Therapy, Pharmacology, Drugs
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Side effects]]"
+  - "[[Side effects]]"
 ---

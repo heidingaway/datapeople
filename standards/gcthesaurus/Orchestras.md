@@ -1,8 +1,8 @@
 ---
 title: Orchestras
-longTitle: 'Orchestras'
+aliases: Orchestras
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Orchestre]]"
+  - "[[Orchestre]]"
 ---

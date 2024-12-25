@@ -3,13 +3,13 @@ title: Economic issues
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Economic issues'
+  - gccommon
+aliases: Economic issues
 french:
-- "[[Questions economiques]]"
+  - "[[Questions economiques]]"
 relatedTerm:
-- "[[Economics]]"
-- "[[Economic research]]"
-- "[[Economic analysis]]"
+  - "[[Economics]]"
+  - "[[Economic research]]"
+  - "[[Economic analysis]]"
 ---
 # Economic issues

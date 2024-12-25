@@ -1,8 +1,8 @@
 ---
 title: Mentoring
-longTitle: 'Mentoring'
+aliases: Mentoring
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Mentorat]]"
+  - "[[Mentorat]]"
 ---

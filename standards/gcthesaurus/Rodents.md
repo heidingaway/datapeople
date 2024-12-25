@@ -1,12 +1,10 @@
 ---
 title: Rodents
-longTitle: 'Rodents'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Rongeur]]"
+  - "[[Rongeur]]"
 relatedTerm:
-- "[[Rodenticides]]"
-usedFor:
-- "[[Rats]]"
+  - "[[Rodenticides]]"
+aliases: Rodents
 ---

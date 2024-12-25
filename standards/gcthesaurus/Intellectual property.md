@@ -1,8 +1,8 @@
 ---
 title: Intellectual property
-longTitle: 'Intellectual property'
+aliases: Intellectual property
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Propriete intellectuelle]]"
+  - "[[Propriete intellectuelle]]"
 ---

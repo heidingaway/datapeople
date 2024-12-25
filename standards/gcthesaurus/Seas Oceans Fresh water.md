@@ -1,8 +1,8 @@
 ---
 title: Seas Oceans Fresh water
-longTitle: 'Seas, Oceans, Fresh water'
+aliases: Seas, Oceans, Fresh water
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Salt water]]"
+  - "[[Salt water]]"
 ---

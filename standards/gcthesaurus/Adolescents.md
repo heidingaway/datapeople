@@ -1,20 +1,20 @@
 ---
 title: Adolescents
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Adolescents'
+  - gccommon
 french:
-- "[[Adolescent]]"
+  - Adolescent
 scopeNote:
-- "Persons of the age 13 through 18 years"
-usedFor:
-- "[[Preadolescents]]"
-- "[[Teenagers]]"
+  - Persons of the age 13 through 18 years
+aliases:
+  - Adolescents
+  - Preadolescents
+  - Teenagers
 relatedTerm:
-- "[[Youth]]"
-- "[[Young offenders]]"
-- "[[Adolescence]]"
+  - "[[Adolescence]]"
+  - "[[Young offenders]]"
+  - "[[Youth]]"
 ---
 # Adolescents

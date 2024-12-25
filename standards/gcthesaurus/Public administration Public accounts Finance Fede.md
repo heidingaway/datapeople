@@ -1,8 +1,8 @@
 ---
 title: Public administration Public accounts Finance Fede
-longTitle: 'Public administration, Public accounts, Finance, Federal government, Budgets, Accounting'
+aliases: Public administration, Public accounts, Finance, Federal government, Budgets, Accounting
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Supplementary estimates]]"
+  - "[[Supplementary estimates]]"
 ---

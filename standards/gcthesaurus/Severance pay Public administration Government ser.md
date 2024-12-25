@@ -1,8 +1,8 @@
 ---
 title: Severance pay Public administration Government ser
-longTitle: 'Severance pay, Public administration, Government services'
+aliases: Severance pay, Public administration, Government services
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Public service]]"
+  - "[[Public service]]"
 ---

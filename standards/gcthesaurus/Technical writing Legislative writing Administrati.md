@@ -1,8 +1,8 @@
 ---
 title: Technical writing Legislative writing Administrati
-longTitle: 'Technical writing, Legislative writing, Administrative writing'
+aliases: Technical writing, Legislative writing, Administrative writing
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Writing]]"
+  - "[[Writing]]"
 ---

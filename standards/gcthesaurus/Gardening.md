@@ -3,14 +3,14 @@ title: Gardening
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Gardening'
+  - gccommon
+aliases: Gardening
 french:
-- "[[Jardinage]]"
+  - "[[Jardinage]]"
 relatedTerm:
-- "[[Gardens]]"
-- "[[Horticulture]]"
+  - "[[Gardens]]"
+  - "[[Horticulture]]"
 scopeNote:
-- "All activities related to the cultivation of ornam"
+  - All activities related to the cultivation of ornam
 ---
 # Gardening

@@ -1,14 +1,12 @@
 ---
 title: War memorials
-longTitle: 'War memorials'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Monuments]]"
+  - "[[Monuments]]"
 french:
-- "[[Cenotaphe]]"
+  - "[[Cenotaphe]]"
 relatedTerm:
-- "[[Military history]]"
-usedFor:
-- "[[War cemeteries]]"
+  - "[[Military history]]"
+aliases: War memorials
 ---

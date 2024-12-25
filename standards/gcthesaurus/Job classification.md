@@ -1,10 +1,10 @@
 ---
 title: Job classification
-longTitle: 'Job classification'
+aliases: Job classification
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Classification]]"
+  - "[[Classification]]"
 french:
-- "[[Classification des emplois]]"
+  - "[[Classification des emplois]]"
 ---

@@ -1,10 +1,10 @@
 ---
 title: Public architecture
-longTitle: 'Public architecture'
+aliases: Public architecture
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Architecture publique]]"
+  - "[[Architecture publique]]"
 relatedTerm:
-- "[[Public buildings]]"
+  - "[[Public buildings]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Public works
-longTitle: 'Public works'
+aliases: Public works
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Travaux publics]]"
+  - "[[Travaux publics]]"
 ---

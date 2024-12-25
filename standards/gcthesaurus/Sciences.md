@@ -3,19 +3,16 @@ title: Sciences
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Sciences'
+  - gccommon
 french:
-- "[[Sciences]]"
+  - "[[Sciences]]"
 narrowerTerm:
-- "[[Natural sciences]]"
-- "[[Social sciences]]"
+  - "[[Natural sciences]]"
+  - "[[Social sciences]]"
 relatedTerm:
-- "[[Science education]]"
-- "[[Science policy]]"
-- "[[Scientific information]]"
-usedFor:
-- "[[Science disciplines]]"
-- "[[Scientific disciplines]]"
+  - "[[Science education]]"
+  - "[[Science policy]]"
+  - "[[Scientific information]]"
+aliases: Sciences
 ---
 # Sciences

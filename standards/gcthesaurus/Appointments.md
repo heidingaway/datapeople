@@ -1,10 +1,8 @@
 ---
 title: Appointments
-longTitle: 'Appointments'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Nomination]]"
-usedFor:
-- "[[Nominations]]"
+  - "[[Nomination]]"
+aliases: Appointments
 ---

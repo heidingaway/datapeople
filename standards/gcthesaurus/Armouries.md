@@ -1,10 +1,8 @@
 ---
 title: Armouries
-longTitle: 'Armouries'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Arsenal]]"
-usedFor:
-- "[[Armories]]"
+  - "[[Arsenal]]"
+aliases: Armouries
 ---

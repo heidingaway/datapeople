@@ -1,8 +1,8 @@
 ---
-title: North-South relations International organizations 
-longTitle: 'North-South relations, International organizations, International development, International agreements, Humanitarian aid, East-West relations'
+title: North-South relations International organizations
+aliases: North-South relations, International organizations, International development, International agreements, Humanitarian aid, East-West relations
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[International cooperation]]"
+  - "[[International cooperation]]"
 ---

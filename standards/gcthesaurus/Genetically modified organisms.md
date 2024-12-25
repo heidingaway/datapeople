@@ -1,16 +1,10 @@
 ---
 title: Genetically modified organisms
-longTitle: 'Genetically modified organisms'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Organisme genetiquement modifie]]"
+  - "[[Organisme genetiquement modifie]]"
 relatedTerm:
-- "[[Genetically modified foods]]"
-usedFor:
-- "[[GMO]]"
-- "[[Genetically altered organisms]]"
-- "[[Genetically engineered organisms]]"
-- "[[Living modified organisms]]"
-- "[[Transgenic organisms]]"
+  - "[[Genetically modified foods]]"
+aliases: Genetically modified organisms
 ---

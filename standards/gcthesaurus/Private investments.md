@@ -1,8 +1,8 @@
 ---
 title: Private investments
-longTitle: 'Private investments'
+aliases: Private investments
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Investissement prive]]"
+  - "[[Investissement prive]]"
 ---

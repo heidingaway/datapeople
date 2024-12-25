@@ -3,19 +3,16 @@ title: Precipitation
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Precipitation'
+  - gccommon
 french:
-- "[[Precipitation]]"
+  - "[[Precipitation]]"
 narrowerTerm:
-- "[[Acid rain]]"
-- "[[Snow]]"
-usedFor:
-- "[[Rain]]"
-- "[[Rainfall]]"
+  - "[[Acid rain]]"
+  - "[[Snow]]"
+aliases: Precipitation
 relatedTerm:
-- "[[Weather]]"
-- "[[Floods]]"
-- "[[Drought]]"
+  - "[[Weather]]"
+  - "[[Floods]]"
+  - "[[Drought]]"
 ---
 # Precipitation

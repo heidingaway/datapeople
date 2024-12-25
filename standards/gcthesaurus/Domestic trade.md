@@ -1,13 +1,10 @@
 ---
 title: Domestic trade
-longTitle: 'Domestic trade'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Commerce interieur]]"
+  - "[[Commerce interieur]]"
 relatedTerm:
-- "[[Domestic markets]]"
-usedFor:
-- "[[Home trade]]"
-- "[[Internal trade]]"
+  - "[[Domestic markets]]"
+aliases: Domestic trade
 ---

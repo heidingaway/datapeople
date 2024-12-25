@@ -1,18 +1,10 @@
 ---
 title: Groundwater
-longTitle: 'Groundwater'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Eau souterraine]]"
+  - "[[Eau souterraine]]"
 relatedTerm:
-- "[[Surface water]]"
-usedFor:
-- "[[Aquifer]]"
-- "[[Ground water]]"
-- "[[Phreatic water]]"
-- "[[Plerotic water]]"
-- "[[Subsurface water]]"
-- "[[Subterranean water]]"
-- "[[Underground water]]"
+  - "[[Surface water]]"
+aliases: Groundwater
 ---

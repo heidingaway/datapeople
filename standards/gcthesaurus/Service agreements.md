@@ -1,10 +1,10 @@
 ---
 title: Service agreements
-longTitle: 'Service agreements'
+aliases: Service agreements
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Accord de service]]"
+  - "[[Accord de service]]"
 relatedTerm:
-- "[[Service contracts]]"
+  - "[[Service contracts]]"
 ---

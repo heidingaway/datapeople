@@ -1,10 +1,8 @@
 ---
 title: Materials technology
-longTitle: 'Materials technology'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Technologie des materiaux]]"
-usedFor:
-- "[[Materials engineering]]"
+  - "[[Technologie des materiaux]]"
+aliases: Materials technology
 ---

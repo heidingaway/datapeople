@@ -3,12 +3,12 @@ title: Restaurants
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Restaurants'
+  - gccommon
+aliases: Restaurants
 french:
-- "[[Restaurant]]"
+  - "[[Restaurant]]"
 relatedTerm:
-- "[[Hospitality industry]]"
-- "[[Food]]"
+  - "[[Hospitality industry]]"
+  - "[[Food]]"
 ---
 # Restaurants

@@ -1,8 +1,8 @@
 ---
 title: Methadone
-longTitle: 'Methadone'
+aliases: Methadone
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Methadone]]"
+  - "[[Methadone]]"
 ---

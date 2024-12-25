@@ -1,8 +1,8 @@
 ---
 title: Enrolment applications
-longTitle: 'Enrolment applications'
+aliases: Enrolment applications
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Demande dadmission]]"
+  - "[[Demande dadmission]]"
 ---

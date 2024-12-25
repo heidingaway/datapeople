@@ -1,12 +1,20 @@
 ---
 title: Water use
-longTitle: 'Water use'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+id: 4667
 french:
-- "[[Utilisation de leau]]"
-usedFor:
-- "[[Water consumption]]"
-- "[[Water usage]]"
-- "[[Water utilisation]]"
+  - Utilisation de l'eau
+relatedTerm:
+  - "[[Water conservation]]"
+  - "[[Water demand]]"
+  - "[[Water supply]]"
+  - "[[Water]]"
+aliases:
+  - Water consumption
+  - Water usage
+  - Water utilisation
 ---
+# Water use

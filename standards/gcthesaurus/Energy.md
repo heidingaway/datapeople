@@ -3,24 +3,24 @@ title: Energy
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Energy'
+  - gccommon
+aliases: Energy
 french:
-- "[[Energie]]"
+  - "[[Energie]]"
 narrowerTerm:
-- "[[Alternative energy]]"
-- "[[Nuclear energy]]"
-- "[[Renewable energy]]"
+  - "[[Alternative energy]]"
+  - "[[Nuclear energy]]"
+  - "[[Renewable energy]]"
 relatedTerm:
-- "[[Fuels]]"
-- "[[Energy use]]"
-- "[[Energy technology]]"
-- "[[Energy supply]]"
-- "[[Energy production]]"
-- "[[Energy policy]]"
-- "[[Energy management]]"
-- "[[Energy efficiency]]"
-- "[[Energy conservation]]"
-- "[[Electricity]]"
+  - "[[Fuels]]"
+  - "[[Energy use]]"
+  - "[[Energy technology]]"
+  - "[[Energy supply]]"
+  - "[[Energy production]]"
+  - "[[Energy policy]]"
+  - "[[Energy management]]"
+  - "[[Energy efficiency]]"
+  - "[[Energy conservation]]"
+  - "[[Electricity]]"
 ---
 # Energy

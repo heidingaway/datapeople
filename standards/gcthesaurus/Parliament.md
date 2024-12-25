@@ -3,24 +3,21 @@ title: Parliament
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Parliament'
+  - gccommon
 french:
-- "[[Parlement]]"
+  - "[[Parlement]]"
 narrowerTerm:
-- "[[House of Commons]]"
-- "[[Senate]]"
+  - "[[House of Commons]]"
+  - "[[Senate]]"
 scopeNote:
-- "Refers to the legislative branch of the Government"
-usedFor:
-- "[[Canadian Parliament]]"
-- "[[Parliament of Canada]]"
+  - Refers to the legislative branch of the Government
+aliases: Parliament
 relatedTerm:
-- "[[Prime Minister]]"
-- "[[Parliamentary procedure]]"
-- "[[Parliamentary leaders]]"
-- "[[Members of the House of Commons]]"
-- "[[Legislative assemblies]]"
-- "[[Cabinet]]"
+  - "[[Prime Minister]]"
+  - "[[Parliamentary procedure]]"
+  - "[[Parliamentary leaders]]"
+  - "[[Members of the House of Commons]]"
+  - "[[Legislative assemblies]]"
+  - "[[Cabinet]]"
 ---
 # Parliament

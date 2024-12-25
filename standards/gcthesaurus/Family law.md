@@ -1,10 +1,10 @@
 ---
 title: Family law
-longTitle: 'Family law'
+aliases: Family law
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Civil law]]"
+  - "[[Civil law]]"
 french:
-- "[[Droit de la famille]]"
+  - "[[Droit de la famille]]"
 ---

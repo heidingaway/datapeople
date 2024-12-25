@@ -1,8 +1,8 @@
 ---
 title: Business incubators
-longTitle: 'Business incubators'
+aliases: Business incubators
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Incubateur dentreprises]]"
+  - "[[Incubateur dentreprises]]"
 ---

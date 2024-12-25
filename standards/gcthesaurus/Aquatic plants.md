@@ -1,18 +1,11 @@
 ---
 title: Aquatic plants
-longTitle: 'Aquatic plants'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Plante aquatique]]"
-usedFor:
-- "[[Algae]]"
-- "[[Aquatic flora]]"
-- "[[Hydrophytes]]"
-- "[[Marine plants]]"
-- "[[Seaweed]]"
-- "[[Water plants]]"
+  - "[[Plante aquatique]]"
+aliases: Aquatic plants
 relatedTerm:
-- "[[Aquaculture]]"
-- "[[Aquatic ecosystems]]"
+  - "[[Aquaculture]]"
+  - "[[Aquatic ecosystems]]"
 ---

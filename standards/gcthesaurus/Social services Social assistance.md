@@ -1,8 +1,8 @@
 ---
 title: Social services Social assistance
-longTitle: 'Social services, Social assistance'
+aliases: Social services, Social assistance
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Social programs]]"
+  - "[[Social programs]]"
 ---

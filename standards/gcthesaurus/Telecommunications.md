@@ -1,19 +1,16 @@
 ---
 title: Telecommunications
-longTitle: 'Telecommunications'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Telecommunications]]"
+  - "[[Telecommunications]]"
 narrowerTerm:
-- "[[International telecommunications]]"
-- "[[Telegraph]]"
+  - "[[International telecommunications]]"
+  - "[[Telegraph]]"
 relatedTerm:
-- "[[Personal digital assistant]]"
-- "[[Telecommunications networks]]"
-- "[[Telecommunications policy]]"
-- "[[Teleconferencing]]"
-usedFor:
-- "[[Broadband communications]]"
-- "[[Communications technologies]]"
+  - "[[Personal digital assistant]]"
+  - "[[Telecommunications networks]]"
+  - "[[Telecommunications policy]]"
+  - "[[Teleconferencing]]"
+aliases: Telecommunications
 ---

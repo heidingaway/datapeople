@@ -1,8 +1,8 @@
 ---
 title: Locks
-longTitle: 'Locks'
+aliases: Locks
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ecluse]]"
+  - "[[Ecluse]]"
 ---

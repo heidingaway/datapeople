@@ -1,8 +1,8 @@
 ---
 title: Political parties Parliament
-longTitle: 'Political parties, Parliament'
+aliases: Political parties, Parliament
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Parliamentary leaders]]"
+  - "[[Parliamentary leaders]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Satellite images Satellite imagery Digital elevati
-longTitle: 'Satellite images, Satellite imagery, Digital elevation data'
+aliases: Satellite images, Satellite imagery, Digital elevation data
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Remote sensing]]"
+  - "[[Remote sensing]]"
 ---

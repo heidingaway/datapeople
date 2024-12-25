@@ -1,8 +1,8 @@
 ---
 title: Salaries Personal income tax Personal finance Pens
-longTitle: 'Salaries, Personal income tax, Personal finance, Pensions, Family allowances, Child support'
+aliases: Salaries, Personal income tax, Personal finance, Pensions, Family allowances, Child support
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Personal income]]"
+  - "[[Personal income]]"
 ---

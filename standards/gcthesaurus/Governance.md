@@ -1,10 +1,10 @@
 ---
 title: Governance
-longTitle: 'Governance'
+aliases: Governance
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gouvernance]]"
+  - "[[Gouvernance]]"
 scopeNote:
-- "Way to exercise power and manage the affairs of a "
+  - "Way to exercise power and manage the affairs of a "
 ---

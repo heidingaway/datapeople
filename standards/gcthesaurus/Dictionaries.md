@@ -1,13 +1,10 @@
 ---
 title: Dictionaries
-longTitle: 'Dictionaries'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Dictionnaire]]"
+  - "[[Dictionnaire]]"
 scopeNote:
-- "Lists of words or phrases usually in alphabetical "
-usedFor:
-- "[[Glossaries]]"
-- "[[Lexicons]]"
+  - "Lists of words or phrases usually in alphabetical "
+aliases: Dictionaries
 ---

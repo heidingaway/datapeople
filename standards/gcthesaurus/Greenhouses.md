@@ -1,10 +1,10 @@
 ---
 title: Greenhouses
-longTitle: 'Greenhouses'
+aliases: Greenhouses
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Farm buildings]]"
+  - "[[Farm buildings]]"
 french:
-- "[[Serre]]"
+  - "[[Serre]]"
 ---

@@ -1,10 +1,16 @@
 ---
 title: Air conditioning
-longTitle: 'Air conditioning'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Climatisation]]"
-usedFor:
-- "[[Air-conditioning]]"
+  - Climatisation
+aliases:
+  - Air conditioning
+  - Air-conditioning
+relatedTerm:
+  - "[[Air]]"
+  - "[[Heating]]"
 ---
+# Air conditioning

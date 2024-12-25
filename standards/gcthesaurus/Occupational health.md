@@ -3,21 +3,15 @@ title: Occupational health
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Occupational health'
+  - gccommon
 french:
-- "[[Sante au travail]]"
-usedFor:
-- "[[Industrial health]]"
-- "[[Industrial hygiene]]"
-- "[[Occupational hygiene]]"
-- "[[Worker health]]"
-- "[[Workplace health]]"
+  - "[[Sante au travail]]"
+aliases: Occupational health
 relatedTerm:
-- "[[Workplace pollution]]"
-- "[[Workplace]]"
-- "[[Working conditions]]"
-- "[[Occupational safety]]"
-- "[[Occupational diseases]]"
+  - "[[Workplace pollution]]"
+  - "[[Workplace]]"
+  - "[[Working conditions]]"
+  - "[[Occupational safety]]"
+  - "[[Occupational diseases]]"
 ---
 # Occupational health

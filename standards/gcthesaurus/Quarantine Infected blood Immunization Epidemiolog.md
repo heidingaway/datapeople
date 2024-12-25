@@ -1,8 +1,8 @@
 ---
 title: Quarantine Infected blood Immunization Epidemiolog
-longTitle: 'Quarantine, Infected blood, Immunization, Epidemiology, Epidemics'
+aliases: Quarantine, Infected blood, Immunization, Epidemiology, Epidemics
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Infectious diseases]]"
+  - "[[Infectious diseases]]"
 ---

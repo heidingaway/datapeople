@@ -1,25 +1,24 @@
 ---
 title: Employment opportunities
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Employment opportunities'
+  - gccommon
 french:
-- "[[Possibilite demploi]]"
-usedFor:
-- "[[Employment outlook]]"
-- "[[Employment possibilities]]"
-- "[[Employment prospects]]"
-- "[[Job openings]]"
-- "[[Job opportunities]]"
-- "[[Job prospects]]"
-- "[[Work opportunities]]"
+  - Possibilite d'emploi
+aliases:
+  - Employment outlook
+  - Employment possibilities
+  - Employment prospects
+  - Job openings
+  - Job opportunities
+  - Job prospects
+  - Work opportunities
 relatedTerm:
-- "[[Labour market]]"
-- "[[Job creation]]"
-- "[[Employment programs]]"
-- "[[Employment equity]]"
-- "[[Employment]]"
+  - "[[Employment equity]]"
+  - "[[Employment programs]]"
+  - "[[Employment]]"
+  - "[[Job creation]]"
+  - "[[Labour market]]"
 ---
 # Employment opportunities

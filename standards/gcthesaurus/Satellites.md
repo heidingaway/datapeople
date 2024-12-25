@@ -3,16 +3,14 @@ title: Satellites
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Satellites'
+  - gccommon
 french:
-- "[[Satellite]]"
-usedFor:
-- "[[Communications satellites]]"
+  - "[[Satellite]]"
+aliases: Satellites
 relatedTerm:
-- "[[Telecommunications]]"
-- "[[Remote sensing]]"
-- "[[Global positioning systems]]"
-- "[[Global navigation satellite systems]]"
+  - "[[Telecommunications]]"
+  - "[[Remote sensing]]"
+  - "[[Global positioning systems]]"
+  - "[[Global navigation satellite systems]]"
 ---
 # Satellites

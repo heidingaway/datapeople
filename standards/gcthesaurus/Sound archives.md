@@ -1,10 +1,10 @@
 ---
 title: Sound archives
-longTitle: 'Sound archives'
+aliases: Sound archives
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Archives sonores]]"
+  - "[[Archives sonores]]"
 relatedTerm:
-- "[[Sound recordings]]"
+  - "[[Sound recordings]]"
 ---

@@ -1,12 +1,10 @@
 ---
 title: Non-Status Indians
-longTitle: 'Non-Status Indians'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Indien non inscrit]]"
+  - "[[Indien non inscrit]]"
 scopeNote:
-- "People who consider themselves from First Nations "
-usedFor:
-- "[[Non status Indians]]"
+  - "People who consider themselves from First Nations "
+aliases: Non-Status Indians
 ---

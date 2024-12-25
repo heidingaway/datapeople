@@ -3,14 +3,14 @@ title: Environmental sciences
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Environmental sciences'
+  - gccommon
+aliases: Environmental sciences
 french:
-- "[[Sciences de lenvironnement]]"
+  - "[[Sciences de lenvironnement]]"
 narrowerTerm:
-- "[[Ecology]]"
+  - "[[Ecology]]"
 relatedTerm:
-- "[[Scientists]]"
-- "[[Environment]]"
+  - "[[Scientists]]"
+  - "[[Environment]]"
 ---
 # Environmental sciences

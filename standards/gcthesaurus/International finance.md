@@ -1,8 +1,8 @@
 ---
 title: International finance
-longTitle: 'International finance'
+aliases: International finance
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Finances internationales]]"
+  - "[[Finances internationales]]"
 ---

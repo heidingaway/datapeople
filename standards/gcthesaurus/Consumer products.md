@@ -1,10 +1,8 @@
 ---
 title: Consumer products
-longTitle: 'Consumer products'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Produit de consommation]]"
-usedFor:
-- "[[Consumer goods]]"
+  - "[[Produit de consommation]]"
+aliases: Consumer products
 ---

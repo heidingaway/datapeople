@@ -1,8 +1,8 @@
 ---
 title: Mapping data
-longTitle: 'Mapping data'
+aliases: Mapping data
 tags:
-- gccommon
+  - gccommon
 historyNote:
-- "Geographic data replaces Mapping data  as preferre"
+  - Geographic data replaces Mapping data  as preferre
 ---

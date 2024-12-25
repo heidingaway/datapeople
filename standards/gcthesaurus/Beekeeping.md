@@ -3,15 +3,11 @@ title: Beekeeping
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Beekeeping'
+  - gccommon
 french:
-- "[[Apiculture]]"
+  - "[[Apiculture]]"
 relatedTerm:
-- "[[Honey]]"
-usedFor:
-- "[[Apiculture]]"
-- "[[Bee culture]]"
-- "[[Bee keeping]]"
+  - "[[Honey]]"
+aliases: Beekeeping
 ---
 # Beekeeping

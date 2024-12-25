@@ -3,13 +3,11 @@ title: Coal
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Coal'
+  - gccommon
 broaderTerm:
-- "[[Minerals]]"
+  - "[[Minerals]]"
 french:
-- "[[Charbon]]"
-usedFor:
-- "[[Bituminous coal]]"
+  - "[[Charbon]]"
+aliases: Coal
 ---
 # Coal

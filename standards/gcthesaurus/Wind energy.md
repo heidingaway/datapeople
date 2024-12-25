@@ -1,12 +1,8 @@
 ---
 title: Wind energy
-longTitle: 'Wind energy'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Energie eolienne]]"
-usedFor:
-- "[[Aeolian energy]]"
-- "[[Eolian energy]]"
-- "[[Wind power]]"
+  - "[[Energie eolienne]]"
+aliases: Wind energy
 ---

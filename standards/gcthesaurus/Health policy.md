@@ -1,8 +1,8 @@
 ---
 title: Health policy
-longTitle: 'Health policy'
+aliases: Health policy
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Politique en matiere de sante]]"
+  - "[[Politique en matiere de sante]]"
 ---

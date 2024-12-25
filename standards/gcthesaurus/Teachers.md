@@ -1,14 +1,8 @@
 ---
 title: Teachers
-longTitle: 'Teachers'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Enseignant]]"
-usedFor:
-- "[[Educators]]"
-- "[[Instructors]]"
-- "[[Professors]]"
-- "[[Teaching personnel]]"
-- "[[Trainers]]"
+  - "[[Enseignant]]"
+aliases: Teachers
 ---

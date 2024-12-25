@@ -1,11 +1,18 @@
 ---
 title: Water demand
-longTitle: 'Water demand'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Besoins en eau]]"
-usedFor:
-- "[[Water needs]]"
-- "[[Water requirements]]"
+  - Besoins en eau
+aliases:
+  - Water needs
+  - Water requirements
+relatedTerm:
+  - "[[Demand]]"
+  - "[[Water supply]]"
+  - "[[Water use]]"
+  - "[[Water]]"
 ---
+# Water demand

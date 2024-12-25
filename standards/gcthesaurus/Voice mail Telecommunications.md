@@ -1,8 +1,8 @@
 ---
 title: Voice mail Telecommunications
-longTitle: 'Voice mail, Telecommunications'
+aliases: Voice mail, Telecommunications
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Telephones]]"
+  - "[[Telephones]]"
 ---

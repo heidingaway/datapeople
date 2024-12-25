@@ -1,8 +1,8 @@
 ---
 title: Influenza AIDS disease
-longTitle: 'Influenza, AIDS (disease)'
+aliases: Influenza, AIDS (disease)
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Viruses]]"
+  - "[[Viruses]]"
 ---

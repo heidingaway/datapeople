@@ -1,11 +1,11 @@
 ---
 title: Property
-longTitle: 'Property'
+aliases: Property
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Biens]]"
+  - "[[Biens]]"
 relatedTerm:
-- "[[Property and casualty insurance]]"
-- "[[Property management]]"
+  - "[[Property and casualty insurance]]"
+  - "[[Property management]]"
 ---

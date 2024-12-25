@@ -1,15 +1,10 @@
 ---
 title: Common-law unions
-longTitle: 'Common-law unions'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Union de fait]]"
+  - "[[Union de fait]]"
 scopeNote:
-- "Unions of two people of the opposite sex or of the"
-usedFor:
-- "[[Common-law marriage]]"
-- "[[Common-law partnerships]]"
-- "[[Common-law relationships]]"
-- "[[Consensual unions]]"
+  - Unions of two people of the opposite sex or of the
+aliases: Common-law unions
 ---

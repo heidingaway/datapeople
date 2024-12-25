@@ -1,8 +1,16 @@
 ---
 title: Office automation
-longTitle: 'Office automation'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Office automation
 french:
-- "[[Bureautique]]"
+  - "[[Bureautique]]"
+relatedTerm:
+  - "[[Office equipment]]"
+  - "[[Office management]]"
+  - "[[Workplace automation]]"
 ---
+# Office automation

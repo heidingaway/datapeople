@@ -1,8 +1,8 @@
 ---
 title: Humanitarian aid Emergency relief
-longTitle: 'Humanitarian aid, Emergency relief'
+aliases: Humanitarian aid, Emergency relief
 tags:
-- gccommon
+  - gccommon
 narrowerTerm:
-- "[[Disaster relief]]"
+  - "[[Disaster relief]]"
 ---

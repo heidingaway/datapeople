@@ -3,12 +3,12 @@ title: Historical research
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Historical research'
+  - gccommon
+aliases: Historical research
 french:
-- "[[Recherche historique]]"
+  - "[[Recherche historique]]"
 relatedTerm:
-- "[[History]]"
-- "[[Historical societies]]"
+  - "[[History]]"
+  - "[[Historical societies]]"
 ---
 # Historical research

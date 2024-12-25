@@ -1,8 +1,8 @@
 ---
 title: Registration Labelling Detection Coding Authentica
-longTitle: 'Registration, Labelling, Detection, Coding, Authentication'
+aliases: Registration, Labelling, Detection, Coding, Authentication
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Identification]]"
+  - "[[Identification]]"
 ---

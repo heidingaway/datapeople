@@ -1,16 +1,13 @@
 ---
 title: Periodicals
-longTitle: 'Periodicals'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Publication en serie]]"
+  - "[[Publication en serie]]"
 narrowerTerm:
-- "[[Newsletters]]"
-- "[[Newspapers]]"
+  - "[[Newsletters]]"
+  - "[[Newspapers]]"
 scopeNote:
-- "A publication issued at regular or irregular inter"
-usedFor:
-- "[[Magazines]]"
-- "[[Serials]]"
+  - A publication issued at regular or irregular inter
+aliases: Periodicals
 ---

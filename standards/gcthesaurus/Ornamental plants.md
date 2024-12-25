@@ -1,10 +1,8 @@
 ---
 title: Ornamental plants
-longTitle: 'Ornamental plants'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Plante ornementale]]"
-usedFor:
-- "[[Decorative plants]]"
+  - "[[Plante ornementale]]"
+aliases: Ornamental plants
 ---

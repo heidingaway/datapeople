@@ -1,8 +1,8 @@
 ---
 title: Territorial parks
-longTitle: 'Territorial parks'
+aliases: Territorial parks
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Parc territorial]]"
+  - "[[Parc territorial]]"
 ---

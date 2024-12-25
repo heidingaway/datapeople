@@ -1,8 +1,8 @@
 ---
 title: Homicide Death
-longTitle: 'Homicide, Death'
+aliases: Homicide, Death
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Suicide]]"
+  - "[[Suicide]]"
 ---

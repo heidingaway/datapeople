@@ -1,10 +1,17 @@
 ---
 title: Holidays
-longTitle: 'Holidays'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Holidays
 french:
-- "[[Jour ferie]]"
+  - Jour ferie
 relatedTerm:
-- "[[Commemoration]]"
+  - "[[Commemoration]]"
+  - "[[Leave of absence]]"
+  - "[[Vacations]]"
+  - "[[Working conditions]]"
 ---
+# Holidays

@@ -1,8 +1,8 @@
 ---
 title: Fiscal assistance
-longTitle: 'Fiscal assistance'
+aliases: Fiscal assistance
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Aide fiscale]]"
+  - "[[Aide fiscale]]"
 ---

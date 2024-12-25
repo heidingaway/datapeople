@@ -1,15 +1,12 @@
 ---
 title: Data processing
-longTitle: 'Data processing'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Traitement des donnees]]"
+  - "[[Traitement des donnees]]"
 narrowerTerm:
-- "[[Digitization]]"
+  - "[[Digitization]]"
 relatedTerm:
-- "[[Computer services]]"
-usedFor:
-- "[[Automatic data processing]]"
-- "[[Electronic data processing]]"
+  - "[[Computer services]]"
+aliases: Data processing
 ---

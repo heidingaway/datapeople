@@ -1,13 +1,13 @@
 ---
 title: Vessels
-longTitle: 'Vessels'
+aliases: Vessels
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Embarcation]]"
+  - "[[Embarcation]]"
 narrowerTerm:
-- "[[Ferries]]"
-- "[[Pleasure craft]]"
-- "[[Ships]]"
-- "[[Submarines]]"
+  - "[[Ferries]]"
+  - "[[Pleasure craft]]"
+  - "[[Ships]]"
+  - "[[Submarines]]"
 ---

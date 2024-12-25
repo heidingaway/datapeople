@@ -1,15 +1,12 @@
 ---
 title: Jewellery
-longTitle: 'Jewellery'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Joaillerie]]"
+  - "[[Joaillerie]]"
 relatedTerm:
-- "[[Diamonds]]"
-- "[[Gold]]"
-- "[[Ornaments]]"
-usedFor:
-- "[[Jewelry]]"
-- "[[Jewels]]"
+  - "[[Diamonds]]"
+  - "[[Gold]]"
+  - "[[Ornaments]]"
+aliases: Jewellery
 ---

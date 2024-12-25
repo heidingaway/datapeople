@@ -1,8 +1,8 @@
 ---
 title: Violence Suicide Euthanasia Death
-longTitle: 'Violence, Suicide, Euthanasia, Death'
+aliases: Violence, Suicide, Euthanasia, Death
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Homicide]]"
+  - "[[Homicide]]"
 ---

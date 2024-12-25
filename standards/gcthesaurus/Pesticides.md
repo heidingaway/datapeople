@@ -1,21 +1,13 @@
 ---
 title: Pesticides
-longTitle: 'Pesticides'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Pesticide]]"
+  - "[[Pesticide]]"
 narrowerTerm:
-- "[[Fungicides]]"
-- "[[Herbicides]]"
-- "[[Insecticides]]"
-- "[[Rodenticides]]"
-usedFor:
-- "[[Agricultural chemicals]]"
-- "[[Biocides]]"
-- "[[Biopesticides]]"
-- "[[Pest control]]"
-- "[[Pest control chemicals]]"
-- "[[Pest control products]]"
-- "[[Pest management]]"
+  - "[[Fungicides]]"
+  - "[[Herbicides]]"
+  - "[[Insecticides]]"
+  - "[[Rodenticides]]"
+aliases: Pesticides
 ---

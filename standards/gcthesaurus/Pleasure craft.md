@@ -1,12 +1,12 @@
 ---
 title: Pleasure craft
-longTitle: 'Pleasure craft'
+aliases: Pleasure craft
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Bateau de plaisance]]"
+  - "[[Bateau de plaisance]]"
 narrowerTerm:
-- "[[Sailboats]]"
+  - "[[Sailboats]]"
 relatedTerm:
-- "[[Marinas]]"
+  - "[[Marinas]]"
 ---

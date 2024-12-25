@@ -3,9 +3,9 @@ title: International transport
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'International transport'
+  - gccommon
+aliases: International transport
 french:
-- "[[Transport international]]"
+  - "[[Transport international]]"
 ---
 # International transport

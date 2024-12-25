@@ -3,23 +3,17 @@ title: Fuels
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Fuels'
+  - gccommon
 french:
-- "[[Combustible]]"
+  - "[[Combustible]]"
 narrowerTerm:
-- "[[Diesel fuel]]"
-- "[[Gasoline]]"
-- "[[Petroleum]]"
-- "[[Alternative fuels]]"
-- "[[Coal]]"
+  - "[[Diesel fuel]]"
+  - "[[Gasoline]]"
+  - "[[Petroleum]]"
+  - "[[Alternative fuels]]"
+  - "[[Coal]]"
 relatedTerm:
-- "[[Fuel supply]]"
-usedFor:
-- "[[Engine fuels]]"
-- "[[Fossil fuels]]"
-- "[[Heating fuels]]"
-- "[[Mineral fuels]]"
-- "[[Motor fuels]]"
+  - "[[Fuel supply]]"
+aliases: Fuels
 ---
 # Fuels

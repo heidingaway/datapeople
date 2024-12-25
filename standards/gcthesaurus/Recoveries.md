@@ -1,10 +1,10 @@
 ---
 title: Recoveries
-longTitle: 'Recoveries'
+aliases: Recoveries
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Recouvrement]]"
+  - "[[Recouvrement]]"
 scopeNote:
-- "The regaining of something of value such as proper"
+  - The regaining of something of value such as proper
 ---

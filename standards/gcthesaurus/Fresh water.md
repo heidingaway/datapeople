@@ -1,12 +1,10 @@
 ---
 title: Fresh water
-longTitle: 'Fresh water'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Eau douce]]"
+  - "[[Eau douce]]"
 relatedTerm:
-- "[[Drinking water]]"
-usedFor:
-- "[[Sweet water]]"
+  - "[[Drinking water]]"
+aliases: Fresh water
 ---

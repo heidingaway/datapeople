@@ -1,10 +1,8 @@
 ---
 title: Shares
-longTitle: 'Shares'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Action]]"
-usedFor:
-- "[[Common shares]]"
+  - "[[Action]]"
+aliases: Shares
 ---

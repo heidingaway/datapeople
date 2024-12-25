@@ -1,8 +1,8 @@
 ---
 title: Epidemiology
-longTitle: 'Epidemiology'
+aliases: Epidemiology
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Epidemiologie]]"
+  - "[[Epidemiologie]]"
 ---

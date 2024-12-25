@@ -1,10 +1,8 @@
 ---
 title: Central banks
-longTitle: 'Central banks'
+aliases: Central banks
 tags:
-- gccommon
-broaderTerm:
-- "[[Banks]]"
+  - gccommon
 french:
-- "[[Banque centrale]]"
+  - "[[Banque centrale]]"
 ---

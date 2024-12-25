@@ -1,10 +1,8 @@
 ---
 title: Marine biology
-longTitle: 'Marine biology'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Biologie marine]]"
-usedFor:
-- "[[Aquatic biology]]"
+  - "[[Biologie marine]]"
+aliases: Marine biology
 ---

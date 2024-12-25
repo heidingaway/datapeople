@@ -1,12 +1,17 @@
 ---
 title: Wind
-longTitle: 'Wind'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Vent]]"
+  - Vent
 relatedTerm:
-- "[[Wind energy]]"
-usedFor:
-- "[[Wind chill]]"
+  - "[[Storms]]"
+  - "[[Weather]]"
+  - "[[Wind energy]]"
+aliases:
+  - Wind
+  - Wind chill
 ---
+# Wind

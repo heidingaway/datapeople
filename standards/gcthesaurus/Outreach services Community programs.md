@@ -1,8 +1,8 @@
 ---
 title: Outreach services Community programs
-longTitle: 'Outreach services, Community programs'
+aliases: Outreach services, Community programs
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Community services]]"
+  - "[[Community services]]"
 ---

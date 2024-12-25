@@ -3,20 +3,17 @@ title: Infants
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Infants'
+  - gccommon
 broaderTerm:
-- "[[Children]]"
+  - "[[Children]]"
 french:
-- "[[Nouveau-ne]]"
+  - "[[Nouveau-ne]]"
 scopeNote:
-- "Recently born persons birth to one year"
-usedFor:
-- "[[Babies]]"
-- "[[Newborns]]"
+  - Recently born persons birth to one year
+aliases: Infants
 relatedTerm:
-- "[[Infant nutrition]]"
-- "[[Infant care]]"
-- "[[Birth]]"
+  - "[[Infant nutrition]]"
+  - "[[Infant care]]"
+  - "[[Birth]]"
 ---
 # Infants

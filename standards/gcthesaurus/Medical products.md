@@ -1,13 +1,8 @@
 ---
 title: Medical products
-longTitle: 'Medical products'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Produit medical]]"
-usedFor:
-- "[[Medical apparatus]]"
-- "[[Medical devices]]"
-- "[[Medical equipment]]"
-- "[[Medical supplies]]"
+  - "[[Produit medical]]"
+aliases: Medical products
 ---

@@ -1,8 +1,8 @@
 ---
 title: Funding Credit unions
-longTitle: 'Funding, Credit unions'
+aliases: Funding, Credit unions
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Financing companies]]"
+  - "[[Financing companies]]"
 ---

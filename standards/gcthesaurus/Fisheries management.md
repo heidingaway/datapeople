@@ -1,8 +1,8 @@
 ---
 title: Fisheries management
-longTitle: 'Fisheries management'
+aliases: Fisheries management
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gestion des peches]]"
+  - "[[Gestion des peches]]"
 ---

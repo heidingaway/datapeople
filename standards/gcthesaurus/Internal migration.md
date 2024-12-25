@@ -1,13 +1,10 @@
 ---
 title: Internal migration
-longTitle: 'Internal migration'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Migration interne]]"
+  - "[[Migration interne]]"
 scopeNote:
-- "Migration within a country"
-usedFor:
-- "[[Inter-provincial migration]]"
-- "[[Interprovincial migration]]"
+  - Migration within a country
+aliases: Internal migration
 ---

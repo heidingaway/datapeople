@@ -1,8 +1,8 @@
 ---
 title: Outfitters Outdoor recreation Fishing permits
-longTitle: 'Outfitters, Outdoor recreation, Fishing permits'
+aliases: Outfitters, Outdoor recreation, Fishing permits
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Fishing Sport]]"
+  - "[[Fishing Sport]]"
 ---

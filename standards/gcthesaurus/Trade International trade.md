@@ -1,8 +1,8 @@
 ---
 title: Trade International trade
-longTitle: 'Trade, International trade'
+aliases: Trade, International trade
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Trade office]]"
+  - "[[Trade office]]"
 ---

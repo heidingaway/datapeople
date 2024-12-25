@@ -1,12 +1,10 @@
 ---
 title: Igneous rocks
-longTitle: 'Igneous rocks'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Roche ignee]]"
+  - "[[Roche ignee]]"
 relatedTerm:
-- "[[Hard rocks]]"
-usedFor:
-- "[[Magmatic rocks]]"
+  - "[[Hard rocks]]"
+aliases: Igneous rocks
 ---

@@ -1,10 +1,10 @@
 ---
 title: Savings
-longTitle: 'Savings'
+aliases: Savings
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Epargne]]"
+  - "[[Epargne]]"
 relatedTerm:
-- "[[Discounts]]"
+  - "[[Discounts]]"
 ---

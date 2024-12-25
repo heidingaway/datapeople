@@ -1,8 +1,8 @@
 ---
 title: Severance pay
-longTitle: 'Severance pay'
+aliases: Severance pay
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Indemnite de cessation demploi]]"
+  - "[[Indemnite de cessation demploi]]"
 ---

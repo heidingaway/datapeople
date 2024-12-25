@@ -1,10 +1,8 @@
 ---
 title: Tourism facilities
-longTitle: 'Tourism facilities'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Installations touristiques]]"
-usedFor:
-- "[[Tourism infrastructure]]"
+  - "[[Installations touristiques]]"
+aliases: Tourism facilities
 ---

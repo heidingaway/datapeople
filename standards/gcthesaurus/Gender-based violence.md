@@ -1,10 +1,8 @@
 ---
 title: Gender-based violence
-longTitle: 'Gender-based violence'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Violence fondee sur le sexe]]"
-usedFor:
-- "[[GBV Gender-based violence]]"
+  - "[[Violence fondee sur le sexe]]"
+aliases: Gender-based violence
 ---

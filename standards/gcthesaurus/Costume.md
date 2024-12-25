@@ -1,8 +1,8 @@
 ---
 title: Costume
-longTitle: 'Costume'
+aliases: Costume
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Costume]]"
+  - "[[Costume]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Violence Poverty Homelessness Discrimination Crime
-longTitle: 'Violence, Poverty, Homelessness, Discrimination, Crime, Addiction'
+aliases: Violence, Poverty, Homelessness, Discrimination, Crime, Addiction
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Social problems]]"
+  - "[[Social problems]]"
 ---

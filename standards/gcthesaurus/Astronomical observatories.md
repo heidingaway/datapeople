@@ -3,14 +3,12 @@ title: Astronomical observatories
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Astronomical observatories'
+  - gccommon
 french:
-- "[[Observatoire]]"
-usedFor:
-- "[[Observatories]]"
+  - "[[Observatoire]]"
+aliases: Astronomical observatories
 relatedTerm:
-- "[[Planetariums]]"
-- "[[Astronomy]]"
+  - "[[Planetariums]]"
+  - "[[Astronomy]]"
 ---
 # Astronomical observatories

@@ -1,8 +1,8 @@
 ---
 title: Lettuce
-longTitle: 'Lettuce'
+aliases: Lettuce
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Laitue]]"
+  - "[[Laitue]]"
 ---

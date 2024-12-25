@@ -1,8 +1,8 @@
 ---
 title: Housing assistance
-longTitle: 'Housing assistance'
+aliases: Housing assistance
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Aide au logement]]"
+  - "[[Aide au logement]]"
 ---

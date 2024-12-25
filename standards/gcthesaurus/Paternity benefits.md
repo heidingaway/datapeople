@@ -1,8 +1,8 @@
 ---
 title: Paternity benefits
-longTitle: 'Paternity benefits'
+aliases: Paternity benefits
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Prestation de paternite]]"
+  - "[[Prestation de paternite]]"
 ---

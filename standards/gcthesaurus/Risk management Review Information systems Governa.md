@@ -1,8 +1,8 @@
 ---
 title: Risk management Review Information systems Governa
-longTitle: 'Risk management, Review, Information systems, Governance, Control'
+aliases: Risk management, Review, Information systems, Governance, Control
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Internal audits]]"
+  - "[[Internal audits]]"
 ---

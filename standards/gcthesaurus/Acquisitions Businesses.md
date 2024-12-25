@@ -1,8 +1,16 @@
 ---
 title: Acquisitions Businesses
-longTitle: 'Acquisitions (Businesses)'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Acquisitions (Businesses)
 french:
-- "[[Acquisition Entreprise]]"
+  - Acquisition Entreprise
+relatedTerm:
+  - "[[Business start-ups]]"
+  - "[[Businesses]]"
+  - "[[Mergers]]"
 ---
+# Acquisitions Businesses

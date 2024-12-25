@@ -1,8 +1,8 @@
 ---
 title: Environmental hazards
-longTitle: 'Environmental hazards'
+aliases: Environmental hazards
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Risque pour lenvironnement]]"
+  - "[[Risque pour lenvironnement]]"
 ---

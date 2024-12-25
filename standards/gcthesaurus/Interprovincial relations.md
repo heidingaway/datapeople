@@ -3,13 +3,13 @@ title: Interprovincial relations
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Interprovincial relations'
+  - gccommon
+aliases: Interprovincial relations
 french:
-- "[[Relations interprovinciales]]"
+  - "[[Relations interprovinciales]]"
 relatedTerm:
-- "[[Provincial governments]]"
-- "[[Provinces]]"
-- "[[Interprovincial cooperation]]"
+  - "[[Provincial governments]]"
+  - "[[Provinces]]"
+  - "[[Interprovincial cooperation]]"
 ---
 # Interprovincial relations

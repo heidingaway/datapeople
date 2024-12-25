@@ -1,8 +1,8 @@
 ---
 title: Initial public offering
-longTitle: 'Initial public offering'
+aliases: Initial public offering
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Placement initial]]"
+  - "[[Placement initial]]"
 ---

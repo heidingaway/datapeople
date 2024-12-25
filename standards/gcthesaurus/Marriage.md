@@ -1,12 +1,10 @@
 ---
 title: Marriage
-longTitle: 'Marriage'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Mariage]]"
+  - "[[Mariage]]"
 scopeNote:
-- "Refers to civil marriage as well as religious marr"
-usedFor:
-- "[[Weddings]]"
+  - Refers to civil marriage as well as religious marr
+aliases: Marriage
 ---

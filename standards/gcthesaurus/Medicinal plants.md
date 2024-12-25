@@ -3,16 +3,13 @@ title: Medicinal plants
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Medicinal plants'
+  - gccommon
 french:
-- "[[Plante medicinale]]"
+  - "[[Plante medicinale]]"
 relatedTerm:
-- "[[Alternative medicine]]"
-- "[[Marijuana]]"
-- "[[Drugs]]"
-usedFor:
-- "[[Drug plants]]"
-- "[[Herbal remedies]]"
+  - "[[Alternative medicine]]"
+  - "[[Marijuana]]"
+  - "[[Drugs]]"
+aliases: Medicinal plants
 ---
 # Medicinal plants

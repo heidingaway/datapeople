@@ -1,11 +1,8 @@
 ---
 title: Utilities
-longTitle: 'Utilities'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Services publics]]"
-usedFor:
-- "[[Public services]]"
-- "[[Public utilities]]"
+  - "[[Services publics]]"
+aliases: Utilities
 ---

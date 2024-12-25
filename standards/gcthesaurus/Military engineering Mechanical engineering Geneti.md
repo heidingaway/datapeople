@@ -1,8 +1,8 @@
 ---
 title: Military engineering Mechanical engineering Geneti
-longTitle: 'Military engineering, Mechanical engineering, Genetic engineering'
+aliases: Military engineering, Mechanical engineering, Genetic engineering
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Engineering]]"
+  - "[[Engineering]]"
 ---

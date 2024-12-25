@@ -1,13 +1,16 @@
 ---
 title: Air temperature
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Air temperature'
+  - gccommon
 french:
-- "[[Temperature de lair]]"
-usedFor:
-- "[[Atmospheric temperature]]"
+  - Temperature de l'air
+aliases:
+  - Air temperature
+relatedTerm:
+  - "[[Global warming]]"
+  - "[[Greenhouse effect]]"
+  - "[[Weather]]"
 ---
 # Air temperature

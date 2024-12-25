@@ -1,14 +1,20 @@
 ---
 title: Employment insurance
-longTitle: 'Employment insurance'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+id: 988
 french:
-- "[[Assurance-emploi]]"
+  - Assurance-emploi
 relatedTerm:
-- "[[Maternity benefits]]"
-- "[[Paternity benefits]]"
-usedFor:
-- "[[Unemployment benefits]]"
-- "[[Unemployment insurance]]"
+  - "[[Benefits]]"
+  - "[[Maternity benefits]]"
+  - "[[Paternity benefits]]"
+  - "[[Social security]]"
+  - "[[Unemployment]]"
+aliases:
+  - Unemployment benefits
+  - Unemployment insurance
 ---
+# Employment insurance

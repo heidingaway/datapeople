@@ -3,24 +3,21 @@ title: Loans
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Loans'
+  - gccommon
 french:
-- "[[Pret]]"
+  - "[[Pret]]"
 narrowerTerm:
-- "[[Business loans]]"
-- "[[Consumer loans]]"
-- "[[Defaulted loans]]"
-- "[[Interlibrary loans]]"
-- "[[Student loans]]"
-- "[[Term loans]]"
+  - "[[Business loans]]"
+  - "[[Consumer loans]]"
+  - "[[Defaulted loans]]"
+  - "[[Interlibrary loans]]"
+  - "[[Student loans]]"
+  - "[[Term loans]]"
 relatedTerm:
-- "[[Interest rates]]"
-- "[[Debt]"
-- "[[Credit]]"
-- "[[Borrowers]]"
-usedFor:
-- "[[Borrowing]]"
-- "[[Lending]]"
+  - "[[Interest rates]]"
+  - "[[Debt]"
+  - "[[Credit]]"
+  - "[[Borrowers]]"
+aliases: Loans
 ---
 # Loans

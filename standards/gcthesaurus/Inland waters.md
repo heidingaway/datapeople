@@ -1,13 +1,11 @@
 ---
 title: Inland waters
-longTitle: 'Inland waters'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Eaux interieures]]"
+  - "[[Eaux interieures]]"
 narrowerTerm:
-- "[[Lakes]]"
-- "[[Watercourses]]"
-usedFor:
-- "[[Internal waters]]"
+  - "[[Lakes]]"
+  - "[[Watercourses]]"
+aliases: Inland waters
 ---

@@ -3,12 +3,9 @@ title: Hogs
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Hogs'
+  - gccommon
 french:
-- "[[Porc]]"
-usedFor:
-- "[[Pigs]]"
-- "[[Swine]]"
+  - "[[Porc]]"
+aliases: Hogs
 ---
 # Hogs

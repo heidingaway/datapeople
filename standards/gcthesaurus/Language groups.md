@@ -3,14 +3,11 @@ title: Language groups
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Language groups'
+  - gccommon
 french:
-- "[[Groupe linguistique]]"
-usedFor:
-- "[[Linguistic communities]]"
-- "[[Linguistic groups]]"
+  - "[[Groupe linguistique]]"
+aliases: Language groups
 narrowerTerm:
-- "[[Language minorities]]"
+  - "[[Language minorities]]"
 ---
 # Language groups

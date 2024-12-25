@@ -1,8 +1,8 @@
 ---
 title: Landmines Battlefields
-longTitle: 'Landmines, Battlefields'
+aliases: Landmines, Battlefields
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Demining]]"
+  - "[[Demining]]"
 ---

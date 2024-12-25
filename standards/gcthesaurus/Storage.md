@@ -1,12 +1,10 @@
 ---
 title: Storage
-longTitle: 'Storage'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Entreposage]]"
+  - "[[Entreposage]]"
 narrowerTerm:
-- "[[Lockers]]"
-usedFor:
-- "[[Warehousing]]"
+  - "[[Lockers]]"
+aliases: Storage
 ---

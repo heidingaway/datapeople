@@ -1,8 +1,8 @@
 ---
 title: Quarterly financial reports Expenditure management
-longTitle: 'Quarterly financial reports, Expenditure management'
+aliases: Quarterly financial reports, Expenditure management
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Expenditures]]"
+  - "[[Expenditures]]"
 ---

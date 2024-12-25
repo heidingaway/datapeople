@@ -3,14 +3,14 @@ title: Tax incentives
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Tax incentives'
+  - gccommon
+aliases: Tax incentives
 broaderTerm:
-- "[[Incentives]]"
+  - "[[Incentives]]"
 french:
-- "[[Incitatif fiscal]]"
+  - "[[Incitatif fiscal]]"
 relatedTerm:
-- "[[Taxes]]"
-- "[[Tax benefits]]"
+  - "[[Taxes]]"
+  - "[[Tax benefits]]"
 ---
 # Tax incentives

@@ -1,12 +1,10 @@
 ---
 title: Financing companies
-longTitle: 'Financing companies'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Societe de financement]]"
+  - "[[Societe de financement]]"
 scopeNote:
-- "Financial intermediary often affiliated with a hol"
-usedFor:
-- "[[Finance companies]]"
+  - Financial intermediary often affiliated with a hol
+aliases: Financing companies
 ---

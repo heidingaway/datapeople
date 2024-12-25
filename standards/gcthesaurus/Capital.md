@@ -3,17 +3,17 @@ title: Capital
 created: 2024-12-13
 modified: 2024-12-17
 tags:
-- gccommon
-longTitle: 'Capital'
+  - gccommon
+aliases: Capital
 french:
-- "[[Capital]]"
+  - "[[Capital]]"
 narrowerTerm:
-- "[[Growth capital]]"
-- "[[Human capital]]"
-- "[[Venture capital]]"
-- "[[Working capital]]"
+  - "[[Growth capital]]"
+  - "[[Human capital]]"
+  - "[[Venture capital]]"
+  - "[[Working capital]]"
 relatedTerm:
-- "[[Property]]"
-- "[[Currency]]"
+  - "[[Property]]"
+  - "[[Currency]]"
 ---
 # Capital

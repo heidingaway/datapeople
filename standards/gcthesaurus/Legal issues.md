@@ -1,8 +1,8 @@
 ---
 title: Legal issues
-longTitle: 'Legal issues'
+aliases: Legal issues
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Questions juridiques]]"
+  - "[[Questions juridiques]]"
 ---

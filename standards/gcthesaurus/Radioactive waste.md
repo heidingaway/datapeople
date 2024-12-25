@@ -1,14 +1,11 @@
 ---
 title: Radioactive waste
-longTitle: 'Radioactive waste'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Hazardous waste]]"
-- "[[Radioactive materials]]"
+  - "[[Hazardous waste]]"
+  - "[[Radioactive materials]]"
 french:
-- "[[Dechets radioactifs]]"
-usedFor:
-- "[[Nuclear waste]]"
-- "[[Radioactive debris]]"
+  - "[[Dechets radioactifs]]"
+aliases: Radioactive waste
 ---

@@ -1,8 +1,12 @@
 ---
 title: Advisory services
-longTitle: 'Advisory services'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Advisory services
 french:
-- "[[Services consultatifs]]"
+  - Services consultatifs
 ---
+# Advisory services

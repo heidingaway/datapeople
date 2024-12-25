@@ -1,8 +1,8 @@
 ---
 title: Botany
-longTitle: 'Botany'
+aliases: Botany
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Botanique]]"
+  - "[[Botanique]]"
 ---

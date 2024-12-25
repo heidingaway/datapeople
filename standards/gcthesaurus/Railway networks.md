@@ -3,18 +3,9 @@ title: Railway networks
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Railway networks'
+  - gccommon
 french:
-- "[[Reseau ferroviaire]]"
-usedFor:
-- "[[Rail lines]]"
-- "[[Rail networks]]"
-- "[[Railroad tracks]]"
-- "[[Railroads]]"
-- "[[Railway lines]]"
-- "[[Railway systems]]"
-- "[[Railway tracks]]"
-- "[[Railways]]"
+  - "[[Reseau ferroviaire]]"
+aliases: Railway networks
 ---
 # Railway networks

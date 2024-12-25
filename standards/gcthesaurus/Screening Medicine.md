@@ -1,15 +1,10 @@
 ---
 title: Screening Medicine
-longTitle: 'Screening (Medicine)'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Depistage Medecine]]"
+  - "[[Depistage Medecine]]"
 scopeNote:
-- "The search for diseases or risk factors in people "
-usedFor:
-- "[[Genetic screening]]"
-- "[[Mass screening]]"
-- "[[Medical screening]]"
-- "[[Systematic screening]]"
+  - "The search for diseases or risk factors in people "
+aliases: Screening (Medicine)
 ---

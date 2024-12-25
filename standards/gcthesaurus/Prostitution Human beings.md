@@ -1,8 +1,8 @@
 ---
 title: Prostitution Human beings
-longTitle: 'Prostitution, Human beings'
+aliases: Prostitution, Human beings
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Human trafficking]]"
+  - "[[Human trafficking]]"
 ---

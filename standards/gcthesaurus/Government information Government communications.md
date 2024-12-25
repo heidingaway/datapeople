@@ -1,8 +1,8 @@
 ---
 title: Government information Government communications
-longTitle: 'Government information, Government communications'
+aliases: Government information, Government communications
 tags:
-- gccommon
+  - gccommon
 narrowerTerm:
-- "[[Information bulletin]]"
+  - "[[Information bulletin]]"
 ---

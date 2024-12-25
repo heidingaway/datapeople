@@ -1,8 +1,8 @@
 ---
 title: Regional markets
-longTitle: 'Regional markets'
+aliases: Regional markets
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Marche regional]]"
+  - "[[Marche regional]]"
 ---

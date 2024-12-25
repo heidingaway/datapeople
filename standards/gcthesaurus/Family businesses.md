@@ -1,10 +1,8 @@
 ---
 title: Family businesses
-longTitle: 'Family businesses'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Entreprise familiale]]"
-usedFor:
-- "[[Family owned businesses]]"
+  - "[[Entreprise familiale]]"
+aliases: Family businesses
 ---

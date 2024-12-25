@@ -1,13 +1,10 @@
 ---
 title: Historic sites
-longTitle: 'Historic sites'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Lieu historique]]"
+  - "[[Lieu historique]]"
 relatedTerm:
-- "[[Monuments]]"
-usedFor:
-- "[[Historic plaques]]"
-- "[[National historic sites]]"
+  - "[[Monuments]]"
+aliases: Historic sites
 ---

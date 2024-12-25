@@ -1,8 +1,8 @@
 ---
 title: Veterinary drugs Animal research Animal health Ani
-longTitle: 'Veterinary drugs, Animal research, Animal health, Animal diseases'
+aliases: Veterinary drugs, Animal research, Animal health, Animal diseases
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Veterinary medicine]]"
+  - "[[Veterinary medicine]]"
 ---

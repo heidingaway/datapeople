@@ -1,12 +1,12 @@
 ---
 title: Small business loans
-longTitle: 'Small business loans'
+aliases: Small business loans
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Business loans]]"
+  - "[[Business loans]]"
 french:
-- "[[Pret a la petite entreprise]]"
+  - "[[Pret a la petite entreprise]]"
 relatedTerm:
-- "[[Small businesses]]"
+  - "[[Small businesses]]"
 ---

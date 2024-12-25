@@ -1,8 +1,8 @@
 ---
 title: Urban environment Rural communities
-longTitle: 'Urban environment, Rural communities'
+aliases: Urban environment, Rural communities
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Rural environment]]"
+  - "[[Rural environment]]"
 ---

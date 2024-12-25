@@ -1,8 +1,8 @@
 ---
 title: Territorial parks Territorial governments Province
-longTitle: 'Territorial parks, Territorial governments, Provinces, Northern Canada'
+aliases: Territorial parks, Territorial governments, Provinces, Northern Canada
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Territories]]"
+  - "[[Territories]]"
 ---

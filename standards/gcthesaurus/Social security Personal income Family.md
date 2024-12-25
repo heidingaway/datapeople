@@ -1,8 +1,8 @@
 ---
 title: Social security Personal income Family
-longTitle: 'Social security, Personal income, Family'
+aliases: Social security, Personal income, Family
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Family allowances]]"
+  - "[[Family allowances]]"
 ---

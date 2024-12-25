@@ -3,13 +3,13 @@ title: Parole
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Parole'
+  - gccommon
+aliases: Parole
 french:
-- "[[Liberation conditionnelle]]"
+  - "[[Liberation conditionnelle]]"
 relatedTerm:
-- "[[Justice system]]"
-- "[[Criminal justice]]"
-- "[[Correctional institutions]]"
+  - "[[Justice system]]"
+  - "[[Criminal justice]]"
+  - "[[Correctional institutions]]"
 ---
 # Parole

@@ -1,10 +1,10 @@
 ---
 title: Clean technology
-longTitle: 'Clean technology'
+aliases: Clean technology
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Technologie propre]]"
+  - "[[Technologie propre]]"
 scopeNote:
-- "Environmental technology developed to reduce or el"
+  - Environmental technology developed to reduce or el
 ---

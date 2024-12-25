@@ -1,8 +1,8 @@
 ---
 title: Public libraries
-longTitle: 'Public libraries'
+aliases: Public libraries
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Bibliotheque publique]]"
+  - "[[Bibliotheque publique]]"
 ---

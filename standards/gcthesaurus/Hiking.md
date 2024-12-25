@@ -1,8 +1,8 @@
 ---
 title: Hiking
-longTitle: 'Hiking'
+aliases: Hiking
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Randonnee pedestre]]"
+  - "[[Randonnee pedestre]]"
 ---

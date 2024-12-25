@@ -1,8 +1,6 @@
 ---
 title: Values Ethics
-longTitle: 'Values, Ethics'
 tags:
-- gccommon
-usedFor:
-- "[[Code of conduct]]"
+  - gccommon
+aliases: Values, Ethics
 ---

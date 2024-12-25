@@ -1,12 +1,8 @@
 ---
 title: Terms of use
-longTitle: 'Terms of use'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Condition dutilisation]]"
-usedFor:
-- "[[Legal notices Web sites]]"
-- "[[Terms and conditions]]"
-- "[[Terms of service]]"
+  - "[[Condition dutilisation]]"
+aliases: Terms of use
 ---

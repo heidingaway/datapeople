@@ -1,14 +1,10 @@
 ---
 title: Emission control technology
-longTitle: 'Emission control technology'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Technologie antipollution]]"
+  - "[[Technologie antipollution]]"
 scopeNote:
-- "Technology developed to reduce the risks posed by "
-usedFor:
-- "[[Emission control equipment]]"
-- "[[Pollution control equipment]]"
-- "[[Pollution control technology]]"
+  - "Technology developed to reduce the risks posed by "
+aliases: Emission control technology
 ---

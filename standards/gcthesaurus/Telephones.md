@@ -1,17 +1,12 @@
 ---
 title: Telephones
-longTitle: 'Telephones'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Telephone]]"
+  - "[[Telephone]]"
 narrowerTerm:
-- "[[Cellular telephones]]"
+  - "[[Cellular telephones]]"
 relatedTerm:
-- "[[Voice mail]]"
-usedFor:
-- "[[Telephone companies]]"
-- "[[Telephone equipment]]"
-- "[[Telephone services]]"
-- "[[Telephone sets]]"
+  - "[[Voice mail]]"
+aliases: Telephones
 ---

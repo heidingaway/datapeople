@@ -1,13 +1,13 @@
 ---
 title: Grains
-longTitle: 'Grains'
+aliases: Grains
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Grain]]"
+  - "[[Grain]]"
 relatedTerm:
-- "[[Cereals]]"
-- "[[Grain elevators]]"
+  - "[[Cereals]]"
+  - "[[Grain elevators]]"
 scopeNote:
-- "Includes seed grain and edible grains like cereals"
+  - Includes seed grain and edible grains like cereals
 ---

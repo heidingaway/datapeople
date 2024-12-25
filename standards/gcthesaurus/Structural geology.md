@@ -1,8 +1,8 @@
 ---
 title: Structural geology
-longTitle: 'Structural geology'
+aliases: Structural geology
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Tectonique]]"
+  - "[[Tectonique]]"
 ---

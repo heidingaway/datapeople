@@ -1,23 +1,22 @@
 ---
 title: Child care
 created: 2024-12-13
-modified: 2024-12-17
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Child care'
+  - gccommon
+id: 1322
 french:
-- "[[Soin de lenfant]]"
+  - Soin de lenfant
 narrowerTerm:
-- "[[Infant care]]"
+  - "[[Infant care]]"
 relatedTerm:
-- "[[Daycare]]"
-- "[[Parenting]]"
-- "[[Daycare]]"
-- "[[Childrens health]]"
-- "[[Children]]"
-- "[[Child safety]]"
-usedFor:
-- "[[Care of the children]]"
-- "[[Childcare]]"
+  - "[[Child safety]]"
+  - "[[Children]]"
+  - "[[Childrens health]]"
+  - "[[Daycare]]"
+  - "[[Parenting]]"
+aliases:
+  - Care of the children
+  - Childcare
 ---
 # Child care

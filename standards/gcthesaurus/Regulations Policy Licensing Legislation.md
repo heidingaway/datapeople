@@ -1,8 +1,8 @@
 ---
 title: Regulations Policy Licensing Legislation
-longTitle: 'Regulations, Policy, Licensing, Legislation'
+aliases: Regulations, Policy, Licensing, Legislation
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Regulation]]"
+  - "[[Regulation]]"
 ---

@@ -3,15 +3,15 @@ title: Drilling
 created: 2024-12-13
 modified: 2024-12-17
 tags:
-- gccommon
-longTitle: 'Drilling'
+  - gccommon
+aliases: Drilling
 french:
-- "[[Forage]]"
+  - "[[Forage]]"
 narrowerTerm:
-- "[[Offshore drilling]]"
+  - "[[Offshore drilling]]"
 relatedTerm:
-- "[[Prospecting]]"
-- "[[Primary industry]]"
-- "[[Mining industry]]"
+  - "[[Prospecting]]"
+  - "[[Primary industry]]"
+  - "[[Mining industry]]"
 ---
 # Drilling

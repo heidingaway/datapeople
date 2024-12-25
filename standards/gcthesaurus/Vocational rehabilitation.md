@@ -1,13 +1,16 @@
 ---
 title: Vocational rehabilitation
-longTitle: 'Vocational rehabilitation'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-broaderTerm:
-- "[[Rehabilitation]]"
+  - gccommon
+id: 2583
 french:
-- "[[Readaptation professionnelle]]"
-usedFor:
-- "[[Employment rehabilitation]]"
-- "[[Occupational rehabilitation]]"
+  - Readaptation professionnelle
+aliases:
+  - Employment rehabilitation
+  - Occupational rehabilitation
+relatedTerm:
+  - "[[Retraining]]"
 ---
+# Vocational rehabilitation

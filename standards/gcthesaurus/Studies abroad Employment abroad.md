@@ -1,8 +1,8 @@
 ---
 title: Studies abroad Employment abroad
-longTitle: 'Studies abroad, Employment abroad'
+aliases: Studies abroad, Employment abroad
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Exchange programs]]"
+  - "[[Exchange programs]]"
 ---

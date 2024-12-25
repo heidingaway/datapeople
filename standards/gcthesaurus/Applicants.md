@@ -1,8 +1,8 @@
 ---
 title: Applicants
-longTitle: 'Applicants'
+aliases: Applicants
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Demandeur]]"
+  - "[[Demandeur]]"
 ---

@@ -3,14 +3,12 @@ title: Reading
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Reading'
+  - gccommon
 french:
-- "[[Lecture]]"
-usedFor:
-- "[[Reading skills]]"
+  - "[[Lecture]]"
+aliases: Reading
 relatedTerm:
-- "[[Literacy]]"
-- "[[Books]]"
+  - "[[Literacy]]"
+  - "[[Books]]"
 ---
 # Reading

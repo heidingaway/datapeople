@@ -1,8 +1,8 @@
 ---
 title: International programs
-longTitle: 'International programs'
+aliases: International programs
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Programme international]]"
+  - "[[Programme international]]"
 ---

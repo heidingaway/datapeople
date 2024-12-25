@@ -1,8 +1,8 @@
 ---
 title: Home-based businesses
-longTitle: 'Home-based businesses'
+aliases: Home-based businesses
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Entreprise domiciliaire]]"
+  - "[[Entreprise domiciliaire]]"
 ---

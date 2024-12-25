@@ -1,8 +1,8 @@
 ---
 title: Numeracy Literacy Independent living
-longTitle: 'Numeracy, Literacy, Independent living'
+aliases: Numeracy, Literacy, Independent living
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Life skills]]"
+  - "[[Life skills]]"
 ---

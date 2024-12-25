@@ -1,8 +1,8 @@
 ---
 title: Work permits
-longTitle: 'Work permits'
+aliases: Work permits
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Permis de travail]]"
+  - "[[Permis de travail]]"
 ---

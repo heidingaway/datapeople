@@ -1,8 +1,8 @@
 ---
 title: Religious history
-longTitle: 'Religious history'
+aliases: Religious history
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Histoire religieuse]]"
+  - "[[Histoire religieuse]]"
 ---

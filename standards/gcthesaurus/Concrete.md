@@ -1,10 +1,10 @@
 ---
 title: Concrete
-longTitle: 'Concrete'
+aliases: Concrete
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Construction materials]]"
+  - "[[Construction materials]]"
 french:
-- "[[Beton]]"
+  - "[[Beton]]"
 ---

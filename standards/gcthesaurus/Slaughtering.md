@@ -3,15 +3,12 @@ title: Slaughtering
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Slaughtering'
+  - gccommon
 french:
-- "[[Abattage danimaux]]"
-usedFor:
-- "[[Animal slaughtering]]"
-- "[[Slaughter of animals]]"
+  - "[[Abattage danimaux]]"
+aliases: Slaughtering
 relatedTerm:
-- "[[Livestock]]"
-- "[[Animal husbandry]]"
+  - "[[Livestock]]"
+  - "[[Animal husbandry]]"
 ---
 # Slaughtering

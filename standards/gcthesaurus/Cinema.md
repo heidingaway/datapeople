@@ -1,15 +1,10 @@
 ---
 title: Cinema
-longTitle: 'Cinema'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Cinema]]"
+  - "[[Cinema]]"
 relatedTerm:
-- "[[Film industry]]"
-usedFor:
-- "[[Films]]"
-- "[[Motion pictures]]"
-- "[[Movies]]"
-- "[[Moving pictures]]"
+  - "[[Film industry]]"
+aliases: Cinema
 ---

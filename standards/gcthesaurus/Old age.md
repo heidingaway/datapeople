@@ -3,12 +3,12 @@ title: Old age
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Old age'
+  - gccommon
+aliases: Old age
 french:
-- "[[Vieillesse]]"
+  - "[[Vieillesse]]"
 relatedTerm:
-- "[[Seniors]]"
-- "[[Aging]]"
+  - "[[Seniors]]"
+  - "[[Aging]]"
 ---
 # Old age

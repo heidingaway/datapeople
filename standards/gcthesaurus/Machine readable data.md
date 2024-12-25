@@ -3,13 +3,11 @@ title: Machine readable data
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Machine readable data'
+  - gccommon
 french:
-- "[[Donnees lisibles par machine]]"
+  - "[[Donnees lisibles par machine]]"
 relatedTerm:
-- "[[Data protection]]"
-usedFor:
-- "[[Electronic data]]"
+  - "[[Data protection]]"
+aliases: Machine readable data
 ---
 # Machine readable data

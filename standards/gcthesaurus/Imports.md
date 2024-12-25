@@ -1,10 +1,8 @@
 ---
 title: Imports
-longTitle: 'Imports'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Importation]]"
-usedFor:
-- "[[Commercial imports]]"
+  - "[[Importation]]"
+aliases: Imports
 ---

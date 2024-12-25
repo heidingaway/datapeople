@@ -1,15 +1,17 @@
 ---
 title: Ferries
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Ferries'
+  - gccommon
+aliases:
+  - Ferries
 french:
-- "[[Traversier]]"
+  - Traversier
 relatedTerm:
-- "[[Hovercraft]]"
-- "[[Tolls]]"
-- "[[Road transport]]"
+  - "[[Hovercraft]]"
+  - "[[Road transport]]"
+  - "[[Tolls]]"
+id: 2826
 ---
 # Ferries

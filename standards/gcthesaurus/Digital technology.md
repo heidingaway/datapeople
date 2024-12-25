@@ -3,11 +3,9 @@ title: Digital technology
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Digital technology'
+  - gccommon
 french:
-- "[[Technologie numerique]]"
-usedFor:
-- "[[Digital transmission]]"
+  - "[[Technologie numerique]]"
+aliases: Digital technology
 ---
 # Digital technology

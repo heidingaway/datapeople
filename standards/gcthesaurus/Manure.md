@@ -1,8 +1,17 @@
 ---
 title: Manure
-longTitle: 'Manure'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Manure
+id: 2831
 french:
-- "[[Fumier]]"
+  - Fumier
+relatedTerm:
+  - "[[Fertilizers]]"
+  - "[[Livestock]]"
+  - "[[Waste]]"
 ---
+# Manure

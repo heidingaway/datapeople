@@ -1,10 +1,8 @@
 ---
 title: Education policy
-longTitle: 'Education policy'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Politique educative]]"
-usedFor:
-- "[[Educational policy]]"
+  - "[[Politique educative]]"
+aliases: Education policy
 ---

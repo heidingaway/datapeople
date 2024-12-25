@@ -1,8 +1,8 @@
 ---
 title: Microorganisms Composting
-longTitle: 'Microorganisms, Composting'
+aliases: Microorganisms, Composting
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Biodegradation]]"
+  - "[[Biodegradation]]"
 ---

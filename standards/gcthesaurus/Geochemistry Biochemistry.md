@@ -1,8 +1,8 @@
 ---
 title: Geochemistry Biochemistry
-longTitle: 'Geochemistry, Biochemistry'
+aliases: Geochemistry, Biochemistry
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Chemistry]]"
+  - "[[Chemistry]]"
 ---

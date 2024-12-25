@@ -1,8 +1,8 @@
 ---
 title: Toxicology
-longTitle: 'Toxicology'
+aliases: Toxicology
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Toxicologie]]"
+  - "[[Toxicologie]]"
 ---

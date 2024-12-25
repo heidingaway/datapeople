@@ -1,17 +1,15 @@
 ---
 title: Cultural events
-longTitle: 'Cultural events'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Evenement culturel]]"
+  - "[[Evenement culturel]]"
 narrowerTerm:
-- "[[Art exhibitions]]"
-- "[[Festivals]]"
-- "[[International exhibitions]]"
-usedFor:
-- "[[Cultural activities]]"
+  - "[[Art exhibitions]]"
+  - "[[Festivals]]"
+  - "[[International exhibitions]]"
+aliases: Cultural events
 relatedTerm:
-- "[[Culture]]"
-- "[[Cultural programming]]"
+  - "[[Culture]]"
+  - "[[Cultural programming]]"
 ---

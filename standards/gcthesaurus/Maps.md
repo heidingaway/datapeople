@@ -1,16 +1,16 @@
 ---
 title: Maps
-longTitle: 'Maps'
+aliases: Maps
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Carte]]"
+  - "[[Carte]]"
 narrowerTerm:
-- "[[Aeronautical maps]]"
-- "[[Demographic maps]]"
-- "[[Geographical maps]]"
-- "[[Geological maps]]"
-- "[[Nautical charts]]"
-- "[[Road maps]]"
-- "[[Topographical maps]]"
+  - "[[Aeronautical maps]]"
+  - "[[Demographic maps]]"
+  - "[[Geographical maps]]"
+  - "[[Geological maps]]"
+  - "[[Nautical charts]]"
+  - "[[Road maps]]"
+  - "[[Topographical maps]]"
 ---

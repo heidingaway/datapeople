@@ -1,23 +1,22 @@
 ---
 title: Labour market
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Labour market'
+  - gccommon
+id: 2541
 french:
-- "[[Marche du travail]]"
+  - Marche du travail
 relatedTerm:
-- "[[Employers]]"
-- "[[Unemployment]]"
-- "[[Labour mobility]]"
-- "[[Labour]]"
-- "[[Job creation]]"
-- "[[Employment opportunities]]"
-- "[[Employers]]"
-usedFor:
-- "[[Employment market]]"
-- "[[Job market]]"
-- "[[Labor market]]"
+  - "[[Employers]]"
+  - "[[Employment opportunities]]"
+  - "[[Job creation]]"
+  - "[[Labour mobility]]"
+  - "[[Labour]]"
+  - "[[Unemployment]]"
+aliases:
+  - Employment market
+  - Job market
+  - Labor market
 ---
 # Labour market

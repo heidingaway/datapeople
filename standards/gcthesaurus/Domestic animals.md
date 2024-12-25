@@ -1,10 +1,8 @@
 ---
 title: Domestic animals
-longTitle: 'Domestic animals'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Animal domestique]]"
-usedFor:
-- "[[Pets]]"
+  - "[[Animal domestique]]"
+aliases: Domestic animals
 ---

@@ -1,8 +1,8 @@
 ---
 title: International trade Free trade agreements
-longTitle: 'International trade, Free trade agreements'
+aliases: International trade, Free trade agreements
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Free trade]]"
+  - "[[Free trade]]"
 ---

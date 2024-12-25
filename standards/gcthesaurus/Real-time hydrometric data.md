@@ -1,8 +1,8 @@
 ---
 title: Real-time hydrometric data
-longTitle: 'Real-time hydrometric data'
+aliases: Real-time hydrometric data
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Donnees hydrometriques en temps reel]]"
+  - "[[Donnees hydrometriques en temps reel]]"
 ---

@@ -1,10 +1,8 @@
 ---
 title: Animal rights
-longTitle: 'Animal rights'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Droits des animaux]]"
-usedFor:
-- "[[Animal protection]]"
+  - "[[Droits des animaux]]"
+aliases: Animal rights
 ---

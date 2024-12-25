@@ -1,13 +1,8 @@
 ---
 title: Personal care products
-longTitle: 'Personal care products'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Produit de soins personnels]]"
-usedFor:
-- "[[Beauty products]]"
-- "[[Cosmetic products]]"
-- "[[Cosmetics]]"
-- "[[Toiletries]]"
+  - "[[Produit de soins personnels]]"
+aliases: Personal care products
 ---

@@ -1,8 +1,8 @@
 ---
 title: Recourse
-longTitle: 'Recourse'
+aliases: Recourse
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Recours]]"
+  - "[[Recours]]"
 ---

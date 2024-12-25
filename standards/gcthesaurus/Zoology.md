@@ -3,18 +3,16 @@ title: Zoology
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Zoology'
+  - gccommon
 french:
-- "[[Zoologie]]"
+  - "[[Zoologie]]"
 narrowerTerm:
-- "[[Entomology]]"
-- "[[Ichthyology]]"
-- "[[Ornithology]]"
-usedFor:
-- "[[Animal sciences]]"
+  - "[[Entomology]]"
+  - "[[Ichthyology]]"
+  - "[[Ornithology]]"
+aliases: Zoology
 relatedTerm:
-- "[[Animals]]"
-- "[[Animal research]]"
+  - "[[Animals]]"
+  - "[[Animal research]]"
 ---
 # Zoology

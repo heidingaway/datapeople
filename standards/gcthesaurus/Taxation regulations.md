@@ -1,8 +1,8 @@
 ---
 title: Taxation regulations
-longTitle: 'Taxation regulations'
+aliases: Taxation regulations
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Reglementation en matiere de taxation]]"
+  - "[[Reglementation en matiere de taxation]]"
 ---

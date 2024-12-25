@@ -1,8 +1,8 @@
 ---
 title: Samples Benchmarks Assessment Approval processes
-longTitle: 'Samples, Benchmarks, Assessment, Approval processes'
+aliases: Samples, Benchmarks, Assessment, Approval processes
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Testing]]"
+  - "[[Testing]]"
 ---

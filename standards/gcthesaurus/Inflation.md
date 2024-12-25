@@ -3,15 +3,13 @@ title: Inflation
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Inflation'
+  - gccommon
 french:
-- "[[Inflation]]"
-usedFor:
-- "[[Inflation rates]]"
+  - "[[Inflation]]"
+aliases: Inflation
 relatedTerm:
-- "[[Prices]]"
-- "[[Economic indicators]]"
-- "[[Economic conditions]]"
+  - "[[Prices]]"
+  - "[[Economic indicators]]"
+  - "[[Economic conditions]]"
 ---
 # Inflation

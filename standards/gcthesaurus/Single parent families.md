@@ -3,14 +3,11 @@ title: Single parent families
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Single parent families'
+  - gccommon
 broaderTerm:
-- "[[Family]]"
+  - "[[Family]]"
 french:
-- "[[Famille monoparentale]]"
-usedFor:
-- "[[Lone parent families]]"
-- "[[One parent families]]"
+  - "[[Famille monoparentale]]"
+aliases: Single parent families
 ---
 # Single parent families

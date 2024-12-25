@@ -1,8 +1,8 @@
 ---
 title: Interest groups Awareness Advocacy
-longTitle: 'Interest groups, Awareness, Advocacy'
+aliases: Interest groups, Awareness, Advocacy
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Lobbying]]"
+  - "[[Lobbying]]"
 ---

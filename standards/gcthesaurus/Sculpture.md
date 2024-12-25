@@ -3,11 +3,9 @@ title: Sculpture
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Sculpture'
+  - gccommon
 french:
-- "[[Sculpture]]"
-usedFor:
-- "[[Carving]]"
+  - "[[Sculpture]]"
+aliases: Sculpture
 ---
 # Sculpture

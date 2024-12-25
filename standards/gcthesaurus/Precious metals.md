@@ -3,12 +3,12 @@ title: Precious metals
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Precious metals'
+  - gccommon
+aliases: Precious metals
 french:
-- "[[Metal precieux]]"
+  - "[[Metal precieux]]"
 narrowerTerm:
-- "[[Gold]]"
-- "[[Silver]]"
+  - "[[Gold]]"
+  - "[[Silver]]"
 ---
 # Precious metals

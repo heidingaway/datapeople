@@ -3,15 +3,15 @@ title: Recipients
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Recipients'
+  - gccommon
+aliases: Recipients
 scopeNote:
-- "An individual or entity that either has been autho"
+  - An individual or entity that either has been autho
 french:
-- "[[Beneficiaire]]"
+  - "[[Beneficiaire]]"
 relatedTerm:
-- "[[Transfer payments]]"
-- "[[Public finance]]"
-- "[[Funding]]"
+  - "[[Transfer payments]]"
+  - "[[Public finance]]"
+  - "[[Funding]]"
 ---
 # Recipients

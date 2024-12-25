@@ -1,12 +1,10 @@
 ---
 title: Parliamentary procedure
-longTitle: 'Parliamentary procedure'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Procedure parlementaire]]"
+  - "[[Procedure parlementaire]]"
 relatedTerm:
-- "[[Parliamentary committees]]"
-usedFor:
-- "[[Parliamentary debates]]"
+  - "[[Parliamentary committees]]"
+aliases: Parliamentary procedure
 ---

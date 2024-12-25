@@ -1,14 +1,10 @@
 ---
 title: Charitable donations
-longTitle: 'Charitable donations'
 tags:
-- gccommon
-broaderTerm:
-- "[[Donations]]"
+  - gccommon
 french:
-- "[[Don de charite]]"
+  - "[[Don de charite]]"
 relatedTerm:
-- "[[Charitable organizations]]"
-usedFor:
-- "[[Charitable contributions]]"
+  - "[[Charitable organizations]]"
+aliases: Charitable donations
 ---

@@ -3,21 +3,18 @@ title: Literature
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Literature'
+  - gccommon
 french:
-- "[[Litterature]]"
+  - "[[Litterature]]"
 narrowerTerm:
-- "[[Canadian literature]]"
-- "[[Childrens literature]]"
-- "[[Poetry]]"
+  - "[[Canadian literature]]"
+  - "[[Childrens literature]]"
+  - "[[Poetry]]"
 relatedTerm:
-- "[[Theatre]]"
-- "[[Writing]]"
-- "[[Biographies]]"
-- "[[Arts]]"
-usedFor:
-- "[[Literary works]]"
-- "[[Novels]]"
+  - "[[Theatre]]"
+  - "[[Writing]]"
+  - "[[Biographies]]"
+  - "[[Arts]]"
+aliases: Literature
 ---
 # Literature

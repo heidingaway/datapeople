@@ -3,14 +3,11 @@ title: Innu
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Innu'
+  - gccommon
 french:
-- "[[Innu]]"
+  - "[[Innu]]"
 scopeNote:
-- "Indigenous people inhabiting Labrador and northeas"
-usedFor:
-- "[[Innu First Nation]]"
-- "[[Innu Nation]]"
+  - Indigenous people inhabiting Labrador and northeas
+aliases: Innu
 ---
 # Innu

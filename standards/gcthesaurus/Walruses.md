@@ -1,8 +1,8 @@
 ---
 title: Walruses
-longTitle: 'Walruses'
+aliases: Walruses
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Morse]]"
+  - "[[Morse]]"
 ---

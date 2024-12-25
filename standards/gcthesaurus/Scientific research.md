@@ -1,11 +1,11 @@
 ---
 title: Scientific research
-longTitle: 'Scientific research'
+aliases: Scientific research
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Recherche scientifique]]"
+  - "[[Recherche scientifique]]"
 narrowerTerm:
-- "[[Animal research]]"
-- "[[Medical research]]"
+  - "[[Animal research]]"
+  - "[[Medical research]]"
 ---

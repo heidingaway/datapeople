@@ -3,13 +3,13 @@ title: Geomorphology
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Geomorphology'
+  - gccommon
+aliases: Geomorphology
 french:
-- "[[Geomorphologie]]"
+  - "[[Geomorphologie]]"
 relatedTerm:
-- "[[Surficial geology]]"
+  - "[[Surficial geology]]"
 scopeNote:
-- "The study of landforms"
+  - The study of landforms
 ---
 # Geomorphology

@@ -3,12 +3,12 @@ title: Fraud
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Fraud'
+  - gccommon
+aliases: Fraud
 french:
-- "[[Fraude]]"
+  - "[[Fraude]]"
 narrowerTerm:
-- "[[Forgery]]"
-- "[[Tax fraud]]"
+  - "[[Forgery]]"
+  - "[[Tax fraud]]"
 ---
 # Fraud

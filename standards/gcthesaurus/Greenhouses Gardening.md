@@ -1,8 +1,8 @@
 ---
 title: Greenhouses Gardening
-longTitle: 'Greenhouses, Gardening'
+aliases: Greenhouses, Gardening
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Horticulture]]"
+  - "[[Horticulture]]"
 ---

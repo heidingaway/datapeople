@@ -1,10 +1,10 @@
 ---
 title: Childrens books
-longTitle: "Children's books"
+aliases: Children's books
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Livre pour enfant]]"
+  - "[[Livre pour enfant]]"
 relatedTerm:
-- "[[Childrens literature]]"
+  - "[[Childrens literature]]"
 ---

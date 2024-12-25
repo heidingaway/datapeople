@@ -1,10 +1,10 @@
 ---
 title: Surface water
-longTitle: 'Surface water'
+aliases: Surface water
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Eau de surface]]"
+  - "[[Eau de surface]]"
 relatedTerm:
-- "[[Groundwater]]"
+  - "[[Groundwater]]"
 ---

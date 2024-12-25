@@ -1,12 +1,8 @@
 ---
 title: Counselling services
-longTitle: 'Counselling services'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Service dorientation]]"
-usedFor:
-- "[[Counseling]]"
-- "[[Counseling services]]"
-- "[[Counselling]]"
+  - "[[Service dorientation]]"
+aliases: Counselling services
 ---

@@ -1,8 +1,8 @@
 ---
 title: Multiculturalism Culture Cultural development
-longTitle: 'Multiculturalism, Culture, Cultural development'
+aliases: Multiculturalism, Culture, Cultural development
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Cultural policy]]"
+  - "[[Cultural policy]]"
 ---

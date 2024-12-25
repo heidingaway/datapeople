@@ -1,8 +1,8 @@
 ---
 title: Estimates
-longTitle: 'Estimates'
+aliases: Estimates
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Previsions budgetaires]]"
+  - "[[Previsions budgetaires]]"
 ---

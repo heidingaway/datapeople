@@ -1,10 +1,10 @@
 ---
 title: National symbols
-longTitle: 'National symbols'
+aliases: National symbols
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Symbole national]]"
+  - "[[Symbole national]]"
 narrowerTerm:
-- "[[National anthems]]"
+  - "[[National anthems]]"
 ---

@@ -3,11 +3,9 @@ title: Amphibians
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Amphibians'
+  - gccommon
 french:
-- "[[Amphibien]]"
-usedFor:
-- "[[Amphibia]]"
+  - "[[Amphibien]]"
+aliases: Amphibians
 ---
 # Amphibians

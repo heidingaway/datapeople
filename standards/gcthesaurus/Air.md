@@ -1,16 +1,18 @@
 ---
 title: Air
-longTitle: 'Air'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Air]]"
-usedFor:
-- "[[Atmosphere]]"
-- "[[Atmospheric environment]]"
+  - "[[Air]]"
+aliases:
+  - Air
+  - Atmosphere
+  - Atmospheric environment
 relatedTerm:
-- "[[Air quality]]"
-- "[[Air pollution]]"
-- "[[Air conditioning]]"
-- "[[Air-conditioning]]"
+  - "[[Air conditioning]]"
+  - "[[Air pollution]]"
+  - "[[Air quality]]"
 ---
+# Air

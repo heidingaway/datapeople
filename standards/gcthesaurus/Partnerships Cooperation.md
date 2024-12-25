@@ -1,8 +1,8 @@
 ---
 title: Partnerships Cooperation
-longTitle: 'Partnerships, Cooperation'
+aliases: Partnerships, Cooperation
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Collaborative research]]"
+  - "[[Collaborative research]]"
 ---

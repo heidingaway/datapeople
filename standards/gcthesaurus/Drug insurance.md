@@ -3,18 +3,13 @@ title: Drug insurance
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Drug insurance'
+  - gccommon
 french:
-- "[[Assurance medicaments]]"
-usedFor:
-- "[[Drug insurance plan]]"
-- "[[Pharmacare]]"
-- "[[Pharmacare plan]]"
-- "[[Pharmaceutical insurance]]"
+  - "[[Assurance medicaments]]"
+aliases: Drug insurance
 relatedTerm:
-- "[[Health insurance]]"
-- "[[Health care system]]"
-- "[[Drugs]]"
+  - "[[Health insurance]]"
+  - "[[Health care system]]"
+  - "[[Drugs]]"
 ---
 # Drug insurance

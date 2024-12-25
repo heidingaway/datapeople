@@ -1,8 +1,8 @@
 ---
 title: Petroleum industry Petroleum
-longTitle: 'Petroleum industry, Petroleum'
+aliases: Petroleum industry, Petroleum
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Oil sands]]"
+  - "[[Oil sands]]"
 ---

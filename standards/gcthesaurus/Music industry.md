@@ -1,14 +1,10 @@
 ---
 title: Music industry
-longTitle: 'Music industry'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie de la musique]]"
+  - "[[Industrie de la musique]]"
 scopeNote:
-- "Economic activity dedicated to the creation perfor"
-usedFor:
-- "[[Record industry]]"
-- "[[Recording industry]]"
-- "[[Sound recording industry]]"
+  - Economic activity dedicated to the creation perfor
+aliases: Music industry
 ---

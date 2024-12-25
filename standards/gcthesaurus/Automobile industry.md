@@ -1,11 +1,8 @@
 ---
 title: Automobile industry
-longTitle: 'Automobile industry'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie de lautomobile]]"
-usedFor:
-- "[[Auto industry]]"
-- "[[Automotive industry]]"
+  - "[[Industrie de lautomobile]]"
+aliases: Automobile industry
 ---

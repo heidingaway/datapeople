@@ -1,8 +1,8 @@
 ---
 title: Tides Seas Salt water Oceanography Ocean floor Oce
-longTitle: 'Tides, Seas, Salt water, Oceanography, Ocean floor, Ocean energy, Coasts, Coastal waters'
+aliases: Tides, Seas, Salt water, Oceanography, Ocean floor, Ocean energy, Coasts, Coastal waters
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Oceans]]"
+  - "[[Oceans]]"
 ---

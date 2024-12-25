@@ -1,8 +1,8 @@
 ---
-title: Marriage Marital status Family Divorce Common-law 
-longTitle: 'Marriage, Marital status, Family, Divorce, Common-law unions, Child support, Child custody, Adoption'
+title: Marriage Marital status Family Divorce Common-law
+aliases: Marriage, Marital status, Family, Divorce, Common-law unions, Child support, Child custody, Adoption
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Family law]]"
+  - "[[Family law]]"
 ---

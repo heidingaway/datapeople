@@ -3,11 +3,11 @@ title: Railway installations
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Railway installations'
+  - gccommon
+aliases: Railway installations
 french:
-- "[[Installations ferroviaires]]"
+  - "[[Installations ferroviaires]]"
 narrowerTerm:
-- "[[Train stations]]"
+  - "[[Train stations]]"
 ---
 # Railway installations

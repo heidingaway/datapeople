@@ -1,8 +1,8 @@
 ---
 title: Lakes
-longTitle: 'Lakes'
+aliases: Lakes
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Lac]]"
+  - "[[Lac]]"
 ---

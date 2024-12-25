@@ -1,10 +1,10 @@
 ---
 title: Design
-longTitle: 'Design'
+aliases: Design
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Conception]]"
+  - "[[Conception]]"
 relatedTerm:
-- "[[Implementation]]"
+  - "[[Implementation]]"
 ---

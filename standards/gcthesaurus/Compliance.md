@@ -1,10 +1,10 @@
 ---
 title: Compliance
-longTitle: 'Compliance'
+aliases: Compliance
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Conformite]]"
+  - "[[Conformite]]"
 relatedTerm:
-- "[[Enforcement]]"
+  - "[[Enforcement]]"
 ---

@@ -1,13 +1,8 @@
 ---
 title: Currency
-longTitle: 'Currency'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Monnaie]]"
-usedFor:
-- "[[Bank notes]]"
-- "[[Mint]]"
-- "[[Monetary system]]"
-- "[[Money]]"
+  - "[[Monnaie]]"
+aliases: Currency
 ---

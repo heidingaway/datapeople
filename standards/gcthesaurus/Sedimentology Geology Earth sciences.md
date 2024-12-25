@@ -1,8 +1,8 @@
 ---
 title: Sedimentology Geology Earth sciences
-longTitle: 'Sedimentology, Geology, Earth sciences'
+aliases: Sedimentology, Geology, Earth sciences
 tags:
-- gccommon
+  - gccommon
 narrowerTerm:
-- "[[Sedimentary rocks]]"
+  - "[[Sedimentary rocks]]"
 ---

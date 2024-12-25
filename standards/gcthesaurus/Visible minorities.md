@@ -1,10 +1,10 @@
 ---
 title: Visible minorities
-longTitle: 'Visible minorities'
+aliases: Visible minorities
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Minorite visible]]"
+  - "[[Minorite visible]]"
 relatedTerm:
-- "[[Ethnic minorities]]"
+  - "[[Ethnic minorities]]"
 ---

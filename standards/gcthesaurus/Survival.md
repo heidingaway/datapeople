@@ -1,10 +1,8 @@
 ---
 title: Survival
-longTitle: 'Survival'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Survie]]"
-usedFor:
-- "[[Survival training]]"
+  - "[[Survie]]"
+aliases: Survival
 ---

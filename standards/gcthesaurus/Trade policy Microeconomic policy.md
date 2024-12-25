@@ -1,8 +1,8 @@
 ---
 title: Trade policy Microeconomic policy
-longTitle: 'Trade policy, Microeconomic policy'
+aliases: Trade policy, Microeconomic policy
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Economic policy]]"
+  - "[[Economic policy]]"
 ---

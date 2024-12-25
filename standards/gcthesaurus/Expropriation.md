@@ -1,8 +1,8 @@
 ---
 title: Expropriation
-longTitle: 'Expropriation'
+aliases: Expropriation
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Expropriation]]"
+  - "[[Expropriation]]"
 ---

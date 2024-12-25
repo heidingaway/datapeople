@@ -1,8 +1,8 @@
 ---
 title: Epidemics
-longTitle: 'Epidemics'
+aliases: Epidemics
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Epidemie]]"
+  - "[[Epidemie]]"
 ---

@@ -1,12 +1,8 @@
 ---
 title: Oil sands
-longTitle: 'Oil sands'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Sables bitumineux]]"
-usedFor:
-- "[[Bituminous sands]]"
-- "[[Oil sand]]"
-- "[[Tar sands]]"
+  - "[[Sables bitumineux]]"
+aliases: Oil sands
 ---

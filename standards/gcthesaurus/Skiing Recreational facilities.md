@@ -1,8 +1,8 @@
 ---
 title: Skiing Recreational facilities
-longTitle: 'Skiing, Recreational facilities'
+aliases: Skiing, Recreational facilities
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Ski trails]]"
+  - "[[Ski trails]]"
 ---

@@ -1,10 +1,8 @@
 ---
 title: Indigenous law
-longTitle: 'Indigenous law'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Droit autochtone]]"
-usedFor:
-- "[[Aboriginal law]]"
+  - "[[Droit autochtone]]"
+aliases: Indigenous law
 ---

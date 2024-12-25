@@ -1,12 +1,10 @@
 ---
 title: Red tape burdens
-longTitle: 'Red tape burdens'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Fardeau administratif]]"
+  - "[[Fardeau administratif]]"
 narrowerTerm:
-- "[[Red tape reduction]]"
-usedFor:
-- "[[Administrative burdens]]"
+  - "[[Red tape reduction]]"
+aliases: Red tape burdens
 ---

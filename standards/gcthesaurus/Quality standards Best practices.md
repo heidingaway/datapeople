@@ -1,8 +1,8 @@
 ---
 title: Quality standards Best practices
-longTitle: 'Quality standards, Best practices'
+aliases: Quality standards, Best practices
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Quality control]]"
+  - "[[Quality control]]"
 ---

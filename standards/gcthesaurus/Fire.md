@@ -1,10 +1,10 @@
 ---
 title: Fire
-longTitle: 'Fire'
+aliases: Fire
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Incendie]]"
+  - "[[Incendie]]"
 narrowerTerm:
-- "[[Forest fires]]"
+  - "[[Forest fires]]"
 ---

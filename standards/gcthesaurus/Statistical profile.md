@@ -1,8 +1,8 @@
 ---
 title: Statistical profile
-longTitle: 'Statistical profile'
+aliases: Statistical profile
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Profil statistique]]"
+  - "[[Profil statistique]]"
 ---

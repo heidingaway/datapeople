@@ -3,33 +3,21 @@ title: Armed forces
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Armed forces'
+  - gccommon
 french:
-- "[[Forces armees]]"
+  - "[[Forces armees]]"
 narrowerTerm:
-- "[[Peacekeeping forces]]"
+  - "[[Peacekeeping forces]]"
 relatedTerm:
-- "[[Military command]]"
-- "[[Military law]]"
-- "[[War]]"
-- "[[Military police]]"
-- "[[Military personnel]]"
-- "[[Military law]]"
-- "[[Military command]]"
-- "[[Defence policy]]"
-- "[[Allied forces]]"
-usedFor:
-- "[[Air forces]]"
-- "[[Armed services]]"
-- "[[Army]]"
-- "[[Cadets]]"
-- "[[Ground forces]]"
-- "[[Land forces]]"
-- "[[Maritime forces]]"
-- "[[Military forces]]"
-- "[[Militia]]"
-- "[[Naval forces]]"
-- "[[Regiments]]"
+  - "[[Military command]]"
+  - "[[Military law]]"
+  - "[[War]]"
+  - "[[Military police]]"
+  - "[[Military personnel]]"
+  - "[[Military law]]"
+  - "[[Military command]]"
+  - "[[Defence policy]]"
+  - "[[Allied forces]]"
+aliases: Armed forces
 ---
 # Armed forces

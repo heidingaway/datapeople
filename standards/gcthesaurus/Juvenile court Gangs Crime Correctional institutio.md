@@ -1,8 +1,8 @@
 ---
 title: Juvenile court Gangs Crime Correctional institutio
-longTitle: 'Juvenile court, Gangs, Crime, Correctional institutions, Adolescents'
+aliases: Juvenile court, Gangs, Crime, Correctional institutions, Adolescents
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Young offenders]]"
+  - "[[Young offenders]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Polar sciences Northern studies
-longTitle: 'Polar sciences, Northern studies'
+aliases: Polar sciences, Northern studies
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Polar regions]]"
+  - "[[Polar regions]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Term loans Recoveries Debt Borrowers
-longTitle: 'Term loans, Recoveries, Debt, Borrowers'
+aliases: Term loans, Recoveries, Debt, Borrowers
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Debtors]]"
+  - "[[Debtors]]"
 ---

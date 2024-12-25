@@ -1,8 +1,8 @@
 ---
 title: Migratory birds
-longTitle: 'Migratory birds'
+aliases: Migratory birds
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Oiseau migrateur]]"
+  - "[[Oiseau migrateur]]"
 ---

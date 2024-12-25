@@ -1,13 +1,8 @@
 ---
 title: Media
-longTitle: 'Media'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Media]]"
-usedFor:
-- "[[Electronic media]]"
-- "[[Information media]]"
-- "[[Mass communication media]]"
-- "[[Mass media]]"
+  - "[[Media]]"
+aliases: Media
 ---

@@ -1,8 +1,8 @@
 ---
 title: Textile industry
-longTitle: 'Textile industry'
+aliases: Textile industry
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie textile]]"
+  - "[[Industrie textile]]"
 ---

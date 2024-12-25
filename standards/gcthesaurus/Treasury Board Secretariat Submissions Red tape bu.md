@@ -1,8 +1,8 @@
 ---
 title: Treasury Board Secretariat Submissions Red tape bu
-longTitle: 'Treasury Board Secretariat, Submissions, Red tape burdens'
+aliases: Treasury Board Secretariat, Submissions, Red tape burdens
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Federal government]]"
+  - "[[Federal government]]"
 ---

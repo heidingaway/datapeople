@@ -1,21 +1,21 @@
 ---
 title: Energy supply
 created: 2024-12-13
-modified: 2024-12-17
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Energy]]"
-- "[[Energy production]]"
-- "[[Energy use]]"
-- "[[Renewable energy]]"
-- "[[Supply]]"
-usedFor:
-- "[[Energy resources]]"
-- "[[Energy sources]]"
-- "[[Power resources]]"
-- "[[Power supply]]"
+  - "[[Energy production]]"
+  - "[[Energy use]]"
+  - "[[Energy]]"
+  - "[[Renewable energy]]"
+  - "[[Supply]]"
+aliases:
+  - Energy resources
+  - Energy sources
+  - Power resources
+  - Power supply
 narrowerTerm:
-- "[[Fuel supply]]"
+  - "[[Fuel supply]]"
 ---
 # Energy supply

@@ -1,8 +1,8 @@
 ---
 title: Public opinion
-longTitle: 'Public opinion'
+aliases: Public opinion
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Opinion publique]]"
+  - "[[Opinion publique]]"
 ---

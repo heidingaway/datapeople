@@ -1,8 +1,8 @@
 ---
 title: Military technology Explosives Arms control Armour
-longTitle: 'Military technology, Explosives, Arms control, Armouries'
+aliases: Military technology, Explosives, Arms control, Armouries
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Weapons]]"
+  - "[[Weapons]]"
 ---

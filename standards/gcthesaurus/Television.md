@@ -3,16 +3,13 @@ title: Television
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Television'
+  - gccommon
 french:
-- "[[Television]]"
-usedFor:
-- "[[Pay television]]"
-- "[[TV]]"
+  - "[[Television]]"
+aliases: Television
 relatedTerm:
-- "[[Media]]"
-- "[[Cable television]]"
-- "[[Broadcasting]]"
+  - "[[Media]]"
+  - "[[Cable television]]"
+  - "[[Broadcasting]]"
 ---
 # Television

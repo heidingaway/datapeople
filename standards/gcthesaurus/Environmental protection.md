@@ -3,29 +3,23 @@ title: Environmental protection
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Environmental protection'
+  - gccommon
 french:
-- "[[Protection de lenvironnement]]"
+  - "[[Protection de lenvironnement]]"
 relatedTerm:
-- "[[Environmental technology]]"
-- "[[Green products]]"
-- "[[Sustainable development]]"
-- "[[Pollution prevention]]"
-- "[[Environmental quality]]"
-- "[[Environmental management]]"
-- "[[Environmental hazards]]"
-- "[[Environment]]"
+  - "[[Environmental technology]]"
+  - "[[Green products]]"
+  - "[[Sustainable development]]"
+  - "[[Pollution prevention]]"
+  - "[[Environmental quality]]"
+  - "[[Environmental management]]"
+  - "[[Environmental hazards]]"
+  - "[[Environment]]"
 scopeNote:
-- "Protection conservation and preservation of the en"
-usedFor:
-- "[[Environment protection]]"
-- "[[Environmental conservation]]"
-- "[[Environmental preservation]]"
-- "[[Preservation of the environment]]"
-- "[[Protection of the environment]]"
+  - Protection conservation and preservation of the en
+aliases: Environmental protection
 narrowerTerm:
-- "[[Resources conservation]]"
-- "[[Nature conservation]]"
+  - "[[Resources conservation]]"
+  - "[[Nature conservation]]"
 ---
 # Environmental protection

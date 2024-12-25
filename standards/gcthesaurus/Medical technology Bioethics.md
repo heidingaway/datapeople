@@ -1,8 +1,8 @@
 ---
 title: Medical technology Bioethics
-longTitle: 'Medical technology, Bioethics'
+aliases: Medical technology, Bioethics
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Transplantation Medicine]]"
+  - "[[Transplantation Medicine]]"
 ---

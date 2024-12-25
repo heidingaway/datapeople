@@ -1,8 +1,8 @@
 ---
 title: Governor General
-longTitle: 'Governor General'
+aliases: Governor General
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gouverneur general]]"
+  - "[[Gouverneur general]]"
 ---

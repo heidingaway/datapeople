@@ -1,8 +1,8 @@
 ---
 title: Retention of staff
-longTitle: 'Retention of staff'
+aliases: Retention of staff
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Maintien de leffectif]]"
+  - "[[Maintien de leffectif]]"
 ---

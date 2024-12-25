@@ -1,28 +1,29 @@
 ---
 title: Motor vehicles
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Motor vehicles'
+  - gccommon
 french:
-- "[[Vehicule automobile]]"
+  - Vehicule automobile
 narrowerTerm:
-- "[[Automobiles]]"
-- "[[Buses]]"
-- "[[Electric vehicles]]"
-- "[[Trucks]]"
+  - "[[Automobiles]]"
+  - "[[Buses]]"
+  - "[[Electric vehicles]]"
+  - "[[Trucks]]"
 relatedTerm:
-- "[[Fleet management]]"
-- "[[Parking]]"
-- "[[Road transport]]"
-- "[[Driving]]"
+  - "[[Driving]]"
+  - "[[Fleet management]]"
+  - "[[Parking]]"
+  - "[[Road transport]]"
 scopeNote:
-- "Refers to motor vehicles for road transportation"
-usedFor:
-- "[[Automotive vehicles]]"
-- "[[Motor vehicle fleets]]"
-- "[[Road motor vehicles]]"
-- "[[Vehicle fleets]]"
+  - Refers to motor vehicles for road transportation
+aliases:
+  - Automotive vehicles
+  - Motor vehicle fleets
+  - Motor vehicles
+  - Road motor vehicles
+  - Vehicle fleets
+id: 907
 ---
 # Motor vehicles

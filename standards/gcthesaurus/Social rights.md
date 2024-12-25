@@ -1,8 +1,8 @@
 ---
 title: Social rights
-longTitle: 'Social rights'
+aliases: Social rights
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Droits sociaux]]"
+  - "[[Droits sociaux]]"
 ---

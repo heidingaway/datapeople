@@ -1,8 +1,8 @@
 ---
 title: Product development Models Modelling Design
-longTitle: 'Product development, Models, Modelling, Design'
+aliases: Product development, Models, Modelling, Design
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Prototyping]]"
+  - "[[Prototyping]]"
 ---

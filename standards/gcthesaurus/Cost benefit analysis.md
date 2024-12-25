@@ -1,8 +1,8 @@
 ---
 title: Cost benefit analysis
-longTitle: 'Cost benefit analysis'
+aliases: Cost benefit analysis
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Analyse cout-benefice]]"
+  - "[[Analyse cout-benefice]]"
 ---

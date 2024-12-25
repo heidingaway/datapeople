@@ -3,12 +3,12 @@ title: Moratorium
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Moratorium'
+  - gccommon
+aliases: Moratorium
 french:
-- "[[Moratoire]]"
+  - "[[Moratoire]]"
 relatedTerm:
-- "[[Prohibition]]"
-- "[[Injunctions]]"
+  - "[[Prohibition]]"
+  - "[[Injunctions]]"
 ---
 # Moratorium

@@ -1,8 +1,8 @@
 ---
 title: Infectious diseases Blood supply
-longTitle: 'Infectious diseases, Blood supply'
+aliases: Infectious diseases, Blood supply
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Infected blood]]"
+  - "[[Infected blood]]"
 ---

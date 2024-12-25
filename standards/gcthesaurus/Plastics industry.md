@@ -1,8 +1,8 @@
 ---
 title: Plastics industry
-longTitle: 'Plastics industry'
+aliases: Plastics industry
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie des matieres plastiques]]"
+  - "[[Industrie des matieres plastiques]]"
 ---

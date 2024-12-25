@@ -1,10 +1,8 @@
 ---
 title: Homelessness
-longTitle: 'Homelessness'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Sans-abri]]"
-usedFor:
-- "[[Homeless]]"
+  - "[[Sans-abri]]"
+aliases: Homelessness
 ---

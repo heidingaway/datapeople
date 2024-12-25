@@ -1,12 +1,10 @@
 ---
 title: Dairy cattle
-longTitle: 'Dairy cattle'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Bovins laitiers]]"
+  - "[[Bovins laitiers]]"
 relatedTerm:
-- "[[Milk]]"
-usedFor:
-- "[[Dairy cows]]"
+  - "[[Milk]]"
+aliases: Dairy cattle
 ---

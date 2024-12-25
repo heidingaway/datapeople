@@ -1,8 +1,8 @@
 ---
 title: Tenders Contracts Consulting Call for tenders
-longTitle: 'Tenders, Contracts, Consulting, Call for tenders'
+aliases: Tenders, Contracts, Consulting, Call for tenders
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Contracting]]"
+  - "[[Contracting]]"
 ---

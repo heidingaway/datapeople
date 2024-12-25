@@ -1,8 +1,8 @@
 ---
 title: Quality control Benchmarks
-longTitle: 'Quality control, Benchmarks'
+aliases: Quality control, Benchmarks
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Best practices]]"
+  - "[[Best practices]]"
 ---

@@ -1,14 +1,10 @@
 ---
 title: Genetically modified foods
-longTitle: 'Genetically modified foods'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Aliment genetiquement modifie]]"
+  - "[[Aliment genetiquement modifie]]"
 scopeNote:
-- "Foods derived from genetically modified organisms"
-usedFor:
-- "[[GM foods]]"
-- "[[Genetically engineered foods]]"
-- "[[Transgenic foods]]"
+  - Foods derived from genetically modified organisms
+aliases: Genetically modified foods
 ---

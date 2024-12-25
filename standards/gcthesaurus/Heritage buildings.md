@@ -1,10 +1,8 @@
 ---
 title: Heritage buildings
-longTitle: 'Heritage buildings'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Edifice patrimonial]]"
-usedFor:
-- "[[Historic buildings]]"
+  - "[[Edifice patrimonial]]"
+aliases: Heritage buildings
 ---

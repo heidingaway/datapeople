@@ -1,12 +1,10 @@
 ---
 title: Customs
-longTitle: 'Customs'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Coutume]]"
+  - "[[Coutume]]"
 scopeNote:
-- "Long-established habitual or traditional practices"
-usedFor:
-- "[[Traditions]]"
+  - Long-established habitual or traditional practices
+aliases: Customs
 ---

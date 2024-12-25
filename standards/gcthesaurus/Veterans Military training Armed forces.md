@@ -1,8 +1,8 @@
 ---
 title: Veterans Military training Armed forces
-longTitle: 'Veterans, Military training, Armed forces'
+aliases: Veterans, Military training, Armed forces
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Military personnel]]"
+  - "[[Military personnel]]"
 ---

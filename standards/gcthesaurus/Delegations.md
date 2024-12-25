@@ -1,8 +1,8 @@
 ---
 title: Delegations
-longTitle: 'Delegations'
+aliases: Delegations
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Delegation]]"
+  - "[[Delegation]]"
 ---

@@ -3,16 +3,14 @@ title: Consumerism
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Consumerism'
+  - gccommon
 french:
-- "[[Consommation]]"
-usedFor:
-- "[[Consumption]]"
+  - "[[Consommation]]"
+aliases: Consumerism
 relatedTerm:
-- "[[Purchasing]]"
-- "[[Demand]]"
-- "[[Consumers]]"
-- "[[Consumer products]]"
+  - "[[Purchasing]]"
+  - "[[Demand]]"
+  - "[[Consumers]]"
+  - "[[Consumer products]]"
 ---
 # Consumerism

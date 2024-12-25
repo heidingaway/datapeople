@@ -1,8 +1,8 @@
 ---
 title: Tax fraud Misappropriation of funds
-longTitle: 'Tax fraud, Misappropriation of funds'
+aliases: Tax fraud, Misappropriation of funds
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Economic crime]]"
+  - "[[Economic crime]]"
 ---

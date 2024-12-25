@@ -1,11 +1,11 @@
 ---
 title: Psychology
-longTitle: 'Psychology'
+aliases: Psychology
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Psychologie]]"
+  - "[[Psychologie]]"
 relatedTerm:
-- "[[Behaviour]]"
-- "[[Attitudes]]"
+  - "[[Behaviour]]"
+  - "[[Attitudes]]"
 ---

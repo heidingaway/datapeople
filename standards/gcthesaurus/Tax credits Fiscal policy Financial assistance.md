@@ -1,8 +1,8 @@
 ---
 title: Tax credits Fiscal policy Financial assistance
-longTitle: 'Tax credits, Fiscal policy, Financial assistance'
+aliases: Tax credits, Fiscal policy, Financial assistance
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Fiscal assistance]]"
+  - "[[Fiscal assistance]]"
 ---

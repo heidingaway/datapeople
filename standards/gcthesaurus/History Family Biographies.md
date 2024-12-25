@@ -1,8 +1,8 @@
 ---
 title: History Family Biographies
-longTitle: 'History, Family, Biographies'
+aliases: History, Family, Biographies
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Genealogy]]"
+  - "[[Genealogy]]"
 ---

@@ -3,17 +3,15 @@ title: Northern development
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Northern development'
+  - gccommon
 broaderTerm:
-- "[[Regional development]]"
+  - "[[Regional development]]"
 french:
-- "[[Developpement du Nord]]"
-usedFor:
-- "[[Northern economics]]"
+  - "[[Developpement du Nord]]"
+aliases: Northern development
 relatedTerm:
-- "[[Polar sciences]]"
-- "[[Northern studies]]"
-- "[[Northern Canada]]"
+  - "[[Polar sciences]]"
+  - "[[Northern studies]]"
+  - "[[Northern Canada]]"
 ---
 # Northern development

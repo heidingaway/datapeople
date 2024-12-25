@@ -3,14 +3,14 @@ title: Production
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Production'
+  - gccommon
+aliases: Production
 french:
-- "[[Production]]"
+  - "[[Production]]"
 relatedTerm:
-- "[[Supply]]"
-- "[[Products]]"
-- "[[Productivity]]"
-- "[[Manufacturing industry]]"
+  - "[[Supply]]"
+  - "[[Products]]"
+  - "[[Productivity]]"
+  - "[[Manufacturing industry]]"
 ---
 # Production

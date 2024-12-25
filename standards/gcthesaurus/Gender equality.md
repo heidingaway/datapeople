@@ -1,10 +1,8 @@
 ---
 title: Gender equality
-longTitle: 'Gender equality'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Egalite des sexes]]"
-usedFor:
-- "[[Womens equality]]"
+  - "[[Egalite des sexes]]"
+aliases: Gender equality
 ---

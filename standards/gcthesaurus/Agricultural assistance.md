@@ -1,12 +1,12 @@
 ---
 title: Agricultural assistance
-longTitle: 'Agricultural assistance'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Aide a lagriculture]]"
-usedFor:
-- "[[Agricultural aid]]"
-- "[[Farm aid]]"
-- "[[Farm assistance]]"
+  - Aide a lagriculture
+aliases:
+  - Agricultural assistance
 ---
+# Agricultural assistance

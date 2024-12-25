@@ -1,12 +1,12 @@
 ---
 title: Charters
-longTitle: 'Charters'
+aliases: Charters
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Charte]]"
+  - "[[Charte]]"
 narrowerTerm:
-- "[[Charter of rights and freedoms]]"
+  - "[[Charter of rights and freedoms]]"
 scopeNote:
-- "Documents setting forth the aims and principles of"
+  - Documents setting forth the aims and principles of
 ---

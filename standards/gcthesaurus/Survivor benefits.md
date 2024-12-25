@@ -1,12 +1,10 @@
 ---
 title: Survivor benefits
-longTitle: 'Survivor benefits'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Prestation au survivant]]"
+  - "[[Prestation au survivant]]"
 scopeNote:
-- "Benefits that are payable to the beneficiary typic"
-usedFor:
-- "[[Death benefits]]"
+  - Benefits that are payable to the beneficiary typic
+aliases: Survivor benefits
 ---

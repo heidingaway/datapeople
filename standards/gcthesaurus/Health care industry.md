@@ -1,12 +1,10 @@
 ---
 title: Health care industry
-longTitle: 'Health care industry'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie des soins de sante]]"
+  - "[[Industrie des soins de sante]]"
 scopeNote:
-- "Economic sector concerned with the provision distr"
-usedFor:
-- "[[Health industry]]"
+  - Economic sector concerned with the provision distr
+aliases: Health care industry
 ---

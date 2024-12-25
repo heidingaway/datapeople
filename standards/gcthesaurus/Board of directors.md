@@ -1,8 +1,8 @@
 ---
 title: Board of directors
-longTitle: 'Board of directors'
+aliases: Board of directors
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Conseil dadministration]]"
+  - "[[Conseil dadministration]]"
 ---

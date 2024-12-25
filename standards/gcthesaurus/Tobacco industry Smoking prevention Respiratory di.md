@@ -1,8 +1,8 @@
 ---
 title: Tobacco industry Smoking prevention Respiratory di
-longTitle: 'Tobacco industry, Smoking prevention, Respiratory diseases'
+aliases: Tobacco industry, Smoking prevention, Respiratory diseases
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Smoking]]"
+  - "[[Smoking]]"
 ---

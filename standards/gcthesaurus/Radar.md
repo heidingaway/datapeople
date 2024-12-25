@@ -1,8 +1,8 @@
 ---
 title: Radar
-longTitle: 'Radar'
+aliases: Radar
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Radar]]"
+  - "[[Radar]]"
 ---

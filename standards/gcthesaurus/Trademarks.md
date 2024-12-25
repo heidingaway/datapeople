@@ -3,15 +3,12 @@ title: Trademarks
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Trademarks'
+  - gccommon
 french:
-- "[[Marque de commerce]]"
-usedFor:
-- "[[Registered trademarks]]"
-- "[[Trade-marks]]"
+  - "[[Marque de commerce]]"
+aliases: Trademarks
 relatedTerm:
-- "[[Patents]]"
-- "[[Business names]]"
+  - "[[Patents]]"
+  - "[[Business names]]"
 ---
 # Trademarks

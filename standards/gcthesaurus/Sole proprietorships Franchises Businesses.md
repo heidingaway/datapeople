@@ -1,8 +1,8 @@
 ---
 title: Sole proprietorships Franchises Businesses
-longTitle: 'Sole proprietorships, Franchises, Businesses'
+aliases: Sole proprietorships, Franchises, Businesses
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Business types]]"
+  - "[[Business types]]"
 ---

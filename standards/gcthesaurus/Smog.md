@@ -1,10 +1,10 @@
 ---
 title: Smog
-longTitle: 'Smog'
+aliases: Smog
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Air pollution]]"
+  - "[[Air pollution]]"
 french:
-- "[[Smog]]"
+  - "[[Smog]]"
 ---

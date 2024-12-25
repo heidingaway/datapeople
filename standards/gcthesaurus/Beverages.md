@@ -1,16 +1,19 @@
 ---
 title: Beverages
-longTitle: 'Beverages'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Boisson]]"
+  - "[[Boisson]]"
 narrowerTerm:
-- "[[Alcoholic beverages]]"
-- "[[Coffee]]"
-- "[[Tea]]"
+  - "[[Alcoholic beverages]]"
+  - "[[Coffee]]"
+  - "[[Drinking water]]"
+  - "[[Tea]]"
 relatedTerm:
-- "[[Beverage industry]]"
-usedFor:
-- "[[Drinks]]"
+  - "[[Beverage industry]]"
+aliases:
+  - Beverages
 ---
+# Beverages

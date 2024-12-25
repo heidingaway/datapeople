@@ -1,8 +1,8 @@
 ---
 title: Unpaid work Household equipment Cooking
-longTitle: 'Unpaid work, Household equipment, Cooking'
+aliases: Unpaid work, Household equipment, Cooking
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Home economics]]"
+  - "[[Home economics]]"
 ---

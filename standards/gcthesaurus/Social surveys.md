@@ -1,8 +1,8 @@
 ---
 title: Social surveys
-longTitle: 'Social surveys'
+aliases: Social surveys
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Enquete sociale]]"
+  - "[[Enquete sociale]]"
 ---

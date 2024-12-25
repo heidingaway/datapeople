@@ -1,8 +1,8 @@
 ---
 title: Athletes
-longTitle: 'Athletes'
+aliases: Athletes
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Athlete]]"
+  - "[[Athlete]]"
 ---

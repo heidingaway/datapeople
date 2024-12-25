@@ -1,8 +1,8 @@
 ---
 title: Preventive medicine Health protection Health
-longTitle: 'Preventive medicine, Health protection, Health'
+aliases: Preventive medicine, Health protection, Health
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Health promotion]]"
+  - "[[Health promotion]]"
 ---

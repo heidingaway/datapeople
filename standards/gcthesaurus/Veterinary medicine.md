@@ -1,10 +1,10 @@
 ---
 title: Veterinary medicine
-longTitle: 'Veterinary medicine'
+aliases: Veterinary medicine
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Medecine veterinaire]]"
+  - "[[Medecine veterinaire]]"
 scopeNote:
-- "Discipline dedicated to the prevention and treatme"
+  - Discipline dedicated to the prevention and treatme
 ---

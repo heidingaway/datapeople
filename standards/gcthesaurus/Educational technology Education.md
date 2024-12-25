@@ -1,8 +1,8 @@
 ---
 title: Educational technology Education
-longTitle: 'Educational technology, Education'
+aliases: Educational technology, Education
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Educational resources]]"
+  - "[[Educational resources]]"
 ---

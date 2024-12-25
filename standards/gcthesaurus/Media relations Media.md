@@ -1,8 +1,8 @@
 ---
 title: Media relations Media
-longTitle: 'Media relations, Media'
+aliases: Media relations, Media
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Media monitoring]]"
+  - "[[Media monitoring]]"
 ---

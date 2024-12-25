@@ -1,10 +1,8 @@
 ---
 title: Avalanches
-longTitle: 'Avalanches'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Avalanche]]"
-usedFor:
-- "[[Snow avalanches]]"
+  - "[[Avalanche]]"
+aliases: Avalanches
 ---

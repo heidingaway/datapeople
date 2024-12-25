@@ -1,11 +1,8 @@
 ---
 title: Race relations
-longTitle: 'Race relations'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Relations raciales]]"
-usedFor:
-- "[[Racial relations]]"
-- "[[Racial tensions]]"
+  - "[[Relations raciales]]"
+aliases: Race relations
 ---

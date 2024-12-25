@@ -1,8 +1,8 @@
 ---
 title: Veteran pensions
-longTitle: 'Veteran pensions'
+aliases: Veteran pensions
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Pension des anciens combattants]]"
+  - "[[Pension des anciens combattants]]"
 ---

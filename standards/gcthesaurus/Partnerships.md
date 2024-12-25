@@ -3,22 +3,19 @@ title: Partnerships
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Partnerships'
+  - gccommon
 french:
-- "[[Partenariat]]"
+  - "[[Partenariat]]"
 narrowerTerm:
-- "[[Community partnerships]]"
-- "[[Public-private partnerships]]"
+  - "[[Community partnerships]]"
+  - "[[Public-private partnerships]]"
 scopeNote:
-- "An arrangement between two or more parties who hav"
-usedFor:
-- "[[Collaborations]]"
-- "[[Joint ventures]]"
+  - An arrangement between two or more parties who hav
+aliases: Partnerships
 relatedTerm:
-- "[[Dissolution]]"
-- "[[Corporations]]"
-- "[[Cooperation]]"
-- "[[Collaborative research]]"
+  - "[[Dissolution]]"
+  - "[[Corporations]]"
+  - "[[Cooperation]]"
+  - "[[Collaborative research]]"
 ---
 # Partnerships

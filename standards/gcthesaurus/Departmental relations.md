@@ -1,8 +1,8 @@
 ---
 title: Departmental relations
-longTitle: 'Departmental relations'
+aliases: Departmental relations
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Relations ministerielles]]"
+  - "[[Relations ministerielles]]"
 ---

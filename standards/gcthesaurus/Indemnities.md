@@ -1,10 +1,10 @@
 ---
 title: Indemnities
-longTitle: 'Indemnities'
+aliases: Indemnities
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Indemnite]]"
+  - "[[Indemnite]]"
 scopeNote:
-- "Promise of payment against possible damage or loss"
+  - Promise of payment against possible damage or loss
 ---

@@ -1,13 +1,19 @@
 ---
 title: Protected species
-longTitle: 'Protected species'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Espece protegee]]"
+  - Espece protegee
 relatedTerm:
-- "[[Endangered species]]"
-usedFor:
-- "[[Protected fauna]]"
-- "[[Protected flora]]"
+  - "[[Aquariums]]"
+  - "[[Endangered species]]"
+  - "[[Nature conservation]]"
+  - "[[Zoological gardens]]"
+aliases:
+  - Protected fauna
+  - Protected flora
+id: 649
 ---
+# Protected species

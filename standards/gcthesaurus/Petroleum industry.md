@@ -1,16 +1,10 @@
 ---
 title: Petroleum industry
-longTitle: 'Petroleum industry'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie petroliere]]"
+  - "[[Industrie petroliere]]"
 relatedTerm:
-- "[[Gasoline]]"
-usedFor:
-- "[[Oil industry]]"
-- "[[Oil refining]]"
-- "[[Oil sands industry]]"
-- "[[Petroleum refining]]"
-- "[[Tar sands industry]]"
+  - "[[Gasoline]]"
+aliases: Petroleum industry
 ---

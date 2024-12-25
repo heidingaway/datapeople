@@ -1,8 +1,8 @@
 ---
 title: Pain Medicine Accidents
-longTitle: 'Pain, Medicine, Accidents'
+aliases: Pain, Medicine, Accidents
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Injuries]]"
+  - "[[Injuries]]"
 ---

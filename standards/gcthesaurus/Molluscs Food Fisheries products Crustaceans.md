@@ -1,8 +1,8 @@
 ---
 title: Molluscs Food Fisheries products Crustaceans
-longTitle: 'Molluscs, Food, Fisheries products, Crustaceans'
+aliases: Molluscs, Food, Fisheries products, Crustaceans
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Seafood]]"
+  - "[[Seafood]]"
 ---

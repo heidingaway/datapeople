@@ -1,8 +1,8 @@
 ---
 title: Potatoes
-longTitle: 'Potatoes'
+aliases: Potatoes
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Pomme de terre]]"
+  - "[[Pomme de terre]]"
 ---

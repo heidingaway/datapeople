@@ -1,8 +1,8 @@
 ---
 title: Regional cooperation
-longTitle: 'Regional cooperation'
+aliases: Regional cooperation
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Cooperation regionale]]"
+  - "[[Cooperation regionale]]"
 ---

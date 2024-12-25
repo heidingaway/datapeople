@@ -1,16 +1,16 @@
 ---
 title: Water pollution
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Water pollution'
+  - gccommon
+id: 3849
 french:
-- "[[Pollution de leau]]"
-usedFor:
-- "[[Marine pollution]]"
+  - Pollution de leau
+aliases:
+  - Marine pollution
 relatedTerm:
-- "[[Water quality]]"
-- "[[Water]]"
+  - "[[Water quality]]"
+  - "[[Water]]"
 ---
 # Water pollution

@@ -1,8 +1,8 @@
 ---
 title: Change of address
-longTitle: 'Change of address'
+aliases: Change of address
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Changement dadresse]]"
+  - "[[Changement dadresse]]"
 ---

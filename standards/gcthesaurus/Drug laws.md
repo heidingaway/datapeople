@@ -1,8 +1,8 @@
 ---
 title: Drug laws
-longTitle: 'Drug laws'
+aliases: Drug laws
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Loi sur les medicaments]]"
+  - "[[Loi sur les medicaments]]"
 ---

@@ -1,16 +1,16 @@
 ---
 title: Educational institutions
-longTitle: 'Educational institutions'
+aliases: Educational institutions
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Etablissement denseignement]]"
+  - "[[Etablissement denseignement]]"
 narrowerTerm:
-- "[[Colleges]]"
-- "[[Schools]]"
-- "[[Universities]]"
+  - "[[Colleges]]"
+  - "[[Schools]]"
+  - "[[Universities]]"
 relatedTerm:
-- "[[Education]]"
-- "[[Students]]"
-- "[[Teachers]]"
+  - "[[Education]]"
+  - "[[Students]]"
+  - "[[Teachers]]"
 ---

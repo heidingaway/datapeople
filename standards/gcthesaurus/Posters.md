@@ -1,8 +1,8 @@
 ---
 title: Posters
-longTitle: 'Posters'
+aliases: Posters
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Affiche]]"
+  - "[[Affiche]]"
 ---

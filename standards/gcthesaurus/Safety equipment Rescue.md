@@ -1,8 +1,8 @@
 ---
 title: Safety equipment Rescue
-longTitle: 'Safety equipment, Rescue'
+aliases: Safety equipment, Rescue
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Rescue equipment]]"
+  - "[[Rescue equipment]]"
 ---

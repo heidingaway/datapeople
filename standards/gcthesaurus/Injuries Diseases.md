@@ -1,8 +1,8 @@
 ---
 title: Injuries Diseases
-longTitle: 'Injuries, Diseases'
+aliases: Injuries, Diseases
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Pain]]"
+  - "[[Pain]]"
 ---

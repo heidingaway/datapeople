@@ -1,8 +1,8 @@
 ---
 title: Vendors
-longTitle: 'Vendors'
+aliases: Vendors
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Vendeur]]"
+  - "[[Vendeur]]"
 ---

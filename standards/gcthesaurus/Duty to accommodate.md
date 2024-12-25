@@ -1,10 +1,10 @@
 ---
 title: Duty to accommodate
-longTitle: 'Duty to accommodate'
+aliases: Duty to accommodate
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Persons with disabilities]]"
+  - "[[Persons with disabilities]]"
 french:
-- "[[Obligation dadaptation]]"
+  - "[[Obligation dadaptation]]"
 ---

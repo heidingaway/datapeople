@@ -1,8 +1,8 @@
 ---
 title: Security investigations Security intelligence Inte
-longTitle: 'Security investigations, Security intelligence, International security, Defence policy, Cryptography'
+aliases: Security investigations, Security intelligence, International security, Defence policy, Cryptography
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[National security]]"
+  - "[[National security]]"
 ---

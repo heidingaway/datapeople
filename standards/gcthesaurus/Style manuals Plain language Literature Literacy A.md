@@ -1,8 +1,8 @@
 ---
 title: Style manuals Plain language Literature Literacy A
-longTitle: 'Style manuals, Plain language, Literature, Literacy, Authors'
+aliases: Style manuals, Plain language, Literature, Literacy, Authors
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Writing]]"
+  - "[[Writing]]"
 ---

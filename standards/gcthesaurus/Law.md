@@ -1,29 +1,29 @@
 ---
 title: Law
-longTitle: 'Law'
+aliases: Law
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Droit]]"
+  - "[[Droit]]"
 narrowerTerm:
-- "[[Administrative law]]"
-- "[[Civil law]]"
-- "[[Commercial law]]"
-- "[[Constitutional law]]"
-- "[[Criminal law]]"
-- "[[Environmental law]]"
-- "[[Fiscal law]]"
-- "[[Indigenous law]]"
-- "[[International law]]"
-- "[[Labour law]]"
-- "[[Maritime law]]"
-- "[[Medical law]]"
-- "[[Military law]]"
-- "[[Pro bono legal services]]"
+  - "[[Administrative law]]"
+  - "[[Civil law]]"
+  - "[[Commercial law]]"
+  - "[[Constitutional law]]"
+  - "[[Criminal law]]"
+  - "[[Environmental law]]"
+  - "[[Fiscal law]]"
+  - "[[Indigenous law]]"
+  - "[[International law]]"
+  - "[[Labour law]]"
+  - "[[Maritime law]]"
+  - "[[Medical law]]"
+  - "[[Military law]]"
+  - "[[Pro bono legal services]]"
 relatedTerm:
-- "[[Jurisprudence]]"
-- "[[Legal documents]]"
-- "[[Legal issues]]"
+  - "[[Jurisprudence]]"
+  - "[[Legal documents]]"
+  - "[[Legal issues]]"
 scopeNote:
-- "Branches of law refer to legislation for collectio"
+  - Branches of law refer to legislation for collectio
 ---

@@ -1,8 +1,8 @@
 ---
 title: Legal obligations
-longTitle: 'Legal obligations'
+aliases: Legal obligations
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Obligation legale]]"
+  - "[[Obligation legale]]"
 ---

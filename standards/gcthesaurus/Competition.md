@@ -1,8 +1,8 @@
 ---
 title: Competition
-longTitle: 'Competition'
+aliases: Competition
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Concurrence]]"
+  - "[[Concurrence]]"
 ---

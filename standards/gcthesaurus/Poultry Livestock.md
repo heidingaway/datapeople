@@ -1,8 +1,8 @@
 ---
 title: Poultry Livestock
-longTitle: 'Poultry, Livestock'
+aliases: Poultry, Livestock
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Domestic animals]]"
+  - "[[Domestic animals]]"
 ---

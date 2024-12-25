@@ -1,12 +1,10 @@
 ---
 title: Film industry
-longTitle: 'Film industry'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie cinematographique]]"
+  - "[[Industrie cinematographique]]"
 relatedTerm:
-- "[[Cinema]]"
-usedFor:
-- "[[Motion picture industry]]"
+  - "[[Cinema]]"
+aliases: Film industry
 ---

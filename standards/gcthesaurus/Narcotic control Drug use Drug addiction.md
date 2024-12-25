@@ -1,8 +1,8 @@
 ---
 title: Narcotic control Drug use Drug addiction
-longTitle: 'Narcotic control, Drug use, Drug addiction'
+aliases: Narcotic control, Drug use, Drug addiction
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Drug education]]"
+  - "[[Drug education]]"
 ---

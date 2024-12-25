@@ -3,25 +3,22 @@ title: Benchmarks
 created: 2024-12-13
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Benchmarks'
+  - gccommon
 french:
-- "[[Repere]]"
+  - "[[Repere]]"
 scopeNote:
-- "Value which is used to carry out comparisons or to"
-usedFor:
-- "[[Bench marks]]"
-- "[[Benchmarking]]"
+  - Value which is used to carry out comparisons or to
+aliases: Benchmarks
 relatedTerm:
-- "[[Testing]]"
-- "[[Measurement]]"
-- "[[Guidelines]]"
-- "[[Control]]"
-- "[[Comparison]]"
-- "[[Codes of practice]]"
-- "[[Bioassay]]"
-- "[[Best practices]]"
-- "[[Assessment]]"
-- "[[Approval processes]]"
+  - "[[Testing]]"
+  - "[[Measurement]]"
+  - "[[Guidelines]]"
+  - "[[Control]]"
+  - "[[Comparison]]"
+  - "[[Codes of practice]]"
+  - "[[Bioassay]]"
+  - "[[Best practices]]"
+  - "[[Assessment]]"
+  - "[[Approval processes]]"
 ---
 # Benchmarks

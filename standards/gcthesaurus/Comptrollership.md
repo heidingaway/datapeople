@@ -3,12 +3,12 @@ title: Comptrollership
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Comptrollership'
+  - gccommon
+aliases: Comptrollership
 french:
-- "[[Fonction de controleur]]"
+  - "[[Fonction de controleur]]"
 relatedTerm:
-- "[[Financial management]]"
-- "[[Accounting]]"
+  - "[[Financial management]]"
+  - "[[Accounting]]"
 ---
 # Comptrollership

@@ -1,8 +1,8 @@
 ---
 title: Hydrology Geology
-longTitle: 'Hydrology, Geology'
+aliases: Hydrology, Geology
 tags:
-- gccommon
+  - gccommon
 narrowerTerm:
-- "[[Hydrogeology]]"
+  - "[[Hydrogeology]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Tax credits Fiscal law
-longTitle: 'Tax credits, Fiscal law'
+aliases: Tax credits, Fiscal law
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Income tax]]"
+  - "[[Income tax]]"
 ---

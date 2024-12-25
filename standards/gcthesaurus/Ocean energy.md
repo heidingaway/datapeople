@@ -1,18 +1,10 @@
 ---
 title: Ocean energy
-longTitle: 'Ocean energy'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Energie marine]]"
+  - "[[Energie marine]]"
 scopeNote:
-- "Refers to renewable ocean energy"
-usedFor:
-- "[[Marine energy]]"
-- "[[Marine renewable energy]]"
-- "[[Ocean renewable energy]]"
-- "[[Renewable ocean energy]]"
-- "[[Tidal energy]]"
-- "[[Tidal power]]"
-- "[[Wave energy]]"
+  - Refers to renewable ocean energy
+aliases: Ocean energy
 ---

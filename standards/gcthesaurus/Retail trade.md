@@ -1,15 +1,20 @@
 ---
 title: Retail trade
-longTitle: 'Retail trade'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Commerce de detail]]"
+  - "[[Commerce de detail]]"
 relatedTerm:
-- "[[Wholesale trade]]"
-usedFor:
-- "[[Retail industry]]"
-- "[[Retailing]]"
-- "[[Sales outlets]]"
-- "[[Stores]]"
+  - "[[Consumer products]]"
+  - "[[Electronic commerce]]"
+  - "[[Marketing]]"
+  - "[[Wholesale trade]]"
+aliases:
+  - Retail industry
+  - Retailing
+  - Sales outlets
+  - Stores
 ---
+# Retail trade

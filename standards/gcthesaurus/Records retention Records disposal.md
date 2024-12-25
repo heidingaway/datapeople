@@ -1,8 +1,8 @@
 ---
 title: Records retention Records disposal
-longTitle: 'Records retention, Records disposal'
+aliases: Records retention, Records disposal
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Records management]]"
+  - "[[Records management]]"
 ---

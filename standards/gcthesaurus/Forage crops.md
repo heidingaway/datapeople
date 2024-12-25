@@ -1,11 +1,8 @@
 ---
 title: Forage crops
-longTitle: 'Forage crops'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Cultures fourrageres]]"
-usedFor:
-- "[[Fodder crops]]"
-- "[[Hay]]"
+  - "[[Cultures fourrageres]]"
+aliases: Forage crops
 ---

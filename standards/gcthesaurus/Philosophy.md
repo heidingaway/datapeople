@@ -3,9 +3,9 @@ title: Philosophy
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Philosophy'
+  - gccommon
+aliases: Philosophy
 french:
-- "[[Philosophie]]"
+  - "[[Philosophie]]"
 ---
 # Philosophy

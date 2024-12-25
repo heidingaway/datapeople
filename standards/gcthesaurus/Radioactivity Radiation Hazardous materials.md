@@ -1,8 +1,8 @@
 ---
 title: Radioactivity Radiation Hazardous materials
-longTitle: 'Radioactivity, Radiation, Hazardous materials'
+aliases: Radioactivity, Radiation, Hazardous materials
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Radioactive materials]]"
+  - "[[Radioactive materials]]"
 ---

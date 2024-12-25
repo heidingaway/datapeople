@@ -1,8 +1,8 @@
 ---
 title: Quarterly financial reports Public finance Persona
-longTitle: 'Quarterly financial reports, Public finance, Personal finance, International finance, Household finance'
+aliases: Quarterly financial reports, Public finance, Personal finance, International finance, Household finance
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Finance]]"
+  - "[[Finance]]"
 ---

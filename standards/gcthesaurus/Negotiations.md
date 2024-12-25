@@ -3,19 +3,17 @@ title: Negotiations
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Negotiations'
+  - gccommon
 french:
-- "[[Negociation]]"
+  - "[[Negociation]]"
 narrowerTerm:
-- "[[Collective bargaining]]"
-- "[[Trade negotiations]]"
-usedFor:
-- "[[Bargaining]]"
+  - "[[Collective bargaining]]"
+  - "[[Trade negotiations]]"
+aliases: Negotiations
 relatedTerm:
-- "[[Conflict resolution]]"
-- "[[Conciliation]]"
-- "[[Arbitration]]"
-- "[[Agreements]]"
+  - "[[Conflict resolution]]"
+  - "[[Conciliation]]"
+  - "[[Arbitration]]"
+  - "[[Agreements]]"
 ---
 # Negotiations

@@ -1,8 +1,8 @@
 ---
 title: Trapping
-longTitle: 'Trapping'
+aliases: Trapping
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Piegeage]]"
+  - "[[Piegeage]]"
 ---

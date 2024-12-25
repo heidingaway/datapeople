@@ -3,14 +3,11 @@ title: Intelligent transportation systems
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Intelligent transportation systems'
+  - gccommon
 broaderTerm:
-- "[[Intelligent systems]]"
+  - "[[Intelligent systems]]"
 french:
-- "[[Systeme de transport intelligent]]"
-usedFor:
-- "[[Intelligent transport systems]]"
-- "[[Intelligent vehicle highway systems]]"
+  - "[[Systeme de transport intelligent]]"
+aliases: Intelligent transportation systems
 ---
 # Intelligent transportation systems

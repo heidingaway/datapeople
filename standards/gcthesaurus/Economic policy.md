@@ -1,11 +1,11 @@
 ---
 title: Economic policy
-longTitle: 'Economic policy'
+aliases: Economic policy
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Politique economique]]"
+  - "[[Politique economique]]"
 narrowerTerm:
-- "[[Microeconomic policy]]"
-- "[[Trade policy]]"
+  - "[[Microeconomic policy]]"
+  - "[[Trade policy]]"
 ---

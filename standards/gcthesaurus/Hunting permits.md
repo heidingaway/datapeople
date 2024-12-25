@@ -1,8 +1,8 @@
 ---
 title: Hunting permits
-longTitle: 'Hunting permits'
+aliases: Hunting permits
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Permis de chasse]]"
+  - "[[Permis de chasse]]"
 ---

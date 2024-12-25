@@ -1,8 +1,8 @@
 ---
 title: Social surveys Social movement Social indicators S
-longTitle: 'Social surveys, Social movement, Social indicators, Social development'
+aliases: Social surveys, Social movement, Social indicators, Social development
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Social trends]]"
+  - "[[Social trends]]"
 ---

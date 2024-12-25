@@ -1,10 +1,10 @@
 ---
 title: Folklore
-longTitle: 'Folklore'
+aliases: Folklore
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Folklore]]"
+  - "[[Folklore]]"
 relatedTerm:
-- "[[Popular culture]]"
+  - "[[Popular culture]]"
 ---

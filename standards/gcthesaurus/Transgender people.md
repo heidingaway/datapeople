@@ -1,8 +1,8 @@
 ---
 title: Transgender people
-longTitle: 'Transgender people'
+aliases: Transgender people
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Personne transgenre]]"
+  - "[[Personne transgenre]]"
 ---

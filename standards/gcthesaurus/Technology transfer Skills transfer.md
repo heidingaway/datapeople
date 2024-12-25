@@ -1,8 +1,8 @@
 ---
 title: Technology transfer Skills transfer
-longTitle: 'Technology transfer, Skills transfer'
+aliases: Technology transfer, Skills transfer
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Transfers]]"
+  - "[[Transfers]]"
 ---

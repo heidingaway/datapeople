@@ -1,8 +1,8 @@
 ---
 title: Health sciences Health care system Health Caregive
-longTitle: 'Health sciences, Health care system, Health, Caregivers'
+aliases: Health sciences, Health care system, Health, Caregivers
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Health professionals]]"
+  - "[[Health professionals]]"
 ---

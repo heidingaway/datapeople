@@ -1,8 +1,8 @@
 ---
 title: Sustainable development Hydropower Energy supply A
-longTitle: 'Sustainable development, Hydropower, Energy supply, Alternative energy'
+aliases: Sustainable development, Hydropower, Energy supply, Alternative energy
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Renewable energy]]"
+  - "[[Renewable energy]]"
 ---

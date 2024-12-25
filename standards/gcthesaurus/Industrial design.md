@@ -1,8 +1,8 @@
 ---
 title: Industrial design
-longTitle: 'Industrial design'
+aliases: Industrial design
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Dessin industriel]]"
+  - "[[Dessin industriel]]"
 ---

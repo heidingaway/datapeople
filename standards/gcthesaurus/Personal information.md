@@ -1,11 +1,11 @@
 ---
 title: Personal information
-longTitle: 'Personal information'
+aliases: Personal information
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Renseignements personnels]]"
+  - "[[Renseignements personnels]]"
 relatedTerm:
-- "[[Change of address]]"
-- "[[Personal information banks]]"
+  - "[[Change of address]]"
+  - "[[Personal information banks]]"
 ---

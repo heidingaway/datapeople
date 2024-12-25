@@ -3,25 +3,18 @@ title: Transfer payments
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Transfer payments'
+  - gccommon
 french:
-- "[[Paiement de transfert]]"
+  - "[[Paiement de transfert]]"
 narrowerTerm:
-- "[[Non-repayable contributions]]"
-- "[[Repayable contributions]]"
-usedFor:
-- "[[Equalization]]"
-- "[[Equalization payments]]"
-- "[[Federal transfers]]"
-- "[[Fiscal equalization]]"
-- "[[Government transfers]]"
-- "[[Intergovernmental transfers]]"
+  - "[[Non-repayable contributions]]"
+  - "[[Repayable contributions]]"
+aliases: Transfer payments
 relatedTerm:
-- "[[Recipients]]"
-- "[[Public finance]]"
-- "[[Funding]]"
-- "[[Federal territorial relations]]"
-- "[[Federal provincial relations]]"
+  - "[[Recipients]]"
+  - "[[Public finance]]"
+  - "[[Funding]]"
+  - "[[Federal territorial relations]]"
+  - "[[Federal provincial relations]]"
 ---
 # Transfer payments

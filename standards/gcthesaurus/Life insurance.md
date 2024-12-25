@@ -1,8 +1,8 @@
 ---
 title: Life insurance
-longTitle: 'Life insurance'
+aliases: Life insurance
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Assurance-vie]]"
+  - "[[Assurance-vie]]"
 ---

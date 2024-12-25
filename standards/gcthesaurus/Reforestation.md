@@ -1,12 +1,10 @@
 ---
 title: Reforestation
-longTitle: 'Reforestation'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Reboisement]]"
+  - "[[Reboisement]]"
 scopeNote:
-- "Refers to the reestablishment of trees on a land p"
-usedFor:
-- "[[Reafforestation]]"
+  - Refers to the reestablishment of trees on a land p
+aliases: Reforestation
 ---

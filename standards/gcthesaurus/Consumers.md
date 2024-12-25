@@ -1,12 +1,12 @@
 ---
 title: Consumers
-longTitle: 'Consumers'
+aliases: Consumers
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Consommateur]]"
+  - "[[Consommateur]]"
 relatedTerm:
-- "[[Consumer protection]]"
-- "[[Consumerism]]"
-- "[[Buyers]]"
+  - "[[Consumer protection]]"
+  - "[[Consumerism]]"
+  - "[[Buyers]]"
 ---

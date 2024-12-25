@@ -1,8 +1,8 @@
 ---
 title: Public administration Governments Federal programs
-longTitle: 'Public administration, Governments, Federal programs'
+aliases: Public administration, Governments, Federal programs
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Government policy]]"
+  - "[[Government policy]]"
 ---

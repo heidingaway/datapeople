@@ -1,14 +1,10 @@
 ---
 title: Indigenous languages
-longTitle: 'Indigenous languages'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Langue autochtone]]"
+  - "[[Langue autochtone]]"
 relatedTerm:
-- "[[Indigenous culture]]"
-usedFor:
-- "[[Aboriginal languages]]"
-- "[[Amerindian languages]]"
-- "[[Native languages]]"
+  - "[[Indigenous culture]]"
+aliases: Indigenous languages
 ---

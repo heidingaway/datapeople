@@ -1,8 +1,8 @@
 ---
 title: Open data
-longTitle: 'Open data'
+aliases: Open data
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Donnees ouvertes]]"
+  - "[[Donnees ouvertes]]"
 ---

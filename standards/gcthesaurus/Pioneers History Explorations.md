@@ -1,8 +1,8 @@
 ---
 title: Pioneers History Explorations
-longTitle: 'Pioneers, History, Explorations'
+aliases: Pioneers, History, Explorations
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Colonization]]"
+  - "[[Colonization]]"
 ---

@@ -1,10 +1,8 @@
 ---
 title: Animal reproduction
-longTitle: 'Animal reproduction'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Reproduction animale]]"
-usedFor:
-- "[[Animal breeding]]"
+  - "[[Reproduction animale]]"
+aliases: Animal reproduction
 ---

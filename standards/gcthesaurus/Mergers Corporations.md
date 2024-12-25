@@ -1,8 +1,8 @@
 ---
 title: Mergers Corporations
-longTitle: 'Mergers, Corporations'
+aliases: Mergers, Corporations
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Conglomerates]]"
+  - "[[Conglomerates]]"
 ---

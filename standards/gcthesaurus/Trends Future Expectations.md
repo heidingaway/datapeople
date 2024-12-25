@@ -1,8 +1,8 @@
 ---
 title: Trends Future Expectations
-longTitle: 'Trends, Future, Expectations'
+aliases: Trends, Future, Expectations
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Forecasting]]"
+  - "[[Forecasting]]"
 ---

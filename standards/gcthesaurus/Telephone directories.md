@@ -1,8 +1,8 @@
 ---
 title: Telephone directories
-longTitle: 'Telephone directories'
+aliases: Telephone directories
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Repertoire telephonique]]"
+  - "[[Repertoire telephonique]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Precious metals Mercury Lead
-longTitle: 'Precious metals, Mercury, Lead'
+aliases: Precious metals, Mercury, Lead
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Metals]]"
+  - "[[Metals]]"
 ---

@@ -1,21 +1,19 @@
 ---
 title: Statistics
-longTitle: 'Statistics'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Statistiques]]"
+  - "[[Statistiques]]"
 narrowerTerm:
-- "[[Agriculture statistics]]"
-- "[[Economic statistics]]"
-- "[[Social statistics]]"
-- "[[Vital statistics]]"
-- "[[Demographic statistics]]"
+  - "[[Agriculture statistics]]"
+  - "[[Economic statistics]]"
+  - "[[Social statistics]]"
+  - "[[Vital statistics]]"
+  - "[[Demographic statistics]]"
 relatedTerm:
-- "[[Indicators]]"
-- "[[Tables]]"
+  - "[[Indicators]]"
+  - "[[Tables]]"
 scopeNote:
-- "A type of information obtained through the collect"
-usedFor:
-- "[[Statistical data]]"
+  - A type of information obtained through the collect
+aliases: Statistics
 ---

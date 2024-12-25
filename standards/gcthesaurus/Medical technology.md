@@ -1,14 +1,10 @@
 ---
 title: Medical technology
-longTitle: 'Medical technology'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Technologie medicale]]"
+  - "[[Technologie medicale]]"
 scopeNote:
-- "Use for medical and health care techniques For med"
-usedFor:
-- "[[Health care technology]]"
-- "[[Health technology]]"
-- "[[Medical techniques]]"
+  - Use for medical and health care techniques For med
+aliases: Medical technology
 ---

@@ -1,11 +1,8 @@
 ---
 title: Urban planning
-longTitle: 'Urban planning'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Urbanisme]]"
-usedFor:
-- "[[City planning]]"
-- "[[Town planning]]"
+  - "[[Urbanisme]]"
+aliases: Urban planning
 ---

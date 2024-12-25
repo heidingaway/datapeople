@@ -1,8 +1,8 @@
 ---
 title: Glaciers
-longTitle: 'Glaciers'
+aliases: Glaciers
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Glacier]]"
+  - "[[Glacier]]"
 ---

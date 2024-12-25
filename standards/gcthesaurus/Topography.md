@@ -1,11 +1,11 @@
 ---
 title: Topography
-longTitle: 'Topography'
+aliases: Topography
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Topographie]]"
+  - "[[Topographie]]"
 relatedTerm:
-- "[[Mountains]]"
-- "[[Topographical maps]]"
+  - "[[Mountains]]"
+  - "[[Topographical maps]]"
 ---

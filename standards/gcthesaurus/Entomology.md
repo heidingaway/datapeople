@@ -1,8 +1,8 @@
 ---
 title: Entomology
-longTitle: 'Entomology'
+aliases: Entomology
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Entomologie]]"
+  - "[[Entomologie]]"
 ---

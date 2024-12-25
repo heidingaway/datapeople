@@ -1,10 +1,8 @@
 ---
 title: Contaminated sites
-longTitle: 'Contaminated sites'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Site contamine]]"
-usedFor:
-- "[[Hazardous waste sites]]"
+  - "[[Site contamine]]"
+aliases: Contaminated sites
 ---

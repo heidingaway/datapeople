@@ -3,19 +3,15 @@ title: Scholarships
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Scholarships'
+  - gccommon
 french:
-- "[[Bourse detudes]]"
-usedFor:
-- "[[Bursaries]]"
-- "[[Millennium scholarships]]"
-- "[[Scholarship programs]]"
+  - "[[Bourse detudes]]"
+aliases: Scholarships
 relatedTerm:
-- "[[Student loans]]"
-- "[[Grants]]"
-- "[[Financial assistance]]"
-- "[[Education]]"
-- "[[Awards]]"
+  - "[[Student loans]]"
+  - "[[Grants]]"
+  - "[[Financial assistance]]"
+  - "[[Education]]"
+  - "[[Awards]]"
 ---
 # Scholarships

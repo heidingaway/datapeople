@@ -1,12 +1,8 @@
 ---
 title: Collaborative research
-longTitle: 'Collaborative research'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Recherche cooperative]]"
-usedFor:
-- "[[Cooperative research]]"
-- "[[Joint research]]"
-- "[[Partnership research]]"
+  - "[[Recherche cooperative]]"
+aliases: Collaborative research
 ---

@@ -1,8 +1,8 @@
 ---
 title: Natural sciences Data processing Computers Analyti
-longTitle: 'Natural sciences, Data processing, Computers, Analytics'
+aliases: Natural sciences, Data processing, Computers, Analytics
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Computer science]]"
+  - "[[Computer science]]"
 ---

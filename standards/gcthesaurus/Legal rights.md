@@ -1,8 +1,8 @@
 ---
 title: Legal rights
-longTitle: 'Legal rights'
+aliases: Legal rights
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Garantie juridique]]"
+  - "[[Garantie juridique]]"
 ---

@@ -1,16 +1,13 @@
 ---
 title: Transport industry
-longTitle: 'Transport industry'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Industrie du transport]]"
+  - "[[Industrie du transport]]"
 narrowerTerm:
-- "[[Air transport industry]]"
-- "[[Rail transport industry]]"
-- "[[Trucking industry]]"
-- "[[Water transport industry]]"
-usedFor:
-- "[[Shipping industry]]"
-- "[[Transportation industry]]"
+  - "[[Air transport industry]]"
+  - "[[Rail transport industry]]"
+  - "[[Trucking industry]]"
+  - "[[Water transport industry]]"
+aliases: Transport industry
 ---

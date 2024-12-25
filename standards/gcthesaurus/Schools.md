@@ -3,18 +3,18 @@ title: Schools
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Schools'
+  - gccommon
+aliases: Schools
 french:
-- "[[Ecole]]"
+  - "[[Ecole]]"
 narrowerTerm:
-- "[[Elementary schools]]"
-- "[[Private schools]]"
-- "[[Public schools]]"
-- "[[Residential schools]]"
-- "[[Secondary schools]]"
+  - "[[Elementary schools]]"
+  - "[[Private schools]]"
+  - "[[Public schools]]"
+  - "[[Residential schools]]"
+  - "[[Secondary schools]]"
 relatedTerm:
-- "[[School boards]]"
-- "[[Education]]"
+  - "[[School boards]]"
+  - "[[Education]]"
 ---
 # Schools

@@ -1,8 +1,8 @@
 ---
 title: Manufacturing industry Consumer products
-longTitle: 'Manufacturing industry, Consumer products'
+aliases: Manufacturing industry, Consumer products
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Industrial products]]"
+  - "[[Industrial products]]"
 ---

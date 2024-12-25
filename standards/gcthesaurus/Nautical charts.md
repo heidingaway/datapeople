@@ -1,10 +1,8 @@
 ---
 title: Nautical charts
-longTitle: 'Nautical charts'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Carte marine]]"
-usedFor:
-- "[[Navigation charts]]"
+  - "[[Carte marine]]"
+aliases: Nautical charts
 ---

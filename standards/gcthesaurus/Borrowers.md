@@ -1,8 +1,8 @@
 ---
 title: Borrowers
-longTitle: 'Borrowers'
+aliases: Borrowers
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Emprunteur]]"
+  - "[[Emprunteur]]"
 ---

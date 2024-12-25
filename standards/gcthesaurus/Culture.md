@@ -1,19 +1,16 @@
 ---
 title: Culture
-longTitle: 'Culture'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Culture]]"
+  - "[[Culture]]"
 narrowerTerm:
-- "[[Indigenous culture]]"
-- "[[Popular culture]]"
+  - "[[Indigenous culture]]"
+  - "[[Popular culture]]"
 relatedTerm:
-- "[[Acculturation]]"
-- "[[Cultural studies]]"
+  - "[[Acculturation]]"
+  - "[[Cultural studies]]"
 scopeNote:
-- "The totality of socially transmitted customs ideas"
-usedFor:
-- "[[Cultural history]]"
-- "[[Cultural life]]"
+  - The totality of socially transmitted customs ideas
+aliases: Culture
 ---

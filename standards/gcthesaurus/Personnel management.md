@@ -1,16 +1,16 @@
 ---
 title: Personnel management
-longTitle: 'Personnel management'
+aliases: Personnel management
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gestion du personnel]]"
+  - "[[Gestion du personnel]]"
 narrowerTerm:
-- "[[Recruiting]]"
-- "[[Retention of staff]]"
-- "[[Staffing]]"
-- "[[Transfers of personnel]]"
+  - "[[Recruiting]]"
+  - "[[Retention of staff]]"
+  - "[[Staffing]]"
+  - "[[Transfers of personnel]]"
 relatedTerm:
-- "[[Employee discipline]]"
-- "[[Leadership]]"
+  - "[[Employee discipline]]"
+  - "[[Leadership]]"
 ---

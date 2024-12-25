@@ -1,8 +1,8 @@
 ---
 title: Sustainable transportation
-longTitle: 'Sustainable transportation'
+aliases: Sustainable transportation
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Transport durable]]"
+  - "[[Transport durable]]"
 ---

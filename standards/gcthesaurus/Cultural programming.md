@@ -3,12 +3,12 @@ title: Cultural programming
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Cultural programming'
+  - gccommon
+aliases: Cultural programming
 french:
-- "[[Programmation culturelle]]"
+  - "[[Programmation culturelle]]"
 relatedTerm:
-- "[[Culture]]"
-- "[[Cultural events]]"
+  - "[[Culture]]"
+  - "[[Cultural events]]"
 ---
 # Cultural programming

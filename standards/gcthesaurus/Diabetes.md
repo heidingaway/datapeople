@@ -1,10 +1,10 @@
 ---
 title: Diabetes
-longTitle: 'Diabetes'
+aliases: Diabetes
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Chronic diseases]]"
+  - "[[Chronic diseases]]"
 french:
-- "[[Diabete]]"
+  - "[[Diabete]]"
 ---

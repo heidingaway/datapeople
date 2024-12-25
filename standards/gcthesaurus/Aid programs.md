@@ -1,12 +1,12 @@
 ---
 title: Aid programs
-longTitle: 'Aid programs'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Programme daide]]"
-usedFor:
-- "[[Assistance programs]]"
-- "[[Support programs]]"
-- "[[Supporting programs]]"
+  - Programme d'aide
+aliases:
+  - Aid programs
 ---
+# Aid programs

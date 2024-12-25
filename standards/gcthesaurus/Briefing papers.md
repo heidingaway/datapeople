@@ -3,12 +3,12 @@ title: Briefing papers
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Briefing papers'
+  - gccommon
+aliases: Briefing papers
 french:
-- "[[Document dinformation]]"
+  - "[[Document dinformation]]"
 relatedTerm:
-- "[[Statements]]"
-- "[[Committees]]"
+  - "[[Statements]]"
+  - "[[Committees]]"
 ---
 # Briefing papers

@@ -1,11 +1,11 @@
 ---
 title: Litigation
-longTitle: 'Litigation'
+aliases: Litigation
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Litige]]"
+  - "[[Litige]]"
 relatedTerm:
-- "[[Conflicts]]"
-- "[[Arbitration]]"
+  - "[[Conflicts]]"
+  - "[[Arbitration]]"
 ---

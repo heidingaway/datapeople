@@ -1,10 +1,10 @@
 ---
 title: Satellite imagery
-longTitle: 'Satellite imagery'
+aliases: Satellite imagery
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Imagerie satellite]]"
+  - "[[Imagerie satellite]]"
 relatedTerm:
-- "[[Satellite images]]"
+  - "[[Satellite images]]"
 ---

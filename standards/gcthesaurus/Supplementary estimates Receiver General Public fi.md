@@ -1,8 +1,8 @@
 ---
 title: Supplementary estimates Receiver General Public fi
-longTitle: 'Supplementary estimates, Receiver General, Public finance'
+aliases: Supplementary estimates, Receiver General, Public finance
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Public accounts]]"
+  - "[[Public accounts]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Toxicology Side effects Pharmaceutical industry Dr
-longTitle: 'Toxicology, Side effects, Pharmaceutical industry, Drugs'
+aliases: Toxicology, Side effects, Pharmaceutical industry, Drugs
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Pharmacology]]"
+  - "[[Pharmacology]]"
 ---

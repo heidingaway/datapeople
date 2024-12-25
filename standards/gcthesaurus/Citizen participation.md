@@ -3,16 +3,14 @@ title: Citizen participation
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Citizen participation'
+  - gccommon
 broaderTerm:
-- "[[Participation]]"
+  - "[[Participation]]"
 french:
-- "[[Participation du citoyen]]"
+  - "[[Participation du citoyen]]"
 relatedTerm:
-- "[[Civil rights]]"
-- "[[Open government]]"
-usedFor:
-- "[[Public participation]]"
+  - "[[Civil rights]]"
+  - "[[Open government]]"
+aliases: Citizen participation
 ---
 # Citizen participation

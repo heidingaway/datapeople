@@ -1,10 +1,17 @@
 ---
 title: Dams
-longTitle: 'Dams'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+id: 2028
 french:
-- "[[Barrage]]"
-usedFor:
-- "[[Dykes]]"
+  - Barrage
+aliases:
+  - Dykes
+relatedTerm:
+  - "[[Floods]]"
+  - "[[Hydroelectric plants]]"
+  - "[[Water management]]"
 ---
+# Dams

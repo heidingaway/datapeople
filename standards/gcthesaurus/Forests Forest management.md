@@ -1,8 +1,8 @@
 ---
 title: Forests Forest management
-longTitle: 'Forests, Forest management'
+aliases: Forests, Forest management
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Forestry policy]]"
+  - "[[Forestry policy]]"
 ---

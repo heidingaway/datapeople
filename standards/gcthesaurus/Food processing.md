@@ -1,14 +1,10 @@
 ---
 title: Food processing
-longTitle: 'Food processing'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Transformation des aliments]]"
+  - "[[Transformation des aliments]]"
 relatedTerm:
-- "[[Food irradiation]]"
-usedFor:
-- "[[Food additives]]"
-- "[[Food technology]]"
-- "[[Processed food products]]"
+  - "[[Food irradiation]]"
+aliases: Food processing
 ---

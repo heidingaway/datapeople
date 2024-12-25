@@ -1,8 +1,8 @@
 ---
 title: Social structure Equal opportunities
-longTitle: 'Social structure, Equal opportunities'
+aliases: Social structure, Equal opportunities
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Social equity]]"
+  - "[[Social equity]]"
 ---

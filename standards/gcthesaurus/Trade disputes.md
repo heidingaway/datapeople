@@ -1,10 +1,8 @@
 ---
 title: Trade disputes
-longTitle: 'Trade disputes'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Differend commercial]]"
-usedFor:
-- "[[Trade conflicts]]"
+  - "[[Differend commercial]]"
+aliases: Trade disputes
 ---

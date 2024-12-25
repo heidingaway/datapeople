@@ -3,11 +3,11 @@ title: Fruit crops
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Fruit crops'
+  - gccommon
+aliases: Fruit crops
 french:
-- "[[Cultures fruitieres]]"
+  - "[[Cultures fruitieres]]"
 relatedTerm:
-- "[[Fruits]]"
+  - "[[Fruits]]"
 ---
 # Fruit crops

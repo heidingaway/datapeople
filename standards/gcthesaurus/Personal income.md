@@ -1,14 +1,12 @@
 ---
 title: Personal income
-longTitle: 'Personal income'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Revenu individuel]]"
+  - "[[Revenu individuel]]"
 narrowerTerm:
-- "[[Low income]]"
+  - "[[Low income]]"
 relatedTerm:
-- "[[Personal income tax]]"
-usedFor:
-- "[[Individual income]]"
+  - "[[Personal income tax]]"
+aliases: Personal income
 ---

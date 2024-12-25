@@ -1,15 +1,13 @@
 ---
 title: International organizations
-longTitle: 'International organizations'
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Commonwealth]]"
+  - "[[Commonwealth]]"
 french:
-- "[[Organisme international]]"
+  - "[[Organisme international]]"
 relatedTerm:
-- "[[Intergovernmental organizations]]"
-- "[[Nongovernmental organizations]]"
-usedFor:
-- "[[International agencies]]"
+  - "[[Intergovernmental organizations]]"
+  - "[[Nongovernmental organizations]]"
+aliases: International organizations
 ---

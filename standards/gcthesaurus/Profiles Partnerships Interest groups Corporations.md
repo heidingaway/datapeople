@@ -1,8 +1,8 @@
 ---
 title: Profiles Partnerships Interest groups Corporations
-longTitle: 'Profiles, Partnerships, Interest groups, Corporations, Businesses, Associations'
+aliases: Profiles, Partnerships, Interest groups, Corporations, Businesses, Associations
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Organizations]]"
+  - "[[Organizations]]"
 ---

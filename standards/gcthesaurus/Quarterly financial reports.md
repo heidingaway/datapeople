@@ -3,17 +3,17 @@ title: Quarterly financial reports
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Quarterly financial reports'
+  - gccommon
+aliases: Quarterly financial reports
 french:
-- "[[Rapport financier trimestriel]]"
+  - "[[Rapport financier trimestriel]]"
 relatedTerm:
-- "[[Public finance]]"
-- "[[Financial statements]]"
-- "[[Expenditures]]"
-- "[[Budgets]]"
+  - "[[Public finance]]"
+  - "[[Financial statements]]"
+  - "[[Expenditures]]"
+  - "[[Budgets]]"
 narrowerTerm:
-- "[[Reports]]"
-- "[[Finance]]"
+  - "[[Reports]]"
+  - "[[Finance]]"
 ---
 # Quarterly financial reports

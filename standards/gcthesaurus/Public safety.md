@@ -1,8 +1,8 @@
 ---
 title: Public safety
-longTitle: 'Public safety'
+aliases: Public safety
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Securite publique]]"
+  - "[[Securite publique]]"
 ---

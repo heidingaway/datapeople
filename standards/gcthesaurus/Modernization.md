@@ -1,8 +1,8 @@
 ---
 title: Modernization
-longTitle: 'Modernization'
+aliases: Modernization
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Modernisation]]"
+  - "[[Modernisation]]"
 ---

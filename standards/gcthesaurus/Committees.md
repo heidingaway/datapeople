@@ -1,11 +1,11 @@
 ---
 title: Committees
-longTitle: 'Committees'
+aliases: Committees
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Comite]]"
+  - "[[Comite]]"
 narrowerTerm:
-- "[[Advisory committees]]"
-- "[[Parliamentary committees]]"
+  - "[[Advisory committees]]"
+  - "[[Parliamentary committees]]"
 ---

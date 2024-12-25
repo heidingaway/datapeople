@@ -1,27 +1,30 @@
 ---
 title: Salaries
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Salaries'
+  - gccommon
+id: 461
 french:
-- "[[Salaire]]"
+  - Salaire
 narrowerTerm:
-- "[[Minimum wage]]"
-- "[[Severance pay]]"
-- "[[Insurable earnings]]"
+  - "[[Insurable earnings]]"
+  - "[[Minimum wage]]"
+  - "[[Severance pay]]"
 relatedTerm:
-- "[[Risk premiums]]"
+  - "[[Allowances]]"
+  - "[[Pay equity]]"
+  - "[[Personal income]]"
+  - "[[Risk premiums]]"
 scopeNote:
-- "The amount an employer pays an employee for work d"
-usedFor:
-- "[[Employment earnings]]"
-- "[[Employment income]]"
-- "[[Labor income]]"
-- "[[Labour income]]"
-- "[[Pay]]"
-- "[[Remuneration]]"
-- "[[Wages]]"
+  - The amount an employer pays an employee for work done.
+aliases:
+  - Employment earnings
+  - Employment income
+  - Labor income
+  - Labour income
+  - Pay
+  - Remuneration
+  - Wages
 ---
 # Salaries

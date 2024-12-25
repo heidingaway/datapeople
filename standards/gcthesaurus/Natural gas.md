@@ -1,8 +1,8 @@
 ---
 title: Natural gas
-longTitle: 'Natural gas'
+aliases: Natural gas
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gaz naturel]]"
+  - "[[Gaz naturel]]"
 ---

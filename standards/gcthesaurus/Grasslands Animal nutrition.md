@@ -1,8 +1,8 @@
 ---
 title: Grasslands Animal nutrition
-longTitle: 'Grasslands, Animal nutrition'
+aliases: Grasslands, Animal nutrition
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Forage crops]]"
+  - "[[Forage crops]]"
 ---

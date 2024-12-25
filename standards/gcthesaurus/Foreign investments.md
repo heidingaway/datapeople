@@ -3,11 +3,9 @@ title: Foreign investments
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Foreign investments'
+  - gccommon
 french:
-- "[[Investissement etranger]]"
-usedFor:
-- "[[International investments]]"
+  - "[[Investissement etranger]]"
+aliases: Foreign investments
 ---
 # Foreign investments

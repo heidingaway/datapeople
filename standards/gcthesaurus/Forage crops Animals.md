@@ -1,8 +1,8 @@
 ---
 title: Forage crops Animals
-longTitle: 'Forage crops, Animals'
+aliases: Forage crops, Animals
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Animal nutrition]]"
+  - "[[Animal nutrition]]"
 ---

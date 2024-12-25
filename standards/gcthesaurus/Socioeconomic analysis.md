@@ -1,8 +1,8 @@
 ---
 title: Socioeconomic analysis
-longTitle: 'Socioeconomic analysis'
+aliases: Socioeconomic analysis
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Analyse socio-economique]]"
+  - "[[Analyse socio-economique]]"
 ---

@@ -1,11 +1,11 @@
 ---
 title: Seas
-longTitle: 'Seas'
+aliases: Seas
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Mer]]"
+  - "[[Mer]]"
 relatedTerm:
-- "[[Ocean energy]]"
-- "[[Ocean floor]]"
+  - "[[Ocean energy]]"
+  - "[[Ocean floor]]"
 ---

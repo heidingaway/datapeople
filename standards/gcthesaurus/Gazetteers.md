@@ -3,14 +3,14 @@ title: Gazetteers
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Gazetteers'
+  - gccommon
+aliases: Gazetteers
 french:
-- "[[Repertoire geographique]]"
+  - "[[Repertoire geographique]]"
 scopeNote:
-- "Geographical dictionaries of names and description"
+  - Geographical dictionaries of names and description
 relatedTerm:
-- "[[Toponymy]]"
-- "[[Geography]]"
+  - "[[Toponymy]]"
+  - "[[Geography]]"
 ---
 # Gazetteers

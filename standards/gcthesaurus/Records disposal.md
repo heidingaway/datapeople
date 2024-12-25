@@ -1,8 +1,8 @@
 ---
 title: Records disposal
-longTitle: 'Records disposal'
+aliases: Records disposal
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Elimination des documents]]"
+  - "[[Elimination des documents]]"
 ---

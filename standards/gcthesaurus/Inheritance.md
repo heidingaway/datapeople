@@ -1,10 +1,10 @@
 ---
 title: Inheritance
-longTitle: 'Inheritance'
+aliases: Inheritance
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Heritage]]"
+  - "[[Heritage]]"
 scopeNote:
-- "Investments money property or other valuables rece"
+  - Investments money property or other valuables rece
 ---

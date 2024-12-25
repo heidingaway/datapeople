@@ -1,10 +1,10 @@
 ---
 title: Sociology
-longTitle: 'Sociology'
+aliases: Sociology
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Sociologie]]"
+  - "[[Sociologie]]"
 relatedTerm:
-- "[[Social history]]"
+  - "[[Social history]]"
 ---

@@ -1,10 +1,10 @@
 ---
 title: Objectives
-longTitle: 'Objectives'
+aliases: Objectives
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Objectif]]"
+  - "[[Objectif]]"
 relatedTerm:
-- "[[Mission statements]]"
+  - "[[Mission statements]]"
 ---

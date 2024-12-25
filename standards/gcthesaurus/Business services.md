@@ -1,13 +1,13 @@
 ---
 title: Business services
-longTitle: 'Business services'
+aliases: Business services
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Services aux entreprises]]"
+  - "[[Services aux entreprises]]"
 narrowerTerm:
-- "[[Accounting]]"
-- "[[Advertising]]"
+  - "[[Accounting]]"
+  - "[[Advertising]]"
 scopeNote:
-- "Services and resources for managing and operating "
+  - "Services and resources for managing and operating "
 ---

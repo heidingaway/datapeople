@@ -1,8 +1,8 @@
 ---
 title: Military history Cemeteries
-longTitle: 'Military history, Cemeteries'
+aliases: Military history, Cemeteries
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[War memorials]]"
+  - "[[War memorials]]"
 ---

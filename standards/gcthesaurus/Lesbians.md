@@ -1,10 +1,8 @@
 ---
 title: Lesbians
-longTitle: 'Lesbians'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Lesbienne]]"
-usedFor:
-- "[[Gay women]]"
+  - "[[Lesbienne]]"
+aliases: Lesbians
 ---

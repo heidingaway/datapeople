@@ -1,10 +1,10 @@
 ---
 title: Digital collections
-longTitle: 'Digital collections'
+aliases: Digital collections
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Collection numerique]]"
+  - "[[Collection numerique]]"
 relatedTerm:
-- "[[Digital libraries]]"
+  - "[[Digital libraries]]"
 ---

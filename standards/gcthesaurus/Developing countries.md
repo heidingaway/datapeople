@@ -1,10 +1,8 @@
 ---
 title: Developing countries
-longTitle: 'Developing countries'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Pays en developpement]]"
-usedFor:
-- "[[Third world]]"
+  - "[[Pays en developpement]]"
+aliases: Developing countries
 ---

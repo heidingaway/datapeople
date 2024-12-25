@@ -1,8 +1,8 @@
 ---
 title: Pari-mutuel betting
-longTitle: 'Pari-mutuel betting'
+aliases: Pari-mutuel betting
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Pari mutuel]]"
+  - "[[Pari mutuel]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Prices Price regulation
-longTitle: 'Prices, Price regulation'
+aliases: Prices, Price regulation
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Pricing]]"
+  - "[[Pricing]]"
 ---

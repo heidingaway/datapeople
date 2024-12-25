@@ -1,8 +1,8 @@
 ---
 title: Provincial taxes
-longTitle: 'Provincial taxes'
+aliases: Provincial taxes
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Impot provincial]]"
+  - "[[Impot provincial]]"
 ---

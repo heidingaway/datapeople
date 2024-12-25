@@ -1,8 +1,8 @@
 ---
 title: Free trade
-longTitle: 'Free trade'
+aliases: Free trade
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Libre-echange]]"
+  - "[[Libre-echange]]"
 ---

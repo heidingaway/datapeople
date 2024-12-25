@@ -1,12 +1,10 @@
 ---
 title: Veterans
-longTitle: 'Veterans'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ancien combattant]]"
+  - "[[Ancien combattant]]"
 relatedTerm:
-- "[[Veteran pensions]]"
-usedFor:
-- "[[War veterans]]"
+  - "[[Veteran pensions]]"
+aliases: Veterans
 ---

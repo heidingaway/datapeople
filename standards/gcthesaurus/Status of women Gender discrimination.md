@@ -1,8 +1,8 @@
 ---
 title: Status of women Gender discrimination
-longTitle: 'Status of women, Gender discrimination'
+aliases: Status of women, Gender discrimination
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Gender equality]]"
+  - "[[Gender equality]]"
 ---

@@ -1,11 +1,8 @@
 ---
 title: Elderly care
-longTitle: 'Elderly care'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Soin de la personne agee]]"
-usedFor:
-- "[[Care of the elderly]]"
-- "[[Elder care]]"
+  - "[[Soin de la personne agee]]"
+aliases: Elderly care
 ---

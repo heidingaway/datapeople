@@ -1,8 +1,8 @@
 ---
 title: Same-sex couples Gender discrimination
-longTitle: 'Same-sex couples, Gender discrimination'
+aliases: Same-sex couples, Gender discrimination
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Sexual orientation]]"
+  - "[[Sexual orientation]]"
 ---

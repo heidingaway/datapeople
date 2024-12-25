@@ -1,8 +1,8 @@
 ---
 title: Food processing Data processing Claims processing
-longTitle: 'Food processing, Data processing, Claims processing'
+aliases: Food processing, Data processing, Claims processing
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Processing]]"
+  - "[[Processing]]"
 ---

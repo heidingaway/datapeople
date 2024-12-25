@@ -1,8 +1,8 @@
 ---
 title: Historical hydrometric data
-longTitle: 'Historical hydrometric data'
+aliases: Historical hydrometric data
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Donnees hydrometriques historiques]]"
+  - "[[Donnees hydrometriques historiques]]"
 ---

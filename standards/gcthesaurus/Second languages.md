@@ -1,14 +1,14 @@
 ---
 title: Second languages
-longTitle: 'Second languages'
+aliases: Second languages
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Langue seconde]]"
+  - "[[Langue seconde]]"
 narrowerTerm:
-- "[[English second language]]"
-- "[[French second language]]"
+  - "[[English second language]]"
+  - "[[French second language]]"
 relatedTerm:
-- "[[Second language assessment]]"
-- "[[Second language education]]"
+  - "[[Second language assessment]]"
+  - "[[Second language education]]"
 ---

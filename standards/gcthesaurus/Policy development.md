@@ -1,8 +1,8 @@
 ---
 title: Policy development
-longTitle: 'Policy development'
+aliases: Policy development
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Elaboration des politiques]]"
+  - "[[Elaboration des politiques]]"
 ---

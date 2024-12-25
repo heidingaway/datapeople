@@ -1,10 +1,8 @@
 ---
 title: Boreal ecosystems
-longTitle: 'Boreal ecosystems'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ecosysteme boreal]]"
-usedFor:
-- "[[Boreal forests]]"
+  - "[[Ecosysteme boreal]]"
+aliases: Boreal ecosystems
 ---

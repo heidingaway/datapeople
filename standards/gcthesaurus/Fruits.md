@@ -3,14 +3,14 @@ title: Fruits
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Fruits'
+  - gccommon
+aliases: Fruits
 french:
-- "[[Fruit]]"
+  - "[[Fruit]]"
 narrowerTerm:
-- "[[Apples]]"
-- "[[Grapes]]"
+  - "[[Apples]]"
+  - "[[Grapes]]"
 relatedTerm:
-- "[[Fruit crops]]"
+  - "[[Fruit crops]]"
 ---
 # Fruits

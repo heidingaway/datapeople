@@ -3,24 +3,18 @@ title: Microorganisms
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Microorganisms'
+  - gccommon
 french:
-- "[[Microorganisme]]"
+  - "[[Microorganisme]]"
 narrowerTerm:
-- "[[Bacteria]]"
-- "[[Viruses]]"
+  - "[[Bacteria]]"
+  - "[[Viruses]]"
 relatedTerm:
-- "[[Microbiology]]"
-- "[[Cells]]"
-- "[[Biodegradation]]"
+  - "[[Microbiology]]"
+  - "[[Cells]]"
+  - "[[Biodegradation]]"
 scopeNote:
-- "Refers to any plant or animal of microscopical siz"
-usedFor:
-- "[[Micro-organisms]]"
-- "[[Microscopic organisms]]"
-- "[[Molds Fungi]]"
-- "[[Moulds Fungi]]"
-- "[[Yeasts]]"
+  - Refers to any plant or animal of microscopical siz
+aliases: Microorganisms
 ---
 # Microorganisms

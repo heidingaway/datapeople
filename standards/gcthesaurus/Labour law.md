@@ -1,20 +1,20 @@
 ---
 title: Labour law
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Labour law'
+  - gccommon
+id: 2573
 french:
-- "[[Droit du travail]]"
-usedFor:
-- "[[Employment law]]"
-- "[[Labor law]]"
+  - Droit du travail
+aliases:
+  - Employment law
+  - Labor law
 relatedTerm:
-- "[[Workers]]"
-- "[[Labour standards]]"
-- "[[Labour relations]]"
-- "[[Labour code]]"
-- "[[Labour]]"
+  - "[[Labour code]]"
+  - "[[Labour relations]]"
+  - "[[Labour standards]]"
+  - "[[Labour]]"
+  - "[[Workers]]"
 ---
 # Labour law

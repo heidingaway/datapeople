@@ -1,10 +1,10 @@
 ---
 title: Divestiture
-longTitle: 'Divestiture'
+aliases: Divestiture
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Dessaisissement]]"
+  - "[[Dessaisissement]]"
 relatedTerm:
-- "[[Assets]]"
+  - "[[Assets]]"
 ---

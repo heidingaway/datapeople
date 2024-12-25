@@ -1,10 +1,8 @@
 ---
 title: Signs
-longTitle: 'Signs'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Signalisation]]"
-usedFor:
-- "[[Signage]]"
+  - "[[Signalisation]]"
+aliases: Signs
 ---

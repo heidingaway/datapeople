@@ -3,15 +3,15 @@ title: Federal territorial relations
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Federal territorial relations'
+  - gccommon
+aliases: Federal territorial relations
 french:
-- "[[Relations federales-territoriales]]"
+  - "[[Relations federales-territoriales]]"
 relatedTerm:
-- "[[Transfer payments]]"
-- "[[Territorial governments]]"
-- "[[Federal territorial agreements]]"
-- "[[Federal government]]"
-- "[[Division of powers]]"
+  - "[[Transfer payments]]"
+  - "[[Territorial governments]]"
+  - "[[Federal territorial agreements]]"
+  - "[[Federal government]]"
+  - "[[Division of powers]]"
 ---
 # Federal territorial relations

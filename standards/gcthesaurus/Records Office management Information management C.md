@@ -1,8 +1,8 @@
 ---
 title: Records Office management Information management C
-longTitle: 'Records, Office management, Information management, Cataloguing'
+aliases: Records, Office management, Information management, Cataloguing
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Records management]]"
+  - "[[Records management]]"
 ---

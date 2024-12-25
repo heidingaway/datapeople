@@ -1,8 +1,8 @@
 ---
 title: Textile industry Shoe industry Clothing
-longTitle: 'Textile industry, Shoe industry, Clothing'
+aliases: Textile industry, Shoe industry, Clothing
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Clothing industry]]"
+  - "[[Clothing industry]]"
 ---

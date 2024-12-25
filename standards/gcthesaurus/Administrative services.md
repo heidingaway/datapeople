@@ -1,10 +1,12 @@
 ---
 title: Administrative services
-longTitle: 'Administrative services'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Services administratifs]]"
-usedFor:
-- "[[Secretariat]]"
+  - Services administratifs
+aliases:
+  - Administrative services
 ---
+# Administrative services

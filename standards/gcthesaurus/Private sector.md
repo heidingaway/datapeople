@@ -1,12 +1,10 @@
 ---
 title: Private sector
-longTitle: 'Private sector'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Secteur prive]]"
+  - "[[Secteur prive]]"
 relatedTerm:
-- "[[Privatization]]"
-usedFor:
-- "[[Private enterprises]]"
+  - "[[Privatization]]"
+aliases: Private sector
 ---

@@ -1,16 +1,20 @@
 ---
 title: Drainage
-longTitle: 'Drainage'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Drainage]]"
+  - Drainage
 relatedTerm:
-- "[[Wetlands]]"
-usedFor:
-- "[[Agricultural drainage]]"
-- "[[Farm drainage]]"
-- "[[Field drainage]]"
-- "[[Land drainage]]"
-- "[[Soil drainage]]"
+  - "[[Land management]]"
+  - "[[Water management]]"
+  - "[[Wetlands]]"
+aliases:
+  - Agricultural drainage
+  - Farm drainage
+  - Field drainage
+  - Land drainage
+  - Soil drainage
 ---
+# Drainage

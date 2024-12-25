@@ -1,8 +1,8 @@
 ---
 title: Poaching
-longTitle: 'Poaching'
+aliases: Poaching
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Braconnage]]"
+  - "[[Braconnage]]"
 ---

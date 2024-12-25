@@ -1,8 +1,8 @@
 ---
 title: Radiation Physics Electricity
-longTitle: 'Radiation, Physics, Electricity'
+aliases: Radiation, Physics, Electricity
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Magnetism]]"
+  - "[[Magnetism]]"
 ---

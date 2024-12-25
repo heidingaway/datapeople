@@ -1,12 +1,12 @@
 ---
 title: Processing
-longTitle: 'Processing'
+aliases: Processing
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Traitement]]"
+  - "[[Traitement]]"
 narrowerTerm:
-- "[[Claims processing]]"
-- "[[Data processing]]"
-- "[[Food processing]]"
+  - "[[Claims processing]]"
+  - "[[Data processing]]"
+  - "[[Food processing]]"
 ---

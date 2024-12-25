@@ -1,14 +1,8 @@
 ---
 title: Hydroponics
-longTitle: 'Hydroponics'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Culture hydroponique]]"
-usedFor:
-- "[[Hydroculture]]"
-- "[[Hydroponic cultivation]]"
-- "[[Hydroponic culture]]"
-- "[[Soilless culture]]"
-- "[[Water culture]]"
+  - "[[Culture hydroponique]]"
+aliases: Hydroponics
 ---

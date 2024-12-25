@@ -3,15 +3,15 @@ title: Testimony
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Testimony'
+  - gccommon
+aliases: Testimony
 broaderTerm:
-- "[[Evidence]]"
+  - "[[Evidence]]"
 french:
-- "[[Temoignage]]"
+  - "[[Temoignage]]"
 historyNote:
-- "Changed from Testimonies to Testimony July 23 2003"
+  - Changed from Testimonies to Testimony July 23 2003
 scopeNote:
-- "A declaration made to establish a fact especially "
+  - "A declaration made to establish a fact especially "
 ---
 # Testimony

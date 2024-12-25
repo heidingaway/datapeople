@@ -1,12 +1,10 @@
 ---
 title: Labour
-longTitle: 'Labour'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Travail]]"
+  - "[[Travail]]"
 narrowerTerm:
-- "[[Student labour]]"
-usedFor:
-- "[[Labor]]"
+  - "[[Student labour]]"
+aliases: Labour
 ---

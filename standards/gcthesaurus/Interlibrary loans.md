@@ -3,11 +3,9 @@ title: Interlibrary loans
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Interlibrary loans'
+  - gccommon
 french:
-- "[[Pret entre bibliotheques]]"
-usedFor:
-- "[[Document delivery]]"
+  - "[[Pret entre bibliotheques]]"
+aliases: Interlibrary loans
 ---
 # Interlibrary loans

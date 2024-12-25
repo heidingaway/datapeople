@@ -1,15 +1,13 @@
 ---
 title: Artefacts
-longTitle: 'Artefacts'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Artefact]]"
+  - "[[Artefact]]"
 relatedTerm:
-- "[[Collections]]"
-- "[[Archaeological sites]]"
+  - "[[Collections]]"
+  - "[[Archaeological sites]]"
 scopeNote:
-- "Natural or artificial objects produced selected or"
-usedFor:
-- "[[Antiques]]"
+  - Natural or artificial objects produced selected or
+aliases: Artefacts
 ---

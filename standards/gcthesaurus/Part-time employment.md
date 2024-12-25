@@ -1,8 +1,8 @@
 ---
 title: Part-time employment
-longTitle: 'Part-time employment'
+aliases: Part-time employment
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Emploi a temps partiel]]"
+  - "[[Emploi a temps partiel]]"
 ---

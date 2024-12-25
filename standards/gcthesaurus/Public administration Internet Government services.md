@@ -1,8 +1,8 @@
 ---
 title: Public administration Internet Government services
-longTitle: 'Public administration, Internet, Government services, Electronic commerce'
+aliases: Public administration, Internet, Government services, Electronic commerce
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Electronic government]]"
+  - "[[Electronic government]]"
 ---

@@ -1,8 +1,8 @@
 ---
 title: Financial statements
-longTitle: 'Financial statements'
+aliases: Financial statements
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Etats financiers]]"
+  - "[[Etats financiers]]"
 ---

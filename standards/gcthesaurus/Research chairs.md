@@ -3,12 +3,12 @@ title: Research chairs
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Research chairs'
+  - gccommon
+aliases: Research chairs
 french:
-- "[[Chaire de recherche]]"
+  - "[[Chaire de recherche]]"
 relatedTerm:
-- "[[Universities]]"
-- "[[Research]]"
+  - "[[Universities]]"
+  - "[[Research]]"
 ---
 # Research chairs

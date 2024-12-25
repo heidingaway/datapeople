@@ -1,8 +1,8 @@
 ---
 title: Physics Chemistry
-longTitle: 'Physics, Chemistry'
+aliases: Physics, Chemistry
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Physical sciences]]"
+  - "[[Physical sciences]]"
 ---

@@ -3,15 +3,13 @@ title: Forestry
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Forestry'
+  - gccommon
 french:
-- "[[Foresterie]]"
-usedFor:
-- "[[Sylviculture]]"
+  - "[[Foresterie]]"
+aliases: Forestry
 relatedTerm:
-- "[[Forests]]"
-- "[[Forestry industry]]"
-- "[[Forest management]]"
+  - "[[Forests]]"
+  - "[[Forestry industry]]"
+  - "[[Forest management]]"
 ---
 # Forestry

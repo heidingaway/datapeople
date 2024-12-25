@@ -1,33 +1,38 @@
 ---
 title: Crime
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
-longTitle: 'Crime'
+  - gccommon
 french:
-- "[[Crime]]"
+  - "[[Crime]]"
 narrowerTerm:
-- "[[Fugitives from justice]]"
-- "[[War crimes]]"
-- "[[Organized crime]]"
-- "[[Human trafficking]]"
-- "[[Homicide]]"
-- "[[Fraud]]"
-- "[[Economic crime]]"
-- "[[Crime against humanity]]"
-- "[[Corruption]]"
-- "[[Computer crime]]"
+  - "[[Computer crime]]"
+  - "[[Corruption]]"
+  - "[[Crime against humanity]]"
+  - "[[Economic crime]]"
+  - "[[Fraud]]"
+  - "[[Fugitives from justice]]"
+  - "[[Homicide]]"
+  - "[[Human trafficking]]"
+  - "[[Organized crime]]"
+  - "[[War crimes]]"
 relatedTerm:
-- "[[Forensics]]"
-- "[[Proceeds of crime]]"
-- "[[Vandalism]]"
+  - "[[Crime prevention]]"
+  - "[[Criminal investigations]]"
+  - "[[Criminal justice]]"
+  - "[[Criminal law]]"
+  - "[[Criminal records]]"
+  - "[[Forensics]]"
+  - "[[Gangs]]"
+  - "[[Inmates]]"
+  - "[[Offences]]"
+  - "[[Proceeds of crime]]"
+  - "[[Vandalism]]"
+  - "[[Young offenders]]"
 scopeNote:
-- "Social harm acts or commissions of acts that are f"
-usedFor:
-- "[[Burglaries]]"
-- "[[Criminal activities]]"
-- "[[Illegal activities]]"
-- "[[Theft]]"
+  - Social harm acts or commissions of acts that are f
+aliases:
+  - Crime
 ---
 # Crime

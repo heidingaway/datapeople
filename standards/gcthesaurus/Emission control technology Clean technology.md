@@ -1,8 +1,8 @@
 ---
 title: Emission control technology Clean technology
-longTitle: 'Emission control technology, Clean technology'
+aliases: Emission control technology, Clean technology
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Environmental technology]]"
+  - "[[Environmental technology]]"
 ---

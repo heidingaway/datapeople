@@ -1,12 +1,15 @@
 ---
 title: Buses
-longTitle: 'Buses'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Autobus]]"
-usedFor:
-- "[[Motor buses]]"
-- "[[Motor coaches]]"
-- "[[Motorcoaches]]"
+  - Autobus
+aliases:
+  - Motor buses
+  - Motor coaches
+  - Motorcoaches
+id: 1202
 ---
+# Buses

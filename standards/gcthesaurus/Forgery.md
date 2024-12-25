@@ -1,14 +1,10 @@
 ---
 title: Forgery
-longTitle: 'Forgery'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Falsification]]"
+  - "[[Falsification]]"
 scopeNote:
-- "Alteration or imitation of something document sign"
-usedFor:
-- "[[Adulteration]]"
-- "[[Counterfeiting]]"
-- "[[Falsification]]"
+  - Alteration or imitation of something document sign
+aliases: Forgery
 ---

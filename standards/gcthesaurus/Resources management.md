@@ -1,10 +1,10 @@
 ---
 title: Resources management
-longTitle: 'Resources management'
+aliases: Resources management
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Gestion des ressources]]"
+  - "[[Gestion des ressources]]"
 narrowerTerm:
-- "[[Energy management]]"
+  - "[[Energy management]]"
 ---

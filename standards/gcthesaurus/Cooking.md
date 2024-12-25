@@ -1,16 +1,12 @@
 ---
 title: Cooking
-longTitle: 'Cooking'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Art culinaire]]"
-usedFor:
-- "[[Cookery]]"
-- "[[Meal preparation]]"
-- "[[Recipes]]"
+  - "[[Art culinaire]]"
+aliases: Cooking
 relatedTerm:
-- "[[Nutrition]]"
-- "[[Home economics]]"
-- "[[Food]]"
+  - "[[Nutrition]]"
+  - "[[Home economics]]"
+  - "[[Food]]"
 ---

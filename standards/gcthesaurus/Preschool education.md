@@ -1,12 +1,8 @@
 ---
 title: Preschool education
-longTitle: 'Preschool education'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Education prescolaire]]"
-usedFor:
-- "[[Early childhood education]]"
-- "[[Kindergarten]]"
-- "[[Nursery schools]]"
+  - "[[Education prescolaire]]"
+aliases: Preschool education
 ---

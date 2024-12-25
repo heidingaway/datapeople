@@ -1,12 +1,10 @@
 ---
 title: Influenza
-longTitle: 'Influenza'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Grippe]]"
+  - "[[Grippe]]"
 scopeNote:
-- "A contagious viral infection characterized by infl"
-usedFor:
-- "[[Flu]]"
+  - A contagious viral infection characterized by infl
+aliases: Influenza
 ---

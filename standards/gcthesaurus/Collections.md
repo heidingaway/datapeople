@@ -1,12 +1,12 @@
 ---
 title: Collections
-longTitle: 'Collections'
+aliases: Collections
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Collection]]"
+  - "[[Collection]]"
 narrowerTerm:
-- "[[Digital collections]]"
-- "[[Herbaria]]"
-- "[[Museum collections]]"
+  - "[[Digital collections]]"
+  - "[[Herbaria]]"
+  - "[[Museum collections]]"
 ---

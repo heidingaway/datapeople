@@ -1,8 +1,8 @@
 ---
 title: Green products Environment friendly products
-longTitle: 'Green products, Environment friendly products'
+aliases: Green products, Environment friendly products
 tags:
-- gccommon
+  - gccommon
 historyNote:
-- "Green products replaces Environment friendly produ"
+  - Green products replaces Environment friendly produ
 ---

@@ -1,8 +1,8 @@
 ---
 title: Prospecting Minerals Geophysics Geological maps Ge
-longTitle: 'Prospecting, Minerals, Geophysics, Geological maps, Geochemistry, Earthquakes'
+aliases: Prospecting, Minerals, Geophysics, Geological maps, Geochemistry, Earthquakes
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Geology]]"
+  - "[[Geology]]"
 ---

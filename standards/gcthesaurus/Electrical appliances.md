@@ -3,13 +3,11 @@ title: Electrical appliances
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Electrical appliances'
+  - gccommon
 broaderTerm:
-- "[[Electrical equipment]]"
+  - "[[Electrical equipment]]"
 french:
-- "[[Appareil electrique]]"
-usedFor:
-- "[[Electric appliances]]"
+  - "[[Appareil electrique]]"
+aliases: Electrical appliances
 ---
 # Electrical appliances

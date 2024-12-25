@@ -1,10 +1,14 @@
 ---
 title: Airlines
-longTitle: 'Airlines'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Compagnie aerienne]]"
-usedFor:
-- "[[Air carriers]]"
+  - Compagnie aerienne
+aliases:
+  - Air carriers
+  - Airlines
+id: 362
 ---
+# Airlines

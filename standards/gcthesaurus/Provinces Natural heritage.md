@@ -1,8 +1,8 @@
 ---
 title: Provinces Natural heritage
-longTitle: 'Provinces, Natural heritage'
+aliases: Provinces, Natural heritage
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Provincial parks]]"
+  - "[[Provincial parks]]"
 ---

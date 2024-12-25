@@ -3,13 +3,13 @@ title: Seizure of property
 created: 2024-12-18
 modified: 2024-12-22
 tags:
-- gccommon
-longTitle: 'Seizure (of property)'
+  - gccommon
+aliases: Seizure (of property)
 french:
-- "[[Saisie]]"
+  - "[[Saisie]]"
 relatedTerm:
-- "[[Recoveries]]"
-- "[[Property]]"
-- "[[Bankruptcies]]"
+  - "[[Recoveries]]"
+  - "[[Property]]"
+  - "[[Bankruptcies]]"
 ---
 # Seizure of property

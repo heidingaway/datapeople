@@ -1,11 +1,8 @@
 ---
 title: Indigenous affairs
-longTitle: 'Indigenous affairs'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Affaires autochtones]]"
-usedFor:
-- "[[Aboriginal affairs]]"
-- "[[Aboriginal issues]]"
+  - "[[Affaires autochtones]]"
+aliases: Indigenous affairs
 ---

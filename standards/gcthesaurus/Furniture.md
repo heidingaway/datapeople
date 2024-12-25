@@ -1,12 +1,10 @@
 ---
 title: Furniture
-longTitle: 'Furniture'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Ameublement]]"
+  - "[[Ameublement]]"
 relatedTerm:
-- "[[Furniture industry]]"
-usedFor:
-- "[[Home furnishings]]"
+  - "[[Furniture industry]]"
+aliases: Furniture
 ---

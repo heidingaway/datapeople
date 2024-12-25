@@ -1,10 +1,8 @@
 ---
 title: Legal documents
-longTitle: 'Legal documents'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Document juridique]]"
-usedFor:
-- "[[Legal records]]"
+  - "[[Document juridique]]"
+aliases: Legal documents
 ---

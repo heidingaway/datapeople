@@ -1,12 +1,8 @@
 ---
 title: Child support
-longTitle: 'Child support'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Pension alimentaire]]"
-usedFor:
-- "[[Alimony]]"
-- "[[Child maintenance]]"
-- "[[Child support payments]]"
+  - "[[Pension alimentaire]]"
+aliases: Child support
 ---

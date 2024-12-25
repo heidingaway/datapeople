@@ -1,8 +1,8 @@
 ---
 title: Childhood diseases
-longTitle: 'Childhood diseases'
+aliases: Childhood diseases
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Maladie infantile]]"
+  - "[[Maladie infantile]]"
 ---

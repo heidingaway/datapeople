@@ -3,18 +3,16 @@ title: Social development
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Social development'
+  - gccommon
 french:
-- "[[Developpement social]]"
+  - "[[Developpement social]]"
 narrowerTerm:
-- "[[Community development]]"
-usedFor:
-- "[[Social change]]"
+  - "[[Community development]]"
+aliases: Social development
 relatedTerm:
-- "[[Social trends]]"
-- "[[Social structure]]"
-- "[[Social movement]]"
-- "[[Social indicators]]"
+  - "[[Social trends]]"
+  - "[[Social structure]]"
+  - "[[Social movement]]"
+  - "[[Social indicators]]"
 ---
 # Social development

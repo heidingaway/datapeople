@@ -3,12 +3,12 @@ title: Health impact
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Health impact'
+  - gccommon
+aliases: Health impact
 french:
-- "[[Impact sur la sante]]"
+  - "[[Impact sur la sante]]"
 relatedTerm:
-- "[[Health hazards]]"
-- "[[Health]]"
+  - "[[Health hazards]]"
+  - "[[Health]]"
 ---
 # Health impact

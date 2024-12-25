@@ -1,8 +1,8 @@
 ---
 title: Monetary policy Foreign payments Exchange rates Co
-longTitle: 'Monetary policy, Foreign payments, Exchange rates, Coins, Capital'
+aliases: Monetary policy, Foreign payments, Exchange rates, Coins, Capital
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Currency]]"
+  - "[[Currency]]"
 ---

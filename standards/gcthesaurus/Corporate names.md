@@ -3,14 +3,12 @@ title: Corporate names
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Corporate names'
+  - gccommon
 french:
-- "[[Raison sociale]]"
-usedFor:
-- "[[Corporate identity]]"
+  - "[[Raison sociale]]"
+aliases: Corporate names
 relatedTerm:
-- "[[Corporations]]"
-- "[[Corporate image]]"
+  - "[[Corporations]]"
+  - "[[Corporate image]]"
 ---
 # Corporate names

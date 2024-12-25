@@ -1,8 +1,8 @@
 ---
 title: Hygiene
-longTitle: 'Hygiene'
+aliases: Hygiene
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Hygiene]]"
+  - "[[Hygiene]]"
 ---

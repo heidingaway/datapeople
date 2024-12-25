@@ -1,13 +1,10 @@
 ---
 title: Surgery
-longTitle: 'Surgery'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Chirurgie]]"
+  - "[[Chirurgie]]"
 narrowerTerm:
-- "[[Surgeons]]"
-usedFor:
-- "[[Surgical operations]]"
-- "[[Surgical procedures]]"
+  - "[[Surgeons]]"
+aliases: Surgery
 ---

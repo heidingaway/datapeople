@@ -1,8 +1,8 @@
 ---
 title: Patented medicines
-longTitle: 'Patented medicines'
+aliases: Patented medicines
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Medicament brevete]]"
+  - "[[Medicament brevete]]"
 ---

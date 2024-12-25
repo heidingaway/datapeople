@@ -1,8 +1,8 @@
 ---
 title: Newspapers Information
-longTitle: 'Newspapers, Information'
+aliases: Newspapers, Information
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Journalism]]"
+  - "[[Journalism]]"
 ---

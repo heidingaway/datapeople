@@ -1,8 +1,12 @@
 ---
 title: Administrative data
-longTitle: 'Administrative data'
+created: 2024-12-18
+modified: 2024-12-24
 tags:
-- gccommon
+  - gccommon
+aliases:
+  - Administrative data
 french:
-- "[[Donnees administratives]]"
+  - Donnees administratives
 ---
+# Administrative data

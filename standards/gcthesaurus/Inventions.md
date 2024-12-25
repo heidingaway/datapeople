@@ -3,12 +3,12 @@ title: Inventions
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Inventions'
+  - gccommon
+aliases: Inventions
 french:
-- "[[Invention]]"
+  - "[[Invention]]"
 relatedTerm:
-- "[[Innovation]]"
-- "[[Patents]]"
+  - "[[Innovation]]"
+  - "[[Patents]]"
 ---
 # Inventions

@@ -3,12 +3,12 @@ title: Samples
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Samples'
+  - gccommon
+aliases: Samples
 french:
-- "[[Echantillon]]"
+  - "[[Echantillon]]"
 relatedTerm:
-- "[[Testing]]"
-- "[[Models]]"
+  - "[[Testing]]"
+  - "[[Models]]"
 ---
 # Samples

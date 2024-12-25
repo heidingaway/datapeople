@@ -3,15 +3,15 @@ title: Classification
 created: 2024-12-18
 modified: 2024-12-23
 tags:
-- gccommon
-longTitle: 'Classification'
+  - gccommon
+aliases: Classification
 french:
-- "[[Classification]]"
+  - "[[Classification]]"
 narrowerTerm:
-- "[[Job classification]]"
+  - "[[Job classification]]"
 relatedTerm:
-- "[[Taxonomy]]"
-- "[[Coding]]"
-- "[[Cataloguing]]"
+  - "[[Taxonomy]]"
+  - "[[Coding]]"
+  - "[[Cataloguing]]"
 ---
 # Classification

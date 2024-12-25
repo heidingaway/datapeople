@@ -1,17 +1,17 @@
 ---
 title: Community development
-longTitle: 'Community development'
+aliases: Community development
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Social development]]"
+  - "[[Social development]]"
 french:
-- "[[Developpement communautaire]]"
+  - "[[Developpement communautaire]]"
 relatedTerm:
-- "[[Community education]]"
-- "[[Community infrastructures]]"
-- "[[Community radio]]"
-- "[[Community relations]]"
-- "[[Community programs]]"
-- "[[Community partnerships]]"
+  - "[[Community education]]"
+  - "[[Community infrastructures]]"
+  - "[[Community radio]]"
+  - "[[Community relations]]"
+  - "[[Community programs]]"
+  - "[[Community partnerships]]"
 ---

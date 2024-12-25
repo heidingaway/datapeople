@@ -3,12 +3,12 @@ title: Record of employment
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Record of employment'
+  - gccommon
+aliases: Record of employment
 french:
-- "[[Releve demploi]]"
+  - "[[Releve demploi]]"
 relatedTerm:
-- "[[Employment]]"
-- "[[Applicants]]"
+  - "[[Employment]]"
+  - "[[Applicants]]"
 ---
 # Record of employment

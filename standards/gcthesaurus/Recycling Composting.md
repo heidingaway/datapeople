@@ -1,8 +1,8 @@
 ---
 title: Recycling Composting
-longTitle: 'Recycling, Composting'
+aliases: Recycling, Composting
 tags:
-- gccommon
+  - gccommon
 broaderTerm:
-- "[[Waste management]]"
+  - "[[Waste management]]"
 ---

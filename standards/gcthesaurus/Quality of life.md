@@ -1,10 +1,8 @@
 ---
 title: Quality of life
-longTitle: 'Quality of life'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Qualite de vie]]"
-usedFor:
-- "[[Living conditions]]"
+  - "[[Qualite de vie]]"
+aliases: Quality of life
 ---

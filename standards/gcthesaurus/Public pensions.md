@@ -3,11 +3,11 @@ title: Public pensions
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Public pensions'
+  - gccommon
+aliases: Public pensions
 french:
-- "[[Pension publique]]"
+  - "[[Pension publique]]"
 relatedTerm:
-- "[[Private pensions]]"
+  - "[[Private pensions]]"
 ---
 # Public pensions

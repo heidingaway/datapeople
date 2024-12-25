@@ -1,11 +1,8 @@
 ---
 title: Bioenergy
-longTitle: 'Bioenergy'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Bioenergie]]"
-usedFor:
-- "[[Bio-energy]]"
-- "[[Biomass energy]]"
+  - "[[Bioenergie]]"
+aliases: Bioenergy
 ---

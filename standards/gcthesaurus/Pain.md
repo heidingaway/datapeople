@@ -1,8 +1,8 @@
 ---
 title: Pain
-longTitle: 'Pain'
+aliases: Pain
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Douleur]]"
+  - "[[Douleur]]"
 ---

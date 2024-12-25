@@ -1,8 +1,8 @@
 ---
 title: National Capital
-longTitle: 'National Capital'
+aliases: National Capital
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Capitale nationale]]"
+  - "[[Capitale nationale]]"
 ---

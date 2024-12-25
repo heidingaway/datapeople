@@ -3,9 +3,9 @@ title: Program delivery
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Program delivery'
+  - gccommon
+aliases: Program delivery
 french:
-- "[[Realisation de programme]]"
+  - "[[Realisation de programme]]"
 ---
 # Program delivery

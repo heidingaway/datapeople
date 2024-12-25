@@ -1,8 +1,8 @@
 ---
 title: Industry classification
-longTitle: 'Industry classification'
+aliases: Industry classification
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Classification des industries]]"
+  - "[[Classification des industries]]"
 ---

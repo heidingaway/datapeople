@@ -1,8 +1,8 @@
 ---
 title: Indexes
-longTitle: 'Indexes'
+aliases: Indexes
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Index]]"
+  - "[[Index]]"
 ---

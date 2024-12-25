@@ -1,10 +1,8 @@
 ---
 title: Drug education
-longTitle: 'Drug education'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Prevention de la toxicomanie]]"
-usedFor:
-- "[[Drug prevention]]"
+  - "[[Prevention de la toxicomanie]]"
+aliases: Drug education
 ---

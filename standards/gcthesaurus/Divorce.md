@@ -1,10 +1,10 @@
 ---
 title: Divorce
-longTitle: 'Divorce'
+aliases: Divorce
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Divorce]]"
+  - "[[Divorce]]"
 relatedTerm:
-- "[[Single parent families]]"
+  - "[[Single parent families]]"
 ---

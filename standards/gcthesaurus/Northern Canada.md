@@ -1,16 +1,8 @@
 ---
 title: Northern Canada
-longTitle: 'Northern Canada'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Nord canadien]]"
-usedFor:
-- "[[Arctic regions of Canada]]"
-- "[[Canadas Arctic]]"
-- "[[Canadas North]]"
-- "[[Canadian Arctic]]"
-- "[[Canadian North]]"
-- "[[North of Canada]]"
-- "[[Northern regions of Canada]]"
+  - "[[Nord canadien]]"
+aliases: Northern Canada
 ---

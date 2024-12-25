@@ -1,8 +1,8 @@
 ---
 title: Navigation Marine equipment
-longTitle: 'Navigation, Marine equipment'
+aliases: Navigation, Marine equipment
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Vessels]]"
+  - "[[Vessels]]"
 ---

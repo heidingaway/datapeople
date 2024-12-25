@@ -3,17 +3,13 @@ title: Fertilizers
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Fertilizers'
+  - gccommon
 french:
-- "[[Engrais]]"
-usedFor:
-- "[[Chemical fertilizers]]"
-- "[[Compost]]"
-- "[[Organic fertilizers]]"
+  - "[[Engrais]]"
+aliases: Fertilizers
 relatedTerm:
-- "[[Manure]]"
-- "[[Composting]]"
-- "[[Chemicals]]"
+  - "[[Manure]]"
+  - "[[Composting]]"
+  - "[[Chemicals]]"
 ---
 # Fertilizers

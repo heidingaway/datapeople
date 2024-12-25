@@ -1,11 +1,8 @@
 ---
 title: Computer science
-longTitle: 'Computer science'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Informatique]]"
-usedFor:
-- "[[Computing science]]"
-- "[[Informatics]]"
+  - "[[Informatique]]"
+aliases: Computer science
 ---

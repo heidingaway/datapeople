@@ -1,10 +1,10 @@
 ---
 title: Whales
-longTitle: 'Whales'
+aliases: Whales
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Baleine]]"
+  - "[[Baleine]]"
 relatedTerm:
-- "[[Whaling]]"
+  - "[[Whaling]]"
 ---

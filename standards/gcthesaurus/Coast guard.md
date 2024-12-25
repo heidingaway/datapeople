@@ -1,10 +1,8 @@
 ---
 title: Coast guard
-longTitle: 'Coast guard'
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Garde cotiere]]"
-usedFor:
-- "[[Coastguard]]"
+  - "[[Garde cotiere]]"
+aliases: Coast guard
 ---

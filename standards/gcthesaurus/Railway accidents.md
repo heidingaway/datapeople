@@ -3,12 +3,9 @@ title: Railway accidents
 created: 2024-12-18
 modified: 2024-12-21
 tags:
-- gccommon
-longTitle: 'Railway accidents'
+  - gccommon
 french:
-- "[[Accident ferroviaire]]"
-usedFor:
-- "[[Derailments]]"
-- "[[Train wrecks]]"
+  - "[[Accident ferroviaire]]"
+aliases: Railway accidents
 ---
 # Railway accidents

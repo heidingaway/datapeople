@@ -1,9 +1,9 @@
 ---
 title: Trade negotiations Trade agreements
-longTitle: 'Trade negotiations, Trade agreements'
+aliases: Trade negotiations, Trade agreements
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Commercial law]]"
-- "[[Trade disputes]]"
+  - "[[Commercial law]]"
+  - "[[Trade disputes]]"
 ---

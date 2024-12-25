@@ -3,14 +3,12 @@ title: Cooperatives
 created: 2024-12-18
 modified: 2024-12-18
 tags:
-- gccommon
-longTitle: 'Cooperatives'
+  - gccommon
 french:
-- "[[Cooperative]]"
-usedFor:
-- "[[Co-ops]]"
+  - "[[Cooperative]]"
+aliases: Cooperatives
 relatedTerm:
-- "[[Credit unions]]"
-- "[[Banks]]"
+  - "[[Credit unions]]"
+  - "[[Banks]]"
 ---
 # Cooperatives

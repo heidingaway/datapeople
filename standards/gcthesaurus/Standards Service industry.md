@@ -1,8 +1,8 @@
 ---
 title: Standards Service industry
-longTitle: 'Standards, Service industry'
+aliases: Standards, Service industry
 tags:
-- gccommon
+  - gccommon
 relatedTerm:
-- "[[Quality of service]]"
+  - "[[Quality of service]]"
 ---

@@ -1,15 +1,15 @@
 ---
 title: Indicators
-longTitle: 'Indicators'
+aliases: Indicators
 tags:
-- gccommon
+  - gccommon
 french:
-- "[[Indicateur]]"
+  - "[[Indicateur]]"
 narrowerTerm:
-- "[[Economic indicators]]"
-- "[[Education indicators]]"
-- "[[Environmental indicators]]"
-- "[[Health indicators]]"
-- "[[Performance indicators]]"
-- "[[Social indicators]]"
+  - "[[Economic indicators]]"
+  - "[[Education indicators]]"
+  - "[[Environmental indicators]]"
+  - "[[Health indicators]]"
+  - "[[Performance indicators]]"
+  - "[[Social indicators]]"
 ---
