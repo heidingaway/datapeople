@@ -5,7 +5,7 @@ modified: 2024-12-18
 tags:
   - gccommon
 french:
-  - "[[Allocation]]"
+  - Allocation
 narrowerTerm:
   - "[[Family allowances]]"
 aliases: Allowances

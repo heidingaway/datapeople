@@ -1,8 +1,13 @@
 ---
 title: Applied research
-aliases: Applied research
+created: 2024-12-18
+modified: 2024-12-25
 tags:
   - gccommon
+aliases:
+  - Applied research
+id: 630
 french:
-  - "[[Recherche appliquee]]"
+  - Recherche appliquee
 ---
+# Applied research

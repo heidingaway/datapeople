@@ -1,8 +1,13 @@
 ---
 title: Special libraries
-aliases: Special libraries
+aliases:
+  - Special libraries
+created: 2024-12-18
+modified: 2024-12-25
 tags:
   - gccommon
+id: 3159
 french:
-  - "[[Bibliotheque specialisee]]"
+  - Bibliothèque spécialisée
 ---
+# Special libraries

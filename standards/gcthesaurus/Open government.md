@@ -1,22 +1,21 @@
 ---
 title: Open government
+aliases:
+  - Open government
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-25
 tags:
   - gccommon
   - project/dma
-aliases: Open government
-broaderTerm:
-  - "[[Accountability]]"
-  - "[[Government policy]]"
+id: 4850
 french:
-  - "[[Gouvernement ouvert]]"
+  - Gouvernement ouvert
 narrowerTerm:
   - "[[Freedom of information]]"
 relatedTerm:
-  - "[[Open data]]"
-  - "[[Citizen participation]]"
   - "[[Access to information]]"
+  - "[[Citizen participation]]"
+  - "[[Open data]]"
 type: "[[101 Outcomes]]"
 ---
 # Open government

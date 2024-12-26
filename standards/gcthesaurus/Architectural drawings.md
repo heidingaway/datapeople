@@ -1,14 +1,16 @@
 ---
 title: Architectural drawings
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-25
 tags:
   - gccommon
-aliases: Architectural drawings
+id: 696
+aliases:
+  - Architectural drawings
 french:
-  - "[[Dessin darchitecture]]"
+  - Dessin d'architecture
 relatedTerm:
-  - "[[Architecture]]"
   - "[[Architectural services]]"
+  - "[[Architecture]]"
 ---
 # Architectural drawings

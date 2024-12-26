@@ -1,13 +1,12 @@
 ---
 title: 403 Event
 created: 2024-10-26
-modified: 2024-10-26
-tags: 
-- thing
+modified: 2024-12-25
+tags:
+  - event
+type: "[[400 Thing]]"
 ---
 # 403 Event
-## Properties
-- [[400 Thing]]
 ## Class
 - class [[ChildrensEvent]]
 - class [[ComedyEvent]]

@@ -1,12 +1,18 @@
 ---
 title: Arctic
+created: 2024-12-18
+modified: 2024-12-25
 tags:
   - gccommon
 french:
-  - "[[Arctique]]"
+  - Arctique
 relatedTerm:
   - "[[Arctic ecosystems]]"
-aliases: Arctic
+  - "[[Northern Canada]]"
+aliases:
+  - Arctic regions
+  - North Pole
 narrowerTerm:
   - "[[Polar regions]]"
 ---
+# Arctic

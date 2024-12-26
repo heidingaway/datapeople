@@ -7,7 +7,7 @@ french:
 narrowerTerm:
   - "[[Decorative arts]]"
   - "[[Graphic arts]]"
-  - "[[Painting]]"
+  - "[[402 Painting]]"
   - "[[Photography]]"
   - "[[Sculpture]]"
 aliases: Visual arts

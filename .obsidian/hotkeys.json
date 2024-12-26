@@ -15,21 +15,52 @@
       "key": "="
     }
   ],
-  "app:delete-file": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "/"
-    }
-  ],
   "obsidian-regex-replace:obsidian-regex-replace": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": "F"
+    }
+  ],
+  "metaedit:metaEditRun": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "obsidian-linter:paste-as-plain-text": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ],
+  "obsidian-completr:completr-blacklist-current-word": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [],
+      "key": "F6"
     }
   ]
 }

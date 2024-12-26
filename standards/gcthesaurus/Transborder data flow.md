@@ -1,14 +1,15 @@
 ---
 title: Transborder data flow
+aliases:
+  - Transnational data flow
 created: 2024-12-13
-modified: 2024-12-18
+modified: 2024-12-25
 tags:
   - gccommon
-french:
-  - "[[Flux transfrontiere de donnees]]"
-aliases: Transborder data flow
+id: 2494
+french: Flux transfrontiere de donnees
 relatedTerm:
-  - "[[Machine readable data]]"
   - "[[Electronic data interchange]]"
+  - "[[Machine readable data]]"
 ---
 # Transborder data flow

@@ -1,8 +1,12 @@
 ---
 title: Animal diseases
-aliases: Animal diseases
+created: 2024-12-18
+modified: 2024-12-25
 tags:
   - gccommon
+aliases:
+  - Animal diseases
 french:
-  - "[[Maladie animale]]"
+  - Maladie animale
 ---
+# Animal diseases

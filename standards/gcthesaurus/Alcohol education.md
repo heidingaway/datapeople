@@ -1,14 +1,13 @@
 ---
 title: Alcohol education
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-25
 tags:
   - gccommon
-aliases: Alcohol education
-french:
-  - "[[Prevention de lalcoolisme]]"
+id: 435
+french: Prevention de l'alcoolisme
 relatedTerm:
-  - "[[Alcoholism]]"
   - "[[Alcohol consumption]]"
+  - "[[Alcoholism]]"
 ---
 # Alcohol education

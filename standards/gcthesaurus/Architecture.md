@@ -1,12 +1,12 @@
 ---
 title: Architecture
 created: 2024-12-18
-modified: 2024-*12*-18
+modified: 2024-12-25
 tags:
   - gccommon
-aliases: Architecture
+id: 699
 french:
-  - "[[Architecture]]"
+  - Architecture
 narrowerTerm:
   - "[[Commercial architecture]]"
   - "[[Domestic architecture]]"
@@ -14,9 +14,14 @@ narrowerTerm:
   - "[[Public architecture]]"
   - "[[Religious architecture]]"
 relatedTerm:
-  - "[[Buildings]]"
-  - "[[Architectural services]]"
-  - "[[Architectural heritage]]"
   - "[[Architectural drawings]]"
+  - "[[Architectural heritage]]"
+  - "[[Architectural services]]"
+  - "[[Buildings]]"
+  - "[[Commercial architecture]]"
+  - "[[Domestic architecture]]"
+  - "[[Military architecture]]"
+  - "[[Public architecture]]"
+  - "[[Religious architecture]]"
 ---
 # Architecture

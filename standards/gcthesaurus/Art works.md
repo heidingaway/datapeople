@@ -1,8 +1,15 @@
 ---
 title: Art works
-aliases: Art works
+created: 2024-12-18
+modified: 2024-12-25
 tags:
   - gccommon
-french:
-  - "[[uvre dart]]"
+aliases:
+  - Art objects
+id: 757
+french: Oeuvre d'art
+relatedTerm:
+  - "[[Art exhibitions]]"
+  - "[[Visual arts]]"
 ---
+# Art works

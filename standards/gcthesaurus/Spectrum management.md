@@ -1,15 +1,17 @@
 ---
 title: Spectrum management
+aliases:
+  - Spectrum management
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-25
 tags:
   - gccommon
-aliases: Spectrum management
+id: 1168
 french:
-  - "[[Gestion du spectre]]"
+  - Gestion du spectre
 relatedTerm:
-  - "[[Telecommunications]]"
-  - "[[Regulations]]"
   - "[[Broadcasting]]"
+  - "[[Regulations]]"
+  - "[[Telecommunications]]"
 ---
 # Spectrum management

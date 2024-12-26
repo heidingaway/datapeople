@@ -1,14 +1,23 @@
 ---
 title: 402 CreativeWork
+aliases:
+  - creativeWorks
 created: 2024-10-26
-modified: 2024-10-26
-tags: 
-- meta
+modified: 2024-12-25
+tags:
+  - thing/creativeWorks
+type: "[[400 Thing]]"
+class:
+  - "[[402.01 Dataset]]"
+  - "[[402.02 CreativeWorkSeries]]"
+  - "[[402.03 HowTo]]"
+  - "[[402.04 DataCatalog]]"
+  - "[[402.05 Review]]"
+  - "[[402.06 Certification]]"
+  - "[[402.07 Legislation]]"
+  - "[[402 Painting]]"
 ---
 # 402 CreativeWork
-## Properties
-- [[400 Thing]]
-
 ## Class
 - class [[AmpStory]]
 - class [[ArchiveComponent]]
@@ -16,7 +25,6 @@ tags:
 - class [[Atlas]]
 - class [[Blog]]
 - class [[Book]]
-- class [[Certification]]
 - class [[Chapter]]
 - class [[Claim]]
 - class [[Clip]]
@@ -27,9 +35,6 @@ tags:
 - class [[Conversation]]
 - class [[Course]]
 - class [[CreativeWorkSeason]]
-- class [[402.02 CreativeWorkSeries]]
-- class [[402.04 DataCatalog]]
-- class [[402.01 Dataset]]
 - class [[DefinedTermSet]]
 - class [[Diet]]
 - class [[DigitalDocument]]
@@ -39,7 +44,6 @@ tags:
 - class [[ExercisePlan]]
 - class [[Game]]
 - class [[Guide]]
-- class [[402.03 HowTo]]
 - class [[HowToDirection]]
 - class [[HowToSection]]
 - class [[HowToStep]]
@@ -47,7 +51,6 @@ tags:
 - class [[HyperToc]]
 - class [[HyperTocEntry]]
 - class [[LearningResource]]
-- class [[Legislation]]
 - class [[Manuscript]]
 - class [[Map]]
 - class [[MathSolver]]
@@ -60,14 +63,13 @@ tags:
 - class [[MusicComposition]]
 - class [[MusicPlaylist]]
 - class [[MusicRecording]]
-- class [[Painting]]
+
 - class [[Photograph]]
 - class [[Play]]
 - class [[Poster]]
 - class [[PublicationIssue]]
 - class [[PublicationVolume]]
 - class [[Quotation]]
-- class [[Review]]
 - class [[Sculpture]]
 - class [[Season]]
 - class [[SheetMusic]]

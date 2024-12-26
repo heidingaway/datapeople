@@ -1,15 +1,17 @@
 ---
 title: Communications equipment
+aliases:
+  - Telecommunications equipment
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-25
 tags:
   - gccommon
+id: 1663
 french:
-  - "[[Equipement de communications]]"
+  - Telecommunications equipment
 narrowerTerm:
   - "[[Radar]]"
   - "[[Telephones]]"
-aliases: Communications equipment
 relatedTerm:
   - "[[Communications industry]]"
   - "[[Communications]]"

@@ -1,12 +1,14 @@
 ---
 title: Media relations
+aliases:
+  - Media relations
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-25
 tags:
   - gccommon
-aliases: Media relations
+id: 3892
 french:
-  - "[[Relations avec les medias]]"
+  - Relations avec les médias
 relatedTerm:
   - "[[Media monitoring]]"
   - "[[Media]]"

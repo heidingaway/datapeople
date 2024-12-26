@@ -9,7 +9,7 @@ french:
 aliases: Legislative writing
 relatedTerm:
   - "[[Regulations]]"
-  - "[[Legislation]]"
+  - "[[402.07 Legislation]]"
   - "[[By-laws]]"
 ---
 # Legislative writing

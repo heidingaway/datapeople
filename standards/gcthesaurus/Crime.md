@@ -1,11 +1,11 @@
 ---
 title: Crime
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2024-12-25
 tags:
   - gccommon
 french:
-  - "[[Crime]]"
+  - Crime
 narrowerTerm:
   - "[[Computer crime]]"
   - "[[Corruption]]"

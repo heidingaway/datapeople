@@ -1,9 +1,11 @@
 ---
 title: 200 Area
 created: 2024-11-07
-modified: 2024-12-10
+modified: 2024-12-25
 tags:
-- index
+  - index
+aliases:
+  - Area
 ---
 # 200 Area
 - topic [[201 Reading]]

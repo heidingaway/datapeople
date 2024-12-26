@@ -5,6 +5,6 @@ modified: 2024-11-19
 tags:
   - project/dma
 governedBy:
-  - "[[Legislation]]"
+  - "[[402.07 Legislation]]"
 ---
 # mandatory data sharing

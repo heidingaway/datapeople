@@ -2,13 +2,11 @@
 title: 405 MedicalEntity
 created: 2024-10-26
 modified: 2024-10-26
+type: "[[400 Thing]]"
 tags: 
 - meta
 ---
 # 405 MedicalEntity
-## Properties
-- [[400 Thing]]
-
 ## Class
 - class [[AnatomicalStructure]]
 - class [[AnatomicalSystem]]

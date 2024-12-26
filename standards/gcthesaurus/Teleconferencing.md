@@ -1,10 +1,15 @@
 ---
 title: Teleconferencing
-aliases: Teleconferencing
+aliases:
+  - Teleconferencing
+created: 2024-12-18
+modified: 2024-12-25
 tags:
   - gccommon
-broaderTerm:
-  - "[[Meetings]]"
+id: 3905
 french:
-  - "[[Teleconference]]"
+  - Téléconférence
+relatedTerm:
+  - "[[Telecommunications]]"
 ---
+# Teleconferencing

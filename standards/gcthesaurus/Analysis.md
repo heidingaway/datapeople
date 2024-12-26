@@ -1,10 +1,12 @@
 ---
 title: Analysis
-aliases: Analysis
+created: 2024-12-18
+modified: 2024-12-25
 tags:
   - gccommon
-french:
-  - "[[Analyse]]"
+aliases:
+  - Analysis
+french: Analyse
 narrowerTerm:
   - "[[Economic analysis]]"
   - "[[Financial analysis]]"
@@ -15,3 +17,4 @@ relatedTerm:
   - "[[Diagnosis]]"
   - "[[Feasibility studies]]"
 ---
+# Analysis

@@ -1,15 +1,18 @@
 ---
 title: Television
+aliases:
+  - Pay television
+  - TV
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-25
 tags:
   - gccommon
+id: 1169
 french:
-  - "[[Television]]"
-aliases: Television
+  - Télévision
 relatedTerm:
-  - "[[Media]]"
-  - "[[Cable television]]"
   - "[[Broadcasting]]"
+  - "[[Cable television]]"
+  - "[[Media]]"
 ---
 # Television

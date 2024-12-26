@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] Knowing your own darkness is the best method for dealing with the darknesses of other people.
-> — Carl Jung  
+> [!quote] He who deliberates fully before taking a step will spend his entire life on one leg.
+> — Chinese proverb  
   
 ------  
 ```widgets  

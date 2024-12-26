@@ -2,7 +2,7 @@
 title: Amendments
 tags:
   - gccommon
-french:
-  - "[[Amendement]]"
+french: Amendement
 aliases: Amendments
+
 ---

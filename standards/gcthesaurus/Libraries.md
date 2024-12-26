@@ -1,11 +1,17 @@
 ---
 title: Libraries
+aliases:
+  - Documentation centers
+  - Documentation centres
+  - Documentation services
+  - Library collections
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-25
 tags:
   - gccommon
+id: 1006
 french:
-  - "[[Bibliotheque]]"
+  - Bibliothèque
 narrowerTerm:
   - "[[Digital libraries]]"
   - "[[Government libraries]]"
@@ -14,7 +20,8 @@ narrowerTerm:
   - "[[Special libraries]]"
 relatedTerm:
   - "[[Bibliographic data interchange]]"
+  - "[[Cataloguing]]"
   - "[[Interlibrary loans]]"
-aliases: Libraries
+  - "[[Reference services]]"
 ---
 # Libraries

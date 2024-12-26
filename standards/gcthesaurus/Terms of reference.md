@@ -1,15 +1,17 @@
 ---
 title: Terms of reference
+aliases:
+  - Terms of reference
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-25
 tags:
   - gccommon
-aliases: Terms of reference
+id: 1642
 french:
-  - "[[Cadre de reference]]"
+  - Cadre de référence
 relatedTerm:
-  - "[[Mandate]]"
-  - "[[Contracts]]"
   - "[[Committees]]"
+  - "[[Contracts]]"
+  - "[[Mandate]]"
 ---
 # Terms of reference

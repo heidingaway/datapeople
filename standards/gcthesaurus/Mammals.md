@@ -1,21 +1,23 @@
 ---
 title: Mammals
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-25
 tags:
   - gccommon
+id: 577
 french:
-  - "[[Mammifere]]"
+  - Mammifere
 narrowerTerm:
+  - "[[Cattle]]"
+  - "[[Hogs]]"
+  - "[[Horses]]"
   - "[[Primates]]"
   - "[[Rodents]]"
-  - "[[Whales]]"
-  - "[[Walruses]]"
-  - "[[Sheep]]"
   - "[[Seals]]"
-  - "[[Horses]]"
-  - "[[Hogs]]"
-  - "[[Cattle]]"
-aliases: Mammals
+  - "[[Sheep]]"
+  - "[[Walruses]]"
+  - "[[Whales]]"
+aliases:
+  - Mammalians
 ---
 # Mammals

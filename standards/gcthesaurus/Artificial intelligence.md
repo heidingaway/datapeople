@@ -1,17 +1,20 @@
 ---
 title: Artificial intelligence
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-25
 tags:
   - gccommon
   - project/dma
+id: 767
 french:
   - "[[Intelligence artificielle]]"
-aliases: Artificial intelligence
+aliases:
+  - Computational intelligence
+  - Machine intelligence
 relatedTerm:
-  - "[[Robotics]]"
-  - "[[Intelligent systems]]"
-  - "[[Information technology]]"
   - "[[Automation]]"
+  - "[[Information technology]]"
+  - "[[Intelligent systems]]"
+  - "[[Robotics]]"
 ---
 # Artificial intelligence

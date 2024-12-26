@@ -1,8 +1,13 @@
 ---
 title: International telecommunications
-aliases: International telecommunications
+aliases:
+  - International telecommunications
+created: 2024-12-18
+modified: 2024-12-25
 tags:
   - gccommon
+id: 3583
 french:
-  - "[[Telecommunications internationales]]"
+  - Télécommunications internationales
 ---
+# International telecommunications

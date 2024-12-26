@@ -2,12 +2,11 @@
 title: 401 Action
 created: 2024-10-26
 modified: 2024-10-26
+type: "[[400 Thing]]"
 tags:
-- thing
+- thing/action
 ---
 # 401 Action
-## Properties
-- [[400 Thing]]
 ## Additional Type
 - class [[401.04 AchieveAction]]
 - class [[401.06 AssessAction]]

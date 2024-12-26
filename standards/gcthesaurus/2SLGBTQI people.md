@@ -1,7 +1,7 @@
 ---
 title: 2SLGBTQI people
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2024-12-25
 tags:
   - gccommon
 narrowerTerm:

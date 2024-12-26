@@ -1,15 +1,17 @@
 ---
 title: Art galleries
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-25
 tags:
   - gccommon
-aliases: Art galleries
+id: 756
+aliases:
+  - Art galleries
 french:
-  - "[[Galerie dart]]"
+  - Galerie d'art
 relatedTerm:
-  - "[[Visual arts]]"
-  - "[[Museums]]"
   - "[[Art exhibitions]]"
+  - "[[Museums]]"
+  - "[[Visual arts]]"
 ---
 # Art galleries

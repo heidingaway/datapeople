@@ -1,11 +1,5 @@
 ---
 title: Vocational guidance
-created: 2024-12-18
-modified: 2024-12-24
-tags:
-  - gccommon
-french:
-  - Orientation professionnelle
 aliases:
   - Career counseling
   - Career counselling
@@ -16,6 +10,12 @@ aliases:
   - Vocational counseling
   - Vocational counselling
   - Vocational information
+created: 2024-12-18
+modified: 2024-12-25
+tags:
+  - gccommon
+french:
+  - Orientation professionnelle
 relatedTerm:
   - "[[Counselling services]]"
   - "[[Educational guidance]]"

@@ -1,16 +1,18 @@
 ---
 title: Metadata
+aliases:
+  - Metadata
 created: 2024-12-13
-modified: 2024-12-24
-source: "[[501 Government of Canada Core Subject Thesaurus]]"
+modified: 2024-12-25
 tags:
   - gccommon
-aliases: Metadata
+context: "[[501 Government of Canada Core Subject Thesaurus]]"
+id: 1362
 french:
-  - "[[Metadonnees]]"
+  - Métadonnées
 relatedTerm:
-  - "[[Information management]]"
   - "[[Cataloguing]]"
+  - "[[Information management]]"
 narrowerTerm:
   - "[[metadata quality]]"
 ---

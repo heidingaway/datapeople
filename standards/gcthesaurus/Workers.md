@@ -1,20 +1,20 @@
 ---
 title: Workers
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-25
 tags:
   - gccommon
-french:
-  - "[[Travailleur]]"
+french: Travailleur
 narrowerTerm:
   - "[[Agricultural workers]]"
   - "[[Industrial workers]]"
   - "[[Migrant workers]]"
   - "[[Women workers]]"
-aliases: Workers
+aliases:
+  - Workers
 relatedTerm:
-  - "[[Labour law]]"
-  - "[[Labour force]]"
   - "[[Human resources]]"
+  - "[[Labour force]]"
+  - "[[Labour law]]"
 ---
 # Workers

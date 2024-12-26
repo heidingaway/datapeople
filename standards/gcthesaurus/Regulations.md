@@ -17,7 +17,7 @@ relatedTerm:
   - "[[Regulation]]"
   - "[[Policy]]"
   - "[[Legislative writing]]"
-  - "[[Legislation]]"
+  - "[[402.07 Legislation]]"
   - "[[By-laws]]"
 scopeNote:
   - Rules and administrative codes created by an admin

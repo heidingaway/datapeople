@@ -1,10 +1,15 @@
 ---
 title: Artists
-aliases: Artists
+created: 2024-12-18
+modified: 2024-12-25
 tags:
   - gccommon
+aliases:
+  - Artists
+id: 775
 french:
-  - "[[Artiste]]"
+  - Artiste
 scopeNote:
-  - Writers producers directors choreographers conduct
+  - Writers, producers, directors, choreographers, conductors, composers, arrangers, performers, painters, sculptors, artisans and craftpersons and related occupations who create objects of aesthetic value.
 ---
+# Artists

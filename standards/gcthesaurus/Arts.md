@@ -1,10 +1,12 @@
 ---
 title: Arts
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-25
 tags:
   - gccommon
-aliases: Arts
+id: 758
+aliases:
+  - Arts
 french:
   - "[[Arts]]"
 narrowerTerm:
@@ -13,9 +15,9 @@ narrowerTerm:
   - "[[Visual arts]]"
 relatedTerm:
   - "[[Artists]]"
-  - "[[Music]]"
-  - "[[Literature]]"
-  - "[[Humanities]]"
   - "[[Culture]]"
+  - "[[Humanities]]"
+  - "[[Literature]]"
+  - "[[Music]]"
 ---
 # Arts

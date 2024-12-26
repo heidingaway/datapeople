@@ -1,11 +1,13 @@
 ---
 title: Visual archives
+aliases:
+  - Visual archives
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-25
 tags:
   - gccommon
-aliases: Visual archives
+id: 714
 french:
-  - "[[Archives visuelles]]"
+  - Archives visuelles
 ---
 # Visual archives

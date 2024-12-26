@@ -1,20 +1,20 @@
 ---
 title: Transfer payments
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-25
 tags:
   - gccommon
-french:
-  - "[[Paiement de transfert]]"
+french: Paiement de transfert
 narrowerTerm:
   - "[[Non-repayable contributions]]"
   - "[[Repayable contributions]]"
-aliases: Transfer payments
+aliases:
+  - Transfer payments
 relatedTerm:
-  - "[[Recipients]]"
-  - "[[Public finance]]"
-  - "[[Funding]]"
-  - "[[Federal territorial relations]]"
   - "[[Federal provincial relations]]"
+  - "[[Federal territorial relations]]"
+  - "[[Funding]]"
+  - "[[Public finance]]"
+  - "[[Recipients]]"
 ---
 # Transfer payments

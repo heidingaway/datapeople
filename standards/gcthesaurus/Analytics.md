@@ -1,8 +1,11 @@
 ---
 title: Analytics
-aliases: Analytics
+created: 2024-12-18
+modified: 2024-12-25
 tags:
   - gccommon
-french:
-  - "[[Analytique]]"
+aliases:
+  - Analytics
+french: Analytique
 ---
+# Analytics

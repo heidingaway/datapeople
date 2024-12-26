@@ -1,12 +1,13 @@
 ---
 title: Animals
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-25
 tags:
   - gccommon
-aliases: Animals
+aliases:
+  - Animals
 french:
-  - "[[Animal]]"
+  - Animal
 narrowerTerm:
   - "[[Amphibians]]"
   - "[[Aquatic animals]]"
@@ -19,19 +20,19 @@ narrowerTerm:
   - "[[Molluscs]]"
   - "[[Reptiles]]"
 relatedTerm:
-  - "[[Animal migrations]]"
-  - "[[Animal rights]]"
-  - "[[Hibernation]]"
-  - "[[Zoology]]"
-  - "[[Zoological gardens]]"
-  - "[[Wildlife]]"
-  - "[[Animal testing]]"
-  - "[[Animal research]]"
-  - "[[Animal reproduction]]"
-  - "[[Animal populations]]"
-  - "[[Animal nutrition]]"
-  - "[[Animal husbandry]]"
-  - "[[Animal health]]"
   - "[[Animal diseases]]"
+  - "[[Animal health]]"
+  - "[[Animal husbandry]]"
+  - "[[Animal migrations]]"
+  - "[[Animal nutrition]]"
+  - "[[Animal populations]]"
+  - "[[Animal reproduction]]"
+  - "[[Animal research]]"
+  - "[[Animal rights]]"
+  - "[[Animal testing]]"
+  - "[[Hibernation]]"
+  - "[[Wildlife]]"
+  - "[[Zoological gardens]]"
+  - "[[Zoology]]"
 ---
 # Animals

@@ -1,15 +1,22 @@
 ---
 title: Multimedia
+aliases:
+  - Audiovisual documents
+  - Audiovisual materials
+  - Multimedia documents
+  - Multimedia materials
+  - Multimedia products
+  - Multimedia technologies
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-25
 tags:
   - gccommon
+id: 867
 french:
-  - "[[Multimedia]]"
+  - Multimedia
 relatedTerm:
   - "[[Audiovisual equipment]]"
-  - "[[Media]]"
   - "[[Information technology]]"
-aliases: Multimedia
+  - "[[Media]]"
 ---
 # Multimedia

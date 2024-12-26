@@ -1,11 +1,17 @@
 ---
 title: Education
+aliases:
+  - Education system
+  - Instructions
+  - Schooling
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-25
 tags:
   - gccommon
+id: 64
 french:
-  - "[[Education  Enseignement]]"
+  - Éducation
+  - Enseignement
 narrowerTerm:
   - "[[Alcohol education]]"
   - "[[Community education]]"
@@ -27,7 +33,6 @@ narrowerTerm:
   - "[[Secondary education]]"
   - "[[Technical education]]"
   - "[[User education]]"
-aliases: Education
 relatedTerm:
   - "[[Access to education]]"
   - "[[Awareness]]"
