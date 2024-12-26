@@ -1,10 +1,11 @@
 ---
 title: Free Agents
+aliases:
+  - "20241226182339"
 created: 2024-12-18
-modified: 2024-12-18
-tags: 
-- area
-- journal
+modified: 2024-12-26
+tags:
+  - area/journal
 ---
 # Free Agents
 Some may have already heard by now, but the context for my initiating my search for a long term home was being surprised by the news 2 weeks ago that TBS was pulling out of participating in the Free Agents program over the next year. To be clear, the Free Agents program continues to exist at NRCan. There seems to be no indication that they are or will be in the same situation. NRCan is the original department in which the CFA began as a pilot. When I read about the first cohort back in 2017, I said this is how I want to spend my career.

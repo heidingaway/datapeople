@@ -4,14 +4,14 @@
 type: clock  
 ```  
   
-> [!quote] He who deliberates fully before taking a step will spend his entire life on one leg.
-> — Chinese proverb  
+> [!quote] There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+> — Albert Einstein  
   
 ------  
 ```widgets  
 type: countdown  
-date: 2024-12-25 00:00  
-to: ✨🎄❄ Christmas ❄🎄✨
+date: 2025-04-15 00:00  
+to: ✨🎂 30th Birthday 🎂✨
 ```
 ---
   

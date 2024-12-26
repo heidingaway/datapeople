@@ -1,16 +1,23 @@
 ---
 title: Government information
+aliases:
+  - "20241226180526"
+  - Government information
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-26
 tags:
   - gccommon
 french:
-  - "[[Information gouvernementale]]"
+  - Information gouvernementale
 relatedTerm:
+  - "[[Government communications]]"
+  - "[[Government libraries]]"
+  - "[[Government publications]]"
+  - "[[Governments]]"
+  - "[[Press releases]]"
   - "[[Submissions]]"
-aliases: Government information
 narrowerTerm:
-  - "[[Open government]]"
   - "[[Information bulletin]]"
+  - "[[Open government]]"
 ---
 # Government information

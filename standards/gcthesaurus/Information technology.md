@@ -1,25 +1,27 @@
 ---
 title: Information technology
+aliases:
+  - Information technology
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-25
 tags:
   - gccommon
-aliases: Information technology
+id: 771
 french:
-  - "[[Technologie de linformation]]"
+  - Technologie de l'information
 relatedTerm:
-  - "[[Chief Information Officer]]"
-  - "[[Templates]]"
-  - "[[Telecommunications]]"
-  - "[[Social media]]"
-  - "[[Multimedia]]"
-  - "[[Intelligent systems]]"
-  - "[[Information systems]]"
-  - "[[Information management]]"
-  - "[[Information]]"
-  - "[[Electronic data interchange]]"
-  - "[[Data processing]]"
-  - "[[Computer networks]]"
   - "[[Artificial intelligence]]"
+  - "[[Chief Information Officer]]"
+  - "[[Computer networks]]"
+  - "[[Data processing]]"
+  - "[[Electronic data interchange]]"
+  - "[[Information management]]"
+  - "[[Information systems]]"
+  - "[[Information]]"
+  - "[[Intelligent systems]]"
+  - "[[Multimedia]]"
+  - "[[Social media]]"
+  - "[[Telecommunications]]"
+  - "[[Templates]]"
 ---
 # Information technology

@@ -12,8 +12,8 @@ type: clock
 ------  
 ```widgets  
 type: countdown  
-date: 2024-12-25 00:00  
-to: ✨🎄❄ Christmas ❄🎄✨
+date: 2025-04-15 00:00  
+to: ✨🎂 30th Birthday 🎂✨
 ```
 ---
   

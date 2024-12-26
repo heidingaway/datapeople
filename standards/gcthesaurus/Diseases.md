@@ -1,9 +1,13 @@
 ---
 title: Diseases
+aliases:
+  - Diseases
+created: 2024-12-18
+modified: 2024-12-25
 tags:
   - gccommon
 french:
-  - "[[Maladie]]"
+  - Maladie
 narrowerTerm:
   - "[[Animal diseases]]"
   - "[[Cancer]]"
@@ -16,5 +20,12 @@ narrowerTerm:
   - "[[Occupational diseases]]"
   - "[[Plant diseases]]"
   - "[[Respiratory diseases]]"
-aliases: Diseases
+relatedTerm:
+  - "[[Drugs]]"
+  - "[[Health]]"
+  - "[[Medicine]]"
+  - "[[Pain]]"
+  - "[[Screening Medicine]]"
+  - "[[Therapy]]"
 ---
+# Diseases

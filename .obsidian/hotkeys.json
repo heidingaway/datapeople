@@ -62,5 +62,20 @@
       "modifiers": [],
       "key": "F6"
     }
+  ],
+  "quickadd:choice:61408c2e-e101-4531-850b-e5de773c5f39": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file": [],
+  "templater-obsidian:Templates/existing note id.md": [
+    {
+      "modifiers": [],
+      "key": "F7"
+    }
   ]
 }
