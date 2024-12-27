@@ -24,7 +24,7 @@
   "doNotSimplifyTags": true,
   "overrideTagClicking": false,
   "useMultiPaneList": false,
-  "archiveTags": "archive",
+  "archiveTags": "",
   "disableNarrowingDown": false,
   "expandUntaggedToRoot": false,
   "disableDragging": false,

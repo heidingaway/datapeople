@@ -1,14 +1,21 @@
 ---
 title: Automobile safety equipment
+aliases:
+  - "20241226200120"
+  - Air bags
+  - Automobile safety equipment
+  - Car restraints
+  - Car seats
+  - Seat belts
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-26
 tags:
   - gccommon
+id: 360
 french:
-  - "[[Equipement de securite automobile]]"
-aliases: Automobile safety equipment
+  - Équipement de sécurité automobile
 relatedTerm:
-  - "[[Road safety]]"
   - "[[Automobiles]]"
+  - "[[Road safety]]"
 ---
 # Automobile safety equipment

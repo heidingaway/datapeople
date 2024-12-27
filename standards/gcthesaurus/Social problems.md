@@ -1,10 +1,15 @@
 ---
 title: Social problems
-aliases: Social problems
+aliases:
+  - "2024122714100"
+  - Social problems
+created: 2024-12-18
+modified: 2024-12-27
 tags:
   - gccommon
+id: 140
 french:
-  - "[[Probleme social]]"
+  - Problème social
 narrowerTerm:
   - "[[Addiction]]"
   - "[[Crime]]"
@@ -12,4 +17,9 @@ narrowerTerm:
   - "[[Homelessness]]"
   - "[[Poverty]]"
   - "[[Violence]]"
+relatedTerm:
+  - "[[Social indicators]]"
+  - "[[Social issues]]"
+  - "[[Social surveys]]"
 ---
+# Social problems

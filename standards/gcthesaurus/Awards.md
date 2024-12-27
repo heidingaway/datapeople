@@ -1,14 +1,18 @@
 ---
 title: Awards
+aliases:
+  - "20241226200342"
+  - Awards
+  - Prizes
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-26
 tags:
   - gccommon
+id: 917
 french:
-  - "[[Recompense]]"
+  - Récompense
 relatedTerm:
   - "[[Decorations]]"
   - "[[Scholarships]]"
-aliases: Awards
 ---
 # Awards

@@ -1,20 +1,23 @@
 ---
 title: Family
+aliases:
+  - "20241227134727"
+  - Family
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-27
 tags:
   - gccommon
-aliases: Family
+id: 1465
 french:
-  - "[[Famille]]"
+  - Famille
 narrowerTerm:
   - "[[Single parent families]]"
 relatedTerm:
-  - "[[Parents]]"
-  - "[[Genealogy]]"
-  - "[[Family law]]"
-  - "[[Family allowances]]"
-  - "[[Couples]]"
   - "[[Children]]"
+  - "[[Couples]]"
+  - "[[Family allowances]]"
+  - "[[Family law]]"
+  - "[[Genealogy]]"
+  - "[[Parents]]"
 ---
 # Family

@@ -1,14 +1,15 @@
 ---
 title: Archaeology
+aliases:
+  - "20241227150332"
+  - Archeology
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-27
 tags:
   - gccommon
 id: 594
 french:
   - Archeologie
-aliases:
-  - Archeology
 relatedTerm:
   - "[[Anthropology]]"
   - "[[Archaeological investigations]]"

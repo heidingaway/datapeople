@@ -1,16 +1,19 @@
 ---
 title: Awareness
+aliases:
+  - "20241226200416"
+  - Awareness
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-26
 tags:
   - gccommon
-aliases: Awareness
+id: 191
 french:
-  - "[[Sensibilisation]]"
+  - Sensibilisation
 relatedTerm:
-  - "[[Marketing]]"
-  - "[[Lobbying]]"
-  - "[[Education]]"
   - "[[Advertising]]"
+  - "[[Education]]"
+  - "[[Lobbying]]"
+  - "[[Marketing]]"
 ---
 # Awareness

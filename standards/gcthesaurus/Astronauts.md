@@ -1,10 +1,11 @@
 ---
 title: Astronauts
 aliases: Astronauts
+id: 829
 tags:
   - gccommon
 french:
-  - "[[Astronaute]]"
+  - Astronaute
 relatedTerm:
   - "[[Astronaut training]]"
   - "[[Space exploration]]"

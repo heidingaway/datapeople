@@ -1,9 +1,16 @@
 ---
 title: Heritage
+aliases:
+  - "20241227150131"
+  - Heritage
+  - Heritage resources
+created: 2024-12-18
+modified: 2024-12-27
 tags:
   - gccommon
+id: 701
 french:
-  - "[[Patrimoine]]"
+  - Patrimoine
 narrowerTerm:
   - "[[Architectural heritage]]"
   - "[[Cultural heritage]]"
@@ -13,8 +20,11 @@ narrowerTerm:
   - "[[Religious heritage]]"
   - "[[World heritage]]"
 relatedTerm:
+  - "[[Heritage buildings]]"
   - "[[Heritage conservation]]"
+  - "[[Heritage languages]]"
+  - "[[History]]"
 scopeNote:
-  - The cultural and natural resources which are passe
-aliases: Heritage
+  - The cultural and natural resources which are passed down from generations and which must be protected for future generations.
 ---
+# Heritage

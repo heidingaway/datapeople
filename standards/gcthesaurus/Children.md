@@ -1,26 +1,28 @@
 ---
 title: Children
+aliases:
+  - "20241227134735"
+  - Children
 created: 2024-12-13
-modified: 2024-12-17
+modified: 2024-12-27
 tags:
   - gccommon
-aliases: Children
+id: 1449
 french:
-  - "[[Enfant]]"
+  - Enfant
 narrowerTerm:
   - "[[Infants]]"
 relatedTerm:
-  - "[[Childhood]]"
-  - "[[Violence against children]]"
-  - "[[Toys]]"
-  - "[[Parents]]"
-  - "[[Family]]"
-  - "[[Childrens health]]"
-  - "[[Childhood]]"
-  - "[[Child development]]"
-  - "[[Child custody]]"
   - "[[Child care]]"
+  - "[[Child custody]]"
+  - "[[Child development]]"
+  - "[[Childhood]]"
+  - "[[Childrens health]]"
+  - "[[Family]]"
+  - "[[Parents]]"
+  - "[[Toys]]"
+  - "[[Violence against children]]"
 scopeNote:
-  - Any human offspring between 0 and 14 years of age
+  - Any human offspring between 0 and 14 years of age.
 ---
 # Children

@@ -8,4 +8,4 @@ tags:
   - index
 ---
 # 300 Resource
-- [[301 Government Knowledge Management (GKM)]]
+- [[301 Government Knowledge Management]]

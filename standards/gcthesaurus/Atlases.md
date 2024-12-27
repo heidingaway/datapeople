@@ -1,14 +1,17 @@
 ---
 title: Atlases
+aliases:
+  - "20241226191833"
+  - Atlases
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-26
 tags:
   - gccommon
-aliases: Atlases
+id: 842
 french:
-  - "[[Atlas]]"
+  - Atlas
 relatedTerm:
-  - "[[Maps]]"
   - "[[Geography]]"
+  - "[[Maps]]"
 ---
 # Atlases

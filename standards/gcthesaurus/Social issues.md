@@ -1,12 +1,15 @@
 ---
 title: Social issues
+aliases:
+  - "2024122715003"
+  - Social issues
 created: 2024-12-05
-modified: 2024-12-10
+modified: 2024-12-27
 tags:
   - gccommon
-aliases: Social issues
+id: 4545
 french:
-  - "[[Questions sociales]]"
+  - Questions sociales
 relatedTerm:
   - "[[Social policy]]"
   - "[[Social problems]]"

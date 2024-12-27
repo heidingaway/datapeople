@@ -1,16 +1,19 @@
 ---
 title: Audit
+aliases:
+  - "20241226192134"
+  - Audit
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-26
 tags:
   - gccommon
-aliases: Audit
+id: 870
 french:
-  - "[[Verification]]"
+  - Verification
 narrowerTerm:
   - "[[Financial audit]]"
 relatedTerm:
-  - "[[Review]]"
   - "[[Control]]"
+  - "[[Review]]"
 ---
 # Audit

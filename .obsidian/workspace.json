@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c821325f1b3fa87",
+        "id": "be4ffffa6b7a9dfd",
         "type": "tabs",
         "children": [
           {
-            "id": "956cfcc8edc383ba",
+            "id": "24851169bdff0cac",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,24 +23,8 @@
               "icon": "lucide-file",
               "title": "Home"
             }
-          },
-          {
-            "id": "d09a82abda287525",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GC Data Community Team.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GC Data Community Team"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GC Data Community Team.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GC Data Community Team"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -151,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GC Data Community Team.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GC Data Community Team"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -178,10 +162,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GC Data Community Team.md"
+                "file": "Home.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of GC Data Community Team"
+              "title": "Outline of Home"
             }
           },
           {
@@ -219,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -244,34 +228,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d09a82abda287525",
+  "active": "24851169bdff0cac",
   "lastOpenFiles": [
-    "Free Agents.md",
-    "GC Data Community Team.md",
-    "justification for git.md",
     "Home.md",
-    "standards/gcthesaurus/Information bulletin.md",
-    "Index/501 IN Information and Communications.md",
-    "Templates/Home template.md",
-    "standards/gcthesaurus/Government information Government communications.md",
-    "standards/gcthesaurus/Government communications.md",
-    "standards/gcthesaurus/Government information.md",
-    "standards/gcthesaurus/Press releases Government information.md",
-    "20241226180734.md",
-    "Templates/existing note id.md",
-    "Templates/identifier.md",
-    "Untitled.md",
+    "Entities data strategy.md",
+    "Standard on Metadata (2010 rescinded 2024).md",
+    "Canada Learning Bond.md",
+    "Low income family (CLB).md",
+    "standards/gcthesaurus/Low income.md",
+    "adjusted income level 2 (CLB).md",
+    "standards/gcthesaurus/Family.md",
+    "adjusted income level 3 (CLB).md",
+    "adjusted income level 1 (CLB).md",
+    "standards/gcthesaurus/Household income.md",
+    "Family income.md",
+    "5 children.md",
+    "Low income (CLB).md",
+    "standards/gcthesaurus/Children.md",
+    "2024-12-11.md",
+    "2024-12-20.md",
+    "2024-12-21.md",
+    "2024-12-26.md",
+    "standards/gcthesaurus/Outdoor recreation.md",
+    "standards/gcthesaurus/Historic sites.md",
+    "standards/gcthesaurus/Hunting Sport Hiking Fishing Sport Cycling.md",
+    "standards/gcthesaurus/Archaeology.md",
+    "standards/gcthesaurus/Monuments History.md",
     "Index/203 iPad Integration Ideas.md",
-    "Templates/daily template.md",
-    "Templates/Template - weekly.md",
-    "Templates/dma template.md",
-    "202412261726.md",
-    "Index/203 Obsidian.md",
-    "standards/gcthesaurus/Submissions Press releases Governments Government .md",
-    "standards/gcthesaurus/Press releases.md",
-    "standards/gcthesaurus/Special libraries Government information.md",
-    "standards/gcthesaurus/Government libraries.md",
-    "standards/gcthesaurus/Information dissemination.md",
+    "2024122717118.md",
+    "Reading/The Synthesis Gap.pdf",
+    "Library/Government as a Brain.pdf",
     "fileClass",
     "Templates/Scripts/joke.js",
     "Templates/Scripts/quote (Copy).js",

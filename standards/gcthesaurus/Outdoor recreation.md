@@ -1,12 +1,23 @@
 ---
 title: Outdoor recreation
+aliases:
+  - "2024122717130"
+  - Camping
+  - Outdoor activities
+  - Outdoor recreation
+created: 2024-12-18
+modified: 2024-12-27
 tags:
   - gccommon
+id: 1279
 broaderTerm:
   - "[[Recreation]]"
 french:
-  - "[[Loisir de plein air]]"
+  - Loisir de plein air
 relatedTerm:
+  - "[[Cycling]]"
+  - "[[Fishing Sport]]"
   - "[[Hiking]]"
-aliases: Outdoor recreation
+  - "[[Hunting Sport]]"
 ---
+# Outdoor recreation
