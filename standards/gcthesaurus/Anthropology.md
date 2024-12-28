@@ -1,7 +1,10 @@
 ---
 title: Anthropology
+aliases:
+  - Biological anthropology
+  - Physical anthropology
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-28
 tags:
   - gccommon
 id: 589
@@ -9,8 +12,8 @@ french:
   - Anthropologie
 narrowerTerm:
   - "[[Ethnology]]"
-aliases:
-  - Biological anthropology
-  - Physical anthropology
+relatedTerm:
+  - "[[Archaeology]]"
+  - "[[Human beings]]"
 ---
 # Anthropology

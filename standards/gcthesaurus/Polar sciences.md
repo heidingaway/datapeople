@@ -1,10 +1,20 @@
 ---
 title: Polar sciences
-aliases: Polar sciences
+aliases:
+  - "20241228134731"
+  - Polar sciences
+created: 2024-12-18
+modified: 2024-12-28
 tags:
   - gccommon
+id: 4020
+relatedTerm:
+  - "[[Northern development]]"
+  - "[[Polar regions]]"
+  - "[[Scientists]]"
 french:
-  - "[[Science polaire]]"
+  - Sciences polaires
 scopeNote:
-  - Refers to a collection of natural sciences devoted
+  - Refers to a collection of natural sciences devoted to the study of polar regions.
 ---
+# Polar sciences

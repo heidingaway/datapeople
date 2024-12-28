@@ -1,0 +1,15 @@
+---
+title: Ken Burns
+aliases:
+  - "20241228102834"
+created: 2024-12-28
+modified: 2024-12-28
+tags:
+  - person
+type: "[[407 Person]]"
+url: https://en.wikipedia.org/wiki/Ken_Burns
+---
+# Ken Burns
+> **Kenneth Lauren Burns**[[1]](https://en.wikipedia.org/wiki/Ken_Burns#cite_note-filmref-1) (born July 29, 1953) is an American [filmmaker](https://en.wikipedia.org/wiki/Filmmaker "Filmmaker") known for his [documentary](https://en.wikipedia.org/wiki/Documentary_film "Documentary film") films and television series, many of which chronicle [American](https://en.wikipedia.org/wiki/United_States "United States") [history](https://en.wikipedia.org/wiki/History_of_the_United_States "History of the United States") and [culture](https://en.wikipedia.org/wiki/Culture_of_the_United_States "Culture of the United States"). His work is often produced in association with [WETA-TV](https://en.wikipedia.org/wiki/WETA-TV "WETA-TV") or the [National Endowment for the Humanities](https://en.wikipedia.org/wiki/National_Endowment_for_the_Humanities "National Endowment for the Humanities") and distributed by [PBS](https://en.wikipedia.org/wiki/PBS "PBS").
+>
+> Burns's widely known documentary series include _[The Civil War](https://en.wikipedia.org/wiki/The_Civil_War_(miniseries) "The Civil War (miniseries)")_ (1990), _[Baseball](https://en.wikipedia.org/wiki/Baseball_(TV_series) "Baseball (TV series)")_ (1994), _[Jazz](https://en.wikipedia.org/wiki/Jazz_(TV_series) "Jazz (TV series)")_ (2001), _[The War](https://en.wikipedia.org/wiki/The_War_(miniseries) "The War (miniseries)")_ (2007), _[The National Parks: America's Best Idea](https://en.wikipedia.org/wiki/The_National_Parks:_America%27s_Best_Idea "The National Parks: America's Best Idea")_ (2009), _[Prohibition](https://en.wikipedia.org/wiki/Prohibition_(miniseries) "Prohibition (miniseries)")_ (2011), _[The Roosevelts](https://en.wikipedia.org/wiki/The_Roosevelts_(miniseries) "The Roosevelts (miniseries)")_ (2014), _[The Vietnam War](https://en.wikipedia.org/wiki/The_Vietnam_War_(TV_series) "The Vietnam War (TV series)")_ (2017), and _[Country Music](https://en.wikipedia.org/wiki/Country_Music_(miniseries) "Country Music (miniseries)")_ (2019). He was also executive producer of both _[The West](https://en.wikipedia.org/wiki/The_West_(miniseries) "The West (miniseries)")_ (1996), and _[Cancer: The Emperor of All Maladies](https://en.wikipedia.org/wiki/Cancer_(film) "Cancer (film)")_ (2015).[[2]](https://en.wikipedia.org/wiki/Ken_Burns#cite_note-NYT-20150327-2) Burns's documentaries have earned two [Academy Award](https://en.wikipedia.org/wiki/Academy_Awards "Academy Awards") nominations (for 1981's _[Brooklyn Bridge](https://en.wikipedia.org/wiki/Brooklyn_Bridge_(film) "Brooklyn Bridge (film)")_ and 1985's _[The Statue of Liberty](https://en.wikipedia.org/wiki/The_Statue_of_Liberty_(film) "The Statue of Liberty (film)")_) and have won several [Emmy Awards](https://en.wikipedia.org/wiki/Emmy_Award "Emmy Award"), among other honors.

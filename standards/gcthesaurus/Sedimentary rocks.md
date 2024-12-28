@@ -1,10 +1,14 @@
 ---
 title: Sedimentary rocks
-aliases: Sedimentary rocks
+aliases:
+  - "20241228112051"
+  - Sedimentary rocks
+created: 2024-12-18
+modified: 2024-12-28
 tags:
   - gccommon
-broaderTerm:
-  - "[[Sedimentology]]"
+id: 4836
 french:
-  - "[[Roche sedimentaire]]"
+  - Roche sédimentaire
 ---
+# Sedimentary rocks

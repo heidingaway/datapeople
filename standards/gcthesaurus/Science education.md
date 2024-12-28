@@ -1,11 +1,16 @@
 ---
 title: Science education
+aliases:
+  - "20241228135150"
+  - Science education
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-28
 tags:
   - gccommon
-aliases: Science education
+id: 2422
 french:
-  - "[[Enseignement des sciences]]"
+  - Enseignement des sciences
+relatedTerm:
+  - "[[Sciences]]"
 ---
 # Science education

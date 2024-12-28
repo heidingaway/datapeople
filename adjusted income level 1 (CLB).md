@@ -10,8 +10,11 @@ modified: 2024-12-27
 tags:
   - policy/social
 lessThan: $55,867
-EqualTo: $55,867
+equalTo: $55,867
 type: "[[Household income]]"
-hasChildren: [1, 2, 3]
+hasChildren:
+  - 1
+  - 2
+  - 3
 ---
 # adjusted income level 1 (CLB)

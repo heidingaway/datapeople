@@ -1,12 +1,13 @@
 ---
 title: Battlefields
+aliases:
+  - "20241228101141"
+  - Battle sites
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2024-12-28
 tags:
   - gccommon
 id: 963
-aliases:
-  - Battle sites
 french:
   - Champ de bataille
 relatedTerm:

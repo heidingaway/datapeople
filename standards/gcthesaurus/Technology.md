@@ -1,11 +1,16 @@
 ---
 title: Technology
+aliases:
+  - "20241228102431"
+  - Technologies
+  - Technology
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-28
 tags:
   - gccommon
+id: 335
 french:
-  - "[[Technologie]]"
+  - Technologie
 narrowerTerm:
   - "[[Agricultural technology]]"
   - "[[Biotechnology]]"
@@ -25,14 +30,12 @@ narrowerTerm:
   - "[[Nanotechnology]]"
   - "[[Nuclear technology]]"
 relatedTerm:
-  - "[[Technical education]]"
-  - "[[Technology transfer]]"
-  - "[[Technology policy]]"
-  - "[[Technical education]]"
-  - "[[Equipment]]"
   - "[[Automation]]"
+  - "[[Equipment]]"
+  - "[[Technical education]]"
+  - "[[Technology policy]]"
+  - "[[Technology transfer]]"
 scopeNote:
-  - Application of scientific knowledge to practical p
-aliases: Technology
+  - Application of scientific knowledge to practical purposes. Includes techniques, methods and equipment.
 ---
 # Technology

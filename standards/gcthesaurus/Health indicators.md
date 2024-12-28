@@ -1,8 +1,19 @@
 ---
 title: Health indicators
+aliases:
+  - "20241228120433"
+  - Health indicators
+  - Health status indicators
+created: 2024-12-18
+modified: 2024-12-28
 tags:
   - gccommon
+id: 2914
 french:
-  - "[[Indicateur de sante]]"
-aliases: Health indicators
+  - Indicateur de santé
+relatedTerm:
+  - "[[Fitness]]"
+  - "[[Health]]"
+  - "[[Nutrition]]"
 ---
+# Health indicators

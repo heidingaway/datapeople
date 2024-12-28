@@ -1,16 +1,21 @@
 ---
 title: Biotechnology
+aliases:
+  - "20241228102356"
+  - Bioengineering
+  - Biological engineering
+  - Biotechnology
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-28
 tags:
   - gccommon
+id: 1056
 french:
-  - "[[Biotechnologie]]"
+  - Biotechnologie
 narrowerTerm:
   - "[[Reproductive technology]]"
-aliases: Biotechnology
 relatedTerm:
-  - "[[Genetic engineering]]"
   - "[[Bioethics]]"
+  - "[[Genetic engineering]]"
 ---
 # Biotechnology

@@ -1,12 +1,26 @@
 ---
 title: Mining industry
+aliases:
+  - "2024122810179"
+  - Mineral industry
+  - Mines
+  - Mining
+  - Mining exploration
+  - Mining industry
+created: 2024-12-18
+modified: 2024-12-28
 tags:
   - gccommon
+id: 1555
 french:
-  - "[[Industrie miniere]]"
+  - Industrie minière
 relatedTerm:
   - "[[Coal]]"
+  - "[[Drilling]]"
+  - "[[Metals]]"
+  - "[[Minerals]]"
   - "[[Mining accidents]]"
   - "[[Mining technology]]"
-aliases: Mining industry
+  - "[[Prospecting]]"
 ---
+# Mining industry

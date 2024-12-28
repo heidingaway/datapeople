@@ -1,10 +1,15 @@
 ---
 title: Medicine
-aliases: Medicine
+aliases:
+  - "20241228114511"
+  - Medicine
+created: 2024-12-18
+modified: 2024-12-28
 tags:
   - gccommon
+id: 479
 french:
-  - "[[Medecine]]"
+  - Médecine
 narrowerTerm:
   - "[[Alternative medicine]]"
   - "[[Forensics]]"
@@ -14,7 +19,17 @@ narrowerTerm:
   - "[[Telemedicine]]"
   - "[[Veterinary medicine]]"
 relatedTerm:
+  - "[[Anatomy]]"
+  - "[[Diseases]]"
+  - "[[Health care]]"
+  - "[[Health]]"
+  - "[[Injuries]]"
   - "[[Medical law]]"
+  - "[[Medical research]]"
+  - "[[Medical technology]]"
+  - "[[Physiology]]"
+  - "[[Therapy]]"
 scopeNote:
-  - Discipline dedicated to the prevention and treatme
+  - Discipline dedicated to the prevention and treatment of disease and injury. For substances intended for the prevention or treatment of diseases, use "Drugs".
 ---
+# Medicine

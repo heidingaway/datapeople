@@ -1,10 +1,20 @@
 ---
 title: Monuments
+aliases:
+  - "20241228100727"
+  - Historic monuments
+  - Memorials
+  - Monuments
+created: 2024-12-18
+modified: 2024-12-28
 tags:
   - gccommon
+id: 3327
 french:
-  - "[[Monument]]"
+  - Monument
 narrowerTerm:
   - "[[War memorials]]"
-aliases: Monuments
+relatedTerm:
+  - "[[Historic sites]]"
 ---
+# Monuments
