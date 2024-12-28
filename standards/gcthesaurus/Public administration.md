@@ -13,7 +13,7 @@ scopeNote:
 aliases: Public administration
 relatedTerm:
   - "[[Supplementary estimates]]"
-  - "[[Public service]]"
+  - "[[standards/gcthesaurus/406.01 Federal Public Service]]"
   - "[[Portfolio]]"
   - "[[Governments]]"
   - "[[Government services]]"

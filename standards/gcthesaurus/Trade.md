@@ -1,11 +1,16 @@
 ---
 title: Trade
+aliases:
+  - "20241228162019"
+  - Commerce
+  - Trade
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-28
 tags:
   - gccommon
+id: 1618
 french:
-  - "[[Commerce]]"
+  - Commerce
 narrowerTerm:
   - "[[Domestic trade]]"
   - "[[Electronic commerce]]"
@@ -13,19 +18,18 @@ narrowerTerm:
   - "[[International trade]]"
   - "[[Retail trade]]"
   - "[[Wholesale trade]]"
-aliases: Trade
 relatedTerm:
   - "[[Domestic trade]]"
   - "[[Electronic commerce]]"
   - "[[Free trade]]"
   - "[[International trade]]"
-  - "[[Retail trade]]"
-  - "[[Wholesale trade]]"
-  - "[[Trade shows]]"
-  - "[[Trade policy]]"
-  - "[[Trade office]]"
-  - "[[Trade agreements]]"
-  - "[[Sales]]"
   - "[[Markets]]"
+  - "[[Retail trade]]"
+  - "[[Sales]]"
+  - "[[Trade agreements]]"
+  - "[[Trade office]]"
+  - "[[Trade policy]]"
+  - "[[Trade shows]]"
+  - "[[Wholesale trade]]"
 ---
 # Trade

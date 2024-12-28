@@ -25,18 +25,33 @@
             }
           },
           {
-            "id": "204ab666e73cf958",
+            "id": "0b42719d0d1017c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "standards/gcthesaurus/Gas industry.md",
+                "file": "Index/501 GV Government and Politics.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "501 GV Government and Politics"
+            }
+          },
+          {
+            "id": "b98482a4009f0166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "standards/gcthesaurus/Territories.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gas industry"
+              "title": "Territories"
             }
           }
         ],
@@ -101,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"endDatetime\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "standards/gcthesaurus/Gas industry.md",
+                "file": "Index/501 GV Government and Politics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gas industry"
+              "title": "Backlinks for 501 GV Government and Politics"
             }
           },
           {
@@ -151,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "standards/gcthesaurus/Gas industry.md",
+                "file": "Index/501 GV Government and Politics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gas industry"
+              "title": "Outgoing links from 501 GV Government and Politics"
             }
           },
           {
@@ -178,10 +193,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "standards/gcthesaurus/Gas industry.md"
+                "file": "Index/501 GV Government and Politics.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Gas industry"
+              "title": "Outline of 501 GV Government and Politics"
             }
           },
           {
@@ -243,34 +258,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "204ab666e73cf958",
+  "active": "0b42719d0d1017c9",
   "lastOpenFiles": [
-    "Home.md",
-    "standards/gcthesaurus/Science education.md",
-    "standards/gcthesaurus/Pipelines Natural gas.md",
-    "standards/gcthesaurus/Gas industry.md",
-    "standards/gcthesaurus/Public finance National debt.md",
-    "standards/gcthesaurus/Debt management.md",
-    "standards/gcthesaurus/Debt redemption.md",
-    "standards/gcthesaurus/Pipelines.md",
-    "standards/gcthesaurus/Petroleum industry Petroleum Natural gas Gas indus.md",
-    "standards/gcthesaurus/Sciences.md",
-    "standards/gcthesaurus/Social sciences Natural sciences.md",
-    "standards/gcthesaurus/Polar sciences.md",
-    "standards/gcthesaurus/Scientific research Scientific information Scienti.md",
-    "standards/gcthesaurus/Scientific equipment.md",
-    "standards/gcthesaurus/Scientists Polar regions Northern development.md",
-    "standards/gcthesaurus/Prototyping.md",
-    "standards/gcthesaurus/Scientific research Sciences Experiments.md",
-    "standards/gcthesaurus/Mortgage loans.md",
-    "standards/gcthesaurus/Product development Models Modelling Design.md",
-    "standards/gcthesaurus/Housing.md",
-    "standards/gcthesaurus/Mortgage insurance Mortgage assistance Housing.md",
-    "standards/gcthesaurus/Homelessness.md",
-    "standards/gcthesaurus/Mortgage loans Housing assistance Homelessness Hom.md",
-    "standards/gcthesaurus/Heritage languages.md",
-    "standards/gcthesaurus/Poverty Housing Disadvantaged persons.md",
-    "standards/gcthesaurus/Historic sites.md",
+    "standards/gcthesaurus/Legislative assemblies.md",
+    "standards/gcthesaurus/Territorial parks Territorial governments Province.md",
+    "standards/gcthesaurus/Territories.md",
+    "Index/501 GV Government and Politics.md",
+    "standards/gcthesaurus/Territorial governments Provincial governments Par.md",
+    "standards/gcthesaurus/Crown corporations.md",
+    "standards/gcthesaurus/Income tax.md",
+    "standards/gcthesaurus/Tax credits Fiscal law.md",
+    "standards/gcthesaurus/Personal income tax Corporate income tax.md",
+    "standards/gcthesaurus/Private sector.md",
+    "standards/gcthesaurus/Public sector Federal institutions.md",
+    "standards/gcthesaurus/Government services.md",
+    "standards/gcthesaurus/Public-private partnerships Public sector Privatiz.md",
+    "standards/gcthesaurus/Supplementary estimates.md",
+    "standards/gcthesaurus/Utilities Public works Public service Public admin.md",
+    "standards/gcthesaurus/Financial statements.md",
+    "standards/gcthesaurus/Public administration Public accounts Finance Fede.md",
+    "standards/gcthesaurus/Free trade agreements.md",
+    "standards/gcthesaurus/Market entry.md",
+    "standards/gcthesaurus/Quarterly financial reports Finance.md",
+    "standards/gcthesaurus/Market analysis.md",
+    "standards/gcthesaurus/Markets Marketing.md",
+    "standards/gcthesaurus/Markets Marketing Industry analysis Economic analy.md",
+    "standards/gcthesaurus/Free trade Canadian-American relations.md",
+    "standards/gcthesaurus/Markets.md",
+    "standards/gcthesaurus/Trade.md",
+    "Reading/Digital Social Security: Towards Disciplinary or Relational Futures.pdf",
     "Reading/The Plastic Industry’s Fight to Keep Polluting the World.pdf",
     "Reading/The Synthesis Gap.pdf",
     "Library/Government as a Brain.pdf",

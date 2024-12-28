@@ -1,10 +1,23 @@
 ---
 title: Pollutants
+aliases:
+  - Air pollutants
+  - Contaminants
+  - Pollutants
+  - Polluting substances
+created: 2024-12-18
+modified: 2024-12-28
 tags:
   - gccommon
+id: 373
 french:
-  - "[[Polluant]]"
+  - Polluant
 relatedTerm:
+  - "[[Atmospheric emissions]]"
+  - "[[Chemicals]]"
   - "[[Contaminated sites]]"
-aliases: Pollutants
+  - "[[Hazardous materials]]"
+  - "[[Pollution]]"
+  - "[[Toxic substances]]"
 ---
+# Pollutants

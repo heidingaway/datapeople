@@ -428,6 +428,12 @@ technolo
 telemedicine
 tablissement
 tribunal
+tariat
+territoriale
+titre
+tats
+tat
+territories
 ProductGroup
 Product
 Properties
@@ -1001,6 +1007,14 @@ Poverty
 Prototypage
 Pipelines
 Pipeline
+Proc
+Polluting
+Polluant
+Privy
+PCO
+Privatiz
+Par
+Province
 created
 class
 cells
@@ -1541,6 +1555,11 @@ clinical
 constituted
 conomie
 caire
+communit
+corporate
+comprend
+canado
+credits
 modified
 meta
 make
@@ -2031,6 +2050,11 @@ measurement
 mie
 miologie
 manufacture
+manage
+ment
+ministres
+march
+mentaire
 product
 project
 path
@@ -2586,6 +2610,15 @@ provision
 polaires
 polar
 pipelines
+protects
+performs
+proposed
+pollutants
+partielle
+priv
+predict
+prices
+penses
 Class
 Commo
 Commons
@@ -3234,6 +3267,12 @@ Champ
 Caregive
 Clinics
 Collections
+Conseil
+Claims
+Comptabilite
+Contaminated
+Contaminants
+Council
 emerging
 eventually
 exotic
@@ -3696,6 +3735,8 @@ exp
 expectancy
 enable
 electronic
+estimates
+established
 dma
 down
 data
@@ -4181,6 +4222,7 @@ difice
 dwelling
 devoted
 dette
+dure
 If
 Invasive
 International
@@ -4682,6 +4724,7 @@ Investissement
 Inshore
 Inondation
 Int
+Imp
 you
 years
 year
@@ -5501,6 +5544,11 @@ religieux
 recyclable
 renovations
 residence
+region
+ricaines
+rieures
+recommend
+revenu
 walking
 willing
 within
@@ -6419,6 +6467,12 @@ actual
 administering
 ancestrale
 abri
+according
+applies
+affa
+autochtones
+atlantiques
+analy
 keep
 knowledge
 kits
@@ -7192,6 +7246,9 @@ lead
 laitiers
 lakes
 lodging
+lections
+lection
+libre
 Barack
 Beverages
 Blind
@@ -7678,6 +7735,7 @@ Biomass
 Biolog
 Bovins
 Burns
+BCP
 Obama
 One
 Ozone
@@ -9035,6 +9093,8 @@ Anthropologie
 Arpentage
 Artifacts
 Artefact
+Actions
+Assembl
 Recent
 Renewable
 Reproductive
@@ -9490,6 +9550,7 @@ Risque
 Religion
 Restoration
 Remboursement
+Revendication
 Discussing
 Dairy
 Development
@@ -9956,6 +10017,7 @@ Does
 Drou
 Dossier
 Discipline
+Douanes
 from
 french
 families
@@ -10414,6 +10476,7 @@ fuel
 fronti
 facts
 filmmaker
+financiers
 subject
 scopeNote
 species
@@ -10962,6 +11025,10 @@ scientifique
 shaped
 significance
 serre
+servant
+shares
+signature
+suppl
 internal
 indi
 industry
@@ -11851,6 +11918,7 @@ Transplants
 Tsunamis
 Tremblement
 Tribunal
+Tariffs
 Medicine
 Ministers
 Members
@@ -12812,6 +12880,10 @@ gouverneur
 gradation
 geography
 gazi
+governed
+governing
+gouvernementaux
+gislative
 narrowerTerm
 needs
 navigation
@@ -13954,6 +14026,7 @@ until
 undesirable
 unit
 usefulness
+undertaken
 Senate
 Single
 Stratospheric
@@ -14502,6 +14575,12 @@ Statistiques
 Steel
 Sans
 Scienti
+Symbole
+Supplementary
+SCT
+Secr
+Secteur
+Soci
 House
 Honey
 Hearing
@@ -15368,6 +15447,9 @@ Garments
 Gaz
 Grafting
 Globalization
+Gouvernement
+Gouvernance
+Gateway
 Family
 Food
 Farming
@@ -15819,6 +15901,9 @@ Faim
 Functiona
 Fuel
 Folklore
+Fardeau
+Fonction
+Fede
 broaderTerm
 bodies
 by
@@ -16760,6 +16845,7 @@ Lutte
 Lead
 Long
 Logement
+Libre
 Vegetables
 Venture
 Visually
@@ -17641,6 +17727,9 @@ Euthanasie
 Earthquakes
 Emotional
 Experiments
+Embarcation
+Electo
+Entr
 National
 Navigatio
 Navigation
@@ -18035,6 +18124,7 @@ Norme
 Narcotics
 Nonprescription
 Narcotic
+Nationalism
 Workplace
 Work
 Working
@@ -18458,6 +18548,7 @@ Weekly
 Week
 What
 Wins
+Way
 handic
 handicapped
 humans
@@ -18862,6 +18953,7 @@ hardly
 historian
 higher
 hypoth
+holds
 Job
 Justice
 Jewels

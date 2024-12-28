@@ -1,12 +1,15 @@
 ---
 title: Governments
+aliases:
+  - "2024122815317"
+  - Governments
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-28
 tags:
   - gccommon
-aliases: Governments
+id: 19
 french:
-  - "[[Gouvernement]]"
+  - Gouvernement
 narrowerTerm:
   - "[[Federal government]]"
   - "[[Government plans]]"
@@ -15,16 +18,17 @@ narrowerTerm:
   - "[[Local governments]]"
   - "[[Portfolio]]"
   - "[[Provincial governments]]"
+  - "[[Red tape burdens]]"
   - "[[Territorial governments]]"
   - "[[Treasury board]]"
 relatedTerm:
-  - "[[Intergovernmental relations]]"
-  - "[[Self government]]"
-  - "[[Public administration]]"
-  - "[[Government policy]]"
-  - "[[Government information]]"
   - "[[Governance]]"
+  - "[[Government information]]"
+  - "[[Government policy]]"
+  - "[[Intergovernmental relations]]"
+  - "[[Public administration]]"
+  - "[[Self government]]"
 scopeNote:
-  - The system according to which a nation or communit
+  - The system according to which a nation or community is governed; the governing power in a state.
 ---
 # Governments

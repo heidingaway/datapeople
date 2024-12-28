@@ -1,11 +1,20 @@
 ---
 title: Government services
+aliases:
+  - "2024122816275"
+  - Government services
+created: 2024-12-18
+modified: 2024-12-28
 tags:
   - gccommon
 french:
-  - "[[Services gouvernementaux]]"
+  - Services gouvernementaux
 relatedTerm:
+  - "[[Bilingual services]]"
+  - "[[Electronic government]]"
+  - "[[Public administration]]"
   - "[[Public works]]"
+  - "[[standards/gcthesaurus/406.01 Federal Public Service|Public service]]"
   - "[[Utilities]]"
-aliases: Government services
 ---
+# Government services
