@@ -1,17 +1,19 @@
 ---
 title: Gases
+aliases:
+  - "20241228000946"
+  - Gases
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-28
 tags:
   - gccommon
-aliases: Gases
 french:
-  - "[[Gaz]]"
+  - Gaz
 narrowerTerm:
   - "[[Greenhouse gases]]"
+  - "[[Natural gas]]"
   - "[[Ozone]]"
   - "[[Propane]]"
-  - "[[Natural gas]]"
-  - "[[Greenhouse gases]]"
+id: 3073
 ---
 # Gases

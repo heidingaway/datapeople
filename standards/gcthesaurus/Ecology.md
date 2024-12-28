@@ -1,10 +1,20 @@
 ---
 title: Ecology
+aliases:
+  - "20241227231422"
+  - Ecology
+  - Environmental biology
+created: 2024-12-18
+modified: 2024-12-27
 tags:
   - gccommon
-broaderTerm:
-  - "[[Environmental sciences]]"
+id: 1077
 french:
-  - "[[Ecologie]]"
-aliases: Ecology
+  - Écologie
+relatedTerm:
+  - "[[Biology]]"
+  - "[[Ecosystems]]"
+  - "[[Environment]]"
+  - "[[Nature conservation]]"
 ---
+# Ecology

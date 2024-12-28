@@ -1,9 +1,16 @@
 ---
 title: Living organisms
+aliases:
+  - "20241228001218"
+  - Biological organisms
+  - Living organisms
+created: 2024-12-18
+modified: 2024-12-28
 tags:
   - gccommon
+id: 572
 french:
-  - "[[Organisme vivant]]"
+  - Organisme vivant
 narrowerTerm:
   - "[[Animals]]"
   - "[[Fungi]]"
@@ -11,5 +18,5 @@ narrowerTerm:
   - "[[Microorganisms]]"
   - "[[Pests]]"
   - "[[Plants]]"
-aliases: Living organisms
 ---
+# Living organisms

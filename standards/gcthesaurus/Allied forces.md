@@ -1,11 +1,16 @@
 ---
 title: Allied forces
+aliases:
+  - "20241227225955"
+  - Allied forces
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-27
 tags:
   - gccommon
-aliases:
-  - Allied forces
-french: Forces alliees
+id: 450
+relatedTerm:
+  - "[[Armed forces]]"
+  - "[[War]]"
+french: Forces alliées 
 ---
 # Allied forces

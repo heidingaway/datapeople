@@ -1,14 +1,17 @@
 ---
 title: Industrial policy
+aliases:
+  - "20241228002336"
+  - Industrial policy
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-28
 tags:
   - gccommon
-aliases: Industrial policy
+id: 2394
 french:
-  - "[[Politique industrielle]]"
+  - Politique industrielle
 relatedTerm:
-  - "[[Industrial development]]"
   - "[[Economic policy]]"
+  - "[[Industrial development]]"
 ---
 # Industrial policy

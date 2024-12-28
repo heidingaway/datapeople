@@ -1,12 +1,15 @@
 ---
 title: Biology
+aliases:
+  - "20241228080911"
+  - Biology
 created: 2024-12-13
-modified: 2024-12-22
+modified: 2024-12-28
 tags:
   - gccommon
-aliases: Biology
+id: 508
 french:
-  - "[[Biologie]]"
+  - Biologie
 narrowerTerm:
   - "[[Anatomy]]"
   - "[[Botany]]"
@@ -16,11 +19,11 @@ narrowerTerm:
   - "[[Physiology]]"
   - "[[Zoology]]"
 relatedTerm:
-  - "[[Biological diversity]]"
-  - "[[Living organisms]]"
   - "[[Biochemistry]]"
+  - "[[Biological diversity]]"
   - "[[Biological products]]"
-  - "[[Palaeontology]]"
   - "[[Ecology]]"
+  - "[[Living organisms]]"
+  - "[[Palaeontology]]"
 ---
 # Biology

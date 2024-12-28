@@ -1,10 +1,11 @@
 ---
 title: Machine readable data
 aliases:
+  - "2024122723034"
   - Electronic data
   - Machine readable data
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-27
 tags:
   - gccommon
 id: 2047
