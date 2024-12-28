@@ -1,15 +1,18 @@
 ---
 title: Lieutenant Governor
+aliases:
+  - "20241227221947"
+  - Lieutenant Governor
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-27
 tags:
   - gccommon
-aliases: Lieutenant Governor
+id: 3169
 french:
-  - "[[Lieutenant-gouverneur]]"
+  - Lieutenant-gouverneur
 relatedTerm:
-  - "[[Representatives]]"
-  - "[[Monarchy]]"
   - "[[Governor General]]"
+  - "[[Monarchy]]"
+  - "[[Representatives]]"
 ---
 # Lieutenant Governor

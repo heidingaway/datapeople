@@ -1,22 +1,25 @@
 ---
 title: Benefits
+aliases:
+  - "20241227175830"
+  - Benefits
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-27
 tags:
   - gccommon
-aliases: Benefits
+id: 458
 french:
-  - "[[Avantages sociaux]]"
+  - Avantages sociaux
 narrowerTerm:
   - "[[Maternity benefits]]"
   - "[[Paternity benefits]]"
   - "[[Survivor benefits]]"
 relatedTerm:
-  - "[[Beneficiaries]]"
-  - "[[Entitlement]]"
-  - "[[Working conditions]]"
-  - "[[Pensions]]"
-  - "[[Employment insurance]]"
   - "[[Allowances]]"
+  - "[[Beneficiaries]]"
+  - "[[Employment insurance]]"
+  - "[[Entitlement]]"
+  - "[[Pensions]]"
+  - "[[Working conditions]]"
 ---
 # Benefits

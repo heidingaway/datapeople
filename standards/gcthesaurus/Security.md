@@ -1,10 +1,14 @@
 ---
 title: Security
+aliases:
+  - "2024122718249"
+  - Security
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-27
 tags:
   - gccommon
-aliases: Security
+id: 1735
+french: sécurité
 narrowerTerm:
   - "[[Computer security]]"
   - "[[Food security]]"
@@ -13,7 +17,7 @@ narrowerTerm:
   - "[[National security]]"
   - "[[Social security]]"
 relatedTerm:
-  - "[[Security investigations]]"
   - "[[Safety]]"
+  - "[[Security investigations]]"
 ---
 # Security

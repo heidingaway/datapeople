@@ -1,10 +1,14 @@
 ---
 title: Law
-aliases: Law
+aliases:
+  - Law
+created: 2024-12-18
+modified: 2024-12-27
 tags:
   - gccommon
+id: 28
 french:
-  - "[[Droit]]"
+  - Droit
 narrowerTerm:
   - "[[Administrative law]]"
   - "[[Civil law]]"
@@ -21,9 +25,15 @@ narrowerTerm:
   - "[[Military law]]"
   - "[[Pro bono legal services]]"
 relatedTerm:
+  - "[[402.07 Legislation]]"
   - "[[Jurisprudence]]"
+  - "[[Justice system]]"
+  - "[[Legal aid]]"
   - "[[Legal documents]]"
   - "[[Legal issues]]"
+  - "[[Legal obligations]]"
+  - "[[Legal services]]"
 scopeNote:
-  - Branches of law refer to legislation for collectio
+  - Branches of law; refer to legislation for collections of laws, names of individual laws.
 ---
+# Law

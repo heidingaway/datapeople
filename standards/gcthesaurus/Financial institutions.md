@@ -1,10 +1,15 @@
 ---
 title: Financial institutions
-aliases: Financial institutions
+aliases:
+  - "2024122717449"
+  - Financial institutions
+created: 2024-12-18
+modified: 2024-12-27
 tags:
   - gccommon
+id: 949
 french:
-  - "[[Institution financiere]]"
+  - Institution financière
 narrowerTerm:
   - "[[Banks]]"
   - "[[Caisses populaires]]"
@@ -12,3 +17,4 @@ narrowerTerm:
   - "[[Insurance companies]]"
   - "[[Trust companies]]"
 ---
+# Financial institutions

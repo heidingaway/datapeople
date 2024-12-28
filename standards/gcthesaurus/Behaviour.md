@@ -1,10 +1,18 @@
 ---
 title: Behaviour
+aliases:
+  - "2024122717553"
+  - Behavior
+created: 2024-12-18
+modified: 2024-12-27
 tags:
   - gccommon
+id: 853
 french:
-  - "[[Comportement]]"
+  - Comportement
 relatedTerm:
+  - "[[Attitudes]]"
   - "[[Interpersonal relations]]"
-aliases: Behaviour
+  - "[[Psychology]]"
 ---
+# Behaviour

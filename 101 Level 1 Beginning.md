@@ -12,7 +12,7 @@ type: "[[101 Data Maturity Level]]"
 - type [[101 Data Maturity Level]]
 
 ## Characteristics
-- Compliance with minimum legal requirements.
+- Compliance with minimum legal requirements [[Legal obligations]].
 - Insular approach and siloed working.
 - Organisation does not see data as valuable for its outcomes.
 - Lack of defined responsibility and oversight for data.

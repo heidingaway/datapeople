@@ -1,10 +1,13 @@
 ---
 title: Safety
+aliases:
+  - Safety
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-27
 tags:
   - gccommon
-aliases: Safety
+id: 84
+french: sécurité
 narrowerTerm:
   - "[[Child safety]]"
   - "[[Food safety]]"
@@ -12,12 +15,12 @@ narrowerTerm:
   - "[[Public safety]]"
   - "[[Transportation safety]]"
 relatedTerm:
-  - "[[Security]]"
-  - "[[Safety regulations]]"
-  - "[[Safety measures]]"
-  - "[[Safety equipment]]"
-  - "[[Safety education]]"
-  - "[[Fire prevention]]"
   - "[[Accident prevention]]"
+  - "[[Fire prevention]]"
+  - "[[Safety education]]"
+  - "[[Safety equipment]]"
+  - "[[Safety measures]]"
+  - "[[Safety regulations]]"
+  - "[[Security]]"
 ---
 # Safety
