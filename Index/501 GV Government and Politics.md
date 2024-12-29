@@ -3,7 +3,7 @@ title: 501 GV Government and Politics
 aliases:
   - "20241228155412"
 created: 2024-12-22
-modified: 2024-12-28
+modified: 2024-12-29
 tags:
   - gccommon
 type: "[[501 Government of Canada Core Subject Thesaurus]]"
@@ -25,18 +25,13 @@ class:
   - "[[Canadian-American relations]]"
   - "[[Candidates]]"
   - "[[Central banks]]"
-  - "[[Central government]]"
   - "[[Central provinces]]"
-  - "[[CFO]]"
   - "[[Chief Electoral Officer]]"
   - "[[Chief Financial Officer]]"
   - "[[Chief Human Resources Officer]]"
   - "[[Citizen participation]]"
   - "[[Citizenship documents]]"
   - "[[Citizenship]]"
-  - "[[Civil preparedness]]"
-  - "[[Civil servants]]"
-  - "[[Civil service]]"
   - "[[Collaborations]]"
   - "[[Commissions of inquiry]]"
   - "[[Commonwealth]]"

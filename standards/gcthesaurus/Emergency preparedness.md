@@ -1,20 +1,26 @@
 ---
 title: Emergency preparedness
+aliases:
+  - "20241229140530"
+  - Civil preparedness
+  - Disaster planning
+  - Emergency planning
+  - Emergency preparedness
+  - Emergency procedures
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-29
 tags:
   - gccommon
+id: 1499
 french:
-  - "[[Protection civile]]"
+  - Protection civile
 relatedTerm:
   - "[[Emergency relief]]"
+  - "[[Emergency services]]"
   - "[[Evacuations]]"
+  - "[[Humanitarian crisis]]"
+  - "[[Police services]]"
   - "[[Public safety]]"
   - "[[Rescue]]"
-  - "[[Police services]]"
-  - "[[Humanitarian crisis]]"
-  - "[[Evacuations]]"
-  - "[[Emergency services]]"
-aliases: Emergency preparedness
 ---
 # Emergency preparedness

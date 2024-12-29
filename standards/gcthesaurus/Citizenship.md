@@ -1,11 +1,18 @@
 ---
 title: Citizenship
+aliases:
+  - "20241229140814"
+  - Citizenship
+  - Nationality
+  - Naturalization
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-29
 tags:
   - gccommon
+id: 1486
 french:
-  - "[[Citoyennete]]"
-aliases: Citizenship
+  - Citoyenneté
+relatedTerm:
+  - "[[Citizenship documents]]"
 ---
 # Citizenship

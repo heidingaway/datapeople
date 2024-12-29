@@ -10,7 +10,7 @@ french:
   - Acces a l'information
 relatedTerm:
   - "[[Censorship]]"
-  - "[[Confidentiality]]"
+  - "[[standards/gcthesaurus/Confidentiality]]"
   - "[[Freedom of information]]"
   - "[[Information requests]]"
   - "[[Information]]"

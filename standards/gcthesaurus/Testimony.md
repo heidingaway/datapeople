@@ -6,7 +6,7 @@ tags:
   - gccommon
 aliases: Testimony
 broaderTerm:
-  - "[[Evidence]]"
+  - "[[standards/gcthesaurus/Evidence]]"
 french:
   - "[[Temoignage]]"
 historyNote:

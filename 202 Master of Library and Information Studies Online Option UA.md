@@ -3,8 +3,8 @@ title: 202 Master of Library and Information Studies Online Option UA
 created: 2024-12-10
 modified: 2024-12-10
 tags:
-- area/mlis
-url: https://www.ualberta.ca/en/school-of-library-and-information-studies/programs/mlis/online-option.html
+  - area/mlis
+source: https://www.ualberta.ca/en/school-of-library-and-information-studies/programs/mlis/online-option.html
 ---
 # 202 Master of Library and Information Studies Online Option UA
 

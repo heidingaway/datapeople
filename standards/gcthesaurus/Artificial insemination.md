@@ -10,7 +10,7 @@ aliases:
 french:
   - "[[Insemination artificielle]]"
 relatedTerm:
-  - "[[semen]]"
-personalNote: "Term applies to humans and non-human animals."
+  - "[[Semen]]"
+personalNote: Term applies to humans and non-human animals.
 ---
 # Artificial insemination

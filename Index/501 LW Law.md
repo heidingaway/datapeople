@@ -107,7 +107,7 @@ class:
   - "[[Fiduciary duty]]"
   - "[[Family law]]"
   - "[[Extradition]]"
-  - "[[Evidence]]"
+  - "[[standards/Bank of Canada/evidence]]"
   - "[[Estates]]"
   - "[[Equality]]"
   - "[[Environmental legislation]]"

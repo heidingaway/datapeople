@@ -12,5 +12,8 @@ narrowerTerm:
 relatedTerm:
   - "[[Economic policy]]"
   - "[[Currency]]"
+instruments:
+- "[[Inflation-control target]]"
+- "[[Flexible exchange rate]]"
 ---
 # Monetary policy

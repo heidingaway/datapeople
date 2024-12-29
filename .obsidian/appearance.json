@@ -1,10 +1,11 @@
 {
   "cssTheme": "Primary",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "MCL Multi Column"
   ],
   "showViewHeader": true,
   "interfaceFontFamily": "Karla",
-  "textFontFamily": "Karla"
+  "textFontFamily": "Karla",
+  "accentColor": ""
 }

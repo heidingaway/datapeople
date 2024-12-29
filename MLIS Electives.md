@@ -2,9 +2,9 @@
 title: MLIS Electives
 created: 2024-12-10
 modified: 2024-12-10
-tags: 
-- area/mlis
-url: https://www.ualberta.ca/en/school-of-library-and-information-studies/study/courses/mlis-courses.html
+tags:
+  - area/mlis
+source: https://www.ualberta.ca/en/school-of-library-and-information-studies/study/courses/mlis-courses.html
 ---
 # MLIS Electives
 ## Management and Leadership

@@ -14,4 +14,4 @@ tags:
 [[Data stewardship]]
 [[Data Acquisition]]
 [[Data Architecture]]
-[[Open Government]]
+[[Open government]]

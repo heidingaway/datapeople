@@ -1,12 +1,15 @@
 ---
 title: Finance
+aliases:
+  - "20241229131534"
+  - Finance
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-29
 tags:
   - gccommon
-aliases: Finance
+id: 1180
 french:
-  - "[[Finances]]"
+  - Finances
 narrowerTerm:
   - "[[Household finance]]"
   - "[[International finance]]"
@@ -14,8 +17,14 @@ narrowerTerm:
   - "[[Public finance]]"
 relatedTerm:
   - "[[Accounting standards]]"
-  - "[[Financial crisis]]"
+  - "[[Budgets]]"
   - "[[Chief Financial Officer]]"
+  - "[[Financial analysis]]"
+  - "[[Financial crisis]]"
+  - "[[Financial management]]"
   - "[[Financial services]]"
+  - "[[Financial statements]]"
+  - "[[Portfolio]]"
+  - "[[Supplementary estimates]]"
 ---
 # Finance

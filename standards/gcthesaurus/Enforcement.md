@@ -6,5 +6,5 @@ tags:
 french:
   - "[[Controle dapplication]]"
 relatedTerm:
-  - "[[Compliance]]"
+  - "[[general compliance]]"
 ---

@@ -28,7 +28,7 @@ type: "[[101 Data Maturity Level.md]]"
 - [[Talent retention]]
 - [[Data capabilities]]
 - [[Data initiatives are supported and understood]]
-- [[Open Government]]
+- [[Open government]]
 - [[Transparency and Accountability]]
 
 - Organisation **provides support** Non-expert data users

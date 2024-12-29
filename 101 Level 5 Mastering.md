@@ -22,7 +22,7 @@ type: "[[101 Data Maturity Level.md]]"
 
 ## Key concepts
 - [[Business Integration]]
-- [[Open Government]]
+- [[Open government]]
 - [[Transparency and Accountability]]
 - [[Futureproofing]]
 - [[Social Integration]]

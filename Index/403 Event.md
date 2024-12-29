@@ -14,7 +14,7 @@ type: "[[400 Thing]]"
 - class [[DanceEvent]]
 - class [[DeliveryEvent]]
 - class [[EducationEvent]]
-- class [[EventSeries]]
+- class [[403.02 EventSeries]]
 - class [[ExhibitionEvent]]
 - class [[Festival]]
 - class [[FoodEvent]]
@@ -29,3 +29,4 @@ type: "[[400 Thing]]"
 - class [[TheaterEvent]]
 - class [[UserInteraction]]
 - class [[VisualArtsEvent]]
+- class [[403.01 BusinessEvent]]

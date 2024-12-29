@@ -7,7 +7,7 @@ modified: 2024-12-28
 tags:
   - person
 type: "[[407 Person]]"
-url: https://en.wikipedia.org/wiki/Ken_Burns
+source: https://en.wikipedia.org/wiki/Ken_Burns
 ---
 # Ken Burns
 > **Kenneth Lauren Burns**[[1]](https://en.wikipedia.org/wiki/Ken_Burns#cite_note-filmref-1) (born July 29, 1953) is an American [filmmaker](https://en.wikipedia.org/wiki/Filmmaker "Filmmaker") known for his [documentary](https://en.wikipedia.org/wiki/Documentary_film "Documentary film") films and television series, many of which chronicle [American](https://en.wikipedia.org/wiki/United_States "United States") [history](https://en.wikipedia.org/wiki/History_of_the_United_States "History of the United States") and [culture](https://en.wikipedia.org/wiki/Culture_of_the_United_States "Culture of the United States"). His work is often produced in association with [WETA-TV](https://en.wikipedia.org/wiki/WETA-TV "WETA-TV") or the [National Endowment for the Humanities](https://en.wikipedia.org/wiki/National_Endowment_for_the_Humanities "National Endowment for the Humanities") and distributed by [PBS](https://en.wikipedia.org/wiki/PBS "PBS").

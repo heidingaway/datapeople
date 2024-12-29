@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] Learning is finding out what you already know.
-> — Richard Bach  
+> [!quote] The world is a book, and those who do not travel read only a page.
+> — Augustinus Sanctus  
   
 ------  
 ```widgets  
