@@ -5,7 +5,7 @@ aliases:
   - Statistical data
   - Statistics
 created: 2024-12-18
-modified: 2024-12-28
+modified: 2024-12-29
 tags:
   - gccommon
 id: 345
@@ -20,10 +20,8 @@ narrowerTerm:
 relatedTerm:
   - "[[Analytics]]"
   - "[[Indicators]]"
-  - "[[Mathematics]]"
   - "[[Statistical analysis]]"
   - "[[Statistical profile]]"
-  - "[[Surveys]]"
   - "[[Tables]]"
 scopeNote:
   - A type of information obtained through the collection, analysis, interpretation and presentation of masses of quantitative numerical data.

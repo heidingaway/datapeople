@@ -1,11 +1,19 @@
 ---
 title: Businesses
+aliases:
+  - "20241229225255"
+  - Business corporations
+  - Business enterprises
+  - Businesses
+  - Commercial enterprises
+  - Enterprises
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-29
 tags:
   - gccommon
+id: 10
 french:
-  - "[[Entreprise]]"
+  - Entreprise
 narrowerTerm:
   - "[[Conglomerates]]"
   - "[[Consortia]]"
@@ -16,14 +24,23 @@ narrowerTerm:
   - "[[Franchises]]"
   - "[[Home-based businesses]]"
   - "[[Indigenous businesses]]"
+  - "[[Profiles]]"
   - "[[Small businesses]]"
   - "[[Sole proprietorships]]"
   - "[[Support businesses]]"
-  - "[[Profiles]]"
 relatedTerm:
+  - "[[Acquisitions Businesses]]"
+  - "[[Business development]]"
+  - "[[Business names]]"
   - "[[Business numbers]]"
+  - "[[Business opportunities]]"
+  - "[[Business start-ups]]"
+  - "[[Business types]]"
+  - "[[Corporations]]"
+  - "[[Entrepreneurship]]"
+  - "[[Incorporation]]"
+  - "[[Suppliers]]"
 scopeNote:
-  - Any establishments for the conduct of trade or com
-aliases: Businesses
+  - Any establishments for the conduct of trade or commerce.
 ---
 # Businesses

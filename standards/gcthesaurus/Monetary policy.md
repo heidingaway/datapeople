@@ -1,19 +1,26 @@
 ---
 title: Monetary policy
+aliases:
+  - Monetary policy
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-29
 tags:
   - gccommon
-aliases: Monetary policy
 french:
   - "[[Politique monetaire]]"
 narrowerTerm:
   - "[[Foreign payments]]"
 relatedTerm:
-  - "[[Economic policy]]"
   - "[[Currency]]"
+  - "[[Economic policy]]"
 instruments:
-- "[[Inflation-control target]]"
-- "[[Flexible exchange rate]]"
+  - "[[Flexible exchange rate]]"
+  - "[[Inflation-control target]]"
+targets:
+  - "[[Demand]]"
+influences:
+  - "[[domestic asset prices]]"
+  - "[[market interest rates]]"
+  - "[[the exchange rate]]"
 ---
 # Monetary policy

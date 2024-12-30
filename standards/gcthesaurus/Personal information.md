@@ -12,7 +12,7 @@ french:
   - Renseignements personnels
 relatedTerm:
   - "[[Change of address]]"
-  - "[[standards/gcthesaurus/Confidentiality]]"
+  - "[[Confidentiality]]"
   - "[[Privacy]]"
 ---
 # Personal information

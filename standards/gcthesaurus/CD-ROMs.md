@@ -1,16 +1,18 @@
 ---
 title: CD-ROMs
+aliases:
+  - CD-ROMs
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-29
 tags:
   - gccommon
-aliases: CD-ROMs
+id: 1374
 french:
-  - "[[Cederom]]"
+  - Cédérom
 scopeNote:
-  - Optical data storage medium using the same physica
+  - Optical data storage medium using the same physical format as audio compact discs, readable by a computer with a CD-ROM drive.
 relatedTerm:
-  - "[[Digital recordings]]"
   - "[[Compact discs]]"
+  - "[[Digital recordings]]"
 ---
 # CD-ROMs

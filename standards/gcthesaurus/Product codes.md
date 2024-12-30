@@ -1,14 +1,15 @@
 ---
 title: Product codes
+aliases:
+  - Product codes
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-29
 tags:
   - gccommon
-aliases: Product codes
+id: 1580
 french:
-  - "[[Code de produit]]"
+  - Code de produit
 relatedTerm:
   - "[[Products]]"
-  - "[[Labelling]]"
 ---
 # Product codes

@@ -1,12 +1,15 @@
 ---
 title: Civil law
+aliases:
+  - "20241229212654"
+  - Civil law
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-29
 tags:
   - gccommon
-aliases: Civil law
+id: 1496
 french:
-  - "[[Droit civil]]"
+  - Droit civil
 narrowerTerm:
   - "[[Family law]]"
 ---

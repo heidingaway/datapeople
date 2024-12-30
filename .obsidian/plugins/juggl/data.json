@@ -7,7 +7,7 @@
   "globalStyleGroups": [
     {
       "filter": "tags: gcpolicy",
-      "color": "#81f3d7",
+      "color": "#8c5957",
       "shape": "rectangle",
       "icon": {
         "name": "No icon",
@@ -20,7 +20,7 @@
     },
     {
       "filter": "type: \"[[101 Topic]]\"",
-      "color": "#a964ce",
+      "color": "#9d8062",
       "shape": "star",
       "icon": {
         "name": "No icon",

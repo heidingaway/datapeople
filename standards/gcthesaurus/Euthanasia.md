@@ -7,15 +7,13 @@ aliases:
   - Mercy killing
   - Suicide assistance
 created: 2024-12-18
-modified: 2024-12-28
+modified: 2024-12-29
 tags:
   - gccommon
 french:
   - Euthanasie
 id: 818
 relatedTerm:
-  - "[[Bioethics]]"
-  - "[[Death]]"
   - "[[Homicide]]"
 ---
 # Euthanasia

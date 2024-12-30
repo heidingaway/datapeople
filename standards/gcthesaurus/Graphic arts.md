@@ -1,17 +1,20 @@
 ---
 title: Graphic arts
+aliases:
+  - "2024122919247"
+  - Graphic arts
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-29
 tags:
   - gccommon
-aliases: Graphic arts
+id: 779
 french:
-  - "[[Arts graphiques]]"
+  - Arts graphiques
 narrowerTerm:
   - "[[Drawings]]"
   - "[[Illustrations]]"
 relatedTerm:
-  - "[[Prints]]"
   - "[[Printing]]"
+  - "[[Prints]]"
 ---
 # Graphic arts

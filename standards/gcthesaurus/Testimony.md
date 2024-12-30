@@ -1,17 +1,17 @@
 ---
 title: Testimony
+aliases:
+  - "20241229210730"
+  - Testimony
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-29
 tags:
   - gccommon
-aliases: Testimony
-broaderTerm:
-  - "[[standards/gcthesaurus/Evidence]]"
 french:
-  - "[[Temoignage]]"
+  - Témoignage
 historyNote:
-  - Changed from Testimonies to Testimony July 23 2003
+  - Changed from "Testimonies" to "Testimony" July 23, 2003.
 scopeNote:
-  - "A declaration made to establish a fact especially "
+  - A declaration made to establish a fact, especially one made under oath by a witness in court.
 ---
 # Testimony

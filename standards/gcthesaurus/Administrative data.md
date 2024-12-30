@@ -1,12 +1,14 @@
 ---
 title: Administrative data
+aliases:
+  - "20241229191038"
+  - Administrative data
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2024-12-29
 tags:
   - gccommon
-aliases:
-  - Administrative data
+id: 154
 french:
-  - Donnees administratives
+  - Données administratives
 ---
 # Administrative data

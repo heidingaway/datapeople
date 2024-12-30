@@ -77,5 +77,11 @@
       "modifiers": [],
       "key": "F7"
     }
+  ],
+  "templater-obsidian:Templates/add tbr.md": [
+    {
+      "modifiers": [],
+      "key": "F8"
+    }
   ]
 }

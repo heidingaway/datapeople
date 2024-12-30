@@ -1,18 +1,19 @@
 ---
 title: Trade negotiations
+aliases:
+  - Trade negotiations
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-29
 tags:
   - gccommon
-aliases: Trade negotiations
 french:
   - "[[Negociation commerciale]]"
 relatedTerm:
-  - "[[Trade relations]]"
-  - "[[Trade disputes]]"
-  - "[[Trade agreements]]"
-  - "[[Dumping]]"
-  - "[[Commercial law]]"
   - "[[Anti-dumping]]"
+  - "[[Commercial law]]"
+  - "[[Dumping]]"
+  - "[[Trade agreements]]"
+  - "[[Trade disputes]]"
+  - "[[Trade relations]]"
 ---
 # Trade negotiations

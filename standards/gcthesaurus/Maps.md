@@ -1,10 +1,14 @@
 ---
 title: Maps
-aliases: Maps
+aliases:
+  - Maps
+created: 2024-12-18
+modified: 2024-12-29
 tags:
   - gccommon
+id: 219
 french:
-  - "[[Carte]]"
+  - Carte
 narrowerTerm:
   - "[[Aeronautical maps]]"
   - "[[Demographic maps]]"
@@ -13,4 +17,10 @@ narrowerTerm:
   - "[[Nautical charts]]"
   - "[[Road maps]]"
   - "[[Topographical maps]]"
+relatedTerm:
+  - "[[Atlases]]"
+  - "[[Cartographic records]]"
+  - "[[Cartography]]"
+  - "[[Geographic data]]"
 ---
+# Maps

@@ -1,7 +1,9 @@
 ---
 title: Public administration
+aliases:
+  - Public administration
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-29
 tags:
   - gccommon
 french:
@@ -10,17 +12,15 @@ narrowerTerm:
   - "[[Departments]]"
 scopeNote:
   - All organizations responsible for the implementati
-aliases: Public administration
 relatedTerm:
-  - "[[Supplementary estimates]]"
-  - "[[standards/gcthesaurus/406.01 Federal Public Service]]"
-  - "[[Portfolio]]"
-  - "[[Governments]]"
-  - "[[Government services]]"
-  - "[[Government policy]]"
-  - "[[Governance]]"
-  - "[[Federal departments]]"
   - "[[Electronic government]]"
-  - "[[Administrative law]]"
+  - "[[Federal departments]]"
+  - "[[Governance]]"
+  - "[[Government policy]]"
+  - "[[Government services]]"
+  - "[[Governments]]"
+  - "[[Portfolio]]"
+  - "[[standards/gcthesaurus/406.01 Federal Public Service|Public service]]"
+  - "[[Supplementary estimates]]"
 ---
 # Public administration

@@ -1,12 +1,14 @@
 ---
 title: Rates
+aliases:
+  - Rates
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-29
 tags:
   - gccommon
-aliases: Rates
+id: 2744
 french:
-  - "[[Taux]]"
+  - Taux
 narrowerTerm:
   - "[[Exchange rates]]"
   - "[[Interest rates]]"

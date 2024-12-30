@@ -5,14 +5,13 @@ aliases:
   - Cataloging
   - Cataloguing
 created: 2024-12-18
-modified: 2024-12-27
+modified: 2024-12-29
 tags:
   - gccommon
 id: 1355
 french:
   - Catalogage
 relatedTerm:
-  - "[[Catalogues]]"
   - "[[Classification]]"
   - "[[Information management]]"
   - "[[Libraries]]"

@@ -1,10 +1,19 @@
 ---
 title: Sexual offences
+aliases:
+  - "2024122921439"
+  - Sexual offences
+created: 2024-12-18
+modified: 2024-12-29
 tags:
   - gccommon
-broaderTerm:
-  - "[[Offences]]"
 french:
   - "[[Infraction sexuelle]]"
-aliases: Sexual offences
+relatedTerm:
+  - "[[Gender-based violence]]"
+  - "[[Pornography]]"
+  - "[[Prostitution]]"
+  - "[[Sexual harassment]]"
+  - "[[Violence against women]]"
 ---
+# Sexual offences

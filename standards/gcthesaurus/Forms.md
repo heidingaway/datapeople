@@ -1,11 +1,13 @@
 ---
 title: Forms
+aliases:
+  - Forms
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-29
 tags:
   - gccommon
-aliases: Forms
+id: 3011
 french:
-  - "[[Formulaire]]"
+  - Formulaire
 ---
 # Forms

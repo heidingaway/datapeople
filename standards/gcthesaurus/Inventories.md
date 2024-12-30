@@ -1,15 +1,17 @@
 ---
 title: Inventories
+aliases:
+  - "20241229194712"
+  - Inventories
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-29
 tags:
   - gccommon
-aliases: Inventories
+id: 1358
 french:
-  - "[[Inventaire]]"
+  - Inventaire
 relatedTerm:
-  - "[[Storage]]"
   - "[[Material management]]"
-  - "[[Catalogues]]"
+  - "[[Storage]]"
 ---
 # Inventories

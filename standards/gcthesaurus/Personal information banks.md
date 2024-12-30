@@ -22,4 +22,4 @@ class:
 # Personal information banks
 > Personal information banks (PIBs) are descriptions of personal information under the control of a government institution that is organized and retrievable by an individual's name or by a number, symbol or other element that identifies that individual. The personal information described in a PIB has been used, is being used or is available for an administrative purpose. The PIB describes how personal information is collected, used, disclosed, retained and/or disposed of in the administration of a government institution's program or activity.
 >
-> There are three types of PIBs: central, institution-specific and standard. 
+> There are three types of PIBs: central, institution-specific and standard.

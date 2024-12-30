@@ -1,22 +1,24 @@
 ---
 title: Books
+aliases:
+  - "20241229194117"
+  - Books
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-29
 tags:
   - gccommon
-aliases: Books
+id: 878
 french:
-  - "[[Livre]]"
+  - Livre
 narrowerTerm:
   - "[[Childrens books]]"
   - "[[Gift books]]"
 relatedTerm:
-  - "[[Handbooks]]"
-  - "[[Monographic series]]"
-  - "[[Reading]]"
-  - "[[Publishing]]"
-  - "[[Monographic series]]"
-  - "[[Manuscripts]]"
   - "[[Authors]]"
+  - "[[Handbooks]]"
+  - "[[Manuscripts]]"
+  - "[[Monographic series]]"
+  - "[[Publishing]]"
+  - "[[Reading]]"
 ---
 # Books

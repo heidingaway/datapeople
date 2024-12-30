@@ -1,12 +1,16 @@
 ---
 title: Almanacs
-aliases: Almanacs
+aliases:
+  - "20241229191937"
+  - Almanacs
+created: 2024-12-18
+modified: 2024-12-29
 tags:
   - gccommon
+id: 462
 french:
   - Almanach
-relatedTerm:
-  - "[[Yearbooks]]"
 scopeNote:
-  - An annual publication containing current and retro
+  - An annual publication containing current and retrospective statistics and facts.
 ---
+# Almanacs

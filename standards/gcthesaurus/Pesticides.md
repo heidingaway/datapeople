@@ -1,5 +1,10 @@
 ---
 title: Pesticides
+aliases:
+  - "20241229215854"
+  - Pesticides
+created: 2024-12-18
+modified: 2024-12-29
 tags:
   - gccommon
 french:
@@ -9,5 +14,9 @@ narrowerTerm:
   - "[[Herbicides]]"
   - "[[Insecticides]]"
   - "[[Rodenticides]]"
-aliases: Pesticides
+relatedTerm:
+  - "[[Chemicals]]"
+  - "[[Pests]]"
+  - "[[Toxic substances]]"
 ---
+# Pesticides

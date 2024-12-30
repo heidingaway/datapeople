@@ -1,11 +1,15 @@
 ---
 title: Encyclopaedias
+aliases:
+  - "20241229201459"
+  - Encyclopaedias
+  - Encyclopedias
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-29
 tags:
   - gccommon
 french:
-  - "[[Encyclopedie]]"
-aliases: Encyclopaedias
+  - Encyclopédie
+id: 2587
 ---
 # Encyclopaedias

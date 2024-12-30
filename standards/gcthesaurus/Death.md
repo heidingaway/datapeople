@@ -1,20 +1,22 @@
 ---
 title: Death
+aliases:
+  - "2024122920081"
+  - Death
+  - Mortality
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-29
 tags:
   - gccommon
+id: 1087
 french:
-  - "[[Mort]]"
+  - Mort
 relatedTerm:
-  - "[[Death certificates]]"
-  - "[[Suicide]]"
-  - "[[Homicide]]"
-  - "[[Euthanasia]]"
-  - "[[Death rate]]"
-  - "[[Cemeteries]]"
   - "[[Burials]]"
-  - "[[Birth]]"
-aliases: Death
+  - "[[Cemeteries]]"
+  - "[[Death certificates]]"
+  - "[[Euthanasia]]"
+  - "[[Homicide]]"
+  - "[[Suicide]]"
 ---
 # Death

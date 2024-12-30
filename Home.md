@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] The world is a book, and those who do not travel read only a page.
-> — Augustinus Sanctus  
+> [!quote] Today, give a stranger a smile without waiting for it may be the joy they need to have a great day.
+> — Byron Pulsifer  
   
 ------  
 ```widgets  

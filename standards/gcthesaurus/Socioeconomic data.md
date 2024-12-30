@@ -1,14 +1,17 @@
 ---
 title: Socioeconomic data
+aliases:
+  - "20241229205749"
+  - Socioeconomic data
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-29
 tags:
   - gccommon
-aliases: Socioeconomic data
+id: 4549
 french:
-  - "[[Donnees socio-economiques]]"
+  - Données socio-économiques
 relatedTerm:
-  - "[[Socioeconomic analysis]]"
   - "[[Social statistics]]"
+  - "[[Socioeconomic analysis]]"
 ---
 # Socioeconomic data

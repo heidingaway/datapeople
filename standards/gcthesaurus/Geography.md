@@ -1,25 +1,28 @@
 ---
 title: Geography
+aliases:
+  - Geography
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-29
 tags:
   - gccommon
-aliases: Geography
+id: 843
 french:
-  - "[[Geographie]]"
+  - Géographie
 narrowerTerm:
   - "[[Geomatics]]"
   - "[[Geomorphology]]"
 relatedTerm:
-  - "[[Geographical maps]]"
-  - "[[Toponymy]]"
-  - "[[Topography]]"
-  - "[[Social sciences]]"
-  - "[[Hydrography]]"
-  - "[[Global positioning systems]]"
-  - "[[Global navigation satellite systems]]"
-  - "[[Cartography]]"
   - "[[Atlases]]"
+  - "[[Geographic data]]"
+  - "[[Geographical maps]]"
+  - "[[Global navigation satellite systems]]"
+  - "[[Global positioning systems]]"
+  - "[[Hydrography]]"
+  - "[[Maps]]"
+  - "[[Social sciences]]"
+  - "[[Topography]]"
+  - "[[Toponymy]]"
 scopeNote:
   - The study of geography
 ---

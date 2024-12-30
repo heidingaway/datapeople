@@ -3,7 +3,7 @@ title: 501 IN Information and Communications
 aliases:
   - IN Information and Communications
 created: 2024-12-23
-modified: 2024-12-25
+modified: 2024-12-29
 tags:
   - gccommon
 type: "[[501 Government of Canada Core Subject Thesaurus]]"
@@ -11,6 +11,7 @@ class:
   - "[[Access to information]]"
   - "[[Archives]]"
   - "[[Bibliographic data interchange]]"
+  - "[[Briefing papers]]"
   - "[[Digital information]]"
   - "[[Digital libraries]]"
   - "[[Digitized information]]"

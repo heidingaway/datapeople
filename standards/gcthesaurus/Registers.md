@@ -1,11 +1,14 @@
 ---
 title: Registers
+aliases:
+  - "20241229205540"
+  - Registers
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-29
 tags:
   - gccommon
-aliases: Registers
+id: 1359
 french:
-  - "[[Registre]]"
+  - Registre
 ---
 # Registers

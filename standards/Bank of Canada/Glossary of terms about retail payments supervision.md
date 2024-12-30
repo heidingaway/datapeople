@@ -80,7 +80,7 @@ See also terms defined in:
 
 [[entity-based exclusion]]
 
-[[standards/Bank of Canada/evidence]]
+[[evidence]]
 
 [[exit interview]]
 

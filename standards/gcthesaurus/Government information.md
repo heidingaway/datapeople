@@ -2,17 +2,18 @@
 title: Government information
 aliases:
   - "20241226180526"
+  - Federal information
   - Government information
 created: 2024-12-18
-modified: 2024-12-26
+modified: 2024-12-29
 tags:
   - gccommon
+id: 2809
 french:
   - Information gouvernementale
 relatedTerm:
   - "[[Government communications]]"
   - "[[Government libraries]]"
-  - "[[Government publications]]"
   - "[[Governments]]"
   - "[[Press releases]]"
   - "[[Submissions]]"

@@ -9,7 +9,5 @@ tags:
 id: 713
 french:
   - Archives sonores
-relatedTerm:
-  - "[[Sound recordings]]"
 ---
 # Sound archives

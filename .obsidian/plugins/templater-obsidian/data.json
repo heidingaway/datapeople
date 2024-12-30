@@ -30,7 +30,8 @@
   "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [
     "Templates/Home template.md",
-    "Templates/existing note id.md"
+    "Templates/existing note id.md",
+    "Templates/add tbr.md"
   ],
   "startup_templates": [
     ""

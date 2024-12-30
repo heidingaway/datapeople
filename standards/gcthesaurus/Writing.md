@@ -21,6 +21,5 @@ relatedTerm:
   - "[[Literacy]]"
   - "[[Literature]]"
   - "[[Plain language]]"
-  - "[[Style manuals]]"
 ---
 # Writing

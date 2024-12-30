@@ -1,14 +1,16 @@
 ---
 title: National bibliographies
-aliases: National bibliographies
+aliases:
+  - "20241229203923"
+  - National bibliographies
+created: 2024-12-18
+modified: 2024-12-29
 tags:
   - gccommon
-broaderTerm:
-  - "[[Bibliographies]]"
+id: 1008
 french:
-  - "[[Bibliographie nationale]]"
-relatedTerm:
-  - "[[National libraries]]"
+  - Bibliographie nationale
 scopeNote:
-  - Bibliographies of documents published or distribut
+  - Bibliographies of documents published or distributed in a specific country, especially works written about that country and their inhabitants or languages.
 ---
+# National bibliographies

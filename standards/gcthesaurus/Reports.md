@@ -1,16 +1,19 @@
 ---
 title: Reports
+aliases:
+  - "2024122920569"
+  - Reports
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-29
 tags:
   - gccommon
-aliases: Reports
+id: 585
 french:
-  - "[[Rapport]]"
+  - Rapport
 narrowerTerm:
   - "[[Annual reports]]"
   - "[[Progress reports]]"
-  - "[[Technical reports]]"
   - "[[Quarterly financial reports]]"
+  - "[[Technical reports]]"
 ---
 # Reports

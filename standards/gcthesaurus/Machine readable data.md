@@ -5,7 +5,7 @@ aliases:
   - Electronic data
   - Machine readable data
 created: 2024-12-18
-modified: 2024-12-27
+modified: 2024-12-29
 tags:
   - gccommon
 id: 2047

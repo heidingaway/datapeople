@@ -15,8 +15,5 @@ narrowerTerm:
   - "[[Record of employment]]"
 scopeNote:
   - Documents stating results achieved or providing evidence of activities performed.
-relatedTerm:
-  - "[[Archives]]"
-  - "[[Records management]]"
 ---
 # Records

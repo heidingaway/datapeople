@@ -1,12 +1,18 @@
 ---
 title: Forecasting
+aliases:
+  - Forecasting
+created: 2024-12-18
+modified: 2024-12-29
 tags:
   - gccommon
 french:
-  - "[[Prevision]]"
+  - Prevision
 narrowerTerm:
   - "[[Economic forecasting]]"
 relatedTerm:
+  - "[[Expectations]]"
+  - "[[Future]]"
   - "[[Trends]]"
-aliases: Forecasting
 ---
+# Forecasting

@@ -1,17 +1,19 @@
 ---
 title: Press releases
 aliases:
+  - "20241229202254"
+  - Communiqués
   - Press releases
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-29
 tags:
   - gccommon
+id: 1671
 french:
-  - "[[Communique de presse]]"
+  - Communiqué de presse
 relatedTerm:
   - "[[Government communications]]"
   - "[[Government information]]"
-  - "[[Government publications]]"
   - "[[Information dissemination]]"
   - "[[Media]]"
   - "[[Public relations]]"

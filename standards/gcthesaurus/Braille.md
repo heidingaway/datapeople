@@ -1,12 +1,17 @@
 ---
 title: Braille
-aliases: Braille
+aliases:
+  - Braille
+created: 2024-12-18
+modified: 2024-12-29
 tags:
   - gccommon
+id: 1147
 french:
-  - "[[Braille]]"
+  - Braille
 relatedTerm:
   - "[[Visual disabilities]]"
 scopeNote:
-  - A tactile system of embossed print invented for th
+  - A tactile system of embossed print invented for the visually impaired, which uses combinations of six raised dots arranged in columns three dots high and two dots wide to represent letters of the alphabet.
 ---
+# Braille
