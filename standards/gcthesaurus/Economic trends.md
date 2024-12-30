@@ -1,17 +1,17 @@
 ---
 title: Economic trends
+aliases:
+  - "20241230150050"
+  - Economic trends
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Economic trends
+id: 2373
 french:
-  - "[[Tendances economiques]]"
+  - Tendances économiques
 relatedTerm:
-  - "[[Economic indicators]]"
-  - "[[Economic forecasting]]"
-  - "[[Economic development]]"
   - "[[Economic conditions]]"
-  - "[[Economic analysis]]"
+  - "[[Economic forecasting]]"
 ---
 # Economic trends

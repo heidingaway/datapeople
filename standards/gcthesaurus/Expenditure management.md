@@ -1,16 +1,18 @@
 ---
 title: Expenditure management
+aliases:
+  - Expenditure management
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Expenditure management
+id: 1179
 french:
-  - "[[Gestion des depenses]]"
+  - Gestion des dépenses
 relatedTerm:
-  - "[[Financial management]]"
-  - "[[Expenditures]]"
-  - "[[Estimates]]"
   - "[[Budgets]]"
+  - "[[Estimates]]"
+  - "[[Expenditures]]"
+  - "[[Financial management]]"
 ---
 # Expenditure management

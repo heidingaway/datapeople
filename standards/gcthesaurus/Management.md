@@ -1,11 +1,20 @@
 ---
 title: Management
+aliases:
+  - "2024123013571"
+  - Administration
+  - Business administration
+  - Business management
+  - Management
+  - Management practices
+  - Management techniques
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
+id: 151
 french:
-  - "[[Gestion]]"
+  - Gestion
 narrowerTerm:
   - "[[Debt management]]"
   - "[[Environmental management]]"
@@ -30,15 +39,14 @@ narrowerTerm:
 relatedTerm:
   - "[[Administrative services]]"
   - "[[Advisory services]]"
+  - "[[Board of directors]]"
+  - "[[Codes of practice]]"
+  - "[[Coordination]]"
   - "[[Executives]]"
   - "[[Functions]]"
   - "[[Management information systems]]"
-  - "[[Stewardship]]"
-  - "[[Planning]]"
   - "[[Operations]]"
-  - "[[Coordination]]"
-  - "[[Codes of practice]]"
-  - "[[Board of directors]]"
-aliases: Management
+  - "[[Planning]]"
+  - "[[Stewardship]]"
 ---
 # Management

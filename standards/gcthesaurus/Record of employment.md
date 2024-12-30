@@ -1,14 +1,14 @@
 ---
 title: Record of employment
+aliases:
+  - "2024123014174"
+  - Record of employment
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Record of employment
+id: 627
 french:
-  - "[[Releve demploi]]"
-relatedTerm:
-  - "[[Employment]]"
-  - "[[Applicants]]"
+  - Relevé d'emploi
 ---
 # Record of employment

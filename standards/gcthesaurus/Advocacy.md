@@ -1,13 +1,16 @@
 ---
 title: Advocacy
+aliases:
+  - "2024123013279"
+  - Advocacy
+  - Social action
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2024-12-30
 tags:
   - gccommon
+id: 200
 french:
-  - Defense des droits
-aliases:
-  - Advocacy
+  - Défense des droits
 relatedTerm:
   - "[[Interest groups]]"
   - "[[Lobbying]]"

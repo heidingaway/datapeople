@@ -12,6 +12,5 @@ french:
 relatedTerm:
   - "[[Cooking]]"
   - "[[Household equipment]]"
-  - "[[Unpaid work]]"
 ---
 # Home economics

@@ -1,14 +1,15 @@
 ---
 title: Radioactivity
+aliases:
+  - Radioactivity
 created: 2024-12-13
-modified: 2024-12-17
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Radioactivity
+id: 4348
 french:
-  - "[[Radioactivite]]"
+  - Radioactivité
 relatedTerm:
   - "[[Radioactive materials]]"
-  - "[[Radiation]]"
 ---
 # Radioactivity

@@ -1,19 +1,23 @@
 ---
 title: Human resources
+aliases:
+  - "20241230142646"
+  - Human resources
+  - Personnel
+  - Staff
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
+id: 3376
 french:
-  - "[[Ressources humaines]]"
+  - Ressources humaines
 relatedTerm:
   - "[[Chief Human Resources Officer]]"
-  - "[[Workers]]"
-  - "[[Staffing]]"
-  - "[[Personnel management]]"
-  - "[[Labour force]]"
   - "[[Intellectual capital]]"
-  - "[[Chief Human Resources Officer]]"
-aliases: Human resources
+  - "[[Labour force]]"
+  - "[[Personnel management]]"
+  - "[[Staffing]]"
+  - "[[Workers]]"
 ---
 # Human resources

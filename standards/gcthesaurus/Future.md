@@ -1,14 +1,17 @@
 ---
 title: Future
+aliases:
+  - "20241230150324"
+  - Future
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Future
+id: 2753
 french:
-  - "[[Futur]]"
+  - Futur
 relatedTerm:
-  - "[[Forecasting]]"
   - "[[Expectations]]"
+  - "[[Forecasting]]"
 ---
 # Future

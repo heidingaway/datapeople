@@ -5,7 +5,7 @@ aliases:
   - Health indicators
   - Health status indicators
 created: 2024-12-18
-modified: 2024-12-28
+modified: 2024-12-30
 tags:
   - gccommon
 id: 2914
@@ -14,6 +14,5 @@ french:
 relatedTerm:
   - "[[Fitness]]"
   - "[[Health]]"
-  - "[[Nutrition]]"
 ---
 # Health indicators

@@ -20,7 +20,6 @@ narrowerTerm:
   - "[[Socioeconomic analysis]]"
 relatedTerm:
   - "[[Economic conditions]]"
-  - "[[Economic forecasting]]"
   - "[[Economic impact]]"
   - "[[Economic indicators]]"
   - "[[Economic issues]]"

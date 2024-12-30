@@ -1,17 +1,16 @@
 ---
 title: Unemployment
+aliases:
+  - "20241230142436"
+  - Unemployment
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Unemployment
 french:
-  - "[[Chomage]]"
+  - Chômage
 relatedTerm:
-  - "[[Termination of employment]]"
-  - "[[Labour market]]"
-  - "[[Employment insurance]]"
-  - "[[Employment]]"
   - "[[Discharge]]"
+  - "[[Termination of employment]]"
 ---
 # Unemployment

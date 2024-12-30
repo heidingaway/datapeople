@@ -1,16 +1,18 @@
 ---
 title: Standard of living
+aliases:
+  - "2024123014572"
+  - Cost of living
+  - Standard of living
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Standard of living
+id: 1887
 french:
-  - "[[Niveau de vie]]"
+  - Niveau de vie
 relatedTerm:
-  - "[[Quality of life]]"
   - "[[Lifestyle]]"
-  - "[[Income]]"
-  - "[[Economic conditions]]"
+  - "[[Quality of life]]"
 ---
 # Standard of living

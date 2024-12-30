@@ -10,7 +10,5 @@ tags:
 id: 838
 french:
   - Athlete
-relatedTerm:
-  - "[[Sports]]"
 ---
 # Athletes

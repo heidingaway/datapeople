@@ -4,7 +4,7 @@ aliases:
   - "20241229215036"
   - Termination of employment
 created: 2024-12-18
-modified: 2024-12-29
+modified: 2024-12-30
 tags:
   - gccommon
 french:
@@ -12,6 +12,5 @@ french:
 relatedTerm:
   - "[[Discharge]]"
   - "[[Resignation]]"
-  - "[[Unemployment]]"
 ---
 # Termination of employment

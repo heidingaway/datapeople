@@ -1,14 +1,15 @@
 ---
 title: Toxic spills
+aliases:
+  - "20241230133247"
+  - Toxic spills
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Toxic spills
-broaderTerm:
-  - "[[Environmental accidents]]"
+id: 2647
 french:
-  - "[[Deversement de substances toxiques]]"
+  - Déversement de substances toxiques
 narrowerTerm:
   - "[[Oil spills]]"
 ---

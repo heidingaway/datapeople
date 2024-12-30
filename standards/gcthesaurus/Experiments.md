@@ -1,10 +1,21 @@
 ---
 title: Experiments
-aliases: Experiments
+aliases:
+  - "20241230134216"
+  - Experiments
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
+id: 567
 french:
-  - "[[Experimentation]]"
+  - Expérimentation
 narrowerTerm:
   - "[[Biomedical experiments]]"
+relatedTerm:
+  - "[[Animal testing]]"
+  - "[[Laboratories]]"
+  - "[[Research]]"
+  - "[[Scientific equipment]]"
 ---
+# Experiments

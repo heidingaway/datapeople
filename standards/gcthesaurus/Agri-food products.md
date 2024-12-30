@@ -1,9 +1,19 @@
 ---
 title: Agri-food products
+aliases:
+  - "20241230152216"
+  - Agri-food products
+  - Agricultural products
+  - Agrifood products
+  - Farm products
+  - Farming products
+  - Food products
+  - Livestock products
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2024-12-30
 tags:
   - gccommon
+id: 274
 french:
   - Produit agro-alimentaire
 narrowerTerm:
@@ -19,11 +29,7 @@ narrowerTerm:
   - "[[Maple products]]"
   - "[[Meat]]"
   - "[[Vegetables]]"
-aliases:
-  - Agri-food products
 relatedTerm:
-  - "[[Agri-food industry]]"
-  - "[[Agriculture]]"
   - "[[Crops]]"
   - "[[Farms]]"
   - "[[Food]]"

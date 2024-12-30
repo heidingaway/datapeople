@@ -1,15 +1,15 @@
 ---
 title: Job creation
+aliases:
+  - "20241230142022"
+  - Job creation
+  - New jobs
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-30
 tags:
   - gccommon
+id: 2553
 french:
-  - "[[Creation demploi]]"
-aliases: Job creation
-relatedTerm:
-  - "[[Labour market]]"
-  - "[[Employment opportunities]]"
-  - "[[Employment]]"
+  - Création d'emploi
 ---
 # Job creation

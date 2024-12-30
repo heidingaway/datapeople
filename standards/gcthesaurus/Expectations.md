@@ -1,15 +1,16 @@
 ---
 title: Expectations
+aliases:
+  - "20241230150512"
+  - Expectations
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Expectations
+id: 2752
 french:
-  - "[[Attentes]]"
+  - Attentes
 relatedTerm:
   - "[[Life expectancy]]"
-  - "[[Future]]"
-  - "[[Forecasting]]"
 ---
 # Expectations

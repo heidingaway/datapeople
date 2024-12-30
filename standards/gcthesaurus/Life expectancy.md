@@ -10,6 +10,5 @@ french:
 relatedTerm:
   - "[[Quality of life]]"
   - "[[Health]]"
-  - "[[Expectations]]"
 ---
 # Life expectancy

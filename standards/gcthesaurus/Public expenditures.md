@@ -1,18 +1,21 @@
 ---
 title: Public expenditures
+aliases:
+  - "20241230135446"
+  - Government expenditures
+  - Public expenditures
+  - Public spending
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Expenditures]]"
+id: 2717
 french:
-  - "[[Depenses publiques]]"
+  - Dépenses publiques
 scopeNote:
-  - Total public sector expenses of a country It inclu
-aliases: Public expenditures
+  - Total public sector expenses of a country. It includes the expenditure of the central government administration, autonomous entities, local administrations, social security and State owned companies.
 relatedTerm:
-  - "[[National income]]"
   - "[[Estimates]]"
+  - "[[National income]]"
 ---
 # Public expenditures

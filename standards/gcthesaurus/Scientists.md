@@ -1,25 +1,16 @@
 ---
 title: Scientists
+aliases:
+  - "20241230134945"
+  - Scientific community
+  - Scientific researchers
+  - Scientists
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Occupations]]"
+id: 4816
 french:
-  - "[[Scientifique]]"
-relatedTerm:
-  - "[[Earth sciences]]"
-  - "[[Life sciences]]"
-  - "[[Physical sciences]]"
-  - "[[Space sciences]]"
-  - "[[Polar sciences]]"
-  - "[[Physical sciences]]"
-  - "[[Natural sciences]]"
-  - "[[Life sciences]]"
-  - "[[Health sciences]]"
-  - "[[Environmental sciences]]"
-  - "[[Earth sciences]]"
-aliases: Scientists
+  - Scientifique
 ---
 # Scientists

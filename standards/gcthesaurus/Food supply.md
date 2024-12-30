@@ -1,18 +1,19 @@
 ---
 title: Food supply
+aliases:
+  - "20241230152441"
+  - Food reserves
+  - Food resources
+  - Food supply
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
+source: "[[406.01.240 Agriculture and Agri-Food Canada|AAFC]]"
 tags:
   - gccommon
+id: 279
 french:
-  - "[[Disponibilites alimentaires]]"
+  - Disponibilités alimentaires
 relatedTerm:
   - "[[Food security]]"
-  - "[[Supply]]"
-  - "[[Food security]]"
-  - "[[Food]]"
-  - "[[Famine]]"
-  - "[[Agri-food industry]]"
-aliases: Food supply
 ---
 # Food supply

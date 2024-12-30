@@ -1,11 +1,16 @@
 ---
 title: Radioactive waste
+aliases:
+  - "20241230144525"
+  - Nuclear waste
+  - Radioactive debris
+  - Radioactive waste
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Hazardous waste]]"
-  - "[[Radioactive materials]]"
+id: 3231
 french:
-  - "[[Dechets radioactifs]]"
-aliases: Radioactive waste
+  - Déchets radioactifs
 ---
+# Radioactive waste

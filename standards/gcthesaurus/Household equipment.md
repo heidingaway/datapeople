@@ -1,15 +1,18 @@
 ---
 title: Household equipment
+aliases:
+  - "20241230143141"
+  - Domestic appliances
+  - Household appliances
+  - Household equipment
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
+id: 2240
 french:
-  - "[[Equipement menager]]"
+  - Équipement ménager
 relatedTerm:
   - "[[Electrical appliances]]"
-  - "[[Home renovations]]"
-  - "[[Home economics]]"
-aliases: Household equipment
 ---
 # Household equipment

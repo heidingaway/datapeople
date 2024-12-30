@@ -1,13 +1,15 @@
 ---
 title: Electrical appliances
+aliases:
+  - "20241230143259"
+  - Electric appliances
+  - Electrical appliances
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Electrical equipment]]"
+id: 2465
 french:
-  - "[[Appareil electrique]]"
-aliases: Electrical appliances
+  - Appareil électrique
 ---
 # Electrical appliances

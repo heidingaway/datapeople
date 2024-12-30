@@ -1,19 +1,16 @@
 ---
 title: Economic forecasting
+aliases:
+  - "20241230145453"
+  - Economic forecasting
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Economic forecasting
-broaderTerm:
-  - "[[Forecasting]]"
+id: 134
 french:
-  - "[[Prevision economique]]"
+  - Prévision économique
 relatedTerm:
-  - "[[Economic trends]]"
-  - "[[Economic development]]"
-  - "[[Economic conditions]]"
   - "[[Economic analysis]]"
-  - "[[Actuarial science]]"
 ---
 # Economic forecasting

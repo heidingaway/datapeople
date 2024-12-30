@@ -1,16 +1,20 @@
 ---
 title: Environmental accidents
+aliases:
+  - Environmental accidents
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Environmental accidents
+id: 87
 french:
-  - "[[Accident environnemental]]"
+  - Accident environnemental
 narrowerTerm:
   - "[[Toxic spills]]"
-broaderTerm:
-  - "[[Disasters]]"
-  - "[[Accidents]]"
+relatedTerm:
+  - "[[Environment]]"
+  - "[[Environmental emergencies]]"
+  - "[[Environmental impact]]"
+  - "[[Pollution]]"
 ---
 # Environmental accidents

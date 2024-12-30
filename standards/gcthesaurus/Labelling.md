@@ -1,18 +1,26 @@
 ---
 title: Labelling
+aliases:
+  - "2024123014069"
+  - Bar codes
+  - Labeling
+  - Labelling
+  - Labels
+  - Product labeling
+  - Product labelling
+  - Tagging
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
+id: 952
 french:
-  - "[[Etiquetage]]"
+  - Étiquetage
 narrowerTerm:
   - "[[Drug labelling]]"
   - "[[Food labelling]]"
 relatedTerm:
-  - "[[Packaging]]"
-  - "[[Product codes]]"
   - "[[Identification]]"
-aliases: Labelling
+  - "[[Packaging]]"
 ---
 # Labelling

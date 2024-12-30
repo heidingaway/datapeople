@@ -1,10 +1,14 @@
 ---
 title: Development
-aliases: Development
+aliases:
+  - Development
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
+id: 1982
 french:
-  - "[[Developpement]]"
+  - Développement
 narrowerTerm:
   - "[[Cultural development]]"
   - "[[Economic development]]"
@@ -18,6 +22,10 @@ narrowerTerm:
   - "[[Rural development]]"
   - "[[Social development]]"
   - "[[Urban development]]"
+relatedTerm:
+  - "[[Design]]"
+  - "[[Research and development]]"
 scopeNote:
-  - The process of promoting growth into a more advanc
+  - The process of promoting growth into a more advanced, larger or stronger form.
 ---
+# Development

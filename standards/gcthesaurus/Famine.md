@@ -1,14 +1,15 @@
 ---
 title: Famine
+aliases:
+  - Famine
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Famine
+id: 2785
 french:
-  - "[[Famine]]"
+  - Famine
 relatedTerm:
-  - "[[Hunger]]"
   - "[[Food supply]]"
 ---
 # Famine

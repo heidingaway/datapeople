@@ -1,12 +1,7 @@
 ---
 title: Employment opportunities
-created: 2024-12-18
-modified: 2024-12-24
-tags:
-  - gccommon
-french:
-  - Possibilite d'emploi
 aliases:
+  - "20241230143046"
   - Employment outlook
   - Employment possibilities
   - Employment prospects
@@ -14,11 +9,13 @@ aliases:
   - Job opportunities
   - Job prospects
   - Work opportunities
+created: 2024-12-18
+modified: 2024-12-30
+tags:
+  - gccommon
+french:
+  - Possibilite d'emploi
 relatedTerm:
-  - "[[Employment equity]]"
-  - "[[Employment programs]]"
-  - "[[Employment]]"
   - "[[Job creation]]"
-  - "[[Labour market]]"
 ---
 # Employment opportunities

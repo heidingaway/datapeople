@@ -1,10 +1,16 @@
 ---
 title: Seismology
-aliases: Seismology
+aliases:
+  - "20241230143924"
+  - Seismology
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Geophysics]]"
+id: 4843
 french:
-  - "[[Sismologie]]"
+  - Sismologie
+relatedTerm:
+  - "[[Earthquakes]]"
 ---
+# Seismology

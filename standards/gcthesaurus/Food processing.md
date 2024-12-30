@@ -15,7 +15,6 @@ id: 278
 french:
   - Transformation des aliments
 relatedTerm:
-  - "[[Agri-food industry]]"
   - "[[Food inspection]]"
   - "[[Food irradiation]]"
   - "[[Food]]"

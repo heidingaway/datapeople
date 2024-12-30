@@ -9,10 +9,5 @@ aliases:
 id: 624
 french:
   - Demandeur
-relatedTerm:
-  - "[[Employment]]"
-  - "[[Job applications]]"
-  - "[[Record of employment]]"
-  - "[[Selection]]"
 ---
 # Applicants

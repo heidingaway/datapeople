@@ -1,11 +1,16 @@
 ---
 title: Insurance
+aliases:
+  - "20241230145329"
+  - Insurance
+  - Insurance policies
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
+id: 135
 french:
-  - "[[Assurance]]"
+  - Assurance
 narrowerTerm:
   - "[[Crop insurance]]"
   - "[[Dental insurance]]"
@@ -20,7 +25,5 @@ relatedTerm:
   - "[[Insurable earnings]]"
   - "[[Insurance companies]]"
   - "[[Premiums]]"
-  - "[[Actuarial science]]"
-aliases: Insurance
 ---
 # Insurance

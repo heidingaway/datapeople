@@ -1,9 +1,14 @@
 ---
 title: Occupations
+aliases:
+  - "20241230135028"
+  - Careers
+  - Professions
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2024-12-30
 tags:
   - gccommon
+id: 1332
 french:
   - Profession
 narrowerTerm:
@@ -15,8 +20,5 @@ relatedTerm:
   - "[[Vocational guidance]]"
 scopeNote:
   - An activity that chiefly engages one's time, or serves as one's livelihood.
-aliases:
-  - Careers
-  - Professions
 ---
 # Occupations

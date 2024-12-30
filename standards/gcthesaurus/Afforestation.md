@@ -1,11 +1,13 @@
 ---
 title: Afforestation
+aliases:
+  - "20241230153727"
+  - Afforestation
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2024-12-30
 tags:
   - gccommon
-aliases:
-  - Afforestation
+id: 234
 french:
   - Boisement
 scopeNote: Refers to the establishment of a forest on a land not previously forested. For the reestablishment of trees on a land previously forested, use "Reforestation".

@@ -1,11 +1,16 @@
 ---
 title: Sports
+aliases:
+  - "2024123013242"
+  - Athletics
+  - Sports
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
+id: 485
 french:
-  - "[[Sport]]"
+  - Sport
 narrowerTerm:
   - "[[Amateur sports]]"
   - "[[Cycling]]"
@@ -15,9 +20,8 @@ narrowerTerm:
   - "[[Winter sports]]"
 relatedTerm:
   - "[[Athletes]]"
-  - "[[Sports events]]"
-  - "[[Recreation]]"
   - "[[Fitness]]"
-aliases: Sports
+  - "[[Recreation]]"
+  - "[[Sports events]]"
 ---
 # Sports

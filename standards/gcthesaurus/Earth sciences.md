@@ -5,7 +5,7 @@ aliases:
   - Earth sciences
   - Geosciences
 created: 2024-12-18
-modified: 2024-12-28
+modified: 2024-12-30
 tags:
   - gccommon
 id: 2338
@@ -17,6 +17,7 @@ narrowerTerm:
   - "[[Geodesy]]"
   - "[[Geography]]"
   - "[[Geology]]"
+  - "[[Geophysics]]"
   - "[[Hard rocks]]"
   - "[[Hydrology]]"
   - "[[Hydrometry]]"

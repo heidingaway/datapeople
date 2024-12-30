@@ -1,15 +1,16 @@
 ---
 title: Product development
+aliases:
+  - "20241230140436"
+  - Product development
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Product development
+id: 2124
 french:
-  - "[[Developpement de produit]]"
+  - Développement de produit
 relatedTerm:
   - "[[Prototyping]]"
-  - "[[Products]]"
-  - "[[Design]]"
 ---
 # Product development

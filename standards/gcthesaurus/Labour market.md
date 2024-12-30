@@ -1,7 +1,12 @@
 ---
 title: Labour market
+aliases:
+  - "20241230142139"
+  - Employment market
+  - Job market
+  - Labor market
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2024-12-30
 tags:
   - gccommon
 id: 2541
@@ -12,11 +17,6 @@ relatedTerm:
   - "[[Employment opportunities]]"
   - "[[Job creation]]"
   - "[[Labour mobility]]"
-  - "[[Labour]]"
   - "[[Unemployment]]"
-aliases:
-  - Employment market
-  - Job market
-  - Labor market
 ---
 # Labour market

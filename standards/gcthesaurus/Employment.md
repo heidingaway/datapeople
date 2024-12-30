@@ -1,7 +1,9 @@
 ---
 title: Employment
+aliases:
+  - Jobs
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2024-12-30
 tags:
   - gccommon
 id: 625
@@ -15,22 +17,22 @@ narrowerTerm:
   - "[[Temporary employment]]"
 relatedTerm:
   - "[[Applicants]]"
+  - "[[Employers]]"
   - "[[Employment abroad]]"
   - "[[Employment act]]"
   - "[[Employment centres]]"
   - "[[Employment opportunities]]"
   - "[[Employment programs]]"
+  - "[[Job applications]]"
   - "[[Job classification]]"
   - "[[Job creation]]"
   - "[[Job description]]"
   - "[[Job search]]"
   - "[[Labour force]]"
   - "[[Labour mobility]]"
-  - "[[Labour]]"
   - "[[Occupations]]"
   - "[[Record of employment]]"
+  - "[[Selection]]"
   - "[[Unemployment]]"
-aliases:
-  - Jobs
 ---
 # Employment

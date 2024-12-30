@@ -1,9 +1,16 @@
 ---
 title: Products
+aliases:
+  - "20241230140521"
+  - Commercial products
+  - Products
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
+id: 286
 french:
-  - "[[Produit]]"
+  - Produit
 narrowerTerm:
   - "[[Agri-food products]]"
   - "[[Biological products]]"
@@ -14,5 +21,10 @@ narrowerTerm:
   - "[[Health care products]]"
   - "[[Industrial products]]"
   - "[[Personal care products]]"
-aliases: Products
+relatedTerm:
+  - "[[Product codes]]"
+  - "[[Product development]]"
+  - "[[Product recalls]]"
+  - "[[Production]]"
 ---
+# Products

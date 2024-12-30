@@ -1,22 +1,20 @@
 ---
 title: Economic conditions
+aliases:
+  - "2024123014564"
+  - Cost of living
+  - Economic conditions
+  - Economic situation
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
+id: 1886
 french:
-  - "[[Conditions economiques]]"
-aliases: Economic conditions
+  - Conditions économiques
 relatedTerm:
-  - "[[Standard of living]]"
-  - "[[Social conditions]]"
-  - "[[Poverty]]"
-  - "[[Inflation]]"
-  - "[[Income]]"
-  - "[[Economy]]"
-  - "[[Economic trends]]"
-  - "[[Economic indicators]]"
   - "[[Economic forecasting]]"
-  - "[[Economic analysis]]"
+  - "[[Social conditions]]"
+  - "[[Standard of living]]"
 ---
 # Economic conditions
