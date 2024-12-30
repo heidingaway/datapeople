@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] The beginning is always today.
-> — Mary Wollstonecraft  
+> [!quote] Spring is a time for rebirth and the fulfilment of new life.
+> — Byron Pulsifer  
   
 ------  
 ```widgets  
