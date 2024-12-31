@@ -1,0 +1,3 @@
+aliases: Répertoire
+descriptionFR: Un répertoire est un endroit de conservation pour des ressources de données et d’information, ce qui comprend des espaces de stockage physiques ou électroniques précis et l’architecture connexe nécessaire à son entretien.
+descriptionEN: A repository is a preservation environment for information and data resources which includes specified physical or electronic storage space and the associated infrastructure required for its maintenance.

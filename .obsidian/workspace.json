@@ -25,22 +25,70 @@
             }
           },
           {
-            "id": "97b6e4991f7b5af2",
+            "id": "f275e1c854f10be7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "standards/gcthesaurus/Social surveys.md",
+                "file": "Index/402 CreativeWork.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Social surveys"
+              "title": "402 CreativeWork"
+            }
+          },
+          {
+            "id": "c275bcff14534427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20241231182623 Privacy breach.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20241231182623 Privacy breach"
+            }
+          },
+          {
+            "id": "f899992f8efa8e50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index/501 GV Government and Politics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "501 GV Government and Politics"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "3df4df41f3ceef47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe85fede32a1b885",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,8 +160,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -246,34 +293,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "97b6e4991f7b5af2",
+  "active": "f899992f8efa8e50",
   "lastOpenFiles": [
-    "standards/gcthesaurus/Social indicators.md",
-    "standards/gcthesaurus/Social surveys.md",
-    "standards/gcthesaurus/Social conditions.md",
-    "standards/gcthesaurus/Social problems.md",
-    "standards/gcthesaurus/Social issues.md",
-    "standards/gcthesaurus/Addiction.md",
-    "standards/gcthesaurus/Alcoholism.md",
-    "standards/gcthesaurus/Alcohol consumption.md",
-    "standards/gcthesaurus/Alcohol education.md",
-    "standards/gcthesaurus/Education.md",
-    "standards/gcthesaurus/Educational technology.md",
-    "standards/gcthesaurus/Educational resources.md",
-    "standards/gcthesaurus/Educational institutions.md",
-    "standards/gcthesaurus/Teachers.md",
-    "standards/gcthesaurus/Students.md",
-    "standards/gcthesaurus/Educational guidance.md",
-    "standards/gcthesaurus/Curriculum.md",
-    "standards/gcdepts/406.01.241 Canadian Heritage.md",
-    "standards/gcthesaurus/Access to education.md",
-    "standards/gcthesaurus/Scholarships.md",
-    "standards/gcthesaurus/Learning.md",
-    "standards/gcthesaurus/Cooperative education.md",
-    "standards/gcthesaurus/Internships.md",
-    "standards/gcthesaurus/Cooperation.md",
-    "standards/gcthesaurus/Collaborative research.md",
-    "standards/gcthesaurus/Partnerships.md",
+    "20241231182623 Privacy breach.md",
+    "Index/501 GV Government and Politics.md",
+    "standards/gcthesaurus/Privacy.md",
+    "standards/gcthesaurus/1504 Public service.md",
+    "Policy on Service and Digital.md",
+    "Personal information.md",
+    "Open access.md",
+    "Online end-to-end.md",
+    "Monitoring practices.md",
+    "Management of information technology.md",
+    "ITIL.md",
+    "Internal Enterprise Services.md",
+    "Interoperability.md",
+    "Information technology.md",
+    "Information management.md",
+    "Information life cycle.md",
+    "Information architecture.md",
+    "Information.md",
+    "Identity assurance.md",
+    "External services.md",
+    "Enterprise Information Management solution.md",
+    "Enterprise Architecture.md",
+    "2024123118165 Emerging technologies.md",
+    "emerging technologies.md",
+    "Applications.md",
+    "Electronic network.md",
     "standards/dates",
     "standards/Bank of Canada",
     "standards/PIB",

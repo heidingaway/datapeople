@@ -1,12 +1,12 @@
 ---
 title: 101 Level 3 Learning
+aliases:
+  - "20241231144438"
 created: 2024-10-27
-modified: 2024-11-28
+modified: 2024-12-31
 tags:
-  - intangible
   - project/dma
 type: "[[101 Data Maturity Level]]"
-rating: "[[]]"
 ---
 # Level 3 Learning
 

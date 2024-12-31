@@ -1,10 +1,11 @@
 ---
 title: 405 MedicalEntity
+aliases:
+  - "20241231143829"
 created: 2024-10-26
-modified: 2024-10-26
-type: "[[400 Thing]]"
-tags: 
-- meta
+modified: 2024-12-31
+tags:
+  - thing/MedicalEntity
 ---
 # 405 MedicalEntity
 ## Class

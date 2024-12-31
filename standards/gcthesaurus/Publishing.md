@@ -17,7 +17,7 @@ scopeNote:
   - Activities relating to the publication, distribution and marketing of documents (books, periodicals, maps, music, etc.)
 relatedTerm:
   - "[[Authors]]"
-  - "[[Books]]"
+  - "[[878 Books]]"
   - "[[Copyright clearance]]"
   - "[[Cultural industry]]"
   - "[[Manuscripts]]"

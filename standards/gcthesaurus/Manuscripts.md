@@ -12,7 +12,7 @@ french:
   - Manuscrit
 relatedTerm:
   - "[[Authors]]"
-  - "[[Books]]"
+  - "[[878 Books]]"
   - "[[Publishing]]"
 ---
 # Manuscripts

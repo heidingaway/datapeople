@@ -1,15 +1,15 @@
 ---
 title: 101 Level 5 Mastering
+aliases:
+  - "20241231144453"
 created: 2024-10-27
-modified: 2024-11-27
+modified: 2024-12-31
 tags:
-  - intangible
   - project/dma
 type: "[[101 Data Maturity Level.md]]"
 ---
 # Level 5 Master
-## Properties
-- type [[101 Data Maturity Level]]
+
 ## Description
 - [[Proactive curation of current data holdings to identify future needs]]
 - Seen as an exemplar.

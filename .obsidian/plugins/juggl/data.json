@@ -4,47 +4,7 @@
   "useImgServer": false,
   "imgServerPort": 3837,
   "debug": false,
-  "globalStyleGroups": [
-    {
-      "filter": "tags: gcpolicy",
-      "color": "#8c5957",
-      "shape": "rectangle",
-      "icon": {
-        "name": "No icon",
-        "path": "",
-        "color": "white"
-      },
-      "showInPane": true,
-      "show": true,
-      "size": 1.675
-    },
-    {
-      "filter": "type: \"[[101 Topic]]\"",
-      "color": "#9d8062",
-      "shape": "star",
-      "icon": {
-        "name": "No icon",
-        "path": "",
-        "color": "white"
-      },
-      "showInPane": true,
-      "show": true,
-      "size": 1.99987804878049
-    },
-    {
-      "filter": "tags: gccommon",
-      "color": "#ffffff",
-      "shape": "hexagon",
-      "icon": {
-        "name": "Book",
-        "path": "M18,22A2,2 0 0,0 20,20V4C20,2.89 19.1,2 18,2H12V9L9.5,7.5L7,9V2H6A2,2 0 0,0 4,4V20A2,2 0 0,0 6,22H18Z",
-        "color": "#000000"
-      },
-      "showInPane": true,
-      "show": true,
-      "size": 1.83743902439024
-    }
-  ],
+  "globalStyleGroups": [],
   "globalGraphRibbon": false,
   "graphSettings": {
     "animateLayout": true,
@@ -58,19 +18,14 @@
     "height": "100%",
     "hoverEdges": false,
     "layout": {
-      "name": "cola",
-      "animate": "end",
-      "refresh": 2,
-      "maxSimulationTime": 1500,
-      "ungrabifyWhileSimulating": false,
+      "name": "dagre",
+      "animate": true,
+      "animationDuration": 500,
+      "spacingFactor": 0.5,
       "fit": false,
       "padding": 30,
       "nodeDimensionsIncludeLabels": true,
-      "randomize": false,
-      "avoidOverlap": true,
-      "handleDisconnected": true,
-      "convergenceThreshold": 0.01,
-      "nodeSpacing": 10
+      "avoidOverlap": true
     },
     "limit": 10000,
     "mergeEdges": true,

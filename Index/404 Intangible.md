@@ -1,10 +1,11 @@
 ---
 title: 404 Intangible
+aliases:
+  - "20241231143814"
 created: 2024-10-26
-modified: 2024-10-26
-type: "[[400 Thing]]"
-tags: 
-- meta
+modified: 2024-12-31
+tags:
+  - thing/Intangible
 ---
 # 404 Intangible
 ## Class

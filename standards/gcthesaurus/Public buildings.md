@@ -1,5 +1,6 @@
 ---
 title: Public buildings
+same: "[[408.02 CivicStructure]]"
 aliases:
   - "20241230194755"
   - Édifice public

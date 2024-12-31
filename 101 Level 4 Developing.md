@@ -1,12 +1,12 @@
 ---
 title: 101 Level 4 Developing
+aliases:
+  - "20241231144446"
 created: 2024-10-27
-modified: 2024-11-08
+modified: 2024-12-31
 tags:
-  - intangible
   - project/dma
 type: "[[101 Data Maturity Level.md]]"
-
 ---
 # Level 4 Developing
 ## Properties

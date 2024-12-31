@@ -5,14 +5,15 @@ aliases:
   - Authors
   - Writers
 created: 2024-12-18
-modified: 2024-12-26
+modified: 2024-12-31
 tags:
   - gccommon
+type: "[[407 Person]]"
 id: 876
 french:
   - Auteur
 relatedTerm:
-  - "[[Books]]"
+  - "[[878 Books]]"
   - "[[Manuscripts]]"
   - "[[Publishing]]"
   - "[[Writing]]"

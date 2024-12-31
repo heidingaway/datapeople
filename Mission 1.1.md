@@ -1,10 +1,12 @@
 ---
 title: Mission 1.1
-description: Clarify data leadership responsibilities within and across the Government of Canada.
+aliases:
+  - "20241231144151"
 created: 2024-11-15
-modified: 2024-11-15
+modified: 2024-12-31
 tags:
-  - CreativeWorks
+  - gcpolicy
+description: Clarify data leadership responsibilities within and across the Government of Canada.
 keyConcepts:
   - "[[Data accountabilities]]"
   - "[[Data responsibilities]]"

@@ -1,5 +1,5 @@
 ---
-title: 406.01 Federal Public Service
+title: 1504 Public service
 aliases:
   - "20241228154610"
   - Civil servants
@@ -14,11 +14,9 @@ aliases:
   - Public service
   - Public service employees
 created: 2024-12-18
-modified: 2024-12-28
+modified: 2024-12-31
 tags:
   - gccommon
-type:
-  - "[[407.02 Employee]]"
 french:
   - Fonction publique
 id: 1504

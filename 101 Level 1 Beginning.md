@@ -1,9 +1,10 @@
 ---
 title: 101 Level 1 Beginning
+aliases:
+  - "20241231144427"
 created: 2024-10-27
-modified: 2024-12-10
+modified: 2024-12-31
 tags:
-  - intangible
   - project/dma
 type: "[[101 Data Maturity Level]]"
 ---
@@ -17,5 +18,5 @@ type: "[[101 Data Maturity Level]]"
 - Organisation does not see data as valuable for its outcomes.
 - Lack of defined responsibility and oversight for data.
 - very limited knowledge of data holdings
-- Very limited data literacy. 
+- Very limited data literacy.
 - Limitations and restrictions by default rather than by design.

@@ -20,7 +20,7 @@ class:
   - "[[Bills of sale]]"
   - "[[Biographies]]"
   - "[[Booklets]]"
-  - "[[Books]]"
+  - "[[878 Books]]"
   - "[[Braille]]"
   - "[[Briefing papers]]"
   - "[[Catalogues]]"

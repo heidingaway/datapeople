@@ -13,7 +13,7 @@ relatedTerm:
   - "[[Bilingual services]]"
   - "[[Electronic government]]"
   - "[[Public works]]"
-  - "[[standards/gcthesaurus/406.01 Federal Public Service|Public service]]"
+  - "[[1504 Public service|Public service]]"
   - "[[Utilities]]"
 ---
 # Government services

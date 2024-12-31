@@ -9,6 +9,6 @@ french:
 aliases: Reading
 relatedTerm:
   - "[[Literacy]]"
-  - "[[Books]]"
+  - "[[878 Books]]"
 ---
 # Reading

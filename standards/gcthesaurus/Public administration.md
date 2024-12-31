@@ -24,6 +24,6 @@ relatedTerm:
   - "[[Government policy]]"
   - "[[Government services]]"
   - "[[Governments]]"
-  - "[[standards/gcthesaurus/406.01 Federal Public Service|Public service]]"
+  - "[[1504 Public service|Public service]]"
 ---
 # Public administration

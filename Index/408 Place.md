@@ -1,13 +1,12 @@
 ---
 title: 408 Place
+aliases: []
 created: 2024-10-26
-modified: 2024-10-26
-tags: 
-- meta
+modified: 2024-12-31
+tags:
+  - thing/Place
 ---
 # 408 Place
-## Properties
-- [[400 Thing]]
 ## Class
 - class [[Accommodation]]
 - class [[408.01 AdministrativeArea]]

@@ -1,14 +1,13 @@
 ---
 title: 409 Product
+aliases:
+  - "2024123114430"
 created: 2024-10-26
-modified: 2024-10-26
-tags: 
-- meta
+modified: 2024-12-31
+tags:
+  - thing/Product
 ---
 # 409 Product
-## Properties
-- [[400 Thing]]
-
 ## Class
 - class [[DietarySupplement]]
 - class [[Drug]]

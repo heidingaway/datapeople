@@ -1,10 +1,11 @@
 ---
 title: 403 Event
+aliases:
+  - "2024123114384"
 created: 2024-10-26
-modified: 2024-12-25
+modified: 2024-12-31
 tags:
-  - event
-type: "[[400 Thing]]"
+  - thing/Event
 ---
 # 403 Event
 ## Class

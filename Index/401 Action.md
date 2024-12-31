@@ -1,10 +1,11 @@
 ---
 title: 401 Action
+aliases:
+  - "20241231143743"
 created: 2024-10-26
-modified: 2024-10-26
-type: "[[400 Thing]]"
+modified: 2024-12-31
 tags:
-- thing/action
+  - thing/Action
 ---
 # 401 Action
 ## Additional Type

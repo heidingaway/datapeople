@@ -5,8 +5,7 @@ aliases:
 created: 2024-10-26
 modified: 2024-12-31
 tags:
-  - thing/creativeWorks
-type: "[[400 Thing]]"
+  - thing/CreativeWork
 class:
   - "[[402.01 Dataset]]"
   - "[[402.02 CreativeWorkSeries]]"
@@ -16,8 +15,9 @@ class:
   - "[[402.06 Certification]]"
   - "[[402.07 Legislation]]"
   - "[[402.08 Painting]]"
-  - "[[Visual arts]]"
-  - "[[Sculpture]]"
+  - "[[402.09 VisualArtwork]]"
+  - "[[402.10 Sculpture]]"
+  - "[[402.11 Book]]"
 ---
 # 402 CreativeWork
 ## Class
@@ -26,7 +26,6 @@ class:
 - class [[Article]]
 - class [[Atlas]]
 - class [[Blog]]
-- class [[Book]]
 - class [[Chapter]]
 - class [[Claim]]
 - class [[Clip]]

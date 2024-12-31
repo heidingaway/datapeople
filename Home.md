@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] We must never forget that it is through our actions, words, and thoughts that we have a choice.
-> — Sogyal Rinpoche  
+> [!quote] All I can say about life is, Oh God, enjoy it!
+> — Bob Newhart  
   
 ------  
 ```widgets  
