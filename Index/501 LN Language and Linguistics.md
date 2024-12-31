@@ -3,10 +3,10 @@ title: 501 LN Language and Linguistics
 aliases:
   - "20241230202539"
 created: 2024-12-23
-modified: 2024-12-30
+modified: 2024-12-31
 tags:
   - gccommon
-type: "[[501 Government of Canada Core Subject Thesaurus]]"
+context: "[[501 Government of Canada Core Subject Thesaurus]]"
 class:
   - "[[Abbreviations]]"
   - "[[Administrative writing]]"

@@ -1,49 +1,30 @@
 ---
 title: 501 IN Information and Communications
 aliases:
+  - "20241231005457"
   - IN Information and Communications
 created: 2024-12-23
-modified: 2024-12-29
+modified: 2024-12-31
 tags:
   - gccommon
-type: "[[501 Government of Canada Core Subject Thesaurus]]"
+context: "[[501 Government of Canada Core Subject Thesaurus]]"
 class:
   - "[[Access to information]]"
   - "[[Archives]]"
   - "[[Bibliographic data interchange]]"
   - "[[Briefing papers]]"
-  - "[[Digital information]]"
   - "[[Digital libraries]]"
   - "[[Digitized information]]"
-  - "[[Document delivery]]"
-  - "[[Documentation centers]]"
-  - "[[Documentation centres]]"
-  - "[[Documentation services]]"
-  - "[[E-business]]"
-  - "[[E-mail]]"
-  - "[[Electronic business]]"
-  - "[[Electronic highway]]"
-  - "[[Electronic information systems]]"
   - "[[Electronic information]]"
-  - "[[Electronic media]]"
   - "[[Electronic publishing]]"
-  - "[[Enquiries]]"
-  - "[[FAQ]]"
-  - "[[Federal information]]"
   - "[[Foreign interference]]"
   - "[[Freedom of information]]"
   - "[[Frequently asked questions]]"
   - "[[Geographic information systems]]"
-  - "[[Geographical information systems]]"
-  - "[[Geospatial information systems]]"
-  - "[[GIS]]"
   - "[[Government communications]]"
   - "[[Government information]]"
   - "[[Government libraries]]"
-  - "[[Health information]]"
-  - "[[Historical documents]]"
   - "[[Illustrations]]"
-  - "[[Informatics security]]"
   - "[[Information bulletin]]"
   - "[[Information dissemination]]"
   - "[[Information management]]"

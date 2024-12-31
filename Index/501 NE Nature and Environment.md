@@ -3,10 +3,10 @@ title: 501 NE Nature and Environment
 aliases:
   - "20241230155429"
 created: 2024-12-17
-modified: 2024-12-30
+modified: 2024-12-31
 tags:
   - gccommon
-type: "[[501 Government of Canada Core Subject Thesaurus]]"
+context: "[[501 Government of Canada Core Subject Thesaurus]]"
 subject:
   - "[[Acid rain]]"
   - "[[Afforestation]]"

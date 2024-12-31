@@ -3,10 +3,10 @@ title: 501 LW Law
 aliases:
   - "20241229211145"
 created: 2024-12-23
-modified: 2024-12-29
+modified: 2024-12-31
 tags:
   - gccommon
-type: "[[501 Government of Canada Core Subject Thesaurus]]"
+context: "[[501 Government of Canada Core Subject Thesaurus]]"
 class:
   - "[[402.07 Legislation|Legislation]]"
   - "[[Acquittal]]"
@@ -93,14 +93,8 @@ class:
   - "[[Regulation]]"
   - "[[Regulations]]"
   - "[[Regulatory agencies]]"
-  - "[[Statutes]]"
-  - "[[Street gangs]]"
-  - "[[Tax law]]"
   - "[[Testimony]]"
-  - "[[Trade law]]"
-  - "[[Tribunals]]"
   - "[[Trustees]]"
-  - "[[Verdicts]]"
   - "[[Warranties]]"
   - "[[Warrants]]"
   - "[[Young offenders]]"

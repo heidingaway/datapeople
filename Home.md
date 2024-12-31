@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] Every problem has a gift for you in its hands.
-> — Richard Bach  
+> [!quote] He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
+> — Tryon Edwards  
   
 ------  
 ```widgets  

@@ -3,10 +3,10 @@ title: 501 SO Society and Culture
 aliases:
   - "20241230222428"
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2024-12-31
 tags:
   - gccommon
-type: "[[501 Government of Canada Core Subject Thesaurus]]"
+context: "[[501 Government of Canada Core Subject Thesaurus]]"
 class:
   - "[[Accessibility for persons with disabilities]]"
   - "[[Accessible transport]]"
