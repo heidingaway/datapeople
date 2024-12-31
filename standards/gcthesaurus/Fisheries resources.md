@@ -11,5 +11,6 @@ relatedTerm:
   - "[[Marine equipment]]"
   - "[[Fishing ships]]"
   - "[[Fisheries]]"
+  - "[[Molluscs, Fisheries, Fish, Crustaceans]]"
 ---
 # Fisheries resources

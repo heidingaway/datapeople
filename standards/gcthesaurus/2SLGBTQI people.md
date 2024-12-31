@@ -1,7 +1,15 @@
 ---
 title: 2SLGBTQI people
+aliases:
+  - "20241230223522"
+  - 2SLGBTQ+ people
+  - 2SLGBTQI+ people
+  - LGBTI people
+  - LGBTQ2 people
+  - LGBTQ2+ people
+  - LGBTQIA2 people
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-30
 tags:
   - gccommon
 narrowerTerm:
@@ -15,9 +23,7 @@ narrowerTerm:
   - "[[Transgender people]]"
   - "[[Two-spirit people]]"
 scopeNote:
-  - "Lesbian Gay Bisexual Transgender Queer Two-Spirit "
-aliases:
-  - 2SLGBTQI+ people
+  - Two-Spirit, Lesbian, Gay, Bisexual, Transgender, Queer, Intersex people; as well as people who identify as part of sexual and gender diverse communities, who use additional terminologies. (Cf. Canada.ca > Women and Gender Equality Canada)
 french:
   - Personne 2ELGBTQI
 ---

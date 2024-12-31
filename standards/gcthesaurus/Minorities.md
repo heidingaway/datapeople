@@ -1,16 +1,20 @@
 ---
 title: Minorities
+aliases:
+  - "20241230223450"
+  - Minorities
+  - Minority groups
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
+id: 2733
 french:
-  - "[[Minorite]]"
+  - Minorité
 narrowerTerm:
   - "[[2SLGBTQI people]]"
-  - "[[Visible minorities]]"
-  - "[[Language minorities]]"
   - "[[Ethnic minorities]]"
-aliases: Minorities
+  - "[[Language minorities]]"
+  - "[[Visible minorities]]"
 ---
 # Minorities

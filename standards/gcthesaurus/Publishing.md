@@ -1,10 +1,11 @@
 ---
 title: Publishing
 aliases:
+  - "20241230222924"
   - Book industry
   - Publishing industry
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-30
 tags:
   - gccommon
 id: 880

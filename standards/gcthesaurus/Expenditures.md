@@ -1,12 +1,19 @@
 ---
 title: Expenditures
-aliases: Expenditures
+aliases:
+  - "20241230223810"
+  - Expenditures
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Disbursements]]"
+id: 2182
 french:
-  - "[[Depenses]]"
+  - Dépenses
 narrowerTerm:
   - "[[Public expenditures]]"
+relatedTerm:
+  - "[[Expenditure management]]"
+  - "[[Quarterly financial reports]]"
 ---
+# Expenditures

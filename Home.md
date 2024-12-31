@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] Don't judge each day by the harvest you reap but by the seeds you plant.
-> — Robert Stevenson  
+> [!quote] No is easier to do. Yes is easier to say.
+> — Jason Fried  
   
 ------  
 ```widgets  

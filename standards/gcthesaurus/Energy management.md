@@ -1,19 +1,20 @@
 ---
 title: Energy management
+aliases:
+  - "20241230222945"
+  - Energy management
+  - Energy sector
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Resources management]]"
 french:
-  - "[[Gestion energetique]]"
-aliases: Energy management
+  - Gestion énergétique
 relatedTerm:
-  - "[[Energy production]]"
-  - "[[Energy policy]]"
-  - "[[Energy efficiency]]"
   - "[[Energy conservation]]"
+  - "[[Energy efficiency]]"
+  - "[[Energy policy]]"
+  - "[[Energy production]]"
   - "[[Energy]]"
 ---
 # Energy management
