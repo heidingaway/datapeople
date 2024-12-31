@@ -2,9 +2,10 @@
 title: Programs
 aliases:
   - "20241230161424"
+  - Programme
   - Programs
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2024-12-31
 tags:
   - gccommon
 id: 44
@@ -25,6 +26,5 @@ relatedTerm:
   - "[[Program delivery]]"
   - "[[Program development]]"
   - "[[Program review]]"
-  - "[[Programming]]"
 ---
 # Programs

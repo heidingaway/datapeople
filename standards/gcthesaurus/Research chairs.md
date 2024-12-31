@@ -1,14 +1,17 @@
 ---
 title: Research chairs
+aliases:
+  - "20241231021847"
+  - Chaire de recherche
+  - Research chairs
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-31
 tags:
   - gccommon
-aliases: Research chairs
+id: 4421
 french:
-  - "[[Chaire de recherche]]"
+  - Chaire de recherche
 relatedTerm:
   - "[[Universities]]"
-  - "[[Research]]"
 ---
 # Research chairs

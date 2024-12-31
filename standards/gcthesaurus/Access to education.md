@@ -1,12 +1,15 @@
 ---
 title: Access to education
+aliases:
+  - "2024123102284"
+  - Accès à l'éducation
+  - Access to education
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2024-12-31
 tags:
   - gccommon
-aliases:
-  - Access to education
+id: 63 
 french:
-  - Acces a leducation
+  - Accès à l'éducation
 ---
 # Access to education

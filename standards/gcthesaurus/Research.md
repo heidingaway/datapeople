@@ -1,11 +1,19 @@
 ---
 title: Research
+aliases:
+  - "20241231021522"
+  - Basic research
+  - Fundamental research
+  - Recherche
+  - Research
+  - Research activities
+  - Research projects
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-31
 tags:
   - gccommon
 french:
-  - "[[Recherche]]"
+  - Recherche
 narrowerTerm:
   - "[[Applied research]]"
   - "[[Collaborative research]]"
@@ -14,15 +22,11 @@ narrowerTerm:
   - "[[Industrial research]]"
   - "[[Scientific research]]"
 relatedTerm:
-  - "[[Nanotechnology]]"
+  - "[[Research and development]]"
+  - "[[Research chairs]]"
   - "[[Research grants]]"
   - "[[Research institutes]]"
-  - "[[Research chairs]]"
-  - "[[Research and development]]"
-  - "[[Laboratories]]"
-  - "[[Experiments]]"
 scopeNote:
-  - Systematic study in a subject area often employing
-aliases: Research
+  - Systematic study in a subject area, often employing the techniques of hypothesis and experiment, the purpose of which is to reveal new facts, theories or principles.
 ---
 # Research

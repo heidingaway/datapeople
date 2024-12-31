@@ -1,15 +1,20 @@
 ---
 title: Alcohol consumption
+aliases:
+  - "20241231023656"
+  - Alcohol consumption
+  - Alcohol drinking
+  - Alcohol use
+  - Alcoholic beverage consumption
+  - Consommation d'alcool
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-31
 tags:
   - gccommon
-french: 
-- Consommation dalcool
+id: 431
+french:
+  - Consommation d'alcool
 relatedTerm:
   - "[[Alcoholic beverages]]"
-  - "[[Alcoholism]]"
-  - "[[Alcohol education]]"
-aliases: Alcohol consumption
 ---
 # Alcohol consumption

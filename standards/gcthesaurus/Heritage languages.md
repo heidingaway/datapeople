@@ -14,7 +14,6 @@ french:
 relatedTerm:
   - "[[Ethnic groups]]"
   - "[[Foreign languages]]"
-  - "[[Heritage]]"
   - "[[Mother tongue]]"
 ---
 # Heritage languages

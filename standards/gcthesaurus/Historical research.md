@@ -1,14 +1,17 @@
 ---
 title: Historical research
+aliases:
+  - "2024123102005"
+  - Historical research
+  - Recherche historique
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-31
 tags:
   - gccommon
-aliases: Historical research
+id: 3330
 french:
-  - "[[Recherche historique]]"
+  - Recherche historique
 relatedTerm:
-  - "[[History]]"
   - "[[Historical societies]]"
 ---
 # Historical research

@@ -1,10 +1,12 @@
 ---
 title: 501 TR Transport
+aliases:
+  - "20241231011444"
 created: 2024-12-22
-modified: 2024-12-24
+modified: 2024-12-31
 tags:
   - gccommon
-type: "[[501 Government of Canada Core Subject Thesaurus]]"
+context: "[[501 Government of Canada Core Subject Thesaurus]]"
 class:
   - "[[Accessible transport]]"
   - "[[Air safety]]"

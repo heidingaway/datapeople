@@ -1,14 +1,14 @@
 ---
 title: Historical societies
+aliases:
+  - "20241231020045"
+  - Historical societies
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-31
 tags:
   - gccommon
-aliases: Historical societies
+id: 1999
 french:
-  - "[[Societe dhistoire]]"
-relatedTerm:
-  - "[[History]]"
-  - "[[Historical research]]"
+  - Société d'histoire
 ---
 # Historical societies

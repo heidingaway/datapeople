@@ -3,7 +3,7 @@ title: Metadata
 aliases:
   - Metadata
 created: 2024-12-13
-modified: 2024-12-25
+modified: 2024-12-31
 tags:
   - gccommon
 id: 1362

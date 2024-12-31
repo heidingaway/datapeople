@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
-> — Tryon Edwards  
+> [!quote] We must never forget that it is through our actions, words, and thoughts that we have a choice.
+> — Sogyal Rinpoche  
   
 ------  
 ```widgets  

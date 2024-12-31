@@ -5,14 +5,12 @@ aliases:
   - Industrial efficiency
   - Industrial performance
   - Industrial productivity
+  - Productivité industrielle
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2024-12-31
 tags:
   - gccommon
 id: 3474 
-relatedTerm:
-  - "[[Industrial management]]"
-  - "[[Industry]]"
 french:
   - Productivité industrielle
 ---

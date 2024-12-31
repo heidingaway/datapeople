@@ -1,15 +1,18 @@
 ---
 title: Educational guidance
+aliases:
+  - "20241231022956"
+  - Educational guidance
+  - Orientation scolaire
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-31
 tags:
   - gccommon
-aliases: Educational guidance
+id: 1895
 french:
-  - "[[Orientation scolaire]]"
+  - Orientation scolaire
 relatedTerm:
-  - "[[Vocational guidance]]"
-  - "[[Education]]"
   - "[[Counselling services]]"
+  - "[[Vocational guidance]]"
 ---
 # Educational guidance

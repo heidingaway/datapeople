@@ -1,11 +1,14 @@
 ---
 title: Genealogy
 aliases:
+  - "20241231015838"
+  - Généalogie
   - Genealogy
 created: 2024-12-18
-modified: 2024-12-27
+modified: 2024-12-31
 tags:
   - gccommon
+id: 1064
 french:
   - Généalogie
 scopeNote:
@@ -13,6 +16,5 @@ scopeNote:
 relatedTerm:
   - "[[Biographies]]"
   - "[[Family]]"
-  - "[[History]]"
 ---
 # Genealogy

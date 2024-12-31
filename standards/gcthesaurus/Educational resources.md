@@ -4,8 +4,9 @@ aliases:
   - "20241230220810"
   - Educational materials
   - Educational resources
+  - Ressources pédagogiques
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2024-12-31
 tags:
   - gccommon
 id: 2429
@@ -14,7 +15,6 @@ french:
 narrowerTerm:
   - "[[Instructional materials]]"
 relatedTerm:
-  - "[[Education]]"
   - "[[Educational technology]]"
 ---
 # Educational resources

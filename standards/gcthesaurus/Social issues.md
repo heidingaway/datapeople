@@ -12,7 +12,6 @@ french:
   - Questions sociales
 relatedTerm:
   - "[[Social policy]]"
-  - "[[Social problems]]"
   - "[[Social sciences]]"
   - "[[Social surveys]]"
   - "[[Sociology]]"

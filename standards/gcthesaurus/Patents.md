@@ -12,7 +12,6 @@ french:
 relatedTerm:
   - "[[Intellectual property]]"
   - "[[Inventions]]"
-  - "[[Research and development]]"
   - "[[Trademarks]]"
 ---
 # Patents

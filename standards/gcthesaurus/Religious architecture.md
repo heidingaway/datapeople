@@ -1,11 +1,15 @@
 ---
 title: Religious architecture
+aliases:
+  - "20241231014732"
+  - Architecture religieuse
+  - Religious architecture
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-31
 tags:
   - gccommon
-aliases: Religious architecture
+id: 707
 french:
-  - "[[Architecture religieuse]]"
+  - Architecture religieuse
 ---
 # Religious architecture

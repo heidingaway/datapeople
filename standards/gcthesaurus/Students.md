@@ -1,19 +1,22 @@
 ---
 title: Students
 aliases:
+  - "20241231023210"
+  - College students
+  - Étudiant
   - Students
+  - University students
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-31
 tags:
   - gccommon
 french:
-  - "[[Etudiant]]"
+  - Étudiant
 narrowerTerm:
   - "[[Foreign students]]"
   - "[[Part-time students]]"
 relatedTerm:
   - "[[Education]]"
-  - "[[Educational institutions]]"
   - "[[Student labour]]"
 ---
 # Students

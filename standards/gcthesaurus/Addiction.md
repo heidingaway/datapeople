@@ -1,13 +1,15 @@
 ---
 title: Addiction
+aliases:
+  - "20241231023815"
+  - Addiction
+  - Dépendance
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2024-12-31
 tags:
   - gccommon
-aliases:
-  - Addiction
 french:
-  - Dependance
+  - Dépendance
 narrowerTerm:
   - "[[Alcoholism]]"
   - "[[Drug addiction]]"

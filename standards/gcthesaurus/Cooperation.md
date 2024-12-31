@@ -1,10 +1,13 @@
 ---
 title: Cooperation
+aliases:
+  - "20241231022346"
+  - Cooperation
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-31
 tags:
   - gccommon
-aliases: Cooperation
+id: 1594
 french:
   - "[[Cooperation]]"
 narrowerTerm:
@@ -12,9 +15,6 @@ narrowerTerm:
   - "[[Regional cooperation]]"
 relatedTerm:
   - "[[Cooperation agreements]]"
-  - "[[Partnerships]]"
   - "[[Cooperative education]]"
-  - "[[Cooperation agreements]]"
-  - "[Collaborative research]]"
 ---
 # Cooperation

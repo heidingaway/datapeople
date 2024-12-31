@@ -14,7 +14,6 @@ narrowerTerm:
   - "[[Biomedical experiments]]"
 relatedTerm:
   - "[[Animal testing]]"
-  - "[[Laboratories]]"
   - "[[Research]]"
   - "[[Scientific equipment]]"
 ---

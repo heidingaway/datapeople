@@ -1,14 +1,17 @@
 ---
 title: Industrial research
+aliases:
+  - "2024123102145"
+  - Industrial research
+  - Recherche industrielle
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-31
 tags:
   - gccommon
-aliases: Industrial research
+id: 3488
 french:
-  - "[[Recherche industrielle]]"
+  - Recherche industrielle
 relatedTerm:
   - "[[Research and development]]"
-  - "[[Industry]]"
 ---
 # Industrial research

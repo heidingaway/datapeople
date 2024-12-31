@@ -1,14 +1,17 @@
 ---
 title: Industrial management
+aliases:
+  - "20241231021215"
+  - Gestion industrielle
+  - Industrial management
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-31
 tags:
   - gccommon
-aliases: Industrial management
+id: 3482
 french:
-  - "[[Gestion industrielle]]"
+  - Gestion industrielle
 relatedTerm:
-  - "[[Industry]]"
   - "[[Industrial productivity]]"
 ---
 # Industrial management

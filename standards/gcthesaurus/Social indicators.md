@@ -13,7 +13,6 @@ french:
 relatedTerm:
   - "[[Social conditions]]"
   - "[[Social development]]"
-  - "[[Social problems]]"
   - "[[Social surveys]]"
   - "[[Social trends]]"
 ---

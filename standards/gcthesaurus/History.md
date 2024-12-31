@@ -1,12 +1,16 @@
 ---
 title: History
+aliases:
+  - "20241231015321"
+  - Histoire
+  - History
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-31
 tags:
   - gccommon
-aliases: History
+id: 695
 french:
-  - "[[Histoire]]"
+  - Histoire
 narrowerTerm:
   - "[[Canadian history]]"
   - "[[Economic history]]"
@@ -15,14 +19,13 @@ narrowerTerm:
   - "[[Religious history]]"
   - "[[Social history]]"
 relatedTerm:
-  - "[[Historical societies]]"
-  - "[[Historical research]]"
-  - "[[Historic sites]]"
-  - "[[Heritage]]"
-  - "[[Heraldry]]"
-  - "[[Genealogy]]"
-  - "[[Colonization]]"
-  - "[[Archives]]"
   - "[[Archaeology]]"
+  - "[[Archives]]"
+  - "[[Colonization]]"
+  - "[[Genealogy]]"
+  - "[[Heraldry]]"
+  - "[[Historic sites]]"
+  - "[[Historical research]]"
+  - "[[Historical societies]]"
 ---
 # History

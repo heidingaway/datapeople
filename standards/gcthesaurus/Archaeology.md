@@ -11,8 +11,6 @@ id: 594
 french:
   - Archeologie
 relatedTerm:
-  - "[[Anthropology]]"
   - "[[Archaeological investigations]]"
-  - "[[History]]"
 ---
 # Archaeology

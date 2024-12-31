@@ -5,14 +5,11 @@ aliases:
   - Heritage buildings
   - Historic buildings
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2024-12-31
 tags:
   - gccommon
 id: 702
 french:
   - Édifice patrimonial
-relatedTerm:
-  - "[[Architectural heritage]]"
-  - "[[Heritage]]"
 ---
 # Heritage buildings

@@ -25,18 +25,18 @@
             }
           },
           {
-            "id": "395ebc125117536c",
+            "id": "97b6e4991f7b5af2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index/501 ST Science and Technology.md",
+                "file": "standards/gcthesaurus/Social surveys.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "501 ST Science and Technology"
+              "title": "Social surveys"
             }
           }
         ],
@@ -112,7 +112,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,34 +246,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "395ebc125117536c",
+  "active": "97b6e4991f7b5af2",
   "lastOpenFiles": [
-    "Index/501 Government of Canada Core Subject Thesaurus.md",
-    "Index/501 SO Society and Culture.md",
-    "Index/501 PR Processes.md",
-    "Index/501 PE Persons.md",
-    "Index/501 NE Nature and Environment.md",
-    "standards/gcthesaurus/Metadata.md",
-    "Index/501 MI Military.md",
-    "Index/501 LW Law.md",
-    "Index/501 LN Language and Linguistics.md",
-    "Index/501 LB Labour.md",
-    "Index/501 IN Information and Communications.md",
-    "Index/501 HI History and Archaeology.md",
-    "standards/gcthesaurus/Art works.md",
-    "Index/501 HE Health and Safety.md",
-    "Home.md",
-    "Index/501 GV Government and Politics.md",
-    "Index/501 FM Form descriptors.md",
-    "Index/501 ET Education and Training.md",
-    "Index/501 EC Economics and Industry.md",
-    "Index/501 AG Agriculture.md",
-    "Index/501 AA Arts Music Literature.md",
-    "Index/402.10 Sculpture.md",
-    "standards/gcthesaurus/Sculpture.md",
-    "standards/gcthesaurus/Visual arts.md",
-    "Index/402.09 VisualArtwork.md",
-    "402.08 Painting.md",
+    "standards/gcthesaurus/Social indicators.md",
+    "standards/gcthesaurus/Social surveys.md",
+    "standards/gcthesaurus/Social conditions.md",
+    "standards/gcthesaurus/Social problems.md",
+    "standards/gcthesaurus/Social issues.md",
+    "standards/gcthesaurus/Addiction.md",
+    "standards/gcthesaurus/Alcoholism.md",
+    "standards/gcthesaurus/Alcohol consumption.md",
+    "standards/gcthesaurus/Alcohol education.md",
+    "standards/gcthesaurus/Education.md",
+    "standards/gcthesaurus/Educational technology.md",
+    "standards/gcthesaurus/Educational resources.md",
+    "standards/gcthesaurus/Educational institutions.md",
+    "standards/gcthesaurus/Teachers.md",
+    "standards/gcthesaurus/Students.md",
+    "standards/gcthesaurus/Educational guidance.md",
+    "standards/gcthesaurus/Curriculum.md",
+    "standards/gcdepts/406.01.241 Canadian Heritage.md",
+    "standards/gcthesaurus/Access to education.md",
+    "standards/gcthesaurus/Scholarships.md",
+    "standards/gcthesaurus/Learning.md",
+    "standards/gcthesaurus/Cooperative education.md",
+    "standards/gcthesaurus/Internships.md",
+    "standards/gcthesaurus/Cooperation.md",
+    "standards/gcthesaurus/Collaborative research.md",
+    "standards/gcthesaurus/Partnerships.md",
     "standards/dates",
     "standards/Bank of Canada",
     "standards/PIB",

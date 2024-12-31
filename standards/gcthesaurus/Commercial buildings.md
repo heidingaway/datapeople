@@ -1,14 +1,15 @@
 ---
 title: Commercial buildings
+aliases:
+  - "20241231012733"
+  - Commercial buildings
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-31
 tags:
   - gccommon
-aliases: Commercial buildings
 french:
-  - "[[Batiment commercial]]"
+  - Bâtiment commercial
 relatedTerm:
-  - "[[Commercial architecture]]"
   - "[[Industrial buildings]]"
 ---
 # Commercial buildings

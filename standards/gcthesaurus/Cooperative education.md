@@ -1,14 +1,17 @@
 ---
 title: Cooperative education
+aliases:
+  - "20241231022442"
+  - Cooperative education
+  - Enseignement coopératif
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-31
 tags:
   - gccommon
-aliases: Cooperative education
+id: 1851
 french:
-  - "[[Enseignement cooperatif]]"
+  - Enseignement coopératif
 relatedTerm:
   - "[[Internships]]"
-  - "[[Cooperation]]"
 ---
 # Cooperative education

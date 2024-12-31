@@ -1,11 +1,14 @@
 ---
 title: Education
 aliases:
+  - "20241231022538"
+  - Éducation
   - Education system
+  - Enseignement
   - Instructions
   - Schooling
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-31
 tags:
   - gccommon
 id: 64
@@ -35,8 +38,6 @@ narrowerTerm:
   - "[[User education]]"
 relatedTerm:
   - "[[Access to education]]"
-  - "[[Awareness]]"
-  - "[[Coaching]]"
   - "[[Curriculum]]"
   - "[[Education indicators]]"
   - "[[Education policy]]"
@@ -45,14 +46,5 @@ relatedTerm:
   - "[[Educational institutions]]"
   - "[[Educational resources]]"
   - "[[Educational technology]]"
-  - "[[Learning]]"
-  - "[[Literacy]]"
-  - "[[Scholarships]]"
-  - "[[School boards]]"
-  - "[[Schools]]"
-  - "[[Student loans]]"
-  - "[[Students]]"
-  - "[[Teachers]]"
-  - "[[Training]]"
 ---
 # Education
