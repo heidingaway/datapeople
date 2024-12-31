@@ -1,13 +1,14 @@
 ---
 title: Model forests
+aliases:
+  - "20241230195029"
+  - Model forests
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Model forests
-broaderTerm:
-  - "[[Forests]]"
+id: 3009
 french:
-  - "[[Foret modele]]"
+  - Forêt modèle
 ---
 # Model forests

@@ -1,16 +1,17 @@
 ---
 title: Tax incentives
+aliases:
+  - "20241230182329"
+  - Tax incentives
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Tax incentives
-broaderTerm:
-  - "[[Incentives]]"
+id: 3444
 french:
-  - "[[Incitatif fiscal]]"
+  - Incitatif fiscal
 relatedTerm:
-  - "[[Taxes]]"
   - "[[Tax benefits]]"
+  - "[[Taxes]]"
 ---
 # Tax incentives

@@ -1,13 +1,16 @@
 ---
 title: Single parent families
+aliases:
+  - "2024123018532"
+  - Lone parent families
+  - One parent families
+  - Single parent families
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Family]]"
+id: 2063
 french:
-  - "[[Famille monoparentale]]"
-aliases: Single parent families
+  - Famille monoparentale
 ---
 # Single parent families

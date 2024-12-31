@@ -1,12 +1,15 @@
 ---
 title: Buildings
+aliases:
+  - "20241230194849"
+  - Buildings
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Buildings
+id: 708
 french:
-  - "[[Batiment]]"
+  - Bâtiment
 narrowerTerm:
   - "[[Commercial buildings]]"
   - "[[Farm buildings]]"
@@ -14,8 +17,8 @@ narrowerTerm:
   - "[[Industrial buildings]]"
   - "[[Religious buildings]]"
 relatedTerm:
-  - "[[Floors]]"
-  - "[[Construction]]"
   - "[[Architecture]]"
+  - "[[Construction]]"
+  - "[[Floors]]"
 ---
 # Buildings

@@ -1,16 +1,17 @@
 ---
 title: Sexual harassment
+aliases:
+  - "2024123018541"
+  - Sexual harassment
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Sexual harassment
-broaderTerm:
-  - "[[Harassment]]"
+id: 3082
 french:
-  - "[[Harcelement sexuel]]"
+  - Harcèlement sexuel
 relatedTerm:
-  - "[[Sexual offences]]"
   - "[[Gender discrimination]]"
+  - "[[Sexual offences]]"
 ---
 # Sexual harassment

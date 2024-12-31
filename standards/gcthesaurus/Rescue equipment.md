@@ -1,8 +1,17 @@
 ---
 title: Rescue equipment
-aliases: Rescue equipment
+aliases:
+  - "20241230212920"
+  - Rescue equipment
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
+id: 4418
 french:
-  - "[[Equipement de sauvetage]]"
+  - Équipement de sauvetage
+relatedTerm:
+  - "[[Rescue]]"
+  - "[[Safety equipment]]"
 ---
+# Rescue equipment

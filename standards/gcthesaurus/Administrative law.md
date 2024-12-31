@@ -12,6 +12,5 @@ french:
   - Droit administratif
 relatedTerm:
   - "[[Ombudsman]]"
-  - "[[Public administration]]"
 ---
 # Administrative law

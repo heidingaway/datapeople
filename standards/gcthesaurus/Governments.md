@@ -26,7 +26,6 @@ relatedTerm:
   - "[[Government information]]"
   - "[[Government policy]]"
   - "[[Intergovernmental relations]]"
-  - "[[Public administration]]"
   - "[[Self government]]"
 scopeNote:
   - The system according to which a nation or community is governed; the governing power in a state.

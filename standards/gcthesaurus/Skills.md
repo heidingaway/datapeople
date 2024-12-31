@@ -1,13 +1,22 @@
 ---
 title: Skills
+aliases:
+  - "20241230200458"
+  - Abilities
+  - Competencies
+  - Skills
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
+id: 4
 french:
-  - "[[Habiletes]]"
+  - Habiletés
 narrowerTerm:
   - "[[Life skills]]"
 relatedTerm:
   - "[[Expertise]]"
+  - "[[Qualifications]]"
   - "[[Skills transfer]]"
-aliases: Skills
 ---
+# Skills

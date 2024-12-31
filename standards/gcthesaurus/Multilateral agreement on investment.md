@@ -1,13 +1,16 @@
 ---
 title: Multilateral agreement on investment
+aliases:
+  - "20241230174233"
+  - Multilateral agreement on investment
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Multilateral agreement on investment
-broaderTerm:
-  - "[[Multilateral agreements]]"
+id: 3609
 french:
-  - "[[Accord multilateral sur linvestissement]]"
+  - Accord multilatéral sur l'investissement
+relatedTerm:
+  - "[[Investments]]"
 ---
 # Multilateral agreement on investment

@@ -8,9 +8,10 @@ tags:
   - NPR
   - podcasts/throughline
 type: "[[201.02 Throughline Reading List]]"
+url: https://www.npr.org/2019/09/11/759839035/three-chords-and-the-truth
 ---
 # Three Chords And The Truth TBR
-
+When Lil Nas X released his viral hit "Old Town Road" last year, he sparked a conversation about what country music is and who is welcome in the genre. To better understand the deep and often misunderstood history of country music, we sat down with renowned filmmaker Ken Burns to talk about his new documentary series Country Music and his process as a storyteller.
 **If you would like to learn more about the topic:**
 
 - [ ] #NPR [Country Music](https://www.pbs.org/kenburns/country-music/) by Ken Burns

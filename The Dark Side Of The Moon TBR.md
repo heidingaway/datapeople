@@ -2,14 +2,20 @@
 title: The Dark Side Of The Moon TBR
 aliases:
   - "20241230004323"
-created: 2024-12-30
+created: 2024-12-*30*
 modified: 2024-12-30
 tags:
   - NPR
   - podcasts/throughline
 type: "[[201.02 Throughline Reading List]]"
+url: https://www.npr.org/2019/10/23/772742561/the-dark-side-of-the-moon
+subject:
+  - "[[Nazi Germany]]"
+  - "[[Space exploration]]"
 ---
 # The Dark Side Of The Moon TBR
+
+50 years ago the world watched as man first landed on the moon, an incredible accomplishment by the engineers and scientists of NASA. But what if some of those same engineers and scientists had a secret history that the U.S. government tried to hide? This week, the story of how the U.S. space program was made possible by former Nazis.
 
 **If you would like to read more about the topic:**
 

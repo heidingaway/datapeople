@@ -1,12 +1,15 @@
 ---
 title: Railway installations
+aliases:
+  - "20241230181247"
+  - Railway installations
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Railway installations
+id: 4363
 french:
-  - "[[Installations ferroviaires]]"
+  - Installations ferroviaires
 narrowerTerm:
   - "[[Train stations]]"
 ---

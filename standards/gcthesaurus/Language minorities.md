@@ -1,16 +1,22 @@
 ---
 title: Language minorities
+aliases:
+  - "20241230202257"
+  - Language minorities
+  - Linguistic minorities
+  - Linguistic minority communities
+  - Linguistic minority groups
+  - Minority language communities
+  - Minority language groups
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Language groups]]"
+id: 3712
 french:
-  - "[[Minorite linguistique]]"
-aliases: Language minorities
+  - Minorité linguistique
 relatedTerm:
-  - "[[Minority language education]]"
   - "[[Language rights]]"
+  - "[[Minority language education]]"
 ---
 # Language minorities

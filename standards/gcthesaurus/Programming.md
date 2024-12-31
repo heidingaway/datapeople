@@ -1,17 +1,19 @@
 ---
 title: Programming
+aliases:
+  - "20241230161554"
+  - Programming
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Programming
+id: 1720
 french:
-  - "[[Programmation]]"
+  - Programmation
 narrowerTerm:
   - "[[Computer programming]]"
   - "[[Cultural programming]]"
 relatedTerm:
-  - "[[Programs]]"
   - "[[Planning]]"
 ---
 # Programming

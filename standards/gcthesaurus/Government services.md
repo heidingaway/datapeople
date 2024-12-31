@@ -12,7 +12,6 @@ french:
 relatedTerm:
   - "[[Bilingual services]]"
   - "[[Electronic government]]"
-  - "[[Public administration]]"
   - "[[Public works]]"
   - "[[standards/gcthesaurus/406.01 Federal Public Service|Public service]]"
   - "[[Utilities]]"

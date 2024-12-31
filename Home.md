@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] Spring is a time for rebirth and the fulfilment of new life.
-> — Byron Pulsifer  
+> [!quote] Every action of our lives touches on some chord that will vibrate in eternity.
+> — Edwin Chapin  
   
 ------  
 ```widgets  

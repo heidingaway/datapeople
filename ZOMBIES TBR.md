@@ -8,8 +8,10 @@ tags:
   - NPR
   - podcasts/throughline
 type: "[[201.02 Throughline Reading List]]"
+url: https://www.npr.org/2019/10/30/774809210/zombies
 ---
 # ZOMBIES TBR
+Zombies have become a global phenomenon — there have been at least ten zombie movies so far this year. Which made us wonder, where did this fascination for the undead come from? This week, how one of our favorite monsters is a window into Haiti's history and the horrors of slavery.
 
 **If you would like to read more about the topic:**
 

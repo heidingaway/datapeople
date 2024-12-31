@@ -1,10 +1,14 @@
 ---
 title: Train stations
-aliases: Train stations
+aliases:
+  - "20241230181228"
+  - Train stations
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Railway installations]]"
+id: 4370
 french:
-  - "[[Gare ferroviaire]]"
+  - Gare ferroviaire
 ---
+# Train stations

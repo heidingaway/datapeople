@@ -19,6 +19,5 @@ scopeNote:
 relatedTerm:
   - "[[Court decisions]]"
   - "[[Hearings]]"
-  - "[[Justice system]]"
 ---
 # Courts

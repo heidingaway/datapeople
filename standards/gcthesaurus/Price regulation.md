@@ -1,17 +1,21 @@
 ---
 title: Price regulation
+aliases:
+  - "20241230191621"
+  - Price control
+  - Price freeze
+  - Price regulation
+  - Price stabilization
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Regulation]]"
+id: 2396
 french:
-  - "[[Reglementation des prix]]"
+  - Réglementation des prix
 relatedTerm:
   - "[[Economic regulations]]"
-  - "[[Pricing]]"
   - "[[Prices]]"
-aliases: Price regulation
+  - "[[Pricing]]"
 ---
 # Price regulation

@@ -1,14 +1,17 @@
 ---
 title: Infrastructures
-aliases: Infrastructures
+aliases:
+  - Infrastructures
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
+id: 1680
 french:
-  - "[[Infrastructure]]"
+  - Infrastructure
 narrowerTerm:
   - "[[Community infrastructures]]"
-relatedTerm:
-  - "[[Systems]]"
 scopeNote:
-  - Facilities equipment and services needed for the o
+  - Facilities, equipment and services needed for the operation of an organization.
 ---
+# Infrastructures

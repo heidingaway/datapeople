@@ -1,20 +1,33 @@
 ---
 title: Water transport
+aliases:
+  - "20241230190316"
+  - Marine shipping
+  - Marine traffic
+  - Marine transport
+  - Marine transportation
+  - Maritime traffic
+  - Ocean transport
+  - Ocean transportation
+  - Sea traffic
+  - Sea transport
+  - Sea transportation
+  - Water transport
+  - Water transportation
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
+id: 3220
 french:
-  - "[[Transport maritime]]"
+  - Transport maritime
 relatedTerm:
-  - "[[Marine installations]]"
-  - "[[Waterways]]"
-  - "[[Water transport industry]]"
-  - "[[Ships]]"
-  - "[[Navigation]]"
-  - "[[Maritime law]]"
-  - "[[Marine installations]]"
   - "[[Harbours]]"
-aliases: Water transport
+  - "[[Marine installations]]"
+  - "[[Maritime law]]"
+  - "[[Navigation]]"
+  - "[[Ships]]"
+  - "[[Water transport industry]]"
+  - "[[Waterways]]"
 ---
 # Water transport

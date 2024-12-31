@@ -1,16 +1,18 @@
 ---
 title: Explorations
+aliases:
+  - Explorations
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Explorations
+id: 1614
 french:
-  - "[[Exploration]]"
+  - Exploration
 narrowerTerm:
   - "[[Space exploration]]"
 relatedTerm:
-  - "[[Pioneers]]"
   - "[[Colonization]]"
+  - "[[Pioneers]]"
 ---
 # Explorations

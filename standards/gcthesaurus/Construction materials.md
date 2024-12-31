@@ -1,14 +1,18 @@
 ---
 title: Construction materials
+aliases:
+  - "20241230164356"
+  - Building materials
+  - Construction materials
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
+id: 1185
 french:
-  - "[[Materiau de construction]]"
+  - Matériau de construction
 narrowerTerm:
   - "[[Concrete]]"
-aliases: Construction materials
 relatedTerm:
   - "[[Construction industry]]"
   - "[[Construction]]"

@@ -1,7 +1,20 @@
 ---
 title: Armed forces
+aliases:
+  - "20241230193345"
+  - Air forces
+  - Armed services
+  - Army
+  - Cadets
+  - Ground forces
+  - Land forces
+  - Maritime forces
+  - Military forces
+  - Militia
+  - Naval forces
+  - Regiments
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-30
 tags:
   - gccommon
 id: 370
@@ -17,17 +30,5 @@ relatedTerm:
   - "[[Military personnel]]"
   - "[[Military police]]"
   - "[[War]]"
-aliases:
-  - Air forces
-  - Armed services
-  - Army
-  - Cadets
-  - Ground forces
-  - Land forces
-  - Maritime forces
-  - Military forces
-  - Militia
-  - Naval forces
-  - Regiments
 ---
 # Armed forces

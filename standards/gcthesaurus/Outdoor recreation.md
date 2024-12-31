@@ -10,8 +10,6 @@ modified: 2024-12-27
 tags:
   - gccommon
 id: 1279
-broaderTerm:
-  - "[[Recreation]]"
 french:
   - Loisir de plein air
 relatedTerm:

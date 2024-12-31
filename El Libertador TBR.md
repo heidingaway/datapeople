@@ -8,8 +8,11 @@ tags:
   - NPR
   - podcasts/throughline
 type: "[[201.02 Throughline Reading List]]"
+url: https://www.npr.org/2019/05/14/723260665/el-libertador
 ---
 # El Libertador TBR
+Venezuela is facing an economic and humanitarian crisis as extreme poverty and violence have forced many to flee the country in recent years. How did a country once wealthy with oil resources fall into such turmoil? Through the lives of two revolutionaries turned authoritarian leaders separated by two centuries, we look back at the rise and fall of Venezuela.
+
 **If you would like to read more on the topic, here's a list:**
 
 - [ ] #NPR[Bolívar: American Liberator](https://www.goodreads.com/book/show/15802011-bol-var?from_search=true) by Marie Arana

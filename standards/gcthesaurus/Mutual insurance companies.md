@@ -1,10 +1,14 @@
 ---
 title: Mutual insurance companies
-aliases: Mutual insurance companies
+aliases:
+  - "20241230194543"
+  - Mutual insurance companies
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Insurance companies]]"
+id: 3545
 french:
-  - "[[Societe mutuelle dassurances]]"
+  - Société mutuelle d'assurances
 ---
+# Mutual insurance companies

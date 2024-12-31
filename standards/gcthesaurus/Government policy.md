@@ -5,7 +5,7 @@ aliases:
   - Government policy
   - Public policy
 created: 2024-12-18
-modified: 2024-12-28
+modified: 2024-12-30
 tags:
   - gccommon
 id: 2810
@@ -13,9 +13,5 @@ french:
   - Politique gouvernementale
 narrowerTerm:
   - "[[Open government]]"
-relatedTerm:
-  - "[[Federal programs]]"
-  - "[[Governments]]"
-  - "[[Public administration]]"
 ---
 # Government policy

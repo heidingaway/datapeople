@@ -7,6 +7,7 @@ modified: 2024-12-30
 tags:
   - NPR
   - podcasts/throughline
+url: https://www.npr.org/2019/02/12/693878396/on-the-shoulders-of-giants
 date: 02-14-2019
 type: "[[201.02 Throughline Reading List]]"
 subject:
@@ -16,6 +17,9 @@ subject:
   - "[[Social movement]]"
 ---
 # On the Shoulders of Giants
+
+When Colin Kaepernick stopped standing for the national anthem at NFL games it sparked a nationwide conversation about patriotism and police brutality. Black athletes using their platform to protest injustice has long been a tradition in American history. In this episode we explore three stories of protest that are rarely told but essential to understanding the current debate: the heavyweight boxer Jack Johnson, the sprinter Wilma Rudolph, and the basketball player Mahmoud Abdul-Rauf.
+
 **If you would like to read more about these athletes:**
 
 - [ ] #NPR[Unforgivable Blackness: The Rise and Fall of Jack Johnson](https://www.goodreads.com/book/show/293672.Unforgivable_Blackness)by Geoffrey C. Ward 

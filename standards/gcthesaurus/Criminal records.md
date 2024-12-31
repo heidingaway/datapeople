@@ -1,14 +1,14 @@
 ---
 title: Criminal records
+aliases:
+  - "20241230165733"
+  - Criminal records
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Criminal records
+id: 1929
 french:
-  - "[[Casier judiciaire]]"
-relatedTerm:
-  - "[[Justice system]]"
-  - "[[Crime]]"
+  - Casier judiciaire
 ---
 # Criminal records

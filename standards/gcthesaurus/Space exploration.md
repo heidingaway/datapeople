@@ -1,13 +1,16 @@
 ---
 title: Space exploration
+aliases:
+  - "20241230184024"
+  - Space exploration
+  - Spacecraft
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Explorations]]"
+id: 226
 french:
-  - "[[Exploration spatiale]]"
+  - Exploration spatiale
 relatedTerm:
   - "[[Aerospace industry]]"
   - "[[Astronaut training]]"
@@ -15,8 +18,5 @@ relatedTerm:
   - "[[Space sciences]]"
   - "[[Space station]]"
   - "[[Space technology]]"
-aliases:
-  - Space exploration
-  - Spacecraft
 ---
 # Space exploration

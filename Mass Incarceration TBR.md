@@ -8,8 +8,11 @@ tags:
   - NPR
   - podcasts/throughline
 type: "[[201.02 Throughline Reading List]]"
+url: https://www.npr.org/2019/08/14/751126384/mass-incarceration
 ---
 # Mass Incarceration TBR
+
+The United States imprisons more people than any other country in the world, and a disproportionate number of those prisoners are Black. What are the origins of the U.S. criminal justice system and how did racism shape it? From the creation of the first penitentiaries in the 1800s, to the "tough-on-crime" prosecutors of the 1990s, how America created a culture of mass incarceration.
 
 **If you would like to read more on the topic, here's a list:**
 

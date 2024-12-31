@@ -7,9 +7,11 @@ modified: 2024-12-30
 tags:
   - NPR
   - podcasts/throughline
+url: https://www.npr.org/2019/12/04/784777520/the-grid
 type: "[[201.02 Throughline Reading List]]"
 ---
 # The Electrical Grid TBR
+Today, electricity in the U.S. is a utility we notice only when it's suddenly unavailable. But over a hundred years ago, electricity in the homes of every American was a wild idea and the subject of a bitter fight over who would power, and profit from, the national grid. This week, the battle that electrified our world and the extreme measures that were taken to get there.
 **If you would like to read more on the topic, here's a list:**
 
 - [ ] #NPR [The Grid: The Fraying Wires Between Americans and Our Energy Future](https://www.goodreads.com/book/show/26073005-the-grid) by Gretchen Bakke

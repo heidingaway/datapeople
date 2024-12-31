@@ -1,20 +1,23 @@
 ---
 title: Resources conservation
+aliases:
+  - "20241230173551"
+  - Resources conservation
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Resources conservation
+id: 1767
 french:
-  - "[[Conservation des ressources]]"
+  - Conservation des ressources
 narrowerTerm:
   - "[[Energy conservation]]"
   - "[[Soil conservation]]"
   - "[[Water conservation]]"
 relatedTerm:
-  - "[[Resources management]]"
-  - "[[Resource development]]"
-  - "[[Natural resources]]"
   - "[[Conservation areas]]"
+  - "[[Natural resources]]"
+  - "[[Resource development]]"
+  - "[[Resources management]]"
 ---
 # Resources conservation

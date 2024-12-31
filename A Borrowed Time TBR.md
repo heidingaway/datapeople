@@ -8,8 +8,14 @@ tags:
   - NPR
   - podcasts/throughline
 type: "[[201.02 Throughline Reading List]]"
+url: https://www.npr.org/2019/10/16/770699746/a-borrowed-time
+subject:
+  - "[[408.01.10003 China]]"
+  - "[[408.01.10070 Hong Kong]]"
 ---
 # A Borrowed Time TBR
+
+Over the past six months, demonstrations in Hong Kong have increasingly become more violent and more determined. What started out as a protest against a proposed extradition law has now become a call for China to recognize Hong Kong's semi-autonomy. But what is at the root of this tumultuous relationship between Hong Kong and China? This week, how Hong Kong became one of the most important, and most contested, cities in the world.
 
 **If you would like to read more about the topic:**
 

@@ -2,10 +2,13 @@
 title: Diseases
 aliases:
   - Diseases
+  - Illness
+  - Pathology
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-30
 tags:
   - gccommon
+id: 520
 french:
   - Maladie
 narrowerTerm:
@@ -22,7 +25,6 @@ narrowerTerm:
   - "[[Respiratory diseases]]"
 relatedTerm:
   - "[[Drugs]]"
-  - "[[Health]]"
   - "[[Medicine]]"
   - "[[Pain]]"
   - "[[Screening Medicine]]"

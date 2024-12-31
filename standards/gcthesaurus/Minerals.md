@@ -1,15 +1,19 @@
 ---
 title: Minerals
+aliases:
+  - "20241230160918"
+  - Mineral resources
+  - Minerals
 created: 2024-12-13
-modified: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
+id: 1554
 french:
-  - "[[Minerai]]"
-aliases: Minerals
+  - Minerai
 relatedTerm:
-  - "[[Mining industry]]"
   - "[[Geology]]"
+  - "[[Mining industry]]"
 narrowerTerm:
   - "[[Coal]]"
 ---

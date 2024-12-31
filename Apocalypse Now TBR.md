@@ -7,9 +7,13 @@ modified: 2024-12-30
 tags:
   - NPR
   - podcasts/throughline
+url: https://www.npr.org/2019/06/11/731664197/apocalypse-now
 type: "[[201.02 Throughline Reading List]]"
 ---
 # Apocalypse Now TBR
+
+Evangelicals have played an important role in modern day American politics - from supporting President Trump to helping elect Jimmy Carter back in 1976. How and when did this religious group become so intertwined with today's political issues? In this episode, what it means to be an evangelical today and how it has changed over time.
+
 **If you would like to read more on the topic, here's a list:**
 
 - [ ] #NPR[American Apocalypse: A History of Modern Evangelicalism](https://www.goodreads.com/book/show/21878090-american-apocalypse?from_search=true) by Matthew Sutton 

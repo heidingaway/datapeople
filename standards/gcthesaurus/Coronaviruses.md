@@ -1,12 +1,14 @@
 ---
 title: Coronaviruses
-aliases: Coronaviruses
+aliases:
+  - "2024123016489"
+  - Coronaviruses
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Viruses]]"
+id: 4996
 french:
-  - "[[Coronavirus]]"
-relatedTerm:
-  - "[[Coronavirus diseases]]"
+  - Coronavirus
 ---
+# Coronaviruses

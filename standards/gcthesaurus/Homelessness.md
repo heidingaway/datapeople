@@ -14,6 +14,5 @@ french:
 relatedTerm:
   - "[[Disadvantaged persons]]"
   - "[[Housing]]"
-  - "[[Poverty]]"
 ---
 # Homelessness

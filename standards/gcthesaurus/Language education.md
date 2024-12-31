@@ -1,16 +1,20 @@
 ---
 title: Language education
+aliases:
+  - "20241230185531"
+  - Language education
+  - Language teaching
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
+id: 2420
 french:
-  - "[[Enseignement des langues]]"
+  - Enseignement des langues
 narrowerTerm:
   - "[[Second language education]]"
-aliases: Language education
 relatedTerm:
-  - "[[Languages]]"
   - "[[Language training]]"
+  - "[[Languages]]"
 ---
 # Language education

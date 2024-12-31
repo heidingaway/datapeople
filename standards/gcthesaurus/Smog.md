@@ -1,10 +1,14 @@
 ---
 title: Smog
-aliases: Smog
+aliases:
+  - "20241230185014"
+  - Smog
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Air pollution]]"
+id: 376
 french:
-  - "[[Smog]]"
+  - Smog
 ---
+# Smog

@@ -1,13 +1,15 @@
 ---
 title: Student labour
+aliases:
+  - "20241230183054"
+  - Student labor
+  - Student labour
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Labour]]"
+id: 3663
 french:
-  - "[[Travail etudiant]]"
-aliases: Student labour
+  - Travail étudiant
 ---
 # Student labour

@@ -10,7 +10,7 @@ tags:
 french:
   - Benevolat
 relatedTerm:
-  - "[[Non-profit organizations]]"
+  - "[[Nonprofit organizations]]"
   - "[[Pro bono legal services]]"
   - "[[Unpaid work]]"
 ---

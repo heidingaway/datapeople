@@ -11,7 +11,6 @@ id: 2208
 french:
   - Thérapie
 relatedTerm:
-  - "[[Diseases]]"
   - "[[Health care]]"
   - "[[Medicine]]"
   - "[[Side effects]]"

@@ -1,12 +1,15 @@
 ---
 title: Incentives
+aliases:
+  - "20241230182349"
+  - Incentives
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Incentives
+id: 3443
 french:
-  - "[[Incitatif]]"
+  - Incitatif
 narrowerTerm:
   - "[[Tax incentives]]"
 ---

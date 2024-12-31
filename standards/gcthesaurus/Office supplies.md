@@ -1,12 +1,16 @@
 ---
 title: Office supplies
-aliases: Office supplies
+aliases:
+  - "20241230183946"
+  - Office supplies
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Supplies]]"
+id: 4126
 french:
-  - "[[Fournitures de bureau]]"
+  - Fournitures de bureau
 narrowerTerm:
   - "[[Stationery]]"
 ---
+# Office supplies

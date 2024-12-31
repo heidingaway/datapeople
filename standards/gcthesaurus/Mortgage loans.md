@@ -9,8 +9,6 @@ modified: 2024-12-28
 tags:
   - gccommon
 id: 1809
-broaderTerm:
-  - "[[Consumer loans]]"
 french:
   - Prêt hypothécaire
 relatedTerm:

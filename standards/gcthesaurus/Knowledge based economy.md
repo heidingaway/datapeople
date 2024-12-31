@@ -1,10 +1,15 @@
 ---
 title: Knowledge based economy
+aliases:
+  - "20241230202610"
+  - Knowledge based economy
+  - Knowledge based industry
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Economy]]"
+id: 2403
 french:
-  - "[[Economie du savoir]]"
-aliases: Knowledge based economy
+  - Économie du savoir
 ---
+# Knowledge based economy

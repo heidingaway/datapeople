@@ -1,17 +1,20 @@
 ---
 title: Drilling
+aliases:
+  - "20241230193731"
+  - Drilling
 created: 2024-12-13
-modified: 2024-12-17
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Drilling
+id: 2271
 french:
-  - "[[Forage]]"
+  - Forage
 narrowerTerm:
   - "[[Offshore drilling]]"
 relatedTerm:
-  - "[[Prospecting]]"
-  - "[[Primary industry]]"
   - "[[Mining industry]]"
+  - "[[Primary industry]]"
+  - "[[Prospecting]]"
 ---
 # Drilling

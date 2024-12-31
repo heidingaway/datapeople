@@ -13,7 +13,6 @@ french:
 relatedTerm:
   - "[[Governments]]"
   - "[[Internal audits]]"
-  - "[[Public administration]]"
 scopeNote:
   - Way to exercise power and manage the affairs of a country, region or organization.
 ---

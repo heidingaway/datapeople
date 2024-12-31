@@ -12,7 +12,6 @@ id: 1866
 french:
   - Société d'État
 relatedTerm:
-  - "[[Federal institutions]]"
   - "[[Public sector]]"
 ---
 # Crown corporations

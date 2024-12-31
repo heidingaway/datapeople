@@ -19,7 +19,6 @@ narrowerTerm:
 relatedTerm:
   - "[[Federal contracts]]"
   - "[[Federal departments]]"
-  - "[[Federal institutions]]"
   - "[[Federal programs]]"
   - "[[Federal provincial agreements]]"
   - "[[Federal provincial relations]]"

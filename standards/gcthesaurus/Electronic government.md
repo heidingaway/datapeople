@@ -25,6 +25,5 @@ relatedTerm:
   - "[[Electronic commerce]]"
   - "[[Government services]]"
   - "[[Internet]]"
-  - "[[Public administration]]"
 ---
 # Electronic government

@@ -9,8 +9,14 @@ tags:
   - podcasts/throughline
   - TBR
 type: "[[201.02 Throughline Reading List]]"
+url: https://www.npr.org/2019/02/12/694152504/the-forgotten-war
 ---
 # The Forgotten War
+
+South Korean mothers and children shield themselves as they watch U.S. 105mm howitzers blast enemy positions across the Han River. The attack occurred during the U.S. drive from Gimpo to Seoul on Sept. 24, 1950.
+
+President Trump and North Korean Leader Kim Jong Un are preparing to meet for a second nuclear summit. What has fueled the hostility between these two countries for decades? On this episode, we revisit the tangled history that helps explain how we got to where we are today.
+
 **If you would like to read more on the subject:**
 
 - [ ] #NPR[The Real North Korea: Life and Politics in the Failed Stalinist Utopia](https://www.goodreads.com/book/show/16248578-the-real-north-korea) by Andrei Lankov

@@ -8,8 +8,12 @@ tags:
   - NPR
   - podcasts/throughline
 type: "[[201.02 Throughline Reading List]]"
+url: https://www.npr.org/2019/09/25/764308292/american-exile
 ---
 # American Exile TBR
+
+For centuries, the United States has been a prime destination for migrants hoping for better economic opportunities, fleeing danger in their home countries or just seeking a new life. But has there ever been a moment when Americans were the ones who felt compelled to flee elsewhere? In this episode, two stories that challenge the idea of who and why Americans sought refuge in other countries.
+
 **If you would like to learn more about the topic:**
 
 - [ ] #NPR [I've Got a Home in Glory Land: A Lost Tale of the Underground Railroad](https://www.goodreads.com/book/show/50045.I_ve_Got_a_Home_in_Glory_Land) by Karolyn Smardz Frost

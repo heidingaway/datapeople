@@ -1,7 +1,11 @@
 ---
 title: Plants
+aliases:
+  - "2024123021254"
+  - Plants
+  - Vegetation
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
 french:
@@ -11,13 +15,13 @@ narrowerTerm:
   - "[[Medicinal plants]]"
   - "[[Ornamental plants]]"
   - "[[Trees]]"
-  - "[[Wild plants]]"
   - "[[Weeds]]"
+  - "[[Wild plants]]"
 relatedTerm:
-  - "[[Flora]]"
-  - "[[Plant diseases]]"
-  - "[[Herbaria]]"
   - "[[Botany]]"
-aliases: Plants
+  - "[[Flora]]"
+  - "[[Herbaria]]"
+  - "[[Plant diseases]]"
+id: 675
 ---
 # Plants

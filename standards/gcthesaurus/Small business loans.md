@@ -1,12 +1,14 @@
 ---
 title: Small business loans
-aliases: Small business loans
+aliases:
+  - "20241230185145"
+  - Small business loans
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Business loans]]"
+id: 1224
 french:
-  - "[[Pret a la petite entreprise]]"
-relatedTerm:
-  - "[[Small businesses]]"
+  - Prêt à la petite entreprise
 ---
+# Small business loans

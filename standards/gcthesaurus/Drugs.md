@@ -21,7 +21,6 @@ narrowerTerm:
   - "[[Veterinary drugs]]"
 relatedTerm:
   - "[[Chemicals]]"
-  - "[[Diseases]]"
   - "[[Drug addiction]]"
   - "[[Drug insurance]]"
   - "[[Drug labelling]]"

@@ -1,17 +1,18 @@
 ---
 title: Lockers
+aliases:
+  - "2024123018325"
+  - Lockers
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Lockers
-broaderTerm:
-  - "[[Storage]]"
+id: 9984
 french:
-  - "[[Casier]]"
+  - Casier
 relatedTerm:
-  - "[[Workplace]]"
-  - "[[Office equipment]]"
   - "[[Labour mobility]]"
+  - "[[Office equipment]]"
+  - "[[Workplace]]"
 ---
 # Lockers

@@ -1,12 +1,15 @@
 ---
 title: Systems
+aliases:
+  - "2024123016216"
+  - Systems
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Systems
+id: 1740
 french:
-  - Systeme
+  - Système
 narrowerTerm:
   - "[[Computer systems]]"
   - "[[Electoral system]]"
@@ -18,6 +21,6 @@ narrowerTerm:
 relatedTerm:
   - "[[Infrastructures]]"
 scopeNote:
-  - An organized set of procedures doctrines ideas pri
+  - An organized set of procedures, doctrines, ideas, principles, or organizations usually intended to explain the arrangement or working of a whole.
 ---
 # Systems

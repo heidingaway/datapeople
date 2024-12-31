@@ -1,14 +1,14 @@
 ---
 title: Marinas
+aliases:
+  - Marinas
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Marinas
-broaderTerm:
-  - "[[Harbours]]"
+id: 3219
 french:
-  - "[[Port de plaisance]]"
+  - Port de plaisance
 relatedTerm:
   - "[[Pleasure craft]]"
 ---

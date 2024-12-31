@@ -1,10 +1,14 @@
 ---
 title: Diabetes
-aliases: Diabetes
+aliases:
+  - "20241230171610"
+  - Diabetes
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Chronic diseases]]"
+id: 1473
 french:
-  - "[[Diabete]]"
+  - Diabète
 ---
+# Diabetes

@@ -1,13 +1,20 @@
 ---
 title: Polar regions
-aliases: Polar regions
+aliases:
+  - "20241230192230"
+  - Polar regions
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Regions]]"
+id: 588
 french:
-  - "[[Region polaire]]"
+  - Région polaire
 narrowerTerm:
   - "[[Antarctic]]"
   - "[[Arctic]]"
+relatedTerm:
+  - "[[Northern studies]]"
+  - "[[Polar sciences]]"
 ---
+# Polar regions

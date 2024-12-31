@@ -8,6 +8,7 @@ tags:
   - NPR
   - podcasts/throughline
 type: "[[201.02 Throughline Reading List]]"
+url: https://www.npr.org/2019/05/07/721165704/white-nationalism
 ---
 # White Nationalism TBR
 ## Books

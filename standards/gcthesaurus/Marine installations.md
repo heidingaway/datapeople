@@ -1,12 +1,15 @@
 ---
 title: Marine installations
+aliases:
+  - "20241230190250"
+  - Marine installations
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Marine installations
+id: 3218
 french:
-  - "[[Installations maritimes]]"
+  - Installations maritimes
 narrowerTerm:
   - "[[Harbours]]"
   - "[[Lighthouses]]"

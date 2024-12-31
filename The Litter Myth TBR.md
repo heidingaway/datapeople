@@ -7,9 +7,15 @@ modified: 2024-12-30
 tags:
   - NPR
   - podcasts/throughline
+url: https://www.npr.org/2019/09/04/757539617/the-litter-myth
 type: "[[201.02 Throughline Reading List]]"
 ---
 # The Litter Myth TBR
+
+There is more waste in the world today than at any time in history, and the responsibility for keeping the environment clean too often falls on individuals instead of manufacturers. But, why us? And why this feeling of responsibility? This week, how one organization changed the American public's relationship with waste and who is ultimately responsible for it.
+
+_This episode has been updated to include a statement from Keep America Beautiful_
+
 **If you would like to read more about the topic:**
 
 - [ ] #NPR[Gone Tomorrow: The Hidden Life of Garbage](https://www.goodreads.com/book/show/126620.Gone_Tomorrow) by Heather Rogers

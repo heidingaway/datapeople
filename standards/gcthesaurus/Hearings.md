@@ -1,17 +1,17 @@
 ---
 title: Hearings
+aliases:
+  - Hearings
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Hearings
+id: 1909
 french:
-  - "[[Audience]]"
+  - Audience
 narrowerTerm:
   - "[[Public hearings]]"
 relatedTerm:
   - "[[Testimony]]"
-  - "[[Justice system]]"
-  - "[[Courts]]"
 ---
 # Hearings

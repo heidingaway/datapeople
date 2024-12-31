@@ -1,13 +1,15 @@
 ---
 title: Social surveys
 aliases:
+  - "20241230180655"
   - Social surveys
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-30
 tags:
   - gccommon
+id: 4540
 french:
-  - "[[Enquete sociale]]"
+  - Enquête sociale
 relatedTerm:
   - "[[Social conditions]]"
   - "[[Social indicators]]"

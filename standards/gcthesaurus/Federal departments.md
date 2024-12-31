@@ -1,19 +1,18 @@
 ---
 title: Federal departments
+aliases:
+  - "20241230171139"
+  - Federal departments
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Federal departments
+id: 2117
 french:
-  - "[[Ministere du gouvernement federal]]"
+  - Ministère du gouvernement fédéral
 relatedTerm:
   - "[[Departmental relations]]"
-  - "[[Public administration]]"
-  - "[[Portfolio]]"
   - "[[Ministers]]"
-  - "[[Federal institutions]]"
-  - "[[Federal government]]"
-  - "[[Departmental relations]]"
+  - "[[Portfolio]]"
 ---
 # Federal departments

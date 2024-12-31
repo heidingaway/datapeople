@@ -1,10 +1,14 @@
 ---
 title: Community infrastructures
-aliases: Community infrastructures
+aliases:
+  - "20241230161949"
+  - Community infrastructures
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Infrastructures]]"
+id: 1675
 french:
-  - "[[Infrastructure communautaire]]"
+  - Infrastructure communautaire
 ---
+# Community infrastructures

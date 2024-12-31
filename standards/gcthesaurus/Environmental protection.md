@@ -1,25 +1,32 @@
 ---
 title: Environmental protection
+aliases:
+  - "20241230173622"
+  - Environment protection
+  - Environmental conservation
+  - Environmental preservation
+  - Environmental protection
+  - Preservation of the environment
+  - Protection of the environment
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
 french:
-  - "[[Protection de lenvironnement]]"
+  - Protection de l'environnement
 relatedTerm:
+  - "[[Environment]]"
+  - "[[Environmental hazards]]"
+  - "[[Environmental management]]"
+  - "[[Environmental quality]]"
   - "[[Environmental technology]]"
   - "[[Green products]]"
-  - "[[Sustainable development]]"
   - "[[Pollution prevention]]"
-  - "[[Environmental quality]]"
-  - "[[Environmental management]]"
-  - "[[Environmental hazards]]"
-  - "[[Environment]]"
+  - "[[Sustainable development]]"
 scopeNote:
-  - Protection conservation and preservation of the en
-aliases: Environmental protection
+  - Protection, conservation and preservation of the environment, whether natural or built.
 narrowerTerm:
-  - "[[Resources conservation]]"
   - "[[Nature conservation]]"
+  - "[[Resources conservation]]"
 ---
 # Environmental protection

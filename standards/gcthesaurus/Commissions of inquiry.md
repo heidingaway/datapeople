@@ -1,13 +1,16 @@
 ---
 title: Commissions of inquiry
+aliases:
+  - "20241230161020"
+  - Commissions of inquiry
+  - Government inquiries
+  - Royal commissions
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Investigative bodies]]"
+id: 1637
 french:
-  - "[[Commission denquete]]"
-aliases: Commissions of inquiry
+  - Commission d'enquête
 ---
 # Commissions of inquiry

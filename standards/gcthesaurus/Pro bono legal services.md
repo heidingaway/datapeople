@@ -1,16 +1,16 @@
 ---
 title: Pro bono legal services
+aliases:
+  - "2024123017000"
+  - Pro bono legal services
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2024-12-30
 tags:
   - gccommon
 id: 4851
-aliases:
-  - Pro bono legal services
 french:
   - Services juridiques benevoles
 relatedTerm:
-  - "[[Justice system]]"
   - "[[Legal aid]]"
   - "[[Volunteer work]]"
 ---

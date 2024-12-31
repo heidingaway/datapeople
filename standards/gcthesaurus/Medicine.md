@@ -20,7 +20,6 @@ narrowerTerm:
   - "[[Veterinary medicine]]"
 relatedTerm:
   - "[[Anatomy]]"
-  - "[[Diseases]]"
   - "[[Health care]]"
   - "[[Health]]"
   - "[[Injuries]]"

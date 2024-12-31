@@ -1,7 +1,13 @@
 ---
 title: Justice system
+aliases:
+  - "20241230165347"
+  - Administration of justice
+  - Judicial system
+  - Justice
+  - Legal system
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-30
 tags:
   - gccommon
 french:
@@ -17,15 +23,9 @@ relatedTerm:
   - "[[Hearings]]"
   - "[[Judges]]"
   - "[[Judicial appointments]]"
-  - "[[Law]]"
   - "[[Parole]]"
   - "[[Pro bono legal services]]"
 scopeNote:
   - Legal provisions and institutions which control the life of a nation state or province.
-aliases:
-  - Administration of justice
-  - Judicial system
-  - Justice
-  - Legal system
 ---
 # Justice system

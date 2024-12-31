@@ -1,19 +1,22 @@
 ---
 title: Soil
+aliases:
+  - "20241230193040"
+  - Soil
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Soil
+id: 2795
 french:
-  - "[[Sol]]"
+  - Sol
 narrowerTerm:
   - "[[Permafrost]]"
 relatedTerm:
-  - "[[Soil taxonomy]]"
-  - "[[Soil quality]]"
-  - "[[Soil pollution]]"
-  - "[[Soil conservation]]"
   - "[[Farmlands]]"
+  - "[[Soil conservation]]"
+  - "[[Soil pollution]]"
+  - "[[Soil quality]]"
+  - "[[Soil taxonomy]]"
 ---
 # Soil

@@ -8,8 +8,12 @@ tags:
   - NPR
   - podcasts/throughline
 type: "[[201.02 Throughline Reading List]]"
+url: https://www.npr.org/2019/07/17/742712613/rules-of-engagement
 ---
 # Rules Of Engagement TBR
+
+After Iran shot down an American surveillance drone in June, tensions between the two countries have only gone up. But the US and Iran have been in some state of conflict for the last 40 years, since the Iranian revolution. This week, we look at three key moments in this conflict to better understand where it might go next.
+
 **If you would like to read more on the topic, here's a list:**
 
 - [ ] #NPR[The Twilight War: The Secret History of America's Thirty-Year Conflict with Iran](https://www.goodreads.com/en/book/show/13403082) by David Crist

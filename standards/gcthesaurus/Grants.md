@@ -1,18 +1,22 @@
 ---
 title: Grants
+aliases:
+  - "2024123019096"
+  - Grants
+  - Subsidies
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
+id: 459
 french:
-  - "[[Subvention]]"
+  - Subvention
 narrowerTerm:
   - "[[Research grants]]"
-aliases: Grants
 relatedTerm:
-  - "[[Scholarships]]"
-  - "[[Funding]]"
-  - "[[Financial assistance]]"
   - "[[Allowances]]"
+  - "[[Financial assistance]]"
+  - "[[Funding]]"
+  - "[[Scholarships]]"
 ---
 # Grants

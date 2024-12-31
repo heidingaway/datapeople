@@ -17,6 +17,10 @@ subject:
   - "[[Middle East]]"
 ---
 # Four Days in August
+On Aug. 19, 2013, the CIA publicly admitted for the first time its involvement in the 1953 coup against Iran's elected Prime Minister Mohammad Mossadegh.
+
+The [documents](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB435/) provided details of the CIA's plan at the time, which was led by senior officer Kermit Roosevelt Jr., the grandson of U.S. President Theodore Roosevelt. Over the course of four days in August 1953, Roosevelt would orchestrate not one, but two attempts to destabilize the government of Iran, forever changing the relationship between the country and the U.S. In this episode, we go back to retrace what happened in the inaugural episode of NPR's new history podcast, [Throughline](https://www.npr.org/podcasts/510333/throughline).
+
 **If you would like to read more on the 1953 coup, here's a list:**
 
 - [ ] #NPR[All the Shah's Men: An American Coup and the Roots of Middle East Terror](https://www.goodreads.com/book/show/46347.All_the_Shah_s_Men) by Stephen Kinzer

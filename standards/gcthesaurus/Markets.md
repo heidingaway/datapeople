@@ -1,12 +1,15 @@
 ---
 title: Markets
+aliases:
+  - "20241230174439"
+  - Markets
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Markets
+id: 1312
 french:
-  - "[[Marche]]"
+  - Marché
 narrowerTerm:
   - "[[Capital markets]]"
   - "[[Domestic markets]]"
@@ -14,10 +17,10 @@ narrowerTerm:
   - "[[Regional markets]]"
   - "[[Stock markets]]"
 relatedTerm:
-  - "[[Trade]]"
-  - "[[Marketplace services]]"
-  - "[[Market place]]"
-  - "[[Market entry]]"
   - "[[Market analysis]]"
+  - "[[Market entry]]"
+  - "[[Market place]]"
+  - "[[Marketplace services]]"
+  - "[[Trade]]"
 ---
 # Markets

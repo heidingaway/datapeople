@@ -11,14 +11,15 @@ aliases:
   - Northern Canada
   - Northern regions of Canada
 created: 2024-12-18
-modified: 2024-12-29
+modified: 2024-12-30
 tags:
   - gccommon
+id: 721
 relatedTerm:
-  - "[[Arctic]]"
   - "[[Northern development]]"
   - "[[Northern studies]]"
   - "[[Northerners]]"
+  - "[[Polar regions]]"
   - "[[Territories]]"
 french:
   - Nord canadien

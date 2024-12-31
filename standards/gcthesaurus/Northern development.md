@@ -1,17 +1,17 @@
 ---
 title: Northern development
+aliases:
+  - "20241230192630"
+  - Northern development
+  - Northern economics
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Regional development]]"
+id: 4060
 french:
-  - "[[Developpement du Nord]]"
-aliases: Northern development
+  - Développement du Nord
 relatedTerm:
-  - "[[Polar sciences]]"
   - "[[Northern studies]]"
-  - "[[Northern Canada]]"
 ---
 # Northern development

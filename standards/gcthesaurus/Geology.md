@@ -32,7 +32,6 @@ relatedTerm:
   - "[[Geological maps]]"
   - "[[Geomorphology]]"
   - "[[Geophysics]]"
-  - "[[Minerals]]"
   - "[[Prospecting]]"
 scopeNote:
   - The study of the Earth, its origins and evolution, the materials that make it up, and the processes that act on it.

@@ -19,7 +19,6 @@ scopeNote:
 narrowerTerm:
   - "[[Alternative fuels]]"
 relatedTerm:
-  - "[[Energy technology]]"
   - "[[Pollution prevention]]"
   - "[[Renewable energy]]"
 ---

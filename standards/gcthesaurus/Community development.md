@@ -1,17 +1,21 @@
 ---
 title: Community development
-aliases: Community development
+aliases:
+  - "20241230161214"
+  - Community development
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Social development]]"
+id: 1672
 french:
-  - "[[Developpement communautaire]]"
+  - Développement communautaire
 relatedTerm:
   - "[[Community education]]"
   - "[[Community infrastructures]]"
+  - "[[Community partnerships]]"
+  - "[[Community programs]]"
   - "[[Community radio]]"
   - "[[Community relations]]"
-  - "[[Community programs]]"
-  - "[[Community partnerships]]"
 ---
+# Community development

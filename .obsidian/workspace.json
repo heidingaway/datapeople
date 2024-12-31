@@ -25,18 +25,18 @@
             }
           },
           {
-            "id": "1836a97ada1acddf",
+            "id": "62508d208b60f026",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index/501 NE Nature and Environment.md",
+                "file": "standards/gcthesaurus/Pain.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "501 NE Nature and Environment"
+              "title": "Pain"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"relatedTerm\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -244,34 +245,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1836a97ada1acddf",
+  "active": "62508d208b60f026",
   "lastOpenFiles": [
-    "PerformingGroup.md",
-    "Index/501 NE Nature and Environment.md",
-    "standards/gcthesaurus/Soil conservation.md",
-    "Index/000 Index.md",
-    "standards/gcthesaurus/Soil Erosion.md",
     "Home.md",
-    "standards/gcthesaurus/Reforestation.md",
-    "standards/gcthesaurus/Forest management.md",
-    "standards/gcthesaurus/Afforestation.md",
-    "standards/gcthesaurus/Deforestation.md",
-    "standards/gcthesaurus/Forests.md",
-    "standards/gcthesaurus/Forestry.md",
-    "standards/gcthesaurus/Reforestation Deforestation Afforestation.md",
-    "standards/gcthesaurus/Forests Forestry technology Forestry policy Forest.md",
-    "standards/gcthesaurus/Fossils.md",
-    "standards/gcthesaurus/Palaeontology.md",
-    "standards/gcthesaurus/Paleobotany.md",
-    "standards/gcthesaurus/Biology.md",
-    "standards/gcthesaurus/Living organisms.md",
-    "standards/gcthesaurus/Genetically modified organisms.md",
-    "standards/gcthesaurus/Genetically modified foods Genetic engineering.md",
-    "standards/gcthesaurus/Genetically modified foods.md",
-    "standards/gcthesaurus/Food.md",
-    "standards/gcthesaurus/Functional foods.md",
-    "standards/gcthesaurus/Cooking.md",
-    "standards/gcthesaurus/Nutrition.md",
+    "standards/gcthesaurus/Infected blood.md",
+    "standards/gcthesaurus/Business intelligence.md",
+    "standards/gcthesaurus/Injuries Diseases.md",
+    "standards/gcthesaurus/Pain.md",
+    "standards/gcthesaurus/Information Business opportunities Business develo.md",
+    "standards/gcthesaurus/Industrial productivity.md",
+    "standards/gcthesaurus/Infectious diseases Blood supply.md",
+    "standards/gcthesaurus/Indigenous law.md",
+    "standards/gcthesaurus/Industrial development.md",
+    "standards/gcthesaurus/Industry Industrial management.md",
+    "standards/gcthesaurus/Industry assistance Industry Industrial policy Bus.md",
+    "standards/gcthesaurus/Tax credits.md",
+    "standards/gcthesaurus/Indigenous rights Indigenous policing.md",
+    "standards/gcthesaurus/Financing companies.md",
+    "standards/gcthesaurus/Income tax Fiscal assistance.md",
+    "standards/gcthesaurus/Forestry policy.md",
+    "standards/gcthesaurus/Funding Credit unions.md",
+    "standards/gcthesaurus/Forestry technology.md",
+    "standards/gcthesaurus/Forests Forest management.md",
+    "standards/gcthesaurus/Security.md",
+    "standards/gcthesaurus/Snow.md",
+    "standards/gcthesaurus/Fisheries.md",
+    "standards/gcthesaurus/Forestry industry Forest management.md",
+    "standards/gcthesaurus/Fishing ships Fishing rights Fishing area Fisherie.md",
+    "standards/gcthesaurus/Ice caps Ice Glaciers Avalanches.md",
     "standards/dates",
     "standards/Bank of Canada",
     "standards/PIB",

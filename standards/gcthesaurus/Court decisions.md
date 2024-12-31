@@ -1,15 +1,27 @@
 ---
 title: Court decisions
+aliases:
+  - "2024123016528"
+  - Adjudication
+  - Court decisions
+  - Legal decisions
+  - Precedents
+  - Sentences
+  - Sentencing
+  - Verdicts
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Decisions]]"
+id: 126
 french:
-  - "[[Decision du tribunal]]"
+  - Décision du tribunal
 narrowerTerm:
   - "[[Acquittal]]"
   - "[[Conviction]]"
 scopeNote:
-  - A decision of a court or judge
-aliases: Court decisions
+  - A decision of a court or judge.
+relatedTerm:
+  - "[[Appeals]]"
 ---
+# Court decisions

@@ -255,7 +255,7 @@ class:
   - "[[Nonprofit housing]]"
   - "[[Nongovernmental organizations]]"
   - "[[Non-profits]]"
-  - "[[Non-profit organizations]]"
+  - "[[Nonprofit organizations]]"
   - "[[Non-profit institutions]]"
   - "[[Non-profit associations]]"
   - "[[Non-governmental organizations]]"

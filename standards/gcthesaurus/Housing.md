@@ -8,7 +8,7 @@ aliases:
   - Houses
   - Housing
 created: 2024-12-18
-modified: 2024-12-28
+modified: 2024-12-30
 tags:
   - gccommon
 id: 95
@@ -16,8 +16,6 @@ french:
   - Logement
 relatedTerm:
   - "[[Apartment buildings]]"
-  - "[[Home renovations]]"
-  - "[[Homelessness]]"
   - "[[Housing assistance]]"
   - "[[Mortgage loans]]"
 scopeNote:

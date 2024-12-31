@@ -21,7 +21,6 @@ relatedTerm:
   - "[[Growth capital]]"
   - "[[Initial public offering]]"
   - "[[Investment policy]]"
-  - "[[Multilateral agreement on investment]]"
   - "[[Securities]]"
   - "[[Stock markets]]"
 ---

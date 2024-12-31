@@ -10,7 +10,6 @@ narrowerTerm:
   - "[[Stem cells]]"
 relatedTerm:
   - "[[Tissues]]"
-  - "[[Microorganisms]]"
 scopeNote:
   - Basic structural units of living organisms Some mi
 aliases: Cells

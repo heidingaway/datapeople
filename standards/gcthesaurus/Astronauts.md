@@ -1,9 +1,13 @@
 ---
 title: Astronauts
-aliases: Astronauts
-id: 829
+aliases:
+  - "20241230184237"
+  - Astronauts
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
+id: 829
 french:
   - Astronaute
 relatedTerm:
@@ -11,3 +15,4 @@ relatedTerm:
   - "[[Space exploration]]"
   - "[[Space station]]"
 ---
+# Astronauts

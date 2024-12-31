@@ -9,7 +9,6 @@ tags:
   - gccommon
 id: 4020
 relatedTerm:
-  - "[[Northern development]]"
   - "[[Polar regions]]"
   - "[[Scientists]]"
 french:

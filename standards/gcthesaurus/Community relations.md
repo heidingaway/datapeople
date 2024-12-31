@@ -1,14 +1,16 @@
 ---
 title: Community relations
+aliases:
+  - "2024123016185"
+  - Community relations
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Community relations
+id: 1679
 french:
-  - "[[Relations communautaires]]"
+  - Relations communautaires
 relatedTerm:
   - "[[Community partnerships]]"
-  - "[[Community development]]"
 ---
 # Community relations

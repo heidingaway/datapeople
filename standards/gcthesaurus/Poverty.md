@@ -1,18 +1,21 @@
 ---
 title: Poverty
+aliases:
+  - "20241230160334"
+  - Impoverishment
+  - Poverty
 created: 2024-12-13
-modified: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
+id: 1460
 french:
-  - "[[Pauvrete]]"
+  - Pauvreté
 narrowerTerm:
   - "[[Child poverty]]"
-aliases: Poverty
 relatedTerm:
-  - "[[Homelessness]]"
-  - "[[Economic conditions]]"
   - "[[Disadvantaged persons]]"
+  - "[[Economic conditions]]"
+  - "[[Homelessness]]"
 ---
 # Poverty
-

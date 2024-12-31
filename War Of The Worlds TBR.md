@@ -7,9 +7,12 @@ modified: 2024-12-30
 tags:
   - NPR
   - podcasts/throughline
+url: https://www.npr.org/2019/04/17/714297520/war-of-the-worlds
 type: "[[201.02 Throughline Reading List]]"
 ---
 # War Of The Worlds TBR
+
+The Sunni-Shia divide is a conflict that most people have heard about - two sects with Sunni Islam being in the majority and Shia Islam the minority. Exactly how did this conflict originate and when? We go through 1400 years of history to find the moment this divide first turned deadly and how it has evolved since.
 
 **If you would like to read more on the topic, here's a list:**
 

@@ -8,8 +8,14 @@ tags:
   - NPR
   - podcasts/throughline
 type: "[[201.02 Throughline Reading List]]"
+url: https://www.npr.org/2019/07/24/744884767/milliken-v-bradley
 ---
 # Milliken v. Bradley TBR
+
+After the landmark decision in Brown v. Board of Education, public schools across the country were supposed to become more integrated, but by the 1970s, many weren't. As a way to remedy segregation in their city, the Detroit school board introduced busing across Detroit. But the plan was met with so much resistance that the issue eventually led all the way to the Supreme Court.
+
+This week, segregation in Detroit public schools and the impact of a Supreme Court case that went far beyond that city.
+
 **If you would like to read more on the topic, here's a list:**
 
 - [ ] #NPR[Why Busing Failed](https://www.goodreads.com/book/show/27162253-why-busing-failed?from_search=true) by Matthew F. Delmont 

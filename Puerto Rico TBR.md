@@ -7,9 +7,11 @@ modified: 2024-12-30
 tags:
   - NPR
   - podcasts/throughline
+url: https://www.npr.org/2019/09/18/761921368/puerto-rico
 type: "[[201.02 Throughline Reading List]]"
 ---
 # Puerto Rico TBR
+Puerto Rico became a U.S. territory in 1898 and for much of the next fifty years Puerto Ricans fought fiercely about this status. Should they struggle for independence, or to be a U.S. state, or something in between? In this episode, we look at Puerto Rico's relationship with the mainland U.S. and the key figures who shaped the island's fate.
 **If you would like to learn more about the topic:**
 
 - [ ] #NPR [We Are Left without a Father Here: Masculinity, Domesticity, and Migration in Postwar Puerto Rico](https://www.goodreads.com/en/book/show/21413621) by Eileen Findlay

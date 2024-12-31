@@ -1,12 +1,15 @@
 ---
 title: Insurance companies
+aliases:
+  - "2024123019468"
+  - Insurance companies
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Insurance companies
+id: 2850
 french:
-  - "[[Compagnie dassurances]]"
+  - Compagnie d'assurances
 narrowerTerm:
   - "[[Mutual insurance companies]]"
 ---

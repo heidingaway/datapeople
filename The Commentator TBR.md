@@ -8,8 +8,11 @@ tags:
   - NPR
   - podcasts/throughline
 type: "[[201.02 Throughline Reading List]]"
+url: https://www.npr.org/2019/10/09/768651310/the-commentator
 ---
 # The Commentator TBR
+
+Today the foundations of philosophy are seen as a straight line from Western antiquity, built on thinkers such as Plato and Aristotle. But, between the 8th century and 14th century, the West was greatly overshadowed by the Islamic world and philosophy was in very different hands. This week, how one Medieval Islamic philosopher put his pen to paper and shaped the modern world.
 
 **If you would like to read more about the topic:**
 

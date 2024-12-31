@@ -1,15 +1,20 @@
 ---
-title: The Border
+title: The Border TBR
 aliases:
   - "20241229234932"
 created: 2024-12-29
-modified: 2024-12-29
+modified: 2024-12-30
 tags:
+  - NPR
   - podcasts/throughline
   - TBR
+url: https://www.npr.org/2019/03/19/704762322/the-border
 type: "[[201.02 Throughline Reading List]]"
 ---
 # The Border
+
+In February, President Trump declared a national emergency at the US-Mexico border. Last year, he ordered thousands of National Guard troops to the border. Is this the first time an American president has responded with this level of force? In this week's episode, the history of militarization at the U.S.-Mexico border.
+
 **If you would like to read more on the topic, here's a list:**
 
 - [ ] #NPR[The Line Becomes a River](https://www.goodreads.com/book/show/34818440-the-line-becomes-a-river) by Francisco Cantú 

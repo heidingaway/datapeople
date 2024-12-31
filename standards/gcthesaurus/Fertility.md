@@ -1,10 +1,21 @@
 ---
 title: Fertility
+aliases:
+  - "20241230191137"
+  - Fertility
+  - Infertility
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
 french:
-  - "[[Fecondite]]"
+  - Fécondité
 scopeNote:
-  - The ability of animals to conceive or induce conce
-aliases: Fertility
+  - The ability of animals to conceive or induce conception and produce offspring.
+relatedTerm:
+  - "[[Animal reproduction]]"
+  - "[[Birth rate]]"
+  - "[[Reproductive technology]]"
+  - "[[Semen]]"
 ---
+# Fertility

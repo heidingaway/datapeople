@@ -1,16 +1,24 @@
 ---
 title: Innovation
-created: 2024-12-18
-modified: 2024-12-23
+aliases:
+  - "2024123018215"
+  - Change
+  - Innovation
+created: 2024-11-18
+modified: 2024-12-30
 tags:
-  - gccommon
+  - project/dma
+id: 1410
 french:
-  - "[[Innovation]]"
+  - Innovation
 narrowerTerm:
   - "[[Technological innovation]]"
 relatedTerm:
-  - "[[Modernization]]"
   - "[[Inventions]]"
-aliases: Innovation
+  - "[[Modernization]]"
 ---
 # Innovation
+- undertake [[research and development]]
+- assess [[emerging technologies]]
+- address [[emerging needs]]
+- apply [[Artificial intelligence]]

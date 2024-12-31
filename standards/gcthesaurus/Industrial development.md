@@ -1,10 +1,20 @@
 ---
 title: Industrial development
+aliases:
+  - "20241230214958"
+  - Industrial development
+  - Industrial expansion
+  - Industrial growth
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
 french:
-  - "[[Developpement industriel]]"
+  - Développement industriel
 relatedTerm:
+  - "[[Business development]]"
+  - "[[Industrial policy]]"
   - "[[Industry assistance]]"
-aliases: Industrial development
+  - "[[Industry]]"
 ---
+# Industrial development

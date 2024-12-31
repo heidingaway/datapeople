@@ -18,7 +18,6 @@ relatedTerm:
   - "[[Coal]]"
   - "[[Drilling]]"
   - "[[Metals]]"
-  - "[[Minerals]]"
   - "[[Mining accidents]]"
   - "[[Mining technology]]"
   - "[[Prospecting]]"

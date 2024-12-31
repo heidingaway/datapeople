@@ -1,12 +1,18 @@
 ---
 title: Permafrost
+aliases:
+  - "20241230192952"
+  - Perennially frozen ground
+  - Permafrost
+created: 2024-12-18
+modified: 2024-12-30
+source: "[[406.01.257 Environment and Climate Change Canada|Environment and Climate Change Canada]]"
 tags:
   - gccommon
-broaderTerm:
-  - "[[Soil]]"
+id: 4202
 french:
-  - "[[Pergelisol]]"
+  - Pergélisol
 scopeNote:
   - Layer of soil permanently frozen
-aliases: Permafrost
 ---
+# Permafrost

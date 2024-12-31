@@ -1,14 +1,15 @@
 ---
 title: Departments
+aliases:
+  - "20241230170637"
+  - Departments
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Departments
-broaderTerm:
-  - "[[Public administration]]"
+id: 4865
 french:
-  - "[[Ministere]]"
+  - Ministère
 narrowerTerm:
   - "[[Branches]]"
   - "[[Divisions]]"

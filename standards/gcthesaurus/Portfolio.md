@@ -1,18 +1,18 @@
 ---
 title: Portfolio
+aliases:
+  - "20241230170954"
+  - Portfolio
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Portfolio
+id: 4905
 french:
-  - "[[Portefeuille]]"
+  - Portefeuille
 relatedTerm:
-  - "[[Public administration]]"
-  - "[[Ministers]]"
   - "[[Finance]]"
-  - "[[Federal institutions]]"
-  - "[[Federal government]]"
-  - "[[Federal departments]]"
+  - "[[Ministers]]"
+  - "[[Public administration]]"
 ---
 # Portfolio

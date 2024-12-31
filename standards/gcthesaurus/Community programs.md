@@ -1,15 +1,17 @@
 ---
 title: Community programs
+aliases:
+  - "20241230161358"
+  - Community programs
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Community programs
+id: 1677
 french:
-  - "[[Programme communautaire]]"
+  - Programme communautaire
 relatedTerm:
-  - "[[Community services]]"
   - "[[Community partnerships]]"
-  - "[[Community development]]"
+  - "[[Community services]]"
 ---
 # Community programs

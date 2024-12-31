@@ -11,7 +11,6 @@ id: 2173
 french:
   - Conditions sociales
 relatedTerm:
-  - "[[Disadvantaged persons]]"
   - "[[Social indicators]]"
   - "[[Social life]]"
   - "[[Social security]]"

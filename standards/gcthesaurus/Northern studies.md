@@ -1,14 +1,14 @@
 ---
 title: Northern studies
+aliases:
+  - "20241230192456"
+  - Northern studies
 created: 2024-12-13
-modified: 2024-12-17
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Northern studies
+id: 4061
 french:
-  - "[[Etudes nordiques]]"
-relatedTerm:
-  - "[[Polar regions]]"
-  - "[[Northern development]]"
+  - Études nordiques
 ---
 # Northern studies

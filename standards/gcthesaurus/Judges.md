@@ -1,16 +1,16 @@
 ---
 title: Judges
+aliases:
+  - "20241230165820"
+  - Judges
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Judges
+id: 3627
 french:
-  - "[[Juge]]"
+  - Juge
 scopeNote:
-  - Public officials authorized to decide questions br
-relatedTerm:
-  - "[[Justice system]]"
-  - "[[Judicial appointments]]"
+  - Public officials authorized to decide questions brought before a court.
 ---
 # Judges

@@ -1,13 +1,15 @@
 ---
 title: Coal
+aliases:
+  - "20241230160820"
+  - Bituminous coal
+  - Coal
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Minerals]]"
+id: 1094
 french:
-  - "[[Charbon]]"
-aliases: Coal
+  - Charbon
 ---
 # Coal

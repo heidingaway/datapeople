@@ -15,7 +15,6 @@ narrowerTerm:
   - "[[Animals]]"
   - "[[Fungi]]"
   - "[[Genetically modified organisms]]"
-  - "[[Microorganisms]]"
   - "[[Pests]]"
   - "[[Plants]]"
 ---

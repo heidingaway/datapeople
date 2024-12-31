@@ -7,9 +7,13 @@ modified: 2024-12-30
 tags:
   - NPR
   - podcasts/throughline
+url: https://www.npr.org/2019/12/04/784893896/americas-opioid-epidemic
 type: "[[201.02 Throughline Reading List]]"
+subject:
+  - "[[Opioid Crisis]]"
 ---
 # America's Opioid Epidemic TBR
+A record number of Americans have died from opioid overdoses in recent years. But how did we get here? And is this the first time Americans have faced this crisis? The short answer: no. Three stories of opioids that have plagued Americans for more than 150 years.
 **If you would like to read more on the topic, here's a list:**
 
 - [ ] #NPR [Dopesick: Dealers, Doctors, and the Drug Company that Addicted America](https://www.goodreads.com/book/show/37486540-dopesick) by Beth Macy

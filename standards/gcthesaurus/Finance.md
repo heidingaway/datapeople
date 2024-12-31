@@ -4,7 +4,7 @@ aliases:
   - "20241229131534"
   - Finance
 created: 2024-12-18
-modified: 2024-12-29
+modified: 2024-12-30
 tags:
   - gccommon
 id: 1180
@@ -24,7 +24,6 @@ relatedTerm:
   - "[[Financial management]]"
   - "[[Financial services]]"
   - "[[Financial statements]]"
-  - "[[Portfolio]]"
   - "[[Supplementary estimates]]"
 ---
 # Finance

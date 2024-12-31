@@ -10,7 +10,6 @@ id: 619
 french:
   - Appel
 relatedTerm:
-  - "[[Court decisions]]"
   - "[[Recourse]]"
 ---
 # Appeals
