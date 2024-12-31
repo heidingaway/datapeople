@@ -1,18 +1,20 @@
 ---
 title: Geriatrics
+aliases:
+  - "20241230225519"
+  - Geriatric medicine
+  - Geriatrics
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Gerontology]]"
+id: 243
 french:
-  - "[[Geriatrie]]"
+  - Gériatrie
 scopeNote:
-  - The branch of medicine concerned with the diagnosi
-aliases: Geriatrics
+  - The branch of medicine concerned with the diagnosis, prevention, and treatment of physical and mental disorders and diseases of the elderly.
 relatedTerm:
-  - "[[Seniors]]"
   - "[[Aging]]"
+  - "[[Seniors]]"
 ---
 # Geriatrics

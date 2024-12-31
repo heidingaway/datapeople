@@ -1,10 +1,14 @@
 ---
 title: Food irradiation
-aliases: Food irradiation
+aliases:
+  - "20241230224443"
+  - Food irradiation
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Irradiation]]"
+id: 2942
 french:
-  - "[[Irradiation des aliments]]"
+  - Irradiation des aliments
 ---
+# Food irradiation

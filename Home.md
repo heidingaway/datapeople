@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] No is easier to do. Yes is easier to say.
-> — Jason Fried  
+> [!quote] Every problem has a gift for you in its hands.
+> — Richard Bach  
   
 ------  
 ```widgets  

@@ -1,15 +1,19 @@
 ---
 title: Animal husbandry
+aliases:
+  - "20241230224232"
+  - Animal culture
+  - Animal husbandry
+  - Livestock farming
+  - Zootechnics
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-30
 tags:
   - gccommon
-french: Elvage
+french: Élevage
 narrowerTerm:
   - "[[Beekeeping]]"
   - "[[Fish farming]]"
-aliases:
-  - Animal husbandry
 relatedTerm:
   - "[[Agriculture]]"
   - "[[Animal reproduction]]"

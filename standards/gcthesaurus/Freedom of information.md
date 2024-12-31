@@ -1,10 +1,14 @@
 ---
 title: Freedom of information
-aliases: Freedom of information
+aliases:
+  - "20241230225340"
+  - Freedom of information
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Open government]]"
+id: 68
 french:
-  - "[[Liberte dinformation]]"
+  - Liberté d'information
 ---
+# Freedom of information

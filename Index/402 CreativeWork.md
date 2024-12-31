@@ -3,7 +3,7 @@ title: 402 CreativeWork
 aliases:
   - creativeWorks
 created: 2024-10-26
-modified: 2024-12-25
+modified: 2024-12-31
 tags:
   - thing/creativeWorks
 type: "[[400 Thing]]"
@@ -15,7 +15,9 @@ class:
   - "[[402.05 Review]]"
   - "[[402.06 Certification]]"
   - "[[402.07 Legislation]]"
-  - "[[402 Painting]]"
+  - "[[402.08 Painting]]"
+  - "[[Visual arts]]"
+  - "[[Sculpture]]"
 ---
 # 402 CreativeWork
 ## Class
@@ -63,14 +65,12 @@ class:
 - class [[MusicComposition]]
 - class [[MusicPlaylist]]
 - class [[MusicRecording]]
-
 - class [[Photograph]]
 - class [[Play]]
 - class [[Poster]]
 - class [[PublicationIssue]]
 - class [[PublicationVolume]]
 - class [[Quotation]]
-- class [[Sculpture]]
 - class [[Season]]
 - class [[SheetMusic]]
 - class [[ShortStory]]
@@ -81,7 +81,6 @@ class:
 - class [[TVSeason]]
 - class [[TVSeries]]
 - class [[Thesis]]
-- class [[VisualArtwork]]
 - class [[WebContent]]
 - class [[WebPage]]
 - class [[WebPageElement]]

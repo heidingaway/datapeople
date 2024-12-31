@@ -1,10 +1,13 @@
 ---
-title: AA Arts Music Literature
+title: 501 AA Arts Music Literature
+aliases:
+  - "2024123100421"
 created: 2024-12-17
-modified: 2024-12-17
-type: "[[501 Government of Canada Core Subject Thesaurus]]"
+modified: 2024-12-31
 tags:
   - gccommon
+same: "[[402 CreativeWork]]"
+context: "[[501 Government of Canada Core Subject Thesaurus]]"
 class:
   - "[[Architectural heritage]]"
   - "[[Architectural services]]"
@@ -62,7 +65,7 @@ class:
   - "[[Oil painting]]"
   - "[[Orchestras]]"
   - "[[Ornaments]]"
-  - "[[402 Painting]]"
+  - "[[Painting]]"
   - "[[Performing arts]]"
   - "[[Philosophy]]"
   - "[[Photographic images]]"

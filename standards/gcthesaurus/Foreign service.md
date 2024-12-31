@@ -3,6 +3,7 @@ title: Foreign service
 aliases:
   - "20241230172049"
   - Ambassadors
+  - Consular services
   - Consuls
   - Diplomacy
   - Diplomats

@@ -1,16 +1,20 @@
 ---
 title: Global positioning systems
+aliases:
+  - "20241230230830"
+  - Global positioning systems
+  - GPS
+  - GPS satellite systems
+  - GPS systems
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Global navigation satellite systems]]"
+id: 3117
 french:
-  - "[[Systeme de positionnement global]]"
-aliases: Global positioning systems
+  - Système de positionnement global
 relatedTerm:
-  - "[[Satellites]]"
   - "[[Geography]]"
+  - "[[Satellites]]"
 ---
 # Global positioning systems

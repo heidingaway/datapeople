@@ -1,10 +1,14 @@
 ---
 title: Fuel supply
-aliases: Fuel supply
+aliases:
+  - "2024123022548"
+  - Fuel supply
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Energy supply]]"
+id: 2618
 french:
-  - "[[Disponibilites en combustible]]"
+  - Disponibilités en combustible
 ---
+# Fuel supply

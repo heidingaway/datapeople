@@ -1,10 +1,12 @@
 ---
 title: 501 ET Education and Training
+aliases:
+  - "20241231004626"
 created: 2024-12-24
-modified: 2024-12-24
+modified: 2024-12-31
 tags:
   - gccommon
-type: "[[501 Government of Canada Core Subject Thesaurus]]"
+context: "[[501 Government of Canada Core Subject Thesaurus]]"
 class:
   - "[[Access to education]]"
   - "[[Adult education]]"

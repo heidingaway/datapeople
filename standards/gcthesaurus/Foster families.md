@@ -1,15 +1,20 @@
 ---
 title: Foster families
+aliases:
+  - "20241230225132"
+  - Family care home
+  - Foster families
+  - Foster home
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
+id: 4859
 french:
-  - "[[Famille daccueil]]"
+  - Famille d'accueil
 narrowerTerm:
   - "[[Foster children]]"
 relatedTerm:
   - "[[Foster care placement]]"
-aliases: Foster families
 ---
 # Foster families

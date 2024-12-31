@@ -1,6 +1,7 @@
 ---
 title: Aquaculture
 aliases:
+  - "2024123022420"
   - Aquatic agriculture
   - Aquiculture
 created: 2024-12-18

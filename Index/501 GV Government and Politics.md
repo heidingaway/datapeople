@@ -3,10 +3,10 @@ title: 501 GV Government and Politics
 aliases:
   - "20241228155412"
 created: 2024-12-22
-modified: 2024-12-29
+modified: 2024-12-31
 tags:
   - gccommon
-type: "[[501 Government of Canada Core Subject Thesaurus]]"
+context: "[[501 Government of Canada Core Subject Thesaurus]]"
 class:
   - "[[402.07 Legislation|Legislation]]"
   - "[[Accounting standards]]"

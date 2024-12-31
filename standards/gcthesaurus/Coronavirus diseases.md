@@ -22,7 +22,19 @@ tags:
   - gccommon
 id: 4981
 french:
-  - Maladie à coronavirus
+  - Coronavirus du Covid-19
+  - Covid-19, Virus du
+  - Infections à coronavirus
+  - Maladie à coronavirus (Covid-19)
+  - Maladie à coronavirus 2019
+  - Maladie de la COVID-19
+  - Maladie du Sars-Cov-2
+  - MERS-CoV (virus)
+  - Nouveau coronavirus 2019
+  - Nouvelle maladie à coronavirus, 2019
+  - SARS-CoV-2 (virus)
+  - Syndrome respiratoire aigu sévère
+  - Syndrome respiratoire du Moyen-Orient
 relatedTerm:
   - "[[Coronaviruses]]"
 scopeNote:

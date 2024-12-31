@@ -1,13 +1,14 @@
 ---
 title: Foster children
+aliases:
+  - "20241230225212"
+  - Foster children
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Foster children
-broaderTerm:
-  - "[[Foster families]]"
+id: 4863 
 french:
-  - "[[Enfant en famille daccueil]]"
+  - Enfant en famille d'accueil
 ---
 # Foster children

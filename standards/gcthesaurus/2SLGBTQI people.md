@@ -12,6 +12,7 @@ created: 2024-12-18
 modified: 2024-12-30
 tags:
   - gccommon
+id: 4956
 narrowerTerm:
   - "[[Asexual people]]"
   - "[[Bisexual people]]"
@@ -26,5 +27,13 @@ scopeNote:
   - Two-Spirit, Lesbian, Gay, Bisexual, Transgender, Queer, Intersex people; as well as people who identify as part of sexual and gender diverse communities, who use additional terminologies. (Cf. Canada.ca > Women and Gender Equality Canada)
 french:
   - Personne 2ELGBTQI
+  - Personne LGBT
+  - Personne LGBTI
+  - Personne LGBTQ
+  - Personne LGBTQ+
+  - Personne LGBTQ2
+  - Personne LGBTQ2+
+  - Personne LGBTQ2S+
+  - Personne LGBTTIQQ2SAA
 ---
 # 2SLGBTQI people

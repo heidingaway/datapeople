@@ -1,20 +1,11 @@
 ---
 title: 501 Government of Canada Core Subject Thesaurus
+aliases:
+  - "20241231004457"
 created: 2024-12-05
-modified: 2024-12-24
+modified: 2024-12-31
 tags:
   - gccommon
   - standards
 ---
 # 501 Government of Canada Core Subject Thesaurus
-- [[501 AA Arts Music Literature]]
-- [[501 EC Economics and Industry]]
-- [[501 FM Form descriptors]]
-- [[501 HE Health and Safety]]
-- [[501 LB Labour]]
-- [[501 NE Nature and Environment]]
-- [[501 PE Persons]]
-- [[501 PR Processes]]
-- [[501 SO Society and Culture]]
-- [[501 ST Science and Technology]]
-- [[501 TR Transport]]

@@ -1,12 +1,15 @@
 ---
 title: Foster care placement
+aliases:
+  - "20241230225235"
+  - Foster care placement
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Foster care placement
+id: 4862
 french:
-  - "[[Placement en famille daccueil]]"
+  - Placement en famille d'accueil
 relatedTerm:
   - "[[Foster families]]"
 ---

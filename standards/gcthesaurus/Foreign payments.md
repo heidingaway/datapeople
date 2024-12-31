@@ -1,16 +1,17 @@
 ---
 title: Foreign payments
+aliases:
+  - "20241230224936"
+  - Foreign payments
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Foreign payments
-broaderTerm:
-  - "[[Monetary policy]]"
+id: 4807
 french:
-  - "[[Paiement etranger]]"
+  - Paiement étranger
 relatedTerm:
-  - "[[Exchange rates]]"
   - "[[Currency]]"
+  - "[[Exchange rates]]"
 ---
 # Foreign payments

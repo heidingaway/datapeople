@@ -1,16 +1,20 @@
 ---
 title: Gerontology
+aliases:
+  - "20241230225451"
+  - Gerontology
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Gerontology
+id: 244
+narrowerTerm: "[[Geriatrics]]"
 french:
-  - "[[Gerontologie]]"
+  - Gérontologie
 scopeNote:
-  - The multidisciplinary study of aging as a biologic
+  - The multidisciplinary study of aging as a biological, sociological, and psychological process.
 relatedTerm:
-  - "[[Seniors]]"
   - "[[Aging]]"
+  - "[[Seniors]]"
 ---
 # Gerontology

@@ -1,11 +1,12 @@
 ---
 title: 501 FM Form descriptors
-aliases: []
+aliases:
+  - "20241231004710"
 created: 2024-12-17
-modified: 2024-12-29
+modified: 2024-12-31
 tags:
   - gccommon
-type: "[[501 Government of Canada Core Subject Thesaurus]]"
+context: "[[501 Government of Canada Core Subject Thesaurus]]"
 class:
   - "[[Administrative data]]"
   - "[[Aeronautical maps]]"

@@ -9,8 +9,8 @@
     "Home.md": {
       "fileId": "1735507327332",
       "filePath": "Home.md",
-      "duration": 498000,
-      "openCount": 84
+      "duration": 516000,
+      "openCount": 94
     },
     "standards/gcthesaurus/Personal information.md": {
       "fileId": "1735507513226",
@@ -639,8 +639,8 @@
     "Index/501 FM Form descriptors.md": {
       "fileId": "1735517383161",
       "filePath": "Index/501 FM Form descriptors.md",
-      "duration": 744000,
-      "openCount": 124
+      "duration": 756000,
+      "openCount": 126
     },
     "standards/gcthesaurus/Administrative data.md": {
       "fileId": "1735517411508",
@@ -975,8 +975,8 @@
     "standards/gcthesaurus/Birth rate.md": {
       "fileId": "1735520815161",
       "filePath": "standards/gcthesaurus/Birth rate.md",
-      "duration": 6000,
-      "openCount": 2
+      "duration": 12000,
+      "openCount": 3
     },
     "standards/gcthesaurus/Death rate.md": {
       "fileId": "1735520827161",
@@ -1618,7 +1618,7 @@
       "fileId": "1735525717161",
       "filePath": "standards/gcthesaurus/Trade agreements.md",
       "duration": 6000,
-      "openCount": 3
+      "openCount": 4
     },
     "standards/gcthesaurus/Community justice.md": {
       "fileId": "1735525771161",
@@ -3453,8 +3453,8 @@
     "standards/gcthesaurus/Imprisonment.md": {
       "fileId": "1735589422109",
       "filePath": "standards/gcthesaurus/Imprisonment.md",
-      "duration": 60000,
-      "openCount": 7
+      "duration": 102000,
+      "openCount": 10
     },
     "standards/gcthesaurus/National security Military technology Armed forces.md": {
       "fileId": "1735589491669",
@@ -3645,8 +3645,8 @@
     "Index/501 NE Nature and Environment.md": {
       "fileId": "1735590820109",
       "filePath": "Index/501 NE Nature and Environment.md",
-      "duration": 624000,
-      "openCount": 15
+      "duration": 630000,
+      "openCount": 16
     },
     "standards/gcthesaurus/Afforestation.md": {
       "fileId": "1735590836587",
@@ -3813,8 +3813,8 @@
     "standards/gcthesaurus/Medicine.md": {
       "fileId": "1735592550265",
       "filePath": "standards/gcthesaurus/Medicine.md",
-      "duration": 12000,
-      "openCount": 4
+      "duration": 24000,
+      "openCount": 5
     },
     "standards/gcthesaurus/Child poverty.md": {
       "fileId": "1735592569121",
@@ -4023,8 +4023,8 @@
     "standards/gcthesaurus/Coronavirus diseases.md": {
       "fileId": "1735595071122",
       "filePath": "standards/gcthesaurus/Coronavirus diseases.md",
-      "duration": 96000,
-      "openCount": 4
+      "duration": 192000,
+      "openCount": 6
     },
     "standards/gcthesaurus/Respiratory diseases.md": {
       "fileId": "1735595122962",
@@ -4324,13 +4324,13 @@
       "fileId": "1735597210903",
       "filePath": "standards/gcthesaurus/Diplomatic missions.md",
       "duration": 30000,
-      "openCount": 2
+      "openCount": 3
     },
     "standards/gcthesaurus/Foreign service.md": {
       "fileId": "1735597213121",
       "filePath": "standards/gcthesaurus/Foreign service.md",
-      "duration": 30000,
-      "openCount": 3
+      "duration": 96000,
+      "openCount": 8
     },
     "standards/gcthesaurus/External relations.md": {
       "fileId": "1735597339127",
@@ -4425,8 +4425,8 @@
     "standards/gcthesaurus/Energy supply.md": {
       "fileId": "1735597897121",
       "filePath": "standards/gcthesaurus/Energy supply.md",
-      "duration": 72000,
-      "openCount": 4
+      "duration": 84000,
+      "openCount": 6
     },
     "standards/gcthesaurus/Supply.md": {
       "fileId": "1735597967820",
@@ -4636,7 +4636,7 @@
       "fileId": "1735599217166",
       "filePath": "standards/gcthesaurus/Global navigation satellite systems.md",
       "duration": 42000,
-      "openCount": 5
+      "openCount": 6
     },
     "standards/gcthesaurus/Navigation systems.md": {
       "fileId": "1735599247121",
@@ -4811,12 +4811,6 @@
       "filePath": "standards/gcthesaurus/Sculpture Photography Painting Graphic arts Decora.md",
       "duration": 12000,
       "openCount": 4
-    },
-    "standards/gcthesaurus/Visual arts.md": {
-      "fileId": "1735599809025",
-      "filePath": "standards/gcthesaurus/Visual arts.md",
-      "duration": 6000,
-      "openCount": 7
     },
     "standards/gcthesaurus/Satellite images Satellite imagery Digital elevati.md": {
       "fileId": "1735599823204",
@@ -6603,8 +6597,8 @@
     "standards/gcthesaurus/2SLGBTQI people.md": {
       "fileId": "1735616111029",
       "filePath": "standards/gcthesaurus/2SLGBTQI people.md",
-      "duration": 30000,
-      "openCount": 2
+      "duration": 96000,
+      "openCount": 4
     },
     "standards/gcthesaurus/Ethnology.md": {
       "fileId": "1735616177029",
@@ -6639,32 +6633,608 @@
     "standards/gcthesaurus/Fish farming.md": {
       "fileId": "1735616351029",
       "filePath": "standards/gcthesaurus/Fish farming.md",
-      "duration": 18000,
-      "openCount": 5
+      "duration": 66000,
+      "openCount": 8
     },
     "standards/gcthesaurus/Aquaculture.md": {
       "fileId": "1735616360050",
       "filePath": "standards/gcthesaurus/Aquaculture.md",
-      "duration": 12000,
-      "openCount": 2
+      "duration": 24000,
+      "openCount": 3
     },
     "standards/gcthesaurus/Animal husbandry.md": {
       "fileId": "1735616375055",
       "filePath": "standards/gcthesaurus/Animal husbandry.md",
-      "duration": 6000,
-      "openCount": 3
+      "duration": 42000,
+      "openCount": 5
     },
     "standards/gcthesaurus/Molluscs Fisheries Fish Crustaceans.md": {
       "fileId": "1735616387029",
       "filePath": "standards/gcthesaurus/Molluscs Fisheries Fish Crustaceans.md",
       "duration": 12000,
-      "openCount": 3
+      "openCount": 5
     },
     "standards/gcthesaurus/Fisheries resources.md": {
       "fileId": "1735616390303",
       "filePath": "standards/gcthesaurus/Fisheries resources.md",
+      "duration": 48000,
+      "openCount": 5
+    },
+    "standards/gcthesaurus/Food inspection Animal inspection.md": {
+      "fileId": "1735616650845",
+      "filePath": "standards/gcthesaurus/Food inspection Animal inspection.md",
       "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Inspection.md": {
+      "fileId": "1735616652683",
+      "filePath": "standards/gcthesaurus/Inspection.md",
+      "duration": 0,
       "openCount": 1
+    },
+    "standards/gcthesaurus/Food irradiation.md": {
+      "fileId": "1735616658792",
+      "filePath": "standards/gcthesaurus/Food irradiation.md",
+      "duration": 30000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Irradiation.md": {
+      "fileId": "1735616664215",
+      "filePath": "standards/gcthesaurus/Irradiation.md",
+      "duration": 18000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Foreign aid.md": {
+      "fileId": "1735616724792",
+      "filePath": "standards/gcthesaurus/Foreign aid.md",
+      "duration": 30000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/International cooperation.md": {
+      "fileId": "1735616760796",
+      "filePath": "standards/gcthesaurus/International cooperation.md",
+      "duration": 96000,
+      "openCount": 5
+    },
+    "standards/gcthesaurus/North-South relations International organizations .md": {
+      "fileId": "1735616814792",
+      "filePath": "standards/gcthesaurus/North-South relations International organizations .md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Foreign interference.md": {
+      "fileId": "1735616880792",
+      "filePath": "standards/gcthesaurus/Foreign interference.md",
+      "duration": 42000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Foreign payments.md": {
+      "fileId": "1735616961158",
+      "filePath": "standards/gcthesaurus/Foreign payments.md",
+      "duration": 36000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Forest fires.md": {
+      "fileId": "1735617006792",
+      "filePath": "standards/gcthesaurus/Forest fires.md",
+      "duration": 36000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Foster children.md": {
+      "fileId": "1735617054792",
+      "filePath": "standards/gcthesaurus/Foster children.md",
+      "duration": 48000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Foster families.md": {
+      "fileId": "1735617090792",
+      "filePath": "standards/gcthesaurus/Foster families.md",
+      "duration": 12000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Foster care placement.md": {
+      "fileId": "1735617150792",
+      "filePath": "standards/gcthesaurus/Foster care placement.md",
+      "duration": 18000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Free trade agreements.md": {
+      "fileId": "1735617180792",
+      "filePath": "standards/gcthesaurus/Free trade agreements.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Freedom of information.md": {
+      "fileId": "1735617204792",
+      "filePath": "standards/gcthesaurus/Freedom of information.md",
+      "duration": 18000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Fuel supply.md": {
+      "fileId": "1735617228812",
+      "filePath": "standards/gcthesaurus/Fuel supply.md",
+      "duration": 18000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Geochemistry Biochemistry.md": {
+      "fileId": "1735617267266",
+      "filePath": "standards/gcthesaurus/Geochemistry Biochemistry.md",
+      "duration": 0,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Chemistry.md": {
+      "fileId": "1735617269201",
+      "filePath": "standards/gcthesaurus/Chemistry.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "standards/gcthesaurus/Geriatrics.md": {
+      "fileId": "1735617273499",
+      "filePath": "standards/gcthesaurus/Geriatrics.md",
+      "duration": 48000,
+      "openCount": 6
+    },
+    "standards/gcthesaurus/Gerontology.md": {
+      "fileId": "1735617276766",
+      "filePath": "standards/gcthesaurus/Gerontology.md",
+      "duration": 78000,
+      "openCount": 11
+    },
+    "standards/gcthesaurus/Medicine Gerontology.md": {
+      "fileId": "1735617336792",
+      "filePath": "standards/gcthesaurus/Medicine Gerontology.md",
+      "duration": 12000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Status of the elderly Retirement Old age Gerontolo.md": {
+      "fileId": "1735617404880",
+      "filePath": "standards/gcthesaurus/Status of the elderly Retirement Old age Gerontolo.md",
+      "duration": 6000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Seniors.md": {
+      "fileId": "1735617406780",
+      "filePath": "standards/gcthesaurus/Seniors.md",
+      "duration": 78000,
+      "openCount": 7
+    },
+    "standards/gcthesaurus/Seniors Pensions Aging.md": {
+      "fileId": "1735617501464",
+      "filePath": "standards/gcthesaurus/Seniors Pensions Aging.md",
+      "duration": 0,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Retirement.md": {
+      "fileId": "1735617503252",
+      "filePath": "standards/gcthesaurus/Retirement.md",
+      "duration": 30000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Prices Economic indicators.md": {
+      "fileId": "1735617558847",
+      "filePath": "standards/gcthesaurus/Prices Economic indicators.md",
+      "duration": 6000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Price indexes.md": {
+      "fileId": "1735617558955",
+      "filePath": "standards/gcthesaurus/Price indexes.md",
+      "duration": 36000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Representatives Foreign service Diplomatic mission.md": {
+      "fileId": "1735617636792",
+      "filePath": "standards/gcthesaurus/Representatives Foreign service Diplomatic mission.md",
+      "duration": 18000,
+      "openCount": 5
+    },
+    "standards/gcthesaurus/Delegations.md": {
+      "fileId": "1735617639565",
+      "filePath": "standards/gcthesaurus/Delegations.md",
+      "duration": 30000,
+      "openCount": 6
+    },
+    "standards/gcthesaurus/Natural heritage National heritage.md": {
+      "fileId": "1735617696626",
+      "filePath": "standards/gcthesaurus/Natural heritage National heritage.md",
+      "duration": 0,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/National parks.md": {
+      "fileId": "1735617696819",
+      "filePath": "standards/gcthesaurus/National parks.md",
+      "duration": 90000,
+      "openCount": 8
+    },
+    "standards/gcthesaurus/Parks.md": {
+      "fileId": "1735617771990",
+      "filePath": "standards/gcthesaurus/Parks.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "standards/gcthesaurus/Provinces Natural heritage.md": {
+      "fileId": "1735617786792",
+      "filePath": "standards/gcthesaurus/Provinces Natural heritage.md",
+      "duration": 6000,
+      "openCount": 5
+    },
+    "standards/gcthesaurus/Provincial parks.md": {
+      "fileId": "1735617791724",
+      "filePath": "standards/gcthesaurus/Provincial parks.md",
+      "duration": 42000,
+      "openCount": 8
+    },
+    "standards/gcthesaurus/Folklore Cultural heritage.md": {
+      "fileId": "1735617864796",
+      "filePath": "standards/gcthesaurus/Folklore Cultural heritage.md",
+      "duration": 6000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Customs.md": {
+      "fileId": "1735617865880",
+      "filePath": "standards/gcthesaurus/Customs.md",
+      "duration": 30000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Protocol Foreign affairs.md": {
+      "fileId": "1735617946572",
+      "filePath": "standards/gcthesaurus/Protocol Foreign affairs.md",
+      "duration": 6000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Visits of state.md": {
+      "fileId": "1735617948573",
+      "filePath": "standards/gcthesaurus/Visits of state.md",
+      "duration": 60000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Mission statements Mandate.md": {
+      "fileId": "1735618032792",
+      "filePath": "standards/gcthesaurus/Mission statements Mandate.md",
+      "duration": 18000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Objectives.md": {
+      "fileId": "1735618035561",
+      "filePath": "standards/gcthesaurus/Objectives.md",
+      "duration": 12000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Global positioning systems.md": {
+      "fileId": "1735618092792",
+      "filePath": "standards/gcthesaurus/Global positioning systems.md",
+      "duration": 48000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Foreign service Consular services.md": {
+      "fileId": "1735618164792",
+      "filePath": "standards/gcthesaurus/Foreign service Consular services.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Consular services.md": {
+      "fileId": "1735618194792",
+      "filePath": "standards/gcthesaurus/Consular services.md",
+      "duration": 60000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Global warming Climate.md": {
+      "fileId": "1735618350792",
+      "filePath": "standards/gcthesaurus/Global warming Climate.md",
+      "duration": 12000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Climate change.md": {
+      "fileId": "1735618353183",
+      "filePath": "standards/gcthesaurus/Climate change.md",
+      "duration": 36000,
+      "openCount": 5
+    },
+    "standards/gcthesaurus/Software Computers Analytics.md": {
+      "fileId": "1735618434792",
+      "filePath": "standards/gcthesaurus/Software Computers Analytics.md",
+      "duration": 12000,
+      "openCount": 6
+    },
+    "standards/gcthesaurus/Computer programming.md": {
+      "fileId": "1735618437710",
+      "filePath": "standards/gcthesaurus/Computer programming.md",
+      "duration": 78000,
+      "openCount": 12
+    },
+    "standards/gcthesaurus/Statistics Mathematics Data mining Computer scienc.md": {
+      "fileId": "1735618499137",
+      "filePath": "standards/gcthesaurus/Statistics Mathematics Data mining Computer scienc.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Analytics.md": {
+      "fileId": "1735618500069",
+      "filePath": "standards/gcthesaurus/Analytics.md",
+      "duration": 42000,
+      "openCount": 5
+    },
+    "standards/gcthesaurus/Prototyping Analysis.md": {
+      "fileId": "1735618552238",
+      "filePath": "standards/gcthesaurus/Prototyping Analysis.md",
+      "duration": 6000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Modelling.md": {
+      "fileId": "1735618553894",
+      "filePath": "standards/gcthesaurus/Modelling.md",
+      "duration": 42000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Medicine Anatomy.md": {
+      "fileId": "1735618610612",
+      "filePath": "standards/gcthesaurus/Medicine Anatomy.md",
+      "duration": 0,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Physiology.md": {
+      "fileId": "1735618612113",
+      "filePath": "standards/gcthesaurus/Physiology.md",
+      "duration": 24000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Folklore Crafts.md": {
+      "fileId": "1735618692848",
+      "filePath": "standards/gcthesaurus/Folklore Crafts.md",
+      "duration": 0,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Folk art.md": {
+      "fileId": "1735618692889",
+      "filePath": "standards/gcthesaurus/Folk art.md",
+      "duration": 48000,
+      "openCount": 6
+    },
+    "standards/gcthesaurus/Museum collections Art exhibitions.md": {
+      "fileId": "1735618751055",
+      "filePath": "standards/gcthesaurus/Museum collections Art exhibitions.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Virtual exhibitions.md": {
+      "fileId": "1735618752118",
+      "filePath": "standards/gcthesaurus/Virtual exhibitions.md",
+      "duration": 66000,
+      "openCount": 5
+    },
+    "standards/gcthesaurus/Virtual exhibitions Museums.md": {
+      "fileId": "1735618816624",
+      "filePath": "standards/gcthesaurus/Virtual exhibitions Museums.md",
+      "duration": 0,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Museum collections.md": {
+      "fileId": "1735618818792",
+      "filePath": "standards/gcthesaurus/Museum collections.md",
+      "duration": 36000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Collections.md": {
+      "fileId": "1735618860792",
+      "filePath": "standards/gcthesaurus/Collections.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/International trade Exports Dumping Customs and ex.md": {
+      "fileId": "1735618881703",
+      "filePath": "standards/gcthesaurus/International trade Exports Dumping Customs and ex.md",
+      "duration": 12000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Imports.md": {
+      "fileId": "1735618883158",
+      "filePath": "standards/gcthesaurus/Imports.md",
+      "duration": 48000,
+      "openCount": 5
+    },
+    "standards/gcthesaurus/International trade Imports Dumping Anti-dumping.md": {
+      "fileId": "1735618950792",
+      "filePath": "standards/gcthesaurus/International trade Imports Dumping Anti-dumping.md",
+      "duration": 6000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Exports.md": {
+      "fileId": "1735618953167",
+      "filePath": "standards/gcthesaurus/Exports.md",
+      "duration": 42000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Imprisonment Correctional institutions.md": {
+      "fileId": "1735619016792",
+      "filePath": "standards/gcthesaurus/Imprisonment Correctional institutions.md",
+      "duration": 18000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Correctional institutions.md": {
+      "fileId": "1735619034792",
+      "filePath": "standards/gcthesaurus/Correctional institutions.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Salt water Drinking water.md": {
+      "fileId": "1735619124381",
+      "filePath": "standards/gcthesaurus/Salt water Drinking water.md",
+      "duration": 6000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Fresh water.md": {
+      "fileId": "1735619124792",
+      "filePath": "standards/gcthesaurus/Fresh water.md",
+      "duration": 90000,
+      "openCount": 8
+    },
+    "standards/gcthesaurus/Safety Driver education.md": {
+      "fileId": "1735619194840",
+      "filePath": "standards/gcthesaurus/Safety Driver education.md",
+      "duration": 6000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Safety education.md": {
+      "fileId": "1735619195795",
+      "filePath": "standards/gcthesaurus/Safety education.md",
+      "duration": 36000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Coronavirus disease COVID-19.md": {
+      "fileId": "1735619274792",
+      "filePath": "standards/gcthesaurus/Coronavirus disease COVID-19.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Coronavirus disease 2019.md": {
+      "fileId": "1735619310792",
+      "filePath": "standards/gcthesaurus/Coronavirus disease 2019.md",
+      "duration": 6000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Coronavirus disease-19.md": {
+      "fileId": "1735619316792",
+      "filePath": "standards/gcthesaurus/Coronavirus disease-19.md",
+      "duration": 6000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Coronavirus infections.md": {
+      "fileId": "1735619334792",
+      "filePath": "standards/gcthesaurus/Coronavirus infections.md",
+      "duration": 12000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Infectious diseases.md": {
+      "fileId": "1735619556792",
+      "filePath": "standards/gcthesaurus/Infectious diseases.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Corporate image.md": {
+      "fileId": "1735619580792",
+      "filePath": "standards/gcthesaurus/Corporate image.md",
+      "duration": 24000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Corruption.md": {
+      "fileId": "1735619628792",
+      "filePath": "standards/gcthesaurus/Corruption.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Criminal code.md": {
+      "fileId": "1735619652792",
+      "filePath": "standards/gcthesaurus/Criminal code.md",
+      "duration": 18000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Court appearances.md": {
+      "fileId": "1735619688792",
+      "filePath": "standards/gcthesaurus/Court appearances.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Cultural development.md": {
+      "fileId": "1735619712799",
+      "filePath": "standards/gcthesaurus/Cultural development.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "Index/402 CreativeWork.md": {
+      "fileId": "1735619880792",
+      "filePath": "Index/402 CreativeWork.md",
+      "duration": 204000,
+      "openCount": 14
+    },
+    "standards/gcthesaurus/Art works.md": {
+      "fileId": "1735623049294",
+      "filePath": "standards/gcthesaurus/Art works.md",
+      "duration": 12000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Painting.md": {
+      "fileId": "1735623271372",
+      "filePath": "standards/gcthesaurus/Painting.md",
+      "duration": 66000,
+      "openCount": 8
+    },
+    "402.08 Painting.md": {
+      "fileId": "1735619856792",
+      "filePath": "402.08 Painting.md",
+      "duration": 1326000,
+      "openCount": 15
+    },
+    "Index/501 AA Arts Music Literature.md": {
+      "fileId": "1735623379294",
+      "filePath": "Index/501 AA Arts Music Literature.md",
+      "duration": 72000,
+      "openCount": 7
+    },
+    "standards/gcthesaurus/Visual arts.md": {
+      "fileId": "1735599809025",
+      "filePath": "standards/gcthesaurus/Visual arts.md",
+      "duration": 258000,
+      "openCount": 25
+    },
+    "Index/402.09 VisualArtwork.md": {
+      "fileId": "1735623405899",
+      "filePath": "Index/402.09 VisualArtwork.md",
+      "duration": 48000,
+      "openCount": 7
+    },
+    "standards/gcthesaurus/Sculpture.md": {
+      "fileId": "1735623061295",
+      "filePath": "standards/gcthesaurus/Sculpture.md",
+      "duration": 126000,
+      "openCount": 8
+    },
+    "Index/402.10 Sculpture.md": {
+      "fileId": "1735623649295",
+      "filePath": "Index/402.10 Sculpture.md",
+      "duration": 54000,
+      "openCount": 6
+    },
+    "Index/501 Government of Canada Core Subject Thesaurus.md": {
+      "fileId": "1735623763294",
+      "filePath": "Index/501 Government of Canada Core Subject Thesaurus.md",
+      "duration": 120000,
+      "openCount": 18
+    },
+    "Index/501 AG Agriculture.md": {
+      "fileId": "1735623781294",
+      "filePath": "Index/501 AG Agriculture.md",
+      "duration": 108000,
+      "openCount": 3
+    },
+    "Index/501 EC Economics and Industry.md": {
+      "fileId": "1735623925294",
+      "filePath": "Index/501 EC Economics and Industry.md",
+      "duration": 18000,
+      "openCount": 4
+    },
+    "Index/501 ET Education and Training.md": {
+      "fileId": "1735623947042",
+      "filePath": "Index/501 ET Education and Training.md",
+      "duration": 12000,
+      "openCount": 3
+    },
+    "Index/501 GV Government and Politics.md": {
+      "fileId": "1735623960694",
+      "filePath": "Index/501 GV Government and Politics.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Index/501 HE Health and Safety.md": {
+      "fileId": "1735623966753",
+      "filePath": "Index/501 HE Health and Safety.md",
+      "duration": 174000,
+      "openCount": 1
+    },
+    "Index/501 HI History and Archaeology.md": {
+      "fileId": "1735623973294",
+      "filePath": "Index/501 HI History and Archaeology.md",
+      "duration": 6000,
+      "openCount": 2
     }
   }
 }

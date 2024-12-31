@@ -505,6 +505,8 @@ turmoil
 top
 tsar
 tempting
+tranger
+terminologies
 ProductGroup
 Product
 Properties
@@ -1174,6 +1176,8 @@ Pete
 Plante
 Peac
 Pari
+Programmation
+Peinture
 created
 class
 cells
@@ -1898,6 +1902,7 @@ catastrophic
 cheries
 contamin
 communes
+consulaires
 modified
 meta
 make
@@ -2482,6 +2487,12 @@ months
 malfunction
 manufacturer
 mutuel
+multidisciplinary
+mission
+mean
+museum
+maladie
+marque
 product
 project
 path
@@ -3182,6 +3193,10 @@ parlementaire
 peu
 puisqu
 parlementaires
+problem
+perspective
+positionnement
+populaire
 Class
 Commo
 Commons
@@ -3941,6 +3956,14 @@ Catharine
 Carol
 Chambre
 Casinos
+Coop
+Coutume
+Crafts
+Collection
+Covid
+Cov
+Corruption
+Carving
 emerging
 eventually
 exotic
@@ -5093,6 +5116,13 @@ dollars
 develo
 didactique
 douce
+dono
+donor
+diagnosi
+diagnosis
+decade
+display
+diverse
 If
 Invasive
 International
@@ -5627,6 +5657,9 @@ Incarceration
 Immerwahr
 Ibn
 Izady
+Ing
+Importation
+Infections
 you
 years
 year
@@ -6593,6 +6626,10 @@ rushed
 river
 reap
 ralement
+rence
+riatrie
+rontologie
+respiratoire
 walking
 willing
 within
@@ -7690,6 +7727,9 @@ awful
 autonome
 affaires
 acception
+accueil
+aging
+aigu
 keep
 knowledge
 kits
@@ -8525,6 +8565,7 @@ lowly
 legacy
 lenfant
 large
+longer
 Barack
 Beverages
 Blind
@@ -9489,6 +9530,9 @@ Ortiz
 Olga
 Oliver
 Opioid
+Objectives
+Objectif
+Orient
 Quick
 Quality
 Quarterly
@@ -12794,6 +12838,11 @@ struggles
 sauvetage
 seeds
 signer
+sociological
+sovere
+sovereign
+scienc
+statues
 internal
 indi
 industry
@@ -13314,6 +13363,7 @@ imp
 industriel
 intelligent
 investme
+indicator
 Transplantation
 Transfer
 Tropospheric
@@ -14448,6 +14498,8 @@ Mizelle
 Meltdown
 Mike
 Medecine
+Mandate
+Moyen
 gccommon
 geology
 groups
@@ -14865,6 +14917,9 @@ generally
 games
 gion
 greater
+gift
+gation
+global
 narrowerTerm
 needs
 navigation
@@ -15735,6 +15790,8 @@ outsized
 occurs
 often
 outlay
+officielle
+ordinateur
 usedFor
 use
 ultimate
@@ -16756,6 +16813,9 @@ Sang
 Stevenson
 Soin
 Society
+Significant
+Sars
+SAA
 House
 Honey
 Hearing
@@ -17690,6 +17750,8 @@ Gretchen
 Gina
 Goldsteen
 Gray
+Gerontology
+Gerontolo
 Family
 Food
 Farming
@@ -18688,6 +18750,7 @@ bears
 belief
 bien
 betting
+biologic
 Lone
 Livestock
 Legumes
@@ -19200,6 +19263,8 @@ Leaman
 Lawrence
 Lacroix
 Lotteries
+LGBT
+LGBTTIQQ
 Vegetables
 Venture
 Visually
@@ -19612,6 +19677,9 @@ Venezuela
 Verne
 Vegetation
 Voyage
+Visit
+Visite
+VisualArtwork
 Eggs
 Edible
 Earth
@@ -20144,6 +20212,7 @@ Exile
 Eugene
 Essig
 Epidemic
+Exportation
 National
 Navigatio
 Navigation
@@ -21465,6 +21534,9 @@ harvest
 humain
 houses
 hasard
+halieutiques
+hands
+habitual
 Job
 Justice
 Jewels
@@ -22618,6 +22690,9 @@ vaccinations
 van
 vain
 vulnerable
+values
+virtuelle
+visuels
 Unemployment
 Undifferentiated
 Urban

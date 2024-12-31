@@ -25,82 +25,37 @@
             }
           },
           {
-            "id": "b6439fdd7d67c03e",
+            "id": "395ebc125117536c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "standards/gcthesaurus/Fish farming.md",
+                "file": "standards/gcthesaurus/Art works.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fish farming"
+              "title": "Art works"
             }
           },
           {
-            "id": "df5333955ca3649d",
+            "id": "2ae066f4a39509b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "standards/gcthesaurus/Animal husbandry.md",
+                "file": "Index/501 HE Health and Safety.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Animal husbandry"
-            }
-          },
-          {
-            "id": "02a1acceea2fd57f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "standards/gcthesaurus/Molluscs Fisheries Fish Crustaceans.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Molluscs Fisheries Fish Crustaceans"
-            }
-          },
-          {
-            "id": "05ac05cd1c145f68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "standards/gcthesaurus/Fisheries resources.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fisheries resources"
-            }
-          },
-          {
-            "id": "f78200bcc6fb411d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "standards/gcthesaurus/Aquaculture.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aquaculture"
+              "title": "501 HE Health and Safety"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +74,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -161,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"broaderTerm\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,8 +127,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -305,34 +259,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "05ac05cd1c145f68",
+  "active": "2ae066f4a39509b1",
   "lastOpenFiles": [
-    "standards/gcthesaurus/Molluscs Fisheries Fish Crustaceans.md",
-    "standards/gcthesaurus/Fisheries resources.md",
-    "standards/gcthesaurus/Animal husbandry.md",
-    "standards/gcthesaurus/Fish farming.md",
-    "standards/gcthesaurus/Aquaculture.md",
-    "standards/gcthesaurus/Disbursements.md",
-    "standards/gcthesaurus/Expenditures.md",
-    "standards/gcthesaurus/Quarterly financial reports Expenditure management.md",
-    "standards/gcthesaurus/Anthropology.md",
-    "standards/gcthesaurus/Ethnology.md",
-    "standards/gcthesaurus/Ethnic minorities.md",
-    "standards/gcthesaurus/Minorities Ethnic groups.md",
-    "standards/gcthesaurus/Ethnic groups.md",
-    "standards/gcthesaurus/Minorities.md",
+    "Index/501 Government of Canada Core Subject Thesaurus.md",
+    "Index/501 GV Government and Politics.md",
+    "Index/501 FM Form descriptors.md",
+    "Index/501 ET Education and Training.md",
+    "Index/501 EC Economics and Industry.md",
+    "Index/501 AG Agriculture.md",
+    "Index/501 AA Arts Music Literature.md",
+    "Index/501 HI History and Archaeology.md",
+    "Index/501 HE Health and Safety.md",
+    "Index/402.10 Sculpture.md",
+    "standards/gcthesaurus/Sculpture.md",
+    "standards/gcthesaurus/Visual arts.md",
+    "Index/402.09 VisualArtwork.md",
+    "402.08 Painting.md",
+    "standards/gcthesaurus/Painting.md",
+    "standards/gcthesaurus/Art works.md",
+    "Index/402 CreativeWork.md",
     "standards/gcthesaurus/2SLGBTQI people.md",
-    "standards/gcthesaurus/Resources management.md",
-    "standards/gcthesaurus/Environmental management.md",
-    "standards/gcthesaurus/Resources conservation Natural resources.md",
-    "standards/gcthesaurus/Energy management.md",
-    "standards/gcthesaurus/Electronic publishing.md",
-    "standards/gcthesaurus/Publishing.md",
-    "Home.md",
-    "Index/501 SO Society and Culture.md",
-    "standards/gcthesaurus/Gambling.md",
-    "standards/gcthesaurus/Parliamentary leaders.md",
-    "standards/gcthesaurus/Pari-mutuel betting Lotteries Games Casinos.md",
+    "standards/gcthesaurus/Birth rate.md",
+    "standards/gcthesaurus/Cultural development.md",
+    "standards/gcthesaurus/Court appearances.md",
+    "standards/gcthesaurus/Criminal code.md",
+    "standards/gcthesaurus/Corruption.md",
+    "standards/gcthesaurus/Corporate image.md",
+    "standards/gcthesaurus/Coronavirus infections.md",
+    "standards/gcthesaurus/Coronavirus diseases.md",
     "standards/dates",
     "standards/Bank of Canada",
     "standards/PIB",

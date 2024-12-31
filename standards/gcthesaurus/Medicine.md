@@ -4,7 +4,7 @@ aliases:
   - "20241228114511"
   - Medicine
 created: 2024-12-18
-modified: 2024-12-28
+modified: 2024-12-30
 tags:
   - gccommon
 id: 479
@@ -13,6 +13,7 @@ french:
 narrowerTerm:
   - "[[Alternative medicine]]"
   - "[[Forensics]]"
+  - "[[Gerontology]]"
   - "[[Nuclear medicine]]"
   - "[[Preventive medicine]]"
   - "[[Surgery]]"
