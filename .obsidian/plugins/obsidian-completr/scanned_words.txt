@@ -555,6 +555,8 @@ tous
 tecter
 ter
 tel
+tablie
+taill
 ProductGroup
 Product
 Properties
@@ -1243,6 +1245,7 @@ Peur
 Particuliers
 Processus
 Pratiques
+Provision
 created
 class
 cells
@@ -2060,6 +2063,13 @@ certaines
 compl
 capacit
 conform
+connexe
+cessaire
+comble
+contribue
+contributes
+catalogue
+channel
 modified
 meta
 make
@@ -2683,6 +2693,8 @@ modalit
 measuring
 monitors
 moyen
+mesurable
+measurable
 product
 project
 path
@@ -3438,6 +3450,7 @@ partager
 planification
 pangouvernementale
 partir
+pertoire
 Class
 Commo
 Commons
@@ -4829,6 +4842,10 @@ efficace
 efficiente
 efficacement
 effectively
+expect
+endroit
+espaces
+entretien
 dma
 down
 data
@@ -5477,6 +5494,7 @@ directs
 disponibles
 demande
 divulgation
+detailed
 If
 Invasive
 International
@@ -7044,6 +7062,8 @@ riels
 rabilit
 rendement
 recevoir
+rapport
+repository
 walking
 willing
 within
@@ -8228,6 +8248,9 @@ arranging
 avise
 administrateur
 administrator
+actuel
+auquel
+attendre
 keep
 knowledge
 kits
@@ -11656,6 +11679,7 @@ Rating
 Referring
 Romantic
 Repository
+Right
 Discussing
 Dairy
 Development
@@ -12186,6 +12210,7 @@ Definitions
 Digitally
 Dans
 Dispositifs
+Des
 from
 french
 families
@@ -12763,6 +12788,10 @@ failing
 fin
 forme
 fini
+ficiaire
+fournit
+fonction
+fournir
 subject
 scopeNote
 species
@@ -13532,6 +13561,7 @@ slow
 sultat
 surveill
 soient
+son
 internal
 indi
 industry
@@ -16121,6 +16151,9 @@ notebooks
 nouvelle
 nements
 notifies
+niveau
+norme
+normale
 of
 organs
 or
@@ -16591,6 +16624,8 @@ oriente
 outages
 output
 ouvert
+obtention
+outcome
 usedFor
 use
 ultimate
@@ -21099,6 +21134,7 @@ Enterprise
 Ensemble
 EIM
 Englobe
+Extrant
 National
 Navigatio
 Navigation
@@ -23621,6 +23657,8 @@ vise
 ventail
 voix
 vid
+voie
+volume
 Unemployment
 Undifferentiated
 Urban

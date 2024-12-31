@@ -13,7 +13,7 @@ french:
 relatedTerm:
   - "[[Change of address]]"
   - "[[Confidentiality]]"
-  - "[[Privacy]]"
+  - "[[71 Privacy]]"
 ---
 # Personal information
 ## Categories

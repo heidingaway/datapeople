@@ -15,6 +15,6 @@ relatedTerm:
   - "[[Information requests]]"
   - "[[Information]]"
   - "[[Open government]]"
-  - "[[Privacy]]"
+  - "[[71 Privacy]]"
 ---
 # Access to information

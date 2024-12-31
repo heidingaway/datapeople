@@ -321,20 +321,14 @@
     "standards/gcthesaurus/Access to information.md": {
       "fileId": "1735511154715",
       "filePath": "standards/gcthesaurus/Access to information.md",
-      "duration": 0,
-      "openCount": 2
+      "duration": 6000,
+      "openCount": 3
     },
     "Entities data strategy.md": {
       "fileId": "1735511167161",
       "filePath": "Entities data strategy.md",
       "duration": 6000,
       "openCount": 2
-    },
-    "standards/gcthesaurus/Privacy.md": {
-      "fileId": "1735511182617",
-      "filePath": "standards/gcthesaurus/Privacy.md",
-      "duration": 54000,
-      "openCount": 9
     },
     "standards/gcthesaurus/Confidentiality.md": {
       "fileId": "1735511239161",
@@ -6526,7 +6520,7 @@
       "fileId": "1735615249358",
       "filePath": "Index/501 SO Society and Culture.md",
       "duration": 408000,
-      "openCount": 4
+      "openCount": 5
     },
     "standards/gcthesaurus/Electronic publishing.md": {
       "fileId": "1735615721029",
@@ -7209,8 +7203,8 @@
     "Index/501 GV Government and Politics.md": {
       "fileId": "1735623960694",
       "filePath": "Index/501 GV Government and Politics.md",
-      "duration": 120000,
-      "openCount": 7
+      "duration": 240000,
+      "openCount": 9
     },
     "Index/501 HE Health and Safety.md": {
       "fileId": "1735623966753",
@@ -7713,8 +7707,8 @@
     "Index/404 Intangible.md": {
       "fileId": "1735673893660",
       "filePath": "Index/404 Intangible.md",
-      "duration": 24000,
-      "openCount": 4
+      "duration": 258000,
+      "openCount": 6
     },
     "Index/405 MedicalEntity.md": {
       "fileId": "1735673899660",
@@ -8193,8 +8187,8 @@
     "Policy on Service and Digital.md": {
       "fileId": "1735684653039",
       "filePath": "Policy on Service and Digital.md",
-      "duration": 1716000,
-      "openCount": 38
+      "duration": 1860000,
+      "openCount": 48
     },
     "Applications.md": {
       "fileId": "1735686333039",
@@ -8391,14 +8385,86 @@
     "Personal information.md": {
       "fileId": "1735687545039",
       "filePath": "Personal information.md",
-      "duration": 24000,
-      "openCount": 2
+      "duration": 30000,
+      "openCount": 3
     },
     "20241231182623 Privacy breach.md": {
       "fileId": "1735687575039",
       "filePath": "20241231182623 Privacy breach.md",
+      "duration": 144000,
+      "openCount": 10
+    },
+    "standards/gcdepts/406.01.261 Treasury Board.md": {
+      "fileId": "1735687878461",
+      "filePath": "standards/gcdepts/406.01.261 Treasury Board.md",
       "duration": 60000,
-      "openCount": 5
+      "openCount": 9
+    },
+    "standards/gcthesaurus/4907 Treasury board.md": {
+      "fileId": "1735687869039",
+      "filePath": "standards/gcthesaurus/4907 Treasury board.md",
+      "duration": 42000,
+      "openCount": 7
+    },
+    "standards/gcthesaurus/4891 Treasury Board Secretariat.md": {
+      "fileId": "1735687953039",
+      "filePath": "standards/gcthesaurus/4891 Treasury Board Secretariat.md",
+      "duration": 48000,
+      "openCount": 3
+    },
+    "20241231183428.md": {
+      "fileId": "1735688075353",
+      "filePath": "20241231183428.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "standards/gcthesaurus/71 Privacy.md": {
+      "fileId": "1735511182617",
+      "filePath": "standards/gcthesaurus/71 Privacy.md",
+      "duration": 132000,
+      "openCount": 14
+    },
+    "Real-time application status.md": {
+      "fileId": "1735688301039",
+      "filePath": "Real-time application status.md",
+      "duration": 30000,
+      "openCount": 2
+    },
+    "Real-time performance informations.md": {
+      "fileId": "1735688337039",
+      "filePath": "Real-time performance informations.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "Repository 20241231183941.md": {
+      "fileId": "1735688373039",
+      "filePath": "Repository 20241231183941.md",
+      "duration": 36000,
+      "openCount": 2
+    },
+    "Service 20241231184048.md": {
+      "fileId": "1735688433039",
+      "filePath": "Service 20241231184048.md",
+      "duration": 66000,
+      "openCount": 6
+    },
+    "standards/gcthesaurus/4869 Services.md": {
+      "fileId": "1735688437647",
+      "filePath": "standards/gcthesaurus/4869 Services.md",
+      "duration": 36000,
+      "openCount": 2
+    },
+    "20241231184637 Service Inventory.md": {
+      "fileId": "1735688793039",
+      "filePath": "20241231184637 Service Inventory.md",
+      "duration": 30000,
+      "openCount": 4
+    },
+    "20241231184725 Service Standard.md": {
+      "fileId": "1735688847039",
+      "filePath": "20241231184725 Service Standard.md",
+      "duration": 36000,
+      "openCount": 2
     }
   }
 }

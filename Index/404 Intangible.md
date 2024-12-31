@@ -6,6 +6,14 @@ created: 2024-10-26
 modified: 2024-12-31
 tags:
   - thing/Intangible
+class:
+  - "[[404.01 StructuredValue]]"
+  - "[[404.02 Property]]"
+  - "[[404.03 Class]]"
+  - "[[404.04 Quantity]]"
+  - "[[404.05 Rating]]"
+  - "[[404.06 DefinedTerm]]"
+  - "[[404.07 Demand]]"
 ---
 # 404 Intangible
 ## Class
@@ -16,12 +24,9 @@ tags:
 - class [[Brand]]
 - class [[BroadcastChannel]]
 - class [[BroadcastFrequencySpecification]]
-- class [[404.03 Class]]
 - class [[ComputerLanguage]]
 - class [[ConstraintNode]]
 - class [[DataFeedItem]]
-- class [[404.06 DefinedTerm]]
-- class [[Demand]]
 - class [[DigitalDocumentPermission]]
 - class [[EducationalOccupationalProgram]]
 - class [[EnergyConsumptionDetails]]
@@ -56,10 +61,7 @@ tags:
 - class [[PaymentMethod]]
 - class [[Permit]]
 - class [[ProgramMembership]]
-- class [[404.02 Property]]
 - class [[PropertyValueSpecification]]
-- class [[404.04 Quantity]]
-- class [[404.05 Rating]]
 - class [[Reservation]]
 - class [[Role]]
 - class [[Schedule]]
@@ -69,7 +71,6 @@ tags:
 - class [[ServiceChannel]]
 - class [[SpeakableSpecification]]
 - class [[StatisticalPopulation]]
-- class [[404.01 StructuredValue]]
 - class [[Ticket]]
 - class [[Trip]]
 - class [[VirtualLocation]]

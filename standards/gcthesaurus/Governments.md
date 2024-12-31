@@ -20,7 +20,7 @@ narrowerTerm:
   - "[[Provincial governments]]"
   - "[[Red tape burdens]]"
   - "[[Territorial governments]]"
-  - "[[Treasury board]]"
+  - "[[4907 Treasury board]]"
 relatedTerm:
   - "[[Governance]]"
   - "[[Government information]]"

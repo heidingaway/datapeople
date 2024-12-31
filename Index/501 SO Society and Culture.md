@@ -237,7 +237,7 @@ class:
   - "[[Population]]"
   - "[[Pornography]]"
   - "[[Poverty]]"
-  - "[[Privacy]]"
+  - "[[71 Privacy]]"
   - "[[Proceeds of crime]]"
   - "[[Propaganda]]"
   - "[[Prostitution]]"

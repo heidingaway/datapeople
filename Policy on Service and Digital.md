@@ -56,22 +56,10 @@ replaces:
 - [[Online end-to-end]]
 - [[Open access]]
 - [[Personal information]]
-- [[20241231182623 Privacy breach]]
-
-### Real-time application status
-[[Real-time application status]]
-
-### Real-time performance informations
-[[Real-time performance informations]]
-
-### Repository
-[[Repository]]
-
-### Service
-[[Service]]
-
-### Service Inventory
-[[Service Inventory]]
-
-### Service Standard
-[[Service Standard]]
+- [[20241231182623 Privacy breach|Privacy breach]]
+- [[Real-time application status]]
+- [[Real-time performance informations]]
+- [[Repository 20241231183941|Repository]]
+- [[Service 20241231184048|Service]]
+- [[20241231184637 Service Inventory|Service Inventory]]
+- [[20241231184725 Service Standard|Service Standard]]

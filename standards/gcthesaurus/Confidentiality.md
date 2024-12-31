@@ -15,7 +15,7 @@ scopeNote:
 relatedTerm:
   - "[[Access to information]]"
   - "[[Personal information]]"
-  - "[[Privacy]]"
+  - "[[71 Privacy]]"
 ---
 # Confidentiality
 > Ensuring that data or information is neither made available nor disclosed to unauthorised individuals, entities, processes or systems; preserving authorized restrictions on data and information access and disclosure.[^1]
