@@ -1,15 +1,20 @@
 ---
 title: Medicinal plants
+aliases:
+  - "20241230221413"
+  - Drug plants
+  - Herbal remedies
+  - Medicinal plants
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2024-12-30
 tags:
   - gccommon
+id: 481
 french:
-  - "[[Plante medicinale]]"
+  - Plante médicinale
 relatedTerm:
   - "[[Alternative medicine]]"
-  - "[[Marijuana]]"
   - "[[Drugs]]"
-aliases: Medicinal plants
+  - "[[Marijuana]]"
 ---
 # Medicinal plants

@@ -1,17 +1,18 @@
 ---
 title: International travel
+aliases:
+  - "20241230220518"
+  - International travel
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: International travel
-broaderTerm:
-  - "[[Travel]]"
+id: 1130
 french:
-  - "[[Voyage international]]"
+  - Voyage international
 relatedTerm:
-  - "[[Travel documents]]"
-  - "[[Tourism]]"
   - "[[Border crossing]]"
+  - "[[Tourism]]"
+  - "[[Travel documents]]"
 ---
 # International travel

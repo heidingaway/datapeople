@@ -1,16 +1,22 @@
 ---
 title: Hydropower
+aliases:
+  - "20241230221112"
+  - Hydro power
+  - Hydro-electricity
+  - Hydroelectric energy
+  - Hydroelectric power
+  - Hydroelectricity
+  - Hydropower
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Electricity]]"
+id: 2486
 french:
-  - "[[Hydroelectricite]]"
-aliases: Hydropower
+  - Hydroélectricité
 relatedTerm:
-  - "[[Renewable energy]]"
   - "[[Hydroelectric plants]]"
+  - "[[Renewable energy]]"
 ---
 # Hydropower

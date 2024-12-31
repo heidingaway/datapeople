@@ -1,13 +1,16 @@
 ---
 title: Educational resources
 aliases:
+  - "20241230220810"
+  - Educational materials
   - Educational resources
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-30
 tags:
   - gccommon
+id: 2429
 french:
-  - "[[Ressources pedagogiques]]"
+  - Ressources pédagogiques
 narrowerTerm:
   - "[[Instructional materials]]"
 relatedTerm:

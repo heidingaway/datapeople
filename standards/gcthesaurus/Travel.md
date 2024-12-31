@@ -1,17 +1,20 @@
 ---
 title: Travel
+aliases:
+  - "2024123022051"
+  - Travel
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Travel
+id: 1131 
 french:
-  - "[[Voyage]]"
+  - Voyage
 narrowerTerm:
   - "[[International travel]]"
 relatedTerm:
-  - "[[Travel documents]]"
-  - "[[Tourism]]"
   - "[[Border crossing]]"
+  - "[[Tourism]]"
+  - "[[Travel documents]]"
 ---
 # Travel

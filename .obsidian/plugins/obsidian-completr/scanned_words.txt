@@ -1173,6 +1173,7 @@ Parrish
 Pete
 Plante
 Peac
+Pari
 created
 class
 cells
@@ -1896,6 +1897,7 @@ consequences
 catastrophic
 cheries
 contamin
+communes
 modified
 meta
 make
@@ -2479,6 +2481,7 @@ million
 months
 malfunction
 manufacturer
+mutuel
 product
 project
 path
@@ -3175,6 +3178,10 @@ predator
 punctured
 patrimonial
 pervasive
+parlementaire
+peu
+puisqu
+parlementaires
 Class
 Commo
 Commons
@@ -3932,6 +3939,8 @@ Conspiracy
 Cohen
 Catharine
 Carol
+Chambre
+Casinos
 emerging
 eventually
 exotic
@@ -5080,6 +5089,8 @@ destructive
 displaced
 dollars
 develo
+didactique
+douce
 If
 Invasive
 International
@@ -6578,6 +6589,8 @@ running
 recipient
 rushed
 river
+reap
+ralement
 walking
 willing
 within
@@ -7674,6 +7687,7 @@ aires
 awful
 autonome
 affaires
+acception
 keep
 knowledge
 kits
@@ -8507,6 +8521,8 @@ lucratif
 longstanding
 lowly
 legacy
+lenfant
+large
 Barack
 Beverages
 Blind
@@ -12772,6 +12788,8 @@ states
 stark
 struggles
 sauvetage
+seeds
+signer
 internal
 indi
 industry
@@ -13290,6 +13308,7 @@ inundated
 intermediary
 imp
 industriel
+intelligent
 Transplantation
 Transfer
 Tropospheric
@@ -14423,6 +14442,7 @@ Mississippi
 Mizelle
 Meltdown
 Mike
+Medecine
 gccommon
 geology
 groups
@@ -15258,6 +15278,7 @@ nordiques
 nucl
 nuclear
 nuisible
+nouveau
 of
 organs
 or
@@ -16082,6 +16103,8 @@ upon
 understand
 undertake
 upcoming
+utilis
+une
 Senate
 Single
 Stratospheric
@@ -16724,6 +16747,9 @@ Scott
 Schorr
 Samuel
 Sang
+Stevenson
+Soin
+Society
 House
 Honey
 Hearing
@@ -17209,6 +17235,7 @@ Harter
 Hua
 Hegghammer
 Höskuldsson
+Homeopathy
 Genealogy
 Ground
 Grain
@@ -18652,6 +18679,8 @@ break
 billion
 bears
 belief
+bien
+betting
 Lone
 Livestock
 Legumes
@@ -19163,6 +19192,7 @@ Laura
 Leaman
 Lawrence
 Lacroix
+Lotteries
 Vegetables
 Venture
 Visually
@@ -19574,6 +19604,7 @@ Vali
 Venezuela
 Verne
 Vegetation
+Voyage
 Eggs
 Edible
 Earth
@@ -20524,6 +20555,7 @@ Neufeld
 Nuri
 Natasha
 Neige
+Nouveau
 Workplace
 Work
 Working
@@ -21422,6 +21454,10 @@ half
 humanitaire
 humaine
 hol
+harvest
+humain
+houses
+hasard
 Job
 Justice
 Jewels

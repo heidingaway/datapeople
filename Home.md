@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] Every action of our lives touches on some chord that will vibrate in eternity.
-> — Edwin Chapin  
+> [!quote] Don't judge each day by the harvest you reap but by the seeds you plant.
+> — Robert Stevenson  
   
 ------  
 ```widgets  

@@ -1,21 +1,24 @@
 ---
 title: Human beings
+aliases:
+  - "20241230221214"
+  - Human beings
+  - Human species
+  - Humans
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Primates]]"
+id: 595
 french:
-  - "[[Etre humain]]"
+  - Être humain
 narrowerTerm:
   - "[[Men]]"
   - "[[Women]]"
 scopeNote:
-  - Refers to humans as a species
-aliases: Human beings
+  - Refers to humans as a species.
 relatedTerm:
-  - "[[Human trafficking]]"
   - "[[Anthropology]]"
+  - "[[Human trafficking]]"
 ---
 # Human beings

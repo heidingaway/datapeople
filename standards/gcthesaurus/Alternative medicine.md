@@ -1,10 +1,16 @@
 ---
 title: Alternative medicine
+aliases:
+  - "20241230221343"
+  - Alternative medicine
+  - Soft medicine
+created: 2024-12-18
+modified: 2024-12-30
 tags:
   - gccommon
 french:
-  - Medecine douce
+  - Médecine douce
 narrowerTerm:
   - "[[Homeopathy]]"
-aliases: Alternative medicine
 ---
+# Alternative medicine

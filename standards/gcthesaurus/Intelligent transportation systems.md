@@ -1,13 +1,16 @@
 ---
 title: Intelligent transportation systems
+aliases:
+  - "20241230220540"
+  - Intelligent transport systems
+  - Intelligent transportation systems
+  - Intelligent vehicle highway systems
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Intelligent systems]]"
+id: 3554
 french:
-  - "[[Systeme de transport intelligent]]"
-aliases: Intelligent transportation systems
+  - Système de transport intelligent
 ---
 # Intelligent transportation systems

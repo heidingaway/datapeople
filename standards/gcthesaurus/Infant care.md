@@ -1,16 +1,18 @@
 ---
 title: Infant care
+aliases:
+  - "20241230220942"
+  - Infant care
+  - Newborn care
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-broaderTerm:
-  - "[[Child care]]"
+id: 1447 
 french:
-  - "[[Soin du nouveau-ne]]"
-aliases: Infant care
+  - Soin du nouveau-né
 relatedTerm:
-  - "[[Perinatal care]]"
   - "[[Infants]]"
+  - "[[Perinatal care]]"
 ---
 # Infant care

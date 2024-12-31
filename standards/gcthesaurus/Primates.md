@@ -1,12 +1,15 @@
 ---
 title: Primates
+aliases:
+  - "2024123022131"
+  - Primates
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-30
 tags:
   - gccommon
-aliases: Primates
+id: 3369
 french:
-  - "[[Primate]]"
+  - Primate
 narrowerTerm:
   - "[[Human beings]]"
 ---
