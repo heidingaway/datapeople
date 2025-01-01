@@ -19,7 +19,7 @@ relatedTerm:
   - "[[Court decisions]]"
   - "[[Courts]]"
   - "[[Criminal records]]"
-  - "[[Extradition]]"
+  - "[[2772 Extradition]]"
   - "[[Hearings]]"
   - "[[Judges]]"
   - "[[Judicial appointments]]"

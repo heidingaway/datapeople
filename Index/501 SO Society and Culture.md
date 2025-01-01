@@ -242,7 +242,7 @@ class:
   - "[[Propaganda]]"
   - "[[Prostitution]]"
   - "[[Psychology]]"
-  - "[[Public opinion polls]]"
+  - "[[4151 Public opinion polls]]"
   - "[[Public opinion]]"
   - "[[Public relations]]"
   - "[[Quality of life]]"

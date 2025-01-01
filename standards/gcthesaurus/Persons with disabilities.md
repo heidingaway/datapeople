@@ -18,7 +18,7 @@ aliases:
   - Sight impaired
   - Visually impaired
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2024-12-31
 tags:
   - gccommon
 id: 79
@@ -28,7 +28,6 @@ relatedTerm:
   - "[[Accessibility for persons with disabilities]]"
   - "[[Accessible transport]]"
   - "[[Assistive technologies]]"
-  - "[[Disabilities]]"
   - "[[Status of disabled persons]]"
 narrowerTerm:
   - "[[Duty to accommodate]]"

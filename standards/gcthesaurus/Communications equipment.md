@@ -14,6 +14,6 @@ narrowerTerm:
   - "[[Telephones]]"
 relatedTerm:
   - "[[Communications industry]]"
-  - "[[Communications]]"
+  - "[[1660 Communications]]"
 ---
 # Communications equipment

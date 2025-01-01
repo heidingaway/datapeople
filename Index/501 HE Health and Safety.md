@@ -51,7 +51,7 @@ class:
   - "[[Degenerative diseases]]"
   - "[[Dental insurance]]"
   - "[[Diabetes]]"
-  - "[[Disabilities]]"
+  - "[[2162 Disabilities]]"
   - "[[Disaster relief]]"
   - "[[Disasters]]"
   - "[[Diseases]]"

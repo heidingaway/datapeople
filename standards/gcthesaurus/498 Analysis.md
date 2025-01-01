@@ -1,11 +1,13 @@
 ---
-title: Analysis
+title: 498 Analysis
+aliases:
+  - "20241231195349"
+  - Analyse
+  - Analysis
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-31
 tags:
   - gccommon
-aliases:
-  - Analysis
 french: Analyse
 narrowerTerm:
   - "[[Economic analysis]]"
@@ -16,5 +18,6 @@ relatedTerm:
   - "[[Case studies]]"
   - "[[Diagnosis]]"
   - "[[Feasibility studies]]"
+  - "[[Modelling]]"
 ---
 # Analysis

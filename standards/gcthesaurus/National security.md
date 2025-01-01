@@ -1,10 +1,21 @@
 ---
 title: National security
+aliases:
+  - "20241231200229"
+  - Domestic security
+  - National security
+  - Sécurité nationale
+created: 2024-12-18
+modified: 2024-12-31
 tags:
   - gccommon
+id: 1974
 french:
-  - "[[Securite nationale]]"
+  - Sécurité nationale
 narrowerTerm:
   - "[[Foreign interference]]"
-aliases: National security
+relatedTerm:
+  - "[[Security intelligence]]"
+  - "[[Security investigations]]"
 ---
+# National security

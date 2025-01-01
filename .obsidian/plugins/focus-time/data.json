@@ -9,8 +9,8 @@
     "Home.md": {
       "fileId": "1735507327332",
       "filePath": "Home.md",
-      "duration": 588000,
-      "openCount": 100
+      "duration": 666000,
+      "openCount": 102
     },
     "standards/gcthesaurus/Personal information.md": {
       "fileId": "1735507513226",
@@ -4341,8 +4341,8 @@
     "standards/gcthesaurus/Persons with disabilities.md": {
       "fileId": "1735597427114",
       "filePath": "standards/gcthesaurus/Persons with disabilities.md",
-      "duration": 66000,
-      "openCount": 5
+      "duration": 78000,
+      "openCount": 6
     },
     "standards/gcthesaurus/Status of disabled persons Disabilities Assistive .md": {
       "fileId": "1735597501121",
@@ -4425,8 +4425,8 @@
     "standards/gcthesaurus/Energy efficiency.md": {
       "fileId": "1735598016177",
       "filePath": "standards/gcthesaurus/Energy efficiency.md",
-      "duration": 30000,
-      "openCount": 2
+      "duration": 60000,
+      "openCount": 7
     },
     "standards/gcthesaurus/Energy conservation.md": {
       "fileId": "1735598077121",
@@ -4871,12 +4871,6 @@
       "filePath": "standards/gcthesaurus/Telecommunications Military communications Governm.md",
       "duration": 0,
       "openCount": 2
-    },
-    "standards/gcthesaurus/Communications.md": {
-      "fileId": "1735600039121",
-      "filePath": "standards/gcthesaurus/Communications.md",
-      "duration": 12000,
-      "openCount": 4
     },
     "standards/gcthesaurus/Veteran pensions Public pensions Private pensions .md": {
       "fileId": "1735600048387",
@@ -6117,8 +6111,8 @@
     "standards/gcthesaurus/International security.md": {
       "fileId": "1735611979121",
       "filePath": "standards/gcthesaurus/International security.md",
-      "duration": 66000,
-      "openCount": 6
+      "duration": 72000,
+      "openCount": 7
     },
     "standards/gcthesaurus/Health policy Agricultural policy.md": {
       "fileId": "1735612058584",
@@ -7125,8 +7119,8 @@
     "Index/402 CreativeWork.md": {
       "fileId": "1735619880792",
       "filePath": "Index/402 CreativeWork.md",
-      "duration": 348000,
-      "openCount": 27
+      "duration": 360000,
+      "openCount": 29
     },
     "standards/gcthesaurus/Art works.md": {
       "fileId": "1735623049294",
@@ -7191,7 +7185,7 @@
     "Index/501 EC Economics and Industry.md": {
       "fileId": "1735623925294",
       "filePath": "Index/501 EC Economics and Industry.md",
-      "duration": 18000,
+      "duration": 144000,
       "openCount": 4
     },
     "Index/501 ET Education and Training.md": {
@@ -8187,8 +8181,8 @@
     "Policy on Service and Digital.md": {
       "fileId": "1735684653039",
       "filePath": "Policy on Service and Digital.md",
-      "duration": 1860000,
-      "openCount": 48
+      "duration": 1890000,
+      "openCount": 50
     },
     "Applications.md": {
       "fileId": "1735686333039",
@@ -8391,8 +8385,8 @@
     "20241231182623 Privacy breach.md": {
       "fileId": "1735687575039",
       "filePath": "20241231182623 Privacy breach.md",
-      "duration": 144000,
-      "openCount": 10
+      "duration": 168000,
+      "openCount": 13
     },
     "standards/gcdepts/406.01.261 Treasury Board.md": {
       "fileId": "1735687878461",
@@ -8464,6 +8458,414 @@
       "fileId": "1735688847039",
       "filePath": "20241231184725 Service Standard.md",
       "duration": 36000,
+      "openCount": 2
+    },
+    "Government of Canada Digital Standards.md": {
+      "fileId": "1735689131818",
+      "filePath": "Government of Canada Digital Standards.md",
+      "duration": 924000,
+      "openCount": 19
+    },
+    "20241231185836 Design with users.md": {
+      "fileId": "1735690529818",
+      "filePath": "20241231185836 Design with users.md",
+      "duration": 270000,
+      "openCount": 24
+    },
+    "Iterate and improve frequently 20241231185847.md": {
+      "fileId": "1735690607818",
+      "filePath": "Iterate and improve frequently 20241231185847.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "Work in the open by default 20241231185859.md": {
+      "fileId": "1735690667818",
+      "filePath": "Work in the open by default 20241231185859.md",
+      "duration": 30000,
+      "openCount": 3
+    },
+    "Use open standards and solutions 20241231191215.md": {
+      "fileId": "1735690709818",
+      "filePath": "Use open standards and solutions 20241231191215.md",
+      "duration": 18000,
+      "openCount": 2
+    },
+    "Address security and privacy risks 2024123119132.md": {
+      "fileId": "1735690745818",
+      "filePath": "Address security and privacy risks 2024123119132.md",
+      "duration": 30000,
+      "openCount": 3
+    },
+    "Build in accessibility from the start 20241231191336.md": {
+      "fileId": "1735690799818",
+      "filePath": "Build in accessibility from the start 20241231191336.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "Empower staff to deliver better services 20241231191339.md": {
+      "fileId": "1735690835818",
+      "filePath": "Empower staff to deliver better services 20241231191339.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "Be good data stewards 20241231191359.md": {
+      "fileId": "1735690877818",
+      "filePath": "Be good data stewards 20241231191359.md",
+      "duration": 18000,
+      "openCount": 3
+    },
+    "Design ethical services 20241231191422.md": {
+      "fileId": "1735690906646",
+      "filePath": "Design ethical services 20241231191422.md",
+      "duration": 48000,
+      "openCount": 2
+    },
+    "Collaborate widely 20241231191432.md": {
+      "fileId": "1735690973818",
+      "filePath": "Collaborate widely 20241231191432.md",
+      "duration": 18000,
+      "openCount": 2
+    },
+    "Policy on Communications and Federal Identity.md": {
+      "fileId": "1735691219818",
+      "filePath": "Policy on Communications and Federal Identity.md",
+      "duration": 72000,
+      "openCount": 3
+    },
+    "standards/gcdepts/406.01.237 Government of Canada.md": {
+      "fileId": "1735691279818",
+      "filePath": "standards/gcdepts/406.01.237 Government of Canada.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "Directive on the Management of Communications.md": {
+      "fileId": "1735691327818",
+      "filePath": "Directive on the Management of Communications.md",
+      "duration": 66000,
+      "openCount": 2
+    },
+    "Standards for the Conduct of Government of Canada Public Opinion Research Qualitative Research.md": {
+      "fileId": "1735691417818",
+      "filePath": "Standards for the Conduct of Government of Canada Public Opinion Research Qualitative Research.md",
+      "duration": 36000,
+      "openCount": 2
+    },
+    "data analysis.md": {
+      "fileId": "1735691687818",
+      "filePath": "data analysis.md",
+      "duration": 66000,
+      "openCount": 5
+    },
+    "standards/gcthesaurus/Preventive medicine Diseases.md": {
+      "fileId": "1735691819818",
+      "filePath": "standards/gcthesaurus/Preventive medicine Diseases.md",
+      "duration": 12000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Screening Medicine.md": {
+      "fileId": "1735691821571",
+      "filePath": "standards/gcthesaurus/Screening Medicine.md",
+      "duration": 30000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Visas Citizenship documents.md": {
+      "fileId": "1735691890929",
+      "filePath": "standards/gcthesaurus/Visas Citizenship documents.md",
+      "duration": 0,
+      "openCount": 3
+    },
+    "data usage.md": {
+      "fileId": "1735691987818",
+      "filePath": "data usage.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Standards Service industry.md": {
+      "fileId": "1735692005818",
+      "filePath": "standards/gcthesaurus/Standards Service industry.md",
+      "duration": 6000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Quality of service.md": {
+      "fileId": "1735692007561",
+      "filePath": "standards/gcthesaurus/Quality of service.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Passports 1489.md": {
+      "fileId": "1735691891818",
+      "filePath": "standards/gcthesaurus/Passports 1489.md",
+      "duration": 90000,
+      "openCount": 6
+    },
+    "standards/gcthesaurus/Travel documents.md": {
+      "fileId": "1735692077818",
+      "filePath": "standards/gcthesaurus/Travel documents.md",
+      "duration": 66000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Citizenship documents.md": {
+      "fileId": "1735692131818",
+      "filePath": "standards/gcthesaurus/Citizenship documents.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Public opinion Perceptions.md": {
+      "fileId": "1735692181594",
+      "filePath": "standards/gcthesaurus/Public opinion Perceptions.md",
+      "duration": 0,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/4151 Public opinion polls.md": {
+      "fileId": "1735692182725",
+      "filePath": "standards/gcthesaurus/4151 Public opinion polls.md",
+      "duration": 48000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Supplementary estimates Receiver General Public fi.md": {
+      "fileId": "1735692251818",
+      "filePath": "standards/gcthesaurus/Supplementary estimates Receiver General Public fi.md",
+      "duration": 6000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Public accounts.md": {
+      "fileId": "1735692253590",
+      "filePath": "standards/gcthesaurus/Public accounts.md",
+      "duration": 60000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Personal finance Discounts.md": {
+      "fileId": "1735692334551",
+      "filePath": "standards/gcthesaurus/Personal finance Discounts.md",
+      "duration": 6000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/2193 Savings.md": {
+      "fileId": "1735692335818",
+      "filePath": "standards/gcthesaurus/2193 Savings.md",
+      "duration": 42000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Programs Program review Program management.md": {
+      "fileId": "1735692398970",
+      "filePath": "standards/gcthesaurus/Programs Program review Program management.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Program assessment.md": {
+      "fileId": "1735692399731",
+      "filePath": "standards/gcthesaurus/Program assessment.md",
+      "duration": 36000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Programs Program assessment.md": {
+      "fileId": "1735692440572",
+      "filePath": "standards/gcthesaurus/Programs Program assessment.md",
+      "duration": 0,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Program review.md": {
+      "fileId": "1735692442044",
+      "filePath": "standards/gcthesaurus/Program review.md",
+      "duration": 36000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Social services Social assistance.md": {
+      "fileId": "1735692497586",
+      "filePath": "standards/gcthesaurus/Social services Social assistance.md",
+      "duration": 0,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Social programs.md": {
+      "fileId": "1735692497818",
+      "filePath": "standards/gcthesaurus/Social programs.md",
+      "duration": 132000,
+      "openCount": 6
+    },
+    "standards/gcthesaurus/Persons with disabilities Disability pensions.md": {
+      "fileId": "1735692549815",
+      "filePath": "standards/gcthesaurus/Persons with disabilities Disability pensions.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/2162 Disabilities.md": {
+      "fileId": "1735692550712",
+      "filePath": "standards/gcthesaurus/2162 Disabilities.md",
+      "duration": 54000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Ornaments Gold Diamonds.md": {
+      "fileId": "1735692743818",
+      "filePath": "standards/gcthesaurus/Ornaments Gold Diamonds.md",
+      "duration": 12000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Jewellery.md": {
+      "fileId": "1735692747322",
+      "filePath": "standards/gcthesaurus/Jewellery.md",
+      "duration": 48000,
+      "openCount": 5
+    },
+    "standards/gcthesaurus/Modelling Feasibility studies Diagnosis Case studi.md": {
+      "fileId": "1735692803880",
+      "filePath": "standards/gcthesaurus/Modelling Feasibility studies Diagnosis Case studi.md",
+      "duration": 12000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/498 Analysis.md": {
+      "fileId": "1735692806261",
+      "filePath": "standards/gcthesaurus/498 Analysis.md",
+      "duration": 54000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Media Communications industry Communications equip.md": {
+      "fileId": "1735692901669",
+      "filePath": "standards/gcthesaurus/Media Communications industry Communications equip.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/1660 Communications.md": {
+      "fileId": "1735600039121",
+      "filePath": "standards/gcthesaurus/1660 Communications.md",
+      "duration": 108000,
+      "openCount": 8
+    },
+    "standards/gcthesaurus/Precipitation Irrigation.md": {
+      "fileId": "1735693013818",
+      "filePath": "standards/gcthesaurus/Precipitation Irrigation.md",
+      "duration": 60000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Drought.md": {
+      "fileId": "1735693015260",
+      "filePath": "standards/gcthesaurus/Drought.md",
+      "duration": 66000,
+      "openCount": 5
+    },
+    "standards/gcthesaurus/National symbols Emblems.md": {
+      "fileId": "1735693159816",
+      "filePath": "standards/gcthesaurus/National symbols Emblems.md",
+      "duration": 0,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Flags.md": {
+      "fileId": "1735693161173",
+      "filePath": "standards/gcthesaurus/Flags.md",
+      "duration": 30000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/1975 Symbols.md": {
+      "fileId": "1735693217818",
+      "filePath": "standards/gcthesaurus/1975 Symbols.md",
+      "duration": 30000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Cryptography.md": {
+      "fileId": "1735693259818",
+      "filePath": "standards/gcthesaurus/Cryptography.md",
+      "duration": 48000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Computer security.md": {
+      "fileId": "1735693301818",
+      "filePath": "standards/gcthesaurus/Computer security.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/National security.md": {
+      "fileId": "1735693331818",
+      "filePath": "standards/gcthesaurus/National security.md",
+      "duration": 96000,
+      "openCount": 5
+    },
+    "standards/gcthesaurus/Security investigations Security intelligence Inte.md": {
+      "fileId": "1735693379818",
+      "filePath": "standards/gcthesaurus/Security investigations Security intelligence Inte.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Security intelligence.md": {
+      "fileId": "1735693463818",
+      "filePath": "standards/gcthesaurus/Security intelligence.md",
+      "duration": 78000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/National security International security Electroni.md": {
+      "fileId": "1735693529624",
+      "filePath": "standards/gcthesaurus/National security International security Electroni.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "standards/gcthesaurus/Justice system International law.md": {
+      "fileId": "1735693552002",
+      "filePath": "standards/gcthesaurus/Justice system International law.md",
+      "duration": 12000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/2772 Extradition.md": {
+      "fileId": "1735693553368",
+      "filePath": "standards/gcthesaurus/2772 Extradition.md",
+      "duration": 72000,
+      "openCount": 6
+    },
+    "standards/gcthesaurus/Outfitters Outdoor recreation Hunting permits.md": {
+      "fileId": "1735693640636",
+      "filePath": "standards/gcthesaurus/Outfitters Outdoor recreation Hunting permits.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Hunting Sport.md": {
+      "fileId": "1735693641905",
+      "filePath": "standards/gcthesaurus/Hunting Sport.md",
+      "duration": 66000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Outfitters Outdoor recreation Fishing permits.md": {
+      "fileId": "1735693727618",
+      "filePath": "standards/gcthesaurus/Outfitters Outdoor recreation Fishing permits.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Fishing Sport.md": {
+      "fileId": "1735693727818",
+      "filePath": "standards/gcthesaurus/Fishing Sport.md",
+      "duration": 78000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/National symbols Canadian identity.md": {
+      "fileId": "1735693845697",
+      "filePath": "standards/gcthesaurus/National symbols Canadian identity.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Nationalism.md": {
+      "fileId": "1735693846844",
+      "filePath": "standards/gcthesaurus/Nationalism.md",
+      "duration": 78000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Libraries Information requests.md": {
+      "fileId": "1735693931818",
+      "filePath": "standards/gcthesaurus/Libraries Information requests.md",
+      "duration": 6000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Reference services.md": {
+      "fileId": "1735693934011",
+      "filePath": "standards/gcthesaurus/Reference services.md",
+      "duration": 24000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Sole proprietorships Franchises Businesses.md": {
+      "fileId": "1735693964234",
+      "filePath": "standards/gcthesaurus/Sole proprietorships Franchises Businesses.md",
+      "duration": 6000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Business types.md": {
+      "fileId": "1735693970159",
+      "filePath": "standards/gcthesaurus/Business types.md",
+      "duration": 42000,
       "openCount": 2
     }
   }

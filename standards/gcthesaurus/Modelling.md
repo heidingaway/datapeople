@@ -8,11 +8,11 @@ created: 2024-12-18
 modified: 2024-12-30
 tags:
   - gccommon
-id: 506 
+id: 506
 french:
   - Modélisation
 relatedTerm:
-  - "[[Analysis]]"
+  - "[[498 Analysis]]"
   - "[[Prototyping]]"
 ---
 # Modelling

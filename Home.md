@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] All I can say about life is, Oh God, enjoy it!
-> — Bob Newhart  
+> [!quote] All difficult things have their origin in that which is easy, and great things in that which is small.
+> — Lao-Tzu  
   
 ------  
 ```widgets  

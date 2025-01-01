@@ -12,7 +12,7 @@ id: 3533
 french:
   - Sondage
 narrowerTerm:
-  - "[[Public opinion polls]]"
+  - "[[4151 Public opinion polls]]"
   - "[[Social surveys]]"
 relatedTerm:
   - "[[Inquiry]]"

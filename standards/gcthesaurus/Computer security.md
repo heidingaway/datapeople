@@ -18,7 +18,6 @@ french:
   - Sécurité informatique
 relatedTerm:
   - "[[Computers]]"
-  - "[[Cryptography]]"
   - "[[Foreign interference]]"
 ---
 # Computer security

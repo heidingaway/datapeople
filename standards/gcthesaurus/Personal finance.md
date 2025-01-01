@@ -8,7 +8,7 @@ aliases: Personal finance
 french:
   - "[[Finances personnelles]]"
 relatedTerm:
-  - "[[Savings]]"
+  - "[[2193 Savings]]"
   - "[[Personal income]]"
 ---
 # Personal finance

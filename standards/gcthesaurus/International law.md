@@ -9,6 +9,6 @@ french:
   - "[[Droit international]]"
 relatedTerm:
   - "[[International courts]]"
-  - "[[Extradition]]"
+  - "[[2772 Extradition]]"
 ---
 # International law

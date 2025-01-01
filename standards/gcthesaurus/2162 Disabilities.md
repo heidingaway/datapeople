@@ -1,9 +1,18 @@
 ---
-title: Disabilities
+title: 2162 Disabilities
+aliases:
+  - "20241231194923"
+  - Déficience
+  - Disabilities
+  - Handicaps
+  - Impairments
+created: 2024-12-18
+modified: 2024-12-31
 tags:
   - gccommon
+id: 2162
 french:
-  - "[[Deficience]]"
+  - Déficience
 narrowerTerm:
   - "[[Hearing disabilities]]"
   - "[[Intellectual disabilities]]"
@@ -12,5 +21,6 @@ narrowerTerm:
   - "[[Visual disabilities]]"
 relatedTerm:
   - "[[Disability pensions]]"
-aliases: Disabilities
+  - "[[Persons with disabilities]]"
 ---
+# Disabilities

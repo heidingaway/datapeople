@@ -11,7 +11,7 @@ scopeNote:
   - Economic activity dedicated to the offer of commun
 relatedTerm:
   - "[[Communications equipment]]"
-  - "[[Communications]]"
+  - "[[1660 Communications]]"
   - "[[Broadcasting industry]]"
 ---
 # Communications industry

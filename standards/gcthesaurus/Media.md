@@ -13,7 +13,7 @@ id: 1664
 french:
   - Media
 relatedTerm:
-  - "[[Communications]]"
+  - "[[1660 Communications]]"
   - "[[Information]]"
   - "[[Media monitoring]]"
   - "[[Media relations]]"

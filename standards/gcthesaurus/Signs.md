@@ -14,6 +14,6 @@ relatedTerm:
   - "[[Advertising]]"
   - "[[Information]]"
   - "[[Posters]]"
-  - "[[Symbols]]"
+  - "[[1975 Symbols]]"
 ---
 # Signs

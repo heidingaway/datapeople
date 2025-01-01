@@ -40,7 +40,7 @@ class:
   - "[[Environmental law]]"
   - "[[Estates]]"
   - "[[Evidence]]"
-  - "[[Extradition]]"
+  - "[[2772 Extradition]]"
   - "[[Family law]]"
   - "[[Fiduciary obligations]]"
   - "[[Fines]]"

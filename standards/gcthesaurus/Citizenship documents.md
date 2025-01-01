@@ -13,7 +13,7 @@ french:
 narrowerTerm:
   - "[[Birth certificates]]"
 relatedTerm:
-  - "[[Passports]]"
+  - "[[Passports 1489]]"
   - "[[Travel documents]]"
 historyNote: Passports changed from narrowerTerm to relatedTerm.
 ---

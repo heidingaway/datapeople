@@ -147,7 +147,7 @@ class:
   - "[[Parliamentary leaders]]"
   - "[[Parliamentary procedure]]"
   - "[[Partnerships]]"
-  - "[[Passports]]"
+  - "[[Passports 1489]]"
   - "[[Policy development]]"
   - "[[Policy instruments]]"
   - "[[Policy review]]"
