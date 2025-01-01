@@ -1,20 +1,25 @@
 ---
 title: Recreational facilities
+aliases:
+  - "20250101182631"
+  - Recreation facilities
+  - Recreational facilities
+  - Sports facilities
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2025-01-01
 tags:
   - gccommon
+id: 648
 french:
-  - "[[Installations recreatives]]"
+  - Installations récréatives
 narrowerTerm:
   - "[[Aquariums]]"
   - "[[Zoological gardens]]"
-aliases: Recreational facilities
 relatedTerm:
-  - "[[Ski trails]]"
-  - "[[Recreation]]"
-  - "[[Parks]]"
-  - "[[Botanical gardens]]"
   - "[[Bicycle paths]]"
+  - "[[Botanical gardens]]"
+  - "[[Parks]]"
+  - "[[Recreation]]"
+  - "[[Ski trails]]"
 ---
 # Recreational facilities

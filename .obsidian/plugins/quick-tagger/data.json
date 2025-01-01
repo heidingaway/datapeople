@@ -1,6 +1,6 @@
 {
-  "all_tags": true,
-  "preffered_casing": "None",
+  "all_tags": false,
+  "preffered_casing": "camelcase",
   "priorityTags": [],
-  "last_used_tag": "#WAGE"
+  "last_used_tag": "#gcpolicy"
 }

@@ -14,6 +14,5 @@ french:
   - Jardin botanique
 relatedTerm:
   - "[[Botany]]"
-  - "[[Recreational facilities]]"
 ---
 # Botanical gardens

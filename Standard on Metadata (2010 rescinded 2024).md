@@ -5,7 +5,7 @@ aliases:
 created: 2024-12-06
 modified: 2024-12-27
 tags:
-  - gcpolicy
+  - policy/information
 reference:
   - "[[501 Government of Canada Core Subject Thesaurus]]"
 ---

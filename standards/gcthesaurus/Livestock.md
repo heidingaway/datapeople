@@ -1,26 +1,25 @@
 ---
 title: Livestock
+aliases:
+  - "20250101171151"
+  - Bétail
+  - Livestock
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2025-01-01
 tags:
   - gccommon
 french:
-  - "[[Betail]]"
+  - Bétail
 relatedTerm:
+  - "[[Domestic animals]]"
   - "[[Meat]]"
   - "[[Slaughtering]]"
-  - "[[Poultry]]"
-  - "[[Manure]]"
-  - "[[Grasslands]]"
-  - "[[Domestic animals]]"
-  - "[[Animal husbandry]]"
 scopeNote:
-  - Animals kept or raised for use food or other produ
-aliases: Livestock
+  - Animals kept or raised for use, food or other products.
 narrowerTerm:
-  - "[[Sheep]]"
-  - "[[Horses]]"
-  - "[[Hogs]]"
   - "[[Cattle]]"
+  - "[[Hogs]]"
+  - "[[Horses]]"
+  - "[[Sheep]]"
 ---
 # Livestock

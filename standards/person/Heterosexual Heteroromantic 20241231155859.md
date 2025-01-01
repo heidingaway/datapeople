@@ -12,7 +12,7 @@ aliases:
 created: 2024-12-31
 modified: 2024-12-31
 tags:
-  - gcpolicy
+  - policy/gender
   - WAGE
 author: "[[406.01.239 Women and Gender Equality Canada|WAGE]]"
 descriptionEN: A person who is sexually and/or romantically attracted to people of a different gender than themselves.

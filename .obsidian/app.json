@@ -33,5 +33,6 @@
   "promptDelete": false,
   "showInlineTitle": false,
   "showRibbon": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showLineNumber": true
 }

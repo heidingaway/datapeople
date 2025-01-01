@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] How many cares one loses when one decides not to be something but to be someone.
-> — Coco Chanel  
+> [!quote] We don't stop playing because we grow old; we grow old because we stop playing.
+> — Bernard Shaw  
   
 ------  
 ```widgets  

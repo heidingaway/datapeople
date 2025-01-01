@@ -5,9 +5,10 @@ aliases:
   - "Data Reference Standard on Person(s): gender"
   - "Norme référentielle relative aux données sur les personnes : genre"
 created: 2024-11-28
-modified: 2024-12-31
+modified: 2025-01-01
 tags:
-  - gcpolicy
+  - policy/gender
+  - policy/information
   - WAGE
 readWith:
   - "[[2SLGBTQI Terminology Glossary and Common Acronyms]]"
@@ -28,8 +29,8 @@ url: https://www.canada.ca/en/government/system/digital-government/digital-gover
 steward: "[[406.01.316 Statistics Canada]]"
 custodian: "[[406.01.238 Treasury Board of Canada Secretariat|Treasury Board Secretariat]]"
 appliedBy:
-  - "[[Data practitioner]]"
-  - "[[Service owner]]"
+  - "[[Data practitioner 20250101155245]]"
+  - "[[Service Owner 20250101155058|Service Owner]]"
 ---
 # 407.02 Gender
 ## 1. Preamble

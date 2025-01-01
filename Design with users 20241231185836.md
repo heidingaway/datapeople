@@ -1,5 +1,5 @@
 ---
-title: 20241231185836 Design with users
+title: Design with users 20241231185836
 aliases:
   - "20241231185836"
   - Concevoir avec les utilisateurs
@@ -9,7 +9,7 @@ modified: 2025-01-01
 source: "https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards/design-with-users.html"
 tags:
   - clippings
-  - gcpolicy
+  - policy/digital
 descriptionEN: Research with users to understand their needs and the problems we want to solve. Conduct ongoing testing with users to guide design and development.
 descriptionFR: Faire des recherches en collaboration avec les utilisateurs pour bien comprendre leurs besoins, ainsi que les problèmes que nous voulons régler. Effectuer des tests continus avec les utilisateurs pour éclairer la conception et la mise en œuvre.
 author:
@@ -92,4 +92,3 @@ Monitor and iterate
 - [GC service community](https://gccollab.ca/groups/profile/589900/service-community-la-communaute-des-services) (account required)
 - [Digital Analytics Community of Practice](https://gcxgce.sharepoint.com/teams/1000163/SitePages/Welcome.aspx)
 - [Learning catalogue: digital government](https://catalogue.csps-efpc.gc.ca/?cm_locale=en&page=9&pagename=Catalog&products_per_page=12&products_sort_order=relevancy&query=%22Digital+government%22&reveal_competency=0&reveal_delivery_method=0&reveal_duration=0&reveal_subtopic=1&reveal_topic=1&reveal_type=1&topic%5B0%5D=70)
-

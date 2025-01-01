@@ -1,11 +1,13 @@
 ---
 title: Animals
+aliases:
+  - "2025010118258"
+  - Animal
+  - Animals
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2025-01-01
 tags:
   - gccommon
-aliases:
-  - Animals
 french:
   - Animal
 narrowerTerm:
@@ -32,7 +34,5 @@ relatedTerm:
   - "[[Animal testing]]"
   - "[[Hibernation]]"
   - "[[Wildlife]]"
-  - "[[Zoological gardens]]"
-  - "[[Zoology]]"
 ---
 # Animals

@@ -5,8 +5,6 @@ aliases:
 created: 2024-12-29
 modified: 2025-01-01
 tags:
-  - CreativeWork
-  - creativeWorkSeries
-  - thing
+  - CreativeWork/creativeWorkSeries
 ---
 # Part II, Volume 157, Number 24

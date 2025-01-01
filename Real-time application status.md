@@ -6,7 +6,8 @@ aliases:
 created: 2024-12-31
 modified: 2024-12-31
 tags:
-  - gcpolicy
+  - policy/digital
+  - policy/service
 descriptionFR: L’état actuel d’une demande concernant un service ou un produit.
 descriptionEN: Information on the current standing of a request for a service or product.
 ---

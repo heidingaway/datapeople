@@ -7,7 +7,7 @@ aliases:
 created: 2024-12-31
 modified: 2024-12-31
 tags:
-  - gcpolicy
+  - policy/gender
   - WAGE
 author: "[[406.01.239 Women and Gender Equality Canada|WAGE]]"
 descriptionEN: "Gender expression refers to the various ways in which people choose to express their gender identity. For example: clothes, voice, hair, make-up, etc. A person’s gender expression may not align with societal expectations of gender. It is therefore not a reliable indicator of a person’s gender identity."

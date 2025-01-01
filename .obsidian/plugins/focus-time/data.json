@@ -1,28 +1,16 @@
 {
   "readData": {
-    "standards/PIB/PSU 909 Travel.md": {
-      "fileId": "1735507322802",
-      "filePath": "standards/PIB/PSU 909 Travel.md",
-      "duration": 0,
-      "openCount": 2
-    },
     "Home.md": {
       "fileId": "1735507327332",
       "filePath": "Home.md",
-      "duration": 666000,
-      "openCount": 105
+      "duration": 906000,
+      "openCount": 109
     },
     "standards/gcthesaurus/Personal information.md": {
       "fileId": "1735507513226",
       "filePath": "standards/gcthesaurus/Personal information.md",
       "duration": 36000,
       "openCount": 8
-    },
-    "standards/PIB/PSU 912 Professional Services Contracts.md": {
-      "fileId": "1735507531161",
-      "filePath": "standards/PIB/PSU 912 Professional Services Contracts.md",
-      "duration": 6000,
-      "openCount": 2
     },
     "standards/gcthesaurus/Bank of Canada.md": {
       "fileId": "1735507541469",
@@ -33,8 +21,8 @@
     "standards/gcthesaurus/Retail Payment Activities Act (RPAA).md": {
       "fileId": "1735507549269",
       "filePath": "standards/gcthesaurus/Retail Payment Activities Act (RPAA).md",
-      "duration": 78000,
-      "openCount": 7
+      "duration": 96000,
+      "openCount": 10
     },
     "standards/gcthesaurus/National debt.md": {
       "fileId": "1735507555161",
@@ -52,7 +40,7 @@
       "fileId": "1735507720632",
       "filePath": "standards/gcthesaurus/Payment service providers (PSPs).md",
       "duration": 12000,
-      "openCount": 5
+      "openCount": 6
     },
     "standards/gcthesaurus/Compliance.md": {
       "fileId": "1735507895690",
@@ -148,7 +136,7 @@
       "fileId": "1735509439231",
       "filePath": "Index/403 Event.md",
       "duration": 60000,
-      "openCount": 9
+      "openCount": 10
     },
     "standards/country/408.01.10244 Canada.md": {
       "fileId": "1735509553162",
@@ -165,14 +153,14 @@
     "standards/dates/Saint-Jean-Baptiste Day.md": {
       "fileId": "1735509667161",
       "filePath": "standards/dates/Saint-Jean-Baptiste Day.md",
-      "duration": 138000,
-      "openCount": 6
+      "duration": 150000,
+      "openCount": 10
     },
     "Index/403.02 EventSeries.md": {
       "fileId": "1735509421161",
       "filePath": "Index/403.02 EventSeries.md",
-      "duration": 120000,
-      "openCount": 11
+      "duration": 156000,
+      "openCount": 20
     },
     "standards/pt/408.01.04.24 Quebec.md": {
       "fileId": "1735509859161",
@@ -207,44 +195,44 @@
     "standards/dates/Family Day.md": {
       "fileId": "1735509943161",
       "filePath": "standards/dates/Family Day.md",
-      "duration": 198000,
-      "openCount": 13
+      "duration": 204000,
+      "openCount": 17
     },
     "standards/dates/Civic Holiday.md": {
       "fileId": "1735510435161",
       "filePath": "standards/dates/Civic Holiday.md",
-      "duration": 108000,
-      "openCount": 4
+      "duration": 120000,
+      "openCount": 7
     },
     "standards/dates/Labour Day.md": {
       "fileId": "1735510543162",
       "filePath": "standards/dates/Labour Day.md",
-      "duration": 72000,
-      "openCount": 4
+      "duration": 84000,
+      "openCount": 5
     },
     "standards/dates/National Day for Truth and Reconciliation.md": {
       "fileId": "1735510597161",
       "filePath": "standards/dates/National Day for Truth and Reconciliation.md",
-      "duration": 72000,
-      "openCount": 4
+      "duration": 78000,
+      "openCount": 6
     },
     "standards/dates/Canada Day.md": {
       "fileId": "1735510387162",
       "filePath": "standards/dates/Canada Day.md",
-      "duration": 60000,
-      "openCount": 6
+      "duration": 72000,
+      "openCount": 9
     },
     "standards/dates/Victoria Day.md": {
       "fileId": "1735510297161",
       "filePath": "standards/dates/Victoria Day.md",
-      "duration": 72000,
-      "openCount": 4
+      "duration": 84000,
+      "openCount": 5
     },
     "standards/dates/Good Friday.md": {
       "fileId": "1735510669161",
       "filePath": "standards/dates/Good Friday.md",
-      "duration": 36000,
-      "openCount": 4
+      "duration": 42000,
+      "openCount": 6
     },
     "Bank of Canada holiday schedule.md": {
       "fileId": "1735508713161",
@@ -255,26 +243,26 @@
     "standards/dates/Thanksgiving Day.md": {
       "fileId": "1735510741161",
       "filePath": "standards/dates/Thanksgiving Day.md",
-      "duration": 48000,
-      "openCount": 4
+      "duration": 60000,
+      "openCount": 8
     },
     "standards/dates/Remembrance Day.md": {
       "fileId": "1735510777161",
       "filePath": "standards/dates/Remembrance Day.md",
-      "duration": 42000,
-      "openCount": 3
+      "duration": 54000,
+      "openCount": 6
     },
     "Index/403.02 National holidays.md": {
       "fileId": "1735509409162",
       "filePath": "Index/403.02 National holidays.md",
-      "duration": 186000,
-      "openCount": 11
+      "duration": 192000,
+      "openCount": 15
     },
     "Index/403.02 Provincial Holidays.md": {
       "fileId": "1735509727162",
       "filePath": "Index/403.02 Provincial Holidays.md",
-      "duration": 102000,
-      "openCount": 8
+      "duration": 162000,
+      "openCount": 11
     },
     "standards/Bank of Canada/case selection.md": {
       "fileId": "1735511053161",
@@ -345,14 +333,14 @@
     "standards/Bank of Canada/Retail Payment Activities Regulations.md": {
       "fileId": "1735511719174",
       "filePath": "standards/Bank of Canada/Retail Payment Activities Regulations.md",
-      "duration": 174000,
-      "openCount": 7
+      "duration": 222000,
+      "openCount": 11
     },
     "CG Part II, Volume 157, Number 24.md": {
       "fileId": "1735511983161",
       "filePath": "CG Part II, Volume 157, Number 24.md",
-      "duration": 108000,
-      "openCount": 8
+      "duration": 138000,
+      "openCount": 10
     },
     "402.02 CreativeWorkSeries.md": {
       "fileId": "1735512079161",
@@ -375,8 +363,8 @@
     "standards/Bank of Canada/Retail payments supervision.md": {
       "fileId": "1735507543161",
       "filePath": "standards/Bank of Canada/Retail payments supervision.md",
-      "duration": 408000,
-      "openCount": 19
+      "duration": 414000,
+      "openCount": 20
     },
     "standards/gcthesaurus/Monetary policy.md": {
       "fileId": "1735512559161",
@@ -406,19 +394,19 @@
       "fileId": "1735512769162",
       "filePath": "Info Source.md",
       "duration": 348000,
-      "openCount": 10
+      "openCount": 12
     },
     "List of institutions - Info Source.md": {
       "fileId": "1735513039161",
       "filePath": "List of institutions - Info Source.md",
-      "duration": 156000,
-      "openCount": 10
+      "duration": 168000,
+      "openCount": 12
     },
     "Access to Information and Privacy Act.md": {
       "fileId": "1735513117162",
       "filePath": "Access to Information and Privacy Act.md",
-      "duration": 144000,
-      "openCount": 11
+      "duration": 150000,
+      "openCount": 13
     },
     "Agreement on the Inflation-Control Target.md": {
       "fileId": "1735513471161",
@@ -489,8 +477,8 @@
     "Privacy Act.md": {
       "fileId": "1735514833161",
       "filePath": "Privacy Act.md",
-      "duration": 54000,
-      "openCount": 3
+      "duration": 60000,
+      "openCount": 5
     },
     "Privacy Commissioner of Canada.md": {
       "fileId": "1735514899172",
@@ -513,8 +501,8 @@
     "standards/dates/Day after New Year.md": {
       "fileId": "1735509643161",
       "filePath": "standards/dates/Day after New Year.md",
-      "duration": 90000,
-      "openCount": 5
+      "duration": 138000,
+      "openCount": 9
     },
     "standards/gcthesaurus/Rates.md": {
       "fileId": "1735515073161",
@@ -531,32 +519,32 @@
     "2023-2026 Data Strategy for the Federal Public Service.md": {
       "fileId": "1735515955038",
       "filePath": "2023-2026 Data Strategy for the Federal Public Service.md",
-      "duration": 36000,
-      "openCount": 5
+      "duration": 48000,
+      "openCount": 8
     },
     "CDO Work Description Template.md": {
       "fileId": "1735515955161",
       "filePath": "CDO Work Description Template.md",
-      "duration": 42000,
-      "openCount": 5
+      "duration": 48000,
+      "openCount": 6
     },
     "Executive (EX) Group Job Evaluation Standard 2022.md": {
       "fileId": "1735515956673",
       "filePath": "Executive (EX) Group Job Evaluation Standard 2022.md",
-      "duration": 18000,
-      "openCount": 2
+      "duration": 24000,
+      "openCount": 3
     },
     "GC Policy Suite - Digital.md": {
       "fileId": "1735515957188",
       "filePath": "GC Policy Suite - Digital.md",
-      "duration": 18000,
-      "openCount": 2
+      "duration": 24000,
+      "openCount": 3
     },
     "Glossary - 2023-2026 Data Strategy for the Federal Public Service.md": {
       "fileId": "1735515961161",
       "filePath": "Glossary - 2023-2026 Data Strategy for the Federal Public Service.md",
-      "duration": 492000,
-      "openCount": 4
+      "duration": 498000,
+      "openCount": 6
     },
     "standards/gcthesaurus/Government On-Line Electronic government.md": {
       "fileId": "1735516507162",
@@ -897,8 +885,8 @@
     "Appendix J Standard on Systems that Manage Information and Data.md": {
       "fileId": "1735520251227",
       "filePath": "Appendix J Standard on Systems that Manage Information and Data.md",
-      "duration": 6000,
-      "openCount": 2
+      "duration": 60000,
+      "openCount": 3
     },
     "standards/gcthesaurus/Demographic maps.md": {
       "fileId": "1735520341171",
@@ -1995,8 +1983,8 @@
     "standards/gcthesaurus/Games.md": {
       "fileId": "1735527403161",
       "filePath": "standards/gcthesaurus/Games.md",
-      "duration": 42000,
-      "openCount": 6
+      "duration": 60000,
+      "openCount": 8
     },
     "standards/gcthesaurus/Toxicology Toxic substances.md": {
       "fileId": "1735527445161",
@@ -2559,8 +2547,8 @@
     "Central Intelligence Agency.md": {
       "fileId": "1735582630109",
       "filePath": "Central Intelligence Agency.md",
-      "duration": 66000,
-      "openCount": 4
+      "duration": 150000,
+      "openCount": 6
     },
     "standards/country/408.01.10194 United States.md": {
       "fileId": "1735582642109",
@@ -2583,8 +2571,8 @@
     "standards/gcthesaurus/Sports.md": {
       "fileId": "1735583020110",
       "filePath": "standards/gcthesaurus/Sports.md",
-      "duration": 24000,
-      "openCount": 3
+      "duration": 66000,
+      "openCount": 5
     },
     "standards/gcthesaurus/Athletes.md": {
       "fileId": "1735583050113",
@@ -3453,8 +3441,8 @@
     "standards/gcthesaurus/Botanical gardens.md": {
       "fileId": "1735589686178",
       "filePath": "standards/gcthesaurus/Botanical gardens.md",
-      "duration": 36000,
-      "openCount": 5
+      "duration": 42000,
+      "openCount": 6
     },
     "standards/gcthesaurus/Gardens.md": {
       "fileId": "1735589752110",
@@ -3675,8 +3663,8 @@
     "Index/000 Index.md": {
       "fileId": "1735591864370",
       "filePath": "Index/000 Index.md",
-      "duration": 0,
-      "openCount": 1
+      "duration": 18000,
+      "openCount": 2
     },
     "PerformingGroup.md": {
       "fileId": "1735591872745",
@@ -4341,8 +4329,8 @@
     "standards/gcthesaurus/Accessible transport.md": {
       "fileId": "1735597651121",
       "filePath": "standards/gcthesaurus/Accessible transport.md",
-      "duration": 18000,
-      "openCount": 2
+      "duration": 36000,
+      "openCount": 4
     },
     "standards/gcthesaurus/Electric power stations.md": {
       "fileId": "1735597711121",
@@ -5469,8 +5457,8 @@
     "standards/gcthesaurus/Recreation.md": {
       "fileId": "1735605367121",
       "filePath": "standards/gcthesaurus/Recreation.md",
-      "duration": 6000,
-      "openCount": 2
+      "duration": 24000,
+      "openCount": 5
     },
     "standards/gcthesaurus/Offshore drilling.md": {
       "fileId": "1735605385121",
@@ -6471,14 +6459,14 @@
     "standards/gcthesaurus/Gambling.md": {
       "fileId": "1735615186826",
       "filePath": "standards/gcthesaurus/Gambling.md",
-      "duration": 24000,
-      "openCount": 6
+      "duration": 42000,
+      "openCount": 7
     },
     "Index/501 SO Society and Culture.md": {
       "fileId": "1735615249358",
       "filePath": "Index/501 SO Society and Culture.md",
-      "duration": 408000,
-      "openCount": 5
+      "duration": 480000,
+      "openCount": 13
     },
     "standards/gcthesaurus/Electronic publishing.md": {
       "fileId": "1735615721029",
@@ -6789,8 +6777,8 @@
     "standards/gcthesaurus/Parks.md": {
       "fileId": "1735617771990",
       "filePath": "standards/gcthesaurus/Parks.md",
-      "duration": 0,
-      "openCount": 1
+      "duration": 6000,
+      "openCount": 2
     },
     "standards/gcthesaurus/Provinces Natural heritage.md": {
       "fileId": "1735617786792",
@@ -7083,8 +7071,8 @@
     "Index/402 CreativeWork.md": {
       "fileId": "1735619880792",
       "filePath": "Index/402 CreativeWork.md",
-      "duration": 384000,
-      "openCount": 32
+      "duration": 390000,
+      "openCount": 34
     },
     "standards/gcthesaurus/Art works.md": {
       "fileId": "1735623049294",
@@ -7137,8 +7125,8 @@
     "Index/501 Government of Canada Core Subject Thesaurus.md": {
       "fileId": "1735623763294",
       "filePath": "Index/501 Government of Canada Core Subject Thesaurus.md",
-      "duration": 246000,
-      "openCount": 40
+      "duration": 288000,
+      "openCount": 45
     },
     "Index/501 AG Agriculture.md": {
       "fileId": "1735623781294",
@@ -7216,7 +7204,7 @@
       "fileId": "1735625601692",
       "filePath": "404.06 Data and Information.md",
       "duration": 24000,
-      "openCount": 3
+      "openCount": 4
     },
     "Disposing of Metadata.md": {
       "fileId": "1735625631691",
@@ -7234,7 +7222,7 @@
       "fileId": "1735625679693",
       "filePath": "Index/501 TR Transport.md",
       "duration": 18000,
-      "openCount": 3
+      "openCount": 4
     },
     "standards/gcthesaurus/Heritage.md": {
       "fileId": "1735625859691",
@@ -7689,8 +7677,8 @@
     "Mission 1.1.md": {
       "fileId": "1735674103660",
       "filePath": "Mission 1.1.md",
-      "duration": 18000,
-      "openCount": 2
+      "duration": 30000,
+      "openCount": 4
     },
     "Index/100 Project.md": {
       "fileId": "1735674121660",
@@ -7701,14 +7689,14 @@
     "Index/404.02 Property.md": {
       "fileId": "1735674127660",
       "filePath": "Index/404.02 Property.md",
-      "duration": 12000,
-      "openCount": 2
+      "duration": 42000,
+      "openCount": 5
     },
     "Index/404.03 Class.md": {
       "fileId": "1735674139660",
       "filePath": "Index/404.03 Class.md",
-      "duration": 30000,
-      "openCount": 3
+      "duration": 54000,
+      "openCount": 4
     },
     "Index/408 Place.md": {
       "fileId": "1735674163660",
@@ -7719,8 +7707,8 @@
     "Index/409 Product.md": {
       "fileId": "1735674175660",
       "filePath": "Index/409 Product.md",
-      "duration": 24000,
-      "openCount": 3
+      "duration": 30000,
+      "openCount": 4
     },
     "405.01 MedicalCondition.md": {
       "fileId": "1735674187660",
@@ -7803,8 +7791,8 @@
     "Index/404.01.01a addressLocality.md": {
       "fileId": "1735674433660",
       "filePath": "Index/404.01.01a addressLocality.md",
-      "duration": 48000,
-      "openCount": 4
+      "duration": 60000,
+      "openCount": 6
     },
     "Index/404.04 Quantity.md": {
       "fileId": "1735674487660",
@@ -7834,7 +7822,7 @@
       "fileId": "1735674715660",
       "filePath": "Information and Data Domains (IDD).md",
       "duration": 42000,
-      "openCount": 2
+      "openCount": 4
     },
     "407.02 Employee.md": {
       "fileId": "1735674757660",
@@ -7887,20 +7875,14 @@
     "standards/person/Data Reference Standard on Persons Gender.md": {
       "fileId": "1735675179039",
       "filePath": "standards/person/Data Reference Standard on Persons Gender.md",
-      "duration": 612000,
-      "openCount": 16
-    },
-    "standards/person/Modernizing the Government of Canada's Sex and Gender Information Practices Summary Report.md": {
-      "fileId": "1735675953039",
-      "filePath": "standards/person/Modernizing the Government of Canada's Sex and Gender Information Practices Summary Report.md",
-      "duration": 18000,
-      "openCount": 2
+      "duration": 660000,
+      "openCount": 21
     },
     "standards/person/Disaggregated Data Action Plan.md": {
       "fileId": "1735675995039",
       "filePath": "standards/person/Disaggregated Data Action Plan.md",
-      "duration": 24000,
-      "openCount": 3
+      "duration": 78000,
+      "openCount": 4
     },
     "standards/gcdepts/406.01.238 Treasury Board of Canada Secretariat.md": {
       "fileId": "1735676133039",
@@ -7917,8 +7899,8 @@
     "standards/person/2SLGBTQI Terminology Glossary and Common Acronyms.md": {
       "fileId": "1735676379043",
       "filePath": "standards/person/2SLGBTQI Terminology Glossary and Common Acronyms.md",
-      "duration": 2316000,
-      "openCount": 108
+      "duration": 2340000,
+      "openCount": 110
     },
     "standards/gcdepts/406.01.239 Women and Gender Equality Canada.md": {
       "fileId": "1735676403039",
@@ -7929,212 +7911,206 @@
     "standards/person/2SLGBTQI (20241231152234).md": {
       "fileId": "1735676643039",
       "filePath": "standards/person/2SLGBTQI (20241231152234).md",
-      "duration": 264000,
-      "openCount": 11
+      "duration": 288000,
+      "openCount": 13
     },
     "standards/person/LGBTQ2 (20241231152237).md": {
       "fileId": "1735676739039",
       "filePath": "standards/person/LGBTQ2 (20241231152237).md",
       "duration": 144000,
-      "openCount": 4
+      "openCount": 5
     },
     "standards/person/LGBTI (20241231152240).md": {
       "fileId": "1735676805039",
       "filePath": "standards/person/LGBTI (20241231152240).md",
-      "duration": 54000,
-      "openCount": 3
+      "duration": 60000,
+      "openCount": 4
     },
     "standards/person/SGM (20241231152243).md": {
       "fileId": "1735676835039",
       "filePath": "standards/person/SGM (20241231152243).md",
-      "duration": 102000,
-      "openCount": 4
+      "duration": 108000,
+      "openCount": 5
     },
     "standards/person/SOGI (20241231152245).md": {
       "fileId": "1735676877039",
       "filePath": "standards/person/SOGI (20241231152245).md",
       "duration": 66000,
-      "openCount": 4
+      "openCount": 5
     },
     "standards/person/SOGIE (20241231152252).md": {
       "fileId": "1735676913039",
       "filePath": "standards/person/SOGIE (20241231152252).md",
       "duration": 72000,
-      "openCount": 3
+      "openCount": 4
     },
     "standards/person/SOGIESC (20241231152256).md": {
       "fileId": "1735676955039",
       "filePath": "standards/person/SOGIESC (20241231152256).md",
-      "duration": 54000,
-      "openCount": 3
+      "duration": 60000,
+      "openCount": 4
     },
     "standards/person/SSOGIE (20241231152258).md": {
       "fileId": "1735676985050",
       "filePath": "standards/person/SSOGIE (20241231152258).md",
       "duration": 54000,
-      "openCount": 3
+      "openCount": 4
     },
     "standards/person/Aromantic 20241231155841.md": {
       "fileId": "1735678779039",
       "filePath": "standards/person/Aromantic 20241231155841.md",
-      "duration": 150000,
-      "openCount": 9
+      "duration": 156000,
+      "openCount": 10
     },
     "standards/person/Asexual 20241231155843.md": {
       "fileId": "1735678815039",
       "filePath": "standards/person/Asexual 20241231155843.md",
       "duration": 66000,
-      "openCount": 6
+      "openCount": 7
     },
     "standards/person/Biphobia 20241231155845.md": {
       "fileId": "1735678827039",
       "filePath": "standards/person/Biphobia 20241231155845.md",
-      "duration": 66000,
-      "openCount": 5
+      "duration": 72000,
+      "openCount": 6
     },
     "standards/person/Bisexual Biromantic 20241231155846.md": {
       "fileId": "1735678839039",
       "filePath": "standards/person/Bisexual Biromantic 20241231155846.md",
-      "duration": 78000,
-      "openCount": 5
+      "duration": 84000,
+      "openCount": 6
     },
     "standards/person/Cisgender 20241231155848.md": {
       "fileId": "1735678845048",
       "filePath": "standards/person/Cisgender 20241231155848.md",
       "duration": 54000,
-      "openCount": 5
+      "openCount": 6
     },
     "standards/person/Gay 20241231155849.md": {
       "fileId": "1735678851110",
       "filePath": "standards/person/Gay 20241231155849.md",
-      "duration": 36000,
-      "openCount": 5
+      "duration": 42000,
+      "openCount": 6
     },
     "standards/person/Gender Dysphoria 20241231155851.md": {
       "fileId": "1735678863039",
       "filePath": "standards/person/Gender Dysphoria 20241231155851.md",
-      "duration": 72000,
-      "openCount": 4
+      "duration": 78000,
+      "openCount": 5
     },
     "standards/person/Gender Expression 20241231155853.md": {
       "fileId": "1735678881044",
       "filePath": "standards/person/Gender Expression 20241231155853.md",
-      "duration": 96000,
-      "openCount": 5
+      "duration": 102000,
+      "openCount": 6
     },
     "standards/person/Gender-fluid 20241231155855.md": {
       "fileId": "1735678893039",
       "filePath": "standards/person/Gender-fluid 20241231155855.md",
-      "duration": 36000,
-      "openCount": 4
+      "duration": 42000,
+      "openCount": 5
     },
     "standards/person/Gender Identity 20241231155857.md": {
       "fileId": "1735678899087",
       "filePath": "standards/person/Gender Identity 20241231155857.md",
       "duration": 84000,
-      "openCount": 4
+      "openCount": 5
     },
     "standards/person/Heterosexual Heteroromantic 20241231155859.md": {
       "fileId": "1735678911039",
       "filePath": "standards/person/Heterosexual Heteroromantic 20241231155859.md",
       "duration": 102000,
-      "openCount": 6
+      "openCount": 7
     },
     "standards/person/Homophobia 2024123115591.md": {
       "fileId": "1735678917039",
       "filePath": "standards/person/Homophobia 2024123115591.md",
-      "duration": 24000,
-      "openCount": 4
+      "duration": 36000,
+      "openCount": 7
     },
     "standards/person/Homosexual 2024123115592.md": {
       "fileId": "1735678923039",
       "filePath": "standards/person/Homosexual 2024123115592.md",
       "duration": 72000,
-      "openCount": 4
+      "openCount": 6
     },
     "standards/person/Intersex 2024123115594.md": {
       "fileId": "1735678929044",
       "filePath": "standards/person/Intersex 2024123115594.md",
       "duration": 66000,
-      "openCount": 5
+      "openCount": 6
     },
     "standards/person/Lesbian 2024123115596.md": {
       "fileId": "1735678935043",
       "filePath": "standards/person/Lesbian 2024123115596.md",
       "duration": 36000,
-      "openCount": 3
+      "openCount": 4
     },
     "standards/person/Non-Binary 2024123115597.md": {
       "fileId": "1735678940213",
       "filePath": "standards/person/Non-Binary 2024123115597.md",
-      "duration": 54000,
-      "openCount": 3
+      "duration": 60000,
+      "openCount": 4
     },
     "standards/person/Pansexual 2024123115598.md": {
       "fileId": "1735678944691",
       "filePath": "standards/person/Pansexual 2024123115598.md",
       "duration": 24000,
-      "openCount": 3
+      "openCount": 4
     },
     "standards/person/Queer 20241231155910.md": {
       "fileId": "1735678947039",
       "filePath": "standards/person/Queer 20241231155910.md",
-      "duration": 54000,
-      "openCount": 4
+      "duration": 60000,
+      "openCount": 5
     },
     "standards/person/Questioning 20241231155912.md": {
       "fileId": "1735678953040",
       "filePath": "standards/person/Questioning 20241231155912.md",
-      "duration": 42000,
-      "openCount": 4
+      "duration": 48000,
+      "openCount": 5
     },
     "standards/person/Sexual Orientation 20241231155913.md": {
       "fileId": "1735678958497",
       "filePath": "standards/person/Sexual Orientation 20241231155913.md",
       "duration": 30000,
-      "openCount": 3
+      "openCount": 4
     },
     "standards/person/Transgender 20241231155915.md": {
       "fileId": "1735678962765",
       "filePath": "standards/person/Transgender 20241231155915.md",
-      "duration": 48000,
-      "openCount": 3
+      "duration": 54000,
+      "openCount": 4
     },
     "standards/person/Transphobia 20241231155917.md": {
       "fileId": "1735678965039",
       "filePath": "standards/person/Transphobia 20241231155917.md",
       "duration": 36000,
-      "openCount": 4
+      "openCount": 5
     },
     "standards/person/Transsexual 20241231155920.md": {
       "fileId": "1735678971039",
       "filePath": "standards/person/Transsexual 20241231155920.md",
       "duration": 66000,
-      "openCount": 4
+      "openCount": 5
     },
     "standards/person/Two-Spirit 20241231155922.md": {
       "fileId": "1735678977039",
       "filePath": "standards/person/Two-Spirit 20241231155922.md",
-      "duration": 72000,
-      "openCount": 3
-    },
-    "standards/person/Data Reference Standard on Persons sex assigned at birth.md": {
-      "fileId": "1735675659039",
-      "filePath": "standards/person/Data Reference Standard on Persons sex assigned at birth.md",
-      "duration": 312000,
-      "openCount": 7
+      "duration": 78000,
+      "openCount": 4
     },
     "Classification of sex at birth, variant.md": {
       "fileId": "1735684263039",
       "filePath": "Classification of sex at birth, variant.md",
-      "duration": 156000,
-      "openCount": 2
+      "duration": 396000,
+      "openCount": 4
     },
     "Appendix L Standard for Managing Metadata (2024).md": {
       "fileId": "1735684611039",
       "filePath": "Appendix L Standard for Managing Metadata (2024).md",
       "duration": 6000,
-      "openCount": 2
+      "openCount": 4
     },
     "standards/person/Directive on Service and Digital.md": {
       "fileId": "1735684645297",
@@ -8145,92 +8121,92 @@
     "Policy on Service and Digital.md": {
       "fileId": "1735684653039",
       "filePath": "Policy on Service and Digital.md",
-      "duration": 1890000,
-      "openCount": 50
+      "duration": 1992000,
+      "openCount": 94
     },
     "Applications.md": {
       "fileId": "1735686333039",
       "filePath": "Applications.md",
-      "duration": 30000,
-      "openCount": 4
+      "duration": 48000,
+      "openCount": 6
     },
     "Artificial Intelligence.md": {
       "fileId": "1735686369040",
       "filePath": "Artificial Intelligence.md",
-      "duration": 24000,
-      "openCount": 2
+      "duration": 30000,
+      "openCount": 4
     },
     "Automated Decision System.md": {
       "fileId": "1735686411040",
       "filePath": "Automated Decision System.md",
       "duration": 24000,
-      "openCount": 2
+      "openCount": 4
     },
     "Client.md": {
       "fileId": "1735686441039",
       "filePath": "Client.md",
-      "duration": 18000,
-      "openCount": 2
+      "duration": 30000,
+      "openCount": 4
     },
     "Client-centric.md": {
       "fileId": "1735686465039",
       "filePath": "Client-centric.md",
       "duration": 12000,
-      "openCount": 2
+      "openCount": 4
     },
     "Client feedback.md": {
       "fileId": "1735686489040",
       "filePath": "Client feedback.md",
-      "duration": 48000,
-      "openCount": 2
+      "duration": 60000,
+      "openCount": 5
     },
     "COBIT.md": {
       "fileId": "1735686543039",
       "filePath": "COBIT.md",
-      "duration": 108000,
-      "openCount": 2
+      "duration": 120000,
+      "openCount": 4
     },
     "Cyber security.md": {
       "fileId": "1735686657039",
       "filePath": "Cyber security.md",
-      "duration": 30000,
-      "openCount": 2
+      "duration": 42000,
+      "openCount": 5
     },
     "20241231181139 Data.md": {
       "fileId": "1735686693039",
       "filePath": "20241231181139 Data.md",
-      "duration": 36000,
-      "openCount": 2
+      "duration": 84000,
+      "openCount": 5
     },
     "Devices.md": {
       "fileId": "1735686747039",
       "filePath": "Devices.md",
-      "duration": 42000,
-      "openCount": 2
+      "duration": 54000,
+      "openCount": 5
     },
     "Digital.md": {
       "fileId": "1735686795039",
       "filePath": "Digital.md",
-      "duration": 18000,
-      "openCount": 2
+      "duration": 36000,
+      "openCount": 5
     },
     "Digitally enabled.md": {
       "fileId": "1735686819040",
       "filePath": "Digitally enabled.md",
-      "duration": 24000,
-      "openCount": 2
+      "duration": 30000,
+      "openCount": 4
     },
     "Digital initiative.md": {
       "fileId": "1735686849039",
       "filePath": "Digital initiative.md",
-      "duration": 42000,
-      "openCount": 2
+      "duration": 54000,
+      "openCount": 5
     },
     "Electronic network.md": {
       "fileId": "1735686897039",
       "filePath": "Electronic network.md",
       "duration": 30000,
-      "openCount": 2
+      "openCount": 4
     },
     "emerging technologies.md": {
       "fileId": "1735686939039",
@@ -8241,116 +8217,116 @@
     "2024123118165 Emerging technologies.md": {
       "fileId": "1735686963039",
       "filePath": "2024123118165 Emerging technologies.md",
-      "duration": 84000,
-      "openCount": 2
+      "duration": 138000,
+      "openCount": 6
     },
     "Enterprise Architecture.md": {
       "fileId": "1735687059043",
       "filePath": "Enterprise Architecture.md",
-      "duration": 36000,
-      "openCount": 3
+      "duration": 42000,
+      "openCount": 5
     },
     "Enterprise Information Management solution.md": {
       "fileId": "1735687107039",
       "filePath": "Enterprise Information Management solution.md",
-      "duration": 36000,
-      "openCount": 2
+      "duration": 42000,
+      "openCount": 4
     },
     "External services.md": {
       "fileId": "1735687155039",
       "filePath": "External services.md",
-      "duration": 24000,
-      "openCount": 2
+      "duration": 30000,
+      "openCount": 4
     },
     "Identity assurance.md": {
       "fileId": "1735687185039",
       "filePath": "Identity assurance.md",
       "duration": 18000,
-      "openCount": 2
+      "openCount": 4
     },
     "Information.md": {
       "fileId": "1735687209040",
       "filePath": "Information.md",
-      "duration": 18000,
-      "openCount": 2
+      "duration": 30000,
+      "openCount": 4
     },
     "Information architecture.md": {
       "fileId": "1735687233039",
       "filePath": "Information architecture.md",
-      "duration": 12000,
-      "openCount": 2
+      "duration": 24000,
+      "openCount": 5
     },
     "Information life cycle.md": {
       "fileId": "1735687251039",
       "filePath": "Information life cycle.md",
       "duration": 18000,
-      "openCount": 2
+      "openCount": 4
     },
     "Information management.md": {
       "fileId": "1735687275039",
       "filePath": "Information management.md",
-      "duration": 6000,
-      "openCount": 2
+      "duration": 12000,
+      "openCount": 4
     },
     "Information technology.md": {
       "fileId": "1735687293039",
       "filePath": "Information technology.md",
-      "duration": 24000,
-      "openCount": 2
+      "duration": 30000,
+      "openCount": 4
     },
     "Interoperability.md": {
       "fileId": "1735687323039",
       "filePath": "Interoperability.md",
       "duration": 18000,
-      "openCount": 2
+      "openCount": 4
     },
     "Internal Enterprise Services.md": {
       "fileId": "1735687347039",
       "filePath": "Internal Enterprise Services.md",
-      "duration": 12000,
-      "openCount": 2
+      "duration": 24000,
+      "openCount": 4
     },
     "ITIL.md": {
       "fileId": "1735687365039",
       "filePath": "ITIL.md",
       "duration": 66000,
-      "openCount": 2
+      "openCount": 4
     },
     "Management of information technology.md": {
       "fileId": "1735687437039",
       "filePath": "Management of information technology.md",
       "duration": 24000,
-      "openCount": 2
+      "openCount": 4
     },
     "Monitoring practices.md": {
       "fileId": "1735687467039",
       "filePath": "Monitoring practices.md",
       "duration": 18000,
-      "openCount": 2
+      "openCount": 4
     },
     "Online end-to-end.md": {
       "fileId": "1735687491039",
       "filePath": "Online end-to-end.md",
-      "duration": 24000,
-      "openCount": 2
+      "duration": 30000,
+      "openCount": 4
     },
     "Open access.md": {
       "fileId": "1735687521039",
       "filePath": "Open access.md",
-      "duration": 18000,
-      "openCount": 2
+      "duration": 30000,
+      "openCount": 4
     },
     "Personal information.md": {
       "fileId": "1735687545039",
       "filePath": "Personal information.md",
       "duration": 30000,
-      "openCount": 3
+      "openCount": 5
     },
     "20241231182623 Privacy breach.md": {
       "fileId": "1735687575039",
       "filePath": "20241231182623 Privacy breach.md",
       "duration": 168000,
-      "openCount": 13
+      "openCount": 15
     },
     "standards/gcdepts/406.01.261 Treasury Board.md": {
       "fileId": "1735687878461",
@@ -8385,26 +8361,26 @@
     "Real-time application status.md": {
       "fileId": "1735688301039",
       "filePath": "Real-time application status.md",
-      "duration": 30000,
-      "openCount": 2
+      "duration": 42000,
+      "openCount": 4
     },
     "Real-time performance informations.md": {
       "fileId": "1735688337039",
       "filePath": "Real-time performance informations.md",
-      "duration": 24000,
-      "openCount": 2
+      "duration": 36000,
+      "openCount": 4
     },
     "Repository 20241231183941.md": {
       "fileId": "1735688373039",
       "filePath": "Repository 20241231183941.md",
       "duration": 36000,
-      "openCount": 2
+      "openCount": 4
     },
     "Service 20241231184048.md": {
       "fileId": "1735688433039",
       "filePath": "Service 20241231184048.md",
       "duration": 66000,
-      "openCount": 6
+      "openCount": 8
     },
     "standards/gcthesaurus/4869 Services.md": {
       "fileId": "1735688437647",
@@ -8415,104 +8391,98 @@
     "20241231184637 Service Inventory.md": {
       "fileId": "1735688793039",
       "filePath": "20241231184637 Service Inventory.md",
-      "duration": 30000,
-      "openCount": 4
+      "duration": 42000,
+      "openCount": 6
     },
     "20241231184725 Service Standard.md": {
       "fileId": "1735688847039",
       "filePath": "20241231184725 Service Standard.md",
-      "duration": 36000,
-      "openCount": 2
+      "duration": 60000,
+      "openCount": 4
     },
     "Government of Canada Digital Standards.md": {
       "fileId": "1735689131818",
       "filePath": "Government of Canada Digital Standards.md",
-      "duration": 1014000,
-      "openCount": 51
-    },
-    "20241231185836 Design with users.md": {
-      "fileId": "1735690529818",
-      "filePath": "20241231185836 Design with users.md",
-      "duration": 714000,
-      "openCount": 34
+      "duration": 1032000,
+      "openCount": 56
     },
     "Iterate and improve frequently 20241231185847.md": {
       "fileId": "1735690607818",
       "filePath": "Iterate and improve frequently 20241231185847.md",
-      "duration": 384000,
-      "openCount": 19
+      "duration": 408000,
+      "openCount": 23
     },
     "Work in the open by default 20241231185859.md": {
       "fileId": "1735690667818",
       "filePath": "Work in the open by default 20241231185859.md",
-      "duration": 762000,
-      "openCount": 11
+      "duration": 792000,
+      "openCount": 13
     },
     "Use open standards and solutions 20241231191215.md": {
       "fileId": "1735690709818",
       "filePath": "Use open standards and solutions 20241231191215.md",
-      "duration": 366000,
-      "openCount": 9
+      "duration": 378000,
+      "openCount": 11
     },
     "Address security and privacy risks 2024123119132.md": {
       "fileId": "1735690745818",
       "filePath": "Address security and privacy risks 2024123119132.md",
-      "duration": 342000,
-      "openCount": 7
+      "duration": 360000,
+      "openCount": 9
     },
     "Build in accessibility from the start 20241231191336.md": {
       "fileId": "1735690799818",
       "filePath": "Build in accessibility from the start 20241231191336.md",
-      "duration": 96000,
-      "openCount": 4
+      "duration": 108000,
+      "openCount": 6
     },
     "Empower staff to deliver better services 20241231191339.md": {
       "fileId": "1735690835818",
       "filePath": "Empower staff to deliver better services 20241231191339.md",
-      "duration": 1122000,
-      "openCount": 2
+      "duration": 1992000,
+      "openCount": 8
     },
     "Be good data stewards 20241231191359.md": {
       "fileId": "1735690877818",
       "filePath": "Be good data stewards 20241231191359.md",
-      "duration": 18000,
-      "openCount": 3
+      "duration": 138000,
+      "openCount": 9
     },
     "Design ethical services 20241231191422.md": {
       "fileId": "1735690906646",
       "filePath": "Design ethical services 20241231191422.md",
-      "duration": 48000,
-      "openCount": 2
+      "duration": 132000,
+      "openCount": 7
     },
     "Collaborate widely 20241231191432.md": {
       "fileId": "1735690973818",
       "filePath": "Collaborate widely 20241231191432.md",
-      "duration": 18000,
-      "openCount": 2
+      "duration": 96000,
+      "openCount": 6
     },
     "Policy on Communications and Federal Identity.md": {
       "fileId": "1735691219818",
       "filePath": "Policy on Communications and Federal Identity.md",
-      "duration": 72000,
-      "openCount": 3
+      "duration": 84000,
+      "openCount": 5
     },
     "standards/gcdepts/406.01.237 Government of Canada.md": {
       "fileId": "1735691279818",
       "filePath": "standards/gcdepts/406.01.237 Government of Canada.md",
-      "duration": 66000,
-      "openCount": 3
+      "duration": 84000,
+      "openCount": 5
     },
     "Directive on the Management of Communications.md": {
       "fileId": "1735691327818",
       "filePath": "Directive on the Management of Communications.md",
-      "duration": 66000,
-      "openCount": 2
+      "duration": 432000,
+      "openCount": 4
     },
     "Standards for the Conduct of Government of Canada Public Opinion Research Qualitative Research.md": {
       "fileId": "1735691417818",
       "filePath": "Standards for the Conduct of Government of Canada Public Opinion Research Qualitative Research.md",
-      "duration": 36000,
-      "openCount": 2
+      "duration": 60000,
+      "openCount": 3
     },
     "data analysis.md": {
       "fileId": "1735691687818",
@@ -8883,8 +8853,8 @@
     "broken links output.md": {
       "fileId": "1735696299731",
       "filePath": "broken links output.md",
-      "duration": 2664000,
-      "openCount": 41
+      "duration": 2850000,
+      "openCount": 58
     },
     "standards/gcthesaurus/Drug addiction.md": {
       "fileId": "1735696323731",
@@ -8901,8 +8871,8 @@
     "Index/406 Organization.md": {
       "fileId": "1735696521783",
       "filePath": "Index/406 Organization.md",
-      "duration": 42000,
-      "openCount": 5
+      "duration": 60000,
+      "openCount": 6
     },
     "standards/gcthesaurus/1239 Consortia.md": {
       "fileId": "1735696551731",
@@ -8955,8 +8925,8 @@
     "standards/gcthesaurus/4964 Bisexual people.md": {
       "fileId": "1735697043739",
       "filePath": "standards/gcthesaurus/4964 Bisexual people.md",
-      "duration": 72000,
-      "openCount": 4
+      "duration": 78000,
+      "openCount": 5
     },
     "standards/gcthesaurus/1103 Blindness.md": {
       "fileId": "1735697157731",
@@ -9177,8 +9147,8 @@
     "406.01 Government of the United Kingdom.md": {
       "fileId": "1735708197105",
       "filePath": "406.01 Government of the United Kingdom.md",
-      "duration": 36000,
-      "openCount": 2
+      "duration": 66000,
+      "openCount": 4
     },
     "Networks and communities of practice.md": {
       "fileId": "1735708275105",
@@ -9196,13 +9166,7 @@
       "fileId": "1735708323104",
       "filePath": "Global Government Forum.md",
       "duration": 36000,
-      "openCount": 2
-    },
-    "Index/Standard Personal Information Banks.md": {
-      "fileId": "1735708485126",
-      "filePath": "Index/Standard Personal Information Banks.md",
-      "duration": 12000,
-      "openCount": 2
+      "openCount": 3
     },
     "402.01 Dataset.md": {
       "fileId": "1735708495887",
@@ -9219,8 +9183,8 @@
     "standards/gcthesaurus/Bank of Canada Act.md": {
       "fileId": "1735708563104",
       "filePath": "standards/gcthesaurus/Bank of Canada Act.md",
-      "duration": 18000,
-      "openCount": 5
+      "duration": 30000,
+      "openCount": 6
     },
     "standards/gcthesaurus/Legislation 132.md": {
       "fileId": "1735507771200",
@@ -9273,14 +9237,14 @@
     "Index/406.01 GovernmentOrganization.md": {
       "fileId": "1735709079104",
       "filePath": "Index/406.01 GovernmentOrganization.md",
-      "duration": 12000,
-      "openCount": 2
+      "duration": 330000,
+      "openCount": 6
     },
     "Index/410 Taxon.md": {
       "fileId": "1735709110595",
       "filePath": "Index/410 Taxon.md",
-      "duration": 12000,
-      "openCount": 3
+      "duration": 18000,
+      "openCount": 4
     },
     "Index/411 DataTypes.md": {
       "fileId": "1735709127114",
@@ -9303,14 +9267,14 @@
     "standards/Bank of Canada/Funds Management.md": {
       "fileId": "1735507536177",
       "filePath": "standards/Bank of Canada/Funds Management.md",
-      "duration": 42000,
-      "openCount": 4
+      "duration": 66000,
+      "openCount": 5
     },
     "404.06 Data.md": {
       "fileId": "1735709379104",
       "filePath": "404.06 Data.md",
-      "duration": 18000,
-      "openCount": 2
+      "duration": 60000,
+      "openCount": 4
     },
     "Index/401.01 FindAction.md": {
       "fileId": "1735709394094",
@@ -9382,7 +9346,7 @@
       "fileId": "1735709541104",
       "filePath": "AccelerateGov.md",
       "duration": 24000,
-      "openCount": 3
+      "openCount": 4
     },
     "Index/408.01 AdministrativeArea.md": {
       "fileId": "1735709649104",
@@ -9441,14 +9405,14 @@
     "Index/502 Schema Org.md": {
       "fileId": "1735710165104",
       "filePath": "Index/502 Schema Org.md",
-      "duration": 12000,
-      "openCount": 2
+      "duration": 18000,
+      "openCount": 3
     },
     "standards/gcthesaurus/Butter.md": {
       "fileId": "1735738972449",
       "filePath": "standards/gcthesaurus/Butter.md",
-      "duration": 168000,
-      "openCount": 6
+      "duration": 480000,
+      "openCount": 8
     },
     "standards/gcthesaurus/butter.md": {
       "fileId": "1735739386449",
@@ -9477,8 +9441,338 @@
     "20250101095043 placeholder.md": {
       "fileId": "1735743049930",
       "filePath": "20250101095043 placeholder.md",
-      "duration": 30000,
+      "duration": 42000,
+      "openCount": 12
+    },
+    "Service Owner 20250101155058.md": {
+      "fileId": "1735764663288",
+      "filePath": "Service Owner 20250101155058.md",
+      "duration": 54000,
       "openCount": 7
+    },
+    "standards/person/Data practitioner 20250101155245.md": {
+      "fileId": "1735764765288",
+      "filePath": "standards/person/Data practitioner 20250101155245.md",
+      "duration": 36000,
+      "openCount": 3
+    },
+    "standards/person/Service owner.md": {
+      "fileId": "1735764831296",
+      "filePath": "standards/person/Service owner.md",
+      "duration": 12000,
+      "openCount": 3
+    },
+    "Design with users 20241231185836.md": {
+      "fileId": "1735690529818",
+      "filePath": "Design with users 20241231185836.md",
+      "duration": 810000,
+      "openCount": 44
+    },
+    "Government Digital and Data Profession Capability Framework.md": {
+      "fileId": "1735764969288",
+      "filePath": "Government Digital and Data Profession Capability Framework.md",
+      "duration": 114000,
+      "openCount": 4
+    },
+    "Data Maturity Assessment for Government (UK).md": {
+      "fileId": "1735765077288",
+      "filePath": "Data Maturity Assessment for Government (UK).md",
+      "duration": 30000,
+      "openCount": 2
+    },
+    "GC Enterprise Data Reference Standards.md": {
+      "fileId": "1735765647288",
+      "filePath": "GC Enterprise Data Reference Standards.md",
+      "duration": 6000,
+      "openCount": 3
+    },
+    "Guidance on Assessing Metadata Needs.md": {
+      "fileId": "1735765661454",
+      "filePath": "Guidance on Assessing Metadata Needs.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Guidance on Prescribing Metadata Reference Standards.md": {
+      "fileId": "1735765675909",
+      "filePath": "Guidance on Prescribing Metadata Reference Standards.md",
+      "duration": 0,
+      "openCount": 2
+    },
+    "Guidance on Metadata Life Cycle Management.md": {
+      "fileId": "1735765677313",
+      "filePath": "Guidance on Metadata Life Cycle Management.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Library and Archives of Canada Act.md": {
+      "fileId": "1735765707288",
+      "filePath": "Library and Archives of Canada Act.md",
+      "duration": 12000,
+      "openCount": 3
+    },
+    "Standard on Metadata (2010 rescinded 2024).md": {
+      "fileId": "1735765755288",
+      "filePath": "Standard on Metadata (2010 rescinded 2024).md",
+      "duration": 6000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Salaries.md": {
+      "fileId": "1735766121288",
+      "filePath": "standards/gcthesaurus/Salaries.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Income.md": {
+      "fileId": "1735766157290",
+      "filePath": "standards/gcthesaurus/Income.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "K1N 9J2.md": {
+      "fileId": "1735766289288",
+      "filePath": "K1N 9J2.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "Index/404.01.01a postalCode.md": {
+      "fileId": "1735766331288",
+      "filePath": "Index/404.01.01a postalCode.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "Untitled.md": {
+      "fileId": "1735768080285",
+      "filePath": "Untitled.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Service owner 20250101164927.md": {
+      "fileId": "1735764847446",
+      "filePath": "Service owner 20250101164927.md",
+      "duration": 138000,
+      "openCount": 11
+    },
+    "standards/gcthesaurus/Dairy products.md": {
+      "fileId": "1735769316273",
+      "filePath": "standards/gcthesaurus/Dairy products.md",
+      "duration": 30000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Dairy industry.md": {
+      "fileId": "1735769364273",
+      "filePath": "standards/gcthesaurus/Dairy industry.md",
+      "duration": 48000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Dairy cattle.md": {
+      "fileId": "1735769423321",
+      "filePath": "standards/gcthesaurus/Dairy cattle.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Cattle.md": {
+      "fileId": "1735769466285",
+      "filePath": "standards/gcthesaurus/Cattle.md",
+      "duration": 42000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Livestock.md": {
+      "fileId": "1735769508273",
+      "filePath": "standards/gcthesaurus/Livestock.md",
+      "duration": 48000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Slaughtering.md": {
+      "fileId": "1735769562273",
+      "filePath": "standards/gcthesaurus/Slaughtering.md",
+      "duration": 1170000,
+      "openCount": 6
+    },
+    "orphaned files output.md": {
+      "fileId": "1735772454273",
+      "filePath": "orphaned files output.md",
+      "duration": 18000,
+      "openCount": 3
+    },
+    "Policy on Access to Information.md": {
+      "fileId": "1735772556273",
+      "filePath": "Policy on Access to Information.md",
+      "duration": 90000,
+      "openCount": 6
+    },
+    "Gender of person.md": {
+      "fileId": "1735772628273",
+      "filePath": "Gender of person.md",
+      "duration": 84000,
+      "openCount": 6
+    },
+    "Gender of Person Reference Guide.md": {
+      "fileId": "1735772766273",
+      "filePath": "Gender of Person Reference Guide.md",
+      "duration": 36000,
+      "openCount": 3
+    },
+    "Classification of cisgender, transgender and non-binary.md": {
+      "fileId": "1735772952273",
+      "filePath": "Classification of cisgender, transgender and non-binary.md",
+      "duration": 168000,
+      "openCount": 4
+    },
+    "Directive on Service and Digital.md": {
+      "fileId": "1735772886330",
+      "filePath": "Directive on Service and Digital.md",
+      "duration": 60000,
+      "openCount": 4
+    },
+    "Classification of gender.md": {
+      "fileId": "1735773102273",
+      "filePath": "Classification of gender.md",
+      "duration": 72000,
+      "openCount": 5
+    },
+    "Data Reference Standard on Persons sex assigned at birth.md": {
+      "fileId": "1735675659039",
+      "filePath": "Data Reference Standard on Persons sex assigned at birth.md",
+      "duration": 450000,
+      "openCount": 19
+    },
+    "Sex at birth of person 20250101154253.md": {
+      "fileId": "1735764158779",
+      "filePath": "Sex at birth of person 20250101154253.md",
+      "duration": 222000,
+      "openCount": 11
+    },
+    "Classification of sex at birth 20250101154717.md": {
+      "fileId": "1735764434778",
+      "filePath": "Classification of sex at birth 20250101154717.md",
+      "duration": 246000,
+      "openCount": 14
+    },
+    "Modernizing the Government of Canada's Sex and Gender Information Practices Summary Report.md": {
+      "fileId": "1735675953039",
+      "filePath": "Modernizing the Government of Canada's Sex and Gender Information Practices Summary Report.md",
+      "duration": 120000,
+      "openCount": 4
+    },
+    "PSE 901 Employee Personnel Record.md": {
+      "fileId": "1735766432400",
+      "filePath": "PSE 901 Employee Personnel Record.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "PSU 912 Professional Services Contracts.md": {
+      "fileId": "1735507531161",
+      "filePath": "PSU 912 Professional Services Contracts.md",
+      "duration": 24000,
+      "openCount": 3
+    },
+    "PSU 909 Travel.md": {
+      "fileId": "1735507322802",
+      "filePath": "PSU 909 Travel.md",
+      "duration": 0,
+      "openCount": 2
+    },
+    "Automated Document, Records, and Information Management Systems.md": {
+      "fileId": "1735766421288",
+      "filePath": "Automated Document, Records, and Information Management Systems.md",
+      "duration": 30000,
+      "openCount": 4
+    },
+    "PSE 903 Attendance and Leave.md": {
+      "fileId": "1735766433288",
+      "filePath": "PSE 903 Attendance and Leave.md",
+      "duration": 30000,
+      "openCount": 3
+    },
+    "PSU 938 Outreach Activities.md": {
+      "fileId": "1735773690273",
+      "filePath": "PSU 938 Outreach Activities.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "Standard Personal Information Banks.md": {
+      "fileId": "1735708485126",
+      "filePath": "Standard Personal Information Banks.md",
+      "duration": 138000,
+      "openCount": 6
+    },
+    "standards/gcthesaurus/Zoological gardens.md": {
+      "fileId": "1735773852274",
+      "filePath": "standards/gcthesaurus/Zoological gardens.md",
+      "duration": 42000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Animals.md": {
+      "fileId": "1735773900273",
+      "filePath": "standards/gcthesaurus/Animals.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Protected species.md": {
+      "fileId": "1735773924306",
+      "filePath": "standards/gcthesaurus/Protected species.md",
+      "duration": 36000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Recreational facilities.md": {
+      "fileId": "1735773978273",
+      "filePath": "standards/gcthesaurus/Recreational facilities.md",
+      "duration": 168000,
+      "openCount": 8
+    },
+    "standards/gcthesaurus/Ski trails.md": {
+      "fileId": "1735774074273",
+      "filePath": "standards/gcthesaurus/Ski trails.md",
+      "duration": 36000,
+      "openCount": 5
+    },
+    "standards/gcthesaurus/Skiing Recreational facilities.md": {
+      "fileId": "1735774080273",
+      "filePath": "standards/gcthesaurus/Skiing Recreational facilities.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Bicycle paths.md": {
+      "fileId": "1735774170274",
+      "filePath": "standards/gcthesaurus/Bicycle paths.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Skiing.md": {
+      "fileId": "1735774242273",
+      "filePath": "standards/gcthesaurus/Skiing.md",
+      "duration": 12000,
+      "openCount": 3
+    },
+    "standards/gcthesaurus/Winter sports.md": {
+      "fileId": "1735774254273",
+      "filePath": "standards/gcthesaurus/Winter sports.md",
+      "duration": 18000,
+      "openCount": 4
+    },
+    "standards/gcthesaurus/Hockey.md": {
+      "fileId": "1735774278273",
+      "filePath": "standards/gcthesaurus/Hockey.md",
+      "duration": 18000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Skating.md": {
+      "fileId": "1735774314273",
+      "filePath": "standards/gcthesaurus/Skating.md",
+      "duration": 18000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Toys.md": {
+      "fileId": "1735774398281",
+      "filePath": "standards/gcthesaurus/Toys.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "standards/gcthesaurus/Fitness.md": {
+      "fileId": "1735774482273",
+      "filePath": "standards/gcthesaurus/Fitness.md",
+      "duration": 18000,
+      "openCount": 2
     }
   }
 }

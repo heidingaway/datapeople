@@ -7,7 +7,7 @@ aliases:
 created: 2024-12-31
 modified: 2024-12-31
 tags:
-  - gcpolicy
+  - policy/gender
   - WAGE
 author: "[[406.01.239 Women and Gender Equality Canada|WAGE]]"
 descriptionEN: Romantic and sexual attraction for people of the same or another sex or gender.

@@ -7,7 +7,7 @@ created: 2024-12-29
 modified: 2024-12-29
 tags:
   - bank
-  - gcpolicy
+  - policy/finance
 ---
 # Payment service providers (PSPs)
 > "an individual or entity that performs payment functions as a service or business activity that is not incidental to another service or business activity."[^1]

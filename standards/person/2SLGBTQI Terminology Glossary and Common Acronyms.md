@@ -5,9 +5,10 @@ aliases:
   - 2SLGBTQI+ terminology – Glossary and common acronyms
   - Terminologie 2ELGBTQI+ – Glossaire et acronymes fréquents
 created: 2024-12-31
-modified: 2024-12-31
+modified: 2025-01-01
 tags:
-  - gcpolicy
+  - policy/gender
+  - policy/information
   - WAGE
 author: "[[406.01.239 Women and Gender Equality Canada|WAGE]]"
 url: https://www.canada.ca/en/women-gender-equality/free-to-be-me/2slgbtqi-plus-glossary.html

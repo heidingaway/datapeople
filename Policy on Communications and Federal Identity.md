@@ -4,9 +4,9 @@ aliases:
   - "2024123119271"
   - Politique sur les communications et l'image de marque
 created: 2024-12-31
-modified: 2024-12-31
+modified: 2025-01-01
 tags:
-  - gcpolicy
+  - policy/hr
 context: "[[406.01.237 Government of Canada|Government of Canada]]"
 url: https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30683
 descriptionEN: Gives context and rules for how the Government of Canada (GC) enables communication with the public about policies, programs, services and initiatives, including the administration of the GC official symbols. 

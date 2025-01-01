@@ -9,7 +9,7 @@ modified: 2025-01-01
 source: "https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards/use-open-standards-solutions.html"
 tags:
   - clippings
-  - gcpolicy
+  - policy/digital
 descriptionEN: Leverage open standards and embrace leading practices, including the use of open source software where appropriate. Design for services and platforms that are seamless for Canadians to use no matter what device or channel they are using.
 descriptionFR: Profiter des normes ouvertes et adopter des pratiques exemplaires, y compris l’utilisation de logiciels libres, s’il y a lieu. Concevoir des services et des plateformes que les Canadiens peuvent utiliser de façon intégrée au moyen de n’importe appareil ou réseau.
 author:

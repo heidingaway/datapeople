@@ -5,9 +5,9 @@ aliases:
   - Dysphorie de genre
   - Gender Dysphoria
 created: 2024-12-31
-modified: 2024-12-31
+modified: 2025-01-01
 tags:
-  - gcpolicy
+  - policy/gender
   - WAGE
 author: "[[406.01.239 Women and Gender Equality Canada|WAGE]]"
 descriptionEN: A medical diagnosis often required by health providers and/or health insurance plans before prescriptions for hormones or gender affirming surgeries will be provided. It can be understood as discomfort or distress experienced by a person who feels their sense of their gender identity differs from their body, based on societal expectations.

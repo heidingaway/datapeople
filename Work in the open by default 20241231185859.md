@@ -8,7 +8,7 @@ created: 2024-12-31
 modified: 2025-01-01
 tags:
   - clippings
-  - gcpolicy
+  - policy/digital
 published: 2024-10-10
 author:
   - "[[406.01.238 Treasury Board of Canada Secretariat|Treasury Board of Canada Secretariat]]"

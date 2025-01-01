@@ -6,7 +6,7 @@ created: 2024-12-29
 modified: 2025-01-01
 source: https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source.html
 tags:
-  - gcpolicy
+  - policy/information
 relatedTerm:
   - "[[Access to information Act]]"
   - "[[Information]]"

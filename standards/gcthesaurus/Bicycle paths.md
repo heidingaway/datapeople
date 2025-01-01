@@ -1,11 +1,5 @@
 ---
 title: Bicycle paths
-created: 2024-12-13
-modified: 2024-12-24
-tags:
-  - gccommon
-french:
-  - Piste cyclable
 aliases:
   - Bicycle lanes
   - Bicycle paths
@@ -16,11 +10,16 @@ aliases:
   - Biking trails
   - Cycling paths
   - Cycling trails
+created: 2024-12-13
+modified: 2025-01-01
+tags:
+  - gccommon
+french:
+  - Piste cyclable
 historyNote:
   - '"Bicycle paths" replaces "Cycling trails" as preferred term in November 2007.'
 id: 1012
 relatedTerm:
   - "[[Cycling]]"
-  - "[[Recreational facilities]]"
 ---
 # Bicycle paths

@@ -20,7 +20,6 @@ scopeNote:
   - An activity that diverts, amuses or stimulates usually done in one's spare time.
 relatedTerm:
   - "[[Games]]"
-  - "[[Recreational facilities]]"
   - "[[Sports]]"
   - "[[Tourism]]"
   - "[[Toys]]"

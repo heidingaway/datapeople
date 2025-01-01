@@ -8,6 +8,8 @@ tags:
   - organization
   - thing
 type: "[[400 Thing]]"
+class:
+  - "[[406.01 GovernmentOrganization]]"
 ---
 # 406 Organization
 ## Class

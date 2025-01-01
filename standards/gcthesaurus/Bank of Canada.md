@@ -6,7 +6,7 @@ aliases:
 created: 2024-12-29
 modified: 2025-01-01
 tags:
-  - gcorg
+  - organization/gc
 missingFrom: "[[Open Canada Portal]]"
 type: "[[Central banks]]"
 french: Banque du Canada

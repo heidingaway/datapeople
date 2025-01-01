@@ -15,6 +15,7 @@
     "dateTime": "datetime",
     "endDatetime": "datetime",
     "duration": "text",
-    "french": "text"
+    "french": "text",
+    "effectiveDate": "date"
   }
 }

@@ -1,10 +1,11 @@
 ---
 title: Parks
+aliases:
+  - Parks
 created: 2024-12-13
-modified: 2024-12-18
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Parks
 french:
   - "[[Parc]]"
 narrowerTerm:
@@ -12,7 +13,6 @@ narrowerTerm:
   - "[[Provincial parks]]"
   - "[[Territorial parks]]"
 relatedTerm:
-  - "[[Recreational facilities]]"
   - "[[Conservation areas]]"
 ---
 # Parks

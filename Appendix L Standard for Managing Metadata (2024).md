@@ -6,6 +6,6 @@ source: https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32786
 supercedes: "[[Standard on Metadata (2010 rescinded 2024)]]"
 governs: "[[Managing Metadata]]"
 tags:
-  - gcpolicy
+  - policy/information
 ---
 # Appendix L Standard for Managing Metadata

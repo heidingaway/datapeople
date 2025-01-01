@@ -1,10 +1,11 @@
 ---
 title: 000 Index
+aliases:
+  - "20250101163013"
 created: 2024-10-25
-modified: 2024-12-17
+modified: 2025-01-01
 tags:
-- meta
-- favourites
+  - favourites
 ---
 # 000 Index
 - area [[100 Project]]

@@ -6,7 +6,7 @@ aliases:
 created: 2024-12-30
 modified: 2025-01-01
 tags:
-  - usorg
+  - organization/international
 type: "[[406.01 GovernmentOrganization]]"
 context: "[[408.01.10194 United States|United States]]"
 ---

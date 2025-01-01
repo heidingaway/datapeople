@@ -6,7 +6,7 @@ created: 2024-12-29
 modified: 2025-01-01
 source: http://laws-lois.justice.gc.ca/eng/acts/B-2/FullText.html
 tags:
-  - gcpolicy
+  - policy/finance
 type: "[[Legislation 132|Legislation]]"
 ---
 # Bank of Canada Act

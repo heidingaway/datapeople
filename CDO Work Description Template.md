@@ -5,7 +5,7 @@ aliases:
 created: 2024-11-15
 modified: 2025-01-01
 tags:
-  - gcpolicy
+  - policy/information
 ---
 # CDO Work Description Template
 

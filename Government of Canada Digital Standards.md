@@ -9,7 +9,7 @@ aliases:
 created: 2024-12-31
 modified: 2024-12-31
 tags:
-  - gcpolicy
+  - policy/digital
 url: https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html
 ---
 # Government of Canada Digital Standards
@@ -23,7 +23,7 @@ url: https://www.canada.ca/en/government/system/digital-government/government-ca
 
 ## Standards
 
-1. [[20241231185836 Design with users|Design with users]]
+1. [[Design with users 20241231185836|Design with users]]
 2. [[Iterate and improve frequently 20241231185847|Iterate and improve frequently]]
 3. [[Work in the open by default 20241231185859|Work in the open by default]]
 4. [[Use open standards and solutions 20241231191215|Use open standards and solutions]]

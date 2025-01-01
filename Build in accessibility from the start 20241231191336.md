@@ -9,7 +9,7 @@ modified: 2025-01-01
 source: "https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards/build-accessibility-start.html"
 tags:
   - clippings
-  - gcpolicy
+  - policy/digital
 descriptionFR: Permettre aux services de respecter ou dépasser les normes d’accessibilité. Communiquer dès le départ avec les utilisateurs ayant des besoins particuliers, pour s’assurer que le résultat conviendra à tout le monde.
 descriptionEN: Services should meet or exceed accessibility standards. Users with distinct needs should be engaged from the outset to ensure what is delivered will work for everyone.
 author:

@@ -7,7 +7,7 @@ created: 2024-12-29
 modified: 2025-01-01
 source: https://laws-lois.justice.gc.ca/eng/acts/r-7.36/FullText.html
 tags:
-  - gcpolicy
+  - policy/finance
 type: "[[Legislation 132|Legislation]]"
 ---
 # Retail Payment Activities Act (RPAA)

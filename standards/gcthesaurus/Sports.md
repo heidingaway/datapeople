@@ -3,9 +3,10 @@ title: Sports
 aliases:
   - "2024123013242"
   - Athletics
+  - Sport
   - Sports
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - gccommon
 id: 485
@@ -21,7 +22,6 @@ narrowerTerm:
 relatedTerm:
   - "[[Athletes]]"
   - "[[Fitness]]"
-  - "[[Recreation]]"
   - "[[Sports events 4148]]"
 ---
 # Sports

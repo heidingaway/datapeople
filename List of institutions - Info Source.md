@@ -5,9 +5,7 @@ aliases:
 created: 2024-12-29
 modified: 2025-01-01
 tags:
-  - creativeWork
-  - creativeWorkSeries
-  - thing
+  - creativeWork/creativeWorkSeries
 context: "[[Info Source]]"
 ---
 # Info Source List of institutions

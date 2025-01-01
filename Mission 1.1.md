@@ -5,7 +5,7 @@ aliases:
 created: 2024-11-15
 modified: 2024-12-31
 tags:
-  - gcpolicy
+  - policy/information
 description: Clarify data leadership responsibilities within and across the Government of Canada.
 keyConcepts:
   - "[[Data accountabilities]]"

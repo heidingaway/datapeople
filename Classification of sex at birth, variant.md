@@ -3,11 +3,11 @@ title: Classification of sex at birth, variant
 aliases:
   - "2024123117319"
 created: 2024-12-31
-modified: 2024-12-31
+modified: 2025-01-01
 tags:
-  - gcpolicy
+  - policy/information
 url: https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1326701
-effectiveDate: 10-01-2021
+effectiveDate: 2021-10-01
 class:
   - "[[1 Male]]"
   - "[[2 Female]]"

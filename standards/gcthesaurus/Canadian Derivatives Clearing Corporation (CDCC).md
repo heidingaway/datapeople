@@ -5,7 +5,7 @@ aliases:
 created: 2024-12-29
 modified: 2025-01-01
 tags:
-  - gcorg
+  - organization/gc
 ---
 # CDS Clearing and Depository Services Inc.: Operator of CDSX
 - Source[^1]

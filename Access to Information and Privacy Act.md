@@ -5,7 +5,7 @@ aliases:
 created: 2024-12-29
 modified: 2025-01-01
 tags:
-  - gcpolicy
+  - policy/information
 type: "[[402.02 CreativeWorkSeries|creativeWorksSeries]]"
 component:
   - "[[Access to information Act]]"

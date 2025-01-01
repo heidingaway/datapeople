@@ -1,15 +1,18 @@
 ---
 title: Toys
+aliases:
+  - "20250101183321"
+  - Jouet
+  - Toys
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Toys
+id: 1466
 french:
-  - "[[Jouet]]"
+  - Jouet
 relatedTerm:
-  - "[[Recreation]]"
-  - "[[Games]]"
   - "[[Children]]"
+  - "[[Recreation]]"
 ---
 # Toys

@@ -7,7 +7,8 @@ aliases:
 created: 2024-12-31
 modified: 2024-12-31
 tags:
-  - gcpolicy
+  - policy/digital
+  - policy/service
 descriptionEN: New technology (or new to the Government of Canada) that when adopted will substantially change the digital footprint of the Government of Canada.
 descriptionFR: Nouvelle technologie (ou nouvelle au gouvernement du Canada) qui, une fois adoptée, changera considérablement l’empreinte numérique du gouvernement du Canada.
 ---

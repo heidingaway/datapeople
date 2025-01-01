@@ -6,9 +6,8 @@ created: 2024-12-29
 modified: 2025-01-01
 source: https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html
 tags:
-  - creativeWork
-  - datacatalog
-  - thing
+  - PIB
+  - policy/information
 type: "[[500 Standards]]"
 class:
   - "[[PSE 901 Employee Personnel Record]]"
@@ -44,7 +43,7 @@ class:
   - "[[PSU 914 Public Communications]]"
   - "[[PSU 915 Internal Communications]]"
   - "[[PSU 917 Personnel Security Screening]]"
-  - "[[PSU 918 Governor In Council Appointments]]"
+  - "[[PSU 918 Governor in Council Appointments]]"
   - "[[PSU 919 Members of Boards, Committees and Councils]]"
   - "[[PSU 931 Accounts Payable]]"
   - "[[PSU 932 Accounts Receivable]]"
