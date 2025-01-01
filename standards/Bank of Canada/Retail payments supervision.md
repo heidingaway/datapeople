@@ -3,10 +3,11 @@ title: Retail payments supervision
 aliases:
   - "20241229174730"
 created: 2024-12-29
-modified: 2024-12-29
+modified: 2025-01-01
 source: https://www.bankofcanada.ca/core-functions/retail-payments-supervision/
 tags:
-  - thing/action
+  - bank
+  - gcpolicy
 ---
 # Retail payments supervision
 > Under the [[Retail Payment Activities Act (RPAA)]], [[Bank of Canada|the Bank]] will be responsible for supervising payment service providers (PSPs). The aim is to build confidence in the safety and reliability of their services while protecting end users from specific risks.

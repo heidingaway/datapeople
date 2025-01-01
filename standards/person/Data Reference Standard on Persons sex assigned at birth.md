@@ -8,6 +8,8 @@ created: 2024-12-31
 modified: 2024-12-31
 tags:
   - person
+  - gcpolicy
+  - WAGE
 url: https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/enabling-interoperability/gc-enterprise-data-reference-standards/data-reference-standard-person-sex-assigned-birth.html
 readWith:
   - "[[2SLGBTQI Terminology Glossary and Common Acronyms|2SLGBTQI+ terminology – Glossary and common acronyms]]"

@@ -10,7 +10,6 @@ id: 2062
 french:
   - Taux de mortalité
 relatedTerm:
-  - "[[Death]]"
   - "[[Population]]"
   - "[[Vital statistics]]"
 ---

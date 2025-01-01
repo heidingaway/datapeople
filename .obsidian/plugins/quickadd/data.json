@@ -1,34 +1,5 @@
 {
-  "choices": [
-    {
-      "id": "61408c2e-e101-4531-850b-e5de773c5f39",
-      "name": "newnote",
-      "type": "Template",
-      "command": true,
-      "templatePath": "Templates/identifier.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "{{DATE:YYYYMMDDHHmms}}"
-      },
-      "folder": {
-        "enabled": false,
-        "folders": [],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": true
-    }
-  ],
+  "choices": [],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,

@@ -3,10 +3,10 @@ title: Info Source
 aliases:
   - "20241229175244"
 created: 2024-12-29
-modified: 2024-12-29
+modified: 2025-01-01
 source: https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source.html
 tags:
-  - thing/creativeWorks
+  - gcpolicy
 relatedTerm:
   - "[[Access to information Act]]"
   - "[[Information]]"

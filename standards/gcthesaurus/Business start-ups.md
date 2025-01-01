@@ -1,18 +1,21 @@
 ---
 title: Business start-ups
+aliases:
+  - "20241231233542"
+  - Business start-ups
+  - Business startups
+  - Démarrage d'une entreprise
 created: 2024-12-13
-modified: 2024-12-18
+modified: 2024-12-31
 tags:
   - gccommon
+id: 123
 french:
-  - "[[Demarrage dune entreprise]]"
+  - Démarrage d'une entreprise
 relatedTerm:
+  - "[[Acquisitions Businesses]]"
   - "[[Business incubators]]"
-  - "[[Entrepreneurs]]"
-  - "[[Businesses]]"
   - "[[Business plans]]"
-  - "[[Business incubators]]"
-  - "[[Acquisitions (Businesses)]]"
-aliases: Business start-ups
+  - "[[Entrepreneurs]]"
 ---
 # Business start-ups

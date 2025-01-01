@@ -3,10 +3,11 @@ title: A Borrowed Time TBR
 aliases:
   - "20241230004250"
 created: 2024-12-30
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - NPR
-  - podcasts/throughline
+  - podcast
+  - throughline
 type: "[[201.02 Throughline Reading List]]"
 url: https://www.npr.org/2019/10/16/770699746/a-borrowed-time
 subject:

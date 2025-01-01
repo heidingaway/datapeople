@@ -15,7 +15,7 @@ id: 360
 french:
   - Équipement de sécurité automobile
 relatedTerm:
-  - "[[Automobiles]]"
+  - "[[900 Automobiles]]"
   - "[[Road safety]]"
 ---
 # Automobile safety equipment

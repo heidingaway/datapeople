@@ -16,7 +16,7 @@ class:
   - "[[Beans]]"
   - "[[Beef cattle]]"
   - "[[Beekeeping]]"
-  - "[[Butter]]"
+  - "[[standards/gcthesaurus/Butter]]"
   - "[[Canola oil]]"
   - "[[Carrots]]"
   - "[[Cattle]]"

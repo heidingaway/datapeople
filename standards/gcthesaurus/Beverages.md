@@ -1,11 +1,16 @@
 ---
 title: Beverages
+aliases:
+  - "20241231204439"
+  - Beverages
+  - Boisson
+  - Drinks
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2024-12-31
 tags:
   - gccommon
 french:
-  - "[[Boisson]]"
+  - Boisson
 narrowerTerm:
   - "[[Alcoholic beverages]]"
   - "[[Coffee]]"
@@ -13,7 +18,5 @@ narrowerTerm:
   - "[[Tea]]"
 relatedTerm:
   - "[[Beverage industry]]"
-aliases:
-  - Beverages
 ---
 # Beverages

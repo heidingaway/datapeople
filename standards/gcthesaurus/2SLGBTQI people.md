@@ -15,7 +15,7 @@ tags:
 id: 4956
 narrowerTerm:
   - "[[Asexual people]]"
-  - "[[Bisexual people]]"
+  - "[[4964 Bisexual people]]"
   - "[[Gay people]]"
   - "[[Gender-nonconforming people]]"
   - "[[Intersex people]]"

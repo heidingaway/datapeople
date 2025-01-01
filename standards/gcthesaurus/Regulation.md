@@ -7,7 +7,7 @@ modified: 2024-12-27
 tags:
   - gccommon
 relatedTerm:
-  - "[[402.07 Legislation|Legislation]]"
+  - "[[Legislation 132|Legislation]]"
   - "[[Licensing]]"
   - "[[Policy]]"
   - "[[Regulations]]"

@@ -1,17 +1,19 @@
 ---
 title: Broadcasting industry
+aliases:
+  - Broadcasting industry
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-31
 tags:
   - gccommon
-aliases: Broadcasting industry
+id: 1165
 french:
-  - "[[Industrie de la radiodiffusion]]"
+  - Industrie de la radiodiffusion
 scopeNote:
-  - Economic activity dedicated to the making and broa
+  - Economic activity dedicated to the making and broadcasting of television and radio programs.
 relatedTerm:
-  - "[[Cultural industry]]"
-  - "[[Communications industry]]"
   - "[[Broadcasting]]"
+  - "[[Communications industry]]"
+  - "[[Cultural industry]]"
 ---
 # Broadcasting industry

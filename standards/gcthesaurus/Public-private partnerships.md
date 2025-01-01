@@ -10,7 +10,7 @@ aliases: Public-private partnerships
 historyNote:
   - Public-private partnerships replaces Government-industry partnerships
 relatedTerm:
-  - "[[Public sector]]"
+  - "[[1956 Public sector]]"
   - "[[Private sector]]"
 ---
 # Public-private partnerships

@@ -1,16 +1,16 @@
 ---
 title: Artificial insemination
+aliases:
+  - "20241231205916"
+  - Artificial insemination
+  - Insémination artificielle
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-31
 tags:
   - gccommon
 id: 766
-aliases:
-  - Artificial insemination
 french:
-  - "[[Insemination artificielle]]"
-relatedTerm:
-  - "[[Semen]]"
+  - Insémination artificielle
 personalNote: Term applies to humans and non-human animals.
 ---
 # Artificial insemination

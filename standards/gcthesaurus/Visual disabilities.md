@@ -11,7 +11,7 @@ tags:
 french:
   - Déficience visuelle
 narrowerTerm:
-  - "[[Blindness]]"
+  - "[[1103 Blindness]]"
 relatedTerm:
   - "[[Braille]]"
 historyNote:

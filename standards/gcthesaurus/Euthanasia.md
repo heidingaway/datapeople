@@ -13,7 +13,5 @@ tags:
 french:
   - Euthanasie
 id: 818
-relatedTerm:
-  - "[[Homicide]]"
 ---
 # Euthanasia

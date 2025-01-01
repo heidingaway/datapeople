@@ -10,8 +10,9 @@ aliases:
   - Agro-industry
   - Food industry
   - Food production
+  - Industrie agro-alimentaire
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2024-12-31
 tags:
   - gccommon
 id: 264
@@ -22,7 +23,6 @@ narrowerTerm:
   - "[[Dairy industry]]"
 relatedTerm:
   - "[[Agri-food products]]"
-  - "[[Agriculture]]"
   - "[[Farms]]"
   - "[[Food processing]]"
   - "[[Food supply]]"

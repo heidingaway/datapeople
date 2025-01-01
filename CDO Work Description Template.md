@@ -3,9 +3,9 @@ title: CDO Work Description Template
 aliases:
   - "20241231144055"
 created: 2024-11-15
-modified: 2024-12-31
+modified: 2025-01-01
 tags:
-  - thing/CreativeWork
+  - gcpolicy
 ---
 # CDO Work Description Template
 

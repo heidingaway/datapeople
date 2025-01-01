@@ -7,16 +7,17 @@ aliases:
   - Businesses
   - Commercial enterprises
   - Enterprises
+  - Entreprise
 created: 2024-12-18
-modified: 2024-12-29
+modified: 2024-12-31
 tags:
   - gccommon
 id: 10
 french:
   - Entreprise
 narrowerTerm:
+  - "[[1239 Consortia]]"
   - "[[Conglomerates]]"
-  - "[[Consortia]]"
   - "[[Cooperatives]]"
   - "[[Family businesses]]"
   - "[[Financial institutions]]"

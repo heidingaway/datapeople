@@ -4,9 +4,10 @@ aliases:
   - "20241229140710"
   - Collaborations
   - Joint ventures
+  - Partenariat
   - Partnerships
 created: 2024-12-18
-modified: 2024-12-29
+modified: 2024-12-31
 tags:
   - gccommon
 id: 1589
@@ -20,7 +21,6 @@ scopeNote:
 relatedTerm:
   - "[[Collaborative research]]"
   - "[[Cooperation]]"
-  - "[[Corporations]]"
   - "[[Dissolution]]"
 ---
 # Partnerships

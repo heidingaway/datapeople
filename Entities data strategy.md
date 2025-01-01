@@ -37,7 +37,7 @@ entities:
 - "[[Data Flows]]"
 - "[[IT infrastructure]]"
 - "[[data and information sharing]]"
-- "[[402.07 Legislation]]"
+- "[[Legislation 132]]"
 - "[[Client-centred service delivery]]"
 - "[[Data stewardship]]"
 - "[[Service Delivery Partner]]"

@@ -3,10 +3,11 @@ title: A Year Of Wonders TBR
 aliases:
   - "2024123013007"
 created: 2024-12-30
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - NPR
-  - podcasts/throughline
+  - podcast
+  - throughline
 type: "[[201.02 Throughline Reading List]]"
 url: https://www.npr.org/2019/11/20/781181608/a-year-of-wonders
 ---

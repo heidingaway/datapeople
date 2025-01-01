@@ -1,14 +1,15 @@
 ---
 title: Blood supply
+aliases:
+  - "20241231210650"
+  - Blood banks
+  - Blood supply
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-31
 tags:
   - gccommon
+id: 1106
 french:
-  - "[[Approvisionnement en sang]]"
-aliases: Blood supply
-relatedTerm:
-  - "[[Infected blood]]"
-  - "[[Emergency services]]"
+  - Approvisionnement en sang
 ---
 # Blood supply

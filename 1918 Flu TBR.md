@@ -3,10 +3,11 @@ title: 1918 Flu TBR
 aliases:
   - "20241230211336"
 created: 2024-12-30
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - NPR
-  - podcasts/throughline
+  - podcast
+  - throughline
 type: "[[201.02 Throughline Reading List]]"
 subject:
   - "[[1918 Pandemic]]"

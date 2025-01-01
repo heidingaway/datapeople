@@ -3,13 +3,14 @@ title: Funds Management
 aliases:
   - "20241229143151"
 created: 2024-12-29
-modified: 2024-12-29
+modified: 2025-01-01
 tags:
-  - thing
+  - bank
+  - gcpolicy
 relatedTerm:
   - "[[Fiscal Agent]]"
 component:
-  - "[[National debt]]"
   - "[[Foreign exchange reserves]]"
+  - "[[National debt]]"
 ---
 # Funds Management

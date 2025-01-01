@@ -22,6 +22,6 @@ relatedTerm:
   - "[[Athletes]]"
   - "[[Fitness]]"
   - "[[Recreation]]"
-  - "[[Sports events]]"
+  - "[[Sports events 4148]]"
 ---
 # Sports

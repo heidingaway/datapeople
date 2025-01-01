@@ -7,6 +7,6 @@ modified: 2024-12-31
 tags:
   - favourites
   - gccommon
-  - standards
+  - standard
 ---
 # 501 Government of Canada Core Subject Thesaurus

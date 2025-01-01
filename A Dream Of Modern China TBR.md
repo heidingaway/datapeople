@@ -3,10 +3,11 @@ title: A Dream Of Modern China TBR
 aliases:
   - "2024123000323"
 created: 2024-12-30
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - NPR
-  - podcasts/throughline
+  - podcast
+  - throughline
 type: "[[201.02 Throughline Reading List]]"
 url: https://www.npr.org/2019/05/21/725358387/a-dream-of-modern-china
 ---

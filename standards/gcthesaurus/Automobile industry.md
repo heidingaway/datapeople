@@ -13,6 +13,6 @@ id: 882
 french:
   - Industrie de l'automobile
 relatedTerm:
-  - "[[Automobiles]]"
+  - "[[900 Automobiles]]"
 ---
 # Automobile industry

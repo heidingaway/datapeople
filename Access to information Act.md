@@ -8,6 +8,6 @@ source: https://laws-lois.justice.gc.ca/eng/ACTS/A-1/index.html
 tags:
   - policy/information
 oversight: "[[Information Commissioner of Canada]]"
-type: "[[402.07 Legislation|Legislation]]"
+type: "[[Legislation 132|Legislation]]"
 ---
 # Access to information Act

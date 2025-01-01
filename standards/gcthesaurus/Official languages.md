@@ -11,7 +11,7 @@ french:
   - Langue officielle
 relatedTerm:
   - "[[English language]]"
-  - "[[French language]]"
+  - "[[3021 French language]]"
   - "[[Language policy]]"
   - "[[Linguistic duality]]"
   - "[[Official languages promotion]]"

@@ -9,7 +9,7 @@ french:
 aliases: Greenhouse gases
 relatedTerm:
   - "[[Greenhouse effect]]"
-  - "[[Atmospheric emissions]]"
+  - "[[368 Atmospheric emissions]]"
   - "[[Air pollution]]"
 ---
 # Greenhouse gases

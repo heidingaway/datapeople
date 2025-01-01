@@ -1,11 +1,13 @@
 ---
 title: Breast cancer
+aliases:
+  - Breast cancer
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-31
 tags:
   - gccommon
-aliases: Breast cancer
+id: 1148
 french:
-  - "[[Cancer du sein]]"
+  - Cancer du sein
 ---
 # Breast cancer

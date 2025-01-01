@@ -5,8 +5,8 @@ aliases:
 created: 2024-12-30
 modified: 2024-12-30
 tags:
-  - NPR
-  - podcasts/throughline
+  - podcast
+  - throughline
 type: "[[201.02 Throughline Reading List]]"
 url: https://www.npr.org/2020/01/15/796735042/everybody-knows-somebody
 subject:

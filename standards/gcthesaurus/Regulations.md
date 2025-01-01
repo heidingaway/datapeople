@@ -15,7 +15,7 @@ narrowerTerm:
   - "[[Safety regulations]]"
   - "[[Taxation regulations]]"
 relatedTerm:
-  - "[[402.07 Legislation]]"
+  - "[[Legislation 132]]"
   - "[[By-laws]]"
   - "[[Legislative writing]]"
   - "[[Policy]]"

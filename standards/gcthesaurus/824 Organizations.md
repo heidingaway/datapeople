@@ -1,17 +1,19 @@
 ---
-title: Organizations
-id: 824
+title: 824 Organizations
+aliases:
+  - "20241231233826"
+  - Organisation
+  - Organizations
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2024-12-31
 tags:
   - gccommon
-aliases:
-  - Organizations
-type: "[[406 Organization]]"
+id: 824
+same: "[[406 Organization]]"
 french:
   - Organisation
 narrowerTerm:
-  - "[[Associations]]"
+  - "[[823 Associations]]"
   - "[[Businesses]]"
   - "[[Corporations]]"
   - "[[Interest groups]]"

@@ -5,9 +5,8 @@ aliases:
 created: 2024-12-29
 modified: 2024-12-30
 tags:
-  - NPR
-  - podcasts/throughline
-  - TBR
+  - podcast
+  - throughline
 url: https://www.npr.org/2019/03/19/704762322/the-border
 type: "[[201.02 Throughline Reading List]]"
 ---

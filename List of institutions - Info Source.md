@@ -3,9 +3,11 @@ title: List of institutions - Info Source
 aliases:
   - "20241229175713"
 created: 2024-12-29
-modified: 2024-12-29
+modified: 2025-01-01
 tags:
-  - thing/creativeWorks/creativeWorksSeries
+  - creativeWork
+  - creativeWorkSeries
+  - thing
 context: "[[Info Source]]"
 ---
 # Info Source List of institutions

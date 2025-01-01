@@ -3,9 +3,10 @@ title: 403 Event
 aliases:
   - "2024123114384"
 created: 2024-10-26
-modified: 2024-12-31
+modified: 2025-01-01
 tags:
-  - thing/Event
+  - Event
+  - thing
 ---
 # 403 Event
 ## Class
@@ -26,7 +27,7 @@ tags:
 - class [[SaleEvent]]
 - class [[ScreeningEvent]]
 - class [[SocialEvent]]
-- class [[SportsEvent]]
+- class [[403.03 SportsEvent]]
 - class [[TheaterEvent]]
 - class [[UserInteraction]]
 - class [[VisualArtsEvent]]

@@ -5,8 +5,8 @@ aliases:
 created: 2024-12-29
 modified: 2024-12-30
 tags:
-  - NPR
-  - podcasts/throughline
+  - podcast
+  - throughline
 url: https://www.npr.org/2019/02/12/693878396/on-the-shoulders-of-giants
 date: 02-14-2019
 type: "[[201.02 Throughline Reading List]]"

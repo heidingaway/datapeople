@@ -1,15 +1,16 @@
 ---
 title: Cemeteries
+aliases:
+  - "20241231232535"
+  - Cemeteries
+  - Cimetière
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2024-12-31
 tags:
   - gccommon
-aliases: Cemeteries
 french:
-  - "[[Cimetiere]]"
+  - Cimetière
 relatedTerm:
-  - "[[War memorials]]"
-  - "[[Death]]"
   - "[[Burials]]"
 ---
 # Cemeteries

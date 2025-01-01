@@ -1,22 +1,24 @@
 ---
 title: Anti-dumping
-created: 2024-12-18
-modified: 2024-12-25
-tags:
-  - gccommon
-french:
-  - Droits antidumping
 aliases:
+  - "20241231205839"
   - Anti-dumping duties
   - Antidumping
   - Antidumping duties
   - Countervailing duties
+  - Droits antidumping
+created: 2024-12-18
+modified: 2024-12-31
+tags:
+  - gccommon
+french:
+  - Droits antidumping
 relatedTerm:
   - "[[Dumping]]"
   - "[[Exports]]"
   - "[[Imports]]"
   - "[[International trade]]"
   - "[[Trade negotiations]]"
-  - "[[Trade poling]]"
+  - "[[Trade policy]]"
 ---
 # Anti-dumping

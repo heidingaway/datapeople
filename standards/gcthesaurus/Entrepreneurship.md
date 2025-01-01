@@ -1,15 +1,17 @@
 ---
 title: Entrepreneurship
+aliases:
+  - "20241231233655"
+  - Entrepreneuriat
+  - Entrepreneurship
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2024-12-31
 tags:
   - gccommon
-aliases: Entrepreneurship
+id: 1246
 french:
-  - "[[Entrepreneuriat]]"
+  - Entrepreneuriat
 relatedTerm:
   - "[[Self employment]]"
-  - "[[Entrepreneurs]]"
-  - "[[Businesses]]"
 ---
 # Entrepreneurship

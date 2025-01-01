@@ -3,9 +3,10 @@ title: Bank of Canada holiday schedule
 aliases:
   - "20241229164514"
 created: 2024-12-29
-modified: 2024-12-29
+modified: 2025-01-01
 tags:
-  - holidays
+  - bank
+  - event
 type: "[[403.02 EventSeries]]"
 url: https://www.bankofcanada.ca/press/upcoming-events/bank-of-canada-holiday-schedule/
 ---

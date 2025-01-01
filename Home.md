@@ -4,8 +4,8 @@
 type: clock  
 ```  
   
-> [!quote] All difficult things have their origin in that which is easy, and great things in that which is small.
-> — Lao-Tzu  
+> [!quote] How many cares one loses when one decides not to be something but to be someone.
+> — Coco Chanel  
   
 ------  
 ```widgets  

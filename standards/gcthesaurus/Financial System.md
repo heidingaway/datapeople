@@ -3,9 +3,9 @@ title: Financial System
 aliases:
   - "2024122914281"
 created: 2024-12-29
-modified: 2024-12-29
+modified: 2025-01-01
 tags:
-  - thing
+  - organization
 component:
   - "[[Banks]]"
   - "[[Clearing and settlement system]]"

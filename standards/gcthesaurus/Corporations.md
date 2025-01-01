@@ -5,6 +5,7 @@ aliases:
   - Companies
   - Corporations
   - Incorporated companies
+  - Sociétés
 created: 2024-12-13
 modified: 2024-12-30
 tags:
@@ -12,7 +13,7 @@ tags:
 french:
   - Sociétés
 narrowerTerm:
-  - "[[Crown corporations]]"
+  - "[[1866 Crown corporations]]"
   - "[[Multinational corporations]]"
 relatedTerm:
   - "[[Businesses]]"

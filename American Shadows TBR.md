@@ -3,10 +3,11 @@ title: American Shadows TBR
 aliases:
   - "20241229234617"
 created: 2024-12-29
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - NPR
-  - podcasts/throughline
+  - podcast
+  - throughline
 url: https://www.npr.org/2019/02/13/694463513/american-shadows
 type: "[[201.02 Throughline Reading List]]"
 ---

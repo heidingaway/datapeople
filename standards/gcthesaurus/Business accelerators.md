@@ -1,8 +1,13 @@
 ---
 title: Business accelerators
-aliases: Business accelerators
+aliases:
+  - Business accelerators
+created: 2024-12-18
+modified: 2024-12-31
 tags:
   - gccommon
+id: 4936
 french:
-  - "[[Accelerateur dentreprise]]"
+  - Accélérateur d'entreprises
 ---
+# Business accelerators

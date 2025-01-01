@@ -11,6 +11,6 @@ scopeNote:
   - Statistics of vital events births deaths marriages
 relatedTerm:
   - "[[Death rate]]"
-  - "[[Birth rate]]"
+  - "[[1086 Birth rate]]"
 ---
 # Vital statistics

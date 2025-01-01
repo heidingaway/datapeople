@@ -1,9 +1,12 @@
 ---
 title: 411 DataTypes
+aliases:
+  - "20250101002530"
 created: 2024-10-26
-modified: 2024-10-26
+modified: 2025-01-01
 tags:
-- thing
+  - DataType
+  - thing
 ---
 # 411 DataTypes
 ## Properties

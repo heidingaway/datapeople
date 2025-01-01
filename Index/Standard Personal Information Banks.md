@@ -3,10 +3,12 @@ title: Standard Personal Information Banks
 aliases:
   - "20241229151621"
 created: 2024-12-29
-modified: 2024-12-29
+modified: 2025-01-01
 source: https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html
 tags:
-  - thing/creativeWorks/datacatalog
+  - creativeWork
+  - datacatalog
+  - thing
 type: "[[500 Standards]]"
 class:
   - "[[PSE 901 Employee Personnel Record]]"

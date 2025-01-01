@@ -76,7 +76,7 @@
     },
     "yaml-title-alias": {
       "enabled": false,
-      "preserve-existing-alias-section-style": true,
+      "preserve-existing-alias-section-style": false,
       "keep-alias-that-matches-the-filename": false,
       "use-yaml-key-to-keep-track-of-old-filename-or-heading": true,
       "alias-helper-key": "linter-yaml-title-alias"

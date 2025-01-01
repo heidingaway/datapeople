@@ -1,16 +1,19 @@
 ---
 title: 406 Organization
+aliases:
+  - "20241231205654"
 created: 2024-10-26
-modified: 2024-12-25
+modified: 2025-01-01
 tags:
+  - organization
   - thing
 type: "[[400 Thing]]"
 ---
 # 406 Organization
 ## Class
 - [[Airline]]
-- [[Consortium]]
-- [[Corporation]]
+- [[406 Consortium]]
+- [[406 Corporation]]
 - [[EducationalOrganization]]
 - [[FundingScheme]]
 - [[LibrarySystem]]

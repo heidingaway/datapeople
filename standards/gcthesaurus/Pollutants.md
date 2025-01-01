@@ -13,7 +13,7 @@ id: 373
 french:
   - Polluant
 relatedTerm:
-  - "[[Atmospheric emissions]]"
+  - "[[368 Atmospheric emissions]]"
   - "[[Chemicals]]"
   - "[[Contaminated sites]]"
   - "[[Hazardous materials]]"

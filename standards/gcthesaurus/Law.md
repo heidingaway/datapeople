@@ -25,7 +25,7 @@ narrowerTerm:
   - "[[Military law]]"
   - "[[Pro bono legal services]]"
 relatedTerm:
-  - "[[402.07 Legislation]]"
+  - "[[Legislation 132]]"
   - "[[Jurisprudence]]"
   - "[[Justice system]]"
   - "[[Legal aid]]"

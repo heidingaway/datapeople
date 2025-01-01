@@ -5,8 +5,8 @@ aliases:
 created: 2024-12-30
 modified: 2024-12-30
 tags:
-  - NPR
-  - podcasts/throughline
+  - podcast
+  - throughline
 type: "[[201.02 Throughline Reading List]]"
 subject:
   - "[[American History]]"

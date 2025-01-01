@@ -1,4 +1,5 @@
 {
   "folder": "/",
-  "format": ""
+  "format": "YYYYMMDDHHmms",
+  "template": ""
 }

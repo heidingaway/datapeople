@@ -3,10 +3,11 @@ title: A Race to Know TBR
 aliases:
   - "20241230211529"
 created: 2024-12-30
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - NPR
-  - podcasts/throughline
+  - podcast
+  - throughline
 type: "[[201.02 Throughline Reading List]]"
 url: https://www.npr.org/2020/04/01/825227253/a-race-to-know
 ---

@@ -2,9 +2,10 @@
 title: Internal audits
 aliases:
   - "20241227182124"
+  - Audit interne
   - Internal audits
 created: 2024-12-18
-modified: 2024-12-27
+modified: 2025-01-01
 tags:
   - gccommon
 id: 4893
@@ -14,7 +15,6 @@ relatedTerm:
   - "[[Control]]"
   - "[[Governance]]"
   - "[[Information systems]]"
-  - "[[Review]]"
   - "[[Risk management]]"
 ---
 # Internal audits

@@ -3,9 +3,9 @@ title: Clearing and settlement system
 aliases:
   - "20241229142254"
 created: 2024-12-29
-modified: 2024-12-29
+modified: 2025-01-01
 tags:
-  - thing
+  - organization
 example:
   - "[[Canadian Derivatives Clearing Corporation (CDCC)]]"
   - "[[CDS Clearing and Depository Services Inc]]"

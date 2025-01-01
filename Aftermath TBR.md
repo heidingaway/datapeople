@@ -3,10 +3,11 @@ title: Aftermath TBR
 aliases:
   - "20241230211743"
 created: 2024-12-30
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - NPR
-  - podcasts/throughline
+  - podcast
+  - throughline
 type: "[[201.02 Throughline Reading List]]"
 url: https://www.npr.org/2020/04/22/841997647/aftermath
 ---

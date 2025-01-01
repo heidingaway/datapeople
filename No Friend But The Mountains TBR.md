@@ -5,8 +5,8 @@ aliases:
 created: 2024-12-30
 modified: 2024-12-30
 tags:
-  - NPR
-  - podcasts/throughline
+  - podcast
+  - throughline
 url: https://www.npr.org/2019/11/06/776794310/no-friend-but-the-mountains
 type: "[[201.02 Throughline Reading List]]"
 date: 11-07-2019

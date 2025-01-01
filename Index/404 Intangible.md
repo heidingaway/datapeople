@@ -5,7 +5,8 @@ aliases:
 created: 2024-10-26
 modified: 2024-12-31
 tags:
-  - thing/Intangible
+  - thing
+  - intangible
 class:
   - "[[404.01 StructuredValue]]"
   - "[[404.02 Property]]"

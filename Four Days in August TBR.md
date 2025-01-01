@@ -3,11 +3,12 @@ title: Four Days in August TBR
 aliases:
   - "2024122923340"
 created: 2024-12-29
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - NPR
-  - podcasts/throughline
+  - podcast
   - TBR
+  - throughline
 date: 02-07-2019
 type: "[[201.02 Throughline Reading List]]"
 url: https://www.npr.org/2019/01/31/690363402/how-the-cia-overthrew-irans-democracy-in-four-days

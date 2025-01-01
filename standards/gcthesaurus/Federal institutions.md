@@ -13,7 +13,7 @@ id: 1955
 french:
   - Institution fédérale
 relatedTerm:
-  - "[[Crown corporations]]"
+  - "[[1866 Crown corporations]]"
   - "[[Federal departments]]"
   - "[[Federal government]]"
   - "[[Portfolio]]"

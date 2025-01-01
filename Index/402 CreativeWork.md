@@ -3,9 +3,10 @@ title: 402 CreativeWork
 aliases:
   - creativeWorks
 created: 2024-10-26
-modified: 2024-12-31
+modified: 2025-01-01
 tags:
-  - thing/CreativeWork
+  - creativeWork
+  - thing
 class:
   - "[[402.01 Dataset]]"
   - "[[402.02 CreativeWorkSeries]]"

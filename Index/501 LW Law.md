@@ -8,7 +8,7 @@ tags:
   - gccommon
 context: "[[501 Government of Canada Core Subject Thesaurus]]"
 class:
-  - "[[402.07 Legislation|Legislation]]"
+  - "[[Legislation 132|Legislation]]"
   - "[[Acquittal]]"
   - "[[Administrative law]]"
   - "[[Amendments]]"

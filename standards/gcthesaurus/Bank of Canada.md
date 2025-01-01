@@ -4,9 +4,10 @@ aliases:
   - "20241229141515"
   - the Bank
 created: 2024-12-29
-modified: 2024-12-29
+modified: 2025-01-01
 tags:
-  - organization
+  - gcorg
+missingFrom: "[[Open Canada Portal]]"
 type: "[[Central banks]]"
 french: Banque du Canada
 description: "The Bank of Canada is the nation's central bank. Our main role is “to promote the economic and financial welfare of Canada,” as defined in the Bank of Canada Act."

@@ -1,14 +1,16 @@
 ---
 title: Entrepreneurs
+aliases:
+  - "20241231233625"
+  - Entrepreneurs
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2024-12-31
 tags:
   - gccommon
-aliases: Entrepreneurs
+id: 1231
 french:
-  - "[[Entrepreneur]]"
+  - Entrepreneur
 relatedTerm:
   - "[[Entrepreneurship]]"
-  - "[[Business start-ups]]"
 ---
 # Entrepreneurs

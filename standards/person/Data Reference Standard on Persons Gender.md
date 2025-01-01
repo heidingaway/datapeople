@@ -8,6 +8,7 @@ created: 2024-11-28
 modified: 2024-12-31
 tags:
   - gcpolicy
+  - WAGE
 readWith:
   - "[[2SLGBTQI Terminology Glossary and Common Acronyms]]"
   - "[[Appendix L Standard for Managing Metadata (2024)]]"

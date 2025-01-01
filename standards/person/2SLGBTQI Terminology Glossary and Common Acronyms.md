@@ -8,6 +8,7 @@ created: 2024-12-31
 modified: 2024-12-31
 tags:
   - gcpolicy
+  - WAGE
 author: "[[406.01.239 Women and Gender Equality Canada|WAGE]]"
 url: https://www.canada.ca/en/women-gender-equality/free-to-be-me/2slgbtqi-plus-glossary.html
 ---

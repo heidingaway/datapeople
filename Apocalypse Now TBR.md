@@ -3,10 +3,11 @@ title: Apocalypse Now TBR
 aliases:
   - "20241230003320"
 created: 2024-12-30
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - NPR
-  - podcasts/throughline
+  - podcast
+  - throughline
 url: https://www.npr.org/2019/06/11/731664197/apocalypse-now
 type: "[[201.02 Throughline Reading List]]"
 ---

@@ -5,7 +5,7 @@ tags:
 french:
   - "[[Produit laitier]]"
 narrowerTerm:
-  - "[[Butter]]"
+  - "[[standards/gcthesaurus/Butter]]"
   - "[[Cheese]]"
   - "[[Cream]]"
   - "[[Milk]]"

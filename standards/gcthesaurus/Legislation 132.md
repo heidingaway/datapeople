@@ -1,5 +1,5 @@
 ---
-title: 402.07 Legislation
+title: Legislation 132
 aliases:
   - Acts
   - Bills
@@ -8,10 +8,9 @@ aliases:
   - Legislative process
   - Statutes
 created: 2024-12-18
-modified: 2024-12-29
+modified: 2025-01-01
 tags:
   - gccommon
-  - thing
 id: 132
 french:
   - Legislation
@@ -24,6 +23,5 @@ relatedTerm:
   - "[[Regulations]]"
 scopeNote:
   - A collection of written and approved laws that guide behaviors in society.
-type: "[[402 CreativeWork|creativeWorks]]"
 ---
 # Legislation

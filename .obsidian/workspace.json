@@ -45,32 +45,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20241231185836 Design with users.md",
+                "file": "Empower staff to deliver better services 20241231191339.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20241231185836 Design with users"
+              "title": "Empower staff to deliver better services 20241231191339"
             }
           },
           {
-            "id": "7b6553dd26e9d9da",
+            "id": "6e51ae803b9ab87e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index/501 EC Economics and Industry.md",
+                "file": "broken links output.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "501 EC Economics and Industry"
+              "title": "broken links output"
+            }
+          },
+          {
+            "id": "32b474c9d1f3a41f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "standards/gcthesaurus/Butter.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Butter"
+            }
+          },
+          {
+            "id": "ce1b3d1d50435c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20250101095043 placeholder.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250101095043 placeholder"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,12 +172,11 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 285
+    "width": 295
   },
   "right": {
     "id": "938aa32a92653f39",
@@ -273,37 +302,40 @@
       "focus-time:View total focus time data": true,
       "homepage:Open homepage": true,
       "widgets:Add widget": true,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "7b6553dd26e9d9da",
+  "active": "c275bcff14534427",
   "lastOpenFiles": [
-    "standards/gcthesaurus/Business types.md",
+    "Government of Canada Digital Standards.md",
+    "Build in accessibility from the start 20241231191336.md",
+    "20250101095043 placeholder.md",
+    "Address security and privacy risks 2024123119132.md",
+    "Use open standards and solutions 20241231191215.md",
+    "Index/402 CreativeWork.md",
+    "Work in the open by default 20241231185859.md",
+    "Iterate and improve frequently 20241231185847.md",
     "20241231185836 Design with users.md",
-    "standards/gcthesaurus/Sole proprietorships Franchises Businesses.md",
-    "standards/gcthesaurus/Reference services.md",
-    "standards/gcthesaurus/Nationalism.md",
-    "standards/gcthesaurus/Libraries Information requests.md",
-    "standards/gcthesaurus/National symbols Canadian identity.md",
-    "standards/gcthesaurus/Energy efficiency.md",
-    "standards/gcthesaurus/1660 Communications.md",
-    "standards/gcthesaurus/Drought.md",
-    "standards/gcthesaurus/1975 Symbols.md",
-    "standards/gcthesaurus/Security intelligence.md",
-    "standards/gcthesaurus/2772 Extradition.md",
-    "standards/gcthesaurus/Hunting Sport.md",
-    "standards/gcthesaurus/Fishing Sport.md",
-    "standards/gcthesaurus/Outfitters Outdoor recreation Fishing permits.md",
-    "standards/gcthesaurus/Outfitters Outdoor recreation Hunting permits.md",
-    "standards/gcthesaurus/Justice system International law.md",
-    "standards/gcthesaurus/National security International security Electroni.md",
-    "standards/gcthesaurus/National security.md",
-    "standards/gcthesaurus/International security.md",
+    "User Experience Design.md",
+    "standards/gcthesaurus/Butter.md",
+    "Clippings/20250101085539 Iterate and improve frequently.md",
+    "Clippings",
+    "broken links output.md",
+    "20250101085110.md",
     "Home.md",
-    "standards/gcthesaurus/Security investigations Security intelligence Inte.md",
-    "standards/gcthesaurus/Cryptography.md",
-    "standards/gcthesaurus/Computer security.md",
-    "standards/gcthesaurus/Flags.md",
+    "standards/gcthesaurus/butter.md",
+    "Templates/identifier.md",
+    "standards/gcthesaurus/Business start-ups.md",
+    "Index/406 Organization.md",
+    "standards/person/2SLGBTQI Terminology Glossary and Common Acronyms.md",
+    "standards/person/2SLGBTQI (20241231152234).md",
+    "standards/person/Aromantic 20241231155841.md",
+    "standards/person/3 Another gender.md",
+    "standards/person/Gender Expression 20241231155853.md",
+    "standards/person/Asexual 20241231155843.md",
+    "archive - kanban.md",
     "standards/dates",
     "standards/Bank of Canada",
     "standards/PIB",
@@ -313,7 +345,6 @@
     "Library/Government as a Brain.pdf",
     "fileClass",
     "Templates/Scripts/joke.js",
-    "Templates/Scripts/quote (Copy).js",
     "canvas/Canvas.canvas",
     "canvas/Untitled 1.canvas"
   ]

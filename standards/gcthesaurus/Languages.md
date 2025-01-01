@@ -9,7 +9,7 @@ french:
 narrowerTerm:
   - "[[English language]]"
   - "[[Foreign languages]]"
-  - "[[French language]]"
+  - "[[3021 French language]]"
   - "[[Heritage languages]]"
   - "[[Indigenous languages]]"
   - "[[Mother tongue]]"

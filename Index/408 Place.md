@@ -1,10 +1,12 @@
 ---
 title: 408 Place
-aliases: []
+aliases:
+  - "2025010100276"
 created: 2024-10-26
-modified: 2024-12-31
+modified: 2025-01-01
 tags:
-  - thing/Place
+  - place
+  - thing
 ---
 # 408 Place
 ## Class

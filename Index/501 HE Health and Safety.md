@@ -31,7 +31,7 @@ class:
   - "[[Bicycle safety equipment]]"
   - "[[Bioassay]]"
   - "[[Biomedical experiments]]"
-  - "[[Blindness]]"
+  - "[[1103 Blindness]]"
   - "[[Blood supply]]"
   - "[[Breast cancer]]"
   - "[[Cancer]]"

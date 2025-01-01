@@ -17,7 +17,7 @@ class:
   - "[[Foreign languages]]"
   - "[[Francophonie]]"
   - "[[French in the workplace]]"
-  - "[[French language]]"
+  - "[[3021 French language]]"
   - "[[French second language]]"
   - "[[Heritage languages]]"
   - "[[Idioms]]"

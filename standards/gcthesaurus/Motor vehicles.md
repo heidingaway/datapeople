@@ -7,7 +7,7 @@ tags:
 french:
   - Vehicule automobile
 narrowerTerm:
-  - "[[Automobiles]]"
+  - "[[900 Automobiles]]"
   - "[[Buses]]"
   - "[[Electric vehicles]]"
   - "[[Trucks]]"

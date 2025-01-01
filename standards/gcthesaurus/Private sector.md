@@ -13,7 +13,7 @@ french:
   - Secteur privé
 relatedTerm:
   - "[[Privatization]]"
-  - "[[Public sector]]"
+  - "[[1956 Public sector]]"
   - "[[Public-private partnerships]]"
 ---
 # Private sector

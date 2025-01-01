@@ -14,7 +14,7 @@ scopeNote:
   - The ability of animals to conceive or induce conception and produce offspring.
 relatedTerm:
   - "[[Animal reproduction]]"
-  - "[[Birth rate]]"
+  - "[[1086 Birth rate]]"
   - "[[Reproductive technology]]"
   - "[[Semen]]"
 ---
