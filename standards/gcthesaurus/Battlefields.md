@@ -12,6 +12,5 @@ french:
   - Champ de bataille
 relatedTerm:
   - "[[Demining]]"
-  - "[[War]]"
 ---
 # Battlefields

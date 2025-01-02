@@ -5,7 +5,7 @@ aliases:
   - Air pollution
   - Atmospheric pollution
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - gccommon
 id: 115
@@ -17,7 +17,6 @@ relatedTerm:
   - "[[Acid rain]]"
   - "[[Air quality]]"
   - "[[Air]]"
-  - "[[368 Atmospheric emissions]]"
   - "[[Greenhouse gases]]"
   - "[[Ozone depletion]]"
 ---

@@ -5,7 +5,7 @@ aliases:
   - Juvenile offenders
   - Young offenders
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - gccommon
 id: 168
@@ -13,9 +13,6 @@ french:
   - Jeune contrevenant
 relatedTerm:
   - "[[Adolescents]]"
-  - "[[Correctional institutions]]"
-  - "[[Crime]]"
-  - "[[Gangs]]"
   - "[[Juvenile court]]"
 ---
 # Young offenders

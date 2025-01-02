@@ -34,7 +34,7 @@ class:
   - "[[Bicycle paths]]"
   - "[[Bioethics]]"
   - "[[Birth certificates]]"
-  - "[[1086 Birth rate]]"
+  - "[[Birth rate]]"
   - "[[Birth]]"
   - "[[4964 Bisexual people]]"
   - "[[Burials]]"

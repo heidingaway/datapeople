@@ -6,7 +6,7 @@ aliases:
   - Crude petroleum
   - Petroleum
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - gccommon
 id: 1964
@@ -15,7 +15,5 @@ french:
 relatedTerm:
   - "[[Oil sands]]"
   - "[[Oil spills]]"
-  - "[[Petroleum industry]]"
-  - "[[Pipelines]]"
 ---
 # Petroleum

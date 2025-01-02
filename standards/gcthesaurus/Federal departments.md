@@ -12,7 +12,7 @@ french:
   - Ministère du gouvernement fédéral
 relatedTerm:
   - "[[Departmental relations]]"
-  - "[[Ministers]]"
+  - "[[Ministers 1263]]"
   - "[[Portfolio]]"
 ---
 # Federal departments

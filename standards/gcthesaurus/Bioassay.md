@@ -5,7 +5,7 @@ aliases:
   - Bioassay
 created: 2024-12-18
 modified: 2024-12-27
-source: "[[406.01.248 Health Canada]]"
+author: "[[406.01.248 Health Canada]]"
 tags:
   - gccommon
 id: 980

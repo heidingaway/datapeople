@@ -10,14 +10,13 @@ aliases:
   - Information technology security
   - IT security
 created: 2024-12-13
-modified: 2024-12-25
+modified: 2025-01-01
 tags:
   - gccommon
 id: 1726
 french:
   - Sécurité informatique
 relatedTerm:
-  - "[[Computers]]"
   - "[[Foreign interference]]"
 ---
 # Computer security

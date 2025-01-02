@@ -1,15 +1,19 @@
 ---
 title: Interprovincial relations
+aliases:
+  - "20250101231022"
+  - Interprovincial cooperation
+  - Interprovincial relations
+  - Relations interprovinciales
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Interprovincial relations
+id: 3567
 french:
-  - "[[Relations interprovinciales]]"
+  - Relations interprovinciales
 relatedTerm:
-  - "[[Provincial governments]]"
   - "[[Provinces]]"
-  - "[[Interprovincial cooperation]]"
+  - "[[Provincial governments]]"
 ---
 # Interprovincial relations

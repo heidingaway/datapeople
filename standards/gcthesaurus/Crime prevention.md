@@ -1,14 +1,17 @@
 ---
 title: Crime prevention
+aliases:
+  - "20250101184240"
+  - Crime prevention
+  - Prévention de la criminalité
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Crime prevention
+id: 1926 
 french:
-  - "[[Prevention de la criminalite]]"
+  - Prévention de la criminalité
 relatedTerm:
   - "[[Police services]]"
-  - "[[Crime]]"
 ---
 # Crime prevention

@@ -3,10 +3,10 @@ title: Pharmacology
 aliases:
   - Pharmacology
 created: 2024-12-13
-modified: 2024-12-27
-source: "[[406.01.333 National Research Council Canada]]"
+modified: 2025-01-01
 tags:
   - gccommon
+author: "[[406.01.333 National Research Council Canada]]"
 id: 2319
 french:
   - Pharmacologie

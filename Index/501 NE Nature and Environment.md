@@ -37,7 +37,7 @@ subject:
   - "[[Arctic ecosystems]]"
   - "[[Arctic]]"
   - "[[Arthropods]]"
-  - "[[368 Atmospheric emissions]]"
+  - "[[Atmospheric emissions]]"
   - "[[Avalanches]]"
   - "[[Biochemicals]]"
   - "[[Biodegradation]]"

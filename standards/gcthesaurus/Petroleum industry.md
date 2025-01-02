@@ -1,10 +1,24 @@
 ---
 title: Petroleum industry
+aliases:
+  - "20250101185556"
+  - Oil industry
+  - Oil refining
+  - Oil sands industry
+  - Petroleum industry
+  - Petroleum refining
+  - Tar sands industry
+created: 2024-12-18
+modified: 2025-01-01
 tags:
   - gccommon
 french:
-  - "[[Industrie petroliere]]"
+  - Industrie pétrolière
 relatedTerm:
   - "[[Gasoline]]"
-aliases: Petroleum industry
+  - "[[Offshore drilling]]"
+  - "[[Oil sands]]"
+  - "[[Petroleum]]"
+  - "[[Pipelines]]"
 ---
+# Petroleum industry

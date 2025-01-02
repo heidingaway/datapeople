@@ -9,10 +9,10 @@ aliases:
   - Nanotechnologie
   - Nanotechnology
 created: 2024-12-18
-modified: 2024-12-31
-source: "[[406.01.333 National Research Council Canada|National Research Council]]"
+modified: 2025-01-01
 tags:
   - gccommon
+author: "[[406.01.333 National Research Council Canada|National Research Council]]"
 french:
   - Nanotechnologie
 scopeNote:

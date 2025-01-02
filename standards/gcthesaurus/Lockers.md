@@ -13,6 +13,5 @@ french:
 relatedTerm:
   - "[[Labour mobility]]"
   - "[[Office equipment]]"
-  - "[[Workplace]]"
 ---
 # Lockers

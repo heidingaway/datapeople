@@ -1,15 +1,18 @@
 ---
 title: Technology policy
+aliases:
+  - "20250101225513"
+  - Politique technologique
+  - Technology policy
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Technology policy
+id: 4251
 french:
-  - "[[Politique technologique]]"
+  - Politique technologique
 relatedTerm:
-  - "[[Technology transfer]]"
-  - "[[Technology]]"
   - "[[Information policy]]"
+  - "[[Technology transfer]]"
 ---
 # Technology policy

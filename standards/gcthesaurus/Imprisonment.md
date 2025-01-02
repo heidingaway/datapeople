@@ -13,7 +13,6 @@ french:
   - Emprisonnement
 relatedTerm:
   - "[[Correctional institutions]]"
-  - "[[Criminal justice]]"
   - "[[Inmates]]"
 ---
 # Imprisonment

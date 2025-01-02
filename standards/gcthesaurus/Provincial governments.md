@@ -1,17 +1,20 @@
 ---
 title: Provincial governments
+aliases:
+  - "20250101230932"
+  - Gouvernement provincial
+  - Provincial administration
+  - Provincial governments
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2025-01-01
 tags:
   - gccommon
 french:
-  - "[[Gouvernement provincial]]"
+  - Gouvernement provincial
 relatedTerm:
-  - "[[Provincial institutions]]"
-  - "[[Provinces]]"
-  - "[[Legislative assemblies]]"
-  - "[[Interprovincial relations]]"
   - "[[Federal provincial relations]]"
-aliases: Provincial governments
+  - "[[Interprovincial relations]]"
+  - "[[Legislative assemblies]]"
+  - "[[Provincial institutions]]"
 ---
 # Provincial governments

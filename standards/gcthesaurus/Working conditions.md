@@ -1,7 +1,17 @@
 ---
 title: Working conditions
+aliases:
+  - "20250101194722"
+  - Employment conditions
+  - Hours of work
+  - Labor conditions
+  - Labour conditions
+  - Work conditions
+  - Work schedule
+  - Working hours
+  - Workload
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2025-01-01
 tags:
   - gccommon
 id: 990
@@ -11,22 +21,9 @@ relatedTerm:
   - "[[Benefits]]"
   - "[[Collective agreements]]"
   - "[[Collective bargaining]]"
-  - "[[Holidays]]"
   - "[[Job promotion]]"
   - "[[Labour standards]]"
   - "[[Occupational health]]"
   - "[[Occupational safety]]"
-  - "[[Vacations]]"
-  - "[[Work organization]]"
-  - "[[Workplace]]"
-aliases:
-  - Employment conditions
-  - Hours of work
-  - Labor conditions
-  - Labour conditions
-  - Work conditions
-  - Work schedule
-  - Working hours
-  - Workload
 ---
 # Working conditions

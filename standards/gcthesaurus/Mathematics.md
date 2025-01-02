@@ -11,6 +11,5 @@ relatedTerm:
   - "[[Statistics]]"
   - "[[Numeracy]]"
   - "[[Natural sciences]]"
-  - "[[Analytics]]"
 ---
 # Mathematics

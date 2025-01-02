@@ -1,14 +1,17 @@
 ---
 title: Criminal investigations
+aliases:
+  - "2025010118439"
+  - Criminal investigations
+  - Enquête criminelle
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Criminal investigations
+id: 1927
 french:
-  - "[[Enquete criminelle]]"
+  - Enquête criminelle
 relatedTerm:
   - "[[Police services]]"
-  - "[[Crime]]"
 ---
 # Criminal investigations

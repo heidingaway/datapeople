@@ -5,10 +5,10 @@ aliases:
   - Perennially frozen ground
   - Permafrost
 created: 2024-12-18
-modified: 2024-12-30
-source: "[[406.01.257 Environment and Climate Change Canada|Environment and Climate Change Canada]]"
+modified: 2025-01-01
 tags:
   - gccommon
+author: "[[406.01.257 Environment and Climate Change Canada|Environment and Climate Change Canada]]"
 id: 4202
 french:
   - Pergélisol

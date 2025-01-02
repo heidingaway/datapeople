@@ -16,7 +16,6 @@ id: 3085
 french:
   - Organisme génétiquement modifié
 relatedTerm:
-  - "[[Genetic engineering]]"
   - "[[Genetically modified foods]]"
 historyNote:
   - Avant novembre 2007, non-descripteur sous "Genetic engineering".

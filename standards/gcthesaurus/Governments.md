@@ -4,13 +4,14 @@ aliases:
   - "2024122815317"
   - Governments
 created: 2024-12-18
-modified: 2024-12-28
+modified: 2025-01-01
 tags:
   - gccommon
 id: 19
 french:
   - Gouvernement
 narrowerTerm:
+  - "[[4907 Treasury board|Treasury board]]"
   - "[[Federal government]]"
   - "[[Government plans]]"
   - "[[Government priorities]]"
@@ -20,9 +21,7 @@ narrowerTerm:
   - "[[Provincial governments]]"
   - "[[Red tape burdens]]"
   - "[[Territorial governments]]"
-  - "[[4907 Treasury board]]"
 relatedTerm:
-  - "[[Governance]]"
   - "[[Government information]]"
   - "[[Government policy]]"
   - "[[Intergovernmental relations]]"

@@ -4,8 +4,9 @@ aliases:
   - "20241230175435"
   - Navigation aids
   - Navigation systems
+  - Système d'aide à la navigation
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - gccommon
 id: 3135
@@ -15,7 +16,6 @@ narrowerTerm:
   - "[[Global navigation satellite systems]]"
 relatedTerm:
   - "[[Marine safety]]"
-  - "[[Navigation]]"
   - "[[Radar]]"
 ---
 # Navigation systems

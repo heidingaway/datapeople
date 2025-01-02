@@ -1,15 +1,19 @@
 ---
 title: Vacations
+aliases:
+  - "20250101195135"
+  - Vacances
+  - Vacations
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Vacations
+id: 3343
 french:
-  - "[[Vacances]]"
+  - Vacances
 relatedTerm:
-  - "[[Working conditions]]"
-  - "[[Leave of absence]]"
   - "[[Holidays]]"
+  - "[[Leave of absence]]"
+  - "[[Working conditions]]"
 ---
 # Vacations

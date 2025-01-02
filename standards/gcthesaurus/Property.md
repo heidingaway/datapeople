@@ -12,7 +12,6 @@ french:
   - Biens
 relatedTerm:
   - "[[Capital]]"
-  - "[[Estates]]"
   - "[[Property and casualty insurance]]"
   - "[[Property management]]"
   - "[[Real estate]]"

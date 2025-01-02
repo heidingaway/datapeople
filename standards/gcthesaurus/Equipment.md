@@ -1,11 +1,16 @@
 ---
 title: Equipment
+aliases:
+  - "20250101225639"
+  - Équipement
+  - Equipment
+  - Machinery
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2025-01-01
 tags:
   - gccommon
 french:
-  - "[[Equipement]]"
+  - Équipement
 narrowerTerm:
   - "[[Audiovisual equipment]]"
   - "[[Electrical equipment]]"
@@ -17,8 +22,7 @@ narrowerTerm:
   - "[[Scientific equipment]]"
 relatedTerm:
   - "[[Equipment industry]]"
-  - "[[Tooling]]"
   - "[[Technology]]"
-aliases: Equipment
+  - "[[Tooling]]"
 ---
 # Equipment

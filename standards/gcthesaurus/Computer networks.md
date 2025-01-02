@@ -1,21 +1,24 @@
 ---
 title: Computer networks
+aliases:
+  - "20250101184817"
+  - Computer networks
+  - Electronic networks
+  - LANs
+  - Local area networks
+  - Réseau informatique
+  - WANs
+  - Wide area networks
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2025-01-01
 tags:
   - gccommon
 french:
-  - "[[Reseau informatique]]"
+  - Réseau informatique
 narrowerTerm:
   - "[[Internet]]"
   - "[[Intranets]]"
 relatedTerm:
   - "[[Computer crime]]"
-  - "[[Telecommunications]]"
-  - "[[Information technology]]"
-  - "[[Computers]]"
-  - "[[Computer systems]]"
-  - "[[Computer crime]]"
-aliases: Computer networks
 ---
 # Computer networks

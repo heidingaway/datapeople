@@ -8,10 +8,10 @@ aliases:
   - Manmade disasters
   - Technological disasters
 created: 2024-12-18
-modified: 2024-12-30
-source: "[[406.01.254 Natural Resources Canada|NRCan]]"
+modified: 2025-01-01
 tags:
   - gccommon
+author: "[[406.01.254 Natural Resources Canada|NRCan]]"
 french:
   - Désastre
 narrowerTerm:

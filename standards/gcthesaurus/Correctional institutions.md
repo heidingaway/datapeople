@@ -10,7 +10,7 @@ aliases:
   - Penitentiaries
   - Prisons
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - gccommon
 french:
@@ -18,10 +18,6 @@ french:
 scopeNote:
   - Encompasses youth correctional facilities, detention centres, and penitentiaries.
 relatedTerm:
-  - "[[Criminal justice]]"
-  - "[[Imprisonment]]"
-  - "[[Inmates]]"
-  - "[[Parole]]"
   - "[[Young offenders]]"
 ---
 # Correctional institutions

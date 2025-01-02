@@ -16,7 +16,6 @@ narrowerTerm:
   - "[[Workplace automation]]"
 relatedTerm:
   - "[[Artificial intelligence]]"
-  - "[[Computers]]"
   - "[[Modernization]]"
   - "[[Robotics]]"
   - "[[Technology]]"

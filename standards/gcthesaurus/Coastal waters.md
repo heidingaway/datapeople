@@ -9,10 +9,10 @@ aliases:
   - Territorial sea
   - Territorial waters
 created: 2024-12-18
-modified: 2024-12-27
-source: "[[406.01.254 Natural Resources Canada|NRCan]]"
+modified: 2025-01-01
 tags:
   - gccommon
+author: "[[406.01.254 Natural Resources Canada|NRCan]]"
 id: 1558
 french:
   - Eaux côtières

@@ -4,7 +4,7 @@ aliases:
   - "20241227175830"
   - Benefits
 created: 2024-12-18
-modified: 2024-12-27
+modified: 2025-01-01
 tags:
   - gccommon
 id: 458
@@ -15,11 +15,9 @@ narrowerTerm:
   - "[[Paternity benefits]]"
   - "[[Survivor benefits]]"
 relatedTerm:
-  - "[[Allowances]]"
   - "[[Beneficiaries]]"
   - "[[Employment insurance]]"
   - "[[Entitlement]]"
   - "[[Pensions]]"
-  - "[[Working conditions]]"
 ---
 # Benefits

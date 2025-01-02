@@ -6,10 +6,10 @@ aliases:
   - Diplomatic missions
   - Embassies
 created: 2024-12-18
-modified: 2024-12-30
-source: "[[406.01.247 Global Affairs Canada|GAC]]"
+modified: 2025-01-01
 tags:
   - gccommon
+author: "[[406.01.247 Global Affairs Canada|GAC]]"
 french:
   - Mission diplomatique
 relatedTerm:

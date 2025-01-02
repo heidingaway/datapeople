@@ -6,10 +6,10 @@ aliases:
   - Marihuana
   - Marijuana
 created: 2024-12-18
-modified: 2024-12-30
-source: "[[406.01.248 Health Canada|HC]]"
+modified: 2025-01-01
 tags:
   - gccommon
+author: "[[406.01.248 Health Canada|HC]]"
 id: 2318
 french:
   - Marijuana

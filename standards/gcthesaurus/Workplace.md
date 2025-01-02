@@ -1,19 +1,26 @@
 ---
 title: Workplace
+aliases:
+  - "20250101203516"
+  - "20250101203521"
+  - Offices
+  - Place of work
+  - Work environment
+  - Workplace
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2025-01-01
 tags:
   - gccommon
+id: 4095
 french:
-  - "[[Milieu de travail]]"
+  - Milieu de travail
 relatedTerm:
-  - "[[Workplace violence]]"
-  - "[[Workplace pollution]]"
-  - "[[Workplace automation]]"
-  - "[[Working conditions]]"
-  - "[[Occupational safety]]"
-  - "[[Occupational health]]"
   - "[[Lockers]]"
-aliases: Workplace
+  - "[[Occupational health]]"
+  - "[[Occupational safety]]"
+  - "[[Working conditions]]"
+  - "[[Workplace automation]]"
+  - "[[Workplace pollution]]"
+  - "[[Workplace violence]]"
 ---
 # Workplace

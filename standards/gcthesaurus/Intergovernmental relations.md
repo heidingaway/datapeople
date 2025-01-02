@@ -4,6 +4,7 @@ aliases:
   - "20241230174055"
   - Intergovernmental affairs
   - Intergovernmental relations
+  - Relations intergouvernementales
 created: 2024-12-18
 modified: 2024-12-30
 tags:

@@ -1,17 +1,21 @@
 ---
 title: Watercourses
+aliases:
+  - "2025010123066"
+  - Water courses
+  - Watercourses
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2025-01-01
 tags:
   - gccommon
+id: 4443
 french:
-  - "[[Cours deau]]"
+  - Cours d'eau
 narrowerTerm:
   - "[[Rivers]]"
   - "[[Streams]]"
-aliases: Watercourses
 relatedTerm:
-  - "[[Waterways]]"
   - "[[Estuaries]]"
+  - "[[Waterways]]"
 ---
 # Watercourses

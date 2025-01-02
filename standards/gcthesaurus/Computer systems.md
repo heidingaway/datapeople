@@ -1,11 +1,17 @@
 ---
 title: Computer systems
+aliases:
+  - "20250101184913"
+  - Computer operating systems
+  - Computer systems
+  - Système informatique
+created: 2024-12-18
+modified: 2025-01-01
 tags:
   - gccommon
 french:
-  - "[[Systeme informatique]]"
-aliases: Computer systems
+  - Système informatique
 relatedTerm:
-  - "[[Computers]]"
   - "[[Computer networks]]"
 ---
+# Computer systems

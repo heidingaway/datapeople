@@ -15,7 +15,6 @@ french:
 narrowerTerm:
   - "[[Foreign interference]]"
 relatedTerm:
-  - "[[Security intelligence]]"
   - "[[Security investigations]]"
 ---
 # National security

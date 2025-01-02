@@ -1,7 +1,14 @@
 ---
 title: Crime
+aliases:
+  - "20250101184210"
+  - Burglaries
+  - Crime
+  - Criminal activities
+  - Illegal activities
+  - Theft
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2025-01-01
 tags:
   - gccommon
 french:
@@ -31,8 +38,6 @@ relatedTerm:
   - "[[Vandalism]]"
   - "[[Young offenders]]"
 scopeNote:
-  - Social harm acts or commissions of acts that are f
-aliases:
-  - Crime
+  - Social harm, acts, or commissions of acts that are forbidden by law, including the omission of duty, consensual acts, and violations in which only the perpetrator is involved.
 ---
 # Crime

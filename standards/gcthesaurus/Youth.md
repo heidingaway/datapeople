@@ -1,17 +1,21 @@
 ---
 title: Youth
+aliases:
+  - "20250101183853"
+  - Jeunesse
+  - Youth
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Youth
+id: 165
 french:
-  - "[[Jeunesse]]"
+  - Jeunesse
 scopeNote:
   - Young people aged 15 to 24
 relatedTerm:
-  - "[[Young adults]]"
-  - "[[Adolescents]]"
   - "[[Adolescence]]"
+  - "[[Adolescents]]"
+  - "[[Young adults]]"
 ---
 # Youth

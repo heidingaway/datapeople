@@ -5,7 +5,7 @@ aliases:
   - Renewable energy resources
   - Renewable energy sources
 created: 2024-12-24
-modified: 2024-12-29
+modified: 2025-01-01
 tags:
   - gccommon
 french: Énergie renouvelable
@@ -14,5 +14,6 @@ relatedTerm:
   - "[[Energy supply]]"
   - "[[Hydropower]]"
   - "[[Sustainable development]]"
+narrowerTerm: "[[Wind energy]]"
 ---
 # Renewable energy

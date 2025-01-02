@@ -1,13 +1,18 @@
 ---
 title: Peace
-aliases: Peace
+aliases:
+  - "20250101202755"
+  - Paix
+  - Peace
+created: 2024-12-18
+modified: 2025-01-01
 tags:
   - gccommon
 french:
-  - "[[Paix]]"
+  - Paix
 relatedTerm:
-  - "[[War]]"
-  - "[[Peacekeeping]]"
-  - "[[International security]]"
   - "[[Arms control]]"
+  - "[[International security]]"
+  - "[[Peacekeeping]]"
 ---
+# Peace

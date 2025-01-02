@@ -1,18 +1,19 @@
 ---
 title: Members of the House of Commons
+aliases:
+  - "20250101193911"
+  - Members of Parliament
+  - Members of the House of Commons
+  - MPs
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2025-01-01
 tags:
   - gccommon
+id: 3361 
 french:
-  - "[[Depute federal]]"
-aliases: Members of the House of Commons
+  - Député fédéral
 relatedTerm:
-  - "[[Representatives]]"
-  - "[[Prime Minister]]"
-  - "[[Parliament]]"
-  - "[[Ministers]]"
-  - "[[Leader of the Official Opposition]]"
-  - "[[House of Commons]]"
+  - "[[Ministers 1263]]"
+  - "[[Prime Minister 3909]]"
 ---
 # Members of the House of Commons

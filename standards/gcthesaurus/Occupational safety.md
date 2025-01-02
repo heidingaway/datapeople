@@ -1,23 +1,23 @@
 ---
 title: Occupational safety
+aliases:
+  - "2025010119494"
+  - Employment safety
+  - Industrial safety
+  - Sécurité au travail
+  - Work safety
+  - Worker safety
+  - Workplace safety
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2025-01-01
 tags:
   - gccommon
 id: 2586
 french:
-  - Securite au travail
+  - Sécurité au travail
 relatedTerm:
   - "[[Occupational accidents]]"
   - "[[Occupational health]]"
-  - "[[Working conditions]]"
-  - "[[Workplace]]"
-aliases:
-  - Employment safety
-  - Industrial safety
-  - Work safety
-  - Worker safety
-  - Workplace safety
 historyNote:
   - '"Occupational safety" replaces "Workplace safety" as preferred term in November 2007.'
 ---

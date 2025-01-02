@@ -4,6 +4,7 @@ aliases:
   - "20241228102356"
   - Bioengineering
   - Biological engineering
+  - Biotechnologie
   - Biotechnology
 created: 2024-12-18
 modified: 2024-12-28

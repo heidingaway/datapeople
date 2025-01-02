@@ -3,6 +3,7 @@ title: Labour
 aliases:
   - "20241229214924"
   - Labor
+  - Travail
 created: 2024-12-18
 modified: 2024-12-30
 tags:

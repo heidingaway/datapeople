@@ -29,6 +29,5 @@ relatedTerm:
   - "[[Military law]]"
   - "[[Military personnel]]"
   - "[[Military police]]"
-  - "[[War]]"
 ---
 # Armed forces

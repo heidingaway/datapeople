@@ -1,14 +1,15 @@
 ---
 title: House of Commons
+aliases:
+  - House of Commons
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: House of Commons
+id: 3359
 french:
-  - "[[Chambre des communes]]"
+  - Chambre des communes
 relatedTerm:
   - "[[Members of the House of Commons]]"
-  - "[[Leader of the Official Opposition]]"
 ---
 # House of Commons

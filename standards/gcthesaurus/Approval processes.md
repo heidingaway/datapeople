@@ -5,7 +5,7 @@ aliases:
   - Approval processes
 created: 2024-12-13
 modified: 2024-12-28
-source: "[[406.01.248 Health Canada|HC]]"
+author: "[[406.01.248 Health Canada|HC]]"
 tags:
   - gccommon
 id: 641

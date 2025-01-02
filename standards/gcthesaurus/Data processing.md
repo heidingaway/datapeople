@@ -5,8 +5,9 @@ aliases:
   - Automatic data processing
   - Data processing
   - Electronic data processing
+  - Traitement des données
 created: 2024-12-18
-modified: 2024-12-29
+modified: 2025-01-01
 tags:
   - gccommon
 id: 888
@@ -15,14 +16,6 @@ french:
 narrowerTerm:
   - "[[Digitization]]"
 relatedTerm:
-  - "[[Computer science]]"
   - "[[Computer services]]"
-  - "[[Computers]]"
-  - "[[Data mining]]"
-  - "[[Databases]]"
-  - "[[Information management]]"
-  - "[[Information technology]]"
-  - "[[Machine readable data]]"
-  - "[[Templates]]"
 ---
 # Data processing

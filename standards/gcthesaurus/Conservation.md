@@ -16,7 +16,6 @@ narrowerTerm:
   - "[[Nature conservation]]"
   - "[[Resources conservation]]"
 relatedTerm:
-  - "[[Digitization]]"
   - "[[Recycling]]"
   - "[[Restoration]]"
 ---

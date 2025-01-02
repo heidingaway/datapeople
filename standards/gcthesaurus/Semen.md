@@ -1,17 +1,18 @@
 ---
 title: Semen
+aliases:
+  - "20250101224912"
+  - Donor semen
+  - Semen
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2025-01-01
 tags:
   - gccommon
 french:
-  - "[[Sperme]]"
+  - Sperme
 relatedTerm:
   - "[[Artificial insemination]]"
-  - "[[Reproductive technology]]"
-  - "[[Pregnancy]]"
   - "[[Fertility]]"
-  - "[[Animal reproduction]]"
-aliases: Semen
+  - "[[Reproductive technology]]"
 ---
 # Semen

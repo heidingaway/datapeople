@@ -1,15 +1,17 @@
 ---
 title: Birth
 aliases:
+  - "20250101224620"
   - Birth
+  - Childbirth
 created: 2024-12-18
-modified: 2024-12-31
+modified: 2025-01-01
 tags:
   - gccommon
+id: 1083
 french:
   - Naissance
 relatedTerm:
-  - "[[1086 Birth rate]]"
   - "[[Birth certificates]]"
   - "[[Death]]"
   - "[[Family planning]]"

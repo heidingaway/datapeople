@@ -24,7 +24,6 @@ french:
 narrowerTerm:
   - "[[Artificial insemination]]"
 relatedTerm:
-  - "[[Animal reproduction]]"
   - "[[Cloning]]"
   - "[[Fertility]]"
 ---

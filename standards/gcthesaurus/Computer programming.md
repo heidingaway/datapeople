@@ -12,7 +12,6 @@ french:
   - Programmation d'ordinateur
 relatedTerm:
   - "[[Analytics]]"
-  - "[[Computers]]"
   - "[[Software]]"
 ---
 # Computer programming

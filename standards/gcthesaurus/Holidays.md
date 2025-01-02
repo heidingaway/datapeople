@@ -1,17 +1,19 @@
 ---
 title: Holidays
+aliases:
+  - "20250101195013"
+  - Holidays
+  - Jour férié
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2025-01-01
 tags:
   - gccommon
-aliases:
-  - Holidays
+id: 1616
 french:
-  - Jour ferie
+  - Jour férié
 relatedTerm:
   - "[[Commemoration]]"
   - "[[Leave of absence]]"
-  - "[[Vacations]]"
   - "[[Working conditions]]"
 ---
 # Holidays

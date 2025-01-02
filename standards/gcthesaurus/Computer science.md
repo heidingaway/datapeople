@@ -14,7 +14,6 @@ french:
   - Informatique
 relatedTerm:
   - "[[Analytics]]"
-  - "[[Computers]]"
   - "[[Data processing]]"
   - "[[Natural sciences]]"
 ---

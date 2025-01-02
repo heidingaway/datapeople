@@ -30,8 +30,6 @@ narrowerTerm:
   - "[[Nanotechnology]]"
   - "[[Nuclear technology]]"
 relatedTerm:
-  - "[[Automation]]"
-  - "[[Equipment]]"
   - "[[Technical education]]"
   - "[[Technology policy]]"
   - "[[Technology transfer]]"

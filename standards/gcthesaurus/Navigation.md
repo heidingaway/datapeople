@@ -1,22 +1,25 @@
 ---
 title: Navigation
+aliases:
+  - "20250101230125"
+  - Commercial navigation
+  - Marine navigation
+  - Navigation
+  - Sailing
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2025-01-01
 tags:
   - gccommon
 french:
-  - "[[Navigation]]"
+  - Navigation
 relatedTerm:
   - "[[Lighthouses]]"
   - "[[Marine safety]]"
-  - "[[Maritime law]]"
   - "[[Nautical charts]]"
   - "[[Navigation systems]]"
   - "[[Pilotage]]"
   - "[[Vessels]]"
   - "[[Water transport]]"
   - "[[Waterways]]"
-aliases:
-  - Navigation
 ---
 # Navigation

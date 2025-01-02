@@ -1,18 +1,22 @@
 ---
 title: Marine safety
+aliases:
+  - "2025010122598"
+  - Marine navigation safety
+  - Marine safety
+  - Safe boating
+  - Sécurité maritime
+  - Vessel safety
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2025-01-01
 tags:
   - gccommon
+id: 3773
 french:
-  - "[[Securite maritime]]"
+  - Sécurité maritime
 relatedTerm:
   - "[[Lighthouses]]"
   - "[[Marine accidents]]"
   - "[[Marine safety equipment]]"
-  - "[[Navigation systems]]"
-  - "[[Navigation]]"
-aliases:
-  - Marine safety
 ---
 # Marine safety

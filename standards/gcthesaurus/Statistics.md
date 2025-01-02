@@ -18,7 +18,6 @@ narrowerTerm:
   - "[[Social statistics]]"
   - "[[Vital statistics]]"
 relatedTerm:
-  - "[[Analytics]]"
   - "[[Indicators]]"
   - "[[Statistical analysis]]"
   - "[[Statistical profile]]"

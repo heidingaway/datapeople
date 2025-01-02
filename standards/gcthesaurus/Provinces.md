@@ -1,20 +1,24 @@
 ---
 title: Provinces
+aliases:
+  - "20250101230922"
+  - Province
+  - Provinces
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Provinces
+id: 841
 french:
-  - "[[Province]]"
+  - Province
 narrowerTerm:
   - "[[Atlantic provinces]]"
   - "[[Central provinces]]"
   - "[[Western provinces]]"
 relatedTerm:
-  - "[[Territories]]"
-  - "[[Provincial parks]]"
-  - "[[Provincial governments]]"
   - "[[Interprovincial relations]]"
+  - "[[Provincial governments]]"
+  - "[[Provincial parks]]"
+  - "[[Territories]]"
 ---
 # Provinces

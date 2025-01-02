@@ -15,6 +15,5 @@ french:
 id: 2272
 relatedTerm:
   - "[[Offshore area]]"
-  - "[[Petroleum industry]]"
 ---
 # Offshore drilling

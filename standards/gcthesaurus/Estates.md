@@ -1,17 +1,19 @@
 ---
 title: Estates
+aliases:
+  - "20250101202126"
+  - Estates
+  - Succession
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Estates
 french:
-  - "[[Succession]]"
+  - Succession
 scopeNote:
-  - Investments money property or other valuables belo
+  - Investments, money, property or other valuables belonging to a deceased person. NOT to be used in the sense of: Landed property; individually owned piece of land containing a residence, esp. one that is large and maintained by great wealth. 
 relatedTerm:
-  - "[[Property]]"
   - "[[Probate]]"
-  - "[[Inheritance]]"
+  - "[[Property]]"
 ---
 # Estates

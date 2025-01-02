@@ -15,7 +15,7 @@ aliases:
   - Water transport
   - Water transportation
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - gccommon
 id: 3220
@@ -25,8 +25,6 @@ relatedTerm:
   - "[[Harbours]]"
   - "[[Marine installations]]"
   - "[[Maritime law]]"
-  - "[[Navigation]]"
-  - "[[Ships]]"
   - "[[Water transport industry]]"
   - "[[Waterways]]"
 ---

@@ -1,17 +1,19 @@
 ---
 title: Meteorology
+aliases:
+  - "2025010122363"
+  - Météorologie
+  - Meteorology
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2025-01-01
 tags:
   - gccommon
 id: 1529
 french:
-  - Meteorologie
+  - Météorologie
 scopeNote:
   - The science concerned with the atmosphere and its phenomena.
 relatedTerm:
-  - "[[Climate]]"
   - "[[Meteorological data]]"
-  - "[[Weather]]"
 ---
 # Meteorology

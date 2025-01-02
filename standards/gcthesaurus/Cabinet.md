@@ -11,7 +11,7 @@ id: 1262
 french:
   - Conseil des ministres
 relatedTerm:
-  - "[[Ministers]]"
+  - "[[Ministers 1263]]"
   - "[[Parliament]]"
 ---
 # Cabinet

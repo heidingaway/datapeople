@@ -1,8 +1,0 @@
----
-title: Leader of the opposition Leader of the Official Op
-aliases: Leader of the opposition, Leader of the Official Opposition
-tags:
-  - gccommon
-historyNote:
-  - "Leader of the Official Opposition replaces Leader "
----

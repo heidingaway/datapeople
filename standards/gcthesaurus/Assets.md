@@ -1,12 +1,14 @@
 ---
 title: Assets
+aliases:
+  - "20250101202446"
+  - Actif
+  - Assets
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2025-01-01
 tags:
   - gccommon
 id: 798
-aliases:
-  - Assets
 french:
   - Actif
 narrowerTerm:
