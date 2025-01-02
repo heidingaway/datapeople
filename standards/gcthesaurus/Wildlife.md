@@ -16,7 +16,6 @@ french:
 narrowerTerm:
   - "[[Aquatic wildlife]]"
 relatedTerm:
-  - "[[Animals]]"
   - "[[Wildlife management]]"
 scopeNote:
   - All animals living in a wild and undomesticated state.

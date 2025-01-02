@@ -9,20 +9,17 @@ aliases:
   - Preservation of the environment
   - Protection of the environment
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - gccommon
 french:
   - Protection de l'environnement
 relatedTerm:
-  - "[[Environment]]"
   - "[[Environmental hazards]]"
-  - "[[Environmental management]]"
   - "[[Environmental quality]]"
   - "[[Environmental technology]]"
   - "[[Green products]]"
   - "[[Pollution prevention]]"
-  - "[[Sustainable development]]"
 scopeNote:
   - Protection, conservation and preservation of the environment, whether natural or built.
 narrowerTerm:

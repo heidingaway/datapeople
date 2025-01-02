@@ -1,16 +1,19 @@
 ---
 title: Offshore area
+aliases:
+  - "20250102001235"
+  - Offshore area
+  - Offshore zone
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2025-01-02
 tags:
   - gccommon
 french:
-  - "[[Zone extracotiere]]"
+  - Zone extracôtière
 scopeNote:
-  - Geographic area that lies seaward of the coastline
-aliases: Offshore area
+  - Geographic area that lies seaward of the coastline.
 relatedTerm:
-  - "[[Offshore drilling]]"
   - "[[Coastal waters]]"
+  - "[[Offshore drilling]]"
 ---
 # Offshore area

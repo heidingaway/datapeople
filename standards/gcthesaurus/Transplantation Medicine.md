@@ -10,10 +10,10 @@ aliases:
   - Transplantation (Medicine)
   - Transplants
 created: 2024-12-18
-modified: 2024-12-28
-author: "[[406.01.248 Health Canada]]"
+modified: 2025-01-02
 tags:
   - gccommon
+author: "[[406.01.248 Health Canada]]"
 id: 1062
 historyNote:
   - Entered by FTC April 2003. Changes from "Transplantation" to "Transplantation (Medicine)" in May 2007 - SL.

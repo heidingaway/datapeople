@@ -1,12 +1,16 @@
 ---
 title: Marine heritage
+aliases:
+  - "20250102035959"
+  - Marine heritage
+  - Patrimoine maritime
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2025-01-02
 tags:
   - gccommon
-aliases: Marine heritage
+id: 3306
 french:
-  - "[[Patrimoine maritime]]"
+  - Patrimoine maritime
 relatedTerm:
   - "[[Marine conservation areas]]"
 ---

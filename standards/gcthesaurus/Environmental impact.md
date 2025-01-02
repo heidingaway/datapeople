@@ -5,15 +5,15 @@ aliases:
   - Environmental damages
   - Environmental effects
   - Environmental impact
+  - Impact sur l'environnement
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - gccommon
 id: 2637
 french:
   - Impact sur l'environnement
 relatedTerm:
-  - "[[Environment]]"
   - "[[Environmental accidents]]"
   - "[[Environmental hazards]]"
   - "[[Environmental impact assessment]]"

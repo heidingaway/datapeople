@@ -1,17 +1,20 @@
 ---
 title: Chemistry
+aliases:
+  - "20250101235527"
+  - Chemistry
+  - Chimie
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Chemistry
 french:
-  - "[[Chimie]]"
+  - Chimie
 narrowerTerm:
   - "[[Biochemistry]]"
   - "[[Geochemistry]]"
 relatedTerm:
-  - "[[Chemicals]]"
   - "[[Chemical industry]]"
+  - "[[Chemicals]]"
 ---
 # Chemistry

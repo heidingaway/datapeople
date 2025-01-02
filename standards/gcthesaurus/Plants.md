@@ -5,11 +5,10 @@ aliases:
   - Plants
   - Vegetation
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2025-01-02
 tags:
   - gccommon
-french:
-  - "[[Plante]]"
+french: Plante
 narrowerTerm:
   - "[[Aquatic plants]]"
   - "[[Medicinal plants]]"

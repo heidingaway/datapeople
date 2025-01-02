@@ -13,7 +13,6 @@ french:
   - Biomasse
 relatedTerm:
   - "[[Bioenergy]]"
-  - "[[Ecosystems]]"
 scopeNote:
   - The total mass of living matter in a given unit area or volume.
 ---

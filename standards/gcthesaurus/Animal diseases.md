@@ -3,15 +3,12 @@ title: Animal diseases
 aliases:
   - Animal diseases
 created: 2024-12-18
-modified: 2024-12-29
+modified: 2025-01-02
 tags:
   - gccommon
 french:
   - Maladie animale
 relatedTerm:
-  - "[[Animal health]]"
-  - "[[Animals]]"
-  - "[[Veterinary drugs]]"
-  - "[[Veterinary medicine]]"
+  - "[[Veterinary drugs|Veterinary drugs]]"
 ---
 # Animal diseases

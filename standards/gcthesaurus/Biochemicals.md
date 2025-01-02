@@ -17,7 +17,6 @@ id: 1034
 french:
   - Produit biochimique
 relatedTerm:
-  - "[[Biochemistry]]"
   - "[[Biological products]]"
 ---
 # Biochemicals

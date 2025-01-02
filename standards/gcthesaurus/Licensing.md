@@ -1,15 +1,19 @@
 ---
 title: Licensing
+aliases:
+  - "2025010203016"
+  - Attribution de permis
+  - Licencing
+  - Licensing
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2025-01-02
 tags:
   - gccommon
+id: 1408
 french:
-  - "[[Attribution de permis]]"
-aliases: Licensing
+  - Attribution de permis
 relatedTerm:
-  - "[[Regulation]]"
-  - "[[Permits]]"
   - "[[Certification]]"
+  - "[[Regulation]]"
 ---
 # Licensing

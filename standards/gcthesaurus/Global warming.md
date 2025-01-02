@@ -14,7 +14,6 @@ id: 1531
 french:
   - Réchauffement de la planète
 relatedTerm:
-  - "[[Environmental impact]]"
   - "[[Greenhouse effect]]"
 ---
 # Global warming

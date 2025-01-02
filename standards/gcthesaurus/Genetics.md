@@ -1,16 +1,20 @@
 ---
 title: Genetics
+aliases:
+  - "20250101234054"
+  - Genetics
+  - Génétique
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Genetics
+id: 1076 
 french:
-  - "[[Genetique]]"
+  - Génétique
 narrowerTerm:
   - "[[Genomics]]"
 relatedTerm:
-  - "[[Heredity]]"
   - "[[Genetic engineering]]"
+  - "[[Heredity]]"
 ---
 # Genetics

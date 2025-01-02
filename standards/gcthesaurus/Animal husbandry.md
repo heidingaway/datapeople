@@ -17,7 +17,6 @@ narrowerTerm:
 relatedTerm:
   - "[[Agriculture]]"
   - "[[Animal reproduction]]"
-  - "[[Animals]]"
   - "[[Furs]]"
   - "[[Grasslands]]"
   - "[[Livestock]]"

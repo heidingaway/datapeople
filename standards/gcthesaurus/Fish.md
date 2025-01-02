@@ -1,19 +1,22 @@
 ---
 title: Fish
+aliases:
+  - "20250102024237"
+  - Fish
+  - Poisson
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2025-01-02
 tags:
   - gccommon
-aliases: Fish
+id: 655
 french:
-  - "[[Poisson]]"
+  - Poisson
 narrowerTerm:
   - "[[Freshwater fish]]"
   - "[[Salt water fish]]"
 relatedTerm:
   - "[[Fish farming]]"
+  - "[[Fisheries]]"
   - "[[Ichthyology]]"
-  - "[[Fisheries resources]]"
-  - "[[Fisheries products]]"
 ---
 # Fish

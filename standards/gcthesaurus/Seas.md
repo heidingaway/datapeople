@@ -8,8 +8,7 @@ modified: 2024-12-27
 tags:
   - gccommon
 id: 1569
-french:
-  - Mer
+french: Mer
 relatedTerm:
   - "[[Coastal waters]]"
   - "[[Coasts]]"

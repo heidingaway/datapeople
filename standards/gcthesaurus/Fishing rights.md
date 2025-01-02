@@ -1,15 +1,17 @@
 ---
 title: Fishing rights
+aliases:
+  - "20250102025524"
+  - Droits de pêche
+  - Fishing rights
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2025-01-02
 tags:
   - gccommon
-aliases: Fishing rights
+id: 2895
 french:
-  - "[[Droits de peche]]"
+  - Droits de pêche
 relatedTerm:
   - "[[Fishing permits]]"
-  - "[[Fishing area]]"
-  - "[[Fisheries]]"
 ---
 # Fishing rights

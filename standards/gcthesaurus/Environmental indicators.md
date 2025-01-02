@@ -1,15 +1,14 @@
 ---
 title: Environmental indicators
+aliases:
+  - "20250101231641"
+  - Environmental indicators
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Environmental indicators
+id: 2638
 french:
-  - "[[Indicateur environnemental]]"
-relatedTerm:
-  - "[[Environmental management]]"
-  - "[[Environmental impact assessment]]"
-  - "[[Environment]]"
+  - Indicateur environnemental
 ---
 # Environmental indicators

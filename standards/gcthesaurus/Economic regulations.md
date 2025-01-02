@@ -1,11 +1,15 @@
 ---
 title: Economic regulations
+aliases:
+  - "20250102031747"
+  - Economic regulations
+  - Réglementation en matière d'économie
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2025-01-02
 tags:
   - gccommon
-aliases: Economic regulations
+id: 2395
 french:
-  - "[[Reglementation en matiere deconomie]]"
+  - Réglementation en matière d'économie
 ---
 # Economic regulations

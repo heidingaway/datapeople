@@ -14,7 +14,6 @@ tags:
 id: 546
 french: Alimentation animale
 relatedTerm:
-  - "[[Animals]]"
   - "[[Forage crops]]"
 ---
 # Animal nutrition

@@ -1,15 +1,18 @@
 ---
 title: Safety regulations
+aliases:
+  - "20250102031854"
+  - Réglementation en matière de sécurité
+  - Safety regulations
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2025-01-02
 tags:
   - gccommon
-aliases: Safety regulations
 french:
-  - "[[Reglementation en matiere de securite]]"
+  - Réglementation en matière de sécurité
 relatedTerm:
-  - "[[Safety standards]]"
   - "[[Safety measures]]"
+  - "[[Safety standards]]"
   - "[[Safety]]"
 ---
 # Safety regulations

@@ -12,8 +12,6 @@ id: 3242
 french:
   - Recherche médicale
 relatedTerm:
-  - "[[Health]]"
   - "[[Medical technology]]"
-  - "[[Medicine]]"
 ---
 # Medical research

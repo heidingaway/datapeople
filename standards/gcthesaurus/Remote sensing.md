@@ -3,6 +3,7 @@ title: Remote sensing
 aliases:
   - "20241230180426"
   - Remote sensing
+  - Télédétection
 created: 2024-12-18
 modified: 2024-12-30
 source: "[[406.01.254 Natural Resources Canada|NRCan]]"

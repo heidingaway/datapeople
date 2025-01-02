@@ -1,17 +1,18 @@
 ---
 title: Childrens health
+aliases:
+  - Children's health
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2025-01-02
 tags:
   - gccommon
-aliases: Children's health
+id: 1450
 french:
-  - "[[Sante de lenfant]]"
+  - Santé de l'enfant
 relatedTerm:
+  - "[[Child development]]"
+  - "[[Child safety]]"
   - "[[Childhood diseases]]"
   - "[[Children]]"
-  - "[[Child safety]]"
-  - "[[Child development]]"
-  - "[[Child care]]"
 ---
 # Childrens health

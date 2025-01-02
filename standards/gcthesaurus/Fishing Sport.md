@@ -7,13 +7,11 @@ aliases:
   - Recreational fishing
   - Sport fishing
 created: 2024-12-18
-modified: 2024-12-31
+modified: 2025-01-02
 tags:
   - gccommon
 id: 2905
 french:
   - Pêche sportive
-relatedTerm:
-  - "[[Fishing permits]]"
 ---
 # Fishing Sport

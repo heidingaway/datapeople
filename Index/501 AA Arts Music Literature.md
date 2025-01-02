@@ -3,7 +3,7 @@ title: 501 AA Arts Music Literature
 aliases:
   - "2024123100421"
 created: 2024-12-17
-modified: 2024-12-31
+modified: 2025-01-02
 tags:
   - gccommon
 same: "[[402 CreativeWork]]"
@@ -12,10 +12,6 @@ class:
   - "[[Architectural heritage]]"
   - "[[Architectural services]]"
   - "[[Architecture]]"
-  - "[[Art exhibitions]]"
-  - "[[Art galleries]]"
-  - "[[Art works]]"
-  - "[[Artists]]"
   - "[[Arts]]"
   - "[[Authors]]"
   - "[[Biographies]]"

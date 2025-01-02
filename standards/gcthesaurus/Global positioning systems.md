@@ -15,6 +15,5 @@ french:
   - Système de positionnement global
 relatedTerm:
   - "[[Geography]]"
-  - "[[Satellites]]"
 ---
 # Global positioning systems

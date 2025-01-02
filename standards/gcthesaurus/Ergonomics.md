@@ -1,14 +1,13 @@
 ---
 title: Ergonomics
+aliases:
+  - "20250102031531"
+  - Ergonomics
 created: 2024-12-18
-modified: 2024-12-24
+modified: 2025-01-02
 tags:
   - gccommon
-aliases:
-  - Ergonomics
 id: 2707
-relatedTerm:
-  - "[[Work organization]]"
 french:
   - Ergonomie
 ---

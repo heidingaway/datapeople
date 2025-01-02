@@ -12,7 +12,6 @@ id: 700
 french:
   - Patrimoine architectural
 relatedTerm:
-  - "[[Architecture]]"
   - "[[Heritage buildings]]"
 ---
 # Architectural heritage

@@ -15,7 +15,5 @@ french:
   - Chasse sportive
 relatedTerm:
   - "[[Hunting permits]]"
-  - "[[Outdoor recreation]]"
-  - "[[Outfitters]]"
 ---
 # Hunting Sport

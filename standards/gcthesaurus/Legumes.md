@@ -1,12 +1,12 @@
 ---
 title: Legumes
+aliases:
+  - Legumes
+created: 2024-12-18
+modified: 2025-01-02
 tags:
   - gccommon
-french:
-  - "[[Legumineuse]]"
-narrowerTerm:
-  - "[[Beans]]"
-  - "[[Lentils]]"
-  - "[[Peas]]"
-aliases: Legumes
+french: [Légumineuse]
+narrowerTerm: ["[[Beans]]", "[[Lentils]]", "[[Peas]]"]
 ---
+# Legumes

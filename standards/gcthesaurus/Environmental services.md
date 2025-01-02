@@ -1,15 +1,15 @@
 ---
 title: Environmental services
+aliases:
+  - "20250101232317"
+  - Environmental services
+  - Services environnementaux
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Environmental services
+id: 2642
 french:
-  - "[[Services environnementaux]]"
-relatedTerm:
-  - "[[Environmental management]]"
-  - "[[Environmental economics]]"
-  - "[[Environment]]"
+  - Services environnementaux
 ---
 # Environmental services

@@ -49,7 +49,6 @@ class:
   - "[[COVID-19 virus disease]]"
   - "[[Deafness]]"
   - "[[Degenerative diseases]]"
-  - "[[Dental insurance]]"
   - "[[Diabetes]]"
   - "[[2162 Disabilities]]"
   - "[[Disaster relief]]"

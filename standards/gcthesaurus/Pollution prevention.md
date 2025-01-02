@@ -13,7 +13,6 @@ french:
 relatedTerm:
   - "[[Alternative energy]]"
   - "[[Clean technology]]"
-  - "[[Environmental protection]]"
   - "[[Pollution control]]"
   - "[[Pollution]]"
 scopeNote:

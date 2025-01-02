@@ -1,12 +1,15 @@
 ---
 title: Geomorphology
+aliases:
+  - "2025010123596"
+  - Géomorphologie
+  - Geomorphology
 created: 2024-12-18
-modified: 2024-12-22
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Geomorphology
 french:
-  - "[[Geomorphologie]]"
+  - Géomorphologie
 relatedTerm:
   - "[[Surficial geology]]"
 scopeNote:

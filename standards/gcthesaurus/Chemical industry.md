@@ -1,19 +1,20 @@
 ---
 title: Chemical industry
+aliases:
+  - "20250101235436"
+  - Chemical industry
+  - Industrie chimique
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Chemical industry
+id: 1428
 french:
-  - "[[Industrie chimique]]"
+  - Industrie chimique
 narrowerTerm:
   - "[[Pharmaceutical industry]]"
   - "[[Plastics industry]]"
 scopeNote:
-  - An economic activity dedicated to the manufacturin
-relatedTerm:
-  - "[[Chemistry]]"
-  - "[[Chemicals]]"
+  - An economic activity dedicated to the manufacturing and production of chemicals, petrochemicals, agrochemicals, pharmaceuticals, polymers, paints, etc.
 ---
 # Chemical industry

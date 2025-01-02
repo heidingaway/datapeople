@@ -1,7 +1,12 @@
 ---
 title: Aquatic animals
+aliases:
+  - "20250102024033"
+  - Freshwater animals
+  - Marine animals
+  - Water animals
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2025-01-02
 tags:
   - gccommon
 id: 497
@@ -20,9 +25,5 @@ relatedTerm:
   - "[[Aquariums]]"
   - "[[Aquatic wildlife]]"
   - "[[Molluscs]]"
-aliases:
-  - Freshwater animals
-  - Marine animals
-  - Water animals
 ---
 # Aquatic animals

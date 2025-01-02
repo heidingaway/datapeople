@@ -1,38 +1,37 @@
 ---
 title: Environment
+aliases:
+  - "20250101232013"
+  - Environment
+  - Environnement
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Environment
 french:
-  - "[[Environnement]]"
+  - Environnement
 narrowerTerm:
   - "[[Rural environment]]"
   - "[[Urban environment]]"
 relatedTerm:
-  - "[[Environmental adaptation]]"
-  - "[[Environmental education]]"
-  - "[[Habitats]]"
-  - "[[Habitats]]"
-  - "[[Environmental standards]]"
-  - "[[Environmental services]]"
-  - "[[Environmental sciences]]"
-  - "[[Environmental quality]]"
-  - "[[Environmental protection]]"
-  - "[[Environmental programs]]"
-  - "[[Environmental policy]]"
-  - "[[Environmental indicators]]"
-  - "[[Environmental impact]]"
-  - "[[Environmental emergencies]]"
-  - "[[Environmental education]]"
-  - "[[Environmental economics]]"
-  - "[[Environmental agreements]]"
-  - "[[Environmental adaptation]]"
-  - "[[Environmental accidents]]"
   - "[[Ecosystems]]"
-  - "[[Ecology]]"
+  - "[[Environmental accidents]]"
+  - "[[Environmental adaptation]]"
+  - "[[Environmental agreements]]"
+  - "[[Environmental economics]]"
+  - "[[Environmental education]]"
+  - "[[Environmental emergencies]]"
+  - "[[Environmental impact]]"
+  - "[[Environmental indicators]]"
+  - "[[Environmental policy]]"
+  - "[[Environmental programs]]"
+  - "[[Environmental protection]]"
+  - "[[Environmental quality]]"
+  - "[[Environmental sciences]]"
+  - "[[Environmental services]]"
+  - "[[Environmental standards]]"
+  - "[[Habitats]]"
 scopeNote:
-  - "All the natural and cultural conditions affecting "
+  - All the natural and cultural conditions affecting the life of a living organism.
 ---
 # Environment

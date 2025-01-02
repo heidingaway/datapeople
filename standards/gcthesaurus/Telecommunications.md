@@ -1,10 +1,11 @@
 ---
 title: Telecommunications
 aliases:
+  - "20250101233427"
   - Broadband communications
   - Communications technologies
 created: 2024-12-18
-modified: 2024-12-25
+modified: 2025-01-01
 tags:
   - gccommon
 id: 1160
@@ -17,7 +18,6 @@ relatedTerm:
   - "[[Computer networks]]"
   - "[[Information technology]]"
   - "[[Personal digital assistant]]"
-  - "[[Satellites]]"
   - "[[Spectrum management]]"
   - "[[Telecommunications networks]]"
   - "[[Telecommunications policy]]"

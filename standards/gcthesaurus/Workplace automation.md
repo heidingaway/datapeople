@@ -14,6 +14,5 @@ french:
 relatedTerm:
   - "[[Office automation]]"
   - "[[Telework]]"
-  - "[[Work organization]]"
 ---
 # Workplace automation

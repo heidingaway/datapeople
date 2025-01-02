@@ -25,52 +25,55 @@
             }
           },
           {
-            "id": "0b1921768086fb75",
+            "id": "c8a8b7e583487f7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "standards/gcthesaurus/Watercourses.md",
+                "file": "standards/gcthesaurus/Film industry.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Watercourses"
+              "title": "Film industry"
             }
           },
           {
-            "id": "ddeea2dff8b2fca9",
+            "id": "de379afc0813a2be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "broken links output.md",
+                "file": "standards/gcthesaurus/National parks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "broken links output"
-            }
-          },
-          {
-            "id": "f7d76fb755f57624",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "standards/gcthesaurus/Governments.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Governments"
+              "title": "National parks"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
+      },
+      {
+        "id": "4520bf600cc1f8c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6de8292fc253b77c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "standards/gcthesaurus/Governments.md",
+                "file": "standards/gcthesaurus/Film industry.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Governments"
+              "title": "Backlinks for Film industry"
             }
           },
           {
@@ -194,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "standards/gcthesaurus/Governments.md",
+                "file": "standards/gcthesaurus/Film industry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Governments"
+              "title": "Outgoing links from Film industry"
             }
           },
           {
@@ -208,30 +211,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "standards/gcthesaurus/Governments.md"
+                "file": "standards/gcthesaurus/Film industry.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Governments"
-            }
-          },
-          {
-            "id": "f59e7709d4b2b7ce",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
-            }
-          },
-          {
-            "id": "9fba7944f4843997",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
+              "title": "Outline of Film industry"
             }
           },
           {
@@ -247,12 +230,33 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "faa614a8e493db2f",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "54a852140255a989",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,34 +279,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f7d76fb755f57624",
+  "active": "c8a8b7e583487f7e",
   "lastOpenFiles": [
-    "standards/gcthesaurus/Self government.md",
-    "standards/gcthesaurus/Governments.md",
-    "standards/gcthesaurus/Government information.md",
-    "standards/gcthesaurus/Intergovernmental relations.md",
-    "standards/gcthesaurus/Interprovincial relations.md",
-    "standards/gcthesaurus/Provinces.md",
-    "standards/gcthesaurus/Provincial governments.md",
-    "standards/gcthesaurus/Western provinces.md",
-    "broken links output.md",
-    "standards/gcthesaurus/Watercourses.md",
-    "standards/gcthesaurus/Inland waters.md",
-    "standards/gcthesaurus/Lakes.md",
-    "standards/gcthesaurus/Waterways.md",
-    "standards/gcthesaurus/Estuaries.md",
-    "standards/gcthesaurus/Water transport.md",
-    "standards/gcthesaurus/Water transport industry.md",
-    "standards/gcthesaurus/Commercial ships.md",
-    "standards/gcthesaurus/Harbours.md",
-    "standards/gcthesaurus/Navigation.md",
-    "standards/gcthesaurus/Navigation systems.md",
-    "standards/gcthesaurus/Marine safety.md",
-    "standards/gcthesaurus/Transportation safety.md",
-    "standards/gcthesaurus/Lighthouses.md",
-    "standards/gcthesaurus/Marine safety equipment.md",
-    "standards/gcthesaurus/Equipment.md",
-    "Home.md",
+    "standards/gcthesaurus/Cinema.md",
+    "Index/501 AA Arts Music Literature.md",
+    "standards/gcthesaurus/Arts.md",
+    "standards/gcthesaurus/Artists.md",
+    "Index/501 Government of Canada Core Subject Thesaurus.md",
+    "standards/gcthesaurus/Culture.md",
+    "standards/gcthesaurus/Literature.md",
+    "standards/gcthesaurus/Sculpture.md",
+    "Index/402.10 Sculpture.md",
+    "standards/gcthesaurus/Visual arts.md",
+    "standards/gcthesaurus/Photography.md",
+    "standards/gcthesaurus/Painting.md",
+    "standards/gcthesaurus/Graphic arts.md",
+    "standards/gcthesaurus/Decorative arts.md",
+    "standards/gcthesaurus/Performing arts.md",
+    "standards/gcthesaurus/Folk art.md",
+    "Index/402 CreativeWork.md",
+    "standards/gcthesaurus/Technical writing.md",
+    "standards/gcthesaurus/Writing.md",
+    "standards/gcthesaurus/Legislative writing.md",
+    "standards/gcthesaurus/Administrative writing.md",
+    "standards/gcthesaurus/Authors.md",
+    "standards/gcthesaurus/Childrens literature.md",
+    "standards/gcthesaurus/Poetry.md",
+    "standards/gcthesaurus/Childrens books.md",
+    "standards/gcthesaurus/Canadian literature.md",
     "Clippings",
     "standards/dates",
     "standards/Bank of Canada",

@@ -15,7 +15,6 @@ id: 789
 french:
   - Évaluation environnementale
 relatedTerm:
-  - "[[Environmental impact]]"
   - "[[Environmental indicators]]"
   - "[[Impact studies]]"
 scopeNote:

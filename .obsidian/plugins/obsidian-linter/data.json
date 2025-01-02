@@ -25,8 +25,8 @@
       "enabled": true,
       "alias-key": true,
       "tag-key": true,
-      "default-array-style": "single-line",
-      "default-array-keys": false,
+      "default-array-style": "multi-line",
+      "default-array-keys": true,
       "force-single-line-array-style": "",
       "force-multi-line-array-style": ""
     },

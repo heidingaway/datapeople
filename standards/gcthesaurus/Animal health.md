@@ -3,15 +3,14 @@ title: Animal health
 aliases:
   - "20241229214021"
   - Animal health
+  - Health of animals
+  - Santé animale
 created: 2024-12-18
-modified: 2024-12-29
+modified: 2025-01-02
 tags:
   - gccommon
+id: 521
 french:
-  - Sante animale
-relatedTerm:
-  - "[[Animal diseases]]"
-  - "[[Animals]]"
-  - "[[Veterinary medicine]]"
+  - Santé animale
 ---
 # Animal health

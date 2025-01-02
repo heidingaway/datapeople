@@ -7,7 +7,7 @@ modified: 2024-12-25
 tags:
   - gccommon
 french:
-  - "[[Culture]]"
+  - Culture
 narrowerTerm:
   - "[[Indigenous culture]]"
   - "[[Popular culture]]"

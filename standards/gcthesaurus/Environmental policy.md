@@ -1,18 +1,19 @@
 ---
 title: Environmental policy
+aliases:
+  - "20250101231720"
+  - Environmental policy
+  - Politique environnementale
 created: 2024-12-18
-modified: 2024-12-18
+modified: 2025-01-01
 tags:
   - gccommon
-aliases: Environmental policy
 french:
-  - "[[Politique environnementale]]"
+  - Politique environnementale
 relatedTerm:
-  - "[[Environmental law]]"
-  - "[[Environmental policy]]"
-  - "[[Environment]]"
-  - "[[Environmental programs]]"
-  - "[[Environmental management]]"
   - "[[Environmental agreements]]"
+  - "[[Environmental law]]"
+  - "[[Environmental management]]"
+  - "[[Environmental programs]]"
 ---
 # Environmental policy

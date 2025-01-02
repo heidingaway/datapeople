@@ -1,8 +1,15 @@
 ---
 title: Canadian literature
-aliases: Canadian literature
+aliases:
+  - "20250102040651"
+  - Canadian literature
+  - Littérature canadienne
+created: 2024-12-18
+modified: 2025-01-02
 tags:
-  - gccommon
+  - gccommon/SO
+id: 1290
 french:
-  - "[[Litterature canadienne]]"
+  - Littérature canadienne
 ---
+# Canadian literature

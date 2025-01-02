@@ -1,14 +1,16 @@
 ---
 title: Fishing permits
+aliases:
+  - "20250102025614"
+  - Fishing permits
+  - Permis de pêche
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2025-01-02
 tags:
   - gccommon
-aliases: Fishing permits
 french:
-  - "[[Permis de peche]]"
+  - Permis de pêche
 relatedTerm:
-  - "[[Fishing rights]]"
   - "[[Fishing Sport]]"
 ---
 # Fishing permits

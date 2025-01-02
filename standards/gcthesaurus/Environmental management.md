@@ -8,9 +8,10 @@ aliases:
   - Environmental monitoring
   - Environmental planning
   - Environmental surveillance
+  - Gestion de l'environnement
   - Recovery plans (Environment)
 created: 2024-12-18
-modified: 2024-12-30
+modified: 2025-01-01
 tags:
   - gccommon
 id: 2354
@@ -26,7 +27,6 @@ narrowerTerm:
   - "[[Wildlife management]]"
 relatedTerm:
   - "[[Environmental indicators]]"
-  - "[[Environmental policy]]"
   - "[[Environmental protection]]"
   - "[[Environmental services]]"
   - "[[Sustainable development]]"

@@ -4,11 +4,10 @@ aliases:
   - "20241227175047"
   - Beef cattle
 created: 2024-12-18
-modified: 2024-12-27
+modified: 2025-01-02
 tags:
   - gccommon
 id: 972
-french:
-  - Bovins de boucherie
+french: [Bovins de boucherie]
 ---
 # Beef cattle

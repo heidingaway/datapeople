@@ -1,12 +1,14 @@
 ---
 title: Mental health
+aliases:
+  - Mental health
 created: 2024-12-18
-modified: 2024-12-21
+modified: 2025-01-02
 tags:
   - gccommon
-aliases: Mental health
+id: 3235 
 french:
-  - "[[Sante mentale]]"
+  - Santé mentale
 relatedTerm:
   - "[[Intellectual disabilities]]"
 ---

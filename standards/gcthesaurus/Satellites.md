@@ -1,16 +1,21 @@
 ---
 title: Satellites
+aliases:
+  - "20250101233335"
+  - Communications satellites
+  - Satellite
+  - Satellites
 created: 2024-12-18
-modified: 2024-12-23
+modified: 2025-01-01
 tags:
   - gccommon
+id: 1668
 french:
-  - "[[Satellite]]"
-aliases: Satellites
+  - Satellite
 relatedTerm:
-  - "[[Telecommunications]]"
-  - "[[Remote sensing]]"
-  - "[[Global positioning systems]]"
   - "[[Global navigation satellite systems]]"
+  - "[[Global positioning systems]]"
+  - "[[Remote sensing]]"
+  - "[[Telecommunications]]"
 ---
 # Satellites

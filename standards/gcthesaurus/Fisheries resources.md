@@ -14,8 +14,6 @@ french:
   - Ressources halieutiques
 relatedTerm:
   - "[[Crustaceans]]"
-  - "[[Fish]]"
-  - "[[Fisheries]]"
   - "[[Fishing ships]]"
   - "[[Marine equipment]]"
   - "[[Molluscs]]"
